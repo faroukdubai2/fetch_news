@@ -1,0 +1,25 @@
+[
+  {
+    "function": "get_top_news",
+    "language": "en",
+    "country": "US",
+    "max_results": 99,
+    "filename": "usa_top_news.json"
+  },
+  {
+    "function": "get_news_by_topic",
+    "topic": "WORLD",
+    "language": "en",
+    "country": "US",
+    "max_results": 99,
+    "filename": "usa_world_news.json"
+  },
+  {
+    "function": "get_news_by_topic",
+    "topic": "TECHNOLOGY",
+    "language": "en",
+    "country": "US",
+    "max_results": 99,
+    "filename": "usa_tech_news.json"
+  }
+]
