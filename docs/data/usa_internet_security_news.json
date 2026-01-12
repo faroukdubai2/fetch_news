@@ -10,6 +10,16 @@
     }
   },
   {
+    "title": "Research: Conventional Cybersecurity Won’t Protect Your AI - Harvard Business Review",
+    "description": "Research: Conventional Cybersecurity Won’t Protect Your AI  Harvard Business ReviewFrom SBOM to AI BOM: Rethinking supply chain security for AI native software  SD TimesGenerative AI in Enterprises: Security Risks Most Companies Are Not Measuring  Security BoulevardAI Adoption Leaves Cloud Security Struggling To Keep Up, Report Finds  BusinessToday MalaysiaHow FOMO Is Turning AI Into a Cybersecurity Nightmare  inc.com",
+    "published date": "Fri, 09 Jan 2026 13:28:35 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX3BETVByQ1hjaG1BMUxPS0VaclVCaXZfZlJLMzU0dm5FUmxMdHZxTnNpYVVFNXBXcE91U1BfTG04dnVhWnl5aG45ekFSb0ZUOVI4aXRLaGZ4bTlqR0JZVWFUR0hBZl9YUi1mT1JsYU5ITHRVVFUyZVF0MGdLTDZRcDhyMW9aSktyUTRn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://hbr.org",
+      "title": "Harvard Business Review"
+    }
+  },
+  {
     "title": "MuddyWater Launches RustyWater RAT via Spear-Phishing Across Middle East Sectors - The Hacker News",
     "description": "MuddyWater Launches RustyWater RAT via Spear-Phishing Across Middle East Sectors  The Hacker NewsCloudSEK warns Muddy Water APT using Rust implants in spearphishing on Middle East critical infrastructure  Industrial CyberMuddyWater APT Delivers “RustyWater” Through Weaponized Word Documents  gbhackers.com",
     "published date": "Sat, 10 Jan 2026 10:35:00 GMT",
@@ -60,18 +70,8 @@
     }
   },
   {
-    "title": "Exploit for VMware Zero-Day Flaws Likely Built a Year Before Public Disclosure - SecurityWeek",
-    "description": "Exploit for VMware Zero-Day Flaws Likely Built a Year Before Public Disclosure  SecurityWeekChina-Linked Hackers Exploit VMware ESXi Zero-Days to Escape Virtual Machines  The Hacker NewsChina-linked cybercrims abused VMware ESXi zero-days a year before disclosure  theregister.comChinese-speaking hackers exploited ESXi zero-days long before disclosure  Security AffairsMAESTRO Toolkit Exploiting VMware VM Escape Vulnerabilities  Hackread",
-    "published date": "Fri, 09 Jan 2026 11:34:47 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZUZTZ2kydGZseHQ2cFJUdFlGTk5WWkNfRmd6cTUwT0JZUC1pM25qRzU3djdyWDVPLUxmZk5HSll1Z3JZVzJtQ0hEd19abU8zbEJ2UHpidXFNVUFrNGNuODVRdVVfb0V3X2tmTnhpbWwxT1NNNHI0UkhTdzRPNmtkSGtsSFU5OHFmQTlBRlIteVIwT2FrVUZqbUtDMVF3ZU00b09GS2x6YmhrTlBp0gGyAUFVX3lxTE5VYTRSSzZYdk5rRWU4M3lfOTFEb01ZZ3dOWG5hNkFRczB4SmE2bElDdG56YzBoZDlsSHR0WlozZmtwVzFuSVFlRDNoc0dXWnE4QWw1cmpJSUt5eUFaV2VuczdhTWNiU2VXMjVDSmhvMWFSQXg2Y2pDZW1Vc0QwVi1vNU9WTWJBQkhBVHg2VDQyLVozNl9lUEZSWjlPYXB4d21vaXhQWHh6dzNKWEgwaGttYmc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.securityweek.com",
-      "title": "SecurityWeek"
-    }
-  },
-  {
     "title": "Russian APT28 Runs Credential-Stealing Campaign Targeting Energy and Policy Organizations - The Hacker News",
-    "description": "Russian APT28 Runs Credential-Stealing Campaign Targeting Energy and Policy Organizations  The Hacker NewsRussia’s Fancy Bear APT Doubles Down on Global Secrets Theft  Dark ReadingBlueDelta Hackers Attacking Microsoft OWA, Google, and Sophos VPN Users to Steal Logins  Cyber Security News",
+    "description": "Russian APT28 Runs Credential-Stealing Campaign Targeting Energy and Policy Organizations  The Hacker NewsRussia’s Fancy Bear APT Doubles Down on Global Secrets Theft  Dark ReadingAPT28 Hackers Launch Global Phishing Campaign Across Europe, Americas, and Asia  Maritime FairtradeBlueDelta Hackers Attacking Microsoft OWA, Google, and Sophos VPN Users to Steal Logins  Cyber Security News",
     "published date": "Fri, 09 Jan 2026 15:28:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV1NjWmNOdFBJU0dEQ1Y5UlJxUXc2bUpqUlRoWHh2blh2bm5jc3hrUGEtTmVXOUM4cHZROWdwMXhYa0c4MlZVTXJvcGJnZzJkV3Byanp4ZEdtRVZRLUctYVNEV0FIYk00UFZHT241RFowdUI3eHVjalJDb2Y5UzlmaTNqOA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -117,16 +117,6 @@
     "publisher": {
       "href": "https://mashable.com",
       "title": "Mashable"
-    }
-  },
-  {
-    "title": "The New Reality of Cyber Risk for Small Businesses - Yahoo Finance",
-    "description": "The New Reality of Cyber Risk for Small Businesses  Yahoo FinanceCybersecurity Predictions 2026: The Hype We Can Ignore (And the Risks We Can't)  The Hacker NewsCloudy Outlook for Cyber Jobs as AI Fills Security Gaps  The Wall Street JournalCrystal Ball: What 2026 holds for cybersecurity, healthcare, robotics, and more  Fortune",
-    "published date": "Thu, 08 Jan 2026 14:05:52 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWGNxMk9tTFdZcEw1dkZpYWZKMTRXczhpN0xxXzlpWUdiUndIZDNXRXB4QVlZN3ZtWTNhc0Q5NHBKNGxadFlwYUdKTnl3OTYtbW9xOTZsVzZZMnNaVUllWm16X25jeUFyXzNBN2FqdjVLRmxUdTYwLXA5VEFKNjc4cjkwUzM1ZkphbnA4TWVUN21BU3RSRF9jc3hxOXM?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://finance.yahoo.com",
-      "title": "Yahoo Finance"
     }
   },
   {
@@ -180,16 +170,6 @@
     }
   },
   {
-    "title": "Did My Instagram Just Get Hacked? Social Network Responds to Data Breach Concerns With Statement - Just Jared",
-    "description": "Did My Instagram Just Get Hacked? Social Network Responds to Data Breach Concerns With Statement  Just JaredInstagram says accounts 'are secure' after wave of suspicious password reset requests  EngadgetInstagram says there’s been ‘no breach’ despite password reset requests  TechCrunchInstagram says it fixed the issue that let someone send all those password reset emails  The Verge17.5 Million Instagram Accounts Exposed in Major Data Leak  Cyber Press",
-    "published date": "Sun, 11 Jan 2026 19:12:30 GMT",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUVFXU0g3UVp4NGltclpVRFdTUGNsZHVOZDBrTTZLYnhZa3d1UkZvQ0dRWlo4R0JuTUNGZ3ZnZHZNR1l1bUhOUUJ0RlIzZUtKamRKeUczNVo1S2tZeGljTXQ1NWd0aHAzd2VZdE0yTEo5LU9GYmRqeUIzMG43aFFnZmw4MGhKRC1uUS05UWdGLTZIdDFadXJYdUVRUVIzSXllZ0VIRFRzbG85RjVYdE1zbDh4c2F2eGtaeHZSelllUzVwZFhWSjJyakhhWWlyQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.justjared.com",
-      "title": "Just Jared"
-    }
-  },
-  {
     "title": "Unpatched Firmware Flaw Exposes TOTOLINK EX200 to Full Remote Device Takeover - The Hacker News",
     "description": "Unpatched Firmware Flaw Exposes TOTOLINK EX200 to Full Remote Device Takeover  The Hacker NewsTOTOLINK EX200 Extender Vulnerability Allows Attackers to Gain Full System Access  Cyber PressUnpatched flaw in TOTOLINK EX200 extender allows remote control  SC MediaCERT/CC warns of critical, unfixed vulnerability in TOTOLINK EX200  Security AffairsTOTOLINK EX200 Extender Vulnerability Allow Attacker to Gain Full System Access  Cyber Security News",
     "published date": "Tue, 06 Jan 2026 15:47:00 GMT",
@@ -200,6 +180,26 @@
     }
   },
   {
+    "title": "Did My Instagram Just Get Hacked? Social Network Responds to Data Breach Concerns With Statement - Just Jared",
+    "description": "Did My Instagram Just Get Hacked? Social Network Responds to Data Breach Concerns With Statement  Just JaredInstagram says accounts 'are secure' after wave of suspicious password reset requests  EngadgetInstagram says it fixed the issue that let someone send all those password reset emails  The Verge17.5 Million Instagram Accounts Exposed in Major Data Leak  Cyber PressBeware Instagram reset password scams that users report are on the rise  Mashable",
+    "published date": "Sun, 11 Jan 2026 19:12:30 GMT",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUVFXU0g3UVp4NGltclpVRFdTUGNsZHVOZDBrTTZLYnhZa3d1UkZvQ0dRWlo4R0JuTUNGZ3ZnZHZNR1l1bUhOUUJ0RlIzZUtKamRKeUczNVo1S2tZeGljTXQ1NWd0aHAzd2VZdE0yTEo5LU9GYmRqeUIzMG43aFFnZmw4MGhKRC1uUS05UWdGLTZIdDFadXJYdUVRUVIzSXllZ0VIRFRzbG85RjVYdE1zbDh4c2F2eGtaeHZSelllUzVwZFhWSjJyakhhWWlyQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.justjared.com",
+      "title": "Just Jared"
+    }
+  },
+  {
+    "title": "Meity working with stakeholders on mobile security; assures to address industrys legitimate concerns - Mint",
+    "description": "Meity working with stakeholders on mobile security; assures to address industrys legitimate concerns  MintExclusive: India proposes forcing smartphone makers to give source code in security overhaul  ReutersIndia wants iOS source code, and they're not going to get it  AppleInsiderApple and Samsung Oppose India’s Smartphone Source Code-Sharing Rule  PYMNTS.comCentre refutes report of demanding source code from phone makers  Deccan Herald",
+    "published date": "Sun, 11 Jan 2026 18:13:40 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRi1HdlhmSmpTb05jX3JXRXB3bUx1dEcwdTZrRHF6bnBXdVd2clJXMzJ2WXZ5RVdFeW5LNW5seERpR19hckxCOXdIYzcza1dJQjVmVDk5S0dfalQ1c2pVOWxRWHRmdXVlY1Z5bUh0cWJhV0hudkNfZXVyS1VtRVk4QVZUc2I1a2Q1VEN0bjdETWtkNU5EZXp5Wi1CdHZ0TjY3c3UyM1pqbUQtZVNSY2l6QlN0SkQwNGpKYXkyR0hCQWZrbjloTWFKM2RTMWVUWW5KVVl1bVJKQkVCNXFmYlFGNWFJYjlJdlFCNGlF0gHwAUFVX3lxTE42VEZIR1ZaVkxjMS1vb01CdzlpMFhoaFk2VkZEWG9VSk9uU3V4Y1A3akhhNWNQVVMya3pkNlIyUVVmZXRGaDluVzVwUVRsN1poUjI3V2pFcDRaNTl6VWY1SWR5bWtkdkRhNTVKZHJrVnd1NTFNV1pjS0oyR0J6cTNFRUN6TEFiWUZiQVJYVFVGdWFMTmVJOVg3UFZWU0RxRVFUbk1rZVJkd2FXSHJEVWg4dFFpNVhxLXg0b3FSUUZWY0V1dDlEWGY3QklSUDhhZDdNZnRKTkhDazlsQ1pRU3gwSE5CY3Z4TEduVjZZUk1Dbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.livemint.com",
+      "title": "Mint"
+    }
+  },
+  {
     "title": "Grenell says X account hacked after sharing Washington Opera exit from Kennedy Center - AOL.com",
     "description": "Grenell says X account hacked after sharing Washington Opera exit from Kennedy Center  AOL.comView Full Coverage on Google News",
     "published date": "Sat, 10 Jan 2026 22:03:00 GMT",
@@ -207,16 +207,6 @@
     "publisher": {
       "href": "https://www.aol.com",
       "title": "AOL.com"
-    }
-  },
-  {
-    "title": "Meity working with stakeholders on mobile security; assures to address industrys legitimate concerns - livemint.com",
-    "description": "Meity working with stakeholders on mobile security; assures to address industrys legitimate concerns  livemint.comIndia's proposed phone security rules that are worrying tech firms  ReutersIndia wants iOS source code, and they're not going to get it  AppleInsiderApple and Samsung Oppose India’s Smartphone Source Code-Sharing Rule  PYMNTS.comIT ministry takes up communications device safety issue; mobile phone players say routine consultation  The Economic Times",
-    "published date": "Sun, 11 Jan 2026 18:13:40 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRi1HdlhmSmpTb05jX3JXRXB3bUx1dEcwdTZrRHF6bnBXdVd2clJXMzJ2WXZ5RVdFeW5LNW5seERpR19hckxCOXdIYzcza1dJQjVmVDk5S0dfalQ1c2pVOWxRWHRmdXVlY1Z5bUh0cWJhV0hudkNfZXVyS1VtRVk4QVZUc2I1a2Q1VEN0bjdETWtkNU5EZXp5Wi1CdHZ0TjY3c3UyM1pqbUQtZVNSY2l6QlN0SkQwNGpKYXkyR0hCQWZrbjloTWFKM2RTMWVUWW5KVVl1bVJKQkVCNXFmYlFGNWFJYjlJdlFCNGlF0gHwAUFVX3lxTE42VEZIR1ZaVkxjMS1vb01CdzlpMFhoaFk2VkZEWG9VSk9uU3V4Y1A3akhhNWNQVVMya3pkNlIyUVVmZXRGaDluVzVwUVRsN1poUjI3V2pFcDRaNTl6VWY1SWR5bWtkdkRhNTVKZHJrVnd1NTFNV1pjS0oyR0J6cTNFRUN6TEFiWUZiQVJYVFVGdWFMTmVJOVg3UFZWU0RxRVFUbk1rZVJkd2FXSHJEVWg4dFFpNVhxLXg0b3FSUUZWY0V1dDlEWGY3QklSUDhhZDdNZnRKTkhDazlsQ1pRU3gwSE5CY3Z4TEduVjZZUk1Dbw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.livemint.com",
-      "title": "livemint.com"
     }
   },
   {
@@ -270,6 +260,16 @@
     }
   },
   {
+    "title": "The New Reality of Cyber Risk for Small Businesses - Yahoo Finance",
+    "description": "The New Reality of Cyber Risk for Small Businesses  Yahoo FinanceCybersecurity Predictions 2026: The Hype We Can Ignore (And the Risks We Can't)  The Hacker NewsCloudy Outlook for Cyber Jobs as AI Fills Security Gaps  The Wall Street JournalCrystal Ball: What 2026 holds for cybersecurity, healthcare, robotics, and more  Fortune",
+    "published date": "Thu, 08 Jan 2026 14:05:52 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWGNxMk9tTFdZcEw1dkZpYWZKMTRXczhpN0xxXzlpWUdiUndIZDNXRXB4QVlZN3ZtWTNhc0Q5NHBKNGxadFlwYUdKTnl3OTYtbW9xOTZsVzZZMnNaVUllWm16X25jeUFyXzNBN2FqdjVLRmxUdTYwLXA5VEFKNjc4cjkwUzM1ZkphbnA4TWVUN21BU3RSRF9jc3hxOXM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://finance.yahoo.com",
+      "title": "Yahoo Finance"
+    }
+  },
+  {
     "title": "PS5 Hackers Leak Console ROM Keys, Raising Fears of Jailbreak and Piracy - eTeknix",
     "description": "PS5 Hackers Leak Console ROM Keys, Raising Fears of Jailbreak and Piracy  eTeknixPlayStation 5 ROM keys leaked — jailbreaking could be made easier with BootROM codes  Tom's HardwareStar Wars Racer Revenge Selling For $300+ After PS5 Jailbreakers Find New Exploit - Beyond Clips  IGNPS5 jailbreak rumor is exploding the price of an old Star Wars game  PolygonJailbreaking PS5 with Obscure Game #StarWars  Adafruit",
     "published date": "Fri, 09 Jan 2026 23:21:04 GMT",
@@ -291,7 +291,7 @@
   },
   {
     "title": "New Zealand orders review into ManageMyHealth cyberattack - theregister.com",
-    "description": "New Zealand orders review into ManageMyHealth cyberattack  theregister.comOpen Mike 10/01/2026  thestandard.nzManage My Health CEO: Trust us 'even though we have dropped the ball'  RNZSecond health provider, Canopy Health, hit in major cyber attack  RNZHealth ministry review to assess ManageMyHealth cybersecurity breach  Australasian Lawyer",
+    "description": "New Zealand orders review into ManageMyHealth cyberattack  theregister.comOpen Mike 10/01/2026  thestandard.nzThink your health data is boring? That’s exactly the problem  ThePost.co.nzSecond health provider, Canopy Health, hit in major cyber attack  RNZManage My Health: What we know about hacker and ransom demand  NZ Herald",
     "published date": "Mon, 05 Jan 2026 11:52:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE85bkI2anRzdmhJZFVabXNROEJkVGxVSTFuUW4zZ3pubUpkQ3VXVzg2NEYycldHNGw5Z3BCdHhLOWwyMjhpV01aTUNaV1dpeWE0SVVRVkhzNjU0WU12MC05QUs0Zld4QXpSd3otd3JRQ3ZvWHBIcmRxRTByUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
