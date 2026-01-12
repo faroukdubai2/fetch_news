@@ -1,25 +1,521 @@
 [
-  {
-    "function": "get_top_news",
-    "language": "en",
-    "country": "US",
-    "max_results": 99,
-    "filename": "usa_top_news.json"
-  },
-  {
-    "function": "get_news_by_topic",
-    "topic": "WORLD",
-    "language": "en",
-    "country": "US",
-    "max_results": 99,
-    "filename": "usa_world_news.json"
-  },
-  {
-    "function": "get_news_by_topic",
-    "topic": "TECHNOLOGY",
-    "language": "en",
-    "country": "US",
-    "max_results": 99,
-    "filename": "usa_tech_news.json"
-  }
+    {
+        "function": "get_top_news",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_top_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "WORLD",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_world_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "NATION",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_nation_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "BUSINESS",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_business_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "TECHNOLOGY",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_technology_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "ENTERTAINMENT",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_entertainment_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "SPORTS",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_sports_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "SCIENCE",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_science_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "HEALTH",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_health_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "POLITICS",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_politics_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "CELEBRITIES",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_celebrities_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "TV",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_tv_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "MUSIC",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_music_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "MOVIES",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_movies_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "THEATER",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_theater_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "SOCCER",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_soccer_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "CYCLING",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_cycling_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "MOTOR SPORTS",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_motor_sports_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "TENNIS",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_tennis_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "COMBAT SPORTS",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_combat_sports_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "BASKETBALL",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_basketball_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "BASEBALL",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_baseball_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "FOOTBALL",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_football_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "SPORTS BETTING",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_sports_betting_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "WATER SPORTS",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_water_sports_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "HOCKEY",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_hockey_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "GOLF",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_golf_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "CRICKET",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_cricket_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "RUGBY",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_rugby_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "ECONOMY",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_economy_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "PERSONAL FINANCE",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_personal_finance_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "FINANCE",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_finance_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "DIGITAL CURRENCIES",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_digital_currencies_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "MOBILE",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_mobile_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "ENERGY",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_energy_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "GAMING",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_gaming_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "INTERNET SECURITY",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_internet_security_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "GADGETS",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_gadgets_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "VIRTUAL REALITY",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_virtual_reality_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "ROBOTICS",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_robotics_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "NUTRITION",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_nutrition_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "PUBLIC HEALTH",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_public_health_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "MENTAL HEALTH",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_mental_health_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "MEDICINE",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_medicine_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "SPACE",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_space_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "WILDLIFE",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_wildlife_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "ENVIRONMENT",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_environment_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "NEUROSCIENCE",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_neuroscience_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "PHYSICS",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_physics_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "GEOLOGY",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_geology_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "PALEONTOLOGY",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_paleontology_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "SOCIAL SCIENCES",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_social_sciences_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "EDUCATION",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_education_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "JOBS",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_jobs_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "ONLINE EDUCATION",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_online_education_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "HIGHER EDUCATION",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_higher_education_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "VEHICLES",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_vehicles_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "ARTS-DESIGN",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_arts_design_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "BEAUTY",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_beauty_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "FOOD",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_food_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "TRAVEL",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_travel_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "SHOPPING",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_shopping_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "HOME",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_home_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "OUTDOORS",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_outdoors_news.json"
+    },
+    {
+        "function": "get_news_by_topic",
+        "topic": "FASHION",
+        "language": "en",
+        "country": "US",
+        "max_results": 99,
+        "filename": "usa_fashion_news.json"
+    }
 ]
