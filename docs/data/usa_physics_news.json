@@ -20,18 +20,8 @@
     }
   },
   {
-    "title": "Quantum entanglement speed is measured for the first time, and it's too fast to comprehend - Earth.com",
-    "description": "Quantum entanglement speed is measured for the first time, and it's too fast to comprehend  Earth.com",
-    "published date": "Sun, 11 Jan 2026 23:24:50 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN1Y2aEZRaW5VTW40a1IzYkxaYjlfUzdQODJaZnZQcHp4eE9teE5oQ3FEbnllbnh5N1hpZHd0VFVSOVRFZ1M5bldPTk9sbjhhT0lzLV9VUzItODVVelZhYTVFSmdZUTNaTE9XWHVRNmpKVlZvMExLYUltNFV1akpyOTVsNDBVbFJXVno0Rl80d2JuOHA2bEhjOVVNWm8?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.earth.com",
-      "title": "Earth.com"
-    }
-  },
-  {
     "title": "Are quantum computers finally becoming useful? - Financial Times",
-    "description": "Are quantum computers finally becoming useful?  Financial TimesQuantum Computing News: Federal Funding Push Signals Quantum’s Shift Toward Commercial Use  TipRanksQuantum computing has advantages over traditional, but still in early innings: BMO (IONQ:NYSE)  Seeking AlphaQuantum Computing: Swapping Traffic Lanes for Jetpacks  Advisor PerspectivesPutting Quantum Computing to the Test  University of Pittsburgh",
+    "description": "Are quantum computers finally becoming useful?  Financial TimesWhat enterprises think about quantum computing  Network WorldQuantum Computing News: Federal Funding Push Signals Quantum’s Shift Toward Commercial Use  TipRanksQuantum Computing: Swapping Traffic Lanes for Jetpacks  Advisor PerspectivesPutting Quantum Computing to the Test  University of Pittsburgh",
     "published date": "Sun, 11 Jan 2026 05:00:25 GMT",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11VmdzNnpBSkV1ZnIzVS0yNkRXTnZhX3k1SHVkMl9tN3ZIM2laWm1ma25xRHV1cENYSW9ja2taejlxUThJSmhCQ2JLZk9OTERVdDhzX2xVMHJfbkhxSFhoakRCVldoSFJpczNMX21oSjk?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -57,6 +47,16 @@
     "publisher": {
       "href": "https://www.universetoday.com",
       "title": "Universe Today"
+    }
+  },
+  {
+    "title": "Quantum entanglement speed is measured for the first time, and it's too fast to comprehend - Earth.com",
+    "description": "Quantum entanglement speed is measured for the first time, and it's too fast to comprehend  Earth.com",
+    "published date": "Sun, 11 Jan 2026 23:24:50 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN1Y2aEZRaW5VTW40a1IzYkxaYjlfUzdQODJaZnZQcHp4eE9teE5oQ3FEbnllbnh5N1hpZHd0VFVSOVRFZ1M5bldPTk9sbjhhT0lzLV9VUzItODVVelZhYTVFSmdZUTNaTE9XWHVRNmpKVlZvMExLYUltNFV1akpyOTVsNDBVbFJXVno0Rl80d2JuOHA2bEhjOVVNWm8?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.earth.com",
+      "title": "Earth.com"
     }
   },
   {
@@ -277,26 +277,6 @@
     "publisher": {
       "href": "https://phys.org",
       "title": "Phys.org"
-    }
-  },
-  {
-    "title": "Classical physics explains light phenomena once thought to be purely quantum - Earth.com",
-    "description": "Classical physics explains light phenomena once thought to be purely quantum  Earth.com",
-    "published date": "Tue, 06 Jan 2026 14:12:30 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSklSbW5qcVJUUUJxMlV0cEJvT0J5cGtULTc2d01ZeXpyQVRxaHVTZGhHMWtmWTEtZDQtdXNOR0NKSmpLaDRFRzVERHFPQ0pPQjRmUkhnRTVPTENhQ0lRejRuaHhhaF9JNjdraVdXMk1IdW40bVFYdmdtSHMwZTdqSHkzdmZsdTBsRk4ybHNsOUNYZmhPSzlVUEdUTGc1Rk5yTjRKZk5pNA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.earth.com",
-      "title": "Earth.com"
-    }
-  },
-  {
-    "title": "Two New Quantum Experiments Just Proved Einstein Wrong - Yahoo",
-    "description": "Two New Quantum Experiments Just Proved Einstein Wrong  YahooView Full Coverage on Google News",
-    "published date": "Thu, 08 Jan 2026 19:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNamNXVkdPRjlkWkEwc0x0S040bGhkRkU1V1E5V2s1T29DdHk2UGVrTzFvWERCaFR2dmVoa2c2QjIzaEFGSXdGbzZXV21wUnJoaFk1SGFpRE1Rd1NIazNJbnltTmdLQWNEemQzemRGYV9wYXB0N0hRQW1yUWZNN0VfRVp2U0JydEhHWDFtWklISQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.yahoo.com",
-      "title": "Yahoo"
     }
   }
 ]
