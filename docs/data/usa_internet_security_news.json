@@ -10,18 +10,8 @@
     }
   },
   {
-    "title": "In Other News: 8,000 Ransomware Attacks, China Hacked US Gov Emails, IDHS Breach Impacts 700k - SecurityWeek",
-    "description": "In Other News: 8,000 Ransomware Attacks, China Hacked US Gov Emails, IDHS Breach Impacts 700k  SecurityWeekHealth care data breach affects over 600,000 patients, Illinois agency says  NPR IllinoisIllinois health department exposed over 700,000 residents’ personal data for years  TechCrunchIllinois Department of Human Services reports years long data breach  WEEK | 25 News NowIllinois DHS Exposes 700K Residents’ Data in Mapping Tool Blunder  WebProNews",
-    "published date": "Fri, 09 Jan 2026 15:58:37 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc21pUjVhV2c0S0d4UkRCVDJGMlJiSTRVSHBuSjBNaEtRclphN24wNXhHdUpfTmZSY2ZRVndCejFudVE0ZWZ6VjhrZUNoSXZxT2tMek1jTmhRN3JpUm5ISDIyNkc2OGtPWW5vdUxZZXdBV1ZXRnROUTA4eW9TT0RrZ1hram5DNzlwLS1La252RVZ0VXZwcDZ5SU4zQVhEdlN3QnRpM0JfZ3JCcWdWSXREWFh1R3dmV1h0Nkpz0gHAAUFVX3lxTFAxMzdJcHU1SlpDZHhucmV6TFJ6dzdKaEgxTUhxSHozV05XZUNlRV9TNnRmc3FUemY2WVRQbXZ6aUZFTDZTbjkydU9FUWU2SFY4OEdHWU1vQjFfNktYRE1SV2YyeHV0OHFwNHJhNGJmanFDcGRhMWhGRkZlZW5NNkd2SkpkRTNXb0JWN1dQSUdyOTB4Rmo5NDFqbjV3YzZNUnNDQWR2eFppckZUTldWNGQ0eFpSMmhZUFd0TktvR0pteA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.securityweek.com",
-      "title": "SecurityWeek"
-    }
-  },
-  {
     "title": "MuddyWater Launches RustyWater RAT via Spear-Phishing Across Middle East Sectors - The Hacker News",
-    "description": "MuddyWater Launches RustyWater RAT via Spear-Phishing Across Middle East Sectors  The Hacker NewsCloudSEK warns Muddy Water APT using Rust implants in spearphishing on Middle East critical infrastructure  Industrial CyberMuddyWater APT Weaponizing Word Documents to Deliver 'RustyWater' Toolkit Evading AV and EDR Tools  Cyber Security NewsMuddyWater APT Delivers “RustyWater” Through Weaponized Word Documents  gbhackers.com",
+    "description": "MuddyWater Launches RustyWater RAT via Spear-Phishing Across Middle East Sectors  The Hacker NewsCloudSEK warns Muddy Water APT using Rust implants in spearphishing on Middle East critical infrastructure  Industrial CyberMuddyWater APT Delivers “RustyWater” Through Weaponized Word Documents  gbhackers.com",
     "published date": "Sat, 10 Jan 2026 10:35:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVDBiekxJSndrdVBqWWhOUW9GdVFLQzQwYzRka0dtYktaRGxSZGRxVEk0THp2NVVUSFVTY3V5ZUNuVjdwclZSVmdlbkUtWFlOV0RHVF9ZcndLOU1qT25vMy0yMGlVVzFIOGdvRUd5Q0tBcS1KVTNDaURfQ3dUNW5rMXVDdw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -140,6 +130,16 @@
     }
   },
   {
+    "title": "Foreigners' data stolen in hack of French immigration agency - Le Monde.fr",
+    "description": "Foreigners' data stolen in hack of French immigration agency  Le Monde.fr",
+    "published date": "Mon, 05 Jan 2026 16:13:21 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMVFFenNkazFhdHV4am1HQ3Rwd0lLUEN3WHBRQzNKTXkxZUlPYm9CaWQ1Z1lVNWZFUUE2Qll3SzZxbzl2U25XSHpwZFZFWVM3c1RTRURxMGRleUZoWEU5U0E1b0wzTWtjQWFFV2lBazQ1TTlhY2Y2TS0welhBRDRrMXN2VlZ6alBCallleWxnZlp2bnB0QTRxVWhlNGVfeFNXQmhCVGktLXRPdkZVb1E3VHBjaGFOWEVjOV8xUVQxVU1ZS2tnYXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.lemonde.fr",
+      "title": "Le Monde.fr"
+    }
+  },
+  {
     "title": "10 Cybersecurity Startups To Watch In 2026 - CRN Magazine",
     "description": "10 Cybersecurity Startups To Watch In 2026  CRN Magazine",
     "published date": "Mon, 05 Jan 2026 13:00:00 GMT",
@@ -181,7 +181,7 @@
   },
   {
     "title": "Did My Instagram Just Get Hacked? Social Network Responds to Data Breach Concerns With Statement - Just Jared",
-    "description": "Did My Instagram Just Get Hacked? Social Network Responds to Data Breach Concerns With Statement  Just JaredAn Instagram data breach reportedly exposed the personal info of 17.5 million users  EngadgetInstagram says there’s been ‘no breach’ despite password reset requests  YahooInstagram says it fixed the issue that let someone send all those password reset emails  The VergeDid You Get an Instagram Password Reset Email Recently? This Might Be the Very Unpleasant Reason  Gizmodo",
+    "description": "Did My Instagram Just Get Hacked? Social Network Responds to Data Breach Concerns With Statement  Just JaredInstagram says accounts 'are secure' after wave of suspicious password reset requests  EngadgetInstagram says there’s been ‘no breach’ despite password reset requests  TechCrunchInstagram says it fixed the issue that let someone send all those password reset emails  The Verge17.5 Million Instagram Accounts Exposed in Major Data Leak  Cyber Press",
     "published date": "Sun, 11 Jan 2026 19:12:30 GMT",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUVFXU0g3UVp4NGltclpVRFdTUGNsZHVOZDBrTTZLYnhZa3d1UkZvQ0dRWlo4R0JuTUNGZ3ZnZHZNR1l1bUhOUUJ0RlIzZUtKamRKeUczNVo1S2tZeGljTXQ1NWd0aHAzd2VZdE0yTEo5LU9GYmRqeUIzMG43aFFnZmw4MGhKRC1uUS05UWdGLTZIdDFadXJYdUVRUVIzSXllZ0VIRFRzbG85RjVYdE1zbDh4c2F2eGtaeHZSelllUzVwZFhWSjJyakhhWWlyQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -190,23 +190,33 @@
     }
   },
   {
+    "title": "Unpatched Firmware Flaw Exposes TOTOLINK EX200 to Full Remote Device Takeover - The Hacker News",
+    "description": "Unpatched Firmware Flaw Exposes TOTOLINK EX200 to Full Remote Device Takeover  The Hacker NewsTOTOLINK EX200 Extender Vulnerability Allows Attackers to Gain Full System Access  Cyber PressUnpatched flaw in TOTOLINK EX200 extender allows remote control  SC MediaCERT/CC warns of critical, unfixed vulnerability in TOTOLINK EX200  Security AffairsTOTOLINK EX200 Extender Vulnerability Allow Attacker to Gain Full System Access  Cyber Security News",
+    "published date": "Tue, 06 Jan 2026 15:47:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9aRHJickxkM3ZxUHdoNFUxdUlZdl9xYlk5SDRkMF9BQ3BVSTNHdTc1X0UyTkF6aENjdGdpVEFKakl0YXhneXVkSTZiVG85VlhJNmF4d0Jpd1BoeHFzV0NlYWxaeFo2X2htX29KU3ROeUcwMHBhVkNLTk9R?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://thehackernews.com",
+      "title": "The Hacker News"
+    }
+  },
+  {
+    "title": "Grenell says X account hacked after sharing Washington Opera exit from Kennedy Center - AOL.com",
+    "description": "Grenell says X account hacked after sharing Washington Opera exit from Kennedy Center  AOL.comView Full Coverage on Google News",
+    "published date": "Sat, 10 Jan 2026 22:03:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFByV1JMZmRvWk45Q01mOGFFZmh4T3FZSzZVLWt4dWxfdDdmUVNSYjUycTBQeHhNSXBlYllNcEdlV0VJOUdBWWd5RFU1V1BUN0Q2ZGdzYi02N3JJNHhxaFBXZEhRcTFuNW1KaTNCck1YYWVqYUNjclBnZmtpcUd4Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.aol.com",
+      "title": "AOL.com"
+    }
+  },
+  {
     "title": "Meity working with stakeholders on mobile security; assures to address industrys legitimate concerns - livemint.com",
-    "description": "Meity working with stakeholders on mobile security; assures to address industrys legitimate concerns  livemint.comExclusive: India proposes forcing smartphone makers to give source code in security overhaul  ReutersIndia wants iOS source code, and they're not going to get it  AppleInsiderNew Risks for Apple, Google, and Samsung as India Tightens Smartphone Security  TipRanksIT ministry takes up communications device safety issue; mobile phone players say routine consultation  The Economic Times",
+    "description": "Meity working with stakeholders on mobile security; assures to address industrys legitimate concerns  livemint.comIndia's proposed phone security rules that are worrying tech firms  ReutersIndia wants iOS source code, and they're not going to get it  AppleInsiderApple and Samsung Oppose India’s Smartphone Source Code-Sharing Rule  PYMNTS.comIT ministry takes up communications device safety issue; mobile phone players say routine consultation  The Economic Times",
     "published date": "Sun, 11 Jan 2026 18:13:40 GMT",
     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRi1HdlhmSmpTb05jX3JXRXB3bUx1dEcwdTZrRHF6bnBXdVd2clJXMzJ2WXZ5RVdFeW5LNW5seERpR19hckxCOXdIYzcza1dJQjVmVDk5S0dfalQ1c2pVOWxRWHRmdXVlY1Z5bUh0cWJhV0hudkNfZXVyS1VtRVk4QVZUc2I1a2Q1VEN0bjdETWtkNU5EZXp5Wi1CdHZ0TjY3c3UyM1pqbUQtZVNSY2l6QlN0SkQwNGpKYXkyR0hCQWZrbjloTWFKM2RTMWVUWW5KVVl1bVJKQkVCNXFmYlFGNWFJYjlJdlFCNGlF0gHwAUFVX3lxTE42VEZIR1ZaVkxjMS1vb01CdzlpMFhoaFk2VkZEWG9VSk9uU3V4Y1A3akhhNWNQVVMya3pkNlIyUVVmZXRGaDluVzVwUVRsN1poUjI3V2pFcDRaNTl6VWY1SWR5bWtkdkRhNTVKZHJrVnd1NTFNV1pjS0oyR0J6cTNFRUN6TEFiWUZiQVJYVFVGdWFMTmVJOVg3UFZWU0RxRVFUbk1rZVJkd2FXSHJEVWg4dFFpNVhxLXg0b3FSUUZWY0V1dDlEWGY3QklSUDhhZDdNZnRKTkhDazlsQ1pRU3gwSE5CY3Z4TEduVjZZUk1Dbw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.livemint.com",
       "title": "livemint.com"
-    }
-  },
-  {
-    "title": "Trend Micro warns of critical Apex Central RCE vulnerability - BleepingComputer",
-    "description": "Trend Micro warns of critical Apex Central RCE vulnerability  BleepingComputerTrend Micro Apex Central RCE Flaw Scores 9.8 CVSS in On-Prem Windows Versions  The Hacker NewsTrend Micro closes critical vulnerabilities in Apex Central  Techzine GlobalTrend Micro patches critical flaws in its Apex Central software  csoonline.comWeek in review: PoC for Trend Micro Apex Central RCE released, Patch Tuesday forecast  Help Net Security",
-    "published date": "Fri, 09 Jan 2026 10:40:26 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeFo5bmVrMTJnampJYW5VUmpCZF9ybGpZU1NOMEN3NnNaVnNxNnpzcDVzZk9PUVZRMHNrdDUwWl9wZmFZTHZabUlrR194bFQtTlpRUVZuR0hxU0RFa2RYU3hzY1MtVzVxbUNfTkVpbnZ0dmFMbUN2WGc1LTNCZjRDOFo4QnVIV2xPN3pMUkRhZUpHZU9yYnNxemxRMXpjQ0lJenJ1ZENuVzIwd2_SAbABQVVfeXFMTlIyYkhneGhFVGFxcUI0c2FtMzdTVGs5NHhsRVBBNmhhUnF2bmpVVzVfSkd6MFphblZuVjNQeUotNVhQdkZYdGFlQVhISjl5QUVXZm8yWTBIVDJOZVpkdVMwVDNaamJEVUdWOEZUODB4YlZMWHUybWhwbUxHOVU5NGctaEJGVERRMnRaMVZpRFpfLTFUWXdiM0pSc0N4RGYwdXlmeE9HNndtTHN0NHJZSjA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.bleepingcomputer.com",
-      "title": "BleepingComputer"
     }
   },
   {
@@ -281,7 +291,7 @@
   },
   {
     "title": "New Zealand orders review into ManageMyHealth cyberattack - theregister.com",
-    "description": "New Zealand orders review into ManageMyHealth cyberattack  theregister.comOpen Mike 10/01/2026  thestandard.nzManage My Health starts notifying affected practices after major cyber breach  CybernewsSecond health provider, Canopy Health, hit in major cyber attack  RNZHealth ministry review to assess ManageMyHealth cybersecurity breach  Australasian Lawyer",
+    "description": "New Zealand orders review into ManageMyHealth cyberattack  theregister.comOpen Mike 10/01/2026  thestandard.nzManage My Health CEO: Trust us 'even though we have dropped the ball'  RNZSecond health provider, Canopy Health, hit in major cyber attack  RNZHealth ministry review to assess ManageMyHealth cybersecurity breach  Australasian Lawyer",
     "published date": "Mon, 05 Jan 2026 11:52:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE85bkI2anRzdmhJZFVabXNROEJkVGxVSTFuUW4zZ3pubUpkQ3VXVzg2NEYycldHNGw5Z3BCdHhLOWwyMjhpV01aTUNaV1dpeWE0SVVRVkhzNjU0WU12MC05QUs0Zld4QXpSd3otd3JRQ3ZvWHBIcmRxRTByUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
