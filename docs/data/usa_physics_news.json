@@ -50,16 +50,6 @@
     }
   },
   {
-    "title": "This new imaging technology breaks the rules of optics - ScienceDaily",
-    "description": "This new imaging technology breaks the rules of optics  ScienceDaily",
-    "published date": "Sun, 11 Jan 2026 12:56:01 GMT",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RdGQ2ZDBGV1RNMWZKWS1obUpyVHNtSEZhVnVvSVZ5bVpSN2JURmJkTFJZMUw0dTNKZ0hDMk54aGlRQTZLNmR3cDhBd1lVbHJPWjgtZ2hrOXZROUdubGpNakwtMlFodjZsc2hCZjhCdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.sciencedaily.com",
-      "title": "ScienceDaily"
-    }
-  },
-  {
     "title": "Are quantum computers finally becoming useful? - Financial Times",
     "description": "Are quantum computers finally becoming useful?  Financial TimesQuantum computing has advantages over traditional, but still in early innings: BMO (IONQ:NYSE)  Seeking AlphaGuest Post — From Lab to Market: Rethinking Product-Market Fit in Quantum Computing  The Quantum InsiderExclusive IBM At CES 2026: The Dawn Of Quantum Advantage  Quantum ZeitgeistQuantum Computing Nears Mainstream: CES 2026 Signals 2026 Breakthrough  DataDrivenInvestor",
     "published date": "Sun, 11 Jan 2026 05:00:25 GMT",
@@ -74,6 +64,16 @@
     "description": "Astronomers find a ghost galaxy made of dark matter  ScienceDailyThis ‘Galaxy That Wasn’t’ Never Bore Any Stars  The New York Times‘Cloud-9’ celestial object could solve dark matter mystery  CNNCloud-9: a new celestial object found by Hubble  European Space AgencyHubble telescope discovers a new type of cosmic object and astronomers are on 'Cloud 9'  Space",
     "published date": "Sat, 10 Jan 2026 03:27:40 GMT",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KMjRreXFDOWNHLUNVWGxTelRRb1JvZ2x4eTEwSTJIRjNPa1M2NHk1T0NkTzdwX1pGOTlidFNlSUlfV1NtTzBJRDZBWWFoWTYySUhpbFhHVnozMzdNSDhXY0kya2lpSEpONlJ1X0J0cw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.sciencedaily.com",
+      "title": "ScienceDaily"
+    }
+  },
+  {
+    "title": "This new imaging technology breaks the rules of optics - ScienceDaily",
+    "description": "This new imaging technology breaks the rules of optics  ScienceDaily",
+    "published date": "Sun, 11 Jan 2026 12:56:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RdGQ2ZDBGV1RNMWZKWS1obUpyVHNtSEZhVnVvSVZ5bVpSN2JURmJkTFJZMUw0dTNKZ0hDMk54aGlRQTZLNmR3cDhBd1lVbHJPWjgtZ2hrOXZROUdubGpNakwtMlFodjZsc2hCZjhCdw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.sciencedaily.com",
       "title": "ScienceDaily"
@@ -177,6 +177,16 @@
     "publisher": {
       "href": "https://physicsworld.com",
       "title": "Physics World"
+    }
+  },
+  {
+    "title": "What does a quantum computer sound like? This artist and scientist are about to find out - Financial Times",
+    "description": "What does a quantum computer sound like? This artist and scientist are about to find out  Financial Times",
+    "published date": "Sat, 10 Jan 2026 05:00:33 GMT",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55VHp0VE1DeTZQS0dPY2tJSGQ1Rk9LZUZuV2w5bzltWElTdGJreDZkeUZWRmFibXd4dTF1N2ZGZzlSajhTSjFKeUlqTWhwTmpYSkpVVXV2d2RFV0lPYjJwcHFlSFV0OFh1YnBPaFYyZHo?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ft.com",
+      "title": "Financial Times"
     }
   },
   {
