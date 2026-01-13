@@ -1,5 +1,5 @@
 {
-    "app_name": "USA News",
+    "app_name": "usanews",
     "repository": "https://github.com/faroukdubai2/fetch_news",
     "news_sources": [
         {

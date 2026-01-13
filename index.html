@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>USA News - News Directory</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 40px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+
+        .header p {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            margin-top: 20px;
+            flex-wrap: wrap;
+        }
+
+        .stat-box {
+            background: rgba(255, 255, 255, 0.2);
+            padding: 15px 25px;
+            border-radius: 10px;
+            backdrop-filter: blur(10px);
+        }
+
+        .stat-box .number {
+            font-size: 2em;
+            font-weight: bold;
+        }
+
+        .stat-box .label {
+            font-size: 0.9em;
+            opacity: 0.9;
+        }
+
+        .search-box {
+            padding: 30px;
+            background: #f8f9fa;
+            border-bottom: 1px solid #e0e0e0;
+        }
+
+        .search-input {
+            width: 100%;
+            padding: 15px 20px;
+            font-size: 1em;
+            border: 2px solid #e0e0e0;
+            border-radius: 10px;
+            outline: none;
+            transition: all 0.3s;
+        }
+
+        .search-input:focus {
+            border-color: #667eea;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+        }
+
+        .content {
+            padding: 30px;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 60px;
+            color: #666;
+            font-size: 1.2em;
+        }
+
+        .error {
+            text-align: center;
+            padding: 60px;
+            color: #dc3545;
+            font-size: 1.1em;
+        }
+
+        .news-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        .news-card {
+            background: white;
+            border: 2px solid #e0e0e0;
+            border-radius: 12px;
+            padding: 20px;
+            transition: all 0.3s;
+            cursor: pointer;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .news-card:hover {
+            border-color: #667eea;
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(102, 126, 234, 0.2);
+        }
+
+        .news-card .title {
+            font-size: 1.2em;
+            font-weight: 600;
+            color: #333;
+            text-transform: capitalize;
+        }
+
+        .news-card .url {
+            font-size: 0.85em;
+            color: #667eea;
+            word-break: break-all;
+            font-family: monospace;
+            background: #f8f9fa;
+            padding: 8px;
+            border-radius: 5px;
+        }
+
+        .news-card .actions {
+            display: flex;
+            gap: 10px;
+            margin-top: 10px;
+        }
+
+        .btn {
+            padding: 8px 16px;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 0.9em;
+            font-weight: 500;
+            transition: all 0.3s;
+            text-decoration: none;
+            display: inline-block;
+            text-align: center;
+        }
+
+        .btn-primary {
+            background: #667eea;
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background: #5568d3;
+        }
+
+        .btn-secondary {
+            background: #6c757d;
+            color: white;
+        }
+
+        .btn-secondary:hover {
+            background: #5a6268;
+        }
+
+        .no-results {
+            text-align: center;
+            padding: 60px;
+            color: #666;
+            font-size: 1.1em;
+        }
+
+        .footer {
+            background: #f8f9fa;
+            padding: 20px;
+            text-align: center;
+            color: #666;
+            border-top: 1px solid #e0e0e0;
+        }
+
+        .footer a {
+            color: #667eea;
+            text-decoration: none;
+        }
+
+        .footer a:hover {
+            text-decoration: underline;
+        }
+
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 1.8em;
+            }
+
+            .news-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .stats {
+                flex-direction: column;
+                gap: 15px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>📰 USA News Directory</h1>
+            <p>Access all available news feeds and topics</p>
+            <div class="stats">
+                <div class="stat-box">
+                    <div class="number" id="totalTopics">-</div>
+                    <div class="label">Topics Available</div>
+                </div>
+                <div class="stat-box">
+                    <div class="number" id="appName">-</div>
+                    <div class="label">Application</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="search-box">
+            <input type="text" class="search-input" id="searchInput" placeholder="🔍 Search for topics (e.g., sports, technology, health...)">
+        </div>
+
+        <div class="content">
+            <div id="loadingMessage" class="loading">Loading news directory...</div>
+            <div id="errorMessage" class="error" style="display: none;"></div>
+            <div id="newsGrid" class="news-grid" style="display: none;"></div>
+            <div id="noResults" class="no-results" style="display: none;">No topics found matching your search.</div>
+        </div>
+
+        <div class="footer">
+            <p>Powered by <a href="https://github.com/faroukdubai2/fetch_news" target="_blank">USA News Fetcher</a></p>
+            <p>Data updates automatically via GitHub Actions</p>
+        </div>
+    </div>
+
+    <script>
+        let allNewsData = [];
+        let configData = null;
+
+        // Load config and display news directory
+        async function loadNewsDirectory() {
+            try {
+                const response = await fetch('docs/data/usanews/config.json');
+                if (!response.ok) {
+                    throw new Error('Failed to load config');
+                }
+
+                configData = await response.json();
+                allNewsData = Object.entries(configData.raw_urls).map(([key, url]) => ({
+                    key: key,
+                    title: key.replace(/_/g, ' '),
+                    url: url
+                }));
+
+                // Update stats
+                document.getElementById('totalTopics').textContent = allNewsData.length;
+                document.getElementById('appName').textContent = configData.app_name;
+
+                // Display all news
+                displayNews(allNewsData);
+
+                // Hide loading
+                document.getElementById('loadingMessage').style.display = 'none';
+                document.getElementById('newsGrid').style.display = 'grid';
+
+            } catch (error) {
+                console.error('Error loading news directory:', error);
+                document.getElementById('loadingMessage').style.display = 'none';
+                document.getElementById('errorMessage').style.display = 'block';
+                document.getElementById('errorMessage').textContent =
+                    'Failed to load news directory. Please make sure the config.json file exists.';
+            }
+        }
+
+        // Display news cards
+        function displayNews(newsArray) {
+            const newsGrid = document.getElementById('newsGrid');
+            const noResults = document.getElementById('noResults');
+
+            if (newsArray.length === 0) {
+                newsGrid.style.display = 'none';
+                noResults.style.display = 'block';
+                return;
+            }
+
+            noResults.style.display = 'none';
+            newsGrid.style.display = 'grid';
+            newsGrid.innerHTML = '';
+
+            newsArray.forEach(news => {
+                const card = document.createElement('div');
+                card.className = 'news-card';
+
+                card.innerHTML = `
+                    <div class="title">${news.title}</div>
+                    <div class="url">${news.key}.json</div>
+                    <div class="actions">
+                        <a href="${news.url}" class="btn btn-primary" target="_blank">View JSON</a>
+                        <button class="btn btn-secondary" onclick="copyToClipboard('${news.url}')">Copy URL</button>
+                    </div>
+                `;
+
+                newsGrid.appendChild(card);
+            });
+        }
+
+        // Search functionality
+        document.getElementById('searchInput').addEventListener('input', (e) => {
+            const searchTerm = e.target.value.toLowerCase();
+            const filteredNews = allNewsData.filter(news =>
+                news.title.toLowerCase().includes(searchTerm) ||
+                news.key.toLowerCase().includes(searchTerm)
+            );
+            displayNews(filteredNews);
+        });
+
+        // Copy to clipboard
+        function copyToClipboard(text) {
+            navigator.clipboard.writeText(text).then(() => {
+                alert('URL copied to clipboard!');
+            }).catch(err => {
+                console.error('Failed to copy:', err);
+                // Fallback for older browsers
+                const textArea = document.createElement('textarea');
+                textArea.value = text;
+                document.body.appendChild(textArea);
+                textArea.select();
+                document.execCommand('copy');
+                document.body.removeChild(textArea);
+                alert('URL copied to clipboard!');
+            });
+        }
+
+        // Load on page load
+        window.addEventListener('DOMContentLoaded', loadNewsDirectory);
+    </script>
+</body>
+</html>
