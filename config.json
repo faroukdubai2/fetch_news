@@ -1,89 +1,93 @@
-[
-    {
-        "function": "get_top_news",
-        "language": "en",
-        "country": "US",
-        "max_results": 99,
-        "filename": "usa_top_news.json"
-    },
-    {
-        "function": "get_news_by_topic",
-        "topic": "WORLD",
-        "language": "en",
-        "country": "US",
-        "max_results": 99,
-        "filename": "usa_world_news.json"
-    },
-    {
-        "function": "get_news_by_topic",
-        "topic": "NATION",
-        "language": "en",
-        "country": "US",
-        "max_results": 99,
-        "filename": "usa_nation_news.json"
-    },
-    {
-        "function": "get_news_by_topic",
-        "topic": "BUSINESS",
-        "language": "en",
-        "country": "US",
-        "max_results": 99,
-        "filename": "usa_business_news.json"
-    },
-    {
-        "function": "get_news_by_topic",
-        "topic": "TECHNOLOGY",
-        "language": "en",
-        "country": "US",
-        "max_results": 99,
-        "filename": "usa_technology_news.json"
-    },
-    {
-        "function": "get_news_by_topic",
-        "topic": "ENTERTAINMENT",
-        "language": "en",
-        "country": "US",
-        "max_results": 99,
-        "filename": "usa_entertainment_news.json"
-    },
-    {
-        "function": "get_news_by_topic",
-        "topic": "SPORTS",
-        "language": "en",
-        "country": "US",
-        "max_results": 99,
-        "filename": "usa_sports_news.json"
-    },
-    {
-        "function": "get_news_by_topic",
-        "topic": "SCIENCE",
-        "language": "en",
-        "country": "US",
-        "max_results": 99,
-        "filename": "usa_science_news.json"
-    },
-    {
-        "function": "get_news_by_topic",
-        "topic": "HEALTH",
-        "language": "en",
-        "country": "US",
-        "max_results": 99,
-        "filename": "usa_health_news.json"
-    },
-    {
-        "function": "get_news_by_topic",
-        "topic": "POLITICS",
-        "language": "en",
-        "country": "US",
-        "max_results": 99,
-        "filename": "usa_politics_news.json"
-    },
-    {
-        "function": "get_news_by_topic",
-        "topic": "CELEBRITIES",
-        "language": "en",
-        "country": "US",
-        "max_results": 99,
-        "filename": "usa_celebrities_news.json"
-    }
-]
+{
+    "app_name": "USA News",
+    "repository": "https://github.com/faroukdubai2/fetch_news",
+    "news_sources": [
+        {
+            "function": "get_top_news",
+            "language": "en",
+            "country": "US",
+            "max_results": 99,
+            "filename": "usa_top_news.json"
+        },
+        {
+            "function": "get_news_by_topic",
+            "topic": "WORLD",
+            "language": "en",
+            "country": "US",
+            "max_results": 99,
+            "filename": "usa_world_news.json"
+        },
+        {
+            "function": "get_news_by_topic",
+            "topic": "NATION",
+            "language": "en",
+            "country": "US",
+            "max_results": 99,
+            "filename": "usa_nation_news.json"
+        },
+        {
+            "function": "get_news_by_topic",
+            "topic": "BUSINESS",
+            "language": "en",
+            "country": "US",
+            "max_results": 99,
+            "filename": "usa_business_news.json"
+        },
+        {
+            "function": "get_news_by_topic",
+            "topic": "TECHNOLOGY",
+            "language": "en",
+            "country": "US",
+            "max_results": 99,
+            "filename": "usa_technology_news.json"
+        },
+        {
+            "function": "get_news_by_topic",
+            "topic": "ENTERTAINMENT",
+            "language": "en",
+            "country": "US",
+            "max_results": 99,
+            "filename": "usa_entertainment_news.json"
+        },
+        {
+            "function": "get_news_by_topic",
+            "topic": "SPORTS",
+            "language": "en",
+            "country": "US",
+            "max_results": 99,
+            "filename": "usa_sports_news.json"
+        },
+        {
+            "function": "get_news_by_topic",
+            "topic": "SCIENCE",
+            "language": "en",
+            "country": "US",
+            "max_results": 99,
+            "filename": "usa_science_news.json"
+        },
+        {
+            "function": "get_news_by_topic",
+            "topic": "HEALTH",
+            "language": "en",
+            "country": "US",
+            "max_results": 99,
+            "filename": "usa_health_news.json"
+        },
+        {
+            "function": "get_news_by_topic",
+            "topic": "POLITICS",
+            "language": "en",
+            "country": "US",
+            "max_results": 99,
+            "filename": "usa_politics_news.json"
+        },
+        {
+            "function": "get_news_by_topic",
+            "topic": "CELEBRITIES",
+            "language": "en",
+            "country": "US",
+            "max_results": 99,
+            "filename": "usa_celebrities_news.json"
+        }
+    ]
+}
