@@ -269,7 +269,7 @@
         // Load config and display news directory
         async function loadNewsDirectory() {
             try {
-                const response = await fetch('docs/data/usanews/config.json');
+                const response = await fetch('data/usanews/config.json');
                 if (!response.ok) {
                     throw new Error('Failed to load config');
                 }
