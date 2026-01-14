@@ -14,15 +14,18 @@ def ensure_output_dir(path):
 
 def transform_filename(filename):
     """
-    Transform filename from format like 'usa_top_news.json' to 'top.json'
-    Removes 'usa_' prefix and '_news' suffix
+    Transform filename from format like 'usa_top_news.json' or 'canada_top_news.json' to 'top.json'
+    Removes country prefix (usa_, canada_, etc.) and '_news' suffix
     """
     # Remove .json extension
     name = filename.replace('.json', '')
 
-    # Remove usa_ prefix
-    if name.startswith('usa_'):
-        name = name[4:]
+    # Remove country prefix (usa_, canada_, etc.)
+    if '_' in name:
+        parts = name.split('_', 1)
+        # Check if first part looks like a country prefix (short, lowercase)
+        if len(parts[0]) <= 10 and parts[0].islower():
+            name = parts[1]
 
     # Remove _news suffix
     if name.endswith('_news'):
@@ -82,20 +85,34 @@ def load_config():
         return json.load(f)
 
 
-def main():
-    config = load_config()
+def load_app_config(config_file):
+    """Load a specific app configuration file"""
+    if not os.path.exists(config_file):
+        print(f"App config file {config_file} not found!")
+        return None
+    with open(config_file, "r", encoding="utf-8") as f:
+        return json.load(f)
 
-    if not config:
-        print("No configuration found or empty config file.")
+
+def process_app(app_config_file):
+    """Process a single app configuration"""
+    print(f"\n{'='*60}")
+    print(f"Processing app config: {app_config_file}")
+    print(f"{'='*60}")
+
+    app_config = load_app_config(app_config_file)
+
+    if not app_config:
+        print(f"Failed to load app config: {app_config_file}")
         return
 
     # Extract app metadata
-    app_name = config.get("app_name", "Unknown App")
-    repository = config.get("repository", "")
-    news_sources = config.get("news_sources", [])
+    app_name = app_config.get("app_name", "Unknown App")
+    repository = app_config.get("repository", "")
+    news_sources = app_config.get("news_sources", [])
 
     if not news_sources:
-        print("No news sources found in config.")
+        print(f"No news sources found in {app_config_file}")
         return
 
     # Create app-specific folder
@@ -175,7 +192,46 @@ def main():
     else:
         print("Skipping config.json generation (no files or repository URL)")
 
-    print(f"\nCompleted! Generated {len(generated_files)} files in {app_folder}")
+    print(f"\nCompleted {app_name}! Generated {len(generated_files)} files in {app_folder}")
+
+
+def main():
+    config = load_config()
+
+    if not config:
+        print("No configuration found or empty config file.")
+        return
+
+    # Check if it's the new multi-app format
+    app_configs = config.get("apps", [])
+
+    if app_configs:
+        # Process multiple apps
+        print(f"Found {len(app_configs)} app(s) to process")
+        for app_config_file in app_configs:
+            process_app(app_config_file)
+    else:
+        # Legacy single app format - process directly
+        print("Using legacy single app format")
+        # This supports backward compatibility with old config.json structure
+        app_name = config.get("app_name", "Unknown App")
+        repository = config.get("repository", "")
+        news_sources = config.get("news_sources", [])
+
+        if news_sources:
+            # Create temporary config file and process
+            temp_config = {
+                "app_name": app_name,
+                "repository": repository,
+                "news_sources": news_sources
+            }
+            temp_file = "temp_legacy_config.json"
+            with open(temp_file, "w", encoding="utf-8") as f:
+                json.dump(temp_config, f, ensure_ascii=False, indent=2)
+            process_app(temp_file)
+            os.remove(temp_file)
+        else:
+            print("No news sources found in config.")
 
 
 if __name__ == "__main__":
