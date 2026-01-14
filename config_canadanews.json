@@ -1,0 +1,93 @@
+{
+    "app_name": "canadanews",
+    "repository": "https://github.com/faroukdubai2/fetch_news",
+    "news_sources": [
+        {
+            "function": "get_top_news",
+            "language": "en",
+            "country": "CA",
+            "max_results": 99,
+            "filename": "canada_top_news.json"
+        },
+        {
+            "function": "get_news_by_topic",
+            "topic": "WORLD",
+            "language": "en",
+            "country": "CA",
+            "max_results": 99,
+            "filename": "canada_world_news.json"
+        },
+        {
+            "function": "get_news_by_topic",
+            "topic": "NATION",
+            "language": "en",
+            "country": "CA",
+            "max_results": 99,
+            "filename": "canada_nation_news.json"
+        },
+        {
+            "function": "get_news_by_topic",
+            "topic": "BUSINESS",
+            "language": "en",
+            "country": "CA",
+            "max_results": 99,
+            "filename": "canada_business_news.json"
+        },
+        {
+            "function": "get_news_by_topic",
+            "topic": "TECHNOLOGY",
+            "language": "en",
+            "country": "CA",
+            "max_results": 99,
+            "filename": "canada_technology_news.json"
+        },
+        {
+            "function": "get_news_by_topic",
+            "topic": "ENTERTAINMENT",
+            "language": "en",
+            "country": "CA",
+            "max_results": 99,
+            "filename": "canada_entertainment_news.json"
+        },
+        {
+            "function": "get_news_by_topic",
+            "topic": "SPORTS",
+            "language": "en",
+            "country": "CA",
+            "max_results": 99,
+            "filename": "canada_sports_news.json"
+        },
+        {
+            "function": "get_news_by_topic",
+            "topic": "SCIENCE",
+            "language": "en",
+            "country": "CA",
+            "max_results": 99,
+            "filename": "canada_science_news.json"
+        },
+        {
+            "function": "get_news_by_topic",
+            "topic": "HEALTH",
+            "language": "en",
+            "country": "CA",
+            "max_results": 99,
+            "filename": "canada_health_news.json"
+        },
+        {
+            "function": "get_news_by_topic",
+            "topic": "POLITICS",
+            "language": "en",
+            "country": "CA",
+            "max_results": 99,
+            "filename": "canada_politics_news.json"
+        },
+        {
+            "function": "get_news_by_topic",
+            "topic": "CELEBRITIES",
+            "language": "en",
+            "country": "CA",
+            "max_results": 99,
+            "filename": "canada_celebrities_news.json"
+        }
+    ]
+}
