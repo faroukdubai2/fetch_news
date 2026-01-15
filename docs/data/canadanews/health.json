@@ -1,15 +1,5 @@
 [
   {
-    "title": "Flu shot urged amid surge in hospitalizations, outbreaks - CBC",
-    "description": "Flu shot urged amid surge in hospitalizations, outbreaks  CBCEight fatalities in a week: New Brunswick's deadly end to 2025  Telegraph-Journal",
-    "published date": "Thu, 15 Jan 2026 10:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY0VjQUtQVzVVZ3BMcWJJVjBvRjlzRldTanMycEVFdVhBaHRsM1V5cW9Jc0lxX1FSZ2dXZXVEanB3eGVGZmY3aEtVSHF3Vmo5Z1daZmhsZ1RuaDh1R0JLbU9PRGdnSkVkcTltelI2Wk5UejZSUG40N2xIS2o2VnRxeVZTa2hxbktFZXljZzFvYw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cbc.ca",
-      "title": "CBC"
-    }
-  },
-  {
     "title": "You’re probably not getting enough vitamin D. Here’s what Health Canada thinks will help - Yahoo News Canada",
     "description": "You’re probably not getting enough vitamin D. Here’s what Health Canada thinks will help  Yahoo News CanadaView Full Coverage on Google News",
     "published date": "Tue, 13 Jan 2026 21:03:09 GMT",
@@ -17,6 +7,16 @@
     "publisher": {
       "href": "https://ca.news.yahoo.com",
       "title": "Yahoo News Canada"
+    }
+  },
+  {
+    "title": "University officials urge awareness to ensuring measles preparedness - Clemson News",
+    "description": "University officials urge awareness to ensuring measles preparedness  Clemson NewsSouth Carolina confirms 124 new measles cases as outbreak on the Arizona-Utah line grows  Toronto StarSC measles outbreak has gone berserk: 124 cases since Friday, 409 quarantined  Ars TechnicaMore than 170 measles cases confirmed in outbreaks across nine states this year  The IndependentAt least 171 measles cases confirmed in 9 states: CDC  ABC News",
+    "published date": "Thu, 15 Jan 2026 12:04:05 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVDN4SzBzaFVhS3RueEk0cGMzY2RSSUZJMVFvRWUtdEM4N3kyQlA2TnMwSDFKZHExaGg2dndGVV9DMmdNSmp5cWhFVU9hMUZYangtbmZIcDJTSDRqUmYxN25nRm1YcE5pN2RxdmU2U2Zqc0R2M2VMaHZYc2RhR2haZXVXekRUdGtSZXp6THZOVk5jbmp4VjR4Mmx3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://news.clemson.edu",
+      "title": "Clemson News"
     }
   },
   {
@@ -30,16 +30,6 @@
     }
   },
   {
-    "title": "Provincial government warns Manitobans about meningococcal disease outbreak - CTV News",
-    "description": "Provincial government warns Manitobans about meningococcal disease outbreak  CTV News4 Manitobans died of invasive meningococcal disease last year, province says  CBCManitoba seeing rise in serious meningococcal illness  Winnipeg SunUrgent notice: Surge in Manitoba meningococcal cases  Winnipeg Sun",
-    "published date": "Wed, 14 Jan 2026 23:17:54 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWjNtU3FaR3BCZ2hZUndjNmlDRWJzWHB6T21UNkhuY0h1YVhvUUR2QzFWVWFjOGNXRng2VFZtMG9oSFhyeG1LNzJ2aHVPM0pwVmhPLWl1OEFFY1FGa3N6bzNwTDlNVU1lblllUGU1a3F1T09YN0haVkNWMl9iYTFCWTBteHhQNVJfbDdpdk96X2RXU2RPN2xaQ3dSMUdkcWhOcEk3a3RjS3hzZWZOb0ZCdXdQRlE3N0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ctvnews.ca",
-      "title": "CTV News"
-    }
-  },
-  {
     "title": "Mobile primary care clinics in Dartmouth, Lower Sackville and Windsor - Nova Scotia Health",
     "description": "Mobile primary care clinics in Dartmouth, Lower Sackville and Windsor  Nova Scotia Health",
     "published date": "Wed, 14 Jan 2026 18:43:50 GMT",
@@ -50,53 +40,23 @@
     }
   },
   {
-    "title": "Could AI Help Predict the Next Pandemic? - Medscape",
-    "description": "Could AI Help Predict the Next Pandemic?  Medscape",
-    "published date": "Wed, 14 Jan 2026 10:50:42 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUkRqUmZaNy0xaUN2Y1FGNVBQT2JnSHJxNEFiXzhuSk80ZFZVbm1UdFgxWEZOUVlrSWRQakcxSGliZkd2RHM2c0M5WVR3Zi1WLV92RFFIVzcxSjIyTlBORURfRnNaRU9QRnduNVVaM2hCcnNMdlpGY0g3R0VSZWU2SGY1dmk2dHplNXgzT1BmcmxZUE5DSWpyZGRQdC1vNFFxWFlhSDdFVmFVQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Possible bird flu warnings in Brampton, multiple geese found dead in Whitby - CityNews Toronto",
+    "description": "Possible bird flu warnings in Brampton, multiple geese found dead in Whitby  CityNews Toronto10 dead Canada geese collected near Port Whitby Marina, town says  CP24Dead birds, new warnings: What’s happening with avian influenza  London Free PressWhat killed 10 Canada geese in Whitby?  DurhamRegion.comSeveral Canada geese found dead in Whitby Harbour this week  CBC",
+    "published date": "Wed, 14 Jan 2026 16:42:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX2s5LXo2dmg4VzRUV2FhOVU1UVgwbmFqZWpMczNxcDlSVlRIVWRpRTk2TkpTaFo1YVJNVzJETHF2UW16ZDUybGVyd3FZd05tQm1waDhVcTg1OC1lZ1hVWHdlX3R0UWJBUlNCN1RMTlZyMFExdjhGRjhROUVxVmRUVFV1QXRXVWFxMnZpcnc4YTFRdTd4VGFGd0ZWOTVQSlZFUDhFZGlOWG05OEpNcXU2X1gyYmU?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.medscape.com",
-      "title": "Medscape"
+      "href": "https://toronto.citynews.ca",
+      "title": "CityNews Toronto"
     }
   },
   {
-    "title": "Obesity Under International and National Spotlights - HHR Journal",
-    "description": "Obesity Under International and National Spotlights  HHR Journal",
-    "published date": "Wed, 14 Jan 2026 23:49:55 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVWdNTlBwRkpKTE43RlRXMnBUQ2RhY01SNXBqNGo2UlAtS1RGYm45RW9HRVVlOFNEcWlzWDY3YUlPNmszT0x1cE5JY29yNXlKVkVFc3BtcWJDSDhLMFpsamIwdGlzWDNTMm5LRmV6LWt6WlgtZDRIb091WU13bkc0TFdHaXJjZUZpZmluZ0U3b180US13?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Pediatric Obesity: Diagnostic and Therapeutic Approaches in the Context of International Guidelines With a Focus on Polish Practice - Cureus",
+    "description": "Pediatric Obesity: Diagnostic and Therapeutic Approaches in the Context of International Guidelines With a Focus on Polish Practice  Cureus",
+    "published date": "Wed, 14 Jan 2026 19:27:28 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUXZ3N2dqcGtvbURkdFp6Q21haE11OXQ2OVBQb1YyQWJFY2NVNjRIR3R0VUQ5dExPYkQtcWRTYmpvbVI2Q3M2Y1BfWVhfTHJIblRuWnpmQUZKTDZRNm9Vd1A1a2ZBYzQtUkNxUmlUMnh5NXphSTFvNllLaERkQmVhOV9QWXZlaDk1bmN4M3RGY3Y3YzJSWkg5Y0k5Q0dndC14dmY5YWFKUzd4MmRTNjNYRk5YM2xUMC1WWEVHMEF1SHBKSE9iQmo2eXRsblhXUXM4akt0YUhTQXRCaDQwUDVnei1MSWtDRmt3aDhYN2NBS296SGNUOTBHMUhzVmNaUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.hhrjournal.org",
-      "title": "HHR Journal"
-    }
-  },
-  {
-    "title": "South Carolina confirms 124 new measles cases as outbreak on the Arizona-Utah line grows - Winnipeg Free Press",
-    "description": "South Carolina confirms 124 new measles cases as outbreak on the Arizona-Utah line grows  Winnipeg Free PressView Full Coverage on Google News",
-    "published date": "Tue, 13 Jan 2026 22:10:30 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSGhtUm5XaUZINk9PMTZIWW16VjNjMlRyM00waXJHdktadC1BQ0RRQzB0cHA5QXRJc2tfOWsxaG1TODd2N3JSZnBfWnlxMDVYT3ZIc0xXVjJkd0JQbk01ZHhsU29Mc015QXJIbFUzOTFlZ0JPOUZCSG9WSWV4Z2JBRkg3ZGNiNW82dzFpMXRlMnNyWVM5cm9ocEFFQ1pTaW4xTUJRVHdfcllCb0x6XzQ0M3k4bThwNzd4WjJtZzdmSDRla1BFXzAzTlBuckFNUUx5eDZpZER4cTlTbTJ1Z3lHNzZDSXpkSVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.winnipegfreepress.com",
-      "title": "Winnipeg Free Press"
-    }
-  },
-  {
-    "title": "Dead geese were found in Whitby, and wildlife experts believe avian flu is the cause - Toronto Life",
-    "description": "Dead geese were found in Whitby, and wildlife experts believe avian flu is the cause  Toronto LifeSeveral Canada geese found dead in Whitby Harbour this week  CBCDead birds, new warnings: What’s happening with avian influenza  London Free PressPossible bird flu warnings in Brampton, multiple geese found dead in Whitby  CityNews Toronto10 dead Canada geese collected near Port Whitby Marina, town says  CTV News",
-    "published date": "Wed, 14 Jan 2026 21:50:36 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUkh1RGZpSDVrWXlzbjZqXzR0bmJ1S3Y5MmxvN09vdFNveXRINjlCNnBTOUUwRllHTVRsYWdKSG1TbUg3T2NHOWFuejYwcWZDRjJZdU8xNkRpOEwzRm1CWUlxMG5XWFJhV1pQU3M4ek5mZjdDTWZjem00TnRVY0tZRXl6dHkzR0N1aGlMNDB3SEpHRWNWRFdsSUZTTEVKSGpmeUpSWUtONWZuQ245cmk1N3hDRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://torontolife.com",
-      "title": "Toronto Life"
-    }
-  },
-  {
-    "title": "Measles Update #66 - C.W. Wiebe Medical Centre Teen Clinic - DiscoverWestman",
-    "description": "Measles Update #66 - C.W. Wiebe Medical Centre Teen Clinic  DiscoverWestman2 southern Manitoba health centres among new measles exposure sites, province says  CBCMeasles exposure identified at hospital in St. Pierre  SteinbachOnlineThree new measles exposure sites identified in Manitoba  CTV News",
-    "published date": "Tue, 13 Jan 2026 20:47:09 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN0o4WWlGZ1JKZVViWmgydHMtRE9oTy1nbzB0ZGNFR0FhS0RyYld5TGNXdGk3TkFRbUVzczBVZlBQdXFnSHJzRlVubmVyYTQyVzdSV0Z0cFlOcUQwZWFsQ1lFZWhZLUpSaDVpWnlrSkxfR2hsN2d2RFR5aW1fWWZ4R2JBNVh5TjhfOXJnNUNmdWNTOVVKdDhR?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://discoverwestman.com",
-      "title": "DiscoverWestman"
+      "href": "https://www.cureus.com",
+      "title": "Cureus"
     }
   },
   {
@@ -120,23 +80,13 @@
     }
   },
   {
-    "title": "Quebec on pace to record back-to-back years with 600 drug overdose deaths - CBC",
-    "description": "Quebec on pace to record back-to-back years with 600 drug overdose deaths  CBC",
-    "published date": "Wed, 14 Jan 2026 22:18:42 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSGVudGNRZl9WcWVBaVpaNWQ0VThVUnIyN0JieGZTZ0FYRnhFVmZCM1NoeVd3Y3pncFRWZU1PSzNmekVkQ0p5YXdpaWpBUUNQSVNpREpxVEwwcmdDUlZBejFhRWd3QXN2eTVaMHkyanFBWkhiV3pNNDEzWk9ORm9nMHhqaGE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "New screening for cervical cancer coming to Quebec - CTV News",
+    "description": "New screening for cervical cancer coming to Quebec  CTV NewsQuebec moves from pap tests to more sensitive HPV screening in effort to catch cancer early  CBCMontreal MUHC highlights research into women’s health for cervical cancer awareness month  CityNews MontrealChanges coming to cervical cancer screening as Alberta shifts to HPV testing  DiscoverAirdrieAlberta to change the way it screens for cervical cancer  Yahoo News Canada",
+    "published date": "Tue, 13 Jan 2026 22:37:27 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblBJQU5ZQlJpbUtQd0s5STRXNllQQ1JrMGJ2THpobWRzTjZ0OFVoMG1XZERaU2lsLUhVNVJQVVNFQTgyTmlGWGZ3dWp2cnNBOWhEZ3p0SkowS1IzdU1mVHNlMmhTTkJVU1Q2T2wtNlBNUXRoN1BrQ0MyWnlrWVpqTV9QTkxsamVVTmp1dzRtUlRxV2ZOYlE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.cbc.ca",
-      "title": "CBC"
-    }
-  },
-  {
-    "title": "Montreal MUHC highlights research into women’s health for cervical cancer awareness month - CityNews Montreal",
-    "description": "Montreal MUHC highlights research into women’s health for cervical cancer awareness month  CityNews MontrealQuebec moves from pap tests to more sensitive HPV screening in effort to catch cancer early  CBCNew screening for cervical cancer coming to Quebec  CTV NewsChanges coming to cervical cancer screening as Alberta shifts to HPV testing  DiscoverAirdrieAlberta to change the way it screens for cervical cancer  Yahoo News Canada",
-    "published date": "Tue, 13 Jan 2026 23:14:52 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT3RqYWNBTGI1dXRfaHdoNHlmeWljaFZxUkNpcUZTLUV2MEFWM1BlaUhFb2I1Sk5UMXVuU29DREtDejdXNlB6TDBnaEtjazhma1gxNzZSU0UyWXd3WElmcTZwY0Rpa1RPclg5Z2FReE1iS3p6a3pXTE1nVjRjYkFmVTNoOXR1dw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://montreal.citynews.ca",
-      "title": "CityNews Montreal"
+      "href": "https://www.ctvnews.ca",
+      "title": "CTV News"
     }
   },
   {
@@ -150,13 +100,13 @@
     }
   },
   {
-    "title": "Canadian researcher honoured for pioneering work in mineworkers’ health - Canadian Mining Journal",
-    "description": "Canadian researcher honoured for pioneering work in mineworkers’ health  Canadian Mining Journal",
-    "published date": "Wed, 14 Jan 2026 16:15:09 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTlJaSWlMZlFWV1lJWHRDME5NRmdVaHhCVUxrem5KMWc4RTJ0S0ZyTDVkT3c2MUFXekxVQld6c1JiSUQ3N3FFMWFudTRwamlCNmcxMk55cmVTVFE4ZDM5RFpma0hSdmVQbHBaUlVPclFyVkV5MFlWQ09kbmY3WTBqd0x6Wm04VWRVUk82RzVQYU1YOTV5OHp0SUxON0R4MUcxUkdob2p6RS1mSG1kSXhRcHMyem4?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "New RFK Jr. pick for vaccine panel: ‘I was not anti-vaccine. I am now.’ - University of Nebraska Medical Center",
+    "description": "New RFK Jr. pick for vaccine panel: ‘I was not anti-vaccine. I am now.’  University of Nebraska Medical CenterView Full Coverage on Google News",
+    "published date": "Wed, 14 Jan 2026 22:51:06 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLTByTnBCQTU1VlRwaXladkpkb2J5cHFLaFMyVUxGWTEtVUdCZjBrdkFHZlEwZ1lKc3c0RVdSeWhUTEJDaWxYT1AwSFFaN0dsVFFBY3Q2TU9OejR3TF9vLWw3eGwxMFFidGl6c1JYNU0xQm1MYU9uVEtxd0hIUWZSUDlwUWlSX2xGY1hBTWFPa2hDTXNYaG90NG04NkF5NFd5a21rS0hCUDVwdi1WTjNPRzBITjg1UlFfcHItWE1nYlI1ekhu?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.canadianminingjournal.com",
-      "title": "Canadian Mining Journal"
+      "href": "https://www.unmc.edu",
+      "title": "University of Nebraska Medical Center"
     }
   },
   {
@@ -170,73 +120,33 @@
     }
   },
   {
-    "title": "Influenza Vaccination in JIA Linked to COVID-19 Pandemic, Caregiver Demographics - Infectious Disease Advisor",
-    "description": "Influenza Vaccination in JIA Linked to COVID-19 Pandemic, Caregiver Demographics  Infectious Disease Advisor",
-    "published date": "Wed, 14 Jan 2026 05:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdGFjUlNYN0hSRkhZRmZLQVd2dUpxVTRjVW1HWkRVNXhJQmd4ZF9zVEEtZUJuZlZndjd1TTZLSUZyWkFSMTdLdlE4bkIxTS1vQ0p5THNSOFFIRnRGcUYxWFJXWDNMUFlSOUNCZVhPaERZUTQxc28yZ0wyeTlDczMyZFl6Wld6NEFfdlpLTC1YUTdMakh2eDljNER1am1UeDhtRlhxcFlTbGNBSW9LaV9SNGFLMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Exposure to “Forever Chemicals” Linked to Higher Risk of Gestational Diabetes, Major Review Finds - Mount Sinai",
+    "description": "Exposure to “Forever Chemicals” Linked to Higher Risk of Gestational Diabetes, Major Review Finds  Mount Sinai",
+    "published date": "Wed, 14 Jan 2026 19:44:04 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTTIyT0tWa2c4NUFZWU42YnBsdFlsSWp5NC1fZ3RkRVdLV3dvaThFTERnV0QwT1MtdDg0SUZZOXpLaW9DRjlkVUFia1l6SFZQTWRPY0RZVUVlZGpocXhqbDNOS1BKQThweUZxaWRHM3pLdnZOd29OcnN3dkRuN2JKeVV0eDJBQV8xczRudEZoYjMyRnNrTkRRajZvRTZhSktWTXRBTEZ4Mkt0eE45c19qZ25kS1JVZDJfYkxOS2ZDUUJva01xbnpZQk5CdUJnMFNrUFB5VlNWQ2Q?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.infectiousdiseaseadvisor.com",
-      "title": "Infectious Disease Advisor"
+      "href": "https://www.mountsinai.org",
+      "title": "Mount Sinai"
     }
   },
   {
-    "title": "Health Canada approves first GLP-1 pill for high-risk type 2 diabetes patients - Benefits and Pensions Monitor",
-    "description": "Health Canada approves first GLP-1 pill for high-risk type 2 diabetes patients  Benefits and Pensions MonitorHealth Canada approves 1st GLP-1 daily pill. Here’s who can take it - National  Global NewsHealth Canada approves RYBELSUS® (semaglutide tablets) to reduce the risk of major adverse cardiovascular events (MACE) in adults with type 2 diabetes  Newswire Canada",
-    "published date": "Tue, 13 Jan 2026 13:33:50 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPblA0Q3BuVnJHcEppOHBxR2UtRGZUYUs1SkhDYk9MdEFMVUQxak9pUUFCX1BMLWEydXhnNzhzN0pPWURpS3FCTE9RMGxGalRFVDM3RWdYMm9abGxqZE9Ga21JOUxtaS0wSExsWElZbHpyQ0otbG5IZVNsdzBfbWtaTTdCbF9ad1l4Qi1lMTQyQ21VSmdHWkw1QldlenhJaERDMW9adEVhcmFDUE1WZnYza29OLVBKV0x3UGZFNnVfdDZpNFRqQTl5b2JTcDhrV0pOOGFWalVQOE5JWlVs?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "NHS spending up to £19k a time treating people suffering after overseas surgery, research finds - The Guardian",
+    "description": "NHS spending up to £19k a time treating people suffering after overseas surgery, research finds  The GuardianWarning as surgical tourism leaves hundreds in hospital with complications  Yahoo News CanadaCheap Surgery Abroad Leaves NHS With Big Bills  MedscapeOverseas surgery complications costing NHS up to £19,000 per patient  Pulse Today",
+    "published date": "Wed, 14 Jan 2026 02:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQM0tCZS15VFZYbllTMnB1RkRnUUd1eENUZHNXT19Vbm1Mek5ZYkRQU3R3YnFEbXEwY1lKbVIyS0xETjIzOE0ydWZJOTVKeVVCOHdMR1NTLWprVGtNLU12M0VkVXRHRGlCRjNRUGdfeEYxOC1oVUU0U2hEcUFnZFAtTURuVmlxZU93Y3haSnJabUVzcWhJeEFtMTJadVRIWE85VGlOTS1aa1N0UXdvbmppR0hFd1pCbXViWXpSWFZ4QWE5ajcydzQ4QVVPS09NaVFLX2RZbUZDaEk?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.benefitsandpensionsmonitor.com",
-      "title": "Benefits and Pensions Monitor"
+      "href": "https://www.theguardian.com",
+      "title": "The Guardian"
     }
   },
   {
-    "title": "Cheap Surgery Abroad Leaves NHS With Big Bills - Medscape",
-    "description": "Cheap Surgery Abroad Leaves NHS With Big Bills  MedscapeWarning as surgical tourism leaves hundreds in hospital with complications  Yahoo News CanadaOverseas surgery complications costing NHS up to £19,000 per patient  Pulse Today",
-    "published date": "Wed, 14 Jan 2026 17:39:13 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ25Nb1YySFptS2FqMFZwMWtQazBPbkZNTGpHdVB6UlVJLXVaemVmNFJNYXBoNVhkV3VBRFRaMUJ6OHFfRGxtTVpVcVd3cUpVRFM4d29qdzVqajRHZ3hSTnprcHBZSm91YlA2a0JRU1Z6X1FqRG5MMXA2U3d2NW9CQlBBU084TjhEazd2UFlnZ3dNTUl2aWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.medscape.com",
-      "title": "Medscape"
-    }
-  },
-  {
-    "title": "Flu cases decline in London-area, data suggest the worst may be over - London Free Press",
-    "description": "Flu cases decline in London-area, data suggest the worst may be over  London Free PressInfluenza cases spike after holidays, Southwestern Public Health urges vaccination  CTV News",
-    "published date": "Wed, 14 Jan 2026 20:17:13 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaURVVndFdVJ0N0h2NjJGZXFJZTI2Ti0yODlMZGhpX0VVb0JnVVhWYnRMekRLR3h1MDZjWE1KVzZtSDFGUi1vZ01GakJfdndpTDlDNW5xdk51ZV91cXhCY0RhVXRpV1J0X3hNLXNjMlFtUHhYcjFqcDFZblB3SU5wQWhQWm5Xc1BINndRaVhxeG9tZWZGUkdoeTVjMGo3dnJCZGRMdmNR?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://lfpress.com",
-      "title": "London Free Press"
-    }
-  },
-  {
-    "title": "Discrimination damages the body — and makes you age faster - Université de Montréal",
-    "description": "Discrimination damages the body — and makes you age faster  Université de Montréal",
-    "published date": "Tue, 13 Jan 2026 21:31:31 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbERhcG5KTk1LQm5MRU5IODJ1alZERmtmc0RETGRyVTYybW80WG44LWVOS3VVcExKZHV4SkdXc3lvT0JUOGhpb3ZRMWo5VExGbHRMNUw1SXc2WDg4M2w3b0lPeF9JMGppZGRhc0tHdzQ1YUszRnhTanJkZ3FWNWpHOHkwellIYnpjVURDcHl1MDMyWVh6WXZjZEpKV25ENU44aU9KU3FPRVIxS0g4Qmc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://nouvelles.umontreal.ca",
-      "title": "Université de Montréal"
-    }
-  },
-  {
-    "title": "Tattoos: Signals for Altered Vaccine Responses, Cancer Risk - Medscape",
-    "description": "Tattoos: Signals for Altered Vaccine Responses, Cancer Risk  MedscapeEpidemiologists warn tattoos raise risk of developing aggressive melanoma  Female First",
-    "published date": "Wed, 14 Jan 2026 13:40:37 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR0FuTUFCeU9nTFpvRm9fYWhOaXZhZUNHMlNnMUNFd1FhNnRuUEw4ZUpndkNKT0pfb0k2eWtvbTR6TUhabmxiTThqTXhkazE0Z3RBWjMxRmZCRlhBOUlyQ0thYlpjNl9KaW5FYzZTbjQ0Zi1lRVcwS3dJVHdGZFhUakJhcmhBQzFnbzJQbHlDck9SbG9YREw1S0pvZzU3a3JzN040TzRn?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.medscape.com",
-      "title": "Medscape"
-    }
-  },
-  {
-    "title": "Man worked on farm for five hours before heart attack diagnosis - Yahoo News Canada",
-    "description": "Man worked on farm for five hours before heart attack diagnosis  Yahoo News CanadaPortrush: Man worked on farm for five hours with heart attack  BBC'My heart attack was a real shock after being fit and healthy all my life'  Belfast Live",
+    "title": "Portrush: Man worked on farm for five hours with heart attack - BBC",
+    "description": "Portrush: Man worked on farm for five hours with heart attack  BBCMan continued to work on farm for five hours after heart attack  BBCMan worked on farm for five hours before heart attack diagnosis  Yahoo News Canada'My heart attack was a real shock after being fit and healthy all my life'  Belfast Live",
     "published date": "Thu, 15 Jan 2026 00:16:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42bVNSWWxZc1VsaHBZM3AwdjlEWG9zem1MTnZMVzJLRXQ1UzhwNzdGOXczWHZoZjVVMTVMdERZQXdYeUhCNl83b1F3bkpLS3dGeElWMU1hdmJSc192al9ZVE5rYmtoQ1dqNFp4T0Y4bU9TR09OZ0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15ZjZoRnZuTlhvcjN6R2JiY1RyVWVxSExqZzNvWEhkTThhbFpMSkZVVmJTbjYtYUQ4Y2U5ZERaaG15UVRjYnBGTGQzUks0dExZeEJvYThjZkl5WDRx0gFiQVVfeXFMTmQtNWpyR2QxUGVnNFNkYm1jcEtVbnZtVFBhc2JucDhNbXhOaVhzc3pmZV9CWWZkdGZ5U0tTdWUzMFcydWJTV3lSQVFkbVlIX0hMVExDLWk0T3VZTDRtaVFla0E?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://ca.news.yahoo.com",
-      "title": "Yahoo News Canada"
+      "href": "https://www.bbc.co.uk",
+      "title": "BBC"
     }
   },
   {
@@ -250,36 +160,6 @@
     }
   },
   {
-    "title": "B.C. Chronic Wasting Disease count climbs to 9 after another case confirmed - Northern Sentinel",
-    "description": "B.C. Chronic Wasting Disease count climbs to 9 after another case confirmed  Northern SentinelView Full Coverage on Google News",
-    "published date": "Tue, 13 Jan 2026 16:07:35 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR1RROFo2MENWUjRkZzl6LXZBbjhjN0ZWTFFUZ0EycHBUaFl5Z1drSWdPZ2VVeDNSaW1mb1RhV2xxbmd5R292MlA0VlM3Zmc4M2Y5TXBvN2wxaS0tWUdEQ2tzbUF2cm9wZGZNRGdEU3MzMkNSOXNpMi1rMzE3b0hHSllLYllSOEZBVUtoRTVPNndCVnJEaVdrSWhnOE1PbERTRlFDQzY0elpGTWdYa1FtZ0pyVWFPZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://northernsentinel.com",
-      "title": "Northern Sentinel"
-    }
-  },
-  {
-    "title": "How an antibiotic-producing bacteria resists its own drugs - healthsci.mcmaster.ca",
-    "description": "How an antibiotic-producing bacteria resists its own drugs  healthsci.mcmaster.ca",
-    "published date": "Wed, 14 Jan 2026 13:21:19 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVllfZGlTaHBpR0pBOVJwMW9yOFZnMHNQLTEtZlBOS0tnLUEzaHZKWlVYWEdKa1k4bVhKTlZvbTlYMWU0MjgzR05RRU9VZjRRcWM5emd6Qkt1MU5DQW1BdzBTSlBhOGZ3eFNRYzZ1dE9SZ3JMaWtyaVpyc3ZqQlVDRTVaNmZzN0p1YVdod2NPcVJ5VkU?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://healthsci.mcmaster.ca",
-      "title": "healthsci.mcmaster.ca"
-    }
-  },
-  {
-    "title": "Post-meal blood sugar spikes linked to increased Alzheimer's risk - News-Medical",
-    "description": "Post-meal blood sugar spikes linked to increased Alzheimer's risk  News-MedicalPost-Meal Blood Sugar Spikes May Increase Alzheimer’s Risk by 69 Percent  ScienceBlog.com",
-    "published date": "Wed, 14 Jan 2026 17:47:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUXZ0WnZLbzBMQ082eFZCRlZTSTd2MmQ2YVZFejFyWmo5U1Z1ZTRLeU9EOWlNQ25oYzMzbEZ2bF9LVmN5d0pNaTNNTkE5SVJmZjV2VkYxaXpIa0hRdkIwNjBrR2toNUQ1QWJjLV9aeHVkNUN3c0JiVXBiazdDY21fWHNGY2dLb3dqbUpSelFFNUZFbW1sejVNa1F6TEc1eVBhZ1RuS040MmV6V0I1d3dDZ1Zn?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.news-medical.net",
-      "title": "News-Medical"
-    }
-  },
-  {
     "title": "Study looks at driving habits of older adults with dementia - University of Toronto",
     "description": "Study looks at driving habits of older adults with dementia  University of Toronto",
     "published date": "Tue, 13 Jan 2026 13:09:00 GMT",
@@ -290,53 +170,533 @@
     }
   },
   {
-    "title": "Is gamification in wellness just a gimmick? - The Globe and Mail",
-    "description": "Is gamification in wellness just a gimmick?  The Globe and Mail",
-    "published date": "Tue, 13 Jan 2026 17:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRjhkNXpxb3dqZXpNVXhwOGNadjNfcnlnRXViRVpGZF9SclozMkRKbFh4NGx6dUVoLS1VZmZQNkhuODJXQlVLd20xTXNwWjBiOVprdE5UclQ1WGtWTVVIUTdZNHNBTUI3eHFxWVBHbWctOFlZWW1nQ0otb0ktNjRBSnQ2TVpYUFo2Z2tpNTBsYlA3UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Clinical breakthrough: Manchester Royal Infirmary delivers UK first NHS treatment to a patient with an aggressive blood cancer - Manchester University NHS Foundation Trust",
+    "description": "Clinical breakthrough: Manchester Royal Infirmary delivers UK first NHS treatment to a patient with an aggressive blood cancer  Manchester University NHS Foundation TrustFirst leukaemia patient to get pioneering drug on NHS says it is 'very sci-fi'  BBC",
+    "published date": "Wed, 14 Jan 2026 13:25:25 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPU25RMVM2MzFudzNlSUdSLVl4Y1E4WUlkZHQ3SEZGdmRKaTRISnBIbklrZFlUeTFlZ0JiMnM3SnRGcS1uTENpLXF4UE9yazNHd09BbzlBRmtLaWQ0Q0N5N3VWNHZhSHZPeTZRbXRYM1ZGZ3d3X0Q2NkgzTjBLdDhVdEpUdU5kU1oxVERGRGQwaHFhWWdFWVRZSnR0VXhfWmpPSHdDQ0ZDc2VfdjJ1U2pIZTZYWDRBTU0tREZGaFh6NGVkWjFxazNReG52b0dIN2g2cnNvOXZELTlESGVTRDdSTlNuVERTOFBGaGp5Mw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.theglobeandmail.com",
-      "title": "The Globe and Mail"
+      "href": "https://mft.nhs.uk",
+      "title": "Manchester University NHS Foundation Trust"
     }
   },
   {
-    "title": "Dementia rate expected to triple by 2050. Here’s how to protect your brain health - Sudbury News",
-    "description": "Dementia rate expected to triple by 2050. Here’s how to protect your brain health  Sudbury News",
-    "published date": "Wed, 14 Jan 2026 02:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObE1LaDZsOFZqMjJMVzduWkpKX25ubVplLW4yT0RNOGI3Sm9hbk1iMm5EWHJZTkUzWHpqLU45RWx0dDdGR3Jia1Q3ZFQxZ0ZDMVc4MlFweFp6SWlXVW5leVpDLXEwZVVkb3ExQWJWR2NTTVJadlh5cU9FdVQ4ZUxKaGhPNWhORW5GX1RCNUNLeEwwbWNfdmtpV2p2Q3Vxc1BIekNNejBfWlZ2VDg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Pregnant Women With COVID-19 Have Increased Risk for Complications - Rheumatology Advisor",
+    "description": "Pregnant Women With COVID-19 Have Increased Risk for Complications  Rheumatology AdvisorView Full Coverage on Google News",
+    "published date": "Wed, 14 Jan 2026 05:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLXpfQXRYby1aMVVGQUZSX0lhemFMM3JPRkJYNGxobWd4M0phV29QUjV5bWszYW5yaXJRekdjbzdXdWlLVS15dFpLTXkyTmRJS2J2LXBuLTBJMG9zeTVjNnNWWG5PNFd1eUxOYTFYdFNOSUtXaFZoaGg5TG1UVDlPaDUyUWJsek5penJ1eVJUQUZsdlNHZmxUUWJuN2dkUFZjUE9OejZNTm5NT193?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.sudbury.com",
-      "title": "Sudbury News"
+      "href": "https://www.rheumatologyadvisor.com",
+      "title": "Rheumatology Advisor"
     }
   },
   {
-    "title": "A Forgotten Molecule Could Revive Failing Antifungal Drugs and Save Millions of Lives - SciTechDaily",
-    "description": "A Forgotten Molecule Could Revive Failing Antifungal Drugs and Save Millions of Lives  SciTechDaily",
-    "published date": "Thu, 15 Jan 2026 03:37:10 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZEJWb3lRVDlLdm9TWV9XSG5wbDZXUG03dmRXQ2R3OE1lTXRKVDhTanRyenpBWjJWT2FjVTJPMmFJb1F3aUxGVlFGeVJlcy1MX3JZZlNZRmc5bDhYTE5uUGQ5SUY4bXJRWFNGdzZyYzlrbGRzVW12UXFnLW5TX1VEdnJ4WU40UzJmUFJVYUwxSFVaN1ZzQmRUM3VHZVpRMkpidE0xN1MtakgwaHBYUEdoOQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Genetic overlap across 14 psychiatric disorders - Nature",
+    "description": "Genetic overlap across 14 psychiatric disorders  NatureGenetic Overlap Challenges Boundaries in Psychiatric Disorders  European Medical JournalThere are five macro categories of psychiatric disorders  Evidence Network",
+    "published date": "Tue, 13 Jan 2026 16:52:30 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ENTA3dWVmWjNFbGlpczFmZjY0VGlMQjNMSmExanJyTGM4OFhTN3ZQQUNCbjlJU3dmc3NSLWttWmNBb0FfVmlSa0VHVkNBbURjZ3RhM1Fzbzhkd3RkRC04?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://scitechdaily.com",
-      "title": "SciTechDaily"
+      "href": "https://www.nature.com",
+      "title": "Nature"
     }
   },
   {
-    "title": "The Ozempic era might be over already - New Statesman",
-    "description": "The Ozempic era might be over already  New StatesmanPeople coming off weight-loss injections risk fast weight gain  BBCOpinion | I couldn’t afford to keep taking Ozempic. Here’s what happened when I stopped  Toronto StarPeople regain weight faster after stopping weight-loss drugs, study finds  MSNPeople regained weight, worsened heart health after stopping weight loss drugs: review  CBC",
-    "published date": "Wed, 14 Jan 2026 17:25:17 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRHlxVjRxOE5xZ1JHQjBoZ0lQNnd4VkZkTmthamJQZklVQXdraDV3RWxZYk1nbjVYRjJxbksteENtZ05ZM2E5emd4aXhqdmRTZy01dFdFYUpkVnc0cXNIR19lcG8yZ2h2NjBNWUg1YUtSMWxhbFRuUTlmbl93emdfTnYxRWdMLVE2MWFLVVBaeGEtNnZy?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Incomplete Patient Medication Histories Pose a Significant Barrier to Finding the Best Treatment Choices in Outpatient Community Care - Cureus",
+    "description": "Incomplete Patient Medication Histories Pose a Significant Barrier to Finding the Best Treatment Choices in Outpatient Community Care  Cureus",
+    "published date": "Wed, 14 Jan 2026 18:37:28 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOMmQ0d2x3N0dUNFlpVkdjNWVIZ3AzNXVEaDBGM3NjMWtSQkdMWERqNmpWUGtqd29rUG9HN29BZGJNbGJjNzA1T1ZNRDdKS3g0MVZydENQR196Y0VEbUFEZlE0ZUdqUkg5VjBOMlM1Z01vNUtyNzJhV001VFlLbW8zSjN0eU1scWFBdm1JQno5YXRQdFV6UkhKai0zSkJ0WjFIMm8tY0lXUTdNcGVlN1Q3SC1WSV9rMkZpOC1SakFhWFNlcWx5aTZFWXFMUWIwazUxcUsyOXpkeU9LR0Jqa0NPUENZVnF6TTI1UTVUSXhfYWtWcXh1UFlacVEtT1N4U3BPMUZBeFZkVFBzNGpGRUJpdS1sTXR5bzl1V1kw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.newstatesman.com",
-      "title": "New Statesman"
+      "href": "https://www.cureus.com",
+      "title": "Cureus"
     }
   },
   {
-    "title": "The State of Your Teeth Could Predict an Early Death, Study Shows - ScienceAlert",
-    "description": "The State of Your Teeth Could Predict an Early Death, Study Shows  ScienceAlertYour Teeth Could Reveal How Long You'll Live, Study Suggests  NDTVWhat the state of your TEETH can reveal about your risk of dying young  The Sun",
-    "published date": "Wed, 14 Jan 2026 01:45:34 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUFRNR0VxTDEzTFV4bGxwZXc3aTVwT0VjRERLX1V4QTJfbGxDZjl5OV8wT3BRRVJGSjlnMlBYSkw2ZkxyZm9nUV9GRVY0dm1feER6ZHBZU2I1c0dxOU9MZVV3MTdVRUVRUTJnX0JTdGFPcGdiQTllb0Y1a1RoMlltQngySVBYUTNxSVhPYmZ5YzMxVHNMaHI1ZA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Universal nirsevimab slashes RSV infant hospitalizations, study suggests - CIDRAP",
+    "description": "Universal nirsevimab slashes RSV infant hospitalizations, study suggests  CIDRAPNirsevimab Linked to Lower RSV Hospitalization Risk in Newborns  Infectious Disease AdvisorEvidence shows benefit of RSV vaccines as Trump officials push restrictions  The Guardian",
+    "published date": "Tue, 13 Jan 2026 22:14:56 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSDZLaDVMeFhEVlZTc0R4dkhXVTRlRzBwMDdpYnFPamRtWGFRbHhOTjdxMTF6YnNlbG5nX2Q2eHZBdGt0ZlAxV1ZHaFo1TTRrSm5rc0E4c3dJOVdmX0dMSFIwWUk4endZS1J5MkdILTNBeWVuR0Nvd1AtUC1VOF9kUm9NU0pPYWF1RVRNS3lTemIwRTRWTjd6U0JwdWdVSm9rYVFUWFdpaWg3czBTelc2RFhxS002QzB5RHE3eXBR?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.sciencealert.com",
-      "title": "ScienceAlert"
+      "href": "https://www.cidrap.umn.edu",
+      "title": "CIDRAP"
+    }
+  },
+  {
+    "title": "Digital CRISPR-based diagnostics for quantification of Candida auris and resistance mutations - Nature",
+    "description": "Digital CRISPR-based diagnostics for quantification of Candida auris and resistance mutations  NatureDigital SHERLOCK: Rapid Detection and Resistance Profiling of Candida auris  Genetic Engineering and Biotechnology NewsA CRISPR fingerprint of pathogenic C. auris fungi for precision diagnostics  Phys.org",
+    "published date": "Wed, 14 Jan 2026 10:26:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxN2s0V2lOM1ZPQmt5TzM0V1RQS1pFU18yVDFodEo3VXB4SzlvYk41a1pETi1aMm5qRFFrLURqSHhlYkt0UVBVWENqdkdYM3JyWW1SbzlJbUdPUTF6eTA0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nature.com",
+      "title": "Nature"
+    }
+  },
+  {
+    "title": "Carolina researchers find at-home self-collection testing can expand STI and HPV screening - UNC Health",
+    "description": "Carolina researchers find at-home self-collection testing can expand STI and HPV screening  UNC HealthAt-home STD tests offer new options for screening and treatment  CityNews Halifax",
+    "published date": "Wed, 14 Jan 2026 17:49:16 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRFl2U2tZSTRtNTBJMlA2VHhtQjg3NDRDRkh0d01UTHc1LUxpZWpxMEQtUTRrZ2l5M1dXNG9sdE5zWkxDUjhMSjViRnFJQ2h0VDVlcDhrNnlwQS03OWkyUWJQa1VrZXRGOUsxRHNnazRrejZERjN5WlQ3SFFlS0N6NHJGR0g2N0ZsTGJsVXR2QnJzSk0zbTAtU2ZjOUxVUFZZTXhVSE9Edk1xeWNCbEk4MnRBcE5MQ3pfMjZnd3ZmMXZoR3JkTVg0cVhB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://news.unchealthcare.org",
+      "title": "UNC Health"
+    }
+  },
+  {
+    "title": "Accuracy of Deep Learning in Diagnosing Chronic Obstructive Pulmonary Disease: Systematic Review and Meta-Analysis - Journal of Medical Internet Research (JMIR)",
+    "description": "Accuracy of Deep Learning in Diagnosing Chronic Obstructive Pulmonary Disease: Systematic Review and Meta-Analysis  Journal of Medical Internet Research (JMIR)AI-Powered ECG Analysis Could Facilitate Earlier COPD Diagnosis  Technology NetworksAI-powered ECG analysis detects COPD  Digital Journal",
+    "published date": "Wed, 14 Jan 2026 18:37:33 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4xR3NfX3ZxZ3I5TGhTYU5MWTRnNGhQNVdoVlNISU16R1psWGp1d1EzejQyVk1QZjJHSzZkQWxkekhNcUg5M3FKeXdB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.jmir.org",
+      "title": "Journal of Medical Internet Research (JMIR)"
+    }
+  },
+  {
+    "title": "Economic Instability Increases Risk for Pediatric Long COVID - Rheumatology Advisor",
+    "description": "Economic Instability Increases Risk for Pediatric Long COVID  Rheumatology AdvisorView Full Coverage on Google News",
+    "published date": "Wed, 14 Jan 2026 05:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMkdDV3FfMHI4dkJyUlZkR1ZRMi13bGZGSzBHOTdKaDA0OUJReTQwdzlsN0FIbXZDQkFhU2p5dEhsR2x0MGdmSXBMZFBXbjlzTE5CcXVYYXNaSXpYWGxqYnNQZU5lVVVGbF8tYThfakpZSFZuUkU5UmZ2Nzl4dk1uRzI4dF9USFhtSjliZEYtRTBOR3lRSWNZNEE3b2lRSlRLaHl2Mw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.rheumatologyadvisor.com",
+      "title": "Rheumatology Advisor"
+    }
+  },
+  {
+    "title": "A simple blood test can predict Crohn’s disease before symptoms appear: study - University of Toronto",
+    "description": "A simple blood test can predict Crohn’s disease before symptoms appear: study  University of TorontoBlood test flags digestive disease risk years before symptoms appear  Fox News",
+    "published date": "Wed, 14 Jan 2026 16:02:04 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZWkySFJvbzFxdUV1ZTA0d3RSYzFmWG1ITHBTSTZVRzVtTThXaVNhanJCNmdqelFkWnpEVEhRR0FuRUtfZWdwcmJYWk1UV3QyOEZiRVgwSTU1VnE5ODd2dlRrRXZGTFpxYkRTUWJLSEthcV83WkJ1TmdxcFFXbEE4cktOMEpZby10elR1M3o4NC1aMXdDaEQxVlZOaVR2TFFtZWdNWm1sbDJtOWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://temertymedicine.utoronto.ca",
+      "title": "University of Toronto"
+    }
+  },
+  {
+    "title": "Is Full-Fat Cheese Good for the Brain? - Fisher Center for Alzheimer's Research Foundation",
+    "description": "Is Full-Fat Cheese Good for the Brain?  Fisher Center for Alzheimer's Research FoundationDairy and cognitive health: Could cheese protect your brain?  DairyReporter.com",
+    "published date": "Wed, 14 Jan 2026 13:58:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTmF0QlI0ZWoxbktmOENXTEhyWUVwbU40WVZiYkhCeEd2S1A1OUxGV0RBVW9yVXpwRjNaWnlYdHpLZG0xaWl4OWtFVHNIdUlIcHJPNkdQZDlYQWZxLWJ1ZmtjSFhrTnRJZVJNX0NrbVhpWnQ1UGZUdVlNOXJRTm1JMDZWY1RHTmJCUWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.alzinfo.org",
+      "title": "Fisher Center for Alzheimer's Research Foundation"
+    }
+  },
+  {
+    "title": "The expanding H5N1 avian influenza panzootic causes high mortality of skuas in Antarctica - University of Nebraska Medical Center",
+    "description": "The expanding H5N1 avian influenza panzootic causes high mortality of skuas in Antarctica  University of Nebraska Medical Center",
+    "published date": "Thu, 15 Jan 2026 00:11:35 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUmU5YkQ0aEpHRXlfcHpLemR1YVdJbGhCdTNNelJEb0hqNDJwanUxOXpVWGxSSUxjM01MbGxvYTB2RGx6R1ZjOTkxcEhBelZsajluZGNtSVdUM1ZUVjR0czIxNWtQR0FhbTdCX2UzVVFGNVBlTEFmWWdfNFVmemNGRVZscWFlS2xKTUNMdEYzYTVUbWlNTXRCUEJrc2dNeHJtLXFBVHV6ZDNDRVRxamd6MEhGa3dLNnNYYktpNFhqQ0VLX3o3ZU03RFYyWGVFT21tMVBtUlFnU21yTHBUX3dxX1NURm8?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.unmc.edu",
+      "title": "University of Nebraska Medical Center"
+    }
+  },
+  {
+    "title": "One dose of HPV vaccine as effective as two - National Institutes of Health (NIH) | (.gov)",
+    "description": "One dose of HPV vaccine as effective as two  National Institutes of Health (NIH) | (.gov)5 Myths About the HPV Vaccine — & How the New CDC Guidelines Are Affecting It  SheKnowsHere's Where Experts Stand on Kennedy Cutting HPV Vax to One Dose  MedPage Today",
+    "published date": "Tue, 13 Jan 2026 20:54:30 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeVNnX0NaVld3VDFTM1JJNGM2MF9DRkxXcVVKcTU5Q1VKMW1hWWV5MmZhQ2NjejMyaHNBSU5PSFdUSXNPSklWMkNjOGd5alVxMGlrZ0FPZnNSYTVKZHFZcXZjSDRHeGhROFlkU0ZKTHFmXzVWYUJPOEp6S1hRQjhnVlVHVGc4U1pQRFhPUi1QejQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nih.gov",
+      "title": "National Institutes of Health (NIH) | (.gov)"
+    }
+  },
+  {
+    "title": "Methodological Advances in GC–MS for Complex Plant Matrices: Profiling Essential Oils From Apiaceae Flora - Wiley Online Library",
+    "description": "Methodological Advances in GC–MS for Complex Plant Matrices: Profiling Essential Oils From Apiaceae Flora  Wiley Online Library",
+    "published date": "Thu, 15 Jan 2026 12:20:12 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBaLW9mSC1IaVQ0YUJLSmxNa0VCaV9pamd3TXBwQW5kMEQ4VTN5MFdKQ2VtYm1Qb2w4ekNrcGhWVTcwTkY5Z1hhRFY1OHBrRGM1UllMS0xXeEFMMzdKOEdidVM2UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://onlinelibrary.wiley.com",
+      "title": "Wiley Online Library"
+    }
+  },
+  {
+    "title": "Functionally coupled ion channels begin co-assembling at the start of their synthesis - eLife",
+    "description": "Functionally coupled ion channels begin co-assembling at the start of their synthesis  eLife",
+    "published date": "Thu, 15 Jan 2026 12:15:58 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZMDdweHlxTFEzMDMxRnN1enpTTEc5ZHVzRU5ZQXM4TVcycVZTalRtemVZYTN2VFhpT3RZVnhGal8tYmxVa2VHNHlqOHQyNFNXU2VF?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://elifesciences.org",
+      "title": "eLife"
+    }
+  },
+  {
+    "title": "Trained immunity in acute and chronic neurological diseases - eLife",
+    "description": "Trained immunity in acute and chronic neurological diseases  eLife",
+    "published date": "Thu, 15 Jan 2026 12:15:58 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ETHgyaHlYU1hOQ2JveHJqZVQ5WTNnbW5TY3FfMWF3SmYza2tOOGFMWWFrbEMzdEl0VzNLT3hJZWJRMDlseDV6eDdRaHdNU2lGdnlj?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://elifesciences.org",
+      "title": "eLife"
+    }
+  },
+  {
+    "title": "How scientists are using virtual reality to treat chronic pain - National Geographic",
+    "description": "How scientists are using virtual reality to treat chronic pain  National Geographic",
+    "published date": "Thu, 15 Jan 2026 12:01:53 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQmVnVUhuTWJPS3k3dXlRV0QxcDc3OXJ2TjctUHFCaElpUWNqOEFjbm1qZk5rTFNkVmFWNGpPcUhwN0QzQ1c4dW80RnBkMWZUNVRBcDVGMHBEX1kzLThLei14Q05rX250NWZoOWVfZW1CSzRtQWdWMlYzOWw1c3J2Vi1odDZXeHozRlcyMGxxSktHQWpwNC12elRjSUFyZTg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nationalgeographic.com",
+      "title": "National Geographic"
+    }
+  },
+  {
+    "title": "Vaccinations and blood cancer - Blood Cancer UK",
+    "description": "Vaccinations and blood cancer  Blood Cancer UK",
+    "published date": "Thu, 15 Jan 2026 09:59:37 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRGYyUWdLQ2Z1OWhNY1hKNXJha1N2c0llSTBWZnRlQk5mU0tYLWVhdmlqaVVZYU5xZVpDMEJMSHBva2FqUjU0ZzdsRy1DeDBVZEhZYjJiZVdnQ0RmNWl6ZC1QS0NEbHo0ZEVQZ21wYU5TbjVXRWhKa1dNUUhrMFg4dzVpYS1kN01UcFc1d093Z2QyTFJY?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://bloodcancer.org.uk",
+      "title": "Blood Cancer UK"
+    }
+  },
+  {
+    "title": "Social Health and Digital Play: A Conversation, Not a Conclusion - World Health Organization (WHO)",
+    "description": "Social Health and Digital Play: A Conversation, Not a Conclusion  World Health Organization (WHO)",
+    "published date": "Thu, 15 Jan 2026 08:40:04 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb3FteW5lUUs5QTQzNWNCeU9ja29nUWNOTWdacjlHV3A1RjJxMUd0R0thd19SSjVwY2lpb3RJUzdUeXgwLTE4UDBjTFBLNGFsWU9HMHlmbTBVTlJxcU5LLWJFa1hlMGxkVTA0WGljUjRYampPNUtzU3RQZmdTVFU2endXRVp5cngzOTQ5b2NVVDVvWW1JbUFrWjJlUlUyVEVNMEp3Q19ya0NrbW9XWEM1Y3pjZGE4dGJ0Z3dvRURfOUQzeXZ1QmctWTNYd0JHSFNBbVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.who.int",
+      "title": "World Health Organization (WHO)"
+    }
+  },
+  {
+    "title": "Supporting policymakers to overcome opposition to regulatory policies for improving population diets - World Health Organization (WHO)",
+    "description": "Supporting policymakers to overcome opposition to regulatory policies for improving population diets  World Health Organization (WHO)",
+    "published date": "Thu, 15 Jan 2026 08:03:46 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91MkFBeU1hMU1iZ3kzV3p5Q0ZGbGxRYTQ3andPRUhrdWdCTk5LMkR4SmxBNUdvUzdldVQyVjlKdlFFUzU0OEJxN3Etc1B1VWZ2S0wzc1YxLUxVODI5SXNxUGY1MA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.who.int",
+      "title": "World Health Organization (WHO)"
+    }
+  },
+  {
+    "title": "Three new European Union reference laboratories are now operational - European Centre for Disease Prevention and Control (ECDC)",
+    "description": "Three new European Union reference laboratories are now operational  European Centre for Disease Prevention and Control (ECDC)",
+    "published date": "Thu, 15 Jan 2026 07:39:51 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZk5yZlV2Yzd5Q3dtYnhwRjAyWXZWQ1JtYWNxRHhud2QtWVY1NU1TOXlzUndnRjY0ajU1V3hFZF96LVhzQnM5WmhqNzRVaFhWYmhOUEQ4cEtMeVlhcE5zLXlHbGxIMVl5LXpBZTNBU0NwS1pmMWREeUNPR0ZVRUh1WjZCTDBpZnE5bmZ2MEkwSGdFM1RMY2JZNUhwNG04ZlMxYmc3X0tfSUxBT1pZRWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ecdc.europa.eu",
+      "title": "European Centre for Disease Prevention and Control (ECDC)"
+    }
+  },
+  {
+    "title": "Bowel cancer patient's bid to end diagnoses in A&E - BBC",
+    "description": "Bowel cancer patient's bid to end diagnoses in A&E  BBC",
+    "published date": "Thu, 15 Jan 2026 06:05:38 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVeW1JX1FlajNVMVhjSHFvcUVGZkpEWTJoVmFQYkFUVXgzNjlwLVFveXkwV3d6Wk5WTUU1MFFtRVJZMG8yYmZqdjZHaHV4MjdwX2dnYnZ4cWRfZ9IBX0FVX3lxTE40ZmdvYUpFT2R5VmhMVlpBb3R5WUxpSzlsZnpLZlVyaTVPYXRvRDcwYVZWdzdoZTM1Uk5wLU82cWlkb3czRE10UERKdEdtNUlwU2VfOE5LVmphbHFsZTJn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bbc.com",
+      "title": "BBC"
+    }
+  },
+  {
+    "title": "Shrinking forests are giving mosquitoes a greater taste for human blood, study suggests - ABC News",
+    "description": "Shrinking forests are giving mosquitoes a greater taste for human blood, study suggests  ABC NewsWhy the deadliest animal on earth is being forced to feed more on humans  Yahoo News CanadaMosquitoes Are Feeding on Us More Often – And Scientists Say We're to Blame  ScienceAlert",
+    "published date": "Thu, 15 Jan 2026 05:15:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONE9IMV84OGNUSHZ6X2tGVkRpS2JQNzBfbVBWQUxvSGthWVFONUpCMmpwVl9JWjRsQzdqdHMyTmJJblRYWS0zZWFFNUpZblphSEdDLUMtVjI1ZGdBdVR3NlZuN2RaMDFPb0c1aXJGZ2FHd1ZfZ3Q0cmNWRmxxRkJFOEtLV2NPYTVPRnJ3amgzLTByLU1CeXlyZkxTMkM4YTd2S20yT2F4c0hEZ9IBrwFBVV95cUxOVmRUMjlvWkNRWWJhUlctV21yYkZzQ04waG5Sd0VFUnJFMzQ5bmxRcmpnWDdSZjF2STZPakFHWTVaZ2I0clNRSEpzRGkwb2xwN3JucXQwamR2T05mY0RXU0FpVkk2aHpWa2Z0TElvcThYSjlZY19ta1hjLUk2WmdYRWVOQXJFTWFEM1ZqQlQtaFZnTzBDcVp2NEpEbV9udU93WU93ZW1PWnhlOWJWdFQw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://abcnews.go.com",
+      "title": "ABC News"
+    }
+  },
+  {
+    "title": "Cutaneous Rhodococcus equi Infection in an Immunocompetent Host: A Case Report - Cureus",
+    "description": "Cutaneous Rhodococcus equi Infection in an Immunocompetent Host: A Case Report  Cureus",
+    "published date": "Thu, 15 Jan 2026 04:37:37 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcVhWOExFdXFCZTJpRGhtTzNnSTJkd251bEI1RjJyNk1SZVI0ZlFOR3BZQ3NXYkJ4QUg5Vmk4Z05OQ1NKR2lfWGtyOUZJajZtd2drU3pTNmpTUkZLaldZZzhfSC16Rm9pWlhXa2p2ckVfcU1oZFNKZ1l1bWNKN01HVXlsUHY2aHphV29JbEVPTTg5eFJ3VXVKNHBFc09SQlB6WnhBRFJMRDNvRVdPZk9EeThxN1kwT2M?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cureus.com",
+      "title": "Cureus"
+    }
+  },
+  {
+    "title": "Developmental and Epileptic Encephalopathies: Insights From a Large Pediatric Series - Cleveland Clinic",
+    "description": "Developmental and Epileptic Encephalopathies: Insights From a Large Pediatric Series  Cleveland Clinic",
+    "published date": "Thu, 15 Jan 2026 07:41:40 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV0FwNWNQNExpMjViY1ZQZjZETS1YM2F4RDN0VmdDY1ZxbHRBbWdEVno5TDV4NmVBSjNVeXFpMXBfVFFvRjFvV1VBRmZFQVIzUFZvWGstQUx4WHRIOFg0ME11c0d1V2VHSkVlVUJKaHcxajNndkRaU25wMmdyRGVhb3MzQ0l6WmNtcktGOEwyN0ZiMkpTR3JrTzlGMXU2bWVhMUpWZ05pRkdtRjJJeVYtNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://consultqd.clevelandclinic.org",
+      "title": "Cleveland Clinic"
+    }
+  },
+  {
+    "title": "Safer inhalation devices: a rapid Health Impact Assessment of a harm reduction pilot for people who smoke crack cocaine - International Drug Policy Consortium (IDPC)",
+    "description": "Safer inhalation devices: a rapid Health Impact Assessment of a harm reduction pilot for people who smoke crack cocaine  International Drug Policy Consortium (IDPC)",
+    "published date": "Wed, 14 Jan 2026 13:54:23 GMT",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNW0tSllBYzhwUWFkeER4Y0Q0NHg5YlZUZGhWdld0Y1NEbXRhZmh1dEM5c0ZaSnlHLXhDRHpvbXZQSzdmczZLaGMxQXN3ZUMxQ2ZJVDdlam9DYXdwWFE4SnRyR2dtWHo1dGpfVVNiTTZ4eEl0bEZYRDdUNnN1STFqWlZrbjhfWG1DVVBZM2ZmV3Z5QzJtcGFKMi1lTkV3Qk5SWjZIQkNocU42a2wwenU5aEk4QUtnVWpIaWM1QlRSRDVQTTBuQXU1RTNoRDk?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://idpc.net",
+      "title": "International Drug Policy Consortium (IDPC)"
+    }
+  },
+  {
+    "title": "Kansas bird flu outbreak is worst in nation - University of Nebraska Medical Center",
+    "description": "Kansas bird flu outbreak is worst in nation  University of Nebraska Medical CenterFarm Progress America, January 15, 2026  Farm ProgressAdv. Genetics (Review Article) : Evolution of H5N1 Cross‐Species Transmission - Adaptive Mutations Driving Avian‐to‐Human Infection  Avian Flu DiaryAvian Influenza: A One Health Imperative For Global Health Governance – Analysis  Eurasia Review",
+    "published date": "Thu, 15 Jan 2026 00:51:42 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRXJIbFNFcHFTa3FvMlFSQldQaU5TNGJ5a3FTNzFmZ2NnNTFiVmtxald1OW9UVGI4NTdNY0VhQWJpQm90aExSTm1iby0tRFo5R18tX0pMODJ6XzVqcDczLUhONHE4RFdJNkhubFI2bXlaQVNSV1pITGhnZ0pXY3pDNEpzSmpuVWlORER4ZE85cU9FUzVvcURwR2hiY1FVaEtNSlk3WWZVZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.unmc.edu",
+      "title": "University of Nebraska Medical Center"
+    }
+  },
+  {
+    "title": "Why is flu so bad this year? Highly mutated variant offers answers - Nature",
+    "description": "Why is flu so bad this year? Highly mutated variant offers answers  Nature'Super flu' confirmed in Calif. as hospitalizations hit season high  SFGATE‘Super flu’ hits Calif. as hospitalizations peak and another child dies: ‘Makes people feel pretty horrible’  New York PostHas flu season peaked? Here's what you need to know  Yahoo News CanadaWhy is this flu season so bad?  vox.com",
+    "published date": "Wed, 14 Jan 2026 22:53:48 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlYTVBRGRlU0JyanhvcjBEdzN3VldpbS1QY1BhREw3YVBsNlczZTdlNk5YcmU1SEttZF9kZ0FoaHpfM2hzTHBSS0tWbjFvWkRXQXV6WWZKalRQTEVnU3VB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nature.com",
+      "title": "Nature"
+    }
+  },
+  {
+    "title": "Associations between mosaic loss and schizophrenia or bipolar disorder of young age - Nature",
+    "description": "Associations between mosaic loss and schizophrenia or bipolar disorder of young age  Nature",
+    "published date": "Wed, 14 Jan 2026 23:58:11 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2Vkpka1NFMFF6RVRySWN0VjRQUy13SVJTUnc0Z3lxNzNlWFVGUHlXMURubVBLV0lzaXV0WndJM00ySDVpZzJXSGxXZmJjQnFtS0hqaEpfYlFuSzdjeW1F?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nature.com",
+      "title": "Nature"
+    }
+  },
+  {
+    "title": "Research suggests there may be a systemic underdiagnosis of ADHD in women - Monash University",
+    "description": "Research suggests there may be a systemic underdiagnosis of ADHD in women  Monash UniversityADHD diagnoses among mothers surge in the years following childbirth  PsyPost",
+    "published date": "Wed, 14 Jan 2026 23:43:53 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMlpxc0tjZ1QwN2RpZ1RrMGJOYXBDYjI4bXNtV1JGS1hxZ0pNcEFrc0d3SkV5Z2YtUEpuTmlTeGxxZGlwS2tydDcwUXB1VkNSSnNFZGdYYjFYbHFXTk9mQ1M1WmhpWEhzVnVaTkR6NUwzVk9GdHBKa3pBSmlEX0NySjlZTEFCbGZCMW1yY0N3ZkRJeThpVl9yRGx3TUJNeFpGdDdnTXlQNk9Gb09jTEFVQ1cyWExhZUk4cnpteTlUbXBEZ2RndkpZQXRiVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.monash.edu",
+      "title": "Monash University"
+    }
+  },
+  {
+    "title": "Maternal Microbiome Compound May Hold Key to Preventing Liver Disease - The University of Oklahoma",
+    "description": "Maternal Microbiome Compound May Hold Key to Preventing Liver Disease  The University of Oklahoma",
+    "published date": "Wed, 14 Jan 2026 20:43:47 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMTNybEw4T1Rza2Zaek95d1E5Zmo4YjZadGtEclg4QlRSNjNZQ1VreVlBX2dyMFoyWDBPM3lXclVfN2pPdzNRRTFfZ2JvY21zRFBmSWlXaWtDWmJBS2x2aUtBZ2xFLVdpR1ZIa0QwX2J4MnYwVDUxdGxYYVBfT2pRd05JVFhrbVVMMW9XaTZCaVJLV29qcGVqMUlB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "http://ou.edu",
+      "title": "The University of Oklahoma"
+    }
+  },
+  {
+    "title": "How ageing harms the body’s response to raging infection - Nature",
+    "description": "How ageing harms the body’s response to raging infection  NatureDisease tolerance and infection pathogenesis age-related tradeoffs in mice  NatureAge-tailored therapies needed for treating the young and old with sepsis  News-Medical",
+    "published date": "Wed, 14 Jan 2026 19:16:15 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02TEdmT1FBX3JOd3g0VFhxbDRncm12UUFWclk5dWRCdUF5T20zTDgwUlgxOElUMl9rRVhXTlVNUkxZUWF4Zm01aTd6ME43TUQ2TmxJZl91MjBXM3h1MDFz?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nature.com",
+      "title": "Nature"
+    }
+  },
+  {
+    "title": "Special delivery: New technique to carry biological ‘cargo’ into targeted cells could lead to more effective disease treatments - Harvard T.H. Chan School of Public Health",
+    "description": "Special delivery: New technique to carry biological ‘cargo’ into targeted cells could lead to more effective disease treatments  Harvard T.H. Chan School of Public Health",
+    "published date": "Wed, 14 Jan 2026 20:42:26 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMF9aYnY4bHhOUVRfUWoyUWhJLUthMGdsVlJMc28tNVNvVlE2X3pwT1h4aUVLeUNkWTZTMmMxRXVnOU93MEVxbmV6aTBlbmpmOERUNV9xSG92ejR4QXBoNGcxbkN1Wk5qZHhCODhrTkZzWmlRbi1LLWgxakxrYUZPVlNyUkVWcmRsM2x1bEhxOGFwYTRBWnplRkMtdG9lSllMUlhZUjJBelVXejktd2UtR3FpbVN5el9fZVd2MXY3aE5sSWNKT1RSNFdJQTd4RjZpeHlSakNCNDhlZWZXWFR2dEZ5UldqZGNkUnNJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://hsph.harvard.edu",
+      "title": "Harvard T.H. Chan School of Public Health"
+    }
+  },
+  {
+    "title": "Cancer might evade immune defences by stealing mitochondria - Nature",
+    "description": "Cancer might evade immune defences by stealing mitochondria  Nature",
+    "published date": "Wed, 14 Jan 2026 15:19:12 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1va2laYkh4ZDlIWVZManFZX2l3NDJmQmxZbV9qZzBma04wUHRUM05RdkdJUGNnY29Hck03VGczcDJfX3RpbTdLRVQzNmIxTi1qMGt3VktFNTh4ZWN0cUZr?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nature.com",
+      "title": "Nature"
+    }
+  },
+  {
+    "title": "Effectiveness of Machine Learning in Detecting Vessels Encapsulating Tumor Clusters in Hepatocellular Carcinoma: Systematic Review and Meta-Analysis - Journal of Medical Internet Research (JMIR)",
+    "description": "Effectiveness of Machine Learning in Detecting Vessels Encapsulating Tumor Clusters in Hepatocellular Carcinoma: Systematic Review and Meta-Analysis  Journal of Medical Internet Research (JMIR)",
+    "published date": "Wed, 14 Jan 2026 20:07:33 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1YM2Z5QmVsaE1XQWgzem85LXFOclF5OVFEWTBPNzRzSTJlM2VfZmpnVnFpSmJqWk9GWkNHbEFMVW5HZ1JGU2VZWGZB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.jmir.org",
+      "title": "Journal of Medical Internet Research (JMIR)"
+    }
+  },
+  {
+    "title": "Two Cases of Q Fever in Pregnancy, including Management of the Newborn, Australia - Centers for Disease Control and Prevention | CDC (.gov)",
+    "description": "Two Cases of Q Fever in Pregnancy, including Management of the Newborn, Australia  Centers for Disease Control and Prevention | CDC (.gov)",
+    "published date": "Wed, 14 Jan 2026 19:53:47 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NcnZmaEpLU2psanZnMWVxMTFkU2FTNDlTN21yQk1hTXo1NTRENTVyR2J2a2Vpa3h4eEFGSHY3YURPa1lwa0xQcGRvZGZvMDd0ZHdKS3l5MmNfZGctM0N4emh4dm8?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://wwwnc.cdc.gov",
+      "title": "Centers for Disease Control and Prevention | CDC (.gov)"
+    }
+  },
+  {
+    "title": "A foundation model for continuous glucose monitoring data - Nature",
+    "description": "A foundation model for continuous glucose monitoring data  Nature",
+    "published date": "Wed, 14 Jan 2026 16:58:10 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pd3NDTTBYYTBQUlAzR2dJZm5wNTQzU0d3bUljelg5aEYwZ0lDUmx5Vzg1ZFJXdVk0emZwUnItS1BJRDU4eHRud0RJZm1PR215bVMtdUdGMkZoUlpNeVlz?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nature.com",
+      "title": "Nature"
+    }
+  },
+  {
+    "title": "Pitt Neurologists Use AI to Close Diagnostic Gaps in Seizure Care - UPMC",
+    "description": "Pitt Neurologists Use AI to Close Diagnostic Gaps in Seizure Care  UPMCNeurologists use AI to close diagnostic gaps in seizure care  Medical Xpress",
+    "published date": "Wed, 14 Jan 2026 19:15:30 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDdzdQeDlpNnQxaS1RSGUybWpnLUthZlg0Z3hnOFBZNE52MTEyNUZZMHM3S1dxc05lOWk1X1dfaVRmQjJldlZzcTJGQ2NhVEVuVm44MGxMZ0V6Ni1DY2FoMg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.upmc.com",
+      "title": "UPMC"
+    }
+  },
+  {
+    "title": "Scientists identify target to treat devastating brain disease - OHSU News",
+    "description": "Scientists identify target to treat devastating brain disease  OHSU News",
+    "published date": "Wed, 14 Jan 2026 19:11:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSFR0cEt2bzR5Z0pZeFN4dU9oNWlJNi1weHlVaWVSdzNjMUFrNkY2MWV0VG93QnN1Y3U5WUpoMk43TTdEN0MxRG5kZUdUN2ZnUktYNE56STJTeUVfekk1d1Z2OFFRNlRSSFhMMFhjbVE2eDJZQzJRd1NsUDhRUWRucWJBUG5qYjRiWUNkR0V4Q2xZWlNqYUpYWkdn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://news.ohsu.edu",
+      "title": "OHSU News"
+    }
+  },
+  {
+    "title": "CFAP20 salvages arrested RNAPII from the path of co-directional replisomes - Nature",
+    "description": "CFAP20 salvages arrested RNAPII from the path of co-directional replisomes  Nature",
+    "published date": "Wed, 14 Jan 2026 16:21:10 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wLTVTUUFaNXZqeHpXS3E3dVlFUjJ3N2JoUFlFY3dWSXR3Z1ZyTTdrZVJ3dWk4TGZlenN0NloyNnB0RXpKQzZDS3FfUmRJeE5PdXZMV244VmViSVQzUXRz?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nature.com",
+      "title": "Nature"
+    }
+  },
+  {
+    "title": "Bird flu outbreak blamed for death of Brayford Pool swans - BBC",
+    "description": "Bird flu outbreak blamed for death of Brayford Pool swans  BBC",
+    "published date": "Wed, 14 Jan 2026 16:09:07 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hOUd6a3lZbXBxS1FfVmxrV045WFcydFlMdHc0Qm5ubU94T0dYcUwzVkZ4QUhzV0lWRGdhWkdua1BCZnVFV1pIeHIzRGFXN2FqazAtMTVLNzNyQdIBX0FVX3lxTE9Ec1NYNHFrS2lyd0pGMlpJXzRkS0JlcGQ4TFVWUTFacnF3OXFTSmFBaVF3elp6b0k3QndTa0I1bTEzVkV5VHoxMjJXcFBuZnEwYTlQbDdGRUxKZkIyY0pB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bbc.com",
+      "title": "BBC"
+    }
+  },
+  {
+    "title": "Blood Test Predicts Which Patients with Lung Cancer Will Benefit from Newly Approved Immunotherapy Drug - Mass General Brigham",
+    "description": "Blood Test Predicts Which Patients with Lung Cancer Will Benefit from Newly Approved Immunotherapy Drug  Mass General BrighamView Full Coverage on Google News",
+    "published date": "Wed, 14 Jan 2026 15:08:21 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeExobjZnRWp1OEs3NkN6bm5DRWMzb1lOV1ZSZXFuM2psUzhWMkczVVVKbGJJWmZHR05iR2YyZlZxREx5MUdlVEd0bHEzbWxYNlVTYmd5Q1p3TXlIRlpMMmRteUlNOUZyc0FjR0dHZXlqS25sQ0tmdUVfbGxWSTZDRnFyYXRlY1h3RWZuRmdaeVpzWXNqb2N0MWQ3R3VuaHBxTnJqNTNsWUQzTlFfcmFOWA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.massgeneralbrigham.org",
+      "title": "Mass General Brigham"
+    }
+  },
+  {
+    "title": "ACS Report Shows 5-Year Survival Rate for All Cancers Combined Has Reached 70% - The ASCO Post",
+    "description": "ACS Report Shows 5-Year Survival Rate for All Cancers Combined Has Reached 70%  The ASCO PostMore Americans are surviving cancer — even the deadliest ones  The Washington PostImproved Cancer Treatment, Detection Sees Drop in US Death Rates  Bloomberg.comSurvival rates for cancer are the highest they’ve ever been — but these 3 will cause the most deaths in 2026  New York PostMore people are living 5 years after cancer diagnosis, new data shows  ABC News",
+    "published date": "Wed, 14 Jan 2026 15:29:03 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV19yT2h0SHgwN2lmVW1IWG0wcFZsNTlQdW5odENMVHhpUl9xaHlfYXhQTE5FSldMZjhrSnNMdDI2N2tPTTFUODBmTklfOUpXODU0bWpMRVZDVUJMTXZsNzRFQWZ0YjhUenJGU2U2SExZb2xoMjFOTkRRTnk1NFlRcUhaclFXUm1IWWJlU3draU9NckswUkVLTWpXN1BiaFNqMUVWaWV6MDBBVURIQ2VTaGtKR09QMjBr?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://ascopost.com",
+      "title": "The ASCO Post"
+    }
+  },
+  {
+    "title": "Novel Mechanism Regulates Essential Enzyme Production in Kidneys - Northwestern University",
+    "description": "Novel Mechanism Regulates Essential Enzyme Production in Kidneys  Northwestern University",
+    "published date": "Wed, 14 Jan 2026 15:23:14 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX0FIeW9jcE9TNmxsd0lYd0owVGVZZkhHTS1JaDFyZk1pUTJJNTJkRi1uTnpPeVFVOWtUQXlSQVlxdm9INWFPbjktTmhYR2VGX1BVRkFzdnhXNDkwR24wcnU4U1ZpSzFxWlV2cFV0cXpIcWY4dzlwaFlyQVR0ZkM4Y0Y4N2tGcnJQTmRCZURDcjJnRmkySUplYzJFSmZpY1hBdklDanJMVl81V3dMUHl4OUh2NVY4QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://news.feinberg.northwestern.edu",
+      "title": "Northwestern University"
+    }
+  },
+  {
+    "title": "Researchers Identify How a “Quality Control” Protein Causes Neurodegenerative Disease - Texas Children’s",
+    "description": "Researchers Identify How a “Quality Control” Protein Causes Neurodegenerative Disease  Texas Children’s",
+    "published date": "Wed, 14 Jan 2026 16:01:31 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVFRtYi1jYkJldXBsLXZGbFllSDJ3Tk9xMGNwa3c5UGJNeEw5N1N5T3hrVTMwUzFYN0NYWDlmRzV6R05iMWZFdjhaTVYtZ3NDMjJiMndaU3dYcEFpYW5GTzBwZ2VuUGd3emxROE9NeHdTVmF2c2F1OG50cHZLNzVuSkR4UFBjSzgwZXJkRkxHU2dvSGtiRF9xNndVbUJrSGxqM0piQlM1SU5DZmpmaG02d253bWs2anZQZU1zMllNcl9aaXM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.texaschildrens.org",
+      "title": "Texas Children’s"
+    }
+  },
+  {
+    "title": "The infection enigma: why some people die from typically harmless germs - Nature",
+    "description": "The infection enigma: why some people die from typically harmless germs  Nature",
+    "published date": "Wed, 14 Jan 2026 11:15:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SNVAyZXh5LUpWRnY2LUtLZTJPUmJwUWU2MDN1Mk5iYXFxTzFJOFdyNlgtQ19uc0hYQmNBTUkxOUVCZk1DMk5tTUppWGoxV2EtZmkwU1FoVnJhb2VUQVpz?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nature.com",
+      "title": "Nature"
+    }
+  },
+  {
+    "title": "Drug use disorders a growing public health concern in the Americas, PAHO study finds - Pan American Health Organization (PAHO)",
+    "description": "Drug use disorders a growing public health concern in the Americas, PAHO study finds  Pan American Health Organization (PAHO)Drug Use Disorders Surge Across the Americas, Putting Millions of Lives at Risk  fundsforNGOs NewsDrug use disorders rising across the Americas, PAHO study finds  Caribbean National Weekly",
+    "published date": "Wed, 14 Jan 2026 14:25:19 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYlJwNGRWSDdsazFwN2FYS2c2Q2ROa3R2ZXNpT2xnMWVCMG9VOEdFc1VnVzY3aHozUHZwN29SZ3JGQjVPaWR3MTNCNUZKa0NwTkJ1SkRwUG4tWnBKbHUtLVF1azZ3T29taGtYUEtXbWJEeVhFTEloWV9OX0ZUVHlhdVM3RWhOS2xWMXhieDdETEszTmgyZXJmdDVIVG0zLVRZYllVckduZDN1X0VLSUY3bUJwbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.paho.org",
+      "title": "Pan American Health Organization (PAHO)"
+    }
+  },
+  {
+    "title": "“We came here for safety”: in Uganda, refugee girls find protection from conflict and cancer - Gavi, the Vaccine Alliance",
+    "description": "“We came here for safety”: in Uganda, refugee girls find protection from conflict and cancer  Gavi, the Vaccine Alliance",
+    "published date": "Wed, 14 Jan 2026 14:56:02 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc1dHYmM4ODZWckxndGQ5eGlnaVFvLU9hRFJMZWlUYTFnVGIyYkpKOF9GQTl3anlvUnZkYWFIR2ZwUmg4Sk02emZXNWNoZGVwNm9wU0s3c25MdkxSRnNhZjVIWVJmMVBOU0l0YW5LWm9lOG9BbEZNQUNMOG5HcmZacmxOQ09MR2RweEw5X0JneExjWmlJWllpV3RSMktUTmd5VnNBaHJrbkhjVUk3dDkw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.gavi.org",
+      "title": "Gavi, the Vaccine Alliance"
+    }
+  },
+  {
+    "title": "Afadin sorts different retinal neuron types into accurate cellular layers - eLife",
+    "description": "Afadin sorts different retinal neuron types into accurate cellular layers  eLife",
+    "published date": "Wed, 14 Jan 2026 14:34:53 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHWmtDWm9UUTlXd09XX1lHWmJubGc2aEpoZ1E5Q2ZYMERjeFBDRXNuUFNTSXpsZkdXZUJYdlhKa2hyWFlxUG9KTUFIckhscDd1b2Rz?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://elifesciences.org",
+      "title": "eLife"
+    }
+  },
+  {
+    "title": "ACC CardioSurve: Implementation Gap in Inpatient Tobacco Cessation - American College of Cardiology",
+    "description": "ACC CardioSurve: Implementation Gap in Inpatient Tobacco Cessation  American College of Cardiology",
+    "published date": "Wed, 14 Jan 2026 14:33:39 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUmFJVnRXdTVxbFJxbUVrcTVBSE5WcU90aDg5ZWtrVkI4dFpHOHE5QXlMLUZYejB3MjJOcllvdmNKc0UyLUxTUDdqX00tYzJyMkpIeUhETVZEeXFWcV9hdjRHbktOXzBtUjdESFA1QUQtN21QTTNpM2ZqdUlUU0pnOGtwN0Y0V2dOdTFrdEVtWGM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.acc.org",
+      "title": "American College of Cardiology"
+    }
+  },
+  {
+    "title": "UNC scientists discover how cells respond to common prescription drugs - The University of North Carolina at Chapel Hill",
+    "description": "UNC scientists discover how cells respond to common prescription drugs  The University of North Carolina at Chapel Hill",
+    "published date": "Wed, 14 Jan 2026 14:16:02 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTG5PWXNiWmhnY3JZdS1XSndNX1VUU01OaUNVRnlKYk9sUTNkcWJ4M0hvZV9aWEphN0RBUnlzQjhLVDlUbkhYVlU4cmVVdFVUeWlUak5hN2lmZ3RXV3JRYVI0WGNfSUFNNWkyWU1LdGZIZ2RxcHlqSmt2M2NkNzRLM3cwUlJSSDBmRDFDVk93OXdDVDBSZEMwRFE3WjZqbmtmMnZuWjhzc016T2xJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.unc.edu",
+      "title": "The University of North Carolina at Chapel Hill"
+    }
+  },
+  {
+    "title": "Trends in heart failure prevalence in post-disaster Fukushima residents 2015–2021 - Nature",
+    "description": "Trends in heart failure prevalence in post-disaster Fukushima residents 2015–2021  Nature",
+    "published date": "Wed, 14 Jan 2026 13:17:14 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZdUMxQ3luc0M5bVpZUlRnNjF6Uk9WemtoUVlYR3FHcWdSS2dBdjNRb2taUHlBVjVnV1JhS1Exdk1zbExjbXFYT3J2TTJDeVB4VUlneHgwWHFRamFaTE40?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nature.com",
+      "title": "Nature"
+    }
+  },
+  {
+    "title": "Frontline Treatment Discontinuation Is Higher in the Real World vs Clinical Trials in CLL/SLL - OncLive",
+    "description": "Frontline Treatment Discontinuation Is Higher in the Real World vs Clinical Trials in CLL/SLL  OncLive",
+    "published date": "Wed, 14 Jan 2026 13:02:04 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMUNpMVRhV0VsNnNUMTlkUTFLa1hCRXo4RlM5ZFJfRzZfLXlIMmRDYl9ObGlSRnpMQW1lMmt2TEt3aWNxa0dRS19rY3RtTlJPM3ZrdndWWXI3c1dvZUJEdGdjS1RLSUhrdjJUTUEtQjJITkFrLUV0aVdkOURUUm1UVXdwNjNybFRaQkNTOEhQRjVPV2cxUGF2UEtEOE9SYU9hWDFqcjlmR1NHTk5uYW9jYzE0OXFZUTlLUFVVTnExcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.onclive.com",
+      "title": "OncLive"
     }
   }
 ]
