@@ -1,0 +1,21 @@
+{
+    "app_name": "hailal",
+    "repository": "https://github.com/faroukdubai2/fetch_news",
+    "news_sources": [
+        {
+            "function": "get_news",
+            "keyword": "الهلال السعودى",
+            "language": "ar",
+            "country": "SA",
+            "max_results": 99,
+            "filename": "hailal_search_news.json"
+        },
+        {
+            "function": "get_top_news",
+            "language": "ar",
+            "country": "SA",
+            "max_results": 99,
+            "filename": "hailal_top_news.json"
+        }
+    ]
+}

@@ -1,3 +1,7 @@
 {
-    "apps": ["config_usanews.json", "config_canadanews.json"]
+    "apps": [
+        "config_usanews.json",
+        "config_canadanews.json",
+        "config_hailal.json"
+    ]
 }
