@@ -11,11 +11,12 @@
             "filename": "hailal_search_news.json"
         },
         {
-            "function": "get_top_news",
+            "function": "get_news",
+            "keyword": "الدورى السعودى",
             "language": "ar",
             "country": "SA",
             "max_results": 99,
-            "filename": "hailal_top_news.json"
-        }
+            "filename": "saudileague_search_news.json"
+        },
     ]
 }
