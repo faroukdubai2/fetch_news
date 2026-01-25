@@ -2,7 +2,7 @@
   "app_name": "hailal",
   "repository": "https://github.com/faroukdubai2/fetch_news",
   "raw_urls": {
-    "search": "https://raw.githubusercontent.com/faroukdubai2/fetch_news/main/docs/data/hailal/search.json",
-    "top": "https://raw.githubusercontent.com/faroukdubai2/fetch_news/main/docs/data/hailal/top.json"
+    "saudileague_search": "https://raw.githubusercontent.com/faroukdubai2/fetch_news/main/docs/data/hailal/saudileague_search.json",
+    "search": "https://raw.githubusercontent.com/faroukdubai2/fetch_news/main/docs/data/hailal/search.json"
   }
 }
