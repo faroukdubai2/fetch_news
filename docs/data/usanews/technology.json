@@ -1,15 +1,5 @@
 [
   {
-    "title": "Gmail Glitch Appears to Break Email Filtering, Tabbed Inboxes - PCMag",
-    "description": "Gmail Glitch Appears to Break Email Filtering, Tabbed Inboxes  PCMagGmail’s spam filter and automatic sorting are broken  The VergeGoogle says it's working to fix Gmail issue that's led to flooded inboxes and increased spam warnings  EngadgetGmail is having issues with spam and misclassification  TechCrunchGoogle confirms Gmail filtering issue as users are flooded with warning emails  The Independent",
-    "published date": "Sun, 25 Jan 2026 00:57:24 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRUJ4aFJjT1RzeTBGTFN3MWdEbFRNNVB0NmZGLWs4WmNYM0dDVS14bFYwQ2Y4UDhMVUpDNnQ1U1RMVGEyb3pTeDlRMGhUOU9VVVZCdFMtR3JZVDN1bmxDYnBqUmJfSERSakNxbmJJbm9ZSWhMN25kai0wS2x1c2VRSlBId1Z0MVBPa0RqaU52Uk4?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.pcmag.com",
-      "title": "PCMag"
-    }
-  },
-  {
     "title": "Alert! Alert! - The New York Times",
     "description": "Alert! Alert!  The New York Times",
     "published date": "Sat, 24 Jan 2026 23:00:04 GMT",
@@ -40,13 +30,23 @@
     }
   },
   {
-    "title": "Arc Raiders Roadmap Promises a New Map, More Arcs, and Even a Little Love for Scrappy by April 2026 - IGN",
-    "description": "Arc Raiders Roadmap Promises a New Map, More Arcs, and Even a Little Love for Scrappy by April 2026  IGNARC Raiders Roadmap: January - April 2026  arcraiders.comArc Raiders Roadmap for 2026 Revealed – All Update Release Dates, Maps & New Enemies  VICE\"Will this blow up the server?\": Arc Raiders players are so good at killing Arc that Embark is considering how to \"escalate\" PvE, dev teases a Shredder escape and \"the giant walking ones in the background\"  GamesRadar+ARC Raiders Gets a Q1 Roadmap, 'Escalation', With New Map Conditions, Deck, ARCs, & More  MMORPG.com",
-    "published date": "Fri, 23 Jan 2026 17:16:19 GMT",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQ0F1ZG92RTZMZVUxQi1GUXdHZTVXM0E5cEMxVGFXR1cySGNhY0ZnaUFMZU9NaWV5XzlfMHJtbFhYUUxYeF9IdmJBdlJCZXVSR25iX0FJdk1rS3kyMGtnYWx0RGpOb1hVTWpVNk11aVNFWGZlbFlWTXhqcV9XZ2ZLQVNXXzJxRDJ3Y1NTV3Zwakx0QURaRkM0Y091RkVIa1JuOVM5RTRVc0VwTWR4MnhEeTFrcjlhM1hOMERrMEFkenZTbk81?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Gmail is having issues with spam and misclassification - TechCrunch",
+    "description": "Gmail is having issues with spam and misclassification  TechCrunchGmail Glitch Appears to Break Email Filtering, Tabbed Inboxes  PCMagGmail’s spam filter and automatic sorting are broken  The VergeGoogle says it's working to fix Gmail issue that's led to flooded inboxes and increased spam warnings  EngadgetGoogle confirms Gmail filtering issue as users are flooded with warning emails  The Independent",
+    "published date": "Sat, 24 Jan 2026 22:58:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTmNpZG9GYkt1ZG8xeVJ0SmVwWFJYcUFhMHdyTmNuQnF1QWlUMnp2U3k3eHNvS2w1YktFLXp3a0V5OXo1MGxSR2NzZHBkZkd3X0J5X1FRSTRlUVkwT2xpdENua25qMjVOZm5pcmkwNXpzYTg1ZV9vWHBPQklnbUhWUzJwUlZVdThHbm5fZ3cyQVYxUmM?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.ign.com",
-      "title": "IGN"
+      "href": "https://techcrunch.com",
+      "title": "TechCrunch"
+    }
+  },
+  {
+    "title": "ARC Raiders Roadmap: January - April 2026 - arcraiders.com",
+    "description": "ARC Raiders Roadmap: January - April 2026  arcraiders.comArc Raiders Roadmap Promises a New Map, More Arcs, and Even a Little Love for Scrappy by April 2026  IGNArc Raiders Roadmap for 2026 Revealed – All Update Release Dates, Maps & New Enemies  VICE\"Will this blow up the server?\": Arc Raiders players are so good at killing Arc that Embark is considering how to \"escalate\" PvE, dev teases a Shredder escape and \"the giant walking ones in the background\"  GamesRadar+ARC Raiders Gets a Q1 Roadmap, 'Escalation', With New Map Conditions, Deck, ARCs, & More  MMORPG.com",
+    "published date": "Fri, 23 Jan 2026 17:02:54 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RSHJuVDhNRlp5SGR1SmpVTWxBSWlpdHFENml4RDFnaTdfb0Nqd0VaeTU5aGV3ZkpMb09uemhvd2JTOWk4Ri00dWlfWExvMW5ucmJTSWI5dVdRRmY4UlBfRWpEQ2k?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://arcraiders.com",
+      "title": "arcraiders.com"
     }
   },
   {
@@ -60,6 +60,16 @@
     }
   },
   {
+    "title": "iPhone users begin to receive payouts from $95 million Siri privacy settlement - 9to5Mac",
+    "description": "iPhone users begin to receive payouts from $95 million Siri privacy settlement  9to5MacTech media: iPhone users begin receiving compensation from the Siri privacy settlement, totaling $95 million.  富途资讯",
+    "published date": "Sun, 25 Jan 2026 01:27:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT3RmWDZzcTV6eWxtZHpSMDRTUldubHAtcnZ0X0ExUTdKOHlPSVJjMk50WndoOUFPSWpLUXJCRGN5cEp6TlVhaEI5MXQzZlc1Tk1hZGVPdGI2UmY0Y2RwM1Z2TmlmVmw0bHg5TThPeF95bUxOeW9lcG1CNGhkR2dJaU01RGQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://9to5mac.com",
+      "title": "9to5Mac"
+    }
+  },
+  {
     "title": "Samsung drops Galaxy S26 Ultra bombshell - thestreet.com",
     "description": "Samsung drops Galaxy S26 Ultra bombshell  thestreet.comSamsung Galaxy S26 Ultra: New Screen, Updated Release Date  ForbesSamsung Galaxy S26: The 7 rumored features that could make me switch  MashableThe S26 is just the start: here’s what to expect at the next Samsung Galaxy Unpacked  TechRadarGalaxy S26 leak reveals key details about the new models, including one you'll love  SamMobile",
     "published date": "Sat, 24 Jan 2026 13:33:00 GMT",
@@ -70,13 +80,13 @@
     }
   },
   {
-    "title": "Saturday Pre-orders – Death strikes from the skies in Kill Team: Shadowhunt - Warhammer Community",
-    "description": "Saturday Pre-orders – Death strikes from the skies in Kill Team: Shadowhunt  Warhammer CommunityWarhammer 40K: Kill Team – Shadowhunt Up Close  Bell of Lost SoulsWarhammer Community Showcased Painted Miniatures from the \"Shadowhunt\" Set for Kill Team  IXBT.gamesI've played Warhammer for years, but sets like Kill Team: Shadowhunt flip the script enough to keep me locked in  GamesRadar+Kill Team Shadowhunt - Angels and Daemons  TechRaptor",
-    "published date": "Sat, 24 Jan 2026 17:56:54 GMT",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOUx1UXBFd0JJX2s5dWhRa0drLVNUbkNPZU96ZkxXOGlRelMySXlHY0lyc3hsSUx2SG9nMVNPcHFjLV96OC1WT1pzNnJzTWF5SnhRZ0xEV201WkFWLUVoZWdxaUJBYlZlX0lPOTdUSEY1eXhzYWQwTUoyOG1senJUZW1kNThRMVRDNjh6b2Z4NEZFRHp4aG4xczhySS14cVVfWVdBWlJLQVhNVl9LQlR0eEw1c0s5UEhnZFFiOW9LdGJCTEx5bkdUU0xCZkJSZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Rayman 30th Anniversary Edition has surfaced for Nintendo Switch - Nintendo Everything",
+    "description": "Rayman 30th Anniversary Edition has surfaced for Nintendo Switch  Nintendo EverythingSurprise! Rayman 30th Anniversary Edition Has Been Rated  Nintendo LifeIconic PS1 Game From the 90s Is Returning on PS5 and Switch  ComicBook.comRayman 30th Anniversary Edition Rated in Australia for PS5 and Switch  Insider GamingTwo Rayman Projects Are Reportedly In Development, Including A Rayman Legends Remake  Twisted Voxel",
+    "published date": "Sat, 24 Jan 2026 22:28:29 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbjBqOUR1Y1FBVzNxeTRSU3NmYkxISzEzcHBpbGNwWjVNOGRzY0hsLUZmZjhOSHZlYTB5ZkROcGlOWGRKdUJsVTd0WWlMZ3B6LU9PZjRMcVBYcExKdlFlbEp2OTRidVlGcnZ3d2tzWmctUmtZVlJFOW5Xbkk3UVM3T3RyLWl0OURWR2ZuRlZGSXFVTUZvUDI2NVgwQ1g?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.warhammer-community.com",
-      "title": "Warhammer Community"
+      "href": "https://nintendoeverything.com",
+      "title": "Nintendo Everything"
     }
   },
   {
@@ -87,6 +97,16 @@
     "publisher": {
       "href": "https://comicbook.com",
       "title": "ComicBook.com"
+    }
+  },
+  {
+    "title": "Saturday Pre-orders – Death strikes from the skies in Kill Team: Shadowhunt - Warhammer Community",
+    "description": "Saturday Pre-orders – Death strikes from the skies in Kill Team: Shadowhunt  Warhammer CommunityWarhammer 40K: Kill Team – Shadowhunt Up Close  Bell of Lost SoulsWarhammer Community Showcased Painted Miniatures from the \"Shadowhunt\" Set for Kill Team  IXBT.gamesI've played Warhammer for years, but sets like Kill Team: Shadowhunt flip the script enough to keep me locked in  GamesRadar+Kill Team Shadowhunt - Angels and Daemons  TechRaptor",
+    "published date": "Sat, 24 Jan 2026 17:56:54 GMT",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOUx1UXBFd0JJX2s5dWhRa0drLVNUbkNPZU96ZkxXOGlRelMySXlHY0lyc3hsSUx2SG9nMVNPcHFjLV96OC1WT1pzNnJzTWF5SnhRZ0xEV201WkFWLUVoZWdxaUJBYlZlX0lPOTdUSEY1eXhzYWQwTUoyOG1senJUZW1kNThRMVRDNjh6b2Z4NEZFRHp4aG4xczhySS14cVVfWVdBWlJLQVhNVl9LQlR0eEw1c0s5UEhnZFFiOW9LdGJCTEx5bkdUU0xCZkJSZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.warhammer-community.com",
+      "title": "Warhammer Community"
     }
   },
   {
@@ -130,26 +150,6 @@
     }
   },
   {
-    "title": "A \"deep dive\" Highguard showcase will finally give us an \"in-depth look\" at the mysterious game... but not until release day - Eurogamer",
-    "description": "A \"deep dive\" Highguard showcase will finally give us an \"in-depth look\" at the mysterious game... but not until release day  Eurogamer‘Highguard’ Did Not Pay For Its Infamous Game Awards Finale Slot  ForbesIt's hard to fault Highguard for giving the internet the silent treatment—wouldn't you?  PC GamerHere are the official PC system requirements for Highguard  DSOGaming‘Highguard’ Breaks Silence, Will First Discuss The Game On Release Day  Forbes",
-    "published date": "Sat, 24 Jan 2026 18:35:41 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaTNFMUkzYkRhSHhUU25uenYzeWtaQzZRV0FDQjEyYUVESmY5aHREdTU0QkM1bXJST3BvZ3ptVl9YbGo3X0s3alZsU3hFQzhDa0VQNWhjdG5PQmdqTGZkc2I3U3VwT091Sjk2MzR4SzlnSEExRjVDWHRhM3A2SHhUejFJWHdxU0JwY1ZqZ0JPb1VLOW4tNmRsczZPUUx4STluOFhDb1V4UDEzU1pPdEl0MFJYYVRmNWRxaXRLTjc2Q0ZNLUppaUhaS2tYR3hYbjlyV1VGcWNUaDlHdU0?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.eurogamer.net",
-      "title": "Eurogamer"
-    }
-  },
-  {
-    "title": "'Lower-paid Indians replacing staff': Internet slams Ubisoft for cancelling six games, including Prince o - The Times of India",
-    "description": "'Lower-paid Indians replacing staff': Internet slams Ubisoft for cancelling six games, including Prince o  The Times of IndiaUbisoft shares plummet after Assassin’s Creed maker unveils reorganization, cancels six games  CNBCPrince of Persia Remake Game Canceled Amid Ubisoft Reorg, Layoffs  VarietyThe Human Cost: Ubisoft’s Next Cost-Cutting Measure Could See Another 2000+ Jobs Lost  Insider GamingWhat's Going On With Ubisoft? | The Game Informer Show  Game Informer",
-    "published date": "Sat, 24 Jan 2026 13:50:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQN29xODFXcUIwd2NKMTBfanNYSzJhU05HU3hsYU44cV9nYklId3cyZFBKR3owYk5UN21WdV9VbUtJRUFDM2p0THUzSDRDd3NWd25adWg1dWdybGFPTzlaTjQtWDFGZ3k3bDZRbHJwQ0ZTTktsR0NuMHRCZGZsNGFyaFIzczNVbll4bXFueTBQRjRoTHZDZzR3QVlXUUctQTZQTzdOLVBtcWtCTmxCaGhKSnZZaGdPYlNFazI0RjA4ZTJMLTVrZS1fR1p1SWs1Uk1wNVhKdHNZOVlxY2tMaU1oQkNzVlMxLUFxd3pPejFrVjBoMTJBWF9aOGpGTnZIcFppMHlTUXhDZ3RGLXduQTBPRUsyd29VQdIBmwJBVV95cUxNeWFEWFdKTTFDOU8yOXZ5WmxfS09iRDNXQ3hRUXpIbnlRSTQtaUJKUW9qd0hBR255VER5c1ZYMTQxdzdkX21ZYmUwSElDU3VYZnduWUM2OTlRbmcwdURCT2hxRld2NXY3MlA4anFKMXNpeHY5TFBTcnQ1SVdFVmlFMUEzM1pEWlRucm0walNRTG9NVDd3MnRzLTBFeV9VRzNfLXlUQkt5M3N3Rm9GYUw2OEpFRldqTE5OTHRpYlYzUElTa2NOdWo4V1BOM2FrbkJQWEZkVzVzMGN6TXk0V3FGSmtJZFlwRk5pblJCMU5pLVo3NDkxMktiYmVhWHNkS1M4TVd2WjNlcVRxeFhzSlpTXzhsRnBvSy02TGFn?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://timesofindia.indiatimes.com",
-      "title": "The Times of India"
-    }
-  },
-  {
     "title": "Warning—48 Million Gmail Usernames And Passwords Leaked Online - Forbes",
     "description": "Warning—48 Million Gmail Usernames And Passwords Leaked Online  Forbes149 Million Usernames and Passwords Exposed by Unsecured Database  WIRED149M Logins and Passwords Exposed Online Including Financial Accounts, Instagram, Facebook, Roblox, Dating Sites, and More.  ExpressVPNNearly 150 Million Email, Social Accounts Could Be Affected by ‘Stolen Passwords’  People.comMillions of Gmail, Facebook and other account credentials exposed  SC Media",
     "published date": "Sat, 24 Jan 2026 12:45:00 GMT",
@@ -157,6 +157,16 @@
     "publisher": {
       "href": "https://www.forbes.com",
       "title": "Forbes"
+    }
+  },
+  {
+    "title": "A \"deep dive\" Highguard showcase will finally give us an \"in-depth look\" at the mysterious game... but not until release day - Eurogamer",
+    "description": "A \"deep dive\" Highguard showcase will finally give us an \"in-depth look\" at the mysterious game... but not until release day  Eurogamer‘Highguard’ Did Not Pay For Its Infamous Game Awards Finale Slot  ForbesIt's hard to fault Highguard for giving the internet the silent treatment—wouldn't you?  PC GamerHere are the official PC system requirements for Highguard  DSOGaming‘Highguard’ Breaks Silence, Will First Discuss The Game On Release Day  Forbes",
+    "published date": "Sat, 24 Jan 2026 18:35:41 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaTNFMUkzYkRhSHhUU25uenYzeWtaQzZRV0FDQjEyYUVESmY5aHREdTU0QkM1bXJST3BvZ3ptVl9YbGo3X0s3alZsU3hFQzhDa0VQNWhjdG5PQmdqTGZkc2I3U3VwT091Sjk2MzR4SzlnSEExRjVDWHRhM3A2SHhUejFJWHdxU0JwY1ZqZ0JPb1VLOW4tNmRsczZPUUx4STluOFhDb1V4UDEzU1pPdEl0MFJYYVRmNWRxaXRLTjc2Q0ZNLUppaUhaS2tYR3hYbjlyV1VGcWNUaDlHdU0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.eurogamer.net",
+      "title": "Eurogamer"
     }
   },
   {
@@ -180,8 +190,18 @@
     }
   },
   {
+    "title": "'Lower-paid Indians replacing staff': Internet slams Ubisoft for cancelling six games, including Prince o - The Times of India",
+    "description": "'Lower-paid Indians replacing staff': Internet slams Ubisoft for cancelling six games, including Prince o  The Times of IndiaUbisoft shares plummet after Assassin’s Creed maker unveils reorganization, cancels six games  CNBCPrince of Persia Remake Game Canceled Amid Ubisoft Reorg, Layoffs  VarietyThe Human Cost: Ubisoft’s Next Cost-Cutting Measure Could See Another 2000+ Jobs Lost  Insider GamingUbisoft Entertainment (ENXTPA:UBI) Is Down 41.3% After Major Restructuring And Game Cancellations Reset Expectations  Yahoo Finance",
+    "published date": "Sat, 24 Jan 2026 13:50:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQN29xODFXcUIwd2NKMTBfanNYSzJhU05HU3hsYU44cV9nYklId3cyZFBKR3owYk5UN21WdV9VbUtJRUFDM2p0THUzSDRDd3NWd25adWg1dWdybGFPTzlaTjQtWDFGZ3k3bDZRbHJwQ0ZTTktsR0NuMHRCZGZsNGFyaFIzczNVbll4bXFueTBQRjRoTHZDZzR3QVlXUUctQTZQTzdOLVBtcWtCTmxCaGhKSnZZaGdPYlNFazI0RjA4ZTJMLTVrZS1fR1p1SWs1Uk1wNVhKdHNZOVlxY2tMaU1oQkNzVlMxLUFxd3pPejFrVjBoMTJBWF9aOGpGTnZIcFppMHlTUXhDZ3RGLXduQTBPRUsyd29VQdIBmwJBVV95cUxNeWFEWFdKTTFDOU8yOXZ5WmxfS09iRDNXQ3hRUXpIbnlRSTQtaUJKUW9qd0hBR255VER5c1ZYMTQxdzdkX21ZYmUwSElDU3VYZnduWUM2OTlRbmcwdURCT2hxRld2NXY3MlA4anFKMXNpeHY5TFBTcnQ1SVdFVmlFMUEzM1pEWlRucm0walNRTG9NVDd3MnRzLTBFeV9VRzNfLXlUQkt5M3N3Rm9GYUw2OEpFRldqTE5OTHRpYlYzUElTa2NOdWo4V1BOM2FrbkJQWEZkVzVzMGN6TXk0V3FGSmtJZFlwRk5pblJCMU5pLVo3NDkxMktiYmVhWHNkS1M4TVd2WjNlcVRxeFhzSlpTXzhsRnBvSy02TGFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://timesofindia.indiatimes.com",
+      "title": "The Times of India"
+    }
+  },
+  {
     "title": "Gemini with Personal Intelligence is awfully familiar - The Verge",
-    "description": "Gemini with Personal Intelligence is awfully familiar  The VergePersonal Intelligence in AI Mode in Search: Help that's uniquely yours  blog.googleGoogle’s AI Mode can now tap into your Gmail and Photos to provide tailored responses  TechCrunchGoogle offers users option to plug AI mode into their photos, email for more personalized answers  AP NewsWith 'Personal Intelligence,' Google finally admits how much it knows about you. It's scary-good.  Business Insider",
+    "description": "Gemini with Personal Intelligence is awfully familiar  The VergePersonal Intelligence in AI Mode in Search: Help that's uniquely yours  blog.googleGoogle offers users option to plug AI mode into their photos, email for more personalized answers  AP NewsGoogle adds your Gmail and Photos to AI Mode to enable \"Personal Intelligence\"  Ars TechnicaWith 'Personal Intelligence,' Google finally admits how much it knows about you. It's scary-good.  Business Insider",
     "published date": "Sat, 24 Jan 2026 13:00:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50a3c5Qk1TNzMwTTRRVFl1TldQLXhIOW9TTDRSWDVTZDFjck4yN1hsb2RVaWI4YmladnpPSzRRYk9TWHE2VVlsSFA0aC1mS1NNTTc4NHN5TVVBUl85SzByNjhBU01kV1B3M1RCX0NmTTV1SEhoWm1z?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -200,13 +220,13 @@
     }
   },
   {
-    "title": "Rayman 30th Anniversary Edition has surfaced for Nintendo Switch - Nintendo Everything",
-    "description": "Rayman 30th Anniversary Edition has surfaced for Nintendo Switch  Nintendo EverythingSurprise! Rayman 30th Anniversary Edition Has Been Rated  Nintendo LifeRayman 30th Anniversary Edition Rated in Australia for PS5 and Switch  Insider GamingIconic PS1 Game From the 90s Is Returning on PS5 and Switch  ComicBook.comTwo Rayman Projects Are Reportedly In Development, Including A Rayman Legends Remake  Twisted Voxel",
-    "published date": "Sat, 24 Jan 2026 22:28:29 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbjBqOUR1Y1FBVzNxeTRSU3NmYkxISzEzcHBpbGNwWjVNOGRzY0hsLUZmZjhOSHZlYTB5ZkROcGlOWGRKdUJsVTd0WWlMZ3B6LU9PZjRMcVBYcExKdlFlbEp2OTRidVlGcnZ3d2tzWmctUmtZVlJFOW5Xbkk3UVM3T3RyLWl0OURWR2ZuRlZGSXFVTUZvUDI2NVgwQ1g?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Chinese scientists shrink semiconductor chip into fibre as thin as human hair - South China Morning Post",
+    "description": "Chinese scientists shrink semiconductor chip into fibre as thin as human hair  South China Morning PostEyesOnSci | Chinese scientists create thread-like \"fiber chip\" in Shanghai  XinhuaChina’s hair-thin fiber chips bring computer-level processing into washable fabric  Interesting EngineeringComputing power woven into hair-thin fibers, paving way for smart clothes, brain implants  People's Daily OnlineChina develops hair-thin fibre chip tough enough to survive 15.6-tonne truck  The News International",
+    "published date": "Fri, 23 Jan 2026 22:00:11 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa2J1dkFTSTJYa0xQaVhnMWFReWRqT202Tm42cWJuT1lyNGdPM0d6RTV6b1VXUGxwb182OGc4MVhON2RqS1JXbFppRDkyWTU4Umdnd1FRVE1jdHdqeUlIMkxKZnFRcFpZTldjNFI1aWhNamRERUZTdlRueDBvUGtINzZkRTJERDdkSk1tbXZ5TGoyYmFVTnpfWThHNFNfNWhoZkZSdEE5Y0lIMkhWUEpsSE1yR3lVdll5ZDR4VzI1TdIBvwFBVV95cUxNOUR6YzdWUFlqVE53V1ZabTZOeDM0U2cyYTdsc0JIZmJlLThMNi1KVFd3a2hUMGRTMTl6T2xJZUxRUlE5anhLdGNDVms5Q0tIRDFPRTFBUWk3MG9WN0hjeGl5cXlrTGUwcFVyNlh0SGNLbERSUERBRXhBRlh2MXdDeGp2TFN1dWNRM0NndmxLdFFyYVA3ZGFhcTFsUUN1Qy1zanBSOUljUUN2Q1htU1lFdkhWamFMdVJvdng4ZkFXYw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://nintendoeverything.com",
-      "title": "Nintendo Everything"
+      "href": "https://www.scmp.com",
+      "title": "South China Morning Post"
     }
   },
   {
@@ -220,33 +240,13 @@
     }
   },
   {
-    "title": "Hytale Patch Notes - Update 2 - Hytale",
-    "description": "Hytale Patch Notes - Update 2  HytaleHytale Vs. Minecraft - 7 Differences Between The Two Sandboxes  GameSpotHytale could compete for Minecraft's crown — once it graduates early access  PolygonHytale’s new grimoire that lets players summon skeletal buddies is ‘ass by design’ according to its lead dev  Massively OverpoweredHytale Update 2 Patch Notes and Release Date - Hytale Guide  IGN",
-    "published date": "Sat, 24 Jan 2026 10:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hdEtDYV9aWW8xZlVFM01yUDRGNTM4MEdwaWZPUkI1eUNqekNSZFhXNV96VWcyYjEydmdEc2Q0RlYwU3lFME42V2xtOXZoWmF4NkZlTjBrbVlFUTZIYmo1d013d1dJQzdpOVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Best 65-inch+ TVs 2026: Which TV to buy for watching sports, movies, more - Mashable",
+    "description": "Best 65-inch+ TVs 2026: Which TV to buy for watching sports, movies, more  MashableWe reviewed flagship TVs from every brand to find each company's best display for picture quality  Business InsiderShop the best TVs for streaming, gaming and sports  USA TodayThe best budget TVs of 2026: Big screens, low prices and more features than you'd expect  Yahoo! TechTop 2026 65-Inch+ TVs: Best Picks for Sports and Movie Lovers  filmogaz.com",
+    "published date": "Sat, 24 Jan 2026 10:08:19 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyQkNRWEhFOElYU3d3Tk45OHNoZTJlejA0RExjQ0x4amp3aW1qXy1GUkFxMUhCVjFYakhZeEhRbDhPS1NzZXJQR0xyS3FSVXE3S2hjakFZZGVXN3IxRDNJ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://hytale.com",
-      "title": "Hytale"
-    }
-  },
-  {
-    "title": "This item in your drawers from 2007 could be worth at least $50K - nj.com",
-    "description": "This item in your drawers from 2007 could be worth at least $50K  nj.comView Full Coverage on Google News",
-    "published date": "Sat, 24 Jan 2026 16:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNenNQdFhIZExzUVQydmxhZkx5aHU0SzRsakVuVzY0RFRfRkhTd2ZCYUJUbG95a3IzU3FSRkhHSUZxTEhteFR3Y3dtRzYtZWNWU2VnVTEwUGxjRkVuNW9BTmNMbTZDZkJUOXh4SjBxM3hPY25OeFV6XzlQaVlYZE5IcHhGSVJZLVlZLTR2VDNHb0JacFZydXVJZVg0ZGxQeVptMXfSAbYBQVVfeXFMT3ZES0ZnYjBQanZPa2xwM2pNRXU1Vl90bzR0cmhDSVVTdEc2Mk5HRWd5OWZVak9UOWIxRUpucmhsTmRJcTNsVE9xMDJ2UzVWQU04UzJQTjQ1MmZHbGxJZVFPTDB0TXNLWjljWG1JNXJCdEVwRjlYN2E5a2hJdk9lLWx1YW95dnRjUThxb3dvRnVzT1VyVUdiY3ZhOUlJR0xMZG1yUTQxTzFzNExDLWQ5YW1LWkExYlE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.nj.com",
-      "title": "nj.com"
-    }
-  },
-  {
-    "title": "Shadow Pokémon Rise in Pokémon GO Precious Pals: Taken Over Event - Pokemon.com",
-    "description": "Shadow Pokémon Rise in Pokémon GO Precious Pals: Taken Over Event  Pokemon.comPokémon Go Precious Pals Taken Over quest steps, tasks and rewards  EurogamerA PvE Analysis of Precious Pals: Taken Over!  Pokémon GO HubPokémon GO: 4 bonuses that you should take advantage of during the Rocket takeover  Mein-MMOPokémon GO: Taken Over – All Rocket Special Research Tasks and Rewards  VICE",
-    "published date": "Fri, 23 Jan 2026 17:13:32 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc3pTZmxHdmtURGl1emZrZXJHT010aU1DYUNfZ0gxZnVybUluZTJubER4SXJjbjVIREZxNUM2VEMyRkNrNTNsZk5JQXBuRnpsVjU4NXE5bFBSOVNBckZyWEJWMlJxQlhfLWdsTWViUWNNaF9nSzlORUpfakE2NlNmOTJ0WkQxUGZPVWNwM25adWV5SEVRR3piYmhZUE1nTDl4X1Q0WWRlQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.pokemon.com",
-      "title": "Pokemon.com"
+      "href": "https://mashable.com",
+      "title": "Mashable"
     }
   },
   {
@@ -260,13 +260,23 @@
     }
   },
   {
-    "title": "Final Fantasy 7 Remake Part 3's Title Has Finally Been Decided - GameSpot",
-    "description": "Final Fantasy 7 Remake Part 3's Title Has Finally Been Decided  GameSpotFF7 Remake Part 3 will feature 'enhanced' versions of beloved minigames  Polygon‘It’s More Beneficial to Have Something We’re Already Familiar With’: Why Final Fantasy VII Remake Part 3 Will Use Unreal Engine 4  WccftechFFVII Remake: Part 3 director says the subtitle has been chosen, talks Unreal Engine 4 use, stance on AI & more  GoNintendoFinal Fantasy VII Remake Part 3 Is Playable and Progressing Smoothly, Hamaguchi Says  Twisted Voxel",
-    "published date": "Fri, 23 Jan 2026 22:12:35 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSXNfeWpKWVljaDczSnlhYnhJdmgzdXQxRVJjNk0tUlNBMDJjc2ptb2lKZy12V1N6Nmx4ckpCdEx5RjViX0ZpS3dGSjdqOTBDTWNWQm9paHp5aUQ0czJhTGtSaGpuclNZamc4UGM2VVBCYUJtMWtmaXNtY2pvbXVGT2hOQWtpcEY1RXdpRlVwZmhRQjBEbzAzOWo1bmEyM090NHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Shadow Pokémon Rise in Pokémon GO Precious Pals: Taken Over Event - Pokemon.com",
+    "description": "Shadow Pokémon Rise in Pokémon GO Precious Pals: Taken Over Event  Pokemon.comPokémon Go Precious Pals Taken Over quest steps, tasks and rewards  EurogamerA PvE Analysis of Precious Pals: Taken Over!  Pokémon GO HubPokémon GO: 4 bonuses that you should take advantage of during the Rocket takeover  Mein-MMOPokémon GO: Taken Over – All Rocket Special Research Tasks and Rewards  VICE",
+    "published date": "Fri, 23 Jan 2026 17:13:32 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc3pTZmxHdmtURGl1emZrZXJHT010aU1DYUNfZ0gxZnVybUluZTJubER4SXJjbjVIREZxNUM2VEMyRkNrNTNsZk5JQXBuRnpsVjU4NXE5bFBSOVNBckZyWEJWMlJxQlhfLWdsTWViUWNNaF9nSzlORUpfakE2NlNmOTJ0WkQxUGZPVWNwM25adWV5SEVRR3piYmhZUE1nTDl4X1Q0WWRlQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.gamespot.com",
-      "title": "GameSpot"
+      "href": "https://www.pokemon.com",
+      "title": "Pokemon.com"
+    }
+  },
+  {
+    "title": "This item in your drawers from 2007 could be worth at least $50K - nj.com",
+    "description": "This item in your drawers from 2007 could be worth at least $50K  nj.comView Full Coverage on Google News",
+    "published date": "Sat, 24 Jan 2026 16:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNenNQdFhIZExzUVQydmxhZkx5aHU0SzRsakVuVzY0RFRfRkhTd2ZCYUJUbG95a3IzU3FSRkhHSUZxTEhteFR3Y3dtRzYtZWNWU2VnVTEwUGxjRkVuNW9BTmNMbTZDZkJUOXh4SjBxM3hPY25OeFV6XzlQaVlYZE5IcHhGSVJZLVlZLTR2VDNHb0JacFZydXVJZVg0ZGxQeVptMXfSAbYBQVVfeXFMT3ZES0ZnYjBQanZPa2xwM2pNRXU1Vl90bzR0cmhDSVVTdEc2Mk5HRWd5OWZVak9UOWIxRUpucmhsTmRJcTNsVE9xMDJ2UzVWQU04UzJQTjQ1MmZHbGxJZVFPTDB0TXNLWjljWG1JNXJCdEVwRjlYN2E5a2hJdk9lLWx1YW95dnRjUThxb3dvRnVzT1VyVUdiY3ZhOUlJR0xMZG1yUTQxTzFzNExDLWQ5YW1LWkExYlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nj.com",
+      "title": "nj.com"
     }
   },
   {
@@ -280,13 +290,13 @@
     }
   },
   {
-    "title": "Your Smart TV Might Soon Be Replaced By This Emerging Technology - bgr.com",
-    "description": "Your Smart TV Might Soon Be Replaced By This Emerging Technology  bgr.com",
-    "published date": "Sat, 24 Jan 2026 14:47:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wdl9YTWJkb2hkLUxZRFpwTkN5dm5NQU1vTFVEQ3hFdTN1ZnNqS3ZmMzJTcW9Nc0s1ZkhFS29jNi1ETUU4VC1abURpY1VXNFdNdHVEdFVaNWI2Y3lObGg5VkI5NkNqUV9jMF8zM0MtWUpGU0U1Njdv?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Final Fantasy 7 Remake Part 3's Title Has Finally Been Decided - GameSpot",
+    "description": "Final Fantasy 7 Remake Part 3's Title Has Finally Been Decided  GameSpotFF7 Remake Part 3 will feature 'enhanced' versions of beloved minigames  Polygon‘It’s More Beneficial to Have Something We’re Already Familiar With’: Why Final Fantasy VII Remake Part 3 Will Use Unreal Engine 4  WccftechFFVII Remake: Part 3 director says the subtitle has been chosen, talks Unreal Engine 4 use, stance on AI & more  GoNintendoFinal Fantasy VII Remake Part 3 Is Playable and Progressing Smoothly, Hamaguchi Says  Twisted Voxel",
+    "published date": "Fri, 23 Jan 2026 22:12:35 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSXNfeWpKWVljaDczSnlhYnhJdmgzdXQxRVJjNk0tUlNBMDJjc2ptb2lKZy12V1N6Nmx4ckpCdEx5RjViX0ZpS3dGSjdqOTBDTWNWQm9paHp5aUQ0czJhTGtSaGpuclNZamc4UGM2VVBCYUJtMWtmaXNtY2pvbXVGT2hOQWtpcEY1RXdpRlVwZmhRQjBEbzAzOWo1bmEyM090NHc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.bgr.com",
-      "title": "bgr.com"
+      "href": "https://www.gamespot.com",
+      "title": "GameSpot"
     }
   },
   {
@@ -297,6 +307,36 @@
     "publisher": {
       "href": "https://simscommunity.info",
       "title": "Sims Community"
+    }
+  },
+  {
+    "title": "New books argue that far-off goals and humor can help shift daily routines - NPR",
+    "description": "New books argue that far-off goals and humor can help shift daily routines  NPR",
+    "published date": "Fri, 23 Jan 2026 08:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRVZmWS1ULXl3b2Q5aTNfazFoUGZLXzNHbDR4UkZWOF9oSXZnS3FDZXdybl9VLWdjSlVjaG5kMUh2QnduWjJzT3d1U0lvdXBSV2I2aFc1YzJWR0YwR2F4cVdmYzQ0UkZ4dGRxME9sY3FVNk1nYmUyYk9nQWlxTE8zTlB1OHJtUzExU084TWVpa3E2TndndFE1dGtSeGNhNXlJTW4yMVhaN3ZGOHZDZWFYaGNpeUtFYUFmMFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.npr.org",
+      "title": "NPR"
+    }
+  },
+  {
+    "title": "Hytale Patch Notes - Update 2 - Hytale",
+    "description": "Hytale Patch Notes - Update 2  HytaleHytale's Second Update Lets You Summon Skeleton Minions, Adjusts Mining Progression and More  MMORPG.comHytale Vs. Minecraft - 7 Differences Between The Two Sandboxes  GameSpotHytale could compete for Minecraft's crown — once it graduates early access  PolygonHytale’s new grimoire that lets players summon skeletal buddies is ‘ass by design’ according to its lead dev  Massively Overpowered",
+    "published date": "Sat, 24 Jan 2026 10:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hdEtDYV9aWW8xZlVFM01yUDRGNTM4MEdwaWZPUkI1eUNqekNSZFhXNV96VWcyYjEydmdEc2Q0RlYwU3lFME42V2xtOXZoWmF4NkZlTjBrbVlFUTZIYmo1d013d1dJQzdpOVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://hytale.com",
+      "title": "Hytale"
+    }
+  },
+  {
+    "title": "Your Smart TV Might Soon Be Replaced By This Emerging Technology - bgr.com",
+    "description": "Your Smart TV Might Soon Be Replaced By This Emerging Technology  bgr.com",
+    "published date": "Sat, 24 Jan 2026 14:47:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wdl9YTWJkb2hkLUxZRFpwTkN5dm5NQU1vTFVEQ3hFdTN1ZnNqS3ZmMzJTcW9Nc0s1ZkhFS29jNi1ETUU4VC1abURpY1VXNFdNdHVEdFVaNWI2Y3lObGg5VkI5NkNqUV9jMF8zM0MtWUpGU0U1Njdv?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bgr.com",
+      "title": "bgr.com"
     }
   },
   {
@@ -312,31 +352,11 @@
   {
     "title": "If you don’t want to pay a subscription, you can now get Microsoft Office for life for under $100 - Mashable",
     "description": "If you don’t want to pay a subscription, you can now get Microsoft Office for life for under $100  MashableStop paying subscriptions and get Microsoft Office staples for life for less than $3 each  MashableBring your old PC back to life for less than $20  Boing BoingGoDeal24 Winter Software Super Sale is Live! Great Prices on Genuine Software  TechPowerUpA $19.97 Microsoft Office 2019 deal built for everyday productivity  Popular Science",
-    "published date": "Sat, 24 Jan 2026 22:05:21 GMT",
+    "published date": "Sat, 24 Jan 2026 22:00:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdV96a0xWYkpkdmpPVUVhSHZvRkYtdzFVQlBKOXVrbE1uWjdYdF9GRWtaT3VWSndTaG1HMnVhMVBZUmhWZnhUSndUUWowN2sxQk54ekVaT0d2V0dTSDdiU0MwWUR1aGZCXzVqcnRRWUY0eFpUeUxMWmEtQzBnTjlHMWhxN05TeFpKTW1XTGxR?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://mashable.com",
       "title": "Mashable"
-    }
-  },
-  {
-    "title": "New books argue that far-off goals and humor can help shift daily routines - NPR",
-    "description": "New books argue that far-off goals and humor can help shift daily routines  NPR",
-    "published date": "Fri, 23 Jan 2026 08:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRVZmWS1ULXl3b2Q5aTNfazFoUGZLXzNHbDR4UkZWOF9oSXZnS3FDZXdybl9VLWdjSlVjaG5kMUh2QnduWjJzT3d1U0lvdXBSV2I2aFc1YzJWR0YwR2F4cVdmYzQ0UkZ4dGRxME9sY3FVNk1nYmUyYk9nQWlxTE8zTlB1OHJtUzExU084TWVpa3E2TndndFE1dGtSeGNhNXlJTW4yMVhaN3ZGOHZDZWFYaGNpeUtFYUFmMFE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.npr.org",
-      "title": "NPR"
-    }
-  },
-  {
-    "title": "Ring Launches Video Verification Tool to Combat Fakes - Gizmodo",
-    "description": "Ring Launches Video Verification Tool to Combat Fakes  GizmodoRing can now verify if a video has been altered  EngadgetRing is adding a new content verification feature to videos  TechCrunchRing Launches Ring Verify to Authenticate Videos and Prevent Tampering  БуквиCan Ring tell you if a video has been altered?  GovTech",
-    "published date": "Sat, 24 Jan 2026 14:53:33 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS0tyeklWY2VWYndmMng5dXlWQXZKcTVaNmdzck5zM3o5VjA1ajFxdjdaRnhkM2dzZmhyX0xXVGVGbGstY3NSdTNxT1RpemZMYzdGWHFpdlFOU2s3djZOMWZsNjJXSU1BSFVwWW1NYTVLNlh2TFJ3T2JTamJ1MTJvTlV5cGhlWnlkWjhIUA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://gizmodo.com",
-      "title": "Gizmodo"
     }
   },
   {
@@ -350,23 +370,13 @@
     }
   },
   {
-    "title": "Woman Tries To Buy Honda. The Manager Refuses Unless She Agrees To A Date. Then He Adds $10,000 To The Price After She Says No - Motor1.com",
-    "description": "Woman Tries To Buy Honda. The Manager Refuses Unless She Agrees To A Date. Then He Adds $10,000 To The Price After She Says No  Motor1.com",
-    "published date": "Sun, 25 Jan 2026 03:03:22 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaS15c3NWcnlRQU40bk05Tjl4WkpQYUwzN1JDT0NUSkxlUGRLNEN2eGc2QjFPdXZwVUVNeUhLNUs5MEJKVy1mak1VY0JPVHlLYjZZX3ptbnlOako4VVlZMV8tLV9vZnVBd3laYzNidUhaUFVKS2laLUk5eElCT0djTzNmbVZ4QkFMRllvMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "There's a Super Mario Galaxy Movie Nintendo Direct coming this Sunday - Eurogamer",
+    "description": "There's a Super Mario Galaxy Movie Nintendo Direct coming this Sunday  EurogamerA Second Super Mario Galaxy Movie Direct Will Air This Sunday  Game InformerSurprise Super Mario Galaxy Movie Nintendo Direct Announced for This Weekend  IGNAfter Rosalina and Bowser Jr.'s appearances in The Super Mario Galaxy Movie trailer, Chris Pratt hints at \"a couple more\" character surprises: \"People should be excited\"  GamesRadar+Mario & Luigi Get Iconic Power-Up In New Super Mario Galaxy Movie Image After 2023 Movie Snubbed Them  IMDb",
+    "published date": "Fri, 23 Jan 2026 14:05:51 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkRFaXVQeUdab0diMkZRWDFPaU15Q2dfRnFKaVNmcy1sa3A1aU5jVmlaOW51dDlTUXZCZlRTTEZsQ2Z3NXJESFhiZms2dWFJd25GTjNQZ3FEemw4MmlyYzI0NGVMc2F5Z3ctNEtyWGFmc2gwanNqU1BGaEdoLWctNlItYkdoMlRNd0JDQmRLQ3pvcm1Ud1FZeUJ3?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.motor1.com",
-      "title": "Motor1.com"
-    }
-  },
-  {
-    "title": "Poll: What Review Score Would You Give Final Fantasy VII Remake Intergrade? - Nintendo Life",
-    "description": "Poll: What Review Score Would You Give Final Fantasy VII Remake Intergrade?  Nintendo LifeFINAL FANTASY VII REMAKE INTERGRADE Interview – Naoki Hamaguchi, Director  NintendoFinal Fantasy 7 Remake Intergrade - Nintendo Switch 2 Review Update  IGNRoundup: The First Reviews Are In For Final Fantasy 7 Remake On Xbox Series X  Pure XboxDigital Foundry confirms Final Fantasy VII Remake Intergrade ‘is largely an excellent Switch 2 port’  Nintendo Wire",
-    "published date": "Sat, 24 Jan 2026 15:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeGc0Yldrbk9uazh6UG54ZjU5MVZUY0xZSE1icDVaWWNHeW5JNXJ0UEl0LW80eVpGMGJMUXVrXzNiWTdrVnZ5V1hHUEpCTk5EQXFJWXZCSGlDRFliSVktV0drMjFMWENsMWdlMWZOd0RnRGVCcGotMEctazVqazBiYURCN21VX2VaeUdJRmR1a0J3UXJUc0NrV3JQeHJ0ZHdnS19UclF3ejdoemgzLUhkY0xqdEVmZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.nintendolife.com",
-      "title": "Nintendo Life"
+      "href": "https://www.eurogamer.net",
+      "title": "Eurogamer"
     }
   },
   {
@@ -380,16 +390,6 @@
     }
   },
   {
-    "title": "There's a Super Mario Galaxy Movie Nintendo Direct coming this Sunday - Eurogamer",
-    "description": "There's a Super Mario Galaxy Movie Nintendo Direct coming this Sunday  EurogamerA Second Super Mario Galaxy Movie Direct Will Air This Sunday  Game InformerSurprise Super Mario Galaxy Movie Nintendo Direct Announced for This Weekend  IGNAfter Rosalina and Bowser Jr.'s appearances in The Super Mario Galaxy Movie trailer, Chris Pratt hints at \"a couple more\" character surprises: \"People should be excited\"  GamesRadar+Mario & Luigi Get Iconic Power-Up In New Super Mario Galaxy Movie Image After 2023 Movie Snubbed Them  IMDb",
-    "published date": "Fri, 23 Jan 2026 14:05:51 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkRFaXVQeUdab0diMkZRWDFPaU15Q2dfRnFKaVNmcy1sa3A1aU5jVmlaOW51dDlTUXZCZlRTTEZsQ2Z3NXJESFhiZms2dWFJd25GTjNQZ3FEemw4MmlyYzI0NGVMc2F5Z3ctNEtyWGFmc2gwanNqU1BGaEdoLWctNlItYkdoMlRNd0JDQmRLQ3pvcm1Ud1FZeUJ3?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.eurogamer.net",
-      "title": "Eurogamer"
-    }
-  },
-  {
     "title": "The Sorcerer Makes Porsche’s Wildest Widowmaker Look Soft - Carscoops",
     "description": "The Sorcerer Makes Porsche’s Wildest Widowmaker Look Soft  CarscoopsStop what you’re doing: this is Singer's first DLS Turbo, and it's lovely  Top GearThe Latest Porsche 911 'Reimagined' By Singer Makes Us Forget About The GT3  CarBuzzThis piece of Porsche restomod magic from Singer Vehicle Design is utterly bewitching  wallpaper.comExclusive Porsche ‘Re-Imaginer’ Singer Has A New Model And It’s A Design Disaster  The Autopian",
     "published date": "Fri, 23 Jan 2026 14:42:19 GMT",
@@ -400,23 +400,43 @@
     }
   },
   {
-    "title": "Fallout 76: Upcoming Update Announcement - Fallout | Bethesda.net",
-    "description": "Fallout 76: Upcoming Update Announcement  Fallout | Bethesda.netView Full Coverage on Google News",
-    "published date": "Fri, 23 Jan 2026 21:10:15 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYlMwODBxbG90bC0yYy1sMl9rcmNwajkzN0F1QnZ6dUJXeWRCc2ctSEVjOVFpNnN6alJxdENzZ3V6YTZEbktCVnlrbGxqQU5FNGlLbkZkcFFNSUtIZHh0RmduNHhJTVcyMkZiOTRGRy1NaHU4RWRiWHZXSDFWQ1FIVGlhZ1had1ljUWx1cksybS1jYmJDeXlfeWFWS3RrZzlmRHFJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Ring Launches Video Verification Tool to Combat Fakes - Gizmodo",
+    "description": "Ring Launches Video Verification Tool to Combat Fakes  GizmodoRing can now verify if a video has been altered  EngadgetRing is adding a new content verification feature to videos  TechCrunchRing Launches Ring Verify to Authenticate Videos and Prevent Tampering  БуквиCan Ring tell you if a video has been altered?  GovTech",
+    "published date": "Sat, 24 Jan 2026 14:53:33 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS0tyeklWY2VWYndmMng5dXlWQXZKcTVaNmdzck5zM3o5VjA1ajFxdjdaRnhkM2dzZmhyX0xXVGVGbGstY3NSdTNxT1RpemZMYzdGWHFpdlFOU2s3djZOMWZsNjJXSU1BSFVwWW1NYTVLNlh2TFJ3T2JTamJ1MTJvTlV5cGhlWnlkWjhIUA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://fallout.bethesda.net",
-      "title": "Fallout | Bethesda.net"
+      "href": "https://gizmodo.com",
+      "title": "Gizmodo"
     }
   },
   {
-    "title": "Super Mario Wonder Nintendo Switch 2 Edition + Bellabel Park upgrade is $20 - My Nintendo News",
-    "description": "Super Mario Wonder Nintendo Switch 2 Edition + Bellabel Park upgrade is $20  My Nintendo NewsDiscover more of what's new in Super Mario Bros. Wonder - Nintendo Switch 2 Edition + Meetup in Bellabel Park  NintendoSuper Mario Bros. Wonder Gets Switch 2 Upgrade, Playable Rosalina, And Bellabel Park In March  Game InformerSuper Mario Bros. Wonder Switch 2 Edition Is Now Available to Preorder  IGNSuper Mario Bros. Wonder for Nintendo Switch 2: How to pre-order, upgrades, and more  Mashable",
-    "published date": "Sat, 24 Jan 2026 15:03:38 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc2FPd1NmaFd6Wkc4VFdRbjd0WGkwQllDeHB3TnA5aVBzdFRPUzh6bzRGS1RGRkhDM1UtbUdWYkZhRTNuRG5sbkFCYUZMOEJqNW9SVGdUcGFFaUlzdVZJZll5NGY0bnU5c2VnYi1Db1NmY0oyWk1MRkJ4NklfTW9IQl9XQmxBTkY5OWttRDk3cV9uTF9uTEtMc1dzcV85MElJUENXTW9oUDl0UEQ5YmpXaQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Poll: What Review Score Would You Give Final Fantasy VII Remake Intergrade? - Nintendo Life",
+    "description": "Poll: What Review Score Would You Give Final Fantasy VII Remake Intergrade?  Nintendo LifeFINAL FANTASY VII REMAKE INTERGRADE Interview – Naoki Hamaguchi, Director  NintendoFinal Fantasy 7 Remake Intergrade - Nintendo Switch 2 Review Update  IGNRoundup: The First Reviews Are In For Final Fantasy 7 Remake On Xbox Series X  Pure XboxDigital Foundry confirms Final Fantasy VII Remake Intergrade ‘is largely an excellent Switch 2 port’  Nintendo Wire",
+    "published date": "Sat, 24 Jan 2026 15:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeGc0Yldrbk9uazh6UG54ZjU5MVZUY0xZSE1icDVaWWNHeW5JNXJ0UEl0LW80eVpGMGJMUXVrXzNiWTdrVnZ5V1hHUEpCTk5EQXFJWXZCSGlDRFliSVktV0drMjFMWENsMWdlMWZOd0RnRGVCcGotMEctazVqazBiYURCN21VX2VaeUdJRmR1a0J3UXJUc0NrV3JQeHJ0ZHdnS19UclF3ejdoemgzLUhkY0xqdEVmZw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://mynintendonews.com",
-      "title": "My Nintendo News"
+      "href": "https://www.nintendolife.com",
+      "title": "Nintendo Life"
+    }
+  },
+  {
+    "title": "Woman Tries To Buy Honda. The Manager Refuses Unless She Agrees To A Date. Then He Adds $10,000 To The Price After She Says No - Motor1.com",
+    "description": "Woman Tries To Buy Honda. The Manager Refuses Unless She Agrees To A Date. Then He Adds $10,000 To The Price After She Says No  Motor1.com",
+    "published date": "Sun, 25 Jan 2026 03:03:22 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaS15c3NWcnlRQU40bk05Tjl4WkpQYUwzN1JDT0NUSkxlUGRLNEN2eGc2QjFPdXZwVUVNeUhLNUs5MEJKVy1mak1VY0JPVHlLYjZZX3ptbnlOako4VVlZMV8tLV9vZnVBd3laYzNidUhaUFVKS2laLUk5eElCT0djTzNmbVZ4QkFMRllvMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.motor1.com",
+      "title": "Motor1.com"
+    }
+  },
+  {
+    "title": "Google AI Overviews cite YouTube more than any medical site for health queries, study suggests - The Guardian",
+    "description": "Google AI Overviews cite YouTube more than any medical site for health queries, study suggests  The GuardianDr. YouTube? Study Reveals Google AI Favors Influencers Over Doctors  streamlinefeed.co.keHow the ‘confident authority’ of Google AI Overviews is putting public health at risk  The GuardianGoogle removes some AI summaries after investigation uncovers false information given to users: 'Completely wrong [and] really dangerous'  YahooDon’t like Google’s AI answers? Here’s how to get rid of them  PCWorld",
+    "published date": "Sat, 24 Jan 2026 17:02:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX05Da29KTUpmbUY5OEhBRlFWdm1iVndySVNaT21wOThzdU1rRzNUVEhBV2VjakpyajFnMEZ6Nzg2d2FwcmsydjRVSWpsY1NTUTR0OGZMSThfM3pGeXNQXzBWZ2Z0bDUwNGg5MXduVWVzajMzT1pJSi12dkJrVnotRmhZX19pQl9IWmc5clFVVVgwVmxCRVJ6QlZSNGVjaWdxalNFMw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theguardian.com",
+      "title": "The Guardian"
     }
   },
   {
@@ -430,6 +450,16 @@
     }
   },
   {
+    "title": "The Fallout 76 team is \"looking into\" the issues you've been having and says a fix is coming in the next few weeks - Eurogamer",
+    "description": "The Fallout 76 team is \"looking into\" the issues you've been having and says a fix is coming in the next few weeks  EurogamerJust In Time For The Fallout Show, Bethesda Broke Fallout 76 With A Hotfix  OpenCriticFallout Players Surprised With Free Update, Several Changes Made  GAMINGbibleFallout 76: Upcoming Update Announcement  Bethesda.netFallout 76 Update Notes – January 20, 2026  Bethesda.net",
+    "published date": "Sat, 24 Jan 2026 15:27:06 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdTNaQURDYXgxSzFQcjJ5YloxT1ZVaUJWbmFkbTVlN0UyR3JhYW9HYjFjWkxlbjlmd21scEIyQkY0SnM0aGhaZmw2MldsNExtckQyLUtWNWFHQ3NkaktJYnFEM2VOTjFWVU5IU01rUkpOSTZVUDg3cmdrOHgzeGlIZW5tS2haWmJfdy05cnZ1eGNDSV9IZEc4WE95RVN0N29Rcmhoa1MycFk4Y1ZpbzBPRF96Sm5SYnFkdGZoMFdOT2dLaGE3Q0FmQ0dmQVJhQVBlanVJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.eurogamer.net",
+      "title": "Eurogamer"
+    }
+  },
+  {
     "title": "The tech monoculture is finally breaking - Hacker News",
     "description": "The tech monoculture is finally breaking  Hacker News",
     "published date": "Fri, 23 Jan 2026 16:33:02 GMT",
@@ -437,6 +467,16 @@
     "publisher": {
       "href": "https://news.ycombinator.com",
       "title": "Hacker News"
+    }
+  },
+  {
+    "title": "Super Mario Wonder Nintendo Switch 2 Edition + Bellabel Park upgrade is $20 - My Nintendo News",
+    "description": "Super Mario Wonder Nintendo Switch 2 Edition + Bellabel Park upgrade is $20  My Nintendo NewsDiscover more of what's new in Super Mario Bros. Wonder - Nintendo Switch 2 Edition + Meetup in Bellabel Park  NintendoSuper Mario Bros. Wonder Gets Switch 2 Upgrade, Playable Rosalina, And Bellabel Park In March  Game InformerSuper Mario Bros. Wonder Switch 2 Edition Is Now Available to Preorder  IGNSuper Mario Bros. Wonder for Nintendo Switch 2: How to pre-order, upgrades, and more  Mashable",
+    "published date": "Sat, 24 Jan 2026 15:03:38 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc2FPd1NmaFd6Wkc4VFdRbjd0WGkwQllDeHB3TnA5aVBzdFRPUzh6bzRGS1RGRkhDM1UtbUdWYkZhRTNuRG5sbkFCYUZMOEJqNW9SVGdUcGFFaUlzdVZJZll5NGY0bnU5c2VnYi1Db1NmY0oyWk1MRkJ4NklfTW9IQl9XQmxBTkY5OWttRDk3cV9uTF9uTEtMc1dzcV85MElJUENXTW9oUDl0UEQ5YmpXaQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://mynintendonews.com",
+      "title": "My Nintendo News"
     }
   },
   {
@@ -467,16 +507,6 @@
     "publisher": {
       "href": "https://www.theautopian.com",
       "title": "The Autopian"
-    }
-  },
-  {
-    "title": "Best 65-inch+ TVs 2026: Which TV to buy for watching sports, movies, more - Mashable",
-    "description": "Best 65-inch+ TVs 2026: Which TV to buy for watching sports, movies, more  MashableWe reviewed flagship TVs from every brand to find each company's best display for picture quality  Business InsiderShop the best TVs for streaming, gaming and sports  USA TodayThe best budget TVs of 2026: Big screens, low prices and more features than you'd expect  Yahoo! TechTop 2026 65-Inch+ TVs: Best Picks for Sports and Movie Lovers  filmogaz.com",
-    "published date": "Sat, 24 Jan 2026 10:08:19 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyQkNRWEhFOElYU3d3Tk45OHNoZTJlejA0RExjQ0x4amp3aW1qXy1GUkFxMUhCVjFYakhZeEhRbDhPS1NzZXJQR0xyS3FSVXE3S2hjakFZZGVXN3IxRDNJ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://mashable.com",
-      "title": "Mashable"
     }
   },
   {
@@ -520,16 +550,6 @@
     }
   },
   {
-    "title": "Want to block ads on Android? Here's why I use an app over Private DNS - Android Authority",
-    "description": "Want to block ads on Android? Here's why I use an app over Private DNS  Android Authority",
-    "published date": "Sat, 24 Jan 2026 10:31:46 GMT",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43VjE3WmxLWmhtcVd5aG1TMkh5TmpGaUUxdEg0Vy1yRW91QTdaaFFfLWg4bzZ1bHF1bDktYUpFc1E2c0JQWU0xanRzRnhYT0VlWlJjRFRkeE4xQm83dmdJV1pfWGFVZjU4UEkyWjNrUm8?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.androidauthority.com",
-      "title": "Android Authority"
-    }
-  },
-  {
     "title": "Former astronaut joins Vast as Haven-1 moves into integration - SpaceNews",
     "description": "Former astronaut joins Vast as Haven-1 moves into integration  SpaceNewsThe first commercial space station, Haven-1, is now undergoing assembly for launch  Ars TechnicaThe World's First Commercial Space Station Is Nearly Ready to Launch  extremetech.comWorld’s first private space station ‘Haven-1’ getting ready for 2027 launch  Interesting EngineeringPrivate Space Station Being Assembled for Launch  Futurism",
     "published date": "Fri, 23 Jan 2026 14:47:50 GMT",
@@ -540,6 +560,16 @@
     }
   },
   {
+    "title": "‘Marathon’ Just Dodged An ‘ARC Raiders’ Bullet For Launch - Forbes",
+    "description": "‘Marathon’ Just Dodged An ‘ARC Raiders’ Bullet For Launch  ForbesMarathon releases March 5, new Limited Edition DualSense controller revealed  PlayStation.BlogMarathon Releases March 5, 2026: New Trailer & More  Bungie.netMarathon Anti-Cheat All But Rules Out Linux Gamers for Upcoming Shooter  TechPowerUpMarathon Has a Major Advantage Over Arc Raiders  ComicBook.com",
+    "published date": "Sat, 24 Jan 2026 14:01:02 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNclFBLWtaanNwSGMyNHRPU3Y2WWI5Y1NaWFZKTFVoZ09fVDBRRTFEaVd5OHh2WEpHVWdPanJVU1NyNW45aGdpc19NOFB5aURUellvb2lWYVZmZ1lYaUNqeHZyYmlvRWE0ZlpzeFpxZkZIcFR0ZlYzTmJWV3hkM25BMnBOdUZIdHhiNWJ0WEpHaGhhYUxHVE5nRVZCOF9xZU0ycHdsMVJCYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
+    }
+  },
+  {
     "title": "Top Stories: iPhone 18 Pro Leaks, Siri Chatbot, Apple AI Pin, and More - MacRumors",
     "description": "Top Stories: iPhone 18 Pro Leaks, Siri Chatbot, Apple AI Pin, and More  MacRumorsApple Developing AI Wearable Pin  The InformationGear News of the Week: Apple’s AI Wearable and a Phone That Can Boot Android, Linux, and Windows  WIREDNot to be outdone by OpenAI, Apple is reportedly developing an AI wearable  TechCrunchHardware rivalry: Apple & OpenAI vie for AI gadgets  Morning Brew",
     "published date": "Sat, 24 Jan 2026 14:00:00 GMT",
@@ -547,6 +577,26 @@
     "publisher": {
       "href": "https://www.macrumors.com",
       "title": "MacRumors"
+    }
+  },
+  {
+    "title": "Want to block ads on Android? Here's why I use an app over Private DNS - Android Authority",
+    "description": "Want to block ads on Android? Here's why I use an app over Private DNS  Android Authority",
+    "published date": "Sat, 24 Jan 2026 10:31:46 GMT",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43VjE3WmxLWmhtcVd5aG1TMkh5TmpGaUUxdEg0Vy1yRW91QTdaaFFfLWg4bzZ1bHF1bDktYUpFc1E2c0JQWU0xanRzRnhYT0VlWlJjRFRkeE4xQm83dmdJV1pfWGFVZjU4UEkyWjNrUm8?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.androidauthority.com",
+      "title": "Android Authority"
+    }
+  },
+  {
+    "title": "Next Week on Xbox: New Games for January 26 to 30 - Xbox Wire",
+    "description": "Next Week on Xbox: New Games for January 26 to 30  Xbox WireNext Week on Xbox: New Games for January 19 to 23  Xbox WireThese 20+ Games Are Coming To Xbox Next Week (January 26-30)  Pure XboxOut this week: Final Fantasy VII Remake Intergrade, 2XKO, MIO: Memories in Orbit, SEGA Football Club Champions, more  Games AsylumThis Week’s Japanese Game Releases: Arknights: Endfield, Final Fantasy VII Remake Intergrade for Xbox Series and Switch 2, more  Gematsu",
+    "published date": "Fri, 23 Jan 2026 15:06:20 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZlFUZEg2bmRZLWprWE5Sd1R3WWNqZURJRk9qYWxUQTc0MTdwOTZGV09IbG9QUS1zZTdHT1dXc2RrcjNkeWdLeUd2TDZwRjVWUUFNX0FtTU9zMVUyNHFUQnR0eEVZcTVTeGdac3Y2V1hiN3FrNk5nLU0xX3dIdC1VSElVZEJaZGdEQnA5dFhCUWxNQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://news.xbox.com",
+      "title": "Xbox Wire"
     }
   },
   {
@@ -570,16 +620,6 @@
     }
   },
   {
-    "title": "Next Week on Xbox: New Games for January 26 to 30 - Xbox Wire",
-    "description": "Next Week on Xbox: New Games for January 26 to 30  Xbox WireNext Week on Xbox: New Games for January 19 to 23  Xbox WireThese 20+ Games Are Coming To Xbox Next Week (January 26-30)  Pure XboxOut this week: Final Fantasy VII Remake Intergrade, 2XKO, MIO: Memories in Orbit, SEGA Football Club Champions, more  Games AsylumThis Week’s Japanese Game Releases: Arknights: Endfield, Final Fantasy VII Remake Intergrade for Xbox Series and Switch 2, more  Gematsu",
-    "published date": "Fri, 23 Jan 2026 15:06:20 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZlFUZEg2bmRZLWprWE5Sd1R3WWNqZURJRk9qYWxUQTc0MTdwOTZGV09IbG9QUS1zZTdHT1dXc2RrcjNkeWdLeUd2TDZwRjVWUUFNX0FtTU9zMVUyNHFUQnR0eEVZcTVTeGdac3Y2V1hiN3FrNk5nLU0xX3dIdC1VSElVZEJaZGdEQnA5dFhCUWxNQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://news.xbox.com",
-      "title": "Xbox Wire"
-    }
-  },
-  {
     "title": "The future of foldables is not tri-folds - PhoneArena",
     "description": "The future of foldables is not tri-folds  PhoneArenaThe Sideload 018: Is 2026 actually the year of the foldable?  9to5GoogleIPhone Fold will use Samsung technology to create a thinner, brighter screen  Mix ValeHuawei dominates 70% of the foldable phone market share, but Apple is soon to enter the competition.  富途资讯The shape of smartphones to come: 4 foldable styles for 2026  Báo VietNamNet",
     "published date": "Sat, 24 Jan 2026 13:44:53 GMT",
@@ -587,16 +627,6 @@
     "publisher": {
       "href": "https://www.phonearena.com",
       "title": "PhoneArena"
-    }
-  },
-  {
-    "title": "‘Marathon’ Just Dodged An ‘ARC Raiders’ Bullet For Launch - Forbes",
-    "description": "‘Marathon’ Just Dodged An ‘ARC Raiders’ Bullet For Launch  ForbesMarathon releases March 5, new Limited Edition DualSense controller revealed  PlayStation.BlogMarathon Releases March 5, 2026: New Trailer & More  Bungie.netMarathon Anti-Cheat All But Rules Out Linux Gamers for Upcoming Shooter  TechPowerUpMarathon Has a Major Advantage Over Arc Raiders  ComicBook.com",
-    "published date": "Sat, 24 Jan 2026 14:01:02 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNclFBLWtaanNwSGMyNHRPU3Y2WWI5Y1NaWFZKTFVoZ09fVDBRRTFEaVd5OHh2WEpHVWdPanJVU1NyNW45aGdpc19NOFB5aURUellvb2lWYVZmZ1lYaUNqeHZyYmlvRWE0ZlpzeFpxZkZIcFR0ZlYzTmJWV3hkM25BMnBOdUZIdHhiNWJ0WEpHaGhhYUxHVE5nRVZCOF9xZU0ycHdsMVJCYw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.forbes.com",
-      "title": "Forbes"
     }
   },
   {
@@ -620,16 +650,6 @@
     }
   },
   {
-    "title": "I’m a Gboard loyalist, but a week with SwiftKey might have changed my mind - Android Authority",
-    "description": "I’m a Gboard loyalist, but a week with SwiftKey might have changed my mind  Android Authority",
-    "published date": "Sat, 24 Jan 2026 12:43:36 GMT",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kcEpyUHRmSVlpZVRIem5qanJpb0Q5QU5oUkVjVWhnUkhpOEd1MWF2NjZ4ODVsQlpETTJEYVVoek0tbnlKdU9obGJuclNUb2NUR04wdWZCUVpQejhKU25WRENvRGNSM2ZZa1djeQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.androidauthority.com",
-      "title": "Android Authority"
-    }
-  },
-  {
     "title": "Google debuts 'Me Meme' feature in Google Photos app - Mashable",
     "description": "Google debuts 'Me Meme' feature in Google Photos app  MashableGoogle Photos Adds AI-Powered Meme Creation With 'Me Meme'  CNETGoogle Photos now makes your camera roll a meme factory  Android PoliceHow to use Google Photos' new Me Meme feature  EngadgetGoogle Photos’ latest feature lets you meme yourself  TechCrunch",
     "published date": "Sat, 24 Jan 2026 18:45:30 GMT",
@@ -637,6 +657,16 @@
     "publisher": {
       "href": "https://mashable.com",
       "title": "Mashable"
+    }
+  },
+  {
+    "title": "I’m a Gboard loyalist, but a week with SwiftKey might have changed my mind - Android Authority",
+    "description": "I’m a Gboard loyalist, but a week with SwiftKey might have changed my mind  Android Authority",
+    "published date": "Sat, 24 Jan 2026 12:43:36 GMT",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kcEpyUHRmSVlpZVRIem5qanJpb0Q5QU5oUkVjVWhnUkhpOEd1MWF2NjZ4ODVsQlpETTJEYVVoek0tbnlKdU9obGJuclNUb2NUR04wdWZCUVpQejhKU25WRENvRGNSM2ZZa1djeQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.androidauthority.com",
+      "title": "Android Authority"
     }
   },
   {
@@ -650,19 +680,9 @@
     }
   },
   {
-    "title": "Leak: Nvidia is about to challenge ‘Intel Inside’ with as many as eight Arm laptops - The Verge",
-    "description": "Leak: Nvidia is about to challenge ‘Intel Inside’ with as many as eight Arm laptops  The VergeLenovo just leaked NVIDIA’s mystery “N1X” chip — and it lines up with the rumored 20‑core Arm + RTX GPU monster  Windows CentralLenovo Inadvertently Confirms Existence of New Laptop Models with NVIDIA N1(X) APUs  TechPowerUpNvidia's Arm-based N1X-equipped gaming laptops are reportedly set to debut this quarter, with N2 series chips planned for 2027 — new roadmap leak finally hints at consumer release Windows-on-ARM machines  Tom's HardwareLenovo preparing Legion 7 laptop with NVIDIA N1X, could be the first true Windows 11 on ARM gaming laptop  VideoCardz.com",
-    "published date": "Sat, 24 Jan 2026 01:09:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYnB1WUFINkJweDQ2RzJfQnJPcS1rakE2bGZUanFPWHp2Q3FUcXZ4Q0J4aVBER0xLVjBJSlNLazFUMnNIWU13MTdQanItUzRSTl8zb1dzS0VFbVY5Z29fTEh0VWxMREt5T3VUWGhlaGdhQ0gyN0o2UEdyblJCOVZmbWp3?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theverge.com",
-      "title": "The Verge"
-    }
-  },
-  {
     "title": "The DJI Mini 5 Pro Fly More Combo is down to a record-low price at Amazon — save $500 right now - Mashable",
-    "description": "The DJI Mini 5 Pro Fly More Combo is down to a record-low price at Amazon — save $500 right now  MashableDJI Mini 5 Pro review: The best sub-250g drone?  SpaceThese DJI Drones Are On Sale and Aerial Cinematography Ready  No Film SchoolDJI Mini Drone Combo With 4K Camera Hits Its First Low of the Year, Now Cheaper Than Black Friday  KotakuDJI Neo 2 First Impressions  Thurrott.com",
-    "published date": "Sun, 25 Jan 2026 02:01:57 GMT",
+    "description": "The DJI Mini 5 Pro Fly More Combo is down to a record-low price at Amazon — save $500 right now  MashableDJI Mini 5 Pro review: The best sub-250g drone?  SpaceThese DJI Drones Are On Sale and Aerial Cinematography Ready  No Film SchoolDrone News Roundup: DJI Mavic 4 Pro and Mini 5 Pro on Sale, Bavaria with the Neo 2, and More!  UAV CoachDJI Extends Mini Drone Deals as the 4K UHD Camera Fly More Combo Matches Its Black Friday Pricing  Gizmodo",
+    "published date": "Sun, 25 Jan 2026 05:04:33 GMT",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oM1RzcFVmcWoyYUZIeVJybVlvbjFKbEhfMW9ZTzlDOVMxMGdQRE1WX3BOYmlQOURiLTlzd00yYXNSUzhIeVp3aXJiVEk3bnV6ZTk2MVJYeDM4cjJEczhiU2R6MnlKNEFya3JUelY5bUp0OWNFanc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://mashable.com",
@@ -677,26 +697,6 @@
     "publisher": {
       "href": "https://9to5google.com",
       "title": "9to5Google"
-    }
-  },
-  {
-    "title": "Hideki Konno, who led Mario Kart, 3DS hardware, and more, is gone from Nintendo after 40 years - Nintendo Everything",
-    "description": "Hideki Konno, who led Mario Kart, 3DS hardware, and more, is gone from Nintendo after 40 years  Nintendo EverythingHideki Konno has left Nintendo after 40 years  My Nintendo NewsNintendo veteran Hideki Konno, known for Mario Kart and Yoshi’s Island, has seemingly left after 39 years  Video Games ChronicleNintendo loses a giant as the Mario Kart creator Hideki Konno has left the company  Gamereactor UKHideki Konno leaves Nintendo after 40 years  GoNintendo",
-    "published date": "Sat, 24 Jan 2026 00:55:55 GMT",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4Nzg1SldaQi1mRVhHNkRDSXI3dDE5ZW5EcFgyM1VKdHZvVk9hTDlTbjg0MktnOHg1UlEtdGhLU3RmSWdva2N3eEtOeU1QQVdmRVBjSFVPSTgxY0d4N2N3SVlUSFk1RG55Mkk1SzA0Y0RRZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://nintendoeverything.com",
-      "title": "Nintendo Everything"
-    }
-  },
-  {
-    "title": "What's Next For Xbox In 2026: Games, Hardware, And Game Pass - GameSpot",
-    "description": "What's Next For Xbox In 2026: Games, Hardware, And Game Pass  GameSpotBitcast 369 : PlayStation, Nintendo, and Xbox in 2026  Seasoned Gaming17 Main Games of 2026: GTA VI, New Bond, Wolverine, and More  IXBT.gamesWhat will win game of the year 2026?  MSNVideo games 2026: the 11 most eagerly awaited releases  parisselectbook.com",
-    "published date": "Fri, 23 Jan 2026 14:19:56 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc3kxanhFdWRfcHQxVjg2a0pqVkhXNWpSa0MwYXlkd2dmdmE1TXEzRlhtdUQ4S015TDIyQjA1aXkwLWt6X1lrYmlDRzFEUGpsaVl2M0g3YlNDcE45YS1UUjdib3lRaXZFbmZ0Y3hHZHlSUnlreGtzSXhELWtNdUpnRVVQa0diRGlNX2NqODhlVmw1WUc1RGcyd2JtdEF6THJYX1E?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.gamespot.com",
-      "title": "GameSpot"
     }
   }
 ]
