@@ -1,22 +1,12 @@
 [
   {
     "title": "After 5 Years, Apple Finally Upgrades the AirTag - WIRED",
-    "description": "After 5 Years, Apple Finally Upgrades the AirTag  WIREDApple introduces new AirTag with expanded range and improved findability  AppleApple's new AirTag has finally arrived, but it's not a must-buy for everyone  AppleInsiderApple's new AirTag still doesn't have a keyring hole  EngadgetApple’s AirTag 2 is easier to find thanks to new chip  Ars Technica",
+    "description": "After 5 Years, Apple Finally Upgrades the AirTag  WIREDApple introduces new AirTag with expanded connectivity range and improved findability  AppleApple Announces New AirTag with Longer Range, Louder Speaker  Yahoo FinanceApple's new AirTag still doesn't have a keyring hole  EngadgetApple’s AirTag 2 is easier to find thanks to new chip  Ars Technica",
     "published date": "Mon, 26 Jan 2026 14:50:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VODk1MUpsNmpsS2pOLXNQM2liUnFfYXlHNFlXdDVXN1IxbjlsOGVXRmRfazlBV2FKZG9Xa2RQM0dRYTJoQU5mS1hMMnRGQW9DX2w2UW5udXR6OG1OMU9tbGpGNVBpb0dzb2pjaW9PaHJRQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.wired.com",
       "title": "WIRED"
-    }
-  },
-  {
-    "title": "Anthropic launches interactive Claude apps, including Slack and other workplace tools - TechCrunch",
-    "description": "Anthropic launches interactive Claude apps, including Slack and other workplace tools  TechCrunchAnthropic extends MCP with a UI framework  The New StackAnthropic embeds Slack, Figma and Asana inside Claude, turning AI chat into a workplace command center  VentureBeatClaude gets interactive with MCP extension  The VergeClaude supports MCP Apps, presents UI within chat window  theregister.com",
-    "published date": "Mon, 26 Jan 2026 18:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZW94TFpSWTdMalllOVpuQnlJa0ttWTZ2cWUyU1laVFRQOVNzcFp6R3lYeWtCemduVjZVTElyNFZpZjhXVUpkaE5jSk1Zclc1RU82MnZLcUpuWGh5VGlXZVJ3SVlwMEdBZkR3S2YxcEhfZDc4WU5kU0EyaHBoQ3J2R1lGdS0wOHpReVFnamR0U1lMTnVyR0RCZ3ZObm1jczB1LWFERUVkZEx5YmFKUU5PRm4xS3NGZjZidFVN?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://techcrunch.com",
-      "title": "TechCrunch"
     }
   },
   {
@@ -31,12 +21,32 @@
   },
   {
     "title": "This is Android 17’s blur, new screen recorder, & more in leaked screenshots [Gallery] - 9to5Google",
-    "description": "This is Android 17’s blur, new screen recorder, & more in leaked screenshots [Gallery]  9to5GoogleGoogle adding blur to Android 17’s system UI on Pixel  9to5GoogleAndroid 17 Might Copy the Worst Thing About iOS 26  GizmodoOh Great, It Looks Like Android Is Doing 'Liquid Glass' Now Too  LifehackerAndroid 17 might make you think that you need stronger glasses  PhoneArena",
+    "description": "This is Android 17’s blur, new screen recorder, & more in leaked screenshots [Gallery]  9to5GoogleAndroid 17 Might Copy the Worst Thing About iOS 26  GizmodoGoogle adding blur to Android 17’s system UI on Pixel  9to5GoogleOh Great, It Looks Like Android Is Doing 'Liquid Glass' Now Too  LifehackerGoogle Play Services Update Includes CTAP2 Security Key Support, More  Droid Life",
     "published date": "Mon, 26 Jan 2026 22:10:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QLVRqSlF5YXZQX0N2NzVmWTVzekt5YXNQX1lINEZzQXB3d01fSVdGVG9rd2Fld0FmOGpzVzh2NDdlaVVQY1pxWUpCZWZxNEYycXdnaWNMWFFMZVUyWEl3?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://9to5google.com",
       "title": "9to5Google"
+    }
+  },
+  {
+    "title": "Anthropic launches interactive Claude apps, including Slack and other workplace tools - TechCrunch",
+    "description": "Anthropic launches interactive Claude apps, including Slack and other workplace tools  TechCrunchAnthropic extends MCP with a UI framework  The New StackAnthropic embeds Slack, Figma and Asana inside Claude, turning AI chat into a workplace command center  VentureBeatClaude now offers deeper integrations with apps like Canva and Slack  EngadgetClaude supports MCP Apps, presents UI within chat window  theregister.com",
+    "published date": "Mon, 26 Jan 2026 18:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZW94TFpSWTdMalllOVpuQnlJa0ttWTZ2cWUyU1laVFRQOVNzcFp6R3lYeWtCemduVjZVTElyNFZpZjhXVUpkaE5jSk1Zclc1RU82MnZLcUpuWGh5VGlXZVJ3SVlwMEdBZkR3S2YxcEhfZDc4WU5kU0EyaHBoQ3J2R1lGdS0wOHpReVFnamR0U1lMTnVyR0RCZ3ZObm1jczB1LWFERUVkZEx5YmFKUU5PRm4xS3NGZjZidFVN?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://techcrunch.com",
+      "title": "TechCrunch"
+    }
+  },
+  {
+    "title": "Google aims to take the sting out of scheduling meetings with a new Gemini feature - Engadget",
+    "description": "Google aims to take the sting out of scheduling meetings with a new Gemini feature  EngadgetGoogle's Gemini AI Will Now Generate Meeting Suggestions in Your Calendar. How It Works  CNETGemini in Google Calendar is getting so good at scheduling meetings, interns will be out of work  Android AuthorityA new Gemini feature in Google Calendar will help find meeting times that work for everyone.  The VergeGoogle Adds Multiple Calendar Support To Gemini  findarticles.com",
+    "published date": "Mon, 26 Jan 2026 20:48:53 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTHBmanZPek5jN0VzWkhYMnAzUngwc1VRbEkwS09jVmZfTFBKMlcydXpVNDczellGQlZhTGdFVlpERUI0Y3pZQ2VUT0hyRktsY0xRQW44b0gzbW9hdWZMXzltTlByY2FhT1JRN1I4M3NUdHoxZ0duTUJUU0hOWHczRDFYZ3lpNGx6d3RNTTdqR1RrbFNkQU53Z2hqeDE2dHdBdDh6c1FjakNIdzUtVGk3OS0xbEQ1QVZIYWlOYkFFakRrbnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.engadget.com",
+      "title": "Engadget"
     }
   },
   {
@@ -50,28 +60,18 @@
     }
   },
   {
-    "title": "Microsoft’s first Windows 11 update of 2026 has been a mess - The Verge",
-    "description": "Microsoft’s first Windows 11 update of 2026 has been a mess  The VergeWindows 11 update may stop some PCs from booting, warns Microsoft  Windows CentralWindows 11 January 2026 Update is not Allowing Some PCs to Boot  80 LevelMicrosoft releases second emergency Windows 11 update to fix Outlook crashes  EngadgetSome PCs can't boot after latest Windows 11 security update, no fix in sight —mostly affects 24H2 and 25H2 versions  Tom's Hardware",
-    "published date": "Mon, 26 Jan 2026 12:04:08 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcHVxWWs3ajc1QnA3Mm04aDNJU1NaR0xCTkQ1dEdsLVVBSGVpeUkzVDlISzFqd1N4NEFYYXBjQVJQZjdkdW5ZVjBVQ1hjZlFmNVJEM1J3VERDWkpaZXBTSVZOSFBjUTRWc2JocnByNFlrdkNHckFWdUJZUDdVclRRQnFXLW5CTTVnemxxVjhxVmZ6Ymc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "China's Thermal Battery Breakthrough Might Change Everything - bgr.com",
+    "description": "China's Thermal Battery Breakthrough Might Change Everything  bgr.com",
+    "published date": "Mon, 26 Jan 2026 20:17:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTl83b25zVmdtdWJLUjNIQmRRYTVwY0kzOWtnQVAxOFdPYkdpV2djSDhjdVdXOVItTHZhTmcybnd2YlFrc2hSMkp6LUZ3QkNSUmY2T2ZPZHA5eGQyS3djU0hfRFFWQzNUZUwyUTJlc1VaVGotNkttczdVTVlUeGlkeW5Ydw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.theverge.com",
-      "title": "The Verge"
-    }
-  },
-  {
-    "title": "Why has Microsoft been routing example.com traffic to a company in Japan? - Ars Technica",
-    "description": "Why has Microsoft been routing example.com traffic to a company in Japan?  Ars Technica",
-    "published date": "Mon, 26 Jan 2026 21:02:26 GMT",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVWlSTWdRN19rRzl6Vm5zOXY3a2VkVHE2UjJCdF82N0JKN2RTTHhBQ3QtWk0xSng2VjFxLUw2alczRGt3cnZ6SUM2Y2UxLU5rZEwxY1J2QVdRVmllT2Y5MUhkTWNnaGRzcWZGVTcyYzduYXJwc0xPWlB0VHYzdWtXMGJDLTBmNEJUNTZpcW12MDZBc0s2NlBjelI1VTNsN194am9PMFhoNGZpQjJsamF1WDVST1kzaWRsb3kwRUJUUE1vNTcz?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://arstechnica.com",
-      "title": "Ars Technica"
+      "href": "https://www.bgr.com",
+      "title": "bgr.com"
     }
   },
   {
     "title": "Google to pay $68m to settle lawsuit claiming it recorded private conversations - BBC",
-    "description": "Google to pay $68m to settle lawsuit claiming it recorded private conversations  BBCGoogle settles privacy lawsuit for $68m over voice assistant  The GuardianGoogle to pay $68 million over allegations its voice assistant eavesdropped on users  CBS NewsGoogle agrees to $68 million settlement in voice assistant privacy lawsuit  EngadgetGoogle settles Google Assistant privacy lawsuit for $68 million  Reuters",
+    "description": "Google to pay $68m to settle lawsuit claiming it recorded private conversations  BBCGoogle settles Google Assistant privacy lawsuit for $68 million  ReutersGoogle pays $68M to settle claims its voice assistant spied on users  Yahoo FinanceGoogle to pay $68 million over allegations its voice assistant eavesdropped on users  CBS NewsGoogle will settle its Assistant spying lawsuit for $68 million  The Verge",
     "published date": "Mon, 26 Jan 2026 18:37:42 GMT",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnRmo0ZVNKWDEyRVFaUHN6MnRlMDhvbGtDOUpuOEg1azdxV3VaNjlTbGFaWVhkUDlLeXBPUHZoYjZKcWZuR1FZeU52M3VqbHVzMjdMLTI0RnBPZw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -81,12 +81,22 @@
   },
   {
     "title": "Code Vein II Review - Bloodsucking The Fun Away - Game Informer",
-    "description": "Code Vein II Review - Bloodsucking The Fun Away  Game InformerPowerful Partners Await in Code Vein II – Here’s How These New Allies Can Shape Your Adventure  Xbox WireCode Vein II Review: A Better Sequel Still Struggling to Stand Out Among Soulslikes  CNETI'm a bit of a Soulslike purist, and Code Vein 2 has me very pleasantly surprised  EurogamerCode Vein 2 Review  IGN",
+    "description": "Code Vein II Review - Bloodsucking The Fun Away  Game InformerPowerful Partners Await in Code Vein II – Here’s How These New Allies Can Shape Your Adventure  Xbox WireI'm a bit of a Soulslike purist, and Code Vein 2 has me very pleasantly surprised  EurogamerCode Vein II: Bonds Across Time and (Wasted) Space – PS5 Review  WccftechWhat Time Does Code Vein 2 Release? Code Vein 2 Release Date Countdown & Start Times, Explained  Insider Gaming",
     "published date": "Mon, 26 Jan 2026 23:13:47 GMT",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDQ0d4S09fQ0s5M2RpZll0XzliQjVjMnRjSk1QajNOSndxQjYwMTA1NW14dkh1eHJIMHBFeVE4bEU0THNTS25lY3paaVo1MWdYODNLSGIya0txcEN6VHRYWFRLOTJ6d2FYRHk1M1RWQWpLNXhsVzFZTlp3?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://gameinformer.com",
       "title": "Game Informer"
+    }
+  },
+  {
+    "title": "‘Highguard’: Wildlight Founders on How Their Debut Game Is Not Like ‘Concord’ or ‘Overwatch’ - Variety",
+    "description": "‘Highguard’: Wildlight Founders on How Their Debut Game Is Not Like ‘Concord’ or ‘Overwatch’  VarietyHighguard Review So Far  IGNHighguard isn't DOA — in fact, after 4 hours, I'm convinced it's one of the best new shooters in years  PolygonHighguard Is Yet Another Symptom – And Victim – Of A Rapidly Decaying Internet  aftermath.siteHighguard Is Out Today – and We’ve Played a Lot of It  Xbox Wire",
+    "published date": "Mon, 26 Jan 2026 18:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNXBQWWtISi1ueTBSREZibFlQRFEzRnlqZXI0SktaWHl2c2JjN01FV18wdWd4RzBqTGRQNE5CUXFWd2FVa0NBMXcyMEZ5dTRLcW1saW9XMjBqM2dUVzBsRnhqekJ4bXcxQ08wV1FOWGpnT3d5ZDNvSkpzSk81QUF2a0NqMW02dTVsUTR5N0tvZ2Q3ZE1Da29SNDVvR0E1bi1XUS1UdA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://variety.com",
+      "title": "Variety"
     }
   },
   {
@@ -100,23 +110,13 @@
     }
   },
   {
-    "title": "‘Highguard’: Wildlight Founders on How Their Debut Game Is Not Like ‘Concord’ or ‘Overwatch’ - Variety",
-    "description": "‘Highguard’: Wildlight Founders on How Their Debut Game Is Not Like ‘Concord’ or ‘Overwatch’  VarietyHighguard Review So Far  IGNHighguard Is Yet Another Symptom – And Victim – Of A Rapidly Decaying Internet  aftermath.siteHighguard isn't DOA — in fact, after 4 hours, I'm convinced it's one of the best new shooters in years  PolygonHighguard Is Out Today – and We’ve Played a Lot of It  Xbox Wire",
-    "published date": "Mon, 26 Jan 2026 18:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNXBQWWtISi1ueTBSREZibFlQRFEzRnlqZXI0SktaWHl2c2JjN01FV18wdWd4RzBqTGRQNE5CUXFWd2FVa0NBMXcyMEZ5dTRLcW1saW9XMjBqM2dUVzBsRnhqekJ4bXcxQ08wV1FOWGpnT3d5ZDNvSkpzSk81QUF2a0NqMW02dTVsUTR5N0tvZ2Q3ZE1Da29SNDVvR0E1bi1XUS1UdA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Headwinds: Ready to go against the odds? - ARC Raiders",
+    "description": "Headwinds: Ready to go against the odds?  ARC RaidersArc Raiders Roadmap Promises a New Map, More Arcs, and Even a Little Love for Scrappy by April 2026  IGNArc Raiders adding matchmaking option literally nobody asked for  PolygonARC Raiders Headwinds Update Detailed  XboxEraThe First Big Arc Raiders Update of 2026 Adds Solo vs. Squads Matchmaking, 'Bird City,' and More Tomorrow  IGN",
+    "published date": "Mon, 26 Jan 2026 17:01:08 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14a29Xa1NJTFg1c1dGTG11elA5Z3ZLQVhnUWxqcXFDS0twZGxJM0xMZzR2dU0wYU15OE1HaGVBQklhU1l3aVpjbUZKV0F5Wm9URldnNUdWWUp6ZjRCbWROX0Nn?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://variety.com",
-      "title": "Variety"
-    }
-  },
-  {
-    "title": "Arc Raiders has locked its early 2026 roadmap, and the PvE escalation teased by Embark is coming - Eurogamer",
-    "description": "Arc Raiders has locked its early 2026 roadmap, and the PvE escalation teased by Embark is coming  EurogamerHeadwinds: Ready to go against the odds?  ARC RaidersThe First Big Arc Raiders Update of 2026 Adds Solo vs. Squads Matchmaking, 'Bird City,' and More Tomorrow  IGNARC Raiders Roadmap: January - April 2026  ARC RaidersGo into the Skies and Try New Ways to Form Parties in Tomorrow's ARC Raiders Update, Headwinds  MMORPG.com",
-    "published date": "Mon, 26 Jan 2026 10:45:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR3pQbEpSMzY0MDRia1Z6LWxEbTRaenhkQXpTVWc4S1FldE43VjItWkZxMXkzODE2S29pSkhvTnJ4aGp1cmFWMnBaNHNmVmNFUGEzSU1fZm0yVjlBVGdJSXZOWHZzTzRQLWRSN2JoaEp0ZklBWkpRdkJkdFFSLVBxeHFWempxTGxGZG9xSVRwdUFNSFM5?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.eurogamer.net",
-      "title": "Eurogamer"
+      "href": "https://arcraiders.com",
+      "title": "ARC Raiders"
     }
   },
   {
@@ -130,6 +130,16 @@
     }
   },
   {
+    "title": "Try the New Xbox Cloud Gaming Web Experience — Now in Public Preview - Xbox Wire",
+    "description": "Try the New Xbox Cloud Gaming Web Experience — Now in Public Preview  Xbox WireMicrosoft is Refreshing the Xbox Cloud Gaming Web Experience  Thurrott.comMicrosoft is testing a new Xbox Cloud Gaming web interface, wants your feedback  NeowinRedesigned Xbox cloud gaming hits public preview with new web UI  Windows CentralExplore Xbox Cloud Gaming’s New Web Experience — Now in Public Preview  filmogaz.com",
+    "published date": "Mon, 26 Jan 2026 23:35:12 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRE1Qd3JXZkRiOHFiWlQxUUFIbkY2OXdZOWJua1dnUlF6aFdJbmUydWYtdjdueVB4V2l4dFF0Zk1weG12Vkc5X3lXTUp2REFpTlMtallxM3A0bUpRdlVHRWNxcjNrNUxxUnNlSzM5bHJNeHJ6ZkhQYzhVZWpIMUVXRkU2OUdfdF8yMmlwMzJBclI4UHRnTzR6MmJodTQ5U3FUbmNEUVBHY1dPUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://news.xbox.com",
+      "title": "Xbox Wire"
+    }
+  },
+  {
     "title": "A New Way to Flirt: Dazzle Potential Mates With Patterns Invisible to Humans - The New York Times",
     "description": "A New Way to Flirt: Dazzle Potential Mates With Patterns Invisible to Humans  The New York Times",
     "published date": "Mon, 26 Jan 2026 20:00:07 GMT",
@@ -137,6 +147,26 @@
     "publisher": {
       "href": "https://www.nytimes.com",
       "title": "The New York Times"
+    }
+  },
+  {
+    "title": "Tomodachi Life: Living The Dream Nintendo Direct Announced For Thursday, 29th January - Nintendo Life",
+    "description": "Tomodachi Life: Living The Dream Nintendo Direct Announced For Thursday, 29th January  Nintendo LifeTomodachi Life: Living the Dream Direct 1.29.26  nintendo.comAnother Nintendo Direct is about to drop on one of Switch 1's most anticipated games  PolygonRUMOR - Nintendo Direct coming the first week of February 2026  GoNintendoNintendo Direct Announced For This Week, Focused on Tomodachi Life: Living The Dream  IGN",
+    "published date": "Mon, 26 Jan 2026 13:40:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRDRVUEFBeEZBTW5IYkdtTzFEZVFEMF9KM3dqeVdya3NpOURxRkVPUldmZWl3TXFacGhyN01KeEJzdDN2SGNyTEM3aERLRUp5SVVoRUltd0pLYmwtV1J4TzVYaXFrNHBqdW5CVGR4aHhXaWZ0c0FzSDlNMi1Cam1FN3hTMlQ0cHhIYk94ZDJzVW1kWnVEMTRqUnIzbld6QkYyNkFuSHVfTTBaZF81NG1vcTRnUWJHa2tBTG9lNXBabU5LM28?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nintendolife.com",
+      "title": "Nintendo Life"
+    }
+  },
+  {
+    "title": "Microsoft’s first Windows 11 update of 2026 has been a mess - The Verge",
+    "description": "Microsoft’s first Windows 11 update of 2026 has been a mess  The VergeWindows 11 update may stop some PCs from booting, warns Microsoft  Windows CentralMicrosoft Confirms Emergency Update For Millions Of Outlook Users  ForbesMicrosoft releases second emergency Windows 11 update to fix Outlook crashes  EngadgetMicrosoft suspects some PCs might not boot after Windows 11 January 2026 Update (KB5074109)  Windows Latest",
+    "published date": "Mon, 26 Jan 2026 12:04:08 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcHVxWWs3ajc1QnA3Mm04aDNJU1NaR0xCTkQ1dEdsLVVBSGVpeUkzVDlISzFqd1N4NEFYYXBjQVJQZjdkdW5ZVjBVQ1hjZlFmNVJEM1J3VERDWkpaZXBTSVZOSFBjUTRWc2JocnByNFlrdkNHckFWdUJZUDdVclRRQnFXLW5CTTVnemxxVjhxVmZ6Ymc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theverge.com",
+      "title": "The Verge"
     }
   },
   {
@@ -150,30 +180,20 @@
     }
   },
   {
-    "title": "Tomodachi Life: Living The Dream Nintendo Direct Announced For Thursday, 29th January - Nintendo Life",
-    "description": "Tomodachi Life: Living The Dream Nintendo Direct Announced For Thursday, 29th January  Nintendo LifeTomodachi Life: Living the Dream Direct 1.29.26  nintendo.comAnother Nintendo Direct is about to drop on one of Switch 1's most anticipated games  PolygonNintendo Direct Announced For This Week, Focused on Tomodachi Life: Living The Dream  IGNRumour: A Nintendo Direct May Be Coming As Soon As Next Week  Nintendo Life",
-    "published date": "Mon, 26 Jan 2026 13:40:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRDRVUEFBeEZBTW5IYkdtTzFEZVFEMF9KM3dqeVdya3NpOURxRkVPUldmZWl3TXFacGhyN01KeEJzdDN2SGNyTEM3aERLRUp5SVVoRUltd0pLYmwtV1J4TzVYaXFrNHBqdW5CVGR4aHhXaWZ0c0FzSDlNMi1Cam1FN3hTMlQ0cHhIYk94ZDJzVW1kWnVEMTRqUnIzbld6QkYyNkFuSHVfTTBaZF81NG1vcTRnUWJHa2tBTG9lNXBabU5LM28?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Kirby Air Riders 1.3.0 update out now, patch notes - new features, balance adjustments, more - Nintendo Everything",
+    "description": "Kirby Air Riders 1.3.0 update out now, patch notes - new features, balance adjustments, more  Nintendo EverythingNintendo Quietly Warns Players to Prepare for the Upcoming 'Kirby Air Riders' Update  Yahoo! TechKirby Air Riders Has Been Updated To Version 1.3.0, Here Are The Full Patch Notes  Nintendo LifeKirby Air Riders patch releasing soon  GoNintendoKirby Air Riders Version 1.3.0 Adds Grand Prix Mode, GameShare, Balance Adjustments, and Major Fixes  Noisy Pixel",
+    "published date": "Tue, 27 Jan 2026 01:23:58 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbGFrT3ZSeVhBTUQ1ZmJLd21UQnBUOVhVOW5rcmEwdkx3Vzl4T2djQVhJNnVCaUhlX0hYa0VVMi05THpOOExVQk0tR1U0bWIxTzREWE4tVW5qMVFLZWxqX1ZsdWY0ZG9EOXhRYk9WdGJjbzFQTWc0dzhiWVhZaHRXUTNMUGFFS3dXOXhoYV9DNHpxQ1dsR3hOd3Y1VWtEMnc1WTg3YXloa09JWGFzV3V6eWJnVG9tc2plNnhN?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.nintendolife.com",
-      "title": "Nintendo Life"
+      "href": "https://nintendoeverything.com",
+      "title": "Nintendo Everything"
     }
   },
   {
-    "title": "Cloudflare misconfiguration behind recent BGP route leak - BleepingComputer",
-    "description": "Cloudflare misconfiguration behind recent BGP route leak  BleepingComputer",
-    "published date": "Mon, 26 Jan 2026 17:50:35 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd1RRanhDRnV3OWJZMTd1M0JXVVlPcTV6Qm9IRUtNXzZUME9ZU05jR3VDX09vVjBHM3J1T0lmc3hIUTB1UHhGQWdEd09GQkhoUVZrZDMxS1ZkeV8yeElra3RNMU5JakJMYVVLbXBUdk5JeHEzYlE1Z2pDUWVjTlpmWUw3cUNkTEo3WFZ6T1RiQnRwU2RXb3R3N09QM2syLUxiZ1A0S09iQdIBrAFBVV95cUxNWmFmanViNE93Y0Rac1Q4RzhaTG9tS24wN1lSUXNKazcxbVNXU2RPXzlRbFJxbTVHcXdNbFF3bUZUeW4wNmt5SG5ZQ3VDd3dBenlhd3djaXlKY2hZeTlBWG1XUFNyQ29hblo0Wk1QRDJBaE56cjhBRFJoTnFSSnFYWUctR2tmemRDYzBDSmF0ZzMxbnFJM200Y3lvNG9tUHdxTU12ZVFhVThFOWN1?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.bleepingcomputer.com",
-      "title": "BleepingComputer"
-    }
-  },
-  {
-    "title": "Apple Introduces New Black Unity Apple Watch Band - MacRumors",
-    "description": "Apple Introduces New Black Unity Apple Watch Band  MacRumorsApple unveils the new Black Unity Apple Watch band  AppleThis Popular Apple Watch Accessory Just Got a Striking Makeover  Gear PatrolApple celebrates Black History Month with a new $99 Unity watch band  MacworldApple Drops Unity Connection Band for Black History Month  The Tech Buzz",
-    "published date": "Mon, 26 Jan 2026 14:04:48 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbFZ1ZWlVNExPSXNLY0Vjb3I5NmpGaUNob3pZV1NBRXRJSTl0djdwcThoM2xHckhpaHdRRVJSVlZ0UkFSUlo1TnFFTGdDS2tfeXZUN0VRMXFvWWYzZ1JIaHF4OEtnbnlFNlJTWHoxTUdrTmlya0tjLWx1ODUtNFlvYTdjTTY3d1p1bmNaMXpQSXU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "iPhone 5s Gets New Software Update 13 Years After Launch - MacRumors",
+    "description": "iPhone 5s Gets New Software Update 13 Years After Launch  MacRumorsApple updates iOS 12 to extend iMessage and FaceTime support on older devices  9to5MacApple Releases iOS 18.7.4, 16.7.13, 15.8.6, and 12.5.8 for Older Devices  iClarifiedApple’s Update Galore: iPhone 5s Gets An Update 13 Years After Launch, iOS 26.2.1 And watchOS 26.2.1 Bring Compatibility With The New AirTag, Third Developer Beta For iOS 26.3 And More Go Live  WccftechApple rolls out iOS 18.7.4, iOS 16.7.13, iOS 15.8.6, and iOS 12.5.8 for older devices  Appleosophy",
+    "published date": "Mon, 26 Jan 2026 23:56:19 GMT",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDcEtpNVRVTjE5eHd5VGZ0Ny12bjdTY2gwb3lRMkJpS09aYzBRTy1oZDRycjF2LVdnbWFYZ2ZsRTk2RU1rRGtrSVRMbXVDVERJTG43NE9uUzNDYm1YZHExUE9JR0EtdnJJWVVSTi0wQmk?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.macrumors.com",
       "title": "MacRumors"
@@ -190,6 +210,56 @@
     }
   },
   {
+    "title": "Cloudflare misconfiguration behind recent BGP route leak - BleepingComputer",
+    "description": "Cloudflare misconfiguration behind recent BGP route leak  BleepingComputer",
+    "published date": "Mon, 26 Jan 2026 17:50:35 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd1RRanhDRnV3OWJZMTd1M0JXVVlPcTV6Qm9IRUtNXzZUME9ZU05jR3VDX09vVjBHM3J1T0lmc3hIUTB1UHhGQWdEd09GQkhoUVZrZDMxS1ZkeV8yeElra3RNMU5JakJMYVVLbXBUdk5JeHEzYlE1Z2pDUWVjTlpmWUw3cUNkTEo3WFZ6T1RiQnRwU2RXb3R3N09QM2syLUxiZ1A0S09iQdIBrAFBVV95cUxNWmFmanViNE93Y0Rac1Q4RzhaTG9tS24wN1lSUXNKazcxbVNXU2RPXzlRbFJxbTVHcXdNbFF3bUZUeW4wNmt5SG5ZQ3VDd3dBenlhd3djaXlKY2hZeTlBWG1XUFNyQ29hblo0Wk1QRDJBaE56cjhBRFJoTnFSSnFYWUctR2tmemRDYzBDSmF0ZzMxbnFJM200Y3lvNG9tUHdxTU12ZVFhVThFOWN1?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bleepingcomputer.com",
+      "title": "BleepingComputer"
+    }
+  },
+  {
+    "title": "Remove these malicious Chrome extensions now to protect your data - Neowin",
+    "description": "Remove these malicious Chrome extensions now to protect your data  NeowinMalicious Google Chrome extensions hijack accounts  Fox NewsUninstall These 17 Malicious Browser Extensions Now  PCMagChrome Extensions: Are you getting more than you bargained for?  SECURITY.COMGhostPoster: 17 malware browser extensions you should delete ASAP  Mashable",
+    "published date": "Mon, 26 Jan 2026 13:32:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUGFfZHpBdlNDckdMQS1UT1VwM2JQamZuM3ZaRUh3cmQzcTE1RF84V1J2X3lKbFpKcTl3S0lFY19vQ2Z2dHdaUlU2ZVk0RVJRSmczY3l0clRMc2lwY203VHhpSFc1enBxeGtPYVA3SjVubWJzazRCTEFXT1Bfd19kdlAtNzlvbklmUEZTd2Rrdkw3NGFQV3RlTXBR0gGYAUFVX3lxTE1pWEJ2VUdGWW83NVNTSnZ3NmlndklyNU11ek1ULWplLXdnam1TbFhFelIydnhIWjgzcURZNEIzYzdkSEZHMUhmeHpJaGt0LWpUa1p1ZUF6TG41ODlWVDRkVzMtMkxJYTFNZ1VNbDBrRmRRWVJGQXhIbDN5V2JIS1k5dTNWZ3Z3RTB6ZWZqbG5kdnl4YTFSSWky?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.neowin.net",
+      "title": "Neowin"
+    }
+  },
+  {
+    "title": "Apple announces new Black Unity Braided Solo Loop for Apple Watch - 9to5Mac",
+    "description": "Apple announces new Black Unity Braided Solo Loop for Apple Watch  9to5MacApple unveils the new Black Unity Apple Watch band  AppleThis Popular Apple Watch Accessory Just Got a Striking Makeover  Gear PatrolApple Drops Unity Connection Band for Black History Month  The Tech BuzzApple celebrates Black History Month with a new $99 Unity watch band  Macworld",
+    "published date": "Mon, 26 Jan 2026 14:11:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUVE2Rmk4UEVYaDN5QUNwX05NbEFzNjNDNGhSTWQwaTc2MTdVS1h5d0F2aWxqUk5lR2tXal9BV3k0NXN2UklDZk9IZTRfSk56SGtTRTJjYUp0bEp4eTJxeFNiemxzdXUwbG9uZ0F4aU01MlJnT3ZEVWd1U1E3RW1IR1JORkt3cUtLR0NwN2ZpRlBUanZKcjBURTRZcVRudw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://9to5mac.com",
+      "title": "9to5Mac"
+    }
+  },
+  {
+    "title": "Clawdbot is a viral AI assistant: What it is, how to try it - Mashable",
+    "description": "Clawdbot is a viral AI assistant: What it is, how to try it  MashableWhat Is Clawdbot and Is It Actually Safe to Run on Your System?  SOCRadar® Cyber Intelligence Inc.Clawdbot: The Overnight Sensation That Launched the First Zero - Employee Company Operating 24/7  36氪Hundreds of Exposed Clawdbot Gateways Leave API Keys and Private Chats Vulnerable  CybersecurityNewsWhat Is Clawdbot? And Why Everyone Is Suddenly Obsessed With It  ucstrategies.com",
+    "published date": "Mon, 26 Jan 2026 17:55:34 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IS2l3QmlSaGUtTG4wLUJjcVM4cFloYXFSVVdCYk9qUi01UTZUTERGWGRhMEJObXhPWGNlaXhmUWp5UTNRSnFxSlgtanZaNlZwaVBNbDhWMFdJSEtFN2NremEyVFlNNzA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://mashable.com",
+      "title": "Mashable"
+    }
+  },
+  {
+    "title": "Samsung, if You Add This to the Galaxy S26 Ultra, I'd Be Eternally Grateful - CNET",
+    "description": "Samsung, if You Add This to the Galaxy S26 Ultra, I'd Be Eternally Grateful  CNETSamsung Galaxy S26 Ultra Release Dates, Pre-Orders And The Alternatives  ForbesSamsung drops Galaxy S26 Ultra bombshell  thestreet.comSamsung Galaxy S26: The 7 rumored features that could make me switch  MashableThese alleged changes to the base Galaxy S26 might be what we want  Android Central",
+    "published date": "Mon, 26 Jan 2026 13:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWG15U3N3eXEwM0xiZEJOY0EyYXBtLXRmTkZFR0gwU2dFZnIxRHEyRFVKM1lmX3Y5Wk5QUkhILUpUcmFjdDVFYUtia0pqUnVPZU5wcml0a3hkQ05rLWttaF9UN2hFdnkyOURzUHRJZWtXbEhGeTBCSjE0WHdRcEU3OVdjZ05XeENtQU9fdENFUXNDdHJUdmt5Zk5RWEh5LWNxVXNuelRJaGxOQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cnet.com",
+      "title": "CNET"
+    }
+  },
+  {
     "title": "An Update to End-of-Round Procedures at Pokémon TCG Championship Events - Pokemon.com",
     "description": "An Update to End-of-Round Procedures at Pokémon TCG Championship Events  Pokemon.com",
     "published date": "Mon, 26 Jan 2026 16:02:30 GMT",
@@ -197,16 +267,6 @@
     "publisher": {
       "href": "https://www.pokemon.com",
       "title": "Pokemon.com"
-    }
-  },
-  {
-    "title": "Samsung, if You Add This to the Galaxy S26 Ultra, I'd Be Eternally Grateful - CNET",
-    "description": "Samsung, if You Add This to the Galaxy S26 Ultra, I'd Be Eternally Grateful  CNETSamsung Galaxy S26 Ultra Release Dates, Pre-Orders And The Alternatives  ForbesSamsung drops Galaxy S26 Ultra bombshell  thestreet.comNew Galaxy S26 leak reveals a long-overdue storage upgrade for cheapest S26  Android AuthoritySamsung Galaxy S26: The 7 rumored features that could make me switch  Mashable",
-    "published date": "Mon, 26 Jan 2026 13:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWG15U3N3eXEwM0xiZEJOY0EyYXBtLXRmTkZFR0gwU2dFZnIxRHEyRFVKM1lmX3Y5Wk5QUkhILUpUcmFjdDVFYUtia0pqUnVPZU5wcml0a3hkQ05rLWttaF9UN2hFdnkyOURzUHRJZWtXbEhGeTBCSjE0WHdRcEU3OVdjZ05XeENtQU9fdENFUXNDdHJUdmt5Zk5RWEh5LWNxVXNuelRJaGxOQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cnet.com",
-      "title": "CNET"
     }
   },
   {
@@ -220,13 +280,13 @@
     }
   },
   {
-    "title": "Scientists Investigating 2,000-Year-Old Artifact That Appears to Be a Battery - Futurism",
-    "description": "Scientists Investigating 2,000-Year-Old Artifact That Appears to Be a Battery  Futurism",
-    "published date": "Mon, 26 Jan 2026 18:07:20 GMT",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DUUtxcmg0MkpobFhGaURwV1JWaElNQjV0WVB3WG9POXAta1ZLb2FJSkFUVzNnYy1teEI1VW9XT3lOdFFoczc3SUdnSFlkeUJZQS10OEZnZWJfd2lrR09fOXdhb0xQNUtWaUlOSldubnBTR19zU091NVNKN2o?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "This Week in Gaming (Week 5) - TechPowerUp",
+    "description": "This Week in Gaming (Week 5)  TechPowerUpNext Week on Xbox: New Games for January 26 to 30  Xbox WireThis week in PC games: is Highguard a nothingburger? Plus, Winnie the Cthulhooh, Code Vein 2 and a plant-based RTS  Rock Paper ShotgunPS5, PS4 Game Releases on PSN from January 26 to February 1  DualShockersOut this week: Code Vein 2, The 9th Charnel, Speedball, Cairn, Highguard, Crosak, I Hate This Place, more  Games Asylum",
+    "published date": "Sun, 25 Jan 2026 11:08:22 GMT",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrQmRLMnVKUVlwQ0NWRUFRbDFITkJkVkl2bW8xTnBEZ0ZSQVNSeW9vVXZ1V2hVQVg1U0hraFlVMW5oYWx3b2JXakF2TnRjWkxDU3hmY2w4NlJhXzJaRFVQM1JJSmR0a09Td2tpdE5B0gFzQVVfeXFMUHdMUV84b0lMZ1N5SUhVT2VyaTdMdW1LdER5LU1YM3pwVUgtTlVYYTJSbW1LSjlHaWp0S1VDLS1SREVnaUtVRHdVakNfdUFteENoRnl6RElDaDZkR2IyZ1VmM3BuU0pzaVhkSkpzbGY2SEszYw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://futurism.com",
-      "title": "Futurism"
+      "href": "https://www.techpowerup.com",
+      "title": "TechPowerUp"
     }
   },
   {
@@ -240,43 +300,13 @@
     }
   },
   {
-    "title": "This Week in Gaming (Week 5) - TechPowerUp",
-    "description": "This Week in Gaming (Week 5)  TechPowerUpNext Week on Xbox: New Games for January 26 to 30  Xbox WireThis week in PC games: is Highguard a nothingburger? Plus, Winnie the Cthulhooh, Code Vein 2 and a plant-based RTS  Rock Paper ShotgunPS5, PS4 Game Releases on PSN from January 26 to February 1  DualShockersOut this week: Code Vein 2, The 9th Charnel, Speedball, Cairn, Highguard, Crosak, I Hate This Place, more  Games Asylum",
-    "published date": "Sun, 25 Jan 2026 11:08:22 GMT",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrQmRLMnVKUVlwQ0NWRUFRbDFITkJkVkl2bW8xTnBEZ0ZSQVNSeW9vVXZ1V2hVQVg1U0hraFlVMW5oYWx3b2JXakF2TnRjWkxDU3hmY2w4NlJhXzJaRFVQM1JJSmR0a09Td2tpdE5B0gFzQVVfeXFMUHdMUV84b0lMZ1N5SUhVT2VyaTdMdW1LdER5LU1YM3pwVUgtTlVYYTJSbW1LSjlHaWp0S1VDLS1SREVnaUtVRHdVakNfdUFteENoRnl6RElDaDZkR2IyZ1VmM3BuU0pzaVhkSkpzbGY2SEszYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Scientists Investigating 2,000-Year-Old Artifact That Appears to Be a Battery - Futurism",
+    "description": "Scientists Investigating 2,000-Year-Old Artifact That Appears to Be a Battery  Futurism",
+    "published date": "Mon, 26 Jan 2026 18:07:20 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DUUtxcmg0MkpobFhGaURwV1JWaElNQjV0WVB3WG9POXAta1ZLb2FJSkFUVzNnYy1teEI1VW9XT3lOdFFoczc3SUdnSFlkeUJZQS10OEZnZWJfd2lrR09fOXdhb0xQNUtWaUlOSldubnBTR19zU091NVNKN2o?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.techpowerup.com",
-      "title": "TechPowerUp"
-    }
-  },
-  {
-    "title": "Uninstall These 17 Malicious Browser Extensions Now - PCMag",
-    "description": "Uninstall These 17 Malicious Browser Extensions Now  PCMagMalicious Google Chrome extensions hijack accounts  Fox NewsGhostPoster: 17 malware browser extensions you should delete ASAP  MashableRemove these malicious Chrome extensions now to protect your data  NeowinLayerX: Malicious ChatGPT Chrome extensions are stealing account credentials  CyberScoop",
-    "published date": "Sun, 25 Jan 2026 13:40:35 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUUxSbDcxd0cwcjhBUm9YVld5am5oZXlCa2prUzJRSXFPODg3N0tFNk5IbDh1Tmh4LTIzYnhEdEhtQUh2dWdPb1lSUVowWXpkTjA3ajdrMkstYWVITXdlcUJpSHVLLXBYMTdYRHFhVXFoVTNHOTZOWHpqX1JqYXphbG0yMnh2VjQ1amJublNzNWNHelNuVGR4ZFNqazZ5VkpLTnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.pcmag.com",
-      "title": "PCMag"
-    }
-  },
-  {
-    "title": "'FTL in a Warhammer 40,000 Skin' Game Pulled From Steam After What May Be a Nuisance DMCA Takedown From a Troll Claiming to Be Games Workshop - IGN",
-    "description": "'FTL in a Warhammer 40,000 Skin' Game Pulled From Steam After What May Be a Nuisance DMCA Takedown From a Troll Claiming to Be Games Workshop  IGN",
-    "published date": "Mon, 26 Jan 2026 12:10:59 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTmxkMEFSSFRtcTBaV2V2a1dtYUpKZ0lpbzlzQ0lXR0c2N1BIZU5VdjRRNjBuQ2x0TnFXaWJBRFZvQ3RmLXl1cHhmTlRaRFJ5aXhabl96TmdjZGZmNVlxcU5vR0hmQ1E3eXlmVWRLXzl5XzJFeXZSNmQ2c1UyTlV0XzNSZm9OWTVHN3lnaDJ4bHJOalJ2S1JjQ09TbDBjWk9SX3Y0c2JGZUh4RkQyR01BVnNtTXdXTFp6cGZSOHpoTXVPTWd2ZVVxWDhxcGptUGN6ZXpRbXg4UnlteDhwejFjNnAwbmhsMkt4WE5FSTVSa195Y0lZWldsR3kzRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ign.com",
-      "title": "IGN"
-    }
-  },
-  {
-    "title": "Ubisoft launches voluntary redundancy process to cut 200 jobs from Paris head office - GamesIndustry.biz",
-    "description": "Ubisoft launches voluntary redundancy process to cut 200 jobs from Paris head office  GamesIndustry.bizUbisoft Cancels 6 Projects Including Prince of Persia: Sands of Time Remake, Closes 2 Studios and Confirms Further Layoffs in Major Company Restructure  IGNBig games are getting bigger — and so are the stakes  The VergeUbisoft proposes even more layoffs after last week's studio closures and game cancellations  Engadget\"Anger and despair reigning supreme\" at Ubisoft following restructuring plan, says union  GamesIndustry.biz",
-    "published date": "Mon, 26 Jan 2026 16:45:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOFpzMUFFbWhWRVJ5STZzZmRyTHFBWERjVXRlMnRLRXczWWRCUzIyNHhsdzBzczBZTDFNLWpfbFZmWHg4LUlqYW9tYjRTdWJYWjRUcHpadkNRR2xFMF9EV2RpaFN3QmhUQ09DbmZlMGNqeC1OOHpmbjlza0tiM1V4UHhPdnVjcFRfUHhwVWt2ZC1XZnJCclNuUVVOelZZVmplVTdxejVFNnRUZnVyWnRpSUE3WXg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.gamesindustry.biz",
-      "title": "GamesIndustry.biz"
+      "href": "https://futurism.com",
+      "title": "Futurism"
     }
   },
   {
@@ -290,13 +320,23 @@
     }
   },
   {
-    "title": "Stop Killing Games EU petition hits 1.3m verified signatures - GamesIndustry.biz",
-    "description": "Stop Killing Games EU petition hits 1.3m verified signatures  GamesIndustry.bizStop Killing Games' EU initiative reaches goal  EurogamerCitizens' initiative: 1,294,188 signatures for \"Stop Destroying Videogames\"  heise onlineStop Killing Games final verified vote count for the EU petition is just under 1.3 million  GamingOnLinuxStop Killing Games Gets 1.3 out of 1.4 Million Signatures Confirmed  80 Level",
-    "published date": "Mon, 26 Jan 2026 15:13:36 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORHM1RTREczJ0T0hiSlRGTlFtc3RBcGR5RHBFMFJrZnVISE5hdzh4bENqWmZNNHpCTmUtTTFucGlkcnpCYkJfT1VmdTBNaE42b2lMN2NDVFY2Qjc2ZHA0ZGc2MVY0YWhBTWZyOTVxRUxDbVN4ck4wMnpNYlRlQnZ3Z09CN25FMDg2MVRqQXliODNwaG5r?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Ubisoft launches voluntary redundancy process to cut 200 jobs from Paris head office - GamesIndustry.biz",
+    "description": "Ubisoft launches voluntary redundancy process to cut 200 jobs from Paris head office  GamesIndustry.bizUbisoft Cancels 6 Projects Including Prince of Persia: Sands of Time Remake, Closes 2 Studios and Confirms Further Layoffs in Major Company Restructure  IGNNow Ubisoft Wants to Implement a Mutual Termination Plan in France  80 LevelBig games are getting bigger — and so are the stakes  The VergeUbisoft proposes even more layoffs after last week's studio closures and game cancellations  Engadget",
+    "published date": "Mon, 26 Jan 2026 16:45:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOFpzMUFFbWhWRVJ5STZzZmRyTHFBWERjVXRlMnRLRXczWWRCUzIyNHhsdzBzczBZTDFNLWpfbFZmWHg4LUlqYW9tYjRTdWJYWjRUcHpadkNRR2xFMF9EV2RpaFN3QmhUQ09DbmZlMGNqeC1OOHpmbjlza0tiM1V4UHhPdnVjcFRfUHhwVWt2ZC1XZnJCclNuUVVOelZZVmplVTdxejVFNnRUZnVyWnRpSUE3WXg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.gamesindustry.biz",
       "title": "GamesIndustry.biz"
+    }
+  },
+  {
+    "title": "'FTL in a Warhammer 40,000 Skin' Game Pulled From Steam After What May Be a Nuisance DMCA Takedown From a Troll Claiming to Be Games Workshop - IGN",
+    "description": "'FTL in a Warhammer 40,000 Skin' Game Pulled From Steam After What May Be a Nuisance DMCA Takedown From a Troll Claiming to Be Games Workshop  IGN",
+    "published date": "Mon, 26 Jan 2026 12:10:59 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTmxkMEFSSFRtcTBaV2V2a1dtYUpKZ0lpbzlzQ0lXR0c2N1BIZU5VdjRRNjBuQ2x0TnFXaWJBRFZvQ3RmLXl1cHhmTlRaRFJ5aXhabl96TmdjZGZmNVlxcU5vR0hmQ1E3eXlmVWRLXzl5XzJFeXZSNmQ2c1UyTlV0XzNSZm9OWTVHN3lnaDJ4bHJOalJ2S1JjQ09TbDBjWk9SX3Y0c2JGZUh4RkQyR01BVnNtTXdXTFp6cGZSOHpoTXVPTWd2ZVVxWDhxcGptUGN6ZXpRbXg4UnlteDhwejFjNnAwbmhsMkt4WE5FSTVSa195Y0lZWldsR3kzRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ign.com",
+      "title": "IGN"
     }
   },
   {
@@ -310,28 +350,18 @@
     }
   },
   {
-    "title": "I Spent Years Working a Stressful Job in Exchange for a Life-Changing Amount of Money. Then Everything Came Crashing Down. - Slate",
-    "description": "I Spent Years Working a Stressful Job in Exchange for a Life-Changing Amount of Money. Then Everything Came Crashing Down.  Slate",
-    "published date": "Mon, 26 Jan 2026 11:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVzExRWdiNnZndXVaeGtfbll4YU1WNFhFMmhQd0pSTWhyRjFSUDg4dlNYeGV0bnV6WFl0OFdSN29GbGtLNEFrenRqbkRhR294NUlxVHpYb1NtZmhYVlkxZVo5Q0paQnotYjVQUHMyVFptNS1TT09zNFhRWmVBNDBBVG10VQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Stop Killing Games EU petition hits 1.3m verified signatures - GamesIndustry.biz",
+    "description": "Stop Killing Games EU petition hits 1.3m verified signatures  GamesIndustry.bizStop Killing Games' EU initiative reaches goal  EurogamerCitizens' initiative: 1,294,188 signatures for \"Stop Destroying Videogames\"  heise onlineStop Killing Games final verified vote count for the EU petition is just under 1.3 million  GamingOnLinuxStop Killing Games Gets 1.3 out of 1.4 Million Signatures Confirmed  80 Level",
+    "published date": "Mon, 26 Jan 2026 15:13:36 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORHM1RTREczJ0T0hiSlRGTlFtc3RBcGR5RHBFMFJrZnVISE5hdzh4bENqWmZNNHpCTmUtTTFucGlkcnpCYkJfT1VmdTBNaE42b2lMN2NDVFY2Qjc2ZHA0ZGc2MVY0YWhBTWZyOTVxRUxDbVN4ck4wMnpNYlRlQnZ3Z09CN25FMDg2MVRqQXliODNwaG5r?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://slate.com",
-      "title": "Slate"
-    }
-  },
-  {
-    "title": "Chrome And Safari Warning—If You See This, You’re Being Hacked - Forbes",
-    "description": "Chrome And Safari Warning—If You See This, You’re Being Hacked  ForbesHackers Use ‘rn’ Typo Trick to Impersonate Microsoft and Marriott in New Phishing Attack  CybersecurityNewsNew phishing attacks exploit visual URL tricks to impersonate major brands  Digital Watch ObservatoryDevious New Phishing Attack Exploits Font Illusion To Create Fake Login Pages  HotHardwareWatch Out. Scammers Are Using This URL Typo to Mimic Microsoft, Marriott  PCMag Australia",
-    "published date": "Sun, 25 Jan 2026 13:22:39 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdUJtV0ZrU0s2NXRXdXFzMjlmcXVuZlNHUVN0bXFzRWtZSlpjMG9UQmtaNUk1R0VzWWZzMjZPSTQ4UXNqcVNhWldxWlJhSVRVTTBCcVppQnEwdkV1MEJaMkpTdVlNZUJvRm1DU0ZpSlZ0TWRpLUxxSFdXVHRfQjlfdnZEWFMyLXUtWmt5WFhjdUpwaWNFeW5mVXdPX19aRlNnZ0hQZThod3F6SEo0bXgwa2pB?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.forbes.com",
-      "title": "Forbes"
+      "href": "https://www.gamesindustry.biz",
+      "title": "GamesIndustry.biz"
     }
   },
   {
     "title": "Playground Games on its Fable reboot's inception - Eurogamer",
-    "description": "Playground Games on its Fable reboot's inception  Eurogamer'We've Been Working on This Game for a Really, Really Long Time' — the Big Fable Interview With Microsoft Developer Playground  IGNFable launches on PS5 Autumn 2026  PlayStation.BlogFable: Answering the Big Questions After that Long-Awaited Developer_Direct Deep-Dive  Xbox WireThe Fable Reboot Is Doing Away With One Of The Series' Signature Features  GameSpot",
+    "description": "Playground Games on its Fable reboot's inception  Eurogamer'We've Been Working on This Game for a Really, Really Long Time' — the Big Fable Interview With Microsoft Developer Playground  IGNFable launches on PS5 Autumn 2026  PlayStation.BlogFable: Answering the Big Questions After that Long-Awaited Developer_Direct Deep-Dive  Xbox Wire'The nature of our game is that as soon as you leave your village, you can go pretty much anywhere. It’s truly open world, so the world is yours to explore' — Fable might be an open world, but its game director says 'there's no ticking bomb' players have to worry  TechRadar",
     "published date": "Mon, 26 Jan 2026 17:14:37 GMT",
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaFcydVI2bjVTcDNoUGV4clJTSVFUeWF4U09VV1VLb3NsUFRhbC1WejFXSnJnR0lPeG92QlZkN0IyUUJVcGZPTzRNYUYtZHNISXhycWc2T29FZGdlYjY0UHdHM1lBZHhzR2tPRm5ONjY4ZmRDT3V1WXZCWXBtWEJ3U0hXb1p5ZkhxcFJtdDN6T0tZNDlYb09INzFoMzJGeDNoV0V1Q1BwZUdHdk41WWp3am1nZHM3V0dmWGgtY0hWR3pncHgzRXFadWFjeGwxYnBlNGNEWVM4Q2NTejA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -340,23 +370,13 @@
     }
   },
   {
-    "title": "Angry gamers are forcing studios to scrap or rethink new releases - The Washington Post",
-    "description": "Angry gamers are forcing studios to scrap or rethink new releases  The Washington Post",
-    "published date": "Mon, 26 Jan 2026 18:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcDJyNkRTNDRWRUZOUEdGbGtCM1NtQlpnVkFMUm5ZOUp4UHlEdVhHeFBJbDBndDJRX1JzX2FZYXNJNUVFQXlQYnFDN3RQdFNEa3VZWDlxZEJ5V0tvYjVTVHl4Q2NaaFdmc1YwSjA1ZEVUSXRTaHF0YkxLM1JpOEZCZGJKNlo4YW9YQXBmdllR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "I Spent Years Working a Stressful Job in Exchange for a Life-Changing Amount of Money. Then Everything Came Crashing Down. - Slate",
+    "description": "I Spent Years Working a Stressful Job in Exchange for a Life-Changing Amount of Money. Then Everything Came Crashing Down.  Slate",
+    "published date": "Mon, 26 Jan 2026 11:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVzExRWdiNnZndXVaeGtfbll4YU1WNFhFMmhQd0pSTWhyRjFSUDg4dlNYeGV0bnV6WFl0OFdSN29GbGtLNEFrenRqbkRhR294NUlxVHpYb1NtZmhYVlkxZVo5Q0paQnotYjVQUHMyVFptNS1TT09zNFhRWmVBNDBBVG10VQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.washingtonpost.com",
-      "title": "The Washington Post"
-    }
-  },
-  {
-    "title": "Forza Horizon 6 PC requirements include the Intel Arc B390 iGPU - TechSpot",
-    "description": "Forza Horizon 6 PC requirements include the Intel Arc B390 iGPU  TechSpotXbox Developer_Direct 2026 Recap: Everything Revealed, Including a Surprise New Double Fine Game  Xbox WireTwo BMW M Models Spotted In Forza Horizon 6 Trailer  BMW BlogForza Horizon 6 First Look: Massive Japan Map, Detailed Urban Districts, and More Than 550 Cars  The Drive\"We're going to try and be more consistent with what we do\": The head of Xbox Game Studios on the Developer Direct reveals, multiplatform strategy, and hard lessons learned from 2025  GamesRadar+",
-    "published date": "Mon, 26 Jan 2026 12:04:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQT29ScDNmaWNkTTRKZEdMckc0WmdZMy1oaDUxVlFiNlpMWktVMjdUbjVfSTRNTGZKUlctemphQ0lSY3YwVDBNb1FxS2FSWnpaYS1fZm5YajB5d0JqVWpqMkxFRW8tMmNoeXdOdHF4emtObm5RTzFfbjNGbmMtanRTTkh1OFNYa09SSXl2dUl4NzdPcldQcWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.techspot.com",
-      "title": "TechSpot"
+      "href": "https://slate.com",
+      "title": "Slate"
     }
   },
   {
@@ -370,18 +390,18 @@
     }
   },
   {
-    "title": "149M logins exposed in unsecured database, inc 900k Apple accounts - 9to5Mac",
-    "description": "149M logins exposed in unsecured database, inc 900k Apple accounts  9to5Mac149M Logins and Passwords Exposed Online Including Financial Accounts, Instagram, Facebook, Roblox, Dating Sites, and More.  ExpressVPN149 Million Usernames and Passwords Exposed by Unsecured Database  WIREDHuge Data Leak Exposes Over 50 Million Gmail, Outlook And iCloud Credentials  HotHardwareInfostealer malware database exposes millions of iCloud and email passwords  AppleInsider",
-    "published date": "Mon, 26 Jan 2026 13:31:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWW1PekZWd3lwbXIxTjRhMzBKNTBzdVIzdkhoVUdKVjhWcUxYQzVRVkJJcnNrM2Y1UlVXRUhVMHR0bkZpeVFERDZmUnBqOGpkOVNnTmEtWWlxZm9xNS04QWF1Um5KM3ZLejRIanRPeWZESTZ0RE1Jd3BlSjJTYXlQT3RPWllvdUpkNzdOdEFQeGU5eElrU3JtdzRVOTdwZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Forza Horizon 6 PC requirements include the Intel Arc B390 iGPU - TechSpot",
+    "description": "Forza Horizon 6 PC requirements include the Intel Arc B390 iGPU  TechSpotPre-order Forza Horizon 6 Premium Edition and Play 4 Days Early  Forza.netXbox Developer_Direct 2026 Recap: Everything Revealed, Including a Surprise New Double Fine Game  Xbox WireForza Horizon 6 First Look: Massive Japan Map, Detailed Urban Districts, and More Than 550 Cars  The DriveTwo BMW M Models Spotted In Forza Horizon 6 Trailer  BMW BLOG",
+    "published date": "Mon, 26 Jan 2026 12:04:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQT29ScDNmaWNkTTRKZEdMckc0WmdZMy1oaDUxVlFiNlpMWktVMjdUbjVfSTRNTGZKUlctemphQ0lSY3YwVDBNb1FxS2FSWnpaYS1fZm5YajB5d0JqVWpqMkxFRW8tMmNoeXdOdHF4emtObm5RTzFfbjNGbmMtanRTTkh1OFNYa09SSXl2dUl4NzdPcldQcWc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://9to5mac.com",
-      "title": "9to5Mac"
+      "href": "https://www.techspot.com",
+      "title": "TechSpot"
     }
   },
   {
     "title": "RuneScape gold counts as real stolen property after UK judge rules in $700K theft case - Dexerto",
-    "description": "RuneScape gold counts as real stolen property after UK judge rules in $700K theft case  DexertoUK Appeals court state RuneScape gold counts as property and can be stolen, in $700k bombshell case  EurogamerA judge has ruled that RuneScape gold pieces are real property, which is bad news for the ex-dev accused of stealing 705 billion of them  Rock Paper ShotgunUbisoft Didn't Inform Prince of Persia: The Sands of Time Remake Star About Project's Cancellation and Created Legal Problems for Her  IXBT.gamesEx MMO dev allegedly hacked 68 players for in-game gold worth over $700,000 and sold it for Bitcoin, UK court finds the gold legally counts as \"property\" and can be stolen  GamesRadar+",
+    "description": "RuneScape gold counts as real stolen property after UK judge rules in $700K theft case  DexertoUK Appeals court state RuneScape gold counts as property and can be stolen, in $700k bombshell case  EurogamerA judge has ruled that RuneScape gold pieces are real property, which is bad news for the ex-dev accused of stealing 705 billion of them  Rock Paper ShotgunBethesda working on Starfield 2.0 and a PS5 version - Informant  IXBT.gamesEx MMO dev allegedly hacked 68 players for in-game gold worth over $700,000 and sold it for Bitcoin, UK court finds the gold legally counts as \"property\" and can be stolen  GamesRadar+",
     "published date": "Sun, 25 Jan 2026 18:51:41 GMT",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM3Z4MkJSdVVzUEdvTkVwOEsyUk5mZXVrZFYtWGstal9FbXVNSDJTWHJMeTN4Q2FQeW53eXZvU1NiTHJmWVZMY2t4c0QtRWxqSHdIdGswdWlvRnhWNm5OZzFXeGZXQkpCOHVSNWp6cEtuMXE1cno3SlRmUVRmRUF1bi1QQnBYa0d3U3FPeldqcU42WDJFSFpFRk1wdFV6MmdHQ09HZGtpNGUzbGFyRWM2OG9rLXNubG1NVUFheUx5QnB3U00?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -390,13 +410,13 @@
     }
   },
   {
-    "title": "Apple iPhone 18 Pro’s Biggest Visual Redesign In Years Revealed In New Leak - Forbes",
-    "description": "Apple iPhone 18 Pro’s Biggest Visual Redesign In Years Revealed In New Leak  ForbesiPhone 18 Pro: Leaker Reveals Alleged Size of Smaller Dynamic Island  MacRumorsiPhone 18 Pro Leaks: Biggest Upgrade In Years? New Chip, Split Launch  NDTViPhone 18 Pro: Six new features are coming later this year  9to5MaciPhone 18 Pro Max Release Date, Specs, and What to Expect  The Mac Observer",
-    "published date": "Mon, 26 Jan 2026 17:32:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM3d3QUl6WE5ReV8tOEdDMEJsM3VSYWk5WHNNZW1qQjJaZTFJU0dfem4wN3hSeDl6UGRVQzBBdlVIdTNoZ2RUWVp1ZmtrSV84X0pnbm00d3ZIRFpraXJ2WjFuUkdvRzdIZl9sS0EzQmhCc19lXzJwVkxOUVB1YXB4RGUtY0xzSkpWdGtKSHVfc0JqRXhaZm5wZlJZb0xrRmh4aVpzRDFaaklfWUx0SURvb1pvOTV4d1hqTzg1UVFud3NEZXJ2R1poN3hzVFpSSGxP?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "149M logins exposed in unsecured database, inc 900k Apple accounts - 9to5Mac",
+    "description": "149M logins exposed in unsecured database, inc 900k Apple accounts  9to5Mac149M Logins and Passwords Exposed Online Including Financial Accounts, Instagram, Facebook, Roblox, Dating Sites, and More.  ExpressVPN149 Million Usernames and Passwords Exposed by Unsecured Database  WIREDHuge Data Leak Exposes Over 50 Million Gmail, Outlook And iCloud Credentials  HotHardwareInfostealer malware database exposes millions of iCloud and email passwords  AppleInsider",
+    "published date": "Mon, 26 Jan 2026 13:31:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWW1PekZWd3lwbXIxTjRhMzBKNTBzdVIzdkhoVUdKVjhWcUxYQzVRVkJJcnNrM2Y1UlVXRUhVMHR0bkZpeVFERDZmUnBqOGpkOVNnTmEtWWlxZm9xNS04QWF1Um5KM3ZLejRIanRPeWZESTZ0RE1Jd3BlSjJTYXlQT3RPWllvdUpkNzdOdEFQeGU5eElrU3JtdzRVOTdwZw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.forbes.com",
-      "title": "Forbes"
+      "href": "https://9to5mac.com",
+      "title": "9to5Mac"
     }
   },
   {
@@ -440,16 +460,6 @@
     }
   },
   {
-    "title": "We Strapped on Exoskeletons and Raced. There’s One Clear Winner - WIRED",
-    "description": "We Strapped on Exoskeletons and Raced. There’s One Clear Winner  WIRED",
-    "published date": "Mon, 26 Jan 2026 12:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaXN0OGk2azlFUEhvQWU0VHZrVjdxOUhLYUI1TU1zSzNMOU1xMTF6WVA4RzFTRjdqTU5jdkZaTmM1MV9YRk1uSkFjR2JpR2hNY09hVl9zeEdKVVZuc3M1Y1dmLXcxbXdYSUU5S0x4bUZ1VUdQcVlYeGFvMC05RTA1TzdMaTlvVEFsRTRORQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.wired.com",
-      "title": "WIRED"
-    }
-  },
-  {
     "title": "7 CarPlay Features Apple Recently Added To Your Vehicle - bgr.com",
     "description": "7 CarPlay Features Apple Recently Added To Your Vehicle  bgr.com",
     "published date": "Sun, 25 Jan 2026 11:17:00 GMT",
@@ -457,16 +467,6 @@
     "publisher": {
       "href": "https://www.bgr.com",
       "title": "bgr.com"
-    }
-  },
-  {
-    "title": "A powerful AMD gaming desktop is hundreds off at Costco - The Verge",
-    "description": "A powerful AMD gaming desktop is hundreds off at Costco  The VergeThe iBuypower Month End Clearance Sale Has Excellent Ready to Ship Gaming PC Deals  IGNGet AMD's 16GB RX 9060 XT for the MSRP price of an 8GB RTX 5060 Ti — Newegg discount code unlocks $20 saving on double the VRAM  Tom's HardwareEven in 2026's component hellscape, AMD's Radeon RX 9070 XT is that rarest of things: a high-end GPU that’s still decent value  Rock Paper ShotgunNewegg slashes $600 off stylish Skytech RX 9070 XT, 9800X3D gaming PC  PC Guide",
-    "published date": "Mon, 26 Jan 2026 16:00:53 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX1JtbmVKZGdOMS1YZ0hTTmlNY0o4cEZDLXJya2U5NFJDSGRRUlB3cmV4U3ZIbjlpdy1nTHJPRDY3aTc5UW5LZFljUjllWHNySkFoaXJNN2lyLW1LMkNKbEZqU1NDMV9TM3RFTF9HODBqYmdwbEEwZm5pSE5kOFN6R0FZOTd2YWx2N1JhbVdPVUVsSkh3RXkydkVqNjNzaHJ3Tm8w?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theverge.com",
-      "title": "The Verge"
     }
   },
   {
@@ -490,26 +490,6 @@
     }
   },
   {
-    "title": "AI has arrived in Gmail. Here’s how to make it work for you - seattletimes.com",
-    "description": "AI has arrived in Gmail. Here’s how to make it work for you  seattletimes.comPersonal Intelligence in AI Mode in Search: Help that's uniquely yours  blog.googleGoogle’s AI Mode can now tap into your Gmail and Photos to provide tailored responses  TechCrunchGemini with Personal Intelligence is awfully familiar  The VergeSEO Pulse: Google’s AI Mode Gets Personal, AI Bots Blocked, Domains Matter in Search  Search Engine Journal",
-    "published date": "Sun, 25 Jan 2026 14:00:03 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaGRBd0FHRFJibGRFNVhUMUJuS2lvUUwwZDA5eVczSFdyaEkwcEFXMGJOb0t1QmVEZlF2cmNYV0tRcVBacnNNMkdIYkxpc0piOXpHZkdwZ3RQMzRuTXJBYjQ5a3FVeU02RWdIV3hiTXVxT09sczZCcGFjRmFwUG9ZZWJ0U3UyWkFjN2VfZlBSSXZHRURWQ1A2QWg2aDU?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.seattletimes.com",
-      "title": "seattletimes.com"
-    }
-  },
-  {
-    "title": "Precious Pals Taken Over: A PvP Analysis on the New Shadow Pokemon - Pokémon GO Hub",
-    "description": "Precious Pals Taken Over: A PvP Analysis on the New Shadow Pokemon  Pokémon GO HubShadow Pokémon Rise in Pokémon GO Precious Pals: Taken Over Event  Pokemon.comPokémon Go Precious Pals Taken Over quest steps, tasks and rewards  EurogamerPokémon GO: 4 bonuses that you should take advantage of during the Rocket takeover  Mein-MMOPokémon GO: Taken Over – All Rocket Special Research Tasks and Rewards  VICE",
-    "published date": "Sun, 25 Jan 2026 08:34:54 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdjNENG1XVkJFeFpOWl93WWpZV19HcEVpS0g5dkFWajVnaVk1STdDUGtReEptN1lJRTlUdFIzS0p4dGpJY011TXhhekFlRzhwMFZyZHY0RU4tcU9fTHhOSENOYzB5c2VQZXY5RjhNcUxoREFySmU3eUFxMmJ1a1VHUEswR1YwdWxpVkU2aVJTUzk5WUZDRmRXZmZfYWdrZmo5TGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://pokemongohub.net",
-      "title": "Pokémon GO Hub"
-    }
-  },
-  {
     "title": "Apple’s AI Pin: The Wearable That Could Replace Your Smartphone - Geeky Gadgets",
     "description": "Apple’s AI Pin: The Wearable That Could Replace Your Smartphone  Geeky GadgetsApple Developing AI Wearable Pin  The InformationNot to be outdone by OpenAI, Apple is reportedly developing an AI wearable  TechCrunchTop Stories: iPhone 18 Pro Leaks, Siri Chatbot, Apple AI Pin, and More  MacRumorsGear News of the Week: Apple’s AI Wearable and a Phone That Can Boot Android, Linux, and Windows  WIRED",
     "published date": "Mon, 26 Jan 2026 08:02:15 GMT",
@@ -520,23 +500,13 @@
     }
   },
   {
-    "title": "Despair-Inducing Analysis Shows AI Eroding the Reliability of Science Publishing - Gizmodo",
-    "description": "Despair-Inducing Analysis Shows AI Eroding the Reliability of Science Publishing  GizmodoNeurIPS papers contained 100+ AI-hallucinated citations, new report claims  FortuneScience Is Drowning in AI Slop  The AtlanticOver 100 fake citations slip through peer review at top AI conference  the-decoder.comHow AI-generated references are polluting scientific papers  Earth.com",
-    "published date": "Mon, 26 Jan 2026 10:00:19 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM2gzVXpBdFdUT201cTFVZ3NPR0tBaEhkYnE5NTRHejZqbW1kZDMtM3kxWGwwN0FWbE1EYlR2RGxMOTctenc5NEJUVjRzNGdNc0xwcV9WdEs5cDMtZ1I4SjBxbmRNaWMyMXphWl9mZXJGRjF5UzdJa2RuSzcwTU00NGx2bG5QNVU1Y1BiRm1MVkRyZVVZNTNQbWJ3NlBLR3ppQW9ULXhuY2dCaklNbnEwSA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "How to disable ACR on your TV (and why doing so makes such a big difference) - ZDNET",
+    "description": "How to disable ACR on your TV (and why doing so makes such a big difference)  ZDNET5 uncomfortable truths about smart TVs everyone needs to hear  How-To GeekI stopped my smart TV from tracking everything by changing this one setting  XDASamsung accused of secretly harvesting customer data in bombshell new lawsuit  The US SunAutomated content recognition technology takes privacy enforcement spotlight  IAPP",
+    "published date": "Mon, 26 Jan 2026 02:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc3Joem96VHNBSmJ3MnJDVkJTMlEwVS1pb0V4MFhoRVZuanNxMWRfdDJnZC1hNkUyZ0xMQmF0VExoN2JnWndoc3JlX0RNNHV3NFNwQjVRdDNBTVBNX2wxX0k5SzI2NzhJZnl2S21YellpQklXMHNlRHpSWmlpQWtuaW5lblYtZkdvbks3TEZmbE4?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://gizmodo.com",
-      "title": "Gizmodo"
-    }
-  },
-  {
-    "title": "5 uncomfortable truths about smart TVs everyone needs to hear - How-To Geek",
-    "description": "5 uncomfortable truths about smart TVs everyone needs to hear  How-To GeekHow to disable ACR on your TV (and why doing so makes such a big difference)  ZDNETI stopped my smart TV from tracking everything by changing this one setting  XDASamsung accused of secretly harvesting customer data in bombshell new lawsuit  The US SunAutomated content recognition technology takes privacy enforcement spotlight  IAPP",
-    "published date": "Sun, 25 Jan 2026 17:00:16 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMW5wXzFRTzU2eHhCVjM0d1dSUnFuYlNFYUZmUGhPNnJvSTFTbUZBQzBoNm9MY1ZGR0RpOVRfWjRCdU8yVG1Na1NwX3RKWDZiTXNEZ2QtN015Z21vcWlPU1h0eTc4VXV0Y1E5UGdjZWZhNVNxTjdGNWpOS3M2VlFTM0tfdmZxQnhSeGotR0RIbw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.howtogeek.com",
-      "title": "How-To Geek"
+      "href": "https://www.zdnet.com",
+      "title": "ZDNET"
     }
   },
   {
@@ -547,16 +517,6 @@
     "publisher": {
       "href": "https://www.eurogamer.net",
       "title": "Eurogamer"
-    }
-  },
-  {
-    "title": "Sony’s LinkBuds Clip earbuds don’t do enough to stand out - The Verge",
-    "description": "Sony’s LinkBuds Clip earbuds don’t do enough to stand out  The VergeLinkBuds Clip is Sony’s Most Fashion Minded Earbud Move Yet  The GadgeteerSony's New Earbuds Might Just be the Best Workout Earbuds Available  EsquireSony LinkBuds Clip Tops Bose Ultra Open In Review  findarticles.comSony LinkBuds Clip Let Music And Real Life Share The Same Moment  That Eric Alper",
-    "published date": "Sun, 25 Jan 2026 14:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQem5JcjFyWlhMUHZ0UVdNS0RYX1JEOU5pdmNpdU10bTVycGN2TDZTRTFremFKejB6XzlJZmZoenhvU044VnJDOHpVbklwMUxTejZBRjBRVk9DOTEtZDdicFNoNzIyTS05cUVnRm5PNFotZ2JCTjQ3amFHTktiM0JOeA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theverge.com",
-      "title": "The Verge"
     }
   }
 ]
