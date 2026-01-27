@@ -21,7 +21,7 @@
   },
   {
     "title": "Artemis II astronauts enter quarantine. A milestone moment in the next crewed mission to the Moon - BBC Sky at Night Magazine",
-    "description": "Artemis II astronauts enter quarantine. A milestone moment in the next crewed mission to the Moon  BBC Sky at Night MagazineArtemis II Crew Enters Quarantine Ahead of Journey Around Moon  NASA (.gov)NASA is about to send people to the moon — in a spacecraft not everyone thinks is safe to fly  CNNNASA is set to send astronauts around the Moon again  ScienceDailyArtemis 2 launch: Livestream info, launch window details  Mashable",
+    "description": "Artemis II astronauts enter quarantine. A milestone moment in the next crewed mission to the Moon  BBC Sky at Night MagazineArtemis II Crew Enters Quarantine Ahead of Journey Around Moon  NASA (.gov)NASA is set to send astronauts around the Moon again  ScienceDailyArtemis 2 launch: Livestream info, launch window details  MashableWatch NASA's Artemis 2 moon rocket on the launch pad with this 24-hour livestream  Space",
     "published date": "Mon, 26 Jan 2026 10:17:07 GMT",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcE5DdVE4WGtHaUFzNFVIN21iUUpESW5ISDROdzgxUm9MMUNZaTc1dlE4aU9qcEx6M3lUVVVEbHY0YXpqT3NlaU91RXBnNVRXSXVsUEZiUTVEZEd3dzNERThQczRxQ2JWajhSQmozY2MtLTd5ZmhuTU1uOFppdWx4cEpGU3k?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -50,6 +50,16 @@
     }
   },
   {
+    "title": "Scientists launch AI DinoTracker app that identifies dinosaur footprints - The Guardian",
+    "description": "Scientists launch AI DinoTracker app that identifies dinosaur footprints  The GuardianBirds could be 60 million years older than thought  The TelegraphAI Is Solving a Dinosaur Mystery That Stumped Scientists for Decades  SciTechDailyAI sheds light on mysterious dinosaur footprints  Phys.orgIdentifying dinosaurs from their footprints is difficult – but AI can help  The Conversation",
+    "published date": "Mon, 26 Jan 2026 20:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUVBFcnZJUWl6NzdKalJFanBzT1VBRjlEaENoUnBWN2MxQmxYMUlNT0dOVkF5RlUwSFNCTXpOTnVYalBCOTVkNzFlenJPTzR5ZGxlbXB3dF8zZi1nVmRVUUJBd3pFYmpSeXVqNnA3d2ZsbjBMN1ZSa0FaRlBtVlBySzRNa0ZBTjhKcGRqQkM1RzdRWTRLdGFYVW84SzJCMXYwMkxkRmtSNnV6T1dNNV9pQ2xQWVRNT1NacXM3UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theguardian.com",
+      "title": "The Guardian"
+    }
+  },
+  {
     "title": "Scientists Finally Figured Out How Much Groundwater There Is Under the US and It Is Enough to Fill the Great Lakes 13 Times Over - ZME Science",
     "description": "Scientists Finally Figured Out How Much Groundwater There Is Under the US and It Is Enough to Fill the Great Lakes 13 Times Over  ZME Science",
     "published date": "Mon, 26 Jan 2026 19:19:05 GMT",
@@ -61,22 +71,12 @@
   },
   {
     "title": "AI makes quantum field theories computable - Phys.org",
-    "description": "AI makes quantum field theories computable  Phys.org",
+    "description": "AI makes quantum field theories computable  Phys.orgTranslating Complex Quantum Formulas into Computational Reality  AZoQuantumTU Wien Breakthrough: AI Solves Quantum Field Theory Computability Challenge  Quantum Zeitgeist",
     "published date": "Mon, 26 Jan 2026 18:11:58 GMT",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iYnFrM2E2ZmF4SUdyRzdBRUw1V2lwRmloR25BeHdQaTl3YkVtZ1lIemdya1U1N2w0MnFXUUR3eDFQUnNPWk5hYWZVNHRvbTFZRlF0bE1FdC1JNkQ0cDdZTk82aUlqbGhnWVozMw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://phys.org",
       "title": "Phys.org"
-    }
-  },
-  {
-    "title": "Scientists launch AI DinoTracker app that identifies dinosaur footprints - The Guardian",
-    "description": "Scientists launch AI DinoTracker app that identifies dinosaur footprints  The GuardianBirds could be 60 million years older than thought  The TelegraphAI sheds light on mysterious dinosaur footprints  Phys.orgIdentifying dinosaurs from their footprints is difficult – but AI can help  The ConversationAI Is Solving a Dinosaur Mystery That Stumped Scientists for Decades  SciTechDaily",
-    "published date": "Mon, 26 Jan 2026 20:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUVBFcnZJUWl6NzdKalJFanBzT1VBRjlEaENoUnBWN2MxQmxYMUlNT0dOVkF5RlUwSFNCTXpOTnVYalBCOTVkNzFlenJPTzR5ZGxlbXB3dF8zZi1nVmRVUUJBd3pFYmpSeXVqNnA3d2ZsbjBMN1ZSa0FaRlBtVlBySzRNa0ZBTjhKcGRqQkM1RzdRWTRLdGFYVW84SzJCMXYwMkxkRmtSNnV6T1dNNV9pQ2xQWVRNT1NacXM3UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theguardian.com",
-      "title": "The Guardian"
     }
   },
   {
@@ -90,6 +90,16 @@
     }
   },
   {
+    "title": "Milky Way shines over Gemini South Observatory photo of the day for Jan. 26, 2025 - Space",
+    "description": "Milky Way shines over Gemini South Observatory photo of the day for Jan. 26, 2025  Space",
+    "published date": "Mon, 26 Jan 2026 15:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWnZNZW96U09HMVl4QXdvR1BQRGpMdjVyajFYUHgwaGpieHFiMUlZTW8tcjRtVllFbm5IczRJRnNXM19Qa0pEMjRzbUJzd0d4NWRDeW1Wc1ZuTW5obl9aQ1RuY1pULVlTdnhTTE9JalNlTlF3OGltdXQtbXJXQXJhbTFmUHZkVFZIc2JaOGN0RW5uQ0ZhNnh2V0xudEJybU9uekZFYi1wS3Bka3ZhMDZRQUZySjVsUmFq?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.space.com",
+      "title": "Space"
+    }
+  },
+  {
     "title": "Artificial Intelligence Reveals Fingerprints Aren't Truly Unique, Debunking 100 Years of Forensic Science - The Daily Galaxy",
     "description": "Artificial Intelligence Reveals Fingerprints Aren't Truly Unique, Debunking 100 Years of Forensic Science  The Daily Galaxy",
     "published date": "Tue, 27 Jan 2026 11:46:00 GMT",
@@ -97,6 +107,16 @@
     "publisher": {
       "href": "https://dailygalaxy.com",
       "title": "The Daily Galaxy"
+    }
+  },
+  {
+    "title": "Chinese satellite forces 4,400 of its Starlink rivals into lower altitude: study - South China Morning Post",
+    "description": "Chinese satellite forces 4,400 of its Starlink rivals into lower altitude: study  South China Morning PostSpaceX’s Starlink dodged 300,000 satellite collisions in 2025  New ScientistTrump’s FCC Just Handed Musk a Major Win, but Scientists Are Warning of an 'Orbital House of Cards'  CNETI Spoke to Astrophysicists About Starlink’s Expansion: The Doomsday Scenario Keeping Them Up at Night  VocalNear-collision between Chinese satellite and Starlink device forces SpaceX to lower orbit  Agenzia Nova",
+    "published date": "Tue, 27 Jan 2026 14:00:11 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd292UThSbXZfYjBHRmJlaFY1WHk2NTk2b0dVV21VaV9ja0lJREIxTXF4ZUZMWG1uRkdNTTZjMWxLdDhWNXFlalg4S3dlNHU5TEVBV3psZ1JBQnVrOUhWM1FRMmxaMHNGUXNIZF93NGhfOThpRmFlb0V6UEMyemZlUnA3VjBzUzdVQTB5aGNjeEJXSGM0WXJKZklzZDNkZWJ1MlpIQVNPN2VVT3hCMldJSzBIcF9kLS1JRkR1bzdNbDZjYzFx0gHEAUFVX3lxTFBITERpT0Y2RFBfbW05NmRVeXRhWXNRdUhFUFNXOFdzc09qUXZUbTltMG5Tc0hWNFZJX19Hb0J3bzVyUUN1b05RT05qTEtKQUV1U1BFRTBOMHkxR2ZReGsxSFZIbDRlVUVMTG1fUVZ0TExjSG1ERllxWWQ0bk1JQ2ZnWmVLYmhBNDY5QW1Ib005d2lfaS1VM0JzTzJId3lqaVQ2eVVZMU5VSmFhNVhRd2lTcjNqb0JvOVQ1b3BGSFZFdEhhUGw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.scmp.com",
+      "title": "South China Morning Post"
     }
   },
   {
@@ -110,13 +130,13 @@
     }
   },
   {
-    "title": "Post-Perihelion Spectrum of 3I/ATLAS - Avi Loeb – Medium",
-    "description": "Post-Perihelion Spectrum of 3I/ATLAS  Avi Loeb – MediumHubble Images of 3I/ATLAS During Its Rare Alignment with the Sun-Earth Axis on January 22, 2026  Avi Loeb – MediumFarewell, 3I/ATLAS. I've been observing the interstellar comet for months. Here's what I learned  BBC Sky at Night MagazineComet-3I/ATLAS Dramatically Changed Activity After Perihelion With Massive Release Of Organic Molecules  IFLScienceX-ray glow maps 3I/ATLAS where solar wind meets alien ice  MSN",
-    "published date": "Mon, 26 Jan 2026 11:36:47 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVGhveURjcHdkb0EzYW1tVk83VHdHaHE2cFFOazJ2Z3pEaWNNalZMRXF1dUJfUl9YQ3hHOXZ2SWt5cE1lRmN4VlVfdEE2aTVKNFVYT0QtWG95dXdLakVKeGU2MFZUZEpFTTY1RXJZblh4RVdXNVVLVlRLVmdGYWFXVGJlaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Hidden Faults Discovered at a Major US Earthquake Hotspot - ScienceAlert",
+    "description": "Hidden Faults Discovered at a Major US Earthquake Hotspot  ScienceAlert",
+    "published date": "Tue, 27 Jan 2026 12:01:33 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbXhNSWdXV3o0QnUwbll5SjZrdVVLdDJUdDU3Yy1adms1VGE3OG9lQmdMSEJqZlJib2xUcXJRYXI4dUNiaWNCeFdsZ1ZhM3RWRGxON09GQlJhVkZxc1NmdzlEQXNFTDdJcVRUd1RFU2dMeFhFbXhpSjdZSngzN1JWbTZEcUFLYlFMLWV2WWc2MA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://avi-loeb.medium.com",
-      "title": "Avi Loeb – Medium"
+      "href": "https://www.sciencealert.com",
+      "title": "ScienceAlert"
     }
   },
   {
@@ -130,13 +150,23 @@
     }
   },
   {
-    "title": "Former astronaut on lunar spacesuits: “I don’t think they’re great right now” - Ars Technica",
-    "description": "Former astronaut on lunar spacesuits: “I don’t think they’re great right now”  Ars TechnicaArtemis Spacesuits Have 'a Lot of Flexibility Issues,' Per Former Astronaut  extremetech.comMoon Suits Aren’t Ready: Ex-NASA Astronaut Sounds the Alarm  Technology OrgEx-Astronaut Critiques Current Lunar Spacesuits as Subpar  filmogaz.comNext-gen lunar spacesuit redefines mobility  Digital Trends",
-    "published date": "Mon, 26 Jan 2026 12:00:57 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ0Y4R0I4WE9xNDFka2EwblhwRGk4Qk1RYkFta21idTlsWjVidEg3MXg1dHlYV1JwYzFiemt3dXJxRC0yT3JadWk3aW01VE9QUjgyNnpKeGgyak9SandUeU5WUDNCYjlDYnBNcnJWMkJBYlFoRVFRemNYU01mY2haYnlIWDFqNXZPUkpvTE51WlAtMHNfTlE3SG1rSXpId21DVUZFNUNmNGNyeGFkbG5KZQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Post-Perihelion Spectrum of 3I/ATLAS - Avi Loeb – Medium",
+    "description": "Post-Perihelion Spectrum of 3I/ATLAS  Avi Loeb – MediumHubble Images of 3I/ATLAS During Its Rare Alignment with the Sun-Earth Axis on January 22, 2026  Avi Loeb – MediumFarewell, 3I/ATLAS. I've been observing the interstellar comet for months. Here's what I learned  BBC Sky at Night MagazineComet-3I/ATLAS Dramatically Changed Activity After Perihelion With Massive Release Of Organic Molecules  IFLScienceThe countdown has begun: in a few days, the truth about 3I/ATLAS will be revealed  ECOticias.com",
+    "published date": "Mon, 26 Jan 2026 11:36:47 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVGhveURjcHdkb0EzYW1tVk83VHdHaHE2cFFOazJ2Z3pEaWNNalZMRXF1dUJfUl9YQ3hHOXZ2SWt5cE1lRmN4VlVfdEE2aTVKNFVYT0QtWG95dXdLakVKeGU2MFZUZEpFTTY1RXJZblh4RVdXNVVLVlRLVmdGYWFXVGJlaw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://arstechnica.com",
-      "title": "Ars Technica"
+      "href": "https://avi-loeb.medium.com",
+      "title": "Avi Loeb – Medium"
+    }
+  },
+  {
+    "title": "Voyager 2's close encounter with Uranus wasn't in the original plan - theregister.com",
+    "description": "Voyager 2's close encounter with Uranus wasn't in the original plan  theregister.comJanuary 27: Voyager Milestones Spotlight Space Economy and NASA Funding  MeykaVoyager 1 and 2 detected something beyond the edge of our solar system  MSNNASA launched this in 1977 - it’s now 14 billion miles away  MSNThe pale blue dot: Voyager’s journey beyond time and space  MSN",
+    "published date": "Tue, 27 Jan 2026 10:15:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50REh6bDd5YXE3N2FVVlY0V2ExcURkNnBpYzRGV3Fia2FuZkpEMEJjTFRrdGc4Q1dwS3QzVWViT3FNMDgyZG1KREFjVmhYOEVMSWVkOWVRNzVQczFpNjJha2Zaanprb3p4VjMwNXBETzhtU1k?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theregister.com",
+      "title": "theregister.com"
     }
   },
   {
@@ -147,6 +177,26 @@
     "publisher": {
       "href": "https://www.space.com",
       "title": "Space"
+    }
+  },
+  {
+    "title": "Former astronaut on lunar spacesuits: “I don’t think they’re great right now” - Ars Technica",
+    "description": "Former astronaut on lunar spacesuits: “I don’t think they’re great right now”  Ars TechnicaArtemis Spacesuits Have 'a Lot of Flexibility Issues,' Per Former Astronaut  extremetech.comMoon Suits Aren’t Ready: Ex-NASA Astronaut Sounds the Alarm  Technology OrgEx-Astronaut Critiques Current Lunar Spacesuits as Subpar  filmogaz.comNext-gen lunar spacesuit redefines mobility  Digital Trends",
+    "published date": "Mon, 26 Jan 2026 12:00:57 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ0Y4R0I4WE9xNDFka2EwblhwRGk4Qk1RYkFta21idTlsWjVidEg3MXg1dHlYV1JwYzFiemt3dXJxRC0yT3JadWk3aW01VE9QUjgyNnpKeGgyak9SandUeU5WUDNCYjlDYnBNcnJWMkJBYlFoRVFRemNYU01mY2haYnlIWDFqNXZPUkpvTE51WlAtMHNfTlE3SG1rSXpId21DVUZFNUNmNGNyeGFkbG5KZQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://arstechnica.com",
+      "title": "Ars Technica"
+    }
+  },
+  {
+    "title": "Effector–host interactome map links type III secretion systems in healthy gut microbiomes to immune modulation - Nature",
+    "description": "Effector–host interactome map links type III secretion systems in healthy gut microbiomes to immune modulation  NatureGut Microbiome Effectors Linked to Immune Modulation  Bioengineer.orgYour Gut Bacteria Are Hacking Your Immune System  ScienceBlog.comHow gut bacteria control immune responses  Phys.org",
+    "published date": "Mon, 26 Jan 2026 10:30:06 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LcXdnVHdJRDNaaE8xaWF4M0ZuR0Jkcy1rdm1tcF9YZ21PNDB0SjFIbmllMXI5dFlJc2tGOGZtVHRFX1Atd1g3VWtMSEJEYlZ4WDVHSEcxaklBYU1reG5F?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nature.com",
+      "title": "Nature"
     }
   },
   {
@@ -180,16 +230,6 @@
     }
   },
   {
-    "title": "Mapping cell development with mathematics-informed machine learning - Phys.org",
-    "description": "Mapping cell development with mathematics-informed machine learning  Phys.org",
-    "published date": "Mon, 26 Jan 2026 15:40:01 GMT",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Mem44S1UwRGs3SzB2VHpOMnJ0a0YzZTJhSl9vdGhzVXpNRlVqUTFMX0psMGp1NzlKM3RjdmNmREJEVE52ZS13VDRSYTF2aHBpc1VZOTZYN3pDMmxJZTVBZWk3UnJZb29wamdZ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://phys.org",
-      "title": "Phys.org"
-    }
-  },
-  {
     "title": "Microbes in Space Mutated And Developed a Remarkable Ability - ScienceAlert",
     "description": "Microbes in Space Mutated And Developed a Remarkable Ability  ScienceAlertThe Unexpected Evolution Aboard the ISS  Universe TodayViruses that evolved on the space station and were sent back to Earth were more effective at killing bacteria  Live ScienceScientists sent viruses to space and they evolved in surprising ways  ScienceDailyPhages Evolved on the Space Station Show Greater Ability to Kill Bacteria  BioTecNika",
     "published date": "Mon, 26 Jan 2026 11:01:07 GMT",
@@ -200,13 +240,13 @@
     }
   },
   {
-    "title": "Milky Way shines over Gemini South Observatory photo of the day for Jan. 26, 2025 - Space",
-    "description": "Milky Way shines over Gemini South Observatory photo of the day for Jan. 26, 2025  Space",
-    "published date": "Mon, 26 Jan 2026 15:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWnZNZW96U09HMVl4QXdvR1BQRGpMdjVyajFYUHgwaGpieHFiMUlZTW8tcjRtVllFbm5IczRJRnNXM19Qa0pEMjRzbUJzd0d4NWRDeW1Wc1ZuTW5obl9aQ1RuY1pULVlTdnhTTE9JalNlTlF3OGltdXQtbXJXQXJhbTFmUHZkVFZIc2JaOGN0RW5uQ0ZhNnh2V0xudEJybU9uekZFYi1wS3Bka3ZhMDZRQUZySjVsUmFq?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Mapping cell development with mathematics-informed machine learning - Phys.org",
+    "description": "Mapping cell development with mathematics-informed machine learning  Phys.org",
+    "published date": "Mon, 26 Jan 2026 15:40:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Mem44S1UwRGs3SzB2VHpOMnJ0a0YzZTJhSl9vdGhzVXpNRlVqUTFMX0psMGp1NzlKM3RjdmNmREJEVE52ZS13VDRSYTF2aHBpc1VZOTZYN3pDMmxJZTVBZWk3UnJZb29wamdZ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.space.com",
-      "title": "Space"
+      "href": "https://phys.org",
+      "title": "Phys.org"
     }
   },
   {
@@ -240,16 +280,6 @@
     }
   },
   {
-    "title": "Varna Gold: Humanity's first gold jewelry was found in a cemetery with a gold 'penis sheath' - Live Science",
-    "description": "Varna Gold: Humanity's first gold jewelry was found in a cemetery with a gold 'penis sheath'  Live Science",
-    "published date": "Mon, 26 Jan 2026 11:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQY3p5aUU5LUczemZ2SG9XdVpsN2Q1cUJiUXFlRXRDSkd4MnZtTVlEZ1daOUN4b2dWWWNMQ0VPVnNSczlHbHhHdkNMSHBKa3ZVNEJFRF9vdEdodklIUTFNYzNDa0RWd0l5bldISnBGVWVUYVBLNTk0VlZibGdWc3J0bmRUWEFDN2xUc2JlQmVhWWFGRktYR05qYWJHYkdtQzdZdkdDcjB2eXFGSC1OeUZSTXlRQlduN1o2eGdxdVktbUg2WjkzQUw4?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.livescience.com",
-      "title": "Live Science"
-    }
-  },
-  {
     "title": "Scientists research how Greenland sharks live for hundreds of years - Boing Boing",
     "description": "Scientists research how Greenland sharks live for hundreds of years  Boing BoingHow Greenland sharks defy aging  Science NewsBlind, slow and 500 years old – or are they? How scientists are unravelling the secrets of Greenland sharks  The GuardianThis Shark Has Been Alive Since the 1600s, and It Is Still Swimming Today  AOL.comCould 400-Year-Old Sharks Hold the Secret to Eye Health for Humans?  VICE",
     "published date": "Mon, 26 Jan 2026 19:42:40 GMT",
@@ -257,6 +287,16 @@
     "publisher": {
       "href": "https://boingboing.net",
       "title": "Boing Boing"
+    }
+  },
+  {
+    "title": "Varna Gold: Humanity's first gold jewelry was found in a cemetery with a gold 'penis sheath' - Live Science",
+    "description": "Varna Gold: Humanity's first gold jewelry was found in a cemetery with a gold 'penis sheath'  Live Science",
+    "published date": "Mon, 26 Jan 2026 11:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQY3p5aUU5LUczemZ2SG9XdVpsN2Q1cUJiUXFlRXRDSkd4MnZtTVlEZ1daOUN4b2dWWWNMQ0VPVnNSczlHbHhHdkNMSHBKa3ZVNEJFRF9vdEdodklIUTFNYzNDa0RWd0l5bldISnBGVWVUYVBLNTk0VlZibGdWc3J0bmRUWEFDN2xUc2JlQmVhWWFGRktYR05qYWJHYkdtQzdZdkdDcjB2eXFGSC1OeUZSTXlRQlduN1o2eGdxdVktbUg2WjkzQUw4?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.livescience.com",
+      "title": "Live Science"
     }
   },
   {
@@ -290,13 +330,13 @@
     }
   },
   {
-    "title": "Breakthrough laser technique holds quantum matter in stable packets - Phys.org",
-    "description": "Breakthrough laser technique holds quantum matter in stable packets  Phys.org",
-    "published date": "Sun, 25 Jan 2026 18:00:03 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQX3ZBa29TSjdVOHV4eEttVDR0MzdGY1VmVE5iNlQ1ZTR0bjNLdDRtNzdWMUMtUkZ0SUJ0VUNRN3lSVGRNODU1ay05dXZENzl2NXEweWhobVFRSGY2ZndfOFpJeWhwU05rSVVReVVDS3RoWVItNnNwQkVyNzFpTHFzUkxQZHE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "What were the first animals? The fierce sponge–jelly battle that just won’t end - Nature",
+    "description": "What were the first animals? The fierce sponge–jelly battle that just won’t end  Nature",
+    "published date": "Tue, 27 Jan 2026 11:36:10 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UUWJmRVhGeGMzREJsd2ZEckpTV2NJS3hveDhkMWVIMFRnUnZEMkZDdXBzS3ljaVJSYmx1ajVxZHJGcVcwRHJvTnBjcU1xY2FUMHRXbzhHNFlHX19kOERR?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://phys.org",
-      "title": "Phys.org"
+      "href": "https://www.nature.com",
+      "title": "Nature"
     }
   },
   {
