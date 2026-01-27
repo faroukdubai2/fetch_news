@@ -1,22 +1,22 @@
 [
   {
-    "title": "The Samsung Trifold will cost nearly three grand - The Verge",
-    "description": "The Samsung Trifold will cost nearly three grand  The VergeThe Highly Anticipated Samsung Galaxy Z TriFold will be Available in U.S. Starting this Week  samsung.comSamsung’s TriFold phone will cost $2,899 in the US  TechCrunch$2899 Galaxy Z TriFold Includes Elusive Charging Cube  Droid LifeSamsung Galaxy Z TriFold Goes on Sale in Days, but Its $2,900 Price Is Unhinged  CNET",
+    "title": "The Samsung Galaxy Z Trifold will cost $2,900 in the US - Engadget",
+    "description": "The Samsung Galaxy Z Trifold will cost $2,900 in the US  EngadgetThe Highly Anticipated Samsung Galaxy Z TriFold will be Available in U.S. Starting this Week  samsung.comSamsung's TriFold Phone Will Cost $2,899 in US and Launch on Jan. 30  Bloomberg.comSamsung’s Galaxy Z TriFold Will Cost More Than My Car Is Worth  IGNSamsung Galaxy Z TriFold Goes on Sale in Days, but Its $2,900 Price Is Unhinged  CNET",
     "published date": "Tue, 27 Jan 2026 14:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRENtTUUzOGRNazBHT1NMXzJBNHI1WHNlQ05EWG9yWlhFSDZ5N09WaFJfWkdfQVlCSWdXcmJoelRlYTF4R1lvQXd1WTlkVDBVU24xSHo3MEstbVlROGdab0E2ZGVjSy05UDRmZkR1b3lUdHhDWFpONFRRRFdYTFJpMi1id1d4cVd6OVJNV2ZndGJ4QXRibUYzenhhd2I?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONEdVM1ZRQTJ0aGVHRHl2a1p6Um93SzMyNUpxRXVaTTdWeVlfODhDeFd1RzRXX1BPTHVJeG9IbWJqdFNTQU9YMGdYWXE4MUhhXzIzQzJ2bFdfek1abm5FZjdlWEJEb0pla3VPa3JFbnpFdmFHQkFXVjIyc0hnTkt0cWo3Q1N5akJMbHR4QkR1c3VNZ2U3NGo3UUxvSm1ZM3pCdWRSanNqQ05LQXRheWduTzhn?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.theverge.com",
-      "title": "The Verge"
+      "href": "https://www.engadget.com",
+      "title": "Engadget"
     }
   },
   {
-    "title": "Apple patches ancient iOS versions to keep iMessage, FaceTime, other services working - Ars Technica",
-    "description": "Apple patches ancient iOS versions to keep iMessage, FaceTime, other services working  Ars TechnicaiPhone 5s Gets New Software Update 13 Years After Launch  MacRumorsApple Just Released Urgent Updates For 2 Billion iPhones  ForbesApple once again puts Android to shame – it just updated the 12-year-old iPhone 5S to set a new record  TechRadarApple updates iOS 12 to extend iMessage and FaceTime support on older devices  9to5Mac",
-    "published date": "Tue, 27 Jan 2026 15:49:53 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObEZLRUNsazBHMnFpbWZqUUNiQzdzcDRjbTUxY3RQSEVCZGQxOXVOdExJSXYwZFVPa1ZuT05hMTRTaUpwRVdFeFBxODJVQUd0a3FVQVZsLWlCQ3ZzcUpoc2ZBQUE3VjZkSUdRT1ViRDlPaGVwaHVoN2hMOWJ2b2x3VWJwTVJUSkxrRkhlQVFpWXFkWEgtVE4td0lzeFNHcm5fbHMzTXozbV9FcW1tWTJadUtYSGdrM2VxWEJOMUpYYUhEdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Dozens of nudify apps found on Google and Apple’s app stores - The Verge",
+    "description": "Dozens of nudify apps found on Google and Apple’s app stores  The VergeApple, Google host dozens of AI ‘nudify’ apps like Grok, report finds  CNBCReport claims App Store hosts widespread nonconsensual AI undressing apps  9to5MacDeepfake porn apps downloaded 705 million times on Apple, Google  upi.comApple and Google reportedly still offer dozens of AI ‘nudify’ apps  Engadget",
+    "published date": "Tue, 27 Jan 2026 16:26:34 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOS3dxODdmUHBzZFEwNW1XVmdRZUVsSnNBUmpTdlVuUVlPbGVBbWxOLUZsLU9CclQ3NDdXRlhUUWNScDFmX3FlVU1IY3Q2aC03TUU2dGFEWjhNNTcySE8yYlRPaklBVjlqZkVwdXhtNE9ZTFNneWxGWUZjaTIwVTdyUkJabldsRm9sX2kw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://arstechnica.com",
-      "title": "Ars Technica"
+      "href": "https://www.theverge.com",
+      "title": "The Verge"
     }
   },
   {
@@ -30,43 +30,73 @@
     }
   },
   {
-    "title": "Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation - The Hacker News",
-    "description": "Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation  The Hacker NewsEmergency Microsoft update fixes in-the-wild Office zero-day  Security AffairsHigh-risk Office security flaw: Microsoft issues emergency updates  PCWorldOffice zero-day exploited in the wild forces Microsoft OOB patch  theregister.comMicrosoft patches Office zero-day vulnerability, Blackmoon targets Indian users, Konni targets blockchain developers  LinkedIn",
-    "published date": "Tue, 27 Jan 2026 07:20:21 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTWVoUFdJZFF5WmdCYTBERUZ1dGNLMHU3NmxvT1pEZ1hrb3pUY0dKQ3RiZm0yLWpYLW1EeWFFbFpLNHk1cHZBMkphQkU4OE9qY3dFU3dKUUwwQU5YckkwZDNrWnltSjRjeDVCZWdXejNOSnYzV3ROWWhsVWxyejZuTg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "ZOTAC Korea warns of steep RTX 5090 and RTX 5060 price hikes, says some models may be unavailable for a while - VideoCardz.com",
+    "description": "ZOTAC Korea warns of steep RTX 5090 and RTX 5060 price hikes, says some models may be unavailable for a while  VideoCardz.comRTX 5090 pricing spikes – 55% increase  OC3DZotac warns component shortages threaten the 'very survival' of GPU manufacturers and distributors — message to Korean customers suggests that the worst could be yet to come  Tom's HardwareGamers Ditch GeForce RTX 5060 Ti 16 GB As Prices Skyrocket, Crossing $700 At Retail  WccftechBrace yourself: Nvidia and AMD GPU prices may rise as top AIBs adjust costs  Yahoo Finance",
+    "published date": "Tue, 27 Jan 2026 11:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNmNuSkl4TnpCRnE3Uk5HUVRTS1dKQ0ZhNUlWcGNiUGpXc0p5X19paTVyZVM0SE1selFVc0o2akdVOE15UjNBRFpvRDM0ZWFWc2tKOVlZNFNpak51X1NRcUdrQWpmWldydktHT3drS0hVYy1ySmpCaEFnZklUYW0wTEJuall5R0d5ZFJfMGtVNHB0VkNWeDd6OVY5MEdINmRBRnNhVXJVVElmM21BU3BoLVpsN1RzVTUweHVDdndMY0ZNTlVrTDNFQm1iS3ZGMTd6dGc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://thehackernews.com",
-      "title": "The Hacker News"
+      "href": "https://videocardz.com",
+      "title": "VideoCardz.com"
     }
   },
   {
-    "title": "Galaxy Book 6 Pro and Book 6 Ultra have been launched - SamMobile",
-    "description": "Galaxy Book 6 Pro and Book 6 Ultra have been launched  SamMobileI've used a lot of Samsung laptops. This one stands out  PCWorldGalaxy Book 6 lineup set for a South Korean release  PhoneArena[Video] Galaxy Book6 Ultra Delivers Powerful Performance in a Slim Design  Samsung Mobile PressChipflation Drives PC Price Surge, Ramtech Trend Emerges  조선일보",
-    "published date": "Mon, 26 Jan 2026 04:17:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWkJiSG1Pc2cwSW9oRTk5SlZhc3pQZktRelU0NTU5YWhQRm52TC15UGdmZkpBTHpGcE1oMGtjcXd5SE03N0U2QnMzVGhlUS11TkZSQTJwckZldkhsOFJYMDJtVUE2Q1FyVjVXUFNHM1R2QlRaelBPckllU1NyRHhwdDV3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "AI Overviews gets upgraded to Gemini 3 with a dash of AI Mode - Ars Technica",
+    "description": "AI Overviews gets upgraded to Gemini 3 with a dash of AI Mode  Ars TechnicaPersonal Intelligence in AI Mode in Search: Help that's uniquely yours  blog.googleAnalysis | Google wants your emails and photos to ‘personalize’ its AI. Should you let it?  The Washington PostAI has arrived in Gmail. Here’s how to make it work for you  The Seattle TimesGoogle brings AI Mode and Gemini 3 to AI Overviews  Mashable",
+    "published date": "Tue, 27 Jan 2026 17:00:58 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa3lUeTFKYzVFenNPWl93clFzcjdtMm5rVTZrZXVvVU8xdnlxeVliNEU1ZnpfXzlnTzFJVHRTNXNWVHRjQ0Ffc0JkX0tiZzhwOXVYZUQ3WEtoVzJPRndJQ3U0ZUZFV1dfb3M3UTBFeTA3ZS1CZGgzVm84MERWU1FaRHEzb1BvbE5wVFFnY0lFTUZkRE1tZXZNc28zZ0NuNXY4aVNN?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.sammobile.com",
-      "title": "SamMobile"
+      "href": "https://arstechnica.com",
+      "title": "Ars Technica"
+    }
+  },
+  {
+    "title": "Android adds ‘Failed Authentication Lock’ setting, boosts failed passcode lockout - 9to5Google",
+    "description": "Android adds ‘Failed Authentication Lock’ setting, boosts failed passcode lockout  9to5GoogleNew Android Theft Protection Feature Updates: Smarter, Stronger  blog.googleAndroid phones are getting more anti-theft features  TechCrunchYour Android phone just got a powerful anti-theft upgrade. Here's what's new  ZDNETGoogle extends Identity Check to your banking apps and password managers  Android Police",
+    "published date": "Tue, 27 Jan 2026 17:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uNndyOEhxTWc5dGViR0FsRUJRdng2ZktqaTJadzN1WkdubXB3SFlIT2J5YWFsVDFUaWFwYXRyRjloUVlTOVpOdlZCa25Na0NNRDNWYlBqalloR2xrOTFsTERicW5pc1pRMXYxTWc2SDZXNDI1UDhoQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://9to5google.com",
+      "title": "9to5Google"
+    }
+  },
+  {
+    "title": "Apple Watch user gave ChatGPT Health his data, with troubling results - 9to5Mac",
+    "description": "Apple Watch user gave ChatGPT Health his data, with troubling results  9to5MacColumn | I let ChatGPT analyze a decade of my Apple Watch data. Then I called my doctor.  The Washington Post‘AI told me.’ A sickness spreading faster than the flu | Column  tampabay.comChatGPT's Apple Health Integration Flaws Exposed in New Report  MacRumorsNew report reveals why giving your Apple Watch data to AI doctors might be a bad idea  PhoneArena",
+    "published date": "Mon, 26 Jan 2026 20:26:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVXFhRWJuR1R4aWZINDNveEJXU3pvdUM5QlJMN2RZMmhKQVlKYzhZdUpLSkp1Rmo2dEZQX1dwQkRZMWVTcS1CUmNyeFljcFRJNGNQbW1LWi14RkxOUDVIV3FrNnd5OU1ET29CaGN6cWVVRG1zVjVVSXNtT0dlclVJX19YdjEzODFaZ29YNXBSVEstbG0zNjNXdmIyOHdVUWxTVEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://9to5mac.com",
+      "title": "9to5Mac"
+    }
+  },
+  {
+    "title": "These alleged changes to the base Galaxy S26 might be what we want - Android Central",
+    "description": "These alleged changes to the base Galaxy S26 might be what we want  Android CentralSamsung Galaxy S26: The 7 rumored features that could make me switch  MashableSamsung drops Galaxy S26 Ultra bombshell  thestreet.comSamsung Galaxy Unpacked 2026: Everything we think the company will unveil  EngadgetSamsung leaks Galaxy S26 Ultra 'Privacy Display' while showing off new Good Lock features  9to5Google",
+    "published date": "Mon, 26 Jan 2026 18:56:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUlhHLUZSLXNlOVFvZ2VpR2JkaHBPeVdVZWI5ajlEaVRGdGdGTHlCbnR4TU5Vel96NmhHZFlpaGdBUU9NVVVZcnVZM3BPWk5BOW13T05pXzJBVkw4aGNiTFZvWkdhXzJfT0tkekhZZ3JlUThMbm9fbW5zdnZDUmNwTDFxYUlQejc1bHkxaW9kRlBqWVgwVFlIdVprSGp5UzBVQ2RmY3ZKWlN0MVlCRnRHVVhMN0NhdVllVV9qWEpoVU5TVGxRV1BSVUp0Tmo?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.androidcentral.com",
+      "title": "Android Central"
+    }
+  },
+  {
+    "title": "Google’s New User Intent Extraction Method - Search Engine Journal",
+    "description": "Google’s New User Intent Extraction Method  Search Engine JournalSmall models, big results: Achieving superior intent extraction through decomposition  Google ResearchGoogle research points to a post-query future for search intent  Search Engine LandGoogle’s AI Counter-Offensive: How Tiny Models Are Quietly Remaking Search  WebProNewsGoogle’s New AI Predicts Your Intent Without Ever Leaving Your Phone  Android Headlines",
+    "published date": "Mon, 26 Jan 2026 10:51:40 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTmxwNnlrUmE4WVFLakRsYmNBcUV1OVV3WHNaYzVRaFhIdUZEdF9oc0hTRE96UHM3ZWRQMTNHUXdXVlZjZVFNb3pqeFZiT01qU2pldWg1Nkhudl9zUmdQUGNoOGN2RFBNcVMteWJ0elFlTVF4TGRNREZlVExDeDJEREFQcGsyVnQ1V0ptLWNn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.searchenginejournal.com",
+      "title": "Search Engine Journal"
     }
   },
   {
     "title": "Google's January Pixel update breaks Wi-Fi and Bluetooth - Android Police",
-    "description": "Google's January Pixel update breaks Wi-Fi and Bluetooth  Android PoliceGoogle’s Android Update—Bad News For Millions Of Pixel Users  ForbesDo Not Update Your Pixel Phone: Users Are Reporting Major Problems  SlashGearBluetooth and Wi-Fi suddenly dead? Pixel update may be crippling some phones  Android AuthorityI'm frustrated by this point: Pixel 10 users report major Wi-Fi and Bluetooth issues  Android Central",
+    "description": "Google's January Pixel update breaks Wi-Fi and Bluetooth  Android PoliceLatest Google Pixel update causing Wi-Fi and Bluetooth issues for some  9to5GoogleGoogle’s Android Update—Bad News For Millions Of Pixel Users  ForbesDo Not Update Your Pixel Phone: Users Are Reporting Major Problems  SlashGearI've seen Pixel 10 users reporting issues again for Wi-Fi, Bluetooth  Android Central",
     "published date": "Tue, 27 Jan 2026 05:01:33 GMT",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVVprSVc5cUhyZ1BwUUJ6bW9oT2gwU3ZlVkhTeGRVanpHT05TTmV2UEl0ZVZDTE5TQmxXb0pkTUl4bDVudk9qZHlqNmQtbGxrRHAwdkY0QTYtQXNDdDdYZThESVdkWm82UXZNTE02ZEh6RW9jVmVEUGFicjNNam52cjllQW9Ld0ZGcVE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.androidpolice.com",
       "title": "Android Police"
-    }
-  },
-  {
-    "title": "iOS 26.3 Adds Privacy Setting to Limit Carrier Location Tracking - MacRumors",
-    "description": "iOS 26.3 Adds Privacy Setting to Limit Carrier Location Tracking  MacRumorsApple Seeds Third Betas of iOS 26.3 and iPadOS 26.3 to Developers  MacRumorsiOS 26.3 will add three new ways to customize your iPhone  9to5MacApple C-series modem enables new privacy-focused limit precise location feature  AppleInsideriOS 26.3 Release Date: Apple’s Critical iPhone Update May Be Later Than Expected  Forbes",
-    "published date": "Mon, 26 Jan 2026 22:38:40 GMT",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YMFFHNnZPU0RhdG1kXy1wUUZMLXhUcTZTSjVvcmh2emRVeWN4MEF4M3VjN2drZGlDUTFSLVlTY2Q5OGRkdnhrdUo0c29zRE5mX1NlanNGZW9tRDVGbW5KZzZ0cy0wOGNnbnBma2M1WE0yeklLcUw1TQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.macrumors.com",
-      "title": "MacRumors"
     }
   },
   {
@@ -80,58 +110,8 @@
     }
   },
   {
-    "title": "Google could bring a taste of Apple’s Liquid Glass to Android 17 - Android Authority",
-    "description": "Google could bring a taste of Apple’s Liquid Glass to Android 17  Android AuthorityGoogle adding blur to Android 17’s system UI on Pixel  9to5GoogleAndroid 17 Might Copy the Worst Thing About iOS 26  GizmodoOne UI 9 could bring glassy visual effects to Galaxy phones and tablets  SamMobileAndroid 17 might make you think that you need stronger glasses  PhoneArena",
-    "published date": "Mon, 26 Jan 2026 10:39:23 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcEZ5em9MMTRKVGZiTHY5UlNUNXJxMTU0bDdYLXA2cm45NEJjRWowdlFOcDEwbTg0N3pUMkpudjRZNE52M3RycHg1V2M5RXJKZU9yWU1UaDU1WU1zaWN6WDJQeHFxQkJOY0xKZTBsRHVIUERQOExYd1JiMm5xZTNDdkd2UzRvaEgxWDVj?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.androidauthority.com",
-      "title": "Android Authority"
-    }
-  },
-  {
-    "title": "Latest Intel chips beat Apple’s M5 in multi-core scores – for maybe two days - 9to5Mac",
-    "description": "Latest Intel chips beat Apple’s M5 in multi-core scores – for maybe two days  9to5MacMSI's Panther Lake Laptop Delivers on Intel's Promise of Power Plus Efficiency  CNETIntel’s latest chip proves again that Apple made the right decision  MacworldIntel Panther Lake Is the Answer to Apple Silicon We’ve All Been Waiting for  WIREDWhat Intel Just Accomplished with Panther Lake Seemed Impossible 2 Years Ago  Yahoo Finance",
-    "published date": "Mon, 26 Jan 2026 14:19:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdWJOOHVkWlJoZUdUYWowV0Z0RjJwNTdfTWMxQ01Ebi1tY2NhYlE3R1EwcXViUTRwXzlKX2M4UkpJejlLRW9MNS1VcG11QWdiYWZaR3o0aTJXdFlFbVBPQVR4SFhncVF6VzVwQkpYYW1mcHFvcUpnemZBWXZsZDdmR01oZ2FyYkNRa2NELU0yWG9rUW9KTHZ5TlBnVlUtaFlxWE9wemNXMF8?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://9to5mac.com",
-      "title": "9to5Mac"
-    }
-  },
-  {
-    "title": "149M logins exposed in unsecured database, inc 900k Apple accounts - 9to5Mac",
-    "description": "149M logins exposed in unsecured database, inc 900k Apple accounts  9to5MacView Full Coverage on Google News",
-    "published date": "Mon, 26 Jan 2026 13:31:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWW1PekZWd3lwbXIxTjRhMzBKNTBzdVIzdkhoVUdKVjhWcUxYQzVRVkJJcnNrM2Y1UlVXRUhVMHR0bkZpeVFERDZmUnBqOGpkOVNnTmEtWWlxZm9xNS04QWF1Um5KM3ZLejRIanRPeWZESTZ0RE1Jd3BlSjJTYXlQT3RPWllvdUpkNzdOdEFQeGU5eElrU3JtdzRVOTdwZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://9to5mac.com",
-      "title": "9to5Mac"
-    }
-  },
-  {
-    "title": "Contrasting Apple standing up to FBI with Microsoft BitLocker keys isn’t fair - 9to5Mac",
-    "description": "Contrasting Apple standing up to FBI with Microsoft BitLocker keys isn’t fair  9to5MacMicrosoft Gave FBI Keys To Unlock Encrypted Data, Exposing Major Privacy Flaw  ForbesHow to encrypt your PC’s disk without giving the keys to Microsoft  Ars TechnicaMicrosoft handed the government encryption keys for customer data  The VergeMicrosoft Provided Private BitLocker Recovery Keys to the FBI  TechPowerUp",
-    "published date": "Mon, 26 Jan 2026 12:33:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ3dyV0owZzVRRk1GQkVidVpZUktHdmQ0SWJULUpRTl9KWmJXVldMOGliNzFFcHptQnJJdmNraG50UXZaTnEyd1RsWGlGR3BFclF3MzRkQXVQc2hSM09URGl2aXRYZmhtVFNlUVQwTHg1dlVMQjhKa1RYdm1VTXh5cU5mSTZEamhzSWF6bTU2bDZXSHl1X090YUI5clVwZ21kdDVHQzFXWmxSTWRS?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://9to5mac.com",
-      "title": "9to5Mac"
-    }
-  },
-  {
-    "title": "Inside Google's vision to make Gmail your personal AI agent command center - ZDNET",
-    "description": "Inside Google's vision to make Gmail your personal AI agent command center  ZDNETPersonal Intelligence in AI Mode in Search: Help that's uniquely yours  blog.googleAnalysis | Google wants your emails and photos to ‘personalize’ its AI. Should you let it?  The Washington PostAI has arrived in Gmail. Here’s how to make it work for you  The Seattle TimesGoogle brings AI Mode and Gemini 3 to AI Overviews  Mashable",
-    "published date": "Tue, 27 Jan 2026 14:31:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yNmwxTTRmc0hBaEc2QndENkZUUTBqZ1hia0RIak1rcVlyeW1jSExCeldLUG9vM3RPa05sbTZTWTJfTUpMV2RTSUxiOEphTGpYc1Bka21yeE5UdTluS3hCUUJxR1huZVpZWEFnVHQtSHJyS0tGRXVUbThjeE4?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.zdnet.com",
-      "title": "ZDNET"
-    }
-  },
-  {
     "title": "January Update 1.13.0 - ARC Raiders",
-    "description": "January Update 1.13.0  ARC RaidersARC Raiders Headwinds Patch Notes and Update Roadmap  IGNArc Raiders Roadmap for 2026 Revealed – All Update Release Dates, Maps & New Enemies  VICEArc Raiders adding matchmaking option literally nobody asked for  PolygonNew Epic Augments In ARC Raiders Headwinds Update—What Are They & How To Get Them  Insider Gaming",
+    "description": "January Update 1.13.0  ARC RaidersARC Raiders Headwinds Patch Notes and Update Roadmap  IGNArc Raiders Roadmap for 2026 Revealed – All Update Release Dates, Maps & New Enemies  VICEArc Raiders' new augment makes dying slightly better  PolygonAre you a little too good at Arc Raiders? The new solo vs squad mode might be for you  Eurogamer",
     "published date": "Tue, 27 Jan 2026 10:08:26 GMT",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pX0t6b1dNV1FtRmRmNU5CZ2hUQU5haVVxbVVGWWQ0alYyRHZRNFNfRUxUbnljR0IzTEhmV2ROYjRMaFItbVhEVUhLdE5QRy02OEZmVFhaR2JhZw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -150,93 +130,13 @@
     }
   },
   {
-    "title": "Valve to face UK class action lawsuit with proposed damages of £656m - GamesIndustry.biz",
-    "description": "Valve to face UK class action lawsuit with proposed damages of £656m  GamesIndustry.bizLegal action over 'unfair' Steam game store prices given go ahead  BBCVideo game giant Valve facing UK lawsuit over pricing, commissions  ReutersSteam Owner Valve Faces $900 Million Lawsuit Over PC Monopoly Claims, Following UK Tribunal Ruling  IGNUK activist hits Valve with a $903 million lawsuit — claims Steam is abusing its market dominance and forcing UK consumers to pay too much for Steam games  Tom's Hardware",
-    "published date": "Tue, 27 Jan 2026 10:59:26 GMT",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOG5pQUhuM2xnZTJxbTlOOTlDQmZIeFphUXRTNldlYmVYS0tUUldVZ0pGdVdsNzdzT2pfblQzdmhQNXJyOG1BZERfWFdTb1RhQzdMX2pzNEZzT1NUaGZZUEtZdkUxWHFockdZMF9qMktmUWUwRXZKMGRfX3BBVWFvN1NxSW1VeUJSdnVfM0NFSkpfaDluLUY5QzRzazN4QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation - The Hacker News",
+    "description": "Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation  The Hacker NewsMicrosoft patches serious vulnerability in Office  ComputerworldEmergency Microsoft update fixes in-the-wild Office zero-day  Security AffairsHigh-risk Office security flaw: Microsoft issues emergency updates  PCWorldOffice zero-day exploited in the wild forces Microsoft OOB patch  theregister.com",
+    "published date": "Tue, 27 Jan 2026 07:20:21 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTWVoUFdJZFF5WmdCYTBERUZ1dGNLMHU3NmxvT1pEZ1hrb3pUY0dKQ3RiZm0yLWpYLW1EeWFFbFpLNHk1cHZBMkphQkU4OE9qY3dFU3dKUUwwQU5YckkwZDNrWnltSjRjeDVCZWdXejNOSnYzV3ROWWhsVWxyejZuTg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.gamesindustry.biz",
-      "title": "GamesIndustry.biz"
-    }
-  },
-  {
-    "title": "Models that improve on their own are AI's next big thing - Axios",
-    "description": "Models that improve on their own are AI's next big thing  Axios1 big thing: AI could soon improve on its own  CSET | Center for Security and Emerging TechnologyWhen AI Builds AI  CSET | Center for Security and Emerging Technology",
-    "published date": "Tue, 27 Jan 2026 09:41:07 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tR3VpaFppSWNhY1dVSjE5b3NfTHpUdTBDak5RaVRJRHpRTXZNUHVpcm9uemVramJZY0FiOFJlU1BFd25fR09rMFBhUUpSUEF5T1cxWWJ3eHpMZFVDQUZJ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.axios.com",
-      "title": "Axios"
-    }
-  },
-  {
-    "title": "Code Vein II Review - Bloodsucking The Fun Away - Game Informer",
-    "description": "Code Vein II Review - Bloodsucking The Fun Away  Game InformerCode Vein II Character Creator Demo is available today  Bandai Namco EuropeAll Companions In Code Vein 2  GameSpotI'm a bit of a Soulslike purist, and Code Vein 2 has me very pleasantly surprised  EurogamerCode Vein II is available now on PC and consoles  GamingTrend",
-    "published date": "Mon, 26 Jan 2026 23:13:47 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDQ0d4S09fQ0s5M2RpZll0XzliQjVjMnRjSk1QajNOSndxQjYwMTA1NW14dkh1eHJIMHBFeVE4bEU0THNTS25lY3paaVo1MWdYODNLSGIya0txcEN6VHRYWFRLOTJ6d2FYRHk1M1RWQWpLNXhsVzFZTlp3?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://gameinformer.com",
-      "title": "Game Informer"
-    }
-  },
-  {
-    "title": "Samsung Unveils Exclusive Galaxy Z Flip7 Olympic Edition, Supporting Athletes’ Entire Milano Cortina 2026 Journey - samsung.com",
-    "description": "Samsung Unveils Exclusive Galaxy Z Flip7 Olympic Edition, Supporting Athletes’ Entire Milano Cortina 2026 Journey  samsung.comSamsung brings the Victory Selfie to the Winter Olympics for the first time with new Milano Cortina 2026 campaign  Marketing Communication NewsSamsung to supply Galaxy Z Flip7 phones to athletes at Milano Cortina 2026  Tech Observer MagazineSamsung Electronics unveils Olympics edition of Galaxy Z Flip 7  en.yna.co.krSAMSUNG Celebrates the Shared Journey behind Every Win at Milano- Cortina Winter Olympics 2026  Roastbrief US",
-    "published date": "Tue, 27 Jan 2026 19:15:49 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNa2laVzJzOVBMUmZQTkdmZFF2Nkw1bThfeVJsUEVIdUV0QUhEUnJ1ZnNVT1RWUllNRnpPVW5pcTJJSEp1eXcxSURVejE2Q3lSU3F0dnp4bVpaVjFIZVhFMWxlTEZvRzNDUl9FdnpOcy0xZEZwQ0JrSmNjbi0welBlS1hDbGw5c1M3UFdvYlpsZ3g3RUxOZzcyelRYTlNvQzQtRWNHQ3F2VW8teUEwYTRPYXg3MFRGYUtlNGVvd3NFbjNQdnpHWWFnV3liNDRzZnljSmVjQjhfOWc2TTA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://news.samsung.com",
-      "title": "samsung.com"
-    }
-  },
-  {
-    "title": "Wildlight Entertainment says it wishes Highguard \"had been received better\" after Game Awards reveal - GamesIndustry.biz",
-    "description": "Wildlight Entertainment says it wishes Highguard \"had been received better\" after Game Awards reveal  GamesIndustry.bizHighguard Review So Far  IGNThe promise and peril of a new online shooter  The Verge‘Highguard’: Wildlight Founders on How Their Debut Game Is Not Like ‘Concord’ or ‘Overwatch’  VarietyHighguard Is Out Now – and We’ve Played a Lot of It  Xbox Wire",
-    "published date": "Tue, 27 Jan 2026 08:15:50 GMT",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV29sZHdzUlM3R0EtSlRkODZpRU9qYWE1TGZaUEh0WFlOU3FXTjVmNTNQX0FXNVowc2tmMnVacVRDZTV2WEZHMGx5bGUtcjNQRmNGODBOYkd0Qk0yNWNrMWNxTDdTaWhseEFoXy1qWVEzMGsyRmQ2U0NDRWxEQ0daLXRQMDlRNzB0V3Z6MVhrNmlDOVlnWmYwaXA0ZjgybllXaWpVMU8xbFNFbXl3Sl8xV1JWSDZFTS1xMGxVUVZCa2ZtcHNkV1A0?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.gamesindustry.biz",
-      "title": "GamesIndustry.biz"
-    }
-  },
-  {
-    "title": "Minecraft 26.1 Snapshot 5 - Minecraft",
-    "description": "Minecraft 26.1 Snapshot 5  MinecraftMinecraft unveils yet more adorable baby mobs and a new item that'll keep them smol forever  PCGamesNMinecraft's next update keeps expanding with 16 tiny animals confirmed  TrueAchievementsMinecraft’s new baby mob designs are adorable, but some still feel off  MSNMinecraft 26.1 Snapshot 4 Adds Baby Horse Mobs  Beebom",
-    "published date": "Tue, 27 Jan 2026 16:08:30 GMT",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5sWGk5dnBXaE91V3dSTk1hVFE0WDhmQkl6SnNmM2haUWM4cUdOOXBSMDZHQjFaU2ZKSnAtTXNqXzFfSmU5V1l4UG1GcmU0M1RmaS0wQUMxSHBWMkFDZko5SWgwNkhyVFhzc1hYQlQzdW1NQmM?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.minecraft.net",
-      "title": "Minecraft"
-    }
-  },
-  {
-    "title": "‘Resident Evil Requiem’ Devs Talk “Vital” Return to Raccoon City, Tease “Umbrella Curse”, Claire And Ada & Pairing Leon Kennedy With A New Leading Lady - Deadline",
-    "description": "‘Resident Evil Requiem’ Devs Talk “Vital” Return to Raccoon City, Tease “Umbrella Curse”, Claire And Ada & Pairing Leon Kennedy With A New Leading Lady  DeadlineResident Evil Requiem Is Two Games in One (and a Lot of Fun)  Xbox WireResident Evil Requiem Director Sets The Record Straight: 'This Isn't An Open World Game'  Game InformerResident Evil: Requiem's director on why RE9 won't suffer the same multi-protagonist woes as RE6 - and why it's more like sushi  Eurogamer'Resident Evil: Requiem' might actually get to have its cake and eat it too  Mashable",
-    "published date": "Mon, 26 Jan 2026 15:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GQXVaU0JhSm5GT0IxMUlxTHhndUxzN2U1N2N4ZE1tMzdyWEhTVDFUd194WDl6aEpaRkF1eldyUkNkbUZWRnFCNXo2bnM2c2xZZ2ZwZlhOOWxKUEszeVFuaFVwR1plY3RDUXRFMU41dHBBbXU5?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://deadline.com",
-      "title": "Deadline"
-    }
-  },
-  {
-    "title": "Foldable iPhone seemingly inspires another manufacturer after Samsung’s Galaxy Z “Wide Fold” - PhoneArena",
-    "description": "Foldable iPhone seemingly inspires another manufacturer after Samsung’s Galaxy Z “Wide Fold”  PhoneArenaSamsung's rumored 'Wide Fold' production plan suggests this 'special' foldable means business  PhoneArenaiPhone Fold Rumored Display Size Has Samsung Preparing a Direct Rival  MacRumorsSamsung's Galaxy Wide Fold Is Coming for Apple Before Apple Even Shows Up  Android HeadlinesSamsung is betting bigger on iPhone-like ‘Wide Fold’ than it is on Galaxy Z TriFold  9to5Google",
-    "published date": "Mon, 26 Jan 2026 14:48:47 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeWpWcFFkNEFrSXFaemF2T1doaFNUSGt6UVZocVJ1Y3hmTjlCZzJpd2xHUzBsSTdrcjNNdERSS21Rak5hVGlKUmhWYUs0Q3Y2MWhwVG1mUHVWSlNTZUc4Y1M5U1Z0bVhadHVpMXlON3dJMzZLTmswZjduUEJTZUpWeWJ0NmdFVGxFSFZrdHZTXzg3Q0NxVm1MSDc2VVA0b0l0ekRtc1dvdHg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.phonearena.com",
-      "title": "PhoneArena"
-    }
-  },
-  {
-    "title": "Then and Now, Part 1 - Magic: The Gathering",
-    "description": "Then and Now, Part 1  Magic: The GatheringMTG Arena Announcements – January 26, 2026  Magic: The GatheringMetagame Mentor: The Top Standard Decks to Expect at Pro Tour Lorwyn Eclipsed  MAGIC PLAYThe 10 Priciest Cards From Magic’s New Lorwyn Eclipsed Set That I'm Already Chasing  IGNThe Early Winners from Lorwyn Eclipsed in Historic & Timeless: Top 5 Decks  MTG Arena Zone",
-    "published date": "Mon, 26 Jan 2026 16:17:37 GMT",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jalA3NVJhaDVybEQyLUxPRHFnNE1GV21hVk9DdHZSY1J6Y0xrVlpzUzVmaWNaaDJocHJYU21zTTU0eDQ3R3hKN211WnRkRXVsNm9VM2t1ZUJZRkMwOEFBenBRckdyQnlObFI2X3hMaHlnOW5Q?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://magic.wizards.com",
-      "title": "Magic: The Gathering"
+      "href": "https://thehackernews.com",
+      "title": "The Hacker News"
     }
   },
   {
@@ -250,13 +150,113 @@
     }
   },
   {
+    "title": "Code Vein II Review - Bloodsucking The Fun Away - Game Informer",
+    "description": "Code Vein II Review - Bloodsucking The Fun Away  Game InformerCode Vein 2 Review  IGNCode Vein II Character Creator Demo is available today  Bandai Namco EuropePowerful Partners Await in Code Vein II – Here’s How These New Allies Can Shape Your Adventure  Xbox WireAll Companions In Code Vein 2  GameSpot",
+    "published date": "Mon, 26 Jan 2026 23:13:47 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDQ0d4S09fQ0s5M2RpZll0XzliQjVjMnRjSk1QajNOSndxQjYwMTA1NW14dkh1eHJIMHBFeVE4bEU0THNTS25lY3paaVo1MWdYODNLSGIya0txcEN6VHRYWFRLOTJ6d2FYRHk1M1RWQWpLNXhsVzFZTlp3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://gameinformer.com",
+      "title": "Game Informer"
+    }
+  },
+  {
+    "title": "Foldable iPhone seemingly inspires another manufacturer after Samsung’s Galaxy Z “Wide Fold” - PhoneArena",
+    "description": "Foldable iPhone seemingly inspires another manufacturer after Samsung’s Galaxy Z “Wide Fold”  PhoneArenaSamsung Galaxy Z Fold 8 ‘Wide’: Release Date Confirmed, New Design  ForbesSamsung is betting bigger on iPhone-like ‘Wide Fold’ than it is on Galaxy Z TriFold  9to5GoogleSamsung's Galaxy Wide Fold Is Coming for Apple Before Apple Even Shows Up  Android HeadlinesJuicy details of Samsung's iPhone Fold challenger including specs and launch timeline have leaked, details here  India Today",
+    "published date": "Mon, 26 Jan 2026 14:48:47 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeWpWcFFkNEFrSXFaemF2T1doaFNUSGt6UVZocVJ1Y3hmTjlCZzJpd2xHUzBsSTdrcjNNdERSS21Rak5hVGlKUmhWYUs0Q3Y2MWhwVG1mUHVWSlNTZUc4Y1M5U1Z0bVhadHVpMXlON3dJMzZLTmswZjduUEJTZUpWeWJ0NmdFVGxFSFZrdHZTXzg3Q0NxVm1MSDc2VVA0b0l0ekRtc1dvdHg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.phonearena.com",
+      "title": "PhoneArena"
+    }
+  },
+  {
+    "title": "149M logins exposed in unsecured database, inc 900k Apple accounts - 9to5Mac",
+    "description": "149M logins exposed in unsecured database, inc 900k Apple accounts  9to5Mac149M Logins and Passwords Exposed Online Including Financial Accounts, Instagram, Facebook, Roblox, Dating Sites, and More.  ExpressVPN149 Million Usernames and Passwords Exposed by Unsecured Database  WIREDGmail password warning issued after 48 million logins stolen  The IndependentData Leak Exposes 149M Logins, Including Gmail, Facebook  TechRepublic",
+    "published date": "Mon, 26 Jan 2026 13:31:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWW1PekZWd3lwbXIxTjRhMzBKNTBzdVIzdkhoVUdKVjhWcUxYQzVRVkJJcnNrM2Y1UlVXRUhVMHR0bkZpeVFERDZmUnBqOGpkOVNnTmEtWWlxZm9xNS04QWF1Um5KM3ZLejRIanRPeWZESTZ0RE1Jd3BlSjJTYXlQT3RPWllvdUpkNzdOdEFQeGU5eElrU3JtdzRVOTdwZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://9to5mac.com",
+      "title": "9to5Mac"
+    }
+  },
+  {
+    "title": "Valve to face UK class action lawsuit with proposed damages of £656m - GamesIndustry.biz",
+    "description": "Valve to face UK class action lawsuit with proposed damages of £656m  GamesIndustry.bizLegal action over 'unfair' Steam game store prices given go ahead  BBCVideo game giant Valve facing UK lawsuit over pricing, commissions  ReutersSteam Owner Valve Faces $900 Million Lawsuit Over PC Monopoly Claims, Following UK Tribunal Ruling  IGNUK activist hits Valve with a $903 million lawsuit — claims Steam is abusing its market dominance and forcing UK consumers to pay too much for Steam games  Tom's Hardware",
+    "published date": "Tue, 27 Jan 2026 10:59:26 GMT",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOG5pQUhuM2xnZTJxbTlOOTlDQmZIeFphUXRTNldlYmVYS0tUUldVZ0pGdVdsNzdzT2pfblQzdmhQNXJyOG1BZERfWFdTb1RhQzdMX2pzNEZzT1NUaGZZUEtZdkUxWHFockdZMF9qMktmUWUwRXZKMGRfX3BBVWFvN1NxSW1VeUJSdnVfM0NFSkpfaDluLUY5QzRzazN4QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.gamesindustry.biz",
+      "title": "GamesIndustry.biz"
+    }
+  },
+  {
+    "title": "iPhone 5s Gets New Software Update 13 Years After Launch - MacRumors",
+    "description": "iPhone 5s Gets New Software Update 13 Years After Launch  MacRumorsApple patches ancient iOS versions to keep iMessage, FaceTime, other services working  Ars TechnicaApple once again puts Android to shame – it just updated the 12-year-old iPhone 5S to set a new record  TechRadarApple updates iOS 12 to extend iMessage and FaceTime support on older devices  9to5MacApple Just Released Urgent Updates For 2 Billion iPhones  Forbes",
+    "published date": "Mon, 26 Jan 2026 23:56:19 GMT",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDcEtpNVRVTjE5eHd5VGZ0Ny12bjdTY2gwb3lRMkJpS09aYzBRTy1oZDRycjF2LVdnbWFYZ2ZsRTk2RU1rRGtrSVRMbXVDVERJTG43NE9uUzNDYm1YZHExUE9JR0EtdnJJWVVSTi0wQmk?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.macrumors.com",
+      "title": "MacRumors"
+    }
+  },
+  {
+    "title": "Wildlight Entertainment says it wishes Highguard \"had been received better\" after Game Awards reveal - GamesIndustry.biz",
+    "description": "Wildlight Entertainment says it wishes Highguard \"had been received better\" after Game Awards reveal  GamesIndustry.bizHighguard Review So Far  IGNThe promise and peril of a new online shooter  The Verge‘Highguard’: Wildlight Founders on How Their Debut Game Is Not Like ‘Concord’ or ‘Overwatch’  VarietyHighguard Is Out Now – and We’ve Played a Lot of It  Xbox Wire",
+    "published date": "Tue, 27 Jan 2026 08:15:50 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV29sZHdzUlM3R0EtSlRkODZpRU9qYWE1TGZaUEh0WFlOU3FXTjVmNTNQX0FXNVowc2tmMnVacVRDZTV2WEZHMGx5bGUtcjNQRmNGODBOYkd0Qk0yNWNrMWNxTDdTaWhseEFoXy1qWVEzMGsyRmQ2U0NDRWxEQ0daLXRQMDlRNzB0V3Z6MVhrNmlDOVlnWmYwaXA0ZjgybllXaWpVMU8xbFNFbXl3Sl8xV1JWSDZFTS1xMGxVUVZCa2ZtcHNkV1A0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.gamesindustry.biz",
+      "title": "GamesIndustry.biz"
+    }
+  },
+  {
+    "title": "‘Resident Evil Requiem’ Devs Talk “Vital” Return to Raccoon City, Tease “Umbrella Curse”, Claire And Ada & Pairing Leon Kennedy With A New Leading Lady - Deadline",
+    "description": "‘Resident Evil Requiem’ Devs Talk “Vital” Return to Raccoon City, Tease “Umbrella Curse”, Claire And Ada & Pairing Leon Kennedy With A New Leading Lady  DeadlineResident Evil Requiem Is Two Games in One (and a Lot of Fun)  Xbox WireAfter one final extensive hands-on, Resident Evil: Requiem's formula mash-up has me utterly convinced  EurogamerResident Evil Requiem Director Sets The Record Straight: 'This Isn't An Open World Game'  Game Informer'Resident Evil: Requiem' might actually get to have its cake and eat it too  Mashable",
+    "published date": "Mon, 26 Jan 2026 15:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GQXVaU0JhSm5GT0IxMUlxTHhndUxzN2U1N2N4ZE1tMzdyWEhTVDFUd194WDl6aEpaRkF1eldyUkNkbUZWRnFCNXo2bnM2c2xZZ2ZwZlhOOWxKUEszeVFuaFVwR1plY3RDUXRFMU41dHBBbXU5?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://deadline.com",
+      "title": "Deadline"
+    }
+  },
+  {
+    "title": "Then and Now, Part 1 - Magic: The Gathering",
+    "description": "Then and Now, Part 1  Magic: The GatheringMTG Arena Announcements – January 26, 2026  Magic: The GatheringMetagame Mentor: The Top Standard Decks to Expect at Pro Tour Lorwyn Eclipsed  MAGIC PLAYThe 10 Priciest Cards From Magic’s New Lorwyn Eclipsed Set That I'm Already Chasing  IGNThe Early Winners from Lorwyn Eclipsed in Historic & Timeless: Top 5 Decks  MTG Arena Zone",
+    "published date": "Mon, 26 Jan 2026 16:17:37 GMT",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jalA3NVJhaDVybEQyLUxPRHFnNE1GV21hVk9DdHZSY1J6Y0xrVlpzUzVmaWNaaDJocHJYU21zTTU0eDQ3R3hKN211WnRkRXVsNm9VM2t1ZUJZRkMwOEFBenBRckdyQnlObFI2X3hMaHlnOW5Q?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://magic.wizards.com",
+      "title": "Magic: The Gathering"
+    }
+  },
+  {
+    "title": "Is Particle Physics Dead, Dying, or Just Hard? - Quanta Magazine",
+    "description": "Is Particle Physics Dead, Dying, or Just Hard?  Quanta Magazine",
+    "published date": "Mon, 26 Jan 2026 15:40:15 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVEdQZEJYVi1Cb3Y0MUZkSC1fS3dIcnItTS1qcFlQbHEzTEI4WEd0WUxDOEhVN3NJRXdCeWJBRTh5cHVhN2VQOUVoSXBzVEZ4QlRFaDNqaVNuT2JnS1o2SUdJbUJ0NlVlSzdwR1JRbWFpeHMybjhvVFBKYm5iZTU0cHNaS2lfSThEM3BBMw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.quantamagazine.org",
+      "title": "Quanta Magazine"
+    }
+  },
+  {
     "title": "Xbox Cloud Gaming’s new design teases the future of Xbox console UI - The Verge",
-    "description": "Xbox Cloud Gaming’s new design teases the future of Xbox console UI  The VergeTry the New Xbox Cloud Gaming Web Experience — Now in Public Preview  Xbox WireMicrosoft Unveils New Dashboard For Xbox Cloud Gaming On The Web  Pure XboxXbox rolls out Cloud Gaming revamp with one vital new feature  TrueAchievementsHere's how to get Xbox Cloud Gaming’s new web UI right now  Windows Central",
+    "description": "Xbox Cloud Gaming’s new design teases the future of Xbox console UI  The VergeTry the New Xbox Cloud Gaming Web Experience — Now in Public Preview  Xbox WireMicrosoft is Refreshing the Xbox Cloud Gaming Web Experience  Thurrott.comHands on: The new Xbox Cloud Gaming dashboard is FRESH  Windows CentralMicrosoft Unveils New Dashboard For Xbox Cloud Gaming On The Web  Pure Xbox",
     "published date": "Tue, 27 Jan 2026 11:05:29 GMT",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZUg0TmZ1VDBiOFNtRHRqYnhPcUd3N3dIV282dERSMXdsMkNpWS1aQ2Fza2dRb0txWkVRcGpCcW5JZy1zQmVnb2NJbmEyTWJ1VFFud0ZLdDhyY254STdVNDBWS0VGdWt2OGt1cjFJYTJSVWNIRlE1clBuS2xRVFozeWZZWDF1WFRKTk5MZ0x0UmRBQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.theverge.com",
       "title": "The Verge"
+    }
+  },
+  {
+    "title": "Samsung Unveils Exclusive Galaxy Z Flip7 Olympic Edition, Supporting Athletes’ Entire Milano Cortina 2026 Journey - samsung.com",
+    "description": "Samsung Unveils Exclusive Galaxy Z Flip7 Olympic Edition, Supporting Athletes’ Entire Milano Cortina 2026 Journey  samsung.comSamsung Electronics unveils Olympics edition of Galaxy Z Flip 7  en.yna.co.krSamsung to supply Galaxy Z Flip7 phones to athletes at Milano Cortina 2026  Tech Observer MagazineSamsung x Milano Cortina 2026 - ‘Open always wins’  adland.tvSamsung just launched a new Galaxy Z Flip 7 model you can't (officially) buy  Android Authority",
+    "published date": "Tue, 27 Jan 2026 19:15:49 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNa2laVzJzOVBMUmZQTkdmZFF2Nkw1bThfeVJsUEVIdUV0QUhEUnJ1ZnNVT1RWUllNRnpPVW5pcTJJSEp1eXcxSURVejE2Q3lSU3F0dnp4bVpaVjFIZVhFMWxlTEZvRzNDUl9FdnpOcy0xZEZwQ0JrSmNjbi0welBlS1hDbGw5c1M3UFdvYlpsZ3g3RUxOZzcyelRYTlNvQzQtRWNHQ3F2VW8teUEwYTRPYXg3MFRGYUtlNGVvd3NFbjNQdnpHWWFnV3liNDRzZnljSmVjQjhfOWc2TTA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://news.samsung.com",
+      "title": "samsung.com"
     }
   },
   {
@@ -270,13 +270,13 @@
     }
   },
   {
-    "title": "Google AI Plus comes to US for $7.99, Google One 2 TB upgraded - 9to5Google",
-    "description": "Google AI Plus comes to US for $7.99, Google One 2 TB upgraded  9to5GoogleGoogle AI Plus is now available everywhere our AI plans are available, including the U.S.  blog.googleGoogle’s more affordable AI Plus plan rolls out to all markets, including the U.S.  TechCrunchGoogle AI Plus Review: Why the New $7.99 Plan Is Not a Bargain  ForbesGoogle AI Plus is now available in the US for $8 a month  Engadget",
-    "published date": "Tue, 27 Jan 2026 18:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HUFhmZGUyb0kycWN3QWtlZ1p5dUhGM2NjUWVEMWU2MlREcWg3OEQtTTBYeDlfWGNsR2JCLTFyampFQTZMZUJDNlpqQndrbjBSOVdTQkp6N1VUOE55a21NOUxB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Dr Disrespect Says His Fake Highguard Preview Badge Photo Was Just 'Poking Fun' After Dev Confirms He Was Not Invited to Play Early - IGN",
+    "description": "Dr Disrespect Says His Fake Highguard Preview Badge Photo Was Just 'Poking Fun' After Dev Confirms He Was Not Invited to Play Early  IGNGeoff Keighley Says He Has No Financial Stake In Highguard: \"Absolutely Not\"  GameSpotStreamer Dr Disrespect sparks social media controversy over fake Highguard badge  Times of IndiaInternet confused as Highguard studio says Dr Disrespect lied about attending a press preview and his photo of an access badge was fake: 'DDR was not invited to any Highguard event past or present'  PC GamerDrDisrespect boasts about seeing a new shooter on Steam before anyone else, but the developers don't want to know him  Mein-MMO",
+    "published date": "Tue, 27 Jan 2026 12:25:59 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZkdNdFg3cnVfVjA4aEdQODM2M2dMVEdNVF9lLUhQR0FCbDZMSTFRNTlpVHZRX09tWXB3U1M2bm5qTWhYWm8teDg2VDd0ZzRlaWk5eUdDVGM0eVNvYUxOYTFzMS04WW5JOHpTaDVaYk01UjMxSWRuS25HTmwzR0ZsLXFyV3Y2VlVNUlZ3X1Z6Q0ZpQk00b3AtRFpOcnBzQUJ1WTlqS3lNSXlmV3IyUGh4QmxWWGs2b1RXLUthTnFGVldpekttY09FZGNYZzA1M0xQWE5uOE01QnVqMWJ2TW1NRFBSaDBhUE4wai1sWVNpQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://9to5google.com",
-      "title": "9to5Google"
+      "href": "https://www.ign.com",
+      "title": "IGN"
     }
   },
   {
@@ -290,26 +290,6 @@
     }
   },
   {
-    "title": "Dr Disrespect Says His Fake Highguard Preview Badge Photo Was Just 'Poking Fun' After Dev Confirms He Was Not Invited to Play Early - IGN",
-    "description": "Dr Disrespect Says His Fake Highguard Preview Badge Photo Was Just 'Poking Fun' After Dev Confirms He Was Not Invited to Play Early  IGNGeoff Keighley Says He Has No Financial Stake In Highguard: \"Absolutely Not\"  GameSpotHighguard’s Developers Unusual Payment for Content-Creator Revealed  EGW.NewsNo, Dr Disrespect Was Not Invited To Play Highguard  Insider GamingDrDisrespect faked that he attended the Highguard launch event, another L for the streamer  The Escapist",
-    "published date": "Tue, 27 Jan 2026 12:25:59 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZkdNdFg3cnVfVjA4aEdQODM2M2dMVEdNVF9lLUhQR0FCbDZMSTFRNTlpVHZRX09tWXB3U1M2bm5qTWhYWm8teDg2VDd0ZzRlaWk5eUdDVGM0eVNvYUxOYTFzMS04WW5JOHpTaDVaYk01UjMxSWRuS25HTmwzR0ZsLXFyV3Y2VlVNUlZ3X1Z6Q0ZpQk00b3AtRFpOcnBzQUJ1WTlqS3lNSXlmV3IyUGh4QmxWWGs2b1RXLUthTnFGVldpekttY09FZGNYZzA1M0xQWE5uOE01QnVqMWJ2TW1NRFBSaDBhUE4wai1sWVNpQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ign.com",
-      "title": "IGN"
-    }
-  },
-  {
-    "title": "Switch Online Leak Might Rule Out A Highly Requested GameCube Remaster - GameSpot",
-    "description": "Switch Online Leak Might Rule Out A Highly Requested GameCube Remaster  GameSpotRumour: Switch Online GameCube Releases Might Have Been Leaked  Nintendo LifeWalmart could have leaked Nintendo Switch Online’s next GameCube games  Video Games ChronicleWalmart ad suggets Metroid Prime 2, Pikmin 2 are coming to Nintendo Switch Online on Switch 2  Nintendo EverythingWalmart Looks to Have Leaked Two Nintendo Switch Online GameCube Classics — and Some Fans Think It's Now Over for a Metroid Prime 2 Remake  IGN",
-    "published date": "Tue, 27 Jan 2026 15:47:05 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcVJSZnRQNWpHb1ZFd195Tk5sWWVxa2N0UHZBcEFYOGx2ODlkdlZheHRoQlk3MUxHWU5LQWhjQkJLU05FSkF1cDNXT1Nrb2lRcmVkNGM0NFdJaVhpVFZ1ZmdlOFZkX0tSeWZLaXlTUE5FU25qV1VrMnFyTl9YdUNBM3FONHE5LW1ack5lTi1ET3gxeE1UZ0dwZTJLZGs4ZDZ4dUpMel9vY0xiSmJaaDBSd3ZtSDgweVZjUWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.gamespot.com",
-      "title": "GameSpot"
-    }
-  },
-  {
     "title": "Canva among ~100 targets of ShinyHunters Okta identity-theft campaign - theregister.com",
     "description": "Canva among ~100 targets of ShinyHunters Okta identity-theft campaign  theregister.comA new wave of ‘vishing’ attacks is breaking into SSO accounts in real time  CyberScoopOkta users under attack: Modern phishing kits are turbocharging vishing attacks  Help Net SecurityShinyHunters claim hacks of Okta, Microsoft SSO accounts for data theft  BleepingComputerCybercrime group claims credit for voice phishing attacks  Cybersecurity Dive",
     "published date": "Mon, 26 Jan 2026 22:33:00 GMT",
@@ -320,33 +300,93 @@
     }
   },
   {
-    "title": "Anthropic embeds Slack, Figma and Asana inside Claude, turning AI chat into a workplace command center - VentureBeat",
-    "description": "Anthropic embeds Slack, Figma and Asana inside Claude, turning AI chat into a workplace command center  VentureBeatAnthropic extends MCP with a UI framework  The New StackAnthropic launches interactive Claude apps, including Slack and other workplace tools  TechCrunchMCP Apps, the Model Context Protocol's first official extension, turns AI responses into interactive interfaces  the-decoder.comClaude now offers deeper integrations with apps like Canva and Slack  Engadget",
+    "title": "Intel Panther Lake / Arc B390 Linux Benchmarks Still Coming - Phoronix",
+    "description": "Intel Panther Lake / Arc B390 Linux Benchmarks Still Coming  PhoronixMSI's Panther Lake Laptop Delivers on Intel's Promise of Power Plus Efficiency  CNETIntel Panther Lake Is the Answer to Apple Silicon We’ve All Been Waiting for  WIREDIntel Panther Lake laptop CPU review: call it a comeback  The VergeThe complete list of Intel Panther Lake laptops (Core Ultra X9 388H, Core Ultra 9 386H, Core Ultra 7 365)  Ultrabookreview.com",
+    "published date": "Mon, 26 Jan 2026 17:23:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12ZVpuNWtibEpfcG5PSUNuNktaUmxaUktxZXpNNEw5NUYzUy12cXV5M0Job0I5YTlwLWxYN01KWDBOcjBlX2pMTU5jYUlCSUIxZngyTWpvZUFwMDZhOXFPRlNlUnhEMmFwbDhJVVF3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.phoronix.com",
+      "title": "Phoronix"
+    }
+  },
+  {
+    "title": "Minecraft 26.1 Snapshot 5 - Minecraft",
+    "description": "Minecraft 26.1 Snapshot 5  MinecraftMinecraft unveils yet more adorable baby mobs and a new item that'll keep them smol forever  PCGamesNMinecraft's next update keeps expanding with 16 tiny animals confirmed  TrueAchievementsMinecraft’s new baby mob designs are adorable, but some still feel off  MSNMinecraft 26.1 Snapshot 4 Adds Baby Horse Mobs  Beebom",
+    "published date": "Tue, 27 Jan 2026 16:08:30 GMT",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5sWGk5dnBXaE91V3dSTk1hVFE0WDhmQkl6SnNmM2haUWM4cUdOOXBSMDZHQjFaU2ZKSnAtTXNqXzFfSmU5V1l4UG1GcmU0M1RmaS0wQUMxSHBWMkFDZko5SWgwNkhyVFhzc1hYQlQzdW1NQmM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.minecraft.net",
+      "title": "Minecraft"
+    }
+  },
+  {
+    "title": "Nearly 800,000 Telnet servers exposed to remote attacks - BleepingComputer",
+    "description": "Nearly 800,000 Telnet servers exposed to remote attacks  BleepingComputerCritical GNU InetUtils telnetd Flaw Lets Attackers Bypass Login and Gain Root Access  The Hacker NewsCritical Telnet Server Flaw Exposes Forgotten Attack Surface  Dark ReadingHackers exploit critical telnetd auth bypass flaw to get root  BleepingComputerAncient telnet bug happily hands out root to attackers  theregister.com",
+    "published date": "Mon, 26 Jan 2026 15:19:14 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcjFTbkZZdEhEb2J3d3V2aHFvbml0MWxCVkNHQlVQcWh4TmpRUjI1WkFsbzdzdjlfVVc4OHdsLUVXeGdaUHI3Wjltck1jX3llc0x0NHgwX2I3Zzd6cXNjWlRmSkgwdzZuSXdsdFptM3BOWFpwVHQxTUlfWC00cUlGRGpjMkRxNlhZb1RPdTRycGhXbnpiV244ZXlaa2ZJMTBNcms4cFV30gGrAUFVX3lxTFB4bHZnTlJ0N2JrVTRWSmZlUmJhSGUydzBDVXIxMWZYR0Q3VHgwNF9FQm9nWmtZeWc5YVlWN3EzSkNaeXgwbmYyX1BJODRFSGVqMnJVeXkzLTVyT1RlbVlSSTV2WnNoUkVYd25tSTZVYlhNSXBMb2JOX1dROGpaN1J4Y1g1NDVYYWxxU2dtSFRaQ3hvLUdHZXpOcW5MLXVja3RxdE85QWVqSVdKMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bleepingcomputer.com",
+      "title": "BleepingComputer"
+    }
+  },
+  {
+    "title": "Models that improve on their own are AI's next big thing - Axios",
+    "description": "Models that improve on their own are AI's next big thing  AxiosThe ‘World Model’, AI’s Attempt To Build A Complete Simulation Of Reality  Quantum ZeitgeistThe AI Mirror: How Google’s New Self-Play Technique Is Forging Elite Models Without Human Tutors  WebProNewsWhy World Models Are AI's Next Big Thing  AOL.com",
+    "published date": "Tue, 27 Jan 2026 09:04:05 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tR3VpaFppSWNhY1dVSjE5b3NfTHpUdTBDak5RaVRJRHpRTXZNUHVpcm9uemVramJZY0FiOFJlU1BFd25fR09rMFBhUUpSUEF5T1cxWWJ3eHpMZFVDQUZJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.axios.com",
+      "title": "Axios"
+    }
+  },
+  {
+    "title": "UK Appeals court state RuneScape gold counts as property and can be stolen, in $700k bombshell case - Eurogamer",
+    "description": "UK Appeals court state RuneScape gold counts as property and can be stolen, in $700k bombshell case  EurogamerUK Court Rules Stealing RuneScape Gold Is Criminal Theft in Case That Could Have Wider Repercussions for the Video Game Industry  IGNCourt Ruling Involving Classic Game Could Have Wider Repercussions  GameSpotJudge rules that RuneScape gold pieces are real property, which is bad news for the person accused of stealing 705 billion of them  Rock Paper ShotgunUbisoft Didn't Inform Prince of Persia: The Sands of Time Remake Star About Project's Cancellation and Created Legal Problems for Her  IXBT.games",
+    "published date": "Mon, 26 Jan 2026 15:50:30 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSmhLZXozbEl6c1JVT212bWMyTnZwb2xQWG9tVUNJUFV5MVdjX0JrRG5wMlBTbWpKU3VDUzZaRGl2M3phSjZTUVZCWWZ6cFBIODZoa0NWV042UWpqX1luenAwSGhKMURsblEwMkRqTnVuZzNOQnFWdVA3U0xxUDdtNGhucEhjM1NRdmgzWkF5WjZvZVZoenlUeW9CbnFGRk4wZzlmY0dSMVFXU0prNVhBQzR5bXd4NUhBRGhDYVR1bEs?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.eurogamer.net",
+      "title": "Eurogamer"
+    }
+  },
+  {
+    "title": "Anthropic embeds Slack, Figma and Asana inside Claude, turning AI chat into a workplace command center - Venturebeat",
+    "description": "Anthropic embeds Slack, Figma and Asana inside Claude, turning AI chat into a workplace command center  VenturebeatAnthropic extends MCP with a UI framework  The New StackAnthropic launches interactive Claude apps, including Slack and other workplace tools  TechCrunchMCP Apps, the Model Context Protocol's first official extension, turns AI responses into interactive interfaces  the-decoder.comClaude now offers deeper integrations with apps like Canva and Slack  Engadget",
     "published date": "Mon, 26 Jan 2026 18:00:39 GMT",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTExxYmI1dDc3WGVPNVBBNk5UTC0zbW5NdUpfX1JYNmc1TjBJRDZ6eG1Ea09qVmNKTUlEcldUVVlMYUQ4cDNDZVRJbV9fb3k4MklZNVpSZmJ4bGVVWmx1aGtDcVFhUURLclhyT3RlS1ViZk1NLTdrSmZQdm50R2ViVWRud3h1T3dsejFwc252NXpkWnVrLWlrNmlyRkpoWTBuVldBcA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://venturebeat.com",
-      "title": "VentureBeat"
+      "title": "Venturebeat"
     }
   },
   {
-    "title": "Samsung, if You Add This to the Galaxy S26 Ultra, I'd Be Eternally Grateful - CNET",
-    "description": "Samsung, if You Add This to the Galaxy S26 Ultra, I'd Be Eternally Grateful  CNETSamsung Galaxy S26: The 7 rumored features that could make me switch  MashableSamsung drops Galaxy S26 Ultra bombshell  thestreet.comSamsung Galaxy Unpacked 2026: Everything we think the company will unveil  EngadgetNew Galaxy S26 leak reveals a long-overdue storage upgrade for cheapest S26  Android Authority",
-    "published date": "Mon, 26 Jan 2026 13:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWG15U3N3eXEwM0xiZEJOY0EyYXBtLXRmTkZFR0gwU2dFZnIxRHEyRFVKM1lmX3Y5Wk5QUkhILUpUcmFjdDVFYUtia0pqUnVPZU5wcml0a3hkQ05rLWttaF9UN2hFdnkyOURzUHRJZWtXbEhGeTBCSjE0WHdRcEU3OVdjZ05XeENtQU9fdENFUXNDdHJUdmt5Zk5RWEh5LWNxVXNuelRJaGxOQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Siri is getting Gemini superpowers, and that could be awful for Android - Android Authority",
+    "description": "Siri is getting Gemini superpowers, and that could be awful for Android  Android AuthorityApple Considered Anthropic and OpenAI Before Partnering With Google on AI  PYMNTS.comAnthropic Sought Billions for Apple Deal, Report Says  The InformationGemini-powered Siri could be days away from big reveal  MashableHow Apple’s late AI adoption could transform from a weakness to a strength  Fast Company",
+    "published date": "Mon, 26 Jan 2026 11:07:15 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQjNkTnhuQlhPYm1ueWNLRk1Fd3RkZHlIQk53dXQ4U05GSmtBLUJHcFAyTFk0NXhwcmFYaTB5Z2FNVDFrbUV1M2ZKVlVMVWtDLXI1VmktNWMtbnhYa0dtZ3h0ZDBaWEMwaGMzQUc1YkRZRmNkWFpzZkdMa3phb3VCaFh4bkNLanE0MHM0M2VjWHZMUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.cnet.com",
-      "title": "CNET"
+      "href": "https://www.androidauthority.com",
+      "title": "Android Authority"
     }
   },
   {
-    "title": "Anthropic Sought Billions for Apple Deal, Report Says - The Information",
-    "description": "Anthropic Sought Billions for Apple Deal, Report Says  The InformationApple Considered Anthropic and OpenAI Before Partnering With Google on AI  PYMNTS.comGemini-powered Siri could be days away from big reveal  MashableHow Apple’s late AI adoption could transform from a weakness to a strength  Fast CompanyThe iPhone 17 is about to become so much better as Apple finally gets ready to fulfill old promises  PhoneArena",
-    "published date": "Mon, 26 Jan 2026 02:48:59 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU2w2Tk1yNVBRNHItbGQzdVJjX1pvckJfYk1jdkQ3cTNTX0VPaTIyUmdKNDh4djRHZlZqT1Q5bE5tZWZYRl96TTZuZER5SE1CeTBwNmFPTXZNMktkZ0VzTWw1LTEtYnRGZmJ5LWY4bjU5SzhKN3diNzJlSnkyN3FtcnZGMDVoQlJMY3Q3ZV9ERlU0akk?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Ubisoft launches voluntary redundancy process to cut 200 jobs from Paris head office - GamesIndustry.biz",
+    "description": "Ubisoft launches voluntary redundancy process to cut 200 jobs from Paris head office  GamesIndustry.bizUbisoft Follows Last Week's Game Cancelations and Studio Closures With a Proposed Reduction of 200 More Jobs at its Paris Headquarters  IGNUbisoft proposes even more layoffs after last week's studio closures and game cancellations  EngadgetBig games are getting bigger — and so are the stakes  The Verge‘It was devastating’: Prince of Persia remake actor found out the game was cancelled via the internet  Video Games Chronicle",
+    "published date": "Mon, 26 Jan 2026 16:45:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOFpzMUFFbWhWRVJ5STZzZmRyTHFBWERjVXRlMnRLRXczWWRCUzIyNHhsdzBzczBZTDFNLWpfbFZmWHg4LUlqYW9tYjRTdWJYWjRUcHpadkNRR2xFMF9EV2RpaFN3QmhUQ09DbmZlMGNqeC1OOHpmbjlza0tiM1V4UHhPdnVjcFRfUHhwVWt2ZC1XZnJCclNuUVVOelZZVmplVTdxejVFNnRUZnVyWnRpSUE3WXg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.theinformation.com",
-      "title": "The Information"
+      "href": "https://www.gamesindustry.biz",
+      "title": "GamesIndustry.biz"
+    }
+  },
+  {
+    "title": "iOS 26.3 Adds Privacy Setting to Limit Carrier Location Tracking - MacRumors",
+    "description": "iOS 26.3 Adds Privacy Setting to Limit Carrier Location Tracking  MacRumorsApple Confirms iOS 26.3 Privacy Upgrade, But Most iPhones Won’t Get It  ForbesApple Seeds Third Betas of iOS 26.3 and iPadOS 26.3 to Developers  MacRumorsiOS 26.3 will add three new ways to customize your iPhone  9to5MacApple C-series modem enables new privacy-focused limit precise location feature  AppleInsider",
+    "published date": "Mon, 26 Jan 2026 22:38:40 GMT",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YMFFHNnZPU0RhdG1kXy1wUUZMLXhUcTZTSjVvcmh2emRVeWN4MEF4M3VjN2drZGlDUTFSLVlTY2Q5OGRkdnhrdUo0c29zRE5mX1NlanNGZW9tRDVGbW5KZzZ0cy0wOGNnbnBma2M1WE0yeklLcUw1TQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.macrumors.com",
+      "title": "MacRumors"
     }
   },
   {
@@ -360,13 +400,23 @@
     }
   },
   {
-    "title": "Ubisoft launches voluntary redundancy process to cut 200 jobs from Paris head office - GamesIndustry.biz",
-    "description": "Ubisoft launches voluntary redundancy process to cut 200 jobs from Paris head office  GamesIndustry.bizUbisoft Follows Last Week's Game Cancelations and Studio Closures With a Proposed Reduction of 200 More Jobs at its Paris Headquarters  IGNUbisoft proposes even more layoffs after last week's studio closures and game cancellations  EngadgetBig games are getting bigger — and so are the stakes  The VergeActress laments ‘most devastating moment’ of her career just days after Prince of Persia: Sands of Time remake was cancelled  Nintendo Wire",
-    "published date": "Mon, 26 Jan 2026 16:45:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOFpzMUFFbWhWRVJ5STZzZmRyTHFBWERjVXRlMnRLRXczWWRCUzIyNHhsdzBzczBZTDFNLWpfbFZmWHg4LUlqYW9tYjRTdWJYWjRUcHpadkNRR2xFMF9EV2RpaFN3QmhUQ09DbmZlMGNqeC1OOHpmbjlza0tiM1V4UHhPdnVjcFRfUHhwVWt2ZC1XZnJCclNuUVVOelZZVmplVTdxejVFNnRUZnVyWnRpSUE3WXg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Asus ExpertBook Ultra review: One helluva debut for Intel Panther Lake X7 - Notebookcheck",
+    "description": "Asus ExpertBook Ultra review: One helluva debut for Intel Panther Lake X7  NotebookcheckI did not expect this Windows laptop for business to impress me in the ways that it did  ZDNETASUS Announces ExpertBook Ultra  ASUS PressASUS Sets A New Standard For AI Pcs With The Expertbook Ultra  Mena FNAsus ExpertBook B3 G2 laptop has a Ryzen AI 9 HX 470 CPU in a 1.41kg body  Yahoo! Tech",
+    "published date": "Tue, 27 Jan 2026 13:59:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV21MTnd1SHBaVUE2UHVtUWZUSDhzd2NRTDY2b3BiOFdxcnlnNlRrNFJxalJ1MFpXVTZmLUJGWkJTVm5fRVdOLVpTczlzbDY5djc1dThqMWNraFliZkthZ1FyX2d5Z09UbVRQMjE0VGhTNjlZOXlNaEQ1c3B4N0hkbFFJVElDWlQtNG4wQjdjU21xdnBvWXBxcVM1X0FTUXF3bU9PYm5QYmVQek4xNVd5TjZpRUJzUVM0?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.gamesindustry.biz",
-      "title": "GamesIndustry.biz"
+      "href": "https://www.notebookcheck.net",
+      "title": "Notebookcheck"
+    }
+  },
+  {
+    "title": "Tomodachi Life: Living The Dream Nintendo Direct Announced For Thursday, 29th January - Nintendo Life",
+    "description": "Tomodachi Life: Living The Dream Nintendo Direct Announced For Thursday, 29th January  Nintendo LifeTomodachi Life: Living the Dream Direct 1.29.26  nintendo.comRumor: Nintendo Direct reportedly incoming next week  Nintendo WireRumor: Nintendo Direct happening in February, possibly first week of the month  Nintendo EverythingNext Nintendo Direct Coming This Week  GameSpot",
+    "published date": "Mon, 26 Jan 2026 13:40:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRDRVUEFBeEZBTW5IYkdtTzFEZVFEMF9KM3dqeVdya3NpOURxRkVPUldmZWl3TXFacGhyN01KeEJzdDN2SGNyTEM3aERLRUp5SVVoRUltd0pLYmwtV1J4TzVYaXFrNHBqdW5CVGR4aHhXaWZ0c0FzSDlNMi1Cam1FN3hTMlQ0cHhIYk94ZDJzVW1kWnVEMTRqUnIzbld6QkYyNkFuSHVfTTBaZF81NG1vcTRnUWJHa2tBTG9lNXBabU5LM28?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nintendolife.com",
+      "title": "Nintendo Life"
     }
   },
   {
@@ -380,23 +430,73 @@
     }
   },
   {
-    "title": "Forza Horizon 6 confirms the return of a dreaded game mode - TrueAchievements",
-    "description": "Forza Horizon 6 confirms the return of a dreaded game mode  TrueAchievementsXbox Developer_Direct 2026 Recap: Everything Revealed, Including a Surprise New Double Fine Game  Xbox WireForza Horizon 6 release date announced  ESPNForza Horizon 6 Editions and Add-Ons List  Forza.netThe Toyota GR GT Lands in Forza Horizon 6 and Your First Drive Is Against a Bullet Train  MotorTrend",
-    "published date": "Mon, 26 Jan 2026 13:27:09 GMT",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KTjM3T3E3T1JMNjNEbkJOcHNjWmkxVnB0ZTVSc3ktdGNSNlpPcEVrNUU3YVlKeVdUeWNVSjZaN1pCU3JITG52MXE1MUdNU19Vay14QmhfTzk0Vk11V1dyYW1aalF0djRlekVWTXlELWJvdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "An Update to End-of-Round Procedures at Pokémon TCG Championship Events - Pokemon.com",
+    "description": "An Update to End-of-Round Procedures at Pokémon TCG Championship Events  Pokemon.com",
+    "published date": "Mon, 26 Jan 2026 16:07:30 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbnJjSHMxY1FLUmkxbjdUZ2hsNklmTHpNRGZfaGp6N1ROTkVNeUJUbHpmc2NTNl9vMmN1RkhBTjZNeWFsMERCVDl5R1V6ZmZWZDhoSTVCTUVrNUtaOHpibHFnV2dRaExVSGVpcERkZjE3ODg2WGtSZWxsaTQzNnpyZkJOYmI1OEktblg0amVkSHhuQkVwMWdGcnZnaFBNbk4yeVdYZ2ZWdmFKSjhoazAxbw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.trueachievements.com",
-      "title": "TrueAchievements"
+      "href": "https://www.pokemon.com",
+      "title": "Pokemon.com"
     }
   },
   {
     "title": "Playground Games on its Fable reboot's inception - Eurogamer",
-    "description": "Playground Games on its Fable reboot's inception  Eurogamer'We've Been Working on This Game for a Really, Really Long Time' — the Big Fable Interview With Microsoft Developer Playground  IGNFable launches on PS5 Autumn 2026  PlayStation.BlogFable 4 is officially just Fable, and after a 16-year wait it finally launches this fall across Xbox, PC, and PS5  GamesRadar+Fable: Answering the Big Questions After that Long-Awaited Developer_Direct Deep-Dive  Xbox Wire",
+    "description": "Playground Games on its Fable reboot's inception  Eurogamer'We've Been Working on This Game for a Really, Really Long Time' the Big Fable Interview With Microsoft Developer Playground  IGNFable launches on PS5 Autumn 2026  PlayStation.BlogFable: Answering the Big Questions After that Long-Awaited Developer_Direct Deep-Dive  Xbox WireAre Xbox and Playground making the right move sticking so closely to Fable's history?  Eurogamer",
     "published date": "Mon, 26 Jan 2026 17:14:37 GMT",
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaFcydVI2bjVTcDNoUGV4clJTSVFUeWF4U09VV1VLb3NsUFRhbC1WejFXSnJnR0lPeG92QlZkN0IyUUJVcGZPTzRNYUYtZHNISXhycWc2T29FZGdlYjY0UHdHM1lBZHhzR2tPRm5ONjY4ZmRDT3V1WXZCWXBtWEJ3U0hXb1p5ZkhxcFJtdDN6T0tZNDlYb09INzFoMzJGeDNoV0V1Q1BwZUdHdk41WWp3am1nZHM3V0dmWGgtY0hWR3pncHgzRXFadWFjeGwxYnBlNGNEWVM4Q2NTejA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.eurogamer.net",
       "title": "Eurogamer"
+    }
+  },
+  {
+    "title": "Galaxy Book 6 Pro and Book 6 Ultra have been launched - SamMobile",
+    "description": "Galaxy Book 6 Pro and Book 6 Ultra have been launched  SamMobileI've used a lot of Samsung laptops. This one stands out  PCWorldGalaxy Book 6 lineup set for a South Korean release  PhoneArenaChipflation Drives PC Price Surge, Ramtech Trend Emerges  조선일보[Video] Galaxy Book6 Ultra Delivers Powerful Performance in a Slim Design  Samsung Mobile Press",
+    "published date": "Mon, 26 Jan 2026 04:17:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWkJiSG1Pc2cwSW9oRTk5SlZhc3pQZktRelU0NTU5YWhQRm52TC15UGdmZkpBTHpGcE1oMGtjcXd5SE03N0U2QnMzVGhlUS11TkZSQTJwckZldkhsOFJYMDJtVUE2Q1FyVjVXUFNHM1R2QlRaelBPckllU1NyRHhwdDV3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.sammobile.com",
+      "title": "SamMobile"
+    }
+  },
+  {
+    "title": "UK Charts: Final Fantasy VII Remake Intergrade Knocks Animal Crossing Down A Peg - Nintendo Life",
+    "description": "UK Charts: Final Fantasy VII Remake Intergrade Knocks Animal Crossing Down A Peg  Nintendo LifeDigital Foundry confirms Final Fantasy VII Remake Intergrade ‘is largely an excellent Switch 2 port’  Nintendo WireFinal Fantasy 7 Remake Intergrade - Nintendo Switch 2 Review Update  IGNAvailable now! Experience Midgar like never before in FINAL FANTASY VII REMAKE INTERGRADE  nintendo.comFINAL FANTASY VII REMAKE INTERGRADE on Switch 2 is sold out at multiple retailers  GoNintendo",
+    "published date": "Mon, 26 Jan 2026 10:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUm85djJUYk90amVsR0QyRmYtc1VuX29mZnk3RWhhMVNHWlJOSS1HeF9SZjhWbUxuQS0ycWZ0OG5mVWFpQUpldXZ3Q0wtMlY1T3pKdzZBX2RaWnBaT2doOERpWHlibXNraEVqZ3RIcTlZVENRN3R4aEE2bHM1YnJ1S2JMYWc2ZWNOLWRNallYemNlLU9kSTVyaExmc3FJWkdfLXJYWGtha2NDamJuWXV6X3hNSGw4dzMzc2RyNzJn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nintendolife.com",
+      "title": "Nintendo Life"
+    }
+  },
+  {
+    "title": "This week in PC games: is Highguard a nothingburger? Plus, Winnie the Cthulhooh, Code Vein 2 and a plant-based RTS - Rock Paper Shotgun",
+    "description": "This week in PC games: is Highguard a nothingburger? Plus, Winnie the Cthulhooh, Code Vein 2 and a plant-based RTS  Rock Paper ShotgunNext Week on Xbox: New Games for January 26 to 30  Xbox WireThis Week in Gaming (Week 5)  TechPowerUpPS5, PS4 Game Releases on PSN from January 26 to February 1  DualShockersAll the big new video games out this week – PlayStation, Xbox, PC, Switch  ScreenHub Australia",
+    "published date": "Mon, 26 Jan 2026 11:54:27 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbGFsRXBMWm1Yck52T09Yb2lSdWpDT2xkUU9ZUFQzNVB5VTVzOWZtd3BFRWphQklOUFJ3eVFCS1BMaFlHd2xjMzFKUXpOUGZlR1BWc05ERFF1UUlUdHNXMVdxQ2hrNXlJU0JXMnowaWE0bVU1REJEZWlJYzdNeXNjaXJJaGhuazNSaTBCYWxQcm1qclhGNnE2NEN0dGk2SzdqOW94eTZkTFR2WldGZFl1QTdGTmtPcmtjVm50U1B4blBLZFJyS2ZHVG5OLTBzQkpzbnVWaHdxQzZqdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.rockpapershotgun.com",
+      "title": "Rock Paper Shotgun"
+    }
+  },
+  {
+    "title": "This dual 200MP camera compact phone with a 7,000 mAh battery is basically confirmed - PhoneArena",
+    "description": "This dual 200MP camera compact phone with a 7,000 mAh battery is basically confirmed  PhoneArenaExclusive: OPPO Find X9 Ultra Renders Reveal a Bold Dual-Tone  smartprix.comEvery 200MP smartphone launching this year, including models with dual 200MP cameras  GizmochinaOppo Find X9s Camera Leak Hints at 200-Megapixel Primary and Telephoto Cameras  Gadgets 360Oppo Find X9 Ultra New Renders Show redesigned back  Concept Phones",
+    "published date": "Mon, 26 Jan 2026 10:54:22 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWDZ4X2pKQk9RSExLRDVOUnR3aXdXSFRtaXlaZGZLYnMzOE5FR0JHVGFxNm9Gd3dQcVJxN3A2czk3WjhIdTY4c0hKaFp4VTBxc05vaGM1Y0YyUWF0Rzd1bmlJdDZlRU9wQzJ3LUNLREJiVGJwMDU0TExNR0dFbVNPalRQNnZlUTVwZk9LalNwQlZyMWMyTW95SDE3NjUtcWtuUTFJdDB2aUpHdlVwZU5JbjhxZDdlQjd1V2M5dWl6UlRtUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.phonearena.com",
+      "title": "PhoneArena"
+    }
+  },
+  {
+    "title": "Scientists Investigating 2,000-Year-Old Artifact That Appears to Be a Battery - Futurism",
+    "description": "Scientists Investigating 2,000-Year-Old Artifact That Appears to Be a Battery  Futurism",
+    "published date": "Mon, 26 Jan 2026 18:07:20 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DUUtxcmg0MkpobFhGaURwV1JWaElNQjV0WVB3WG9POXAta1ZLb2FJSkFUVzNnYy1teEI1VW9XT3lOdFFoczc3SUdnSFlkeUJZQS10OEZnZWJfd2lrR09fOXdhb0xQNUtWaUlOSldubnBTR19zU091NVNKN2o?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://futurism.com",
+      "title": "Futurism"
     }
   },
   {
@@ -410,13 +510,13 @@
     }
   },
   {
-    "title": "Apple’s AI Pin: The Wearable That Could Replace Your Smartphone - Geeky Gadgets",
-    "description": "Apple’s AI Pin: The Wearable That Could Replace Your Smartphone  Geeky GadgetsApple Developing AI Wearable Pin  The InformationNot to be outdone by OpenAI, Apple is reportedly developing an AI wearable  TechCrunchGear News of the Week: Apple’s AI Wearable and a Phone That Can Boot Android, Linux, and Windows  WIREDApple’s AI pin and the rise of super-chatty Siri [ Cult of Mac podcast No. 4]  Cult of Mac",
-    "published date": "Mon, 26 Jan 2026 08:02:15 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd19saFo5eWc1LWthRkU3d0NlOGxDLXpmMFdyLVJIcWhpTmNhbTZwUW9XNDRsM084U0VFUlVsd0xmUnFNMmFDTks0bERlMjNRaFFzV0xobG1PQXhrRnhLZHFESS1iWU16cHNEVFpMWHdiTlNwOEtKRElMdWFwSmRsVjg5NEQyOVJER183SGg4SEVMYkRBYWlz?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Reminder: Cult Of The Lamb Summons Its \"Biggest Update Ever\" For Switch - Nintendo Life",
+    "description": "Reminder: Cult Of The Lamb Summons Its \"Biggest Update Ever\" For Switch  Nintendo LifeHow to Prevent Freezing and Frostbite - Cult of the Lamb Guide  IGNCult of the Lamb: Woolhaven DLC Review  TheSixthAxisCult Of The Lamb Woolhaven Expansion Launches Across All Platforms | The Otaku's Study  The Otaku's StudyCult of the Lamb: Woolhaven Can Feel Like a Sequel  Siliconera",
+    "published date": "Tue, 27 Jan 2026 08:51:30 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMzhKcEVsTks3VUVobUF6NXd6bUcyUXNUdExIRWk5RVFySGlUOE1vU2t5Y1plRk9Eb0lEeGRtdW9CWldTNFhpdnViaEE5UWZ1dC05bnVSdmQ1X3VPalFhWm5sbFo2QXdMbm4yeFlJZWFUMDBIRW5JZ3FjakRvY1lMRU52LUJ0MUxTakhSQ1Z4dUxZclllSmtoZGpqMFduY2Etdno3Q29WQmd4by1kU05N?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.geeky-gadgets.com",
-      "title": "Geeky Gadgets"
+      "href": "https://www.nintendolife.com",
+      "title": "Nintendo Life"
     }
   }
 ]
