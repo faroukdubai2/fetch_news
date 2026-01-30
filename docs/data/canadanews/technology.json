@@ -1,5 +1,35 @@
 [
   {
+    "title": "Rspack Releases Version 1.7: Final 1.x Update Before 2.0 Transition - infoq.com",
+    "description": "Rspack Releases Version 1.7: Final 1.x Update Before 2.0 Transition  infoq.com",
+    "published date": "Fri, 30 Jan 2026 10:00:42 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBsbTljeEtvbTkyLWl4LUlqZUlpaWd4Rlp0TEc2NjhlZkNRYTJ3b2Y0bnUzb01VZ1AxWmxlN1lqWGR6a25uckNsU1Jyc2tkcDNhaWsxamctaXE4d2tPR3VhQU1Wbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.infoq.com",
+      "title": "infoq.com"
+    }
+  },
+  {
+    "title": "WASM Components are a FaaS' Best Friend - infoq.com",
+    "description": "WASM Components are a FaaS' Best Friend  infoq.com",
+    "published date": "Fri, 30 Jan 2026 09:22:30 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42cE5PT081OU9ibnU5Z284NUVtSU9vaWI0ZTI3LUVXWUUtM2JCSUpNUXdpUGY4WXg3dTI1NFpmaFM5Z3ctdVo5SkpBQnRIM3NuM2NBUFhMa1VIQU1wMXZpam85cURQN1Ju?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.infoq.com",
+      "title": "infoq.com"
+    }
+  },
+  {
+    "title": "The Technical Founder's Path: Code, Leadership, and Balance - infoq.com",
+    "description": "The Technical Founder's Path: Code, Leadership, and Balance  infoq.com",
+    "published date": "Fri, 30 Jan 2026 09:00:14 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqQjBmOGVIZDFFaS1pNHhTMFdEc1BPeGRzTGxQSUtkRzdhQ1RVRHVBaC03cEpFcTFDZXBMQ0NlYjE5V0ZTX2h3dmZiVDhiZkZDUnhuTjY5aVRuUlJxdV9rdzIyZmpCdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.infoq.com",
+      "title": "infoq.com"
+    }
+  },
+  {
     "title": "Microsoft Adds Custom Copilot Agents for .NET Developers with C# and WinForms Experts - infoq.com",
     "description": "Microsoft Adds Custom Copilot Agents for .NET Developers with C# and WinForms Experts  infoq.com",
     "published date": "Fri, 30 Jan 2026 08:00:42 GMT",
@@ -20,16 +50,6 @@
     }
   },
   {
-    "title": "BC Court of Appeal clarifies time limit for cross-appeal of arbitral awards - MLT Aikins",
-    "description": "BC Court of Appeal clarifies time limit for cross-appeal of arbitral awards  MLT Aikins",
-    "published date": "Thu, 29 Jan 2026 15:58:23 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbUV2aTFJWE5yV0lPS19rejNKNVppeEFOZkNiQzFHWUNRS1djSkplNU1tZzJFeHpwLUxnTjlUQWxPMDNITU5vWDVtOFlZT0dVZVoxZndtV0tuT2xVdklGR20ybUcwYWJYeXBzVVQwMUZ4VzJydFFnbERFZExRSGtBN0MyVUNvN25LY3prT0RsX3R1ZHVGblJJTE95RjZMTGtXUVhTVGFWbjl6WGRwRHhzRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.mltaikins.com",
-      "title": "MLT Aikins"
-    }
-  },
-  {
     "title": "3 Arviat residents share $600 in prizes in hamlet's video game competition - CBC",
     "description": "3 Arviat residents share $600 in prizes in hamlet's video game competition  CBC",
     "published date": "Wed, 28 Jan 2026 23:07:55 GMT",
@@ -37,6 +57,16 @@
     "publisher": {
       "href": "https://www.cbc.ca",
       "title": "CBC"
+    }
+  },
+  {
+    "title": "BC Court of Appeal clarifies time limit for cross-appeal of arbitral awards - MLT Aikins",
+    "description": "BC Court of Appeal clarifies time limit for cross-appeal of arbitral awards  MLT Aikins",
+    "published date": "Thu, 29 Jan 2026 15:58:23 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbUV2aTFJWE5yV0lPS19rejNKNVppeEFOZkNiQzFHWUNRS1djSkplNU1tZzJFeHpwLUxnTjlUQWxPMDNITU5vWDVtOFlZT0dVZVoxZndtV0tuT2xVdklGR20ybUcwYWJYeXBzVVQwMUZ4VzJydFFnbERFZExRSGtBN0MyVUNvN25LY3prT0RsX3R1ZHVGblJJTE95RjZMTGtXUVhTVGFWbjl6WGRwRHhzRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.mltaikins.com",
+      "title": "MLT Aikins"
     }
   },
   {
@@ -50,8 +80,18 @@
     }
   },
   {
+    "title": "EFF calls out major tech companies on encryption promises - Help Net Security",
+    "description": "EFF calls out major tech companies on encryption promises  Help Net SecurityEFF Urges Big Tech To Make Encryption Default  findarticles.comThe EFF is publicly shaming tech companies for dragging their feet on privacy  Android Authority",
+    "published date": "Fri, 30 Jan 2026 08:28:12 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSE5XbDJkUWdSZHV5X1dadmdTeXB4M25xdW9TanZJVE9KQVZzSjYxNGdNYnlnUW1LVmM4OVhmNkR4SVk0WkpRM1NiWC1RWVl6NTl0Y1hMTXJ1UXR4MGpfcVhtY1ExUzdDWDE3V1Y5S3RBR0JxNjBiUjhCTEx5Q3NFVFBIWjFVc0xGTW9NOFQzTWdLeDh3VzhJTg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.helpnetsecurity.com",
+      "title": "Help Net Security"
+    }
+  },
+  {
     "title": "Google Chrome unveils Gemini-powered auto-browsing feature - Mashable",
-    "description": "Google Chrome unveils Gemini-powered auto-browsing feature  MashableThe new era of browsing: Putting Gemini to work in Chrome  blog.googleGoogle adds AI image generation to Chrome browser, side panel option for virtual assistant  halifax.citynews.caGoogle Chrome’s AI Agent Can Now Browse Web on Behalf of Users  BloombergGoogle’s New Chrome ‘Auto Browse’ Agent Attempts to Roam the Web Without You  WIRED",
+    "description": "Google Chrome unveils Gemini-powered auto-browsing feature  MashableThe new era of browsing: Putting Gemini to work in Chrome  blog.googleGoogle adds AI image generation to Chrome browser, side panel option for virtual assistant  halifax.citynews.caGoogle’s New Chrome ‘Auto Browse’ Agent Attempts to Roam the Web Without You  WIREDGoogle Chrome’s AI Agent Can Now Browse Web on Behalf of Users  Bloomberg.com",
     "published date": "Thu, 29 Jan 2026 22:25:14 GMT",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY2xOc0tjODhuMGZoOTNJdlNnMmJvb29hUlNJaC01Q3FpZXg0YmZybmFEbVhpVFRsYzlEM1NTVldQSXQtWlVOU2o2X2t6TTJIaUwzekRtdG5lc2pMV1JRQ25HRmZwbDlJRWQ5cmM0eEx3U19yRkU5TmxvMmdES0M5amE5OERmZEJORGJhZnRNNEw2dVRfdWc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -70,13 +110,13 @@
     }
   },
   {
-    "title": "'Encrypt it already' campaign challenges big tech to keep your data secure - AppleInsider",
-    "description": "'Encrypt it already' campaign challenges big tech to keep your data secure  AppleInsiderEFF Urges Big Tech To Make Encryption Default  findarticles.comThe EFF is publicly shaming tech companies for dragging their feet on privacy  Android Authority",
-    "published date": "Thu, 29 Jan 2026 22:26:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQekhwQVlLRWVybkxQdTFlQVp3X2FSdzhjdkdHRE54Q2lJa1FrbHBBN0lKajNKdjl6NVpUbVcwWGJWbGVLTHZYX0ZPSmtpcjdBMC1WOTRNa1N0VWg2WVFrd2V6dVhnQTltd0Q4eWFsY2ZCbklPcjkxWmpMRUhUMFlMVEdFQTUzRzlVQmozYUhfMm14LWlSTU5kbHAzNVZCSW1RVlJJaFQzczFZTkJFM3dYMzhsbkVmQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Google DeepMind Introduces ATLAS Scaling Laws for Multilingual Language Models - infoq.com",
+    "description": "Google DeepMind Introduces ATLAS Scaling Laws for Multilingual Language Models  infoq.com",
+    "published date": "Thu, 29 Jan 2026 06:09:47 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBORHMyM0ZXS1JLUWYwYkptT3hDWVVGU1NfcF9sYkpsdldkQWJHYW1SY2loVEFVMGxzVFJ5VFNxd0s1QUlxMG0tdE1SVjRGNTZzV3pTWTVkaTBWcXRGaldoLWdGVzlfY19V?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://appleinsider.com",
-      "title": "AppleInsider"
+      "href": "https://www.infoq.com",
+      "title": "infoq.com"
     }
   },
   {
@@ -100,33 +140,13 @@
     }
   },
   {
-    "title": "Google DeepMind Introduces ATLAS Scaling Laws for Multilingual Language Models - infoq.com",
-    "description": "Google DeepMind Introduces ATLAS Scaling Laws for Multilingual Language Models  infoq.com",
-    "published date": "Thu, 29 Jan 2026 06:09:47 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBORHMyM0ZXS1JLUWYwYkptT3hDWVVGU1NfcF9sYkpsdldkQWJHYW1SY2loVEFVMGxzVFJ5VFNxd0s1QUlxMG0tdE1SVjRGNTZzV3pTWTVkaTBWcXRGaldoLWdGVzlfY19V?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.infoq.com",
-      "title": "infoq.com"
-    }
-  },
-  {
     "title": "Samsung’s confusing Galaxy S26 pricing raises base model cost, but makes Ultra cheaper - 9to5Google",
-    "description": "Samsung’s confusing Galaxy S26 pricing raises base model cost, but makes Ultra cheaper  9to5GoogleComing Soon: A New Layer of Privacy  Samsung Mobile PressSamsung confirms Galaxy S26 Ultra's biggest new feature – the new privacy display layer  T3Galaxy S26 Rumors: We Found the Biggest Leaks for Samsung's Next Flagship Phones  CNETSamsung Teases Galaxy S26 Privacy Display  iPhone in Canada",
+    "description": "Samsung’s confusing Galaxy S26 pricing raises base model cost, but makes Ultra cheaper  9to5GoogleComing Soon: A New Layer of Privacy  Samsung Mobile PressSamsung confirms Galaxy S26 Ultra's biggest new feature – the new privacy display layer  T3Surprise Samsung Galaxy S26 Ultra Image Leak Reveals New Camera  ForbesGalaxy S26 Rumors: We Found the Biggest Leaks for Samsung's Next Flagship Phones  CNET",
     "published date": "Thu, 29 Jan 2026 17:54:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMVZBR2pFSVRab3FpenpGekQzNVl5bmxXWnZ1QW5nb0p3SGNJS1YxN2N6c2R1SG5VWDg1V2dnN0Q2bjJqOXdpaXQtV3VZLXpyY1pUeEJ4TjJWQ1RCUWQxcE9pdXNXSEFyelI0aWlWaDc5aEQtMjNiM2FJMmdBWXFTc0ZuWkVmMHJ4VWN1ckhlSDhBWk8wMzN6MnZtZGdVRmlxYjJV?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://9to5google.com",
       "title": "9to5Google"
-    }
-  },
-  {
-    "title": "Apple inks its biggest M&A deal since Beats in AI device war - Yahoo! Finance Canada",
-    "description": "Apple inks its biggest M&A deal since Beats in AI device war  Yahoo! Finance CanadaApple acquires Israeli audio AI startup Q.ai  ReutersApple just made its second biggest aquisition ever  MacworldApple Buys Israeli AI Startup That Interprets Facial Movements  BloombergApple Drops $2 Billion on Israeli AI Facial Tracking Company  Gizmodo",
-    "published date": "Thu, 29 Jan 2026 22:16:30 GMT",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zaXM0blZrVU9fZGxlczBBN1h1bkZ3MTZab0x4YVdPR01UemhDUnYtOFVjemRRRzhxQWhIU2JBem9yNlZyaTB6WV9IZTc0elpsM2VKNUM1YnNTZWF1Z2kwaURmTVo4di1McEVRbXhRYkJjamgzakpfZU5tS2Q3c2M?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://ca.finance.yahoo.com",
-      "title": "Yahoo! Finance Canada"
     }
   },
   {
@@ -137,6 +157,16 @@
     "publisher": {
       "href": "https://www.infoq.com",
       "title": "infoq.com"
+    }
+  },
+  {
+    "title": "Apple inks its biggest M&A deal since Beats in AI device war - Yahoo! Finance Canada",
+    "description": "Apple inks its biggest M&A deal since Beats in AI device war  Yahoo! Finance CanadaApple acquires Israeli audio AI startup Q.ai  ReutersApple just made its second biggest aquisition ever  MacworldApple Drops $2 Billion on Israeli AI Facial Tracking Company  GizmodoApple acquires secretive Israeli AI startup Q.ai for $1.5 billion  CTech",
+    "published date": "Thu, 29 Jan 2026 22:16:30 GMT",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zaXM0blZrVU9fZGxlczBBN1h1bkZ3MTZab0x4YVdPR01UemhDUnYtOFVjemRRRzhxQWhIU2JBem9yNlZyaTB6WV9IZTc0elpsM2VKNUM1YnNTZWF1Z2kwaURmTVo4di1McEVRbXhRYkJjamgzakpfZU5tS2Q3c2M?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://ca.finance.yahoo.com",
+      "title": "Yahoo! Finance Canada"
     }
   },
   {
@@ -180,6 +210,16 @@
     }
   },
   {
+    "title": "Apple’s unrivalled commitment to excellence is fading – a designer explains why - The Conversation",
+    "description": "Apple’s unrivalled commitment to excellence is fading – a designer explains why  The Conversation",
+    "published date": "Wed, 28 Jan 2026 16:32:14 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNakU1b3VONzNkamNESk5lRW9VQ3lHWWp4dGd1MXg2VjJ3RjM3djN5cF9DN2hvRzZRQnNBa3U4R0RBUENaa0IzTGN3T1pKZTR4WS1HTFZ5WU5tbmd3a1I5NGhUNThpOTh5eGpVR1BaWFlPR2VjT0JJR0VEWXlEVXQtWEpSNk1tQVYwbU9NdElZSGtvSWdhV1VTanFaUmhyYVJzSTVRLTEtc2puOGloM1FIRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://theconversation.com",
+      "title": "The Conversation"
+    }
+  },
+  {
     "title": "35-storey hotel and rental housing tower proposed for Granville Strip | Urbanized - dailyhive.com",
     "description": "35-storey hotel and rental housing tower proposed for Granville Strip | Urbanized  dailyhive.com",
     "published date": "Thu, 29 Jan 2026 00:16:00 GMT",
@@ -190,16 +230,6 @@
     }
   },
   {
-    "title": "Samsung’s 13” e-paper display is first to use phytoplankton - avinteractive.com",
-    "description": "Samsung’s 13” e-paper display is first to use phytoplankton  avinteractive.comSamsung Debuts 13-Inch Color E-Paper, a World-First Display Built With Bio-Resin Derived From Phytoplankton  samsung.comSamsung's Cool New Gadget Has The First Display Of Its Kind In The World  bgr.comSamsung just announced its next e-ink display is made from plankton — and don’t expect it to be the last  TechRadar",
-    "published date": "Thu, 29 Jan 2026 17:50:04 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVmZyVkVOTW1xdUk4amVFR19rTXRwdkhPajVwUnI1MmxXZlVTcmJMZEV0WF9oWW55Skh6NFFKMXozZDZZYXlqTk5sRlVNeVl3SXRPYkxLT3ZWbExDaGk0N0ZrY2pSNjMwem13MVh3NlhPTUFuTkxNdlJRNW93VDlOc0RaNFpYNlk3OWpaTmNsMlNpcEplQ0I1Q3NaT2o1MDhyVHM3a3d5ZmRfa1FYQk9hVW5NZzZDRTlRa1JFc0dib1k0c25ORnZ0cQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.avinteractive.com",
-      "title": "avinteractive.com"
-    }
-  },
-  {
     "title": "WhatsApp rolls out “strict mode” to block hackers and spam - Cybernews",
     "description": "WhatsApp rolls out “strict mode” to block hackers and spam  CybernewsRust at Scale: An Added Layer of Security for WhatsApp  Engineering at Meta BlogWhatsApp unveils high-security mode, latest tech firm to offer users stronger protection  Yahoo! Finance Canada",
     "published date": "Thu, 29 Jan 2026 08:03:11 GMT",
@@ -207,6 +237,16 @@
     "publisher": {
       "href": "https://cybernews.com",
       "title": "Cybernews"
+    }
+  },
+  {
+    "title": "Samsung unveils 13-inch EM13DX color e-paper display for retail signage applications - Notebookcheck",
+    "description": "Samsung unveils 13-inch EM13DX color e-paper display for retail signage applications  NotebookcheckSamsung's Cool New Gadget Has The First Display Of Its Kind In The World  bgr.comSamsung unveils 13-inch Color E-Paper with bio-resin housing derived from phytoplankton  Neowin",
+    "published date": "Thu, 29 Jan 2026 06:08:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMzBxQm9PUDVub3Y1c2ZRU2wtM0tSc2dJeXNJMlZrVGZKaXF2N3JCbmpDbGpMSFNiY3BkUnFZX1A5ZmV2NjN3LS1KTjg1dkhkMGxPbWlJanE5ajZDZHE3bGZqR2pYbXNqUEFvTXdFbko0cnZycndzTlE4aks1NjVSNS1sWC1XcmVCNGp1ZEx2Y2pCU2FTY21KYmljQWlHcW00dDBNWldmY0RUa3Uxb2tRZjRoSmMyeHNObzNCNy1majVPWnpyREVvbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.notebookcheck.net",
+      "title": "Notebookcheck"
     }
   },
   {
@@ -231,7 +271,7 @@
   },
   {
     "title": "AI Push to Boost Search Growth: More Upside Ahead for GOOGL Stock? - The Globe and Mail",
-    "description": "AI Push to Boost Search Growth: More Upside Ahead for GOOGL Stock?  The Globe and MailPersonal Intelligence in AI Mode in Search: Help that's uniquely yours  blog.googleGemini 3 is now Google's default model for AI Overviews  Yahoo News CanadaThe Amount Google's AI Knows About You Will Cause an Uncomfortable Prickling Sensation on Your Scalp  Futurism5 Prompts to Try Out With Gemini 3 Pro in Google Search  CNET",
+    "description": "AI Push to Boost Search Growth: More Upside Ahead for GOOGL Stock?  The Globe and MailThe Amount Google's AI Knows About You Will Cause an Uncomfortable Prickling Sensation on Your Scalp  FuturismGoogle Just Killed the Search Bar as You Know It  iPhone in CanadaGemini 3 is now Google's default model for AI Overviews  Yahoo News CanadaPersonal Intelligence in AI Mode in Search: Help that's uniquely yours  blog.google",
     "published date": "Wed, 28 Jan 2026 19:49:13 GMT",
     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNT3kxYkFveFhkU213WGxhaFBqUzJlTTNjaTZ6OWVTR29FTEQ3N2EybGVNa3BsSldCWWpwdXBZRE1uN2phVVJOZEdBVS00YVhzeDBpak1GV2lKNFI4NHN0dUhpcWY3LWlRV2VhVHd3c0l0MWw2RXJMelFkbXZ2ZDBqTFB2T1dYZ1J4YlVmUEpGUlRRSndtYUE0NmdTQXJLWmtVREtUYmllQzJyX3gwWWQ5bEpEM3BQMERsR0ptY2ZKV0hiQ2t4VDRScHJIbTV4Uzl0VVBmNExKaEtjNDRfOWx4Vi1Eelc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -250,18 +290,48 @@
     }
   },
   {
-    "title": "Ubisoft unions call for four-day strike: \"It is time for management to understand that they cannot do whatever they want\" - GamesIndustry.biz",
-    "description": "Ubisoft unions call for four-day strike: \"It is time for management to understand that they cannot do whatever they want\"  GamesIndustry.biz'We are shutting it down:' Ubisoft unions call for international strike  Game DeveloperUbisoft Follows Last Week's Game Cancelations and Studio Closures With a Proposed Reduction of 200 More Jobs at its Paris Headquarters  IGNLeaked Prince of Persia: The Sands of Time Test Presentation Impreses After Cancellation  TechPowerUpUbisoft launches voluntary redundancy process to cut 200 jobs from Paris head office  GamesIndustry.biz",
-    "published date": "Wed, 28 Jan 2026 19:36:58 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYTJkemQyUGhQdGhZVkZwVlEtcjlnOWtPc2lQSHJ5LVNsNXhweDBsNHNQQU01eHBBSDZVcDNiOUlLMGlTdVoxWHdkamhmc0ZUUlpzZFRGRU85TXYxZzlTN3VvRDVwU3hwbkNJUTNJQ0VzaEx0WGdlblhIcW96TFBXa3UwY3pUSXJkZk5uMjJ5VzFRU01KN2ZMRWludTAzX29BUFE2aUZkNEIzbURKeWkyS3p1ZWtwdTlGX2djbmZPdlg3bnh0Y3NoY0xicVZ4TGNNcGNRVXdMam9uNEtZYk9PR2J3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "GDC survey reveals layoffs up 6%, 36% of industry using AI, and overwhelming support for unionisation in the US - GamesIndustry.biz",
+    "description": "GDC survey reveals layoffs up 6%, 36% of industry using AI, and overwhelming support for unionisation in the US  GamesIndustry.bizOne-Third of U.S. Video Game Industry Workers Were Laid Off Over the Last Two Years, GDC Study Reveals  VarietyHalf of developers think gen AI is bad for the gaming industry  The VergeMore than a quarter of devs surveyed by GDC were laid off in the past two years, and half of them don’t have a new job  Video Games Chronicle",
+    "published date": "Thu, 29 Jan 2026 17:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQV052dUppVG1UbVU5V1JtZi05TmxSMWZRVmxOYy1fUTZXT3VPRHpSU2hRYzZRRW9tU3VNZ2pIbC1ZMk9nMU5KTl9wQXVQSW5UT3dhdkxsT2VyTUZ3b1d1RnJiTjA0MHMwRERsUGlNV2lpOElia2lGQjlUdlRfdWs2eUhmOUNnNTR2UDNhSUNTTzA5bFF5OHh5cjNQX0NHOXBBcUx1WVNDYTVheEdlb3F2SnNNZnVVNHlibjBFbU82bFFWN3A4c1I1MmFQTFd1ZjRaODhJ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.gamesindustry.biz",
       "title": "GamesIndustry.biz"
     }
   },
   {
+    "title": "AirTag 1 vs. AirTag 2 Buyer's Guide: All 15+ Differences Compared - MacRumors",
+    "description": "AirTag 1 vs. AirTag 2 Buyer's Guide: All 15+ Differences Compared  MacRumorsAfter 5 Years, Apple Finally Upgrades the AirTag  WIREDApple introduces new AirTag with expanded connectivity range and improved findability  Apple'AirTag 2' vs. 'AirTag 1': All the Ways Apple's New Model Tracks Better  CNETiOS 26.2.1—Update Now Warning Issued To Millions Of iPhone Users  Forbes",
+    "published date": "Thu, 29 Jan 2026 16:54:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qeDRWR1hMYjdLM1BiNkNxRi02Y2trOFAxeEFYTGQ5Qm5lN0k2d0JNRjlfbUxoUkxIb3phNF9QM1plTWVhbVlZdDk3UDA0d3FFSWxkYWVVQ3hJWHUzWkN4NExQSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.macrumors.com",
+      "title": "MacRumors"
+    }
+  },
+  {
+    "title": "'We Will Not Be Bullied Into Submission': Ubisoft Unions Call For Massive International Strike - aftermath.site",
+    "description": "'We Will Not Be Bullied Into Submission': Ubisoft Unions Call For Massive International Strike  aftermath.siteUbisoft Follows Last Week's Game Cancelations and Studio Closures With a Proposed Reduction of 200 More Jobs at its Paris Headquarters  IGNLeaked Prince of Persia: The Sands of Time Test Presentation Impreses After Cancellation  TechPowerUp'We are shutting it down:' Ubisoft unions call for international strike  Game DeveloperUbisoft launches voluntary redundancy process to cut 200 jobs from Paris head office  GamesIndustry.biz",
+    "published date": "Wed, 28 Jan 2026 20:30:08 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTHhJOUlncU95VHlLb1BVOERwSXI3eUlxcjVwTzJuZ1h3VDlLQWZRemZUTjJFTm5YNElTTVVPSTdQeG11SndMQjV3TUtKLVdQdy01Vkh4NkgwajZqaXNRZlV2c1c4WGI3bGdXM1UtcjFMdURyWEtrTUpMWllES2s0NzlORVFyTm96?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://aftermath.site",
+      "title": "aftermath.site"
+    }
+  },
+  {
+    "title": "Gravitational wave signal tests Einstein's theory of general relativity - Phys.org",
+    "description": "Gravitational wave signal tests Einstein's theory of general relativity  Phys.orgGravitational wave signal tests Einstein’s theory of general relativity  Cornell University",
+    "published date": "Thu, 29 Jan 2026 17:26:45 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE54LW5kOUVGT0I5LXBzQjRjUFpGQVVDWmhrNzl5Q2lkUXNUZzhNcDFYQXJHclB1Q0pfb1hEWnRwUTBPcTJZWkdDR0JGcENKT2VIc1lLaVJYejlLeDd6RFRsUUxwZzNVNUNrN3pFb2V0b05aSGc1dGR6dENUUk4?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://phys.org",
+      "title": "Phys.org"
+    }
+  },
+  {
     "title": "An AI Toy Exposed 50,000 Logs of Its Chats With Kids to Anyone With a Gmail Account - WIRED",
-    "description": "An AI Toy Exposed 50,000 Logs of Its Chats With Kids to Anyone With a Gmail Account  WIREDSecurity Researcher Finds Exposed Admin Panel For AI Toy  The Cyber Express",
+    "description": "An AI Toy Exposed 50,000 Logs of Its Chats With Kids to Anyone With a Gmail Account  WIREDSecurity Flaw at AI Toy Company Exposed Over 50,000 Chat Logs of Kids  PCMag",
     "published date": "Thu, 29 Jan 2026 17:00:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONVpZMGQ2VUR3bk9YZEhtczdTTmRGNnZaMUN3X2ZuM0VoUHFhcUV4SHdqT1pjTG10UTg4RFdFYTctRVMxZ2tUbDE2SFZSU3dIdTVNZl9heE0zdVFteG04S2VlcEpDMjdKdnplRFNCb3Zwa19IenNka1ZrYldsak1DQS00Mk5sNDdvbzVISlcxWklJRF8wcElybTR1VnJZMjBSc0dGRzZvd1ltSEVPano0RA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -280,16 +350,6 @@
     }
   },
   {
-    "title": "Microsoft is working to rebuild trust in Windows - The Verge",
-    "description": "Microsoft is working to rebuild trust in Windows  The VergeMicrosoft wants 2026 to be a better year for Windows 11  Windows CentralMicrosoft Seeks to Rebuild Community Trust in Windows 11  TechPowerUpMicrosoft’s biggest Windows bug is user confidence  Windows Central",
-    "published date": "Thu, 29 Jan 2026 17:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYzZidUlTLV9tNl9kWDBRekhoRWo4SldfODlTU1lEWXo0bGlSQ3h3d1NrcW45MUpHbnNPV203V2xYeTNob1NSRnpxOE5NbF9LaE83SFRPSEJkczNtNTNOMUZsSmRFSlpTRm9wYmZ3Ulc5MENkZm1Udk56MUpZWEZrcWhEVkZmYnNYOWNnUDZXVmwtM0k?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theverge.com",
-      "title": "The Verge"
-    }
-  },
-  {
     "title": "Massive AI Chat App Leaked Millions of Users Private Conversations - 404 Media",
     "description": "Massive AI Chat App Leaked Millions of Users Private Conversations  404 MediaStop Using This App On Your iPhone—Warning Issued For Apple Users  Forbes",
     "published date": "Thu, 29 Jan 2026 14:57:21 GMT",
@@ -297,6 +357,16 @@
     "publisher": {
       "href": "https://www.404media.co",
       "title": "404 Media"
+    }
+  },
+  {
+    "title": "Microsoft is working to rebuild trust in Windows - The Verge",
+    "description": "Microsoft is working to rebuild trust in Windows  The VergeMicrosoft admits Windows 11 needs work, so it'll focus on improving things over 2026  XDAMicrosoft wants 2026 to be a better year for Windows 11  Windows CentralMicrosoft Seeks to Rebuild Community Trust in Windows 11  TechPowerUpMicrosoft’s biggest Windows bug is user confidence  Windows Central",
+    "published date": "Thu, 29 Jan 2026 17:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYzZidUlTLV9tNl9kWDBRekhoRWo4SldfODlTU1lEWXo0bGlSQ3h3d1NrcW45MUpHbnNPV203V2xYeTNob1NSRnpxOE5NbF9LaE83SFRPSEJkczNtNTNOMUZsSmRFSlpTRm9wYmZ3Ulc5MENkZm1Udk56MUpZWEZrcWhEVkZmYnNYOWNnUDZXVmwtM0k?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theverge.com",
+      "title": "The Verge"
     }
   },
   {
@@ -330,13 +400,13 @@
     }
   },
   {
-    "title": "JBL has resurrected its retro-tastic L100 speakers to celebrate its 80th birthday – but you’ll have to act fast if you want a pair - What Hi-Fi?",
-    "description": "JBL has resurrected its retro-tastic L100 speakers to celebrate its 80th birthday – but you’ll have to act fast if you want a pair  What Hi-Fi?JBL Marks 80 Years of Audio History with L100 Classic 80 Anniversary Edition Loudspeaker  eCoustics",
-    "published date": "Thu, 29 Jan 2026 13:15:50 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMTNZOGtYOFh1aVV3a0ZvbHg0OUFnSU9XQjhxTnJrZ2hmdDBrTXJNakJQdzJ2bndtMVdlOXZpbE5ZeWY2ZnZncVBPNF9IWWYxWTl1RTFBNVZRVVRGazNpZ0xYMU9rcFJGVk9lUldodW9aUEwzWDJkNGJNQ2JHXzJzZC1DRzhTbnBiR0ExSl9JTy1HTmV0aTBrSC1GUDNPM28yMnFWQUl2aDQybEpwR0kzbGN6ckhhMFlxY2hHWjJLVzlmbmh1cXRyNg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "I have 5 major concerns about Google's Android desktop OS - Android Authority",
+    "description": "I have 5 major concerns about Google's Android desktop OS  Android AuthorityOur first look at Google's Android for PC interface leaks in a bug report  EngadgetWill your Chromebook get the new ‘Aluminium’ update? Here is what Google says  Chrome UnboxedLeak shows Google’s new Aluminium OS in action for the first time  PCWorldLeaked images showcase Android's new Aluminum OS desktop interface — Google's nascent Windows rival spotted in screen recording of a Chromebook bug  Tom's Hardware",
+    "published date": "Thu, 29 Jan 2026 12:40:35 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNHF3T1NHQzAtVDliTkNyamxuTWJ0MXVZb21UeXp6MnE2UEtzWDF2VWlkQ1RRQVdZVXg4Z0VXa0kwNUpOOFpFN3BSWWxKdjBNLXNUbzk2MTlXdEpIQmFIWWFPbzJGeUxBR0hTMVBBRUlfRHZxSzFGUVl6UjFFNG1UbklINFdfUUNHOXNfMGUyV0JldHFWWXVQLUNR?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.whathifi.com",
-      "title": "What Hi-Fi?"
+      "href": "https://www.androidauthority.com",
+      "title": "Android Authority"
     }
   },
   {
@@ -360,6 +430,16 @@
     }
   },
   {
+    "title": "Mansory Ruins Snowmobiles Now, Too - Jalopnik",
+    "description": "Mansory Ruins Snowmobiles Now, Too  Jalopnik",
+    "published date": "Thu, 29 Jan 2026 20:25:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OenFVWlg5R2hMcXIybUItV3JqSnA3VXlhbkVidXFGZFQ1VVY0QnN6YWtYbTBITF94V2p4RUtBV25lWXR2R1hzdE1ibGktdFdNN1BwZE9QaWIxTUMycXlZd2daOFR5ZUdCTm90ZVI1U1RTbzBtZmRlakN6MV8?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.jalopnik.com",
+      "title": "Jalopnik"
+    }
+  },
+  {
     "title": "Microsoft explores bringing Linux-like top menu bar to Windows 11 with new PowerToys feature - Windows Central",
     "description": "Microsoft explores bringing Linux-like top menu bar to Windows 11 with new PowerToys feature  Windows Central",
     "published date": "Fri, 30 Jan 2026 00:22:04 GMT",
@@ -367,6 +447,16 @@
     "publisher": {
       "href": "https://www.windowscentral.com",
       "title": "Windows Central"
+    }
+  },
+  {
+    "title": "Stardew Valley Creator Shuts Down Rumors Haunted Chocolatier 'Will Be Abandoned,' Insisting: 'It Will Come Out When It’s Ready' - IGN",
+    "description": "Stardew Valley Creator Shuts Down Rumors Haunted Chocolatier 'Will Be Abandoned,' Insisting: 'It Will Come Out When It’s Ready'  IGNStardew Valley Creator Busts 4 Myths About His Upcoming Haunted Chocolatier Game  Kotaku",
+    "published date": "Thu, 29 Jan 2026 12:29:50 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOR0RscnNoeVBLd3V0MWswREJ6QnZ1TEFFMmZrckJMVmZWM21IMHNOOTFPbVFxeERZTldxMHJ0NkdiTmtkalhxbXRZaWNHLVhKTWhnbTlhWDJ5THdlcWluVmRNTmlzd3dNSS16U0dNUWRBSEQ1d1RDMkpKNEhaejRvNFhXSlY2cC0teXM2THpHR2FvMUFSMGxCMHF3ek1ReExpUDFLSDNLbndCNmxRdERuOUN4VjdWR3F5OG5EY3RlS3NyVGsxZnBXQUxxNTVHTjFmalBFVFRVSlZtVEFJeHhxRDAyZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ign.com",
+      "title": "IGN"
     }
   },
   {
@@ -380,18 +470,18 @@
     }
   },
   {
-    "title": "Genie 3 - Google DeepMind",
-    "description": "Genie 3  Google DeepMindProject Genie: Experimenting with infinite, interactive worlds  blog.googleGoogle's Project Genie lets you generate your own interactive worlds  EngadgetI built marshmallow castles in Google’s new AI-world generator  TechCrunchGoogle’s AI helped me make bad Nintendo knockoffs  The Verge",
-    "published date": "Thu, 29 Jan 2026 17:02:53 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ad1pldmNsMTdqRFVBMHpCanpSMlUtdDRHYjMtV3RORUF3THIxcW1CeU9LbjZGNFZQZHJha2YtMzBscmtEMHJlQ3cwa3A5Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Your Halo Story | Halo - Official Site (en) - Halo Waypoint",
+    "description": "Your Halo Story | Halo - Official Site (en)  Halo WaypointCelebrating 25 Years of Halo | Halo - Official Site (en)  Halo Waypoint",
+    "published date": "Fri, 30 Jan 2026 09:26:59 GMT",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wS1p5SS1LLUtIdHRuSUFsNVVqVFB6OXY5SXVzNDlXN2JHZmg0WFNBTFE3S0o5cXlUeG5jMGhxVGRHdXU3VGctX2xVUjUtTERiTHA1dlZSUXU1dzJGWlhISDREcUp0Wm9weGNkcw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://deepmind.google",
-      "title": "Google DeepMind"
+      "href": "https://www.halowaypoint.com",
+      "title": "Halo Waypoint"
     }
   },
   {
     "title": "Panther Lake vs Apple M5 benchmarks — 'Intel has done the incredible' - Tom's Guide",
-    "description": "Panther Lake vs Apple M5 benchmarks — 'Intel has done the incredible'  Tom's GuideIntel’s latest chip proves again that Apple made the right decision  MacworldWhat Intel Just Accomplished with Panther Lake Seemed Impossible 2 Years Ago  The Globe and MailWe just benchmarked the Intel Core Ultra X9 388H — AMD is officially on notice  Tom's GuideLeaked Intel Core Ultra 7 356H Benchmark Scores Reveal Middling Gains  TechPowerUp",
+    "description": "Panther Lake vs Apple M5 benchmarks — 'Intel has done the incredible'  Tom's GuideWhat Intel Just Accomplished with Panther Lake Seemed Impossible 2 Years Ago  The Globe and MailLeaked Intel Core Ultra 7 356H Benchmark Scores Reveal Middling Gains  TechPowerUpWe just benchmarked the Intel Core Ultra X9 388H — AMD is officially on notice  Tom's GuidePanther Lake isn’t just a laptop chip. It’s Intel’s Hail Mary  PCWorld",
     "published date": "Thu, 29 Jan 2026 05:30:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMGhhb0tvN0ZmUGdGLWo3ZjVGMVZBOE9ocTZSX0E5MFhIUk9uVXd4OGJpV1BxT3RESzljSERxWUlfLTNDOUFiREtIMlFzTHBsUS1MSVBfUXg2cHV0ck9yMjRZMy0wZVhpRlVsd0tLOXB4N1QwNWw1RXgzVnpvVUpFUEQ2SVowOHgybmVrVnZmUUhsTWc4Uk5pMmgtV0RKOU1yUWJJV2dYeVp2ZGI0V25xOFRaRTJxYjloaUcyU3U4YlQ0WmtqQmRVcHAwa3pqckVkQTRkUA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -400,23 +490,13 @@
     }
   },
   {
-    "title": "‘It’s not too late to fix it’: web inventor Tim Berners-Lee says he is in a ‘battle for the soul’ of the internet - The Guardian",
-    "description": "‘It’s not too late to fix it’: web inventor Tim Berners-Lee says he is in a ‘battle for the soul’ of the internet  The Guardian",
-    "published date": "Wed, 28 Jan 2026 21:55:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYjhtN1lTMWFmdjVDREZ0STFPenRKMWpVTlVNSERqeE5YbFIwT2d5T244Z3lPb21tMU9yTXlSVFJLQmpZekJtVHYzY3lwSFBlZk02QjRidXFYYlN4MEVCX0F2bE9OcFAwaXJWS29JeVNWWDhWeXhBa1JNV2pnZlhFanl0N25pTVplX05FNlhPb0thc1NyYXAwZDB4NlZPeXFocXZyUm5EcmdjTTdxTDc4?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Genie 3 - Google DeepMind",
+    "description": "Genie 3  Google DeepMindProject Genie: Experimenting with infinite, interactive worlds  blog.googleGoogle's Project Genie lets you generate your own interactive worlds  EngadgetGoogle’s AI helped me make bad Nintendo knockoffs  The VergeI built marshmallow castles in Google’s new AI-world generator  TechCrunch",
+    "published date": "Thu, 29 Jan 2026 17:02:53 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ad1pldmNsMTdqRFVBMHpCanpSMlUtdDRHYjMtV3RORUF3THIxcW1CeU9LbjZGNFZQZHJha2YtMzBscmtEMHJlQ3cwa3A5Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.theguardian.com",
-      "title": "The Guardian"
-    }
-  },
-  {
-    "title": "Dispatch on Switch & Switch 2 censored compared to PC/PS5 versions (UPDATE) - GoNintendo",
-    "description": "Dispatch on Switch & Switch 2 censored compared to PC/PS5 versions (UPDATE)  GoNintendoDispatch is censored on Nintendo Switch and Switch 2, and this might be the reason why  Video Games ChronicleNintendo shares statement on Dispatch censorship debacle...and it doesn't explain much  GoNintendoManage a group of ex-supervillains who are given one last shot at redemption in Dispatch, available now  NintendoDispatch is the rare game that copies movies correctly  Polygon",
-    "published date": "Wed, 28 Jan 2026 22:48:24 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdkllV01sVTZCQnJBeFJweUpoejJidjhHS3ZJSk5GUGRKRlJHTU41V193NEFyV09ITFRuZkhqclpRZW9kbVRMcXRNMTVtOFY2YlRTakU3UTN0bHlUMUVvVFRMWTdTcWFqTUpPYkxEZDctd1hIS3V0R2VfUjhRZlhGWGJ4aHE0YWtfRk1RR1hyY0hTSGFsZFl4T2xDbUlpOU1Yd2ZOeg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://gonintendo.com",
-      "title": "GoNintendo"
+      "href": "https://deepmind.google",
+      "title": "Google DeepMind"
     }
   },
   {
@@ -430,18 +510,18 @@
     }
   },
   {
-    "title": "From Clawdbot to Moltbot: How This AI Agent Went Viral, and Changed Identities, in 72 Hours - CNET",
-    "description": "From Clawdbot to Moltbot: How This AI Agent Went Viral, and Changed Identities, in 72 Hours  CNETIntroducing Moltworker: a self-hosted personal AI agent, minus the minis  The Cloudflare BlogMoltbot Is Taking Over Silicon Valley  WIREDClawdbot sheds skin to become Moltbot, can't slough off security issues  theregister.comClawdbot has AI techies buzzing — and buying Mac Minis  Business Insider",
-    "published date": "Wed, 28 Jan 2026 19:33:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTEcwdndsOENTdmlQaHZzSFd1VU5ROGNsRFN1bDFHT2V3ODZURE1hQXBuWEE0UU5fTVY0ZXFmUkhGa3VUajBpankxTmVja2VheWZ1SUhTN3FpM0NqT3VmOXJVbkZPcG5wWXZOODAzQ0w2Ulh6anpzOUVsNlA1WVRrSHBXYWFWWm9RSmdqS1RnbDRvY2FaeW9zUUNMOGtUaG1xRE52RVhDT3ZPNV9oMDFVOElfQ19lQmZMZUd1bkpWQ205bjFWbWg1U3F3YlZMQW0tenFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Dispatch on Switch & Switch 2 censored compared to PC/PS5 versions (UPDATE) - GoNintendo",
+    "description": "Dispatch on Switch & Switch 2 censored compared to PC/PS5 versions (UPDATE)  GoNintendoDispatch is censored on Nintendo Switch and Switch 2, and this might be the reason why  Video Games ChronicleNintendo shares statement on Dispatch censorship debacle...and it doesn't explain much (bumped to the front page)  GoNintendoDispatch is the rare game that copies movies correctly  PolygonDispatch Has To Cover Up On Nintendo Switch  GameSpot",
+    "published date": "Wed, 28 Jan 2026 22:48:24 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdkllV01sVTZCQnJBeFJweUpoejJidjhHS3ZJSk5GUGRKRlJHTU41V193NEFyV09ITFRuZkhqclpRZW9kbVRMcXRNMTVtOFY2YlRTakU3UTN0bHlUMUVvVFRMWTdTcWFqTUpPYkxEZDctd1hIS3V0R2VfUjhRZlhGWGJ4aHE0YWtfRk1RR1hyY0hTSGFsZFl4T2xDbUlpOU1Yd2ZOeg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.cnet.com",
-      "title": "CNET"
+      "href": "https://gonintendo.com",
+      "title": "GoNintendo"
     }
   },
   {
     "title": "Doom Has Come for Nvidia’s Graphics Cards, After All - Gizmodo",
-    "description": "Doom Has Come for Nvidia’s Graphics Cards, After All  GizmodoZotac warns component shortages threaten the 'very survival' of GPU manufacturers and distributors — message to Korean customers suggests that the worst could be yet to come  Tom's HardwareNvidia reportedly cuts program designed to keep gaming GPUs near MSRP pricing — end of OPP pricing-support scheme does not bode well for gamers  Tom's HardwareNVIDIA Allegedly Pausing RTX 50-Series Supply For Six Months  TechPowerUpZOTAC cancels RTX 50 orders, tells buyers to reorder after “system error” as prices go up  VideoCardz.com",
+    "description": "Doom Has Come for Nvidia’s Graphics Cards, After All  GizmodoNvidia reportedly cuts program designed to keep gaming GPUs near MSRP pricing — end of OPP pricing-support scheme does not bode well for gamers  Tom's HardwareZotac warns component shortages threaten the 'very survival' of GPU manufacturers and distributors — message to Korean customers suggests that the worst could be yet to come  Tom's HardwareNVIDIA Allegedly Pausing RTX 50-Series Supply For Six Months  TechPowerUpZOTAC Reportedly Cancels RTX 5090 Orders, Then Hikes Up GPU Prices Citing “System Error”  Wccftech",
     "published date": "Wed, 28 Jan 2026 22:00:47 GMT",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcUl1VGlDUnhkYnkxWml3NTV6YUx6M2lKVzJ4WE93TndWcmVTSXA2a2VBOURsZmZOWkNnaDZ5T2hveGFnM3I4V2ZiSmpIQjRobXdwLWpGNzJLNXBjazFaeHRfRU9Xbkw4bk1oMEw4a3A2aHVaT3R2MnBYVTJUdDJoX1VjY245UE5K?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -450,18 +530,18 @@
     }
   },
   {
-    "title": "Your Halo Story | Halo - Official Site (en) - Halo Waypoint",
-    "description": "Your Halo Story | Halo - Official Site (en)  Halo WaypointCelebrating 25 Years of Halo | Halo - Official Site (en)  Halo Waypoint",
-    "published date": "Fri, 30 Jan 2026 00:35:52 GMT",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wS1p5SS1LLUtIdHRuSUFsNVVqVFB6OXY5SXVzNDlXN2JHZmg0WFNBTFE3S0o5cXlUeG5jMGhxVGRHdXU3VGctX2xVUjUtTERiTHA1dlZSUXU1dzJGWlhISDREcUp0Wm9weGNkcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "PlayStation Plus free games for February 2026 revealed - Notebookcheck",
+    "description": "PlayStation Plus free games for February 2026 revealed  NotebookcheckView Full Coverage on Google News",
+    "published date": "Wed, 28 Jan 2026 17:07:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ0I1NVRTeTRZc3hDcm5sa1ZWX2xaWDN4ZDhNdllCQ0wyekdlVTJ0WVNpSkVrT1pZbWRIWVpQT2ZBcjZUdUlNc09nd1dSNjhpRFdXV0pLcldEbk9MeGdMaTdqVWx1dlJHYXFCeW5EMnRyLXpkUGlsYmJkb0FmMlZoWkhsc3dYUlp5Z05wM3VyT284ZGNVdzlzaWlmemlXbXZr?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.halowaypoint.com",
-      "title": "Halo Waypoint"
+      "href": "https://www.notebookcheck.net",
+      "title": "Notebookcheck"
     }
   },
   {
     "title": "‘Highguard’ Lost 80% Of Its Steam Players In 24 Hours - Forbes",
-    "description": "‘Highguard’ Lost 80% Of Its Steam Players In 24 Hours  ForbesA poor surprise reveal for Highguard leaves it fighting an uphill battle for good reviews  The Guardian'We were not ready': How the Highguard devs plan to avoid repeating their Apex Legends mistakes  PolygonHighguard Review So Far  IGNHighguard's first patch is already here, addressing major player complaints  Polygon",
+    "description": "‘Highguard’ Lost 80% Of Its Steam Players In 24 Hours  ForbesA poor surprise reveal for Highguard leaves it fighting an uphill battle for good reviews  The GuardianHighguard Review So Far  IGN'We were not ready': How the Highguard devs plan to avoid repeating their Apex Legends mistakes  PolygonHighguard's first patch is already here, addressing major player complaints  Polygon",
     "published date": "Wed, 28 Jan 2026 14:07:49 GMT",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeVpKbW9pbURmdXlTS3NYZE44a1lBUHUwWE1UWDEzX0dFUFVQZkM2eW00RVVvR01GX3RJcFlJZ3o5OW9kTHpJUFVEb01OUkNmX2o1ei1vMllwRWViM3hvci0yMWJ4aTBkYXV1WGxaY3JUN1NxTXk1TWpjbWdWdWZtMnVVeEdHRE1wYUJNWTZqbU16Nk5SMmsyMkRRUEFRelJFR2Jv?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -490,13 +570,13 @@
     }
   },
   {
-    "title": "What technology takes from us – and how to take it back | Rebecca Solnit - The Guardian",
-    "description": "What technology takes from us – and how to take it back | Rebecca Solnit  The Guardian",
-    "published date": "Thu, 29 Jan 2026 10:20:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWExUbWlJbThUeW5jaXNyZndyNExEYWp2U2hsR2hGdXhSMzhCTUNuTlNMVmtkNjA5WEhHcXJjQjR4dFlBdlY0T19aN1FjV1JSYjZndlZOSFhaVm95ZHVKMjJtSk53cHNVLXgxelZkRlczM3RfR2s3T0NIcFM1YU1BWGhNSFV3WjlKN1VlZUJ4MWJpclM0ZGliTFFIc3lSbWhDVHQ2eW5JakVVUl9ISTZ0WlYxSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "We’re Already Skiing Next Season’s Gear—And the Trend Is Clear - skimag.com",
+    "description": "We’re Already Skiing Next Season’s Gear—And the Trend Is Clear  skimag.com",
+    "published date": "Wed, 28 Jan 2026 16:42:40 GMT",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FOWlaVm10TjhmdmpwM3lveUQ4bUJzbWVFbmhjSWdqVG9pUk1BVmlya1Z6SjVBUy1mSlVtUmFjWUdwdThveVVjQ2xDel9keXdFam1yY05WZUM5XzV0MWRKdVRIRXN0bFQteGFHZFBvcEcxTDR5QS1z?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.theguardian.com",
-      "title": "The Guardian"
+      "href": "https://www.skimag.com",
+      "title": "skimag.com"
     }
   },
   {
