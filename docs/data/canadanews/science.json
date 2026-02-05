@@ -1,5 +1,15 @@
 [
   {
+    "title": "Guelph science communicator Orbax discusses Artemis II mission - Guelph Mercury",
+    "description": "Guelph science communicator Orbax discusses Artemis II mission  Guelph MercuryArtemis II will secure Canada as major player in space exploration  CityNews KitchenerOttawa space companies eagerly awaiting launch of Artemis II  CTV NewsThe Great Orbax on Artemis II mission  CHCHStar Gazing: Humanity returns to the moon!  Guelph News",
+    "published date": "Thu, 05 Feb 2026 11:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPREtPOU83VlRmN1ZETU1YUy0xOHJlZHRydmgtcFFudVZQX29QN3BQOUF2T2NLV3hLb3NTb0tDT2lKanlKdG5qTFhTZm5ZZEVxU1VoSzJCWXA4MU1NNGtTdFF6OWVDMndkamJtY0lFQmdza0FMdGNMYkdZSS1DdTdlTGkyQkVvc05TaVN6STBXeXZmS3RLbkJCcXZqRC1QZ2gtN1l1eGlfTVF2YjlBd3k0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.guelphmercury.com",
+      "title": "Guelph Mercury"
+    }
+  },
+  {
     "title": "Why NASA’s Artemis 2 Moon shot will slip to March - Astronomy Magazine",
     "description": "Why NASA’s Artemis 2 Moon shot will slip to March  Astronomy MagazineNASA delays Artemis II launch due to hydrogen leak during rehearsal  CBCMorning Update: NASA’s moon mission hits a snag  The Globe and MailNASA Conducts Artemis II Fuel Test, Eyes March for Launch Opportunity  NASA (.gov)NASA delays Artemis launch with Canadian astronaut Jeremy Hansen until March  CityNews Halifax",
     "published date": "Wed, 04 Feb 2026 16:13:53 GMT",
@@ -7,16 +17,6 @@
     "publisher": {
       "href": "https://www.astronomy.com",
       "title": "Astronomy Magazine"
-    }
-  },
-  {
-    "title": "Guelph science communicator Orbax discusses Artemis II mission - Guelph Mercury-Tribune",
-    "description": "Guelph science communicator Orbax discusses Artemis II mission  Guelph Mercury-TribuneArtemis II will secure Canada as major player in space exploration  CityNews KitchenerOttawa space companies eagerly awaiting launch of Artemis II  CTV NewsA giant leap for snacks: Defence Team member sweetens Canada's journey to the moon  canada.caStar Gazing: Humanity returns to the moon!  Guelph News",
-    "published date": "Thu, 05 Feb 2026 11:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPREtPOU83VlRmN1ZETU1YUy0xOHJlZHRydmgtcFFudVZQX29QN3BQOUF2T2NLV3hLb3NTb0tDT2lKanlKdG5qTFhTZm5ZZEVxU1VoSzJCWXA4MU1NNGtTdFF6OWVDMndkamJtY0lFQmdza0FMdGNMYkdZSS1DdTdlTGkyQkVvc05TaVN6STBXeXZmS3RLbkJCcXZqRC1QZ2gtN1l1eGlfTVF2YjlBd3k0?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.guelphmercury.com",
-      "title": "Guelph Mercury-Tribune"
     }
   },
   {
@@ -37,6 +37,16 @@
     "publisher": {
       "href": "https://armchairmayor.ca",
       "title": "ArmchairMayor.ca"
+    }
+  },
+  {
+    "title": "A new comet was just discovered. Will it be visible in broad daylight? - The Conversation",
+    "description": "A new comet was just discovered. Will it be visible in broad daylight?  The ConversationWill a bright comet adorn our early spring sky? Why astronomers are getting excited about Comet C/2026 A1 (MAPS)  Space",
+    "published date": "Thu, 05 Feb 2026 04:14:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdDM0OGJxV29qbmF2ZjBGWmlrSUNsLWt1VzhBeDE1QUFtLVg1MFlpbUtxRk5lOGZucVRJOENEOW9VeTFIWkQzU2ZyaEc1Y1BPaHktTmJhcnRIY0JIWW8zMEdGMGJpV1JSSXN0TTFSMnl3aFRtRDhCVDVyUjNxNDJ6dGFSZXliVFhDdDZmOU5Uam9jVVFodG5GSmRaSGh1ZmNBVnBKdHdR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://theconversation.com",
+      "title": "The Conversation"
     }
   }
 ]
