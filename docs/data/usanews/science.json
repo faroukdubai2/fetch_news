@@ -1,15 +1,5 @@
 [
   {
-    "title": "Exposure to burn injuries played key role in shaping human evolution, study suggests - Phys.org",
-    "description": "Exposure to burn injuries played key role in shaping human evolution, study suggests  Phys.org",
-    "published date": "Thu, 05 Feb 2026 00:10:06 GMT",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5MTUZGbzduVGptZ0VLNVhSWlYtcWtQYXpQaENOSjVEUkFsNm1nZ05XTmgzNmk4aWRTVUVGZk8zRnhWTnpwV2xQb1k2cUl0VENJN3BuUWRUUDhYRjBESEhQWHdNdlljcG5SOE1SYlFoWl92WGJWTE80?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://phys.org",
-      "title": "Phys.org"
-    }
-  },
-  {
     "title": "Is Jupiter on a diet? New measurements say it's smaller than we thought - Space",
     "description": "Is Jupiter on a diet? New measurements say it's smaller than we thought  SpaceNASA's Juno finds Jupiter is a tiny bit smaller than previously thought  ReutersNASA’s Juno Mission Redefines Size, Shape of Jupiter  NASA Science (.gov)The size and shape of Jupiter  NatureJupiter's slimmer profile: Giant planet revealed to be narrower at equator  Phys.org",
     "published date": "Wed, 04 Feb 2026 13:00:00 GMT",
@@ -21,12 +11,22 @@
   },
   {
     "title": "NASA examining hydrogen leaks during Artemis 2 fueling test - SpaceNews",
-    "description": "NASA examining hydrogen leaks during Artemis 2 fueling test  SpaceNewsNASA delays launch of historic moon mission  CNNNASA delays astronauts' lunar trip until March after rocket's hydrogen leaks mar fueling test  PBSArtemis II is returning humans to the moon with science riding shotgun  Science NewsArtemis II Wet Dress Rehearsal: Test Terminated at T-5:15  NASA (.gov)",
+    "description": "NASA examining hydrogen leaks during Artemis 2 fueling test  SpaceNewsNASA Conducts Artemis II Fuel Test, Eyes March for Launch Opportunity  NASA (.gov)NASA delays launch of historic moon mission  cnn.comNASA delays astronauts' lunar trip until March after rocket's hydrogen leaks mar fueling test  PBSArtemis II is returning humans to the moon with science riding shotgun  Science News",
     "published date": "Wed, 04 Feb 2026 02:10:28 GMT",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbXg0REFBOW54cEZDTmNGNDF4SGk1V05QYkZqaFl2WmFDdnJvWThERzRiSlU0dGRQUlJ1WlcxX3ZfYXk4OUZMckdaWWdkczZMNU5CLWt6S2poWmdEa1JHS2VRY3VjRmwzTE9fczR3MFpXd3RVUlNtM1l4dWhXMi1RMVlxcWxYVFRnYWc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://spacenews.com",
       "title": "SpaceNews"
+    }
+  },
+  {
+    "title": "Exposure to burn injuries played key role in shaping human evolution, study suggests - Phys.org",
+    "description": "Exposure to burn injuries played key role in shaping human evolution, study suggests  Phys.orgBurning ourselves could be how humans evolved so successfully  BBC Science Focus MagazineBurn Injuries: A Crucial Factor in Shaping Human Evolution, Study Reveals  Bioengineer.org",
+    "published date": "Thu, 05 Feb 2026 00:10:06 GMT",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5MTUZGbzduVGptZ0VLNVhSWlYtcWtQYXpQaENOSjVEUkFsNm1nZ05XTmgzNmk4aWRTVUVGZk8zRnhWTnpwV2xQb1k2cUl0VENJN3BuUWRUUDhYRjBESEhQWHdNdlljcG5SOE1SYlFoWl92WGJWTE80?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://phys.org",
+      "title": "Phys.org"
     }
   },
   {
@@ -60,6 +60,26 @@
     }
   },
   {
+    "title": "SpaceX halts Falcon 9 flights after second stage anomaly - theregister.com",
+    "description": "SpaceX halts Falcon 9 flights after second stage anomaly  theregister.comSpaceX experiences Falcon 9 upper stage anomaly following Starlink deployment  Spaceflight NowSpaceX experiences upper stage mishap during California Starlink launch  Florida TodaySpaceX pauses Falcon 9 launches after upper stage anomaly  SpaceNewsSpaceX grounds its Falcon 9 rocket after a problem with its upper stage. Will the Crew-12 astronaut mission be affected?  Space",
+    "published date": "Wed, 04 Feb 2026 11:02:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54cWRkblZyRjZ0LWU5R0ozdjJYNzZkOWZIZWdybmNHcmdDdkhNS2JnRFBaXy1WdGNSQktSUVR1Ti01b25yNDdrTHMzZTQ0TWd5eUQ2TlFvQ1JGeURzTnpZck9VdThoOHRJT1ZDenpBUGU0Q0VGdVFfcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theregister.com",
+      "title": "theregister.com"
+    }
+  },
+  {
+    "title": "Glimpsing the quantum vacuum: Particle spin correlations offer insight into how visible matter emerges from 'nothing' - Phys.org",
+    "description": "Glimpsing the quantum vacuum: Particle spin correlations offer insight into how visible matter emerges from 'nothing'  Phys.orgMeasuring spin correlation between quarks during QCD confinement  NaturePhysicists Get a Peek at How Matter Is Born From ‘Nothing’  NewsweekPhysicists trace particles back to the quantum vacuum  Scientific American",
+    "published date": "Wed, 04 Feb 2026 21:20:46 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSWxLZjVmdlFXaWlGRFFDcERJT1VtZHNBc1lZYmY0U1l0eGttWjRPZlJPSFdaN3NFam1jQTBFczF2VElzNkY3RU9tX1prY1VwT0ZWZUhNLWc0WTJJV1hNeU51dHh2NEhkdGF0cXFRMUpfckNKbUlIOXBTZWhqZHBmTWJn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://phys.org",
+      "title": "Phys.org"
+    }
+  },
+  {
     "title": "Open-source AI tool beats giant LLMs in literature reviews — and gets citations right - Nature",
     "description": "Open-source AI tool beats giant LLMs in literature reviews — and gets citations right  NatureSynthesizing scientific literature with retrieval-augmented language models  NatureOpenScholar has been accepted to Nature  Allen AINew chatbot ‘outperforms PhDs on literature reviews’, funds Nature study  Times Higher EducationAI model OpenScholar synthesizes scientific research and cites sources as accurately as human experts  Phys.org",
     "published date": "Wed, 04 Feb 2026 16:56:43 GMT",
@@ -70,38 +90,8 @@
     }
   },
   {
-    "title": "Glimpsing the quantum vacuum: Particle spin correlations offer insight into how visible matter emerges from 'nothing' - Phys.org",
-    "description": "Glimpsing the quantum vacuum: Particle spin correlations offer insight into how visible matter emerges from 'nothing'  Phys.orgMeasuring spin correlation between quarks during QCD confinement  NaturePhysicists Get a Peek at How Matter Is Born From ‘Nothing’  NewsweekPhysicists trace particles back to the quantum vacuum  Scientific American",
-    "published date": "Wed, 04 Feb 2026 22:08:19 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSWxLZjVmdlFXaWlGRFFDcERJT1VtZHNBc1lZYmY0U1l0eGttWjRPZlJPSFdaN3NFam1jQTBFczF2VElzNkY3RU9tX1prY1VwT0ZWZUhNLWc0WTJJV1hNeU51dHh2NEhkdGF0cXFRMUpfckNKbUlIOXBTZWhqZHBmTWJn?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://phys.org",
-      "title": "Phys.org"
-    }
-  },
-  {
-    "title": "Scientists just mapped the hidden structure holding the Universe together - ScienceDaily",
-    "description": "Scientists just mapped the hidden structure holding the Universe together  ScienceDailyAn ultra-high-resolution map of (dark) matter  NatureWebb Telescope Maps the Invisible ‘Skeleton’ Holding Our Universe Together  YahooMysterious dark matter seen in new high-resolution map of distant galaxies  CBS NewsScientists assemble the most detailed map of dark matter ever  National Geographic",
-    "published date": "Tue, 03 Feb 2026 08:49:48 GMT",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fMUJkTEstY1NBNmlCR3RhUjNIUE1LS3h4X2I0X3p3Mk00RFcwZGp2am5BNzZmTWFPTVRKRmdSVlprTU9FYlZid21SN185RkkyRUUzOUxHOUVERlBsLVA1SEhJMUtxVENPeVlaUlp4OA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.sciencedaily.com",
-      "title": "ScienceDaily"
-    }
-  },
-  {
-    "title": "SpaceX halts Falcon 9 flights after second stage anomaly - theregister.com",
-    "description": "SpaceX halts Falcon 9 flights after second stage anomaly  theregister.comSpaceX experiences Falcon 9 upper stage anomaly following Starlink deployment  Spaceflight NowSpaceX experiences upper stage mishap during California Starlink launch  Florida TodaySpaceX grounds its Falcon 9 rocket after a problem with its upper stage. Will the Crew-12 astronaut mission be affected?  SpaceSpaceX grounds Falcon 9 missions, could impact ISS launch  Phys.org",
-    "published date": "Wed, 04 Feb 2026 11:02:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54cWRkblZyRjZ0LWU5R0ozdjJYNzZkOWZIZWdybmNHcmdDdkhNS2JnRFBaXy1WdGNSQktSUVR1Ti01b25yNDdrTHMzZTQ0TWd5eUQ2TlFvQ1JGeURzTnpZck9VdThoOHRJT1ZDenpBUGU0Q0VGdVFfcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theregister.com",
-      "title": "theregister.com"
-    }
-  },
-  {
     "title": "Imaging a terahertz superfluid plasmon in a two-dimensional superconductor - Nature",
-    "description": "Imaging a terahertz superfluid plasmon in a two-dimensional superconductor  NatureTerahertz microscope reveals the motion of superconducting electrons  Phys.orgTerahertz microscope observes collective electron waves in a 2D superconductor  동아사이언스World’s first terahertz microscope shows long-hidden quantum jiggle in superconductors  Interesting EngineeringTerahertz Microscope Unveils the Dynamics of Superconducting Electrons  Bioengineer.org",
+    "description": "Imaging a terahertz superfluid plasmon in a two-dimensional superconductor  NatureTerahertz microscope reveals the motion of superconducting electrons  Phys.orgWorld’s first terahertz microscope shows long-hidden quantum jiggle in superconductors  Interesting EngineeringTerahertz Microscope Unveils the Dynamics of Superconducting Electrons  Bioengineer.orgPhysicists Capture the First Direct View of Superconducting Electrons Jiggling in Unison  ScienceBlog.com",
     "published date": "Wed, 04 Feb 2026 16:08:18 GMT",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80MFRLNUtRaWZIaDRKSEo1cmRJbFBrVW9UcG5jYVI1S0JPaGhHeE1TNHVXeEdNZkQ0X2tJZVhMd0Yzd3g1M3JlczV1V3hvSEhuYTZJU1lNanpjaFRBTkdN?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -111,9 +101,29 @@
   },
   {
     "title": "NASA's Perseverance Mars rover completes its 1st drive planned by AI - Space",
-    "description": "NASA's Perseverance Mars rover completes its 1st drive planned by AI  SpaceClaude AI Powers First AI-Planned Mars Rover Drive  AnthropicNASA’s Perseverance Rover Completes First AI-Planned Drive on Mars  NASA (.gov)All About Vandi Verma, Indian-Origin Scientist Behind Mars Rover's AI-Powered Drive  NDTVNASA used Claude to plot a route for its Perseverance rover on Mars  Engadget",
+    "description": "NASA's Perseverance Mars rover completes its 1st drive planned by AI  SpaceClaude on Mars  AnthropicNASA’s Perseverance Rover Completes First AI-Planned Drive on Mars  NASA (.gov)All About Vandi Verma, Indian-Origin Scientist Behind Mars Rover's AI-Powered Drive  NDTVNASA used Claude to plot a route for its Perseverance rover on Mars  Engadget",
     "published date": "Tue, 03 Feb 2026 22:00:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVWIyYkZxeVg4Nm9BVF9LdU16RGlYQ1J5NVJMbkFLYnNabW5FNnhHZmpoVG1LOHNnRzFsbUFxS2FNaTY4OGRGS3pCel9UR2VGV1RQU2ZFeFFPWkpMQTYtcnA2TUl4ZnN1dl91dTB3LWZtdUhtU2JIVllkcE1MU2NETzJ1N2tlRFRWZzB2TnBNRUtOb0RLN25fTFF2UzBWQlNnVUFvNUNxSWowM3hEbk1xeVk4TkxWZ3JtTUQw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.space.com",
+      "title": "Space"
+    }
+  },
+  {
+    "title": "It's time to think about human reproduction in space, scientists urge - Space",
+    "description": "It's time to think about human reproduction in space, scientists urge  SpaceWe’re Nowhere Near Ready to Make Babies in Space, Experts Warn  GizmodoSpace tourism raises ‘urgent’ fertility questions, Nasa says  The TimesReproduction in space, an environment hostile to human biology  Phys.orgIs It Safe For Humans To Have Babies In Space? Study Provides Answers  NDTV",
+    "published date": "Wed, 04 Feb 2026 22:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNREo3SGEyVlRXRnd4czlmc3Vua0RFR3k3OUt5clRzWjhEV0NHN25nc1ltXzNjRlJjZ09HUjZPR3E1NjJUOTVyc3pVajBWSHhwZHFIRVdxOUhOczlIYWxjcE9TczdCLWNESzNmbTRlVmtrbVdjTVZUNzhObnFkcU9OUTVtbHBPcWplUW52ZV84Q3hRT0dXeWZCd3pUMXFLODk4NU9LeFlrZExBNTVVTkFXWGNoWkdBQ1RCVjZQektSQXN4REk?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.space.com",
+      "title": "Space"
+    }
+  },
+  {
+    "title": "James Webb Space Telescope finds most distant galaxy ever detected: 'It looks nothing like what we predicted' - Space",
+    "description": "James Webb Space Telescope finds most distant galaxy ever detected: 'It looks nothing like what we predicted'  SpaceAn X-ray-emitting protocluster at z ≈ 5.7 reveals rapid structure growth  Nature‘Baby cluster’ of galaxies may challenge cosmic models  Scientific AmericanAstronomers Spot a Huge Cluster of Galaxies Forming Earlier in Cosmic History Than Thought Possible  Smithsonian MagazineDeveloping galaxy cluster dating to about one billion years after the Big Bang  Reuters Connect",
+    "published date": "Wed, 04 Feb 2026 15:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNeER6VzRnYUdyMExMU3htOGFvQndIZXhzYUNGUjZWS0hSY21lX2F0YUpiY0dRUEpnb09jeG5IWnZzb1VUd3dfTDJNdGxVV0VsU0c3bVVuTDJrUnQ3NW9PY0tnc09EMTRxcC05RWsxdlpfRncyV1F6Um5MWWNtZjk0NW1BcFY2aTJsY1Vrc3p2VFZYX0JZdV9VT1daMi1uWHJHb1FfYU1oSkhkN0JoVjV2LTA3WHh1dDQ5TjBja0FfMll3anVfWjJhNmJtNzlna3FTVks5SGVXRVFJNVBKdThxQVgxRm1Mdm11cTJYbXZ6YmpEaWZZNDJmMQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.space.com",
       "title": "Space"
@@ -130,13 +140,33 @@
     }
   },
   {
-    "title": "It's time to think about human reproduction in space, scientists urge - Space",
-    "description": "It's time to think about human reproduction in space, scientists urge  SpaceWe’re Nowhere Near Ready to Make Babies in Space, Experts Warn  GizmodoSpace tourism raises ‘urgent’ fertility questions, Nasa says  The TimesReproduction in space, an environment hostile to human biology  Phys.orgZero-G Births: Humanity's Final Frontier or Fatal Error?  WION",
-    "published date": "Wed, 04 Feb 2026 22:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNREo3SGEyVlRXRnd4czlmc3Vua0RFR3k3OUt5clRzWjhEV0NHN25nc1ltXzNjRlJjZ09HUjZPR3E1NjJUOTVyc3pVajBWSHhwZHFIRVdxOUhOczlIYWxjcE9TczdCLWNESzNmbTRlVmtrbVdjTVZUNzhObnFkcU9OUTVtbHBPcWplUW52ZV84Q3hRT0dXeWZCd3pUMXFLODk4NU9LeFlrZExBNTVVTkFXWGNoWkdBQ1RCVjZQektSQXN4REk?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Are There Ten Trillion Objects Like 3I/ATLAS Within the Solar System Right Now? - Avi Loeb – Medium",
+    "description": "Are There Ten Trillion Objects Like 3I/ATLAS Within the Solar System Right Now?  Avi Loeb – MediumNASA’s SPHEREx Examines Comet 3I/ATLAS’s Coma  NASA Science (.gov)Important news about 3I/ATLAS: sharp images of the mysterious interstellar object are finally captured  MARCA3I/ATLAS: Is There Life On The Exocomet? Harvard Astrophysicist Avi Loeb Decodes Latest Webb’s Data From NASA  Mashable IndiaNASA’s TESS Tracks Interstellar Comet 3I/ATLAS in Its Final Act  DIYPhotography",
+    "published date": "Wed, 04 Feb 2026 20:05:37 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSDRWUDZ5aDBqQ0lPQUVEVUVsNG9McmlIaTRtMWdkRHpyR1RZX3JoVUxlZ1c4QWFfQW1xTTAyWnNZWVhwbHFlVm43WUZfbEhDWXZmd2EzOWtmOVFRUFpEVVUwbjc4dm9na015Yjdhd1J0RnI3NmtVWHRGZTJaaWV6RE9BRE44d1JJYmc2bWFsRVZqUGRDck8wOXluVVdoQ2c3Wi02OGpER0FOMjdwVEhiWUYySjJKbXhhMkh3?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.space.com",
-      "title": "Space"
+      "href": "https://avi-loeb.medium.com",
+      "title": "Avi Loeb – Medium"
+    }
+  },
+  {
+    "title": "Tiny dinosaur fossil could provide evolutionary clues: study - DW.com",
+    "description": "Tiny dinosaur fossil could provide evolutionary clues: study  DW.comNew chicken-sized dinosaur baffles paleontologists  Scientific AmericanThis strange little dinosaur is forcing a rethink of evolution  ScienceDailyTiny New Dinosaur Species Is An Early Cretaceous Cutie – And Fills A 70-Million-Year Evolutionary Gap  IFLScienceTiny New Species of Herbivorous Dinosaur Unearthed in Spain  Sci.News",
+    "published date": "Wed, 04 Feb 2026 13:05:34 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOajhBMjlsR2lyck5lbVJDVGxTbG0yZFNzRDhTSjBkTUR4MmEzbDRlWnNWN1ZNWFFybHR0Y1lFZlZIMnlFV01BYi04U0R3MUJjREFZTDlERWZJX0JuZnJtV1oxeThBcTE1WnY5aUdJeHpfZDJwNjdxQTZWR2RGb3NFYk85QkxoeXgwOGVfZXowSkJtX0NaLVJr0gGXAUFVX3lxTE1qb0lGT0VpNF9fd3FYaEJBZHprM1FkZTZoRGNaeHlkVTRKVmdwdkt5cktpYUtsQ0tiZXF5M19MeElsYkJPTkhhcGVoaExnVlEyMmk3OEdoZVQ3Y1pHWTl3SnRNVlhaNnNmZXdmQXh3RldiV083aHNXNVlBaGZrOFRkZkpmSy1lQ2F4dzR1Q0lvZ0JYMWdWaXM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.dw.com",
+      "title": "DW.com"
+    }
+  },
+  {
+    "title": "Have you got what it takes to go to the Moon? - BBC",
+    "description": "Have you got what it takes to go to the Moon?  BBCA Cal Poly graduate will pilot the upcoming mission to the moon. What to know  San Luis Obispo TribuneMeet the Man of Faith Helping Pilot NASA’s Historic Return to the Moon  Crosswalk.com'Don't Screw It Up': Victor Glover's Candid Take on Piloting NASA's Moon Mission  International Business Times UK",
+    "published date": "Tue, 03 Feb 2026 10:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObWxaREgwM2VnTEZ0LUs0Z2lGYi1FVFFVaTZoWW9Iay1hUjVKdjhQQzA0eGlnZ2xqLXFXNVlPSVRrdEp4QkF0eEkxZlgtYWJ1ZHpZWmlpRzhuWmVTUWh6UGtXQzcxNWl1TENLMUF2RlZBSUtuWG1KQ1hadmx4NVk3c2xtbVU2RmxTazN6em9uOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bbc.com",
+      "title": "BBC"
     }
   },
   {
@@ -150,36 +180,6 @@
     }
   },
   {
-    "title": "Are There Ten Trillion Objects Like 3I/ATLAS Within the Solar System Right Now? - Avi Loeb – Medium",
-    "description": "Are There Ten Trillion Objects Like 3I/ATLAS Within the Solar System Right Now?  Avi Loeb – MediumNASA’s SPHEREx Mission Tracks Brightening of Interstellar Comet  NASA Science (.gov)3I/ATLAS: Is There Life On The Exocomet? Harvard Astrophysicist Avi Loeb Decodes Latest Webb’s Data From NASA  Mashable India3I/ATLAS Is Emitting A Chemical Signal Scientists Did Not Expect  USA HeraldNew spacecraft images show interstellar comet 3I/ATLAS in unexpectedly sharp detail  secom.es",
-    "published date": "Wed, 04 Feb 2026 20:05:37 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSDRWUDZ5aDBqQ0lPQUVEVUVsNG9McmlIaTRtMWdkRHpyR1RZX3JoVUxlZ1c4QWFfQW1xTTAyWnNZWVhwbHFlVm43WUZfbEhDWXZmd2EzOWtmOVFRUFpEVVUwbjc4dm9na015Yjdhd1J0RnI3NmtVWHRGZTJaaWV6RE9BRE44d1JJYmc2bWFsRVZqUGRDck8wOXluVVdoQ2c3Wi02OGpER0FOMjdwVEhiWUYySjJKbXhhMkh3?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://avi-loeb.medium.com",
-      "title": "Avi Loeb – Medium"
-    }
-  },
-  {
-    "title": "Tiny dinosaur fossil could provide evolutionary clues: study - dw.com",
-    "description": "Tiny dinosaur fossil could provide evolutionary clues: study  dw.comThis strange little dinosaur is forcing a rethink of evolution  ScienceDailyTiny New Dinosaur Species Is An Early Cretaceous Cutie – And Fills A 70-Million-Year Evolutionary Gap  IFLScienceNew chicken-sized dinosaur baffles paleontologists  Scientific AmericanTiny New Species of Herbivorous Dinosaur Unearthed in Spain  Sci.News",
-    "published date": "Wed, 04 Feb 2026 13:05:34 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOajhBMjlsR2lyck5lbVJDVGxTbG0yZFNzRDhTSjBkTUR4MmEzbDRlWnNWN1ZNWFFybHR0Y1lFZlZIMnlFV01BYi04U0R3MUJjREFZTDlERWZJX0JuZnJtV1oxeThBcTE1WnY5aUdJeHpfZDJwNjdxQTZWR2RGb3NFYk85QkxoeXgwOGVfZXowSkJtX0NaLVJr0gGXAUFVX3lxTE1qb0lGT0VpNF9fd3FYaEJBZHprM1FkZTZoRGNaeHlkVTRKVmdwdkt5cktpYUtsQ0tiZXF5M19MeElsYkJPTkhhcGVoaExnVlEyMmk3OEdoZVQ3Y1pHWTl3SnRNVlhaNnNmZXdmQXh3RldiV083aHNXNVlBaGZrOFRkZkpmSy1lQ2F4dzR1Q0lvZ0JYMWdWaXM?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.dw.com",
-      "title": "dw.com"
-    }
-  },
-  {
-    "title": "James Webb Space Telescope finds most distant galaxy ever detected: 'It looks nothing like what we predicted' - Space",
-    "description": "James Webb Space Telescope finds most distant galaxy ever detected: 'It looks nothing like what we predicted'  SpaceAn X-ray-emitting protocluster at z ≈ 5.7 reveals rapid structure growth  Nature‘Baby cluster’ of galaxies may challenge cosmic models  Scientific AmericanAstronomers Spot a Huge Cluster of Galaxies Forming Earlier in Cosmic History Than Thought Possible  Smithsonian MagazineDeveloping galaxy cluster dating to about one billion years after the Big Bang  Reuters Connect",
-    "published date": "Wed, 04 Feb 2026 15:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNeER6VzRnYUdyMExMU3htOGFvQndIZXhzYUNGUjZWS0hSY21lX2F0YUpiY0dRUEpnb09jeG5IWnZzb1VUd3dfTDJNdGxVV0VsU0c3bVVuTDJrUnQ3NW9PY0tnc09EMTRxcC05RWsxdlpfRncyV1F6Um5MWWNtZjk0NW1BcFY2aTJsY1Vrc3p2VFZYX0JZdV9VT1daMi1uWHJHb1FfYU1oSkhkN0JoVjV2LTA3WHh1dDQ5TjBja0FfMll3anVfWjJhNmJtNzlna3FTVks5SGVXRVFJNVBKdThxQVgxRm1Mdm11cTJYbXZ6YmpEaWZZNDJmMQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.space.com",
-      "title": "Space"
-    }
-  },
-  {
     "title": "Watch: These metal tubes don’t sink in water - futurity.org",
     "description": "Watch: These metal tubes don’t sink in water  futurity.orgUnsinkable metal discovery could build safer ships and harvest wave energy  Scientific AmericanSaving the Titanic : the science of icebergs and unsinkable ships  Physics WorldNew technology for unsinkable metal tubes, created by researchers in the United States, rekindles the dream of the Titanic and promises to change ships, platforms, and naval engineering worldwide.  CPG Click Petróleo e GásThese Metal Tubes Don’t Sink Even If You Drill Holes Into Them  ZME Science",
     "published date": "Wed, 04 Feb 2026 16:29:09 GMT",
@@ -187,6 +187,16 @@
     "publisher": {
       "href": "https://www.futurity.org",
       "title": "futurity.org"
+    }
+  },
+  {
+    "title": "What Happens If Science Finally Explains Consciousness? A New Study Explores the Consequences - The Debrief",
+    "description": "What Happens If Science Finally Explains Consciousness? A New Study Explores the Consequences  The DebriefOnly What Is Alive Can Be Conscious  Noema Magazine“Existential risk” – Why scientists are racing to define consciousness  ScienceDailyAI is advancing faster than our understanding of awareness  Earth.comAI Has a Mind — But No Soul  vocal.media",
+    "published date": "Tue, 03 Feb 2026 13:07:08 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRndUSHlfMmZZOGJISi1fTjFyLW85RDJXX3RQTTNVUF9sZUhWYlhreUp4blVtWGZRSXFRNXVvblBjMHY5SkJmVTN4aEhaMUIzcUJQYXR0NFREQXkzZE0xNkhjaXotc0NIRnBHdWhkNG1YdmV1U3NpLVk2X3lTR0R3aWl6OS1xS1luMU1fWTJhMG5wUWtNMnJyWEdJMTdtYnd3Q0swdENZYzZPOGlzMGxoRXliREhvanM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://thedebrief.org",
+      "title": "The Debrief"
     }
   },
   {
@@ -200,6 +210,26 @@
     }
   },
   {
+    "title": "It May Be Safe to Nuke an Earthbound Asteroid After All, Simulation Suggests - ScienceAlert",
+    "description": "It May Be Safe to Nuke an Earthbound Asteroid After All, Simulation Suggests  ScienceAlertAsteroid Nuking Could Save Earth and It’s No Longer Just Sci-Fi!  The Daily Galaxy",
+    "published date": "Wed, 04 Feb 2026 02:26:24 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTFV3LXJmNFA0NkJfSjVHRUozc2xEdVhxNy1XRkdkV0YwS2FDcXFnUGl6d2RRdDlLVC1Jb0M0dUVpSllCTW1zT3Y0Mm4xczcwV0FOZUdSV1duU19JX21QYmRPTExUNUVxbW1NSVFzUmhrdWtCMjBYZjM1QTBGckpzcDJ6bVg0ZUl5QkZCZFhqUkxyYW01TTh4VzA4MXRveE5EQjlkQmhwdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.sciencealert.com",
+      "title": "ScienceAlert"
+    }
+  },
+  {
+    "title": "Yes, JWST should take the deepest deep-field image ever - Big Think",
+    "description": "Yes, JWST should take the deepest deep-field image ever  Big ThinkWatch James Webb Space Telescopes Amazing View Of A Dwarf Galaxies Stars  YahooJames Webb space telescope captures historic new view of ancient galaxies!  tag24.comJames Webb Space Telescope captures amazing 4K views of cosmic crib  MSNThis is the first time we’re seeing the universe like this  MSN",
+    "published date": "Wed, 04 Feb 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94MHJKanZ3TXhqRzduSDQ4TjRTRm1xTFFfdFdxRzNvb0NWZ2VDdjNMNVpHT1pPOWJxMXB0U0NXY2tEOUhpVWdUWHVvVjdldXlXTVlHT3BQRXFYMUI0elcxaXBnOXZ4eUJvSF9GakxINlpnMkhyT05NU3BB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://bigthink.com",
+      "title": "Big Think"
+    }
+  },
+  {
     "title": "Enormous Pair of Deep-Earth Hot ‘Blobs’ Shape Earth’s Magnetic Field, Scientists Say - Gizmodo",
     "description": "Enormous Pair of Deep-Earth Hot ‘Blobs’ Shape Earth’s Magnetic Field, Scientists Say  GizmodoMantle heterogeneity influenced Earth’s ancient magnetic field  NatureTwo huge hot blobs of rock influence Earth's magnetic field, study reveals  Phys.orgSomething Massive Deep Inside Earth Is Steering the Planet’s Magnetic Field  SciTechDailyHow giant ‘Blobs’ of rock have influenced Earth’s magnetic field for millions of years – new research  The Conversation",
     "published date": "Wed, 04 Feb 2026 18:05:16 GMT",
@@ -210,23 +240,13 @@
     }
   },
   {
-    "title": "What Happens If Science Finally Explains Consciousness? A New Study Explores the Consequences - The Debrief",
-    "description": "What Happens If Science Finally Explains Consciousness? A New Study Explores the Consequences  The DebriefOnly What Is Alive Can Be Conscious  Noema Magazine“Existential risk” – Why scientists are racing to define consciousness  ScienceDailyHas AI finally developed consciousness?  The SpectatorAI is advancing faster than our understanding of awareness  Earth.com",
-    "published date": "Tue, 03 Feb 2026 13:07:08 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRndUSHlfMmZZOGJISi1fTjFyLW85RDJXX3RQTTNVUF9sZUhWYlhreUp4blVtWGZRSXFRNXVvblBjMHY5SkJmVTN4aEhaMUIzcUJQYXR0NFREQXkzZE0xNkhjaXotc0NIRnBHdWhkNG1YdmV1U3NpLVk2X3lTR0R3aWl6OS1xS1luMU1fWTJhMG5wUWtNMnJyWEdJMTdtYnd3Q0swdENZYzZPOGlzMGxoRXliREhvanM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Astronomers trace a runaway star to a former companion's supernova - Phys.org",
+    "description": "Astronomers trace a runaway star to a former companion's supernova  Phys.orgResearchers Conduct the Largest Study of Runaway Stars in the Milky Way  Universe TodayICCUB astronomers lead the most ambitious study of runaway massive stars in the Milky Way  UB - Universitat de BarcelonaAstronomers present the largest study on massive runaway stars including rotation and binarity in the Milky Way  Institut d'Estudis Espacials de Catalunya - IEECWhat triggers massive Milky Way stars to run away from their birthplaces?  starlust.org",
+    "published date": "Wed, 04 Feb 2026 15:20:04 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR0I0WWRMZ1k3anJRZDNZSXpWRkp6VHlfMjRWSkd0cWF1RFZuN2N1M3hPeXV2U3FYZmtOQ0JXQjBUcUd2X2lhWWRIa3lMMXhzRGRxUDNueXJidENNQXc3ZmlHdTVXQ0RJTlNhZXR4NEdXdk9EY0puUzlrTUl6aXdzY2RJWGVzdw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://thedebrief.org",
-      "title": "The Debrief"
-    }
-  },
-  {
-    "title": "Yes, JWST should take the deepest deep-field image ever - Big Think",
-    "description": "Yes, JWST should take the deepest deep-field image ever  Big ThinkWatch James Webb Space Telescopes Amazing View Of A Dwarf Galaxies Stars  YahooThe unbelievable performance of the James Webb Space Telescope, explained  MSNJames Webb space telescope captures historic new view of ancient galaxies!  tag24.comJames Webb Space Telescope captures amazing 4K views of cosmic crib  MSN",
-    "published date": "Wed, 04 Feb 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94MHJKanZ3TXhqRzduSDQ4TjRTRm1xTFFfdFdxRzNvb0NWZ2VDdjNMNVpHT1pPOWJxMXB0U0NXY2tEOUhpVWdUWHVvVjdldXlXTVlHT3BQRXFYMUI0elcxaXBnOXZ4eUJvSF9GakxINlpnMkhyT05NU3BB?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://bigthink.com",
-      "title": "Big Think"
+      "href": "https://phys.org",
+      "title": "Phys.org"
     }
   },
   {
@@ -260,23 +280,13 @@
     }
   },
   {
-    "title": "Have you got what it takes to go to the Moon? - BBC",
-    "description": "Have you got what it takes to go to the Moon?  BBCA Cal Poly graduate will pilot the upcoming mission to the moon. What to know  San Luis Obispo TribuneMeet the Man of Faith Helping Pilot NASA’s Historic Return to the Moon  Crosswalk.com'Don't Screw It Up': Victor Glover's Candid Take on Piloting NASA's Moon Mission  International Business Times UK",
-    "published date": "Tue, 03 Feb 2026 10:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObWxaREgwM2VnTEZ0LUs0Z2lGYi1FVFFVaTZoWW9Iay1hUjVKdjhQQzA0eGlnZ2xqLXFXNVlPSVRrdEp4QkF0eEkxZlgtYWJ1ZHpZWmlpRzhuWmVTUWh6UGtXQzcxNWl1TENLMUF2RlZBSUtuWG1KQ1hadmx4NVk3c2xtbVU2RmxTazN6em9uOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "'Red Potato' galaxy discovered by astronomers - Phys.org",
+    "description": "'Red Potato' galaxy discovered by astronomers  Phys.org",
+    "published date": "Wed, 04 Feb 2026 14:40:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sVEk5RE9QM2MyeHBRaHpZUDM5UG9wY0prYU1POXpHdlNsNXhOVEJQZnlZcWVwS2wtdUE3Y1pHcUdLc3MwSHhyVUdXaUh3WTExeXA4LUs3WVI2LVV5VERVenIxMHhoVlJvMEstbnBKdExuQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.bbc.com",
-      "title": "BBC"
-    }
-  },
-  {
-    "title": "Moving satellites to meet a plane for rare reentry data - European Space Agency",
-    "description": "Moving satellites to meet a plane for rare reentry data  European Space AgencyWhat actually happens to a spacecraft during its fiery last moments? Here's why ESA wants to find out  SpaceEurope to launch suicide mission to space, crash washing machine-sized satellite  India TodayAtmospheric re-entry data is crucial for reducing risks of falling space debris  Innovation News NetworkESA: Aircraft to observe the burning of two satellites on site  heise online",
-    "published date": "Tue, 03 Feb 2026 09:30:25 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaHZyRzRXVWY5bjByUkh6ZHV5S0dDUGM3VkNuSXdHYndqOFY1d3FlLTUwUUlUbFMtR1g3TE5rUHBRa1lMaGxIOUNycThaR1pNUjBZbml2YjlmWk9RVzFkQndCeUtlTFpyZmFpSVJyMDlIbG93UHYzZGdyUkJSVG8xREwwZW5jYlhnOEZJRzNMd21BU1diWmRWdUh1OUpJYjk1TGJF?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.esa.int",
-      "title": "European Space Agency"
+      "href": "https://phys.org",
+      "title": "Phys.org"
     }
   },
   {
@@ -300,20 +310,10 @@
     }
   },
   {
-    "title": "It May Be Safe to Nuke an Earthbound Asteroid After All, Simulation Suggests - ScienceAlert",
-    "description": "It May Be Safe to Nuke an Earthbound Asteroid After All, Simulation Suggests  ScienceAlert",
-    "published date": "Wed, 04 Feb 2026 02:26:24 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTFV3LXJmNFA0NkJfSjVHRUozc2xEdVhxNy1XRkdkV0YwS2FDcXFnUGl6d2RRdDlLVC1Jb0M0dUVpSllCTW1zT3Y0Mm4xczcwV0FOZUdSV1duU19JX21QYmRPTExUNUVxbW1NSVFzUmhrdWtCMjBYZjM1QTBGckpzcDJ6bVg0ZUl5QkZCZFhqUkxyYW01TTh4VzA4MXRveE5EQjlkQmhwdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.sciencealert.com",
-      "title": "ScienceAlert"
-    }
-  },
-  {
-    "title": "New map shows weird magnetic anomaly lurking beneath Australia's Northern Territory - Live Science",
-    "description": "New map shows weird magnetic anomaly lurking beneath Australia's Northern Territory  Live Science",
-    "published date": "Wed, 04 Feb 2026 16:52:20 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQWpXaW9vZjhwLXU4TkxHVFM4cGxkRHZiak1fSzlVYW1JdVlSVTdpemI1SWRDR05HZlNJa2Z1Tjk4enBhS2l2WFlCZ29hYW1QWGpGT20xNk1RZmJjNXdPVW4yZUVkT3NraDNHWFNDY2ZwdXg1Z2ZLd2RvTk9HMG91RHdIbTNxVHhBZ3Q3Um1VQktTTGpwSkNPcUdWaW1DUXd5ODRYR0ZPRldxR2tkS2dobUc2cWFoUjE3NEJHZkxjNGk1bm45TDdPdTRqOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Physicists push thousands of atoms to a 'Schrödinger's cat' state — bringing the quantum world closer to reality than ever before - Live Science",
+    "description": "Physicists push thousands of atoms to a 'Schrödinger's cat' state — bringing the quantum world closer to reality than ever before  Live Science",
+    "published date": "Tue, 03 Feb 2026 10:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNd3BVZjVwcEFxaE1sSjY1M2d2c09qdy1uWnVOMDZyR1dWU3JRWmNoZzF5RHdaeDludkYwYVZnUzRScC1URGlRSkZuVFJ1djlHOF9NRHdYOENPQWlEdjZhbnN2Q1d3N296VlVVRXpQQTR0dXEwbmExcXUzaDZKZlM1aEdHOUw1b3I5bjR4c0NaYnRNOFZoZjZScmQwUDZ3WEZ3ZEljUVl0WmZCbWp3ZGNTaUdYamFXS2J6US0tODFmT0NSTkZXQTJEYTIyWHV0Zlg1dHVrd29iLXhpUnhuUWktOVkwLW9nOTVtbE5pNHg1SWtNNXlTMmc1NGZhdWJnODVNWHg2Skxtcnc1dmxYdTJ1ZDVQNUJOTnc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.livescience.com",
       "title": "Live Science"
@@ -330,13 +330,23 @@
     }
   },
   {
-    "title": "'It's insightful, it's informative.' Neil deGrasse Tyson on his 5-hour backyard audio chat with William Shatner (interview) - Space",
-    "description": "'It's insightful, it's informative.' Neil deGrasse Tyson on his 5-hour backyard audio chat with William Shatner (interview)  Space",
-    "published date": "Tue, 03 Feb 2026 20:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMXc1WXFRSWtOb3duX1dOV1hHT2R6MG1fdHc5a0JKelM0X1pzaE5EZW1hX3JSaVJIa2doY3dGUVNXZnNfNHJXOUVvQUp2em5QRmd1T2pZUm1hZ3R5aW8tUnA5RXhvQzYtaTYxRlpwMW1DVmtFZHpDU1QtRVVsMmxUUXF6NGlSbjc2MlRXYjF6dnJYdm5qMmpCUkQzRl9TMC00QVc4ZzgwYk1mampMRDRzWDhvN0s4Mkl0ZDZBVVBpa3dDdlJFMXJxZzRuMzBHZTl4OHI3SGtUUTZjajJEN1pva2lEVnFNUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "New map shows weird magnetic anomaly lurking beneath Australia's Northern Territory - Live Science",
+    "description": "New map shows weird magnetic anomaly lurking beneath Australia's Northern Territory  Live Science",
+    "published date": "Wed, 04 Feb 2026 16:52:20 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQWpXaW9vZjhwLXU4TkxHVFM4cGxkRHZiak1fSzlVYW1JdVlSVTdpemI1SWRDR05HZlNJa2Z1Tjk4enBhS2l2WFlCZ29hYW1QWGpGT20xNk1RZmJjNXdPVW4yZUVkT3NraDNHWFNDY2ZwdXg1Z2ZLd2RvTk9HMG91RHdIbTNxVHhBZ3Q3Um1VQktTTGpwSkNPcUdWaW1DUXd5ODRYR0ZPRldxR2tkS2dobUc2cWFoUjE3NEJHZkxjNGk1bm45TDdPdTRqOA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.space.com",
-      "title": "Space"
+      "href": "https://www.livescience.com",
+      "title": "Live Science"
+    }
+  },
+  {
+    "title": "Lego goes back to the Moon with Artemis set - theregister.com",
+    "description": "Lego goes back to the Moon with Artemis set  theregister.comTime to build those lunar wheels – Febrovery is here!  The Brothers BrickThese are all the best NASA Lego sets ahead of Artemis 2's launch  SpaceLego Artemis 2 showdown: The definitive guide to Lego's NASA sets  SpaceI loved the Lego Technic NASA Artemis Space Launch System Rocket  Space",
+    "published date": "Wed, 04 Feb 2026 09:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DMnFHR1pTWFZLemJheEh1Vk00SFlHYmtLWkNtTDg5MEdrX0VhYmF4YjEzV3phT09RTS1wbmZ2QlZ6bUNWYS1zYzQ5R2ROMmFhcVpnbGlBcm1WZjNtTEkxajZB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theregister.com",
+      "title": "theregister.com"
     }
   },
   {
@@ -350,13 +360,23 @@
     }
   },
   {
-    "title": "Lego goes back to the Moon with Artemis set - theregister.com",
-    "description": "Lego goes back to the Moon with Artemis set  theregister.comTime to build those lunar wheels – Febrovery is here!  The Brothers BrickThese are all the best NASA Lego sets ahead of Artemis 2's launch  SpaceLego Artemis 2 showdown: The definitive guide to Lego's NASA sets  SpaceI loved the Lego Technic NASA Artemis Space Launch System Rocket  Space",
-    "published date": "Wed, 04 Feb 2026 09:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DMnFHR1pTWFZLemJheEh1Vk00SFlHYmtLWkNtTDg5MEdrX0VhYmF4YjEzV3phT09RTS1wbmZ2QlZ6bUNWYS1zYzQ5R2ROMmFhcVpnbGlBcm1WZjNtTEkxajZB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Wolves vs. Cougars: New Study Reveals Who Really Dominates Yellowstone - SciTechDaily",
+    "description": "Wolves vs. Cougars: New Study Reveals Who Really Dominates Yellowstone  SciTechDaily",
+    "published date": "Tue, 03 Feb 2026 19:14:45 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbm9LNXV0T2xEVGxTcGhMbGt5eE9ZTTU0U3g2UnFKWmlqS0V6Z3lmOHlhWnE4TERlc1Nrcmx5S3RPMU0wVlgwYk1td1NySlZzb2FzTjh2QW43Tm9PV1RKUmlIeHR6NGpBS3Jnc1otcElDZEZNb1lrOWlZZGdiWnNSWjA2V1NuZnBFY2gydkVPU3kxN1BQaVU5enhB?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.theregister.com",
-      "title": "theregister.com"
+      "href": "https://scitechdaily.com",
+      "title": "SciTechDaily"
+    }
+  },
+  {
+    "title": "JWST discovers a new extremely metal-poor dwarf galaxy - Phys.org",
+    "description": "JWST discovers a new extremely metal-poor dwarf galaxy  Phys.org",
+    "published date": "Tue, 03 Feb 2026 12:50:03 GMT",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jU2xWN3VpWFZkdmZlcXZBOVBBU0ZvNUx3RkZ6VTNZbU5pZkpiZ29MLUhPMXAwZXktNTZZc0NLTlBfZmd6VjNBaWoxWG1rbV9sREpYbmR4UUFCTWtwUkNseW9hNGNpN0tLeDNmRnQyUmpaeVNR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://phys.org",
+      "title": "Phys.org"
     }
   },
   {
@@ -380,16 +400,6 @@
     }
   },
   {
-    "title": "JWST discovers a new extremely metal-poor dwarf galaxy - Phys.org",
-    "description": "JWST discovers a new extremely metal-poor dwarf galaxy  Phys.org",
-    "published date": "Tue, 03 Feb 2026 12:50:03 GMT",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jU2xWN3VpWFZkdmZlcXZBOVBBU0ZvNUx3RkZ6VTNZbU5pZkpiZ29MLUhPMXAwZXktNTZZc0NLTlBfZmd6VjNBaWoxWG1rbV9sREpYbmR4UUFCTWtwUkNseW9hNGNpN0tLeDNmRnQyUmpaeVNR?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://phys.org",
-      "title": "Phys.org"
-    }
-  },
-  {
     "title": "The 3-Body Problem Just Got an Upgrade—and You Can Thank Einstein - Gizmodo",
     "description": "The 3-Body Problem Just Got an Upgrade—and You Can Thank Einstein  GizmodoWhy are Tatooine planets rare? General relativity explains why binary star systems rarely host planets  Phys.orgPlanets With Two Suns Are Almost Impossible To Find — General Relativity May Be Why  Discover MagazineTheory of Relativity vs. Tatooine: Close exoplanets around binary stars unstable  heise onlineScientists finally have explanation for the missing planets of tight binary stars  Interesting Engineering",
     "published date": "Tue, 03 Feb 2026 22:05:47 GMT",
@@ -397,26 +407,6 @@
     "publisher": {
       "href": "https://gizmodo.com",
       "title": "Gizmodo"
-    }
-  },
-  {
-    "title": "Researchers Conduct the Largest Study of Runaway Stars in the Milky Way - Universe Today",
-    "description": "Researchers Conduct the Largest Study of Runaway Stars in the Milky Way  Universe TodayAstronomers trace a runaway star to a former companion's supernova  Phys.orgICCUB astronomers lead the most ambitious study of runaway massive stars in the Milky Way  UB - Universitat de BarcelonaWhat triggers massive Milky Way stars to run away from their birthplaces?  starlust.orgAstronomers present the largest study on massive runaway stars including rotation and binarity in the Milky Way  Institut d'Estudis Espacials de Catalunya - IEEC",
-    "published date": "Wed, 04 Feb 2026 00:07:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQakcxV043Q0VvX21QTnk4RGJFOTYxUDVrQmRjY3ZsVjlWd0gzM0dNek4yMG1GTnV4enl0cmJjd0pmMk9ZTk1hR0J1aGVBWGZqVVZiQk1SbVRadW56WEVlUEprRExfSFlFc0JmYktWbDZpUXhXSEFxS0ZCUW1sdzY2N1czWFhDUHN3TGJQUU5kVVFIMGpHQVItMU9NVFN5M24yMmJ1ZjdMckNSbjRIbUJB?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.universetoday.com",
-      "title": "Universe Today"
-    }
-  },
-  {
-    "title": "'Behemoth star,' previously thought to be dying, is 'rising from the ashes' like a pheonix - Live Science",
-    "description": "'Behemoth star,' previously thought to be dying, is 'rising from the ashes' like a pheonix  Live ScienceThe Star That Wasn't Dying After All  Universe TodayMassive star WOH G64 is still a red supergiant—for now  Phys.orgThis Giant Star Fooled the Entire Astronomy World, Here’s What’s Really Going On  The Daily Galaxy",
-    "published date": "Wed, 04 Feb 2026 16:56:34 GMT",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNWxwNkdMWDZUUWRXQW9Xd2VFcjNLcmJDWGw1VjZQdjl4NS1DZW90RVJlX2VNeVA5RThleEZqd19aaDBwWmZFOWhQZzVKMVVIYVlENy15TzlhQ1ZNOHVuRVhPbGZxWGlIUVViTktPWkRtT2ExaWxpSVpXQklJNVhWSm5jQmVZN01RZXFhR1ZuQUxMU05CYmZWNExTcEJHbkZxWVFPY3MzaTBza0g0UUFQUkV4VkNsd3A3OFFpVHlsTlhiLWg4QkJ3?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.livescience.com",
-      "title": "Live Science"
     }
   },
   {
@@ -430,13 +420,23 @@
     }
   },
   {
-    "title": "Physicists push thousands of atoms to a 'Schrödinger's cat' state — bringing the quantum world closer to reality than ever before - Yahoo",
-    "description": "Physicists push thousands of atoms to a 'Schrödinger's cat' state — bringing the quantum world closer to reality than ever before  Yahoo",
-    "published date": "Tue, 03 Feb 2026 10:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX1BRX0FXLWlEejNMZnFNVzU4M2Y1Nk8yNkRNaDBsb0FLLTM5SjFqbmlmT1QyX0tjeGVteW9IcnFfRE1IQ2dMcEs2V25PLW93MzRJeWVESkptbjFxZGY1RzgzMlFzdTFSRUR5bHc0cVNIalpMd1JabzhyLWdlRzNDcXBva3JLRUNIUmxVcFNGQ1A?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "'Behemoth star,' previously thought to be dying, is 'rising from the ashes' like a pheonix - Live Science",
+    "description": "'Behemoth star,' previously thought to be dying, is 'rising from the ashes' like a pheonix  Live ScienceThe Star That Wasn't Dying After All  Universe TodayMassive star WOH G64 is still a red supergiant—for now  Phys.orgThis Giant Star Fooled the Entire Astronomy World, Here’s What’s Really Going On  The Daily Galaxy",
+    "published date": "Wed, 04 Feb 2026 16:56:34 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNWxwNkdMWDZUUWRXQW9Xd2VFcjNLcmJDWGw1VjZQdjl4NS1DZW90RVJlX2VNeVA5RThleEZqd19aaDBwWmZFOWhQZzVKMVVIYVlENy15TzlhQ1ZNOHVuRVhPbGZxWGlIUVViTktPWkRtT2ExaWxpSVpXQklJNVhWSm5jQmVZN01RZXFhR1ZuQUxMU05CYmZWNExTcEJHbkZxWVFPY3MzaTBza0g0UUFQUkV4VkNsd3A3OFFpVHlsTlhiLWg4QkJ3?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.yahoo.com",
-      "title": "Yahoo"
+      "href": "https://www.livescience.com",
+      "title": "Live Science"
+    }
+  },
+  {
+    "title": "Innovative CAR-T therapy destroys cancer cells without dangerous side effects - Nature",
+    "description": "Innovative CAR-T therapy destroys cancer cells without dangerous side effects  Nature",
+    "published date": "Wed, 04 Feb 2026 19:05:21 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBldWRrbi1mVnFiNTQwTVV3WjR1d0g5NFN6ME05ZmJqQm5ZNkZELTRYYThPTmhPN09ldFdBa3NpTGlBYWZibGoyYmdZZG5OeVVYbGZ0RkJhUmJWSTJ0WGNn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nature.com",
+      "title": "Nature"
     }
   },
   {
