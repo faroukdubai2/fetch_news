@@ -1,5 +1,15 @@
 [
   {
+    "title": "How CNAME Ordering in RFC Specs Caused Cloudflare 1.1.1.1 Outage - infoq.com",
+    "description": "How CNAME Ordering in RFC Specs Caused Cloudflare 1.1.1.1 Outage  infoq.com",
+    "published date": "Sat, 07 Feb 2026 11:33:03 GMT",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FQ1Y4VEZsQnZQU0V0X2xKb21lWnRqdVpGbkZVWUpnZUt6cjIycllZYUtUbzhOcFJnOTJJamh1WVVMdHdOak1YRWQ3MGVnblpYbU9Zd2FpS2wxT2ZrRWdJQVNaZ2JEYWtuNzVlQ3VyTEs?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.infoq.com",
+      "title": "infoq.com"
+    }
+  },
+  {
     "title": "The Taproot Mini - No. 143 - Taproot Edmonton",
     "description": "The Taproot Mini - No. 143  Taproot Edmonton",
     "published date": "Fri, 06 Feb 2026 13:00:00 GMT",
@@ -20,16 +30,6 @@
     }
   },
   {
-    "title": "Despite the cold, Dalkeith Carnival goes on - The Spec",
-    "description": "Despite the cold, Dalkeith Carnival goes on  The Spec",
-    "published date": "Sat, 07 Feb 2026 01:04:46 GMT",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUXVibGtZRGJOR3NHaTBpTTM5amx3Mi0yWDZqZDQ4RjFlVWFubGc0LVBwX3RLUkJKTk5PQ3VsVGg5Vmd2U3BSZUc1aS1uUGFQb3JGS3RLdTlEdzFlaVNUUEhUbjdJUjV4cEFsT1h1bHpTbkJOekt6ajFtZy1xQnNoZGcwc2ZIQ0gxbDN2akpHYkhveTE1SkwxQndlNDFpeWpyd0dvLVpQZVJreURyWFY5ZXRZOXhBUXhMXzNSdTBCRjFFSVR5N2Jz?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.thespec.com",
-      "title": "The Spec"
-    }
-  },
-  {
     "title": "Logo and Graphic Standards - Parc Jean-Drapeau",
     "description": "Logo and Graphic Standards  Parc Jean-Drapeau",
     "published date": "Fri, 06 Feb 2026 15:29:05 GMT",
@@ -40,13 +40,13 @@
     }
   },
   {
-    "title": "Android Circuit: Samsung Galaxy S26 Pricing, Nothing (4a) Pro Details, Pixel 10a Confirmed - Forbes",
-    "description": "Android Circuit: Samsung Galaxy S26 Pricing, Nothing (4a) Pro Details, Pixel 10a Confirmed  ForbesSamsung Galaxy S26 Ultra Release Date: New Leaks, Disappointing News  ForbesSamsung teases Galaxy S26 camera by pretending it’ll actually be an upgrade  9to5GoogleSamsung Galaxy S26 official renders leak - GSMArena.com news  GSMArena.comSamsung killed Galaxy S26 upgrades to avoid a price hike – leaks say it didn’t work  9to5Google",
-    "published date": "Fri, 06 Feb 2026 22:41:55 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRVdqR2Y2SGJ4T2huTHhQWERSNW1faHZHVVk4ZVE3azFhTkx6SnVIVnZPS3lldU0yUHRnek1PUVIzRHNwR1Q1Q2dKUFIxQ05GZW0tR2JlMVJLUzJqMDlUeldtNmlQdjVwNEU5cHUyR2VqOVNVOVdWNDF5NGVZcFZDSUp5THk3OFBBX0hFUjBrcU1QVEtBcXowYXZmajNmcmhLcEFBSHZXUGcxMDlxVTJIeW14RmQ1LVNBaHdEdTMxUkdfY3FVQkh6NjhNNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Despite the cold, Dalkeith Carnival goes on - The Spec",
+    "description": "Despite the cold, Dalkeith Carnival goes on  The Spec",
+    "published date": "Sat, 07 Feb 2026 01:04:46 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUXVibGtZRGJOR3NHaTBpTTM5amx3Mi0yWDZqZDQ4RjFlVWFubGc0LVBwX3RLUkJKTk5PQ3VsVGg5Vmd2U3BSZUc1aS1uUGFQb3JGS3RLdTlEdzFlaVNUUEhUbjdJUjV4cEFsT1h1bHpTbkJOekt6ajFtZy1xQnNoZGcwc2ZIQ0gxbDN2akpHYkhveTE1SkwxQndlNDFpeWpyd0dvLVpQZVJreURyWFY5ZXRZOXhBUXhMXzNSdTBCRjFFSVR5N2Jz?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.forbes.com",
-      "title": "Forbes"
+      "href": "https://www.thespec.com",
+      "title": "The Spec"
     }
   },
   {
@@ -57,6 +57,16 @@
     "publisher": {
       "href": "https://www.infoq.com",
       "title": "infoq.com"
+    }
+  },
+  {
+    "title": "Android Circuit: Samsung Galaxy S26 Pricing, Nothing (4a) Pro Details, Pixel 10a Confirmed - Forbes",
+    "description": "Android Circuit: Samsung Galaxy S26 Pricing, Nothing (4a) Pro Details, Pixel 10a Confirmed  ForbesSamsung Galaxy S26 Ultra Release Date: New Leaks, Disappointing News  ForbesSamsung teases Galaxy S26 camera by pretending it’ll actually be an upgrade  9to5GoogleSamsung shows off Galaxy S26 Ultra camera improvements in new videos  PhoneArenaSamsung killed Galaxy S26 upgrades to avoid a price hike – leaks say it didn’t work  9to5Google",
+    "published date": "Fri, 06 Feb 2026 22:41:55 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRVdqR2Y2SGJ4T2huTHhQWERSNW1faHZHVVk4ZVE3azFhTkx6SnVIVnZPS3lldU0yUHRnek1PUVIzRHNwR1Q1Q2dKUFIxQ05GZW0tR2JlMVJLUzJqMDlUeldtNmlQdjVwNEU5cHUyR2VqOVNVOVdWNDF5NGVZcFZDSUp5THk3OFBBX0hFUjBrcU1QVEtBcXowYXZmajNmcmhLcEFBSHZXUGcxMDlxVTJIeW14RmQ1LVNBaHdEdTMxUkdfY3FVQkh6NjhNNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
     }
   },
   {
@@ -90,13 +100,13 @@
     }
   },
   {
-    "title": "Getting Feedback from Test-Driven Development and Testing in Production - infoq.com",
-    "description": "Getting Feedback from Test-Driven Development and Testing in Production  infoq.com",
-    "published date": "Thu, 05 Feb 2026 11:36:40 GMT",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GdUFoYUhZZ3hROHBKVzNlVG9OdVdQZnMzMWExanNOaHlQaWpaMXFwS0cxUjNrVi1lYVVmT3Q2cHd6eFFzWlcyaVQ2RjBQRkdGdU1wZ1doeXFHT1hQWnh1YkIyUHl6TURpbk9n?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Health unit gives up date on cybersecurity incident - thehighlander.ca",
+    "description": "Health unit gives up date on cybersecurity incident  thehighlander.caInfectious disease data safe from cyberattack, Ontario public health unit says  Global News",
+    "published date": "Thu, 05 Feb 2026 17:11:20 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ1MzTDdocUw3eW1oNkhBMWw5V2VlcjlVbm5GM19GLUdlNkRJWHhnOTQya0NmeGhuU3FsdDMyV1phOHdDbWpVTW9iQU5VX0RqeVZCb0pzSWhNNHNwR0tRY053YmR1XzJodWp4NGxHUGNwSzZKYlJ5aUlCWFZGVFNhdVQtZ3d3WnZJVUxWWUlPTnJ0UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.infoq.com",
-      "title": "infoq.com"
+      "href": "https://thehighlander.ca",
+      "title": "thehighlander.ca"
     }
   },
   {
@@ -120,16 +130,6 @@
     }
   },
   {
-    "title": "Health unit gives up date on cybersecurity incident - thehighlander.ca",
-    "description": "Health unit gives up date on cybersecurity incident  thehighlander.caInfectious disease data safe from cyberattack, Ontario public health unit says  Global News",
-    "published date": "Thu, 05 Feb 2026 17:11:20 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ1MzTDdocUw3eW1oNkhBMWw5V2VlcjlVbm5GM19GLUdlNkRJWHhnOTQya0NmeGhuU3FsdDMyV1phOHdDbWpVTW9iQU5VX0RqeVZCb0pzSWhNNHNwR0tRY053YmR1XzJodWp4NGxHUGNwSzZKYlJ5aUlCWFZGVFNhdVQtZ3d3WnZJVUxWWUlPTnJ0UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://thehighlander.ca",
-      "title": "thehighlander.ca"
-    }
-  },
-  {
     "title": "Toyota Developing A Console-Grade, Open-Source Game Engine - Using Flutter & Dart - Phoronix",
     "description": "Toyota Developing A Console-Grade, Open-Source Game Engine - Using Flutter & Dart  Phoronix",
     "published date": "Fri, 06 Feb 2026 17:43:00 GMT",
@@ -137,16 +137,6 @@
     "publisher": {
       "href": "https://www.phoronix.com",
       "title": "Phoronix"
-    }
-  },
-  {
-    "title": "PUGB online tournament a massive hit in Arviat - nunavutnews.com",
-    "description": "PUGB online tournament a massive hit in Arviat  nunavutnews.com",
-    "published date": "Thu, 05 Feb 2026 11:55:08 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeXRVVUhrZERmcG55aThiQmprcWx1NThSVDBtQ0JXMmt5cU1QcDZ0YlRpUkN6MUZid0VkTFlPMjczZTE1WW9udDVUMzlBVHgtck0wd2UwTjZEX1V3UU4xc0NJZHJLX3lPZHZVZ2lfQ3pVRVVjSDVWc0lzRnpJWndUdUNFN05lT0I1eUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://nunavutnews.com",
-      "title": "nunavutnews.com"
     }
   },
   {
@@ -170,26 +160,6 @@
     }
   },
   {
-    "title": "Light Bicycle Launches Anax32 XC 32-Inch Carbon Wheelset - Pinkbike",
-    "description": "Light Bicycle Launches Anax32 XC 32-Inch Carbon Wheelset  Pinkbike",
-    "published date": "Fri, 06 Feb 2026 17:58:54 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVi12UWhsUHdQSHJIOFlJNHQtb3pqS3BpMVRaa0dhdk9NQWt0dFd0bmIzVGtrd2pOcjlMbGVOR0lCeE5GOGVYR3N1ZF82UlZFRG1EWWFLQm8tVURCSFl6V1FuaXU1bXJTTGN5Zl9rVDN1R0VIVm5Rb1FQdWFBTEZlbVNJR0xSc3phRl9GeWM2eU5NQmtTckE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.pinkbike.com",
-      "title": "Pinkbike"
-    }
-  },
-  {
-    "title": "My AI Adoption Journey - Hacker News",
-    "description": "My AI Adoption Journey  Hacker News",
-    "published date": "Thu, 05 Feb 2026 20:16:23 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ScXhoVmxJQjRfdkRlTkJkNTFhQ080cmlMWExhUzJlQ2FQN0xpUWZoYjJVSV9LSHFoVGNtckVJWnJoSDVVRlI0dUw4Mm5FQk5YSGxQVTB5am4?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://news.ycombinator.com",
-      "title": "Hacker News"
-    }
-  },
-  {
     "title": "Organic molecule stores renewable energy with record stability, paving the way for better flow batteries - Tech Xplore",
     "description": "Organic molecule stores renewable energy with record stability, paving the way for better flow batteries  Tech Xplore",
     "published date": "Thu, 05 Feb 2026 14:00:03 GMT",
@@ -201,12 +171,22 @@
   },
   {
     "title": "Arcade Archives Brings Two Racing Classics To Xbox, But No Sign Of 'Console Archives' Yet - Pure Xbox",
-    "description": "Arcade Archives Brings Two Racing Classics To Xbox, But No Sign Of 'Console Archives' Yet  Pure XboxThe Switch 2 is getting a new Virtual Console (kind of)  Ars TechnicaConsole Archives Cool Boarders  nintendo.comNamco’s last major arcade Ridge Racer game, Rave Racer, is getting a home version for the first time  videogameschronicle.comHamster's 'Console Archives' Starting Lineup Revealed, Includes More Than 10 Titles  Nintendo Life",
+    "description": "Arcade Archives Brings Two Racing Classics To Xbox, But No Sign Of 'Console Archives' Yet  Pure XboxThe Switch 2 is getting a new Virtual Console (kind of)  Ars TechnicaConsole Archives Cool Boarders  NintendoNamco’s last major arcade Ridge Racer game, Rave Racer, is getting a home version for the first time  videogameschronicle.comHamster's 'Console Archives' Starting Lineup Revealed, Includes More Than 10 Titles  Nintendo Life",
     "published date": "Fri, 06 Feb 2026 14:24:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc3pQTWpteU1pbE1BX1U2QjVyNWpPaVR0b0g2TEdROEY4UFJTWVZsRTR2c0FVUlFfLXFFWEl3NXZnWFBtQWVzSnAtRTdnYnI0UVhYS25Scy1wdVQtbXROMndmVWN5VE51em1MNUhLNFhtbXBBSU1kM01CRnVVUzVRSVlzMkNjTTMwa0tRQTd0emtVbEtNM1V0QWpRajdtVVd6R1g2dHMxSV9UYTl4bU9sVFozeE1CSDNGOFBkQUlVRkZodw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.purexbox.com",
       "title": "Pure Xbox"
+    }
+  },
+  {
+    "title": "‘CAPTAIN TSUBASA 2: WORLD FIGHTERS’ Heads for PC & Consoles Later This Year - XboxEra",
+    "description": "‘CAPTAIN TSUBASA 2: WORLD FIGHTERS’ Heads for PC & Consoles Later This Year  XboxEraCaptain Tsubasa 2: World Fighters Announced, Features 110+ Characters  MonsterVineBandai Namco Announces New Captain Tsubasa 2: World Fighters Soccer Game  Anime News Network",
+    "published date": "Fri, 06 Feb 2026 23:26:15 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcXp5VU05dTBpaFdVWFhYOFpNQ1EtdVd4X3NzeU56SkVsWHNGRXBwVmtnbVM4aHlmV0tBeGozUVplMnZGSGdBa09pLWNEOF9qd0xjUGtLbUQ4aV9ncFFqeWI2Y09QTTFFNnZWMlhKaHoxb0dHWFRoTDVGQWhkdTR2TkZOWlNINHBLOU5Gb19lX2dnRG9FQmVfQ0tmbXJKNEFVQ004dg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://xboxera.com",
+      "title": "XboxEra"
     }
   },
   {
@@ -230,43 +210,33 @@
     }
   },
   {
-    "title": "CAPTAIN TSUBASA 2: WORLD FIGHTERS BRINGS ANIME SOCCER BATTLE ACTION TO THE PITCH IN 2026 - Games Press",
-    "description": "CAPTAIN TSUBASA 2: WORLD FIGHTERS BRINGS ANIME SOCCER BATTLE ACTION TO THE PITCH IN 2026  Games PressCaptain Tsubasa 2: World Fighters Announced, Features 110+ Characters  MonsterVineBandai Namco Announces New Captain Tsubasa 2: World Fighters Soccer Game  Anime News Network",
-    "published date": "Thu, 05 Feb 2026 15:00:33 GMT",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRDZoMEtidlpjVUNibWlUV0tla05NbThRMFFZZmQ1SkRiVmMwcjZNTzVlN2p0V0RUeVp5dFppRXd2ejdiM1Vpa2taN2dBQnh3TXJtNUhFQmNEVTJVQ3V3Xy1IM2FNWHBEZ1dCbTNiazJMUWUxUnlKb1dDRE1HRUxMRVhnNmNza0ZBUFB3VXhSLXZ3aXlNY2VWaVdWWlNSdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "SUPER BOMBERMAN COLLECTION Physical Edition Pre-Orders Are Live at Red Art Games - Games Press",
+    "description": "SUPER BOMBERMAN COLLECTION Physical Edition Pre-Orders Are Live at Red Art Games  Games PressSUPER BOMBERMAN COLLECTION - Nintendo Switch 2 Edition for Nintendo Switch 2  NintendoPS5 Gets 7 Beloved Action Games in Surprise PS Store Drop  PlayStation LifeStyle",
+    "published date": "Fri, 06 Feb 2026 10:17:38 GMT",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV1EzbDVVckZpVVdXV0xYRGJ0bjFzcVhocUVVVWd1d3VHbFRZTHB4T0dTVFM2ejVEVG13S3AxVVFsU2h6eV9aNjJWNDNhWS1oSTZQRDJaU1p6RUE0Z0dTaFFQUm5DVmF0b0VZMkdJdGlFSWFIVjlxaXRfZno3Q3p2SmRidWwzckIwakotTnhHRWFCZ0tzZ1ljTkJmRFNTdw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.gamespress.com",
       "title": "Games Press"
     }
   },
   {
-    "title": "Diablo II: Resurrected Ladder Season 13 Coming Soon - Blizzard News",
-    "description": "Diablo II: Resurrected Ladder Season 13 Coming Soon  Blizzard NewsNew Diablo 2 content confirmed, updates will be revealed in Diablo 30th anniversary stream  TweakTown",
-    "published date": "Fri, 06 Feb 2026 18:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYVBvQ0xIQ2JkREVXMXhtckJOVnZBTXJRTXRhTjNXMF9oeWt6aGhicWt2cUxTQ0N4aG9KYnpoV1R0N0ZrcEM3ZnlnSHBGczJMUmZCaGRMTk5EOU1sMTEwU18tX2VNN1M4VmNUazRfOXFrS1N5SWlBaU9EZmo1TXVobEFsLU0tenRkLTFYWGg3blJLS05wdWF4QWRIOUR2ckhQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Tales of Arise details Nintendo Switch 2 frame rate and resolution - Nintendo Everything",
+    "description": "Tales of Arise details Nintendo Switch 2 frame rate and resolution  Nintendo EverythingTales Of Arise Comes To Switch 2 In May, Includes Beyond The Horizon DLC  Nintendo LifeTales of Arise Game Gets Beyond the Dawn Edition for Switch 2  Anime News Network",
+    "published date": "Sat, 07 Feb 2026 05:01:25 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb0s0eTBrSWVrNDJIOG8xcGtiYWZ6OElNMFB1NWtSTW40SmF0WXdiY2hQVjBYWmx0STdrVk9XNFVkQ3BFWjhvdlRwZUpfeTRKSEI3ekljUUNFN0VYUWZPOGowU3M2Tld5Z1V0WXU1RUdaMWtBYUJaOUQ3MG9TOTBhblgtWGRVQW53Z0FMWXRVTlNvTDhFbXZOaGdRQzJyLWc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://news.blizzard.com",
-      "title": "Blizzard News"
+      "href": "https://nintendoeverything.com",
+      "title": "Nintendo Everything"
     }
   },
   {
-    "title": "Super Bomberman Collection Out Now On eShop, Full Cart Release Coming In August - Nintendo Life",
-    "description": "Super Bomberman Collection Out Now On eShop, Full Cart Release Coming In August  Nintendo LifeSUPER BOMBERMAN COLLECTION - Nintendo Switch 2 Edition for Nintendo Switch 2  nintendo.comPS5 Gets 7 Beloved Action Games in Surprise PS Store Drop  PlayStation LifeStyle",
-    "published date": "Fri, 06 Feb 2026 10:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeFNxU0JlTi1KSXVyY0RiMjZRTlpHZ0dmTnQ5UFlpV09qNHFuRVRsTGFGa040WTFMQWZyMlR5OXBsdEwxSW1GU3NWdXk0MnNuUm5iTV9DdWpldHloS2QtN3VINkRqWk1DQnpHQmx4RE1WSXdCTktIWElEU3FjZGQ0andJdHRlMzNva2xURU8xTUVVTUxSMDV5dzF2Z1VQdFJFeHVEb0U4akJXTmFhNkp6cUtTdFJvTFVuWGRpeQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Apple's redesigned MacBook Pro can't come soon enough - Creative Bloq",
+    "description": "Apple's redesigned MacBook Pro can't come soon enough  Creative BloqAll-new MacBook Pro design reportedly set to launch in final quarter this year  9to5mac.comApple MacBook Rumors: New M5 MacBook Pros Could Be Here Soon  CNETThe MacRumors Show: All the New Macs Coming This Year  MacRumorsRedesigned OLED MacBook Pro on track to arrive this year, report claims  Macworld",
+    "published date": "Sat, 07 Feb 2026 06:04:18 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPanhHUDNVbUdtNFMtX0VsZGxhbDk1VlRBbkU5MkdGUElNaVJtQjVDWHZRMWhXQmpqbU1DYlMwRFBrZlF3MC1JVUVVMUV5a3NKWWI5OVBDelJITDVlVEhTV25rdFdybFBPeUhGYkw1RVFnZjRPQWlVMjRyWWZQcl9sLUM0T2N2eVVEV1RfWkwwSWx6elIwZGxpSDRtQ3pkclpZUTV4VQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.nintendolife.com",
-      "title": "Nintendo Life"
-    }
-  },
-  {
-    "title": "Sony tries to hype up WF-1000XM6 in ominous teaser, confirms Feb 12 launch - 9to5Google",
-    "description": "Sony tries to hype up WF-1000XM6 in ominous teaser, confirms Feb 12 launch  9to5GoogleNew Sony WF-1000XM6 to be Revealed on February 12  iPhone in CanadaSony’s flagship WF-1000XM6 earbuds appear in leaked listing  9to5GoogleSony’s flagship WF-1000XM6 earbuds have been leaked on a retail site  Engadget",
-    "published date": "Fri, 06 Feb 2026 16:01:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQTA2bWlIN3JjNDRYc1dzcE4tcGdrWk1FUnQ3cFpVSTA5VHhmaXd2c2FCUHpMMkc1RUN0WnhROVRzTThpdTQ3ZDVxRHFZc00wXzZkTGdDNm42SW5ScXNFMU5ZVTN4WTZyUTU4bVRzTGoxbHFaOG00R0I0c0dabVFNVmo3bzBqNDA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://9to5google.com",
-      "title": "9to5Google"
+      "href": "https://www.creativebloq.com",
+      "title": "Creative Bloq"
     }
   },
   {
@@ -290,13 +260,13 @@
     }
   },
   {
-    "title": "Next Week on Xbox: New Games for February 9 to 13 - Xbox Wire",
-    "description": "Next Week on Xbox: New Games for February 9 to 13  Xbox WireFebruary 2026 Xbox releases you shouldn't miss!  Windows CentralNext Week on Xbox: New Games for February 2 to 6  Xbox Wire",
-    "published date": "Fri, 06 Feb 2026 15:01:11 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZWt1bHVTRmRRbjNUUDF3eF94QjRrNjdrdXNpekhmVHk5TWFOYXgxYlUwMEp4RlpmWlpHaGQ3N1BoYTVnOVRjWWl6Q0I2R2xlNnpkejUyTXRJMGtyaXNYd0lMWWdfTTZ0VDRXVThPVXFHdWVVY0EzQlhpeFhSM2RwaVZkSl9HOGdCX2tWbV9sd3RpQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Sony tries to hype up WF-1000XM6 in ominous teaser, confirms Feb 12 launch - 9to5Google",
+    "description": "Sony tries to hype up WF-1000XM6 in ominous teaser, confirms Feb 12 launch  9to5GoogleNew Sony WF-1000XM6 to be Revealed on February 12  iPhone in CanadaSony’s flagship WF-1000XM6 earbuds appear in leaked listing  9to5GoogleSony’s flagship WF-1000XM6 earbuds have been leaked on a retail site  Engadget",
+    "published date": "Fri, 06 Feb 2026 16:01:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQTA2bWlIN3JjNDRYc1dzcE4tcGdrWk1FUnQ3cFpVSTA5VHhmaXd2c2FCUHpMMkc1RUN0WnhROVRzTThpdTQ3ZDVxRHFZc00wXzZkTGdDNm42SW5ScXNFMU5ZVTN4WTZyUTU4bVRzTGoxbHFaOG00R0I0c0dabVFNVmo3bzBqNDA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://news.xbox.com",
-      "title": "Xbox Wire"
+      "href": "https://9to5google.com",
+      "title": "9to5Google"
     }
   },
   {
@@ -310,6 +280,16 @@
     }
   },
   {
+    "title": "Next Week on Xbox: New Games for February 9 to 13 - Xbox Wire",
+    "description": "Next Week on Xbox: New Games for February 9 to 13  Xbox WireFebruary 2026 Xbox releases you shouldn't miss!  Windows CentralNext Week on Xbox: New Games for February 2 to 6  Xbox Wire",
+    "published date": "Fri, 06 Feb 2026 15:01:11 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZWt1bHVTRmRRbjNUUDF3eF94QjRrNjdrdXNpekhmVHk5TWFOYXgxYlUwMEp4RlpmWlpHaGQ3N1BoYTVnOVRjWWl6Q0I2R2xlNnpkejUyTXRJMGtyaXNYd0lMWWdfTTZ0VDRXVThPVXFHdWVVY0EzQlhpeFhSM2RwaVZkSl9HOGdCX2tWbV9sd3RpQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://news.xbox.com",
+      "title": "Xbox Wire"
+    }
+  },
+  {
     "title": "The Switch 2-exclusive co-op adventure Orbitals launches this summer - Yahoo News Canada",
     "description": "The Switch 2-exclusive co-op adventure Orbitals launches this summer  Yahoo News CanadaGameShare just took me from interested in Switch 2's beautiful co-op space opera Orbitals, to overwhelmingly excited  Eurogamer",
     "published date": "Thu, 05 Feb 2026 18:06:57 GMT",
@@ -317,16 +297,6 @@
     "publisher": {
       "href": "https://ca.news.yahoo.com",
       "title": "Yahoo News Canada"
-    }
-  },
-  {
-    "title": "JLab's comically oversized headphones are not an April Fool's Prank - Engadget",
-    "description": "JLab's comically oversized headphones are not an April Fool's Prank  EngadgetJLab launches wearable portable speakers that look like huge headphones  Mashable",
-    "published date": "Thu, 05 Feb 2026 17:43:38 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcG5SanlwMXVYRWNVWlA5QXh1R2hWUE1OQTN6Y1dHMUJGamFhcjVUc0ZLU2tNZTV1SWN6Ni1vS29uOFptZFlVV3lnX055NEVzRjBPOW5HeEk3amxmOElpZHhvREg2UTFQUkJDa1gzNWhNLXNfbGcyOU1UckI4SkRGc1JCMi1uWmxDOF83X1B4aWpiVEJnNzZFNExKWUI3R3VYYjk1OWs2b2Q5a3RHcFdpVg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.engadget.com",
-      "title": "Engadget"
     }
   },
   {
@@ -340,6 +310,16 @@
     }
   },
   {
+    "title": "JLab's comically oversized headphones are not an April Fool's Prank - Engadget",
+    "description": "JLab's comically oversized headphones are not an April Fool's Prank  EngadgetJLab launches wearable portable speakers that look like huge headphones  Mashable",
+    "published date": "Thu, 05 Feb 2026 17:43:38 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcG5SanlwMXVYRWNVWlA5QXh1R2hWUE1OQTN6Y1dHMUJGamFhcjVUc0ZLU2tNZTV1SWN6Ni1vS29uOFptZFlVV3lnX055NEVzRjBPOW5HeEk3amxmOElpZHhvREg2UTFQUkJDa1gzNWhNLXNfbGcyOU1UckI4SkRGc1JCMi1uWmxDOF83X1B4aWpiVEJnNzZFNExKWUI3R3VYYjk1OWs2b2Q5a3RHcFdpVg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.engadget.com",
+      "title": "Engadget"
+    }
+  },
+  {
     "title": "Destiny 2’s Shadow And Order Update Will Be Delayed Until May - Forbes",
     "description": "Destiny 2’s Shadow And Order Update Will Be Delayed Until May  Forbes",
     "published date": "Fri, 06 Feb 2026 13:56:11 GMT",
@@ -350,13 +330,13 @@
     }
   },
   {
-    "title": "University of Illinois researchers develop NADES-based method for biofuel production - alcircle",
-    "description": "University of Illinois researchers develop NADES-based method for biofuel production  alcircle",
-    "published date": "Sat, 07 Feb 2026 04:36:12 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR3g3QlZZOGwwcGtjUGk4d21VYktMUXRhQXBTazRjMHVUX25TTVg5NWdvZ2hRSF94eDdzRlVOZklyN3BsNmt0Uy1RalhSN18zWGdKdk5GeFJMVU9RbXRGX0VONDJfMlIxeVluMGM4RG15TER4cS1aN2o3SGJtNW5jeTJ0M0pFQ29EbzF6TlllbzdZVFBUVEE0M2pFaGJUMEg1azc1RFZ0YW82Z050a3h3SlAtbjdJMHNFYnFNNE93?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Apple iPhone 17e Release Date: Just Days Away, New Report Claims - Forbes",
+    "description": "Apple iPhone 17e Release Date: Just Days Away, New Report Claims  ForbesApple's iPhone 17E Is Near and It Needs More Than MagSafe  CNETiPhone 17e Reportedly Set to Launch This Month With 4 Major Upgrades  PCMagApple Rumored to Announce New Product on February 19  MacRumors",
+    "published date": "Sat, 07 Feb 2026 11:14:06 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNXg2QUJ5UkkyMGtSZzV1ODgxbkdGZ0EyWXFmVW5WNnRFNVpuMU51SkFmQmdTUVIxQkFiU0JZbE9QWERMUktPZ2JWeXVWV1dWLW8tSTEwanBTZm1iLWkxS0pQRmF4XzhPOHRfZVdLVnhrVlF6R1FEbUZYamtIQml2SGlxR2pPZjVQbU5ueE5lb292Vm5iQS1VV1Ztblkya19tNmhzTUJubGtxSFE4bW1lTnljcV81Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.alcircle.com",
-      "title": "alcircle"
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
     }
   },
   {
@@ -370,6 +350,16 @@
     }
   },
   {
+    "title": "Sennheiser Reveals New Pink Accentum Open Wireless Earbuds Just In Time For St Valentine’s Day - Forbes",
+    "description": "Sennheiser Reveals New Pink Accentum Open Wireless Earbuds Just In Time For St Valentine’s Day  Forbes",
+    "published date": "Sat, 07 Feb 2026 11:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd1VkaDNJVWF0djAwMjJ4X3NXeW9YUFo0Q0E3WXNvZFQ4Mm82bnFRcHpzeEJvZ2JTOEpYTHF5R3RMbzR4aHJ5b3FxQkYwQTU1TmNjakozTEFWRHFNQl9UQS10TDZvWU5MVm5xN2tGTWJQVi1CQnBrZXA3YzRqdWdSamJRTzg1THgyQWhuUVNOTVc0eWM0ODFfa3ozNHF2cy1CY1hjOFBRc3ctOFczT2JvVlNjUjE4aUo2dW5VNkI1eS0zZWFXc3ZkWGtueWZHYmFOazNyV1FicmxSV3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
+    }
+  },
+  {
     "title": "iPhone 18 Pro Max Rumored to Deliver Next-Level Battery Life - MacRumors",
     "description": "iPhone 18 Pro Max Rumored to Deliver Next-Level Battery Life  MacRumorsApple Loop: iPhone 18 Pro Leaks, iPhone Flip Discovered, MacBook Pro Release Date  ForbesiPhone 18 Pro Max’s new battery gains revealed by leaker  9to5mac.comiPhone 18 Pro won't get a big design change because iPhone 17 Pro was a hit  AppleInsiderNo Major Design Changes Coming to iPhone 18 Models, Leaker Claims  MacRumors",
     "published date": "Fri, 06 Feb 2026 13:14:37 GMT",
@@ -380,8 +370,18 @@
     }
   },
   {
+    "title": "GNOME's Glycin 2.1 Beta Enables JPEG 2000 Support By Default - Phoronix",
+    "description": "GNOME's Glycin 2.1 Beta Enables JPEG 2000 Support By Default  Phoronix",
+    "published date": "Sat, 07 Feb 2026 11:11:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9adjFhd1Y3SW8tMnhXQUdBUlZEc2xRTXB4R2NsUGFnV3M5a1JoUXJSNjdQenNKc0ZKeWNKcFBwTHA4RlZIUmM3ZTI1VUVBcVdPZTJKOGFhN1NfVHo2Q3l5V1BFYVlsQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.phoronix.com",
+      "title": "Phoronix"
+    }
+  },
+  {
     "title": "Apple might let you use ChatGPT from CarPlay - theverge.com",
-    "description": "Apple might let you use ChatGPT from CarPlay  theverge.comApple Plans to Allow Outside Voice-Controlled AI Chatbots in CarPlay  BloombergChatGPT Behind the Wheel? Apple to Allow AI Chatbots in CarPlay Soon  iPhone in CanadaApple to Allow ChatGPT, Claude, and Gemini in CarPlay  MacRumorsApple Opens CarPlay to AI Rivals Following Driver Demand  PYMNTS.com",
+    "description": "Apple might let you use ChatGPT from CarPlay  theverge.comApple Plans to Allow Outside Voice-Controlled AI Chatbots in CarPlay  BloombergChatGPT Behind the Wheel? Apple to Allow AI Chatbots in CarPlay Soon  iPhone in CanadaApple to Allow ChatGPT, Claude, and Gemini in CarPlay  MacRumorsApple plans to allow external voice-controlled AI chatbots in CarPlay, Bloomberg News reports By Reuters  Investing.com Canada",
     "published date": "Fri, 06 Feb 2026 21:32:44 GMT",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNG1jb1g3dUI2TEQySElCU3p4RlBpR2lucVVUcDNqUU1GYWpveUtGb0QtcUQ2TU9yWXl1c2o3b1RDM1ZDNHlKWTRRMV9UZDdKUVczelV4d2tkek44S05yZnVzZ3BwcEMtM3RqSFlfOEFlLVB6Rkw2RkRNbnM2b3RxOVFHNUxWX05hclRma0JPdmQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -421,7 +421,7 @@
   },
   {
     "title": "NotebookLM app adds slide and infographic customization - 9to5Google",
-    "description": "NotebookLM app adds slide and infographic customization  9to5GoogleNotebookLM for Android and iOS Now Supports Slide Deck Customization  jetstream.blog",
+    "description": "NotebookLM app adds slide and infographic customization  9to5GoogleNotebookLM mobile app just got a big performance boost  Android Police",
     "published date": "Fri, 06 Feb 2026 22:57:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5sNDdOa0hoLTJRdi01aVBmQUpHaTN3YmM3aXNGUHowWXBKREJjT0RoV0ZyUEpBRURvQVdwZkE5UV9aZUk2bzlPS2JxekR6b1ZUZm5OZEZjdWpSbTU3YzJKVExMNWo0WE5uSjAyWnpKSjFwcEk?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -431,12 +431,42 @@
   },
   {
     "title": "This 85-inch Sony Bravia dropped to less than $1,000 at Amazon - ZDNET",
-    "description": "This 85-inch Sony Bravia dropped to less than $1,000 at Amazon  ZDNETSony’s Massive 85-Inch Bravia 5 Mini LED 4K TV Is $700 Off Right Now  Lifehacker",
+    "description": "This 85-inch Sony Bravia dropped to less than $1,000 at Amazon  ZDNETSony's Biggest QLED Screens See Big Discounts This Weekend  WIRED",
     "published date": "Fri, 06 Feb 2026 23:00:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ3lYTWY0TUR3T0pRUFJ5Zy0yQ3RQQmlyR2ZCZkxsdUwtX005X2VFWFpqNVhLdlRBbTR5Q3ZWTGx2RHJOUFZ5eXpfZ3NQMXFGbEo1VTZzRXBfR3Z0d0xpQkk2eG1rMnNvZF9WYU5nMl9BdGxJVUZjbkpVZ2drZHM2RHBjQnlMclJxOTJz?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.zdnet.com",
       "title": "ZDNET"
+    }
+  },
+  {
+    "title": "Google will soon offer AirDrop support on more Android devices - Engadget",
+    "description": "Google will soon offer AirDrop support on more Android devices  EngadgetGoogle confirms AirDrop is coming to all Android devices  Android PoliceGoogle hints at big AirDrop expansion for Android \"very soon\"  Ars TechnicaGoogle is expanding AirDrop support to more Android devices ‘very soon’  theverge.com",
+    "published date": "Fri, 06 Feb 2026 14:15:23 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS180NGVaZ3FNeG1lTGtPZS0zcjNqMW1yTUFaUDQxVU8wUzhlRmVlMjhfZFBxcmNPemwxcjJCZG5IaFhUQmtyR3Z1cWZRNlRzSkF3RWhuQlFYWWNtNzN6Y2NIZk51QklNdk9hWFRVOVR6ZmJfbmx3YU96V3ZGRHYxYlJDbHpWNlNDdThNTXVFWVExaEdEOHZ4eEFKSW5HRjB2X0hVNEdtcDBROGo4TkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.engadget.com",
+      "title": "Engadget"
+    }
+  },
+  {
+    "title": "If You Use Gmail, You're Going To Want To Turn Off This 1 Automatic Setting ASAP - Yahoo News Canada",
+    "description": "If You Use Gmail, You're Going To Want To Turn Off This 1 Automatic Setting ASAP  Yahoo News CanadaGoogle reorganizes Gemini tools to highlight new experimental features  Android PoliceGemini app Tools menu adds ‘Labs’ section, Personal Intelligence toggle  9to5Google",
+    "published date": "Sat, 07 Feb 2026 12:00:22 GMT",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE92QUVGR0NhXzRsWDg1MVh0VHY1aFpQUVA0M0kyR0g1dDh0ZWh2STBoQXFiZDVjN080TjlNaFR0dkxnb3JEV0pBRHhESDZQVTFlcXRkNFlBSW9McnV6a3poUWRjdHRNTHc3UW05TXE5THRsaVZIdzRj?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://ca.news.yahoo.com",
+      "title": "Yahoo News Canada"
+    }
+  },
+  {
+    "title": "PCs Now Sold Without RAM to Avoid Memory Price Hikes - extremetech.com",
+    "description": "PCs Now Sold Without RAM to Avoid Memory Price Hikes  extremetech.com",
+    "published date": "Fri, 06 Feb 2026 19:05:43 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY1dNUXVDRFhXZk1MMDBLSUlud1NDd3E4TThUTkRkTUFYLWUtWHVCQVotMG5TOGhFMnl4ZEoyQ2k5cUtpWDZuWFpwc0ZfZWFFRWZiSjBuTUdJVERtOTZyVDRVNnRxVFlOb0cyR1ZyRE5KY1lnUmJsdllNcUtXNFB5UEd2S1pDUDB3YkMyV3VQWUxISlZZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.extremetech.com",
+      "title": "extremetech.com"
     }
   },
   {
@@ -450,6 +480,16 @@
     }
   },
   {
+    "title": "Intel reportedly 'cancels' Core Ultra 9 290K Plus, but keeps 270K/250K Arrow Lake Refresh SKUs - VideoCardz.com",
+    "description": "Intel reportedly 'cancels' Core Ultra 9 290K Plus, but keeps 270K/250K Arrow Lake Refresh SKUs  VideoCardz.comReport: Intel Cancels Flagship Core Ultra 9 290K Plus \"Arrow Lake Refresh,\" But Keeps Other SKUs  TechPowerUp",
+    "published date": "Fri, 06 Feb 2026 19:48:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbklXQ1lQN0hEUmwzWVRLZ3dRQkRVUlFycEdmdjhGVjUwcnRELWdzaFlxaElJYUlQd0poRW1Gd1NnSG50WjhOUWU1RHJWM3l2WHlHMTBHcUFGUk9YeS10RW54YWlEbTV4RHd3bEc1RUE0bnZkWjdlYk1YaHlDN3lzQkk1UnVoa2ZjWmIwQktIVkNGQkx2bWR6ZFdtbktKMVJhd1A1cTFuV1JkZDkwVWFrYUg4dDZrTjVBWmZR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://videocardz.com",
+      "title": "VideoCardz.com"
+    }
+  },
+  {
     "title": "3 great games just hit Xbox Game Pass - Polygon",
     "description": "3 great games just hit Xbox Game Pass  Polygon",
     "published date": "Fri, 06 Feb 2026 20:00:17 GMT",
@@ -460,43 +500,33 @@
     }
   },
   {
-    "title": "Intel reportedly 'cancels' Core Ultra 9 290K Plus, but keeps 270K/250K Arrow Lake Refresh SKUs - VideoCardz.com",
-    "description": "Intel reportedly 'cancels' Core Ultra 9 290K Plus, but keeps 270K/250K Arrow Lake Refresh SKUs  VideoCardz.comReport: Intel Cancels Flagship Core Ultra 9 290K Plus \"Arrow Lake Refresh,\" But Keeps Other SKUs  TechPowerUpIntel's Core Ultra 9 290K Plus Shows 10% Performance Boost Over Core Ultra 9 285K  TechPowerUp",
-    "published date": "Fri, 06 Feb 2026 19:48:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbklXQ1lQN0hEUmwzWVRLZ3dRQkRVUlFycEdmdjhGVjUwcnRELWdzaFlxaElJYUlQd0poRW1Gd1NnSG50WjhOUWU1RHJWM3l2WHlHMTBHcUFGUk9YeS10RW54YWlEbTV4RHd3bEc1RUE0bnZkWjdlYk1YaHlDN3lzQkk1UnVoa2ZjWmIwQktIVkNGQkx2bWR6ZFdtbktKMVJhd1A1cTFuV1JkZDkwVWFrYUg4dDZrTjVBWmZR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "An Apple TV 4K paired with a receiver should be great, but it isn't - Pocket-lint",
+    "description": "An Apple TV 4K paired with a receiver should be great, but it isn't  Pocket-lint",
+    "published date": "Sat, 07 Feb 2026 12:00:17 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41LThDMnBnYlh3TTlNWE5ETjlNRTZ4cHdaQWVWLUlKWHB6bUJZM0ZWT0hYMWhXTDBVVFAwNHhKUUttV2hWWi1KOUdjVG0yZkxaRWd6aV9lZDU0Y1ZTWXBNZkFIa3dmc0NjdHNSdUlWT1hRVDR2amFmM3l3?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://videocardz.com",
-      "title": "VideoCardz.com"
+      "href": "https://www.pocket-lint.com",
+      "title": "Pocket-lint"
     }
   },
   {
-    "title": "Researchers successfully 3D print one of industry's hardest engineering materials - Tech Xplore",
-    "description": "Researchers successfully 3D print one of industry's hardest engineering materials  Tech XploreResearchers find a way to 3D print one of industry’s hardest engineering materials  EurekAlert!",
-    "published date": "Fri, 06 Feb 2026 14:44:25 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ29rdzM3SWZBamQ0dWdnN05fc2dnc2h2YWZsTzJyaEV5SnhLeWQzWUd3bWx0bzBSMmVIdnJ3Z1V4X2hLVHR0Z2RNMHcxM1pHX1JVYlJScVFiZ1diZG8ydnRCQVM4SnpKa2NFUEI5VWFVSEhZZTRYa1hCUUVJV0tFYmgyT1FyYkpVQXpv?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "'It Looks Like I Just Got a PlayStation 7' Streamer Northernlion Just Discovered His High Refresh Rate Monitor Was Still Set to 60Hz - IGN",
+    "description": "'It Looks Like I Just Got a PlayStation 7' Streamer Northernlion Just Discovered His High Refresh Rate Monitor Was Still Set to 60Hz  IGN",
+    "published date": "Fri, 06 Feb 2026 23:19:53 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOT2VSelltWFNmTUFETkRPN2Q5OFp1UmpQS19IaUd5bUN3bUEzNlFmM1J1U282N1NzVUZRRU4zQW5zQ04wZjJ4UDdBQnB6RTJzNDI1N1RqckJQODZlSVJkWGpqbnFoRUF4cmFxS21vQjRoRjhDYVNLQ2E3WVlVakZnZWN0LTlhdUh3OWh4LUVBVTktRk9SeGVKUk1vdjhremxSOUFOYkVOTkplQmF2dUZFbzNxZjVkNTNza0k3UlQyYzNPeEk1cGQwT1hsWkV0LTN2d2Ruem5KLVlxOVNyZl9MYkh6S0pQT2ZPLUZ3Y3JOaXo?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://techxplore.com",
-      "title": "Tech Xplore"
+      "href": "https://www.ign.com",
+      "title": "IGN"
     }
   },
   {
     "title": "Analogue’s 4K N64 is getting five new transparent color options - theverge.com",
-    "description": "Analogue’s 4K N64 is getting five new transparent color options  theverge.comThe Analogue 3D Is Getting Limited Edition Variants of Unreleased N64 Colorways – Including Atomic Purple  ign.com",
+    "description": "Analogue’s 4K N64 is getting five new transparent color options  theverge.comThe Analogue 3D Is Getting Limited Edition Variants of Unreleased N64 Colorways – Including Atomic Purple  IGN",
     "published date": "Fri, 06 Feb 2026 16:00:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcWN2R3VXYnBMOGVoLTRodkVIclJzVFVLYmJfYzVUcDZxb2hxR3FfMkNUU0FLTkd3YTNsLV9nRWNfWXVucUZWLW1neDRDcERVSk5GRThPYUNCaEluWDRNQ0dGZUZyT0xBWDJCS1hySzMtOTJnRExjTFhLbXhDZFpSR2hra0pDdGpjUTF0bzItTlR3Ujkt?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.theverge.com",
       "title": "theverge.com"
-    }
-  },
-  {
-    "title": "'It Looks Like I Just Got a PlayStation 7' Streamer Northernlion Just Discovered His High Refresh Rate Monitor Was Still Set to 60Hz - ign.com",
-    "description": "'It Looks Like I Just Got a PlayStation 7' Streamer Northernlion Just Discovered His High Refresh Rate Monitor Was Still Set to 60Hz  ign.com",
-    "published date": "Fri, 06 Feb 2026 23:19:53 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOT2VSelltWFNmTUFETkRPN2Q5OFp1UmpQS19IaUd5bUN3bUEzNlFmM1J1U282N1NzVUZRRU4zQW5zQ04wZjJ4UDdBQnB6RTJzNDI1N1RqckJQODZlSVJkWGpqbnFoRUF4cmFxS21vQjRoRjhDYVNLQ2E3WVlVakZnZWN0LTlhdUh3OWh4LUVBVTktRk9SeGVKUk1vdjhremxSOUFOYkVOTkplQmF2dUZFbzNxZjVkNTNza0k3UlQyYzNPeEk1cGQwT1hsWkV0LTN2d2Ruem5KLVlxOVNyZl9MYkh6S0pQT2ZPLUZ3Y3JOaXo?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ign.com",
-      "title": "ign.com"
     }
   },
   {
@@ -530,26 +560,6 @@
     }
   },
   {
-    "title": "The CADEX Ultra WheelSystem - Slowtwitch News",
-    "description": "The CADEX Ultra WheelSystem  Slowtwitch News",
-    "published date": "Fri, 06 Feb 2026 20:13:30 GMT",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1SHdIRzNZTzZKdm5JaGxvb3lOZF8zX2IwRnp0THE2QTE5cThVZ214bFN2aVdlRmlDbDBqaWtsRmgyUUNzR3IxSW13ellmVncyRUE2bWZmcElPc0tUQTNleDA4RG9hVmRFNk5TZFNRRkI?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.slowtwitch.com",
-      "title": "Slowtwitch News"
-    }
-  },
-  {
-    "title": "The Big Arc Raiders Interview: Embark Boss Patrick Söderlund Talks Live-Service Plans, Banning Cheaters, and the Secret Sauce of PvE - ign.com",
-    "description": "The Big Arc Raiders Interview: Embark Boss Patrick Söderlund Talks Live-Service Plans, Banning Cheaters, and the Secret Sauce of PvE  ign.comArc Raiders is cracking down on cheaters by targeting Steam Family Sharing: 'Restrictions or bans will apply across the entire family group tied to that license'  PC Gamer",
-    "published date": "Fri, 06 Feb 2026 12:42:22 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYk85SEs3N3Z5aUxaU1R1WlFfQzR3VGl4aE1jWHVpOW5OdnZhZGh4Sk13VzRfMU1fdWhhVWdPQ1hvbnlqdjBpaUhhREt1a2FBWDU1T3IweXp1dWlMdmZSVVJYcUxEVFFfZWYwV2k0aVY5Wm4tb3d3RTVTX2xsOExrZ1M4Yy11MzhyV24wdUhvc0RwVzRPcm80TWg4UVhja0lOWFQ0NXE4NDZEQ045bnVlZzBkczhlb1FIeFFGUElzNnJBME9kNXJJU3JSUUdoWjhPNFYzcWpBT3I2SURzT1ppcHY1N1pyZ0F1aS13NkpR?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ign.com",
-      "title": "ign.com"
-    }
-  },
-  {
     "title": "AMD GFX1170 \"RDNA 4M\" spotted in Linux patches, possible RDNA3 APU refresh - VideoCardz.com",
     "description": "AMD GFX1170 \"RDNA 4M\" spotted in Linux patches, possible RDNA3 APU refresh  VideoCardz.com",
     "published date": "Fri, 06 Feb 2026 14:27:00 GMT",
@@ -557,6 +567,26 @@
     "publisher": {
       "href": "https://videocardz.com",
       "title": "VideoCardz.com"
+    }
+  },
+  {
+    "title": "The Big Arc Raiders Interview: Embark Boss Patrick Söderlund Talks Live-Service Plans, Banning Cheaters, and the Secret Sauce of PvE - IGN",
+    "description": "The Big Arc Raiders Interview: Embark Boss Patrick Söderlund Talks Live-Service Plans, Banning Cheaters, and the Secret Sauce of PvE  IGNArc Raiders is cracking down on cheaters by targeting Steam Family Sharing: 'Restrictions or bans will apply across the entire family group tied to that license'  PC Gamer",
+    "published date": "Fri, 06 Feb 2026 12:42:22 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYk85SEs3N3Z5aUxaU1R1WlFfQzR3VGl4aE1jWHVpOW5OdnZhZGh4Sk13VzRfMU1fdWhhVWdPQ1hvbnlqdjBpaUhhREt1a2FBWDU1T3IweXp1dWlMdmZSVVJYcUxEVFFfZWYwV2k0aVY5Wm4tb3d3RTVTX2xsOExrZ1M4Yy11MzhyV24wdUhvc0RwVzRPcm80TWg4UVhja0lOWFQ0NXE4NDZEQ045bnVlZzBkczhlb1FIeFFGUElzNnJBME9kNXJJU3JSUUdoWjhPNFYzcWpBT3I2SURzT1ppcHY1N1pyZ0F1aS13NkpR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ign.com",
+      "title": "IGN"
+    }
+  },
+  {
+    "title": "The CADEX Ultra WheelSystem - Slowtwitch News",
+    "description": "The CADEX Ultra WheelSystem  Slowtwitch News",
+    "published date": "Fri, 06 Feb 2026 20:13:30 GMT",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1SHdIRzNZTzZKdm5JaGxvb3lOZF8zX2IwRnp0THE2QTE5cThVZ214bFN2aVdlRmlDbDBqaWtsRmgyUUNzR3IxSW13ellmVncyRUE2bWZmcElPc0tUQTNleDA4RG9hVmRFNk5TZFNRRkI?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.slowtwitch.com",
+      "title": "Slowtwitch News"
     }
   },
   {
@@ -570,16 +600,6 @@
     }
   },
   {
-    "title": "After decades on Linux, FreeBSD finally gave me a reason to switch operating systems - ZDNET",
-    "description": "After decades on Linux, FreeBSD finally gave me a reason to switch operating systems  ZDNET",
-    "published date": "Fri, 06 Feb 2026 02:36:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqclZGbXlPQzRRR01US1VyU2ZwQl8yMmkxd3IzTDRsRllXM0VYWVdJZHVpRkJRVEZBZ1J2alhfNzdtTl91ZE43Q1ZnY2FMX2NNSVZpM0p2eGlpMkRrdHRvbg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.zdnet.com",
-      "title": "ZDNET"
-    }
-  },
-  {
     "title": "Diablo 4 Next Class Looks To Have Leaked, And It's The Opposite Of Paladin - GameSpot",
     "description": "Diablo 4 Next Class Looks To Have Leaked, And It's The Opposite Of Paladin  GameSpotWitness the Diablo 30th Anniversary Spotlight  Blizzard NewsDiablo IV: Lord Of Hatred Second New Class Leaked Via Datamine  Twisted VoxelTune-in to the Diablo 30th Anniversary Spotlight — Diablo IV  Blizzard News",
     "published date": "Fri, 06 Feb 2026 09:39:29 GMT",
@@ -587,6 +607,16 @@
     "publisher": {
       "href": "https://www.gamespot.com",
       "title": "GameSpot"
+    }
+  },
+  {
+    "title": "After decades on Linux, FreeBSD finally gave me a reason to switch operating systems - ZDNET",
+    "description": "After decades on Linux, FreeBSD finally gave me a reason to switch operating systems  ZDNET",
+    "published date": "Fri, 06 Feb 2026 02:36:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqclZGbXlPQzRRR01US1VyU2ZwQl8yMmkxd3IzTDRsRllXM0VYWVdJZHVpRkJRVEZBZ1J2alhfNzdtTl91ZE43Q1ZnY2FMX2NNSVZpM0p2eGlpMkRrdHRvbg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.zdnet.com",
+      "title": "ZDNET"
     }
   },
   {
@@ -600,26 +630,6 @@
     }
   },
   {
-    "title": "Apple Is Scaling Back Plans for New AI-Based Health Coach Service - Bloomberg",
-    "description": "Apple Is Scaling Back Plans for New AI-Based Health Coach Service  BloombergApple’s latest iOS 27 pivot is good news for the subscription-weary  9to5mac.comApple Scraps ‘AI Doctor’ Project as Competition Heats Up  iPhone in CanadaApple has reportedly dumped its planned AI health coach  MobileSyrup",
-    "published date": "Thu, 05 Feb 2026 22:57:34 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObHVpYkcyWUxUMVAzcnU4WVFjcmVob0g2MXhhbGpqc2hRczQ3Y0EzTjNRS0VrWUlqdlpYYVlGa1FDMkd4eWVvRFA4UEd6Y3ZnMkhyMlhtdlZjOGgxVzhPQlZnMk5CUFg5S0JIeGpxZXg3OEdieE9rUXk4SXk3V3I4bFhEdWxaZDFMdjZRZF9JeFJPWmdyTDVJMV9LcDZ6S2t5MmRxRzNBc213a0VmRFdESlNtdGkyRWM?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.bloomberg.com",
-      "title": "Bloomberg"
-    }
-  },
-  {
-    "title": "Google Issues Android Update—40% Of All Phones Now At Risk - Forbes",
-    "description": "Google Issues Android Update—40% Of All Phones Now At Risk  Forbes",
-    "published date": "Thu, 05 Feb 2026 17:03:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRS1KOGxKbzVRN0NjdEpYLXZzTnExNGMtWWJQMzZvc3B5VnNuR1phNVhXV29EWHRSamlrNWNOaGFNdTAyenRNTWJzbjZhRm9xYjVaSXNCWTN6SVpicEQ1b0tBbExibUtvdHVOT2VOX29tdzRlMlVkbURPSTNlTEJKUFJyOXlJdGpSUzN5aW1hS1JPM1lyUWpkX2p3NTFIdUZZSVlxWjJMM1BrX0p6MlBIaU1jVGlOQnR4?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.forbes.com",
-      "title": "Forbes"
-    }
-  },
-  {
     "title": "What ‘I Need Space’ Means In A Relationship — A Psychologist Explains - Forbes",
     "description": "What ‘I Need Space’ Means In A Relationship — A Psychologist Explains  Forbes",
     "published date": "Fri, 06 Feb 2026 22:30:18 GMT",
@@ -630,13 +640,13 @@
     }
   },
   {
-    "title": "(Updated) NVIDIA confirms April 2026 release for DLSS Dynamic Multi Frame Generation and 6x mode - VideoCardz.com",
-    "description": "(Updated) NVIDIA confirms April 2026 release for DLSS Dynamic Multi Frame Generation and 6x mode  VideoCardz.comNVIDIA Confirms Dynamic Multi-Frame Generation and 6x Mode Arrive in April  TechPowerUp",
-    "published date": "Thu, 05 Feb 2026 19:48:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb1MyN3B6UVEtTlVNWmdUVEwtQlBKdklwd2FFa2lRZnZQRTIySjFjTGNIYi1nV1dWZEVkNFR5MmpWbWdjcVhUbkh5SjZ3UFU1QVpLSk85M2R0a3VaUUlLRHN0QUFWMU5ocHplTHdZdWNOa2hjNjJRaDdUMkdreXhVaERWQUc3ajU2U0ZGNVM4a1ZtOUlwVHI2RmtmZnlHQTBuaUZOWGJaUXJ5T0h1em9tQzhMT3I?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Apple Is Scaling Back Plans for New AI-Based Health Coach Service - Bloomberg",
+    "description": "Apple Is Scaling Back Plans for New AI-Based Health Coach Service  BloombergApple’s latest iOS 27 pivot is good news for the subscription-weary  9to5mac.comApple Scraps ‘AI Doctor’ Project as Competition Heats Up  iPhone in CanadaApple has reportedly dumped its planned AI health coach  MobileSyrup",
+    "published date": "Thu, 05 Feb 2026 22:57:34 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObHVpYkcyWUxUMVAzcnU4WVFjcmVob0g2MXhhbGpqc2hRczQ3Y0EzTjNRS0VrWUlqdlpYYVlGa1FDMkd4eWVvRFA4UEd6Y3ZnMkhyMlhtdlZjOGgxVzhPQlZnMk5CUFg5S0JIeGpxZXg3OEdieE9rUXk4SXk3V3I4bFhEdWxaZDFMdjZRZF9JeFJPWmdyTDVJMV9LcDZ6S2t5MmRxRzNBc213a0VmRFdESlNtdGkyRWM?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://videocardz.com",
-      "title": "VideoCardz.com"
+      "href": "https://www.bloomberg.com",
+      "title": "Bloomberg"
     }
   },
   {
@@ -650,6 +660,26 @@
     }
   },
   {
+    "title": "(Updated) NVIDIA confirms April 2026 release for DLSS Dynamic Multi Frame Generation and 6x mode - VideoCardz.com",
+    "description": "(Updated) NVIDIA confirms April 2026 release for DLSS Dynamic Multi Frame Generation and 6x mode  VideoCardz.comNVIDIA Confirms Dynamic Multi-Frame Generation and 6x Mode Arrive in April  TechPowerUp",
+    "published date": "Thu, 05 Feb 2026 19:48:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb1MyN3B6UVEtTlVNWmdUVEwtQlBKdklwd2FFa2lRZnZQRTIySjFjTGNIYi1nV1dWZEVkNFR5MmpWbWdjcVhUbkh5SjZ3UFU1QVpLSk85M2R0a3VaUUlLRHN0QUFWMU5ocHplTHdZdWNOa2hjNjJRaDdUMkdreXhVaERWQUc3ajU2U0ZGNVM4a1ZtOUlwVHI2RmtmZnlHQTBuaUZOWGJaUXJ5T0h1em9tQzhMT3I?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://videocardz.com",
+      "title": "VideoCardz.com"
+    }
+  },
+  {
+    "title": "Google Issues Android Update—40% Of All Phones Now At Risk - Forbes",
+    "description": "Google Issues Android Update—40% Of All Phones Now At Risk  Forbes",
+    "published date": "Thu, 05 Feb 2026 17:03:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRS1KOGxKbzVRN0NjdEpYLXZzTnExNGMtWWJQMzZvc3B5VnNuR1phNVhXV29EWHRSamlrNWNOaGFNdTAyenRNTWJzbjZhRm9xYjVaSXNCWTN6SVpicEQ1b0tBbExibUtvdHVOT2VOX29tdzRlMlVkbURPSTNlTEJKUFJyOXlJdGpSUzN5aW1hS1JPM1lyUWpkX2p3NTFIdUZZSVlxWjJMM1BrX0p6MlBIaU1jVGlOQnR4?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
+    }
+  },
+  {
     "title": "Christopher Ward Drops Its Best Dive Watch Ever, Full Stop - Gear Patrol",
     "description": "Christopher Ward Drops Its Best Dive Watch Ever, Full Stop  Gear PatrolIntroducing: The Christopher Ward C60 Trident Lumière ‘Green Fifteen’ x Bark & Jack  HodinkeeA YouTuber Just Designed Christopher Ward’s Most Serious Watch Yet  Esquire",
     "published date": "Fri, 06 Feb 2026 17:53:23 GMT",
@@ -660,40 +690,10 @@
     }
   },
   {
-    "title": "First Look: Topeak Adds to the List of Alt-Valves with New TurboFlow Adapters - Bikerumor",
-    "description": "First Look: Topeak Adds to the List of Alt-Valves with New TurboFlow Adapters  Bikerumor",
-    "published date": "Thu, 05 Feb 2026 20:35:34 GMT",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN1ZBNTc4Q0x4RzgySU1LSkZ4eng5a28teHY1aVF5My1mdHNRVE9GRG5lcmlKNV9ELURHa3BobE9uMF9qdGc1ZUZKUmZyTDQzUlZ4UUpzV21HVmNmd19HcDNYX3V5ckduLVBrb0t2VnZpYkNRdTJhZ1lwUmY0NTRfNnZCeDcxVzF0X0ZSRk1JaFJCbk51YU5vcldnQTcxYzFa?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://bikerumor.com",
-      "title": "Bikerumor"
-    }
-  },
-  {
-    "title": "China joins race to develop space-based data centers with 5-year plan - Space",
-    "description": "China joins race to develop space-based data centers with 5-year plan  SpaceNow It's A MechaSpace Race: China Wants To Put AI Data Centers In Space, Too  Jalopnik",
-    "published date": "Thu, 05 Feb 2026 19:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR1ZXVW5ybHdrR0NKSUZ5YXpCY0NtMk95eHhPLU5CZHBGbzZKcTZwaVlTMzRPSmlnUlZNNzU2N1ZoSnl1a3dkb09EVk5iTXJyMHUxWktHYVY5WDlINTdGa2FSZlRKS21nQ2ZzMjFDZHlLd2FlMUYzdl9HZ0xzZ00zdmVWMjZvN3RvTHBacGtqWWwxYmU2eHZwU0tPbFRkN21mcmZrblFXckRsYkpQSENNWmRoaVF4QkJfdkFtMg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.space.com",
-      "title": "Space"
-    }
-  },
-  {
-    "title": "Time is running out to nominate a Warhammer Hero from your local community - Warhammer Community",
-    "description": "Time is running out to nominate a Warhammer Hero from your local community  Warhammer Community",
-    "published date": "Fri, 06 Feb 2026 11:57:14 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY2JaSVJZdTlYdVA0SVFNbzAtanM2M2otVjZLdElwWUFhMVJNWXVWYjItTFZUZHNzU2F6NmhFUjV4X0dmTmhsVFlnS2FMZTBYUnZ3ZGlSY094QTZrSDhmV1VqaDVWREc1Z3hhNE1yYkhCWGZMeTgzWW5LZjFFcTZsNmNKVEh2N1RRWmFUYUY4Q3prNUlUSGVHVUN3UkpfU0x0ODl5d2d3ajF5R1AyMlZ3T192a2M0VFJuOVV0cUJ6ZUdVZVpNMERaeXlMa1pMdGpm?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.warhammer-community.com",
-      "title": "Warhammer Community"
-    }
-  },
-  {
-    "title": "The little-known Android app that freed up 10GB on my smartphone - Android Police",
-    "description": "The little-known Android app that freed up 10GB on my smartphone  Android Police",
-    "published date": "Fri, 06 Feb 2026 14:30:11 GMT",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RazdLQlN2TmxkVEFFWGMtV2tjN1R4bXNxdngzQTUxanhTbXpnSnkxTTduLTJSVXI0OGZLQUFSVHd0RDlBQzdJRGZGN3A5MmhTall6NWM3MXdJSVMtYmI4V1AxbXJBd2lQa0g1eVBMTExHUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "I turned off these 2 hidden Android scanning settings, and my battery life nearly doubled - Android Police",
+    "description": "I turned off these 2 hidden Android scanning settings, and my battery life nearly doubled  Android PoliceHelp preserve your Android battery by switching off this hidden feature — here’s how  Tom's Guide",
+    "published date": "Fri, 06 Feb 2026 16:15:18 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMlJySFZzRUltdmtXSjlFXzVpamRaZTFxd2liOHJTV0FvVldOcl95Q2VNR2dRNzcxYkJDSXRzNFk4QmF0RC1kdnJhOGltcnFOQmVpMnJnVkVla3gzeGVIS251V0lCTGRfelRyakl5TEVxWm5EeGREQUtTUWxFdmZkNWNzXzRIRGFLTFpQSG9aTTBKTTN6MDZr?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.androidpolice.com",
       "title": "Android Police"
