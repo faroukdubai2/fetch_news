@@ -2,8 +2,8 @@
   {
     "title": "NASA Artemis Moonshot - Bluefield Daily Telegraph",
     "description": "NASA Artemis Moonshot  Bluefield Daily TelegraphOsinski: Artemis II launches soon – with a Canadian on board  London Free PressNASA Conducts Artemis II Fuel Test, Eyes March for Launch Opportunity  NASA (.gov)Setting our sights  planetary.orgNASA's Artemis 2 launch date in flux amid delays. Here's what to know  USA Today",
-    "published date": "Sat, 07 Feb 2026 11:45:51 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcXZpOERPVFJZRTVNaEZHX0k3amxTcWJLX05qbEtPdkZmLVNPa01VRWtUeHg2em53ZDJrV2NFV2w4dnRDc0c4VEl0Ti1lc2VXRVJ1emhzeGJLajJlR3FlRzFZdk1NMEFGZ0lINW1tdlAwRWJsTDA2LVlFRS1tUTBmb3QzbEtDMlZVb0psQ3pLVFBIbnlTZFFfZEdFS3FLY2w4akNINHE4aWlRWk40ZHhMb0loSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "published date": "Sat, 07 Feb 2026 11:45:17 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTlJ1SGlkbERDcDZSWkU5LXZvemZPQWRBYjk2eWhZeDZSNUhKRlZFVDJnVVBnV0taRE1nNVRVWlphUmpOSkxfVXNaWmZIMzZPbGc4WGdnQlNhY3lBQXdraWVQUlJ1NDk4aF8za09pZ3hDNHVmM3Fma3JLZHpyUVdheERXZzBDSGhldEFDSXQ2NXhxN1kzQ3hMODk1cmNPdVF2dUF3dVhZMHBGZDFlMEtXc1ozbw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.bdtonline.com",
       "title": "Bluefield Daily Telegraph"
@@ -30,16 +30,6 @@
     }
   },
   {
-    "title": "Microbubblers, sediments, and algae: What 2025 taught us and where the Science goes next - DiscoverWestman",
-    "description": "Microbubblers, sediments, and algae: What 2025 taught us and where the Science goes next  DiscoverWestman",
-    "published date": "Sun, 08 Feb 2026 17:58:27 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMExucDZTYy1uMzFSSGtlSEExUTBndFRqTlh2X1JkOTFYbzdpeTFlTnJJZXlTc3g3aGlTbktUcTU3YXpnNktEa3JMajUxRDNLejMtSDBiT1pMa3A5QjdFUHl6b3lfQTdKOTkydjRZLXNNNDcyUU5UMjdkYnhrMG5XTFVVQ2RNWWR3MEQ1WU9PRHQ1Q0tPZmJRVFkwcnFBYTVLeTlkVnBYMzg3bGtIcUQyc0JKeno4bUxLM1N2NkJXTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://discoverwestman.com",
-      "title": "DiscoverWestman"
-    }
-  },
-  {
     "title": "Alfven waves drive stable electric fields that power auroras - Space Daily",
     "description": "Alfven waves drive stable electric fields that power auroras  Space DailyThe science behind why some auroras have such stunning wave patterns  Scientific AmericanNew analysis demonstrates how energy from space fuels Earth’s Auroras  primetimer.com",
     "published date": "Sun, 08 Feb 2026 00:49:35 GMT",
@@ -47,6 +37,16 @@
     "publisher": {
       "href": "https://www.spacedaily.com",
       "title": "Space Daily"
+    }
+  },
+  {
+    "title": "Microbubblers, sediments, and algae: What 2025 taught us and where the Science goes next - DiscoverWestman",
+    "description": "Microbubblers, sediments, and algae: What 2025 taught us and where the Science goes next  DiscoverWestman",
+    "published date": "Sun, 08 Feb 2026 17:58:27 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMExucDZTYy1uMzFSSGtlSEExUTBndFRqTlh2X1JkOTFYbzdpeTFlTnJJZXlTc3g3aGlTbktUcTU3YXpnNktEa3JMajUxRDNLejMtSDBiT1pMa3A5QjdFUHl6b3lfQTdKOTkydjRZLXNNNDcyUU5UMjdkYnhrMG5XTFVVQ2RNWWR3MEQ1WU9PRHQ1Q0tPZmJRVFkwcnFBYTVLeTlkVnBYMzg3bGtIcUQyc0JKeno4bUxLM1N2NkJXTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://discoverwestman.com",
+      "title": "DiscoverWestman"
     }
   },
   {
@@ -141,7 +141,7 @@
   },
   {
     "title": "Rare total lunar eclipse will turn full moon red over southern Ontario next month - INsauga",
-    "description": "Rare total lunar eclipse will turn full moon red over southern Ontario next month  INsaugaHow to use the moon on Feb. 4 to plan your view of March's total lunar eclipse  SpaceA blood moon is coming: 1 month until a total lunar eclipse takes to the skies over North America  Space",
+    "description": "Rare total lunar eclipse will turn full moon red over southern Ontario next month  INsaugaA blood moon is coming: 1 month until a total lunar eclipse takes to the skies over North America  Space",
     "published date": "Sun, 08 Feb 2026 21:04:14 GMT",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNklyMDRMd0xOaHFnMFdkZ19VdmRUalNlai1uWDBiMXg3cWJlVmVFNl83cjhoZnVGSnBvTnFLc0s0RXFLT2JkR3dpczRZZmI3cXcwbGJLdVdJVmp4SUF3Q2M3aWNPSFJVMS0waVlrTGEzYmpyZ0VPMmdmcmxWTVJ0dFlQdmVXQjYzQ0pWRXBYRHE3NTJ3bjJCbmJxOXlRMjV3LUo2TURyakphdw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -170,6 +170,16 @@
     }
   },
   {
+    "title": "Could We Be Wrong About How Life Began? New Scientific Findings Say Yes - Indian Defence Review",
+    "description": "Could We Be Wrong About How Life Began? New Scientific Findings Say Yes  Indian Defence ReviewScientists Say We May Have Been Wrong About the Origin of Life  popularmechanics.com",
+    "published date": "Sun, 08 Feb 2026 14:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQXRKWlpmMTdEcldGNVJ2Z09Ma1Nib1NlZHl2cmtCQWFYanpManRUcmw3OHNoX1k4amtycHR5V3RWYmFTcWNHRGFLeDFQUlltQmwwWWZoTWZ4bFhEVGJocURqemt4aXhOT3dNM3FidVlpSUNFbVB3TE9EQkF0TC1vQ3lfazVQNUlvQl92MkNweHk?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://indiandefencereview.com",
+      "title": "Indian Defence Review"
+    }
+  },
+  {
     "title": "A Century of Mistaken Identity: The \"Prettiest\" New Species Discovered in 2025 - A-Z Animals",
     "description": "A Century of Mistaken Identity: The \"Prettiest\" New Species Discovered in 2025  A-Z Animals",
     "published date": "Sun, 08 Feb 2026 17:16:31 GMT",
@@ -190,6 +200,26 @@
     }
   },
   {
+    "title": "Scientists discover a key cellular driver of aging and longevity - Wiley Analytical Science",
+    "description": "Scientists discover a key cellular driver of aging and longevity  Wiley Analytical ScienceER remodelling is a feature of ageing and depends on ER-phagy  NatureCells adapt to aging by actively remodeling endoplasmic reticulum, study reveals  Phys.orgA hidden cellular process may drive aging and disease  ScienceDaily",
+    "published date": "Mon, 09 Feb 2026 08:15:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb05pcWpUX0ZfWlpRQ09vUnVqcWZ6Z3ZfT2tlOXVaUllrbEp6TXRRNk5fazRmRkZST3dHUUZvRmJrTTlYSUdNXzBpNzc1Z0FOWVpWUzRVQWtqNV9VRUNSbVB0YjQxNHktaHB0RGgtSF91bjRHcEI1SGxLWW1WRFZyQS1DTXkxLTcxZkx5Smk3WXUxRmpXSzFuUFhIczZIVEg3dHVFNTlvd0J2d3RHdTFiblFjWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://analyticalscience.wiley.com",
+      "title": "Wiley Analytical Science"
+    }
+  },
+  {
+    "title": "Israeli-linked astronaut Meir set for SpaceX ISS flight - JNS.org",
+    "description": "Israeli-linked astronaut Meir set for SpaceX ISS flight  JNS.orgNASA Sets Coverage for Agency’s SpaceX Crew-12 Launch, Docking  NASA (.gov)NASA confirms first flight to ISS since medical evacuation  CTV NewsSpaceX's next astronaut launch for NASA is officially on for Feb. 11 as FAA clears Falcon 9 rocket to fly again  SpaceSpaceX's fiery Falcon 9 streaks into orbit | Space photo of the day for Nov. 6, 2025  Space",
+    "published date": "Mon, 09 Feb 2026 08:06:18 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYkRBSGNFSHVONlBhWGEtYTFPVTR0SFFTSEtXSXltdnh5TUFnQzVtRnpUcGxLandhRGhQd3FxNHUxVDdDSGhOLUhfMnctandrTFp3MmdYcmVaQkJ4bDNRWXVtVlpncVZhNjR3bUR3XzR1eXBIZzBUeWRXbzlGbG5CclZB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.jns.org",
+      "title": "JNS.org"
+    }
+  },
+  {
     "title": "Starwatch: Crescent moon rises next to Antares before dawn - The Guardian",
     "description": "Starwatch: Crescent moon rises next to Antares before dawn  The Guardian",
     "published date": "Mon, 09 Feb 2026 06:00:00 GMT",
@@ -200,19 +230,9 @@
     }
   },
   {
-    "title": "Why this rust-like mineral is one of Earth’s best carbon vaults - ScienceDaily",
-    "description": "Why this rust-like mineral is one of Earth’s best carbon vaults  ScienceDaily",
-    "published date": "Mon, 09 Feb 2026 06:27:18 GMT",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mZjNUS2J1QTFmU215Q01XYm9vWnhSV0VpLUwyZER4eDJfRGFxVWZEVlZEX1AzZ3ptQXpoVU50cjJHVGYtT3QtRVF2UVgwRVQ1TVo1WmJXTkJWVlFralpUY2ZURlpYLVpsWjVLQWtR?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "http://www.sciencedaily.com",
-      "title": "ScienceDaily"
-    }
-  },
-  {
     "title": "This tiny organism refused to die under Mars-like conditions - ScienceDaily",
     "description": "This tiny organism refused to die under Mars-like conditions  ScienceDaily",
-    "published date": "Mon, 09 Feb 2026 05:50:47 GMT",
+    "published date": "Mon, 09 Feb 2026 05:55:49 GMT",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94ZmFsM0JpaEQzX0NTeUV6UjRqb3ZHSWJ1R2VnZ3E3b1QzSU1uYnJXZGZwM0ZPUTdUNWR1R3I4TmhKTFlaNjFXSHNJWHUzTU93NmY2dmRETVp0VjlpWWktYm94NnVqMkhOZ2pROFhFdw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.sciencedaily.com",
@@ -227,6 +247,26 @@
     "publisher": {
       "href": "https://www.sciencedaily.com",
       "title": "ScienceDaily"
+    }
+  },
+  {
+    "title": "Breakthrough AI Tool Identifies 25 Previously Unknown Magnetic Materials - SciTechDaily",
+    "description": "Breakthrough AI Tool Identifies 25 Previously Unknown Magnetic Materials  SciTechDaily",
+    "published date": "Mon, 09 Feb 2026 05:33:53 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaVQzdzIzY2NhUFZzZEhiOVA4UVZ2SWlROUlobXV6Zi1TeHRmRTJkalBZbERnOC1rdjBWNTVBMkJrbUJCQ1JrclVZRmdZYWU5OVppUlk3NHdNbmlEWHdycVlDdVNFcTVaT0xVbjFqTTQwNTEwS2RnM0NXb3ZocTd1eHRIZ0pqOWdCdWdubXpKR0lPWThDLVJmT2EtNUpNSDQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://scitechdaily.com",
+      "title": "SciTechDaily"
+    }
+  },
+  {
+    "title": "Hubble Captures a Wild Stellar Nursery Glowing With Newborn Stars - SciTechDaily",
+    "description": "Hubble Captures a Wild Stellar Nursery Glowing With Newborn Stars  SciTechDailyHubble shares eerie portrait of constantly changing stars — Space photo of the week  Live ScienceNasa reveals stunning pic of ‘star NURSERY’ where stellar babies form inside space clouds  the-sun.com",
+    "published date": "Mon, 09 Feb 2026 04:58:42 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaXZ2am1oMnc4eG51UUQxeXRsNmMxNVNsRGNhQ2pZa2habmVyWTYwd1UxdVp6T1d5TlJvVXVaRTdQU1pval92dWFjSmc0ak1fYUpBWnowbnVTT0l4NlNMMWVtRG90NGFaejBFbGN5ajJ4dm1qWGdvVFZ5TjdmSS1qU2Q5TTdTOG9BLVBEMUNuUEllZ0dZVXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://scitechdaily.com",
+      "title": "SciTechDaily"
     }
   },
   {
@@ -250,6 +290,16 @@
     }
   },
   {
+    "title": "Why this rust-like mineral is one of Earth’s best carbon vaults - ScienceDaily",
+    "description": "Why this rust-like mineral is one of Earth’s best carbon vaults  ScienceDaily",
+    "published date": "Mon, 09 Feb 2026 06:27:18 GMT",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pQ0dqYkV5N0M0YkNlenpZQXJaN01DYlJobjd3aXJ0M19ObGtLRzhVSXF4U0F2R3g5c1JDZXk2eEVIbVJmSEJzZWxzc0hpZ1A3RG5mamlKTUZLNWF2X2pub2NqS2VpVDZZWUJQZFYwSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.sciencedaily.com",
+      "title": "ScienceDaily"
+    }
+  },
+  {
     "title": "Jewish astronaut bringing daughter’s stuffed animal to space station - The Times of Israel",
     "description": "Jewish astronaut bringing daughter’s stuffed animal to space station  The Times of IsraelJewish astronaut Jessica Meir headed to International Space Station, with stuffed animal in tow  The Times of Israel",
     "published date": "Mon, 09 Feb 2026 03:08:23 GMT",
@@ -257,26 +307,6 @@
     "publisher": {
       "href": "https://www.timesofisrael.com",
       "title": "The Times of Israel"
-    }
-  },
-  {
-    "title": "Hubble Captures a Wild Stellar Nursery Glowing With Newborn Stars - SciTechDaily",
-    "description": "Hubble Captures a Wild Stellar Nursery Glowing With Newborn Stars  SciTechDailyHubble shares eerie portrait of constantly changing stars — Space photo of the week  Live ScienceNasa reveals stunning pic of ‘star NURSERY’ where stellar babies form inside space clouds  the-sun.com",
-    "published date": "Mon, 09 Feb 2026 04:58:42 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaXZ2am1oMnc4eG51UUQxeXRsNmMxNVNsRGNhQ2pZa2habmVyWTYwd1UxdVp6T1d5TlJvVXVaRTdQU1pval92dWFjSmc0ak1fYUpBWnowbnVTT0l4NlNMMWVtRG90NGFaejBFbGN5ajJ4dm1qWGdvVFZ5TjdmSS1qU2Q5TTdTOG9BLVBEMUNuUEllZ0dZVXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://scitechdaily.com",
-      "title": "SciTechDaily"
-    }
-  },
-  {
-    "title": "Breakthrough AI Tool Identifies 25 Previously Unknown Magnetic Materials - SciTechDaily",
-    "description": "Breakthrough AI Tool Identifies 25 Previously Unknown Magnetic Materials  SciTechDaily",
-    "published date": "Mon, 09 Feb 2026 05:33:53 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaVQzdzIzY2NhUFZzZEhiOVA4UVZ2SWlROUlobXV6Zi1TeHRmRTJkalBZbERnOC1rdjBWNTVBMkJrbUJCQ1JrclVZRmdZYWU5OVppUlk3NHdNbmlEWHdycVlDdVNFcTVaT0xVbjFqTTQwNTEwS2RnM0NXb3ZocTd1eHRIZ0pqOWdCdWdubXpKR0lPWThDLVJmT2EtNUpNSDQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://scitechdaily.com",
-      "title": "SciTechDaily"
     }
   },
   {
@@ -290,6 +320,16 @@
     }
   },
   {
+    "title": "Dots, Circles, and Deception: Radiological Diagnosis of an Unusual Mycetoma - Cureus",
+    "description": "Dots, Circles, and Deception: Radiological Diagnosis of an Unusual Mycetoma  Cureus",
+    "published date": "Mon, 09 Feb 2026 07:37:43 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdUhBeGZ3RE04N1pSc1FpQ2JWSFFKb1V6ZHJ5Mm5Jb0pfV0JwY3E4OXhBbzU0alI3QnV6X0lTY1piMkh4YjFFaFlTVy1KclRpY08tTW1TNUdXZEEyM3loQ090aVVPc01DQnFsd2JrSFFXOHR6a0Q4TnRaeE1RXzlVUndiTlBsMVl0Uzg2ZGRRZ2tvQTR0Y3p1eFREOENxSGJONTdOMlNhQ3VqRV9EcWxtQkd4X0dyNnd1MExiTXBzendtQUpzRUlyWGFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cureus.com",
+      "title": "Cureus"
+    }
+  },
+  {
     "title": "Scientists make lunar chronology breakthrough with Chang'e-6 samples from far side of moon - People's Daily",
     "description": "Scientists make lunar chronology breakthrough with Chang'e-6 samples from far side of moon  People's DailyChinese scientists make lunar chronology breakthrough with Chang'e-6 samples from far side of moon  news.cgtn.com'Hidden structures' discovered deep beneath the dark side of the moon  Indy100",
     "published date": "Mon, 09 Feb 2026 00:50:00 GMT",
@@ -297,16 +337,6 @@
     "publisher": {
       "href": "https://en.people.cn",
       "title": "People's Daily"
-    }
-  },
-  {
-    "title": "Predominantly positive XCO2 anomalies in the Caatinga biome highlight carbon vulnerability | Scientific Reports - Nature",
-    "description": "Predominantly positive XCO2 anomalies in the Caatinga biome highlight carbon vulnerability | Scientific Reports  Nature",
-    "published date": "Sun, 08 Feb 2026 22:04:11 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwMTl1b3RkekxTd0prZzlGM2xZNmRVbldpQUFQTzVrcnQ1Q0ZFZTUzUW1uVVUtM0F0dVJHbDdUcXdoQkFZcVFmSzZ4aUE5eUJ1bWJDekNmMWdKV3FpVDhR?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.nature.com",
-      "title": "Nature"
     }
   },
   {
@@ -320,13 +350,13 @@
     }
   },
   {
-    "title": "Gut bacteria can sense their environment and it’s key to your health - ScienceDaily",
-    "description": "Gut bacteria can sense their environment and it’s key to your health  ScienceDaily",
-    "published date": "Sun, 08 Feb 2026 20:58:15 GMT",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BNU4wd0ZuaFd0eko1aVdmMm5GakxLdEVDNlduNFhmTE1MdGVOYTF6NDg4azFtd2xUdFowWE9tcFJBcXlab1ZiWEVNTVdmeS1fcWYzLVE4RkIzLUY3Wi1VdHY5Vm9NeHE0OG1fRWFR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Predominantly positive XCO2 anomalies in the Caatinga biome highlight carbon vulnerability | Scientific Reports - Nature",
+    "description": "Predominantly positive XCO2 anomalies in the Caatinga biome highlight carbon vulnerability | Scientific Reports  Nature",
+    "published date": "Sun, 08 Feb 2026 22:04:11 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwMTl1b3RkekxTd0prZzlGM2xZNmRVbldpQUFQTzVrcnQ1Q0ZFZTUzUW1uVVUtM0F0dVJHbDdUcXdoQkFZcVFmSzZ4aUE5eUJ1bWJDekNmMWdKV3FpVDhR?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "http://www.sciencedaily.com",
-      "title": "ScienceDaily"
+      "href": "https://www.nature.com",
+      "title": "Nature"
     }
   },
   {
@@ -340,10 +370,40 @@
     }
   },
   {
+    "title": "Scientists finally solve a 100-year-old mystery in the air we breathe - ScienceDaily",
+    "description": "Scientists finally solve a 100-year-old mystery in the air we breathe  ScienceDaily",
+    "published date": "Sun, 08 Feb 2026 18:40:15 GMT",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92ZnhITWMwVFpXOVVuLUYtaFRBcjU2NnFRc0V3Z0ZlS0QxeEwydHVtZnZkR3MxZ3NNaDk1cGNUOUktUUpwU3FBZlBPVklBM0w2THU5WW44X3JXZEdZRV9CRFd4dFVoYTA3ak1kNWlWUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.sciencedaily.com",
+      "title": "ScienceDaily"
+    }
+  },
+  {
     "title": "A Chemistry-First Centered Icy Chemical Inventory of Protostellar Sources with JWST - astrobiology.com",
     "description": "A Chemistry-First Centered Icy Chemical Inventory of Protostellar Sources with JWST  astrobiology.com",
     "published date": "Sun, 08 Feb 2026 19:35:50 GMT",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc0t5Z1NzMHVQSWxFT3lCQkdtUEU4akRNQk9YcW5BWjltUUk2c1hScUk4dXFkeUlaelpkdzNrNWJCMFM2eXo1QVRCZnAtbS1tSS1STUp1LVJNdGlkR1RPaVFBRzJJRW9oQ0Y3TXVtZzJQc3RXZkJ5cDR6M0ZOVE5vMk5zeHlSQzNjV01ZdklXOWFCeW9sQ2NwSUpuVWdXTXo1WHQyZmtoek5Ub2hFdUJvMFBKazROSUVrUW9zWW1B?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://astrobiology.com",
+      "title": "astrobiology.com"
+    }
+  },
+  {
+    "title": "Gut bacteria can sense their environment and it’s key to your health - ScienceDaily",
+    "description": "Gut bacteria can sense their environment and it’s key to your health  ScienceDaily",
+    "published date": "Sun, 08 Feb 2026 20:58:15 GMT",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BNU4wd0ZuaFd0eko1aVdmMm5GakxLdEVDNlduNFhmTE1MdGVOYTF6NDg4azFtd2xUdFowWE9tcFJBcXlab1ZiWEVNTVdmeS1fcWYzLVE4RkIzLUY3Wi1VdHY5Vm9NeHE0OG1fRWFR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "http://www.sciencedaily.com",
+      "title": "ScienceDaily"
+    }
+  },
+  {
+    "title": "Broadband Infrared Spectroscopy Of Methanol Isotopologues In pure, H2O-rich, And CO-rich Ice Analogues - astrobiology.com",
+    "description": "Broadband Infrared Spectroscopy Of Methanol Isotopologues In pure, H2O-rich, And CO-rich Ice Analogues  astrobiology.com",
+    "published date": "Sun, 08 Feb 2026 19:25:50 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVXhvMEtXOUpfUWJTSkZnNEx6MTYwdjlhSDR5VGNYOXpTZVpWVjlzR1FULXhkS2FUWTZvOG52RUNiT0h4YXJ4Qnl4aDFaT0hRVGEzUUgtY1MyWHMtc2xfR1dyT01rYW51VTI1ZnRwcjJkSHJDcGpaNHZfZkdZU1hWekVmQUw2Ym9VUlEwVGpJejgyN0NWV0x3MTlmMnBxemZ0dkd5dUJ3UXlCMnRRaVdYMFh0MlJWeFdIUy1TZlEyb0RmZUJlSEQtYlZqMWpLclU1S250Mw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://astrobiology.com",
       "title": "astrobiology.com"
@@ -370,36 +430,6 @@
     }
   },
   {
-    "title": "Broadband Infrared Spectroscopy Of Methanol Isotopologues In pure, H2O-rich, And CO-rich Ice Analogues - astrobiology.com",
-    "description": "Broadband Infrared Spectroscopy Of Methanol Isotopologues In pure, H2O-rich, And CO-rich Ice Analogues  astrobiology.com",
-    "published date": "Sun, 08 Feb 2026 19:25:50 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVXhvMEtXOUpfUWJTSkZnNEx6MTYwdjlhSDR5VGNYOXpTZVpWVjlzR1FULXhkS2FUWTZvOG52RUNiT0h4YXJ4Qnl4aDFaT0hRVGEzUUgtY1MyWHMtc2xfR1dyT01rYW51VTI1ZnRwcjJkSHJDcGpaNHZfZkdZU1hWekVmQUw2Ym9VUlEwVGpJejgyN0NWV0x3MTlmMnBxemZ0dkd5dUJ3UXlCMnRRaVdYMFh0MlJWeFdIUy1TZlEyb0RmZUJlSEQtYlZqMWpLclU1S250Mw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://astrobiology.com",
-      "title": "astrobiology.com"
-    }
-  },
-  {
-    "title": "Scientists finally solve a 100-year-old mystery in the air we breathe - ScienceDaily",
-    "description": "Scientists finally solve a 100-year-old mystery in the air we breathe  ScienceDaily",
-    "published date": "Sun, 08 Feb 2026 18:40:15 GMT",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jeW5GV0huYkFSTUxRNFJHV0Q5TFdiM0F2Ry1vRnRyTWlEa0xyUE5TX2FGUHVOUHMwVW9KNXlwZ25uVTJOSEFEamRvdURoM25YYVFvTTRsdVJKd2x3N1BwMjFmeUpqWnVpR1BMMWVB?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "http://www.sciencedaily.com",
-      "title": "ScienceDaily"
-    }
-  },
-  {
-    "title": "New space station crew eager for Wednesday launch - Yahoo",
-    "description": "New space station crew eager for Wednesday launch  YahooNASA Sets Coverage for Agency’s SpaceX Crew-12 Launch, Docking  NASA (.gov)NASA confirms first flight to ISS since medical evacuation  CTV NewsSpaceX's next astronaut launch for NASA is officially on for Feb. 11 as FAA clears Falcon 9 rocket to fly again  SpaceSpaceX Crew-12 launch date to be moved up. What to know about mission  Yahoo News Canada",
-    "published date": "Sun, 08 Feb 2026 19:47:08 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV0NsaHRaYkRibmNUS0l2YVFTNFc0bGhIVU9KZ3JVdEU0endhMDN4VDdEZ1ZFVlg3bDdvMzhFYzJJTkxVWjBaei1ZaERuUkJoUlBxc3R2Z1hRNlhqR1dhWXM1Sk5sSTNGenQ5V3h3Umd5SGhrRHdzejRLekpCZDAyeHFHQnBGUWc4bWdnVjBR?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.yahoo.com",
-      "title": "Yahoo"
-    }
-  },
-  {
     "title": "NASA Finds Earth’s Oxygen Follows a Hidden Magnetic Rhythm - SciTechDaily",
     "description": "NASA Finds Earth’s Oxygen Follows a Hidden Magnetic Rhythm  SciTechDailyEarth’s Magnetic Field Has an “Astonishing” Wild Side Scientists Missed Until Now  SciTechDailyWhen Earth's magnetic field took its time flipping  Phys.org",
     "published date": "Sun, 08 Feb 2026 20:03:18 GMT",
@@ -420,30 +450,20 @@
     }
   },
   {
-    "title": "Topological antenna could pave the way for 6G networks - Phys.org",
-    "description": "Topological antenna could pave the way for 6G networks  Phys.org",
-    "published date": "Sun, 08 Feb 2026 18:40:01 GMT",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tVnlvbk5kUzRLcEtBd054VkJuSEkxalA4ZTRsdURCUmtYemtfNFBzQTRQOWlMblYzd245eElkdndhVHZhU2p5bERpZzdDVGVaWk9KakFGN2phMXdob0NfbWZXSDQ1VjVqdXgxbmVnQ1ZSamczOVNqR05vQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Ordered 'supercrystal' could make lasers faster, smaller and more efficient - Phys.org",
+    "description": "Ordered 'supercrystal' could make lasers faster, smaller and more efficient  Phys.org",
+    "published date": "Sun, 08 Feb 2026 23:30:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaEFGQVJfS1ljMjZTOFVLSDNWd1ZqQ3VaUXJyZ05ySUxpa0lQQzRZUV9aMjVnQ3hUSjUycU5Cd043bktaOGk5aWVPT0hRWVktU2dRM1pGVGpvNlBHU0pTTDVnSlR1a05PU1l1SVVIa1E4ck1LMlpoMkV5MUVJYTNjcEJkUExjdw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://phys.org",
       "title": "Phys.org"
     }
   },
   {
-    "title": "NASA's Voyager 2 encountered Uranus during its 1986 flyby and something unusually happened then - Times of India",
-    "description": "NASA's Voyager 2 encountered Uranus during its 1986 flyby and something unusually happened then  Times of IndiaSomething supercharged Uranus when Voyager 2 flew past  ScienceDailyA Hidden Force Supercharged Uranus During Voyager 2’s Flyby in 1986: Here’s What Happened  The Daily Galaxy",
-    "published date": "Mon, 09 Feb 2026 06:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNnZUVjJRQnNSS3R1UlB1SE9ZS3UtdmhubnNDdnBzZldhSnQtT0huaEREZUwtNld1UER2emN2anVxc0d3ZlRzTHZzaUFsTXliNERXQ2s2bDQtY3RQTEJxYkthdmY0SldwTnV5MWlHSVJTY05wUklSbWh4ZFJCVktvRm55OVFWVnlvaGFEcTk1QU9aMm5lcFVyU1FRMllsN2pSVE9KcjZWYUpDMWdwSWFBVGJ2RTQ1QVZNeE1qUmM0Mk5keWhQb2xlR053akYtTXU3b3RoQjF6dTlYN3dsWHhCcHlzRXVCelBWUzhzcmo4YWVuSGkySzVB0gH8AUFVX3lxTE9COGRodklDR3RneTFuZFpiVDFFdlVyeWlwT0ZaMG9idTJQbm1URTZra2VsU2dVdzZHSVdJenVLXzFaRUQzcDRfSXdHSVFxOHRoUVQwMzlFbUVHdlVkWnhSZUgyWVYzSUR0Q0dxMVlkYS1wMUdSMl9kazNxVWxJZFVjZk9reHF4VURhQ2M5TVdDZl9hdGJleG9KZXR3RU51VTg2aWJyQm1BMU1SZ0VwOHphWmFJSno4NGFsMzBKbEM1X21KY2l3VnNXeUVXLWVRM29PYkliM3BLMnphU3pPajYwYVl4U29DM2VYNXNWS014RnN2MnZkbVpkNzVVZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://timesofindia.indiatimes.com",
-      "title": "Times of India"
-    }
-  },
-  {
-    "title": "Ordered 'supercrystal' could make lasers faster, smaller and more efficient - Phys.org",
-    "description": "Ordered 'supercrystal' could make lasers faster, smaller and more efficient  Phys.org",
-    "published date": "Sun, 08 Feb 2026 23:30:01 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaEFGQVJfS1ljMjZTOFVLSDNWd1ZqQ3VaUXJyZ05ySUxpa0lQQzRZUV9aMjVnQ3hUSjUycU5Cd043bktaOGk5aWVPT0hRWVktU2dRM1pGVGpvNlBHU0pTTDVnSlR1a05PU1l1SVVIa1E4ck1LMlpoMkV5MUVJYTNjcEJkUExjdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Topological antenna could pave the way for 6G networks - Phys.org",
+    "description": "Topological antenna could pave the way for 6G networks  Phys.org",
+    "published date": "Sun, 08 Feb 2026 18:40:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tVnlvbk5kUzRLcEtBd054VkJuSEkxalA4ZTRsdURCUmtYemtfNFBzQTRQOWlMblYzd245eElkdndhVHZhU2p5bERpZzdDVGVaWk9KakFGN2phMXdob0NfbWZXSDQ1VjVqdXgxbmVnQ1ZSamczOVNqR05vQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://phys.org",
       "title": "Phys.org"
@@ -460,8 +480,18 @@
     }
   },
   {
+    "title": "OpenScholar Beats ChatGPT In Scientific Citation Accuracy - Open Source For You",
+    "description": "OpenScholar Beats ChatGPT In Scientific Citation Accuracy  Open Source For YouSynthesizing scientific literature with retrieval-augmented language models  NatureAI model OpenScholar synthesizes scientific research and cites sources as accurately as human experts  Phys.org",
+    "published date": "Mon, 09 Feb 2026 07:10:55 GMT",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZlUzVmd6cFFqYlN1TkgzY0ZyOTZDUGhUS0lCcmdockJySFVBRnlaaFlIZHBSVlJQdF9QY01YOGZaNHdDaV80Y29rUGE1VXc5MGFNMkwtUExMT2VGZ0pJanYzS3AwUFpkeDI4OVRhU1g2OGhUTUxrWkc0SDE2QUlMblRReUZyOGhPbmFOWkl6SnNobkJsQ0VaVklTNThPdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.opensourceforu.com",
+      "title": "Open Source For You"
+    }
+  },
+  {
     "title": "Webb Detects Unexpected Richness of Hydrocarbons in Obscured Core of Nearby Ultra-Luminous Galaxy - Sci.News",
-    "description": "Webb Detects Unexpected Richness of Hydrocarbons in Obscured Core of Nearby Ultra-Luminous Galaxy  Sci.NewsJWST uncovers rich organic chemistry in a nearby ultra-luminous infrared galaxy  Phys.orgJames Webb Space Telescope finds precursors to 'building blocks of life' in nearby galaxy  Space",
+    "description": "Webb Detects Unexpected Richness of Hydrocarbons in Obscured Core of Nearby Ultra-Luminous Galaxy  Sci.NewsAbundant hydrocarbons in a buried galactic nucleus with signs of carbonaceous grain and polycyclic aromatic hydrocarbon processing  NatureJames Webb Space Telescope finds precursors to 'building blocks of life' in nearby galaxy  SpaceJWST uncovers rich organic chemistry in a nearby ultra-luminous infrared galaxy  Phys.org",
     "published date": "Sun, 08 Feb 2026 15:48:53 GMT",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNWQtRS15cTF0ZDY2ZERoUU54OHI4NFFDVGppV3RtMk44cGtIQlVaYnAwSFE5RGF5alBYMXE2bzBIeU9rWWNxR1ZuZFZ4ZmlYR29iQ2tic3ZqVXMxdmZGNmpCTXpnQ0hyR0YzTXJrdEtHaWpKWkxSRE5OY19tRWc0RUFKTW9OYzNaU1N4Zm5uVHZFWmdqNTVrdXNmOURwc05qQVV0UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -520,13 +550,13 @@
     }
   },
   {
-    "title": "Physicists push quantum boundaries by turning a superfluid into a supersolid — and back — for the first time - Live Science",
-    "description": "Physicists push quantum boundaries by turning a superfluid into a supersolid — and back — for the first time  Live ScienceView Full Coverage on Google News",
-    "published date": "Sun, 08 Feb 2026 12:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZXhqYm5GdjBDekxVRF80WXg3LWp5Y3U0bUtIMEg2TEJ2eWpRQXJlZFJzQ2VMWDl0aUZqbHNENXJXa19iTng3TlM3MHJjSnhGeHVuMlNJdFVKbkFCOGw1SUNRaFRvdXBMOXZhUFdOemRYT29TQjBnc21BbXRwd3dSeDYwOXRlSHc3b0t3V3dnZDZGZlFtUG44Mkg4clRMaUJWTzFmbzVDcENsbnNvbG5WOVUtZVRMdi1laXlIWWN4Z3JhZDN6dkVhbU1zUXlxNDU2MGdHSmM1VU0xa3M0b2tVWUlzdmtoSW9qblFGQmRiTW43NXA2U3BOZ2ZvNmQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Kevin Hart works out like a pro athlete. His trainer says heavy lifting isn't the key to staying shredded. - Business Insider",
+    "description": "Kevin Hart works out like a pro athlete. His trainer says heavy lifting isn't the key to staying shredded.  Business Insider",
+    "published date": "Sun, 08 Feb 2026 12:29:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd09JSUMzaDNlX2JYYzNHSEVILWVEWGNoMDZOMVhacDh4MlBIMTRpODJJa1d4cjYyRGI1ckNSaEExaDhMbTJ3UC1MdHQwUE1FVFlVdVp3Zk0td3FKRWVaa2xRa0tOQlVvR3JGRWRNZm5sUmZCUFViT0tjc3lpbHdmSENZVmpwcE9FVlJadDlEd1pBLVdBV3hOU3NfTXlLc0k3Y09KTA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.livescience.com",
-      "title": "Live Science"
+      "href": "https://www.businessinsider.com",
+      "title": "Business Insider"
     }
   },
   {
@@ -550,13 +580,23 @@
     }
   },
   {
-    "title": "Kevin Hart works out like a pro athlete. His trainer says heavy lifting isn't the key to staying shredded. - Business Insider",
-    "description": "Kevin Hart works out like a pro athlete. His trainer says heavy lifting isn't the key to staying shredded.  Business Insider",
-    "published date": "Sun, 08 Feb 2026 12:29:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd09JSUMzaDNlX2JYYzNHSEVILWVEWGNoMDZOMVhacDh4MlBIMTRpODJJa1d4cjYyRGI1ckNSaEExaDhMbTJ3UC1MdHQwUE1FVFlVdVp3Zk0td3FKRWVaa2xRa0tOQlVvR3JGRWRNZm5sUmZCUFViT0tjc3lpbHdmSENZVmpwcE9FVlJadDlEd1pBLVdBV3hOU3NfTXlLc0k3Y09KTA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Physicists push quantum boundaries by turning a superfluid into a supersolid — and back — for the first time - Live Science",
+    "description": "Physicists push quantum boundaries by turning a superfluid into a supersolid — and back — for the first time  Live ScienceView Full Coverage on Google News",
+    "published date": "Sun, 08 Feb 2026 12:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZXhqYm5GdjBDekxVRF80WXg3LWp5Y3U0bUtIMEg2TEJ2eWpRQXJlZFJzQ2VMWDl0aUZqbHNENXJXa19iTng3TlM3MHJjSnhGeHVuMlNJdFVKbkFCOGw1SUNRaFRvdXBMOXZhUFdOemRYT29TQjBnc21BbXRwd3dSeDYwOXRlSHc3b0t3V3dnZDZGZlFtUG44Mkg4clRMaUJWTzFmbzVDcENsbnNvbG5WOVUtZVRMdi1laXlIWWN4Z3JhZDN6dkVhbU1zUXlxNDU2MGdHSmM1VU0xa3M0b2tVWUlzdmtoSW9qblFGQmRiTW43NXA2U3BOZ2ZvNmQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.businessinsider.com",
-      "title": "Business Insider"
+      "href": "https://www.livescience.com",
+      "title": "Live Science"
+    }
+  },
+  {
+    "title": "NASA's Voyager 2 encountered Uranus during its 1986 flyby and something unusually happened then - Times of India",
+    "description": "NASA's Voyager 2 encountered Uranus during its 1986 flyby and something unusually happened then  Times of IndiaSomething supercharged Uranus when Voyager 2 flew past  ScienceDailyA Hidden Force Supercharged Uranus During Voyager 2’s Flyby in 1986: Here’s What Happened  The Daily Galaxy",
+    "published date": "Mon, 09 Feb 2026 06:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNnZUVjJRQnNSS3R1UlB1SE9ZS3UtdmhubnNDdnBzZldhSnQtT0huaEREZUwtNld1UER2emN2anVxc0d3ZlRzTHZzaUFsTXliNERXQ2s2bDQtY3RQTEJxYkthdmY0SldwTnV5MWlHSVJTY05wUklSbWh4ZFJCVktvRm55OVFWVnlvaGFEcTk1QU9aMm5lcFVyU1FRMllsN2pSVE9KcjZWYUpDMWdwSWFBVGJ2RTQ1QVZNeE1qUmM0Mk5keWhQb2xlR053akYtTXU3b3RoQjF6dTlYN3dsWHhCcHlzRXVCelBWUzhzcmo4YWVuSGkySzVB0gH8AUFVX3lxTE9COGRodklDR3RneTFuZFpiVDFFdlVyeWlwT0ZaMG9idTJQbm1URTZra2VsU2dVdzZHSVdJenVLXzFaRUQzcDRfSXdHSVFxOHRoUVQwMzlFbUVHdlVkWnhSZUgyWVYzSUR0Q0dxMVlkYS1wMUdSMl9kazNxVWxJZFVjZk9reHF4VURhQ2M5TVdDZl9hdGJleG9KZXR3RU51VTg2aWJyQm1BMU1SZ0VwOHphWmFJSno4NGFsMzBKbEM1X21KY2l3VnNXeUVXLWVRM29PYkliM3BLMnphU3pPajYwYVl4U29DM2VYNXNWS014RnN2MnZkbVpkNzVVZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://timesofindia.indiatimes.com",
+      "title": "Times of India"
     }
   },
   {
@@ -564,6 +604,16 @@
     "description": "Scientists discover a new deep sea animal that glows in the dark  Earth.com",
     "published date": "Sun, 08 Feb 2026 17:51:49 GMT",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcnI5ZmpGM1o5RW5HOGx2Tl9OTzRuUnBzZVJ5bGE2cm1Gem03LU5GdEJWaGI2VFR4RENhUDJZN1phS0UyUmpWVUtDYnd1bENZaGRlaFNBTG44R0pvVmV6aEJTS1pqWTl0M1hmSVRoY2lCN0dIZ3pBcGFoSzdQX0htLS12aTJaVFBqeDlEUzQxQkI1cDk2QngxZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.earth.com",
+      "title": "Earth.com"
+    }
+  },
+  {
+    "title": "Deep heat has guided Earth’s magnetic field for hundreds of millions of years - Earth.com",
+    "description": "Deep heat has guided Earth’s magnetic field for hundreds of millions of years  Earth.comTwo Titanic Structures Hidden Deep Within the Earth Have Altered the Magnetic Field for Millions of Years  WIREDThese Massive Structures Hidden Deep Inside Earth Have Been Affecting Us for Millions of Years  The Daily GalaxyScientists discover hidden deep-Earth structures shaping the magnetic field  ScienceDailyMantle heterogeneity influenced Earth’s ancient magnetic field  Nature",
+    "published date": "Sun, 08 Feb 2026 17:51:49 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVkVqcjdRcVk1ckpEdHZkWXRMekFLMnlRbHhvLVlPUzJ5WG1HQXRySFp6V2JBRVFTdW5hWW9yWEhKVXI0TEN6U2wtVGNPbU1tNXp4N1ctMldiX2YwalU4cHBzR3Zoak8wQWk0MmM4OE82QTl3SmhxZ0VMMFd6eE4yNldqaXBJa08xQTRwUG9Fd2hkUV9DZzdMdGFBcW1Ja2k5d0hCYmNfNA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.earth.com",
       "title": "Earth.com"
@@ -580,28 +630,8 @@
     }
   },
   {
-    "title": "Deep heat has guided Earth’s magnetic field for hundreds of millions of years - Earth.com",
-    "description": "Deep heat has guided Earth’s magnetic field for hundreds of millions of years  Earth.comTwo Titanic Structures Hidden Deep Within the Earth Have Altered the Magnetic Field for Millions of Years  WIREDThese Massive Structures Hidden Deep Inside Earth Have Been Affecting Us for Millions of Years  The Daily GalaxyScientists discover hidden deep-Earth structures shaping the magnetic field  ScienceDailyMantle heterogeneity influenced Earth’s ancient magnetic field  Nature",
-    "published date": "Sun, 08 Feb 2026 17:51:49 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVkVqcjdRcVk1ckpEdHZkWXRMekFLMnlRbHhvLVlPUzJ5WG1HQXRySFp6V2JBRVFTdW5hWW9yWEhKVXI0TEN6U2wtVGNPbU1tNXp4N1ctMldiX2YwalU4cHBzR3Zoak8wQWk0MmM4OE82QTl3SmhxZ0VMMFd6eE4yNldqaXBJa08xQTRwUG9Fd2hkUV9DZzdMdGFBcW1Ja2k5d0hCYmNfNA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.earth.com",
-      "title": "Earth.com"
-    }
-  },
-  {
-    "title": "Scientists Say Heck, Just Nuke a Killer Asteroid Heading for Earth - Futurism",
-    "description": "Scientists Say Heck, Just Nuke a Killer Asteroid Heading for Earth  FuturismAsteroid Nuking Could Save Earth and It’s No Longer Just Sci-Fi!  The Daily GalaxyIt May Be Safe to Nuke an Earthbound Asteroid After All, Simulation Suggests  ScienceAlert",
-    "published date": "Sun, 08 Feb 2026 17:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kTVlwYUx4cVJudVlIcUp4cnRQdlVPMHNrdnNrZHl0LVVqemdrTF9hWDd4Y3BBdTFiWHBfTUQ1SW0zdUhqZFc5SUVpUGthN2Q2N3UzVmZRcWhFbHVtQmdJVEQzYlpZNnJWX01Z?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://futurism.com",
-      "title": "Futurism"
-    }
-  },
-  {
     "title": "Extreme neutrino event hints at new physics from the early universe - Earth.com",
-    "description": "Extreme neutrino event hints at new physics from the early universe  Earth.comDid we just see a black hole explode? Physicists think so—and it could explain (almost) everything  Phys.orgSomething Mysteriously Powerful Slammed Into Earth in 2023. Scientists Now Have a Theory  GizmodoPhysicists Think They Saw a Black Hole Explode  FuturismDid astronomers see a black hole explode: An 'impossible' particle that hit Earth in 2023 may tell us  Space",
+    "description": "Extreme neutrino event hints at new physics from the early universe  Earth.comDid we just see a black hole explode? Physicists think so—and it could explain (almost) everything  Phys.orgSomething Mysteriously Powerful Slammed Into Earth in 2023. Scientists Now Have a Theory  GizmodoIs There A Link Between Primordial Black Holes, Neutrinos, and Dark Matter?  Universe TodayDid astronomers see a black hole explode: An 'impossible' particle that hit Earth in 2023 may tell us  Space",
     "published date": "Sun, 08 Feb 2026 16:18:45 GMT",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb0h1c3lfY0ZrSy1WclpCa2hIRWNmQldybm5kT3M1WjNqNkZIeDZ6akhhTzlGNHJtNXVSMDV5b3J5Wml5b094NWEtMHFBaGRac1hSM2ZQV0d4WlNWd3gzOTlhcXlkZmppZ2RtXzQwaVFfeHJTLU1HRElaSW9pZGRFNXU5a1paZHB6YVFKRVhYdUVQbnIwa1JwMjdXcw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -620,10 +650,30 @@
     }
   },
   {
+    "title": "Scientists Say Heck, Just Nuke a Killer Asteroid Heading for Earth - Futurism",
+    "description": "Scientists Say Heck, Just Nuke a Killer Asteroid Heading for Earth  FuturismAsteroid Nuking Could Save Earth and It’s No Longer Just Sci-Fi!  The Daily GalaxyIt May Be Safe to Nuke an Earthbound Asteroid After All, Simulation Suggests  ScienceAlert",
+    "published date": "Sun, 08 Feb 2026 17:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kTVlwYUx4cVJudVlIcUp4cnRQdlVPMHNrdnNrZHl0LVVqemdrTF9hWDd4Y3BBdTFiWHBfTUQ1SW0zdUhqZFc5SUVpUGthN2Q2N3UzVmZRcWhFbHVtQmdJVEQzYlpZNnJWX01Z?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://futurism.com",
+      "title": "Futurism"
+    }
+  },
+  {
     "title": "Hidden freshwater reservoir found off the New England coast - Earth.com",
     "description": "Hidden freshwater reservoir found off the New England coast  Earth.comScientific expedition confirms vast freshwater reserve beneath ocean floor  Yahoo News Canada",
     "published date": "Sun, 08 Feb 2026 15:11:15 GMT",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPb0ZCLXc5dXZ0RVdtZ2diOU1LZC1DeHc4SWYzSmdqSml2YmZpYzkybkdLUU82MFFoNTZmamh6M2ZnaHJJNGUxM3pOVXhlSGxmZGM2c3RYWUVMNENObG1fTFlhcGYyTDJtMWQ1YXhCTGxWOUROUGNxcFJaa3V6eWpEM3UteUFMdVZmSTJJNUhSQW8?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.earth.com",
+      "title": "Earth.com"
+    }
+  },
+  {
+    "title": "Plant discovered in Japan is a succulent with mutant flowers - Earth.com",
+    "description": "Plant discovered in Japan is a succulent with mutant flowers  Earth.com",
+    "published date": "Sun, 08 Feb 2026 19:18:45 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeUw2YU95cUlvbGxrT1V6OFhlSXliUlVtZjR2MEtldDJiekdFbFhRQ3pjcFNSRjNDNmRhaU4zY2dmMWVhazNCNVlhcjdtbk4wQ2daXzVTS2ZVMFlaOGptN0RHLWxwS0ZWbGxWUFdyWTVvd0tlTXNmN1NQMk1rUlNQNjZpbG4xSHhlSWJjbTNlUmw2dw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.earth.com",
       "title": "Earth.com"
@@ -647,56 +697,6 @@
     "publisher": {
       "href": "https://mexiconewsdaily.com",
       "title": "Mexico News Daily"
-    }
-  },
-  {
-    "title": "Plant discovered in Japan is a succulent with mutant flowers - Earth.com",
-    "description": "Plant discovered in Japan is a succulent with mutant flowers  Earth.com",
-    "published date": "Sun, 08 Feb 2026 19:18:45 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeUw2YU95cUlvbGxrT1V6OFhlSXliUlVtZjR2MEtldDJiekdFbFhRQ3pjcFNSRjNDNmRhaU4zY2dmMWVhazNCNVlhcjdtbk4wQ2daXzVTS2ZVMFlaOGptN0RHLWxwS0ZWbGxWUFdyWTVvd0tlTXNmN1NQMk1rUlNQNjZpbG4xSHhlSWJjbTNlUmw2dw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.earth.com",
-      "title": "Earth.com"
-    }
-  },
-  {
-    "title": "Scientists warn climate models are missing a key ocean player - ScienceDaily",
-    "description": "Scientists warn climate models are missing a key ocean player  ScienceDaily",
-    "published date": "Sun, 08 Feb 2026 06:38:11 GMT",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xNEFidkxPa044OGJLWW5YbkNJLVdrSG5LQ0Y1dG1MX2FZWlBqaGRybHk0THhDSkZIbDF3T2FRSkhpSmJaekl1dW1ZZ2p3d19uSkgtaDBVajFTZVg5czgyTVRaWUV4T3dyTWMtaVdJTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.sciencedaily.com",
-      "title": "ScienceDaily"
-    }
-  },
-  {
-    "title": "Physicists Crack Decades-Old Quantum Mystery - Mirage News",
-    "description": "Physicists Crack Decades-Old Quantum Mystery  Mirage News",
-    "published date": "Sun, 08 Feb 2026 12:28:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZGp5S1Q5cmxocEV6T3hSWGswYWtyU0NlZ3AtT3FFVVhnWmpVZjJ0VC1fYTFtdkU4ZWdWTjkzaWRVVmRiVGQ5SWZSRnlyNXV2ZjU3QmZPQklMenJldDFqOFZQbmIzZnpqNU5oemlQZTcyWnpYQTNEbVltSEV4NzFtUkdjSnNZRUk?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.miragenews.com",
-      "title": "Mirage News"
-    }
-  },
-  {
-    "title": "SpaceX resumes Falcon 9 flights with Starlink satellite launch from California (video) - Space",
-    "description": "SpaceX resumes Falcon 9 flights with Starlink satellite launch from California (video)  SpaceSpaceX grounds Falcon 9 flights after second-stage issue  Yahoo! Finance CanadaSpaceX pauses Falcon 9 launches after upper stage anomaly  SpaceNewsSpaceX experiences Falcon 9 upper stage anomaly following Starlink deployment  Spaceflight NowSpaceX halts Falcon 9 flights after second stage anomaly  theregister.com",
-    "published date": "Sun, 08 Feb 2026 02:59:36 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRHlzRy1JN25fcDRxcnhFb25yam5kdm1sQXljMDNZVUhzYk9lNnQzRXBNN3JhTlFOLUh5RThtd0pja1J5c3pTczB4LXg0elFFWDZ2OVV2aUtDMFBzV0tsZFlveEhXZXMxX2x2Z2kzWHhGZUk5OXI4RmI2RTYxNVBxOExFTmN3ckZqd1NfbVJkUE1HWnhfeDU3aW5fVTk2QzNiVnJnUkVVejlESnpwODBFY2xiT0dDU3ItQlFrckkxNEpONF8wODFZZHFxdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.space.com",
-      "title": "Space"
-    }
-  },
-  {
-    "title": "Life Learned To Breathe Oxygen Hundreds of Millions of Years Earlier Than Scientists Thought - SciTechDaily",
-    "description": "Life Learned To Breathe Oxygen Hundreds of Millions of Years Earlier Than Scientists Thought  SciTechDailyAerobic respiration began hundreds of millions of years earlier than previously thought, study suggests  Phys.org",
-    "published date": "Sun, 08 Feb 2026 06:07:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZUNfaFFVTHJCU0Z6enlfdUFZQkdNZTZvdXRMQUZFcjhuMFl0SFZmYk9BUFQwTDhCcGgtTHRBSkRtOF9aUWFNb3pvT0ZXeGlOdFBEYllQLWxnVzBjOWtQd19HSG9NR3c5RlJEX0hzVjM2eEdBaGVhNHVUU2J5bWVkQk5GR0xwM1A2c0RpVTBoZk1kUnRKZUdoOHQ1SmFNckZqaUl5ZlJSRFhlZThfZTFWUkFrYlRMN1VQSlE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://scitechdaily.com",
-      "title": "SciTechDaily"
     }
   }
 ]
