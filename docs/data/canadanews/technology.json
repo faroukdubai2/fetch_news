@@ -1,15 +1,5 @@
 [
   {
-    "title": "I wanted to ditch Google News, but the alternatives made it worse - Android Authority",
-    "description": "I wanted to ditch Google News, but the alternatives made it worse  Android Authority",
-    "published date": "Sun, 08 Feb 2026 12:04:56 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcGNWbEhfVkhwX0RwODg5aHFKQmxHOW13Qnk2UlJseldQdzdKYVpWZzVkcElSRTQ2X1dlaXpWbUlkNWhhbDhwdGdRX2JqbzMyM3RYaG84XzRUd3RmU0h1VTJVbHVEb0Y3VTFjVFBscl9rSXNKWUFYRF95ZldUZzZYeGlxR2poQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.androidauthority.com",
-      "title": "Android Authority"
-    }
-  },
-  {
     "title": "Apple Adding Civilization VII and Other Games To Apple Arcade - ilounge.com",
     "description": "Apple Adding Civilization VII and Other Games To Apple Arcade  ilounge.comCivilization VII hits Apple Arcade: Huge AAA strategy game arrives today  iPhone in CanadaCivilization VII Arcade Edition launches on Apple Arcade for iPhone, iPad, Mac  prismnews.comCivilization VII Coming to Apple Arcade Tomorrow  MacRumors",
     "published date": "Sun, 08 Feb 2026 07:08:13 GMT",
@@ -40,6 +30,16 @@
     }
   },
   {
+    "title": "I wanted to ditch Google News, but the alternatives made it worse - Android Authority",
+    "description": "I wanted to ditch Google News, but the alternatives made it worse  Android Authority",
+    "published date": "Sun, 08 Feb 2026 11:49:21 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcGNWbEhfVkhwX0RwODg5aHFKQmxHOW13Qnk2UlJseldQdzdKYVpWZzVkcElSRTQ2X1dlaXpWbUlkNWhhbDhwdGdRX2JqbzMyM3RYaG84XzRUd3RmU0h1VTJVbHVEb0Y3VTFjVFBscl9rSXNKWUFYRF95ZldUZzZYeGlxR2poQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.androidauthority.com",
+      "title": "Android Authority"
+    }
+  },
+  {
     "title": "Sylvan residents encouraged to \"Get Fit in February\" - centralalbertaonline.com",
     "description": "Sylvan residents encouraged to \"Get Fit in February\"  centralalbertaonline.comFebruary Fitness Challenge at the Sylvan Lake NexSource Centre  Sylvan Lake NewsRed Deerians invited to stay active this winter with February Fitness Challenge  rdnewsnow.com",
     "published date": "Sat, 07 Feb 2026 22:03:58 GMT",
@@ -50,13 +50,13 @@
     }
   },
   {
-    "title": "The iPhone Successor? Apple’s New AI Pin is Basically a Talking AirTag - Geeky Gadgets",
-    "description": "The iPhone Successor? Apple’s New AI Pin is Basically a Talking AirTag  Geeky GadgetsI'd buy Google's AI glasses over Apple's AI pin any day  Android Authority",
-    "published date": "Sun, 08 Feb 2026 12:03:07 GMT",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORVVfc2xMY09EVkc1aDhKUVR1U182b2RiLXBrVTRWbThZcjY1RjRwTy1CR0NoN3huMExGVmxtRTdvWS1oQTFrT2hJMzZzX1lkS2hMWm5xMkpJLW9qUWZhSEYxMXQxNDg5M3ZyMGRDWFF0RUYzRDFUVjRsdXljeVZjOW5YM0FyRHFKYTNhbC1TdEVlNG1qYmdvcWUwRVd6MXht?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Intel Recently Shelved Numerous Open-Source Projects - Phoronix",
+    "description": "Intel Recently Shelved Numerous Open-Source Projects  Phoronix",
+    "published date": "Sun, 08 Feb 2026 19:06:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2OU1jTm9hUHotZ1RzckRwWm9kVjdkWjcwa0kzeFNxM0o2Ym95MnFFRlZPZkpTNmxlQXViRTZPd3dnLWM4dTFhaDZMbnMzRW1VbkQ2eWNHWWJBT3VZaHNEYk0zSjdvY2hPRy1j?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.geeky-gadgets.com",
-      "title": "Geeky Gadgets"
+      "href": "https://www.phoronix.com",
+      "title": "Phoronix"
     }
   },
   {
@@ -70,6 +70,16 @@
     }
   },
   {
+    "title": "The iPhone Successor? Apple’s New AI Pin is Basically a Talking AirTag - Geeky Gadgets",
+    "description": "The iPhone Successor? Apple’s New AI Pin is Basically a Talking AirTag  Geeky GadgetsI'd buy Google's AI glasses over Apple's AI pin any day  Android Authority",
+    "published date": "Sun, 08 Feb 2026 12:03:07 GMT",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORVVfc2xMY09EVkc1aDhKUVR1U182b2RiLXBrVTRWbThZcjY1RjRwTy1CR0NoN3huMExGVmxtRTdvWS1oQTFrT2hJMzZzX1lkS2hMWm5xMkpJLW9qUWZhSEYxMXQxNDg5M3ZyMGRDWFF0RUYzRDFUVjRsdXljeVZjOW5YM0FyRHFKYTNhbC1TdEVlNG1qYmdvcWUwRVd6MXht?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.geeky-gadgets.com",
+      "title": "Geeky Gadgets"
+    }
+  },
+  {
     "title": "Sunday Preview – Huron Blackheart sets sail from the Maelstrom - Warhammer Community",
     "description": "Sunday Preview – Huron Blackheart sets sail from the Maelstrom  Warhammer CommunityRule the Maelstrom with Huron and his crew’s spicy new datasheets  Warhammer Community",
     "published date": "Sun, 08 Feb 2026 18:02:13 GMT",
@@ -77,6 +87,16 @@
     "publisher": {
       "href": "https://www.warhammer-community.com",
       "title": "Warhammer Community"
+    }
+  },
+  {
+    "title": "There's a simple way to watch Super Bowl 2026 FREE in *USA* - Tom's Guide",
+    "description": "There's a simple way to watch Super Bowl 2026 FREE in *USA*  Tom's GuideHow to watch YouTube TV from anywhere (free trial)  Tom's GuideYouTube TV offers some customers a $20 discount for four months – how to check  9to5Google",
+    "published date": "Sun, 08 Feb 2026 22:53:29 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbUQza01zdUtuZmV5X1BVamFzZmEtZnYzVmdJV1RpYlFBR1NKUUh4eE9ZNmctYlNhVXJPZGVsWDR4Z0l1QzNpTHRxMktraVp2bE9iUTF6MnFWN0ZmVTFWYmpLc2pyTDRzdm9BWEFSWnpMQXVzQ1hINm1jM0lLbFdXbkRTdVpPcUIzU2xvT0xLeEFIYk02RXNSRGtjVzc1Z3dqbGtDVkdmaFVVVGs?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.tomsguide.com",
+      "title": "Tom's Guide"
     }
   },
   {
@@ -110,6 +130,16 @@
     }
   },
   {
+    "title": "iOS 26.3 Critical iPhone Update To Land Any Minute Now: Here’s Why It Matters - Forbes",
+    "description": "iOS 26.3 Critical iPhone Update To Land Any Minute Now: Here’s Why It Matters  ForbesiOS 26.4 is coming: Here are the rumored new features  9to5MaciOS 26.4: Here’s when Apple will release the first beta  9to5MaciOS 26.3 and iOS 26.4 Will Add These New Features to Your iPhone  MacRumorsApple releases iOS 26.3 RC for iPhone  9to5Mac",
+    "published date": "Sun, 08 Feb 2026 16:00:17 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbXBGVlhfYm5qNTdxOWlKSUV0WThXNjJIX1c5V2hERk1QZlUtMjFVeFBaMDZZTkVNbTBBQnhvaFJMYk5xeFJfcG1ZRG5jY0IxUmE1WS1lT1h1UzhIeDNaLUZCQVcxay1HNVJyU2lTczFEVkMtSEVGVkk4MFJHclg5ZEhOOXprdnJ0bXdlLXBwV1Y3SjRjUlprZ19rUGMzRWxqdDllamNMUWllY0ZJRmlJRFBEdTUwR0JzcElLcE1QUlRnX2p2N0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
+    }
+  },
+  {
     "title": "Super Bomberman Collection Gets 'Very Positive' User Reviews Following Surprise Release - Pure Xbox",
     "description": "Super Bomberman Collection Gets 'Very Positive' User Reviews Following Surprise Release  Pure XboxSUPER BOMBERMAN COLLECTION - Nintendo Switch 2 Edition for Nintendo Switch 2  nintendo.comSuper Bomberman Collection Out Now On eShop, Full Cart Release Coming In August  Nintendo Life",
     "published date": "Sun, 08 Feb 2026 16:00:00 GMT",
@@ -130,13 +160,13 @@
     }
   },
   {
-    "title": "iOS 26.3 Critical iPhone Update To Land Any Minute Now: Here’s Why It Matters - Forbes",
-    "description": "iOS 26.3 Critical iPhone Update To Land Any Minute Now: Here’s Why It Matters  ForbesiOS 26.4: Here’s when Apple will release the first beta  9to5MaciOS 26.3 – 5 Ways It Will CHANGE Your iPhone  Geeky GadgetsiOS 26.3 and iOS 26.4 Will Add These New Features to Your iPhone  MacRumorsiOS 26.4 is coming: Here are the rumored new features  9to5Mac",
-    "published date": "Sun, 08 Feb 2026 16:00:17 GMT",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbXBGVlhfYm5qNTdxOWlKSUV0WThXNjJIX1c5V2hERk1QZlUtMjFVeFBaMDZZTkVNbTBBQnhvaFJMYk5xeFJfcG1ZRG5jY0IxUmE1WS1lT1h1UzhIeDNaLUZCQVcxay1HNVJyU2lTczFEVkMtSEVGVkk4MFJHclg5ZEhOOXprdnJ0bXdlLXBwV1Y3SjRjUlprZ19rUGMzRWxqdDllamNMUWllY0ZJRmlJRFBEdTUwR0JzcElLcE1QUlRnX2p2N0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Apple MacBook Rumors: New M5 MacBook Pros Could Be Here Soon - CNET",
+    "description": "Apple MacBook Rumors: New M5 MacBook Pros Could Be Here Soon  CNETApple's redesigned MacBook Pro can't come soon enough  Creative BloqNew MacBook Pros Could Now Arrive in March  MacRumorsApple Confirms New Options For Your Next MacBook Pro  ForbesM5 Pro, M5 Max: What I Expect from Apple's Next-Gen Chips  CNET",
+    "published date": "Sat, 07 Feb 2026 12:01:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYm9HSW9kQ3ZWaHUyMldONmI2Zk5SRU9qWVM0OExDOEg4dFE0SzM4THhfaVYyVFlsRFdtRU80WnFhb0NZbGFuNHIzb0luOWU5dUM0MnR2bUd0Rl9wRGNHVi14M1hELVIxLTJrLWNha3lJUUV0eFB3enM3cWlrUUhhUEliVWhxVFdVaXlnMHJ5S1VQaW8?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.forbes.com",
-      "title": "Forbes"
+      "href": "https://www.cnet.com",
+      "title": "CNET"
     }
   },
   {
@@ -147,6 +177,16 @@
     "publisher": {
       "href": "https://ca.news.yahoo.com",
       "title": "Yahoo News Canada"
+    }
+  },
+  {
+    "title": "New Final Fantasy Game Revealed (And It’s Releasing Later This Year) - ComicBook.com",
+    "description": "New Final Fantasy Game Revealed (And It’s Releasing Later This Year)  ComicBook.comKess Brings ‘Final Fantasy’ to Tabletops  The Toy Book",
+    "published date": "Mon, 09 Feb 2026 00:19:33 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaGF0VEpOZ0pTdXQ2WEJteW5KNmpNRktCWWpiRUxoeTRhaDZpNGhkdDVYNTl3TC1EeVMxWl9RUlpNcTk2ampKLTVRRVpCOERMS0V4VjI0a2ktRFNuVzk4eVIwT0dxR0JxTXU5VjF4ZXhlMm1vRVhaeXAzWEdJa0hsR080bDFSQjVBV0x0RmkwRlpjLTZGcEk4NkVtSmdIVmlwclE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://comicbook.com",
+      "title": "ComicBook.com"
     }
   },
   {
@@ -162,61 +202,11 @@
   {
     "title": "All the reasons why Samsung doesn't offer big upgrades for its phones - Android Authority",
     "description": "All the reasons why Samsung doesn't offer big upgrades for its phones  Android AuthorityIs Samsung still the Android king or is it past its peak?  Android Authority",
-    "published date": "Sun, 08 Feb 2026 13:04:56 GMT",
+    "published date": "Sun, 08 Feb 2026 13:14:37 GMT",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zTlh6UllqQ3NZVDRLR3FhRmxwZ1dzRElpSW9ySDM3cFdUMloyQll0VndEOVhJQTNSbUE2aElkNF80NnlVOXdXcVZTUWl3Ni1qV01LU1hnYzJMN1FDWlp4VkJncndmdFRVQjJvVHh1RUE1NFFicXZ4am5ZZS1fQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.androidauthority.com",
       "title": "Android Authority"
-    }
-  },
-  {
-    "title": "Scott Pilgrim EX Gameplay Overview Shows Off Quests, Exploration, and Toronto Brawling - MonsterVine",
-    "description": "Scott Pilgrim EX Gameplay Overview Shows Off Quests, Exploration, and Toronto Brawling  MonsterVineScott Pilgrim EX Gameplay Overview Tours the Sights & Quests of the Toronto-Saving Brawling Adventure  GoNintendo",
-    "published date": "Sat, 07 Feb 2026 15:00:39 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT3JCNTRfVzRlMzVreGpCRFk3QTR4M244UkpiYzMtWVFRd1lOU3JWcWViWHpuUUFGaWJCa2x6YVZwQWJGeGViU1dPakw4QUU1WElRYWVFLUxSUzVmaGlxcXhKdTk5Zi1JeGpqdDdtTkh6cW9kUDloMV9LM0FscTB3eUNJcU1tQjNEM0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://monstervine.com",
-      "title": "MonsterVine"
-    }
-  },
-  {
-    "title": "Why I'm divorcing Big Tech and moving all my data to open source alternatives - Android Police",
-    "description": "Why I'm divorcing Big Tech and moving all my data to open source alternatives  Android Police“I Switched to Open Source Apps Over Google’s Core and Won’t Return”  FilmoGaz",
-    "published date": "Sun, 08 Feb 2026 11:00:10 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeHVFd2h3SWhBdmpSM0ZQWk5ZbkxabUxoZ0JseXZnVm5EYktNWHNEaEJkRnVyaUF4ZjItS1p0NDZsUHhlVUVEd1FUUVBlRGdxTVY0MlFBVVdDeXEwbDJuUUp5SFdVOFNFaml1akp0a2tGdjRtaWVsZlZndEdXWjJnc0I2Y1RiUVVneTlTZE1mTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.androidpolice.com",
-      "title": "Android Police"
-    }
-  },
-  {
-    "title": "3 reasons you should try Home Up's latest upgrades on your Samsung Galaxy - Android Authority",
-    "description": "3 reasons you should try Home Up's latest upgrades on your Samsung Galaxy  Android AuthoritySamsung is testing One UI 8.5 to a whole new batch of Galaxy smartphones - full list  Gizchina.com",
-    "published date": "Sun, 08 Feb 2026 10:02:08 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mWFNkeXhEQS1XLWNhQXVxSk03UTViTGs4VlpmSE1Xa0FoZ3VPYzlNVG9scWFTYmFra1AxQXVPal9PemdGeWlZV0JISTVBcVBia3p1S0dVT1RTS1NXN3M3bF9wZlZPaEw1R3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.androidauthority.com",
-      "title": "Android Authority"
-    }
-  },
-  {
-    "title": "I disabled this core Android app to reclaim 7GB of storage, and I should have done it sooner - Android Police",
-    "description": "I disabled this core Android app to reclaim 7GB of storage, and I should have done it sooner  Android PoliceI disabled the AICore app on my Samsung phone, and here’s why you might want to  Android Authority",
-    "published date": "Sun, 08 Feb 2026 18:00:10 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVGc4c0tZNHNNUUctcVpWUzZnRzRaSHhqT1ZLT1J2V1BFbDJvRFBFaFJUcDNwN2VsUmYwZGtOVGMwTlZqNG1DbDFLN2tSVEpfNmFadE1xcUxnY1lnSU9VVVJFeDMyQXIzakNzVFJhTTJfX3hydkZVcmNRLTZBWGR1N3pDQVJaU2dfeTlBVFp3c0FWd2ZWeHRZ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.androidpolice.com",
-      "title": "Android Police"
-    }
-  },
-  {
-    "title": "Tales Of Arise - Switch 2 Performance And Resolution Revealed - Nintendo Life",
-    "description": "Tales Of Arise - Switch 2 Performance And Resolution Revealed  Nintendo LifeTales Of Arise Comes To Switch 2 In May, Includes Beyond The Horizon DLC  Nintendo Life",
-    "published date": "Sun, 08 Feb 2026 06:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ0xobWVueUk1VENjYUR0dnUtN1ZfU2NoWTNzN3Q1Z1RqNnltNFNxNUlvejZvMFV1UThHamJMczU2bkdIMU92azZYM0NqLTJDN25sVmh5WUMweDJ5X1dxWHJVN3RwTm83aXRCMEYybmE5X0RsalJtUzdEUU1FTGJBSFNFcnNodmNidUF3NlJqQ0RuTjllcGZ5SHNORFRkSUdPM2Nv?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.nintendolife.com",
-      "title": "Nintendo Life"
     }
   },
   {
@@ -230,18 +220,58 @@
     }
   },
   {
-    "title": "Apple MacBook Rumors: New M5 MacBook Pros Could Be Here Soon - CNET",
-    "description": "Apple MacBook Rumors: New M5 MacBook Pros Could Be Here Soon  CNETApple's redesigned MacBook Pro can't come soon enough  Creative BloqM5 Pro, M5 Max: What I Expect from Apple's Next-Gen Chips  CNETApple Confirms New Options For Your Next MacBook Pro  ForbesThe MacRumors Show: All the New Macs Coming This Year  MacRumors",
-    "published date": "Sat, 07 Feb 2026 12:01:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYm9HSW9kQ3ZWaHUyMldONmI2Zk5SRU9qWVM0OExDOEg4dFE0SzM4THhfaVYyVFlsRFdtRU80WnFhb0NZbGFuNHIzb0luOWU5dUM0MnR2bUd0Rl9wRGNHVi14M1hELVIxLTJrLWNha3lJUUV0eFB3enM3cWlrUUhhUEliVWhxVFdVaXlnMHJ5S1VQaW8?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Tales Of Arise - Switch 2 Performance And Resolution Revealed - Nintendo Life",
+    "description": "Tales Of Arise - Switch 2 Performance And Resolution Revealed  Nintendo LifeTales Of Arise Comes To Switch 2 In May, Includes Beyond The Horizon DLC  Nintendo Life",
+    "published date": "Sun, 08 Feb 2026 06:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ0xobWVueUk1VENjYUR0dnUtN1ZfU2NoWTNzN3Q1Z1RqNnltNFNxNUlvejZvMFV1UThHamJMczU2bkdIMU92azZYM0NqLTJDN25sVmh5WUMweDJ5X1dxWHJVN3RwTm83aXRCMEYybmE5X0RsalJtUzdEUU1FTGJBSFNFcnNodmNidUF3NlJqQ0RuTjllcGZ5SHNORFRkSUdPM2Nv?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.cnet.com",
-      "title": "CNET"
+      "href": "https://www.nintendolife.com",
+      "title": "Nintendo Life"
+    }
+  },
+  {
+    "title": "Why I'm divorcing Big Tech and moving all my data to open source alternatives - Android Police",
+    "description": "Why I'm divorcing Big Tech and moving all my data to open source alternatives  Android Police“I Switched to Open Source Apps Over Google’s Core and Won’t Return”  FilmoGaz",
+    "published date": "Sun, 08 Feb 2026 11:00:10 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeHVFd2h3SWhBdmpSM0ZQWk5ZbkxabUxoZ0JseXZnVm5EYktNWHNEaEJkRnVyaUF4ZjItS1p0NDZsUHhlVUVEd1FUUVBlRGdxTVY0MlFBVVdDeXEwbDJuUUp5SFdVOFNFaml1akp0a2tGdjRtaWVsZlZndEdXWjJnc0I2Y1RiUVVneTlTZE1mTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.androidpolice.com",
+      "title": "Android Police"
+    }
+  },
+  {
+    "title": "I disabled this core Android app to reclaim 7GB of storage, and I should have done it sooner - Android Police",
+    "description": "I disabled this core Android app to reclaim 7GB of storage, and I should have done it sooner  Android PoliceI disabled the AICore app on my Samsung phone, and here’s why you might want to  Android Authority",
+    "published date": "Sun, 08 Feb 2026 18:00:10 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVGc4c0tZNHNNUUctcVpWUzZnRzRaSHhqT1ZLT1J2V1BFbDJvRFBFaFJUcDNwN2VsUmYwZGtOVGMwTlZqNG1DbDFLN2tSVEpfNmFadE1xcUxnY1lnSU9VVVJFeDMyQXIzakNzVFJhTTJfX3hydkZVcmNRLTZBWGR1N3pDQVJaU2dfeTlBVFp3c0FWd2ZWeHRZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.androidpolice.com",
+      "title": "Android Police"
+    }
+  },
+  {
+    "title": "3 reasons you should try Home Up's latest upgrades on your Samsung Galaxy - Android Authority",
+    "description": "3 reasons you should try Home Up's latest upgrades on your Samsung Galaxy  Android AuthoritySamsung is testing One UI 8.5 to a whole new batch of Galaxy smartphones - full list  Gizchina.com",
+    "published date": "Sun, 08 Feb 2026 10:03:22 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mWFNkeXhEQS1XLWNhQXVxSk03UTViTGs4VlpmSE1Xa0FoZ3VPYzlNVG9scWFTYmFra1AxQXVPal9PemdGeWlZV0JISTVBcVBia3p1S0dVT1RTS1NXN3M3bF9wZlZPaEw1R3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.androidauthority.com",
+      "title": "Android Authority"
+    }
+  },
+  {
+    "title": "The 4 Cheapest Ways To Turn Your Car Into A Smart Car - bgr.com",
+    "description": "The 4 Cheapest Ways To Turn Your Car Into A Smart Car  bgr.com4 Devices Compatible With Your Car's USB Port That You Need To Know About  bgr.comThese devices are compatible with your car’s USB port and you may not realize it  supercarblondie.com",
+    "published date": "Sun, 08 Feb 2026 14:17:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyNDA5SXdmWGZRZVNUT1MwdzdjXzVuTE1wZWZtY1BHeDkxNU5lLS1rZjlWMjloZ1hRUTJuS3lvT3BoSWRuSkZhQTNvd3ZjODhlZ3FBZWNqR0pwTXdUU2Z5M0V3dDZNWmw3SGF0MzdhZlVJSEk4?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bgr.com",
+      "title": "bgr.com"
     }
   },
   {
     "title": "New type of magnetism discovered in 2D materials - Phys.org",
-    "description": "New type of magnetism discovered in 2D materials  Phys.orgGerman team discovers new type of magnetism in 2D materials to help store future data  Interesting Engineering",
+    "description": "New type of magnetism discovered in 2D materials  Phys.orgKey to ultra-dense next-gen data storage could be a new magnetic state found in twisted 2D materials — German researchers reveal 'super‑moiré' magnetic milestone  Tom's Hardware",
     "published date": "Sat, 07 Feb 2026 14:00:06 GMT",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mMDBYU3lORTQzOHJBYTlYR21xSHg1eW9UUzhueVh0SHlpVy1lS21EYWNWX0hZMjJOc3czSFNsSzR1V3Q2V3NXWGxEQ0xsWkc3emw1ZG5FVW54SEFqU2JSbTlqeE52NTRO?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -250,19 +280,9 @@
     }
   },
   {
-    "title": "Cairn is a climbing journey about perseverance and obsession - theverge.com",
-    "description": "Cairn is a climbing journey about perseverance and obsession  theverge.comThe thrill of climbing from the comfort of your couch  eKathimerini.comIndie critical darling Cairn climbs Steam charts, reaches 200k copies sold on PC and PS5 in first weekend  Eurogamer",
-    "published date": "Sat, 07 Feb 2026 14:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DeUx4d1licm95UXRpUVRDWFBKelFDTkROOGlGUmR5UUw4Y3hVVURsT3ZfMWtRdjZpaVVINFJFMWg3QlhCMGZmZWxpZldVdURxRkc3eS1qcHZVS0E2aEw5Z0dvTHJWOF9DLXpLMVNuWW5yeThibXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theverge.com",
-      "title": "theverge.com"
-    }
-  },
-  {
     "title": "Apple Prepares to Kick Off 2026 With the iPhone 17e, New iPads and Macs - bloomberg.com",
-    "description": "Apple Prepares to Kick Off 2026 With the iPhone 17e, New iPads and Macs  bloomberg.comThe iPhone 17e could launch soon with MagSafe and an A19 chip  theverge.comBig Changes Are Coming To Apple In 2026  bgr.comThe iPhone 17e might launch in mere weeks  MacworldiPhone 17e and iPad 12: New Features and Release Date Rumors Surface  MacRumors",
-    "published date": "Mon, 09 Feb 2026 01:02:08 GMT",
+    "description": "Apple Prepares to Kick Off 2026 With the iPhone 17e, New iPads and Macs  bloomberg.comThe iPhone 17e could launch soon with MagSafe and an A19 chip  theverge.comBig Changes Are Coming To Apple In 2026  bgr.comNew iPhone launching this month with four key changes: report  9to5MaciPhone 17e and iPad 12: New Features and Release Date Rumors Surface  MacRumors",
+    "published date": "Mon, 09 Feb 2026 02:14:28 GMT",
     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQV0VaSUViVTlCVzBLbTAyMHZCaVVqbjYwOXRSYXhDSElBRUprMnFac0dvUWpDUXFZZ29LQVZFaE1ZeS1lR2xwYXljdS1oUEFDNkp4QjBSTVdRcWU0ZXlocjJCSVJCcHlrc2FLdEVDZnRhTVhBTHpzdm1sYlZ6NTFNLWViVjg4eGYwazhDWmZ5V05jcUV0akJGQWFuSUI3MkxPQnpPMDBSSU1RZ1FzQ1ZXRGZWcEU4UXZMZUhHUEY3ZG50WWhmMGhTWC1YRTJNWGdRWE1fcg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.bloomberg.com",
@@ -281,7 +301,7 @@
   },
   {
     "title": "The '996' work culture taking over Silicon Valley is coming at a 'human expense,' these AI researchers say - Business Insider",
-    "description": "The '996' work culture taking over Silicon Valley is coming at a 'human expense,' these AI researchers say  Business InsiderIn the AI gold rush, tech firms are embracing 72-hour weeks  Yahoo News Canada",
+    "description": "The '996' work culture taking over Silicon Valley is coming at a 'human expense,' these AI researchers say  Business InsiderIn the AI gold rush, tech firms are embracing 72-hour weeks  BBC",
     "published date": "Sun, 08 Feb 2026 10:07:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcDBNYnJsV05Ya2lXZ3NNVml6bkNaZjBFWDBmSFNxRjM0ODg5cjlocTVzbjRORG5iUnh6QmdXRzJTWUdzRGNvckZjZDBLVUw0cklfV0ROMks4MzZVVnFuSTNJWUJYcnMzT3NlUWhUb3E3dWUyR3dsQS05U2gxN3hzQW1EendpN2NBRkFWd1ozVnlDejlUck1IQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -310,13 +330,23 @@
     }
   },
   {
-    "title": "Light-based Ising computer runs at room temperature and stays stable for hours - Phys.org",
-    "description": "Light-based Ising computer runs at room temperature and stays stable for hours  Phys.org",
-    "published date": "Sat, 07 Feb 2026 18:00:04 GMT",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ITlNmUjR2YWxLaEsxZ1VSVFZ2dEp3TDJhblhyWXpMbk1nazRSV05sQVJKNUsxaEoxekxTS0VXNVptdXo5YnY2Um1hZ29IaEFMQUk4LXpxV0U0a2J1dGVBWWlHdDExRUJYb1VOSkRBYVN3Q3VtZ2tleg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "I tried a Claude Code rival that's local, open source, and completely free - how it went - ZDNET",
+    "description": "I tried a Claude Code rival that's local, open source, and completely free - how it went  ZDNETWant local vibe coding? This AI stack replaces Claude Code and Codex - and it's free  ZDNETTesting a Free, Open-Source Claude Code Rival: My Experience  FilmoGazI tried a Claude Code alternative that's local, open source, and completely free - how it works  ZDNET",
+    "published date": "Mon, 09 Feb 2026 02:16:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa0VEQ1lXZlkzUHkyUG52LW9heG50UmRNRnpqWUdaZGVaMm55SlZSeTM3a3hCWkhicGJ6NjRUWUdJNlFyLWwwWGhTc21HUFFQSkNpc0g2VmxoWXZlTU9ZRGNhY0REYnM0UUl6RTY0RUV6UFhPVFdiS2todGVNMnBaVmE3SWhfdktwRV9r?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://phys.org",
-      "title": "Phys.org"
+      "href": "https://www.zdnet.com",
+      "title": "ZDNET"
+    }
+  },
+  {
+    "title": "PlayStation handheld reportedly with 24GB memory, PS6 console with 30GB - VideoCardz.com",
+    "description": "PlayStation handheld reportedly with 24GB memory, PS6 console with 30GB  VideoCardz.comNew leak suggests the PS6 could feature 30GB of RAM, but a price hike is expected  Notebookcheck",
+    "published date": "Sun, 08 Feb 2026 19:03:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT21fNENRSm9BM2I1QlNFY0FMVFVrdXFlTl81bl8wWWJRZmFGNEk3cDdkSUVlN0dWLVFYTHJfYXBDVnRKQU1zal9iSFdxeFI4XzY3aktISS1aNEVGOHdZb3BtcjJVTjZxYjQ5blg4UVd1cXd2YUhBY2VIb204ajdsNjRLbEM3a0RLVG1xdDljeXE1cXlleTN4cFhfVDJudW8?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://videocardz.com",
+      "title": "VideoCardz.com"
     }
   },
   {
@@ -340,13 +370,23 @@
     }
   },
   {
-    "title": "Telegram for Android redesign goes all-in on Liquid Glass, rolling out now - 9to5Google",
-    "description": "Telegram for Android redesign goes all-in on Liquid Glass, rolling out now  9to5GoogleTelegram Unveils Liquid Glass Redesign for Android Users  FilmoGaz",
-    "published date": "Sun, 08 Feb 2026 01:50:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWl9Gdk1IRXlVcm5nam1mWW9YczJtWnJ4NDFOQi1zS0ZKTXhuQzhENE5DNTVtSlpPcGdoTE1UQ2JfX29YNjJXeXc0YTg4eUxSNHBvLV9Xd08yTlRZaF9OdUpCMjI1YjMyNUpRdFNsaDA0RjMtSXJmVUw4ME00Y0ktdWtJdm1CZ1E4OW1wVG1sWFJYMG9BdnlNZEozZDFqNU5VcV80RkdyZFhsd1ZB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Light-based Ising computer runs at room temperature and stays stable for hours - Phys.org",
+    "description": "Light-based Ising computer runs at room temperature and stays stable for hours  Phys.org",
+    "published date": "Sat, 07 Feb 2026 18:00:04 GMT",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ITlNmUjR2YWxLaEsxZ1VSVFZ2dEp3TDJhblhyWXpMbk1nazRSV05sQVJKNUsxaEoxekxTS0VXNVptdXo5YnY2Um1hZ29IaEFMQUk4LXpxV0U0a2J1dGVBWWlHdDExRUJYb1VOSkRBYVN3Q3VtZ2tleg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://9to5google.com",
-      "title": "9to5Google"
+      "href": "https://phys.org",
+      "title": "Phys.org"
+    }
+  },
+  {
+    "title": "\"We Were Quite Nervous\" - Star Trek: Voyager - Across The Unknown Dev Talks Returning Actors, Music & Fan Feedback - Nintendo Life",
+    "description": "\"We Were Quite Nervous\" - Star Trek: Voyager - Across The Unknown Dev Talks Returning Actors, Music & Fan Feedback  Nintendo LifeSee How You Can Customize The USS Voyager In ‘Star Trek: Voyager: Across The Unknown’ Building Promo  TrekMovie.com",
+    "published date": "Mon, 09 Feb 2026 03:46:20 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUmhWWmFsZWxkT09MRHJvR1V0SUY5Uzk5UzJNU192SjRGeU5HREtQUVp4dVF0djJKVXIzWlQ1XzZ0T1ItUVRRUUtDSFpUUzMxTlZJdFgtT0JkNVZQX3F2a0R3UWdGc21iUjdXVFNHOGJlRHZhakhLSEg1NHRHNVhsdXdma2l0MkVKdG5nazN2MFlzaGZiZXJwNHRFS2Q4WWoxenBoQnE5VXVlbHBTTl9Bc2dkbllfNERmTE1Kek03SjZfWFdjelcwd1dqM3FhSHg2SDRScUdyMkcwOE55QWxN?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nintendolife.com",
+      "title": "Nintendo Life"
     }
   },
   {
@@ -360,6 +400,16 @@
     }
   },
   {
+    "title": "Telegram for Android redesign goes all-in on Liquid Glass, rolling out now - 9to5Google",
+    "description": "Telegram for Android redesign goes all-in on Liquid Glass, rolling out now  9to5GoogleTelegram Unveils Liquid Glass Redesign for Android Users  FilmoGaz",
+    "published date": "Sun, 08 Feb 2026 01:50:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWl9Gdk1IRXlVcm5nam1mWW9YczJtWnJ4NDFOQi1zS0ZKTXhuQzhENE5DNTVtSlpPcGdoTE1UQ2JfX29YNjJXeXc0YTg4eUxSNHBvLV9Xd08yTlRZaF9OdUpCMjI1YjMyNUpRdFNsaDA0RjMtSXJmVUw4ME00Y0ktdWtJdm1CZ1E4OW1wVG1sWFJYMG9BdnlNZEozZDFqNU5VcV80RkdyZFhsd1ZB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://9to5google.com",
+      "title": "9to5Google"
+    }
+  },
+  {
     "title": "One AI hub, fewer tabs — 1min.AI’s lifetime plan costs $99.99 - Mashable",
     "description": "One AI hub, fewer tabs — 1min.AI’s lifetime plan costs $99.99  Mashable1ForAll AI Pro Replaces Multiple Creative AI Apps for Just $50  PCMag",
     "published date": "Sat, 07 Feb 2026 23:12:22 GMT",
@@ -370,33 +420,13 @@
     }
   },
   {
-    "title": "\"We Were Quite Nervous\" - Star Trek: Voyager - Across The Unknown Dev Talks Returning Actors, Music & Fan Feedback - Nintendo Life",
-    "description": "\"We Were Quite Nervous\" - Star Trek: Voyager - Across The Unknown Dev Talks Returning Actors, Music & Fan Feedback  Nintendo LifeSee How You Can Customize The USS Voyager In ‘Star Trek: Voyager: Across The Unknown’ Building Promo  TrekMovie.com",
-    "published date": "Mon, 09 Feb 2026 00:51:17 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUmhWWmFsZWxkT09MRHJvR1V0SUY5Uzk5UzJNU192SjRGeU5HREtQUVp4dVF0djJKVXIzWlQ1XzZ0T1ItUVRRUUtDSFpUUzMxTlZJdFgtT0JkNVZQX3F2a0R3UWdGc21iUjdXVFNHOGJlRHZhakhLSEg1NHRHNVhsdXdma2l0MkVKdG5nazN2MFlzaGZiZXJwNHRFS2Q4WWoxenBoQnE5VXVlbHBTTl9Bc2dkbllfNERmTE1Kek03SjZfWFdjelcwd1dqM3FhSHg2SDRScUdyMkcwOE55QWxN?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.nintendolife.com",
-      "title": "Nintendo Life"
-    }
-  },
-  {
     "title": "'Overwatch' just hit its highest player base on Steam PC since launch — passing Battlefield 6 and Call of Duty - Windows Central",
-    "description": "'Overwatch' just hit its highest player base on Steam PC since launch — passing Battlefield 6 and Call of Duty  Windows Central\"What would I change if we could go back?\" Inside Blizzard's big plan to put Overwatch back on top  EurogamerOverwatch 2 Is Ditching the '2' Amid Launch of 'New, Story-Driven Era' With 10 New Heroes  IGNOverwatch 2 Is Just 'Overwatch' Again And Five New Heroes Arrive Next Week  Game InformerOverwatch Is Getting Five New Characters, Here's A First Look At What They Do  GameSpot",
+    "description": "'Overwatch' just hit its highest player base on Steam PC since launch — passing Battlefield 6 and Call of Duty  Windows Central\"What would I change if we could go back?\" Inside Blizzard's big plan to put Overwatch back on top  EurogamerOverwatch 2 Is Ditching the '2' Amid Launch of 'New, Story-Driven Era' With 10 New Heroes  IGNOverwatch 2 Is Just 'Overwatch' Again And Five New Heroes Arrive Next Week  Game InformerOverwatch's New Hero Jetpack Cat Has A Legendary Voice Actor Purr-Forming The Meows  GameSpot",
     "published date": "Sun, 08 Feb 2026 15:20:18 GMT",
     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZVc4UlRERVVuc0toTE1Wd2RWVnVnWVM2Ni1nWkt5YkU4U2xVaHZfYzI1V1VCNlRSaXo4QVl1OHQwR2E4STFzMXRoRmdHX0hrN3BRTEl0NVlwTnVicDBPODJ6dnU2ZG1Nc1NoQ0JqXzlWOU1JTjVKRVdGOXBTUGdZRE0xTkJOWktfakJuWE9HOVlaV1ZfYkYwaEhUSEc2clBfR1I3QlBJT2t1b2xIaEF5SkdFUHQtd0NyTEMtcUZLSlJRdks3c0VRQWR5QkI2WU5iR1NxVTQ4VUdiYmUtVWdaeTFBa3pJbW95bEE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.windowscentral.com",
       "title": "Windows Central"
-    }
-  },
-  {
-    "title": "AYANEO NEXT 2 with Ryzen AI Max+ “Strix Halo” costs up to $4,299, weighs 1.4kg, and may require airline approval forms - VideoCardz.com",
-    "description": "AYANEO NEXT 2 with Ryzen AI Max+ “Strix Halo” costs up to $4,299, weighs 1.4kg, and may require airline approval forms  VideoCardz.com",
-    "published date": "Sun, 08 Feb 2026 15:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbU5TRTdxeF9vSktqRngtbFI4Ym9yMmJGOWprSDhBRUJtZkV0Qlh6SlFVaWpRZmV1Qms3M2hNN3k3cmVHUExsLXRhZGxVRkVwWnBhVGg2VUJtVlJPRl9lNjlYaGpXX25Jb2RLWFBKRkVSb3BkUHQ1NGJVOXBCUkhockpVNlhmUGFkZWdCX3dnOVdTT1diM05KVGRta3FWcXdiZE9NWXJxay1SaW9JTGNMZ2hXUjZYTnRMZkpnUjFhVXBvaFdxTC0ycVpvblU2dFVFYXFMR2J3?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://videocardz.com",
-      "title": "VideoCardz.com"
     }
   },
   {
@@ -410,33 +440,33 @@
     }
   },
   {
+    "title": "AYANEO NEXT 2 with Ryzen AI Max+ “Strix Halo” costs up to $4,299, weighs 1.4kg, and may require airline approval forms - VideoCardz.com",
+    "description": "AYANEO NEXT 2 with Ryzen AI Max+ “Strix Halo” costs up to $4,299, weighs 1.4kg, and may require airline approval forms  VideoCardz.com",
+    "published date": "Sun, 08 Feb 2026 15:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbU5TRTdxeF9vSktqRngtbFI4Ym9yMmJGOWprSDhBRUJtZkV0Qlh6SlFVaWpRZmV1Qms3M2hNN3k3cmVHUExsLXRhZGxVRkVwWnBhVGg2VUJtVlJPRl9lNjlYaGpXX25Jb2RLWFBKRkVSb3BkUHQ1NGJVOXBCUkhockpVNlhmUGFkZWdCX3dnOVdTT1diM05KVGRta3FWcXdiZE9NWXJxay1SaW9JTGNMZ2hXUjZYTnRMZkpnUjFhVXBvaFdxTC0ycVpvblU2dFVFYXFMR2J3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://videocardz.com",
+      "title": "VideoCardz.com"
+    }
+  },
+  {
+    "title": "Fujifilm X-T6 Announcement Details, The GFX180 Monster, New Film Simulation Recipes and More - Top 10 January Articles - fujirumors.com",
+    "description": "Fujifilm X-T6 Announcement Details, The GFX180 Monster, New Film Simulation Recipes and More - Top 10 January Articles  fujirumors.com",
+    "published date": "Sun, 08 Feb 2026 16:04:05 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZkZ2bFV6N2NoSDFOeEpXRG85T3JOc1pPQmo4eVZaazY2N1dCRm9FQThpalNQNXR3dFBVa3JucFE3RndRb3JwWGM0VnFZc2E1YmZ0dGZMOUdpZzk4YXk2ZFhFb2dRRTA2VjhpZ210VGlMOXhHbWNpaFpsQ3FMb2JSLTVPZ3ZONHpyZVVEVjFzQjRjQ1NvSjVJSGNqYzJnNjBxRzBjaGhqTFphRjBtMXIxcFgzMWphN1pIdU4tUkJLanAyaXJyYksyZWQ5TW9JTEtUTUNhS1lzUTdnZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.fujirumors.com",
+      "title": "fujirumors.com"
+    }
+  },
+  {
     "title": "iPhone 18 Pro: These rumored camera upgrades could launch later this year - 9to5Mac",
-    "description": "iPhone 18 Pro: These rumored camera upgrades could launch later this year  9to5MacApple iPhone 18 Pro Design Changes Take Shape In New Leak  ForbesWhat to Expect From the iPhone 18 Pro After the Latest Rumor Reversal  MacRumorsApple to prioritize premium iPhone launches in 2026 amid memory crunch  Nikkei AsiaiPhone 18 Pro won't get a big design change because iPhone 17 Pro was a hit  AppleInsider",
+    "description": "iPhone 18 Pro: These rumored camera upgrades could launch later this year  9to5MaciPhone 18 Pro Max to Feature 5,100 - 5,200mAh Battery and 2nm A20 Pro Chip [Rumor]  iClarifiedWhat to Expect From the iPhone 18 Pro After the Latest Rumor Reversal  MacRumors",
     "published date": "Sat, 07 Feb 2026 23:44:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCdHVaWDFlMDkwWGR4cm5rcHBiM193d2o3RHRkWWNUUEh4cC1BU09uZUIxT0FMY044VTFDZzdLb1daVVhxNHN6Ym11eEg1dHFjVTBKWEN4U1QwcVZja18yVHdwMkdTQWhreE1IM2hITmJyQ2NrZ1pWdA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://9to5mac.com",
       "title": "9to5Mac"
-    }
-  },
-  {
-    "title": "GOG is already working on native Linux support - theverge.com",
-    "description": "GOG is already working on native Linux support  theverge.comGOG has already started working on Linux gaming as it says they're \"a big fan\" of the OS  XDA",
-    "published date": "Sat, 07 Feb 2026 20:23:46 GMT",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPSnRGUzFZcGFCZDlyMTdKMzVKWkVSUUlmckhIMzlQZ3ZCTkZ0VGxoT2ktVGFZS2NTVW5zVE9vTmlMbTlSblg4TlpmRjdYeEtIX09SN0Z3OVgtbG5HY3BJTXU2Wnd0ZFN1WTZmZFZ3?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theverge.com",
-      "title": "theverge.com"
-    }
-  },
-  {
-    "title": "The next Xbox is targeting 2027 with a huge architectural shift towards PCs - Windows Central",
-    "description": "The next Xbox is targeting 2027 with a huge architectural shift towards PCs  Windows CentralAMD reveals next-gen Xbox could launch in 2027 — CEO says semi-custom SoC ready to 'support launch in 2027'  Tom's HardwareAMD says next-gen Xbox on track for 2027 launch  MobileSyrupAMD hints Microsoft could launch its next-gen Xbox in 2027  theverge.comAMD says Steam Machine is on track to ship early this year, and Xbox 2027 SoC work is progressing  VideoCardz.com",
-    "published date": "Sun, 08 Feb 2026 13:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX3JPN25rbFllczNTSEY5VkZ2cUYxaGo0QkhtQ09qWl9WZXpSMURCWHZRRVZtcTJGaWFYUGRldXZYZjRfVkh0SHBXQ25rZEVueHJaS0tDTFRsSmJOQUVSTDRIQm0teHJ6SEpHcUhISGlLY3dhT0J6SGpBTTRUOG1vZ2hLcVd5VGdxMzJpd0J3a1NSaTI1WVRDWDRRN0l3YWl4eUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.windowscentral.com",
-      "title": "Windows Central"
     }
   },
   {
@@ -450,10 +480,40 @@
     }
   },
   {
+    "title": "The next Xbox is targeting 2027 with a huge architectural shift towards PCs - Windows Central",
+    "description": "The next Xbox is targeting 2027 with a huge architectural shift towards PCs  Windows CentralAMD reveals next-gen Xbox could launch in 2027 — CEO says semi-custom SoC ready to 'support launch in 2027'  Tom's HardwareAMD says next-gen Xbox on track for 2027 launch  MobileSyrupAMD hints Microsoft could launch its next-gen Xbox in 2027  theverge.comAMD says Steam Machine is on track to ship early this year, and Xbox 2027 SoC work is progressing  VideoCardz.com",
+    "published date": "Sun, 08 Feb 2026 13:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX3JPN25rbFllczNTSEY5VkZ2cUYxaGo0QkhtQ09qWl9WZXpSMURCWHZRRVZtcTJGaWFYUGRldXZYZjRfVkh0SHBXQ25rZEVueHJaS0tDTFRsSmJOQUVSTDRIQm0teHJ6SEpHcUhISGlLY3dhT0J6SGpBTTRUOG1vZ2hLcVd5VGdxMzJpd0J3a1NSaTI1WVRDWDRRN0l3YWl4eUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.windowscentral.com",
+      "title": "Windows Central"
+    }
+  },
+  {
+    "title": "GOG is already working on native Linux support - theverge.com",
+    "description": "GOG is already working on native Linux support  theverge.comGOG has already started working on Linux gaming as it says they're \"a big fan\" of the OS  XDA",
+    "published date": "Sat, 07 Feb 2026 20:23:46 GMT",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPSnRGUzFZcGFCZDlyMTdKMzVKWkVSUUlmckhIMzlQZ3ZCTkZ0VGxoT2ktVGFZS2NTVW5zVE9vTmlMbTlSblg4TlpmRjdYeEtIX09SN0Z3OVgtbG5HY3BJTXU2Wnd0ZFN1WTZmZFZ3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theverge.com",
+      "title": "theverge.com"
+    }
+  },
+  {
     "title": "Angry girlfriend smashed RTX 3080 Ti, but a repair shop managed to save the GPU - VideoCardz.com",
     "description": "Angry girlfriend smashed RTX 3080 Ti, but a repair shop managed to save the GPU  VideoCardz.com",
     "published date": "Sat, 07 Feb 2026 21:59:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ0JHcGIwVjN0V21RSzZFeGl1NHJCRjRfYUMzemJBNnQ1bTNEZDdRd0xQbGc2RzUtaEI5MUJBSFdCbUNKZFd4dlVKdl81SHdjSlRBdE5jNFN6VWU0UjU0MTRSRTVCdWZGZmY3dnRMVGFhV3ZpS2hTMVhYV1BwWDcxSGdLdC1uZkM0UXVMUDJGQ2Y1dWNPUTJfQ1VxbzZQYWI2WkotRUpZT3pqUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://videocardz.com",
+      "title": "VideoCardz.com"
+    }
+  },
+  {
+    "title": "Intel preparing Z990 and Z970 chipsets for Nova Lake-S desktop CPUs - VideoCardz.com",
+    "description": "Intel preparing Z990 and Z970 chipsets for Nova Lake-S desktop CPUs  VideoCardz.com",
+    "published date": "Sun, 08 Feb 2026 20:45:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON0VBeTREcGNYSzZRTno3bDRyRmJWc0VGd2daYWNTZmYtTzNaSGRTSUdGczRubTZUbXY1TkJlZG9wMTZNNGcwbEpGSlc0T3ppc1lTOTE3ZWZTQllWdEs0RU04WUVybHZOX3RBS2VqMkNBZFdTeXoyTHhqRUNkanhCeVkzNGVUQVhqb0FOcmY1OUJvVHVCRUVfcFBYSnMwY180WE5UdkhWR3ctdw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://videocardz.com",
       "title": "VideoCardz.com"
@@ -467,6 +527,16 @@
     "publisher": {
       "href": "https://mashable.com",
       "title": "Mashable"
+    }
+  },
+  {
+    "title": "RTX TITAN Blackwell or RTX 5090 Ti? NVIDIA reportedly is developing a new RTX 50-series halo GPU for Q3 2026 - VideoCardz.com",
+    "description": "RTX TITAN Blackwell or RTX 5090 Ti? NVIDIA reportedly is developing a new RTX 50-series halo GPU for Q3 2026  VideoCardz.comNvidia to Delay New Gaming Chip Due to Memory Chip Shortage  The InformationYou Couldn’t Afford Nvidia’s Next Gen GPUs, Even if You Wanted Them  GizmodoNvidia won't release new gaming GPU for 'first year in three decades' due to RAM shortage — and it's also slashing RTX 50 production  Tom's GuideNVIDIA’s Replacement for the RTX 50 SUPER Series Could Be a “Mega” RTX 5090 GPU, but It’s Unlikely to Change Anything for Gamers  Wccftech",
+    "published date": "Sun, 08 Feb 2026 15:53:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNR2hRdHpza2V3dzNyQ0h4RjUzSmxHaDlDS2FvTUtWdGRlQWdYcUxEbHdDbDgtdXJSb3pjRHp2T1lSR2l4di1YZjQtcEF2VTVDd1BHS0lBR196WUxsSktuX01lOVBqZmhFS0xodlZuQXh3ZExubTlsVVVQY0FKOFRVZEtKckhfOUhQeHM4T1hZN0lyRmFNREp3SkVON1lXRjc0S2t5bWJiTGZOMFR3ZnlIcC1jVGxqRElyRHF5ZF9uVHg4MzA4RVlob0R4UVhHVG50?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://videocardz.com",
+      "title": "VideoCardz.com"
     }
   },
   {
@@ -490,6 +560,16 @@
     }
   },
   {
+    "title": "Pokemon Presents predictions for Pokemon Day 2026 - Nintendo Everything",
+    "description": "Pokemon Presents predictions for Pokemon Day 2026  Nintendo EverythingShop the Pokémon Center 30th Collection  PokémonLady Gaga, Trevor Noah and More Celebrities Reveal Their Favorite Pokémon in 2026 Super Bowl Commercial  People.comSpecial 30th anniversary Pokémon ad to air during Super Bowl LX  MashableJisoo Talks Choosing Eevee and Finding Evolutions of Her Own With New Pokémon Campaign  Rolling Stone",
+    "published date": "Sun, 08 Feb 2026 05:06:05 GMT",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJcGxJQkhmOEJGZW96UWVuZVpxdy1sYWNwdHlNV1c0MXU2NGo4SDczQkxlQm1fV2hvQzl1bzhhVF9lajVGc3JfbU5Xb18yVDF2N0xFbmR4UXN4RVV4Z3RjeWJ2LVBMWUJLUFY5SQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://nintendoeverything.com",
+      "title": "Nintendo Everything"
+    }
+  },
+  {
     "title": "YouTube Music lyrics now require a Premium subscription - 9to5Google",
     "description": "YouTube Music lyrics now require a Premium subscription  9to5GoogleYouTube Music starts pulling the plug on lyrics for free users  Android Police",
     "published date": "Sat, 07 Feb 2026 20:28:00 GMT",
@@ -497,16 +577,6 @@
     "publisher": {
       "href": "https://9to5google.com",
       "title": "9to5Google"
-    }
-  },
-  {
-    "title": "Pokemon Presents predictions for Pokemon Day 2026 - Nintendo Everything",
-    "description": "Pokemon Presents predictions for Pokemon Day 2026  Nintendo EverythingWatch the Teaser for Pokémon’s Super Bowl LX Spot  Pokemon.comTHE POKEMON COMPANY INTERNATIONAL ANNOUNCES SUPER BOWL LX COMMERCIAL  ICv2Special 30th anniversary Pokémon ad to air during Super Bowl LX  MashableShop the Pokémon Center 30th Collection  Pokemon.com",
-    "published date": "Sun, 08 Feb 2026 05:06:05 GMT",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJcGxJQkhmOEJGZW96UWVuZVpxdy1sYWNwdHlNV1c0MXU2NGo4SDczQkxlQm1fV2hvQzl1bzhhVF9lajVGc3JfbU5Xb18yVDF2N0xFbmR4UXN4RVV4Z3RjeWJ2LVBMWUJLUFY5SQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://nintendoeverything.com",
-      "title": "Nintendo Everything"
     }
   },
   {
@@ -520,13 +590,13 @@
     }
   },
   {
-    "title": "Intel preparing Z990 and Z970 chipsets for Nova Lake-S desktop CPUs - VideoCardz.com",
-    "description": "Intel preparing Z990 and Z970 chipsets for Nova Lake-S desktop CPUs  VideoCardz.com",
-    "published date": "Sun, 08 Feb 2026 20:45:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON0VBeTREcGNYSzZRTno3bDRyRmJWc0VGd2daYWNTZmYtTzNaSGRTSUdGczRubTZUbXY1TkJlZG9wMTZNNGcwbEpGSlc0T3ppc1lTOTE3ZWZTQllWdEs0RU04WUVybHZOX3RBS2VqMkNBZFdTeXoyTHhqRUNkanhCeVkzNGVUQVhqb0FOcmY1OUJvVHVCRUVfcFBYSnMwY180WE5UdkhWR3ctdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "If you touch PDFs at all, you’ll want this all-in-one tool - Mashable",
+    "description": "If you touch PDFs at all, you’ll want this all-in-one tool  MashableConvert, Edit and Protect Your Business Documents for Just $30  EntrepreneurIf PDFs keep eating your day, SwifDoo PDF Pro for $34.99 is the best way to fight back  Boing Boing",
+    "published date": "Sun, 08 Feb 2026 22:02:41 GMT",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4ZFp1RU5sLTBhSHR2SV9yQVJOaEQxcGl2X002VU1TWTZ0SmtrZk1Oc3RSR2ZxSm1rUF9yenRqMFVkd1g3QkFpQXo0c1JqallWWFkzQlp6X3ZyTHBBRnZsRkNYbzV3ck44c1lub214UUc2VEFFTmxyeg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://videocardz.com",
-      "title": "VideoCardz.com"
+      "href": "https://mashable.com",
+      "title": "Mashable"
     }
   },
   {
@@ -550,73 +620,13 @@
     }
   },
   {
-    "title": "This file transfer app has changed my life — I'm annoyed I didn't find it sooner - Tom's Guide",
-    "description": "This file transfer app has changed my life — I'm annoyed I didn't find it sooner  Tom's Guide",
-    "published date": "Sun, 08 Feb 2026 05:15:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR3pPanRrU0FnMEZySnlNcTlxVTlSc19nUDNGR2dUT0F4Q1VVb01ya09hdTFjVkk5QWhacDA0NkswdzdpQjM5U3Q4LWNvci0zVEhBRXZBN2F0dXVkVVVPTzMzbXBvX2dZTmtTLVhmOS1xZ0xnWm1XbDJhVVFzTVgtbEVjQmdmdm5aX0RrTjdsTk00V1pHcGloT3dJSzVzdWZJOFVJTGo3NWg4TkR2cnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "5 Mobile Apps You Should Be Using On Your iPad Or Tablet In 2026 - SlashGear",
+    "description": "5 Mobile Apps You Should Be Using On Your iPad Or Tablet In 2026  SlashGear",
+    "published date": "Sun, 08 Feb 2026 11:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQTRYOFpscGFuYmhaSnV1d2JTUDZLSkZIZ09CelQ0b2dkN2EzaEVLcFZXQW1CWVpmSEQ5TmxPN0NnSHpiLWl6RUZlblZMRnVxRUlKNk1LOVA1Yl9ZTVVuT0l1TVYzUmFwbTFZMlNRbzRXQnZ6QjJubng4Mnp4b3BUeXZpMmREaTVUc1E?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.tomsguide.com",
-      "title": "Tom's Guide"
-    }
-  },
-  {
-    "title": "RTX TITAN Blackwell or RTX 5090 Ti? NVIDIA reportedly is developing a new RTX 50-series halo GPU for Q3 2026 - VideoCardz.com",
-    "description": "RTX TITAN Blackwell or RTX 5090 Ti? NVIDIA reportedly is developing a new RTX 50-series halo GPU for Q3 2026  VideoCardz.comNvidia to Delay New Gaming Chip Due to Memory Chip Shortage  The InformationYou Couldn’t Afford Nvidia’s Next Gen GPUs, Even if You Wanted Them  GizmodoNvidia won't release new gaming GPU for 'first year in three decades' due to RAM shortage — and it's also slashing RTX 50 production  Tom's GuideReport claims Nvidia will not be releasing any new RTX gaming GPUs in 2026, RTX 60 series likely debuting in 2028  Tom's Hardware",
-    "published date": "Sun, 08 Feb 2026 15:53:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNR2hRdHpza2V3dzNyQ0h4RjUzSmxHaDlDS2FvTUtWdGRlQWdYcUxEbHdDbDgtdXJSb3pjRHp2T1lSR2l4di1YZjQtcEF2VTVDd1BHS0lBR196WUxsSktuX01lOVBqZmhFS0xodlZuQXh3ZExubTlsVVVQY0FKOFRVZEtKckhfOUhQeHM4T1hZN0lyRmFNREp3SkVON1lXRjc0S2t5bWJiTGZOMFR3ZnlIcC1jVGxqRElyRHF5ZF9uVHg4MzA4RVlob0R4UVhHVG50?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://videocardz.com",
-      "title": "VideoCardz.com"
-    }
-  },
-  {
-    "title": "4 macOS Features Apple Recently Added To Your Computer - bgr.com",
-    "description": "4 macOS Features Apple Recently Added To Your Computer  bgr.com",
-    "published date": "Sat, 07 Feb 2026 21:47:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE05cWZ1aHRPanA4cGpUMDNuRDNJQ01BYlpwd1g0TEx0Q3RhQ0VmTVVzSHhvQkhQc0JDZGhSdmo2YU9GWWtCcVNwZncxVXNHNjV5ZnFBOGc2TFhUOE5pT2QwZ0xVc2JWUjdSb2xTVURIZ0lkUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.bgr.com",
-      "title": "bgr.com"
-    }
-  },
-  {
-    "title": "Chinese firm unveils new pyramid-shaped PC that runs AI locally, not on the cloud - Interesting Engineering",
-    "description": "Chinese firm unveils new pyramid-shaped PC that runs AI locally, not on the cloud  Interesting EngineeringNew mini PC with 8-core chipset and RGB lighting is designed for AI workloads  Notebookcheck",
-    "published date": "Sat, 07 Feb 2026 14:56:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLTZ2WXZPR2pFdUtlSE5JXzRzcW94YXBNRmhaVzcweUFmVTRja0NRMER6UXJoblNCQVBNUTA2SC1tYjl2NWZlWHNkMzRxeHgtQktSZktDdVhsZjh3WEhwNU1EZEdENUdCWWZqTjdwUS1mSFdZeU9aWkVCbDRTNGh6RWt4TjA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://interestingengineering.com",
-      "title": "Interesting Engineering"
-    }
-  },
-  {
-    "title": "Nintendo Switch Online Reports Reveals Next Three Consoles - ComicBook.com",
-    "description": "Nintendo Switch Online Reports Reveals Next Three Consoles  ComicBook.com",
-    "published date": "Sat, 07 Feb 2026 23:32:25 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQnFYeG5WUk40RUhmQ0FhM1Q0TTR4V1VrdnNKRGNUaDRBVHdXU2dacTNWeWxjTEpLNHI1NGdRMk1IWDJLLU16b2FLT1BReXZYMFdOTnZXY3IxdndHSTk0UDRZdFllcWhmRXR2Z05McE1WVDRQQm5KVjU4a2xXeVU5SmRuY3BzRm44M0NoZ2I2VmJyaXRMN2dBQg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://comicbook.com",
-      "title": "ComicBook.com"
-    }
-  },
-  {
-    "title": "Man Wakes Up Homeless, Realizes He Fell Into AI Psychosis That Destroyed His Entire Life - Futurism",
-    "description": "Man Wakes Up Homeless, Realizes He Fell Into AI Psychosis That Destroyed His Entire Life  FuturismA.I.-psychosis support groups on Discord are helping people pick up the pieces after their lives are shattered.  SlateNew Study Examines How Often AI Psychosis Actually Happens, and the Results Are Not Good  FuturismEvidence Grows That AI Chatbots Are Dunning-Kruger Machines  Futurism",
-    "published date": "Sat, 07 Feb 2026 12:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYW40TUplRlRKSVJnbWg1cXk5WklMejJ2aWZobHluVjdkMm9wc2Q0ZmJTczhQNFZxb1lvV2Z0b1ZoVmNWQ19SU0tQUmtnZXNKTHFHeU5QMHlPeXRKR2Y4OWJfWjNzd0p0Sjk4YlQwcTlVWExhcUF3Mm5fRktVeDJmOHRuOFRYQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://futurism.com",
-      "title": "Futurism"
-    }
-  },
-  {
-    "title": "Move over, MacBook: The new Dell XPS 14 is now the longest-lasting laptop we’ve ever tested - Tom's Guide",
-    "description": "Move over, MacBook: The new Dell XPS 14 is now the longest-lasting laptop we’ve ever tested  Tom's Guide",
-    "published date": "Sun, 08 Feb 2026 10:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTWJ2VHZOWVFuT0ljTDVCOFlOQTg2MzhRb1pYS21YOXB2dEttQ0Y2amJIeVFvSDh4cmh2UnpZbTZ6UnF2bVpydU5GV2ZIUTRJMEwtZzRzY2R1RTd6b1hYampHYUhMRXl4aUFmeGYxc01INGhzZEdnek42U2ZBX3V4WlVLSnYtbUczX2pYWmFOWk55YndTRmcxVndMeExfN0ZxVlB6MnE1RHdBdkZ6VHU5UmstaTJpZkFXRFJWakFSNjJhMlNtQldKT2luWnU?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.tomsguide.com",
-      "title": "Tom's Guide"
+      "href": "https://www.slashgear.com",
+      "title": "SlashGear"
     }
   },
   {
@@ -630,13 +640,33 @@
     }
   },
   {
-    "title": "The ABCs of Time: The Rise of Mechanical Watches Among Quartz-Focused Brands - Monochrome Watches",
-    "description": "The ABCs of Time: The Rise of Mechanical Watches Among Quartz-Focused Brands  Monochrome Watches",
-    "published date": "Sat, 07 Feb 2026 15:00:22 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMlZSMUM1WWx5X0VNSzdZeEhuTkI5cFYybnVFS2xtdHVmV0dmdlJmS0dLeHlOQlZoUUc1UE9JY2FzMFQ2QUwxOXpIZU9VMFlfTURSVFBNUnNuajNjbFJVT0diYmRqSlFIZnEwb2I3M01kUnE4TGJpeEtTblB2MGZnYmt1NUxKMDU1c0lwX0pXN1d0X2xtZi0yUWs4TDZweHRleDhYTGpzMG9DRGs?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Nintendo Switch Online Reports Reveals Next Three Consoles - ComicBook.com",
+    "description": "Nintendo Switch Online Reports Reveals Next Three Consoles  ComicBook.com",
+    "published date": "Sat, 07 Feb 2026 23:32:25 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQnFYeG5WUk40RUhmQ0FhM1Q0TTR4V1VrdnNKRGNUaDRBVHdXU2dacTNWeWxjTEpLNHI1NGdRMk1IWDJLLU16b2FLT1BReXZYMFdOTnZXY3IxdndHSTk0UDRZdFllcWhmRXR2Z05McE1WVDRQQm5KVjU4a2xXeVU5SmRuY3BzRm44M0NoZ2I2VmJyaXRMN2dBQg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://monochrome-watches.com",
-      "title": "Monochrome Watches"
+      "href": "https://comicbook.com",
+      "title": "ComicBook.com"
+    }
+  },
+  {
+    "title": "Move over, MacBook: The new Dell XPS 14 is now the longest-lasting laptop we’ve ever tested - Tom's Guide",
+    "description": "Move over, MacBook: The new Dell XPS 14 is now the longest-lasting laptop we’ve ever tested  Tom's Guide",
+    "published date": "Sun, 08 Feb 2026 10:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTWJ2VHZOWVFuT0ljTDVCOFlOQTg2MzhRb1pYS21YOXB2dEttQ0Y2amJIeVFvSDh4cmh2UnpZbTZ6UnF2bVpydU5GV2ZIUTRJMEwtZzRzY2R1RTd6b1hYampHYUhMRXl4aUFmeGYxc01INGhzZEdnek42U2ZBX3V4WlVLSnYtbUczX2pYWmFOWk55YndTRmcxVndMeExfN0ZxVlB6MnE1RHdBdkZ6VHU5UmstaTJpZkFXRFJWakFSNjJhMlNtQldKT2luWnU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.tomsguide.com",
+      "title": "Tom's Guide"
+    }
+  },
+  {
+    "title": "Tier list that predicts how characters will be adjusted in the upcoming balance patch for Street Fighter 6 released by Broski - EventHubs",
+    "description": "Tier list that predicts how characters will be adjusted in the upcoming balance patch for Street Fighter 6 released by Broski  EventHubsChris_F predicts who will be buffed and nerfed in the upcoming Street Fighter 6 patch in the form of a tier list  EventHubs",
+    "published date": "Sun, 08 Feb 2026 16:44:14 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR2JMOU9tSGZlTjlHb3R5bUJJOWozU1RJREpCc2draVhzYTBjWU03c2FCNHNHZG4tYXJMU2FMN3lQNkwxcUlJYmNqMTZtNFE0cXpQclNuaHJ1NmlIYTdsSFJmUno5U2pvRmhwTFNGMmZmMnRIc0pySnBvUkJYOE5JYnlpalM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.eventhubs.com",
+      "title": "EventHubs"
     }
   },
   {
@@ -650,53 +680,23 @@
     }
   },
   {
-    "title": "Boston Dynamics’ new Atlas humanoid robot pulls off backflip with cartwheel - Notebookcheck",
-    "description": "Boston Dynamics’ new Atlas humanoid robot pulls off backflip with cartwheel  NotebookcheckBoston Dynamics Gives Its Research Atlas One Last Airborne Sprint Before Heading to Production  TechEBlog -",
-    "published date": "Sun, 08 Feb 2026 02:24:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS21JME9zQzAyZmpLNHhoN010OFRpcjBPS1BkV09Hc1ZJX1hLVEVHQkR4b1BHSDZrcTl6SGszOEowdG5zWHlOYTJxQWNJcFE0OGFMLUdkOV8ycG1Dajl5Y3Jxek5xcVJNb1djaVoxa1pBbUFRRFl2Vkhnck5LbGNYTWZFRHRKamlVMWlWYkJNX3U2YkhYRG9GN0VyaDRZQkI3bENiTjhSbGtLc1VjQVpRN2tDMjAwUGRCUXF3?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.notebookcheck.net",
-      "title": "Notebookcheck"
-    }
-  },
-  {
-    "title": "5 signs your OLED TV is on its way out - Pocket-lint",
-    "description": "5 signs your OLED TV is on its way out  Pocket-lint",
-    "published date": "Sun, 08 Feb 2026 01:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85N2JZb1lSTER3Z0VjS2UyREJib2NDYUZibW1PeEl5TE94V1FwU3kyWWRqQXVqVGN3dUJwV21nSGJGbDRJb1hvNFBlWHRid3BkVHc1bVBPVHdrd2w5eTF0dnlLWnVRb0JiS0ROT1VGSnB1TG8?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.pocket-lint.com",
-      "title": "Pocket-lint"
-    }
-  },
-  {
-    "title": "Rules-Defying MTG Sorcery Appears as New Secret Lair Bonus Card - MTG Rocks",
-    "description": "Rules-Defying MTG Sorcery Appears as New Secret Lair Bonus Card  MTG RocksMagic finally explains why print-to-demand Secret Lairs are gone: 'It's better for business'  PolygonMagic: The Gathering's Newest Product Says the Quiet Part Out Loud  IGN Africa",
-    "published date": "Sat, 07 Feb 2026 19:11:11 GMT",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Idm1BZWdVY1lXWG5jbnlSd0w0VTZwNWpIYXhUdFltWFhaLVA0ZURieHlob3BqeWR1MWM3WGZuNHVnem1mS1BnQi10NkVtRklBSHVIcXJWdHZMdWZwdnpxaDlWQlVJQzF3djAw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://mtgrocks.com",
-      "title": "MTG Rocks"
-    }
-  },
-  {
-    "title": "Can AI Chatbots Write Emotionally Rich Romance Books? - The New York Times",
-    "description": "Can AI Chatbots Write Emotionally Rich Romance Books?  The New York Times",
-    "published date": "Sun, 08 Feb 2026 15:16:21 GMT",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9uWk55WkhaVG9Jd0laVklBYXU4QnZRbkRVSFVrUzlJcWhPdHFZbXF6M25KSEphLXJhbnRtOU9fb3NMcWVkY21Mdmc2ZC1xQ3h6Ul9BdHpEQXBCRThSWFJQc1RhRG52MGhYdnU3dUlGeHhyNmJhY1NFMmJYX3M?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.nytimes.com",
-      "title": "The New York Times"
-    }
-  },
-  {
-    "title": "Ranking 7 Major Smart Speaker Brands From Worst To Best, According To Consumer Reports - bgr.com",
-    "description": "Ranking 7 Major Smart Speaker Brands From Worst To Best, According To Consumer Reports  bgr.com",
-    "published date": "Sat, 07 Feb 2026 17:02:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaGdPazBmRXVHVU8yLXk2azNid3hpU0M3bG5QSzBEX3hieWNuMHFZTmRxcDF5RzA4WlRvMmZiSEJiTUhOMDF1U1NQMWtNV29CeHE2eHFCZlpsM2I5WFRVZjV2MlZ2Z2I0Z052WTdieG56LUl4S2xDUy02eGRKc2VhazRTeEZHYkV4QkRuVUhIdldFeERv?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Your Amazon Echo Is Connecting To Your Neighbors' Smart Gadgets Too - Here's Why - bgr.com",
+    "description": "Your Amazon Echo Is Connecting To Your Neighbors' Smart Gadgets Too - Here's Why  bgr.com",
+    "published date": "Sun, 08 Feb 2026 16:17:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMU1kc092cmc1VjkwWUM4RFQ2bFJ5dUpSaVljdFNwZzVrbVZSeHIxeThxTkVLMGFUYXJ3RVBBS3FLRmE4LXU1UzhsQ2VJMlNXTGg4c3NYdnEyNFQwRGFRT3l1QXppc1JDSjZJaWt0T2hiZk9qWkdzNWNOLV9USnhDUUZFdw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.bgr.com",
       "title": "bgr.com"
+    }
+  },
+  {
+    "title": "6 home networking mistakes almost everyone makes as a beginner - MakeUseOf",
+    "description": "6 home networking mistakes almost everyone makes as a beginner  MakeUseOf",
+    "published date": "Sun, 08 Feb 2026 19:31:16 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSlluTndFMTA4ekt6WHpDUXk1azVETDRGaDh1ZlBqSS1LWExwWnBxd1BxZXRiTmZDbS1wcjRKeENYSHhsTkhKWHFMMEVnQ1kzRVF0XzhYaTFTZHFwY2c1dUxWODhxOVNmYzJ2alNSYUxnbmtyc19jU05NXy02QUxoanJhQ3hUVEMzTzd0MkMybXg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.makeuseof.com",
+      "title": "MakeUseOf"
     }
   }
 ]
