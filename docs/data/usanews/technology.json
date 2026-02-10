@@ -10,78 +10,58 @@
     }
   },
   {
-    "title": "To Succeed, the Next-Gen Xbox Needs to Steal These PC Features - Gizmodo",
-    "description": "To Succeed, the Next-Gen Xbox Needs to Steal These PC Features  GizmodoExclusive: Microsoft’s 2027 Xbox could be a huge shift for the platform  Windows CentralAMD reveals next-gen Xbox could launch in 2027 — CEO says semi-custom SoC ready to 'support launch in 2027'  Tom's HardwareNext-Generation Xbox is Windows 11 PC/Console Hybrid for Gaming and Productivity  TechPowerUpNext-Gen Xbox Sounds Similar To Valve's Original Steam Machine Pitch - Report  GameSpot",
-    "published date": "Mon, 09 Feb 2026 16:11:31 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTEVnRTltZ0ZROWR3V0FMdnBNbExkYUtIYy13eVd3aUxBN1ExdXpWMXNtWk92WGh6UVZ0R040bXo5UE1YaFJyU1UzaVd3b3ZGMnpwaTZwS0FGTmZDUnZQN01iRWRnX2FjeGRiQkN4RnhzU1ltbU1HVHpPaG5zTTZTdUJ0ajUzT18xdUtDVlFzY25QZzQtRHJn?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://gizmodo.com",
-      "title": "Gizmodo"
-    }
-  },
-  {
-    "title": "AirPods Pro 4 Could Feature Cameras to 'See Around You' - MacRumors",
-    "description": "AirPods Pro 4 Could Feature Cameras to 'See Around You'  MacRumorsLeaks Suggest Apple’s Next AirPods Pro Will Feature A Smart IR Sensor or Camera  Android HeadlinesAirPods Pro with built-in cameras may not cost more than current earbuds  AppleInsiderNext AirPods Pro could “see around” you and it’s all about Visual Intelligence  stuff.tvUpcoming AirPods Pro rumoured to ‘see around you’  MobileSyrup",
-    "published date": "Mon, 09 Feb 2026 13:23:25 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS0gxOThNallTc0N0LXB6clFLUHExcHVEWVJXMnNPMVA2TFlEN0QwWGZUR2RJRUhPOG9vaGVkZ2s5UWNuQmppc0xKd2kzTmxzYVprV3M1MlFtWmxCNW1CVUhDdVNvS2F5ek9ZUjNzeFBCQ3l1T3JpcXBXUGFxMDVLVGdqU0xjQVU2QThBbURRT0c5VkprWUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.macrumors.com",
-      "title": "MacRumors"
-    }
-  },
-  {
-    "title": "Discord will soon require face scans or ID for all users, or restrict access - 9to5Mac",
-    "description": "Discord will soon require face scans or ID for all users, or restrict access  9to5MacDiscord will require a face scan or ID for full access next month  theverge.comDiscord faces backlash over age checks after data breach exposed 70,000 IDs  Ars TechnicaDiscord to roll out age verification next month for full access to its platform  TechCrunchDiscord to start requiring face scan or ID to access adult content  BBC",
-    "published date": "Mon, 09 Feb 2026 14:39:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNTN0enRsUkpDRTBzaG1fRVFLRTc3M1d0cEFBTnYtaVhhaFBkanBPWE05REFsMXNSZFhwTTNCclAwRWxTMi1nVlJGTXM2VkhsOXB0a0xNbXUzNXpNWnJDMG9CS1dJbzR3VGMyVG8wVC1LUnNQV0NEQVYzZDhwQ0hNQ2dVZmxlM240ZHFNWDVOdnJ0V2pLT1NCRkZfaXRIVGVpNEJLTGN6RWZjelU?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://9to5mac.com",
-      "title": "9to5Mac"
-    }
-  },
-  {
-    "title": "Google experiments with locking YouTube Music lyrics behind paywall - Ars Technica",
-    "description": "Google experiments with locking YouTube Music lyrics behind paywall  Ars TechnicaYouTube Music lyrics now require a Premium subscription  9to5GoogleYouTube Music Makes Free Song Lyrics a Premium Feature  CNETYouTube Music starts putting lyrics behind a paywall  theverge.comYouTube Music starts pulling the plug on lyrics for free users  Android Police",
-    "published date": "Mon, 09 Feb 2026 20:40:13 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQajFmUTV1d1VLQ28zbFZMWk1JbVI4b3ZzbkltZDRoc0x2WGFvdTdzSXRlUmJMa0hmYVljT3RWRW5hNVpmMEl2dWhPWEl1NndmLWdoVUxqXzlTdWpsbG5Mc2JIMS1TWTZzcDB0UkxzWHFJeWE5YXduMjZxdzRQaGpyTzVsQkRnUnFTNWJmT0dUaXB3QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Just look at Ayaneo's absolute unit of a Windows gaming \"handheld\" - Ars Technica",
+    "description": "Just look at Ayaneo's absolute unit of a Windows gaming \"handheld\"  Ars TechnicaAYANEO NEXT 2 with Ryzen AI Max+ “Strix Halo” costs up to $4,299, weighs 1.4kg, and may require airline approval forms  VideoCardz.comThe RAM crisis is so bad this new gaming handheld costs more than an RTX 5090  TechRadarAyaneo has the first Strix Halo handheld with an internal battery and the low end fetches almost $2,000  PC GamerAYANEO launches KONKR FIT handheld gaming PC with Ryzen AI 9 HX 370/470 for $999 and up  Liliputing",
+    "published date": "Mon, 09 Feb 2026 22:51:16 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZWR2NDB6UXNPUHRfQjVzbnFHZEFiOEx6VXRJdTJTT3lJOFlSZzZuUjJ4UWY1Ml9LY2U2aXJ4MVZKRmdkTGFDMTEySnBSNHZldUc1bnh4N1duWWIwRjlHa1NFUXltbzZJYXFnZUFrREduOEJuRURqZEVTeVZWSHlNSGtZZW9EZ19qcnMzNV9uQ3p4N3lmQV84M3NmTFRrZjFkcVVfenRR?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://arstechnica.com",
       "title": "Ars Technica"
     }
   },
   {
-    "title": "One UI 8.5 rollout turning into a delayed wagon - Sammy Fans",
-    "description": "One UI 8.5 rollout turning into a delayed wagon  Sammy FansOne UI 8.5 is getting more stable before the Galaxy S26 launch, with a nice extra feature  androidcentral.comSamsung's One UI 8.5 beta brings super-powered voicemail to Galaxy phones  Android PoliceGalaxy S25 gets direct voicemail with new One UI 8.5 beta update  SamMobile3 reasons you should try Home Up's latest upgrades on your Samsung Galaxy  Android Authority",
-    "published date": "Sun, 08 Feb 2026 03:57:18 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcEpPQ25hRldWSl9kWWw4c2xNbHVfNDJvRFJPb3FJM0dUNUlaLUwtWGE2UzFTVjljTG9KYTRybWhZek8xTUJFdWUybm9RQ3E5bEtxRWNXb2FUMVRoNDhiSHFIU2lURUNhc0wwSXR5R0F5dXJkWjVtZ1BnRUlUcW1RMjBPVVpXNDFoNm91Sjln0gGTAUFVX3lxTFBWNzRmZjl1cEdZSGVkUTlocDFpT0dabmF6N3NacWxkRG5jYzJTTFgzNW51REVRNzNxdlBWV3R0YjJjZjJ4VmpvVzZyeHZwWEtST3NiRTE3RWpVWkM0ZHlSTUlSZjd6clZKY1FrMEJtdm8tcFpIOFBDYTMwZ3JuTG9rYnlpb3NHbTV5cWZILU9jMDZhbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Anthropic AI Safety Researcher Warns Of World ‘In Peril’ In Resignation - Forbes",
+    "description": "Anthropic AI Safety Researcher Warns Of World ‘In Peril’ In Resignation  Forbes",
+    "published date": "Mon, 09 Feb 2026 22:01:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVWw1Yk5pTWh4RmktLTg2OG1jNDlybGY4VUtyMl94NXN5a1N0b0M3S2x4WnRtbktVWUJ4VXZjWnhLaGZScXNnclNySER2bFFWcG1IOVE3MlNHbW5GRl9lWk5pZEVQQmRTa2tQYjc3dmx2RFVEbjFMamRyNWlRSTdGX2FwVzkxeWUyOTNkODI3bEx2Q3ZVUWRVcmNpV0lpSUFucXNaZDNrbjdfU3RMU1JOTTBOUHpzdW5CUHJPbTJWTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.sammyfans.com",
-      "title": "Sammy Fans"
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
     }
   },
   {
-    "title": "Report: Imminent Apple hardware updates include MacBook Pro, iPads, and iPhone 17e - Ars Technica",
-    "description": "Report: Imminent Apple hardware updates include MacBook Pro, iPads, and iPhone 17e  Ars TechnicaApple Prepares to Kick Off 2026 With the iPhone 17e, New iPads and Macs  bloomberg.comApple Is About to Release a Flood of New Products — Here’s What’s Coming  EntrepreneurThe Launch of the iPhone 17e Is Reportedly Imminent  GizmodoThe iPhone 17e will reportedly bring some key upgrades without raising the price  Engadget",
-    "published date": "Mon, 09 Feb 2026 15:28:40 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZzVUWTlHeHNPYXMwbGlGTGNKc05iRUNzNTlBSXB3Sk5lVEItdEk2ZVRWazBsSk1LRzlUODh0WC01T0VTN25ITHhoaFRxRmt4QmpTTlZ3cnJPZnVIcHNDendHSDIxd09naUVsTVp6aXpkRnNoQ0hVRzlBWVdmMDRYR3pZRlRzVU0yN1d1YlVqTlJHRmM4RWp1ZURnRF9RS0h3UVFBVlVDSGpiQlNoOVhJVTgzWlFMdlBySDdzZQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Apple AirPods Pro 4 may include cameras: Here's what it means - Times of India",
+    "description": "Apple AirPods Pro 4 may include cameras: Here's what it means  Times of IndiaAirPods Pro 4 Could Feature Cameras to 'See Around You'  MacRumorsLeaks Suggest Apple’s Next AirPods Pro Will Feature A Smart IR Sensor or Camera  Android HeadlinesAirPods Pro with built-in cameras may not cost more than current earbuds  AppleInsiderNext AirPods Pro could “see around” you and it’s all about Visual Intelligence  stuff.tv",
+    "published date": "Mon, 09 Feb 2026 17:47:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSVlXYzE4QjNOZG83Z3RFNjA1WmpHUFVmTl9uNzVRMTFNeTY2YTQ1d296ek1aeGZJbWRQbVJVY2padGVtUEVkd3RSRlRaN3pFOTNYaXVHUjFKRFF2TzlkODlVb0tWUEh5ME95dFQ5eWFWZmpmcktIRmd6TFZORXY4WVQzbl94THNGTzJqSkZudl9HdFJwNHV4Q2lnTUZjMU5la1ZPcHlfRlZzWk1oUkNPbGVSYjNjMkhTUkJIel9ITzFlVHVPTm5Uc3pSVUpNTXFVU3NwdXQ0M3ZkZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://timesofindia.indiatimes.com",
+      "title": "Times of India"
+    }
+  },
+  {
+    "title": "Nothing teases a colorful Phone (4a) launch - 9to5Google",
+    "description": "Nothing teases a colorful Phone (4a) launch  9to5GoogleThe Nothing Phone (4a) and (4a) Pro are reportedly coming next month - GSMArena.com news  GSMArena.comLeaks suggest Nothing Phone 4a is coming very soon  Mashable SEANothing Phone 4a Series Launch Teased as Handsets Receive EEC Certification: Expected Price, Features  Gadgets 360Nothing's Phone 4a Lineup Gets a Splash of Color: Inside the Strategy Behind the Brand's Most Ambitious Mid-Range Bet Yet  WebProNews",
+    "published date": "Mon, 09 Feb 2026 15:55:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOFN6Tlh1ODlYd2V0R3JZRkh2UDVRcDZlMjltTnZGS3JaRW9SNW01am52Q1pFZkZDczBhb3NIaG4wb3lYNDNvYUZjMHFRbzhjRnBWVW5Oc0dEQm1rVTlGS19MYkJOSEhfcU1fZGFUMEhJdmpIMC1pQWZ2MW5tYkM0TG5n?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://9to5google.com",
+      "title": "9to5Google"
+    }
+  },
+  {
+    "title": "No humans allowed: This new space-based MMO is designed exclusively for AI agents - Ars Technica",
+    "description": "No humans allowed: This new space-based MMO is designed exclusively for AI agents  Ars Technica",
+    "published date": "Mon, 09 Feb 2026 21:09:42 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQzNJWEdUaUctNE9ZMzRfQU05MnhwZzgzRjVXTGdfZ1dzZUxSVUVPRnp0S0l2NFBYWUd0akNDSUttamVNUVM2TUJxMDl0UXlQM2JGY0dCcmhLQU5ZQkJMSUdBSW0yaW1TcWNlRXpOQnJNemU2S0RtcGJkMHF4NmxRUkdsQm5OdENhSTgzemxWN1h1ZXVhZzlFd2FiVl83TEpQMmsxLUY4bVRhdFk?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://arstechnica.com",
       "title": "Ars Technica"
-    }
-  },
-  {
-    "title": "NASA's Artemis II Spacesuits Still Have One Big Problem, According To Former Astronauts - bgr.com",
-    "description": "NASA's Artemis II Spacesuits Still Have One Big Problem, According To Former Astronauts  bgr.com",
-    "published date": "Sun, 08 Feb 2026 22:47:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrWXNfTDhUUVJQMjVNNnlvc2t3LVhzdDRudHd1aENTODZySnJsR0trbEVBRUlxWDhHWE05c3N3TEVERER0UTBweTc3TWVKT2lDQ1pCbUVUeHBnRGp3LXk0ZEU2Q0xrMUtJeVBpVkxuZU5jQjRiQmJCVWRzYw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.bgr.com",
-      "title": "bgr.com"
     }
   },
   {
     "title": "Riot Games lays off roughly 80 employees from 2XKO team - Game Developer",
-    "description": "Riot Games lays off roughly 80 employees from 2XKO team  Game DeveloperAn Update on 2XKO  riotgames.comLeague of Legend is going into fighting games. Review of 2XKO from Riot Games  Mezha2XKO disappointed Riot Games, prompting the studio to cut developers responsible for the game  IXBT.games2XKO Is Already in Trouble Less Than a Month After Release  ComicBook.com",
+    "description": "Riot Games lays off roughly 80 employees from 2XKO team  Game DeveloperAn Update on 2XKO  riotgames.comRiot Games says it’s ‘downsizing’ the 2XKO development team, after a disappointing launch  videogameschronicle.com2XKO Developers Laid Off By Riot Games Less Than A Month After Console Release  GameSpotRiot Games Is Laying Off Around 80 2XKO Employees Three Weeks After The Game's Launch  Game Informer",
     "published date": "Mon, 09 Feb 2026 20:00:07 GMT",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd2pVSm5Za1VnQ0xvV2NCRDVhbE41UFhuQVFKckVzZTZ1X1RQZWlvekdWRi1tXzA4eE1iZEpZZ2Jnb3kxWVV6d1ZWd1p4a2o5SzdxZHBIZ1RlbVItTWM5ZFZuRGNaTjNnM3JwX1kyRXBBYUk3MUNUeEcwRlB3NUFEelkxaGdCVU5FRDJGbjdoWGFNSVRCQTlCN3pB?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -90,28 +70,8 @@
     }
   },
   {
-    "title": "Bar Complaint Filed Over Search of Washington Post Reporter’s Home - The New York Times",
-    "description": "Bar Complaint Filed Over Search of Washington Post Reporter’s Home  The New York TimesFBI Couldn’t Get into WaPo Reporter’s iPhone Because It Had Lockdown Mode Enabled  404 MediaiPhone Lockdown Mode will protect your data, even from the FBI  AppleInsiderBonus 202: Searching Reporters' Homes  Steve Vladeck | SubstackBar complaint filed against Trump-appointed prosecutor  Alternet",
-    "published date": "Mon, 09 Feb 2026 20:00:15 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQckhCQ1Vja0Y1ZTRRbGtsZ2NlVTNJYXJxLVgwTVF0UnVtTEgzU0xyLXM2dHoxY0E3LTByRWRsT2xUeHpSTGhoMkE1eUJ1cHFFX0hodW85YjUxSHRaRjZJOVEybkh3THJ6cDJXLVBlV19oUThaS29TVmZYZkl2bDFzUDJGRkozSWprc3A1VXBxTGdnc0ZSUnhqNw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.nytimes.com",
-      "title": "The New York Times"
-    }
-  },
-  {
-    "title": "Snapdragon 8 Elite Gen 6 Pro May Offer Lots Of Flexibility For Qualcomm’s Partners When Choosing Newer Or Older DRAM & Storage Standards To Save Costs - Wccftech",
-    "description": "Snapdragon 8 Elite Gen 6 Pro May Offer Lots Of Flexibility For Qualcomm’s Partners When Choosing Newer Or Older DRAM & Storage Standards To Save Costs  WccftechThe gap between Snapdragon 8 Elite Gen 6 variants is growing — in terms of performance, and likely cost too  PhoneArenaLeaked Diagrams Show Integration of Samsung HPB Tech in Next-gen Qualcomm Snapdragon SoC  TechPowerUpSnapdragon 8 Elite Gen 6 Pro Schematic Showing Samsung’s New Heatsink Solution Has Been Spotted In One Of The Biggest Leaks Of The Year  WccftechQualcomm's next flagship chip will be \"incredibly expensive\"  Mezha",
-    "published date": "Sun, 08 Feb 2026 22:07:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMmZtX3lPanFNajZwSmNENmxHdFkzZ2FSUV9BZ2hCR3JZc194amtKQXVWQmRwbFFHSm5qSkdOYWtMN2Z2RXg1MEliWEw1OGJWM290aV9QNEVtcGRNRXVDQ1VaenJtSFc4eEZuOWZ3NThDX2VabWJZLUZfN193OTV4WFJWZm5zRjRCZl91c2o5Q1FSb2dCQ0VZcUEzN2E5REZucE1nM3dwVjdGN2PSAbABQVVfeXFMT2g5RVNPVDJ1Wk5YLXNtN0owVG5PU1g5eXJrMmtyVmdHMXFRRUlWY0F3clhxTm42cVdRR1Q5eUduTUkwcGlVN21hNjVPeTVDQ1JyelctMmRTR3VvMkNkaEpDV0dnelZLcG9mRUhTZFFqWnVKZ3ZoM2E0TUtETFprN21ISTV5a1hiWVFzbHoyVGUxZjFGeVg2RWFkS2p4YjdHNkRuZUREOVFVYl9MQTRPYk4?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://wccftech.com",
-      "title": "Wccftech"
-    }
-  },
-  {
     "title": "\"No, this is not a Hearthstone 2\" - Blizzard squashes Hearthstone sequel suspicions after hyping a big BlizzCon 2026 reveal - Eurogamer",
-    "description": "\"No, this is not a Hearthstone 2\" - Blizzard squashes Hearthstone sequel suspicions after hyping a big BlizzCon 2026 reveal  Eurogamer34.6 Patch Notes  Blizzard EntertainmentHearthstone's 'year of change' begins with a twist on one of WoW's biggest expansions, and a bucket of free cards  PC GamerHearthstone's Next Expansion Cataclysm Coming March 17, Imagines If Deathwing Won  GameSpotHearthstone Spotlight 2026: Deathwing, Cataclysm, and a big \"hypotenuse\" reveal at BlizzCon...?  Gamereactor UK",
+    "description": "\"No, this is not a Hearthstone 2\" - Blizzard squashes Hearthstone sequel suspicions after hyping a big BlizzCon 2026 reveal  EurogamerYour Guide to CATACLYSM Card Reveals and Free Rewards in the Dragon’s Hoard  hearthstone.blizzard.comDeathwing Strikes Back in CATACLYSM, Hearthstone’s Next Expansion  hearthstone.blizzard.comHearthstone's Next Expansion Cataclysm Coming March 17, Imagines If Deathwing Won  GameSpotHearthstone Spotlight 2026: Deathwing, Cataclysm, and a big \"hypotenuse\" reveal at BlizzCon...?  Gamereactor UK",
     "published date": "Mon, 09 Feb 2026 17:45:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UZG1tWTBFaFN1WFNKZkV4RFUzVlBWRHRMTGloaTMxdHpzQTFlVVg2bHBzYXozX2JLbGZUWk1tc3Y4QUdYVE5OdFZHSnR2UV95X1Z5V3hXMUk5UXpoMGdzQTI5OWpfbXZrRG9RenBzTlVyTjJ4UXc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -120,23 +80,43 @@
     }
   },
   {
-    "title": "Trump T1 Phone: Specs and price proved inaccurate as manufacturer reveals final design - Notebookcheck",
-    "description": "Trump T1 Phone: Specs and price proved inaccurate as manufacturer reveals final design  NotebookcheckThis is the Trump Phone  theverge.comTrump Mobile T1 not made in US; only 'limited' final assembly to happen domestically, says report  The Times of IndiaTrump T1 smartphone is back with a higher price and improved specs  The Shortcut | Matt SwiderTrump Phone Appears In Real Images After Spec Changes  findarticles.com",
-    "published date": "Mon, 09 Feb 2026 13:01:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT19ibUZISUlnYUlfNzlvWVZRQ0Y0N0RCcTRLQ2E3YVEwRkVsVkx5dlA0Y0NzS21ZYm5Ba181Rkt1ZG9HRTZJbWowbmpCcUY5dmM3RGt6MHV3QlJSemtTX0hjNV9qSnczTlRVRFpmQXZVVVk0LUdLVVZvcGhXMDJRNndLZGtfdHYtOVZjM1diTEQySENNZEdOSE4wdV9sVFZYOXF5Q2x1UU5uY2Nqb0poV1ROTTFMSUFiLUhqajZKTUdrQlh0MTVjTkxB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Commander Banned and Restricted Announcement – February 9, 2026 - Magic: The Gathering",
+    "description": "Commander Banned and Restricted Announcement – February 9, 2026  Magic: The GatheringMagic just unbanned one of Commander’s most infamous cards  PolygonFebruary 9th Banned and Restricted Announcement  DraftsimMagic: The Gathering Hot/Cold List for the Week of February 9, 2026  beckett.comCommander Ban Update Feb 2026: Lutri and Biorythmn Unbanned - Rhystic Study Still Legal  But Why Tho?",
+    "published date": "Mon, 09 Feb 2026 16:13:43 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVVNuU2pJWVhOZW81d3Y2OWdQTkRIdUhRTzFrNHpuS3U1Yko1M3E4YzdKOHNURjFXeXdIYkJtX2tZVmNQczNjS1Y0MEFmN1VBeGhpTEZLQ3JRQUpvZjZ6a0c1Y0Q4LThXTGxrcnZtT0dETmRxQ2o4TnJfNEVQUHRGM3VwX01EZmJTRU5NdEYtRW9EUTZ4RXl6emxLQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.notebookcheck.net",
-      "title": "Notebookcheck"
+      "href": "https://magic.wizards.com",
+      "title": "Magic: The Gathering"
     }
   },
   {
-    "title": "Revealed: The new Defiler stomps onto the battlefield - Warhammer Community",
-    "description": "Revealed: The new Defiler stomps onto the battlefield  Warhammer CommunityWarhammer 40K: What Is GW Doing With Chaos Mutilators?  Bell of Lost SoulsLove to crush, maim, and kill? Surrender to the warp and become a new Chaos Mutilator  Warhammer CommunityWarhammer 40K Reveals New Deadly Chaos Unit: What Are Chaos Mutilators?  FandomWireWarhammer 40k unveils a new Chaos Defiler after 23 years, and it's hideous-er than ever  wargamer.com",
-    "published date": "Mon, 09 Feb 2026 14:57:24 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSTZrU3lldVBUOHgwdTJsRS1JY3NPVFZUZDdHZTZxSFl3R21OUDBBMFRoM0tUSTNmWk1fUVdwQ0N4Zm9mdFJQVHIxVTVENlEwWEhEUjc4Sm92cEVVNUw1NnE1ampGMnc1dHJremNHdTE4YmxsVXBVV20wdFhDTHpXb2Q1VURiYzRkdkI5ZXZjQ0x4LXllN1haS1BMYXpOVm1uYWdNVkFEVHZJNENaWVo0VHVfUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Bar Complaint Filed Over Search of Washington Post Reporter’s Home - The New York Times",
+    "description": "Bar Complaint Filed Over Search of Washington Post Reporter’s Home  The New York TimesFBI Couldn’t Get into WaPo Reporter’s iPhone Because It Had Lockdown Mode Enabled  404 MediaiPhone Lockdown Mode will protect your data, even from the FBI  AppleInsiderEvent: FBI Raids Washington Post Reporter, Experts React  Defending Rights & DissentFBI Search of Reporter Marks Alarming Escalation Against the Press  The Fulcrum",
+    "published date": "Tue, 10 Feb 2026 01:12:55 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQckhCQ1Vja0Y1ZTRRbGtsZ2NlVTNJYXJxLVgwTVF0UnVtTEgzU0xyLXM2dHoxY0E3LTByRWRsT2xUeHpSTGhoMkE1eUJ1cHFFX0hodW85YjUxSHRaRjZJOVEybkh3THJ6cDJXLVBlV19oUThaS29TVmZYZkl2bDFzUDJGRkozSWprc3A1VXBxTGdnc0ZSUnhqNw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.warhammer-community.com",
-      "title": "Warhammer Community"
+      "href": "https://www.nytimes.com",
+      "title": "The New York Times"
+    }
+  },
+  {
+    "title": "Samsung almost confirms when it's unveiling the Galaxy S26 family - GSMArena.com news - GSMArena.com",
+    "description": "Samsung almost confirms when it's unveiling the Galaxy S26 family - GSMArena.com news  GSMArena.comSamsung Galaxy S26 Ultra Release Date Latest: What To Expect And When  ForbesGalaxy S26's rumored wireless charging upgrade has a major catch  androidcentral.comSamsung killed Galaxy S26 upgrades to avoid a price hike – leaks say it didn’t work  9to5GoogleSamsung Galaxy S26 Ultra Shocks Fans with Missing Feature  Geeky Gadgets",
+    "published date": "Mon, 09 Feb 2026 21:57:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdFFHNGFWekRlMXoySXoyNjU5bWpTMnVOR1ZYRG9pNldqOFF3SEJLU0MxcGdZUnA1N09jRGJ4RHRmSGRHeGNnUzhUUlIxMFVoSmozSXVJc0V4NkxXWEZnTW9PSTlXQnZMSTJUWUNGMUE3LUNvbU1kQ0FaTWUtNV8xZWJRUy1mRmp4WllPV1VUb3dUbDN6SEUtUDBzZHpvMDBoM1RxWFVlRdIBowFBVV95cUxOUlk4UXVxbUNPODJ5bzdQdGdMRHdKZmpFRDRETVJ5V01OM0xPUFAyZUZlQzV1bFRhcjFOYkxXRlNNZE5FSkRfcy1KbkY0ZzI4WERlLVZ4TlRiSmwyVlduQ1ROaDVMbjlGcmJ3ZjNmSkJkdmtIamZZT0pOUkFoMmx2SHpxODJNM0RCSm5uUEFrVUJvV0FLX2tLWVFlWWJZMVBoUWNz?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.gsmarena.com",
+      "title": "GSMArena.com"
+    }
+  },
+  {
+    "title": "Embark Studios Is Encouraging Cooperation in ARC Raiders With New Shared Watch Event - The Outerhaven",
+    "description": "Embark Studios Is Encouraging Cooperation in ARC Raiders With New Shared Watch Event  The OuterhavenArc Raiders Creators Showed February Event - Many Players Didn't Understand Anything, But Now Eagerly Awaiting Launch  IXBT.gamesArc Raiders goes full-friendly PvE tomorrow with new Shared Watch event: \"Team up with strangers, turn your barrels on the machines, and earn rewards\"  GamesRadar+ARC Raiders Announces New Event for February 10  GameRantARC Raiders Shared Watch Event Launches Tomorrow  Insider Gaming",
+    "published date": "Mon, 09 Feb 2026 19:11:44 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcWRhZmNzUHhINDg3bzhGbVZFNVlETTQtYWN3a2tDdUVJeHB1X2pYa2JDNHZZbm9DR0gzLVJDOVM4R0o4ZmQzZ0JEZFcxMHVkWmEzd3Rxa2wtUHpXOWhqbjRxdnRLREpKNGI2dkVFcTE5eGt1R0lPOUNjREV5VVNHTUpEeEFpZkQ4ZTU5WU5zZjBvaVpuMUhzWE9sRnA4ay0xTlZ1a1pBTWJNMThINmdPSnh3bDVWdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theouterhaven.net",
+      "title": "The Outerhaven"
     }
   },
   {
@@ -151,7 +131,7 @@
   },
   {
     "title": "‘Overwatch’ Actor Supports A Redesign Of Her Own Character, Anran - Forbes",
-    "description": "‘Overwatch’ Actor Supports A Redesign Of Her Own Character, Anran  ForbesYes, Overwatch Characters Have Been Getting Sexier, But Not For The Obvious Reason  GameSpotWhy do the female characters in Overwatch all look the same?  Creative BloqNew Overwatch actor addresses the \"elephant in the room,\" says she had to \"mourn\" her character's redesign: \"Let's keep rooting for the version of her that could be\"  GamesRadar+Overwatch Actor Supports Fan Campaign To Redesign Her Character  Kotaku",
+    "description": "‘Overwatch’ Actor Supports A Redesign Of Her Own Character, Anran  ForbesEven This Overwatch Voice Actor Is Calling For Their Character To Be Redesigned  GameSpotWhy do the female characters in Overwatch all look the same?  Creative BloqNew Overwatch actor addresses the \"elephant in the room,\" says she had to \"mourn\" her character's redesign: \"Let's keep rooting for the version of her that could be\"  GamesRadar+Overwatch Actor Supports Fan Campaign To Redesign Her Character  Kotaku",
     "published date": "Mon, 09 Feb 2026 15:15:03 GMT",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc19DMndFb29nNUcteXZlWUpkdjBoZFNGNndOeVVVR1FRRXBpSlFvU2ZBLVdFYmNJcnBxdjJqd2wtaVRRb05kT0p1dzlXM2U2QkotS2xsUVJHNjgtWHc3OFhiTGUxTEhMSlZMeVk0UW5TMm5LUjRjN0RHNUxCRGRvU1dpd2ZvLTFGa1NxVFZPZ19KMl9BcllaUnVqRExVSnRnMmxTM0M2SkFqck84VldsYUViYw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -161,7 +141,7 @@
   },
   {
     "title": "PlayStation announces new State of Play presentation for February 12 | News-in-Brief - GamesIndustry.biz",
-    "description": "PlayStation announces new State of Play presentation for February 12 | News-in-Brief  GamesIndustry.bizState of Play returns this Thursday, February 12  PlayStation.BlogPlayStation’s next big games showcase is on February 12th  theverge.comSony Announces PlayStation State of Play Broadcast For This Week  IGNThe Next Big PS5 Showcase Is Coming And It's Over An Hour Long  Kotaku",
+    "description": "PlayStation announces new State of Play presentation for February 12 | News-in-Brief  GamesIndustry.bizState of Play returns this Thursday, February 12  PlayStation.BlogPlayStation’s next big games showcase is on February 12th  theverge.comSony Announces PlayStation State of Play Broadcast For This Week  IGNState Of Play Announced For This Week, Will Feature Over An Hour of Third-Party, Indie, And First-Party Game Updates  Game Informer",
     "published date": "Mon, 09 Feb 2026 19:06:11 GMT",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN1JpUDMyaTZ3Q2JQUE10cnU1eFNCTTQzR1gxRjlKUXBRUVdhTDZwZzM5TExkdFBESmpacl9YWUxKOVNNbkxJVHlYU2pxZWpvZ3VHUkRnR0dqY2lSNHM0Yjg4aHNPb3p0OGI3QlIxSFU0OERIN1RGREZuWTBlUXB4TDdVUGRsaVdfS1M1bE9ocF9NZ0hXOHdVbVVMYnRsNVNhTkhwRG1fQ1lzdTA5N2FnblN3?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -170,43 +150,53 @@
     }
   },
   {
-    "title": "Yakuza Kiwami 3 & Dark Ties Review - A Familiar Fight - Game Informer",
-    "description": "Yakuza Kiwami 3 & Dark Ties Review - A Familiar Fight  Game InformerYakuza Kiwami 3 & Dark Ties Review  IGNWith Kiwami 3, Yakuza enters its George Lucas Star Wars remake phase  PolygonYakuza Kiwami 3 & Dark Ties review for Nintendo Switch 2  Nintendo EverythingPS5 Remake of Beloved PS3 Action Game Gets Divisive Reviews  PlayStation LifeStyle",
-    "published date": "Mon, 09 Feb 2026 15:18:31 GMT",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPc3N6blFOa2t0NVliVElGTDlSUUlyWmFhN1Nha2ppc2tScFZiWG1vdVBINVpXelZLNTVhdUhjbldFbDl2M0MxNDBGZU16UHJwWnJOT0NuNWZQeVRYTW9LZ0pvNFdlS29tYWs4WmltQ0ZCMkFNcUxSa0gwVERwUUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Snapchat now lets you inform others when you have arrived at your destination - TechCrunch",
+    "description": "Snapchat now lets you inform others when you have arrived at your destination  TechCrunchSnapchat’s safe arrival alerts expand beyond your home.  theverge.comSnapchat Expands Home Safe Alerts to Any Destination  Social Media TodaySnapchat’s New ‘Arrived’ Feature Signals a Broader Push Into Real-World Safety Tools  WebProNewsThis Snapchat Update Helps Parents Worry Less When Kids Are on the Go  Parents",
+    "published date": "Mon, 09 Feb 2026 17:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUGNBWXhjSEVma0hkMDFTdzVmTGVGaVRYSVMwcVI1RkVHOHRSVWoySG9oMExrZzFsWlNLTTc0d1VIS2hkb2xYNmQ3QnROeEhReWQwN2poWEhmb2hmOG5rYU9sZkRuUFJuemx0TXp1ODhxNUNNcXBnM2dJTU9IcU1IOFNyUGxFaV9NNVhyUlBHeEZoNFlHN1k2UnRuODM1d0hmYmRZYjdOamp6NVBZazR1U2FB?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://gameinformer.com",
-      "title": "Game Informer"
+      "href": "https://techcrunch.com",
+      "title": "TechCrunch"
     }
   },
   {
-    "title": "iOS 26.4 beta to arrive in two weeks with AI-enhanced Siri - GSMArena.com news - GSMArena.com",
-    "description": "iOS 26.4 beta to arrive in two weeks with AI-enhanced Siri - GSMArena.com news  GSMArena.comiOS 26.4: Here’s when Apple will release the first beta  9to5MaciOS 26.3 Critical iPhone Update To Land Any Minute Now: Here’s Why It Matters  ForbesA whole new brain for your iPhone may arrive in two weeks — discover how Siri 2.0 will change your daily life  Tom's GuideiOS 26.3 and iOS 26.4 Will Add These New Features to Your iPhone  MacRumors",
-    "published date": "Mon, 09 Feb 2026 10:53:02 GMT",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZWtfaVEtaWMyaDRNaUJkLVVuaGVTMDkzdmN1aHU0T0c5MEdMYy0tUnNpZGpvZmc2WENlQ2NabUxDV0xKdDRXZHFuZG80N3BSWkU0Z3NlY3FoYlEzTWdtNnBaVnBWbnpPTmJkRlVRMVB6Vm5iNWdpZVd3ZktuMnR2WXlNNHFTc3RjVjE1RmNjVFY5SmpiZXpBUGlPOGd0Um9h0gGcAUFVX3lxTE1EcGVSV1pHT3RxZmpGbFA5LW9EM2pmLVJzSGJrUDBUZl8zOXVXSlZadjR2VWpRT1FBMXoyV3JwdDI3TDItZ2lVRnlUaFdwUVhLUk5HRVdVMnNucnVTSG5EVnZEaGdPVVI2NDRJdFFJekF4bmw0N1pFYUhlSXhMZERENWJpNmhSbHpyVVBLQ29OaEV0NTc5R3l4VXV0Sg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Revealed: The new Defiler stomps onto the battlefield - Warhammer Community",
+    "description": "Revealed: The new Defiler stomps onto the battlefield  Warhammer CommunityWarhammer 40K: What Is GW Doing With Chaos Mutilators?  Bell of Lost SoulsWarhammer 40K Reveals New Deadly Chaos Unit: What Are Chaos Mutilators?  FandomWireGames Workshop Unveils Striking New Chaos Defiler  Evrim AğacıWarhammer 40k unveils a new Chaos Defiler after 23 years, and it's hideous-er than ever  wargamer.com",
+    "published date": "Mon, 09 Feb 2026 14:57:24 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSTZrU3lldVBUOHgwdTJsRS1JY3NPVFZUZDdHZTZxSFl3R21OUDBBMFRoM0tUSTNmWk1fUVdwQ0N4Zm9mdFJQVHIxVTVENlEwWEhEUjc4Sm92cEVVNUw1NnE1ampGMnc1dHJremNHdTE4YmxsVXBVV20wdFhDTHpXb2Q1VURiYzRkdkI5ZXZjQ0x4LXllN1haS1BMYXpOVm1uYWdNVkFEVHZJNENaWVo0VHVfUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.gsmarena.com",
-      "title": "GSMArena.com"
+      "href": "https://www.warhammer-community.com",
+      "title": "Warhammer Community"
     }
   },
   {
-    "title": "Samsung may have indirectly revealed Galaxy S26 launch date - SamMobile",
-    "description": "Samsung may have indirectly revealed Galaxy S26 launch date  SamMobileSamsung Galaxy S26 Ultra Release Date Latest: What To Expect And When  ForbesGalaxy S26's rumored wireless charging upgrade has a major catch  androidcentral.comSamsung killed Galaxy S26 upgrades to avoid a price hike – leaks say it didn’t work  9to5GoogleSamsung Galaxy S26 Ultra: Game-Changing AI, But at What Cost?  Geeky Gadgets",
-    "published date": "Mon, 09 Feb 2026 14:49:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSXh1VVMtUjNTOXREY1gwbzI1aFhxZkZlM29VY09iYk5WN0lCNXd1Z2wtLVBVMG1QaWJrZUlpWUs4VmVIM3FwSjJXZzN4U1NndFpNQlN3ajZtMWZuaFJISDlHUlMyUDNuX0hBeldaNlRURTF6c0RrUTZMcm9GVFRFaFFuZ1FPWlpneWdVOUg4d0RBT1JSLVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "PS5 Remake of Beloved PS3 Action Game Gets Divisive Reviews - PlayStation LifeStyle",
+    "description": "PS5 Remake of Beloved PS3 Action Game Gets Divisive Reviews  PlayStation LifeStyleYakuza Kiwami 3 & Dark Ties Review - A Familiar Fight  Game InformerYakuza Kiwami 3 & Dark Ties review for Nintendo Switch 2  Nintendo EverythingYakuza Kiwami 3 & Dark Ties Review  IGNYakuza Kiwami 3 Day One Update Has Fixed Kubochi River; Comparison Shows It's a Day & Night Difference  MP1st",
+    "published date": "Mon, 09 Feb 2026 18:52:06 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc2lVMjBtSmVDLWxJRkZVUU1qN3dBOUNGUVA3WF9lTFFCVGZWRFkzTXdQVkxCNnZCUEQ4U0ExZzFyMTd2bHFrWHl3WXRQX1AtTTU3YjM1eG0xOWI1U3o4eTVfQWo4bDhGbkd0MDNESlVqbWU1LV9Nb1k0UkxxdEtBczgwUUFjZ3JJQkxvSHViUHVzYTExTFowLURvOHhkdlVPSjM1NC1iQ1FET2510gGyAUFVX3lxTE5wZmZhcXc5cXJMZkgzUHM5eWlVZXNESm9aaE9hU3lqOHNSeUh4c0hEb3otTkx2Zzh1Y29OWU96Sl9hWWprbWs5dDB4Vi1HcVFzUkFUTFhOUF9pVVhNU3hQSHZiQ3d2a2M0UHB6QWFSZ29GSGdCSlVIM0d3YVFjYnJhZXgtbGVTakhmQVVndTJxQk94U1MxaGk0WHYwY2ljWHdzN1dTdkNjNV9WWmRzcmRFckE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.sammobile.com",
-      "title": "SamMobile"
+      "href": "https://www.playstationlifestyle.net",
+      "title": "PlayStation LifeStyle"
     }
   },
   {
-    "title": "This Maryland lab’s quantum computer could cure cancer — and steal passwords - The Washington Post",
-    "description": "This Maryland lab’s quantum computer could cure cancer — and steal passwords  The Washington Post",
-    "published date": "Sun, 08 Feb 2026 18:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObk1ZSUZyaDhIbjdmTk9EYV9fYkE0eDJCVW8xbHQtZWtDMlp3d2tVU3A3ZUFkV1FHa1BnOU5CbUNrTGxNYzhGNm8yTGFfVVUyX2N2MzN0bkpGVGdReW5mVXhhemNrTEJ6TGoxSVlaeC04Rjl4WU54bUo0U3Z5Wl85SmdLaGo5R0dBRTF4dGk1XzBUTmEzNUdMeFFUeWF0VHRsdko3ZGItcUZFbVJtZUNpeHdVUndyaWJ1VHh2VU13?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Four Spark Plugs, Eight Pistons, One Stroke: How The INNengine E-REX Promises To Be Different - Jalopnik",
+    "description": "Four Spark Plugs, Eight Pistons, One Stroke: How The INNengine E-REX Promises To Be Different  Jalopnik",
+    "published date": "Mon, 09 Feb 2026 21:25:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ0VTMHQ2VXdZOTZILU9RWWdLbG13ZFZCaEhPX3ZiZ1N5SHJ3dWFwamZvVU42RktPOEZndkZ6RzJUV3dSazhGanlPVGMtREpSdUZXTVZTenA1ajlleThVQnMycU9Sa3pLWVhNbUZBR09TXzhad05FcWFfNDl2dmpRWHRtTXNvRVFlRThEUnhR?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.washingtonpost.com",
-      "title": "The Washington Post"
+      "href": "https://www.jalopnik.com",
+      "title": "Jalopnik"
+    }
+  },
+  {
+    "title": "Taking Inventory: Fishing Rod - Minecraft",
+    "description": "Taking Inventory: Fishing Rod  Minecraft",
+    "published date": "Mon, 09 Feb 2026 16:05:55 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mbldfai01RFdaUTlnQmNWZVR0a0w2aGhnNTZESFFTUS11MjVwaG5rTHF3Mkt0SGV5LVliZEV4R3hTVUxpMlJyUHVLLWVRVmpDa1dHT3lmdDlwX2dvYTgtSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.minecraft.net",
+      "title": "Minecraft"
     }
   },
   {
@@ -220,13 +210,23 @@
     }
   },
   {
-    "title": "Highly anticipated cyberpunk platformer Replaced gets demo, and you can play it this week - Eurogamer",
-    "description": "Highly anticipated cyberpunk platformer Replaced gets demo, and you can play it this week  EurogamerReplaced Final Preview: You Might Think You Know What It Is, But I Promise You Don’t  IGNWe played two hours of Replaced, the next big Game Pass game — here's what we think  PolygonReplaced's Final Previews Are In, And We Could Be In For A Big Surprise On Xbox Game Pass  Pure XboxThe Replaced demo will be available on PC on February 11  Instant Gaming News",
-    "published date": "Mon, 09 Feb 2026 14:14:56 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRGR5eWxiRkRESWYxektTa3FPYjFhTHlHSEFKcnBkTG9jek5BUmJWbVBDaDYtVkh1YlpwX2ZBQ0NmMkhzZXhtekFiVjRtdTVLWjBpTUYxTld2ZG5uQW1vSzlQTlpzZmI4V3NISFduS3hPZm1PSTRnRk5fTzc4VUhNcFlMcTJQd3I4Ui1KdDRrM0E4ZlVZUUdTTjhncmhHbWNObWlTUGNVSzRFQWY1bGpJdExubW0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "iOS 26.4 beta to arrive in two weeks with AI-enhanced Siri - GSMArena.com news - GSMArena.com",
+    "description": "iOS 26.4 beta to arrive in two weeks with AI-enhanced Siri - GSMArena.com news  GSMArena.comiOS 26.4: Here’s when Apple will release the first beta  9to5MaciOS 26.3 Critical iPhone Update To Land Any Minute Now: Here’s Why It Matters  ForbesA whole new brain for your iPhone may arrive in two weeks — discover how Siri 2.0 will change your daily life  Tom's GuideiOS 26.3 and iOS 26.4 Will Add These New Features to Your iPhone  MacRumors",
+    "published date": "Mon, 09 Feb 2026 10:53:02 GMT",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZWtfaVEtaWMyaDRNaUJkLVVuaGVTMDkzdmN1aHU0T0c5MEdMYy0tUnNpZGpvZmc2WENlQ2NabUxDV0xKdDRXZHFuZG80N3BSWkU0Z3NlY3FoYlEzTWdtNnBaVnBWbnpPTmJkRlVRMVB6Vm5iNWdpZVd3ZktuMnR2WXlNNHFTc3RjVjE1RmNjVFY5SmpiZXpBUGlPOGd0Um9h0gGcAUFVX3lxTE1EcGVSV1pHT3RxZmpGbFA5LW9EM2pmLVJzSGJrUDBUZl8zOXVXSlZadjR2VWpRT1FBMXoyV3JwdDI3TDItZ2lVRnlUaFdwUVhLUk5HRVdVMnNucnVTSG5EVnZEaGdPVVI2NDRJdFFJekF4bmw0N1pFYUhlSXhMZERENWJpNmhSbHpyVVBLQ29OaEV0NTc5R3l4VXV0Sg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.eurogamer.net",
-      "title": "Eurogamer"
+      "href": "https://www.gsmarena.com",
+      "title": "GSMArena.com"
+    }
+  },
+  {
+    "title": "Google experiments with locking YouTube Music lyrics behind paywall - Ars Technica",
+    "description": "Google experiments with locking YouTube Music lyrics behind paywall  Ars TechnicaYouTube Music lyrics now require a Premium subscription  9to5GoogleYouTube Music starts putting lyrics behind a paywall  theverge.comYouTube Music users now have to pay for a premium subscription to use a feature that was once free (UPDATE)  PhoneArenaYouTube Music starts pulling the plug on lyrics for free users  Android Police",
+    "published date": "Mon, 09 Feb 2026 20:40:13 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQajFmUTV1d1VLQ28zbFZMWk1JbVI4b3ZzbkltZDRoc0x2WGFvdTdzSXRlUmJMa0hmYVljT3RWRW5hNVpmMEl2dWhPWEl1NndmLWdoVUxqXzlTdWpsbG5Mc2JIMS1TWTZzcDB0UkxzWHFJeWE5YXduMjZxdzRQaGpyTzVsQkRnUnFTNWJmT0dUaXB3QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://arstechnica.com",
+      "title": "Ars Technica"
     }
   },
   {
@@ -250,13 +250,103 @@
     }
   },
   {
+    "title": "Leak suggests Apple’s M5 Pro and M5 Max may be the same chip - 9to5Mac",
+    "description": "Leak suggests Apple’s M5 Pro and M5 Max may be the same chip  9to5MacReport: New Macs are coming soon (for real this time)  MacworldApple MacBook Rumors: New M5 MacBook Pros Could Be Here Soon  CNETLaunch event in first week of March may bring M5 MacBook Pro refresh  AppleInsiderWhy an M5 MacBook Pro launch in March keeps the M6 OLED dream alive this year  9to5Mac",
+    "published date": "Mon, 09 Feb 2026 13:11:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOTRBZUNiMXBBSVI2WlR3YTh0U1ZUWGNybHkwMU9KRjc5WXZYbGpKUVpSc0dqeHRVSXhIdmliOEQySmQ2MUNNcU9TbUZiOE0zNHpyN3hLczdQQ29NMndhOWNXY3RDTm5tNUJTZ01NczJqNEdXTDM4blBNUnJSWmJvdXkwNnVEOTN4OWQ4S3FIV09lNmZmTnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://9to5mac.com",
+      "title": "9to5Mac"
+    }
+  },
+  {
+    "title": "Report: Imminent Apple hardware updates include MacBook Pro, iPads, and iPhone 17e - Ars Technica",
+    "description": "Report: Imminent Apple hardware updates include MacBook Pro, iPads, and iPhone 17e  Ars TechnicaApple Prepares to Kick Off 2026 With the iPhone 17e, New iPads and Macs  bloomberg.comApple Is About to Release a Flood of New Products — Here’s What’s Coming  EntrepreneurThe Launch of the iPhone 17e Is Reportedly Imminent  GizmodoThe iPhone 17e will reportedly bring some key upgrades without raising the price  Engadget",
+    "published date": "Mon, 09 Feb 2026 15:28:40 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZzVUWTlHeHNPYXMwbGlGTGNKc05iRUNzNTlBSXB3Sk5lVEItdEk2ZVRWazBsSk1LRzlUODh0WC01T0VTN25ITHhoaFRxRmt4QmpTTlZ3cnJPZnVIcHNDendHSDIxd09naUVsTVp6aXpkRnNoQ0hVRzlBWVdmMDRYR3pZRlRzVU0yN1d1YlVqTlJHRmM4RWp1ZURnRF9RS0h3UVFBVlVDSGpiQlNoOVhJVTgzWlFMdlBySDdzZQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://arstechnica.com",
+      "title": "Ars Technica"
+    }
+  },
+  {
+    "title": "7 Electronics You Should Try To Buy From Costco (And Why) - SlashGear",
+    "description": "7 Electronics You Should Try To Buy From Costco (And Why)  SlashGearTop 7 Electronics to Purchase at Costco: Here’s Why  FilmoGaz5 New Electronics You Can Buy At Costco In 2026  SlashGear",
+    "published date": "Mon, 09 Feb 2026 13:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xdzZWd08tdzNsRG9ZUmRHSi0zRnYwd2I4ZkJuaGFxU2NONndzTVh6TEZQR19SOWNab3FCazdCaXJSTzFBOU52aVRrOWtMalFLdHBIVW9MZ1BqU25FamQxcVJzM2gxMGIwWjh2WWpQZUNGanlVbUhMeA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.slashgear.com",
+      "title": "SlashGear"
+    }
+  },
+  {
+    "title": "Primal Carnage: Evolution now available - Gematsu",
+    "description": "Primal Carnage: Evolution now available  Gematsu",
+    "published date": "Mon, 09 Feb 2026 17:49:49 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1rYnBXcWJ1aWNwT0Y3eVBEY1c2SXBUUnFfTnVISjRGNzVaODZtVUJqSVNUcWFNYnVnRnBNWG5RcWw5QUxEN2VQQXJYV1lxYVYta0ZXYnJfWXNEelY0M05XVkZELVJWTTNGQlhRdDNWYmZSbWdXdW50dHdB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.gematsu.com",
+      "title": "Gematsu"
+    }
+  },
+  {
+    "title": "Some Thoughts On NASA’s New Workforce Directive - NASA Watch",
+    "description": "Some Thoughts On NASA’s New Workforce Directive  NASA WatchNASA to Grow Civil Servant Workforce Under Isaacman  payloadspace.comNASA chief aims for $1 billion savings, stops subcontractor hires  CW39 HoustonRevitalizing NASA: Restoring Essential Workforce Skills  FilmoGazNASA seeks to bolster workforce, reduce reliance on contractors  SpaceNews",
+    "published date": "Mon, 09 Feb 2026 01:11:28 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTFZIUlRqMjlwQ1o0Y3drRm9zbG1idFpJTXdveFJKYzlUSzkwcTdnOUtkcjExbU9oUWhTVGRCdi1nazFxYVR1MFI0dWZ0OE92RzdUcW1DTDV2VG1Zd05oQm9hZVZZUkFOaTFMcHBPSmJZWGt3a2ExU0tONXNWVUJmTzZHN29ZeWlaWFozZ3VaYWNjMGUtUnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://nasawatch.com",
+      "title": "NASA Watch"
+    }
+  },
+  {
+    "title": "How bad is our e-waste problem when $500 of RAM is getting tossed? - Windows Central",
+    "description": "How bad is our e-waste problem when $500 of RAM is getting tossed?  Windows Central",
+    "published date": "Mon, 09 Feb 2026 15:30:49 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTnkwWDA4WGxQV2dsWnpaX0lMeTBfUllUakdOS0tMR19wU1pSXzJZaldxbTJOZDRSdW1kTjJ2Vnk0b1NuTmNRX3dEc2R2UUZYOFk3SE5qYjUyS08xS1M4TV9iSkJkNTFYMGxuS0tYVFJjM3V4ckt4bloxVWtsMWExTWdGTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.windowscentral.com",
+      "title": "Windows Central"
+    }
+  },
+  {
+    "title": "Turn Your Car's Infotainment Center Into A Smart TV With This $60 USB Gadget - bgr.com",
+    "description": "Turn Your Car's Infotainment Center Into A Smart TV With This $60 USB Gadget  bgr.com",
+    "published date": "Mon, 09 Feb 2026 16:17:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRkRiMk51bkhoT3FqWTZtcm5YaTFoLU11eW1nWkYxSlYtWkV3bW1uX1ZOWERGVlhrLW1rczRiTkZYaGdnYWFUaHdtNDVBclVCT3g1MmZNOEt3STVpYW5JSEpULWROc0ltdmFYSC1jZlo0cGdra1ZIRXA1WWpxa3JvWlJsc2RHcmFSQUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bgr.com",
+      "title": "bgr.com"
+    }
+  },
+  {
     "title": "Report: Cancelled LOTR Game by Eidos-Montréal With a Telltale-like Story First Look - MP1st",
-    "description": "Report: Cancelled LOTR Game by Eidos-Montréal With a Telltale-like Story First Look  MP1stImages From The Canceled Telltale-Inspired Lord Of The Rings Game Surface Online  TheGamerTomb Raider Makers’ Scrapped Lord of the Rings Game Surfaces in Stunning Screenshots  Tech4GamersFirst Look: Eidos-Montréal's Cancelled Lord of the Rings Game Revealed  FilmoGaz",
+    "description": "Report: Cancelled LOTR Game by Eidos-Montréal With a Telltale-like Story First Look  MP1stImages From The Canceled Telltale-Inspired Lord Of The Rings Game Surface Online  TheGamerTomb Raider Makers’ Scrapped Lord of the Rings Game Surfaces in Stunning Screenshots  Tech4GamersFirst Look: Eidos-Montréal’s Cancelled Lord of the Rings Game Revealed  FilmoGaz",
     "published date": "Mon, 09 Feb 2026 18:01:15 GMT",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUUh0OUpNOXd6Y0ZKM2tLdUl1VW1VQlBhdzU4MThVdnVPeVpkRW1yRktYSTYxYXJta0Y2RWh1N2ZEZFplbmJIYnpvSnVYV0V2c2J1R04wSkpPa0J1TVRMTEdiQk9tckZOalV4QjBwS2ZYUzdtNmp6bXkxQkYtRGxyR1BUbEU4UnQxdGNCVVJmN2tKemZ3REIzb3V0VmtmMktjV1VDYWowQTc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://mp1st.com",
       "title": "MP1st"
+    }
+  },
+  {
+    "title": "As Helldivers 2 sends players in to destroy the Cyborg menace, Arrowhead details its plans for the future of the game - Eurogamer",
+    "description": "As Helldivers 2 sends players in to destroy the Cyborg menace, Arrowhead details its plans for the future of the game  EurogamerAs Helldivers 2 Launches the Battle for Cyberstan, Arrowhead Says It's Already Plotting to Expand the Scope of the Game  IGNHelldivers 2 rolls out the cyborgs as a barrage of bloodcurdling binary heralds the Machinery of Oppression update  Rock Paper ShotgunRsvsr Bastion Tank Arrives in Helldivers 2: Your New Secret Weapon  vocal.mediaThe Cyborgs are coming back to Helldivers 2—and they're bringing 3 new units armed to the teeth with advanced technology, and also robo-roundhouse kicks  PC Gamer",
+    "published date": "Mon, 09 Feb 2026 16:15:57 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS2czOEZ5VUFYRURoSVd2SFFwbzNhU0RSVWhwSW1keHlGRGpqV3gzVlJ2eVhTbU5Ma1FvYnJXZXRSV3dTUVRURFFwUFk2ZE5sME9meEUzb0hKbHBQQjd4eWdUdkstMk5qZ0dBX2RjaXU1ZnFpTjhFYlUxdkxzUnRWeUFHdUo5N1dZeDFqWg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.eurogamer.net",
+      "title": "Eurogamer"
+    }
+  },
+  {
+    "title": "BlazBlue: Entropy Effect X ‘Story’ trailer, voice cast announced - Gematsu",
+    "description": "BlazBlue: Entropy Effect X ‘Story’ trailer, voice cast announced  GematsuBlazBlue Entropy Effect X Review – Fast, Frenetic and Fierce  COGconnectedBlazBlue Entropy Effect X details characters and voice cast, new story trailer  Nintendo EverythingBlazBlue Entropy Effect X PS5 Review – Awash In The Seas Of Change  psxextreme.comBlazBlue: Entropy Effect X Brings Back Original Voice Cast for New Roguelike Story Arc; New Trailer Streaming Now  Noisy Pixel",
+    "published date": "Mon, 09 Feb 2026 17:00:44 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY1EwMXJ4cHhPY3AwSDZ2RUwxV1pXSG1ucEt6UmQwQmlnRHdNcnFPMlJvLW5FdVRDMmlJTS13d3NqNm9venV3Vzc5aHRYbmF0Rmx2UWpGOHk4dHJDcklOSUdxNG1MX2RvNzNDbFlRUTQ0U0Vob0tUR0ZMcU1aZ1dwWDBfTFNuUGpGRjg0RGhyVTFfYmJSNUY0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.gematsu.com",
+      "title": "Gematsu"
     }
   },
   {
@@ -270,16 +360,6 @@
     }
   },
   {
-    "title": "Some Thoughts On NASA’s New Workforce Directive - NASA Watch",
-    "description": "Some Thoughts On NASA’s New Workforce Directive  NASA WatchNASA to Grow Civil Servant Workforce Under Isaacman  Payload SpaceNASA chief aims for $1 billion savings, stops subcontractor hires  CW39 HoustonRevitalizing NASA: Restoring Essential Workforce Skills  FilmoGazNASA seeks to bolster workforce, reduce reliance on contractors  SpaceNews",
-    "published date": "Mon, 09 Feb 2026 01:11:28 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTFZIUlRqMjlwQ1o0Y3drRm9zbG1idFpJTXdveFJKYzlUSzkwcTdnOUtkcjExbU9oUWhTVGRCdi1nazFxYVR1MFI0dWZ0OE92RzdUcW1DTDV2VG1Zd05oQm9hZVZZUkFOaTFMcHBPSmJZWGt3a2ExU0tONXNWVUJmTzZHN29ZeWlaWFozZ3VaYWNjMGUtUnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://nasawatch.com",
-      "title": "NASA Watch"
-    }
-  },
-  {
     "title": "You have to read this Valve job rejection for a high school teen - Polygon",
     "description": "You have to read this Valve job rejection for a high school teen  Polygon",
     "published date": "Mon, 09 Feb 2026 19:30:54 GMT",
@@ -290,73 +370,23 @@
     }
   },
   {
-    "title": "BlazBlue: Entropy Effect X ‘Story’ trailer, voice cast announced - Gematsu",
-    "description": "BlazBlue: Entropy Effect X ‘Story’ trailer, voice cast announced  GematsuBlazBlue Entropy Effect X rated for Nintendo Switch 2  My Nintendo NewsBlazBlue Entropy Effect X details characters and voice cast, new story trailer  Nintendo EverythingBlazBlue: Entropy Effect X Brings Back Original Voice Cast for New Roguelike Story Arc; New Trailer Streaming Now  Noisy PixelBlazBlue Entropy Effect X Reveals Star-Studded Japanese Voice Cast  Final Weapon",
-    "published date": "Mon, 09 Feb 2026 17:00:44 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY1EwMXJ4cHhPY3AwSDZ2RUwxV1pXSG1ucEt6UmQwQmlnRHdNcnFPMlJvLW5FdVRDMmlJTS13d3NqNm9venV3Vzc5aHRYbmF0Rmx2UWpGOHk4dHJDcklOSUdxNG1MX2RvNzNDbFlRUTQ0U0Vob0tUR0ZMcU1aZ1dwWDBfTFNuUGpGRjg0RGhyVTFfYmJSNUY0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "My dead Xbox ROG Ally X is going back to ASUS — already - Windows Central",
+    "description": "My dead Xbox ROG Ally X is going back to ASUS — already  Windows Central",
+    "published date": "Mon, 09 Feb 2026 19:01:18 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM1VIWVJCV09uYXFQb0VHd1RveG92S1JNV3dFN3d0NXpMSDBZRUt3RWhSYTNrcUdKNjlKR2NWTDY3bnhWd05DVVYxcEdXUnllemtZWjRYYndOcHJjOHpyVDloMEJOQkNMeGQ5d1dVWEpaZDlTa0JsVk5ydVgwTUJEWXRyTnB3ZW5iWUxhTWItdExqc1JrNnVtVWM0UzFqaGpvd01UMDlqS2MtXzlqM0FDXzdSSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.gematsu.com",
-      "title": "Gematsu"
+      "href": "https://www.windowscentral.com",
+      "title": "Windows Central"
     }
   },
   {
-    "title": "Logitech MX Master 4 review: the best work mouse you can buy - The Guardian",
-    "description": "Logitech MX Master 4 review: the best work mouse you can buy  The GuardianThree “Mice” Cody Can’t Wait to Play With  nag.co.zaLogitech MX Master 4 review: A natural evolution  The Times of IndiaI review peripherals for a living: Here’s the truth about the Logitech MX Master 4  Tom's GuideReview: Logitech MX Master 4 – The Ultimate Work Mouse | Gadgets  FilmoGaz",
-    "published date": "Mon, 09 Feb 2026 07:02:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMTM5X1lKOUZMV29mNHZNTmFQOUJIUFpMdEQzV2FJUS13VE5Ic0tEYWVFMVNZM2RONmRVOGtHTjE3cjFIMkFDMm1zX0FYb29UWktXR19EalhqQlozWTE2UUp0TXlxRmFLZlV4ZW5nSVloanA4QjdTV3hLdVJMNTN6OVRMcEliUUlLVDh6RXRsaDVJTlVqUWVJRldndVV5U1huMi1UVWltSEFhQ0RJNmE4?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Mario Tennis Fever's Opening Movie Is As Cinematic As They Come - Nintendo Life",
+    "description": "Mario Tennis Fever's Opening Movie Is As Cinematic As They Come  Nintendo LifeThe 10 Best Mario Sports Games  IGNMario Tennis Fever opening movie released  Nintendo EverythingRound Up: The Final Previews Are In For Mario Tennis Fever  Nintendo LifeThis Week in Switch 2 - Mario Tennis Fever preview, Nintendo earnings reaction & Dispatch censorship  Shacknews",
+    "published date": "Mon, 09 Feb 2026 11:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMDF2OHozMmlBd3YwSnBMeU9ZOEx2Y0M2OHlBRjFlSDExN1Q1MEV5dkRxbGwxTlVjQ2N0ZnNpZ2ZYVWpJWDF1UlBRb1BiY2N0Z2tKT0pWWlJkZzlJcDR4Smh2QkdjZkZBSF9IX1Z1OU1kaGRaVWYzODJ3ZlJZcndWNlp6ZWRJQ081S25kQU9HY0pnY1lXX0JLSWZiYmxyY3gtRXFFS1NfRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.theguardian.com",
-      "title": "The Guardian"
-    }
-  },
-  {
-    "title": "Mewgenics dev held the most cringe contest ever, and I love it - Polygon",
-    "description": "Mewgenics dev held the most cringe contest ever, and I love it  Polygon",
-    "published date": "Mon, 09 Feb 2026 10:58:48 GMT",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OY20wNzZINFFuX0V4X2pCMUV3QndfYS1aQ2tELWFDZ1pEb1kzTlRaZF9YUnZ0OENXNXJ3bnc0TlFOSHN6UmZVVUYzNGNRcXNMWURJbWlVM215OUtqZHZKc0VHRm5UaEJZR2ZEek4tcTdUVE0?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.polygon.com",
-      "title": "Polygon"
-    }
-  },
-  {
-    "title": "As Helldivers 2 sends players in to destroy the Cyborg menace, Arrowhead details its plans for the future of the game - Eurogamer",
-    "description": "As Helldivers 2 sends players in to destroy the Cyborg menace, Arrowhead details its plans for the future of the game  EurogamerAs Helldivers 2 Launches the Battle for Cyberstan, Arrowhead Says It's Already Plotting to Expand the Scope of the Game  IGNHelldivers 2 rolls out the cyborgs as a barrage of bloodcurdling binary heralds the Machinery of Oppression update  Rock Paper ShotgunThe Cyborgs are coming back to Helldivers 2—and they're bringing 3 new units armed to the teeth with advanced technology, and also robo-roundhouse kicks  PC GamerRsvsr Bastion Tank Arrives in Helldivers 2: Your New Secret Weapon  vocal.media",
-    "published date": "Mon, 09 Feb 2026 16:15:57 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS2czOEZ5VUFYRURoSVd2SFFwbzNhU0RSVWhwSW1keHlGRGpqV3gzVlJ2eVhTbU5Ma1FvYnJXZXRSV3dTUVRURFFwUFk2ZE5sME9meEUzb0hKbHBQQjd4eWdUdkstMk5qZ0dBX2RjaXU1ZnFpTjhFYlUxdkxzUnRWeUFHdUo5N1dZeDFqWg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.eurogamer.net",
-      "title": "Eurogamer"
-    }
-  },
-  {
-    "title": "Animal Crossing started life as a dungeon crawler - theverge.com",
-    "description": "Animal Crossing started life as a dungeon crawler  theverge.com",
-    "published date": "Mon, 09 Feb 2026 13:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZFAxbW9MUXA4dmJ1dDVFbW45bVI0STdfNXEyTF9xZnAzSGE0eUgyakpjSUxxUWE0T2FqTG1uTlkxYjlkdWpWbHJJbG5jVFJWclowejJ0SGUzOG5lQWlqaHJ1M3RJNDU3VC1jbDJwVWdEOVdQc3ZYVlJsWHo0T1o5TmJQeUxkbllzUnhFbE5YVEI4NVpwUEl5S25RNTc4dnVxak9jRmg4dw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theverge.com",
-      "title": "theverge.com"
-    }
-  },
-  {
-    "title": "Blizzard's Latest Attempt at a StarCraft Shooter Reportedly in Development at Nexon - IGN",
-    "description": "Blizzard's Latest Attempt at a StarCraft Shooter Reportedly in Development at Nexon  IGNStarCraft Franchise's Rumored Revival Linked to Nexon + Blizzard Partnership  TechPowerUpNexon’s StarCraft Game Might Not be an RTS, But The Rumoured Upcoming StarCraft Shooter  WccftechIs Blizzard hiring vehicle engineers for the StarCraft FPS?  Windows CentralReport Claims Nexon Is Developing Long-Rumored StarCraft Shooter  Twisted Voxel",
-    "published date": "Mon, 09 Feb 2026 16:55:08 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM3VNaGRqVlFIZmVtbEh1UTZxTkpDcDd4NUtPU0JXMkdPRUJXRHlFVGJwOF9tRzJkV0h5bXBQbTc0bXMxakFjT0VQNlVqTDhrUTdsU1R5Z0VkMFNaTXlEXzNwZ3NwYmhrMEJ2a0xTblJlUkpXUFc4eFBuTUg4OGFvUDRicEtQM3l1NEkxS244TFhfR1lUeGpXalhIc1AxSDByQmpCbVpOeEJlZUdxU1dCMw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ign.com",
-      "title": "IGN"
-    }
-  },
-  {
-    "title": "Fan Tribute To League Of Legends And Arcane Slammed As ‘Soulless And Deeply Disrespectful’ - Kotaku",
-    "description": "Fan Tribute To League Of Legends And Arcane Slammed As ‘Soulless And Deeply Disrespectful’  Kotaku",
-    "published date": "Mon, 09 Feb 2026 16:32:02 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbm1FREFUVFI5SUQzSmhMSFU0Q2puYzF4eEs5cHBsWW9pdVpTc3pINFY1UXlONWZaUWtfUHV4UTN0MldBdmljck1jV1pSYkdTaEVuZzBQMndQRE9nZFBfR1dfeTlGUm1GaTB2anNGSzB2WHRBcXN2V1RMSlZvV2JkNjVDc0VZek9jdFhOXzEyOA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://kotaku.com",
-      "title": "Kotaku"
+      "href": "https://www.nintendolife.com",
+      "title": "Nintendo Life"
     }
   },
   {
@@ -380,6 +410,26 @@
     }
   },
   {
+    "title": "Xbox sale round-up February 10, 2026 - TrueAchievements",
+    "description": "Xbox sale round-up February 10, 2026  TrueAchievementsXbox Drops Multiple Games To Their 'Lowest Price Ever' In Five New Sales  Pure XboxXbox 360 Games Are Just $4 on Xbox Store Right Now  ComicBook.comFive cheap Xbox games under $10 to grab in the new Xbox sales  TrueAchievementsMultiple new Xbox sales now live with big discounts on AAA games  TrueAchievements",
+    "published date": "Tue, 10 Feb 2026 00:07:59 GMT",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uV29Ec3RlYm1xQjJ0eG9STGRwUnd1ZFBiaWdkR2RWYjhsMWlpX1pLMzdFMDVzTlNfNDBqMnhtajZqb0ZBbXJlWFhGVS03R29BZnczYmRGdU5adnN6Y21nSjc1VzhNQnJfcFJPQmJqRWFEczJjYU1Yb01leWtoSVU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.trueachievements.com",
+      "title": "TrueAchievements"
+    }
+  },
+  {
+    "title": "Mewgenics Review - IGN",
+    "description": "Mewgenics Review  IGNMewgenics – Review In Progress  Game InformerMewgenics review – infinite ways to skin a cat  The Guardian‘Mewgenics’ Lands The Best Metacritic Score Of 2026, So Far  ForbesMewgenics creator says it will take 'months or years' to find every secret in the game  Polygon",
+    "published date": "Mon, 09 Feb 2026 22:04:50 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZY0ljMy1sRDQ3U3ZkOGtmQXQtcUtGLVRFVDh0TGpVNkJvWUhhZEZNRkNDUU1Kdkp4aE1RNlIxZjJwb0h1Q3pMekcydlplZGtmYzNEWEJ0MWk?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ign.com",
+      "title": "IGN"
+    }
+  },
+  {
     "title": "4 Handy Amazon Gadgets To Upgrade Your Garage - SlashGear",
     "description": "4 Handy Amazon Gadgets To Upgrade Your Garage  SlashGear5 Handy Costco Gadgets To Upgrade Your Smart Home  SlashGear5 Cool Costco Finds That Can Help You Build Your Own Smart Garage  bgr.comDon’t forget about your garage when creating your smart home  How-To GeekUpgrade Your Garage with These 4 Essential Amazon Gadgets  FilmoGaz",
     "published date": "Sun, 08 Feb 2026 17:15:00 GMT",
@@ -387,6 +437,76 @@
     "publisher": {
       "href": "https://www.slashgear.com",
       "title": "SlashGear"
+    }
+  },
+  {
+    "title": "Mewgenics dev held the most cringe contest ever, and I love it - Polygon",
+    "description": "Mewgenics dev held the most cringe contest ever, and I love it  Polygon",
+    "published date": "Mon, 09 Feb 2026 10:58:48 GMT",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OY20wNzZINFFuX0V4X2pCMUV3QndfYS1aQ2tELWFDZ1pEb1kzTlRaZF9YUnZ0OENXNXJ3bnc0TlFOSHN6UmZVVUYzNGNRcXNMWURJbWlVM215OUtqZHZKc0VHRm5UaEJZR2ZEek4tcTdUVE0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.polygon.com",
+      "title": "Polygon"
+    }
+  },
+  {
+    "title": "5 Linux servers that let you ditch the public cloud and reclaim your privacy - for free - ZDNET",
+    "description": "5 Linux servers that let you ditch the public cloud and reclaim your privacy - for free  ZDNET",
+    "published date": "Mon, 09 Feb 2026 15:42:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQzlFel9tUWxnWDFuME5hckFnVDJ6Vmk0NXRIb0tpaHZ6akRsOFkyX2RWS0w2V1o1a1FxckR5cldzOVVKSWhleUc0Ql9nQmRVXzY2cDRXOVpVVy0yYVNFM0ZVSWNSNzkwWXBHWWQtQWZnSDdSQzZHdS1idXBLNUNVSzFHZ3hncjBPNUgtU2dRMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.zdnet.com",
+      "title": "ZDNET"
+    }
+  },
+  {
+    "title": "Blizzard's Latest Attempt at a StarCraft Shooter Reportedly in Development at Nexon - IGN",
+    "description": "Blizzard's Latest Attempt at a StarCraft Shooter Reportedly in Development at Nexon  IGNStarCraft Franchise's Rumored Revival Linked to Nexon + Blizzard Partnership  TechPowerUpNexon’s StarCraft Game Might Not be an RTS, But The Rumoured Upcoming StarCraft Shooter  WccftechIs Blizzard hiring vehicle engineers for the StarCraft TPS?  Windows CentralKoreans are developing a new StarCraft, but it's not a real-time strategy - insider  IXBT.games",
+    "published date": "Mon, 09 Feb 2026 16:55:08 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM3VNaGRqVlFIZmVtbEh1UTZxTkpDcDd4NUtPU0JXMkdPRUJXRHlFVGJwOF9tRzJkV0h5bXBQbTc0bXMxakFjT0VQNlVqTDhrUTdsU1R5Z0VkMFNaTXlEXzNwZ3NwYmhrMEJ2a0xTblJlUkpXUFc4eFBuTUg4OGFvUDRicEtQM3l1NEkxS244TFhfR1lUeGpXalhIc1AxSDByQmpCbVpOeEJlZUdxU1dCMw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ign.com",
+      "title": "IGN"
+    }
+  },
+  {
+    "title": "World’s End Club now available for Xbox Series, Xbox One - Gematsu",
+    "description": "World’s End Club now available for Xbox Series, Xbox One  GematsuA Japanese game “not coming to Xbox” just launched on Xbox  Windows CentralSidescrolling Action ‘World’s End Club’ Out Now on Xbox Consoles  XboxEraFrom Danganronpa Creators – World’s End Club Begins Its Journey On Xbox  TheXboxHubWorld’s End Club Quietly Releases on Xbox Series X|S & Xbox One  Windows Report",
+    "published date": "Mon, 09 Feb 2026 16:17:48 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNUYtUUJfR3Jxd0xHYU1STHQ3bTZGZHl2WldjeUF3dk84ZFJBZmgyR2JjZFNMTkxaQTllZVdrbENZTTNOcE9pdFFkc3BTenRXaV8yVy1xQ2VWQ1JPdG5IbVNEY3BxTmdKUzJzV0dRcXFOZl8wcTlQSjBGTndzUXpXWnhJc0VnaWpzeHdfcU9tQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.gematsu.com",
+      "title": "Gematsu"
+    }
+  },
+  {
+    "title": "Control developer Remedy names former EA exec as new CEO - Game Developer",
+    "description": "Control developer Remedy names former EA exec as new CEO  Game DeveloperRemedy appoints former EA VP Jean-Charles Gaudechon as new CEO  GamesIndustry.bizRemedy's new CEO is a former sports betting guy and EA executive who aims to 'scale Remedy in a way that builds lasting value'  PC GamerRemedy Appoints Former EA Exec as CEO  Insider GamingRemedy Finds New CEO in Former EA Exec Jean-Charles Gaudechon  IGN",
+    "published date": "Mon, 09 Feb 2026 16:49:42 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT082ZGR0WlJ3bElfQmdYV2lmQzN3RWp4SmFPOWJXOHoyTTBJWUJzTTZxVTNDY0tVTk9KNE1vLS1YckZIRGEyOWVTemdwVzVhd19SS3pvcHU0b1ZIZUlRQU5ZTkdXXzBNZ3VJOU9ja0EwcWZ0RENWa3R4Zm5pTEI4QmhIc0x6NjZzdFRaVWZvV3Fsanl0VXhzZjc5OA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.gamedeveloper.com",
+      "title": "Game Developer"
+    }
+  },
+  {
+    "title": "iOS 27 to Focus on Bug Fixes, Performance, and Design Tweaks - MacRumors",
+    "description": "iOS 27 to Focus on Bug Fixes, Performance, and Design Tweaks  MacRumorsiOS 27 will reportedly focus on fixes over features  MacworldCould Apple really press pause on new features in iOS 27? [Poll]  9to5MaciOS 27 will be a critical update — will your iPhone support it?  Cult of MacApple Unlikely to Drop ‘Liquid Glass’ Design With iOS 27, Report Says  The Mac Observer",
+    "published date": "Mon, 09 Feb 2026 02:45:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSzNVWjhXZEhUZE9JSVBMTG1zZ29pUzg0MUV2MEF6NXVVRzB0MTh5SzNPMzg0ZE9SbDRPM0ctbzdReVFJZ296Q3dSRl9sU1J6aXFHZHgyTjhKeS02NDZKWEFEODdIbVA1U0ZVS09NRndtckpIS0QtRzByUEJWVzZZVmpFbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.macrumors.com",
+      "title": "MacRumors"
+    }
+  },
+  {
+    "title": "Animal Crossing started life as a dungeon crawler - theverge.com",
+    "description": "Animal Crossing started life as a dungeon crawler  theverge.com",
+    "published date": "Mon, 09 Feb 2026 13:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZFAxbW9MUXA4dmJ1dDVFbW45bVI0STdfNXEyTF9xZnAzSGE0eUgyakpjSUxxUWE0T2FqTG1uTlkxYjlkdWpWbHJJbG5jVFJWclowejJ0SGUzOG5lQWlqaHJ1M3RJNDU3VC1jbDJwVWdEOVdQc3ZYVlJsWHo0T1o5TmJQeUxkbllzUnhFbE5YVEI4NVpwUEl5S25RNTc4dnVxak9jRmg4dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theverge.com",
+      "title": "theverge.com"
     }
   },
   {
@@ -400,6 +520,26 @@
     }
   },
   {
+    "title": "Puppy Love Update Patch Notes - Disney Dreamlight Valley",
+    "description": "Puppy Love Update Patch Notes  Disney Dreamlight ValleyView Full Coverage on Google News",
+    "published date": "Mon, 09 Feb 2026 16:36:08 GMT",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pWmdUcENlMU54NHcxVGlSUHhpRERVVFNuZGo1R3l2QUZ6aGs4Q3ZCUjcyZ1hCVF9vOVIweVZZRnBkWmxkaUdiQlpRdUZBSkdqemdnbFczbzh4ckowT1pIbF9WcFlqZTEzWHdCc3Vn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://disneydreamlightvalley.com",
+      "title": "Disney Dreamlight Valley"
+    }
+  },
+  {
+    "title": "Arcane AI Slop Trailer Slammed As ‘Soulless’ And ‘Disrespectful’ - Kotaku",
+    "description": "Arcane AI Slop Trailer Slammed As ‘Soulless’ And ‘Disrespectful’  Kotaku",
+    "published date": "Mon, 09 Feb 2026 16:32:02 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbm1FREFUVFI5SUQzSmhMSFU0Q2puYzF4eEs5cHBsWW9pdVpTc3pINFY1UXlONWZaUWtfUHV4UTN0MldBdmljck1jV1pSYkdTaEVuZzBQMndQRE9nZFBfR1dfeTlGUm1GaTB2anNGSzB2WHRBcXN2V1RMSlZvV2JkNjVDc0VZek9jdFhOXzEyOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://kotaku.com",
+      "title": "Kotaku"
+    }
+  },
+  {
     "title": "Apple’s new ‘MacBook’ is coming: Here’s every rumored feature - 9to5Mac",
     "description": "Apple’s new ‘MacBook’ is coming: Here’s every rumored feature  9to5MacCheaper MacBook with iPhone chip still expected in early 2026  AppleInsiderApple's entry-level MacBook rumored with 8GB RAM: DRAM crisis forced move, priced under $799  TweakTownApple’s renewal of the MacBook line includes low-cost model and Pro versions with M5 chip and OLED screen  Mix ValeApple’s Entry-Level MacBook To Contribute Immensely To The Company’s Computing Revenue; Will Account For 25% Of All 2025 Mac Sales  Wccftech",
     "published date": "Mon, 09 Feb 2026 20:29:00 GMT",
@@ -410,58 +550,28 @@
     }
   },
   {
-    "title": "Nintendo Store App Receives A Small But Welcome Update - Nintendo Life",
-    "description": "Nintendo Store App Receives A Small But Welcome Update  Nintendo LifeNintendo Store App 3.1.0 update out now, patch notes - search results viewable in-app, and more  Nintendo EverythingThe Nintendo Store App Has Been Updated  NintendojoNintendo Store mobile app updated to Ver. 3.1.0  GoNintendoNintendo Store App Updated to Version 3.1.0  Final Weapon",
-    "published date": "Mon, 09 Feb 2026 15:47:57 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNVVZaG4wa01LNkNwVXJ6OUs5VEVKbWp2bG9OT1NocGNMX3dvbHFwRnRwQ1lLRjVYTEQ0NGVvb3RnT3FpdEFNMnQtZy1pa191Y1F0N21hU25QR1EyaThRVVdNSlNCT3RWcFlhbHBwcDhkM2Uyc3daTlZ2T3RwbmRfZ1k3UjhHS3hweUlVQVJqTUpuLTczTE9LYmpaVGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "One UI 8.5 rollout turning into a delayed wagon - Sammy Fans",
+    "description": "One UI 8.5 rollout turning into a delayed wagon  Sammy FansSamsung rolling out One UI 8.5 Beta 4 to Galaxy S25 series with these changes  9to5GoogleSamsung's One UI 8.5 beta brings super-powered voicemail to Galaxy phones  Android PoliceOne UI 8.5 is getting more stable before the Galaxy S26 launch, with a nice extra feature  androidcentral.com3 reasons you should try Home Up's latest upgrades on your Samsung Galaxy  Android Authority",
+    "published date": "Sun, 08 Feb 2026 03:57:18 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcEpPQ25hRldWSl9kWWw4c2xNbHVfNDJvRFJPb3FJM0dUNUlaLUwtWGE2UzFTVjljTG9KYTRybWhZek8xTUJFdWUybm9RQ3E5bEtxRWNXb2FUMVRoNDhiSHFIU2lURUNhc0wwSXR5R0F5dXJkWjVtZ1BnRUlUcW1RMjBPVVpXNDFoNm91Sjln0gGTAUFVX3lxTFBWNzRmZjl1cEdZSGVkUTlocDFpT0dabmF6N3NacWxkRG5jYzJTTFgzNW51REVRNzNxdlBWV3R0YjJjZjJ4VmpvVzZyeHZwWEtST3NiRTE3RWpVWkM0ZHlSTUlSZjd6clZKY1FrMEJtdm8tcFpIOFBDYTMwZ3JuTG9rYnlpb3NHbTV5cWZILU9jMDZhbw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.nintendolife.com",
-      "title": "Nintendo Life"
+      "href": "https://www.sammyfans.com",
+      "title": "Sammy Fans"
     }
   },
   {
-    "title": "Leak suggests Apple’s M5 Pro and M5 Max may be the same chip - 9to5Mac",
-    "description": "Leak suggests Apple’s M5 Pro and M5 Max may be the same chip  9to5MacApple MacBook Rumors: New M5 MacBook Pros Could Be Here Soon  CNETReport: New Macs are coming soon (for real this time)  MacworldLaunch event in first week of March may bring M5 MacBook Pro refresh  AppleInsiderM5 Pro and M5 Max MacBook Pros look set to launch in March — but it's the cheap MacBook that has me most excited  Tom's Guide",
-    "published date": "Mon, 09 Feb 2026 13:11:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOTRBZUNiMXBBSVI2WlR3YTh0U1ZUWGNybHkwMU9KRjc5WXZYbGpKUVpSc0dqeHRVSXhIdmliOEQySmQ2MUNNcU9TbUZiOE0zNHpyN3hLczdQQ29NMndhOWNXY3RDTm5tNUJTZ01NczJqNEdXTDM4blBNUnJSWmJvdXkwNnVEOTN4OWQ4S3FIV09lNmZmTnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://9to5mac.com",
-      "title": "9to5Mac"
-    }
-  },
-  {
-    "title": "Mario Tennis Fever's Opening Movie Is As Cinematic As They Come - Nintendo Life",
-    "description": "Mario Tennis Fever's Opening Movie Is As Cinematic As They Come  Nintendo LifeThe 10 Best Mario Sports Games  IGNGet set for Mario Tennis Fever with a look at the full roster!  nintendo.comNintendo Is Finally Taking Advantage of the Switch 2 With This New Game  ComicBook.comCheck out the intro video for Mario Tennis Fever  GoNintendo",
-    "published date": "Mon, 09 Feb 2026 11:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMDF2OHozMmlBd3YwSnBMeU9ZOEx2Y0M2OHlBRjFlSDExN1Q1MEV5dkRxbGwxTlVjQ2N0ZnNpZ2ZYVWpJWDF1UlBRb1BiY2N0Z2tKT0pWWlJkZzlJcDR4Smh2QkdjZkZBSF9IX1Z1OU1kaGRaVWYzODJ3ZlJZcndWNlp6ZWRJQ081S25kQU9HY0pnY1lXX0JLSWZiYmxyY3gtRXFFS1NfRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.nintendolife.com",
-      "title": "Nintendo Life"
-    }
-  },
-  {
-    "title": "iOS 27 to Focus on Bug Fixes, Performance, and Design Tweaks - MacRumors",
-    "description": "iOS 27 to Focus on Bug Fixes, Performance, and Design Tweaks  MacRumorsCould Apple really press pause on new features in iOS 27? [Poll]  9to5MacDon’t Expect Apple To Abandon Liquid Glass With The iOS 27  WccftechiOS 27 leaks paint a worrying picture for iPhone users craving real upgrades  Sammy FansiOS 27 will reportedly focus on fixes over features  Macworld",
-    "published date": "Mon, 09 Feb 2026 02:45:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSzNVWjhXZEhUZE9JSVBMTG1zZ29pUzg0MUV2MEF6NXVVRzB0MTh5SzNPMzg0ZE9SbDRPM0ctbzdReVFJZ296Q3dSRl9sU1J6aXFHZHgyTjhKeS02NDZKWEFEODdIbVA1U0ZVS09NRndtckpIS0QtRzByUEJWVzZZVmpFbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "OWC Introduces Discounts on Newest Thunderbolt 5 Docks and Hubs - MacRumors",
+    "description": "OWC Introduces Discounts on Newest Thunderbolt 5 Docks and Hubs  MacRumors",
+    "published date": "Mon, 09 Feb 2026 15:51:44 GMT",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Cc3I0aXlhR3hrMFljZ0p6SWJ0eVppWFRCdWR1ZC1IY2FBLWYzQ0Vqb3NTaHg5WVZwTlhDVlJ5alk3VVV0U1lXMUJzTE1nanBjWGIwNVRaVVpTX3h1R3MxUkJkTC1VMGVMTk1tWXZ3?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.macrumors.com",
       "title": "MacRumors"
     }
   },
   {
-    "title": "New Cyberpunk Game Is Available for Free for All Steam Users - ComicBook.com",
-    "description": "New Cyberpunk Game Is Available for Free for All Steam Users  ComicBook.comSteam Drops Free Cyberpunk RPG With Overwhelmingly Positive Reviews  Screen RantNew Steam free game about fixing androids goes trending with Overwhelmingly Positive rating  NotebookcheckCyberpunk novelty D1AL-ogue released for free on Steam. The game has 95% positive reviews  IXBT.gamesSmall Korean Indie Team Launches Cyberpunk Repair Adventure ‘D1AL-ogue’ for Free on Steam This Week  Noisy Pixel",
-    "published date": "Sun, 08 Feb 2026 15:44:14 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObkl6aWtsNWZ5bmlDbU8zOUItNHRvRTNNR0hrYjVLY2VhT21JTFN0R2FTMHhRZGhCYXBtR0tWRnlrODVjV2FxRTl1WGNuVDkyakJwZVBua2haLVp4ZHFZSkxINmM3QnUyc3BOQnNWcklKcWlwMVFaSTBsdnN4UHNZeXc3cC1YUm8yUXVjdjh0b3hTRUNHZ2pCZTVMRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://comicbook.com",
-      "title": "ComicBook.com"
-    }
-  },
-  {
     "title": "Intel Recently Shelved Numerous Open-Source Projects - Phoronix",
-    "description": "Intel Recently Shelved Numerous Open-Source Projects  PhoronixIntel quietly kills controversial Software Defined Silicon initiative — GitHub repository was archived in November 2025, allegedly signaling the end of active development  Tom's HardwareIntel Appears To Kill Pay-To-Unlock CPU Feature Model  HotHardwareIntel Appears To Have Quietly Sunset \"On Demand\" Software Defined Silicon  PhoronixIntel's Open-Source Retreat: A Chipmaker's Quiet Dismantling of Decades of Community Investment  WebProNews",
+    "description": "Intel Recently Shelved Numerous Open-Source Projects  PhoronixIntel quietly kills controversial 'pay as you go' chip licensing initiative — Software Defined Silicon GitHub repository was archived in November 2025, allegedly signaling the end of active development  Tom's HardwareIntel Appears To Kill Pay-To-Unlock CPU Feature Model  HotHardwareIntel Appears To Have Quietly Sunset \"On Demand\" Software Defined Silicon  PhoronixIntel's Open-Source Retreat: A Chipmaker's Quiet Dismantling of Decades of Community Investment  WebProNews",
     "published date": "Sun, 08 Feb 2026 19:06:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2OU1jTm9hUHotZ1RzckRwWm9kVjdkWjcwa0kzeFNxM0o2Ym95MnFFRlZPZkpTNmxlQXViRTZPd3dnLWM4dTFhaDZMbnMzRW1VbkQ2eWNHWWJBT3VZaHNEYk0zSjdvY2hPRy1j?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -470,19 +580,19 @@
     }
   },
   {
-    "title": "Games Workshop had a Warhammer FTL clone pulled from Steam over some overly Space Marine-esque shoulderpads - Rock Paper Shotgun",
-    "description": "Games Workshop had a Warhammer FTL clone pulled from Steam over some overly Space Marine-esque shoulderpads  Rock Paper ShotgunGames Workshop Issued 'FTL in a Warhammer 40,000 Skin' Steam Game With a DMCA Takedown Because of ‘Oversized Convex Shoulder Pads With a Metallic Rim,’ Dev Says  IGNIndie dev claims the sudden takedown of its game was due to Warhammer creator Games Workshop, and a set of familiar-looking shoulder pads  EurogamerVoid War Back On Steam After Games Workshop DMCA'd It  TechRaptorGames Workshop DMCA'd Void War game over “oversized convex shoulder pads” that looked like a Warhammer 40K Space Marine rip-off  FRVR",
-    "published date": "Mon, 09 Feb 2026 13:01:48 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPak1IVWdyX01tTlZrdXhLa2hxUDNueFl1LXBTVVVKdUV5RnlGRmp1MW84SGo0eVNjSEw0QWpTNmV3bXlUZFNiOGV6V3lHcHhKSUxLM0JfOW1hX2xnZGNYOVpaS0dFNDhqcWFaS25pSWJmVnFad0RfTS1JYkVkQkkxWDdDaEVad1l0NUVOUi10cEVnZGZKRHVCNUtvQW1aeTlzZ1dTNmY2OUF2VHkwaDBpX2VQRXVVaFlFS09zZURqVE54d3A1YXBRT0FLa3JSbHpSd0ZYNVM5cw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "NASA's Artemis II Spacesuits Still Have One Big Problem, According To Former Astronauts - bgr.com",
+    "description": "NASA's Artemis II Spacesuits Still Have One Big Problem, According To Former Astronauts  bgr.com",
+    "published date": "Sun, 08 Feb 2026 22:47:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrWXNfTDhUUVJQMjVNNnlvc2t3LVhzdDRudHd1aENTODZySnJsR0trbEVBRUlxWDhHWE05c3N3TEVERER0UTBweTc3TWVKT2lDQ1pCbUVUeHBnRGp3LXk0ZEU2Q0xrMUtJeVBpVkxuZU5jQjRiQmJCVWRzYw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.rockpapershotgun.com",
-      "title": "Rock Paper Shotgun"
+      "href": "https://www.bgr.com",
+      "title": "bgr.com"
     }
   },
   {
     "title": "A rare look inside Google's most secretive Pixel Hardware Labs - Android Authority",
     "description": "A rare look inside Google's most secretive Pixel Hardware Labs  Android Authority",
-    "published date": "Mon, 09 Feb 2026 12:42:55 GMT",
+    "published date": "Mon, 09 Feb 2026 13:07:28 GMT",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9uNWw1Z1IxUDl5c19BVTZrMEllS3BWZE9fTVdURjdMQUpFeThJZ2h0NlQtMmt0VWRpWms5eUlsc0x1Nldoa1VnWm9Cc3I1ZEluVnV4c3RacDBYLVVXNmdOUEVpdzhqd0RGQWJqWjJlVi1DMTVXLUhzTmozUlowUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.androidauthority.com",
@@ -490,13 +600,13 @@
     }
   },
   {
-    "title": "Skyblivion Reveals New Screenshots and Gets Encouraging Development Update - GameRant",
-    "description": "Skyblivion Reveals New Screenshots and Gets Encouraging Development Update  GameRantNew Skyblivion Screenshots, Oblivion Remake on Skyrim Engine - Updated Wendelbek Shown  IXBT.gamesElder Scrolls Returns in 2026, Skyblivion Drops Fresh Gameplay Tease  GAMINGbibleFan-made Oblivion remake Skyblivion continues looking real pretty in new screenshots as devs admit \"we've been a bit quiet since our last update,\" which was a delay  GamesRadar+Promising Skyblivion Development Update Unveiled  FilmoGaz",
-    "published date": "Sun, 08 Feb 2026 19:32:23 GMT",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBiZlhITzJXcDRtYjVUSEhlemo2Z2t2ZUVoRVNRanJMUUdpOW1KVENlbXZkVTlUakpTZW5Fd041UGFGSjIwckdsX2hoZmszMmhfUmN2MlhsVUtNOWpmaEFyNmVvTzZxaFNpOWlyRENENGtHVV9MXzlJYQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "CyberConnect2 to announce 30th anniversary game project on February 16 - Gematsu",
+    "description": "CyberConnect2 to announce 30th anniversary game project on February 16  GematsuCyberConnect2 Teased 30th Anniversary New Game Project  SiliconeraCyberConnect 2 Teases 'Completely New Game' Announcement for Dev's 30th Anniversary  Push SquareCyberConnect2 Teases New Game Announcement for February 16  Final WeaponCyberConnect2 will present a new game on February 16  Instant Gaming News",
+    "published date": "Mon, 09 Feb 2026 09:00:34 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ2RUZTV1endZbnJ0dGpiVzYxREZKZnVGZlVrX0RJMTVWaWdNSngtZnE3aDI2Z3ZQLTBqTjBzeEI5cWZTNEczbk1CNTkzOU5nbE9iY0w3Y1AzWUJCVFQwZ3JTMUZhSm5lcmhjVEdsUnRFVUpRWlhPS0plenlNQjZ1ZE9UWVJWYzZ2Qy1UWFEzcDNOVDlxRGhUSXVndzJTOFEtY2k5ag?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://gamerant.com",
-      "title": "GameRant"
+      "href": "https://www.gematsu.com",
+      "title": "Gematsu"
     }
   },
   {
@@ -510,6 +620,36 @@
     }
   },
   {
+    "title": "“Update on Apple the Yorkie – Dog Cruelty Victim – doing fantastic.” - PoPville",
+    "description": "“Update on Apple the Yorkie – Dog Cruelty Victim – doing fantastic.”  PoPvilleSenior dog dumped in trash chute is rescued, now ‘nonstop wagging her tail’  The Washington PostRockville Nonprofit Rescues Senior Yorkie Found in Garbage in DC  The MoCo Show -Tiny senior dog thrown down trash chute at DC apartment building  WUSA9SIGN: Justice for Starving, Disabled Dog Allegedly Thrown Down Garbage Chute  Lady Freethinker",
+    "published date": "Mon, 09 Feb 2026 17:45:11 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSF8zbnBVQXFoY2Y3T0gwZjhSRWIxOERrVTNSY2psZ01sVThsTVN4Um5LTnk4MlNGelQ3S3N1bkYteFF3MmV6dFNzbUhDMUtnQTNYUFNfaUFvM29NZmdwXzVINnNaQTZmdENicXIyQ1phMk5aX2lKVHZhMWlreWdBckJ2VEtDSWI3aDdzRUE4ZzBJODZ0MUdCdDRnOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.popville.com",
+      "title": "PoPville"
+    }
+  },
+  {
+    "title": "Nintendo Store App Receives A Small But Welcome Update - Nintendo Life",
+    "description": "Nintendo Store App Receives A Small But Welcome Update  Nintendo LifeNintendo Store App 3.1.0 update out now, patch notes - search results viewable in-app, and more  Nintendo EverythingThe Nintendo Store App Has Been Updated  NintendojoNintendo Store mobile app updated to Ver. 3.1.0  GoNintendoNintendo Store App Updated to Version 3.1.0  Final Weapon",
+    "published date": "Mon, 09 Feb 2026 15:47:57 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNVVZaG4wa01LNkNwVXJ6OUs5VEVKbWp2bG9OT1NocGNMX3dvbHFwRnRwQ1lLRjVYTEQ0NGVvb3RnT3FpdEFNMnQtZy1pa191Y1F0N21hU25QR1EyaThRVVdNSlNCT3RWcFlhbHBwcDhkM2Uyc3daTlZ2T3RwbmRfZ1k3UjhHS3hweUlVQVJqTUpuLTczTE9LYmpaVGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nintendolife.com",
+      "title": "Nintendo Life"
+    }
+  },
+  {
+    "title": "$40 Infinite Combo All-Star Slips Through in Latest TMNT Leak - Draftsim",
+    "description": "$40 Infinite Combo All-Star Slips Through in Latest TMNT Leak  Draftsim",
+    "published date": "Mon, 09 Feb 2026 13:57:54 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9UanJMUjJMdkRIMjI3SlpPTG9hbFFPQkxON1A2TDVPSjhOcXE5YldHYjJuRTJRNkd2RFgwcTlmMUFURWYtVlNkNTdJSDdHR0l2Wmtkc0ZkTEtDTW1fZ0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://draftsim.com",
+      "title": "Draftsim"
+    }
+  },
+  {
     "title": "Microsoft: Exchange Online flags legitimate emails as phishing - BleepingComputer",
     "description": "Microsoft: Exchange Online flags legitimate emails as phishing  BleepingComputerMicrosoft Exchange Online Flags Customers Legitimate Email as Phishing  CybersecurityNewsMicrosoft Exchange Online Falsely Flags Legitimate Emails as Phishing  WinBuzzerExchange Online Incident Flags Valid Emails as Phishing, Microsoft Confirms  Windows ReportExchange Online Mistakenly Marks Legitimate Emails as Phishing  FilmoGaz",
     "published date": "Mon, 09 Feb 2026 10:47:25 GMT",
@@ -520,43 +660,23 @@
     }
   },
   {
-    "title": "Amazon has a 4-pack of Apple AirTags on sale for 35% off this weekend - Mashable",
-    "description": "Amazon has a 4-pack of Apple AirTags on sale for 35% off this weekend  MashableThe second-gen AirTags are a scatterbrain’s best friend  theverge.comThe AirTag 2 Is 100% Worth the Upgrade  EsquireApple AirTag (2026) review: Simply better  EngadgetAmazon is selling a $99 set of Apple AirTags for just $64 (and 10 more fab deals)  Yahoo",
-    "published date": "Mon, 09 Feb 2026 17:02:56 GMT",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jdHJsVU5zbnJoM2FDRGx5MFpWRW9ER2xLYUFzbDVFVG1xYXk0OVdOeE1Nd1RuY2ZOTk1jWVJlRnVHenVJdE9vMGpuRzFJNUJGN016d2tzYzlCSGVLRFl6bHl3NnVxRXA3U0tUdnVVMUw3ZW5MamV3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Overwatch Hits Highest Steam Concurrent Player Peak Since Release Day - GameSpot",
+    "description": "Overwatch Hits Highest Steam Concurrent Player Peak Since Release Day  GameSpotOverwatch 2 Is Ditching the '2' Amid Launch of 'New, Story-Driven Era' With 10 New Heroes  IGNOverwatch's New Hero Jetpack Cat Has A Legendary Voice Actor Purr-Forming The Meows  GameSpot\"What would I change if we could go back?\" Inside Blizzard's big plan to put Overwatch back on top  EurogamerOverwatch 2 Is Just 'Overwatch' Again And Five New Heroes Arrive Next Week  Game Informer",
+    "published date": "Mon, 09 Feb 2026 11:11:50 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNVU4SkNSTU5zWHhsWHJOekJtU3diTUE0cVJhZ2RzeUZvMkNib0RtWDA2ZUNlWmE1YXN1NnpWS05nZE5pbWd1T0JhbUZzNGJ4ckRzWVUyaFgzbjQtUDhiT01jemthZ2lfblJmNm5oY1JtVEhqNXZ0N2NVSkpzQjJmMGhUNzlvaHlXUXRCUnpPYXIxdUpzSWk2b2dxRmJWVnhRRmZUZ1ZQXzdobGp0Y0lZV0VzRlBfNm9p?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://mashable.com",
-      "title": "Mashable"
+      "href": "https://www.gamespot.com",
+      "title": "GameSpot"
     }
   },
   {
-    "title": "Puppy Love Update Patch Notes - Disney Dreamlight Valley",
-    "description": "Puppy Love Update Patch Notes  Disney Dreamlight ValleyDisney Dreamlight Valley is dropping the Puppy Love update in a couple of days, and I haven't been this excited for new characters in a hot minute  PC GamerAll Disney Dreamlight Valley characters  DexertoDisney Dreamlight Valley’s next free update, “Puppy Love,” adds Lady, Tramp, and more on February 11th, 2026 (UPDATE)  GoNintendoDisney Dreamlight Valley in 2026 — what’s coming next, plus our hot take predictions  Pixelkin",
-    "published date": "Mon, 09 Feb 2026 16:36:08 GMT",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pWmdUcENlMU54NHcxVGlSUHhpRERVVFNuZGo1R3l2QUZ6aGs4Q3ZCUjcyZ1hCVF9vOVIweVZZRnBkWmxkaUdiQlpRdUZBSkdqemdnbFczbzh4ckowT1pIbF9WcFlqZTEzWHdCc3Vn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Highly anticipated cyberpunk platformer Replaced gets demo, and you can play it this week - Eurogamer",
+    "description": "Highly anticipated cyberpunk platformer Replaced gets demo, and you can play it this week  EurogamerReplaced Final Preview: You Might Think You Know What It Is, But I Promise You Don’t  IGNWe played two hours of Replaced, the next big Game Pass game — here's what we think  PolygonReplaced's Final Previews Are In, And We Could Be In For A Big Surprise On Xbox Game Pass  Pure XboxThe Replaced demo will be available on PC on February 11  Instant Gaming News",
+    "published date": "Mon, 09 Feb 2026 14:14:56 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRGR5eWxiRkRESWYxektTa3FPYjFhTHlHSEFKcnBkTG9jek5BUmJWbVBDaDYtVkh1YlpwX2ZBQ0NmMkhzZXhtekFiVjRtdTVLWjBpTUYxTld2ZG5uQW1vSzlQTlpzZmI4V3NISFduS3hPZm1PSTRnRk5fTzc4VUhNcFlMcTJQd3I4Ui1KdDRrM0E4ZlVZUUdTTjhncmhHbWNObWlTUGNVSzRFQWY1bGpJdExubW0?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://disneydreamlightvalley.com",
-      "title": "Disney Dreamlight Valley"
-    }
-  },
-  {
-    "title": "Apple is killing the old HomeKit tomorrow - theverge.com",
-    "description": "Apple is killing the old HomeKit tomorrow  theverge.comUpgrade your Apple Home architecture before the old one gets killed on Tuesday  AppleInsiderWarning: Update Your Apple Home App by Tomorrow  MacRumorsPSA: Check your Apple Home is up to date in the next few days  9to5MacApple's Great Smart Home Purge: Why Millions of HomeKit Devices Face Extinction Starting Tomorrow  WebProNews",
-    "published date": "Mon, 09 Feb 2026 19:00:25 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQajFUTEtMVHc5dFFTZUdjbUVQVVpaNXNpR1JCTkRsSkg2Y2VxNndQZXJJSmRkQ1pEZUZydWQyR2pwVkFlMjQydm9VSGpVdDZPVnNFTVoxWmxwZC0yc2hPbkNTNmFDRW9LeTBGN3BWRlo2a2xWdWtCbkY3anpPT19SVjJhNEU?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theverge.com",
-      "title": "theverge.com"
-    }
-  },
-  {
-    "title": "PlayStation handheld reportedly with 24GB memory, PS6 console with 30GB - VideoCardz.com",
-    "description": "PlayStation handheld reportedly with 24GB memory, PS6 console with 30GB  VideoCardz.comPS6 and PlayStation Handheld To Have Impressive Memory Specs, It’s Claimed  Insider GamingLeak Suggests Generous Memory Specs for PlayStation 6 Console & Handheld Sibling  TechPowerUpPS6 and PS6 handheld's memory specs leaked, including 30GB RAM  Sportskeeda TechSony PS6: Release Date, Design, Leaked Specs, and More  Beebom",
-    "published date": "Sun, 08 Feb 2026 19:03:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT21fNENRSm9BM2I1QlNFY0FMVFVrdXFlTl81bl8wWWJRZmFGNEk3cDdkSUVlN0dWLVFYTHJfYXBDVnRKQU1zal9iSFdxeFI4XzY3aktISS1aNEVGOHdZb3BtcjJVTjZxYjQ5blg4UVd1cXd2YUhBY2VIb204ajdsNjRLbEM3a0RLVG1xdDljeXE1cXlleTN4cFhfVDJudW8?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://videocardz.com",
-      "title": "VideoCardz.com"
+      "href": "https://www.eurogamer.net",
+      "title": "Eurogamer"
     }
   },
   {
@@ -570,133 +690,13 @@
     }
   },
   {
-    "title": "Wooden Case Makes A 2026 TV Stylish - Hackaday",
-    "description": "Wooden Case Makes A 2026 TV Stylish  Hackaday",
-    "published date": "Sun, 08 Feb 2026 21:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKSm5MUmRyY0RqQ2J5MzB1eE5iR2gwbFpYTWFBZ0liRi1IaG5PWkp3UTZ4cm9weE8tbVpIY2RaUV8xc250RGJZTTloRVVKUFpuaFRYWlBGOEtLLW5WQjZrX1FrM013aFZlTFZ6WUZqeTRBb2I0TzI0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "UK Charts: Dragon Quest VII: Reimagined Starts Strong, But It's Not Enough To Reach The Top - Nintendo Life",
+    "description": "UK Charts: Dragon Quest VII: Reimagined Starts Strong, But It's Not Enough To Reach The Top  Nintendo LifeSquare Enix explains why it used a new \"doll-like art style\" for Dragon Quest 7 Reimagined  Nintendo EverythingUnravel the past to fix the present in DRAGON QUEST VII Reimagined  NintendoDragon Quest VII Reimagined Review  IGNDragon Quest gets another great remake that’s perfect for newcomers  theverge.com",
+    "published date": "Mon, 09 Feb 2026 10:45:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbTF1MWJoZU5nMzBpUnRsYndpa0piMDROLWdpcTRmdmZnZG1pLVh4VmpqZ2ZhVWIyOGh2alJBYVI2cGJ4a1VKMWlhekRtc3FHcGE3YlpaZlpyTTA4OWJvbUpGRUtfM3FkOHdqZEMzZE9PdTlJUDEteTJvSVF3YjBjMU9PdUFGWjRYQmVrZ1EtXzcxSTdmUExWdzZVcWRxbVBMdmxrVFhtOHlkdFI3SXdfd2VuNC1nMVJwaXY0MlRWd3FwSURyVXh3eg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://hackaday.com",
-      "title": "Hackaday"
-    }
-  },
-  {
-    "title": "Kodak MC3: Everything But A Phone In 2001 - Hackaday",
-    "description": "Kodak MC3: Everything But A Phone In 2001  Hackaday",
-    "published date": "Mon, 09 Feb 2026 03:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wbHVxMmdYbzY0MVBDOV9GbENjQ1ZBTkEyMnBMcmI5dzI1R1JyYWpKR1N1MTdpYkxXQ2huQlc4YTBQRl9DaVBSa2QyM2FYc3ZTZXpibE5zZUs3TWwyTG1MOFpyS0l6VF9YbFJiOWNJN2JrUDdSVElSNXhzU05JZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://hackaday.com",
-      "title": "Hackaday"
-    }
-  },
-  {
-    "title": "Rayman Creator Discusses The Rayman 'Remake' Ubisoft Has Yet to Announce - IGN",
-    "description": "Rayman Creator Discusses The Rayman 'Remake' Ubisoft Has Yet to Announce  IGNRayman creator says there’s a ‘kind of remake’ of the original game planned  videogameschronicle.comBlizzard Veterans Explain How Diablo IV Lost Its \"Magic\" and How Their New ARPG Darkhaven Will Differ  IXBT.gamesSurprise PS5 Remake of Classic PS1 Game Confirmed by Creator  PlayStation LifeStyleThe original Rayman returns in HD according to its creator Michel Ancel  Gamereactor UK",
-    "published date": "Mon, 09 Feb 2026 10:31:08 GMT",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ2haaFJBUHUwa2ZOVzNrbkIxQVh4eDVTWHhLQ3FOcUkwa1dnanFNa1BwTHl3MS01RW02SlFjUlphb1FHOXNMVVgyaXQ2d3plSFFOWXBSZlJsdmFhd1YyektucDB2azhxYk8wVVAzRkl1YkpZdnBucXJEU2NJZDRMSFVVd2twcTZuNUdyVlNGQlVDSVFTTjYyQ012OWR5cFJS?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ign.com",
-      "title": "IGN"
-    }
-  },
-  {
-    "title": "New MTG Leaks Reveal TMNT Promos and New Secret Lair Card - MTG Rocks",
-    "description": "New MTG Leaks Reveal TMNT Promos and New Secret Lair Card  MTG Rocks",
-    "published date": "Sun, 08 Feb 2026 19:51:18 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1nODZpWkJDSUdZaWZYbENFLWF3OU1qYml2dTlEOFBFM1EyRFF1V0h5NTlWMDg4TTVDMnI1TDY2YnQ5LVdJY1JDU2NlZ2lxYjROa0VjZVNTcFp6UlE4LU05UHpDWTc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://mtgrocks.com",
-      "title": "MTG Rocks"
-    }
-  },
-  {
-    "title": "I finally found the best music player on Android after years of switching back and forth - Android Police",
-    "description": "I finally found the best music player on Android after years of switching back and forth  Android Police",
-    "published date": "Mon, 09 Feb 2026 11:00:10 GMT",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00ZjQzS1Q5RjdoVXFfamZqV29jME42eVN0bXBsNEd6ZnRjanZ0WXdRUDh1NDhHZHM3eko2MU1aXzBYLWJEaFE2Z1k5aHU1Qms1Z2tDS3JESkZtbHFWX2ZyaDA4NXlLWWxIdEdJUHhQUDkzVnM?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.androidpolice.com",
-      "title": "Android Police"
-    }
-  },
-  {
-    "title": "Snapdragon X2 Elite Showcases Surprisingly Impressive Results Against M5, While Registering A 48% Performance Improvement Over Snapdragon X Elite In CPU, GPU Tests - Wccftech",
-    "description": "Snapdragon X2 Elite Showcases Surprisingly Impressive Results Against M5, While Registering A 48% Performance Improvement Over Snapdragon X Elite In CPU, GPU Tests  WccftechEarly Benchmarks: Snapdragon X2 Elite Dominates Productivity, Slips in Gaming  PCMagWindows laptops with Snapdragon X2 Elite beat latest MacBook in some early tests  9to5GoogleSnapdragon X2 Elite trails Ryzen AI 9 HX 370 in two of three games, Intel Ultra X9 388H leads  VideoCardz.comNext Galaxy Book Edge Could Get Huge Performance Boost  SammyGuru",
-    "published date": "Sun, 08 Feb 2026 20:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNUUtNmFkYkhPTF92QVNBSmlsQzV1Ry1YNV9lZGJGaFBNcEN5bHZpNjhPZUtRNHR2Q1BfeF9qaXBqRXVZQlJGZEJVUHhwVEkwQ0ZxMVRPQkFFSVdyNkNRSm5ObDhFTkk1N0dVcW9Ud0V3Wi1LcUU3cUlsMlpOdHljdXp1YVZtek9oRHB2RXBKNENYQXNDWDRjUkpR0gGfAUFVX3lxTE1sdnF3MkhRREdxdmFXOUJHUml2S3RtTXc2RXczUlBYT291QVRMYWhVRy1jN0sxU3JmYW5LcEs1azN3Rm1fcHotZzlMX01Qa19tTXZ5U01hdnZxN3BVLTBKUGxLWU03ZV9yNnJ6NWtGTkcxeFg3Zi1ESUoxWG9qX1hHVWVZZ0gwcXp3LWd2aEpaWGtWV2djMjg2Z0RvMFJyVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://wccftech.com",
-      "title": "Wccftech"
-    }
-  },
-  {
-    "title": "This Week’s Japanese Game Releases: Yakuza Kiwami 3 & Dark Ties, Mario Tennis Fever, more - Gematsu",
-    "description": "This Week’s Japanese Game Releases: Yakuza Kiwami 3 & Dark Ties, Mario Tennis Fever, more  GematsuThis Week in Gaming (Week 7)  TechPowerUpHigh On Life 2, Yakuza Kiwami 3 and Romeo Is A Dead Man go head to head in another crowded week for PC games  Rock Paper ShotgunPS5, PS4 New Releases for the Week of February 9 to February 15  DualShockers18 New Games Coming to PlayStation Store This Week  IXBT.games",
-    "published date": "Sun, 08 Feb 2026 18:43:09 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa2VqOElWa281bXZvRFg0WG9DT2ZLQlRKeGMyZUJubDVLRGstSi1ha3ZrMVp0Z2pLMjNoWFIxN0Y5M3lyZFlfR20yeVdJZkZTT1Z6YmZvbUFwNzBSQTljLXNNYWdhSlBKWE5LbG16SHp2enpyRGhOeUJWb01PVWQxeWNPaGpsYWE5aGkwNFk3MlpLOTlCaWgySjBrUTJlWVJNZDFmSTBINW5GXzdOMzZWbVNjZzQ3Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.gematsu.com",
-      "title": "Gematsu"
-    }
-  },
-  {
-    "title": "AMD Maintains Its Silence Over INT8 FSR 4 For Older RDNA GPUs - Wccftech",
-    "description": "AMD Maintains Its Silence Over INT8 FSR 4 For Older RDNA GPUs  WccftechAMD on FSR 4 for RDNA 3 and Older GPUs: \"No Updates to Share at This Time.\"  TechPowerUpAMD Just Made Another Radeon Mistake  TechSpotModders get multi-frame gen working on Radeon GPUs before AMD  Club386AMD still has no plans to bring FSR 4 to RDNA 3 GPUs, and that's a shame  TweakTown",
-    "published date": "Sun, 08 Feb 2026 12:36:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRHZtd2M5TmJSX2dPemJQS3EtQVRudnc1bnBaSlRoV3MycHlpX3JoRktpVU9XX3ZrWnBxUUdOeVA0bWg4U1c1UEhTUUNQek81a2w4Ukw5cHdiWjFvRU1LaXJJSW9vb3ZaV0JWS1lVbnBRSHdyUDZsMTBsdi1feWQwTXo0YzhWU1lDZlc00gGQAUFVX3lxTE1JcHhNRU9CS2dsakdTMFJMcTVmNzdpRHdDRHJ2Mk5SNTFldjVwQWUtZnppVWhDMEM4ODRLS1JqbWZjOERuanhWZDloLTZaY1g2VENiX1M1eElDbElHaDFZcnY2eVZxUmFfNjFyQmtubjJkaVJobkxTWmpOWVNOcE94T2Q1N1B6SlFnWEJFY3BvQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://wccftech.com",
-      "title": "Wccftech"
-    }
-  },
-  {
-    "title": "AYANEO NEXT 2 with Ryzen AI Max+ “Strix Halo” costs up to $4,299, weighs 1.4kg, and may require airline approval forms - VideoCardz.com",
-    "description": "AYANEO NEXT 2 with Ryzen AI Max+ “Strix Halo” costs up to $4,299, weighs 1.4kg, and may require airline approval forms  VideoCardz.comThe RAM crisis is so bad this new gaming handheld costs more than an RTX 5090  TechRadarAyaneo has the first Strix Halo handheld with an internal battery and the low end fetches almost $2,000  PC GamerAYANEO Reveals The Cost Of Their Premium NEXT 2 Handheld With New Details  Steam Deck HQAyaneo Officially Launches Next 2, a Ryzen-Powered Windows Gaming Handheld  TechPowerUp",
-    "published date": "Sun, 08 Feb 2026 15:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbU5TRTdxeF9vSktqRngtbFI4Ym9yMmJGOWprSDhBRUJtZkV0Qlh6SlFVaWpRZmV1Qms3M2hNN3k3cmVHUExsLXRhZGxVRkVwWnBhVGg2VUJtVlJPRl9lNjlYaGpXX25Jb2RLWFBKRkVSb3BkUHQ1NGJVOXBCUkhockpVNlhmUGFkZWdCX3dnOVdTT1diM05KVGRta3FWcXdiZE9NWXJxay1SaW9JTGNMZ2hXUjZYTnRMZkpnUjFhVXBvaFdxTC0ycVpvblU2dFVFYXFMR2J3?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://videocardz.com",
-      "title": "VideoCardz.com"
-    }
-  },
-  {
-    "title": "14 Cool Tech Products That Solve Everyday Problems - SlashGear",
-    "description": "14 Cool Tech Products That Solve Everyday Problems  SlashGear",
-    "published date": "Sun, 08 Feb 2026 18:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQakFhbUNQazVZVkZYU2dkWHJneUI1a2JoUV90cVFIRFdRVklFa0dScFl4eEFqaDBfMTlCbWpTLXZJM3c3aExjcExndEpUOFJ3R1g0SGMtd1RKRXRJZ2NGTGJyWDNpQWJRNWp3c2V5LThoWVdsWWY2WE93Xy1OMGJiUXFFZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.slashgear.com",
-      "title": "SlashGear"
-    }
-  },
-  {
-    "title": "'Overwatch' just hit its highest player base on Steam PC since launch — passing Battlefield 6 and Call of Duty - Windows Central",
-    "description": "'Overwatch' just hit its highest player base on Steam PC since launch — passing Battlefield 6 and Call of Duty  Windows CentralOverwatch 2 Is Ditching the '2' Amid Launch of 'New, Story-Driven Era' With 10 New Heroes  IGNOverwatch's New Hero Jetpack Cat Has A Legendary Voice Actor Purr-Forming The Meows  GameSpotOverwatch 2 Is Just 'Overwatch' Again And Five New Heroes Arrive Next Week  Game Informer\"What would I change if we could go back?\" Inside Blizzard's big plan to put Overwatch back on top  Eurogamer",
-    "published date": "Sun, 08 Feb 2026 15:20:18 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZVc4UlRERVVuc0toTE1Wd2RWVnVnWVM2Ni1nWkt5YkU4U2xVaHZfYzI1V1VCNlRSaXo4QVl1OHQwR2E4STFzMXRoRmdHX0hrN3BRTEl0NVlwTnVicDBPODJ6dnU2ZG1Nc1NoQ0JqXzlWOU1JTjVKRVdGOXBTUGdZRE0xTkJOWktfakJuWE9HOVlaV1ZfYkYwaEhUSEc2clBfR1I3QlBJT2t1b2xIaEF5SkdFUHQtd0NyTEMtcUZLSlJRdks3c0VRQWR5QkI2WU5iR1NxVTQ4VUdiYmUtVWdaeTFBa3pJbW95bEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.windowscentral.com",
-      "title": "Windows Central"
-    }
-  },
-  {
-    "title": "iPad 12 and iPad Air 8 Reportedly Coming Soon - MacRumors",
-    "description": "iPad 12 and iPad Air 8 Reportedly Coming Soon  MacRumorsWe may see Apple's new iPads and MacBooks in only a matter of weeks  EngadgetNew iPad and iPad Air models should be launching soon, but don’t get too excited  9to5MacApple’s cheapest iPad may soon be getting an AI upgrade  MacworldApple Readies 12th Gen iPad With Apple Intelligence  findarticles.com",
-    "published date": "Sun, 08 Feb 2026 13:29:03 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZF90UEhsLUJhNFRpSVJhanZlRzFid1p2N09jV2hDV2tEVmxXdzNMV2U4clFPRDZybjczbGlQVXpUcXRoZnZRbzNJTk1YN2ZCVWNOR3hBb2plenVzT3BHX2Itc0dCc2JyS3dYMHpCSWxCNmJaaENvQUN6Z2g0M2FUM2xQSXlOOThUSGgw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.macrumors.com",
-      "title": "MacRumors"
-    }
-  },
-  {
-    "title": "Nobody knows how the whole system works - Hacker News",
-    "description": "Nobody knows how the whole system works  Hacker News",
-    "published date": "Mon, 09 Feb 2026 05:38:47 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzcG4tNHJtS3pxOWE0MXhrUTQ1VldHMHB5SXhLQjdkNHhpckxPN3c5YVpyYnY4bE1MNVR4dU5yQ282eXpOUkFhR1FmTDRobVdiSmxicXhObmM?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://news.ycombinator.com",
-      "title": "Hacker News"
+      "href": "https://www.nintendolife.com",
+      "title": "Nintendo Life"
     }
   }
 ]
