@@ -1,17 +1,7 @@
 [
   {
-    "title": "Pokémon Pokopia - The Final Preview - IGN",
-    "description": "Pokémon Pokopia - The Final Preview  IGNPokemon Pokopia is so damn cozy  EngadgetPokémon Pokopia Preview - Gotta House 'Em All  Game InformerPokémon Pokopia Could Be the Switch 2’s Biggest Sleeper Hit  GizmodoPokopia turns the Pokémon world into a relaxing, human-free paradise  The Verge",
-    "published date": "Wed, 11 Feb 2026 14:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HdzFKVXhldGRpcjdLSVgzR1AwelpPV1lRYU14VWdyWi1TaVg2NTUzQ25rOFhvcld4VEdYaDNjOGdCdTJRWDNLSURQc1JleTFJWE15U0FBcXZhSHBUWWhYM2pnR1NHTWs5bmdKNy1vRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ign.com",
-      "title": "IGN"
-    }
-  },
-  {
     "title": "Samsung to hold its Galaxy S26 event on February 25 - TechCrunch",
-    "description": "Samsung to hold its Galaxy S26 event on February 25  TechCrunch[Invitation] Galaxy Unpacked February 2026: The Next AI Phone Makes Your Life Easier  samsung.comSamsung to Unveil AI-Charged Galaxy S26 Smartphones on Feb. 25  BloombergThe Galaxy S26 can’t skate by on minor improvements alone [Video]  9to5GoogleSamsung Galaxy Unpacked 2026: Everything we're expecting from the S26 launch on February 25  Engadget",
+    "description": "Samsung to hold its Galaxy S26 event on February 25  TechCrunchSamsung to Unveil AI-Charged Galaxy S26 Smartphones on Feb. 25  Bloomberg.com[Invitation] Galaxy Unpacked February 2026: The Next AI Phone Makes Your Life Easier  samsung.comThe Galaxy S26 can’t skate by on minor improvements alone [Video]  9to5GoogleSamsung Galaxy Unpacked 2026: Everything we're expecting from the S26 launch on February 25  Engadget",
     "published date": "Wed, 11 Feb 2026 07:06:44 GMT",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZGgtaVNXcmNESnlVNGI1THh3NEpYSE9hdTdFYWVZODd4WVZZUGRPczYxZ2dqNE5BZW1DU1pybnpmMGs3cW9oNzZ3STFiU1VrUF9pekRRWDdmZkRPNUhJTzZZLXhkNk5waWR6LXhQRVBELTEzTkdGWC1VSS1oQUtwZnVHcmhsczEwNW9yelZIUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -20,18 +10,28 @@
     }
   },
   {
-    "title": "Android 16 gets a fresh new update that's now rolling out to Pixel devices - Android Police",
-    "description": "Android 16 gets a fresh new update that's now rolling out to Pixel devices  Android PoliceGoogle rolling out Android 16 QPR3 Beta 2.1 patch  9to5GoogleAndroid 16 QPR3 Beta 2.1 Update Released for Pixel Phones  Droid LifePixel connectivity feature in Android 16 QPR3 can improve battery life  PhoneArenaGoogle Just Dropped An Update For Pixel Phones — And It’s A Surprise  Forbes",
-    "published date": "Tue, 10 Feb 2026 22:47:21 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTk83VFVyU3lNSkxvOFc5dHlsY19PcE5lVVE5SENFbG1meV8xdTJGWlQwTXNMY1I5S1QzZklFeXRUMW1pdnpQRlh0LVRCajdJbjhwcDFPOWcyUWZfTUVXekkwa3Z0emRZQ2hkbWdCRkgzZ3lMSEhrZEN1S0dtblJGZ2JOaFFlQUlu?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Preview: Despite Low Expectations, Pokémon Pokopia Had Me Grinning From Ear To Ear - Nintendo Life",
+    "description": "Preview: Despite Low Expectations, Pokémon Pokopia Had Me Grinning From Ear To Ear  Nintendo Life'Pokémon Pokopia': Oh God, they made 'Minecraft' for Pokémon  MashablePokémon Pokopia Preview - Gotta House 'Em All  Game InformerPokemon Pokopia is so damn cozy  EngadgetPokémon Pokopia Could Be the Switch 2’s Biggest Sleeper Hit  Gizmodo",
+    "published date": "Wed, 11 Feb 2026 14:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYi12SDlLVjMxY0wtRUZlNThWa0ZkajdjdU9zWlRwMF9DNTd3Z2pZVUItTUVEcGxxX1RxLUFlRlJ4ZUxwOW9ZS3ZNU2xoZlpHc2hRTDNlcVZXaWliZGxicmg0cnNTcjR4M1FudzZ3QXRjVVJsblBIVkcyYWdjNnFTaXNMaTBjT2xiRXhBVkNqY3laRHhLdmJKX040VzFXZ3VFVUU5WGQ3R1J2OGl3Z0lj?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.androidpolice.com",
-      "title": "Android Police"
+      "href": "https://www.nintendolife.com",
+      "title": "Nintendo Life"
+    }
+  },
+  {
+    "title": "Notepad's new Markdown powers served with a side of remote code execution - theregister.com",
+    "description": "Notepad's new Markdown powers served with a side of remote code execution  theregister.comMicrosoft fixes Notepad flaw that could trick users into clicking malicious Markdown links  The VergeBloat Risk? Microsoft's Notepad Upgrade Also Introduced a Vulnerability  PCMagAI-upgraded Notepad now exposes Windows users to critical exploit  CybernewsExtra features for Windows 11 Notepad go beyond worries about bloat, as new security flaw shows  TweakTown",
+    "published date": "Wed, 11 Feb 2026 11:31:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ISDIxcFU5UVJjd2pPenZocVBPOTNBWVFIaTF4NGFoY1VuSTZxNTZVZmdWbEJoNklhNmhpcEdhVXVJMkxCdkhIY2NHRjB1aXUyLWJmOUFjQ2tnc2ZENTFhZFBmRkNjd2s?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theregister.com",
+      "title": "theregister.com"
     }
   },
   {
     "title": "Apple Arcade is adding Oceanhorn 3 and three more new games - 9to5Mac",
-    "description": "Apple Arcade is adding Oceanhorn 3 and three more new games  9to5MacOceanhorn 3: Legend of the Shadow Sea launches March 5 on Apple Arcade  AppleApple Arcade’s March launch is headlined by a tempting sequel to one of its best titles  Trusted ReviewsThe best RPG on Apple Arcade gets a sequel  Cult of MacApple Arcade Adding These Four Games in March  MacRumors",
+    "description": "Apple Arcade is adding Oceanhorn 3 and three more new games  9to5MacOceanhorn 3: Legend of the Shadow Sea launches March 5 on Apple Arcade  AppleThe best RPG on Apple Arcade gets a sequel  Cult of MacA shadow is descending on Apple Arcade.  The VergeApple Arcade Adding These Four Games in March  MacRumors",
     "published date": "Tue, 10 Feb 2026 15:27:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaUdGRjcxTlZLRUxMLTZCNE9VOFhXcUJ3S0w0VzNxQmRqRUk4TnUtYXdwY1F2M01OUGY0SkR2djhPcjdUNlo3bllCZ2NhVlhpeGJFVUpHTDlGRFV2dE5RYzBoQnYwRG51emZDZ01TOVhsaHZlNWpvYVlDczJlQ3dTS1pBOTkyQXRtTl8wZFpMMDlHRGtWR0E?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -40,23 +40,43 @@
     }
   },
   {
-    "title": "iPhone 18 Pro and iPhone 18 Pro Max Prices: Here's What Rumors Say - MacRumors",
-    "description": "iPhone 18 Pro and iPhone 18 Pro Max Prices: Here's What Rumors Say  MacRumorsApple iPhone 18 Pro Design Changes Take Shape In New Leak  ForbesiPhone 18 Pro: These rumored camera upgrades could launch later this year  9to5MacApple’s Cost Management Efforts Pay Off As iPhone 18 Pro And Pro Max Base Storage Variants To Avoid Price Hikes  WccftechiPhone 18 Pro: Three new design updates are coming this year  9to5Mac",
-    "published date": "Tue, 10 Feb 2026 16:38:37 GMT",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80eXpFM01NekxTMlJEbkRCQlB5N2lsY1NoR3Q0VkYyTUpFRWd4N1BVeEhYRTRiejF6VDMyT28zNkFxMm1uV241VUw3Zl9McnptX052RGFCcEpKSm5XdGZyNzMzMDJxMGM3N0s1TVByaHA0OHNlVFlR?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.macrumors.com",
-      "title": "MacRumors"
-    }
-  },
-  {
     "title": "ChatGPT’s deep research tool adds a built-in document viewer so you can read its reports - The Verge",
-    "description": "ChatGPT’s deep research tool adds a built-in document viewer so you can read its reports  The VergeOpenAI's Deep Research now runs on GPT-5.2 and lets users search specific websites  the-decoder.comChatGPT Deep Research Now Lets You Pick Sources, Adds Built-In Documents  PCMagOpenAI Enhances ChatGPT with Real-Time Research and App Integration  blockchain.newsChatGPT Deep Research Now Runs on GPT-5.2  Geeky Gadgets",
+    "description": "ChatGPT’s deep research tool adds a built-in document viewer so you can read its reports  The VergeOpenAI's Deep Research now runs on GPT-5.2 and lets users search specific websites  the-decoder.comChatGPT's Deep Research Mode Gets a Fullscreen Document Viewer  MacRumorsChatGPT Deep Research Now Lets You Pick Sources, Adds Built-In Documents  PCMagOpenAI hails 1 million Codex downloads, but warns limits may be coming  TechRadar",
     "published date": "Tue, 10 Feb 2026 23:02:32 GMT",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX09mVjJkTEhtT01nRk5RZ2U2dU5ybWxtOF9HS21lVWtWck9Wa2kwbEQtazZxOHQwbE1vTlZ2SVFyOUVqMENhQUxUYkFjcU5WVWI5aGoydUZBTWJrdVFmYnFnelBPekQwOTZwcFJnSnpMS2IyVkNwd3VWanVKRXBJYVVHTDJwUmNoYUpfOWVFRkoyYm9YX2gtc25HLThUTVFzblRKTklNdVRabEtoaFJ2aVRJOA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.theverge.com",
       "title": "The Verge"
+    }
+  },
+  {
+    "title": "If You Want To Keep Using Your HomePod, Update It Now - Gizmodo",
+    "description": "If You Want To Keep Using Your HomePod, Update It Now  GizmodoApple smart home users need to upgrade their iPhone today  MacworldSmart home PSA: Apple’s “new architecture” for Home app becomes mandatory today  Ars TechnicaApple is killing the old HomeKit Tuesday  The VergeReminder: Update Your Apple Home App Immediately to Avoid Issues  MacRumors",
+    "published date": "Tue, 10 Feb 2026 17:53:21 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZU91ZnJadjV4MXQyUW9EWTdZb1dOLTFEMmtPTnl1alNsYldVelQxT3M3RFF2RTlXQ3BkeTNDWjlSa1pRdXlfeXVrZlFYSXpoeHZjNjV1cUEtcHNPS3JQWk9yZEJCdEFsdkRQWlZnTWh5SzZ6UVc4T2FUYjRXQk9VS1hydnlGRzVoMUpr?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://gizmodo.com",
+      "title": "Gizmodo"
+    }
+  },
+  {
+    "title": "Microsoft Patches 59 Vulnerabilities Including Six Actively Exploited Zero-Days - The Hacker News",
+    "description": "Microsoft Patches 59 Vulnerabilities Including Six Actively Exploited Zero-Days  The Hacker NewsPatch Tuesday, February 2026 Edition  Krebs on SecurityThe February 2026 Security Update Review  Zero Day InitiativeMicrosoft's Valentine's gift to admins: 6 exploited zero-day fixes  theregister.com6 Actively Exploited Zero-Days Patched by Microsoft With February 2026 Updates  SecurityWeek",
+    "published date": "Wed, 11 Feb 2026 10:22:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOHpjOTZSemZHQnEtVlZUb3JreU1JdjF3cTVMUGhocXI5WE5ESHJmQWpjTVNwblc1OVVUdTRoVGxDWURYYnVQU3hMUDJEYXRYZmYwYTFVS2YxZjNUYjNweGFMTWlBQzlrRmNKUjdwQVBELWhyVjNWVXp1TG9kTThQaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://thehackernews.com",
+      "title": "The Hacker News"
+    }
+  },
+  {
+    "title": "First Android 17 Beta arrives soon for Pixel phones - Android Police",
+    "description": "First Android 17 Beta arrives soon for Pixel phones  Android PoliceGoogle says the Android 17 Beta is coming soon  9to5GoogleGoogle releases the first beta of Android 17, adopts a continous developer release plan  TechCrunchGoogle Ships First Android 17 Beta, Emphasizes Flexibility for Larger Devices  PCMagLeft Behind: 11 Popular Android Devices That Will Never See Android 17—and What It Means for Millions of Users  WebProNews",
+    "published date": "Wed, 11 Feb 2026 04:18:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNnYydkloakU2SVRGMmdNajdDX3ItR2ZtUENOM2ZYRURIOVQ0ejJLSEhibHNfZTJHRGJWMHFQSUxCeW9tZHdSNk5fVXdrZEZiTTBOaVBhQnZ0QkZjYy1URXhtN3dEVEFFeDNpTzBPQXFxSDBCLTZsQks4bGZxRlFqWjBkT0hsTGhETGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.androidpolice.com",
+      "title": "Android Police"
     }
   },
   {
@@ -80,33 +100,23 @@
     }
   },
   {
-    "title": "Microsoft's Valentine's gift to admins: 6 exploited zero-day fixes - theregister.com",
-    "description": "Microsoft's Valentine's gift to admins: 6 exploited zero-day fixes  theregister.comMicrosoft Patches 59 Vulnerabilities Including Six Actively Exploited Zero-Days  The Hacker NewsPatch Tuesday, February 2026 Edition  Krebs on SecurityThe February 2026 Security Update Review  Zero Day InitiativeMicrosoft February 2026 Patch Tuesday fixes 6 zero-days, 58 flaws  BleepingComputer",
-    "published date": "Tue, 10 Feb 2026 22:10:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOclpfSlpIRFRfZm11UHlOVFZ2QWRPYURNaUZHQURsS0Nlc19OMlhzckZzMWxnU2NfbUtTSkszM3kyQVFGcDlrX3hidm93YzRjenctSWF3dF94M282djVRTWs1R3dydHM4QlJyOE45UWZMMnFreGk5LU9qdnlwZk1TTGFR?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theregister.com",
-      "title": "theregister.com"
-    }
-  },
-  {
-    "title": "Suda51 Says Grasshopper Is Still Working On A \"Switch 2 Version\" Of Its New Game - Nintendo Life",
-    "description": "Suda51 Says Grasshopper Is Still Working On A \"Switch 2 Version\" Of Its New Game  Nintendo LifeRomeo Is a Dead Man review – a misfire from a storied gaming provocateur | Games  The GuardianRomeo is a Dead Man Review - Worthwhile Weird  Game InformerInterview: An Inside Look Behind the Chaos of Romeo is A Dead Man  Xbox WireRomeo is a Dead Man – Suda 51 and director Ren Yamazaki discuss controlled chaos of development  PlayStation.Blog",
-    "published date": "Wed, 11 Feb 2026 05:55:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOemZjRkU4a2VjXzZlLVdiQ0dLTGVzZjBhdC1lVmYzcHVJVmt4anRJU2c4ZDlvTGx3QU9sUHoxLTZJX2doQTd3Rlg5U29ReEhqRm9vcE93RjlmallpX1hZQmxVTjBkWlg5Mm5MNEo0T3Jvdi1lOTJ6M1pQbFktc25jRVplNU9Jb0g1MWZ0OVF1c2E2NjR6YlBSRGtScm9zRjFqOEs5THE5eGNSR0JtcDRmQnR2dEJJTkpZSEgycg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Review: Reanimal (Switch 2) - Little Nightmares Team Delivers Its Darkest, Boldest Vision Yet - Nintendo Life",
+    "description": "Review: Reanimal (Switch 2) - Little Nightmares Team Delivers Its Darkest, Boldest Vision Yet  Nintendo LifeReanimal review – you will never turn your back on a pelican again as long as you live  The GuardianReanimal wants to devour you  The VergeReanimal Review - Macabre Merit  Game InformerReanimal Review: A Great Ending Can't Save A Boring Adventure  Kotaku",
+    "published date": "Wed, 11 Feb 2026 16:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UNkFRN0tYSkRNMUpfN0I1RXRLOTg0MTBjTnh1M1Y4RFRmcUVkdXdsTG91eVBvanB2SzRSRnNjeEY3bjlrUElIOUZxSnhpdzR5MDl5Xy1aSC1qQV9mVk84TGV3UGw1S1B1M1pKSW8taUs?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.nintendolife.com",
       "title": "Nintendo Life"
     }
   },
   {
-    "title": "Razer Launches Limited-Edition Boomslang Gaming Mouse for $1,337 - MacRumors",
-    "description": "Razer Launches Limited-Edition Boomslang Gaming Mouse for $1,337  MacRumorsRazer’s resurrected 25-year-old gaming mouse will cost you $1,337  The VergeRazer Is Relaunching Its First-Ever Gaming Mouse – And It Costs $1,337 USD  hypebeast.comRazer's 20th Anniversary Boomslang Mouse For $1,337 Is Already Sold Out  HotHardwareRazer Boomslang 20th Anniversary Edition Revisits the Origin of Competitive PC Gaming  stupidDOPE",
-    "published date": "Tue, 10 Feb 2026 23:50:49 GMT",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1scHBlYVhCNUh5NDBBb0hkQlJIYTJscWxCR0xwUEV5bDVVZDQ2dnR5ZXZPbm5GcHVEU21RSUhYV0pjTXpDUS13SGJoaTg4MVZ0cmNtem9jQmljSnhXdGt0UzYxaG5pYVh5V1F4MlBPc214T3lw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "'Romeo Is A Dead Man' Receives Wide Range Of Review Scores, Hits Xbox This Wednesday - Pure Xbox",
+    "description": "'Romeo Is A Dead Man' Receives Wide Range Of Review Scores, Hits Xbox This Wednesday  Pure XboxRomeo Is a Dead Man review – a misfire from a storied gaming provocateur | Games  The GuardianInterview: An Inside Look Behind the Chaos of Romeo is A Dead Man  Xbox WireRomeo is a Dead Man – Suda 51 and director Ren Yamazaki discuss controlled chaos of development  PlayStation.BlogGrasshopper has another game coming this year, while physical and Switch 2 versions of Romeo is a Dead Man are in the works  Video Games Chronicle",
+    "published date": "Tue, 10 Feb 2026 15:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaVUyTW5pb255TGc5SmkzeHlqaTlFVlkyWlZ1WHJCc05SeFNCSERGMFVtNXowV1duR1I5Tm40cU1tclVTUzRFUUZTa1Zjc1plSjM3Q2xfZjhRQ2QtN0VjcVc5ZGFtNW5sbWc4bDdnQWxEVDhFeGs5ZkEzQVV5TURUaWEyUXdVNWJMS2h5V3JZYkZneDd3eUdIdC1DbjBKWWZ4Y2NEQnBiOXNqeWtYMldDZXd5RURDX3lEUGg0?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.macrumors.com",
-      "title": "MacRumors"
+      "href": "https://www.purexbox.com",
+      "title": "Pure Xbox"
     }
   },
   {
@@ -121,32 +131,12 @@
   },
   {
     "title": "Mewgenics is a breakout hit on Steam: it sold 150,000 copies in six hours, and it's already made its development costs - Eurogamer",
-    "description": "Mewgenics is a breakout hit on Steam: it sold 150,000 copies in six hours, and it's already made its development costs  EurogamerMewgenics review – infinite ways to skin a cat  The GuardianMewgenics – Review In Progress  Game InformerMewgenics Breeding Guide - How To Breed The Best Cats  GameSpot'We have made back our development budget after 3 hours': Mewgenics explodes to number one Steam seller 14 years after its announcement  PC Gamer",
+    "description": "Mewgenics is a breakout hit on Steam: it sold 150,000 copies in six hours, and it's already made its development costs  EurogamerMewgenics review – infinite ways to skin a cat  The GuardianMewgenics – Review In Progress  Game InformerMewgenics Breeding Guide - How To Breed The Best Cats  GameSpot‘Mewgenics’ Steam Scores Are Sky-High, And It Instantly Was Profitable  Forbes",
     "published date": "Wed, 11 Feb 2026 11:29:05 GMT",
     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeEx6dVBnSFl5QUZvdUpIZkxLTVFvbkd6REVaYjM2RHRVRVl4YU5iU1VmallZOFlxSEJoNWFXd0dmTkpVTDhCR3diVGZZeVdtREUzQzB5akZCVV9yTlNJU0xQbHdzLWNNOUVkYmFTUEJzdnNqRXVWdURVZ0ZnWXlkZ29zRGJJZ3pYSHJwb1pycWNCcnBqQnJacWczYTc0akNQeVFjUDdyZ3lJcVRLdVgtcjYybk1xdlJLZVAwdjltVFI0ZTRKSUpXU0NwdWNjYlFwR3JkRlIzMA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.eurogamer.net",
       "title": "Eurogamer"
-    }
-  },
-  {
-    "title": "Column | Asking Eric: Alexa’s eavesdropping makes for uncomfortable visits - The Washington Post",
-    "description": "Column | Asking Eric: Alexa’s eavesdropping makes for uncomfortable visits  The Washington Post",
-    "published date": "Wed, 11 Feb 2026 13:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMlVUdW9UMDZ6WHFmNUh6ZDFDbU5LbE1DdzBUamZlWEE5QkJtWXp1NXB3ODZlQlpyR1h3NmZ2Wk9lWkdQTFVJLTRZY1lqaS1DcXBrNFI0UThRdnVjdXl2NGViRlNVcDl4SlpYdDdzYk1CckRaem9fWWdYbjNmd3h3R3BybzJxV3ZmcmVUeklR?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.washingtonpost.com",
-      "title": "The Washington Post"
-    }
-  },
-  {
-    "title": "TikTok is tracking you, even if you don't use the app. Here's how to stop it - BBC",
-    "description": "TikTok is tracking you, even if you don't use the app. Here's how to stop it  BBC",
-    "published date": "Wed, 11 Feb 2026 10:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYktmLWN1anBYWTZPeUtTRHFHSm1HeXJpY3Y0WnJHd2JLTnBvUHh1SVdodDU0MFpoMVpRdzlHaUVGcUttSHVJRmxKZkFSVjJUQlNaVEVfX1U5Z0g4NHUySkkzUlFqcUxseTRnd3FVcWdZZ2dJM25uQ3J6WkJnWjF6UXpKYWRibko3TWV1OVNZdFE4c0d0V0hhYkJ5Y2hEZDVHd2NVbndqaXBIV1RMT1dYU2lyMTBncHc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.bbc.com",
-      "title": "BBC"
     }
   },
   {
@@ -170,6 +160,26 @@
     }
   },
   {
+    "title": "Column | Asking Eric: Alexa’s eavesdropping makes for uncomfortable visits - The Washington Post",
+    "description": "Column | Asking Eric: Alexa’s eavesdropping makes for uncomfortable visits  The Washington Post",
+    "published date": "Wed, 11 Feb 2026 13:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMlVUdW9UMDZ6WHFmNUh6ZDFDbU5LbE1DdzBUamZlWEE5QkJtWXp1NXB3ODZlQlpyR1h3NmZ2Wk9lWkdQTFVJLTRZY1lqaS1DcXBrNFI0UThRdnVjdXl2NGViRlNVcDl4SlpYdDdzYk1CckRaem9fWWdYbjNmd3h3R3BybzJxV3ZmcmVUeklR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.washingtonpost.com",
+      "title": "The Washington Post"
+    }
+  },
+  {
+    "title": "TikTok is tracking you, even if you don't use the app. Here's how to stop it - BBC",
+    "description": "TikTok is tracking you, even if you don't use the app. Here's how to stop it  BBC",
+    "published date": "Wed, 11 Feb 2026 10:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYktmLWN1anBYWTZPeUtTRHFHSm1HeXJpY3Y0WnJHd2JLTnBvUHh1SVdodDU0MFpoMVpRdzlHaUVGcUttSHVJRmxKZkFSVjJUQlNaVEVfX1U5Z0g4NHUySkkzUlFqcUxseTRnd3FVcWdZZ2dJM25uQ3J6WkJnWjF6UXpKYWRibko3TWV1OVNZdFE4c0d0V0hhYkJ5Y2hEZDVHd2NVbndqaXBIV1RMT1dYU2lyMTBncHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bbc.com",
+      "title": "BBC"
+    }
+  },
+  {
     "title": "NASA, Boeing still working on Starliner return to flight - SpaceNews",
     "description": "NASA, Boeing still working on Starliner return to flight  SpaceNews",
     "published date": "Tue, 10 Feb 2026 13:13:02 GMT",
@@ -180,18 +190,18 @@
     }
   },
   {
-    "title": "Google Chrome 145 Released With JPEG-XL Image Support - Phoronix",
-    "description": "Google Chrome 145 Released With JPEG-XL Image Support  Phoronix'Google Chrome 145' stable release, supports wrapping in multi-column layout  GIGAZINEGoogle releases Chrome 145 offline installers for enterprise deployment  TechnobezzGoogle's Chromium team decides it will add JPEG XL support, reverses 'obsolete' declaration  devclass.comChrome 145 Update Introduces JPEG-XL for Faster, Smarter Web Images  Analytics Insight",
-    "published date": "Wed, 11 Feb 2026 00:26:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PMTE1NWwxcW1pdUFEZHRLOG9WRVRlYVFJeTFqWklWSHFFamhJZzdZaXpUcWxnZVNBTjM2SE5KNGVYempCTk1LQmlNQUNIT21mNFJHUDdrZEhmVUVKUGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "RENNtech’s New SEC V12 'Sledgehammer' Packs 7.5 Liters of Naturally Aspirated V-12 Fury - Road & Track",
+    "description": "RENNtech’s New SEC V12 'Sledgehammer' Packs 7.5 Liters of Naturally Aspirated V-12 Fury  Road & TrackRenntech Builds The Monster V12 Mercedes Restomod Of Our Dreams  CarBuzzThis Classic Mercedes Is Getting An Awesome Widebody, V12 Makeover  Motor1.comMercedes' legendary V12 engine returns  TelegrafiAn Iconic Classic Mercedes-Benz Is Getting the Restomod It’s Always Deserved  Gear Patrol",
+    "published date": "Tue, 10 Feb 2026 19:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbThnWUNCNkR2SHBPenR4Y1BVV3UySFh6UHY4c1EyZlJLbFNtWkVZbDlJaWwyYXRyVGpOdTMtMUJXRU9ZbFRtaG5XNGpfVjFvc0tqQWYzUm5Vd3dkMHFiakNIZXllbkk0SmRBLTd6SVJ3M3Q1RWpoSDlPVDEyZ18ybHN2am1heTFvZG9RLURfSlRwdXp0TlRodlNDOWFSQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.phoronix.com",
-      "title": "Phoronix"
+      "href": "https://www.roadandtrack.com",
+      "title": "Road & Track"
     }
   },
   {
     "title": "'Relooted' Is Available Today With Xbox Game Pass, And Some Early Reviews Are Now Live - Pure Xbox",
-    "description": "'Relooted' Is Available Today With Xbox Game Pass, And Some Early Reviews Are Now Live  Pure XboxNew video game sees Africans fantasise about taking back looted treasures  BBCVideo game Relooted tasks you with reclaiming African artifacts in museums  CBCA good joke about game launches  Game File | Stephen TotiloRelooted is a history lesson in puzzle game form  Polygon",
+    "description": "'Relooted' Is Available Today With Xbox Game Pass, And Some Early Reviews Are Now Live  Pure XboxNew video game sees Africans fantasise about taking back looted treasures  BBCVideo game Relooted tasks you with reclaiming African artifacts in museums  CBCA New Video Game Lets Players Reclaim Africa’s Stolen Treasures  Artnet NewsA good joke about game launches  Game File | Stephen Totilo",
     "published date": "Tue, 10 Feb 2026 11:00:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdXU0N09iTEJUUjgwZk5iM05JS3lmYW5ESm03OGRwS1BiM0NYMGRDcm12QUhXdHl4b2VUeTBWeGJwZVJFU1AxM0lybGpNU2VNWm9ZTWc3aUw5elFEUUgyR3FDYkpqaWtFeHlSQlQxQjRqYUFpRnhWZ1lYeU1ldWpJbF9TaTRRcFVMUnJWeGFsdUd4eXNjSGQwTGt4M0NjUTZsWGEwV0xpbFgtOFBvZVhrNXNWUE9UZ3k0bllvWEZ3?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -200,13 +210,13 @@
     }
   },
   {
-    "title": "RENNtech’s New SEC V12 'Sledgehammer' Packs 7.5 Liters of Naturally Aspirated V-12 Fury - Road & Track",
-    "description": "RENNtech’s New SEC V12 'Sledgehammer' Packs 7.5 Liters of Naturally Aspirated V-12 Fury  Road & TrackRenntech Builds The Monster V12 Mercedes Restomod Of Our Dreams  CarBuzzThis Classic Mercedes Is Getting An Awesome Widebody, V12 Makeover  Motor1.comAn Iconic Classic Mercedes-Benz Is Getting the Restomod It’s Always Deserved  Gear PatrolRennTech Is Turning a Classic Mercedes SEC Into a 660-HP V12 Sledgehammer  Autoblog",
-    "published date": "Tue, 10 Feb 2026 19:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbThnWUNCNkR2SHBPenR4Y1BVV3UySFh6UHY4c1EyZlJLbFNtWkVZbDlJaWwyYXRyVGpOdTMtMUJXRU9ZbFRtaG5XNGpfVjFvc0tqQWYzUm5Vd3dkMHFiakNIZXllbkk0SmRBLTd6SVJ3M3Q1RWpoSDlPVDEyZ18ybHN2am1heTFvZG9RLURfSlRwdXp0TlRodlNDOWFSQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Google Chrome 145 Released With JPEG-XL Image Support - Phoronix",
+    "description": "Google Chrome 145 Released With JPEG-XL Image Support  Phoronix'Google Chrome 145' stable release, supports wrapping in multi-column layout  GIGAZINEGoogle releases Chrome 145 offline installers for enterprise deployment  TechnobezzGoogle's Chromium team decides it will add JPEG XL support, reverses 'obsolete' declaration  devclass.comWhy Everyone Is Talking About Chrome 145’s New JPEG-XL Feature  inkl",
+    "published date": "Wed, 11 Feb 2026 00:26:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PMTE1NWwxcW1pdUFEZHRLOG9WRVRlYVFJeTFqWklWSHFFamhJZzdZaXpUcWxnZVNBTjM2SE5KNGVYempCTk1LQmlNQUNIT21mNFJHUDdrZEhmVUVKUGc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.roadandtrack.com",
-      "title": "Road & Track"
+      "href": "https://www.phoronix.com",
+      "title": "Phoronix"
     }
   },
   {
@@ -220,6 +230,16 @@
     }
   },
   {
+    "title": "Hearthstone Cataclysm Card Reveal - Ultraxion Looks Like A Must-Have For Deathwing Decks - GameSpot",
+    "description": "Hearthstone Cataclysm Card Reveal - Ultraxion Looks Like A Must-Have For Deathwing Decks  GameSpot34.6 Patch Notes  Blizzard EntertainmentYour Guide to CATACLYSM Card Reveals and Free Rewards in the Dragon’s Hoard  Blizzard EntertainmentHearthstone's 'year of change' begins with a twist on one of WoW's biggest expansions, and a bucket of free cards  PC GamerHearthstone announces Cataclysm expansion launching in March 2026  GosuGamers",
+    "published date": "Tue, 10 Feb 2026 17:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbEtqUDlNSnBmeTAxUTNydEFjUzFabkE2YVpDd3IyclZsTlNIR0FDY3FqUlFVMkhnZGJ1Ukt3V2pYRmpTc1hSREROZWMzVWVyQWNFX2ZoM0JhcHZrbXE1YTBtN25VWXkxblZrTWdnS2VxREZHMW5ReG5tU2l6djZiUktrdjlscms0Z1BfbV91cEQ5cnAyY2VMT29aMHlDclhDSzdqNXpIS3hDRDB2V0xhVW1HaXdaYTQxOTd3YW1rQ3lyWGRkdTdVeUV6cjZVRGM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.gamespot.com",
+      "title": "GameSpot"
+    }
+  },
+  {
     "title": "Microsoft is keeping Secure Boot alive with Windows updates - The Verge",
     "description": "Microsoft is keeping Secure Boot alive with Windows updates  The VergeRefreshing the root of trust: industry collaboration on Secure Boot certificate updates  Windows BlogMicrosoft is Refreshing Secure Boot Certificates on Millions of Windows PCs  TechPowerUpUpgrade Now: Microsoft Issues Security Warning to Those Still on Windows 10  PCMagMicrosoft is giving Secure Boot a 15-year refresh, so update your PC to stay safe  XDA",
     "published date": "Tue, 10 Feb 2026 17:00:00 GMT",
@@ -227,16 +247,6 @@
     "publisher": {
       "href": "https://www.theverge.com",
       "title": "The Verge"
-    }
-  },
-  {
-    "title": "Hearthstone Cataclysm Card Reveal - Ultraxion Looks Like A Must-Have For Deathwing Decks - GameSpot",
-    "description": "Hearthstone Cataclysm Card Reveal - Ultraxion Looks Like A Must-Have For Deathwing Decks  GameSpot34.6 Patch Notes  Blizzard EntertainmentHearthstone's 'year of change' begins with a twist on one of WoW's biggest expansions, and a bucket of free cards  PC GamerHearthstone announces Cataclysm expansion launching in March 2026  GosuGamersHearthstone Is Officially Giving Away Two-Thirds Of The Game For Free Very Soon  AOL.com",
-    "published date": "Tue, 10 Feb 2026 17:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbEtqUDlNSnBmeTAxUTNydEFjUzFabkE2YVpDd3IyclZsTlNIR0FDY3FqUlFVMkhnZGJ1Ukt3V2pYRmpTc1hSREROZWMzVWVyQWNFX2ZoM0JhcHZrbXE1YTBtN25VWXkxblZrTWdnS2VxREZHMW5ReG5tU2l6djZiUktrdjlscms0Z1BfbV91cEQ5cnAyY2VMT29aMHlDclhDSzdqNXpIS3hDRDB2V0xhVW1HaXdaYTQxOTd3YW1rQ3lyWGRkdTdVeUV6cjZVRGM?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.gamespot.com",
-      "title": "GameSpot"
     }
   },
   {
@@ -250,16 +260,6 @@
     }
   },
   {
-    "title": "Riot Games downsizes 2XKO team, about 80 employees affected - GamesIndustry.biz",
-    "description": "Riot Games downsizes 2XKO team, about 80 employees affected  GamesIndustry.bizAn Update on 2XKO  Riot GamesRiot Games lays off roughly 80 employees from 2XKO team  Game DeveloperRiot Spent A Decade Developing A Fighting Game Then Laid Off Around 80 Developers Less Than One Month After Release  aftermath.siteRiot Games Lays Off Dozens From 2XKO's Development Team Less Than a Month After Launch  IGN",
-    "published date": "Tue, 10 Feb 2026 09:33:01 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYVJ6ZVlMdE91em5IRi0zblNka1JXZWVkZGYxU1k2NXF0S1JZV2V1elFaYTRiZzB0aTI4X0syTk5td2JYZU5yODVLMmwyczBhUFdHb0pna0JpVXNMZ2RhNjJPWTVLcmp1MFJJS0tWcnMxQlY2XzRpRHk3LVZfQjB5SVNEcU9LOEp4TzJUYmFJc1JIdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.gamesindustry.biz",
-      "title": "GamesIndustry.biz"
-    }
-  },
-  {
     "title": "Microsoft dials up the nagging in Windows, calls it security - theregister.com",
     "description": "Microsoft dials up the nagging in Windows, calls it security  theregister.comMicrosoft announces new mobile-style Windows security controls  BleepingComputerMicrosoft Announces Windows Baseline Security Mode and User Transparency and Consent  Thurrott.comMicrosoft Locks Down Rogue Apps With ‘Consent-First’ Security  digit.fyiMicrosoft to roll out a ‘consent first’ model to protect Windows  Computerworld",
     "published date": "Tue, 10 Feb 2026 15:05:00 GMT",
@@ -267,6 +267,26 @@
     "publisher": {
       "href": "https://www.theregister.com",
       "title": "theregister.com"
+    }
+  },
+  {
+    "title": "A forgotten battery design from Thomas Edison—how scientists helped reimagine it - Tech Xplore",
+    "description": "A forgotten battery design from Thomas Edison—how scientists helped reimagine it  Tech XploreThomas Edison Tried to Build an EV Battery in 1901. Scientists Just Made It Work  GizmodoThomas Edison’s failed rechargeable battery may get a second life  Popular ScienceNew nickel-iron battery charges in seconds, survives 12,000 cycles  Interesting EngineeringUCLA Scientists Revitalize Thomas Edison’s Overlooked Battery Design  bioengineer.org",
+    "published date": "Tue, 10 Feb 2026 21:31:28 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNTZZV0dFWnRPMFF5MUhBVl84M3l3VDBXLUN6a25salpqM0djS2YxVV9aX2N0WFVRaElkUEpBc0ItVW9iMkNlMlpnMHVBVElMa3czaWxtQnZ6bmhldHZTaVZ5SGNheTlPaTRkaWRzcHlJWVN0eUJuWWxLNERUaE9RRFhpVGFpUjdhMVZr?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://techxplore.com",
+      "title": "Tech Xplore"
+    }
+  },
+  {
+    "title": "Players surge back to Overwatch with the new expansion, as it leapfrogs Marvel Rivals on Steam and dominates Twitch - Eurogamer",
+    "description": "Players surge back to Overwatch with the new expansion, as it leapfrogs Marvel Rivals on Steam and dominates Twitch  EurogamerOverwatch: The New Year-Long Narrative, Explained  Xbox Wire\"What would I change if we could go back?\" Inside Blizzard's big plan to put Overwatch back on top  EurogamerOverwatch 2 Is Just 'Overwatch' Again And Five New Heroes Arrive Next Week  Game InformerBlizzard Confirms Overwatch Just Had Its Best Weekend Player Count in a Year Across All Platforms, as Season 1 Officially Goes Live  IGN",
+    "published date": "Wed, 11 Feb 2026 10:52:32 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9yUHhuRGRCV3R2anY3RldOM0UxZU0xSWl2YnJxNmJpdk9nY2k5UTdybkxxVWV5Q1Njb3l3TFMwLXZtUGNlUlB6VTNuUEE1REtJR3hEZU54UURCclBPbjRrNmF3aVlWdVdGeXB3UEVGckI0bTFTUy1KaDdYLTNNQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.eurogamer.net",
+      "title": "Eurogamer"
     }
   },
   {
@@ -280,26 +300,6 @@
     }
   },
   {
-    "title": "PlayStation Plus February 2026 Extra and Premium Games Include Sony Blockbuster Spider-Man 2 - IGN",
-    "description": "PlayStation Plus February 2026 Extra and Premium Games Include Sony Blockbuster Spider-Man 2  IGNLeak: PlayStation Plus February 2026 Extra and Premium Games Revealed  VICESome of February’s PlayStation Plus Game Catalog titles have leaked, including Spider-Man 2  Video Games ChroniclePS Plus Extra, Premium February Leak Will Please Fans  PlayStation LifeStyleNew PlayStation Plus Freebie Is 87% Rated Studio Ghibli-Inspired Hit  GAMINGbible",
-    "published date": "Tue, 10 Feb 2026 17:05:49 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV0o3ZjhyNWxUU0dnNlhFaTV5WVdlT1NsVzFLdXhBVDN0MWRxdlhoTDF3aDhQX0JPWWZVekRRNXZNX1NwdW9ya2haa0czUURkcTk0OEU1cl9WLU5wZmJsVHlCLWQtbWVmU2h0ZkhVZ0VsZmdreVlhVzlEQWVqMXVPTEVnUzNmX3g3ZC1adjBzMHlJWGtVVE53eUJaTjR5SlVvVTk0TTdRTGtPTlJuaU13enl5NjJaeXhWSUVZM3Z3?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ign.com",
-      "title": "IGN"
-    }
-  },
-  {
-    "title": "Players surge back to Overwatch with the new expansion, as it leapfrogs Marvel Rivals on Steam and dominates Twitch - Eurogamer",
-    "description": "Players surge back to Overwatch with the new expansion, as it leapfrogs Marvel Rivals on Steam and dominates Twitch  EurogamerOverwatch: The New Year-Long Narrative, Explained  Xbox Wire\"What would I change if we could go back?\" Inside Blizzard's big plan to put Overwatch back on top  EurogamerOverwatch Season 1 Debut Sees Blizzard's Relaunched Hero Shooter Double Its Steam Player Record  IGNOverwatch 2 Is Just 'Overwatch' Again And Five New Heroes Arrive Next Week  Game Informer",
-    "published date": "Wed, 11 Feb 2026 10:52:32 GMT",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9yUHhuRGRCV3R2anY3RldOM0UxZU0xSWl2YnJxNmJpdk9nY2k5UTdybkxxVWV5Q1Njb3l3TFMwLXZtUGNlUlB6VTNuUEE1REtJR3hEZU54UURCclBPbjRrNmF3aVlWdVdGeXB3UEVGckI0bTFTUy1KaDdYLTNNQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.eurogamer.net",
-      "title": "Eurogamer"
-    }
-  },
-  {
     "title": "YouTube Music adding ‘AI Playlist’ with text-based playlist generation - 9to5Google",
     "description": "YouTube Music adding ‘AI Playlist’ with text-based playlist generation  9to5GoogleYouTube rolls out an AI playlist generator for Premium users  TechCrunchYouTube Music just got an AI playlist maker.  The VergeYouTube Music launches an AI-based customized playlist feature  PhoneArenaYouTube Premium rolls out AI playlists —here’s how to create your perfect mix  Gulf News",
     "published date": "Tue, 10 Feb 2026 14:35:00 GMT",
@@ -310,33 +310,23 @@
     }
   },
   {
-    "title": "Monster Hunter Wilds Expansion Sounds Big, Will Be Revealed In Summer - Kotaku",
-    "description": "Monster Hunter Wilds Expansion Sounds Big, Will Be Revealed In Summer  KotakuMonster Hunter Wilds: New content update and Arch-Tempered Arkveld arrive February 18  PlayStation.BlogCapcom Developing Another Monster Hunter Wilds 'Large-Scale Expansion' Similar to Iceborne  IGNMonster Hunter Wilds Gets Major Anniversary Update, Capcom Confirms Large-Scale Expansion in the Works  TechPowerUpMonster Hunter Wilds Expansion and Updates Announced  Siliconera",
-    "published date": "Tue, 10 Feb 2026 15:47:54 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcmtBOUtoQUotSGNJYTZfRng5QllGNDd3b0p6OW1XOEZfTDRyTjJ2UnBIUGp4OFRuVVd0QXBiSUlSS0l5cGlaNTZoVVZQV05uVHNGeUJsb2JqaU05S3Z6MXdLUmhvRUdvQnpDbEJwcEdCNERCenVhTFlEajhCdjdLTm1RaEJiZUl4MGlyU1FYb2kxZkE1UnlkU0ttNkpMSXMxZEJJZEpJMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Sorry, but don't expect to see Wolverine at tomorrow's PlayStation State of Play - Eurogamer",
+    "description": "Sorry, but don't expect to see Wolverine at tomorrow's PlayStation State of Play  EurogamerState of Play returns this Thursday, February 12  PlayStation.BlogMarvel's Wolverine Probably Won't Be At Tomorrow's PlayStation State Of Play, And Here's Why  Game InformerPlayStation’s next big games showcase is on February 12th  The VergePlayStation announces new State of Play presentation for February 12 | News-in-Brief  GamesIndustry.biz",
+    "published date": "Wed, 11 Feb 2026 09:48:26 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc1l5c3Rram9LZ19sN253S1JzSFZiN002TDlKU3NfbTROZzVJZ0tMakZ6TmxiekNwb3lGYjExRzdOMGFocnlDNGRFeTBTUTJZSlpCZVgxVmhDbFJNWWhIbDByVEJ6TWh5WUhDY3A2WGZJV3g1VFRJRC05cGg3SFdiY2dGeDh3dHktUUNYYko1RjZRdVcxdjdoMVpleF9QOGhIR2VhNjZ3?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://kotaku.com",
-      "title": "Kotaku"
+      "href": "https://www.eurogamer.net",
+      "title": "Eurogamer"
     }
   },
   {
-    "title": "Controversial Overwatch character to be redesigned after fan backlash - Creative Bloq",
-    "description": "Controversial Overwatch character to be redesigned after fan backlash  Creative BloqBlizzard Set To Redesign Newly Announced Overwatch Hero After Community Backlash  TechPowerUpYes, Overwatch Characters Have Been Getting Sexier, But Not For The Obvious Reason  GameSpotNew Overwatch actor addresses the \"elephant in the room,\" says she had to \"mourn\" her character's redesign: \"Let's keep rooting for the version of her that could be\"  GamesRadar+\"She can be even better\" - Blizzard agrees to change new Overwatch hero's face after the community, and Anran's voice actor, speak out  Eurogamer",
-    "published date": "Tue, 10 Feb 2026 13:43:50 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRGNnelBfMjdKM2V5aVB6S09jMmpBSlVNdEFyX2JPVnBkQUZ1d05mcS14TmlIMnFjYTJlX2pTcGN1aWFVUnVDbjQwQjN1UEZMemJ3N2d1ZVJDNXpVVzlFemNPY0NhUTNTSDZCdmk1YzV5NDdJWUdvaEIwYXVTSEo2b1F4aG1Ea1VaNHNvcDI0cEZWYTM5eTRVTUtOUlJ4UkNNY1ZnM3Q2OFVLR05BVXY4cVI5cHNFYUNyZ2RF?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Monster Hunter Wilds large-scale expansion in development; version 1.041 update launches February 18 - Gematsu",
+    "description": "Monster Hunter Wilds large-scale expansion in development; version 1.041 update launches February 18  GematsuMonster Hunter Wilds: New content update and Arch-Tempered Arkveld arrive February 18  PlayStation.BlogCapcom Developing Another Monster Hunter Wilds 'Large-Scale Expansion' Similar to Iceborne  IGNFor its first anniversary, Monster Hunter Wilds gets a collab with its kid friendly cousin, and the promise of some DLC  Rock Paper ShotgunMonster Hunter Wilds Expansion and Updates Announced  Siliconera",
+    "published date": "Tue, 10 Feb 2026 01:21:56 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWTRTQjV2cS1XSjFkWEtZT3ZUN0kwV3lKMmwtTF9FWFZqS3JBclh4dkMtS3FmcklRMUQxZTNlQlowTWV6aHNtTkx5NnZSRXdmOWY1clprc05nZnlQUU15VlV3aTM0M0twdU9venN0Yk53TVJuMWlCM2lqeFMzMlkwcmZQVHJNV1hvQTMybExud0E1QUo3Ry1La2xsYzBpNlV1aUFodjNYRU4xZm5GZ0ZjMXAxeWpqUlhUYVgxTUdJX2w1MEs4XzlDdGJ1Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.creativebloq.com",
-      "title": "Creative Bloq"
-    }
-  },
-  {
-    "title": "Your PC won't be updated to Windows 11 26H1 - How-To Geek",
-    "description": "Your PC won't be updated to Windows 11 26H1  How-To GeekView Full Coverage on Google News",
-    "published date": "Tue, 10 Feb 2026 20:16:21 GMT",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9LQThTemVYdTFjVmFUMnpwMXVqVkVtanlidEpnV2FBTHlQRUN3a01GZ0c3N2xXWFo5S1pQTlpNODVERm9fdkJHSzFTZUNENVZVNE9UUFl2ZFc1cl9tZFpwbUxCcldscHZqUU82UFN5LWREOHZGVlFN?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.howtogeek.com",
-      "title": "How-To Geek"
+      "href": "https://www.gematsu.com",
+      "title": "Gematsu"
     }
   },
   {
@@ -350,6 +340,16 @@
     }
   },
   {
+    "title": "Blizzard agrees that Overwatch's \"Ozempic-chic\" Anran design could be \"better,\" hopes to update it during Season 1 - PCGamesN",
+    "description": "Blizzard agrees that Overwatch's \"Ozempic-chic\" Anran design could be \"better,\" hopes to update it during Season 1  PCGamesNYes, Overwatch Characters Have Been Getting Sexier, But Not For The Obvious Reason  GameSpotBlizzard Set To Redesign Newly Announced Overwatch Hero After Community Backlash  TechPowerUpControversial Overwatch character to be redesigned after fan backlash  Creative BloqNew Overwatch actor addresses the \"elephant in the room,\" says she had to \"mourn\" her character's redesign: \"Let's keep rooting for the version of her that could be\"  GamesRadar+",
+    "published date": "Tue, 10 Feb 2026 11:47:22 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5cXBLZDhjQklTamtxdU5nOVVLby10OUJILW9TTDlPT2xkaTdIVEYzR2NNSkk5V3prNWh3NGxnYlFUd016REtpNU81d09zUm5NZzFjQzNPdXBBMHM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.pcgamesn.com",
+      "title": "PCGamesN"
+    }
+  },
+  {
     "title": "Until Dawn Developer Announces Release Date for Long-Awaited Sci-Fi Horror Directive 8020 - IGN",
     "description": "Until Dawn Developer Announces Release Date for Long-Awaited Sci-Fi Horror Directive 8020  IGNDirective 8020, The Next Dark Pictures Game, Gets May Launch Date And New Trailer  Game InformerDirective 8020 brings sci-fi survival horror to PS5, Xbox Series X/S and PC on May 12  EngadgetA Supermassive Horror Game Is Coming In Early 2026 As 'Directive 8020' Plots May Release Date  Pure XboxDirective 8020 confirms its release date for May 12, 2026  Instant Gaming News",
     "published date": "Tue, 10 Feb 2026 15:17:13 GMT",
@@ -357,6 +357,16 @@
     "publisher": {
       "href": "https://www.ign.com",
       "title": "IGN"
+    }
+  },
+  {
+    "title": "Riot Games downsizes 2XKO team, about 80 employees affected - GamesIndustry.biz",
+    "description": "Riot Games downsizes 2XKO team, about 80 employees affected  GamesIndustry.bizAn Update on 2XKO  Riot GamesRiot Games lays off roughly 80 employees from 2XKO team  Game DeveloperRiot Spent A Decade Developing A Fighting Game Then Laid Off Around 80 Developers Less Than One Month After Release  aftermath.siteRiot Games Lays Off Dozens From 2XKO's Development Team Less Than a Month After Launch  IGN",
+    "published date": "Tue, 10 Feb 2026 09:33:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYVJ6ZVlMdE91em5IRi0zblNka1JXZWVkZGYxU1k2NXF0S1JZV2V1elFaYTRiZzB0aTI4X0syTk5td2JYZU5yODVLMmwyczBhUFdHb0pna0JpVXNMZ2RhNjJPWTVLcmp1MFJJS0tWcnMxQlY2XzRpRHk3LVZfQjB5SVNEcU9LOEp4TzJUYmFJc1JIdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.gamesindustry.biz",
+      "title": "GamesIndustry.biz"
     }
   },
   {
@@ -370,23 +380,23 @@
     }
   },
   {
-    "title": "New Subnautica 2 video shows off a convenient and social dive elevator, while promising that multiplayer won't ruin single player - Rock Paper Shotgun",
-    "description": "New Subnautica 2 video shows off a convenient and social dive elevator, while promising that multiplayer won't ruin single player  Rock Paper ShotgunSubnautica 2 devs show off multiplayer while constantly reassuring solo players it's totally optional  PC GamerMultiplayer in Subnautica 2 - Developers Show New Footage  IXBT.gamesSubnautica 2 Releases First Dev Vlog In Months With Focus On Multiplayer  That Hashtag ShowSubnautica 2 won’t force co-op, solo players are safe  DLCompare.com",
-    "published date": "Tue, 10 Feb 2026 19:10:12 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNT19PQURrek8yVHB1UE8weWl0c0NSRHFIU0ZpNnl3Y1F5VFk3eGlGU3ZSMERCZkljeGE3cHJrQ1drUjhPMU5kWmMwN2JWM3JPZi1FQ1V3cE1WNlhIbk9PZU1YYnBJUEJtWlBYOG9rTmR5YlZqamFsRFBMUVZBQkprbEVxcjlGcklTMm9Nb3J2Q0pYa3J4UW5naVl0Q3JrZks5T093YVdwajR3RGw4RUR3US1IZk1laTlPUHluTDV4WEpUa2lKSEFXYlA4MExVMlpXUDVXSDFxeThiUDk3RUp2QmNMd0c3d1NqYjJwNE1BSDJKUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "iPhone 18 Pro pricing rumors offer surprisingly good news - 9to5Mac",
+    "description": "iPhone 18 Pro pricing rumors offer surprisingly good news  9to5MacApple iPhone 18 Pro Design Changes Take Shape In New Leak  ForbesiPhone 18 Pro and iPhone 18 Pro Max Prices: Here's What Rumors Say  MacRumorsiPhone 18 Pro: These rumored camera upgrades could launch later this year  9to5MacApple’s Cost Management Efforts Pay Off As iPhone 18 Pro And Pro Max Base Storage Variants To Avoid Price Hikes  Wccftech",
+    "published date": "Tue, 10 Feb 2026 18:23:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWXA4MTBDNmktMTdhVWtjMUdPc29BM3VRWVRMLVFqd1BxMjU4NHhiNEN5THZDazlvaUxsejdMVEtsdEw0Y1pmRWllRmNLLXMwOFFoTmNzOWhtS241LW0tbGkycXAtc2JJZXNocEYzZjJQaWdmN0VjQ1J3OXlKNEhhNmhqS2s0ek95dDBmNGVON2I0cVU?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.rockpapershotgun.com",
-      "title": "Rock Paper Shotgun"
+      "href": "https://9to5mac.com",
+      "title": "9to5Mac"
     }
   },
   {
-    "title": "A forgotten battery design from Thomas Edison—how scientists helped reimagine it - Tech Xplore",
-    "description": "A forgotten battery design from Thomas Edison—how scientists helped reimagine it  Tech XploreNew nickel-iron battery charges in seconds, survives 12,000 cycles  Interesting EngineeringUCLA Scientists Revitalize Thomas Edison’s Overlooked Battery Design  BIOENGINEER.ORG",
-    "published date": "Tue, 10 Feb 2026 21:31:28 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNTZZV0dFWnRPMFF5MUhBVl84M3l3VDBXLUN6a25salpqM0djS2YxVV9aX2N0WFVRaElkUEpBc0ItVW9iMkNlMlpnMHVBVElMa3czaWxtQnZ6bmhldHZTaVZ5SGNheTlPaTRkaWRzcHlJWVN0eUJuWWxLNERUaE9RRFhpVGFpUjdhMVZr?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "The Trump Phone Looks as Bad as It Sounds - Gizmodo",
+    "description": "The Trump Phone Looks as Bad as It Sounds  GizmodoNew Trump Phone Reportedly Costs More, Looks Different, and Isn't Made in America  CNETTrump Mobile T1 not made in US; only 'limited' final assembly to happen domestically, says report  Times of IndiaThis is the Trump Phone  The VergeTrump T1 smartphone re-emerges with new specs and higher price  Mashable",
+    "published date": "Tue, 10 Feb 2026 21:00:19 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82U2hWdjlRbV9RNmV5bWJzZDVsdnpJRFBLazBRQkNPa19VRDc4cVVfRmpZTG1ocU1OQTdiNEVuSjk4RV9jenJ4QnZsdmlxc1V2a3FkWkp1YmlEbzNvemxzbUxJWnh1UTJCN0h6SlZfUk9LNHB3STV2UzFQNXI?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://techxplore.com",
-      "title": "Tech Xplore"
+      "href": "https://gizmodo.com",
+      "title": "Gizmodo"
     }
   },
   {
@@ -401,12 +411,22 @@
   },
   {
     "title": "Apple Expected to Launch These 10+ Products Over the Coming Months - MacRumors",
-    "description": "Apple Expected to Launch These 10+ Products Over the Coming Months  MacRumorsApple Prepares to Kick Off 2026 With the iPhone 17e, New iPads and Macs  BloombergApple Is About to Release a Flood of New Products — Here’s What’s Coming  EntrepreneurThe iPhone 17e will reportedly bring some key upgrades without raising the price  EngadgetReport: Imminent Apple hardware updates include MacBook Pro, iPads, and iPhone 17e  Ars Technica",
+    "description": "Apple Expected to Launch These 10+ Products Over the Coming Months  MacRumorsApple Prepares to Kick Off 2026 With the iPhone 17e, New iPads and Macs  Bloomberg.comApple Is About to Release a Flood of New Products — Here’s What’s Coming  EntrepreneurApple’s most affordable products are about to get a lot more exciting  9to5MacThe iPhone 17e will reportedly bring some key upgrades without raising the price  Engadget",
     "published date": "Tue, 10 Feb 2026 14:33:37 GMT",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1iSEhhY3gxakF5S3haNUY5Ni1VYk9rNnhkNWVGZmJ0eF9SLW83S0x2Zjk5SUhjNGxVdldvRE5oQm90U1l6WDFsTlFHeGlGR2gwMlc5Z0F3M0NBNHFnVU1TZmZFYTcwZWpvdzJ1ZThVUDRheG55b3lBQ01FdWxzUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.macrumors.com",
       "title": "MacRumors"
+    }
+  },
+  {
+    "title": "Tim Russ And Robert Duncan McNeill To Reprise Their ‘Star Trek: Voyager’ Roles In ‘Across The Unknown’ Game - TrekMovie.com",
+    "description": "Tim Russ And Robert Duncan McNeill To Reprise Their ‘Star Trek: Voyager’ Roles In ‘Across The Unknown’ Game  TrekMovie.com\"We Were Quite Nervous\" - Star Trek: Voyager - Across The Unknown Dev Talks Returning Actors, Music & Fan Feedback  Nintendo LifeNew Star Trek: Voyager – Across the Unknown Gameplay Trailer!  GameGrinStar Trek: Voyager – Across the Unknown demo available for Switch 2  GoNintendoNew Star Trek: Voyager – Across The Unknown Trailer Offers A Re-Build Deep Dive  Nintendo Insider",
+    "published date": "Mon, 09 Feb 2026 21:44:40 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbXVaSGV1YWV2bUVCOEN0THVHd3JkY1V1bG5rUmtUQjBYX2JDT0pPZERLTmNDVW9RRmFCYlZvZHBBQUQyUUlWWGJxQ2VxLU9GRE14Zi1UVEZDR01XM00tdmZ2VG53bmltVWlHZFhQSUFSWEZ2WFgzbE1mUHcwNlAxaWxlcGhMalBtT3JrMGpnNFpWMVI4Um85a2EyRmk3OHJsQXJXaDlSQUVPLVJTTUFiUy1MbTV3LXEyb0NVMzJiV2dBSktFeEJ5c1hqSVJnVTBsSkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://trekmovie.com",
+      "title": "TrekMovie.com"
     }
   },
   {
@@ -420,26 +440,6 @@
     }
   },
   {
-    "title": "The Trump Phone Looks as Bad as It Sounds - Gizmodo",
-    "description": "The Trump Phone Looks as Bad as It Sounds  GizmodoNew Trump Phone Reportedly Costs More, Looks Different, and Isn't Made in America  CNETTrump Mobile T1 not made in US; only 'limited' final assembly to happen domestically, says report  Times of IndiaThis is the Trump Phone  The VergeTrump T1 smartphone re-emerges with new specs and higher price  Mashable",
-    "published date": "Tue, 10 Feb 2026 21:00:19 GMT",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82U2hWdjlRbV9RNmV5bWJzZDVsdnpJRFBLazBRQkNPa19VRDc4cVVfRmpZTG1ocU1OQTdiNEVuSjk4RV9jenJ4QnZsdmlxc1V2a3FkWkp1YmlEbzNvemxzbUxJWnh1UTJCN0h6SlZfUk9LNHB3STV2UzFQNXI?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://gizmodo.com",
-      "title": "Gizmodo"
-    }
-  },
-  {
-    "title": "New MacBook Air coming soon: Here’s what we know - 9to5Mac",
-    "description": "New MacBook Air coming soon: Here’s what we know  9to5MacReport: New Macs are coming soon (for real this time)  MacworldApple MacBook Rumors: New M5 MacBook Pros Could Arrive Sooner Than You Think  CNETLaunch event in first week of March may bring M5 MacBook Pro refresh  AppleInsiderWhy You Shouldn't Buy the Next MacBook Pro  MacRumors",
-    "published date": "Tue, 10 Feb 2026 21:11:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbTJ1Z01GRUF1SGc4dEEzQlFsOU5JbWVFeEdzWF9MVUM4d1prdk0xWk5wUFo4aS1nNlQ5OWtXN3lFSDFGNmRwbnhKWmROaDNsQWMycHo0U0Uzb0M0MzhneUNFcjNZb1F6Yi1mZUg2YnR0VnE1UWY2WGlWOTRuR1Vpc1hHWno?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://9to5mac.com",
-      "title": "9to5Mac"
-    }
-  },
-  {
     "title": "Four Spark Plugs, Eight Pistons, One Stroke: How The INNengine E-REX Promises To Be Different - Jalopnik",
     "description": "Four Spark Plugs, Eight Pistons, One Stroke: How The INNengine E-REX Promises To Be Different  Jalopnik",
     "published date": "Mon, 09 Feb 2026 21:25:00 GMT",
@@ -447,16 +447,6 @@
     "publisher": {
       "href": "https://www.jalopnik.com",
       "title": "Jalopnik"
-    }
-  },
-  {
-    "title": "AT&T drops first smartphone for key customers rivals don’t have - thestreet.com",
-    "description": "AT&T drops first smartphone for key customers rivals don’t have  thestreet.comAT&T Becomes the First and Only Carrier to Launch a Kid’s Smartphone – Designed by Kids and Parents  AT&T NewsroomAT&T's budget-friendly phone for kids was designed with parental controls in mind  EngadgetAT&T's Amigo Jr. Gambit: How a Telecom Giant Is Betting Big on a Stripped-Down Phone to Win Over Anxious Parents  WebProNewsAT&T launches amiGO Jr Phone for children up to 12 years  Telecompaper",
-    "published date": "Tue, 10 Feb 2026 12:37:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeVlYQ3JiWFpaOWNJTGJaLWU5YTFkNGZON2pqendLS0lVSk5rRndfRjV6bDBpdUpTWDlMZ0xCem5MWDlPb09BNmNqRk0wM3VybjgySjF3MWFRT2wzdWpoTXJTSUluRVBGQUtIRFhHMTI4em0yRndUQmZCSnhHNTFzbU1GcDg0M0p1T2QwcVFSakt1RlNhOVp0UHVn?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.thestreet.com",
-      "title": "thestreet.com"
     }
   },
   {
@@ -470,16 +460,6 @@
     }
   },
   {
-    "title": "Video: Monster Hunter Stories 3 Trial Demo Side-By-Side Graphics Comparison (Switch 2, Xbox Series S, PS5) - Nintendo Life",
-    "description": "Video: Monster Hunter Stories 3 Trial Demo Side-By-Side Graphics Comparison (Switch 2, Xbox Series S, PS5)  Nintendo LifeThe Monster Hunter Stories 3 Demo Made Me Add it to my Steam Deck Wishlist  Steam Deck HQBaffling Capcom once again, Monster Hunter Stories 3 players are taking down superbosses despite being capped at level 10 in the RPG's free demo  GamesRadar+Monster Hunter Stories 3 Laid Down the Gauntlet for Pokemon Wind and Wave  GameRantMonster Hunter Stories 3: Twisted Reflection Pre-order Bonus and Edition Differences  GameGrin",
-    "published date": "Tue, 10 Feb 2026 03:55:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVTRYbHpJUnNLWlVGREx2aHp1VGlDXzdJSWl1ZHctVTU2d20wSEp5eV9xcFdFOEJrLS1pQlI1aXJpdHNSWGhzMkJvMlpjWTZ3aEZCblBwUnF0TTh1ejlBWVp4UFlZWWlEeG5NOU9Mbk9IdkUxb200VEZqYlJHY1lZLWg2cFp2YU10RkZGYm1MWUVZeF9xVzFWOHRWWkZUTWUwNFRZOTJVMWN3VmRKT21FVmZkR052WHVIRHJtSUNMZmNFV3pUZHZiQUtCTmc0NUFYdDhSbkx5QjVtLUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.nintendolife.com",
-      "title": "Nintendo Life"
-    }
-  },
-  {
     "title": "Poll: So, Do You Prefer Hollow Knight Or Silksong? - Nintendo Life",
     "description": "Poll: So, Do You Prefer Hollow Knight Or Silksong?  Nintendo LifeBehind the music of hit Australian indie game Hollow Knight: Silksong  Australian Broadcasting Corporation",
     "published date": "Tue, 10 Feb 2026 17:00:00 GMT",
@@ -487,16 +467,6 @@
     "publisher": {
       "href": "https://www.nintendolife.com",
       "title": "Nintendo Life"
-    }
-  },
-  {
-    "title": "It sounds like Apple will continue a positive CarPlay trend around iOS 27 - 9to5Mac",
-    "description": "It sounds like Apple will continue a positive CarPlay trend around iOS 27  9to5MacApple Plans to Allow Outside Voice-Controlled AI Chatbots in CarPlay  BloombergApple is working to make CarPlay compatible with AI chatbots like ChatGPT  TechCrunchApple to Allow ChatGPT, Claude, and Gemini in CarPlay  MacRumorsApple’s CarPlay AI Push And Q.AI Deal Meet Stretch Valuation Concerns  Yahoo Finance",
-    "published date": "Mon, 09 Feb 2026 20:10:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YVDNBcmsxd181RFJ0a2hmVnhQazdUYlpFYWxTM19ZOEExZ0RSZWNTX2JRVmRjUWJpT3oxVWtqUXZGQVl3QkEzMXRma2ZaVHQ5M05rM2dyYlplMzBXLV9HcTI2amNWTEtrQ3dz?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://9to5mac.com",
-      "title": "9to5Mac"
     }
   },
   {
