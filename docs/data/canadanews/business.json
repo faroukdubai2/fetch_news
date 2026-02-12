@@ -1,9 +1,19 @@
 [
   {
     "title": "Kraft Heinz halts plans to split company - CBC",
-    "description": "Kraft Heinz halts plans to split company  CBCKHC Q4 Deep Dive: Investment Ramp and Brand Strategy Shift Take Center Stage  The Globe and MailMajor U-turns on corporate splits in recent years  ReutersKraft Mac & Cheese and Heinz Ketchup are sticking together after all  Yahoo! Finance CanadaKraft Heinz pauses work to split the company as new CEO says 'challenges are fixable'  CNBC",
+    "description": "Kraft Heinz halts plans to split company  CBCKHC Q4 Deep Dive: Investment Ramp and Brand Strategy Shift Take Center Stage  The Globe and MailMajor U-turns on corporate splits in recent years  ReutersKraft Mac & Cheese and Heinz Ketchup are sticking together after all  Yahoo! Finance CanadaInvestor Outlook: Kraft Heinz pauses split as 2026 earnings slide  BNN Bloomberg",
     "published date": "Thu, 12 Feb 2026 02:25:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lOG9kOTFBdHpBLWtzRGY1dFZLVGFZREp3cVdGQllxNGZHS0lUOXVkOEhldVU3bWMyaXBaeGJyVkhfalBDYlI4RWF2OVVTUklOV2hlSW4zNkVoQWs1Wk5oejl3N2x3Wm9FUnNYTlZJb0VDWEpVTkxMeVJvVHZGbHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cbc.ca",
+      "title": "CBC"
+    }
+  },
+  {
+    "title": "Why some Canadian companies are turning their workers into owners instead of selling to the U.S. - CBC",
+    "description": "Why some Canadian companies are turning their workers into owners instead of selling to the U.S.  CBCAdvocates urge Ottawa to extend ‘no-brainer’ tax incentive for employee ownership  Toronto StarHow an employee ownership trust actually works in Canada  Yahoo News Canada",
+    "published date": "Wed, 11 Feb 2026 09:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOENuS1c4Slp0UnVnaU9GemItOWJqMG1Lb0QtOXBScE5SS201b0VjckhyMlhWdWZOX3VuLV94M1F4a2s0MmRxTzR2eFcySk82bWZUNzhiUnNtRk13LVEwWk90MkM3bXV1alVzMy01RFFXSW5BMVZYb3hiclNtTHNLWUVBQ01pY3pQUy14ZnQyU045T05TZFRVaExDcE9DN1JVX1VOLThyaWVCZw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.cbc.ca",
       "title": "CBC"
@@ -30,6 +40,16 @@
     }
   },
   {
+    "title": "Canadians Waiting Longer for Drug Approvals Than Americans and Europeans - VOCM",
+    "description": "Canadians Waiting Longer for Drug Approvals Than Americans and Europeans  VOCMOpinion: Canada’s too-strict drug price controls are a health hazard  The Globe and MailTimely Access to New Pharmaceuticals in Canada, the United States, and the European Union, 2026  Fraser InstituteCanadians wait, on average, more than 65 weeks longer for access to new medicines than Europeans and 90 weeks more than Americans  Yahoo! Finance CanadaStudy Finds Canadians Wait More Than a Year Longer for New Medicines Than U.S. and Europe  To Do Canada",
+    "published date": "Wed, 11 Feb 2026 14:47:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01LXpfc3ZleVRTZWF6REIwRGdVaEszZEFJODV4S252Zl9XZ1NiVjB1YUxYcXduS0JtOV84U1g4YmRGUXE5TjJmLU1fSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://vocm.com",
+      "title": "VOCM"
+    }
+  },
+  {
     "title": "City of Ottawa says waste collection days are changing starting March 30 - CTV News",
     "description": "City of Ottawa says waste collection days are changing starting March 30  CTV NewsChanges to waste collection in Waterloo Region just weeks away  CityNews KitchenerYour garbage collection day could soon change: Here's why  Yahoo News Canada",
     "published date": "Wed, 11 Feb 2026 21:04:08 GMT",
@@ -50,16 +70,6 @@
     }
   },
   {
-    "title": "Canadians Waiting Longer for Drug Approvals Than Americans and Europeans - VOCM",
-    "description": "Canadians Waiting Longer for Drug Approvals Than Americans and Europeans  VOCMOpinion: Canada’s too-strict drug price controls are a health hazard  The Globe and MailTimely Access to New Pharmaceuticals in Canada, the United States, and the European Union, 2026  Fraser InstituteCanadians wait, on average, more than 65 weeks longer for access to new medicines than Europeans and 90 weeks more than Americans  Yahoo! Finance CanadaStudy Finds Canadians Wait More Than a Year Longer for New Medicines Than U.S. and Europe  To Do Canada",
-    "published date": "Wed, 11 Feb 2026 14:47:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01LXpfc3ZleVRTZWF6REIwRGdVaEszZEFJODV4S252Zl9XZ1NiVjB1YUxYcXduS0JtOV84U1g4YmRGUXE5TjJmLU1fSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://vocm.com",
-      "title": "VOCM"
-    }
-  },
-  {
     "title": "Ontario’s 2026 PR Spots Just Went Up & These Workers Have The Best Shot - INC News",
     "description": "Ontario’s 2026 PR Spots Just Went Up & These Workers Have The Best Shot  INC NewsOntario announces its nomination allocation for 2026 – and it’s higher than the year prior  CIC News",
     "published date": "Tue, 10 Feb 2026 13:33:42 GMT",
@@ -67,6 +77,16 @@
     "publisher": {
       "href": "https://immigrationnewscanada.ca",
       "title": "INC News"
+    }
+  },
+  {
+    "title": "Toys \"R\" Us Canada on cusp of closing more locations: court filings - BNN Bloomberg",
+    "description": "Toys \"R\" Us Canada on cusp of closing more locations: court filings  BNN BloombergView Full Coverage on Google News",
+    "published date": "Thu, 12 Feb 2026 10:55:20 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVjJ6aHpiWTEyaEFqTmdfTzg4NTdFWFE3bjl4OUJ3UzdRNVFFbHRnZ0NmQjFQX29BTWhzUWt4VXBBTFY0ZlZZdUlsbURDdjRmTHhwdUhPMGdETkZjQjVOb3ZXdW5ScEhjczUwVnRZTll4UUVTelFyeEcyYm9RSjRPREdsNW0yaVVyU3oySlZMM0RMbVBEeWFoMmhMOFRod0xUT1AtVml4NDU1V1VGQXhIZDhIendJeTBULVJMTnM5b2hITHlZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bnnbloomberg.ca",
+      "title": "BNN Bloomberg"
     }
   },
   {
@@ -80,43 +100,13 @@
     }
   },
   {
-    "title": "All Big Six Canadian banks now backing proposed defence bank - BNN Bloomberg",
-    "description": "All Big Six Canadian banks now backing proposed defence bank  BNN BloombergCanada’s Big Six banks all on board to support new multinational defence bank  The Globe and MailBMO joins rest of big bank peers in supporting proposed international defence bank  CityNews HalifaxB.C. the best spot for global defence bank  BC Gov NewsWhy Does Vancouver Want a Global Defence Bank?  The Tyee",
-    "published date": "Wed, 11 Feb 2026 17:50:59 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVllwMnduNjI3TzNHRlBNT3djRDVNWUxiZGRfeC1FVWVJbnhjSEs5OVhMcHlVd0Z0RUhzcXl3cFlmUFhibDBrbDVnQUo1b0tTUDVmcDlqM3dMOUlkQ3hUMG93d0ptLVZRa0VfUWdaTVl3Wk5jLW1yNDNZZExrT2gxS0IzRGxUSW5FMFVHekYtbjNpMU1zOV94ZU5mRDRHeGhnWkI0S1d0NmwweThYeHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "B.C.'s top employers have been revealed and many are hiring with great perks - Daily Hive Vancouver",
+    "description": "B.C.'s top employers have been revealed and many are hiring with great perks  Daily Hive VancouverDP World Recognized as One of British Columbia’s Top Employers for the Eighth Consecutive Year  Toronto StarPreparing for a tightening labour supply as jobs become harder to fill: BC's Top Employers (2026) are announced  Yahoo! Finance CanadaDeveloping people, connections, and skills earns CPABC B.C. Top Employer status  The SpecWilliams Lake First Nation recognized as one of B.C.’s top employers  Williams Lake Tribune",
+    "published date": "Tue, 10 Feb 2026 21:19:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIbERoTjZpam5UcV9KMlJILWJaTmgxV1BaMUhLaWVVNk95X3dXT3Zycmhvd1J0QnhHbjJYV3M1SlVoMkhZb3JQX0JHT1dzZEJVTE5pZHFjaWprUWZMYXZLV3NnZi1pakJXaHlmag?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.bnnbloomberg.ca",
-      "title": "BNN Bloomberg"
-    }
-  },
-  {
-    "title": "Shopify's shares slide as investors weigh its AI bet - Yahoo! Finance Canada",
-    "description": "Shopify's shares slide as investors weigh its AI bet  Yahoo! Finance CanadaShopify stock drops despite revenue beat, $2 billion buyback  CNBCShopify reports US$743M Q4 profit, revenue up 31 per cent from year ago  CP24Shopify to spend $2-billion on share buybacks after posting double-digit quarterly growth  The Globe and MailShopify stock slides despite strong fourth quarter and AI shopping push  Financial Post",
-    "published date": "Wed, 11 Feb 2026 17:32:24 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaEhSQ3llWjZONVIxNmhPZjB0YjZlb08zVU81UDBQaUlKZ1YzNDliQXBINUNvRG11aHIzelBsVkRpYTU3WDhYU1NGNUgzeGx2RmRBY0VLekpBcDRwVWZpWThsRzNkRkhLUHNSd2ltdjY0eE0zWXZRSHdJSXRiZW42RXFxNGdEenVNaExVMlVTRTU5NkJROHo2NWs2MHpWeUVRRXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://ca.finance.yahoo.com",
-      "title": "Yahoo! Finance Canada"
-    }
-  },
-  {
-    "title": "Toys \"R\" Us Canada on cusp of closing more locations: court filings - CP24",
-    "description": "Toys \"R\" Us Canada on cusp of closing more locations: court filings  CP24View Full Coverage on Google News",
-    "published date": "Wed, 11 Feb 2026 21:53:08 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMDVzWkMyQkh2bTBaVGNJbjNISjFpYTR3YWktTUJIZkU1VXdSLUQtTVh5SVo3TXhibW1Wa21kYVU2ZGh3Nk9paUh2dEtfVHlTQ09iQnVGdmpGUTdjMXA4dzBvZUJVQ3dzU3BEVGdnVV9iZ1N4OTFub3VHR0otYUtGNDcxWlRxS1NqckJEZnhLNHpHSWlUdDh4N1BzZjlibkR3ZlR2bTBJZnYyUWNt?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cp24.com",
-      "title": "CP24"
-    }
-  },
-  {
-    "title": "U.S. added 130,000 jobs last month, but revisions cut 2025 gains by more than half - The Globe and Mail",
-    "description": "U.S. added 130,000 jobs last month, but revisions cut 2025 gains by more than half  The Globe and MailUS Employment: Don’t let the revisions fool you, the labor market is stable  RBCFinance and Treasury Board  Government of Nova ScotiaU.S. payrolls rose by 130,000 in January, more than expected; unemployment down to 4.3%  CNBCMarkets Pause Ahead of Payrolls  The Globe and Mail",
-    "published date": "Wed, 11 Feb 2026 13:52:17 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZFhNNlVTLU9LdjRkNU55aDE2ajVCNlNLSlB1S0t3T3BBTzZJeEluOXVYTFNHTWZCeU1qZkFwTkRBdlExRUl1Z3JIdVJ1bnJ4SzlDblhNMWxVUXhlazJHRUdrZUVMNEc2dWNFWkNGejNkRlBibVdja29PQzdQQWFjLXJBVENmMUhpSUFBaEpNcTktRkpDZWxhMVowYm5xaUJpLXM0Q0tabm0?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theglobeandmail.com",
-      "title": "The Globe and Mail"
+      "href": "https://dailyhive.com",
+      "title": "Daily Hive Vancouver"
     }
   },
   {
@@ -130,6 +120,36 @@
     }
   },
   {
+    "title": "Shopify's shares slide as investors weigh its AI bet - Yahoo! Finance Canada",
+    "description": "Shopify's shares slide as investors weigh its AI bet  Yahoo! Finance CanadaShopify stock drops despite revenue beat, $2 billion buyback  CNBCSHOP Q4 Deep Dive: AI Integration and International Expansion Shape Outlook Amid Market Caution  The Globe and MailShopify reports US$743M Q4 profit, revenue up 31 per cent from year ago  CP24Shopify stock slides despite strong fourth quarter and AI shopping push  Financial Post",
+    "published date": "Wed, 11 Feb 2026 17:32:24 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaEhSQ3llWjZONVIxNmhPZjB0YjZlb08zVU81UDBQaUlKZ1YzNDliQXBINUNvRG11aHIzelBsVkRpYTU3WDhYU1NGNUgzeGx2RmRBY0VLekpBcDRwVWZpWThsRzNkRkhLUHNSd2ltdjY0eE0zWXZRSHdJSXRiZW42RXFxNGdEenVNaExVMlVTRTU5NkJROHo2NWs2MHpWeUVRRXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://ca.finance.yahoo.com",
+      "title": "Yahoo! Finance Canada"
+    }
+  },
+  {
+    "title": "Couche-Tard unveils new back-to-basics strategy to boost growth - The Globe and Mail",
+    "description": "Couche-Tard unveils new back-to-basics strategy to boost growth  The Globe and MailView Full Coverage on Google News",
+    "published date": "Wed, 11 Feb 2026 23:54:11 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVZselNHdEt3d0NDWm0tOGVvYXFFQUVVckQzVWhZR0pmRzNlOGM4ZmhMMmZwaTFMeXo2c216MlgyM3BaNTBGTlFpZk9IOTZUd09odGcxZktqV2hib2N2VGZwSndMVHNZam9SVkZFYmZUV2w5M3lCSzRxQ2RHcWtOUWNnZ05wczBzaDNYVGFOS1NoTzhuV2ZadGV2OWc4SGJzTTQwdWNwMmVRb1o2WHJQZFdIZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theglobeandmail.com",
+      "title": "The Globe and Mail"
+    }
+  },
+  {
+    "title": "US jobs see surprise growth in January after weak 2025 - BBC",
+    "description": "US jobs see surprise growth in January after weak 2025  BBCUS Employment: Don’t let the revisions fool you, the labor market is stable  RBCPremarket: U.S. stocks futures edge higher as data eases economic worries  The Globe and MailU.S. payrolls rose by 130,000 in January, more than expected; unemployment down to 4.3%  CNBCWall Street rises to record levels after report showing the jobless rate improved last month  Times Colonist",
+    "published date": "Wed, 11 Feb 2026 14:49:19 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqaDNjelpldk1EbENodHlTSUduM2oyTE9lbnZYQlVIbmV2YmZSekt6V2VPSjRTMktZSDFoaVphQ21uNC0xcVV6dlR5NWZfd1U0d1VTS2xFdF92dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bbc.com",
+      "title": "BBC"
+    }
+  },
+  {
     "title": "How recessions reward boring businesses across B.C. - Business in Vancouver",
     "description": "How recessions reward boring businesses across B.C.  Business in Vancouver",
     "published date": "Wed, 11 Feb 2026 22:30:00 GMT",
@@ -140,43 +160,13 @@
     }
   },
   {
-    "title": "B.C.'s top employers have been revealed and many are hiring with great perks - Daily Hive Vancouver",
-    "description": "B.C.'s top employers have been revealed and many are hiring with great perks  Daily Hive VancouverDP World Recognized as One of British Columbia’s Top Employers for the Eighth Consecutive Year  Toronto StarPreparing for a tightening labour supply as jobs become harder to fill: BC's Top Employers (2026) are announced  Yahoo! Finance CanadaDeveloping people, connections, and skills earns CPABC B.C. Top Employer status  The SpecWilliams Lake First Nation recognized as one of B.C.’s top employers  Williams Lake Tribune",
-    "published date": "Tue, 10 Feb 2026 21:19:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIbERoTjZpam5UcV9KMlJILWJaTmgxV1BaMUhLaWVVNk95X3dXT3Zycmhvd1J0QnhHbjJYV3M1SlVoMkhZb3JQX0JHT1dzZEJVTE5pZHFjaWprUWZMYXZLV3NnZi1pakJXaHlmag?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://dailyhive.com",
-      "title": "Daily Hive Vancouver"
-    }
-  },
-  {
-    "title": "'Megadeals' dominate Canadian M&A as valuations soar, deal volume falls: Report - Yahoo! Finance Canada",
-    "description": "'Megadeals' dominate Canadian M&A as valuations soar, deal volume falls: Report  Yahoo! Finance Canada",
-    "published date": "Wed, 11 Feb 2026 12:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkpDUDBkZmdqcVh6cXdkOE9JT0YwQTBWMlh4Z3VVeVpTUDZUOUVRR3RQQnpqYndla09BRmdOZWdlQUtTbXAzMkkwTFdSWGd4enVVLTVkVHpUVWlvU3lJR3ZwWDVUNEtSdXMzOFlkcTBqTXh2UmxfTndHMWlJRlotc0dOSU43b3RwTE5hdXNuX0lzUFFxMS1jY2o5Z3NYc1J4ZjVoZkp2bFBqYS1mazBnX2tqRFJlNUJONGp4OHdtTEY?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://ca.finance.yahoo.com",
-      "title": "Yahoo! Finance Canada"
-    }
-  },
-  {
     "title": "Natural Gas, WTI Oil, Brent Oil Forecasts – WTI Oil Gains Ground Despite Rising Crude Inventories - FXEmpire",
-    "description": "Natural Gas, WTI Oil, Brent Oil Forecasts – WTI Oil Gains Ground Despite Rising Crude Inventories  FXEmpireOil prices rise on concerns about US-Iran tensions  Yahoo! Finance CanadaOil up 1% as Middle East tension offsets large US crude stocks build  ReutersOil rises more than 1% on US–Iran tensions, improved demand  CNBCFive Scenarios for Iran and What They Would Mean for Oil Markets  Crude Oil Prices Today | OilPrice.com",
+    "description": "Natural Gas, WTI Oil, Brent Oil Forecasts – WTI Oil Gains Ground Despite Rising Crude Inventories  FXEmpireOil prices rise on concerns about US-Iran tensions  Yahoo! Finance CanadaFive Scenarios for Iran and What They Would Mean for Oil Markets  Crude Oil Prices Today | OilPrice.comOil rises more than 1% on US–Iran tensions, improved demand  CNBCOil prices rise with US-Iran tensions, China demand in focus  Investing.com Canada",
     "published date": "Wed, 11 Feb 2026 19:00:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSDY2Qjlld1dHLWlXVzN5TWdCR2JVbFQ5WWlUVXJIRHNHano0czZoYjNKMWtSWjRMVEFlWVpUbGF0cEhVNW1sRlNxXy1LSmFlbW5LTDZmMGI5NXBQXy1EXzJGejZFY3pFTnFfMG82X1JVNDN0dnBYVHc5MmFfR1JocUlYNVRxT0ZMM1N3ZlBzNW9uUkR6aTBrSVNRaFlvaENobHp3bGtVTGhsQmdnR05lWUlnN2ZoQ29CQUtNbFBVNkVGN0REMG14MkdVbkpfR3BjSUg0WTY4Y3hmQmd0?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.fxempire.com",
       "title": "FXEmpire"
-    }
-  },
-  {
-    "title": "‘A perfect storm:’ New home construction in the GTA to decline for next 2 years amid economic uncertainty, report says - CP24",
-    "description": "‘A perfect storm:’ New home construction in the GTA to decline for next 2 years amid economic uncertainty, report says  CP24Economic headwinds expected to impact housing markets: CMHC economist  CP24Slow year predicted for home sales, new home construction in Windsor area: CMHC report  CTV NewsStable interest rates, tariff clarity expected to boost home sales in 2026: CREA  MSNNew home construction expected to fall in 2026 as uncertainty settles in Waterloo Region  The Record",
-    "published date": "Tue, 10 Feb 2026 22:00:38 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbVFscld3UExMU3B5b2MyeVN0ZWlob3VoMi1PTE9DVTlQOGJmTFVwZWNPMWRxX195SGNSLWFhUTVjb0J0bkFISGh3RWxxWmw1RE43YjJUTGlncDRYS2V4VXY4Mkc1b0ZHanV2UThzelBJMjJra0h2UEt2T0dveU5uQXhaYVNzOU9SM3JWbFhlOU5TMGZSYkRaMkVnU3hUamFTc3dQaWRkV3BpNUVvNVFsbUpRT21lQWNMQ1kxSmRkVWxsT2s1TjRFNEFMc01UWm1yX01QUUppeUFIUlkwdGgwR1hUb0V4TGhGSWpJd0UyRXNtaWM?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cp24.com",
-      "title": "CP24"
     }
   },
   {
@@ -190,23 +180,43 @@
     }
   },
   {
-    "title": "Couche-Tard reveals new strategy after ending bid to buy 7-Eleven parent last year - Yahoo! Finance Canada",
-    "description": "Couche-Tard reveals new strategy after ending bid to buy 7-Eleven parent last year  Yahoo! Finance CanadaView Full Coverage on Google News",
-    "published date": "Wed, 11 Feb 2026 18:17:07 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdV91azlsYTYxZjljTnNZT0ZfMjVLUFVhRlpObXVGeE15ZUx5VW90YzRqaXhKWXBxZVgzM2RJNmd6Q1c1VTduTmNuakFmdEZZdm00NUQ3NnBhX3UtWE5NYXhFX1J5cjJGVFdSQk1ZbTM2bXk1eHp4QnR5bVoybmVJQ0lYb0FPd21KZ0FJUg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Canada's Chinese EV Deal Doesn't End With Imports - InsideEVs",
+    "description": "Canada's Chinese EV Deal Doesn't End With Imports  InsideEVsCanadian dealers and buyers are ready to embrace new Chinese EV entrants  Automotive NewsChinese EVs are coming to Canada soon. Should you buy one?  Toronto StarCanada to attract Chinese automakers through joint ventures  electrive.comCanada Will ‘Build the Cars of the Future and Sell Them to the World’ PM Carney Says  eletric-vehicles.com",
+    "published date": "Thu, 12 Feb 2026 10:59:02 GMT",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SeWc0NlBUWWRVTXR0bGhsUEJTYkhEcG9qcFZfN3dGR3hfT1hfUW1RWHhoYmpEYmNfbVlTRGZMenB3ejhpbURLSTRmSEtwOTZNN1ZjT01VZ1J4dG5vLUZRVzJLcjNVNWt1WW1KWFVndF9HTTd6TFhz?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://ca.finance.yahoo.com",
-      "title": "Yahoo! Finance Canada"
+      "href": "https://insideevs.com",
+      "title": "InsideEVs"
     }
   },
   {
-    "title": "Airbus Wins Major Order for A350 Widebody Jets From Air Canada - Bloomberg",
-    "description": "Airbus Wins Major Order for A350 Widebody Jets From Air Canada  BloombergAir Canada updating wide-body fleet with Airbus order  The Globe and MailAir Canada Orders Eight Airbus A350-1000 Jets  Airways MagazineA New Era in Long-Haul: Air Canada to Acquire Airbus  GlobeNewswireAir Canada Orders 8 Airbus A350-1000s To Boost International Footprint  Simple Flying",
+    "title": "The fastest way to get into an Ontario LTC is by going a hospital first. That's a problem, say advocates - CBC",
+    "description": "The fastest way to get into an Ontario LTC is by going a hospital first. That's a problem, say advocates  CBCOntario long-term care homes seek more money for home care and supportive housing  CTV News",
+    "published date": "Thu, 12 Feb 2026 02:01:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96amlsNHlkdEtBWmxoY1k4N1lQT0xpVFgwNWVKVlRXZGJhTzIzTUZuZk5MeFZOSUpNX2NIN2w4UTl4Ry1lZFNNU0lYZnN6NzlpZ0NrSGZPN0R2VWJwNkhPN0hxWFdmb0JNSmgwdEN6bDNSc2NyZFdQcVZuNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cbc.ca",
+      "title": "CBC"
+    }
+  },
+  {
+    "title": "Eglinton Crosstown stations should celebrate hard-hit Little Jamaica: councillor - CTV News",
+    "description": "Eglinton Crosstown stations should celebrate hard-hit Little Jamaica: councillor  CTV NewsView Full Coverage on Google News",
+    "published date": "Wed, 11 Feb 2026 21:41:40 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLVY4WHNYWmFnUm5iX01yOU0tOWZpYlF4S1RmWkhHMXZ1RUhBcGxUX1NrelpneWFRUDRzd0Fvd2d4Vkd0X2lMSldvOXpoc0NtRXViVEJiNEZsVl93cmI0U3B3UDN2Q0Zjb3g5V1hBWHZPNW94SFphT3laZndyOUFSOEhERWFiZGo3VHJERk52UEg5bzRVWWNrZlAzOXd2VGcwUzRYSU5rXzV6MVJ2U1Y1dmVSN2ZBdUp3TXpQTXNCMk5iQkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ctvnews.ca",
+      "title": "CTV News"
+    }
+  },
+  {
+    "title": "Airbus Wins Major Order for A350 Widebody Jets From Air Canada - Bloomberg.com",
+    "description": "Airbus Wins Major Order for A350 Widebody Jets From Air Canada  Bloomberg.comAir Canada updating wide-body fleet with Airbus order  The Globe and MailAir Canada Orders Eight Airbus A350-1000 Jets  Airways MagazineA New Era in Long-Haul: Air Canada to Acquire Airbus  GlobeNewswireAir Canada Orders 8 Airbus A350-1000s To Boost International Footprint  Simple Flying",
     "published date": "Wed, 11 Feb 2026 22:38:50 GMT",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV21XVElWNkJmWi1zWnVoRlN3QngxR004V1BfcWR1TklIOFR4bTFJWFUwSzdERml0V1dfX2tfSEVGWFM4bDZkNkFTeWNpZEhtR20zMkl0RGl0N0s5ZkNpVnZ6RFFYY2h5OTFydkJKU1I4Q09IQzl5dHVqUDM0TzU5eHNsUjhWeF9LaW9WcUlVM1VDSXdQN0QxUmRoSzBpNEs1RS1mMVk0N05EdXVGWFRNTlZpQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.bloomberg.com",
-      "title": "Bloomberg"
+      "title": "Bloomberg.com"
     }
   },
   {
@@ -220,23 +230,13 @@
     }
   },
   {
-    "title": "Eglinton Crosstown stations should celebrate hard-hit Little Jamaica: councillor - CTV News",
-    "description": "Eglinton Crosstown stations should celebrate hard-hit Little Jamaica: councillor  CTV News‘The heart of this community,’ Toronto transit riders want Little Jamaica reflected in Eglinton Crosstown stations  NOW Toronto‘The government owes the community,’ Josh Matlow calls for Little Jamaica to be reflected in new LRT stations  NOW Toronto",
-    "published date": "Wed, 11 Feb 2026 21:41:40 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLVY4WHNYWmFnUm5iX01yOU0tOWZpYlF4S1RmWkhHMXZ1RUhBcGxUX1NrelpneWFRUDRzd0Fvd2d4Vkd0X2lMSldvOXpoc0NtRXViVEJiNEZsVl93cmI0U3B3UDN2Q0Zjb3g5V1hBWHZPNW94SFphT3laZndyOUFSOEhERWFiZGo3VHJERk52UEg5bzRVWWNrZlAzOXd2VGcwUzRYSU5rXzV6MVJ2U1Y1dmVSN2ZBdUp3TXpQTXNCMk5iQkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Private aviation company Vista orders 40 Bombardier Challenger 3500 jets - Yahoo! Finance Canada",
+    "description": "Private aviation company Vista orders 40 Bombardier Challenger 3500 jets  Yahoo! Finance CanadaView Full Coverage on Google News",
+    "published date": "Wed, 11 Feb 2026 14:39:24 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN1VQaERmT0ZIREl5bnl5and0NDViZnBoQnJyaGlNY25ORl9rWnJsZzY2TVc0aGFlZzNrUGNqc0NOVjRfU0VwWDV1NkhGMkFIX2h3RUJzMjRGQUR6WTBUYk04SzdEakJuRkh5S0xuX3lDR2RtNDY1amRhNUpiOXpmd3VneGV5TmEtZ3NSYWdxYw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.ctvnews.ca",
-      "title": "CTV News"
-    }
-  },
-  {
-    "title": "Canada's Chinese EV Deal Doesn't End With Imports - InsideEVs",
-    "description": "Canada's Chinese EV Deal Doesn't End With Imports  InsideEVsCanadian dealers and buyers are ready to embrace new Chinese EV entrants  Automotive NewsChinese EVs are coming to Canada soon. Should you buy one?  Toronto StarCanada to attract Chinese automakers through joint ventures  electrive.comCanada Will ‘Build the Cars of the Future and Sell Them to the World’ PM Carney Says  eletric-vehicles.com",
-    "published date": "Tue, 10 Feb 2026 14:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SeWc0NlBUWWRVTXR0bGhsUEJTYkhEcG9qcFZfN3dGR3hfT1hfUW1RWHhoYmpEYmNfbVlTRGZMenB3ejhpbURLSTRmSEtwOTZNN1ZjT01VZ1J4dG5vLUZRVzJLcjNVNWt1WW1KWFVndF9HTTd6TFhz?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://insideevs.com",
-      "title": "InsideEVs"
+      "href": "https://ca.finance.yahoo.com",
+      "title": "Yahoo! Finance Canada"
     }
   },
   {
@@ -260,13 +260,13 @@
     }
   },
   {
-    "title": "Bombardier secures $1.18-billion business jet order from Vista Global - The Globe and Mail",
-    "description": "Bombardier secures $1.18-billion business jet order from Vista Global  The Globe and MailView Full Coverage on Google News",
-    "published date": "Wed, 11 Feb 2026 11:52:24 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNHFDUVVyekpHYkRvc0FnTGxSaXJYeDdhYkt2eUlOSzlEemhlVjk2TkJ0cWRiMVhMZFVWemx2MzU1NGg3MTd6NmtNaGd0RUl6cHhjSzdudTQ5MmhqNUtGUUdfMVk2Zk9hUDdocjJwNDA5dnk4b3VYaHlCcnh5SUNoTldkMG5ZSzl3X21PWklXYXBJa0tJckViYkZkbXhUZWhlUjgyczNSN3dlVHF3M0RZVDIydGo?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "US consumer spending slowed in December - Is it a warning for the economy? - BBC",
+    "description": "US consumer spending slowed in December - Is it a warning for the economy?  BBCRetail softens as jobs loom  Yahoo! Finance CanadaAmericans might finally be buckling under the weight of rising debt and slowing wage growth  CNNRetail Sales Stall in December: 4 Stocks Still Worth Buying  The Globe and MailWall Street stalls as retail sales come in weaker than expected  Richmond News",
+    "published date": "Tue, 10 Feb 2026 18:32:08 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00LXE1MmVBbFFqRXJRN2twX004d0VicTFITlZxTW0xdzVxa3pZQWJaM1JwZWRtTFh1WksyYTkyVm5rdDBZdXh4SnE5X1dTdElxc3QxbEg4Mkp6UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.theglobeandmail.com",
-      "title": "The Globe and Mail"
+      "href": "https://www.bbc.com",
+      "title": "BBC"
     }
   },
   {
@@ -280,73 +280,33 @@
     }
   },
   {
-    "title": "What’s the Average TFSA Balance at Age 30 in Canada? - The Motley Fool Canada",
-    "description": "What’s the Average TFSA Balance at Age 30 in Canada?  The Motley Fool Canada",
-    "published date": "Wed, 11 Feb 2026 21:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVEFfa1ZHWnZ1bVJROEJ0T3FRakMxck16cEtMRW9hbEktVUozbnVkWldJWXVucXJXTTVRZVgwcG1LQXUwOUY5QjRyOE1HX0FCSmx5b285M01wM0RmdWtxbmdLR1l0Z1hHYkFqRHZZbEtaRlc0UTBnVURaRXZ1UWdNU01WNmtHd2VwYzZ4NA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Housing market faces possible recession in 2026 amid ‘subdued’ demand: CMHC - Global News",
+    "description": "Housing market faces possible recession in 2026 amid ‘subdued’ demand: CMHC  Global News‘A perfect storm:’ New home construction in the GTA to decline for next 2 years amid economic uncertainty, report says  CP24Economic headwinds expected to impact housing markets: CMHC economist  CTV NewsStable interest rates, tariff clarity expected to boost home sales in 2026: CREA  MSNNew home construction expected to fall in 2026 as uncertainty settles in Waterloo Region  The Record",
+    "published date": "Tue, 10 Feb 2026 20:13:33 GMT",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pNXhVNUh0VUc1YWh4RnJ1T1RYWXJWSVJ1TjYxN2pDc0xURzJTNGdnTmlxdlJGQ0Fkc29QbzZmdkkxa1BYQ3Vjd3FxTVRaV3hBWnJiSGVfdlB5VVJKVHJHYUVrWGstdHN6VTBLOGNVejN5QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.fool.ca",
-      "title": "The Motley Fool Canada"
+      "href": "https://globalnews.ca",
+      "title": "Global News"
     }
   },
   {
-    "title": "Toyota Boss Says Electric Highlander ‘Is Not a Niche Product’ - The Drive",
-    "description": "Toyota Boss Says Electric Highlander ‘Is Not a Niche Product’  The DriveElevated Style Meets Modern Power in the Next Generation 2027 Toyota Highlander  Toyota CanadaToyota reveals all-new, all-electric Highlander  The Globe and Mail2027 Toyota Highlander EV takes on Hyundai Ioniq 9, Kia EV9 - Reviews  driving.ca2027 Toyota Highlander Arrives as Three-Row Electric SUV  Le Guide de l'auto",
-    "published date": "Wed, 11 Feb 2026 15:15:35 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLW9SSTF6X3ZuY3V6bWNsS3ZacTdnYkdDWkJFbGhDOUZiSHpqSGRRV1hyeXpQTm0tNGVPS0JkLU84MFBJcE5HRzFkT1NhVkRaN1l2Sk94LXJNNDVGN0dJNVdLeEhVVks4ZS01MVgyLWVtQXRHUkdLMGRzRzMtVXRyUXZOTW5nNjcyR0tLNTNzUjkyanM?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.thedrive.com",
-      "title": "The Drive"
-    }
-  },
-  {
-    "title": "Instagram boss: 16 hours of daily use is 'problematic,' not addiction - BBC",
-    "description": "Instagram boss: 16 hours of daily use is 'problematic,' not addiction  BBCInstagram chief denies social media can be ‘clinically addictive’ in landmark case  CNNInstagram CEO dismisses idea of social media addiction in landmark trial  The GuardianMeta faces accusations of creating ‘breeding ground for predators’ on its platforms  Yahoo News CanadaInstagram chief says he does not believe people can get clinically addicted to social media  CTV News",
-    "published date": "Thu, 12 Feb 2026 01:19:57 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOR3ZXc01qMWV1amxLdndMbWd1T3FSMEYzcGx2OEptVGdyZkVlenMwV1ljS3Q4TVEwdW1oV0UzWXRJRGVsMzJmbktjdUZ5RWhzd0dudVp2b04tdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.bbc.com",
-      "title": "BBC"
-    }
-  },
-  {
-    "title": "Opinion: Ottawa cannot keep giving mixed signals to Canada’s energy sector - The Globe and Mail",
-    "description": "Opinion: Ottawa cannot keep giving mixed signals to Canada’s energy sector  The Globe and MailJustin Trudeau never killed the oil and gas industry  Canada's National Observer",
-    "published date": "Wed, 11 Feb 2026 11:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTFQtVjJaR2g2c2VlRGVwR0w5YldnZnZOaVlieVVfZW9qYW0zQjJ2WExWamVMR0RyYlhNN2pJd05UZnAxcXpmTXNnV1Ywc0FUVTA1MFI5ZWR5UHNWZVoyam9IWDVqaFk4a19FQzA0UXZEak5kN2ltNVF0WE9yQzh5cE83TERKaGlKVVdEUnpNWXR2Zl9pU1hscUxndw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Toyota reveals all-new, all-electric Highlander - The Globe and Mail",
+    "description": "Toyota reveals all-new, all-electric Highlander  The Globe and MailElevated Style Meets Modern Power in the Next Generation 2027 Toyota Highlander  Toyota Canada2027 Toyota Highlander EV takes on Hyundai Ioniq 9, Kia EV9 - Reviews  driving.ca2027 Toyota Highlander Arrives as Three-Row Electric SUV  Le Guide de l'autoSee the New 2027 Toyota Highlander's Exterior, Up Close (Photo Gallery)  Car and Driver",
+    "published date": "Wed, 11 Feb 2026 12:16:27 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLUxublJQWWpuT3ZLWU5kajdnMDBIZEhSSFRlQ1NqblMxZG16SUhCWVYyNFdfYXEwR3R1eUpBSnBOcWFFRFBwUjhKZzF1eFRNamNIUDFLMDFOaTE4b1E5SFBjNVlGR3NlQ3dwcVoza0xld1JsOHlGOXFGc2kyT1pqdXhBcGtfTFo0Z2t2WmdncWkzTmp4N2x4Mg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.theglobeandmail.com",
       "title": "The Globe and Mail"
     }
   },
   {
-    "title": "US consumer spending slowed in December - Is it a warning for the economy? - BBC",
-    "description": "US consumer spending slowed in December - Is it a warning for the economy?  BBCAmericans might finally be buckling under the weight of rising debt and slowing wage growth  CNNRetail softens as jobs loom  Yahoo! Finance CanadaRetail Sales Stall in December: 4 Stocks Still Worth Buying  The Globe and MailThe US consumer is slowing  Financial Times",
-    "published date": "Tue, 10 Feb 2026 18:32:08 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00LXE1MmVBbFFqRXJRN2twX004d0VicTFITlZxTW0xdzVxa3pZQWJaM1JwZWRtTFh1WksyYTkyVm5rdDBZdXh4SnE5X1dTdElxc3QxbEg4Mkp6UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "FDA refuses Moderna's application for new mRNA flu vaccine, company says - CBC",
+    "description": "FDA refuses Moderna's application for new mRNA flu vaccine, company says  CBCModerna’s Flu Vaccine Stalls at FDA Despite Need for Better Shot  Bloomberg.comUS FDA declines Moderna flu vaccine review amid vaccine guidance rollback  Al JazeeraModerna shares fall as FDA declines to review new flu vaccine  CTV NewsPrasad overruled FDA staff to reject Moderna’s flu vaccine application  statnews.com",
+    "published date": "Wed, 11 Feb 2026 15:22:47 GMT",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pUk1EeWxJRVZSZjhOTldzQmNtVF9wTWZPdGlqV2EzMnpwQk1MNHpzRUJFTFFfaFVyNlhjWXNyQVhvREtVVU9uWDVPbHd2SGtLWDZ5WUdBa25NaEN1WmdvdlJtdk5LVl9JVm1pNGpvUmR3aGxfeFpZ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.bbc.com",
-      "title": "BBC"
-    }
-  },
-  {
-    "title": "Trio charged in huge drug bust will be on trial next year - SooToday.com",
-    "description": "Trio charged in huge drug bust will be on trial next year  SooToday.com",
-    "published date": "Wed, 11 Feb 2026 21:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTXhTa01MUThZU1dWdlpGcVE1TnowcVF6akdMeWhaR2w3c1Q2bnFhRURqN1JxWThWRWNsS0p1Q0RmVWdIUzFGX1N1ZFNZa1BQMnVhdlplX2V6eUlELUxaTGo4WU1fa2FMMWFRSlRPNzZlTkYwcHA2a1hjNjVBelNIUDhYcWlXRnY4NXE2NEdCaVYyQTNyRml1REp5cVRkUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.sootoday.com",
-      "title": "SooToday.com"
-    }
-  },
-  {
-    "title": "Japan Nikkei Broke Out: Butterfly Effects On S&P 500 (DJI) - Seeking Alpha",
-    "description": "Japan Nikkei Broke Out: Butterfly Effects On S&P 500 (DJI)  Seeking AlphaAsia shares mostly gain after Wall Street wobbled over strong jobs report  CityNews HalifaxWorld shares mostly gain after Wall Street wobbled over strong jobs report  The Globe and MailJapan stocks extend post-election rally with Nikkei 225 breaching 58,000 for the first time  CNBCEuropean Stocks Climb on Earnings; Treasuries Flat: Markets Wrap  Bloomberg",
-    "published date": "Wed, 11 Feb 2026 00:00:37 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOVY2bW9Jb2c2RE90Ym1jS3BKME1zRUFwOVlySkdILXVzMHFFUnJ2Z19MUGU4TFRIVFJkMmZrVlZVSk5vRGdwTFJQUVF6Z2FqVE83bE5wVGwwMGJNV1V4UjVUYnBiRG9UWXJ6N0o4NVFYd0h6Qy1TbmNjaGRaRllTV1B0czYwSUNZNDRnTVNpd01GZDAxb3ZhYzZZWkU?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://seekingalpha.com",
-      "title": "Seeking Alpha"
+      "href": "https://www.cbc.ca",
+      "title": "CBC"
     }
   },
   {
@@ -360,23 +320,43 @@
     }
   },
   {
-    "title": "America’s national debt borrowing binge means interest payments will rocket to $2 trillion a year by 2036, CBO says - Fortune",
-    "description": "America’s national debt borrowing binge means interest payments will rocket to $2 trillion a year by 2036, CBO says  FortuneUS debt forecast to hit $64T in a decade as Trump policies widen deficit  PoliticoThe Budget and Economic Outlook: 2026 to 2036  Congressional Budget Office (.gov)CBO: Federal deficits and debt to worsen over next decade  CityNews HalifaxFederal Debt to Hit Record Levels, Budget Office Warns  The New York Times",
-    "published date": "Wed, 11 Feb 2026 15:27:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSnV5M3NnMVJKSlpkOVJ0YTAyakR3QnFnUmVNZTdseXU2Sm1RTzZWTWw3aFY5b0dUNkRheDdBRDMyVjMtSTlRajZpUk1jQy1Sd2FYMjNXV3daR0Yyd1dTTHYydlpsVWRFVDlVMWlEbDVIdlNwVUJ4MHpUX2x6eG5lemhsLXN2bFNFbkJwSWtPT2toWWFMVWY1eGhoZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "'Megadeals' dominate Canadian M&A as valuations soar, deal volume falls: Report - Yahoo! Finance Canada",
+    "description": "'Megadeals' dominate Canadian M&A as valuations soar, deal volume falls: Report  Yahoo! Finance Canada",
+    "published date": "Wed, 11 Feb 2026 12:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkpDUDBkZmdqcVh6cXdkOE9JT0YwQTBWMlh4Z3VVeVpTUDZUOUVRR3RQQnpqYndla09BRmdOZWdlQUtTbXAzMkkwTFdSWGd4enVVLTVkVHpUVWlvU3lJR3ZwWDVUNEtSdXMzOFlkcTBqTXh2UmxfTndHMWlJRlotc0dOSU43b3RwTE5hdXNuX0lzUFFxMS1jY2o5Z3NYc1J4ZjVoZkp2bFBqYS1mazBnX2tqRFJlNUJONGp4OHdtTEY?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://fortune.com",
-      "title": "Fortune"
+      "href": "https://ca.finance.yahoo.com",
+      "title": "Yahoo! Finance Canada"
     }
   },
   {
-    "title": "FDA refuses Moderna's application for new mRNA flu vaccine, company says - CBC",
-    "description": "FDA refuses Moderna's application for new mRNA flu vaccine, company says  CBCUS FDA declines Moderna flu vaccine review amid vaccine guidance rollback  Al JazeeraModerna shares fall as FDA declines to review new flu vaccine  CTV NewsPrasad overruled FDA staff to reject Moderna’s flu vaccine application  statnews.comModerna (MRNA) Gets a Sell from Bank of America Securities  The Globe and Mail",
-    "published date": "Wed, 11 Feb 2026 15:22:47 GMT",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pUk1EeWxJRVZSZjhOTldzQmNtVF9wTWZPdGlqV2EzMnpwQk1MNHpzRUJFTFFfaFVyNlhjWXNyQVhvREtVVU9uWDVPbHd2SGtLWDZ5WUdBa25NaEN1WmdvdlJtdk5LVl9JVm1pNGpvUmR3aGxfeFpZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Opinion: Ottawa cannot keep giving mixed signals to Canada’s energy sector - The Globe and Mail",
+    "description": "Opinion: Ottawa cannot keep giving mixed signals to Canada’s energy sector  The Globe and MailJustin Trudeau never killed the oil and gas industry  Canada's National Observer",
+    "published date": "Wed, 11 Feb 2026 11:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTFQtVjJaR2g2c2VlRGVwR0w5YldnZnZOaVlieVVfZW9qYW0zQjJ2WExWamVMR0RyYlhNN2pJd05UZnAxcXpmTXNnV1Ywc0FUVTA1MFI5ZWR5UHNWZVoyam9IWDVqaFk4a19FQzA0UXZEak5kN2ltNVF0WE9yQzh5cE83TERKaGlKVVdEUnpNWXR2Zl9pU1hscUxndw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.cbc.ca",
-      "title": "CBC"
+      "href": "https://www.theglobeandmail.com",
+      "title": "The Globe and Mail"
+    }
+  },
+  {
+    "title": "What’s the Average TFSA Balance at Age 30 in Canada? - The Motley Fool Canada",
+    "description": "What’s the Average TFSA Balance at Age 30 in Canada?  The Motley Fool Canada",
+    "published date": "Wed, 11 Feb 2026 21:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVEFfa1ZHWnZ1bVJROEJ0T3FRakMxck16cEtMRW9hbEktVUozbnVkWldJWXVucXJXTTVRZVgwcG1LQXUwOUY5QjRyOE1HX0FCSmx5b285M01wM0RmdWtxbmdLR1l0Z1hHYkFqRHZZbEtaRlc0UTBnVURaRXZ1UWdNU01WNmtHd2VwYzZ4NA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.fool.ca",
+      "title": "The Motley Fool Canada"
+    }
+  },
+  {
+    "title": "Japan Nikkei Broke Out: Butterfly Effects On S&P 500 (DJI) - Seeking Alpha",
+    "description": "Japan Nikkei Broke Out: Butterfly Effects On S&P 500 (DJI)  Seeking AlphaView Full Coverage on Google News",
+    "published date": "Wed, 11 Feb 2026 00:00:37 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOVY2bW9Jb2c2RE90Ym1jS3BKME1zRUFwOVlySkdILXVzMHFFUnJ2Z19MUGU4TFRIVFJkMmZrVlZVSk5vRGdwTFJQUVF6Z2FqVE83bE5wVGwwMGJNV1V4UjVUYnBiRG9UWXJ6N0o4NVFYd0h6Qy1TbmNjaGRaRllTV1B0czYwSUNZNDRnTVNpd01GZDAxb3ZhYzZZWkU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://seekingalpha.com",
+      "title": "Seeking Alpha"
     }
   },
   {
@@ -390,6 +370,16 @@
     }
   },
   {
+    "title": "Trio charged in huge drug bust will be on trial next year - SooToday.com",
+    "description": "Trio charged in huge drug bust will be on trial next year  SooToday.com",
+    "published date": "Wed, 11 Feb 2026 21:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTXhTa01MUThZU1dWdlpGcVE1TnowcVF6akdMeWhaR2w3c1Q2bnFhRURqN1JxWThWRWNsS0p1Q0RmVWdIUzFGX1N1ZFNZa1BQMnVhdlplX2V6eUlELUxaTGo4WU1fa2FMMWFRSlRPNzZlTkYwcHA2a1hjNjVBelNIUDhYcWlXRnY4NXE2NEdCaVYyQTNyRml1REp5cVRkUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.sootoday.com",
+      "title": "SooToday.com"
+    }
+  },
+  {
     "title": "Manitoba expands work permit options: 16 occupations now exempt from sector requirements - CIC News",
     "description": "Manitoba expands work permit options: 16 occupations now exempt from sector requirements  CIC News",
     "published date": "Wed, 11 Feb 2026 12:33:18 GMT",
@@ -400,6 +390,26 @@
     }
   },
   {
+    "title": "Instagram boss says 16 hours of daily use is 'problematic' not addiction - BBC",
+    "description": "Instagram boss says 16 hours of daily use is 'problematic' not addiction  BBCInstagram CEO dismisses idea of social media addiction in landmark trial  The GuardianInstagram's leader to testify in court on app design, youth mental health  Yahoo! Finance CanadaGoogle, Meta, push back on addiction claims in landmark social media trial  CP24Instagram chief compares 'addictive' platform to Netflix binge-watching during trial testimony: report  Fox Business",
+    "published date": "Thu, 12 Feb 2026 01:19:57 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOR3ZXc01qMWV1amxLdndMbWd1T3FSMEYzcGx2OEptVGdyZkVlenMwV1ljS3Q4TVEwdW1oV0UzWXRJRGVsMzJmbktjdUZ5RWhzd0dudVp2b04tdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bbc.com",
+      "title": "BBC"
+    }
+  },
+  {
+    "title": "This week’s highest savings account and guaranteed investment certificate rates - The Globe and Mail",
+    "description": "This week’s highest savings account and guaranteed investment certificate rates  The Globe and Mail",
+    "published date": "Thu, 12 Feb 2026 01:51:32 GMT",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcWNpMWdLVktTOUNIQ2ZwTVBCa01LUTBWNUkyblBGdFRsbnZNeU41RlY2MW9GQUpNUmJhY2FQTjV1cGVZdVB2NW9idmkwQXNfcHgwRDlBbGVkNDM0Q2l2R0dBcE1rOTRBeDRTUXE5aUNDZ1BXOF9yejJzQUtVX0lObV9UcFNEaW5YTjhtZFBVUklMUGZ6d21QX29lUkthN3gtTjlha25NaV8zbFRiQThkZWtsb0dxMzdTeVNnWkt6WDJveTJUdWRZd1A0NFNKdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theglobeandmail.com",
+      "title": "The Globe and Mail"
+    }
+  },
+  {
     "title": "Should the federal government lend Canada Post $1 billion to help maintain the national postal system? - Castanet",
     "description": "Should the federal government lend Canada Post $1 billion to help maintain the national postal system?  CastanetView Full Coverage on Google News",
     "published date": "Thu, 12 Feb 2026 03:30:00 GMT",
@@ -407,6 +417,26 @@
     "publisher": {
       "href": "https://www.castanet.net",
       "title": "Castanet"
+    }
+  },
+  {
+    "title": "Why Jeff Bezos gutted the Washington Post – podcast - The Guardian",
+    "description": "Why Jeff Bezos gutted the Washington Post – podcast  The GuardianWhy is the Washington Post cratering so spectacularly? | Margaret Sullivan  The GuardianOpinion | How billionaire Bezos could still emerge as saviour to the ailing Washington Post  Toronto StarThe End of Books Coverage at the Washington Post  The New YorkerThe Murder of The Washington Post  The Atlantic",
+    "published date": "Wed, 11 Feb 2026 03:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMVJXbWlRbGVyYnVzM0tONHAtR2FtVzYzWkg1MWY0MlBtd3JfX1lWLTkxcjViUmpZcHAySE1Mbm1VSmtSN21qTGlwSURsTmRzSV9ZVjVxT3pKZG11TWJMTGNoSTJCbUozSHJKRjJKaW1WUnBnampMYnZYcExhVk1JanBEZnJEY2hvZDJJY3pIQ3lIbmFtS1d6aGNPZW94NUhNdnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theguardian.com",
+      "title": "The Guardian"
+    }
+  },
+  {
+    "title": "Canada Joins Germany and the UK in Driving the Decline of U.S. Tourism as Global Visitor Numbers Fall Amid Rising Travel Barriers and Economic Pressures - Travel And Tour World",
+    "description": "Canada Joins Germany and the UK in Driving the Decline of U.S. Tourism as Global Visitor Numbers Fall Amid Rising Travel Barriers and Economic Pressures  Travel And Tour WorldLooking for Disney magic elsewhere: Canadians lead declines in travel to U.S.  CTV NewsStates beg Canadians to return as Trump antagonizes America's neighbor  AxiosCanadian snowbirds still avoid Florida, state's tourist hotspots  upi.comLooking for Disney magic elsewhere: Canadians lead declines in travel to US  Yahoo! Finance Canada",
+    "published date": "Tue, 10 Feb 2026 23:07:45 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPb3NnWi1fT1NJemdpQkYyaEdNV3NTSXRRQVB3eVcyVUZleHpnTlhvNDFCZDhnYWthaXJ3dVl5X0RPVzdsWkNNY0k2bXd0OEJZYUpxZi1HcGVrejV0SVNsTE5fZHZmVGdxZTIyWUZKbnRkc1RBTi1XdzVpeXZhTEszZ1A4UTNiTmVtV0Rjdk9iVnJ3UG5lbTVnNjVsM3BGS1ZuMHZ6QUIzei1Lczd6M2JZYThvRVFLNUxGZHpSZm9NQ3JUMnpZUnpfOFRyU0FEb0VaTzVuem1VS0w4aVozOWpLRHFNRG5kWnVFVmtKd0hMOWVWMTlzUUp5bVZfSnBKMjlXYktaSVBqQ2tZbmxDN2tJa0tuWXA1eHhhbkhGQkpybTNodzM5cXRJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.travelandtourworld.com",
+      "title": "Travel And Tour World"
     }
   },
   {
@@ -430,13 +460,33 @@
     }
   },
   {
-    "title": "More people in Waterloo Region share stories of questionable work from appliance repair service - CTV News",
-    "description": "More people in Waterloo Region share stories of questionable work from appliance repair service  CTV News",
-    "published date": "Wed, 11 Feb 2026 23:11:40 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOVo1SWtQdGRNejFMTjhLNmZyb21HUWFTNkFYSFBQUGc5UU9sTHctMVI2cXR0UnhiWXpBQXNGMWZjcy1NZkxuSnFtQUcwYUNjb1hSQ0MwR1JHZ1NZQWlBbnV1TEVwOEJUeFhJOEtJTHJkY1cxdEk4ZjJZREtobmJGTFFQd3hzVTVBV0xuU284bEpuQWZ0T3pZRDR1cm11bk14U3RyMUJDbVJTUUt6SnNDeFJobm9wSE5jQTBwc0lPYmxkT2k2SDI4LW41QXBWUXBZdGd3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "AST SpaceMobile Announces Proposed Private Offering of $1.0 Billion of Convertible Senior Notes Due 2036 - Business Wire",
+    "description": "AST SpaceMobile Announces Proposed Private Offering of $1.0 Billion of Convertible Senior Notes Due 2036  Business WireView Full Coverage on Google News",
+    "published date": "Wed, 11 Feb 2026 21:55:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPclhOTnVkSHpXbDJuUDVSR24ycmg5WmlIejVuRXRLSXJCTU5SS3AyZGtNRFJrRDZyclhob0g5QnROVUJVRVYwTlo0d0VKRVVPa3ZTLUZndTVBNG4zOHE5Vnk5YU4zZkdEWGl0N0FJNC1Hc3lscF9PVXBza2NOeUNKUmRVendPUnYtLS0tNG9DWlV5OTg0cGsyZWpGMWs5aFpEd1U4OWg2NVMxQ2VaZGVXMTNwZTBtTG5rV1d6Y3VUQlVTYXpzMlhLSjdtbXZsVzJVajV2cjUxMzJzaWc5dUNJRnVEbTF4SEh0SEZ3TnRiM1BTd2VfU0E?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.ctvnews.ca",
-      "title": "CTV News"
+      "href": "https://www.businesswire.com",
+      "title": "Business Wire"
+    }
+  },
+  {
+    "title": "Clothing retailer Eddie Bauer will begin liquidation sales - Global News",
+    "description": "Clothing retailer Eddie Bauer will begin liquidation sales  Global NewsNanaimo Eddie Bauer store closing by spring as company battles financial struggles  NanaimoNewsNOWEddie Bauer files for bankruptcy. Can I still use my gift card at Ontario stores?  Inside HaltonOperator of Eddie Bauer Stores Files for Bankruptcy  The New York TimesMajor clothing store with locations in Canada files for bankruptcy in U.S.  INsauga",
+    "published date": "Tue, 10 Feb 2026 14:40:03 GMT",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DVUgtci10cFpiWGFXQ3dJNnJqTlFZT1dkdDd0U1g4NWI4TERDdlZzNFlkS2pGWVgxT1NVM2U0cVIyREhfRnhzWElZUElLR2lfVnhOTUl1djNVbXI1WUlQSXFRS0UtLVo5ZUs4?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://globalnews.ca",
+      "title": "Global News"
+    }
+  },
+  {
+    "title": "BCA stays long gold, but warns speculative flows could trigger another pullback - KITCO",
+    "description": "BCA stays long gold, but warns speculative flows could trigger another pullback  KITCOGold Outlook: Dead Cat Bounce Risk Builds Near Highs  FOREX.comBCA warns gold vulnerable to pullback if Asian demand reverses By Investing.com  Investing.com CanadaGold’s most extreme drawdowns signal tactical reassessments, not durable regime shifts – WisdomTree’s Gannatti  KITCO",
+    "published date": "Wed, 11 Feb 2026 18:01:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaVhlX2Ruc3BzeG5kaVZzOFdtWW5ETklTTHBkQVppZ3d4SGp1R1dQSGh6UVZ4NUFNS1BpV3dZSjhkNWEzYzlFcWExWmRhb3R0dXBESGVlTmcwSk04bkRfeEMyNzlCRkFrWjdQcV9fcWRoWnBUMTNYUktCa1pNR0NDSmtZXzk0MnJ6Ymd1NVBEX3dxc0lyZ2xONloxU3VPQkhuUmR4eGFBRmlqMU9qWlhhU2hDeUR1MWhfeUpMOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.kitco.com",
+      "title": "KITCO"
     }
   },
   {
@@ -450,6 +500,16 @@
     }
   },
   {
+    "title": "Bell plans to build artificial intelligence data centre near Regina, RM documents show - CBC",
+    "description": "Bell plans to build artificial intelligence data centre near Regina, RM documents show  CBCNeighbours of proposed AI data centre near Regina raise concerns about water usage, noise  CBCJobs, research benefits touted as plans for data centre near Regina take shape  980 CJMERegina may soon be home to an AI data centre, documents show  CTV NewsBell Canada to build AI data centre near Regina  Yahoo News Canada",
+    "published date": "Tue, 10 Feb 2026 23:35:13 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaGxJNFhzaEV4OWJ4TW5wandQRzZWT2p4Nks3aDRsZy12c0FCUERSdk8xaTVhUGhJdHM3dXp1aTRRbTlONU9TcTluWlFyZmo1LWZZODBkNHlveFdfb2lYdlBEUXhmanVJdkQ2UXR0Y0lFUGZKNVdLSmIwS3QyUEY5X0gyWG9zWEU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cbc.ca",
+      "title": "CBC"
+    }
+  },
+  {
     "title": "US Crude Oil Inventory Build Pressures Prices - Crude Oil Prices Today | OilPrice.com",
     "description": "US Crude Oil Inventory Build Pressures Prices  Crude Oil Prices Today | OilPrice.comUnexpected surge in EIA crude oil inventories signals weaker demand By Investing.com  Investing.com CanadaU.S. Crude Oil Stockpiles Post Large Weekly Build  The Wall Street JournalU.S. crude oil and distillate inventories fell last week, gasoline rose, EIA says  CTV NewsRising US Oil Inventories and Falling OPEC+ Production  Investing.com Canada",
     "published date": "Tue, 10 Feb 2026 22:01:08 GMT",
@@ -457,46 +517,6 @@
     "publisher": {
       "href": "https://oilprice.com",
       "title": "Crude Oil Prices Today | OilPrice.com"
-    }
-  },
-  {
-    "title": "Ranked: The Countries Buying (and Selling) the Most Gold Since 2020 - Visual Capitalist",
-    "description": "Ranked: The Countries Buying (and Selling) the Most Gold Since 2020  Visual Capitalist",
-    "published date": "Wed, 11 Feb 2026 15:37:15 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZHpCeTJGNFBtSmhDNW1TOGNwZE9ZNFpXME9ickMzNk9ZQ2Z0TTZSdTdkamVpLVZVXzVFYXF4ZVdzeTZSbkNLQ2JwSHRwS2ota0VMR1JsUGZWZTBnUmZDSF9uOURCVHRveWd1a1lpUDZqb3MtcTlCUUdnVGVZUDhDbnJrNW5NdzVDQ19jeG5uY01kZkswbmhHRWQtTFRRdGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.visualcapitalist.com",
-      "title": "Visual Capitalist"
-    }
-  },
-  {
-    "title": "Gold, silver hold gains despite strong U.S. jobs data - KITCO",
-    "description": "Gold, silver hold gains despite strong U.S. jobs data  KITCOGold rises as dollar, yields slip ahead of key U.S. jobs data  CP24Current price of gold as of February 11, 2026  FortuneGold Bulls Defend $5k but $5100 is Proving Stubborn on Breaks  FOREX.comGold & Silver Rise on Weaker Data, Growth Concerns & Rising Tensions  The Globe and Mail",
-    "published date": "Wed, 11 Feb 2026 21:24:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNT2pqdkpiRFlwNFVJSkdNOU5ka3Vob21pbmE3aTZnSGRTejNnMm94ZWdpaWx2UFhIRkNDRHRKdnBIanhTd0RIbFlGc0xONmFUOEd4TVlOTGFaUE54RTdxZVMxWHU4NVVwdUt4aXRmcERUbFFCV053MXJIbVQ4TU11YUxlMklYRm9mQUdSUGlPMHBsakhZcWhfYTBmN0c?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.kitco.com",
-      "title": "KITCO"
-    }
-  },
-  {
-    "title": "After 2 days of Edmonton infill debate, city committee sends decision to council - Global News",
-    "description": "After 2 days of Edmonton infill debate, city committee sends decision to council  Global NewsResidents speak for and against infill at packed Edmonton urban planning committee  Edmonton JournalInfill bylaw debate continues, decision to be put to city councillors next week  CTV NewsDovercourt residents share infill concerns  CBCEdmonton city council hears from public on proposed infill changes  CityNews Edmonton",
-    "published date": "Wed, 11 Feb 2026 13:18:09 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRTZpRVlBMmloQ2dacFF0b0pYNnEzS1ZSZnQzcUh0R2hKZ3EyRzlNdTAxOGpUWlZ3Mzlwb1hzRjY4YnZ4Q0FiUnEwMDE2RTRfR2ZyZ2d4MG5oZUNoLWpvOUNadW01QjVwMEIxc3Jmdk55YXZsd0cwS21GaURTd2JfV2NuNjVyWGcxWGxpaTlXY1BNQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://globalnews.ca",
-      "title": "Global News"
-    }
-  },
-  {
-    "title": "Major clothing store with locations in Canada files for bankruptcy in U.S. - INsauga",
-    "description": "Major clothing store with locations in Canada files for bankruptcy in U.S.  INsaugaClothing retailer Eddie Bauer will begin liquidation sales  Global NewsOperator of Eddie Bauer Stores Files for Bankruptcy  The New York TimesOutdoor sportswear brand Eddie Bauer files for bankruptcy protection  CBCNanaimo Eddie Bauer store closing by spring as company battles financial struggles  NanaimoNewsNOW",
-    "published date": "Tue, 10 Feb 2026 13:14:56 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS3FVakFaRC1pWlI3YXlTVGhza09HOWpGay1vSVUtMERTcXdycVlhMUNScjJRT0JTMlJZUDFnTXZ0V0NZemg1RGNwa1dKY1FqeEdCTDNoR2NxT1FTMGJGSF9ENWxNdnpUTXlIVGFZdVJsQWhKRUVJWUN3Y19FRWgxc0ctRHNOZExLcnZhb1NFaGY2YVNQdlJwLUN5WVJTcFE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.insauga.com",
-      "title": "INsauga"
     }
   },
   {
@@ -520,23 +540,33 @@
     }
   },
   {
-    "title": "Bell plans to build artificial intelligence data centre near Regina, RM documents show - CBC",
-    "description": "Bell plans to build artificial intelligence data centre near Regina, RM documents show  CBCView Full Coverage on Google News",
-    "published date": "Tue, 10 Feb 2026 23:35:13 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaGxJNFhzaEV4OWJ4TW5wandQRzZWT2p4Nks3aDRsZy12c0FCUERSdk8xaTVhUGhJdHM3dXp1aTRRbTlONU9TcTluWlFyZmo1LWZZODBkNHlveFdfb2lYdlBEUXhmanVJdkQ2UXR0Y0lFUGZKNVdLSmIwS3QyUEY5X0gyWG9zWEU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "After 2 days of Edmonton infill debate, city committee sends decision to council - Global News",
+    "description": "After 2 days of Edmonton infill debate, city committee sends decision to council  Global NewsResidents speak for and against infill at packed Edmonton urban planning committee  Edmonton JournalInfill bylaw debate continues, decision to be put to city councillors next week  CTV NewsDovercourt residents share infill concerns  CBCEdmonton city council hears from public on proposed infill changes  CityNews Edmonton",
+    "published date": "Wed, 11 Feb 2026 13:18:09 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRTZpRVlBMmloQ2dacFF0b0pYNnEzS1ZSZnQzcUh0R2hKZ3EyRzlNdTAxOGpUWlZ3Mzlwb1hzRjY4YnZ4Q0FiUnEwMDE2RTRfR2ZyZ2d4MG5oZUNoLWpvOUNadW01QjVwMEIxc3Jmdk55YXZsd0cwS21GaURTd2JfV2NuNjVyWGcxWGxpaTlXY1BNQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.cbc.ca",
-      "title": "CBC"
+      "href": "https://globalnews.ca",
+      "title": "Global News"
     }
   },
   {
-    "title": "Cineplex quarterly profit falls to $369,000 from $3.3-million a year earlier - The Globe and Mail",
-    "description": "Cineplex quarterly profit falls to $369,000 from $3.3-million a year earlier  The Globe and MailView Full Coverage on Google News",
-    "published date": "Wed, 11 Feb 2026 16:36:20 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaVcxMGhuQTFxSWFaal9iY1lhWlR5ckZieTlfclhLTFEzRlVKdG16elVoT1dhMjRTVVp5bk1wV1ZBRlhIRlJySDFxeDVweTNFbGZYR1dramJjMVZjRzhUbUVPLVFaSG9CeDZYWVlxMjE5Um9scWhVbFd6N1pxSGVzazFTSW9ITUxBTEZQNlZnbXdpRWhQb0FCNUJrT1lheHRJZmtFeDFnWmFidW52LTI2empOY0g?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Allied to raise $500M, takes $1B hit on property values, Emory to depart - RENX",
+    "description": "Allied to raise $500M, takes $1B hit on property values, Emory to depart  RENXAllied Properties units tumble more than 27% Wednesday after company announces $500M equity offering  Yahoo! Finance CanadaAllied Reports Q4 and Full-Year Results; Announces Leadership Update and Equity Financing  Toronto StarAllied Properties units tumble after REIT launches surprise share sale to address debt woes  The Globe and MailAllied Properties Falls Most on Record on Plan to Sell Shares  Bloomberg.com",
+    "published date": "Wed, 11 Feb 2026 14:33:10 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcGRyYi1TaU5SNmo3elFMeGNpMkpVUW5zTTdNb3FYMWJHVU54QW82NGVyT0hyYmxUSnpCZWtBS0JRMnp0NFdfMm91anZWM3E5dHdXemlFbmxhRVJtZGRHajRnai1Cc1FJMHBTQTY1MVhDVEU2Z0wzRjRYeHdSLU1YWlRKMHpYYVp2U21JNg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.theglobeandmail.com",
-      "title": "The Globe and Mail"
+      "href": "https://renx.ca",
+      "title": "RENX"
+    }
+  },
+  {
+    "title": "Euro and yuan global ambitions hasten the dollar drop - Reuters",
+    "description": "Euro and yuan global ambitions hasten the dollar drop  ReutersWhat a Weaker US Dollar Means for the Economy  Bloomberg.comCIBC monthly FX outlook: Why the US dollar selloff is likely over  Investing.com CanadaNow It Is Official: Analysts Consider the Dollar a 'Dangerous' Asset  Bitcoin.com NewsThe White House says it wants a strong US dollar. Investors are still keeping their distance.  Yahoo Finance",
+    "published date": "Wed, 11 Feb 2026 07:04:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQUhzOXBMYjdJOXV2MlpYbFdYaU5VRW1ZZTRtZHBmcFRYcFNRMnVEempsU2ZlUHhtSFBhU3VaM0RfTWxQakNnY3ExNGh6dWR1WUdZcV9QUjdYOXlZdXZNR3NmNi1iaVpERTNfR3ZMaHJ3OFJWRnZOMXZyN2tkc21GVjdXd2RfdFhyN3ZSWGlLRkZaQ00?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.reuters.com",
+      "title": "Reuters"
     }
   },
   {
@@ -560,43 +590,73 @@
     }
   },
   {
-    "title": "New Vancouver cafe to open soon — and it's serving a mango sticky rice matcha - Daily Hive Vancouver",
-    "description": "New Vancouver cafe to open soon — and it's serving a mango sticky rice matcha  Daily Hive Vancouver",
-    "published date": "Wed, 11 Feb 2026 19:02:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40R1ZJYmtaOW5WV3JrNG9xeFBaNHdKeVdNckZSSzN6MVhpbHlaZVJyT1pIVmNTLUo4OHEzaERTUWx3TnNqNFZSbUt0bFlUdkJWcHlNMWpndWQtaFhoMmNiZmxZWVhXeE5SaVZr?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Cineplex quarterly profit falls to $369,000 from $3.3-million a year earlier - The Globe and Mail",
+    "description": "Cineplex quarterly profit falls to $369,000 from $3.3-million a year earlier  The Globe and MailView Full Coverage on Google News",
+    "published date": "Wed, 11 Feb 2026 16:36:20 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaVcxMGhuQTFxSWFaal9iY1lhWlR5ckZieTlfclhLTFEzRlVKdG16elVoT1dhMjRTVVp5bk1wV1ZBRlhIRlJySDFxeDVweTNFbGZYR1dramJjMVZjRzhUbUVPLVFaSG9CeDZYWVlxMjE5Um9scWhVbFd6N1pxSGVzazFTSW9ITUxBTEZQNlZnbXdpRWhQb0FCNUJrT1lheHRJZmtFeDFnWmFidW52LTI2empOY0g?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theglobeandmail.com",
+      "title": "The Globe and Mail"
+    }
+  },
+  {
+    "title": "Ranked: The Countries Buying (and Selling) the Most Gold Since 2020 - Visual Capitalist",
+    "description": "Ranked: The Countries Buying (and Selling) the Most Gold Since 2020  Visual Capitalist",
+    "published date": "Wed, 11 Feb 2026 15:37:15 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZHpCeTJGNFBtSmhDNW1TOGNwZE9ZNFpXME9ickMzNk9ZQ2Z0TTZSdTdkamVpLVZVXzVFYXF4ZVdzeTZSbkNLQ2JwSHRwS2ota0VMR1JsUGZWZTBnUmZDSF9uOURCVHRveWd1a1lpUDZqb3MtcTlCUUdnVGVZUDhDbnJrNW5NdzVDQ19jeG5uY01kZkswbmhHRWQtTFRRdGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.visualcapitalist.com",
+      "title": "Visual Capitalist"
+    }
+  },
+  {
+    "title": "Gold, silver hold gains despite strong U.S. jobs data - KITCO",
+    "description": "Gold, silver hold gains despite strong U.S. jobs data  KITCOGold rises as dollar, yields slip ahead of key U.S. jobs data  CP24Current price of gold as of February 11, 2026  FortuneGold & Silver Rise on Weaker Data, Growth Concerns & Rising Tensions  The Globe and MailGold price today, Wednesday, February 11: Gold’s first move above $5,100 since Jan. 30  Yahoo Finance",
+    "published date": "Thu, 12 Feb 2026 01:48:30 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNT2pqdkpiRFlwNFVJSkdNOU5ka3Vob21pbmE3aTZnSGRTejNnMm94ZWdpaWx2UFhIRkNDRHRKdnBIanhTd0RIbFlGc0xONmFUOEd4TVlOTGFaUE54RTdxZVMxWHU4NVVwdUt4aXRmcERUbFFCV053MXJIbVQ4TU11YUxlMklYRm9mQUdSUGlPMHBsakhZcWhfYTBmN0c?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.kitco.com",
+      "title": "KITCO"
+    }
+  },
+  {
+    "title": "Why homebuyers are waiting despite lower prices in Newmarket, Aurora - NewmarketToday.ca",
+    "description": "Why homebuyers are waiting despite lower prices in Newmarket, Aurora  NewmarketToday.caFoch: TRREB’s 2026 outlook underestimates growing market risks  Real Estate Magazine CanadaToronto-area average home price drops below $1 million for the first time in five years  Toronto StarYork Region home prices plunge 7.8 per cent to $1.11 million in January 2026  YorkRegion.comGTA analysts forecast stable home prices in 2026  reminetwork.com",
+    "published date": "Tue, 10 Feb 2026 19:45:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUm1WVGc1WE1oYVBrRUNRbzJXMFgxbjFTZlcwcWJGNWE2RWdZaExGbXJpckVkUk0tb09ZSU5fZW8zREhtZTFpTnRuSVZaZVlXZXMybmhPaEpldFNCU3RRMHZNODRURzBJLTRkencwTXIzdnl4dUdyV19sWlVfd3dhN2RIZDdLSUhGbEx2X2dsOVMyV2ZLX3VuZ1VsN3FSU1pENFRiM1lZOHF2VDF5aUdza2lMcjhNYjgw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.newmarkettoday.ca",
+      "title": "NewmarketToday.ca"
+    }
+  },
+  {
+    "title": "Ford says it took an extra $900m tariff hit last year - BBC",
+    "description": "Ford says it took an extra $900m tariff hit last year  BBCFord's 2025 Financial Losses Were Blue Oval's Biggest Since the Great Recession, Due to EV Shifts  Yahoo! Finance CanadaFord Sees Profit Rebound After $900 Million Tariff Surprise  Bloomberg.comFord reports worst quarterly earnings miss in four years, guides for better 2026  CNBCStock Market Today, Feb. 11: Ford Rises After 2026 Profit Outlook Offsets Record EV Losses  The Globe and Mail",
+    "published date": "Tue, 10 Feb 2026 23:23:36 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GZy15a2tweTdoRDRhY21kNDRTcG5MZjB1SHY0UHFTUEhTWGRxTDVjaUcwUTQ2cFZCM3hGRXJTajFEb0tTU1pMSHUxMnFGd3pTZ2E4OUxmbXZCQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bbc.com",
+      "title": "BBC"
+    }
+  },
+  {
+    "title": "Vancouver-based rice burger restaurant announces closure after nine years - Daily Hive Vancouver",
+    "description": "Vancouver-based rice burger restaurant announces closure after nine years  Daily Hive Vancouver",
+    "published date": "Wed, 11 Feb 2026 19:44:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ybG0yblg5dEFFVVZYYi1CeFpid1ByZFhVVGlFdmZReGJMNm95OW1MUVVORkpIX1p3SjB6RDVlOWwtdE9od042NWh2b2tOaVBzTkltYlRwMnFXSy1WYUJkQkRtTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://dailyhive.com",
       "title": "Daily Hive Vancouver"
     }
   },
   {
-    "title": "Allied to raise $500M, takes $1B hit on property values, Emory to depart - RENX",
-    "description": "Allied to raise $500M, takes $1B hit on property values, Emory to depart  RENXAllied Properties units tumble more than 27% Wednesday after company announces $500M equity offering  Yahoo! Finance CanadaAllied Reports Q4 and Full-Year Results; Announces Leadership Update and Equity Financing  Toronto StarAllied Properties units tumble after REIT launches surprise share sale to address debt woes  The Globe and MailAllied Properties Falls Most on Record on Plan to Sell Shares  Bloomberg",
-    "published date": "Wed, 11 Feb 2026 14:33:10 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcGRyYi1TaU5SNmo3elFMeGNpMkpVUW5zTTdNb3FYMWJHVU54QW82NGVyT0hyYmxUSnpCZWtBS0JRMnp0NFdfMm91anZWM3E5dHdXemlFbmxhRVJtZGRHajRnai1Cc1FJMHBTQTY1MVhDVEU2Z0wzRjRYeHdSLU1YWlRKMHpYYVp2U21JNg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "It takes an entire day to deal with a single air passenger complaint, Transport Canada director says - The Globe and Mail",
+    "description": "It takes an entire day to deal with a single air passenger complaint, Transport Canada director says  The Globe and MailComplaint about a flight delay? It could take nearly three years to resolve, study finds  National PostAlmost half of Canada's airline complaints come from Toronto travellers  blogTOAir passenger backlog is real — but not ‘three years,’ expert argues  CTV News",
+    "published date": "Tue, 10 Feb 2026 22:19:18 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWTFVN2xRX2RlU0hkVUU2ZjA5YzZjOExPSVpGeXVzc0dMbXN6N3BfLUdfNTdwNDlMWUtCZjZFYy1WVjFWR1JNUl9nNDdDM05KaHBQLUV1bG9tSUJXSm5CT3ZUdnk5RTlxc1hRdEtPVlRYM1RUd0wwZ3JVSURWcHhFVWt6N3RBbC1lcUVSaEZCdmp6ampIdnZRZExDNEx5NXQ4QjhUazAxVm1LWUVwb0xRb3ZzTlFGRnBmc052b1h3?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://renx.ca",
-      "title": "RENX"
-    }
-  },
-  {
-    "title": "Top Democrat on US House China committee open to Nvidia H200 sales - Reuters",
-    "description": "Top Democrat on US House China committee open to Nvidia H200 sales  ReutersView Full Coverage on Google News",
-    "published date": "Wed, 11 Feb 2026 18:51:52 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaWJRMnJkS1ZYeHNUVTRKV0stbTd0QWhVdF90THJlUWVUcnV5Sk5zWFR0SVREYWVtNVl4QkktVGZSM0ZvTDFHLVpBUm5qNnE5UjR6Y09tSGI5NU9QV2ZfenRFLWU5aENuTEx3eTZUeERMLU1RcU1Pak9GNUliNExqMzd3dnAwNmJCSm5zalNuUkdkVjNDY0FFTHRDelRtUzl4TkJJZ29TSlU?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.reuters.com",
-      "title": "Reuters"
-    }
-  },
-  {
-    "title": "Ford says it took an extra $900m tariff hit last year - BBC",
-    "description": "Ford says it took an extra $900m tariff hit last year  BBCFord's 2025 Financial Losses Were Blue Oval's Biggest Since the Great Recession, Due to EV Shifts  Yahoo! Finance CanadaFord Sees Profit Rebound After $900 Million Tariff Surprise  BloombergFord reports worst quarterly earnings miss in four years, guides for better 2026  CNBCStock Market Today, Feb. 11: Ford Rises After 2026 Profit Outlook Offsets Record EV Losses  The Globe and Mail",
-    "published date": "Tue, 10 Feb 2026 23:23:36 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GZy15a2tweTdoRDRhY21kNDRTcG5MZjB1SHY0UHFTUEhTWGRxTDVjaUcwUTQ2cFZCM3hGRXJTajFEb0tTU1pMSHUxMnFGd3pTZ2E4OUxmbXZCQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.bbc.com",
-      "title": "BBC"
+      "href": "https://www.theglobeandmail.com",
+      "title": "The Globe and Mail"
     }
   },
   {
@@ -620,83 +680,23 @@
     }
   },
   {
-    "title": "Approved Science World rental towers could raise $700 million for City of Vancouver | Urbanized - Daily Hive Vancouver",
-    "description": "Approved Science World rental towers could raise $700 million for City of Vancouver | Urbanized  Daily Hive Vancouver",
-    "published date": "Wed, 11 Feb 2026 18:17:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSjdOVzVCYmJZcktlT2tRQzlOUTE5UmtSVHBiYWVkTEhpT0JmU0ZhcG82V3NsQ1pNcGpVWTVvVnZRZ3YxNy1yalZuOHJvQ0Y3OWEzdENoeDk1X3RNaFJPem8tQVZONW4xWTRCbHlyTEhjeWdLLWRKZU1sZmh4ZVhBSmxXYTZPRVR5XzBvS3N0eGhrb1Z6TlZ2ZERURmRYNXRCQ3FEWE9Sd3M5bi1q?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "New Vancouver cafe to open soon — and it's serving a mango sticky rice matcha - Daily Hive Vancouver",
+    "description": "New Vancouver cafe to open soon — and it's serving a mango sticky rice matcha  Daily Hive Vancouver",
+    "published date": "Wed, 11 Feb 2026 19:02:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40R1ZJYmtaOW5WV3JrNG9xeFBaNHdKeVdNckZSSzN6MVhpbHlaZVJyT1pIVmNTLUo4OHEzaERTUWx3TnNqNFZSbUt0bFlUdkJWcHlNMWpndWQtaFhoMmNiZmxZWVhXeE5SaVZr?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://dailyhive.com",
       "title": "Daily Hive Vancouver"
     }
   },
   {
-    "title": "Federal employees terminated, suspended in more than 2,600 cases of misconduct and wrongdoing in 2025 - CTV News",
-    "description": "Federal employees terminated, suspended in more than 2,600 cases of misconduct and wrongdoing in 2025  CTV News",
-    "published date": "Tue, 10 Feb 2026 10:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZlFUV28wdF9IVXZ3ZzVsNUF3WHI0SVJ6alYxU244Rmh2bnlSUm1uQWMtTFZCa0NMVUpzc2JQTVRHSUl4VFJTTk5XODRPalNIWG5RcGxUeUhMWUxfYjk0WWNLZGoxcUxCdUdmd0I3Y0lWeVBsWktqd3pzZF9xZlB2cE9HV0doRDJUNWZwTzRWal91bDhsN3BwMlI2OVQyLTlHYmlvVHk3NmRhWWZaLUFrUzZvcFljaGtjdFhxamhWcjRnTDlpcWFuNWFQTnNpMFNTVnRVU0NNUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ctvnews.ca",
-      "title": "CTV News"
-    }
-  },
-  {
-    "title": "Police start facial recognition trial at stations - BBC",
-    "description": "Police start facial recognition trial at stations  BBC",
-    "published date": "Wed, 11 Feb 2026 18:44:18 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CZ2liNU1mR2kxYnRySmFNRk5aTkhKeDFMZWljemo4WlVmSDB6aXJ6MldKeXczTDB4aWcwdEZ5eTg1T1ZCaFlVU3FLUDJsdEVxMFBRVEpweDktZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.bbc.com",
-      "title": "BBC"
-    }
-  },
-  {
-    "title": "Why homebuyers are waiting despite lower prices in Newmarket, Aurora - NewmarketToday.ca",
-    "description": "Why homebuyers are waiting despite lower prices in Newmarket, Aurora  NewmarketToday.caFoch: TRREB’s 2026 outlook underestimates growing market risks  Real Estate Magazine CanadaToronto-area average home price drops below $1 million for the first time in five years  Toronto StarYork Region home prices plunge 7.8 per cent to $1.11 million in January 2026  YorkRegion.comGTA analysts forecast stable home prices in 2026  reminetwork.com",
-    "published date": "Tue, 10 Feb 2026 19:45:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUm1WVGc1WE1oYVBrRUNRbzJXMFgxbjFTZlcwcWJGNWE2RWdZaExGbXJpckVkUk0tb09ZSU5fZW8zREhtZTFpTnRuSVZaZVlXZXMybmhPaEpldFNCU3RRMHZNODRURzBJLTRkencwTXIzdnl4dUdyV19sWlVfd3dhN2RIZDdLSUhGbEx2X2dsOVMyV2ZLX3VuZ1VsN3FSU1pENFRiM1lZOHF2VDF5aUdza2lMcjhNYjgw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.newmarkettoday.ca",
-      "title": "NewmarketToday.ca"
-    }
-  },
-  {
-    "title": "It takes an entire day to deal with a single air passenger complaint, Transport Canada director says - The Globe and Mail",
-    "description": "It takes an entire day to deal with a single air passenger complaint, Transport Canada director says  The Globe and MailComplaint about a flight delay? It could take nearly three years to resolve, study finds  National PostAlmost half of Canada's airline complaints come from Toronto travellers  blogTOAir passenger backlog is real — but not ‘three years,’ expert argues  CTV News",
-    "published date": "Tue, 10 Feb 2026 22:19:18 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWTFVN2xRX2RlU0hkVUU2ZjA5YzZjOExPSVpGeXVzc0dMbXN6N3BfLUdfNTdwNDlMWUtCZjZFYy1WVjFWR1JNUl9nNDdDM05KaHBQLUV1bG9tSUJXSm5CT3ZUdnk5RTlxc1hRdEtPVlRYM1RUd0wwZ3JVSURWcHhFVWt6N3RBbC1lcUVSaEZCdmp6ampIdnZRZExDNEx5NXQ4QjhUazAxVm1LWUVwb0xRb3ZzTlFGRnBmc052b1h3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Canada’s Big Six banks all on board to support new multinational defence bank - The Globe and Mail",
+    "description": "Canada’s Big Six banks all on board to support new multinational defence bank  The Globe and MailB.C. the best spot for global defence bank  BC Gov NewsBMO joins rest of big bank peers in supporting proposed international defence bank  CityNews HalifaxWhy Does Vancouver Want a Global Defence Bank?  The TyeeProvince throws support behind private sector bid to bring NATO bank to Vancouver  CBC",
+    "published date": "Wed, 11 Feb 2026 18:30:55 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQVZuZ3FpSkNXcTVVMmpicXlTOWFMd0ZwQUFkT3lnM1JjZkF0bjN4V1FxNFVSelNwZndtOE5wS1BtMThRcXI2TzRKeWhzRkxHMUx0MGlaRzhQdXEtT1VyYlNnNzlvTm1fLVNTdy0taXRQN1RZbEpiWmRJM1JmWmh4cnVTaUE3SHdKZjNycFFfWTR0TEF6dnFYdXZBb3FhQnN1eF9NTjZ6d0o2VFRDQllN?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.theglobeandmail.com",
       "title": "The Globe and Mail"
-    }
-  },
-  {
-    "title": "BCA stays long gold, but warns speculative flows could trigger another pullback - KITCO",
-    "description": "BCA stays long gold, but warns speculative flows could trigger another pullback  KITCOGold Outlook: Dead Cat Bounce Risk Builds Near Highs  FOREX.comBCA warns gold vulnerable to pullback if Asian demand reverses By Investing.com  Investing.com CanadaDr. Adam Trexler: Physical Gold Market Broken, Crisis Unfolding Now  Investing News NetworkGold’s most extreme drawdowns signal tactical reassessments, not durable regime shifts – WisdomTree’s Gannatti  KITCO",
-    "published date": "Wed, 11 Feb 2026 18:01:01 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaVhlX2Ruc3BzeG5kaVZzOFdtWW5ETklTTHBkQVppZ3d4SGp1R1dQSGh6UVZ4NUFNS1BpV3dZSjhkNWEzYzlFcWExWmRhb3R0dXBESGVlTmcwSk04bkRfeEMyNzlCRkFrWjdQcV9fcWRoWnBUMTNYUktCa1pNR0NDSmtZXzk0MnJ6Ymd1NVBEX3dxc0lyZ2xONloxU3VPQkhuUmR4eGFBRmlqMU9qWlhhU2hDeUR1MWhfeUpMOA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.kitco.com",
-      "title": "KITCO"
-    }
-  },
-  {
-    "title": "West Vancouver 'modern masterpiece' sold for $8M under original asking price - Daily Hive Vancouver",
-    "description": "West Vancouver 'modern masterpiece' sold for $8M under original asking price  Daily Hive Vancouver",
-    "published date": "Wed, 11 Feb 2026 15:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRWJBd1oyeFNWaE05c0ZNaTliQnNWN1lDYmE2d1dkalRKUUNTLUJSdzNJQUJEc1E0VHRnZ0ItN3pvMTcwQ2l4czE0TVUwREVwa0RXOTlMRG80bVRFVG53U01MUi1XOFdyYUczbU42alloRmxkWFBabjlMclRrRTJpQVgxV1Y?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://dailyhive.com",
-      "title": "Daily Hive Vancouver"
-    }
-  },
-  {
-    "title": "Why Have Automakers Written Off $55 Billion In EV Investments? - CleanTechnica",
-    "description": "Why Have Automakers Written Off $55 Billion In EV Investments?  CleanTechnicaMajor Automakers Have Written Off $55 Billion After Overestimating EV Demand  AutoblogMoody’s Cuts Stellantis Rating After Profit, Cash Flow Downgrade  BloombergJeep maker Stellantis announces a ‘reset’ of its business and massive charges. Shares crumble  CNNStellantis $26.5 Billion EV Debacle May Prompt Brand Purge  Forbes",
-    "published date": "Wed, 11 Feb 2026 04:58:58 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaW9rdzRxUGdxa25NdWNnUzUtQlZLc1RiSWxFVW8tOExrQ2YxWG1fVHh4VmFKTkptYVM5NjR3dERZdy03VS02VzFaS0pEZlNoM0V4SFZ4ZjRvQ21BLURwUjhOc1pyY2FMZUY5aVJ1UzBxbGJ6NkNWOFBzTDNYb3NLNWgtRE1nS1p0c08xdXAyMGFUcDBQekl6TkNycW5KM0HSAaQBQVVfeXFMTkZtTkVreExIZzh5SmZGNFcyOHlSMUNWVzlFV3ZrSXp6MjRxcGY2V1ZlVnhPdjI4enktQWFzTUFERmp2Zlc3YU43TjA5X2laWnhlSG5mdWNfUm8weTVWMmRTYUwxS1NSdmVSbHo1eDRvbnNhaVBVeEVka1BKQlBDZjd3SkdEd1lKclRYSmd0b0I1Uko3UWd5U3VraEhrM09JQW9NQVc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://cleantechnica.com",
-      "title": "CleanTechnica"
     }
   }
 ]
