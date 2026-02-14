@@ -1,47 +1,7 @@
 [
   {
-    "title": "The first Android 17 beta is now available on Pixel devices - Ars Technica",
-    "description": "The first Android 17 beta is now available on Pixel devices  Ars TechnicaHere’s everything new in Android 17 Beta 1 [Gallery]  9to5GoogleGoogle Just Dropped An Update For Pixel Phones — And It’s A Surprise  ForbesGoogle releases the first beta of Android 17, adopts a continuous developer release plan  TechCrunchEverything New in Android 17 Beta  Droid Life",
-    "published date": "Fri, 13 Feb 2026 20:58:25 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN191a0c5aFJFTE1FbWpXaktrVTE5TmUzM0JQNXVkSnVvbUJBQlR1cm1CX3NzTHZZQUgwUUI1QXZ0YnlfTEpVRmhHbVVyOE9vdGoyU2JnYXhGN181aEJ2NkZWMWZBVl9qc3dYWEhZMnRuUzVSaTBsdTZhc3dGY2dUMHdtZm1aaTY5b2ZuR2VzWUlfYVN6LTZYV2I5SU8tVUJNR2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://arstechnica.com",
-      "title": "Ars Technica"
-    }
-  },
-  {
-    "title": "Apple Now Testing Flip-Style Foldable iPhone - MacRumors",
-    "description": "Apple Now Testing Flip-Style Foldable iPhone  MacRumorsAndroid book-style foldables expected to dominate in 2026, report says  9to5GoogleBook-Type Devices to Reach 65% of Global Foldable Smartphone Shipments in 2026  Counterpoint ResearchApple is testing a clamshell foldable iPhone, leaker claims  AppleInsiderApple's iPhone Fold could spell the death of the flip phone – analysts suggest a new era of mobile is coming  T3",
-    "published date": "Fri, 13 Feb 2026 16:47:45 GMT",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93V3pIRDZzVGJMQzJ2UmtZMGVGV1h0UjN1alVUd3lOalVxWFFvd0Y3dGtuSWNfYlloWjB3S0c4VGFkNEJIVy1QZEpTaE9sSVVDNkR1RmZXb0s2WUYtSGlLbGdoaEpSb1RZdGxxOTVscHgxQng0S29ZMlpZUnE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.macrumors.com",
-      "title": "MacRumors"
-    }
-  },
-  {
-    "title": "There’s a tiny digital camera inside these retro 35mm film rolls - The Verge",
-    "description": "There’s a tiny digital camera inside these retro 35mm film rolls  The VergeThese 35mm Film Rolls Are Actually Tiny Digital Keychain Cameras  PetaPixelKeychain compact cameras like the Kodak Charmera are having a moment, so I tried the Escura SnapRoll. I’m not sure I’m sold…  Digital Camera Worldvintage film rolls flip into miniature and functional digital cameras  DesignboomOPT100 NeoFilm packs compact camera into a film roll format  Notebookcheck",
-    "published date": "Fri, 13 Feb 2026 14:39:36 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaWw1T3pYckpMaGZIOTQwbzBkX0tVV0Z0OFUwUmpnQUdWcnhXMDRnS0VaZ05GMXc4MlZ5cFZiVXhDay0wQjBvSEkzdU04SGdjUGw3NGtTRW5lc1BVVUgwTC1UV1RfMnNKbm9HSGh4UGtuQUNaOG1uLXh2SU12aXRDcHRtZHg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theverge.com",
-      "title": "The Verge"
-    }
-  },
-  {
-    "title": "Samsung’s ‘Wide Fold’ surfaces with near-16:10 aspect ratio, wider than first Pixel Fold - 9to5Google",
-    "description": "Samsung’s ‘Wide Fold’ surfaces with near-16:10 aspect ratio, wider than first Pixel Fold  9to5GoogleExclusive: First official look at Samsung's 'Wide' Galaxy Z Fold  Android AuthorityOne UI 9 spotted for Samsung's mysterious new Galaxy Z Fold  SamMobileNo Shot This is Samsung's Secret Wide Galaxy Z Fold 8  Droid LifeEarly signs of One UI 9 have already appeared, even before the stable release of One UI 8.5  PhoneArena",
-    "published date": "Fri, 13 Feb 2026 17:57:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZVV2YTd5c2ZZN2EyRTUtVTlUOW5yZXZ1em9lZVR1OFQ0S21fTXVyNnh2NmhPeEMyVEQ4aFpacU5HSWZDU3hjdHl2WEk4RGVCX2ROcnJJLXRkNUtRRHBnQlBDb0o2a01ULU9IY001MUZDOUhjSWgwazNjUHpEM1N1NS1CelEzV1Fpc1BZSk9oT2NPRUV5RXZHTUM4ZVgzQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://9to5google.com",
-      "title": "9to5Google"
-    }
-  },
-  {
     "title": "Apple Presidents' Day sales: Get the Apple Watch Series 11 for $299, plus more deals - Engadget",
-    "description": "Apple Presidents' Day sales: Get the Apple Watch Series 11 for $299, plus more deals  EngadgetIf You Own Apple Everything, These Presidents Day Deals Are A Must-See  HuffPostDeals: AirPods Pro 3, Apple Sport Bands up to 41% off, Anker 25W MagSafe Charging Stand $100 off, iPad, more  9to5MacThe Apple Watch Series 11 is more of the same, but that's not a bad thing. Here's why it's our favorite smartwatch.  Business InsiderBest Presidents' Day Apple deals 2026: AirPods, iPads, Apple Watches, and beyond  Mashable",
+    "description": "Apple Presidents' Day sales: Get the Apple Watch Series 11 for $299, plus more deals  EngadgetAmazon's Presidents' Day Apple sale offers price cuts of up to $400 off  AppleInsiderBest Presidents' Day Apple deals 2026: AirPods, iPads, Apple Watches, and beyond  MashableDeals: AirPods Pro 3, Apple Sport Bands up to 41% off, Anker 25W MagSafe Charging Stand $100 off, iPad, more  9to5MacIf You Own Apple Everything, These Presidents Day Deals Are A Must-See  HuffPost",
     "published date": "Fri, 13 Feb 2026 14:34:45 GMT",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTWxMczRsRmkxTXVyR2EzT0FWMDFtVzFhSzZFSElzRF9TTTE3b05ncE53c2FRV0JvX1FZR1VNeXAwZmJwOEJKcUozN2k4bVNfMFRwYVRuVU4yYlJCNkdLNGlDRGk5LThaTHJUWFRrX1FZdFhmOG55MjFWWWNEOGpRSWl5UG1tTDRsak5QbW1xOGF2R2tld3Y0bGVtaTBZZEpaWDUxTVhRd081bld5Z2UwSWVzRXZvOFg3d2U3d2F2RnBvWEl4?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -50,23 +10,23 @@
     }
   },
   {
-    "title": "Samsung Galaxy S26 colors, renders leak. See them now. - Mashable",
-    "description": "Samsung Galaxy S26 colors, renders leak. See them now.  Mashable[Invitation] Galaxy Unpacked February 2026: The Next AI Phone Makes Your Life Easier  samsung.comSamsung’s offering up to $900 of trade-in credit toward its new phones  The VergeWhat to Expect at Samsung Galaxy Unpacked 2026  CNETSamsung to Unveil AI-Charged Galaxy S26 Smartphones on Feb. 25  Bloomberg.com",
-    "published date": "Fri, 13 Feb 2026 17:38:02 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZVVNYczRmc0VaUlhwbktLSmNSWGZjRkd3akJxT2VMYTJEUm1pOWRRNy16c1Rza3g3TTFDMjJxY0xuWFgtZzZYcFFLay1qaFpMN0lEYmtUcHVJWFMxbllvOTBR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Apple Now Testing Flip-Style Foldable iPhone - MacRumors",
+    "description": "Apple Now Testing Flip-Style Foldable iPhone  MacRumorsAndroid book-style foldables expected to dominate in 2026, report says  9to5GoogleBook-Type Devices to Reach 65% of Global Foldable Smartphone Shipments in 2026  Counterpoint Technology Market ResearchiPhone Fold Leaks: How Apple Squeezed a Massive 5,500mAh Battery Into Its Thinnest Design Ever  Geeky GadgetsApple is testing a clamshell foldable iPhone, leaker claims  AppleInsider",
+    "published date": "Fri, 13 Feb 2026 16:47:45 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93V3pIRDZzVGJMQzJ2UmtZMGVGV1h0UjN1alVUd3lOalVxWFFvd0Y3dGtuSWNfYlloWjB3S0c4VGFkNEJIVy1QZEpTaE9sSVVDNkR1RmZXb0s2WUYtSGlLbGdoaEpSb1RZdGxxOTVscHgxQng0S29ZMlpZUnE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://mashable.com",
-      "title": "Mashable"
+      "href": "https://www.macrumors.com",
+      "title": "MacRumors"
     }
   },
   {
-    "title": "Rayman 30th Anniversary Edition Releases Tomorrow, Collects Five Versions Of The Original Game - Game Informer",
-    "description": "Rayman 30th Anniversary Edition Releases Tomorrow, Collects Five Versions Of The Original Game  Game InformerPlay Rayman: 30th Anniversary Edition Tomorrow!  UbisoftRayman: 30th Anniversary Edition releases Feb 13 on PS5  PlayStation.BlogPS5 Remaster of Iconic PS1 Game Out Today on PS Store  PlayStation LifeStyleRayman: 30th Anniversary Edition revealed for Nintendo Switch, out tomorrow [update: trailer]  Nintendo Everything",
-    "published date": "Thu, 12 Feb 2026 22:29:08 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWXBabWcydE1hWWVfSVBESW9VTnJWTl8tZVBEVVFaVnplSVh6ek5HaFg5OGRERVVnLUV6bDRjTmpUdkNOT2pIVzVDaHozQkVLTXRYWWR5a0tFN1ZWMVNFeEtWT1RQM3VOQVZGNDlzVWhscDlfZm1mWVV4QUhXVThEUW1TTFpXcWgwYjVTVEtZbGprbHI5clYzaDZNNTFoLXdBNTBscU5YMzYtX21kRzhZbm8ydGpuVm9idmRYRWVTWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Rayman: 30th Anniversary Edition revealed for Nintendo Switch, out tomorrow [update: trailer] - Nintendo Everything",
+    "description": "Rayman: 30th Anniversary Edition revealed for Nintendo Switch, out tomorrow [update: trailer]  Nintendo EverythingPlay Rayman: 30th Anniversary Edition Tomorrow!  UbisoftRayman: 30th Anniversary Edition releases Feb 13 on PS5  PlayStation.BlogPS5 Remaster of Iconic PS1 Game Out Today on PS Store  PlayStation LifeStyleRayman 30th Anniversary Edition Releases Tomorrow, Collects Five Versions Of The Original Game  Game Informer",
+    "published date": "Fri, 13 Feb 2026 17:19:18 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa09UQkpiMUlVZ3lkTHk5WTVkbHlRdnUtNVM0LXR0QjVTUWQxVzBwWThnMHdpcHpHQ2ZNc2s4STJ6d1FwSEl1NnMxUUt3dmcyLVlsOWd4dEN6c2RNcjFIelNLeUNNMGtBNlUyUGZTZnZoYXZfQkkzaEczbnBHYnNrUGp5NXI1VVY4YVpSTExJRnlDWWluVkhXZ1owRXgwZ2JLNjRSOEpyaFM?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://gameinformer.com",
-      "title": "Game Informer"
+      "href": "https://nintendoeverything.com",
+      "title": "Nintendo Everything"
     }
   },
   {
@@ -81,8 +41,8 @@
   },
   {
     "title": "Reanimal Review - IGN",
-    "description": "Reanimal Review  IGNView Full Coverage on Google News",
-    "published date": "Sat, 14 Feb 2026 00:26:00 GMT",
+    "description": "Reanimal Review  IGNReanimal Review - Macabre Merit  Game InformerReanimal review – you will never turn your back on a pelican again as long as you live  The GuardianHow to play co-op, crossplay, and use the Friend's Pass in Reanimal  PolygonHow David Lynch, Alien, and Slumber Parties Inspired the Creation of Reanimal  Xbox Wire",
+    "published date": "Sat, 14 Feb 2026 03:06:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wU0NaWjdzeWptZk5xNmgzZzB3aktSVjNzRTVXVFpfQlBybkhZeFItWGFyUjRFUTNHdFcxWWZyUDlDTnUwbUdra2ZXSUNySWVtWkRROHZ5cw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.ign.com",
@@ -90,33 +50,43 @@
     }
   },
   {
-    "title": "Review: High on Life 2 reignites the Unreal Engine 5 image quality/performance debate - Digital Foundry",
-    "description": "Review: High on Life 2 reignites the Unreal Engine 5 image quality/performance debate  Digital FoundryHigh On Life 2 Review  IGNHigh On Life 2’s Skateboarding Kickflips the Shooter Genre on Its Head  Xbox WireHigh On Life 2 Review - Contact High  Game Informer'If you're a PlayStation player, you're going to buy it on PlayStation. You're not going to play it on Game Pass' — Squanch Games CEO says making the PS5 version of High on Life 2 it's main platform 'was a no-brainer'  TechRadar",
-    "published date": "Fri, 13 Feb 2026 18:12:15 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTzJseTNyM2stOUxwenpOZzYwVzNiSVV1WTRLYkZ4YkVxM3FUOFFlSXlsMERCa2drX1hYWUNfWEdFQ0p3X1dIR0xIcDdLalh0Uy13OURNS044TDhvWUgwWFl4NmI0Q1pHZnFDY0h0bzVBVFNjZVdfZzR4UURUcHR4WThubjRMZkNfRFdZTURkc0VBZmtlUFpUSzV6aWJlTXB0MXNPeFBqdUJPTVJJbXBRcURDRXpLdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Samsung Galaxy S26 colors, renders leak. See them now. - Mashable",
+    "description": "Samsung Galaxy S26 colors, renders leak. See them now.  Mashable[Invitation] Galaxy Unpacked February 2026: The Next AI Phone Makes Your Life Easier  samsung.comSamsung’s offering up to $900 of trade-in credit toward its new phones  The VergeThe Galaxy S26 Ultra Is Almost Here: Samsung Confirms Unpacked Date And Pre-Order Perks  ForbesSamsung Galaxy Unpacked 2026: Everything we're expecting from the S26 launch on February 25  Engadget",
+    "published date": "Fri, 13 Feb 2026 17:38:02 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZVVNYczRmc0VaUlhwbktLSmNSWGZjRkd3akJxT2VMYTJEUm1pOWRRNy16c1Rza3g3TTFDMjJxY0xuWFgtZzZYcFFLay1qaFpMN0lEYmtUcHVJWFMxbllvOTBR?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.digitalfoundry.net",
-      "title": "Digital Foundry"
+      "href": "https://mashable.com",
+      "title": "Mashable"
     }
   },
   {
-    "title": "Stern Pinball’s New Pokémon Pinball Machine Is Available Now - Pokemon.com",
-    "description": "Stern Pinball’s New Pokémon Pinball Machine Is Available Now  Pokemon.comNew Pokémon Pinball Machine Lets You Catch, Battle, and Complete a Pokédex  IGNGrab A Third Job Cause This Pokémon Pinball Machine Is $7,000  KotakuStern Pinball Debuting Pokémon Pinball Machines at NYC Toy Fair 2026, First Look Trailer & More Released  GoNintendoStern’s new pinball machines are for Pokémon fans with deep pockets.  The Verge",
-    "published date": "Fri, 13 Feb 2026 17:10:29 GMT",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeGplemc4dDFiaWRiVzdjaHBXbS1rRlNoV0RoRS1tbHMxd0JyQlVhTXY4VHB1UmxaaWhYbVdhenZCU1pHWGd2cm43WXhfWlh6WFZUVHJxbnRZLXppd040T3U0WkpmbENfWlNOMTZVWTdOdzA3N0M5bjFtblZnQ2lQMENWdnJyc083SnZmRjlSeVBwYjd0RmEtbzNNWDZ0QkFD?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Santa Monica Developing More Than Just God of War Trilogy Remake, It’s Claimed - Insider Gaming",
+    "description": "Santa Monica Developing More Than Just God of War Trilogy Remake, It’s Claimed  Insider GamingGod of War Sons of Sparta  playstation.comSanta Monica Studio Is Remaking The Original God Of War Trilogy  Game InformerGod of War Sons of Sparta Spin-off Out Now, and God of War Trilogy Remake Announced | Sony State of Play  IGNThe 'God of War' trilogy is getting a remake  Mashable",
+    "published date": "Fri, 13 Feb 2026 11:23:44 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa2ZsM0hHdnktV2c1RzRtMWgyaXJMRENra25EUEZkN0tSS0JuWk1vSG9EUXB1T3Z3bnBMYkpIUTJKZXZSSEl5dFVSTGdxZzFLWVRzTU54R2RvMmJDenVqVmVKdExRZ3g3Z3podF80d3BUUG5GbjhmbnVRUGs2UFZNSmZXR1JlUElqa1BCSUlsVVk4bTQ0MHRxNnltRzFmRXhkTnl0M0xsdw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.pokemon.com",
-      "title": "Pokemon.com"
+      "href": "https://insider-gaming.com",
+      "title": "Insider Gaming"
     }
   },
   {
-    "title": "New ‘God of War’ Game ‘Sons of Sparta’ Surprise Launches on PlayStation, Original Trilogy Remake in the Works - Variety",
-    "description": "New ‘God of War’ Game ‘Sons of Sparta’ Surprise Launches on PlayStation, Original Trilogy Remake in the Works  VarietyGod of War Sons of Sparta  playstation.comSanta Monica Studio Is Remaking The Original God Of War Trilogy  Game InformerGod of War Sons of Sparta Spin-off Out Now, and God of War Trilogy Remake Announced | Sony State of Play  IGNThe 'God of War' trilogy is getting a remake  Mashable",
-    "published date": "Thu, 12 Feb 2026 23:17:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUVpvX2FIVFI1eFhQZEJGWEVYMlUzWFE5NXVzdjhiMEd0RDQ2a1JPUlJMak9DZzRLZkhXYllCSllMcEU2OGFhVXQ3anJNUXJHODY2WW5GRF9YTWJjeXV0cC0zVURMeHNOTGpiVWNNcG5RbE1DcEVsMEpFLWIwZ1BuTTk5MURwS3RQWGxFb0hwbWd1ZzV6SnJsNUVYRURQcmowNjI1VU93?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Samsung’s ‘Wide Fold’ surfaces with near-16:10 aspect ratio, wider than first Pixel Fold - 9to5Google",
+    "description": "Samsung’s ‘Wide Fold’ surfaces with near-16:10 aspect ratio, wider than first Pixel Fold  9to5GoogleExclusive: First official look at Samsung's 'Wide' Galaxy Z Fold  Android AuthorityOne UI 9 spotted for Samsung's mysterious new Galaxy Z Fold  SamMobileNo Shot This is Samsung's Secret Wide Galaxy Z Fold 8  Droid LifeEarly signs of One UI 9 have already appeared, even before the stable release of One UI 8.5  PhoneArena",
+    "published date": "Fri, 13 Feb 2026 17:57:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZVV2YTd5c2ZZN2EyRTUtVTlUOW5yZXZ1em9lZVR1OFQ0S21fTXVyNnh2NmhPeEMyVEQ4aFpacU5HSWZDU3hjdHl2WEk4RGVCX2ROcnJJLXRkNUtRRHBnQlBDb0o2a01ULU9IY001MUZDOUhjSWgwazNjUHpEM1N1NS1CelEzV1Fpc1BZSk9oT2NPRUV5RXZHTUM4ZVgzQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://variety.com",
-      "title": "Variety"
+      "href": "https://9to5google.com",
+      "title": "9to5Google"
+    }
+  },
+  {
+    "title": "High On Life 2 Review - Contact High - Game Informer",
+    "description": "High On Life 2 Review - Contact High  Game InformerHigh On Life 2 Review  IGNHigh On Life 2’s Skateboarding Kickflips the Shooter Genre on Its Head  Xbox Wire'If you're a PlayStation player, you're going to buy it on PlayStation. You're not going to play it on Game Pass' — Squanch Games CEO says making the PS5 version of High on Life 2 it's main platform 'was a no-brainer'  TechRadarHigh On Life 2 Guide: 13 Tips To Know Before Playing  Kotaku",
+    "published date": "Fri, 13 Feb 2026 19:49:10 GMT",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IZG5YbGlkQ0JaRUdjRE5fc2lYM3RBM3pLLXdlRGZDUDE4T3ZzZ2kzNm03UGl1cjNsbU5TVnA4d01PTGNNQzRWbGFkbWVhamJodS1oQmVRam93OGFFclZvcDBsSVo3WG5sbHFj?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://gameinformer.com",
+      "title": "Game Informer"
     }
   },
   {
@@ -130,13 +100,23 @@
     }
   },
   {
-    "title": "CISA flags critical Microsoft SCCM flaw as exploited in attacks - BleepingComputer",
-    "description": "CISA flags critical Microsoft SCCM flaw as exploited in attacks  BleepingComputerCritical Microsoft bug from 2024 under exploitation  theregister.comCISA adds SolarWinds, Microsoft, Apple, Notepad++ vulnerabilities to KEV catalog  SC MediaCISA Warns of Actively Exploited SQL Injection Flaw in Microsoft Configuration Manager  Cyber PressCISA Adds Six Microsoft 0-Day Vulnerabilities to KEV Catalog Following Active Exploitation  CybersecurityNews",
-    "published date": "Fri, 13 Feb 2026 12:35:09 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSDV0VkpjVzdpT0luc0VJblUxR1otaERGeUM0UnZVSTZlOGt0V0R5eEFobkxhUktodTlwRnJONkhwQ0ttanJsSm9rTXBxa0VxOHdOdTVzaDZIU2s1YWZUdkYzRDVTUURQWG5iSmt2Vkx5R0pyQlpxUjd0NnJ6bVJUaEN0WG55Ykc1d0dkdi1wdDZhMDY2TmREck5aRnNaSm81bndUYTNrOEF2RXJ5M0VtSdIBtgFBVV95cUxPTUtrRkxHbDRlV0tXNzVNMUh1a09wYks5WnpWVWstNjVSNlc0UnRQZmd6M0dXUUhfTzZtaUI5MGprVFFiZTVEWHZTWE94akdjYmlTaWx5d0RlUTF5YnYzQ0VFQ093ZDZNbzBpZElBUlhGMTlTNmw5N0RlLUdERTFhWmw1a1V6aTNGeDVJc0ZhSWprNlNxWF9rUG1NWk9KMHpUTVBobGRvOTNUSW9LT081OENuZUk0Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Stern Pinball’s New Pokémon Pinball Machine Is Available Now - Pokemon.com",
+    "description": "Stern Pinball’s New Pokémon Pinball Machine Is Available Now  Pokemon.comNew Pokémon Pinball Machine Lets You Catch, Battle, and Complete a Pokédex  IGNWe played Stern’s Pokémon pinball — and it’s amazing  Nintendo WireStern Pinball Debuting Pokémon Pinball Machines at NYC Toy Fair 2026, First Look Trailer & More Released  GoNintendoStern’s new pinball machines are for Pokémon fans with deep pockets.  The Verge",
+    "published date": "Fri, 13 Feb 2026 17:10:29 GMT",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeGplemc4dDFiaWRiVzdjaHBXbS1rRlNoV0RoRS1tbHMxd0JyQlVhTXY4VHB1UmxaaWhYbVdhenZCU1pHWGd2cm43WXhfWlh6WFZUVHJxbnRZLXppd040T3U0WkpmbENfWlNOMTZVWTdOdzA3N0M5bjFtblZnQ2lQMENWdnJyc083SnZmRjlSeVBwYjd0RmEtbzNNWDZ0QkFD?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.bleepingcomputer.com",
-      "title": "BleepingComputer"
+      "href": "https://www.pokemon.com",
+      "title": "Pokemon.com"
+    }
+  },
+  {
+    "title": "GPT-5.2 derives a new result in theoretical physics - Hacker News",
+    "description": "GPT-5.2 derives a new result in theoretical physics  Hacker NewsView Full Coverage on Google News",
+    "published date": "Fri, 13 Feb 2026 19:48:42 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LY3J6bUdnX2pSZldhVWhTRXFnMVJUQ1UxOG5sT0VFTVUtNk5pRFdIVlJBOXRlU3FHNHlmVFNDZ1huVHhMMDlkeW5oa05XUHF0VDNLc290TFM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://news.ycombinator.com",
+      "title": "Hacker News"
     }
   },
   {
@@ -150,6 +130,36 @@
     }
   },
   {
+    "title": "CISA flags critical Microsoft SCCM flaw as exploited in attacks - BleepingComputer",
+    "description": "CISA flags critical Microsoft SCCM flaw as exploited in attacks  BleepingComputerAttackers finally get around to exploiting critical Microsoft bug from 2024  theregister.comCISA adds SolarWinds, Microsoft, Apple, Notepad++ vulnerabilities to KEV catalog  SC MediaCISA Warns of Actively Exploited SQL Injection Flaw in Microsoft Configuration Manager  Cyber PressCISA Adds Six Microsoft 0-Day Vulnerabilities to KEV Catalog Following Active Exploitation  CybersecurityNews",
+    "published date": "Fri, 13 Feb 2026 12:35:09 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSDV0VkpjVzdpT0luc0VJblUxR1otaERGeUM0UnZVSTZlOGt0V0R5eEFobkxhUktodTlwRnJONkhwQ0ttanJsSm9rTXBxa0VxOHdOdTVzaDZIU2s1YWZUdkYzRDVTUURQWG5iSmt2Vkx5R0pyQlpxUjd0NnJ6bVJUaEN0WG55Ykc1d0dkdi1wdDZhMDY2TmREck5aRnNaSm81bndUYTNrOEF2RXJ5M0VtSdIBtgFBVV95cUxPTUtrRkxHbDRlV0tXNzVNMUh1a09wYks5WnpWVWstNjVSNlc0UnRQZmd6M0dXUUhfTzZtaUI5MGprVFFiZTVEWHZTWE94akdjYmlTaWx5d0RlUTF5YnYzQ0VFQ093ZDZNbzBpZElBUlhGMTlTNmw5N0RlLUdERTFhWmw1a1V6aTNGeDVJc0ZhSWprNlNxWF9rUG1NWk9KMHpUTVBobGRvOTNUSW9LT081OENuZUk0Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bleepingcomputer.com",
+      "title": "BleepingComputer"
+    }
+  },
+  {
+    "title": "Every Xbox and PC game shown during Sony's PlayStation State of Play February 2026 - Windows Central",
+    "description": "Every Xbox and PC game shown during Sony's PlayStation State of Play February 2026  Windows CentralEverything Announced At The February PlayStation State Of Play  Game InformerPlayStation State Of Play February 2026: All The Biggest Announcements And Games  GameSpotOverwatch's new \"story-driven era\" launch doubles release day concurrent record on Steam | News-in-Brief  GamesIndustry.bizState of Play February 2026: all announcements, trailers  PlayStation.Blog",
+    "published date": "Thu, 12 Feb 2026 22:06:39 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONG40ZHhvUmJJV3BiMGk0dGsza3ZJbFd5SzZYdDJpSGxyMmJmd2Zha18xYTQyMkFIbmFnMHdKanBPMG4ySWZiUmQ5N19sS2RVU25xMEpaOUZNS2ZsVWJnYmtiY2Y3RmNfejNaNTA0aFo4TWpzZW80aUdSdi14WDhvblh5Mjc0dDJfY1BscGZvOURYVjhUZWFBQ3JQR0ZUM0drclhaRlViZlh1OW8wZGloLTRyaTdPRlhiS1hFZEtsZ1RyUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.windowscentral.com",
+      "title": "Windows Central"
+    }
+  },
+  {
+    "title": "Mina the Hollower launches this spring; limited-time demo for PS5 launches February 13 - Gematsu",
+    "description": "Mina the Hollower launches this spring; limited-time demo for PS5 launches February 13  GematsuMina the Hollower launches Spring 2026 on PS5  PlayStation.BlogThe Best Zelda-Like of 2026 Still Has No Release Date After Its Crushing Delay  ComicBook.comShovel Knight developer's Game Boy-style metroidvania Mina the Hollower that's taken \"more than 6 years of work\" will be larger than \"the entirety of Shovel Knight: Treasure Trove\"  GamesRadar+Mina the Hollower contains \"more total screens than the entirety of Shovel Knight: Treasure Trove\"  GoNintendo",
+    "published date": "Thu, 12 Feb 2026 22:28:10 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZVM2ZllsNWpjZW5wSC1YRUlHbDNvMnFMZnVScU9HaU5yNjhSaksxX2Rfei1idFRyTkVmbkp5VFpFQTgyVXI2TmNOTUlmS3RNMUs1a2ZPeHJqc1Z0amU0SU5tamdCd0praGJUZFUyUFBaMThKNGlCSGVvWElqUE0xeFoxcWtVOG1HNEo5b202eWRDWUhaSVRhUzlkby1PSnZuQlR1OXp6QVU3MGg1NjlWajdqeHFxWkp5?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.gematsu.com",
+      "title": "Gematsu"
+    }
+  },
+  {
     "title": "Inside the New York City Date Night for AI Lovers - WIRED",
     "description": "Inside the New York City Date Night for AI Lovers  WIREDMy Dinner Date With A.I.  The New York Times🇺🇸 A NYC bar redesigned itself so people can bring their AI companions on dates One woman caps her usage at 3 hours a day because it can be addicting 3 hours a day talking to someone who doesn't exist and she thinks the cutoff is what makes it healthy😂  x.comTable for one? Now you can take your AI chatbot on an actual date at NYC’s 'world first' companion cafe  New York PostMy awkward first date with an AI companion  Mashable",
     "published date": "Fri, 13 Feb 2026 11:30:00 GMT",
@@ -157,16 +167,6 @@
     "publisher": {
       "href": "https://www.wired.com",
       "title": "WIRED"
-    }
-  },
-  {
-    "title": "Everything Announced At The February PlayStation State Of Play - Game Informer",
-    "description": "Everything Announced At The February PlayStation State Of Play  Game InformerPlayStation State Of Play February 2026: All The Biggest Announcements And Games  GameSpotOverwatch's new \"story-driven era\" launch doubles release day concurrent record on Steam | News-in-Brief  GamesIndustry.bizState of Play February 2026: all announcements, trailers  PlayStation.BlogHow to watch PlayStation's hour-long State of Play and what to expect  Engadget",
-    "published date": "Fri, 13 Feb 2026 01:29:28 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT3NvSm5pb1ZtNUUyeXlOdmE1Z1ZVT2xYdm1oZEJwbThCTjF1dzhsN3hkRXhjOGxKdkdsNHBDdlpXT3EwWXFubGxNUGRncEJRenhMRmRfa0tRU3BDQUdyNzdJWi1EdWdkdGdhOG9YbW1wWHFmU2I5Nmc5ZVVTLWdJaWNUclpmV0pUYWUxeGFxUm1lcmRjcEpKbHBKbXRhM3k5U3g1cF9GUS1HRTZBUXdmNXN3?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://gameinformer.com",
-      "title": "Game Informer"
     }
   },
   {
@@ -180,13 +180,23 @@
     }
   },
   {
-    "title": "Mina the Hollower launches this spring; limited-time demo for PS5 launches February 13 - Gematsu",
-    "description": "Mina the Hollower launches this spring; limited-time demo for PS5 launches February 13  GematsuMina the Hollower launches Spring 2026 on PS5  PlayStation.BlogThe Best Zelda-Like of 2026 Still Has No Release Date After Its Crushing Delay  ComicBook.comShovel Knight developer's Game Boy-style metroidvania Mina the Hollower that's taken \"more than 6 years of work\" will be larger than \"the entirety of Shovel Knight: Treasure Trove\"  GamesRadar+Mina the Hollower contains \"more total screens than the entirety of Shovel Knight: Treasure Trove\"  GoNintendo",
-    "published date": "Thu, 12 Feb 2026 22:28:10 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZVM2ZllsNWpjZW5wSC1YRUlHbDNvMnFMZnVScU9HaU5yNjhSaksxX2Rfei1idFRyTkVmbkp5VFpFQTgyVXI2TmNOTUlmS3RNMUs1a2ZPeHJqc1Z0amU0SU5tamdCd0praGJUZFUyUFBaMThKNGlCSGVvWElqUE0xeFoxcWtVOG1HNEo5b202eWRDWUhaSVRhUzlkby1PSnZuQlR1OXp6QVU3MGg1NjlWajdqeHFxWkp5?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Microsoft Confirms Windows Is Under Attack — Update Now - Forbes",
+    "description": "Microsoft Confirms Windows Is Under Attack — Update Now  ForbesMicrosoft Patches 59 Vulnerabilities Including Six Actively Exploited Zero-Days  The Hacker NewsPatch Tuesday, February 2026 Edition  Krebs on SecurityMicrosoft says hackers are exploiting critical zero-day bugs to target Windows and Office users  TechCrunchMicrosoft Fixes Bugs Behind One-Click Attacks  PYMNTS.com",
+    "published date": "Thu, 12 Feb 2026 15:54:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZTQtejRDUjJKLVh5NHRrcDFQeTRiLXQzX1pzdk9EQzl0NkVoZ29qS3k4VG9FZW5idTc4VDRsTFdFdEtrRkViQnZGT1YyYVo5MmU2RTZvNC1OcnVvVGttcXdqN0RKaU95bWdTOThvNXAwM0JmTWtRTnQ1TnRCQkduRXJ2WlJyRGV2TGthdjdQYms1SWVVVnFzT1dSb1ZubmlxaEs3cWxfblZNTnlB?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.gematsu.com",
-      "title": "Gematsu"
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
+    }
+  },
+  {
+    "title": "The first Android 17 beta is now available on Pixel devices - Ars Technica",
+    "description": "The first Android 17 beta is now available on Pixel devices  Ars TechnicaHere’s everything new in Android 17 Beta 1 [Gallery]  9to5GoogleGoogle Just Dropped An Update For Pixel Phones — And It’s A Surprise  ForbesGoogle releases the first beta of Android 17, adopts a continuous developer release plan  TechCrunchEverything New in Android 17 Beta  Droid Life",
+    "published date": "Fri, 13 Feb 2026 20:58:25 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN191a0c5aFJFTE1FbWpXaktrVTE5TmUzM0JQNXVkSnVvbUJBQlR1cm1CX3NzTHZZQUgwUUI1QXZ0YnlfTEpVRmhHbVVyOE9vdGoyU2JnYXhGN181aEJ2NkZWMWZBVl9qc3dYWEhZMnRuUzVSaTBsdTZhc3dGY2dUMHdtZm1aaTY5b2ZuR2VzWUlfYVN6LTZYV2I5SU8tVUJNR2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://arstechnica.com",
+      "title": "Ars Technica"
     }
   },
   {
@@ -210,33 +220,33 @@
     }
   },
   {
-    "title": "Castlevania: Belmont's Curse sees Dead Cells' devs bring back vampire whippage, and Konami say it's just the start of a revival - Rock Paper Shotgun",
-    "description": "Castlevania: Belmont's Curse sees Dead Cells' devs bring back vampire whippage, and Konami say it's just the start of a revival  Rock Paper ShotgunCastlevania: Belmont's Curse, Made By Konami And The Dead Cells Devs, Launches In 2026  Game InformerCastlevania: Belmont's Curse, a New 2D Castlevania Game, Announced | Sony State of Play  IGNCastlevania: Belmont’s Curse launches this year on PS5  PlayStation.BlogCastlevania: Belmont’s Curse announced for Nintendo Switch  Nintendo Everything",
-    "published date": "Fri, 13 Feb 2026 10:06:52 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWkoteXFHcWZTTGJ4cDBkektDRDFSRHMzUDdNR05yMS03Vm9uYTkwRDJkUTFFSjQ1aEVUSEpsLU1QQU5WSEN3NV9jQ1pGLTd3WnBoZm80dWtPaGUtQ0pNYjZCX3RWemhqQlVuemg3RjVydlJjSmd3UkR3a0tfaUhMdFptTVNnaTlMOHh3dUhnN1dQREotQ1VPMzBsMTFXbkxnX1pUYThwNzlqQzF3YmdTb2Q0LVl2el9heTYzSEJBanVJcG1TX3J0Um9RRG9KeEx6NlJyYlJpeVp2YVV3aHV4X09aU0I1WEpJWE13?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Simulation showing what it would look like to go around Earth at the speed of light is absolutely wild - supercarblondie.com",
+    "description": "Simulation showing what it would look like to go around Earth at the speed of light is absolutely wild  supercarblondie.com",
+    "published date": "Fri, 13 Feb 2026 22:48:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GMFprWkZqY1FSbG5tU0pISE9IcXJrR3hFWWVaMENxbUl5R3Fsb0gzZEJ2MUpnRGpUaVJYTVBTN0JyQ0g3TzlDa0VuX1hzOW1qcDlJZkVIVWl1WmlGZnQyalhibDNraFBkcG94cnFjUGNNejNLLVE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.rockpapershotgun.com",
-      "title": "Rock Paper Shotgun"
+      "href": "https://supercarblondie.com",
+      "title": "supercarblondie.com"
+    }
+  },
+  {
+    "title": "Good news vampire hunters, Castlevania: Belmont's Curse is \"the beginning of numerous new products around Castlevania\" - Eurogamer",
+    "description": "Good news vampire hunters, Castlevania: Belmont's Curse is \"the beginning of numerous new products around Castlevania\"  EurogamerCastlevania: Belmont's Curse, Made By Konami And The Dead Cells Devs, Launches In 2026  Game InformerCastlevania: Belmont's Curse, a New 2D Castlevania Game, Announced | Sony State of Play  IGNCastlevania: Belmont’s Curse launches this year on PS5  PlayStation.BlogCastlevania: Belmont’s Curse announced for Nintendo Switch  Nintendo Everything",
+    "published date": "Fri, 13 Feb 2026 10:02:12 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTmRQMlN4ZUlJMmItdGpuNHVHTExHQmZJWjg2RlpUVVRTdEloRHU5UnNWMVFKTEp4RjAtc1J3akxXZXdRNEEzaDlaOU1NREg0SnpLM1JhcVBpSVIwNE5iMGxsVmh2bDFpR0taQktyVEo1OTVGUi1kOWRnN1BNNkM1SHR1QlFLNk9FakFIbldPc1dmZGdJZVFuZjNySHpna3FhNE9YRldVYUVVOXB3SDZZcWhYSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.eurogamer.net",
+      "title": "Eurogamer"
     }
   },
   {
     "title": "WF-1000XM6 earbuds officially launch as Sony reveals price and features - Notebookcheck",
-    "description": "WF-1000XM6 earbuds officially launch as Sony reveals price and features  NotebookcheckSony’s XM6 earbuds are noise-canceling winners  The VergeI spent two weeks with the Sony WF-100XM6 and recommend you change these 6 key settings  What Hi-Fi?The Sony WF-1000XM6 are here: Price, specs, where to buy  MashableSony WF-1000XM6 review: Facing tougher competition  Engadget",
+    "description": "WF-1000XM6 earbuds officially launch as Sony reveals price and features  NotebookcheckSony’s XM6 earbuds are noise-canceling winners  The VergeThe Sony WH-1000XM6 headphones get a new color - GSMArena.com news  GSMArena.comSony WF-1000XM6 Earbuds Review: A Cut Above  CNETThe Sony WF-1000XM6 are here: Price, specs, where to buy  Mashable",
     "published date": "Thu, 12 Feb 2026 17:24:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc0NpMUFqMVdyYkYtTENCWk5aOFFFU1Jkdm5XU0NoMnI0bVRqemxmLXVaRERwTnhIX0xuZEdtdnAxNVhBbFJvLTNmMEpoeXFWandiY0ZFaGZhM1ZRT3hubmJKaHFwYkV1SmRLNzByZGlLWEJIVTNCZUxBQWQ0VlY2aC1EeEZUWXVJVUdMdUVzbmpLYUFiZU5JbnRaN3RsMmNoejBvWkVoVmpuZUpDcWRqcGlXeVVqZVU?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.notebookcheck.net",
       "title": "Notebookcheck"
-    }
-  },
-  {
-    "title": "Silent Hill: Townfall Not Coming To Xbox At Launch, Along With A Few Other State Of Play Titles - Pure Xbox",
-    "description": "Silent Hill: Townfall Not Coming To Xbox At Launch, Along With A Few Other State Of Play Titles  Pure XboxSilent Hill: Townfall reveals first-person gameplay in a new trailer  PlayStation.BlogSilent Hill: Townfall Is Coming This Year From Konami And Annapurna  Game InformerFirst-Person Silent Hill: Townfall Transports the Series' Survival Horror to Scotland  IGNSilent Hill: Townfall Preorders Emerge At Amazon And Best Buy  GameSpot",
-    "published date": "Fri, 13 Feb 2026 12:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeG9YTFUxbTFRRF9zaHJFMXl4ak1PRVpmandIeXJKM3pzQmlfUXhkWk5kbGV3SVBpdHNuQjZfbU8zNjBYNGliUWluTTJkd3VJU1lNVWNZc2J3dmlBNEJZNF91eFNRWXFlTkZzV19McUZNc2VaN2lrdUxxNVNQZDg2RW9UV0w0VWpydnJlM2d4OTZSQlItUkpUSkpIUThlTER4NXp6UEhnbzhYbGJRV1RyTDZ6ckNNeDE1NlNPajJqRmFlNEtsY2VwdV9pdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.purexbox.com",
-      "title": "Pure Xbox"
     }
   },
   {
@@ -250,8 +260,18 @@
     }
   },
   {
+    "title": "Silent Hill: Townfall Not Coming To Xbox At Launch, Along With A Few Other State Of Play Titles - Pure Xbox",
+    "description": "Silent Hill: Townfall Not Coming To Xbox At Launch, Along With A Few Other State Of Play Titles  Pure XboxSilent Hill: Townfall Is Coming This Year From Konami And Annapurna  Game InformerSilent Hill: Townfall reveals first-person gameplay in a new trailer  PlayStation.BlogFirst-Person Silent Hill: Townfall Transports the Series' Survival Horror to Scotland  IGNSilent Hill: Townfall Preorders Emerge At Amazon And Best Buy  GameSpot",
+    "published date": "Fri, 13 Feb 2026 12:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeG9YTFUxbTFRRF9zaHJFMXl4ak1PRVpmandIeXJKM3pzQmlfUXhkWk5kbGV3SVBpdHNuQjZfbU8zNjBYNGliUWluTTJkd3VJU1lNVWNZc2J3dmlBNEJZNF91eFNRWXFlTkZzV19McUZNc2VaN2lrdUxxNVNQZDg2RW9UV0w0VWpydnJlM2d4OTZSQlItUkpUSkpIUThlTER4NXp6UEhnbzhYbGJRV1RyTDZ6ckNNeDE1NlNPajJqRmFlNEtsY2VwdV9pdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.purexbox.com",
+      "title": "Pure Xbox"
+    }
+  },
+  {
     "title": "KRAFTON announces Project Windless for consoles and PC, including PS5 - Gematsu",
-    "description": "KRAFTON announces Project Windless for consoles and PC, including PS5  GematsuProject Windless Is A Dynasty Warriors-Like Action RPG Where You Play As A Sword-Wielding Chicken  Game InformerWorried about Project Windless and generative AI? Don't fret, Krafton says the game is not using \"generative AI for content creation or narrative elements\"  EurogamerProject Windless Announced, Brings Open-World, Chicken-Based Carnage To PlayStation  MMORPG.comGod of War Meets The Witcher In Clucking-Awesome New AAA RPG  GAMINGbible",
+    "description": "KRAFTON announces Project Windless for consoles and PC, including PS5  GematsuProject Windless Is A Dynasty Warriors-Like Action RPG Where You Play As A Sword-Wielding Chicken  Game InformerWorried about Project Windless and generative AI? Don't fret, Krafton says the game is not using \"generative AI for content creation or narrative elements\"  EurogamerProject Windless Announced, Brings Open-World, Chicken-Based Carnage To PlayStation  MMORPG.comHundreds of Enemies on Screen - Project Windless Focuses on \"Mass Technology\"  IXBT.games",
     "published date": "Thu, 12 Feb 2026 22:33:59 GMT",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRGswUUhrb25vNGdoeFI5SHBkdjl4MDVqclVjTG1sa1EwM3RhQ1M4YkowQmJhdWtUT2lRQmdiei1jNGFaNmNGLUNKQm5LZTVDY2lWaF80UGhSUzVmYVdhb1BuVHBBZzV1c0JqR1Awdkg4dkdNanNJUkQxYV91WmVDb1cxN1lRVnZuMGgxT2xEQjBJN3RPT0swWEVabndyUzBJR3c?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -260,23 +280,43 @@
     }
   },
   {
-    "title": "\"We were turned into a joke from minute one\" - fired Highguard developer reflects on game's ill-fated launch and \"false assumptions\" after Game Awards reveal - Eurogamer",
-    "description": "\"We were turned into a joke from minute one\" - fired Highguard developer reflects on game's ill-fated launch and \"false assumptions\" after Game Awards reveal  EurogamerHighguard's high-profile mistakes should be a lesson for other developers | Opinion  GamesIndustry.bizUPDATE: Highguard Developer Wildlight Entertainment Confirms Layoffs At The Studio  Game InformerFormer Highguard Developer Reflects on Disastrous Announcement and Launch: 'We Were Turned Into a Joke From Minute 1'  IGNGeoff Keighley Isn't To Blame For Highguard's Struggles, Says Baldur's Gate 3 Boss  GameSpot",
-    "published date": "Fri, 13 Feb 2026 11:28:36 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQW9OaklSNHlrT3BPenFjN1NGNU5OZU81bTNBVWQtaHFkN1hHbVBIQ25SNTB1VGdoUERZejBWOXN0RGhFYWVxdlZldEIyazhNWGdxdGE1NU50YWhGdFFESFdoUzAzNU50clVzMG14Nm45M3huRTFCNFozR241UkpXMzFmV2NpaE04T05kVGJCTVNIZ3N4b1laR0JqWm02V2kxSEJsdko0emFKS1V6ekpIVmdaQjdycXNpb0ZaYVBOTkN6OGxMdXlGeHc2UGxwbzlXSi1RYkhuMmh2M2dfb2pfYlpLQmNvdndGZEF6aUNMVHpEVTlPQ3NEVEZCeDRMSWVrZml4bnNERQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Highguard Dev Mourns The Game - \"The Future Seemed Bright\" Before TGA Reveal - GameSpot",
+    "description": "Highguard Dev Mourns The Game - \"The Future Seemed Bright\" Before TGA Reveal  GameSpotHighguard game developer lays off staff just two weeks after release  BBCHighguard's high-profile mistakes should be a lesson for other developers | Opinion  GamesIndustry.bizUPDATE: Highguard Developer Wildlight Entertainment Confirms Layoffs At The Studio  Game InformerDesigner claims ‘most’ of Highguard’s dev team have been laid off, weeks after launch  Video Games Chronicle",
+    "published date": "Thu, 12 Feb 2026 19:39:55 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOE9FMUU5MFBoVHR3d0tYOVZTbnNyaTd2YXZ4eFpwTVEtQjlGVFZMcTIwb3J0UnRYT3h4MVpFQkZHSTdSYXhHaEQ4TEFDeUl0TnhZa01qNDBoUlV5Q3NkNE5FTHNMNzBWY1Iwb3lRRnN6SldyQ0FmZ0x0bXpRU2JTbmRHbzdaWGZ4VTM1ME9aMnYtNUlPaXpsWDdUcGlKOW5ZVmx6WEg5ajBNQm5GaUdlczd4ejhPaWxtWElkTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.eurogamer.net",
-      "title": "Eurogamer"
+      "href": "https://www.gamespot.com",
+      "title": "GameSpot"
     }
   },
   {
     "title": "iOS 26.3—Update Now Warning Issued To All iPhone Users - Forbes",
-    "description": "iOS 26.3—Update Now Warning Issued To All iPhone Users  ForbesYour iPhone Just Got Better. Here's Everything Apple Added to iOS 26.3  PCMagiOS 26.3 Now Available With 5 New Features  bgr.comApple Releases iOS 26.3 and iPadOS 26.3  MacRumorsiOS 26.3 adds unique new privacy feature, and it’s Apple at its best  9to5Mac",
+    "description": "iOS 26.3—Update Now Warning Issued To All iPhone Users  ForbesYour iPhone Just Got Better. Here's Everything Apple Added to iOS 26.3  PCMagiOS 26.3 Now Available With 5 New Features  bgr.comiOS 26.3 makes it easier to switch to Android  The VergeiOS 26.3 adds unique new privacy feature, and it’s Apple at its best  9to5Mac",
     "published date": "Fri, 13 Feb 2026 14:14:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdmJVUVNoaHRrU1hXcFhuX2ZqYzVJLWROTGJQNGcxelV0UFMwYnZRUFJwRkpXSUFqbFRUZWliUnMzd0QwN09uVDRRZ2J0OVgyNjJiTFFwTU10MVpYUXI5UGNFb3RPMlRWNk9GaUlOWVQ1NUp2NkkyNWhUZ2FPaFpKR3g4ZUJ0RDd6cXlxSEFSREZVZTRUWXdTLWtwd01EaGd4cGdYSl9hVGZ3cW93NzhN?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.forbes.com",
       "title": "Forbes"
+    }
+  },
+  {
+    "title": "Koei Tecmo Reveals New Dead or Alive Game and Dead or Alive 6 Last Round | Sony State of Play - IGN",
+    "description": "Koei Tecmo Reveals New Dead or Alive Game and Dead or Alive 6 Last Round | Sony State of Play  IGNDead or Alive 6 Last Round launches on PS5 June 25, new game also in development  PlayStation.BlogDead Or Alive 6 Last Round Arrives In June, New Dead Or Alive In Development  Game InformerA New Dead Or Alive Game Is In The Works  GameSpotDead Or Alive 6 Review – Fighter Till the End  The Outerhaven",
+    "published date": "Fri, 13 Feb 2026 01:01:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQ3FuVk1CRW50MHR2NklnZFhPNUtHWFQ5VVFzLWVMT0NVSHJSWF9BVFNmS1hfZ1MxWXlaS3BtZThKUUxkeU95b1hrWkhVNDgwLWp5aDV1RWhfYlRvMnFJVFlVaGxtYnFlcFZxY3JZWWVETlBsakcwTUxnWHdTaHFmbTZYcUJYMUh1dTNyWVN0NVVFZ1BZVmQzNnJwMS1LdjQ0akNXSzRzSkp2TjdMZWh5ODJoX0R2dFhGZ2FsUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ign.com",
+      "title": "IGN"
+    }
+  },
+  {
+    "title": "New base iPhone coming soon, new leak reveals key specs - 9to5Mac",
+    "description": "New base iPhone coming soon, new leak reveals key specs  9to5MacApple Is About to Release a Flood of New Products — Here’s What’s Coming  EntrepreneurApple Prepares to Kick Off 2026 With the iPhone 17e, New iPads and Macs  Bloomberg.comApple's Next Two Products Are Coming Soon  MacRumorsApple is about to launch a ‘game-changer’ iPhone  thestreet.com",
+    "published date": "Fri, 13 Feb 2026 12:55:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaElkWjlVak5lMkc1akoxTmEtd09TUUlXYVBRZ1JMMjBlMUc4VzFtb3lYc1pOd1JtUDVKUzUyQUJCM2NvYTJKck5PZzMwVGpSalRFS1hoMkFBUGdBdi1QQklWQ1A2ZW54dXpiYkdMcTE4bm5jck1aZVFEclN0WFktVlp2eWFyMm40d29WZXU3Yw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://9to5mac.com",
+      "title": "9to5Mac"
     }
   },
   {
@@ -300,13 +340,33 @@
     }
   },
   {
-    "title": "I use the 'Gravity' prompt with ChatGPT every day — here’s how it finds and fixes weak ideas - Tom's Guide",
-    "description": "I use the 'Gravity' prompt with ChatGPT every day — here’s how it finds and fixes weak ideas  Tom's Guide",
-    "published date": "Thu, 12 Feb 2026 06:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSWh6QlBWeXIxWF9ob0hrZE9uYkhPSVZSYjkyT3A0UUlUeVVrNW5aTFhBRW1fODhfbmtNX1RDOGQ5TnRfV2VadVpIdWJ3Rk9iYVRWRU5lYUt3cjdaQVdNSDk2RWFYMENuWFhycUpiNko0c1psS0xOV3N1UUpuczQ0N3JKelVXSlJMS0t0V2dKVmpodC02aEZma0J4aTBIWk5McWRGSXJ0ZS1OaHI0MUdvblFnc0ZzS0U?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "2XKO Update: What’s Next + New Champs - 2XKO",
+    "description": "2XKO Update: What’s Next + New Champs  2XKORiot Games lays off roughly 80 employees from 2XKO team  Game DeveloperAfter cutting half of 2XKO's team less than 30 days from launch, I have to ask: how can any of us get behind a new Riot game ever again?  EurogamerRiot Spent A Decade Developing A Fighting Game Then Laid Off Around 80 Developers Less Than One Month After Release  aftermath.siteAkali and Senna revealed as next champions for 2XKO as Director discusses future of the game  EventHubs",
+    "published date": "Fri, 13 Feb 2026 19:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQWJWLXFmVF8wQXhKYnlTaU5MRGZvSHN1TFFFU0tfdGtkVV9RTkVmYjlMZHNvZ21OQjNUY2JuenZ3WldBa2c0VlcwcnBnVEUwaE9YZVIwbTZaVW9RY21jbFhvcHY5YmJ4V3NpM3VsZnZjYnV6S2ZQV2JGV3dHaGk5eEdMT3R0NXFXN3VWcVhkVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.tomsguide.com",
-      "title": "Tom's Guide"
+      "href": "https://2xko.riotgames.com",
+      "title": "2XKO"
+    }
+  },
+  {
+    "title": "YouTube Launches on Apple Vision Pro - MacRumors",
+    "description": "YouTube Launches on Apple Vision Pro  MacRumorsApple Vision Pro Gets YouTube App Two Years After Device’s Debut  Bloomberg.comIt took two years, but Google released a YouTube app on Vision Pro  Ars TechnicaYouTube Is Finally on the Apple Vision Pro. Can We Expect More Google Apps to Come?  CNETApple Vision Pro finally gets an official YouTube app  Mashable",
+    "published date": "Thu, 12 Feb 2026 17:00:03 GMT",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GTEZCMU83R1FDR013ZW81SlJXZUh0bHlVSjM3eFBSOWxjYzRrRXBUTml6TkhOUFJfMHhDLXJnM3REN0xxSVBwWktTOWhmRTFJSWFqQUV0Q1ZVVHNSTFBzbXRObW5WdjdSSGphQnlGSkVfV2RM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.macrumors.com",
+      "title": "MacRumors"
+    }
+  },
+  {
+    "title": "If You’re In A \"I'm Finally Going To Get My Life Together\" Mood, You’ll Want These 28 Products - BuzzFeed",
+    "description": "If You’re In A \"I'm Finally Going To Get My Life Together\" Mood, You’ll Want These 28 Products  BuzzFeed",
+    "published date": "Fri, 13 Feb 2026 02:01:06 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM1BGa3hPRUI5TENoMVpZZGQ5SGxwc0ZJVDQ3TFJlNjlzcXhlSzFHNld0QS1uUzhzQ3lEMWd2c0dHdVRzNmo0eGtCWktDYnAyU1QzNV90NkFCdHJ2d0g1ekVpTzNTb3p5OE5NUFEwWHBnNTYwTENzYWJJc1Y5Mm0wMGFRRkpxSWk1c0FXSzhjNmwweTZSei1JMkdzYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.buzzfeed.com",
+      "title": "BuzzFeed"
     }
   }
 ]
