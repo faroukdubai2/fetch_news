@@ -1,15 +1,5 @@
 [
   {
-    "title": "Theatre Prof Talks to CBC National About Arts for Health - U of G News",
-    "description": "Theatre Prof Talks to CBC National About Arts for Health  U of G NewsIf you have Parkinson's disease, experts say you should be dancing. Here's why  CBC",
-    "published date": "Tue, 17 Feb 2026 17:44:28 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdU1TdWFGcFlJZkhnZk42eFpOVU9uMUpIckhWMFA5VW5tUEJ0RVlaR0RNLWRuTnJ2VW16NnM5TU5yTHdlWnlycDFRZDBxUWdrdXhsWU4xVzVzZGt2S0stQi1Cd0d1QTExR1FMUklBcW5rNk9TcGdQWjRUNnNHUWpBTERhcTBpbTEzUFR6WFBiaXJqejF3NHhQcEZDbmk?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://news.uoguelph.ca",
-      "title": "U of G News"
-    }
-  },
-  {
     "title": "Dr. Ekua Agyemang appointed chief public health officer - Government of Nunavut",
     "description": "Dr. Ekua Agyemang appointed chief public health officer  Government of Nunavut",
     "published date": "Tue, 17 Feb 2026 21:28:50 GMT",
@@ -17,6 +7,16 @@
     "publisher": {
       "href": "https://www.gov.nu.ca",
       "title": "Government of Nunavut"
+    }
+  },
+  {
+    "title": "Theatre Prof Talks to CBC National About Arts for Health - U of G News",
+    "description": "Theatre Prof Talks to CBC National About Arts for Health  U of G NewsIf you have Parkinson's disease, experts say you should be dancing. Here's why  CBC",
+    "published date": "Tue, 17 Feb 2026 17:44:28 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdU1TdWFGcFlJZkhnZk42eFpOVU9uMUpIckhWMFA5VW5tUEJ0RVlaR0RNLWRuTnJ2VW16NnM5TU5yTHdlWnlycDFRZDBxUWdrdXhsWU4xVzVzZGt2S0stQi1Cd0d1QTExR1FMUklBcW5rNk9TcGdQWjRUNnNHUWpBTERhcTBpbTEzUFR6WFBiaXJqejF3NHhQcEZDbmk?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://news.uoguelph.ca",
+      "title": "U of G News"
     }
   },
   {
@@ -60,16 +60,6 @@
     }
   },
   {
-    "title": "Are You There Judy? It’s Me … Midlife Margaret - Mental Health Commission of Canada",
-    "description": "Are You There Judy? It’s Me … Midlife Margaret  Mental Health Commission of Canada",
-    "published date": "Tue, 17 Feb 2026 13:39:25 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYnlDckk1dXE1NVRYYzVXcGFZXzhoeGpBb0xUakdFV0E5TWVHREtVd2Y1RkxMbkJ1QV9CbXhoTEJuN0ZyYzREN2dINzJmRGIwZzRBWldMbldQY1k2N0VYUWNjdGtMQVpFZEJvSHV3Mm9RcU9QUmU0bFZRNXJiX2s1bFZsdGd2YnplN1BGbFJMRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://mentalhealthcommission.ca",
-      "title": "Mental Health Commission of Canada"
-    }
-  },
-  {
     "title": "PHOTO: BC Cancer spreads the word about screening programs - BCIT News Journalism Program",
     "description": "PHOTO: BC Cancer spreads the word about screening programs  BCIT News Journalism Program",
     "published date": "Wed, 18 Feb 2026 00:22:36 GMT",
@@ -81,12 +71,32 @@
   },
   {
     "title": "After Decades of Elimination, Measles Returns to Canada - mironline.ca",
-    "description": "After Decades of Elimination, Measles Returns to Canada  mironline.caMother of child infected with measles describes lasting effects  CTV News",
+    "description": "After Decades of Elimination, Measles Returns to Canada  mironline.caIris Gorfinkel: Why Ontario’s measles outbreak highlights our need for a vaccine registry  Toronto StarMother of child infected with measles describes lasting effects  CTV News",
     "published date": "Tue, 17 Feb 2026 23:46:54 GMT",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNczJHUTBmdDZrN2pacm1EdFI1ZHpFT3BwZEFkeVpJV1NOWmczZ1ZUVEZmc1VYelFIXzdnaERFYWVvTlJxZU96SmJ3em9Ta19udU9VaHdrVGl2MWNkYWcxXzBKVXhwOWtCaE1LMmRUbG1iLS04RWFXUzRidWZFWkk3bVN1RDNtaTA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.mironline.ca",
       "title": "mironline.ca"
+    }
+  },
+  {
+    "title": "Are You There Judy? It’s Me … Midlife Margaret - Mental Health Commission of Canada",
+    "description": "Are You There Judy? It’s Me … Midlife Margaret  Mental Health Commission of Canada",
+    "published date": "Tue, 17 Feb 2026 13:39:25 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYnlDckk1dXE1NVRYYzVXcGFZXzhoeGpBb0xUakdFV0E5TWVHREtVd2Y1RkxMbkJ1QV9CbXhoTEJuN0ZyYzREN2dINzJmRGIwZzRBWldMbldQY1k2N0VYUWNjdGtMQVpFZEJvSHV3Mm9RcU9QUmU0bFZRNXJiX2s1bFZsdGd2YnplN1BGbFJMRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://mentalhealthcommission.ca",
+      "title": "Mental Health Commission of Canada"
+    }
+  },
+  {
+    "title": "Researchers extracted bacteria from an ancient ice cave. They say it’s resistant to antibiotics. - CTV News",
+    "description": "Researchers extracted bacteria from an ancient ice cave. They say it’s resistant to antibiotics.  CTV NewsBacteria found in underground cave after thousands of years is resistant to antibiotics: study  CTV NewsAncient bacteria found frozen in cave resistant to 10 types of antibiotics  Yahoo News CanadaBacteria Frozen For 5,000 Years Could Fight Superbugs, But There's a Catch  ScienceAlertBacterial strain from 5,000-year-old cave ice shows resistance against 10 modern antibiotics  Phys.org",
+    "published date": "Tue, 17 Feb 2026 10:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZmNLWFY5ZGIxdURzaEw3dlhzdjBrUzlNNm15SHBtLWpzZ2hpTUhhUEMxUUxzVzBpcU85WjU3TXJMc0JSd096cW1GZ0szeWdGelBlbE1nbmxlYkgyLXczQ0xXQTFxdmhUdTYwZHZrcmZUaThMaWhEWmFlb3BEUkNHU19UUjJLeHNTWVpTMGp2OE9MWVAzU3dqOFhkVDg5MFRGNFpqR1pVTnN2UFJnTGJZQTRUY21vZHZmOXRjZ0l4aHFsZ0RVazhRZkdoaGVTVlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ctvnews.ca",
+      "title": "CTV News"
     }
   },
   {
@@ -100,16 +110,6 @@
     }
   },
   {
-    "title": "Flu cases plummet but COVID may increase this spring: doctor - CTV News",
-    "description": "Flu cases plummet but COVID may increase this spring: doctor  CTV News",
-    "published date": "Tue, 17 Feb 2026 17:29:09 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaFhIak1TeGJLLU1yVVcyeVROcHVYckVFekJUODduN2FvR093S3NkZEIwb0NTcnJwQ2x2NGhPOVdRMzFaTGZLLWh6VHZrTXVZaG5ucUdyTG5IVG82Qi1XeHNPcFN2Uk1mcXVlOTlmb3Y5YmQ4YXZSMFVRNnNUU252R2NzTU12aEdDRWhBcS1oY0tMSjMyUGlWb0NmYUZiaXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ctvnews.ca",
-      "title": "CTV News"
-    }
-  },
-  {
     "title": "Short-duration psychedelic therapy shows promise for major depression treatment - News-Medical",
     "description": "Short-duration psychedelic therapy shows promise for major depression treatment  News-MedicalNature Medicine Publishes Helus Pharma’s Randomized, Placebo-Controlled Phase 2a Trial of SPL026 in Major Depressive Disorder  Toronto StarSingle dose of potent psychedelic drug could help treat depression, trial shows  The GuardianA short-acting psychedelic intervention for major depressive disorder: a phase IIa randomized placebo-controlled trial  NaturePsychedelic found in Amazonian brew ayahuasca shows anti-depression promise  Financial Times",
     "published date": "Wed, 18 Feb 2026 01:10:00 GMT",
@@ -120,23 +120,13 @@
     }
   },
   {
-    "title": "Bacteria found in underground cave after thousands of years is resistant to antibiotics: study - CP24",
-    "description": "Bacteria found in underground cave after thousands of years is resistant to antibiotics: study  CP24View Full Coverage on Google News",
-    "published date": "Tue, 17 Feb 2026 10:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZDdLdXFvd0xzeEhxUUtuN3NNdFFWNGs5QmZDd1pZV21XYjZRNml3c3UxRkltbWl2dE54SWZCR01sbl9wdDVmNVZJcWJNVE1aX3hOckRONmhPTHNQTU1vU0JGdWluUDRWUUswLU5NOVNPV1hDYUtWV0JFMTJPMlY2VEI3RWNNMDB4Tnd1bkNBX3k1VGQybHJQcnVITEVoVEQ5blJ4MC1aQmo5dVFwS1JwMk5SdElpcUYzd0pXZmZrVWVURUhReDdqbDRNY3ppVHRYUTZn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Experts cast doubt on the benefit of exercise for arthritis patients - Yahoo News Canada",
+    "description": "Experts cast doubt on the benefit of exercise for arthritis patients  Yahoo News CanadaDoes exercise really work for osteoarthritis?  The Conversation",
+    "published date": "Wed, 18 Feb 2026 00:01:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR0NTRUJQcXZpWC1McnJUMUpCeElENGpkZGwyUUxCQ3VqR1poeUd0V1B0MWpaYWp5cm5tTzhFV3RTZUdMUVlVTzBDQWpZV2FiSW9DdnV0NUNRdExQbVl2dVRjVlhqRDZyVlpYUWxzeXJBWlQxdlJyLWtGU1lpR1FXcm5n?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.cp24.com",
-      "title": "CP24"
-    }
-  },
-  {
-    "title": "Pediatric Chagas disease - CMAJ",
-    "description": "Pediatric Chagas disease  CMAJ",
-    "published date": "Tue, 17 Feb 2026 05:24:36 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10TFBxZDl6Y0tHMXMwZkN5MkdCODBfSmg4djJ4cllRMXpKQVI3R3pZRTJQNHZVdWRxSHFzbEhVY1dzUFFCeER4OTZHY0JwanM?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cmaj.ca",
-      "title": "CMAJ"
+      "href": "https://ca.news.yahoo.com",
+      "title": "Yahoo News Canada"
     }
   },
   {
@@ -150,33 +140,23 @@
     }
   },
   {
-    "title": "App targets sleep troubles affecting 60 per cent of cancer survivors; MUN launching clinical trial - ntv.ca",
-    "description": "App targets sleep troubles affecting 60 per cent of cancer survivors; MUN launching clinical trial  ntv.ca",
-    "published date": "Tue, 17 Feb 2026 14:32:06 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRGo1OFJQM2VmLUhaVEZud0VJUXdpUG15S0JRdzREX0RwS2ZTWmJ5SnZ5bjdFRGh5REdfdUZlWDN2aUJTczNQVVVqN2hBVk9YSy00UENkTThVcDV4SWZKUGFjWFpKOHYyeGFPM3k4d2NLYy1HYTVVekRkUWEyTnJHYjFENUZmcmdJLTVZOFgzVThxcGdHUThSNkxZeVFSZXZHNGpHUVZ5LTVyTkJxOXpLeGJ2WHZhYWZWU2FkMQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Winter flu season winding down as cases continue to plummet, doctor says - CP24",
+    "description": "Winter flu season winding down as cases continue to plummet, doctor says  CP24",
+    "published date": "Tue, 17 Feb 2026 17:29:09 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORlNsaERRc1ZBNVZPSFIyN01MUVliRkgxZXMxbkNLRndLcTNXUVVXLWRZbndFeHVGdkpQYmhtQVAzQVVLZmEyZXJXMjJxMGo4TXR6Q3JLQkFWdEp0anRGVXRlS2VWbGVXMGZmUURjUlEwS1AtYnZJZktObXQ0ZUdDbGhoOTFJMXFfbXBBeFQyTG1vNU9QdTNXZE1fYm9VR2VMTlp2WFNlY29LUno2R1J0MFJSUHhqNW8?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://ntv.ca",
-      "title": "ntv.ca"
+      "href": "https://www.cp24.com",
+      "title": "CP24"
     }
   },
   {
-    "title": "Increase in scabies in the region - Bulletin d’Aylmer",
-    "description": "Increase in scabies in the region  Bulletin d’Aylmer",
-    "published date": "Tue, 17 Feb 2026 15:20:36 GMT",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9OaU4tV21pY1lvX3YtUUxHSTIyQjhicU93V0lrNG14OHNkWTRWS2M5NDNhQzdZY0FwaEFwVXFkQXhLVW41QVRaNG51VS1IMTZLNURlWVd2SnotRU42NkMwTHFBQ09VY0RYOXNmc0JuN0kyZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Pediatric Chagas disease - CMAJ",
+    "description": "Pediatric Chagas disease  CMAJ",
+    "published date": "Tue, 17 Feb 2026 05:24:36 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10TFBxZDl6Y0tHMXMwZkN5MkdCODBfSmg4djJ4cllRMXpKQVI3R3pZRTJQNHZVdWRxSHFzbEhVY1dzUFFCeER4OTZHY0JwanM?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.bulletinaylmer.com",
-      "title": "Bulletin d’Aylmer"
-    }
-  },
-  {
-    "title": "Part-time Dental Associate for Holistic Office in Richmond Hill, ON - Oral Health Group",
-    "description": "Part-time Dental Associate for Holistic Office in Richmond Hill, ON  Oral Health Group",
-    "published date": "Tue, 17 Feb 2026 14:25:20 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWHVwOHJWZFhWUk9UakRqSTBIR01tdWJNMVBoSUY3NnJZdlFpNmw3U2NlcVdpY1VwRHM2NlFUSUs2aHhTRFRURExRcjl6NDZpV0FvUnMydlJ2WHluVXlBZVQzaDNHYkpUbHNTTEx3eE9EcnVvYjdJaHIzQ0x0dDBWVkhQaExKTk5YTE54TlgwYTYxbVM3aTVYVEMwaUFTd3VHMWxBY25vYjJ5ZURzSTlQeQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.oralhealthgroup.com",
-      "title": "Oral Health Group"
+      "href": "https://www.cmaj.ca",
+      "title": "CMAJ"
     }
   },
   {
@@ -201,12 +181,42 @@
   },
   {
     "title": "Researchers Find Intermittent Fasting Is No Better, or Worse, Than Conventional Dieting | Newswise - Newswise",
-    "description": "Researchers Find Intermittent Fasting Is No Better, or Worse, Than Conventional Dieting | Newswise  NewswiseWe Were Wrong About Fasting, Massive Review Shows  ScienceAlertIntermittent fasting no better than typical weight loss diets, study finds  The GuardianMy dad, Dr Michael Mosley, knew that intermittent fasting really does work  The TimesIntermittent fasting 'no better than doing nothing at all', review finds  Australian Broadcasting Corporation",
+    "description": "Researchers Find Intermittent Fasting Is No Better, or Worse, Than Conventional Dieting | Newswise  NewswiseWe Were Wrong About Fasting, Massive Review Shows  ScienceAlertIntermittent fasting may be no better than 'doing nothing,' major review finds  Fox NewsIntermittent fasting no better than typical weight loss diets, study finds  The GuardianMy dad, Dr Michael Mosley, knew that intermittent fasting really does work  The Times",
     "published date": "Tue, 17 Feb 2026 17:10:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcXh3Wm5YaHRaYVBnR25mR1c0eTdROVFWd3NHUFpXbHdzTXllWGZGZmhIYTdSZFRHT0RmTXRyWWNaejZXakdIMFZqcnJWai1VT3pYQ0EyMm9EbFl0STQwSmtKMnczenZWMVRRQjhpWjROSnhyOWJCMWwta1RLSXhuanR3ZkNGRVhzaXh1VzZKZGFRd1NUNmZNN3JISFpQNW5wZ0E2LXNWcEhJbW5JUFBPTE00eUNZVUg5ejNN0gG7AUFVX3lxTFBxeHdablhodFphUGdHbmZHVzR5N1E5UVZ3c0dQWldsd3NNeWVYZkZmaEhhN1JkVEdPRGZNdHJZY1p6NldqR0gwVmpyclZqLVVPelhDQTIyb0RsWXRJNDBKa0oydzN6dlYxVFFCOGlaNE5KeHI5YkIxbC1rVEtJeG5qdHdmQ0ZFWHNpeHVXNkpkYVF3U1Q2Zk03ckhIWlA1bnBnQTYtc1ZwSEltbklQUE9MTTR5Q1lVSDl6M00?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.newswise.com",
       "title": "Newswise"
+    }
+  },
+  {
+    "title": "App targets sleep troubles affecting 60 per cent of cancer survivors; MUN launching clinical trial - ntv.ca",
+    "description": "App targets sleep troubles affecting 60 per cent of cancer survivors; MUN launching clinical trial  ntv.ca",
+    "published date": "Tue, 17 Feb 2026 14:32:06 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRGo1OFJQM2VmLUhaVEZud0VJUXdpUG15S0JRdzREX0RwS2ZTWmJ5SnZ5bjdFRGh5REdfdUZlWDN2aUJTczNQVVVqN2hBVk9YSy00UENkTThVcDV4SWZKUGFjWFpKOHYyeGFPM3k4d2NLYy1HYTVVekRkUWEyTnJHYjFENUZmcmdJLTVZOFgzVThxcGdHUThSNkxZeVFSZXZHNGpHUVZ5LTVyTkJxOXpLeGJ2WHZhYWZWU2FkMQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://ntv.ca",
+      "title": "ntv.ca"
+    }
+  },
+  {
+    "title": "Part-time Dental Associate for Holistic Office in Richmond Hill, ON - Oral Health Group",
+    "description": "Part-time Dental Associate for Holistic Office in Richmond Hill, ON  Oral Health Group",
+    "published date": "Tue, 17 Feb 2026 14:25:20 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWHVwOHJWZFhWUk9UakRqSTBIR01tdWJNMVBoSUY3NnJZdlFpNmw3U2NlcVdpY1VwRHM2NlFUSUs2aHhTRFRURExRcjl6NDZpV0FvUnMydlJ2WHluVXlBZVQzaDNHYkpUbHNTTEx3eE9EcnVvYjdJaHIzQ0x0dDBWVkhQaExKTk5YTE54TlgwYTYxbVM3aTVYVEMwaUFTd3VHMWxBY25vYjJ5ZURzSTlQeQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.oralhealthgroup.com",
+      "title": "Oral Health Group"
+    }
+  },
+  {
+    "title": "Increase in scabies in the region - Bulletin d’Aylmer",
+    "description": "Increase in scabies in the region  Bulletin d’Aylmer",
+    "published date": "Tue, 17 Feb 2026 15:20:36 GMT",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9OaU4tV21pY1lvX3YtUUxHSTIyQjhicU93V0lrNG14OHNkWTRWS2M5NDNhQzdZY0FwaEFwVXFkQXhLVW41QVRaNG51VS1IMTZLNURlWVd2SnotRU42NkMwTHFBQ09VY0RYOXNmc0JuN0kyZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bulletinaylmer.com",
+      "title": "Bulletin d’Aylmer"
     }
   },
   {
@@ -250,13 +260,23 @@
     }
   },
   {
-    "title": "Coffee crops are dying from a fungus with species-jumping genes – researchers are ‘resurrecting’ their genomes to understand how and why - The Conversation",
-    "description": "Coffee crops are dying from a fungus with species-jumping genes – researchers are ‘resurrecting’ their genomes to understand how and why  The Conversation",
-    "published date": "Tue, 17 Feb 2026 13:34:50 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPdFhoY2ZZVERDX3llRGVEUmstcEREOXpkcVNYU3JOaWJ5Q0JTaktkSk5vdkx0SWl2ZzNuQUh6RVFzbUtoc1pTS0RWcUF1dGtqZm45OGRtUGhSamRIekNCQ3JUWVVDcEdSRTNzb0RXMUEtUFNWd1hVbkJ5dU9fdGRrYUdheFo4cmQwamhTMzVQY3g1SXk0TTltVG84NHpfTi1rYThDa3g4akFJNExqdVlMNWdpdk9MS3I3TzMzYWMwWXdRbmd3aUg3U3FWQXNmNmsxeGx5SlB2dnB2aUhYUXFabm51cmVSMGlLc09ZYnNmblpzdkxpc3Ixc3VDbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Chatham Skin Clinic addresses infection-control lapses; no infections - Chatham Daily News",
+    "description": "Chatham Skin Clinic addresses infection-control lapses; no infections  Chatham Daily NewsChatham-Kent Health Unit warns public of 16-month 'lapse' in infection control at a skin clinic  Yahoo News Canada",
+    "published date": "Tue, 17 Feb 2026 21:32:27 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeFE4RmtJcWxpM1JWUFg0eGw3N0R4SVNtQXNGdHoxazQybjdOUWJ3ajJsT3VNdnNJSnZHMkJBMDJMTVRjWDd4NTV2ZW9hakRFVjJGSVhlckpSQjJBSE1LbWNTWVZSZzdXemtYdThTV3dXTTNEM3BJRlIwa2dBQlhtTkJpTVZycVd4bzlnLWNyYVpGMDF4OFJyS2s3S1N6YnQtN2lRSTNqaTc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://theconversation.com",
-      "title": "The Conversation"
+      "href": "https://www.chathamdailynews.ca",
+      "title": "Chatham Daily News"
+    }
+  },
+  {
+    "title": "Scientists uncover nanoplastics in brain tissue and question their role in neurological disease - News-Medical",
+    "description": "Scientists uncover nanoplastics in brain tissue and question their role in neurological disease  News-Medical",
+    "published date": "Wed, 18 Feb 2026 03:16:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTzFsZWZUX1MxSlgxdDRZRGJFd0FPdll4WFQxUzhid29UeGRXV1VqQWUzVmpKaGtCUW5mUDU3ZHhwUG52dEM4QmlwZ0dOVXBLVFpWNGd3aVlxQi1LTGJCZVlQSWV5SHJqMXRENmNFQlNOZ3g1Vm0tNzFpSm1ZSi02ZndDZzBzWEdOQkZUMzdfOUs3VXF2Y3BqZ244YlZDR3pCTnBoV0haY3lXS3BWMEdxZHE4MUJPZXNBNzN3SEdud3dyWkJ4cHBCWlFGNl81Uy1lc3d5bzgxWVpLMU0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.news-medical.net",
+      "title": "News-Medical"
     }
   },
   {
@@ -270,16 +290,6 @@
     }
   },
   {
-    "title": "B.C. Cancer looks to integrate rehab, exercise into patients' care as soon as they're diagnosed - CBC",
-    "description": "B.C. Cancer looks to integrate rehab, exercise into patients' care as soon as they're diagnosed  CBC",
-    "published date": "Tue, 17 Feb 2026 14:08:56 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94cENWMFFnZ3JvRndMUWktRVBDLW5BZGhoVjBDUUpmUmVJU1pRLTl6aWJTam1vbHNEUXl3TWZ2Wk91Y3pnamgzZGlwXzNkN1BG?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cbc.ca",
-      "title": "CBC"
-    }
-  },
-  {
     "title": "Risk of type 2 diabetes may be higher up to 3 years after COVID infection in unvaccinated, severely ill - CIDRAP",
     "description": "Risk of type 2 diabetes may be higher up to 3 years after COVID infection in unvaccinated, severely ill  CIDRAP",
     "published date": "Mon, 16 Feb 2026 20:13:45 GMT",
@@ -287,6 +297,36 @@
     "publisher": {
       "href": "https://www.cidrap.umn.edu",
       "title": "CIDRAP"
+    }
+  },
+  {
+    "title": "How Bacteria May Promote Breast Cancer: The Emerging Role of SMOX - Oncodaily",
+    "description": "How Bacteria May Promote Breast Cancer: The Emerging Role of SMOX  Oncodaily",
+    "published date": "Tue, 17 Feb 2026 20:38:33 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ieldOWjd6cXpXLU5haHRfTmFkNHI0MFUxQnloN1ZIZm9Sa1pRUXhycmFjRi1PY3o2emZvRkZKeWh4VkVXSnpFVmdR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://oncodaily.com",
+      "title": "Oncodaily"
+    }
+  },
+  {
+    "title": "University of Calgary - Study shows intermittent fasting is effective for people with Crohn's disease who want to lose weight - Education News Canada",
+    "description": "University of Calgary - Study shows intermittent fasting is effective for people with Crohn's disease who want to lose weight  Education News CanadaUBCO research show time-restricted eating shows promise for overweight people living with Crohn’s  CastanetIntermittent fasting could reduce Crohn’s disease symptoms by 40%: Study  NewsNation",
+    "published date": "Tue, 17 Feb 2026 07:39:31 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPTmpZUTh3N204aWdLRkNLYXMzUGdxNVZiTTJEb2tGb1hXRzB2aW12WmhtSmc0bWRUOGU2VWJ3eUpKS0FsX2oxeThPQ0xreGI3LUcxTnhNaC10SGZ2a3BodUZraXpLWDB6OWtxbjVvajUtSWhBLWIxa2MzODVSeU9Ocy1tdDdmQ2psdUpaRk8ya3pQWVM3RmpvOFdHVng5aDBSNldhUldlbVdfRS01VF8xNzlEOFhBYVZOdVlsMm1JVmlHOXhCc0VvR0czSWd0TmpYbVBOSDZmWGZxbHJ4d0RSR2xGZURuYzhYZEVId1lKSjJBOUxLZWFTRzRGR0t0OFRfc1EtT1NIcmJzMzFUVWpGbg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://educationnewscanada.com",
+      "title": "Education News Canada"
+    }
+  },
+  {
+    "title": "Peterborough baby is hospital's first to join genome study - BBC",
+    "description": "Peterborough baby is hospital's first to join genome study  BBC",
+    "published date": "Mon, 16 Feb 2026 12:44:46 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xOXR4cjFzTmwydGtQdkE3SGtPTmxGQmtfNkkxQzh1aUlpSTBYQXZ2c01Ndm5kblM5UWxvQzZ3YkFEa3ZvMjRCRmxUd3JoVHhiUlZXeEwtdDVNZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bbc.com",
+      "title": "BBC"
     }
   },
   {
@@ -310,36 +350,6 @@
     }
   },
   {
-    "title": "How Technology Is Changing the Way Doctors Treat Chronic Pain - findarticles.com",
-    "description": "How Technology Is Changing the Way Doctors Treat Chronic Pain  findarticles.comCell-Specific Gene Therapy May Offer Chronic Pain Relief  Technology Networks",
-    "published date": "Tue, 17 Feb 2026 11:22:08 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZWdOQ2FnRjBNbnJkQWc1bUNQRFFVb1hMeDVOcVJHWnB0a0xVOWZqZ0lmUlJ0Nk5nWGZ3UF9lajZ4cjdOZ2ZUZzlOX3Q3V3NxenZ1ajVlTU9QS1B1UFlTR0JZcFc0QTFHMlNBREpjWlRwZVJRREVJcl8zeGVnY0ZpVUUtUHowYW9vb3h6UHhJMm1rQTQ0T2fSAZ4BQVVfeXFMTXA0c3otRzQtUk5NYTBZN0RTSU0waC1mOVRDZ1R1NFlHT3pPM1c2RW45ZUc0bVMtSS1aajh5cWxZdHVJSklXZDI5a3ZrSC0wRUhOeHBmZFIzT0V2Rl9xS3lnNTZpY295RExUZnlzZnJ4SWpHZG12WVZjSzZzcHh5UmgxYnl6NDBraE5nYUw2MmNlTi02bjJKTzc5dDB5ZlE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.findarticles.com",
-      "title": "findarticles.com"
-    }
-  },
-  {
-    "title": "Baby becomes hospital's first to join genome study - Yahoo Lifestyle Canada",
-    "description": "Baby becomes hospital's first to join genome study  Yahoo Lifestyle CanadaPeterborough baby is hospital's first to join genome study  BBC",
-    "published date": "Mon, 16 Feb 2026 12:45:46 GMT",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ITE1ZVEtzOEgtR0d5a0dOZnRyVlhaNWVLcDE2REdkOTdsU2ZxSHVsamlOR1FrNjZZcmstUk9adE5TYUg3WFRJelRjV1JUS2w0cEsxTGx3d0NYR1hTQ3ZrWG1Jd3RtaUJBV0tkQUtBbS0tbjlsSkRRWVJ4SzZ1aVk?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://ca.style.yahoo.com",
-      "title": "Yahoo Lifestyle Canada"
-    }
-  },
-  {
-    "title": "University of Calgary - Study shows intermittent fasting is effective for people with Crohn's disease who want to lose weight - Education News Canada",
-    "description": "University of Calgary - Study shows intermittent fasting is effective for people with Crohn's disease who want to lose weight  Education News CanadaUBCO research show time-restricted eating shows promise for overweight people living with Crohn’s  CastanetIntermittent fasting could reduce Crohn’s disease symptoms by 40%: Study  NewsNation",
-    "published date": "Tue, 17 Feb 2026 07:39:31 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPTmpZUTh3N204aWdLRkNLYXMzUGdxNVZiTTJEb2tGb1hXRzB2aW12WmhtSmc0bWRUOGU2VWJ3eUpKS0FsX2oxeThPQ0xreGI3LUcxTnhNaC10SGZ2a3BodUZraXpLWDB6OWtxbjVvajUtSWhBLWIxa2MzODVSeU9Ocy1tdDdmQ2psdUpaRk8ya3pQWVM3RmpvOFdHVng5aDBSNldhUldlbVdfRS01VF8xNzlEOFhBYVZOdVlsMm1JVmlHOXhCc0VvR0czSWd0TmpYbVBOSDZmWGZxbHJ4d0RSR2xGZURuYzhYZEVId1lKSjJBOUxLZWFTRzRGR0t0OFRfc1EtT1NIcmJzMzFUVWpGbg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://educationnewscanada.com",
-      "title": "Education News Canada"
-    }
-  },
-  {
     "title": "B.C. research ‘opens the door’ to more effective cancer therapies - Canadian Affairs",
     "description": "B.C. research ‘opens the door’ to more effective cancer therapies  Canadian Affairs",
     "published date": "Mon, 16 Feb 2026 10:00:00 GMT",
@@ -350,23 +360,13 @@
     }
   },
   {
-    "title": "How bacteria may promote breast cancer - Medical Xpress",
-    "description": "How bacteria may promote breast cancer  Medical Xpress",
-    "published date": "Mon, 16 Feb 2026 20:34:31 GMT",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BU20wWlowb3liUmZPWmpxSEpubzBjNVNrMFRFenBPeUJlYUxtMEo0MlVPUU1LLS1fdUdQcXdjOGxiU2wzNGRVR1NKTmRJazRYcWZLVl9WRWJKN0Z3NzIxSUlBWXB4QTRveWZpV01NZFl4NVJK?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "How Technology Is Changing the Way Doctors Treat Chronic Pain - findarticles.com",
+    "description": "How Technology Is Changing the Way Doctors Treat Chronic Pain  findarticles.comCell-Specific Gene Therapy May Offer Chronic Pain Relief  Technology NetworksResearchers find new approach to reversing chronic pain  Digital Journal",
+    "published date": "Tue, 17 Feb 2026 11:22:08 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZWdOQ2FnRjBNbnJkQWc1bUNQRFFVb1hMeDVOcVJHWnB0a0xVOWZqZ0lmUlJ0Nk5nWGZ3UF9lajZ4cjdOZ2ZUZzlOX3Q3V3NxenZ1ajVlTU9QS1B1UFlTR0JZcFc0QTFHMlNBREpjWlRwZVJRREVJcl8zeGVnY0ZpVUUtUHowYW9vb3h6UHhJMm1rQTQ0T2fSAZ4BQVVfeXFMTXA0c3otRzQtUk5NYTBZN0RTSU0waC1mOVRDZ1R1NFlHT3pPM1c2RW45ZUc0bVMtSS1aajh5cWxZdHVJSklXZDI5a3ZrSC0wRUhOeHBmZFIzT0V2Rl9xS3lnNTZpY295RExUZnlzZnJ4SWpHZG12WVZjSzZzcHh5UmgxYnl6NDBraE5nYUw2MmNlTi02bjJKTzc5dDB5ZlE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://medicalxpress.com",
-      "title": "Medical Xpress"
-    }
-  },
-  {
-    "title": "Where do microplastics come from? - Ocean State Media",
-    "description": "Where do microplastics come from?  Ocean State MediaNanoplastics sneak into brain cells, disrupting puberty and fertility hormones, new study finds  U.S. Right to Know",
-    "published date": "Tue, 17 Feb 2026 17:15:34 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYmxFcUxjYUY5WVJKMmhwTnlDdzF5T0FYUnR3anQtRm5uTGFBb2hfZkZ4NVVyOEJpTXVldWZQQ19rMU1WamZOOC14LUprRV9MT3kxa2pCTS1lZGJybU1vaXRuX1dyRzJ1dy1qOW8tc2JvUVpYQUd5SHBxYU51YTlxMkl4LUJDLUZ1UElkNGpqc1NQUHRtalJxc1g5UFZ6eGtROUh3?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.oceanstatemedia.org",
-      "title": "Ocean State Media"
+      "href": "https://www.findarticles.com",
+      "title": "findarticles.com"
     }
   },
   {
@@ -374,36 +374,6 @@
     "description": "RSV Admission May Raise Risk for Cardiorespiratory Events  Medscape",
     "published date": "Tue, 17 Feb 2026 05:45:06 GMT",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUVMtd0tUelAyc05UdWxMMjhhSzdlaGNqRHZBclZESTUtV0xIUk4wWC05Tl9VLWtrUEtFNXkyY2kycmJpQW44amUzSVdMMWJSQXB1MFdzXzlNU0xkb1RvZkxHQndCUDg5alJnM1JDVjFsWGt5dXF2TWNDSFBZSEpqN0x3bjhfWHEzZWFfYzhtRFVuWTFOOWNkV21XRXZQYmstS1pjdFpn?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.medscape.com",
-      "title": "Medscape"
-    }
-  },
-  {
-    "title": "SFU secures $4.4M to drive innovation and transform global health outcomes - Simon Fraser University",
-    "description": "SFU secures $4.4M to drive innovation and transform global health outcomes  Simon Fraser University",
-    "published date": "Tue, 17 Feb 2026 19:34:08 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmo3dG9lVlctT1BzVldyaVB5RDJYb3N0akhkaHpZVHk4QlNCblUwd2xGcFFlTkVmVl9aMWdZakNmOEwzYWZ0aUxpNEVkSjYyYi14dk5qZ2daSTlHMjNRZFFNcmlWNGVJbDRwbm1lR2Qxa2FxeDBwR2VzM28yUUxPV2FxQVd0bmc1RkxGU3RMU3lUclFnT0NrdEVqU3ZUekctV2w3VldMWFBzcGpnam5FX1VB?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.sfu.ca",
-      "title": "Simon Fraser University"
-    }
-  },
-  {
-    "title": "Menopause: The conversation our mothers didn’t have - Kingstonist News",
-    "description": "Menopause: The conversation our mothers didn’t have  Kingstonist News",
-    "published date": "Tue, 17 Feb 2026 19:05:29 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMGp1VmdsUTY4SXBScy1rXzZMQXFtREMybGV3UTRjM2p2NkJ3OUEtalkzaDZoV0Y1eEFwNEViMnh4cXpya2J6R0RudU1HVllOWGNXQ0JiTWFmaDkzZWJPZXlyWDJRNEJQcXpQbmZxTjZ3cmpYZ1JsYXpvWm9lZ0x4bU5Za0NPTFlaQy1B?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.kingstonist.com",
-      "title": "Kingstonist News"
-    }
-  },
-  {
-    "title": "How Biologics Benefit Patients With Challenging COPD - Medscape",
-    "description": "How Biologics Benefit Patients With Challenging COPD  Medscape",
-    "published date": "Tue, 17 Feb 2026 11:21:06 GMT",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR3lVNk8tSTYxcERtSHkzWEwyYXROQnhXUUZCNmQtd1ZzMWtHNlg3MEFkV2VKWFc2NUxfZ05tMmVYTndlUEg4TkNIRGNHRW84WWNwaU9PWmREXzhCRjRaUEdENy1GaUVkNmJJU1lYbTNHYW5pWXJrX2twWFF3YjR2WV83OVl2U3V0SklzVG45QW1xbXBiV2VORFJwYWpjQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.medscape.com",
       "title": "Medscape"
@@ -420,43 +390,23 @@
     }
   },
   {
-    "title": "New Guidelines from NCCN Detail Fundamental Differences in Cancer in Children Compared to Adults - Newswire Canada",
-    "description": "New Guidelines from NCCN Detail Fundamental Differences in Cancer in Children Compared to Adults  Newswire Canada",
-    "published date": "Tue, 17 Feb 2026 16:03:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYWNaOHZuekU0aVoxU0tVOEhWOW95NEJVdzkzN3pzazVvbUQ3Sm0tOXRmZTROa3o3TTdPcVhkQy1jMFQ3d2tlSnZOeC0zMGhzYU1WaXd0UDZDVGJ0SDZ5V2t2UnhPZmx1OVA5NzE3bVROMDVNR19EbnE3dklYVE9PTE5vM1BXLVZOMUp5LWhpaWNwSFVocGJfc0c4eU5VajBOSkNySnVBUVRlTl80WWN6a1FubzRxdHpHZGlCcmdqYVFIOENSejBRUEtRX29fMVpXY3RFenc5cXhrTjN3VXRFNGdzcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Menopause: The conversation our mothers didn’t have - Kingstonist News",
+    "description": "Menopause: The conversation our mothers didn’t have  Kingstonist News",
+    "published date": "Tue, 17 Feb 2026 19:05:29 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMGp1VmdsUTY4SXBScy1rXzZMQXFtREMybGV3UTRjM2p2NkJ3OUEtalkzaDZoV0Y1eEFwNEViMnh4cXpya2J6R0RudU1HVllOWGNXQ0JiTWFmaDkzZWJPZXlyWDJRNEJQcXpQbmZxTjZ3cmpYZ1JsYXpvWm9lZ0x4bU5Za0NPTFlaQy1B?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.newswire.ca",
-      "title": "Newswire Canada"
+      "href": "https://www.kingstonist.com",
+      "title": "Kingstonist News"
     }
   },
   {
-    "title": "NSMF protein identified as key regulator in colorectal cancer - Medical Xpress",
-    "description": "NSMF protein identified as key regulator in colorectal cancer  Medical Xpress",
-    "published date": "Mon, 16 Feb 2026 20:17:28 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSVgyVTI1REVxd0NyZXpsXzBnRTRlX2JIbDJVUzh5c2RTZjVNUDZlZVNjUVRLMEg2QWV2X3lfckdIcXBSUkI4MGwzWUJKZzlKeXRQWG5ZSTJ6eHMzOEhacEFkdEFUVnI2VUZJSDdjSnhPa0dpcHEyU3YzUUlxQ1AyRDdwSkw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://medicalxpress.com",
-      "title": "Medical Xpress"
-    }
-  },
-  {
-    "title": "Skin clinic sterilization efforts in question - The Chatham Voice",
-    "description": "Skin clinic sterilization efforts in question  The Chatham VoiceChatham Skin Clinic addresses infection-control lapses; no infections  Chatham Daily NewsChatham-Kent Health Unit warns public of 16-month 'lapse' in infection control at a skin clinic  Yahoo News Canada",
-    "published date": "Tue, 17 Feb 2026 15:53:52 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTzdLd215YUFOZVZsZjBLSHdQbkdVeTZLbDBRTENabjdCeVRTVGNVV3ZtR2ZVXzktRVA5TTVVYTRFa1BUb2oteTl5RnBBR2I5cGRhc1FrYWZPRWx6MmhVa3lWblRvTFoyMTN3aEZYaEg5Y2lkekE2X0s1N3Z1aUtLUERtR2h3a3hxOUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://chathamvoice.com",
-      "title": "The Chatham Voice"
-    }
-  },
-  {
-    "title": "CMS Head Vows Continued Vaccine Coverage, Urges Measles Shots - Bloomberg.com",
-    "description": "CMS Head Vows Continued Vaccine Coverage, Urges Measles Shots  Bloomberg.comU.S. measles case near 1,000 just weeks into 2026; children most affected  Yahoo News CanadaCan You Get Measles if You’re Vaccinated? And Everything Else You Need to Know About the Disease’s Terrifying Resurgence.  SlateOpinion | I’m a South Carolina pediatrician. This measles outbreak was preventable.  MS NOWDo adults need a measles booster shot?  SteinbachOnline",
+    "title": "CMS Head Vows Continued Vaccine Coverage, Urges Measles Shots - Bloomberg",
+    "description": "CMS Head Vows Continued Vaccine Coverage, Urges Measles Shots  BloombergCan You Get Measles if You’re Vaccinated? And Everything Else You Need to Know About the Disease’s Terrifying Resurgence.  SlateU.S. measles case near 1,000 just weeks into 2026; children most affected  Yahoo News CanadaOpinion | I’m a South Carolina pediatrician. This measles outbreak was preventable.  MS NOWDo adults need a measles booster shot?  SteinbachOnline",
     "published date": "Tue, 17 Feb 2026 22:10:45 GMT",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZW80SGxBV2M3SV83MzJ2TnBRYVBvWjYwY0J0Njd4WURMaURISDRrbnBTLXN0dXdwRjJRNHI5WE9qMFhadEcwcm5pbVNCTEZyR0IxNldlVWZMSVk4WVNjVV91QzdpSUpKVGhEV1BLNGFhc0dWdktTQ0puNWZtSjJ3OUt0SFRWR29RNnk1TzAzVWxPWkxRNTdFemNLUk5wZUdGWFhlVUNLZjhZb29WanA2Wlh0ZTk?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.bloomberg.com",
-      "title": "Bloomberg.com"
+      "title": "Bloomberg"
     }
   },
   {
@@ -470,6 +420,46 @@
     }
   },
   {
+    "title": "How Biologics Benefit Patients With Challenging COPD - Medscape",
+    "description": "How Biologics Benefit Patients With Challenging COPD  Medscape",
+    "published date": "Tue, 17 Feb 2026 11:21:06 GMT",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR3lVNk8tSTYxcERtSHkzWEwyYXROQnhXUUZCNmQtd1ZzMWtHNlg3MEFkV2VKWFc2NUxfZ05tMmVYTndlUEg4TkNIRGNHRW84WWNwaU9PWmREXzhCRjRaUEdENy1GaUVkNmJJU1lYbTNHYW5pWXJrX2twWFF3YjR2WV83OVl2U3V0SklzVG45QW1xbXBiV2VORFJwYWpjQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.medscape.com",
+      "title": "Medscape"
+    }
+  },
+  {
+    "title": "SFU secures $4.4M to drive innovation and transform global health outcomes - Simon Fraser University",
+    "description": "SFU secures $4.4M to drive innovation and transform global health outcomes  Simon Fraser University",
+    "published date": "Tue, 17 Feb 2026 19:34:08 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmo3dG9lVlctT1BzVldyaVB5RDJYb3N0akhkaHpZVHk4QlNCblUwd2xGcFFlTkVmVl9aMWdZakNmOEwzYWZ0aUxpNEVkSjYyYi14dk5qZ2daSTlHMjNRZFFNcmlWNGVJbDRwbm1lR2Qxa2FxeDBwR2VzM28yUUxPV2FxQVd0bmc1RkxGU3RMU3lUclFnT0NrdEVqU3ZUekctV2w3VldMWFBzcGpnam5FX1VB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.sfu.ca",
+      "title": "Simon Fraser University"
+    }
+  },
+  {
+    "title": "NSMF protein identified as key regulator in colorectal cancer - Medical Xpress",
+    "description": "NSMF protein identified as key regulator in colorectal cancer  Medical Xpress",
+    "published date": "Mon, 16 Feb 2026 20:17:28 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSVgyVTI1REVxd0NyZXpsXzBnRTRlX2JIbDJVUzh5c2RTZjVNUDZlZVNjUVRLMEg2QWV2X3lfckdIcXBSUkI4MGwzWUJKZzlKeXRQWG5ZSTJ6eHMzOEhacEFkdEFUVnI2VUZJSDdjSnhPa0dpcHEyU3YzUUlxQ1AyRDdwSkw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://medicalxpress.com",
+      "title": "Medical Xpress"
+    }
+  },
+  {
+    "title": "New Guidelines from NCCN Detail Fundamental Differences in Cancer in Children Compared to Adults - Newswire Canada",
+    "description": "New Guidelines from NCCN Detail Fundamental Differences in Cancer in Children Compared to Adults  Newswire Canada",
+    "published date": "Tue, 17 Feb 2026 16:03:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYWNaOHZuekU0aVoxU0tVOEhWOW95NEJVdzkzN3pzazVvbUQ3Sm0tOXRmZTROa3o3TTdPcVhkQy1jMFQ3d2tlSnZOeC0zMGhzYU1WaXd0UDZDVGJ0SDZ5V2t2UnhPZmx1OVA5NzE3bVROMDVNR19EbnE3dklYVE9PTE5vM1BXLVZOMUp5LWhpaWNwSFVocGJfc0c4eU5VajBOSkNySnVBUVRlTl80WWN6a1FubzRxdHpHZGlCcmdqYVFIOENSejBRUEtRX29fMVpXY3RFenc5cXhrTjN3VXRFNGdzcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.newswire.ca",
+      "title": "Newswire Canada"
+    }
+  },
+  {
     "title": "‘Recovery is different for everyone’: marking 25 years of eating disorder care at NH - Niagara Health",
     "description": "‘Recovery is different for everyone’: marking 25 years of eating disorder care at NH  Niagara Health",
     "published date": "Tue, 17 Feb 2026 19:59:47 GMT",
@@ -477,6 +467,16 @@
     "publisher": {
       "href": "https://www.niagarahealth.on.ca",
       "title": "Niagara Health"
+    }
+  },
+  {
+    "title": "Complementary Vaccination in Morocco’s Pediatric Population: A Cross-Sectional Study at Mohamed VI University Hospital, Oujda - Cureus",
+    "description": "Complementary Vaccination in Morocco’s Pediatric Population: A Cross-Sectional Study at Mohamed VI University Hospital, Oujda  Cureus",
+    "published date": "Tue, 17 Feb 2026 07:48:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxObXVjNmtPZ2dQUmx6SHRtYUVEOUpORlVSek9lNTVpaWl1ZTNrdklsQVE1WG85MFlkMWNJNWVUcG90VkVjRlMzVUNoNTFzb2lXeWRPdXdWMk53RFk4LUxpU0VHcllQZTJyeGJGMGRNRl90bVFWM0h2NmVSZXJ5WlRycWh5aHhxb1B1SVE4MDNsZzkzTkhodlNyTF8zNjBSOWI1ZUdDNmVlaVo4SHZOYUJySmhfZWFNTmpYNkR1ZDJjZWczc1NsUzBsQzl6Z3dxaWFGNVdCbUJWZl9UeERiMHVsMWwtN082cmhfNWhhaTdSSUZ5dkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cureus.com",
+      "title": "Cureus"
     }
   },
   {
@@ -500,46 +500,6 @@
     }
   },
   {
-    "title": "Go ahead and have a second coffee – it’s good for your brain health, new research suggests - The Globe and Mail",
-    "description": "Go ahead and have a second coffee – it’s good for your brain health, new research suggests  The Globe and MailOpinion | Drink coffee to prevent dementia? It’s not so far-fetched.  The Washington PostDrinking caffeinated coffee and tea daily may slightly decrease risk of dementia: Experts  Yahoo News CanadaNeed To Cut Back On Coffee? What A New Study Says About Caffeine & Dementia Risk  MindBodyGreenDrinking 2-3 cups of coffee a day tied to lower dementia risk  Harvard Gazette",
-    "published date": "Mon, 16 Feb 2026 11:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORm13OUR2eUZMSFRBakp4MlVsakY4Vk85bEM1YXhOUWlLcnRMMDdDcnFWRDNrZzd2RElkc1F1ZXY1NkE3bU1RNGtka3pvLVRFTjNwVk8wSEhzXzNHSllNNGxjWDJLN0dJT1ZOOW1jbXh2NUlCNmFKR1NISTdYc1Q3QzR5YmUxSzI1alpnRWljVG91cXE3VTQ3eQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theglobeandmail.com",
-      "title": "The Globe and Mail"
-    }
-  },
-  {
-    "title": "Adia Nutrition Announces Subsidiary Adia Med's Submission of Second Clinical Study for IRB Review Targeting Lower Back Pain with AdiaVita - TMX Newsfile",
-    "description": "Adia Nutrition Announces Subsidiary Adia Med's Submission of Second Clinical Study for IRB Review Targeting Lower Back Pain with AdiaVita  TMX Newsfile",
-    "published date": "Mon, 16 Feb 2026 14:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPeEVyQ1RyV1RnWWV5R214Z21zd0xlRkVKRnhiSUdmbGZPbHpLOHhLQ2JGc21BUUtoY21LM0tfcHJ5YmJzQ3BtR01QNXZOaHpUazhxZXNTMlBrLWRfMVlYUndXamV1bEZiMi1FNlNJV2ZWenFROHNHT2UzMGQ0WXZ4UzFLUWx0Wkp3bUowQmtWd0l0VU5nZ0ZpUkpaQTlhQzhtR0w1ZktrSmdVSVhBeXRPeXdkZEo3ZVh5VGtmYUhhRmgyVENRNkZHbFVCejNEeEIyOF9lR3NWNVRPRVFNTk9YcWpqMjA0bFZ1ejBtSENuQmJVUnFEdFUtbklxc2JSQU55WHpHSUFxY2xjcEhy?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.newsfilecorp.com",
-      "title": "TMX Newsfile"
-    }
-  },
-  {
-    "title": "Complementary Vaccination in Morocco’s Pediatric Population: A Cross-Sectional Study at Mohamed VI University Hospital, Oujda - Cureus",
-    "description": "Complementary Vaccination in Morocco’s Pediatric Population: A Cross-Sectional Study at Mohamed VI University Hospital, Oujda  Cureus",
-    "published date": "Tue, 17 Feb 2026 07:48:01 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxObXVjNmtPZ2dQUmx6SHRtYUVEOUpORlVSek9lNTVpaWl1ZTNrdklsQVE1WG85MFlkMWNJNWVUcG90VkVjRlMzVUNoNTFzb2lXeWRPdXdWMk53RFk4LUxpU0VHcllQZTJyeGJGMGRNRl90bVFWM0h2NmVSZXJ5WlRycWh5aHhxb1B1SVE4MDNsZzkzTkhodlNyTF8zNjBSOWI1ZUdDNmVlaVo4SHZOYUJySmhfZWFNTmpYNkR1ZDJjZWczc1NsUzBsQzl6Z3dxaWFGNVdCbUJWZl9UeERiMHVsMWwtN082cmhfNWhhaTdSSUZ5dkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cureus.com",
-      "title": "Cureus"
-    }
-  },
-  {
-    "title": "Public Health Agency of Canada visits ECDC for enhanced collaboration and to strengthen global health security - ECDC",
-    "description": "Public Health Agency of Canada visits ECDC for enhanced collaboration and to strengthen global health security  ECDC",
-    "published date": "Mon, 16 Feb 2026 15:53:39 GMT",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQlR1VHd3TVBZcHFYSkl6N1FaQ3NzcW5COFVWQno2cVl1N0wxTm9QZ2M3MzVnQkc4WDBEdmRrdUtTMlpUU3BUalBJWW1nbHBjekFEVDdYRzZkenhWUjZGeXBUdlZvMUNpelJqS1lhVm9waHpjbTZwS1dvcmd5TEpkSU5CbFpHMWZyU2xUZ1NMZ1Y0NVZ4RnpJMXo0d0lEX2NzcHB3QXV4NlVlN3dzUDA0bzRscHNTemlOLVNyc0gwNVYyU2U4?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ecdc.europa.eu",
-      "title": "ECDC"
-    }
-  },
-  {
     "title": "Bird flu ravaging Antarctic wildlife, scientist warns - CTV News",
     "description": "Bird flu ravaging Antarctic wildlife, scientist warns  CTV NewsH5N1 bird flu kills more than 50 skuas in first Antarctica wildlife die off  ScienceDaily",
     "published date": "Wed, 18 Feb 2026 00:24:00 GMT",
@@ -547,16 +507,6 @@
     "publisher": {
       "href": "https://www.ctvnews.ca",
       "title": "CTV News"
-    }
-  },
-  {
-    "title": "Experts cast doubt on the benefit of exercise for arthritis patients - Yahoo News Canada",
-    "description": "Experts cast doubt on the benefit of exercise for arthritis patients  Yahoo News CanadaDoes Exercise Really Work For Osteoarthritis?  Mena FN",
-    "published date": "Wed, 18 Feb 2026 00:01:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR0NTRUJQcXZpWC1McnJUMUpCeElENGpkZGwyUUxCQ3VqR1poeUd0V1B0MWpaYWp5cm5tTzhFV3RTZUdMUVlVTzBDQWpZV2FiSW9DdnV0NUNRdExQbVl2dVRjVlhqRDZyVlpYUWxzeXJBWlQxdlJyLWtGU1lpR1FXcm5n?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://ca.news.yahoo.com",
-      "title": "Yahoo News Canada"
     }
   },
   {
@@ -572,11 +522,31 @@
   {
     "title": "Buffalo changemakers join effort to eliminate cardiovascular disease - Niagara Frontier Publications",
     "description": "Buffalo changemakers join effort to eliminate cardiovascular disease  Niagara Frontier PublicationsNine Boston changemakers join effort to eliminate cardiovascular disease  www.heart.orgLocal leaders take part in major heart health campaign  WRGB",
-    "published date": "Tue, 17 Feb 2026 21:25:17 GMT",
+    "published date": "Tue, 17 Feb 2026 21:25:41 GMT",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVnlVaFFkdEY2Zk5UYUtybThCLWdvdkxOYWNnLS14bDV0bFgxVlhSRV9wMUdSQTdheFljbHVUdTVEVzhOcHlhaWRKSXBNVVVseml0UXEyalJ2dkFLc2NfbGFRZ0J0dGc1dzBpQ1pNTE0wX2FMdEREOEhMNU12N01UbWsxT2pvbnBDVFhfNEUyRVNDN255Z0p5d2czVWxaSUFUZGZRMVMwZ3d5Wld0TENnOXM2UTRaRGxYUy1uNTJnODRGYnU4UzlGRXVOdVgyQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.wnypapers.com",
       "title": "Niagara Frontier Publications"
+    }
+  },
+  {
+    "title": "Go Red. Shop With Heart: Retail’s New Fight Against Women’s Heart Disease - Forbes",
+    "description": "Go Red. Shop With Heart: Retail’s New Fight Against Women’s Heart Disease  ForbesBetter understand the differences between a man’s heart and a woman’s  CityNews MontrealWomen’s heart symptoms can look different, expert warns  CTV News",
+    "published date": "Wed, 18 Feb 2026 01:44:58 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQWTNQNUFRcVVxbjJhUnQxNUE5UDM2LV9iZFlUUkFRdzhpWkFZZXVJNHZUZVgyejlwMFhCbEJVS0RqaUU3YzRXcFF5dlZESFFWcFNXdDhJVVV1YW5NZFFzWGdjQ3FBYXJUaEw2dGY0alpzOVdSZEJfUUF5V3VFa3RaUERfWU9MakVtNWRYUXJITFhKZnI4OWU0SWhQUEFEbHBwLTlSN0R2OVlsUGoyVjlTSlA3UFlzR3RfTWhzNDVTajdudmxpUmNvOExPVjh5ZTVVNVh3OGU2eExTVHo1U3FKODZBbWswS2dhb2RYTm1QeEtkM2ZkaGhaem5ONUFLM3hPMkEw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
+    }
+  },
+  {
+    "title": "In Defense of Processed Foods - The Free Press",
+    "description": "In Defense of Processed Foods  The Free Press5 Foods That Are Surprisingly Considered Ultra-Processed  EatingWellOpinion | We Shouldn’t Want to Eat Like Our Great-Great-Grandparents  The New York Times",
+    "published date": "Tue, 17 Feb 2026 23:22:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kQjB1UzhkR0oyWEE2aFFsUElaalhEV1VFQmlhM3hlSWh1MWpwZVZpVm5EaVk5REx2SUR1Z1pVZklnUmJEY0VVTm9vUkY2bmxPaFI3TmpzMnZqamc4SENna09Baw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.thefp.com",
+      "title": "The Free Press"
     }
   },
   {
@@ -620,16 +590,6 @@
     }
   },
   {
-    "title": "Study: SARS-CoV-2 RNA found in 39% of hospital air samples during outbreaks, despite good ventilation - CIDRAP",
-    "description": "Study: SARS-CoV-2 RNA found in 39% of hospital air samples during outbreaks, despite good ventilation  CIDRAP",
-    "published date": "Tue, 17 Feb 2026 20:29:51 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUnFTTnk4Q0hKTFc5LXFDRW5rYWt5aXNkX1FmTW5MSFE5RXl5MU9rU0Uwd2RxQ1ZEcHpkZzhybFctZE9DWEVLQ1lRZzE3QkhoWF9kSkJtcGZiamp4SzBuRy1tVVUwNkNfbGtRY3V5TGQybDZYcXZsdW9kM3I2WkhkeVZJZTJQMW9TVUZUUXc4eEhRWlRWNU9HaEl6UURtc0YtQ1JYN19jNl9icVE5bWFEWjVmZ3VtMW8?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cidrap.umn.edu",
-      "title": "CIDRAP"
-    }
-  },
-  {
     "title": "Common Diabetes Drug Linked With 'Exceptional Longevity' in Women - ScienceAlert",
     "description": "Common Diabetes Drug Linked With 'Exceptional Longevity' in Women  ScienceAlert",
     "published date": "Tue, 17 Feb 2026 22:19:11 GMT",
@@ -650,6 +610,16 @@
     }
   },
   {
+    "title": "New research warns air pollution may directly contribute to dementia - thesuburban.com",
+    "description": "New research warns air pollution may directly contribute to dementia  thesuburban.comAir pollution directly linked to Alzheimer’s risk, scientists say  Financial TimesThe Link Between Air Pollution And Alzheimer's Is Now Clearer Than Ever  ScienceAlert",
+    "published date": "Tue, 17 Feb 2026 19:22:56 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaXBpVlpWdHdKSnJqd3IxbUNOZWROMWFXc1VBN2JIV0k5X2hkQ3N6bUk1UXVEMlJBSXN1cTItRXQ4VGVURjRDX1JBM2stSElrNHRRVHI1YWY1dktmenhTTldkNmVELWRYUUo5UWs5eC01cFRROU82RUNTNkprZFlGWlVpVm9ERUQzS28waTJmQ3FqTXFpdUthdlJjY0owaVAxVTZnb1d2QVpVWm5iSUYySkpzb24zWnp1b2hScklXQUg2bXhsZWJoWllmLXN4WVFLalU1RzlPeGZDcmRlbEVuam1SNUNvdnJETXFMOEgtSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.thesuburban.com",
+      "title": "thesuburban.com"
+    }
+  },
+  {
     "title": "Autism In Women May Be As Common As In Men, Study Finds - Forbes",
     "description": "Autism In Women May Be As Common As In Men, Study Finds  ForbesNew insights on sex bias in autism, and more  The Transmitter",
     "published date": "Tue, 17 Feb 2026 13:00:00 GMT",
@@ -660,13 +630,13 @@
     }
   },
   {
-    "title": "New research warns air pollution may directly contribute to dementia - thesuburban.com",
-    "description": "New research warns air pollution may directly contribute to dementia  thesuburban.comThe Link Between Air Pollution And Alzheimer's Is Now Clearer Than Ever  ScienceAlert",
-    "published date": "Tue, 17 Feb 2026 19:22:56 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaXBpVlpWdHdKSnJqd3IxbUNOZWROMWFXc1VBN2JIV0k5X2hkQ3N6bUk1UXVEMlJBSXN1cTItRXQ4VGVURjRDX1JBM2stSElrNHRRVHI1YWY1dktmenhTTldkNmVELWRYUUo5UWs5eC01cFRROU82RUNTNkprZFlGWlVpVm9ERUQzS28waTJmQ3FqTXFpdUthdlJjY0owaVAxVTZnb1d2QVpVWm5iSUYySkpzb24zWnp1b2hScklXQUg2bXhsZWJoWllmLXN4WVFLalU1RzlPeGZDcmRlbEVuam1SNUNvdnJETXFMOEgtSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Bioengineered E. coli bacteria can now produce rhododendron-derived drugs - News-Medical",
+    "description": "Bioengineered E. coli bacteria can now produce rhododendron-derived drugs  News-Medical",
+    "published date": "Tue, 17 Feb 2026 11:55:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcFhDYjRvcEJLUXZwQWZpUU9wQUtCckRRV1NpZXVxRlU3MGU4RktMbnBxaU5mQ1ppR09NTWJOTVJtZkhRZ3czQ2xJcUtqZmtEOWVIWTE2Mjk1RmF4ZTg2NEY4bzU1ZmQ3STN0U3VERTRjZlpFNjJOMU5ySjJKNTNPUC04WGZEd05hVFQxcVQ5V19FemVwTWoyN1VxbG9semExYk9Dd2NDVG9sWnFjcUQ2OElIQkwyMzFTbUZZYg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.thesuburban.com",
-      "title": "thesuburban.com"
+      "href": "https://www.news-medical.net",
+      "title": "News-Medical"
     }
   },
   {
@@ -683,9 +653,9 @@
     "title": "Breathing in microplastics can cause inflammation, damage to lungs, study warns - Xinhua",
     "description": "Breathing in microplastics can cause inflammation, damage to lungs, study warns  XinhuaReview suggests inhaled microplastics can inflame lungs and damage tissue  Medical XpressBreathing in micro plastics can damage lungs, study warns  Peoples Gazette Nigeria",
     "published date": "Tue, 17 Feb 2026 09:14:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAyZEFOYjUtcGFLN1dVeGN0RTB6S25yY3NyU29vQURPcGJVRUJOMUx5cTVmbVU2ZWJ0TFpsWWo4X2tFNEpfVWVxNERVLUpTSHRJaEdOSXhoZ0FZVW80TXI5N1E3U2c2UnoyZGhLMVVXS3ZJVlZfWTJmU1BtYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Vc2hRWFQ3Qk5CTUxlTWNMZTNBX1VTbmxCa2tnMEdMZjdFZElHMnBOd3lKNlVfVS1WMWNqaExJYUJSak9MWmZ3ZnJpS3R6a0lFZHREVXYyWGpwX05vU3BmVW11U0pMTVpTVzE1dmJ2ZGV6Z29UTEhjOUcwNHM?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "http://english.news.cn",
+      "href": "https://english.news.cn",
       "title": "Xinhua"
     }
   },
@@ -697,6 +667,36 @@
     "publisher": {
       "href": "https://www.nature.com",
       "title": "Nature"
+    }
+  },
+  {
+    "title": "99% of adults over 40 have shoulder \"abnormalities\" on an MRI, study finds - Ars Technica",
+    "description": "99% of adults over 40 have shoulder \"abnormalities\" on an MRI, study finds  Ars TechnicaShoulder MRI: Rethinking Findings  Conexiant",
+    "published date": "Tue, 17 Feb 2026 14:17:54 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUWNmMEpHWGNBdXRvLUx2YUxoTk85cjlmRG9Yc3JRQl9ndmk5V0FHOGYyT21CSThHOGxjbFgwbVNOcW5rbWxUM1FmQXlHcG9neTZRM3hhY1ZyS2h4X2VRczNNcVBuZFJYQWJGMDBqS1o5RGZ6WUpZUnlHaFBqQWlSV1FfTVdDWU1Qd1pUM1NIN2RQbElFaGpkYk01WjJmWUk4bzFNbS1ELV9oNHpyVm00?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://arstechnica.com",
+      "title": "Ars Technica"
+    }
+  },
+  {
+    "title": "Scientists discover brain switches that clear Alzheimer’s plaques - ScienceDaily",
+    "description": "Scientists discover brain switches that clear Alzheimer’s plaques  ScienceDaily",
+    "published date": "Tue, 17 Feb 2026 10:31:52 GMT",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBJYU5GWE42bG8tVk1ybW01WndIQzY5N1RBb1ZaUWk0UkszOFctaVJQOUdDTVZYVVFrdmwzOFlkMDNpWm9iY0RIVjVpbW11YnNlbjVpVUtiTk4yRkxXNmhjY3pCUlFrNXdOb0EwRnpoWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.sciencedaily.com",
+      "title": "ScienceDaily"
+    }
+  },
+  {
+    "title": "Stronger muscles may boost longevity, especially in older females - Medical News Today",
+    "description": "Stronger muscles may boost longevity, especially in older females  Medical News TodayHow to Get Stronger So You Can Live a Long, Healthy Life  GQ",
+    "published date": "Tue, 17 Feb 2026 13:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX280SGRfUzk5aEhFQXM0SzRWN0dVMWlpSDNuTGFQYlJqQjFvMGJSVU0zRnNZd1JKeVJfWXdnNEE3ZHVYZVlTVEV5aktwWlowQWh5RlZlWlpfaExKaFVfUlNWaVlibFpIeW5Pdnp1YVFpdVBmNkE1NkFKMWMxTXYwcjkzX19ZQ3R1SF95T1NlckY1dk1xS0E3T3A4dVJJWkZnVTdlOUtEWmM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.medicalnewstoday.com",
+      "title": "Medical News Today"
     }
   }
 ]
