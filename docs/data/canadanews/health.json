@@ -20,6 +20,16 @@
     }
   },
   {
+    "title": "Breast Cancer Diagnosis - SaskHealthAuthority",
+    "description": "Breast Cancer Diagnosis  SaskHealthAuthority",
+    "published date": "Mon, 23 Feb 2026 21:15:27 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObnByRDdqN2tic05XLU9NSGZtdEV1aDRxY0xIUnNkMlVJdlZ3R19Lc1FFYWIwX3U2RXhKREREbC04Y01Bc0lyQ2lKSTQ1dENLYUlXd2dlUWJFSEFOTmVSZUFsN19ib0V6bG1XVUR5cGlzMDdXTUNKbURiektUd2xhRWVGNEpjaU1oeTAxWDhjZ0UzaE54Y2E5eWpLVm92am9CMl81RjJmY3NTZzdQVHR4ZTJCc3hxdnJENFNRaDdnVmlNU3V4THFySg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.saskhealthauthority.ca",
+      "title": "SaskHealthAuthority"
+    }
+  },
+  {
     "title": "Learning to Turn Everyday Habits into a Healthy Heart - Nova Scotia Health",
     "description": "Learning to Turn Everyday Habits into a Healthy Heart  Nova Scotia Health",
     "published date": "Mon, 23 Feb 2026 18:21:39 GMT",
@@ -60,9 +70,19 @@
     }
   },
   {
+    "title": "Porcine Epidemic Diarrhea found on a southern Alberta farm - Farmtario",
+    "description": "Porcine Epidemic Diarrhea found on a southern Alberta farm  Farmtario",
+    "published date": "Mon, 23 Feb 2026 20:57:56 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOFQ3UkpLRUVBRlhKUTR1YVFheFpNSzVzQnlsSVRhczY2Tm5sbGN2MkttYVlIeTMyWlRWZzdXU0lObVh4Q2ZidGVJSlR2OWw3YkpDXzBPdnRVY1Q3RGw2eExPRUlYOUs5TnVCTVA4a25rNTlqYTdFeWxnWVhWcEl3aGxnaVVqZkJWMjFubjNHZnA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://farmtario.com",
+      "title": "Farmtario"
+    }
+  },
+  {
     "title": "Avian flu found at commercial poultry facility in Amherstburg - CBC",
     "description": "Avian flu found at commercial poultry facility in Amherstburg  CBCView Full Coverage on Google News",
-    "published date": "Mon, 23 Feb 2026 19:52:30 GMT",
+    "published date": "Mon, 23 Feb 2026 19:54:04 GMT",
     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2UkNGcTRuTkVTb18zbmhqOWV5bHJ2enJFVEJlWFJ3dXdlek9XOFlSNzlLa2ZhMU1JRXBGc3NMRDJraFFiamtBOEREMU9FUWZl?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.cbc.ca",
@@ -77,6 +97,16 @@
     "publisher": {
       "href": "https://www.mystratfordnow.com",
       "title": "My Stratford Now"
+    }
+  },
+  {
+    "title": "Measles outbreak not a concern for many in Winkler-Morden area - Yahoo News Canada",
+    "description": "Measles outbreak not a concern for many in Winkler-Morden area  Yahoo News CanadaView Full Coverage on Google News",
+    "published date": "Mon, 23 Feb 2026 11:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KbC1nQTJkQlFpVEFtMDkzdGxZUjNUQ0dTd2djZE9lVzE4bGYzLTRZMTNBYzZqTDJXdjVvVjF5c1dYc1JRTndUWWpaNHBhYUxmTVZtVTNBNWRhTUczTXlacVlKQ0pQcWloQk90QmoxYlNxMXlCWHYwR0xWbVZQRlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://ca.news.yahoo.com",
+      "title": "Yahoo News Canada"
     }
   },
   {
@@ -97,16 +127,6 @@
     "publisher": {
       "href": "https://www.cmaj.ca",
       "title": "CMAJ"
-    }
-  },
-  {
-    "title": "Measles outbreak not a concern for many in Winkler-Morden area - Yahoo News Canada",
-    "description": "Measles outbreak not a concern for many in Winkler-Morden area  Yahoo News CanadaView Full Coverage on Google News",
-    "published date": "Mon, 23 Feb 2026 11:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KbC1nQTJkQlFpVEFtMDkzdGxZUjNUQ0dTd2djZE9lVzE4bGYzLTRZMTNBYzZqTDJXdjVvVjF5c1dYc1JRTndUWWpaNHBhYUxmTVZtVTNBNWRhTUczTXlacVlKQ0pQcWloQk90QmoxYlNxMXlCWHYwR0xWbVZQRlE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://ca.news.yahoo.com",
-      "title": "Yahoo News Canada"
     }
   },
   {
@@ -140,16 +160,6 @@
     }
   },
   {
-    "title": "MUN Launches New App to Help Cancer Survivors with Insomnia - VOCM",
-    "description": "MUN Launches New App to Help Cancer Survivors with Insomnia  VOCM",
-    "published date": "Sun, 22 Feb 2026 15:16:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0yZmlEN3FGNjJVc0FlWWxWTnhReXk0anVqS0J0aFEzZndSVFVNcmc5b0o5ZDhOWXROYTc1Nm0tOWRDZm9DZ3FYcFMxVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://vocm.com",
-      "title": "VOCM"
-    }
-  },
-  {
     "title": "Health unit urges people to update MMR shots ahead of March break travel - Innisfil News",
     "description": "Health unit urges people to update MMR shots ahead of March break travel  Innisfil NewsView Full Coverage on Google News",
     "published date": "Mon, 23 Feb 2026 17:02:03 GMT",
@@ -170,6 +180,16 @@
     }
   },
   {
+    "title": "MUN Launches New App to Help Cancer Survivors with Insomnia - VOCM",
+    "description": "MUN Launches New App to Help Cancer Survivors with Insomnia  VOCM",
+    "published date": "Sun, 22 Feb 2026 15:16:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0yZmlEN3FGNjJVc0FlWWxWTnhReXk0anVqS0J0aFEzZndSVFVNcmc5b0o5ZDhOWXROYTc1Nm0tOWRDZm9DZ3FYcFMxVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://vocm.com",
+      "title": "VOCM"
+    }
+  },
+  {
     "title": "'Birdbrain' benefits: How being an expert birdwatcher may boost cognition - NBC News",
     "description": "'Birdbrain' benefits: How being an expert birdwatcher may boost cognition  NBC NewsSkills from being a birder may change—and benefit—your brain  EurekAlert!",
     "published date": "Mon, 23 Feb 2026 18:02:38 GMT",
@@ -177,16 +197,6 @@
     "publisher": {
       "href": "https://www.nbcnews.com",
       "title": "NBC News"
-    }
-  },
-  {
-    "title": "PTSD and Substance Use Linked to Higher Risk for Acute Coronary Syndrome - Psychiatry Advisor",
-    "description": "PTSD and Substance Use Linked to Higher Risk for Acute Coronary Syndrome  Psychiatry Advisor",
-    "published date": "Mon, 23 Feb 2026 05:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU2o5NTY2WkYya2cteDkzRS1NSGRwdlE1dGhwMFNLRllEWG1GNzFHM3NDN1dFSDZhZXZySjVHTXhNWGx0akR6Q0FWcXZLY0h0Q3E1a3cycWtDaEotMUQ0dzNpdm5FQUc3aUlYbkN2VXR2RGJZWlk5SHhRdjRINFZldmQ4R1B4bGFJRXAwUHhRNXJBY2FLcFp4MXRxa3BNbnh6MENHZFY5SVZIc2tLNHFoelpR?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.psychiatryadvisor.com",
-      "title": "Psychiatry Advisor"
     }
   },
   {
@@ -210,6 +220,26 @@
     }
   },
   {
+    "title": "PTSD and Substance Use Linked to Higher Risk for Acute Coronary Syndrome - Psychiatry Advisor",
+    "description": "PTSD and Substance Use Linked to Higher Risk for Acute Coronary Syndrome  Psychiatry Advisor",
+    "published date": "Mon, 23 Feb 2026 05:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU2o5NTY2WkYya2cteDkzRS1NSGRwdlE1dGhwMFNLRllEWG1GNzFHM3NDN1dFSDZhZXZySjVHTXhNWGx0akR6Q0FWcXZLY0h0Q3E1a3cycWtDaEotMUQ0dzNpdm5FQUc3aUlYbkN2VXR2RGJZWlk5SHhRdjRINFZldmQ4R1B4bGFJRXAwUHhRNXJBY2FLcFp4MXRxa3BNbnh6MENHZFY5SVZIc2tLNHFoelpR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.psychiatryadvisor.com",
+      "title": "Psychiatry Advisor"
+    }
+  },
+  {
+    "title": "UVic research brings hope to women with premenopausal hot flashes - Vancouver Island Free Daily",
+    "description": "UVic research brings hope to women with premenopausal hot flashes  Vancouver Island Free Daily",
+    "published date": "Sun, 22 Feb 2026 13:34:10 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUGtwNmhLQlM4RzJsanFqcXZWNmlUY0NkeVY5SmNsU1N5SkN3VWUzeE1RZDdGT0pReG9HaUZMUGIyeTJnd0xaZTgtYmhtdU9MQVhtSW95N2RsUFEzWXBFMzN3aEttZUJTR3FZM0JpLW5hRWEzeU8xaUV4VXlfZVE1eG1BdkVzQzZLT0xUcUhaaGFiY3FtNXRJblE5N0tCeGVSUEViemYzc01Yd0NWcV9WUFVvdHM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://vancouverislandfreedaily.com",
+      "title": "Vancouver Island Free Daily"
+    }
+  },
+  {
     "title": "Shocking simulation reveals the impact of daily weed use on your body - UNILAD Tech",
     "description": "Shocking simulation reveals the impact of daily weed use on your body  UNILAD Tech",
     "published date": "Mon, 23 Feb 2026 16:20:02 GMT",
@@ -217,36 +247,6 @@
     "publisher": {
       "href": "https://www.uniladtech.com",
       "title": "UNILAD Tech"
-    }
-  },
-  {
-    "title": "UVic research brings hope to women with premenopausal hot flashes - Goldstream News Gazette",
-    "description": "UVic research brings hope to women with premenopausal hot flashes  Goldstream News Gazette",
-    "published date": "Sun, 22 Feb 2026 13:33:31 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcHl5ejlaRFh4R3JIOUxQV1d5NktZUmRhT3JRRWo0VnlVdndxUDA5WDZNWjU4d2Z5QjBMMGxjRV9maS13UjNCRThsX3pxU0JSUVFHODFNMjVGWkw3WVh4dUJVV0RBNVh3ZkFIeDd0Vm83bHFETGhILXdFWWlacXgxd0dQdTVlNVpzd3dLMUlPRHNLWkNLMG9VaWZHaE1TMkpneG05YkZmSEQ3Wkk?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://goldstreamgazette.com",
-      "title": "Goldstream News Gazette"
-    }
-  },
-  {
-    "title": "Mediterranean diet tied to lower risk of all types of stroke in women, study finds - The Globe and Mail",
-    "description": "Mediterranean diet tied to lower risk of all types of stroke in women, study finds  The Globe and MailCould Eating This Way Lower Your Risk of Stroke? Scientists Share Surprising Findings  Prevention",
-    "published date": "Mon, 23 Feb 2026 11:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONkJ3dUtTMGhTVzR2QmRKM0pqOVJhb1ZvTjFUdlM5a2FIa29vTFExYVNORHFIaC0xQndaQXloU3BzTUV6ZVlEZExKMjBBTFdPRm5pdVBfTzdQeEE3MS05NlU4bG5OVjJPVHNWN1YzNkJvaHo4b29tY2REemF1UGluVkd2UVNKOFZzUVlNNVN5Nk5DOVJCZlI1Vm9VZG5LaHNMaUNmWUhERXF3cVVFQ1I2R1JQWWY4WWgwSEFMeUhlR3prS2VpdHRfaXAxMlhjZW8?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theglobeandmail.com",
-      "title": "The Globe and Mail"
-    }
-  },
-  {
-    "title": "Major Research Fund To Boost AI-driven Efforts For Personalised Ovarian Cancer Care - Technology News Australia",
-    "description": "Major Research Fund To Boost AI-driven Efforts For Personalised Ovarian Cancer Care  Technology News AustraliaHarnessing AI to improve ovarian cancer outcomes  UBC Faculty of MedicineGLOBAL OVARIAN CANCER RESEARCH CONSORTIUM AWARDS $1 MILLION USD AI ACCELERATOR GRANT IN PARTNERSHIP WITH MICROSOFT'S AI FOR GOOD LAB  Newswire Canada",
-    "published date": "Mon, 23 Feb 2026 02:21:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT004c25nMXlucS14OHNOZXZQZ2VQVW90R1JhTU1USm5JNEpzRHVxcjNxNHp5RXozck1jSlBWOXZwTWEtNmpaLUxjOVdHYmNhbm9lbTFKUEZrd1FRRTRRRnVuNWZvMlhGZndUa1dwYUNUZ1FEVkEtOTFpZ1RIWGtzcG1vLU10bUFUZVVZQUxxX1FVdHVwai1lbUpWZ1FJeDRTMEZJQ2pmNFJpc0dCRkh5MWlFdTkzaVNEM205d2FndVFHZ00?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.techbusinessnews.com.au",
-      "title": "Technology News Australia"
     }
   },
   {
@@ -260,13 +260,23 @@
     }
   },
   {
-    "title": "Yeast-driven biomanufacturing in space: synergizing cellular agriculture for sustainable extraterrestrial habitats - Nature",
-    "description": "Yeast-driven biomanufacturing in space: synergizing cellular agriculture for sustainable extraterrestrial habitats  Nature",
-    "published date": "Mon, 23 Feb 2026 04:50:20 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oN3duUzF4dWZCSDFFdzlyNmpMOEZsWEpUdU4xaWpYMGlnMGtuZTR6T2RuMUctTlRfMnBqQW5SX2hiWFI2eEFUcktMcF93VHBMOF85Q2RNQWVObGJUMkJ3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Major Research Fund To Boost AI-driven Efforts For Personalised Ovarian Cancer Care - Technology News Australia",
+    "description": "Major Research Fund To Boost AI-driven Efforts For Personalised Ovarian Cancer Care  Technology News AustraliaHarnessing AI to improve ovarian cancer outcomes  UBC Faculty of MedicineGLOBAL OVARIAN CANCER RESEARCH CONSORTIUM AWARDS $1 MILLION USD AI ACCELERATOR GRANT IN PARTNERSHIP WITH MICROSOFT'S AI FOR GOOD LAB  Newswire Canada",
+    "published date": "Mon, 23 Feb 2026 02:21:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT004c25nMXlucS14OHNOZXZQZ2VQVW90R1JhTU1USm5JNEpzRHVxcjNxNHp5RXozck1jSlBWOXZwTWEtNmpaLUxjOVdHYmNhbm9lbTFKUEZrd1FRRTRRRnVuNWZvMlhGZndUa1dwYUNUZ1FEVkEtOTFpZ1RIWGtzcG1vLU10bUFUZVVZQUxxX1FVdHVwai1lbUpWZ1FJeDRTMEZJQ2pmNFJpc0dCRkh5MWlFdTkzaVNEM205d2FndVFHZ00?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.nature.com",
-      "title": "Nature"
+      "href": "https://www.techbusinessnews.com.au",
+      "title": "Technology News Australia"
+    }
+  },
+  {
+    "title": "Mediterranean diet tied to lower risk of all types of stroke in women, study finds - The Globe and Mail",
+    "description": "Mediterranean diet tied to lower risk of all types of stroke in women, study finds  The Globe and MailCould Eating This Way Lower Your Risk of Stroke? Scientists Share Surprising Findings  Prevention",
+    "published date": "Mon, 23 Feb 2026 11:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONkJ3dUtTMGhTVzR2QmRKM0pqOVJhb1ZvTjFUdlM5a2FIa29vTFExYVNORHFIaC0xQndaQXloU3BzTUV6ZVlEZExKMjBBTFdPRm5pdVBfTzdQeEE3MS05NlU4bG5OVjJPVHNWN1YzNkJvaHo4b29tY2REemF1UGluVkd2UVNKOFZzUVlNNVN5Nk5DOVJCZlI1Vm9VZG5LaHNMaUNmWUhERXF3cVVFQ1I2R1JQWWY4WWgwSEFMeUhlR3prS2VpdHRfaXAxMlhjZW8?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theglobeandmail.com",
+      "title": "The Globe and Mail"
     }
   },
   {
@@ -280,8 +290,18 @@
     }
   },
   {
+    "title": "Yeast-driven biomanufacturing in space: synergizing cellular agriculture for sustainable extraterrestrial habitats - Nature",
+    "description": "Yeast-driven biomanufacturing in space: synergizing cellular agriculture for sustainable extraterrestrial habitats  Nature",
+    "published date": "Mon, 23 Feb 2026 04:50:20 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oN3duUzF4dWZCSDFFdzlyNmpMOEZsWEpUdU4xaWpYMGlnMGtuZTR6T2RuMUctTlRfMnBqQW5SX2hiWFI2eEFUcktMcF93VHBMOF85Q2RNQWVObGJUMkJ3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nature.com",
+      "title": "Nature"
+    }
+  },
+  {
     "title": "Most people not getting nearly enough fibre, dietitian says - CTV News",
-    "description": "Most people not getting nearly enough fibre, dietitian says  CTV NewsHow much fibre do you actually need in your diet? Here’s what one expert says  CTV News",
+    "description": "Most people not getting nearly enough fibre, dietitian says  CTV NewsHow much fibre do you actually need in your diet? Here’s what one expert says  CTV News12 Easy Ways to Eat More Fiber, According to Dietitians  marthastewart.com",
     "published date": "Sun, 22 Feb 2026 10:00:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR0UwWmFxU01fbG1Yb2Jfd0gyOXVFeHZKRWhidnU4bWluWWROQVV0N0tLRnZISGQxVFBKRDd2YXhOOXNsZ3hWdmtEQzVvd2x2alFvNk0tUTlSTjhnSlhXNmFXMTNBd1Q1eXNyUUlzdmRkTVFtbklROWZmdDFhZE5vcm5URlF1X1c0NnZQTjNJZUp2aWhpUEd3NXRWNzlOdw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -300,6 +320,16 @@
     }
   },
   {
+    "title": "Moderna’s 2-in-1 flu and COVID vaccine shows encouraging results in small trial - CIDRAP",
+    "description": "Moderna’s 2-in-1 flu and COVID vaccine shows encouraging results in small trial  CIDRAPMulticomponent Vaccine Shows Promise Against Flu and COVID-19  European Medical Journal",
+    "published date": "Mon, 23 Feb 2026 21:10:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcTFPeDZheXpiR2FKVzRxUlQxZ1Rma2lhWjlEeW9SWHhfZV9hWUVta3l6cE9mZzhfZmZ6WGVVb08yQW1Kd1ZHUzc3R2ZQcmRBRHpxRk03ZXdOUXNqX2x1U09KTXA1dkpVeUlOcmNsdF9SSHdxOFRWNlNYcTRDVkJ1dG5WUGwxbnliNW9VZTdRMUZFVWVQYjBmU2RvbnEtUjFZQ3JBZmZZRk8wSmxQd3NJcHlGdnpYSjVMWU9F?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cidrap.umn.edu",
+      "title": "CIDRAP"
+    }
+  },
+  {
     "title": "Cat cancer study reveals targets for human drugs - Drug Target Review",
     "description": "Cat cancer study reveals targets for human drugs  Drug Target ReviewScientists crack open the 'black box' of cancer in cats  BBCCould insight from cats lead to breast cancer cures?  CTV NewsCats give genetic clues to better cancer treatments  Financial TimesLandmark study finds striking parallels in feline, human cancers  Cornell Chronicle",
     "published date": "Mon, 23 Feb 2026 10:03:07 GMT",
@@ -310,73 +340,23 @@
     }
   },
   {
-    "title": "Proximity to nuclear power plants associated with increased cancer mortality - Medical Xpress",
-    "description": "Proximity to nuclear power plants associated with increased cancer mortality  Medical XpressUS report links higher cancer death rates to communities near nuclear plants  Interesting Engineering",
-    "published date": "Mon, 23 Feb 2026 10:00:01 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdUpzWUJRR2NlUmZqZmZKazJXUW4xeURPV1I0Y3NCYTFUUF9lamJQaW9raTVvX2FIbmFsaWhyM1NYUGtUb1JORGNibzdkejJyWVZfNjZOMmJVS1F0b1ZSX3hXdExBcEpOUm12ZkJSOF8tczJaSFlPOW9qZk9SOVdsRTBSN1ZVcWZZS081Mg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Proximity to nuclear power plants associated with increased cancer mortality - EurekAlert!",
+    "description": "Proximity to nuclear power plants associated with increased cancer mortality  EurekAlert!View Full Coverage on Google News",
+    "published date": "Mon, 23 Feb 2026 18:56:15 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03ajBsQUY2RDJrdk1YLU9ycTBUY2k4d0lpQWVENDI3UTRjWlZxVU9PczRxS2EtUi1JZzNwU0dSRkZxYk1xamlXTGtXWE41M3R5c05GUFF2ZV9MTTN1?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://medicalxpress.com",
-      "title": "Medical Xpress"
+      "href": "https://www.eurekalert.org",
+      "title": "EurekAlert!"
     }
   },
   {
-    "title": "Bout with polio couldn't stop Simcoe County woman from dancing - BarrieToday.com",
-    "description": "Bout with polio couldn't stop Simcoe County woman from dancing  BarrieToday.com",
-    "published date": "Mon, 23 Feb 2026 15:00:58 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYlRPM3lscHlDeFJ0TEYtRkpVOWc2dWI3MzhNUndzQWlueF9Qck9qS2ZBNXlGS2c3UklRWVF0WlJsR2xzeTR3R2dtUVpBWEkzaUZhVE51eTZSWFBmWkVORWthNWJKVF94Y01wa3hRMkJIek4zRl9ZWmFXd0h4TmRmRWI3S2JYYW9zb2U0ODk4bUJYVVA5eWxWblVaSGpJNlZXVHk2SWt2cFRWdmVFb3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Bout with polio couldn't stop Simcoe County woman from dancing - OrilliaMatters.com",
+    "description": "Bout with polio couldn't stop Simcoe County woman from dancing  OrilliaMatters.com",
+    "published date": "Sun, 22 Feb 2026 00:34:32 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORjJveTBXQmV3eVFhRnJZWlk1dW9QOHYwVVpRUGJsdkc2RllXYkVseEpwN1FGZlV4RGRXMGYzVjVKYUZyckpxazNkR3lOMi1UclFKelhKM3dLTXcxTFJnMFI0aVFfTExxYnhiVERBRWw0RjJqU01GbzY3SEtMbFN1Mm9sQ3pCMFZUQzh0UnpEUS1faUltZkJPSWlnMDdyQ3daY19XVkFPX0JIQmdJZzJFdkNn?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.barrietoday.com",
-      "title": "BarrieToday.com"
-    }
-  },
-  {
-    "title": "Nestlé study positions NAD+ as next frontier in healthy ageing supplements - FoodBev Media",
-    "description": "Nestlé study positions NAD+ as next frontier in healthy ageing supplements  FoodBev MediaLongevity: Can NAD supplements really slow down aging?  Medical News TodayNestlé science reveals role of bioactive supplementation for healthy longevity  Nestlé Global",
-    "published date": "Mon, 23 Feb 2026 10:24:10 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLWtjemhQdUlwQXczMEJiR3h6a1JIOUgzT0FNcy02eXJUQzA3LU9GVUU1ZEhIeTUzang0bFVaVnh3WmZwZE5Mekl4enZZenFXVGhRcDhuMEJka3JyTlotaE5ZOXdPSkthRUM3QVR6cFJEZThLRUNOSmNJdXFVSVJxaWpvbjNqLWd4YnFvWENwQVBWOE90bDFybThLR3ExcndIZXMweFFnSlhycmM?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.foodbev.com",
-      "title": "FoodBev Media"
-    }
-  },
-  {
-    "title": "DMT Rapidly Reduces Major Depression Symptoms - EMJ | Elevating the quality of healthcare globally",
-    "description": "DMT Rapidly Reduces Major Depression Symptoms  EMJ | Elevating the quality of healthcare globallyA short-acting psychedelic intervention for major depressive disorder: a phase IIa randomized placebo-controlled trial  NatureNature Medicine Publishes Helus Pharma’s Randomized, Placebo-Controlled Phase 2a Trial of SPL026 in Major Depressive Disorder  Toronto StarSingle dose of potent psychedelic drug could help treat depression, trial shows  The GuardianCould DMT Be a New Treatment for Depression? A Small Study Says Yes  Gizmodo",
-    "published date": "Mon, 23 Feb 2026 14:36:43 GMT",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbUNrOVFEQ2NoQlRla1ctLW9fUHlsd2VvWXhZYUFDWnZKUmpjY0Z2U0FyYlJyc1lMZDFWNmc1a3BVaGtGa1dTNlZxbTNPRHRZVS1rMC1PQWhPdDI4MkhXUUkxRG5EM2FEa3dwQlFrUUJXeHB1MGJUanFWVWxJcnhBaWRacGJtY1REUnNMV19aY0JPSXBaVzg5dThoTzlwQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.emjreviews.com",
-      "title": "EMJ | Elevating the quality of healthcare globally"
-    }
-  },
-  {
-    "title": "EMR, Cell Towers, and Diabetes: The Question Some Researchers Are Starting to Ask - Gadget Review",
-    "description": "EMR, Cell Towers, and Diabetes: The Question Some Researchers Are Starting to Ask  Gadget Review",
-    "published date": "Mon, 23 Feb 2026 17:21:20 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeEx1cGZJSWl2VHdkS0R5OUc0aHpSSmM0eW5JT0NjYi1qSlNlcGZzRWxrMEFMN0hqNFZoZHA4MHZrbTJQb0RmVkpPVWlydkRBcU1iOXJFVUNSX1VFcUFkYlQ2ckdHdldjNkNCczZGMFFjRXlybHRlcFpWa2hQLU1aNmtmb1pnWjkyMmI4Si0zZDhjaGFfUFhqQm1UeUFPblRlcVZqMjJMdlRSb0k?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.gadgetreview.com",
-      "title": "Gadget Review"
-    }
-  },
-  {
-    "title": "Babies exposed to far more “forever chemicals” before birth than scientists knew - ScienceDaily",
-    "description": "Babies exposed to far more “forever chemicals” before birth than scientists knew  ScienceDailyNew science finds babies exposed to more ‘forever chemicals’ than previously known  EWG",
-    "published date": "Mon, 23 Feb 2026 12:31:36 GMT",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaX0N3WUhXMFJNV0VBMEhyRF9URURlbjVxMHVSb1hobWVUOTA5enJrbERuVzBuX0hmbHpFb3FUZzdNZ2lsRUlnRkNZTzN5OTRfbmNCWGlFb3paWkM3cGZTQkFKd2N1Q3pFa2lSUmt4aw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.sciencedaily.com",
-      "title": "ScienceDaily"
-    }
-  },
-  {
-    "title": "Multicomponent Vaccine Shows Promise Against Flu and COVID-19 - EMJ | Elevating the quality of healthcare globally",
-    "description": "Multicomponent Vaccine Shows Promise Against Flu and COVID-19  EMJ | Elevating the quality of healthcare globallyHealth Rounds: Moderna combo flu/COVID vaccine succeeds in mid-stage trial  1470 & 100.3 WMBD",
-    "published date": "Mon, 23 Feb 2026 10:21:06 GMT",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUWZqMHhHYXBPbkZTbEU2T21xS283NHhESmhxc25wMHVFMmo1dFdkdEZFUlZZRF9aRWtPTXkxT0xIV2ZzbnJNamdCUmNBd005TDFXNGpnTXhOU2ZpUTR1Y21CY3czYTJ4eUhZSXU0YzdVdlJ3VzVBTGFVS0J2UFhEc3NxYTJYLXh1aEZRcEJfVkxqQjExbFZlV0JhOG9kVktWZEdsOEtYQWExUGVQczJDSmdOSnRTZk9fZkhHZUtycVdOQWNwdHc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.emjreviews.com",
-      "title": "EMJ | Elevating the quality of healthcare globally"
+      "href": "https://www.orilliamatters.com",
+      "title": "OrilliaMatters.com"
     }
   },
   {
@@ -390,33 +370,13 @@
     }
   },
   {
-    "title": "NIH Institute Told To Drop ‘Biodefense’ and 'Pandemic Preparedness' Language From Website - The Cardiology Advisor",
-    "description": "NIH Institute Told To Drop ‘Biodefense’ and 'Pandemic Preparedness' Language From Website  The Cardiology AdvisorOpinion: US Biodefense Policy Under Scrutiny as NIH, CDC Pandemic Preparedness Programs Face Cuts  Infection Control TodayNIH institute told to drop 'biodefense' and 'pandemic preparedness' language from website  Medical Xpress",
-    "published date": "Mon, 23 Feb 2026 05:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT05TNm5YMHltb2dEbnQ4ZzNsck5HcDkwQVowc0RaWjlVWFNSbFJxOUhNXy1ZMzlvWkdSMFNZRVdzREUzQ3Fnc1VYUko3MDJ6NHhwTVVIRmx1X1k1bm4tTlV5NlpIcXIzSGpCVlNocVpZdm1KdzdlbmEySU0wcUplZWpMR0FTd2Z3WlYzNV8yOEV4ZUdGNkdTcHoxekZZMm9OYjFCNE9fQzAxZ0xnVDdaZlRXZ1pISXB5RXA4bHZKTkFmX1FOMVhB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "EMR, Cell Towers, and Diabetes: The Question Some Researchers Are Starting to Ask - Gadget Review",
+    "description": "EMR, Cell Towers, and Diabetes: The Question Some Researchers Are Starting to Ask  Gadget Review",
+    "published date": "Mon, 23 Feb 2026 17:21:20 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeEx1cGZJSWl2VHdkS0R5OUc0aHpSSmM0eW5JT0NjYi1qSlNlcGZzRWxrMEFMN0hqNFZoZHA4MHZrbTJQb0RmVkpPVWlydkRBcU1iOXJFVUNSX1VFcUFkYlQ2ckdHdldjNkNCczZGMFFjRXlybHRlcFpWa2hQLU1aNmtmb1pnWjkyMmI4Si0zZDhjaGFfUFhqQm1UeUFPblRlcVZqMjJMdlRSb0k?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.thecardiologyadvisor.com",
-      "title": "The Cardiology Advisor"
-    }
-  },
-  {
-    "title": "Older adults show slower ageing after shingles vaccination, notes study - Ahmedabad Mirror",
-    "description": "Older adults show slower ageing after shingles vaccination, notes study  Ahmedabad MirrorShingles vaccine linked to slower biological aging, but brain markers show no change  PsyPostViagra Shows Unexpected Power in Fight Against Alzheimer’s, New Study Finds  GreekReporter.com",
-    "published date": "Mon, 23 Feb 2026 09:38:43 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY0U4UlRzQlIyYVB6VDJENFlSbkZ4a1gtSHFvWEVab2dudFB5YnlFMnBGdHNlLVRpYkw5RGRJWENFRjVocnd3alI2aUpoRHFEWjBRSTJobG5oeFFpX0xIR3NhX0tvZGZRWDFPTHV3eE4zWGNuQXA2V2pGUnhZaW9DWm12alhQU1VRdVllakVGcHFwY19DUk9ybG1vVEF4akpLR29GWjItU2RzUWFWMUpQUXlZQnZoUXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ahmedabadmirror.com",
-      "title": "Ahmedabad Mirror"
-    }
-  },
-  {
-    "title": "High blood sugar in pregnancy may affect baby’s brain, experts warn - Firstpost",
-    "description": "High blood sugar in pregnancy may affect baby’s brain, experts warn  Firstpost",
-    "published date": "Sun, 22 Feb 2026 16:00:13 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb3NMWlhMcWhOZnh2anpybFItamZMSDdhTnJfTDQxdXdTMWVtVGZ6bzJ2S001QTg1RWFyREREZ0RUbDFQVVY2X3ViSXJ5MmE1NEFpdlJ2bmkwVWhsd1RRd2hEUlQwSGV6TW01VjFyX2VmNm16cjhVSXJtcWEycTl4Sm9pbjd4VHJQcUhLbGY4SkFXcW1BWVBZODFtRkZZelktdnhIY1Q5anZEby14NklfeTFoTk1paEpw0gG-AUFVX3lxTE1pMEJhOWFxQkl4MmZxZjg3VHhoLTFwaTRGcVpEd3lhY0wyZ3hlVFhQOTlyYW5fNnl0ZThsc2V6Q04tMVBKX1JEX1BDMnFOVDBUazFBMV9UMWlzbzA4a2dVcnNFVFVhQnZjNnFPcF8zNUx2N1hVb29STlYxNUFWWGMzUHpVTzlFaUtsS25sNi1DZEZ2YloyTU9nSGg2U0ZaOE1iUjZxYW53ODFJX0sxNC10d0kzeVIxcDJjYk5SYlE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.firstpost.com",
-      "title": "Firstpost"
+      "href": "https://www.gadgetreview.com",
+      "title": "Gadget Review"
     }
   },
   {
@@ -437,6 +397,16 @@
     "publisher": {
       "href": "https://www.nature.com",
       "title": "Nature"
+    }
+  },
+  {
+    "title": "Tapeworm medication may ease ear, nose, throat symptoms in AAV - ANCA Vasculitis News",
+    "description": "Tapeworm medication may ease ear, nose, throat symptoms in AAV  ANCA Vasculitis News",
+    "published date": "Mon, 23 Feb 2026 21:16:34 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSjVaU0swb3I3ZmVaVlhXVTcyM1VVaUtjOWhYR3dYUTRvY00yQlAyajluejVBSGdwRWdOWm02bWdoWHdhcUs5S0lGTndJT2duSHNvNm9iTzlsejNadUZpenJzaHdNcVRHR05PTUZQX2hLNjZCRk1qc1pBVHdSVnI0Y2dJYUtxX1I1ZWltM1QtQ1VZc0tDS3E1djloeHd6Q1VHRk1ielV6Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://ancavasculitisnews.com",
+      "title": "ANCA Vasculitis News"
     }
   },
   {
@@ -490,6 +460,16 @@
     }
   },
   {
+    "title": "When the gut produces alcohol: the science behind auto-brewery syndrome - datac.ca",
+    "description": "When the gut produces alcohol: the science behind auto-brewery syndrome  datac.ca",
+    "published date": "Mon, 23 Feb 2026 20:37:30 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV3B4blRSTVhMX1pFdjVDdGFIYlNjTFhYWUxNV2M3QUR4QkhZZUJ2VzNiYmFfenowZHE2RF9sSFlaVEdLS3pNOVNVcjh1YXpTNWJGRkY0N0hhdEhjS3VnYW5FZkZnbUEtX2NfcVV4dXh2MThnbVlDd0RwdkRjTVNnVWZzQVN2UG0zSDRBMXU2a1hSZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://datac.ca",
+      "title": "datac.ca"
+    }
+  },
+  {
     "title": "Fears of polio resurgence as US vaccine adviser questions need for childhood shots - The Guardian",
     "description": "Fears of polio resurgence as US vaccine adviser questions need for childhood shots  The Guardian",
     "published date": "Mon, 23 Feb 2026 15:27:00 GMT",
@@ -520,13 +500,23 @@
     }
   },
   {
-    "title": "Is autism preventable in certain cases after all? Some scientists say yes. - The Washington Post",
-    "description": "Is autism preventable in certain cases after all? Some scientists say yes.  The Washington Post",
-    "published date": "Mon, 23 Feb 2026 18:00:40 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd1gyQVV2NGt4aEVZcFl6Sm5YajRBR21ubmx0bUJqN1lXWldHRWd0WVNMVjFwRDVJa3kxLXI5ZHl5bGtGamN6QmF5UWl4SkYtZXptY2h4eVl0VndJNWxQYnBTWlA4RmVmWEREdXVYRU1id2hxSmhpOFV4QnpCU29ERUxNMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Trust In CDC Has Now Fallen To 47%, KFF Poll Says. Here Are The Risks - Forbes",
+    "description": "Trust In CDC Has Now Fallen To 47%, KFF Poll Says. Here Are The Risks  Forbes",
+    "published date": "Mon, 23 Feb 2026 12:50:17 GMT",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQTZTbFY2ZUtoZ29FeUJzQnNFRUNaa0Q1ME12bzAxdjRMS3dfcWVIUDlxUWZUVUh4VkdFTTZBQTR2U1NZZ2xsSGtrQ3hNc3NtZXVjc21OZmF4UjBpTUdybjlETzZrNlZSNnd0WU1NUU9tTjFOaE9Mc04zcHNQQ3MxQzFmSTl0a29GWVBYWFdwbFE0Vk5uRGFGaGVodXFZZw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.washingtonpost.com",
-      "title": "The Washington Post"
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
+    }
+  },
+  {
+    "title": "Stanford Scientists Cure Type 1 Diabetes in Mice Without Insulin or Immune Suppression - SciTechDaily",
+    "description": "Stanford Scientists Cure Type 1 Diabetes in Mice Without Insulin or Immune Suppression  SciTechDaily",
+    "published date": "Mon, 23 Feb 2026 11:29:55 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMEZWbFZ6UUNfbVZPem4tbl9vUWNmaGRval9CcS0wZlhCWTU3dnZITmJyT2pwZnl5SFhQZ0NOR1Ztd01PYXd4dmJibVFsUkZTSUtYOFlhRXcxek95MUFJczBJTDRtM1JaSFNQTGVXdFI1UGVkLWJLWnBMeVVERndYOFVkdmVjZlJNY3ktazhac25RSnlqTC1hOE1BdGFGYmJ3RFNBZjRIZ19kT1NsSnlobmxR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://scitechdaily.com",
+      "title": "SciTechDaily"
     }
   },
   {
@@ -540,6 +530,26 @@
     }
   },
   {
+    "title": "Is autism preventable in certain cases after all? Some scientists say yes. - The Washington Post",
+    "description": "Is autism preventable in certain cases after all? Some scientists say yes.  The Washington Post",
+    "published date": "Mon, 23 Feb 2026 18:00:40 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd1gyQVV2NGt4aEVZcFl6Sm5YajRBR21ubmx0bUJqN1lXWldHRWd0WVNMVjFwRDVJa3kxLXI5ZHl5bGtGamN6QmF5UWl4SkYtZXptY2h4eVl0VndJNWxQYnBTWlA4RmVmWEREdXVYRU1id2hxSmhpOFV4QnpCU29ERUxNMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.washingtonpost.com",
+      "title": "The Washington Post"
+    }
+  },
+  {
+    "title": "A Woman Started Losing Her Sight Because of a Tattoo She Got Years Ago on Her Back. She's Not Alone - ZME Science",
+    "description": "A Woman Started Losing Her Sight Because of a Tattoo She Got Years Ago on Her Back. She's Not Alone  ZME ScienceRare Tattoo-Related Vision Loss Contracted by Dozens of People After Inkings: 'I Could Hardly See'  People.comDozens of Australians diagnosed with tattoo-related vision loss  Australian Broadcasting Corporation",
+    "published date": "Mon, 23 Feb 2026 14:02:02 GMT",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIRGc1b0JYX0FIUHFhWVJBeUN3ZGllU19vWU1XUFpKQTVsTHB5Skh5MXc2dTI5RXRaVG92aVRUdWVsOWpfZFJ2eDh3RE4xR2VyUkVONkoyWUVTNUo4TU1RZVBhZ2Q2eW9rSDd2cmQ2NA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.zmescience.com",
+      "title": "ZME Science"
+    }
+  },
+  {
     "title": "PIP Update July-December 2025 - World Health Organization (WHO)",
     "description": "PIP Update July-December 2025  World Health Organization (WHO)",
     "published date": "Mon, 23 Feb 2026 11:35:47 GMT",
@@ -547,6 +557,16 @@
     "publisher": {
       "href": "https://www.who.int",
       "title": "World Health Organization (WHO)"
+    }
+  },
+  {
+    "title": "Experts Say This Activity Rebuilds Mitochondria and May Slow Aging - inc.com",
+    "description": "Experts Say This Activity Rebuilds Mitochondria and May Slow Aging  inc.comThe Key to Longevity May Be Found Inside Our Cells  The New York Times",
+    "published date": "Mon, 23 Feb 2026 12:44:02 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWW1aX3V2RGctN0tBYjNIUFZOd0M0VTlXUm9hemRiT012VldYU3NXczh6R0ZBZmRmaXpQOVRDZWV1VjVPcGNrQnpNTFJDaC1hR3l6OFVWMHdDdlZLQ1Q3SjdMbm9NRXl5RkRweHh0MDNTSGxkWEE2V2JSSHAwLXZlQUl1U0ZmT0dFQW5iYjNxUnpxVmdScG5tZ3VoTmZfXzYyUjN3QmdVb2cyVG5f?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.inc.com",
+      "title": "inc.com"
     }
   },
   {
@@ -560,13 +580,13 @@
     }
   },
   {
-    "title": "New study probes why chronic pain lasts longer in women - Japan Today",
-    "description": "New study probes why chronic pain lasts longer in women  Japan TodayView Full Coverage on Google News",
-    "published date": "Sun, 22 Feb 2026 19:38:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb2VyMDNsZTIwb0ZZRC03NXFIUmVMbEdqWktTRTVPWEpuZ0pwWHVsM3RTa21mNk1zTHpEUWhDeTZudjZINElwQnprQTdHZTlETVF0cXQxV1I1OG9DVklpdkQycUxfZFI4d25ycDhnOVE5b1k1d0laZjNBLTJQQWROdS13NU4zT205TVQ0U2xqaS16XzltRkkzSHU1Rm5NS1FzeFhOMTVB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Woman loses four limbs after dog's lick caused life-threatening infection - tyla.com",
+    "description": "Woman loses four limbs after dog's lick caused life-threatening infection  tyla.comSepsis warning after woman's quadruple amputation  BBCWoman Loses 4 Limbs After A Dog's Lick Causes Sepsis: What You Need To Know About The Life-Threatening Condition  NDTVWoman Undergoes Quadruple Amputation After a Lick from Her Dog Leads to Sepsis: 'It Could Happen to Anybody’  People.comWoman loses all her limbs ‘after being licked by a dog’  The Telegraph",
+    "published date": "Mon, 23 Feb 2026 15:20:17 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYXpxX1hKdS1nTVhMN3FrMFE1R0VTb0tNLWpfcS1TYkh5UmZJRm9iQzNIS1czOXAwb09oMGl6cEVsMmVqYkM4M2FfaW8xRnNrX2NOalppTXNOeXRDeG03SjkwMnNuRV9yei11S0xocVlwWDltcWJyZUJ1MzFSRDhiSHZCZjBNWG1IZzY3a2xXYjE1dTZRRTc3cEdGYw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://japantoday.com",
-      "title": "Japan Today"
+      "href": "https://www.tyla.com",
+      "title": "tyla.com"
     }
   },
   {
@@ -580,13 +600,23 @@
     }
   },
   {
-    "title": "Woman loses four limbs after dog's lick caused life-threatening infection - tyla.com",
-    "description": "Woman loses four limbs after dog's lick caused life-threatening infection  tyla.comSepsis warning after woman's quadruple amputation  BBCWoman Loses 4 Limbs After A Dog's Lick Causes Sepsis: What You Need To Know About The Life-Threatening Condition  NDTVWoman Undergoes Quadruple Amputation After a Lick from Her Dog Leads to Sepsis: 'It Could Happen to Anybody’  People.comWoman loses all her limbs ‘after being licked by a dog’  The Telegraph",
-    "published date": "Mon, 23 Feb 2026 15:20:17 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYXpxX1hKdS1nTVhMN3FrMFE1R0VTb0tNLWpfcS1TYkh5UmZJRm9iQzNIS1czOXAwb09oMGl6cEVsMmVqYkM4M2FfaW8xRnNrX2NOalppTXNOeXRDeG03SjkwMnNuRV9yei11S0xocVlwWDltcWJyZUJ1MzFSRDhiSHZCZjBNWG1IZzY3a2xXYjE1dTZRRTc3cEdGYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "New study probes why chronic pain lasts longer in women - Japan Today",
+    "description": "New study probes why chronic pain lasts longer in women  Japan TodayView Full Coverage on Google News",
+    "published date": "Sun, 22 Feb 2026 19:38:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb2VyMDNsZTIwb0ZZRC03NXFIUmVMbEdqWktTRTVPWEpuZ0pwWHVsM3RTa21mNk1zTHpEUWhDeTZudjZINElwQnprQTdHZTlETVF0cXQxV1I1OG9DVklpdkQycUxfZFI4d25ycDhnOVE5b1k1d0laZjNBLTJQQWROdS13NU4zT205TVQ0U2xqaS16XzltRkkzSHU1Rm5NS1FzeFhOMTVB?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.tyla.com",
-      "title": "tyla.com"
+      "href": "https://japantoday.com",
+      "title": "Japan Today"
+    }
+  },
+  {
+    "title": "Meditation And Mindfulness Have a Dark Side We Rarely Talk About - ScienceAlert",
+    "description": "Meditation And Mindfulness Have a Dark Side We Rarely Talk About  ScienceAlert",
+    "published date": "Mon, 23 Feb 2026 22:08:50 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUnlaLU5nOU1TWnhveWdYM191YnVCYndsdjZJb0NFeG9INXM1N3U4Z2dtVmJWVFh4NDBWQm9MR1ZLXzMwekQxclVwMkFkYUNJcHZfOUN0a0w3YlFHY21GdVJvRWpRNEd5VktlUGR3cEEyWlFFZnFZVGtUODhZdkl6eDlXS2d3ZVhjUUpwRExLQldWa3pJMmZ5Sw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.sciencealert.com",
+      "title": "ScienceAlert"
     }
   },
   {
@@ -600,16 +630,6 @@
     }
   },
   {
-    "title": "Rising temperatures in Europe open door to spread of chikungunya virus - Yahoo News Canada",
-    "description": "Rising temperatures in Europe open door to spread of chikungunya virus  Yahoo News CanadaExcruciating tropical disease can now be transmitted in most of Europe, study finds  The GuardianChikungunya: Painful tropical virus could become established in UK as temperatures rise  The Independent",
-    "published date": "Sun, 22 Feb 2026 09:58:05 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbExsOUw4WkVhX1lKbjhfeFg2Yi1MbWNWM19vd29QZXJtUlRVTUJnbEw2S1FXRVNWSkFveFRTUlBLQnpmcGgwOXVudXZyRTVyMmdxdWVybWdzeEFpdjBULTQ0NjhxMjJISmtIR2pZU1lGOEZXTGhYbVAzUUhlY3I4TFlERQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://ca.news.yahoo.com",
-      "title": "Yahoo News Canada"
-    }
-  },
-  {
     "title": "Single vaccine could protect against all coughs, colds and flus, researchers say - AzerNews",
     "description": "Single vaccine could protect against all coughs, colds and flus, researchers say  AzerNewsView Full Coverage on Google News",
     "published date": "Sun, 22 Feb 2026 18:32:00 GMT",
@@ -617,6 +637,16 @@
     "publisher": {
       "href": "https://www.azernews.az",
       "title": "AzerNews"
+    }
+  },
+  {
+    "title": "Rising temperatures in Europe open door to spread of chikungunya virus - Yahoo News Canada",
+    "description": "Rising temperatures in Europe open door to spread of chikungunya virus  Yahoo News CanadaExcruciating tropical disease can now be transmitted in most of Europe, study finds  The GuardianChikungunya: Painful tropical virus could become established in UK as temperatures rise  The Independent",
+    "published date": "Sun, 22 Feb 2026 09:58:05 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbExsOUw4WkVhX1lKbjhfeFg2Yi1MbWNWM19vd29QZXJtUlRVTUJnbEw2S1FXRVNWSkFveFRTUlBLQnpmcGgwOXVudXZyRTVyMmdxdWVybWdzeEFpdjBULTQ0NjhxMjJISmtIR2pZU1lGOEZXTGhYbVAzUUhlY3I4TFlERQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://ca.news.yahoo.com",
+      "title": "Yahoo News Canada"
     }
   },
   {
@@ -630,13 +660,13 @@
     }
   },
   {
-    "title": "17 Surprising Signs of Thyroid Disease Doctors Want You to Know - Prevention",
-    "description": "17 Surprising Signs of Thyroid Disease Doctors Want You to Know  Prevention",
-    "published date": "Sun, 22 Feb 2026 14:31:28 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV1hEd3o5cWl1S19iUGlrQ1J5dlpOc2tpRDFNQkdZNHdmbm9aZ3JMSF9JMThnazczV0dPMFJ4RjBOWFpJbVVTZ3Y0WDVCdDVJdzJxS1RQTFVmUHRuQnRaZWlCSXRRWFpoZ29GeEczQ2lQa0VpYVAzcmZwM0hHcjVWVnhMX01BM0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Scientists discover reason high altitude protects against diabetes: Study - Tribune India",
+    "description": "Scientists discover reason high altitude protects against diabetes: Study  Tribune IndiaScientists discover why high altitude protects against diabetes  ScienceDaily",
+    "published date": "Mon, 23 Feb 2026 01:40:23 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWklXUHZibEZZVk5vbGtmMW9LV243czNucEdFRzhqU2FGMUpJVDljT0ZDQk4zVU9lVlNtZ1ljSFkxYmtaTkg1Q05VQUxmaC1rS25Qd09mcmtnMmh2OTVxUm5uWTBtcVNRV1J4QU83ZGFFSVUtUjFLZkhCQldQTjZ1Z1VlRTJDeElsTmdSWHQxcVFDelgxVlNvZTBWTldHV0I0YW5LZU9uWHhLSk1OQmxRempOQWfSAbgBQVVfeXFMTnBCdm5lWGFaSUNKWk5fQVIyRE1MREswVGlKNjU0MEZ1RGFGbFR3SjNVaFFmSk5FVnQ0Nk9ZZnFOZXIxdHRoTWc0T1RGeE02bkMyLU1NcUNuM2hrU3J2U3NvaDFWbEduWVc0OFl2LWhvZUo1bExiaFU3cjFTcmw3cTViSTBHRkRmdE5Ta1NNblNMM1NsNGc1R3NYR2JRbE96SU1XWko1Q0w1bzVOSXl4a054QnJUZGY5Sw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.prevention.com",
-      "title": "Prevention"
+      "href": "https://www.tribuneindia.com",
+      "title": "Tribune India"
     }
   },
   {
@@ -650,13 +680,13 @@
     }
   },
   {
-    "title": "Scientists discover reason high altitude protects against diabetes: Study - Tribune India",
-    "description": "Scientists discover reason high altitude protects against diabetes: Study  Tribune IndiaScientists discover why high altitude protects against diabetes  ScienceDaily",
-    "published date": "Mon, 23 Feb 2026 01:40:23 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWklXUHZibEZZVk5vbGtmMW9LV243czNucEdFRzhqU2FGMUpJVDljT0ZDQk4zVU9lVlNtZ1ljSFkxYmtaTkg1Q05VQUxmaC1rS25Qd09mcmtnMmh2OTVxUm5uWTBtcVNRV1J4QU83ZGFFSVUtUjFLZkhCQldQTjZ1Z1VlRTJDeElsTmdSWHQxcVFDelgxVlNvZTBWTldHV0I0YW5LZU9uWHhLSk1OQmxRempOQWfSAbgBQVVfeXFMTnBCdm5lWGFaSUNKWk5fQVIyRE1MREswVGlKNjU0MEZ1RGFGbFR3SjNVaFFmSk5FVnQ0Nk9ZZnFOZXIxdHRoTWc0T1RGeE02bkMyLU1NcUNuM2hrU3J2U3NvaDFWbEduWVc0OFl2LWhvZUo1bExiaFU3cjFTcmw3cTViSTBHRkRmdE5Ta1NNblNMM1NsNGc1R3NYR2JRbE96SU1XWko1Q0w1bzVOSXl4a054QnJUZGY5Sw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "17 Surprising Signs of Thyroid Disease Doctors Want You to Know - Prevention",
+    "description": "17 Surprising Signs of Thyroid Disease Doctors Want You to Know  Prevention",
+    "published date": "Sun, 22 Feb 2026 14:31:28 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV1hEd3o5cWl1S19iUGlrQ1J5dlpOc2tpRDFNQkdZNHdmbm9aZ3JMSF9JMThnazczV0dPMFJ4RjBOWFpJbVVTZ3Y0WDVCdDVJdzJxS1RQTFVmUHRuQnRaZWlCSXRRWFpoZ29GeEczQ2lQa0VpYVAzcmZwM0hHcjVWVnhMX01BM0E?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.tribuneindia.com",
-      "title": "Tribune India"
+      "href": "https://www.prevention.com",
+      "title": "Prevention"
     }
   },
   {
@@ -667,36 +697,6 @@
     "publisher": {
       "href": "https://neurosciencenews.com",
       "title": "Neuroscience News"
-    }
-  },
-  {
-    "title": "When You Eat Dinner Could Make a Bigger Difference for Your Heart Than You Think, New Study Says - Real Simple",
-    "description": "When You Eat Dinner Could Make a Bigger Difference for Your Heart Than You Think, New Study Says  Real SimpleScientists Say to Stop Eating After This Time to Boost Heart Health  PreventionNew research shows circadian-aligned fasting can benefit heart health.  Psychology Today",
-    "published date": "Sun, 22 Feb 2026 11:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZzdhQUVaZUpKY3g1LWgtZWRFRlEwZkdKeExLVTlXTVIyeld3M1IzRWxaSDZ5T196ekVlaHlvVExCaHR6TjB4V2pDTlByMkNXS3U3QWNCdHZXa3VNMFRlUWp2cXV4djBsSmZqY3dJYkFCMjZGVDFuOG5aWkZyREVJSA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.realsimple.com",
-      "title": "Real Simple"
-    }
-  },
-  {
-    "title": "Supporting neurodiverse educators and learners: why inclusion must start with the workforce - Education International",
-    "description": "Supporting neurodiverse educators and learners: why inclusion must start with the workforce  Education InternationalEditor’s Note: Small strategies, big difference  Safety+Health MagazineNeurodiversity in the workplace  Safety+Health Magazine",
-    "published date": "Mon, 23 Feb 2026 14:53:50 GMT",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaWRMMUwweDFxNWxmUnNGZHJTSVB1ajZka3lLV01CV1F6ZDZHQWN2WHlrOWR6TDVQNnN0SGpEUXJZYnJCRmpXUHhrX2hqRzBDdEtmOFJId1phSmFoYzl3bnVUdXpfVHNmeTNaYlZHTkI2UnY0clV5dHppT3o4ZTRDa0FUcXd6X09yNFhKZ0JRWUIzWGgtLTIzYllSSXJCLUd3aXRiSXY5RFQySzFpbG5oNnRHc3FNcV9jQUhYNTJPS1YzLVJl?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ei-ie.org",
-      "title": "Education International"
-    }
-  },
-  {
-    "title": "Kennedy’s attacks on HPV vaccines could cause cancer to rise - Salon.com",
-    "description": "Kennedy’s attacks on HPV vaccines could cause cancer to rise  Salon.com",
-    "published date": "Sun, 22 Feb 2026 11:30:33 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYjFoSmpTNTB1V1lHNW5nN3lpWGpIaWJGdFZFcUdRUzNBYi1BZUNjNmhnWjVPdWp4c3VhcEVyZTdqVnVUR2pyeWFJOHdWOFB4cFVDOVlhNXUxZmEzS2pvTjhIUnhpazdWaG9US2dKc09KV1ZCSmhIM1UzaW11X0poZ2d0b1ptTDRwQXRDNGdRc0ozbUZmTTFFXw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.salon.com",
-      "title": "Salon.com"
     }
   }
 ]
