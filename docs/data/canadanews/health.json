@@ -1,15 +1,5 @@
 [
   {
-    "title": "Here are the best diets to ward off cognitive decline - The Globe and Mail",
-    "description": "Here are the best diets to ward off cognitive decline  The Globe and Mail",
-    "published date": "Mon, 09 Mar 2026 10:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaGFWQXVVMFJKUUxwSFJzd3Q4RDNsb0Iwa1dlcHVZdkJvVzl2YUQyOFJ5aDkwSllndmxGdTRJMnJWRXBiVkNNelFhSkEybTFaYTR4OWI0M0JGdVVBQ0FZYXlzYmtXblVIdVRoOXFjOWtQZ0haOEk1YUJQeWRQWEI2bHctVzVuNHRLVnI4ODkyYWItenJMemUyTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theglobeandmail.com",
-      "title": "The Globe and Mail"
-    }
-  },
-  {
     "title": "Doubling of new prescriptions for ADHD medications among adults since start of COVID-19 pandemic, shows research at St. Michael’s - Unity Health Toronto",
     "description": "Doubling of new prescriptions for ADHD medications among adults since start of COVID-19 pandemic, shows research at St. Michael’s  Unity Health TorontoPatterns of prescription stimulant initiation before and during the COVID-19 pandemic: a population-based time-series analysis  CMAJNumber of Ontarians taking stimulants more than doubled after pandemic, study finds  The Globe and MailADHD prescriptions for Ontario adults doubled since pandemic, study shows  Yahoo News Canada",
     "published date": "Mon, 09 Mar 2026 18:44:39 GMT",
@@ -21,12 +11,22 @@
   },
   {
     "title": "First cases of new mpox variant detected in Toronto and Ontario - CP24",
-    "description": "First cases of new mpox variant detected in Toronto and Ontario  CP24View Full Coverage on Google News",
+    "description": "First cases of new mpox variant detected in Toronto and Ontario  CP24Toronto Public Health confirms Ontario’s first cases of another mpox variant  Toronto StarToronto Public Health confirms Ontario's first cases of another mpox variant  SooToday.comOntario’s 1st cases of another mpox variant reported in Toronto  Global NewsA new mpox variant has been detected in Toronto. Here is what you need to know  CTV News",
     "published date": "Tue, 10 Mar 2026 18:21:15 GMT",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaHhSdk9YMUx2VWtDYTdNOXZDZzFZVll4ZUZjZVJPdG9NRTF1Ri1mcWljMEc4aTNhZ3NxemFiY3NZRmEtSDlGdFdnZWZHVEtjMHlKMEd5YWZLMmIydHZsMVp4UlFsTW4xc2EwTFNHZldoWVdDUzA1dWxMNmQ1QVJrbG5rZmIta3BMME81Q2hhUmZKYzFDOU80TmtETFBfN1BSeFZubWQ1RE83ZEQ2QldV?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.cp24.com",
       "title": "CP24"
+    }
+  },
+  {
+    "title": "The hidden cost of dismissal: How we amplify chronic pain in clinical settings - Healthy Debate",
+    "description": "The hidden cost of dismissal: How we amplify chronic pain in clinical settings  Healthy Debate",
+    "published date": "Tue, 10 Mar 2026 22:04:56 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVHdpbGhIVVJRTllBZHZxZWZEclpWU1RjaVltRWhPdDdsRWpPazdYX2RDandZdXA5NFRaZVhrUEZKRU9xVlJ0SklueHQ4MG52Z1BmT0J2elRlV2I5Rjh4WGtLUEdrdGtsbmlRbUVzc0ttLVVieVhyQlZMbHpFLW13SG9mdTI?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://healthydebate.ca",
+      "title": "Healthy Debate"
     }
   },
   {
@@ -70,6 +70,16 @@
     }
   },
   {
+    "title": "Nearly 200 measles cases hit Manitoba in February alone - PortageOnline",
+    "description": "Nearly 200 measles cases hit Manitoba in February alone  PortageOnlineBabies exposed to measles getting preventive treatment every week in Manitoba  CBCManitoba’s monthly measles number reaches three digits for the first time  CTV NewsDr. Singh reports most measles hospitalizations involve children not immunized  PembinaValleyOnlineAs measles outbreak continues, Manitoba babies getting preventative treatment  Yahoo News Canada",
+    "published date": "Tue, 10 Mar 2026 20:52:07 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQU9IZjR6TDUwOU9FcmhpR1dkTXlvdU1NS2RvVTJUc1h6M3dCVktCemtZMzlqbzlNcmZyYjRyN3NqdDFIaTBrM1N5bXN6alBEZEhSV01FVWRUQWZMeTRRT3BpMFB3alV6OHpEM1E0am5jTGVJaDIwUEdtUlhOODBudllXRUZ0OVdjRzhGMjBpdE5ZSmFk?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://portageonline.com",
+      "title": "PortageOnline"
+    }
+  },
+  {
     "title": "Age-Related Macular Degeneration Risk Higher For Patients With Malabsorption Syndromes - Ophthalmology Advisor",
     "description": "Age-Related Macular Degeneration Risk Higher For Patients With Malabsorption Syndromes  Ophthalmology Advisor",
     "published date": "Tue, 10 Mar 2026 04:00:00 GMT",
@@ -77,26 +87,6 @@
     "publisher": {
       "href": "https://www.ophthalmologyadvisor.com",
       "title": "Ophthalmology Advisor"
-    }
-  },
-  {
-    "title": "Dr. Singh reports most measles hospitalizations involve children not immunized - DiscoverWestman",
-    "description": "Dr. Singh reports most measles hospitalizations involve children not immunized  DiscoverWestmanView Full Coverage on Google News",
-    "published date": "Tue, 10 Mar 2026 10:09:54 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVUl1VzBpSjIyUW1uS0ZkUVpGQUhXTzZxQ2M3MlBBSV9iSUpEajRWUUdOSTZEdk1JMTBQd3NERlhkWm9xTUtLN2dtZ3dzbWRyeTF3S3FRM2kwSWFoSlBXRkNCbkxzdUd3allRSXdzSVkzd3B4aHF1NktPVkxyd3N2QnR4b2JGWFNmbFYxcHoxUWFjbGVLSG1lSEFDaTJuSGwyRnNZaVBYNlBIWHZfMHg4Z2s0UWI?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://discoverwestman.com",
-      "title": "DiscoverWestman"
-    }
-  },
-  {
-    "title": "Increasing the pathology workforce is critical for timely and comprehensive cancer care - CMAJ",
-    "description": "Increasing the pathology workforce is critical for timely and comprehensive cancer care  CMAJ",
-    "published date": "Mon, 09 Mar 2026 04:23:57 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MUG1jdk9HUGpGTjdvXzdSYlh5NWhiT3lzNDF5RU94WVZfVnUwRTFSdFIyREtRMExxWndEQUFkUG1fcDltd0pLRVloNzBEYU0?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cmaj.ca",
-      "title": "CMAJ"
     }
   },
   {
@@ -120,23 +110,33 @@
     }
   },
   {
-    "title": "Exercise recommended as part of treatment for colon cancer - University of Alberta",
-    "description": "Exercise recommended as part of treatment for colon cancer  University of AlbertaWalking and Gardening Offer Benefits for Cancer Patients  Cancer Health",
-    "published date": "Tue, 10 Mar 2026 06:53:38 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWEkxbXg1amQ4cnJsdEpraXlsSVBXLV8xVzQyYTlzZ3lYVklVbHdRZkFxcjRaX0VOOC0wWjN1T0hCQmdoeTYtb2NWaWFMMHI1MVFvanpWN1VYRTVidkRHV1ZZMFpEcXhRMHhWM2NUZjM0N2NOb1kzdE5LVlN1X1VWXzdRRDhvblZTNkJ6b1ZvWjMxZ0s3T0t3emRiU1Npa3R5OG5obmQ5dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Woman has entire stomach removed after overseas weight loss surgery - ThePost.co.nz",
+    "description": "Woman has entire stomach removed after overseas weight loss surgery  ThePost.co.nz",
+    "published date": "Mon, 09 Mar 2026 22:08:37 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTkdBN1dOSjFpMzRhaUpNa1FVcUF2OENvbFBQRWZyV1A1RnNxcl9IRll2N0lxOEVNSlRFdFd2bE5fanhJak9fZGlydmhxMkJ1Vy1Ob0R2R1duLUR2MVhSUFZNRU0zUEQzZVQyWFRJY3BESFI3ZzBTdVplaEVqY2tGVmNYaUk0NlJPSmh1cWJpX3dxaDJRRFF3VDVoQUQ3RFFibWQ4TDlDNmtPd2dfSUptMg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.ualberta.ca",
-      "title": "University of Alberta"
+      "href": "https://www.thepost.co.nz",
+      "title": "ThePost.co.nz"
     }
   },
   {
-    "title": "Sync to the beat and stutter less - Université de Montréal",
-    "description": "Sync to the beat and stutter less  Université de Montréal",
-    "published date": "Mon, 09 Mar 2026 22:15:47 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOUdUQ0VhTTdsbEljdEdmUjNOdXV6V25HQUZRMjZnSHpxaDZiWFJISHhUNE1yVVZCWXNIMEZXNU1RS0RpZjI4UU5MZ09kVHBoekpBeFhnc2FkaFVvT1B0VTQ5MkRWeGJRYkFtQkoxdlcyZHlHV25uUEIzUExlSjVLcjNOZDVlcV92dVRyX0VrSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Increasing the pathology workforce is critical for timely and comprehensive cancer care - CMAJ",
+    "description": "Increasing the pathology workforce is critical for timely and comprehensive cancer care  CMAJ",
+    "published date": "Mon, 09 Mar 2026 04:23:57 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MUG1jdk9HUGpGTjdvXzdSYlh5NWhiT3lzNDF5RU94WVZfVnUwRTFSdFIyREtRMExxWndEQUFkUG1fcDltd0pLRVloNzBEYU0?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://nouvelles.umontreal.ca",
-      "title": "Université de Montréal"
+      "href": "https://www.cmaj.ca",
+      "title": "CMAJ"
+    }
+  },
+  {
+    "title": "This Women’s Health Research Month, let’s talk about menopause - The Montrealer",
+    "description": "This Women’s Health Research Month, let’s talk about menopause  The MontrealerThis 1 Condition Is Impacting More Women In Their Early 30s And 40s, Here's What You Need To Know  BuzzFeedMidlife isn’t a breakdown — so why are so many women still unprepared?  Calgary Herald",
+    "published date": "Tue, 10 Mar 2026 09:01:26 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVEQwLWVFV0VUSkZYOUtzN3JObTQ1T1dyUkFTd0Zvc0h1T3ZZUFJpRkQ2NEpGNHg3YkI4cnEwNWFjX2gxeC1TY1MxUXlTdkJLMEdlVUZvbjlGVUxadHlId0xOY19TbmNmWEtfQmdsTmlRVFl3YXMwdWN2S1A2ZHFEVWdBMllCaGd2Y2ZnR0hRZjBnT3NtNDU3a29KSTNGN2ZFRUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://themontrealeronline.com",
+      "title": "The Montrealer"
     }
   },
   {
@@ -150,13 +150,13 @@
     }
   },
   {
-    "title": "Surgery robot 'game-changing' for cancer patients - Yahoo News Canada",
-    "description": "Surgery robot 'game-changing' for cancer patients  Yahoo News Canada",
-    "published date": "Tue, 10 Mar 2026 06:28:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbHdGUHJUME5JYVZKSW5tZkNRRmVLY190cHdlOGZmLVBLSXJYaE5tcEhXS2ZuT19hTzJzTWZBQllvS2hMenhmUk1Gd1RuY1d6RXZneUxJRDRZVXMxWkViaENZRnYxZUlzM0xxaHBSQjB1WkxoajdqZTZJb0d1OG1ZTw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Sync to the beat and stutter less - Université de Montréal",
+    "description": "Sync to the beat and stutter less  Université de Montréal",
+    "published date": "Mon, 09 Mar 2026 22:15:47 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOUdUQ0VhTTdsbEljdEdmUjNOdXV6V25HQUZRMjZnSHpxaDZiWFJISHhUNE1yVVZCWXNIMEZXNU1RS0RpZjI4UU5MZ09kVHBoekpBeFhnc2FkaFVvT1B0VTQ5MkRWeGJRYkFtQkoxdlcyZHlHV25uUEIzUExlSjVLcjNOZDVlcV92dVRyX0VrSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://ca.news.yahoo.com",
-      "title": "Yahoo News Canada"
+      "href": "https://nouvelles.umontreal.ca",
+      "title": "Université de Montréal"
     }
   },
   {
@@ -170,13 +170,23 @@
     }
   },
   {
-    "title": "Alternative breast cancer treatment tied to about four times higher mortality, nationwide analysis finds - Medical Xpress",
-    "description": "Alternative breast cancer treatment tied to about four times higher mortality, nationwide analysis finds  Medical XpressControversial breast cancer treatment increases your risk of dying by 400%  New York Post",
-    "published date": "Mon, 09 Mar 2026 16:20:06 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZEJaZ3gzUEZWa0tKZGxxTTZobk5OdmlKUmcwZHdfQTA3ZW9fdzJMOTUzRDlSZWNvZXdwNDJKd3EzR2NxOXRmSm5qRUtlVnBHWVBDa1pYLTZUNjAzVXVaRVNLV3ZPQ3ctWWhOUkRpd2ZPcF9Ja216UDhvMlRUZ1NXLUc3NEdfTGRFRkxybWRndw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Surgery robot 'game-changing' for cancer patients - Yahoo News Canada",
+    "description": "Surgery robot 'game-changing' for cancer patients  Yahoo News Canada",
+    "published date": "Tue, 10 Mar 2026 06:28:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbHdGUHJUME5JYVZKSW5tZkNRRmVLY190cHdlOGZmLVBLSXJYaE5tcEhXS2ZuT19hTzJzTWZBQllvS2hMenhmUk1Gd1RuY1d6RXZneUxJRDRZVXMxWkViaENZRnYxZUlzM0xxaHBSQjB1WkxoajdqZTZJb0d1OG1ZTw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://medicalxpress.com",
-      "title": "Medical Xpress"
+      "href": "https://ca.news.yahoo.com",
+      "title": "Yahoo News Canada"
+    }
+  },
+  {
+    "title": "Exercise recommended as part of treatment for colon cancer - University of Alberta",
+    "description": "Exercise recommended as part of treatment for colon cancer  University of AlbertaWalking and Gardening Offer Benefits for Cancer Patients  Cancer Health",
+    "published date": "Tue, 10 Mar 2026 06:53:38 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWEkxbXg1amQ4cnJsdEpraXlsSVBXLV8xVzQyYTlzZ3lYVklVbHdRZkFxcjRaX0VOOC0wWjN1T0hCQmdoeTYtb2NWaWFMMHI1MVFvanpWN1VYRTVidkRHV1ZZMFpEcXhRMHhWM2NUZjM0N2NOb1kzdE5LVlN1X1VWXzdRRDhvblZTNkJ6b1ZvWjMxZ0s3T0t3emRiU1Npa3R5OG5obmQ5dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ualberta.ca",
+      "title": "University of Alberta"
     }
   },
   {
@@ -210,26 +220,6 @@
     }
   },
   {
-    "title": "Dietitians Say These Surprising Foods May Improve Sleep - Prevention",
-    "description": "Dietitians Say These Surprising Foods May Improve Sleep  PreventionHere’s what to eat to sleep a little better every day  The Washington PostCan snacks help you sleep?  BBCPeople who eat a lot of fibre spend more time in deep sleep  New Scientist",
-    "published date": "Tue, 10 Mar 2026 12:53:11 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVFhBQVZTWkNBUmdzd0ViNmh2WEhheGhDUm5WUWdzUWgyVUl6My1hX1RidHRfN1h4blhXc2pDWkN1eVBsem94amlDOEdhajUyX0VENUt3NzQ1ZXJhQkN4NVI3Uzh1TXBFZjNWV0x2QnZ5cTd3elpNTHdZR3RpVHZNY0RWYXRuQ0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.prevention.com",
-      "title": "Prevention"
-    }
-  },
-  {
-    "title": "Kim Kardashian’s new caffeine-free energy drink relies on paraxanthine – here’s what the science says - The Conversation",
-    "description": "Kim Kardashian’s new caffeine-free energy drink relies on paraxanthine – here’s what the science says  The Conversation",
-    "published date": "Tue, 10 Mar 2026 10:14:47 GMT",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPelJPcUhWak1MS0tDYWtETnJjNlppQVRTNVVHRmFvSi13RHdnZXkteDBQcWRTaE1Ub1NfN1JmTlRGUGQ4R1lSd18wZjZzOVpITHE5blEzQzQwRlVUUGN0eG1DQjBCS0dOWGhuRlVlNy1VRUJaOHc4RkJfcUFOSWZTQWppZ21sbF9qa01PREZ0XzRvWTBwZENlOXFXWUVmZTg3OWJJa2lmWGJfcHpvcGVFdmwwMFNVa0pVb0d1Z0RCUEFadWNyWGRDNXVsNFI?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://theconversation.com",
-      "title": "The Conversation"
-    }
-  },
-  {
     "title": "Ultra-processed foods may be linked to behavioural issues in kids: study - Global News",
     "description": "Ultra-processed foods may be linked to behavioural issues in kids: study  Global NewsUltraprocessed foods may play a role in children’s behavioural development, Canadian study suggests  The Globe and MailUltra-processed foods in preschool years linked to behavioural issues  National Post",
     "published date": "Tue, 10 Mar 2026 19:15:04 GMT",
@@ -237,6 +227,16 @@
     "publisher": {
       "href": "https://globalnews.ca",
       "title": "Global News"
+    }
+  },
+  {
+    "title": "Dietitians Say These Surprising Foods May Improve Sleep - Prevention",
+    "description": "Dietitians Say These Surprising Foods May Improve Sleep  PreventionHere’s what to eat to sleep a little better every day  The Washington PostCan snacks help you sleep?  BBCPeople who eat a lot of fibre spend more time in deep sleep  New Scientist",
+    "published date": "Tue, 10 Mar 2026 12:53:11 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVFhBQVZTWkNBUmdzd0ViNmh2WEhheGhDUm5WUWdzUWgyVUl6My1hX1RidHRfN1h4blhXc2pDWkN1eVBsem94amlDOEdhajUyX0VENUt3NzQ1ZXJhQkN4NVI3Uzh1TXBFZjNWV0x2QnZ5cTd3elpNTHdZR3RpVHZNY0RWYXRuQ0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.prevention.com",
+      "title": "Prevention"
     }
   },
   {
@@ -250,33 +250,23 @@
     }
   },
   {
-    "title": "A New Standard of Care - Imaging Technology News",
-    "description": "A New Standard of Care  Imaging Technology News",
-    "published date": "Mon, 09 Mar 2026 14:55:26 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41TXBvLVEzaElmd1laNGRMd0lWRUtjNXNiR3JkbDQ4VlU2NWNwMmt6NEpQcGhaYS1zMnFkTGJSRkZVRWFkdzF3TVp3cmZnb1RMZ01neU0wakZ6R1dmd0tCZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.itnonline.com",
-      "title": "Imaging Technology News"
-    }
-  },
-  {
-    "title": "Two deaths reported to drug watchdog over potential link to weight-loss jabs - Yahoo News Canada",
-    "description": "Two deaths reported to drug watchdog over potential link to weight-loss jabs  Yahoo News Canada",
-    "published date": "Mon, 09 Mar 2026 00:03:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Vd01RT0M4bFNNN0tHai1SZ08yS3BnYjFDWGtCS0oxcGV0ekxaUkRmMVY2QlpHMGtXQ3FEM0NEQjZseHF2czZKeVQxc1duOGMxem9ZTmVYS053VXdUQnNkQkp1NTJVUklwZ3FvbzQzckVPbFNlRjd6bFZrSFluTzQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://ca.news.yahoo.com",
-      "title": "Yahoo News Canada"
-    }
-  },
-  {
     "title": "Experts discover new possible cause of colon cancer as rates in young people surge - UNILAD",
     "description": "Experts discover new possible cause of colon cancer as rates in young people surge  UNILADResearchers may have found new cause of colon cancer as cases rise in young people  LADbible",
-    "published date": "Tue, 10 Mar 2026 13:00:02 GMT",
+    "published date": "Tue, 10 Mar 2026 15:24:25 GMT",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONkRaVWhBZGZrUXVna2pzSE9USDdrVjYxUnhERXFGMzBvblgwV1V4S1QzNFJmTlhjcmdKYVMyYTRUMUIyeVRtcVdlTkl3V0otVndUQ0tFeFU1cXA0bXlubG14NjJkcDlzSHY4bmZpd3RXWmNqWmdoZG11ejZRdERvdkREUmE4UGZw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.unilad.com",
       "title": "UNILAD"
+    }
+  },
+  {
+    "title": "Deaths of two people potentially linked to weight-loss jabs reported to government agency - UNILAD Tech",
+    "description": "Deaths of two people potentially linked to weight-loss jabs reported to government agency  UNILAD TechTwo deaths reported to drug watchdog over potential link to weight-loss jabs  BBC",
+    "published date": "Mon, 09 Mar 2026 10:34:31 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNTVpYTJiQndURzFxb0lJQXh6NFF6RmVWSV9uWTBjclc0VHkwRjRHOENMUXVWcjFaNUlNZGhrTGZFWHNPUUFuWHdnNkk2Qjg3OWY5YS15d2hsTlVpTERLVk9NaVFIdjVJMmlJT3VDLXhFVDhxMkRhOUUwdVZNOFFnZUVSa2NNRUZJdnJ2SzhXcEtCMVNhVkZKXzBxb00wTUtTNUk4YUpFVndzUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.uniladtech.com",
+      "title": "UNILAD Tech"
     }
   },
   {
@@ -290,16 +280,6 @@
     }
   },
   {
-    "title": "Treating Young Patients With Colorectal Cancer: Talking With a Surgeon - CancerNetwork",
-    "description": "Treating Young Patients With Colorectal Cancer: Talking With a Surgeon  CancerNetworkGuest column | Reasons you should get a colonoscopy earlier than recommended  The Washington Post2 'Big' Colorectal Cancer Symptoms a Doctor Monitors in Himself and the 'Scary' Mistake Patients Make  TODAY.comNearly Half of Colorectal Cancers Now Occur in Younger Patients, Study Shows  The New York TimesA new report reveals that a third of colon cancer cases now occur in the rectum. Take these steps to protect yourself at any age.  Business Insider",
-    "published date": "Mon, 09 Mar 2026 20:10:05 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOXhrTlMtOUN4S210M3YyeXJvNzdzS2xjLTJSNXFJNzg0eENjMFRTVWNzM1FlWk5ORjZ5bTBfZFp2NHFkRWVNbFNnUzI5T1pYaDdFS3k0aWZqS240Z1ZsQjlhZ2JUd1ZaYl9xZXJVSmJNTy1xWTdtYzlmU2ZwRFNrcHNJU1p3QU5URVEwdkRvS1lYOFBXRG9UN21qY0VMd2kwb1loTThvWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cancernetwork.com",
-      "title": "CancerNetwork"
-    }
-  },
-  {
     "title": "GLP-1 Receptor Agonist Use Linked to Reduced Risks for Substance Use Disorder - Psychiatry Advisor",
     "description": "GLP-1 Receptor Agonist Use Linked to Reduced Risks for Substance Use Disorder  Psychiatry AdvisorGLP-1s have transformed weight loss and diabetes. Is addiction next?  NPRGLP-1 drugs may fight addiction across every major substance, according to a study of 600,000 people  The ConversationWhat to know about how GLP-1 medications such as Ozempic and Mounjaro might fight addiction  Toronto StarCould popular weight loss drugs become the new treatment for addiction? Evidence is starting to mount  CTV News",
     "published date": "Tue, 10 Mar 2026 04:00:00 GMT",
@@ -307,16 +287,6 @@
     "publisher": {
       "href": "https://www.psychiatryadvisor.com",
       "title": "Psychiatry Advisor"
-    }
-  },
-  {
-    "title": "Strength training may be the key to healthy aging - Medical Xpress",
-    "description": "Strength training may be the key to healthy aging  Medical XpressWhy explosive, off-the-bike exercise slows ageing after 40 – plus 5 workouts to build a stronger body  BikeRadarOpinion | The one type of exercise more adults should be doing  The Spec",
-    "published date": "Sun, 08 Mar 2026 21:30:02 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA5MHEzZERPdHFGeUd5TGlqSy1wckFGVXVpeGFVQ19sWHJyQmhtTGs2c2VUdjkwWExLWVBLamx2Q3RsSHFJS3Y5a2ZVM2s0QWxfNkxSMHpBaGNLcVVjVUttTXEtM2xVaDhIc0NUSjZwMHV2WTRteHhIOUxn?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://medicalxpress.com",
-      "title": "Medical Xpress"
     }
   },
   {
@@ -330,13 +300,13 @@
     }
   },
   {
-    "title": "Mum's warning after RSV left son with brain damage - Yahoo News Canada",
-    "description": "Mum's warning after RSV left son with brain damage  Yahoo News Canada",
-    "published date": "Mon, 09 Mar 2026 06:20:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YRkNXLTkyOXp2RndsaS1lbWF2eXREemhMZkVOem5DV2UteGhHLUxENVJDNDFqSGQzdDhXMlhaLXlBcHZ1VjNsaE5pcjRvTTdhQlhZT2w1R2R2NnZMN0pmMFN2WUZ6czhwYU1VaHdIZTk1SjE2?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Colon cancer awareness: How screening saves lives - 607 News Now",
+    "description": "Colon cancer awareness: How screening saves lives  607 News NowGuest column | Reasons you should get a colonoscopy earlier than recommended  The Washington Post2 'Big' Colorectal Cancer Symptoms a Doctor Monitors in Himself and the 'Scary' Mistake Patients Make  TODAY.comNearly Half of Colorectal Cancers Now Occur in Younger Patients, Study Shows  The New York TimesA new report reveals that a third of colon cancer cases now occur in the rectum. Take these steps to protect yourself at any age.  Business Insider",
+    "published date": "Mon, 09 Mar 2026 16:08:04 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQa01oWjJjd0NTV2doMWZHU1VqaW5vM2ROeC1MbUt6Z1JtSXppV3gtYm9Ic2Y3NENDcEc3TGtzc3J4NGZ2bm1KSXV5ZDJIVHpDT3pKNE5zMm1sSkx6cFZ4bEVDQWVtRWFoNTMxOGVwUTg4VndKdkFKak5BaVF6SklnMTFmOW1zWkZjNDFtQg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://ca.news.yahoo.com",
-      "title": "Yahoo News Canada"
+      "href": "https://607newsnow.com",
+      "title": "607 News Now"
     }
   },
   {
