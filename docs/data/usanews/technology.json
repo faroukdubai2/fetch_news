@@ -1,57 +1,47 @@
 [
   {
-    "title": "Google rolling out Play Games Sidekick and Game Trials - 9to5Google",
-    "description": "Google rolling out Play Games Sidekick and Game Trials  9to5GoogleNew ways to try, buy and master paid games with Google Play  blog.googleGoogle Play Games for PC is getting more premium titles and cross-buy with Android  Ars TechnicaGoogle Play is bringing a beloved PC gaming feature to your phone, and it is awesome  PhoneArenaGoogle Play is adding new paid and PC games, game trials, community posts, and more  TechCrunch",
-    "published date": "Thu, 12 Mar 2026 00:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XeVhleVJOOVpqZjRaeFptTGx3Q25IT2J1Yjg1c3J2WmIwYk9QUE5fR1V4QXFqaDJ1aUpGVy1vdXJtLUtTNXU1Vy1IbTJZYjB3SlBZV0xMMk43S2ZEaXRWUXhqRnh6X0dTT0JvX053?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://9to5google.com",
-      "title": "9to5Google"
-    }
-  },
-  {
-    "title": "Intel shores up its desktop CPU lineup with boosted Core Ultra 200S Plus chips - Ars Technica",
-    "description": "Intel shores up its desktop CPU lineup with boosted Core Ultra 200S Plus chips  Ars Technica'Arrow Lake,' Second Take: Intel’s Core Ultra 200S Plus Desktop CPUs Push Value—and Gaming Performance  PCMagIntel announces Core Ultra 270K Plus and 250K Plus, its ‘fastest gaming desktop processors ever’  The VergeIntel announces Arrow Lake Refresh CPUs, claims 15% higher gaming performance and multi-threaded boost — Core Ultra 7 270K and Core Ultra 5 250K come with more cores, faster memory, and a price cut  Tom's HardwareIntel finds its Zen undercutting AMD with Arrow Lake refresh  theregister.com",
-    "published date": "Wed, 11 Mar 2026 17:21:25 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVHdYa3RvUndkQXFpS1JDWWJ1eFV6YmZmTEJ5cEZJNlpIYlQ5cklXSTZmT211WmtuaDlkSzhYc0Y3dmduMndHTnlWMUp6dWxBVlZfX1ljelhURm90RWt4bHpsY1ZJMHBEWEpVX0VaSmkwNU4tbjNRbnVHYzlYYVpEQkczOV9sT2hpdkZINEltQWVqWTBRd3FIZ3YtME9KOFJXblBkZ2wySEFmMUdrOXZhQWhobzZvWmRaTkdn?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://arstechnica.com",
-      "title": "Ars Technica"
-    }
-  },
-  {
-    "title": "MacBook Neo, iPhone 17e, iPad Air with M4, and more are now available - Apple",
-    "description": "MacBook Neo, iPhone 17e, iPad Air with M4, and more are now available  AppleMacBook Neo  AppleAsus Co-CEO: MacBook Neo Is a 'Shock' to the PC Industry  PCMagApple’s $599 MacBook Neo is the laptop I’m telling my dad to get  CNNApple Released Seven New Products Today  MacRumors",
-    "published date": "Wed, 11 Mar 2026 13:01:08 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd3hHZEVQT0ZrMTFwcmlqOTluc2ZodHkyOTBhbGw2N0c5XzR3OEZpWm90VjRkVHBLbkxKd1JqLWNaSGVkX3V1ZFMxR0lPMmZZT0tYdmNWWjVLcGhBbDdBUU5Md0xLbEtFZVo2amlRazkybHA5S3lPWFgwd3JLRlFHR3IySUQ0RmtBb1pZYmhLUW9QWV9saXVuSGgzNGR6clF3ZXNmZkdYT1VEUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.apple.com",
-      "title": "Apple"
-    }
-  },
-  {
-    "title": "macOS 26.4: Four new features are coming to your Mac - 9to5Mac",
-    "description": "macOS 26.4: Four new features are coming to your Mac  9to5MaciOS 26.4 adds new emoji to your iPhone, here’s what’s coming  9to5Mac8 new emojis are coming to Apple products with iOS 26.4. Take a look.  USA TodayEverything New in iOS 26.4 Beta 4  MacRumorsApple Just Transformed the CarPlay Experience in iOS 26.4 Beta 4  Geeky Gadgets",
-    "published date": "Wed, 11 Mar 2026 19:50:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQenVaekRTSzd1X0hnQXJIQ2JvZUt1R2JqLUY4LXFRNldxcHhOSkFNTTBYSlA1TkkyTDFzOXU1NlFocXBjb0c0bHppd0pEajd2c0FKdmVJRW1GbEFYN1F4RE1TbW14aGdTZEZ0ZU1ZTjJRYU42cUxRMFFkY2VocUp0dmFwcWRjLTFiWEYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "How well does the new MacBook Neo handle gaming? Andrew Tsai tested 10 games to find out - 9to5Mac",
+    "description": "How well does the new MacBook Neo handle gaming? Andrew Tsai tested 10 games to find out  9to5MacMacBook Neo  AppleAsus Co-CEO: MacBook Neo Is a 'Shock' to the PC Industry  PCMag\"We're certainly not making any compromises on the design\" says Apple's head of design  DezeenApple’s $599 MacBook Neo is the laptop I’m telling my dad to get  CNN",
+    "published date": "Thu, 12 Mar 2026 04:14:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWXBwc3JBd1lKbkVYWFh5MDJjdHRVUDhOVy0wZkE5YnFpNE9NRkd3VENwdVh4aUNYcFFQNXFwY3hYSVlpdUxMOVl6UTdIem5xQi1Zc3pyLW1fblpJY3l0Vy1JdFlTV2ZYSmVWRGZDbGkxanlWZTJ1endNMmNySW40c3VzRXFERVhjN0Q4WjFObTFvQ0Vwa0lHSG1QcllFRlV2QVZDdUlKLVRhUENiOUpjTGJZelVZZHRXbVJj?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://9to5mac.com",
       "title": "9to5Mac"
     }
   },
   {
-    "title": "Google brings Gemini-powered content creation tools to Docs, Sheets, Slides and Drive - Engadget",
-    "description": "Google brings Gemini-powered content creation tools to Docs, Sheets, Slides and Drive  EngadgetNew ways to create faster with Gemini in Docs, Sheets, Slides and Drive  blog.googleGoogle's New AI Features Are Trying to Make Data Entry a Thing of the Past  CNETGoogle unveils new multimodal Gemini Embedding 2 model (GOOG:NASDAQ)  Seeking AlphaGoogle Docs upgrades now let you co-edit with Gemini  9to5Google",
-    "published date": "Tue, 10 Mar 2026 14:47:05 GMT",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNalcyX25xQVhNc25wSnNzV2FsdkN4dWhvdFQ2YzdfdGkyd2JTbGVlcHc4S1RVU1AzM0s0eGRDU2xXci01d09iZVFxWlk2ZjVnZnZQTE9tVUhvNURqTzcyMGNjRXh3M3ZqNHVoWU5qUHpOeGVUbzBLQndNUGVralNCbVByVXVaWnlOT2VNbHJGUTlac01zU2Q0WHBnbllQWXdQc1hDWXozTFJTN2ktYVVpZDd0S2ZDYy1LSGUzZWNMX0dIeTlI?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Google Play Games for PC is getting more premium titles and cross-buy with Android - Ars Technica",
+    "description": "Google Play Games for PC is getting more premium titles and cross-buy with Android  Ars TechnicaNew ways to try, buy and master paid games with Google Play  blog.googleGoogle rolling out Play Games Sidekick and Game Trials  9to5GoogleGoogle confirms: Free-to-play demos are coming to Play Store games  Android AuthorityGoogle Play is adding new paid and PC games, game trials, community posts, and more  TechCrunch",
+    "published date": "Wed, 11 Mar 2026 23:00:36 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZnRma0phNkE1ZVk0VlBSQWhtU0FNYmxRYWwxTzZYNFhxdFY4UEZEWTZZdXVydVg5S3d2ZmpRY3NmdGNuT2pHQ3JUZTJ4M3pod3BfTVA0cjkyaDN3V0FUaTBBME5fMFVFSlZPMEpqZXZjSnFpU1dBZ1EtQS1paktja2JrcDFCc0JVanl0ZTBnR0dYWjVqLTJRQ3dQci10Zzg2OHpWVXdjWm5kLTlpYnVlWnZJZlpHWlpmY3E1aWdpRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.engadget.com",
-      "title": "Engadget"
+      "href": "https://arstechnica.com",
+      "title": "Ars Technica"
+    }
+  },
+  {
+    "title": "Apple Just Transformed the CarPlay Experience in iOS 26.4 Beta 4 - Geeky Gadgets",
+    "description": "Apple Just Transformed the CarPlay Experience in iOS 26.4 Beta 4  Geeky GadgetsiOS 26.4 adds new emoji to your iPhone, here’s what’s coming  9to5Mac8 new emojis are coming to Apple products with iOS 26.4. Take a look.  USA TodayFirst Look: New Apple Emojis in iOS 26.4 Beta 4  EmojipediaWhen can I download iOS 26.4? iPhone update timeline as release date nears and new features set to debut  Fast Company",
+    "published date": "Wed, 11 Mar 2026 11:01:47 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4QkU1SEtOdEJLVnJ6Um1nalFYSHUxWmVXRW1qRkZHOXp3dTliaWxieUs4UTd3elhKT3BlNkxlYlhIOG9fWC1pdFNqSnBfb2c4QVl3QV9rM2NFUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.geeky-gadgets.com",
+      "title": "Geeky Gadgets"
+    }
+  },
+  {
+    "title": "MacBook Pro to Receive 'Major Upgrade' by Early Next Year - MacRumors",
+    "description": "MacBook Pro to Receive 'Major Upgrade' by Early Next Year  MacRumorsApple ‘Ultra’ Products Expansion Is Up Next After MacBook Neo Launch  Bloomberg.comApple plans a 'high-end' Ultra line, including iPhone Fold, report says  MashableApple is going high-end with new ‘Ultra’ products next  The VergeApple Could Launch Three New 'Ultra' Devices This Year  MacRumors",
+    "published date": "Wed, 11 Mar 2026 15:53:19 GMT",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16ckJ5SFloRk1sMWdQSllxY0lvU1VvZzlQeGw5ZXNpcEtKVVZBcGJST3A3QVlpOGJjRElISGZoMk1YeTdJVkh3UGczeGJGaUU2OXV3UlBETVloRkw2X01BZ0RZUlZPSXZvQ1NfSG0xUlc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.macrumors.com",
+      "title": "MacRumors"
     }
   },
   {
     "title": "The Galaxy S26 series is now officially on sale, and the trade-in values have plummeted - 9to5Google",
-    "description": "The Galaxy S26 series is now officially on sale, and the trade-in values have plummeted  9to5GoogleSamsung Galaxy S26 Ultra review: This is too much phone  MashableSamsung Galaxy S26 Series and Galaxy Buds4 Series Now Available Worldwide  Samsung Global NewsroomSamsung Galaxy S26 Review: Fun AI Tricks for a Steeper Price  CNETThe Galaxy S26 is already breaking Samsung records  Android Police",
+    "description": "The Galaxy S26 series is now officially on sale, and the trade-in values have plummeted  9to5GoogleSamsung Galaxy S26 Ultra is available now: Launch deals, early sales  MashableSamsung Galaxy S26 Review: Fun AI Tricks for a Steeper Price  CNETWhich Samsung Galaxy S26 model should you buy?  Android CentralGalaxy S26 Series U.S. Pre-orders Showing Strong Early Momentum  Samsung Global Newsroom",
     "published date": "Wed, 11 Mar 2026 19:12:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcUVvX3d6Wm56bUJoeEZWNkpjbk94UUZIZVVvOGtya3Rxb080RHdSc1lmdmZWblh1TFA1SG5KUUFuaHRKLWhjSWQ2bGI2MXI0eU1rMFljYWhNdTdQbmxZd0c1V000OWZtYmJ0WjY1MXRaZXV5MXhmeS05ckxqWHhZVVJEZVZqbzVTQkNibUJKX3p3SmlPX1FHS3N2VExYSkhpdE5yZXRxdnpmNTV4TTZIdC1fYUxNUVdCM1ppQnV3?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -61,7 +51,7 @@
   },
   {
     "title": "Pokémon Pokopia Sales Surpass 2.2 Million Units Globally In First Four Days - Nintendo Life",
-    "description": "Pokémon Pokopia Sales Surpass 2.2 Million Units Globally In First Four Days  Nintendo Life'Stealth' Pokemon hit boosts Nintendo Switch 2 momentum sentiment  ReutersNintendo Shares Rally 10% as New Pokémon Game Lifts Sentiment  Bloomberg.comPokémon Pokopia Physical Edition Price Raised to $80 on Amazon, Amid Reports of Stock Constraints  IGNHow to visit the Pokémon Pokopia developer island  Video Games Chronicle",
+    "description": "Pokémon Pokopia Sales Surpass 2.2 Million Units Globally In First Four Days  Nintendo Life'Stealth' Pokemon hit boosts Nintendo Switch 2 momentum sentiment  ReutersNintendo Shares Rally 10% as New Pokémon Game Lifts Sentiment  Bloomberg.comNintendo’s share price climbs 15% in two days following the success of Pokémon Pokopia  Video Games ChroniclePokémon Pokopia Physical Edition Price Raised to $80 on Amazon, Amid Reports of Stock Constraints  IGN",
     "published date": "Thu, 12 Mar 2026 01:30:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQk04TkV6bkJuVEhldjRiNW5oOS1DemlJeWhpN1d1UTFHaGFDeW1sSC1TWmpTTHJNaHFkN0N2Uk1yQXA2NGFmcDNGVmtVNEYtUUZCdzEweDgyN0lpZHI5cEEwZmU0U0h1X3R2Y1k5Z3FCNGcyNkJISTRaTFdSeEJ0SUlEU3JGTGZjSWQtb1dRaVpXRFBYWUFSX0xEQy1yVHc3TjBkdzduWjUwUHdNVk9jajFNQ095V1U1?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -71,7 +61,7 @@
   },
   {
     "title": "Microsoft Patches 84 Flaws in March Patch Tuesday, Including Two Public Zero-Days - The Hacker News",
-    "description": "Microsoft Patches 84 Flaws in March Patch Tuesday, Including Two Public Zero-Days  The Hacker NewsMicrosoft Patch Tuesday, March 2026 Edition  Krebs on SecurityMicrosoft Patches 83 Vulnerabilities  SecurityWeekMicrosoft Confirms SQL Zero-Day Security Vulnerability—Here’s The Fix  ForbesMicrosoft Patches 83 CVEs in March Update  Dark Reading | Security",
+    "description": "Microsoft Patches 84 Flaws in March Patch Tuesday, Including Two Public Zero-Days  The Hacker NewsMicrosoft Patch Tuesday, March 2026 Edition  Krebs on SecurityThe March 2026 Security Update Review  Zero Day InitiativeMicrosoft Confirms SQL Zero-Day Security Vulnerability—Here’s The Fix  ForbesMicrosoft Patches 83 CVEs in March Update  Dark Reading | Security",
     "published date": "Wed, 11 Mar 2026 09:15:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zNk0wRWsyN05YekdUSlBjQjJqdG4xUUFOVjNpcFFYUGpoUVJVUW8wTnlqWUhwVjBiZHB5bWJzekVvblpxRkFLSE5rUGhWWGRvYTB6aFVXb2ZEaGw2dG52VjZqZ203OHhsV2tPeVYtU2FJLXFwNDlVelFvalFhM0U?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -80,18 +70,18 @@
     }
   },
   {
-    "title": "MacBook Pro to Receive 'Major Upgrade' by Early Next Year - MacRumors",
-    "description": "MacBook Pro to Receive 'Major Upgrade' by Early Next Year  MacRumorsApple ‘Ultra’ Products Expansion Is Up Next After MacBook Neo Launch  Bloomberg.comApple plans a 'high-end' Ultra line, including iPhone Fold, report says  MashableApple is going high-end with new ‘Ultra’ products next  The VergeApple Gave Us the Neo, Now It Might Be Planning a High-End MacBook Ultra  CNET",
-    "published date": "Wed, 11 Mar 2026 15:53:19 GMT",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16ckJ5SFloRk1sMWdQSllxY0lvU1VvZzlQeGw5ZXNpcEtKVVZBcGJST3A3QVlpOGJjRElISGZoMk1YeTdJVkh3UGczeGJGaUU2OXV3UlBETVloRkw2X01BZ0RZUlZPSXZvQ1NfSG0xUlc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Google Docs upgrades now let you co-edit with Gemini - 9to5Google",
+    "description": "Google Docs upgrades now let you co-edit with Gemini  9to5GoogleNew ways to create faster with Gemini in Docs, Sheets, Slides and Drive  blog.googleGoogle's New AI Features Are Trying to Make Data Entry a Thing of the Past  CNETGoogle's Gemini Embedding 2 arrives with native multimodal to cut costs and speed up your enterprise data stack  VentureBeatGoogle rolls out new Gemini capabilities to Docs, Sheets, Slides, and Drive  TechCrunch",
+    "published date": "Tue, 10 Mar 2026 14:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IN1BNOGFGWDAzOFZ5WklZM05hVjc3UExVOTM0LUNrU0N4WVZMNmVfTnpVUVJnOEJpV2JrREZZRmhBeW1BUVU1R1lBSEdPODJBYkJha2tKTWpMVGJQUXNiWlNINXBwNFljaWRhUV9R?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.macrumors.com",
-      "title": "MacRumors"
+      "href": "https://9to5google.com",
+      "title": "9to5Google"
     }
   },
   {
     "title": "Nanophotonic waveguide chip-to-world beam scanning - Nature",
-    "description": "Nanophotonic waveguide chip-to-world beam scanning  NatureNew photonic device beams thousands of lasers into free space at once  Interesting EngineeringA Laser on a Chip Can Sketch The Mona Lisa -- And Could Power Future LiDAR And Quantum Devices  The Quantum InsiderPhotonic 'ski jumps' efficiently beam light into free space  Phys.orgNanophotonic Chip Enables World-Scale Beam Scanning  Bioengineer.org",
+    "description": "Nanophotonic waveguide chip-to-world beam scanning  NatureA Laser on a Chip Can Sketch The Mona Lisa -- And Could Power Future LiDAR And Quantum Devices  The Quantum InsiderNew photonic device efficiently beams light into free space  MIT NewsThe Future of Beam Scanning with Nanophotonic Waveguide Chips  wadenanews.caThis new chip can shoot thousands of laser beams into the air  Tech Explorist",
     "published date": "Wed, 11 Mar 2026 22:51:21 GMT",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYVmhZakdkSDZGTFc1UEZGclZoSkgzb19mN0JMblNma25zMlVobkxXM3hMaFdWZ1BIUmhxYnBzbVNVanV6d0FfSndMNGhRSzFQU0NSRzJGYkNqYy1lTjg4?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -100,23 +90,33 @@
     }
   },
   {
-    "title": "Xbox unveils first tech details of its next generation console, codenamed Project Helix - GamesIndustry.biz",
-    "description": "Xbox unveils first tech details of its next generation console, codenamed Project Helix  GamesIndustry.bizFrom GDC: Building the Next Generation of Xbox  Xbox WireMicrosoft plans to ship prototype of next Xbox console to developers in 2027  CNBCMicrosoft’s next Xbox, Project Helix, won’t reach alpha until 2027  The VergeMicrosoft's GDC 2026 Keynote — Everything Announced on the Future of Xbox and Project Helix  IGN",
-    "published date": "Wed, 11 Mar 2026 21:14:46 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORkR1c1ZWRS1SVWhJV25GTU1OYkJlcHE2Ym5mUlJ2YVdJX0VBN0xtYlc1S0V6Z0VjSEVWV19UemkxazEyVWxDWjhRXzZDaVNMZDdVUFRoTkwybUpNY1QzWGFEdjJ0MkI3ckxFeDlCb25IdmZDdTFyMTFLaFN5ZWkyZGlmR0R3bHlrT3BFRldtZHVpWGRzRlVGTTFVaEZtVzBiX2tncmhOV21xS1NMNnNhRWNZZ2lrR0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Windows 11’s Steam Deck-ish, streamlined Xbox gaming UI comes to all PCs in April - Ars Technica",
+    "description": "Windows 11’s Steam Deck-ish, streamlined Xbox gaming UI comes to all PCs in April  Ars TechnicaMicrosoft’s ‘Xbox mode’ is coming to every Windows 11 PC  The VergeGDC 2026: Announcing new tools and platform updates for Windows PC game developers  Windows BlogMicrosoft's 'Xbox Mode' Coming to Windows 11 PCs Next Month  PCMagMicrosoft's full screen 'Xbox Mode' will roll out to Windows 11 PCs in April  Engadget",
+    "published date": "Wed, 11 Mar 2026 20:55:50 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ2FiOHpWajJsRkNmODV1QzEyZXFmVXZoY1ZMencwRmU1dWV1TFhqNUdLT0hOV0k3STdmcVhIUnVLaktqYldmSzItUTRfRzdSOW84RGRaRUs0VlExTDFvbE9ZWEJ2ZHNKZDdUcUFtU3pOQ1BCTXA4YXZkbVY1Z05SckFoNDlUM1BxY1NCLS1mSDNoaV9ydnBwdTJRQVV2X3JkU2pnTFRNTGkyNzlMVDVpMmF3cTFGZC1iZjd0Qw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.gamesindustry.biz",
-      "title": "GamesIndustry.biz"
+      "href": "https://arstechnica.com",
+      "title": "Ars Technica"
     }
   },
   {
-    "title": "Mario Day 2026 hub: New LEGO reveal, Super Mario minifigs, Switch game deals, new Yoshi game, more [Updated] - 9to5Toys",
-    "description": "Mario Day 2026 hub: New LEGO reveal, Super Mario minifigs, Switch game deals, new Yoshi game, more [Updated]  9to5ToysSuper Marios take over Union Square in NYC on Mar10 Day in attempt to break Guinness World Record  ABC7 New YorkNew update for Nintendo Switch Online + Expansion Pack members! - News - Nintendo Official Site for Canada  NintendoThe best Mario Day deals we found  The Verge'Record' number of Marios swarm NYC to celebrate Nintendo star  New York Post",
-    "published date": "Tue, 10 Mar 2026 23:08:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaEFEcnlxZUxqMGhGTmtSRFJhUnE3WlE5NDdnVEhDV2Q1dVduN2lRem5rNDJSY0FzLXA4TmE5R3Raa3NQSUdUbTdZMEd4SkR5X0RvS25TOXdlbWFPa3FqajNPS0hjZFVuTDY4bHp2ZHhCYWFGOFZ3eWlqLWQ5MWtobFBIcnFjR1YzTUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Microsoft will start providing game studios with Project Helix consoles in 2027 - Engadget",
+    "description": "Microsoft will start providing game studios with Project Helix consoles in 2027  EngadgetFrom GDC: Building the Next Generation of Xbox  Xbox WireXbox unveils first tech details of its next generation console, codenamed Project Helix  GamesIndustry.bizMicrosoft lifts the lid on Project Helix at GDC Festival of Gaming  Game DeveloperMicrosoft plans to ship prototype of next Xbox console to developers in 2027  CNBC",
+    "published date": "Wed, 11 Mar 2026 18:03:52 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVzFkQ19POUpKTXl2MEg2OFhHLXdva185Q3ZJQ2tEcXUxWlN2UDk0Vm9HMG53VEF5ZnpHb1BIODlZVjFFN1Noc0hWWlJKelJDbVo5Qk9KUXRlRE53OFdpWDJHUU5BRVRCUU56MjBEdi1CVjlPQ055YzQyODVLeGZwM1luU3VwLTZDeUpEQ01fRTlfWEVLWjNRLTh0NmpaLVR1ckl2clpCckRBMEIteDJ1QVlsYWliX09NQUljWHF5Ry1uRXJ5bjhodVpHRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://9to5toys.com",
-      "title": "9to5Toys"
+      "href": "https://www.engadget.com",
+      "title": "Engadget"
+    }
+  },
+  {
+    "title": "Overwatch Director Jeff Kaplan Explains Why He Left Blizzard - Kotaku",
+    "description": "Overwatch Director Jeff Kaplan Explains Why He Left Blizzard  KotakuOverwatch co-creator Jeff Kaplan on his exit from Activision Blizzard: 'It was the biggest f**k you moment I've had in my career'  PC GamerFormer Overwatch Director Breaks Silence About Sudden Departure From Blizzard  Nintendo LifeJeff Kaplan Breaks Silence on Leaving Blizzard, Citing Profit Pressures  Techloy",
+    "published date": "Thu, 12 Mar 2026 05:32:05 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBWMmR5aUZXQzR2ZnVxQk1HM2t2M1VKWW92NkU3TXhBYnVJd1ZJWDVRTWNfdV9zRlRRSVNTYS14aTRUc0czRzBCV3ZwUHV2bVdlNU82MVlwZFU4QV9nYW5CWnM5c3owZHM1LW9HU3Q5Wkplcmp4bmVTbDhxWko?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://kotaku.com",
+      "title": "Kotaku"
     }
   },
   {
@@ -130,38 +130,18 @@
     }
   },
   {
-    "title": "Windows 11’s Steam Deck-ish, streamlined Xbox gaming UI comes to all PCs in April - Ars Technica",
-    "description": "Windows 11’s Steam Deck-ish, streamlined Xbox gaming UI comes to all PCs in April  Ars TechnicaGDC 2026: Announcing new tools and platform updates for Windows PC game developers  Windows BlogMicrosoft’s ‘Xbox mode’ is coming to every Windows 11 PC  The VergeMicrosoft Will Soon Let You Use Any Windows 11 PC Like an Xbox  LifehackerMicrosoft's 'Xbox Mode' Coming to Windows 11 PCs Next Month  PCMag",
-    "published date": "Wed, 11 Mar 2026 20:55:50 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ2FiOHpWajJsRkNmODV1QzEyZXFmVXZoY1ZMencwRmU1dWV1TFhqNUdLT0hOV0k3STdmcVhIUnVLaktqYldmSzItUTRfRzdSOW84RGRaRUs0VlExTDFvbE9ZWEJ2ZHNKZDdUcUFtU3pOQ1BCTXA4YXZkbVY1Z05SckFoNDlUM1BxY1NCLS1mSDNoaV9ydnBwdTJRQVV2X3JkU2pnTFRNTGkyNzlMVDVpMmF3cTFGZC1iZjd0Qw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Mario Day 2026 hub: New LEGO reveal, Super Mario minifigs, Switch game deals, new Yoshi game, more [Updated] - 9to5Toys",
+    "description": "Mario Day 2026 hub: New LEGO reveal, Super Mario minifigs, Switch game deals, new Yoshi game, more [Updated]  9to5ToysSuper Marios take over Union Square in NYC on Mar10 Day in attempt to break Guinness World Record  ABC7 New YorkNew update for Nintendo Switch Online + Expansion Pack members! - News - Nintendo Official Site for Canada  NintendoThe best Mario Day deals we found  The Verge'Record' number of Marios swarm NYC to celebrate Nintendo star  New York Post",
+    "published date": "Tue, 10 Mar 2026 23:08:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaEFEcnlxZUxqMGhGTmtSRFJhUnE3WlE5NDdnVEhDV2Q1dVduN2lRem5rNDJSY0FzLXA4TmE5R3Raa3NQSUdUbTdZMEd4SkR5X0RvS25TOXdlbWFPa3FqajNPS0hjZFVuTDY4bHp2ZHhCYWFGOFZ3eWlqLWQ5MWtobFBIcnFjR1YzTUE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://arstechnica.com",
-      "title": "Ars Technica"
-    }
-  },
-  {
-    "title": "Crimson Desert Specs For PC, Console, And Other Platforms Revealed - Game Informer",
-    "description": "Crimson Desert Specs For PC, Console, And Other Platforms Revealed  Game InformerCrimson Desert: Pearl Abyss Answers Every Tech Question We Could Think Of  Digital FoundryCrimson Desert Gets Surprisingly Low-End Minimum Hardware Requirements for PC and Console  TechPowerUpCrimson Desert Specs Revealed With Dedicated ROG Xbox Ally Sheet  Steam Deck HQHow Big Is ‘Crimson Desert,’ Really? Check Out These Numbers  Forbes",
-    "published date": "Tue, 10 Mar 2026 22:16:48 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSTVHQmppempTS1RpeGczSlJwMHZqV1pBRTlkZG9VSHptaldqbGlVS2IzcFlndXV5d0tGVWNtOHBZWHVSTVcwYmkwc2I4TUZCSzhiZ1JEbjV1eVprdTFkd0s0bGJ4QjJOMEFMSzQ5SWZTZmdPYS0walZQV3dQOTlrNklwN054VVgxdTN1SndqMnZmSm9JRm52d2RVM1M1RXBrQVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://gameinformer.com",
-      "title": "Game Informer"
-    }
-  },
-  {
-    "title": "Windows 11 KB5079473 released with features, direct download links for offline installers (.msu) - Windows Latest",
-    "description": "Windows 11 KB5079473 released with features, direct download links for offline installers (.msu)  Windows LatestWindows 11's Long-Awaited Taskbar Speed Test Isn't Built-in, After All  extremetech.comAnnouncing Windows 11 Insider Preview Build 26220.7961 (Beta Channel)  Windows BlogWindows 11 KB5079473 & KB5078883 cumulative updates released  BleepingComputerNew Windows 11 update goes big on fixes and reliability improvements — and while there are no exciting new features, I'm happy with that  TechRadar",
-    "published date": "Tue, 10 Mar 2026 17:00:57 GMT",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUzhnS2Z6cDUwTjBDYTUtbWF1cHd4NTFoM0U3N0V0OFdPbjNwMzNQeGVoOTJtcXl0alh0S0FndXQ3T1F6dGRrSV9OM05vdzhHX0YxWkRTYVNEN004czdxOG5ETUkxQkdfdDNGNHF3azh4dlQ3LUdaQ0hoWjd3SnloNDVLdk5IaHJ6YUNXaGhXZmwySFFPNjFPdmxhTG5uUkxzTnlISXFLWVFlWm5MZ1hYMWJINVN6Qk04OGwxSHZRLWZnUFI3RUpIV3k5bkhpNnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.windowslatest.com",
-      "title": "Windows Latest"
+      "href": "https://9to5toys.com",
+      "title": "9to5Toys"
     }
   },
   {
     "title": "Nvidia’s DLSS 4.5 with 6x Frame Generation is rolling out at the end of March - The Verge",
-    "description": "Nvidia’s DLSS 4.5 with 6x Frame Generation is rolling out at the end of March  The VergeNVIDIA and ComfyUI Streamline Local AI Video Generation for Game Developers and Creators at GDC  NVIDIA BlogDynamic MFG comes to RTX 50-series GPUs to push monitor refresh rates to the max — more flexible mode with 5x and 6x multipliers arrives March 31  Tom's HardwareNVIDIA Unleashes Dynamic MFG And Big GeForce Now Upgrades At GDC 2026  HotHardwareNVIDIA DLSS 4 With Multi Frame Generation Coming To High On Life 2, Yakuza Kiwami 3 and Dark Ties This Week  TechPowerUp",
+    "description": "Nvidia’s DLSS 4.5 with 6x Frame Generation is rolling out at the end of March  The VergeNVIDIA and ComfyUI Streamline Local AI Video Generation for Game Developers and Creators at GDC  NVIDIA BlogNvidia Hopes Multi-Frame Gen Will Finally Make Sense on Its GPUs  GizmodoNVIDIA Unleashes Dynamic MFG And Big GeForce Now Upgrades At GDC 2026  HotHardwareNVIDIA DLSS 4 With Multi Frame Generation Coming To High On Life 2, Yakuza Kiwami 3 and Dark Ties This Week  TechPowerUp",
     "published date": "Tue, 10 Mar 2026 15:30:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTEhITjF4UFZYX3VCUS11Q2dHeWs1b3FHSHo4UTgwdTY3VzctRjJRbGtIdllUSGYtLTFWT1AxSFdrSzc4MWJwN0ZESjhTMy0zdllKb1BHN1FHcV9TQU50cVllaUNPQkVwYWg2T3lSNVNYaThxWFNpd3NTMVZXTWRZTl81NDVTblJKenduazJZVEtUQm9ZOGt5ZnFicUFmQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -180,8 +160,28 @@
     }
   },
   {
+    "title": "Perplexity’s Personal Computer is a cloud-based AI agent running on Mac mini - 9to5Mac",
+    "description": "Perplexity’s Personal Computer is a cloud-based AI agent running on Mac mini  9to5MacPerplexity rolls out enterprise AI agent tools  AxiosPerplexity's Personal Computer lets AI agents access your Mac mini's files  AppleInsiderPerplexity takes its ‘Computer’ AI agent into the enterprise, taking aim at Microsoft and Salesforce  VentureBeatAnthropic launches ‘Personal Computer’ AI system that turns Macs into persistent AI agents  Storyboard18",
+    "published date": "Wed, 11 Mar 2026 19:24:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcWJxOGp1SjBYem0zZW9IbzRXV3dHN2pNTGpwLTF3SnFzODM3eGFmUzd0bkJwYllUQzNqelFFUFVDaWlzcjU5clFuX29WemdaXzh5WGJyRDdTMHNhbnJ5cGZHX1ZLclJjZXB6UkZzTUNKU1pJTEs3RW5ILVJwV25OSElnMWJvTmczZHQ1dDdwaGJVNkpRVE5fLTFleEdONU5VbXlGTFRrOFdJTE0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://9to5mac.com",
+      "title": "9to5Mac"
+    }
+  },
+  {
+    "title": "Windows 11 KB5079473 released with features, direct download links for offline installers (.msu) - Windows Latest",
+    "description": "Windows 11 KB5079473 released with features, direct download links for offline installers (.msu)  Windows LatestWindows 11's Long-Awaited Taskbar Speed Test Isn't Built-in, After All  extremetech.comAnnouncing Windows 11 Insider Preview Build 26220.7961 (Beta Channel)  Windows BlogWindows 11 KB5079473 & KB5078883 cumulative updates released  BleepingComputerNew Windows 11 update goes big on fixes and reliability improvements — and while there are no exciting new features, I'm happy with that  TechRadar",
+    "published date": "Tue, 10 Mar 2026 17:00:57 GMT",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUzhnS2Z6cDUwTjBDYTUtbWF1cHd4NTFoM0U3N0V0OFdPbjNwMzNQeGVoOTJtcXl0alh0S0FndXQ3T1F6dGRrSV9OM05vdzhHX0YxWkRTYVNEN004czdxOG5ETUkxQkdfdDNGNHF3azh4dlQ3LUdaQ0hoWjd3SnloNDVLdk5IaHJ6YUNXaGhXZmwySFFPNjFPdmxhTG5uUkxzTnlISXFLWVFlWm5MZ1hYMWJINVN6Qk04OGwxSHZRLWZnUFI3RUpIV3k5bkhpNnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.windowslatest.com",
+      "title": "Windows Latest"
+    }
+  },
+  {
     "title": "Here are our PlayStation Plus Extra and Premium games for March - Eurogamer.net",
-    "description": "Here are our PlayStation Plus Extra and Premium games for March  Eurogamer.netPlayStation Plus Extra/Premium Games For March 2026 Revealed  GameSpotPlayStation Plus March 2026 Game Catalog Titles Revealed  Insider GamingSix of March’s PlayStation Plus Game Catalog titles have leaked, including Madden NFL 26 and Persona 5 Royal  Video Games ChroniclePlayStation Plus Game Catalog finally gets the best version of the best Persona game  Polygon",
+    "description": "Here are our PlayStation Plus Extra and Premium games for March  Eurogamer.netPlayStation Plus Extra/Premium Games For March 2026 Revealed  GameSpotSony Confirms March PlayStation Plus Game Catalog Additions  IGNPlayStation Plus Game Catalog finally gets the best version of the best Persona game  PolygonSix of March’s PlayStation Plus Game Catalog titles have leaked, including Madden NFL 26 and Persona 5 Royal  Video Games Chronicle",
     "published date": "Wed, 11 Mar 2026 16:01:52 GMT",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUTEwZkpraHlPUFVQclBBTzJYMjBjTHIwRzVNUGlBRXVZVXE2Y0padnpucDZfQU9UYVZ3aXZkSmV5ZENmVWoyelpaNjJTR0xUR2MtNFlfc1VIcHRjcF82Y2NISnYyRDFPMFZFYlUwV1RvaTJnRElVaXNzZW1kdEFreWtBdmhIWk5oNmFESXdKWnl0cGM?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -197,6 +197,16 @@
     "publisher": {
       "href": "https://www.theguardian.com",
       "title": "The Guardian"
+    }
+  },
+  {
+    "title": "iPhone Fold rumor: iPad-like multitasking, but no iPad apps and no Face ID - The Verge",
+    "description": "iPhone Fold rumor: iPad-like multitasking, but no iPad apps and no Face ID  The VergeApple’s Foldable iPhone to Feature iPad-Like Interface When Opened  Bloomberg.comApple Stays Competitive On New iPhone Fold Price  ForbesA new iPhone Fold design leak reportedly revealed: See it now  MashableiPhone Fold to Feature iPad-Style Multitasking and Layouts  MacRumors",
+    "published date": "Wed, 11 Mar 2026 22:22:33 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQzcxT2dUTm1VRWVkOTFtMGI1aU9ub2VhQ09qdlc2dTZ6VGx0aDBnVVZRZWFuaFpjQlJxM0U2UXVHcXgtY3lVUExPVlZreGNwbzRFeWVGeWlIak5PZGJPal90Y0tHM0RRaWhORndrdVkzUmJxS0d0RDROUE9uaVA0SUlyTVZVMVFoczQxZF9wcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theverge.com",
+      "title": "The Verge"
     }
   },
   {
@@ -220,23 +230,33 @@
     }
   },
   {
-    "title": "iPhone Fold rumor: iPad-like multitasking, but no iPad apps and no Face ID - The Verge",
-    "description": "iPhone Fold rumor: iPad-like multitasking, but no iPad apps and no Face ID  The VergeApple’s Foldable iPhone to Feature iPad-Like Interface When Opened  Bloomberg.comApple Stays Competitive On New iPhone Fold Price  ForbesiPhone Fold expected to include new app features, including side-by-side multitasking  9to5MaciPhone Fold to Feature iPad-Style Multitasking and Layouts  MacRumors",
-    "published date": "Wed, 11 Mar 2026 22:22:33 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQzcxT2dUTm1VRWVkOTFtMGI1aU9ub2VhQ09qdlc2dTZ6VGx0aDBnVVZRZWFuaFpjQlJxM0U2UXVHcXgtY3lVUExPVlZreGNwbzRFeWVGeWlIak5PZGJPal90Y0tHM0RRaWhORndrdVkzUmJxS0d0RDROUE9uaVA0SUlyTVZVMVFoczQxZF9wcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "CVS is packed with beauty markdowns in March, but only 10 made my cart - Yahoo",
+    "description": "CVS is packed with beauty markdowns in March, but only 10 made my cart  Yahoo",
+    "published date": "Wed, 11 Mar 2026 18:48:11 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWEtXanNXcE9tRXFwWHM4bW1ZYi14VF8zM2ZlRkZacmJpcG4tVWdXQnBkNm1nTzJqS0ZJdXZHMVoyZEdtRXZIVnVNeEZrUC1mTExySm9IeDI2Y2xDUmV2QlQyeDJPTWVhN2pNbDEwMkNRa2NIRVUtZ3FZN3JNd3lUNFhlV0NreVI4MUdWNnUyRzZaUVlBQ0kxSDNuQlJhXzVlcjJxclcwQUZZbi1vVUdBcVRMNnVKSkFibGs1dlM3Q2NZZFE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.theverge.com",
-      "title": "The Verge"
+      "href": "https://shopping.yahoo.com",
+      "title": "Yahoo"
     }
   },
   {
-    "title": "Random: Mario Wonder's New Switch 2 Trailer Is Hiding A Crossover Cameo - Nintendo Life",
-    "description": "Random: Mario Wonder's New Switch 2 Trailer Is Hiding A Crossover Cameo  Nintendo LifeA trunk load of fun awaits in Bellabel Park—exclusively for Nintendo Switch 2! – News – Nintendo Official Site  NintendoNintendo Details The Huge Array Of New Features Coming To Super Mario Bros. Wonder  KotakuNintendo unveils new Mario Bros. Wonder Nintendo Switch 2 Edition overview trailer for Mario Day  9to5ToysNew Super Mario Bros. Wonder Trailer Shows Off Elephant Rosalina  GameSpot",
-    "published date": "Tue, 10 Mar 2026 16:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOHo3b0ZSa0NHWERXSUtONXZXQkZZRXBVTlZxS2VwbXJibUlKVGhGYjlyN3BCSkNqekRVNGNYOHAxbUcyWktOZ2lqTHhHaVJfcEdFNDBXSTFCTERfVVJDRXVJMzI4OU5yQUtmWkpNY191aFk1bUd6VG9GRG1tM284cjQwNlJrQnNkYmNldzJuaTVNNUtNZ3ZVdUVLb3hVTUJaRXBoVXBPRHVjaElkWFFnMw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "HPE warns of critical AOS-CX flaw allowing admin password resets - BleepingComputer",
+    "description": "HPE warns of critical AOS-CX flaw allowing admin password resets  BleepingComputerHewlett Packard Enterprise fixes critical authentication bypass in Aruba AOS-CX  Security AffairsHPE AutoPass License Server allows authentication bypass  heise onlineHPE warns of dangerous security flaw which could allow Aruba OS password resets  TechRadarCritical flaw in HPE Aruba CX switches lets attackers seize admin control without credentials  csoonline.com",
+    "published date": "Tue, 10 Mar 2026 17:30:35 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNazBLQkRRS3VwaHZ0ME10TExPd0N1T3MwbFFsdmo5azViSE9OX2RMdHRMNC1MVmlKRkxCRlRZVjVIMVF6RklOTVk4bVRmN0M4YUowSU9HanZzbEdKQnVzajNLMlZxekJidXZpQ3dDbl8tVzZXMFpxcWQyZENwTjM0dGVhbWtqRk9kOExRWWZubFZFYmxJMTMwNWlpY0lsa3R0SjJCT21RQURWTXlrT1ZNSjR30gG3AUFVX3lxTE5pSktRb1VKQzlCek52VlFhVThrYTJCUThuQzhlQjVWMnlCOEYzREptRlh0U2daLWxmNTNXY1A5QmRlRHRMRjNycU5YUlgxMzN2REY3OV8zU0U4X05ldmM4ZzJhUFZBWkRBaHY3b0N2VTlwX0pub3ZUNW8zY3c0TFkxbERuQTVZWGVsWVFZTl9iWC0yRE9NcHp6Sk4ydE1HbkFjNEh5bS1tWklFRUJfcFBjdk8wWkduNA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.nintendolife.com",
-      "title": "Nintendo Life"
+      "href": "https://www.bleepingcomputer.com",
+      "title": "BleepingComputer"
+    }
+  },
+  {
+    "title": "New iPhone 18 Pro leaks explore design details, dimensions, more - 9to5Mac",
+    "description": "New iPhone 18 Pro leaks explore design details, dimensions, more  9to5MaciPhone 17 Pro Max vs iPhone 18 Pro Max: Specs, Features, and What's New Compared  Tech TimesKuo: iPhone 18 Pro Prices Still Likely to Hold Firm This Year  MacRumorsApple iPhone 18 rumours – from release date to price  The IndependentThe iPhone 18 Pro will not be worth the money and you’re better off waiting another year  PhoneArena",
+    "published date": "Wed, 11 Mar 2026 15:11:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPampjeHh6MUhlbl94c09qc3JXWXI5dmMzaGJUeFJ1SDZNcnMxVlgtMjlLSmt4QnhiRzBlam1ndjdkOWNEV2JwQ2FqYW5zY0hhcFljQzJxcm9fY2xkT0dLemlxRE54dEUyeG4yMmRzNUxwVTg5TE0yY1dGTFY3bjdKUjFLS3JxZ0p3Y2hVYmxJRnQ2WW5CZlowOWlR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://9to5mac.com",
+      "title": "9to5Mac"
     }
   },
   {
@@ -250,36 +270,6 @@
     }
   },
   {
-    "title": "Enjoy New Prizes and Newly Distributed Battle Boxes at Play! Pokémon Stores - Pokemon.com",
-    "description": "Enjoy New Prizes and Newly Distributed Battle Boxes at Play! Pokémon Stores  Pokemon.com",
-    "published date": "Wed, 11 Mar 2026 15:02:27 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdXdIbXBHVFMxc2xpNl9LbzlVZXdrQ1B1a3pOS3NOVGJKR3BoTEJNaWZhbXk0ZGV6bHlPWkQ0VkZ2LUpfQXY0WEQ4ZVpBTDNTbk1fUFN0ei1BV29rLTlyUzZmc3otaEVJUHp5NkNVRWVpeThuYnRFZHM3RDJQek84MTNWeHZMMjl6NW5RWG9PYk5OUTFlVjlvV2Q2NXB2cWxhQ1B0elFGcVFTdk8xWHpObm1XV2I?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.pokemon.com",
-      "title": "Pokemon.com"
-    }
-  },
-  {
-    "title": "iPhone 18 Pro Max Thickness and Weight Allegedly Revealed - MacRumors",
-    "description": "iPhone 18 Pro Max Thickness and Weight Allegedly Revealed  MacRumorsiPhone 17 Pro Max vs iPhone 18 Pro Max: Specs, Features, and What's New Compared  Tech TimesNew iPhone 18 Pro leaks explore design details, dimensions, more  9to5MacKuo: iPhone 18 Pro Prices Still Likely to Hold Firm This Year  MacRumorsApple iPhone 18 rumours – from release date to price  The Independent",
-    "published date": "Wed, 11 Mar 2026 12:08:22 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTnpDVXgxUmR1eDdGSFoxN2IwNVBHVHRJajdDZG9saXo3SXV1NjBGdm16ZUs3V0w3TXRSNk1lSHZKWHZ6b3M3Uk15eXFlQ2I1X1hGalg3RmV5N0g0aC1LWlR6eWhKbWI3c21rWF9oN2RSOEtLXzVlWllYaC02aU0zUXEwVlFzOW9I?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.macrumors.com",
-      "title": "MacRumors"
-    }
-  },
-  {
-    "title": "WhatsApp is launching parent-linked accounts for pre-teens - TechCrunch",
-    "description": "WhatsApp is launching parent-linked accounts for pre-teens  TechCrunchMeta will let kids under 13 use WhatsApp with parent-managed accounts  EngadgetWhatsApp launches parent-managed accounts for pre-teens amid safety concerns  ReutersWhatsApp launches preteen accounts, here’s how they work  9to5MacWhatsApp FINALLY adds parental controls to let you read and block creepy texts before they get to your child  The Sun",
-    "published date": "Wed, 11 Mar 2026 15:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdUl1bHVoYkJjVWI4YlZlY2hVaWJNZnJFSEdaRGxRUlYyc2JxNDdiUndrLVJ4QURySWNYdFNwRWp5Qlludm5yMEJHdnZpcVJYQnM5VDhSbllfZmdsYXNNOUExMTdfSDZTZmVLTk1UQlBVX2I1bFNVX0dJWVc3U3VvUXdsaE1rZmFHWkJOMGNYN3poRVdjallQUg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://techcrunch.com",
-      "title": "TechCrunch"
-    }
-  },
-  {
     "title": "Sandfall Reveals at GDC That Clair Obscur Was Built Using Blueprints - 80 Level",
     "description": "Sandfall Reveals at GDC That Clair Obscur Was Built Using Blueprints  80 LevelClair Obscur: Expedition 33 devs reveal the secret behind how the game was made  PolygonSandfall Interactive Leverages Unreal Engine Blueprints to Empower Designers in Clair Obscur: Expedition 33 Development  National TodayHow the Clair Obscur: Expedition 33 dev process powered creative design freedom  PlayStation.Blog“We Use Blueprints for ALL Gameplay Systems”: Sandfall Interactive Reveals How it Avoided C++ in UE for Clair Obscur: Expedition 33  Wccftech",
     "published date": "Tue, 10 Mar 2026 10:55:46 GMT",
@@ -290,33 +280,13 @@
     }
   },
   {
-    "title": "ASUS \"Panther Lake\" NUC 16 Pro launch price enters former ROG NUC territory - VideoCardz.com",
-    "description": "ASUS \"Panther Lake\" NUC 16 Pro launch price enters former ROG NUC territory  VideoCardz.comASUS Announces New-Gen NUC 16 Pro Mini PC  ASUS PressroomASUS Debuts NUC 16 PRO With Intel Core Ultra X7 358H At $1600  WccftechLeak reveals Asus NUC Pro 16 mini PC with 16-core CPU and powerful Arc B390 iGPU might cost over $1,500  NotebookcheckMeet the NUC 16 Pro, ASUS’ Latest Mini Desktop PC  Phandroid",
-    "published date": "Wed, 11 Mar 2026 08:12:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWDY5cWluN25qUFhSaHdjdFNyeDc3YXNsSTNHLUVhcFVJSjhqSUxONk04N21fSGpJT0ZhekhkVGlCUjJhX1l3MkF2R1MwMl9BMk16YjRaUnZWeEZfRlZoa0x1YjFjdDlPX2xUWmJvM1NZdnlvV2YtZ1pnV083Z3ZUQzlELWlyNUZYTHVRYW5CZlVTUWYwQVhLQ1VTbm1vQXVrNlNj?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Enjoy New Prizes and Newly Distributed Battle Boxes at Play! Pokémon Stores - Pokemon.com",
+    "description": "Enjoy New Prizes and Newly Distributed Battle Boxes at Play! Pokémon Stores  Pokemon.com",
+    "published date": "Wed, 11 Mar 2026 15:02:27 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdXdIbXBHVFMxc2xpNl9LbzlVZXdrQ1B1a3pOS3NOVGJKR3BoTEJNaWZhbXk0ZGV6bHlPWkQ0VkZ2LUpfQXY0WEQ4ZVpBTDNTbk1fUFN0ei1BV29rLTlyUzZmc3otaEVJUHp5NkNVRWVpeThuYnRFZHM3RDJQek84MTNWeHZMMjl6NW5RWG9PYk5OUTFlVjlvV2Q2NXB2cWxhQ1B0elFGcVFTdk8xWHpObm1XV2I?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://videocardz.com",
-      "title": "VideoCardz.com"
-    }
-  },
-  {
-    "title": "That Doom-running, human brain cell-powered computer is headed for data centers - TechSpot",
-    "description": "That Doom-running, human brain cell-powered computer is headed for data centers  TechSpotHuman Brain Cells Run New Data Centers in Singapore, Melbourne  Bloomberg.comThe Company That Made a Dish of Neurons Play DOOM Is Getting Into Brain Cell-Powered Data Centers  GizmodoScientists Taught a Petri Dish of Brain Cells to Play Doom—They’re Getting Better  inc.comStart-up is building the first data centre to use human brain cells  New Scientist",
-    "published date": "Wed, 11 Mar 2026 12:09:50 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOFh3MzhBNW9ZNi1OYklIYXQ4U0xaMkkwb09UMkFtRXF0c0E2UzZoMFBETkhiandpb09OZEJfR3lQTzM1V1J6NzJtSE5kSkdUOHYxdHkwTEUzNExQUjBXMjVwV0FCZ2daNjNTMlJZeHZwVTF0dHJPb1F3Qm5ZckluZkNXSVJoTHFuQVdzT2lyVTlqSlBXSkpCakpTMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.techspot.com",
-      "title": "TechSpot"
-    }
-  },
-  {
-    "title": "Patch Notes 1.19.0 - ARC Raiders",
-    "description": "Patch Notes 1.19.0  ARC RaidersArc Raiders is handing out loadout refunds for last week's server issues: 'This outage impacted a large number of players, so we are making an exception'  PC GamerU4gm ARC Raiders 1.19.0: Stand Out with the Devotee Outfit and New Hairstyles  vocal.mediaArc Raiders turns down electromagnetic storm lightning despite some players preferring the chaos, as Embark promises compensation for folks impacted by recent server issues  Yahoo TechARC Raiders’ latest patch fixes exploits and smooths the loot system  DLCompare.com",
-    "published date": "Tue, 10 Mar 2026 10:05:02 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15T3dScUhpVjhLRWVUNVlHekp4UXNlQTZsVEs0VHd6Nl9heXp6dHh2TG1WV1dnY3BPYVUtZFREN1RUMmo3NjNVdWZKOXhuYlRtbFhYZE43SlRzZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://arcraiders.com",
-      "title": "ARC Raiders"
+      "href": "https://www.pokemon.com",
+      "title": "Pokemon.com"
     }
   },
   {
@@ -330,6 +300,56 @@
     }
   },
   {
+    "title": "Patch Notes 1.19.0 - ARC Raiders",
+    "description": "Patch Notes 1.19.0  ARC RaidersArc Raiders is handing out loadout refunds for last week's server issues: 'This outage impacted a large number of players, so we are making an exception'  PC GamerU4gm ARC Raiders 1.19.0: Stand Out with the Devotee Outfit and New Hairstyles  vocal.mediaArc Raiders turns down electromagnetic storm lightning despite some players preferring the chaos, as Embark promises compensation for folks impacted by recent server issues  Yahoo TechARC Raiders’ latest patch fixes exploits and smooths the loot system  DLCompare.com",
+    "published date": "Tue, 10 Mar 2026 10:05:02 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15T3dScUhpVjhLRWVUNVlHekp4UXNlQTZsVEs0VHd6Nl9heXp6dHh2TG1WV1dnY3BPYVUtZFREN1RUMmo3NjNVdWZKOXhuYlRtbFhYZE43SlRzZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://arcraiders.com",
+      "title": "ARC Raiders"
+    }
+  },
+  {
+    "title": "ASUS \"Panther Lake\" NUC 16 Pro launch price enters former ROG NUC territory - VideoCardz.com",
+    "description": "ASUS \"Panther Lake\" NUC 16 Pro launch price enters former ROG NUC territory  VideoCardz.comASUS Announces New-Gen NUC 16 Pro Mini PC  ASUS PressroomASUS Debuts NUC 16 PRO With Intel Core Ultra X7 358H At $1600  WccftechLeak reveals Asus NUC Pro 16 mini PC with 16-core CPU and powerful Arc B390 iGPU might cost over $1,500  NotebookcheckMeet the NUC 16 Pro, ASUS’ Latest Mini Desktop PC  Phandroid",
+    "published date": "Wed, 11 Mar 2026 08:12:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWDY5cWluN25qUFhSaHdjdFNyeDc3YXNsSTNHLUVhcFVJSjhqSUxONk04N21fSGpJT0ZhekhkVGlCUjJhX1l3MkF2R1MwMl9BMk16YjRaUnZWeEZfRlZoa0x1YjFjdDlPX2xUWmJvM1NZdnlvV2YtZ1pnV083Z3ZUQzlELWlyNUZYTHVRYW5CZlVTUWYwQVhLQ1VTbm1vQXVrNlNj?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://videocardz.com",
+      "title": "VideoCardz.com"
+    }
+  },
+  {
+    "title": "WhatsApp is launching parent-linked accounts for pre-teens - TechCrunch",
+    "description": "WhatsApp is launching parent-linked accounts for pre-teens  TechCrunchMeta will let kids under 13 use WhatsApp with parent-managed accounts  EngadgetWhatsApp launches parent-managed accounts for pre-teens amid safety concerns  ReutersWhatsApp launches preteen accounts, here’s how they work  9to5MacWhatsApp to let under-13s use app  The Independent",
+    "published date": "Wed, 11 Mar 2026 15:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdUl1bHVoYkJjVWI4YlZlY2hVaWJNZnJFSEdaRGxRUlYyc2JxNDdiUndrLVJ4QURySWNYdFNwRWp5Qlludm5yMEJHdnZpcVJYQnM5VDhSbllfZmdsYXNNOUExMTdfSDZTZmVLTk1UQlBVX2I1bFNVX0dJWVc3U3VvUXdsaE1rZmFHWkJOMGNYN3poRVdjallQUg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://techcrunch.com",
+      "title": "TechCrunch"
+    }
+  },
+  {
+    "title": "Apple iPad Air M4 review: still the premium tablet to beat - The Guardian",
+    "description": "Apple iPad Air M4 review: still the premium tablet to beat  The GuardianApple M4 iPad Air review: A tablet with the power of an AI laptop  Mashable3 reasons to upgrade to the new iPad Air M4  T3M4 iPad Air launch day deals: Up to $100 off at Amazon and Best Buy  9to5ToysThe Morning After: The new iPad Air M4 is Apple's best overall tablet  Engadget",
+    "published date": "Wed, 11 Mar 2026 09:15:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTlhfU29PemxFOTJ6N3NTZndSZFlwTlpYX3dqWHU2ek1PQkIzUzd6NFgwb3BWaE55Ul8zYmRobmdqTHlLZUxVZG9pVW9iNVhuQVRKbkhRaXVsaV9aRDlURDVZajBXeWlTWVVuUUFKdEg0Z1RmSVpEbWxkVTVzYnQxZXNJQ19Wc3MzTDBSdkNxS1UwbHB1WHEwdENucXVGMGNfNHl2VDlWT2lBSk1v?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theguardian.com",
+      "title": "The Guardian"
+    }
+  },
+  {
+    "title": "That Doom-running, human brain cell-powered computer is headed for data centers - TechSpot",
+    "description": "That Doom-running, human brain cell-powered computer is headed for data centers  TechSpotHuman Brain Cells Run New Data Centers in Singapore, Melbourne  Bloomberg.comThe Company That Made a Dish of Neurons Play DOOM Is Getting Into Brain Cell-Powered Data Centers  GizmodoScientists Taught a Petri Dish of Brain Cells to Play Doom—They’re Getting Better  inc.comThe Strange Pace of Progress  Banyan Hill Publishing",
+    "published date": "Wed, 11 Mar 2026 12:09:50 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOFh3MzhBNW9ZNi1OYklIYXQ4U0xaMkkwb09UMkFtRXF0c0E2UzZoMFBETkhiandpb09OZEJfR3lQTzM1V1J6NzJtSE5kSkdUOHYxdHkwTEUzNExQUjBXMjVwV0FCZ2daNjNTMlJZeHZwVTF0dHJPb1F3Qm5ZckluZkNXSVJoTHFuQVdzT2lyVTlqSlBXSkpCakpTMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.techspot.com",
+      "title": "TechSpot"
+    }
+  },
+  {
     "title": "Valve Reveals Requirements for Steam Frame Game Certification - Road to VR",
     "description": "Valve Reveals Requirements for Steam Frame Game Certification  Road to VR1080p at 30fps – Valve Finally Details Steam Machine's Verified Program  IGNValve Confirms Steam Machine \"Verified\" To Ditch UI Legibility Requirements, Details Steam Frame Verified  TechPowerUp'Nothing has actually changed': Valve recommits to a 2026 launch for the Steam Machine amid rumors of a further delay  TechRadarValve's Steam Machine launches in 2026: Everything we know so far  Engadget",
     "published date": "Wed, 11 Mar 2026 13:27:29 GMT",
@@ -340,43 +360,23 @@
     }
   },
   {
-    "title": "Apple's Low-Cost iPhone 17e is Faster Than the Low-Cost MacBook Neo - MacRumors",
-    "description": "Apple's Low-Cost iPhone 17e is Faster Than the Low-Cost MacBook Neo  MacRumorsApple's iPhone 17E vs. iPhone 17, Air, Pro, Pro Max: Comparing the Full Lineup  CNETApple iPhone 17 vs. iPhone 17e: Read This Before Spending the Extra $200  PCMagThis is Apple’s most affordable new iPhone  KTLAiPhone 17e review: The economical choice  Engadget",
-    "published date": "Tue, 10 Mar 2026 23:30:01 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ3l4dVdUVUFDcmdTenFsSVZNcm1udzVMcVYtaFRsRVN0akxFV0Yyam9GQnR3ZmZFbGtheFRGYk5yTkExQTJPeV9pSWN3U2dCT3FmWERUMmJvS1RaamdMczlVa19oS0dRX3FuZnRENktpX0NUZHZ1Zl9VMWpSZjNCZTE1RQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Crimson Desert Specs For PC, Console, And Other Platforms Revealed - Game Informer",
+    "description": "Crimson Desert Specs For PC, Console, And Other Platforms Revealed  Game InformerCrimson Desert: Pearl Abyss Answers Every Tech Question We Could Think Of  Digital FoundryCrimson Desert Gets Surprisingly Low-End Minimum Hardware Requirements for PC and Console  TechPowerUpCrimson Desert Specs Revealed With Dedicated ROG Xbox Ally Sheet  Steam Deck HQHow Big Is ‘Crimson Desert,’ Really? Check Out These Numbers  Forbes",
+    "published date": "Tue, 10 Mar 2026 22:16:48 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSTVHQmppempTS1RpeGczSlJwMHZqV1pBRTlkZG9VSHptaldqbGlVS2IzcFlndXV5d0tGVWNtOHBZWHVSTVcwYmkwc2I4TUZCSzhiZ1JEbjV1eVprdTFkd0s0bGJ4QjJOMEFMSzQ5SWZTZmdPYS0walZQV3dQOTlrNklwN054VVgxdTN1SndqMnZmSm9JRm52d2RVM1M1RXBrQVE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.macrumors.com",
-      "title": "MacRumors"
+      "href": "https://gameinformer.com",
+      "title": "Game Informer"
     }
   },
   {
-    "title": "The Morning After: The new iPad Air M4 is Apple's best overall tablet - Engadget",
-    "description": "The Morning After: The new iPad Air M4 is Apple's best overall tablet  EngadgetApple iPad Air M4 review: still the premium tablet to beat  The GuardianScore Apple's latest iPad Air with a discount ahead of its retail release  XDA3 reasons to upgrade to the new iPad Air M4  T3M4 iPad Air launch day deals: Up to $100 off at Amazon and Best Buy  9to5Toys",
-    "published date": "Tue, 10 Mar 2026 11:15:39 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRFhvYUFBS1dHQi1pWGI4Y1h6clJRb3RGZGROYzNqTXI2cGdYSGZfRi00SEhTX3ByaW1yNUhJLWNydG8wenlrNjBnSU1JSVJWekpEbzJ0TFB6dk9OdXRfdHZEcVVfSXZFLWpMd2lyQ3BBSHRteklMM0d6RlhzWVh2Uk5KUzIyd2tRN2o4VnVB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Fortnite is raising V-Buck prices by up to 25% “to help pay the bills” - Dexerto",
+    "description": "Fortnite is raising V-Buck prices by up to 25% “to help pay the bills”  DexertoFortnite-maker raising in-game currency prices 'to help pay the bills'  BBCInflation comes to Fortnite: V-Bucks prices increase  MashableEpic is increasing the price of Fortnite's V-Bucks currency  Engadget4 Key Ways Fortnite Purchases Are About To Cost More Money  GameSpot",
+    "published date": "Tue, 10 Mar 2026 20:55:03 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObjZzR0hpVmNuNGdjdGFsNnZiU1JqQlJmRGl4LWFid1hKdk5tdjY5NmZoUnBKOEdyNFE2SHNMYkQtcUt6N0ppaFdSM0JPZWhrUVpEYnJMMUNUWHpWT2pyM1dSbVdtUS03TnJDd1lfTnlMTllYZ1JSNmM1OF9hZGt0dXRKblhiNGhkdlZjVmlnbkU3QWxiMC1raExiSFo0Vml0aWFmYmhZTFNCV2pnR3c?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.engadget.com",
-      "title": "Engadget"
-    }
-  },
-  {
-    "title": "‘Fortnite’ Increases V-Buck Prices ‘To Help Pay The Bills' - Forbes",
-    "description": "‘Fortnite’ Increases V-Buck Prices ‘To Help Pay The Bills'  ForbesFortnite-maker raising in-game currency prices 'to help pay the bills'  BBCInflation comes to Fortnite: V-Bucks prices increase  Mashable4 Key Ways Fortnite Purchases Are About To Cost More Money  GameSpotEpic is increasing the price of Fortnite's V-Bucks currency  Engadget",
-    "published date": "Tue, 10 Mar 2026 13:20:47 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdld5M3NqazZQSjJKV05kd1JSODJZLWQ5YTFQYTZtNUxIaWRVWUpTZDNhQ1h4dmdHR215c1lvbDRGNmV0bGd4Y3hFcUdHTGN0aG9JWDMxZGZDY0xwV2t3M2RPT3M3NTRyR1UyeHVCbExoYkRCMHVGaG81Nlc5ZkItTDdmaFVfMkdiVG1ueEgwU09CRUxjZmNudzRpNlZ6N21oNHhxZUhmdHQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.forbes.com",
-      "title": "Forbes"
-    }
-  },
-  {
-    "title": "Mario is Finally Getting a LEGO Minifigure, Launching in Sets From 2027 - IGN",
-    "description": "Mario is Finally Getting a LEGO Minifigure, Launching in Sets From 2027  IGNLEGO Mario Kart levels up Super Mario line-up with Luigi and the first-ever large-scale Mach 8 Kart set  NintendoLEGO Is Finally Releasing Super Mario Minifigures  hypebeast.comNintendo teases Lego Super Mario minifigures coming in 2027.  The VergeLEGO 72050 Mario Kart Luigi & Mach 8 powerslides into your collection in April 2026  Jay's Brick Blog",
-    "published date": "Wed, 11 Mar 2026 10:55:10 GMT",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWHFtWkVLTFllMTI0MW1WZ1FZSzl0NEJIUW9zVHdra0hoSnBUQnlKOG1wNTRmOEtrRVVHYWp5alU2cjl5bXRwNjVmVXRqMW1RZUNaUWdzN0VZQ285eE9hbEJmVUdlY2h0OEg4dG5wX3hxWFFwcTNuMEdkN2lUbmNGXzktcUpGcy03aGNLOXBubzAzSFVsY3NzZUVYdzB1Zk9Z?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ign.com",
-      "title": "IGN"
+      "href": "https://www.dexerto.com",
+      "title": "Dexerto"
     }
   },
   {
@@ -390,53 +390,33 @@
     }
   },
   {
-    "title": "PS5's Helldivers 2 Goes Full WW1 in Upcoming Entrenched Division Warbond - Push Square",
-    "description": "PS5's Helldivers 2 Goes Full WW1 in Upcoming Entrenched Division Warbond  Push SquareHelldivers 2 Entrenched Division Premium Warbond out March 17  PlayStation.BlogHelldivers 2’s Latest Warbond Turns Back The Clock To World War I  GameSpotRsvsr Helldivers 2: Entrenched Division Warbond Brings Trenches, Tactics, and Explosive Firepower  vocal.mediaHelldivers II to get WWI themed ‘Entrenched Division’ Warbond next week  KitGuru",
-    "published date": "Wed, 11 Mar 2026 02:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYmV0NWZfZlM2WjRra0NxWEY3LURZYXZzUGRhWlRwbE1kWlNYcnBNWjQ2RTBDUm9YYUFuWHp6Mm5lRHpDNFczRzlHRmpaWWN5MUZmWE5kV21nN1FDZVU2WFlZN0RpczNTa0JBTGI1Y2xTcHVFMnNOcWVmMG5wQXlEQWhRdVk1dGc0OG9TMDNlWFh5R3YxMm45dDkxYlhSN1VzUURxLWdOSWxXekF3SUtjaQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Mario is Finally Getting a LEGO Minifigure, Launching in Sets From 2027 - IGN",
+    "description": "Mario is Finally Getting a LEGO Minifigure, Launching in Sets From 2027  IGNLEGO Mario Kart levels up Super Mario line-up with Luigi and the first-ever large-scale Mach 8 Kart set  NintendoLEGO Is Finally Releasing Super Mario Minifigures  hypebeast.comBest Lego Mario deals: Take up to 40% off a Mario Lego set at Amazon  MashableLego’s New Luigi ‘Mario Kart’ Set Is Begging for a Death Stare Tweak  Gizmodo",
+    "published date": "Wed, 11 Mar 2026 10:55:10 GMT",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWHFtWkVLTFllMTI0MW1WZ1FZSzl0NEJIUW9zVHdra0hoSnBUQnlKOG1wNTRmOEtrRVVHYWp5alU2cjl5bXRwNjVmVXRqMW1RZUNaUWdzN0VZQ285eE9hbEJmVUdlY2h0OEg4dG5wX3hxWFFwcTNuMEdkN2lUbmNGXzktcUpGcy03aGNLOXBubzAzSFVsY3NzZUVYdzB1Zk9Z?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.pushsquare.com",
-      "title": "Push Square"
+      "href": "https://www.ign.com",
+      "title": "IGN"
     }
   },
   {
-    "title": "After complaints, Google will make it easier to disable gen AI search in Photos - Ars Technica",
-    "description": "After complaints, Google will make it easier to disable gen AI search in Photos  Ars TechnicaGoogle gives in to users’ complaints over AI-powered ‘Ask Photos’ search feature  TechCrunchGoogle Photos adding toggle to quickly swap between Ask Photos and classic search  9to5GoogleMaybe Good News: Google Photos Gets Another Search Fix  Droid LifeGoogle adds option to disable AI search in Google Photos  Digital Watch Observatory",
-    "published date": "Tue, 10 Mar 2026 18:37:12 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcFFrN29veENaa1RwUUo2dy1ha29mdVc2VEcyYjNfTXdyR2dPMG5WRnVNZTVxc2Jyc05zenFRNnQ0V29pUVhrR2N3d2IyaXZjaHB5LWFEbzJ0Nnh4NldJcHhoUDZqaFVlWGZVMDZUSTYwOGVnZEZ0My1hWWU0b3dIVUROT084aTEyU1Z2V0loMFliVWZsUFpqRFZTY1pmTVhKU2xQVk1GZ09TTmgzSEZ5blV3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Apple's Low-Cost iPhone 17e is Faster Than the Low-Cost MacBook Neo - MacRumors",
+    "description": "Apple's Low-Cost iPhone 17e is Faster Than the Low-Cost MacBook Neo  MacRumorsApple's iPhone 17E vs. iPhone 17, Air, Pro, Pro Max: Comparing the Full Lineup  CNETApple iPhone 17 vs. iPhone 17e: Read This Before Spending the Extra $200  PCMagThis is Apple’s most affordable new iPhone  KTLAiPhone 17e review: The economical choice  Engadget",
+    "published date": "Tue, 10 Mar 2026 23:30:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ3l4dVdUVUFDcmdTenFsSVZNcm1udzVMcVYtaFRsRVN0akxFV0Yyam9GQnR3ZmZFbGtheFRGYk5yTkExQTJPeV9pSWN3U2dCT3FmWERUMmJvS1RaamdMczlVa19oS0dRX3FuZnRENktpX0NUZHZ1Zl9VMWpSZjNCZTE1RQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://arstechnica.com",
-      "title": "Ars Technica"
+      "href": "https://www.macrumors.com",
+      "title": "MacRumors"
     }
   },
   {
-    "title": "GeForce Now adds GOG syncing and 90fps game streaming in VR headsets - Engadget",
-    "description": "GeForce Now adds GOG syncing and 90fps game streaming in VR headsets  EngadgetMarch Into the Cloud With 15 New Games Coming to GeForce NOW  NVIDIA BlogNvidia just revealed 3 big upgrades to its GeForce Now cloud gaming service — here's what's new  Tom's GuideGeForce NOW Confirms CONTROL Resonant and Samson, Upgrades VR Streaming to 90FPS  WccftechGeForce Now will get Control Resonant at launch  KitGuru",
-    "published date": "Tue, 10 Mar 2026 15:30:56 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ21rMlJlSV92Y2ZlS2s4YnFxSHBuQ05BbzlQMVFqbHliT2UyX3FmQjZ4RzRJeG1HZUYyQTJRcTREdUQ4aVlocmdaSVZQTEN1Q21EYVoyZE5XQ01UTGNVcGVxNzh4ZkJSN3ZjQl9ndWRSVnFPbmFJUE5pMkFIR0R3Rld2N2MzZUhxMTdsVWhmdlVrS3BhRnNnMnhycHZkLWlxOGdFdDgzcDZGdjYyeG92SlY2eGwtZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "M5 MacBook Air Review (13-Inch, 2026): Go Big or Go Neo - CNET",
+    "description": "M5 MacBook Air Review (13-Inch, 2026): Go Big or Go Neo  CNETApple debuts M5 Pro and M5 Max to supercharge the most demanding pro workflows  AppleApple's 18-core M5 Max beats 96-core Ryzen Threadripper Pro 9995WX in Geekbench due to weak benchmark scaling — GPU performance is much less impressive [Updated]  Tom's HardwareFresh MacBook Air deals debut as M5 models release today  AppleInsiderTesting Apple’s 2026 16-inch MacBook Pro, M5 Max, and its new “performance” cores  Ars Technica",
+    "published date": "Wed, 11 Mar 2026 11:06:38 GMT",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAteVg5T091bng4cEI4X21WQ3FtazRIX2Z3N25DeUVGTGI0TXVUSkd4akJjMTBOX1g3RkxNalJBQjUtQWRtbUlMVHBiVFNBQ0xjOS1vcXYtR1NpQk1DMTItZ3AzeURqMGpJeUJXdHpheG1Ubmt3VF9fUXMzWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.engadget.com",
-      "title": "Engadget"
-    }
-  },
-  {
-    "title": "Prepare for Magic Spotlight: Secrets in London and Chiba - MAGIC PLAY",
-    "description": "Prepare for Magic Spotlight: Secrets in London and Chiba  MAGIC PLAY",
-    "published date": "Tue, 10 Mar 2026 17:37:43 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcFNPTGNjWDFHSzI3SDJXNXVUUHpGaWxBY2xQb05ORTBMS01MNGFJcWFYOXpnakVRcmpUaG9NTEkwcEdXRVFQWU9pRWtJQVBaY2gyREozZjJQbXI2NGxkV3dVeU1GV0tDTldSbVpMX21MZ1pjWjM0LVN4bVZ4bEpnTUNsaw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://magic.gg",
-      "title": "MAGIC PLAY"
-    }
-  },
-  {
-    "title": "Apple’s new MacBooks have keyboard change you might notice instantly - 9to5Mac",
-    "description": "Apple’s new MacBooks have keyboard change you might notice instantly  9to5MacM5 MacBook Air Review: Not just more of the same—the same, but more  Six ColorsApple introduces MacBook Pro with all-new M5 Pro and M5 Max  AppleApple's 18-core M5 Max beats 96-core Ryzen Threadripper Pro 9995WX in Geekbench due to weak benchmark scaling — GPU performance is much less impressive [Updated]  Tom's HardwareFresh MacBook Air deals debut as M5 models release today  AppleInsider",
-    "published date": "Tue, 10 Mar 2026 16:21:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdTVjZ3VlbDJOSl9UUV9VV05EelVSN1Jkd29ma2xUMTVHNWhneVFsOFMzdkdtZGhQaE5ZOG1TYkpqMnBKdWJuUTBJTXBfbW10ZW1taEFTUWpSWjVNZDRuUHRzbWJGUHhLS0E5a0txdktCVkQ4blFaYXVHcllDNVRWX1JsZGtMUk1uWnU3TGtBWXN5aG9uTzlpaEY2NWtzbzcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://9to5mac.com",
-      "title": "9to5Mac"
+      "href": "https://www.cnet.com",
+      "title": "CNET"
     }
   }
 ]
