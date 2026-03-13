@@ -1,8 +1,18 @@
 [
   {
+    "title": "Canadian Computer Scientists - The Canadian Encyclopedia",
+    "description": "Canadian Computer Scientists  The Canadian Encyclopedia",
+    "published date": "Fri, 13 Mar 2026 13:55:02 GMT",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93UXdlTWtMRHE3ZndGbzhHZjIxQWNWSlhST3o4aGVDMm1vR0RkNlk2MFgtSHl2UXdnUXd0aGdaWTI3MjRSZi1jeVhDTzJRa3Ruc2dFUHU2S2w5bGtpR2Q1RFNUYVNKSHFiQ2JQakZ3dEVJTnk4NkZYWHNtekppUEU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://thecanadianencyclopedia.ca",
+      "title": "The Canadian Encyclopedia"
+    }
+  },
+  {
     "title": "Netflix Uncovers Kernel-Level Bottlenecks While Scaling Containers on Modern CPUs - infoq.com",
     "description": "Netflix Uncovers Kernel-Level Bottlenecks While Scaling Containers on Modern CPUs  infoq.com",
-    "published date": "Fri, 13 Mar 2026 12:00:41 GMT",
+    "published date": "Fri, 13 Mar 2026 12:01:25 GMT",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMd0taNG5xajlYQWVxMGhLOW80TVJGd0wxb0VCalNSSVdMT3h4d2k0UVQwamlxYUNSbHNfMlItZUZjb0FRUERFU3pDMFI5THZ2SlJCTXRsdnBtRU12Ui01OVNhOHB2cjZXWUNxcUwwa2tBWXNwOWo4?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.infoq.com",
@@ -32,51 +42,11 @@
   {
     "title": "Film photography finds new fans among Gen Z enthusiasts | Daily Sabah - Daily Sabah",
     "description": "Film photography finds new fans among Gen Z enthusiasts | Daily Sabah  Daily SabahFilm cameras are trendy again, here's how to use one  Yahoo News CanadaOne Tech Tip: How do you use an f-stop?  AP News",
-    "published date": "Thu, 12 Mar 2026 09:23:03 GMT",
+    "published date": "Thu, 12 Mar 2026 08:11:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ1J2eS1GMnItS3BSZTZyT0F1MjBFZFdZb3E5ajlFME0wX2pYVGJfaVNkRzBwSGJyVE05ZTNGcFo3UVJsSG14czF2Nk5nRjl4VE9hVWdubHdKNDJpQmwwanFaOVRLSFNqd0xfb3JINWRsdFVLV1VDTl9oeDFBNjIwV3BVUTQtV3JpaDFEbGVQZlRYYnloRWtF0gGcAUFVX3lxTFBSSGE2M0VqMmhPUnk4VktFdHctbHNFajdVZTdXdWJuNGRqZFZmc3Q5VlRrdUgzMjQxWmlZZEhUeWNRemxNTEMzVWxjTTBVeEs2LU4tY1U0cGw4TTk1Q3VJZDFRdFU1T2JTZERadDNTNFdidDAzbkxwcVVCa0NjYmdHeVRYRlZpMFJxbGpYcDlyNGdJdW5CZnZiU2tsYw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.dailysabah.com",
       "title": "Daily Sabah"
-    }
-  },
-  {
-    "title": "AWS Launches Strands Labs for Experimental AI Agent Projects - infoq.com",
-    "description": "AWS Launches Strands Labs for Experimental AI Agent Projects  infoq.com",
-    "published date": "Thu, 12 Mar 2026 10:03:59 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TSlhmZXhHV1JVd20wTExyVVlPdUxEYTBranh6Q1VkZ0YtbGJTNmhPaVR2NVF6NV92dUVkNG1sQlFid0w5MUIxNUhjS3RpSVZua1E5eFJpNUx6UjdtN1ZDOUg5MHE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.infoq.com",
-      "title": "infoq.com"
-    }
-  },
-  {
-    "title": "Google Maps Is Getting 'The Most Significant Update' In Over A Decade - InsideEVs",
-    "description": "Google Maps Is Getting 'The Most Significant Update' In Over A Decade  InsideEVsHow we’re reimagining Maps with Gemini  blog.googleGoogle Maps Gets Chatty With a New Gemini-Powered Interface  WIREDGoogle Maps receives major upgrade with 3D redesign, AI feature  Mashable‘Immersive Navigation’ is the biggest Google Maps driving update in a decade  9to5Google",
-    "published date": "Fri, 13 Mar 2026 10:11:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM2xRdmctdmg0bkR3MFZ0NFJBOF9GVVF1cFJsbndtbHFCQjBOVU45NGFhb2d0SWEybXQzZDY0REt6T1lmc3FHMTlCWlhCVjVPTktnZEhwM0xOcjRoVEZFNkJCRWx2dTRXNmVoZTl3eWlxSTNpNzF6cHRHNl82dVdjYjZGYnNUYVk?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://insideevs.com",
-      "title": "InsideEVs"
-    }
-  },
-  {
-    "title": "Running Ray at Scale on AKS - infoq.com",
-    "description": "Running Ray at Scale on AKS  infoq.com",
-    "published date": "Thu, 12 Mar 2026 09:00:13 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfQzNMNW1CdUJVbmIwZm44NE5pODR1Mkx5NGFvNUVKamhqdC1lU0cxWkNuV3g2V3B6d0xwZXg2a2t3NjVOMjR6amtHZDBxel9BUTNLR0thSmhQZXpoZm1lbFNmZEpTUWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.infoq.com",
-      "title": "infoq.com"
-    }
-  },
-  {
-    "title": "T-Mobile is giving away the Samsung Galaxy S26 Ultra for free — no trade-in required - Mashable",
-    "description": "T-Mobile is giving away the Samsung Galaxy S26 Ultra for free — no trade-in required  MashableGalaxy S26 Ultra Review: Privacy Display Proves Hardware Still Matters in an AI World  CNETSamsung Galaxy S26 Series, Galaxy Buds4 Series and Galaxy Book6 Series Now Available Worldwide  Business WireSamsung Galaxy S26 Ultra is available now: Launch deals, early sales  MashableSamsung Galaxy S26 Series and Galaxy Buds4 Series Now Available Worldwide  Samsung Global Newsroom",
-    "published date": "Fri, 13 Mar 2026 11:36:38 GMT",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XNlJjbnNDdGhGWE5nazdPMjNudnNqRjJYcS00aWk0V1RmMnVOM3VLdTBPMjBycHdUVUhUU1pZLXZDMTZfUjNMZEx4MTRfYWNxZGVXdGdTX1MtV1ltQ2lDTTVNYm5uTWNCdXZrX0tEaDdEd1lkT3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://mashable.com",
-      "title": "Mashable"
     }
   },
   {
@@ -90,23 +60,53 @@
     }
   },
   {
+    "title": "AWS Launches Strands Labs for Experimental AI Agent Projects - infoq.com",
+    "description": "AWS Launches Strands Labs for Experimental AI Agent Projects  infoq.com",
+    "published date": "Thu, 12 Mar 2026 10:03:59 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TSlhmZXhHV1JVd20wTExyVVlPdUxEYTBranh6Q1VkZ0YtbGJTNmhPaVR2NVF6NV92dUVkNG1sQlFid0w5MUIxNUhjS3RpSVZua1E5eFJpNUx6UjdtN1ZDOUg5MHE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.infoq.com",
+      "title": "infoq.com"
+    }
+  },
+  {
+    "title": "Running Ray at Scale on AKS - infoq.com",
+    "description": "Running Ray at Scale on AKS  infoq.com",
+    "published date": "Thu, 12 Mar 2026 09:00:13 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfQzNMNW1CdUJVbmIwZm44NE5pODR1Mkx5NGFvNUVKamhqdC1lU0cxWkNuV3g2V3B6d0xwZXg2a2t3NjVOMjR6amtHZDBxel9BUTNLR0thSmhQZXpoZm1lbFNmZEpTUWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.infoq.com",
+      "title": "infoq.com"
+    }
+  },
+  {
+    "title": "Samsung Galaxy S26, Buds4 Launch Worldwide After Record-Breaking Preorders - TechRepublic",
+    "description": "Samsung Galaxy S26, Buds4 Launch Worldwide After Record-Breaking Preorders  TechRepublicGalaxy S26 Ultra Review: Privacy Display Proves Hardware Still Matters in an AI World  CNETSamsung Galaxy S26 Ultra is available now: Launch deals, early sales  MashableSamsung Galaxy S26 Series and Galaxy Buds4 Series Now Available Worldwide  Samsung Global NewsroomSamsung Galaxy S26 Series, Galaxy Buds4 Series and Galaxy Book6 Series Now Available Worldwide  Business Wire",
+    "published date": "Fri, 13 Mar 2026 13:57:14 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ3VOaHJncjBDZGJVdHpwczktcjQ3bm1wNWN3UXZLb0dJaWdSdkk4RmJadlVCR3NfRGYtZWt5M0dBNFc4V1YtcW5LUVBKbHBhaW9iajdoU01YUGFnODBiZ0dIWUxFckY1WjVUM3pWNW0tcXpCT2tRT01HSkY5Yi1ZN05pSk9kSTd0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.techrepublic.com",
+      "title": "TechRepublic"
+    }
+  },
+  {
+    "title": "Google Maps Is Getting 'The Most Significant Update' In Over A Decade - InsideEVs",
+    "description": "Google Maps Is Getting 'The Most Significant Update' In Over A Decade  InsideEVsHow we’re reimagining Maps with Gemini  blog.googleGoogle Maps receives major upgrade with 3D redesign, AI feature  MashableThe new Google Maps redesign aims to keep your eyes on the road, not your screen  Fast Company‘Immersive Navigation’ is the biggest Google Maps driving update in a decade  9to5Google",
+    "published date": "Fri, 13 Mar 2026 10:11:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM2xRdmctdmg0bkR3MFZ0NFJBOF9GVVF1cFJsbndtbHFCQjBOVU45NGFhb2d0SWEybXQzZDY0REt6T1lmc3FHMTlCWlhCVjVPTktnZEhwM0xOcjRoVEZFNkJCRWx2dTRXNmVoZTl3eWlxSTNpNzF6cHRHNl82dVdjYjZGYnNUYVk?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://insideevs.com",
+      "title": "InsideEVs"
+    }
+  },
+  {
     "title": "The Morning After: Our verdict on Apple’s $600 Macbook Neo - Engadget",
-    "description": "The Morning After: Our verdict on Apple’s $600 Macbook Neo  EngadgetApple's $599 MacBook Neo Shocks PC Industry Leaders  Gadget HacksFormer Microsoft lead reviews the MacBook Neo: ‘It just has to stay excellent’  9to5MacMacBook Neo Teardown Reveals It's the Most Repairable Apple Laptop in Ages  CNETMacBook Neo's Keyboard Can Be Replaced Individually  MacRumors",
+    "description": "The Morning After: Our verdict on Apple’s $600 Macbook Neo  EngadgetPC makers are not ready for the MacBook Neo  The VergeApple's $599 MacBook Neo Shocks PC Industry Leaders  Gadget HacksMacBook Neo Review: Near-Perfect Starter Mac Only Misses Out on One Key Feature  CNETMacBook Neo's Keyboard Can Be Replaced Individually  MacRumors",
     "published date": "Fri, 13 Mar 2026 12:01:25 GMT",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeWt1M3hfQy1jaEJMcEY0THozcGllVmdLNGh4NlFfaHpRYWQxVFloZG5oQXdvQjNSb0dpSlMyeW04Y24wZVhKdzVOSFl0aXMwa1Z5ODFCcGh6TzdoNGVYVm9xc3pUbVkzdElOai1ZU1I4aVdIay1iQmVNcjlWczhnckxqMmJZOG44SjRnVzBB?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.engadget.com",
       "title": "Engadget"
-    }
-  },
-  {
-    "title": "Galaxy Buds4 Series Elevates Call Clarity with HD Voice - Samsung Global Newsroom",
-    "description": "Galaxy Buds4 Series Elevates Call Clarity with HD Voice  Samsung Global NewsroomSamsung Galaxy Buds 3 Pro: Are They Still Worth Buying With Buds 4 Pro's Release?  CNETSony WF-1000XM6 vs. Samsung Galaxy Buds 4 Pro: Top Android Earbuds Compared  CNETSamsung Galaxy Buds 4 and 4 Pro review: Impressive audio, imperfect ANC  Engadget",
-    "published date": "Wed, 11 Mar 2026 22:51:20 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVVpObDhyb1NSemhuQ0w5ZDBkZHpqVlNrWm5OMzM3em1VMnJNTFRfdW1VX0pHNHlyUTdhdGRwQkkxVVVabkhreHM1dHB1SkJ1WVp5Vjg0dm5jbVBZMi1OVHhRVkRMSDZBVW5leVdENnJwS1ZiMG0wUk9DbW1DSkpkc0lhamppYVFhc1pn?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://news.samsung.com",
-      "title": "Samsung Global Newsroom"
     }
   },
   {
@@ -117,6 +117,16 @@
     "publisher": {
       "href": "https://www.infoq.com",
       "title": "infoq.com"
+    }
+  },
+  {
+    "title": "Tomb Raider I-III Remastered Gets A Switch 2 Release, Free Upgrade \"Coming Soon\" - Nintendo Life",
+    "description": "Tomb Raider I-III Remastered Gets A Switch 2 Release, Free Upgrade \"Coming Soon\"  Nintendo LifeTomb Raider I-III Remastered: New outfits and Challenge Mode added in free update today  PlayStation.BlogTomb Raider 1-3 Remastered gets free challenge mode alongside mobile and Switch 2 release  Eurogamer.net",
+    "published date": "Fri, 13 Mar 2026 04:55:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ2FwaHgzSkZaTjc3dWFna0llemtjSEoyMy0wYzlHX2cyRnM1d3FzQUlEVEpwd3dQWE1JcDdzRlJDd3BqMHNoZ0YxeUpYa2J5b2w0SmtBUmdEcmNCaTVJcHN6N3pGUXdDX1ZnckRDTVNFU1FlSVBSRERiLVZ0blcwZjIydllsSjgyTG93UjJoZ2VYYTA3MFd3N2tYRWpxUGJWS0l2MnR1MmRHOG1yZktFNEdWY2ptcFAzaUxR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nintendolife.com",
+      "title": "Nintendo Life"
     }
   },
   {
@@ -140,16 +150,6 @@
     }
   },
   {
-    "title": "For Creators, By Creators: Samsung’s Pro-Grade APV Codec Supported on Galaxy S26 Ultra - Samsung Global Newsroom",
-    "description": "For Creators, By Creators: Samsung’s Pro-Grade APV Codec Supported on Galaxy S26 Ultra  Samsung Global Newsroom",
-    "published date": "Wed, 11 Mar 2026 22:51:20 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNnlOZkhKeERFX0plU3VCUjI5cHJOazNmdS1iRURiUExwTU1jSEY4V0ZvUWprbm80UEh1dGtLMGltNHJ5dGRfSGNXX0c3bG5sZW5KWDdzcXdqREpZYy1IZzI5UXZERno4blpzbERWVWlDSGF2TTBHcWF5ZUIyZDdmNjRyZ2xHamo4bkhNRjJ2VWVFQm5IZC1aWmVoWXBsNGlxdGQ5dnVYYzV6QlBkM2QyZg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://news.samsung.com",
-      "title": "Samsung Global Newsroom"
-    }
-  },
-  {
     "title": "PC will overtake console revenue by 2028, says Newzoo - GamesIndustry.biz",
     "description": "PC will overtake console revenue by 2028, says Newzoo  GamesIndustry.bizPC games revenue will outgrow consoles by 2028, analyst predicts  PC Gamer",
     "published date": "Thu, 12 Mar 2026 16:00:00 GMT",
@@ -157,6 +157,16 @@
     "publisher": {
       "href": "https://www.gamesindustry.biz",
       "title": "GamesIndustry.biz"
+    }
+  },
+  {
+    "title": "For Creators, By Creators: Samsung’s Pro-Grade APV Codec Supported on Galaxy S26 Ultra - Samsung Global Newsroom",
+    "description": "For Creators, By Creators: Samsung’s Pro-Grade APV Codec Supported on Galaxy S26 Ultra  Samsung Global Newsroom",
+    "published date": "Wed, 11 Mar 2026 22:51:20 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNnlOZkhKeERFX0plU3VCUjI5cHJOazNmdS1iRURiUExwTU1jSEY4V0ZvUWprbm80UEh1dGtLMGltNHJ5dGRfSGNXX0c3bG5sZW5KWDdzcXdqREpZYy1IZzI5UXZERno4blpzbERWVWlDSGF2TTBHcWF5ZUIyZDdmNjRyZ2xHamo4bkhNRjJ2VWVFQm5IZC1aWmVoWXBsNGlxdGQ5dnVYYzV6QlBkM2QyZg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://news.samsung.com",
+      "title": "Samsung Global Newsroom"
     }
   },
   {
@@ -170,16 +180,6 @@
     }
   },
   {
-    "title": "Photonic 'ski jumps' efficiently beam light into free space - Phys.org",
-    "description": "Photonic 'ski jumps' efficiently beam light into free space  Phys.orgThe Future of Beam Scanning with Nanophotonic Waveguide Chips  wadenanews.ca",
-    "published date": "Wed, 11 Mar 2026 18:50:01 GMT",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IbUk3b01IajFLckJ4V2NXNm91S25rTXllMWVaQ3pZbERZamVFTkZjSEduVW5RZWNFWmZMazVHejVxdEdVX05qNjg0cGJEaDU5MGRfRG1JYk53NEhZVUk4T2xXTzdkd0pZM3BEaUpCWHZjTHFa?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://phys.org",
-      "title": "Phys.org"
-    }
-  },
-  {
     "title": "iPhone Fold rumor: iPad-like multitasking, but no iPad apps and no Face ID - The Verge",
     "description": "iPhone Fold rumor: iPad-like multitasking, but no iPad apps and no Face ID  The VergeApple’s Foldable iPhone to Feature iPad-Like Interface When Opened  Bloomberg.comNew iPhone Fold details include rumored RAM, storage, and pricing  9to5MacApple Stays Competitive On New iPhone Fold Price  ForbesApple’s Foldable iPhone Said to Feature iPad-Like Layouts and Skip Face ID  iPhone in Canada",
     "published date": "Wed, 11 Mar 2026 22:22:33 GMT",
@@ -187,6 +187,16 @@
     "publisher": {
       "href": "https://www.theverge.com",
       "title": "The Verge"
+    }
+  },
+  {
+    "title": "Photonic 'ski jumps' efficiently beam light into free space - Phys.org",
+    "description": "Photonic 'ski jumps' efficiently beam light into free space  Phys.orgThe Future of Beam Scanning with Nanophotonic Waveguide Chips  wadenanews.ca",
+    "published date": "Wed, 11 Mar 2026 18:50:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IbUk3b01IajFLckJ4V2NXNm91S25rTXllMWVaQ3pZbERZamVFTkZjSEduVW5RZWNFWmZMazVHejVxdEdVX05qNjg0cGJEaDU5MGRfRG1JYk53NEhZVUk4T2xXTzdkd0pZM3BEaUpCWHZjTHFa?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://phys.org",
+      "title": "Phys.org"
     }
   },
   {
@@ -200,53 +210,13 @@
     }
   },
   {
-    "title": "Ex-Windows chief praises MacBook Neo, laments Windows and Surface failures - Windows Central",
-    "description": "Ex-Windows chief praises MacBook Neo, laments Windows and Surface failures  Windows CentralView Full Coverage on Google News",
-    "published date": "Thu, 12 Mar 2026 11:42:28 GMT",
-    "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNeEk2eGgza2doQXdtUk82YmZqY3p5UG9Nb0ZyMmhnWHlMZ0tKLThEeEVqd3hrd1dWSjZic0lFVmxXTFQxQUVKV0N5MU1tQm4xbEpnSnBUX1pXMW1FZEpDWjNxVVdUWjc4ZU5CSGJZdzdrNkduZHZlSUxHNTlOUjBYVVhMNGtiM0UzSDNRWmg0Y1h4YzJ6Mmo1X2NyLUFFR2VCSGc0WGJiZ1hQR1RvVy1fTEtibGo4Y1Q3UDM5Zjk1R2NFX1djcFZ2bjNpZ25aUERRMEZYbldVNTVjZnVBZDN6NlM3WGJfSXUwSWwta1k1T2c1TVQtM2ZPMGFINjlTREtkcjVMOG1yRGJRa0hodUVITFhETXBGR3g4X1ozTDNKQjc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.windowscentral.com",
-      "title": "Windows Central"
-    }
-  },
-  {
-    "title": "Amazon shoppers call this 'excellent' water leak detector a 'life-changer' — and it's on sale right now - Yahoo Lifestyle Canada",
-    "description": "Amazon shoppers call this 'excellent' water leak detector a 'life-changer' — and it's on sale right now  Yahoo Lifestyle Canada",
-    "published date": "Wed, 11 Mar 2026 21:00:26 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcUNMTU9fVF9ORW9XakVOUlg5UjZ1TW84Y215TzdWOVJtVGZwVlZ1ZHVmZnZVRS1BcjVGaW13dnk0ZjgzdkxmLU9IaWl2ZzdTOURZU00zTkhZcUJFVllncEJrX1Znd2lnZXYyUnN0Q25DdklyNTV6RW1NUktBdDZpNE1oNURxZURYYmFXeVNoRGFhYjlaRlZuazJfWFFnd0E3V2E3MGRiV2doTUs4ZWNTOXlUVXRzcFNvV2l6aTRyQUl6Q19qSzdBTU5vZENqc1EwWGRJSXdB?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://ca.style.yahoo.com",
-      "title": "Yahoo Lifestyle Canada"
-    }
-  },
-  {
-    "title": "AMD reveals \"FSR Diamond\" for Next-Gen Xbox, but is it RDNA5 exclusive? - VideoCardz.com",
-    "description": "AMD reveals \"FSR Diamond\" for Next-Gen Xbox, but is it RDNA5 exclusive?  VideoCardz.comFrom GDC: Building the Next Generation of Xbox  Xbox WireMicrosoft’s next Xbox, Project Helix, won’t reach alpha until 2027  The VergeXbox Shares New Hardware Details For Next Generation Console, Project Helix  Game InformerMicrosoft plans to ship prototype of next Xbox console to developers in 2027  CNBC",
-    "published date": "Wed, 11 Mar 2026 18:58:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZzlVcU54UHdqOEV6Q2FvaDFFTXNHRE5OMFU3bmFlbUVQa2d1SUZmZXE5dDAzZFBMQksyWmRtUnk4Mm1qN25ON3RzWHZfZlpieGhESzU2QURmbC1lamRvVDNMNkF5TF91Z3JtMGN4RTJtQTVJUFVQdkI1WjVvWU4wUnlPTUJqWjdTY256YjBaRkE5aW1WNzBMVlpodw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Microsoft confirms AMD FSR Next and ML Multi Frame Generation for Project Helix - VideoCardz.com",
+    "description": "Microsoft confirms AMD FSR Next and ML Multi Frame Generation for Project Helix  VideoCardz.comFrom GDC: Building the Next Generation of Xbox  Xbox WireMicrosoft’s next Xbox, Project Helix, won’t reach alpha until 2027  The VergeXbox Shares New Hardware Details For Next Generation Console, Project Helix  Game InformerMicrosoft plans to ship prototype of next Xbox console to developers in 2027  CNBC",
+    "published date": "Wed, 11 Mar 2026 17:52:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU2x1Z28tSDY0aDhSSmQyXzhmdWJiVDh3TF81TzBzSGJ1Z1JhTEtGYmVpSThuYjYwOWg3el94VGoySnpHVGNFWFZhcklSbkllX3lYcXJzbXhSVUkyS0ZjcTZlZE91Y1FiQkdlZlZJTnQxY0VxTElfMjZDVnZydUdWTUw2WFZ2RWhkcHpwU1pjbzhWeC1FV1RFbDFQUUkzNXZZZkRsUndXNTZJMEE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://videocardz.com",
       "title": "VideoCardz.com"
-    }
-  },
-  {
-    "title": "Marathon, ARC Raiders And The Paradox Of Extraction ‘Casual’ Appeal - Forbes",
-    "description": "Marathon, ARC Raiders And The Paradox Of Extraction ‘Casual’ Appeal  ForbesThe Arc Raiders vs. Marathon debate completely misses the point  Polygon.com",
-    "published date": "Thu, 12 Mar 2026 15:04:26 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbE1zdlFLZHdrbTVPN0phd3l6NVNpcWRwWDVPQ1FtT2NSTVhLSGhkbW5UTHFyWllYbWZLLWNDd3lwV0ZiUGJhQnpFLXV5ZFRaTjI4dXNPazJVZWdubDhGa1YxLVotVkg0X1ZNNVZQbnQ2djNsQUtNTWg0RlcxUnB2TTFNUzZ6aEFZSEYwSWRPYU01cTNHazRqM2NXQjJRb01WUm16YWFpcXZjRHpFSVlFbHYtRDV3UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.forbes.com",
-      "title": "Forbes"
-    }
-  },
-  {
-    "title": "A Nintendo producer's childhood Mario memory helped shape a Switch 2 Donkey Kong hit - Game File | Stephen Totilo",
-    "description": "A Nintendo producer's childhood Mario memory helped shape a Switch 2 Donkey Kong hit  Game File | Stephen Totilo'It Is More Fun to Destroy That Which Is Beautiful' – Nintendo Crammed More Than 340 Million Voxels Into Just One of Donkey Kong Bananza's Layers  IGN",
-    "published date": "Wed, 11 Mar 2026 19:36:52 GMT",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBdjJ4cEpDam51MktvUm1rUVRfN1F3RTFTd3JLdURZLTJHNnlWdmo5NXItblNpazFqbG1jdG9maFZ1dm83cllsMV8tRkhETWtRNjhsLVJXTVBWZy1wSTQ1bzdaWkxDZTYxX0VPb0VhN2xlWFFSV0I1Tw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.gamefile.news",
-      "title": "Game File | Stephen Totilo"
     }
   },
   {
@@ -267,16 +237,6 @@
     "publisher": {
       "href": "https://www.forbes.com",
       "title": "Forbes"
-    }
-  },
-  {
-    "title": "6 of Our Favorite Mustangs - Hagerty",
-    "description": "6 of Our Favorite Mustangs  Hagerty",
-    "published date": "Wed, 11 Mar 2026 22:07:46 GMT",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51djgzRThCUzVLa1QxWUdoRko0cENRZTkzM3J5Sks1NUx3QnFKYXU3ZU54NnVISjRzM3d5TlhEbG9kVld0MThpM1ZHelFIZVpxc0dTVjdwa0VpbE9jRXduUWhVT2xJcXhXY2lneTJvNjU?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.hagerty.com",
-      "title": "Hagerty"
     }
   }
 ]
