@@ -1,5 +1,25 @@
 [
   {
+    "title": "The Taproot Mini - No. 169 - Taproot Edmonton",
+    "description": "The Taproot Mini - No. 169  Taproot Edmonton",
+    "published date": "Tue, 17 Mar 2026 12:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40TDVveHhUemtkY0wyTU90YjliNFBoMzBCVXdGTVJRWjlQcWtqemxWLXZvb3QtMWNfUm9GeTVyNW1xYndrRVc4VDhQSUVMa0FyNFRNLUFGRl9Hbm9VSGdHREh6YWJLR1ZLQU01ZVM4YzlEaGZWcnpOclRtbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://edmonton.taproot.news",
+      "title": "Taproot Edmonton"
+    }
+  },
+  {
+    "title": "QCon London 2026: All Tech Debt is Not Created Equal - infoq.com",
+    "description": "QCon London 2026: All Tech Debt is Not Created Equal  infoq.com",
+    "published date": "Tue, 17 Mar 2026 11:03:13 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VWndRT3g3OFB5M3JQWkVQcE9ZVEFneW9lSGhmNzVmeTVEMEUyOWNmWTFubTdfNDhlSzFzWDIyYTR5NExfVE5mQ1hPVFZmdXhYTFlmV3pQSjVqajNEN1dxUUhfSEVLQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.infoq.com",
+      "title": "infoq.com"
+    }
+  },
+  {
     "title": "QCon London 2026: From Prompt to Production: How Spotify Builds Internal Tools in Days with AI - infoq.com",
     "description": "QCon London 2026: From Prompt to Production: How Spotify Builds Internal Tools in Days with AI  infoq.com",
     "published date": "Tue, 17 Mar 2026 08:09:08 GMT",
@@ -10,43 +30,13 @@
     }
   },
   {
-    "title": "The Taproot Mini - No. 168 - Taproot Edmonton",
-    "description": "The Taproot Mini - No. 168  Taproot Edmonton",
-    "published date": "Mon, 16 Mar 2026 12:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54QkF3czBXb0lrMXNGRTFmZWtXMUdiNlJVWDlPWUlOa3MtNFlIOXdEUWVoMUpEVk4yUXAxMkI0Y0hBbUtZdDZYNDhvNEx3SnpzUjkwczh4eVNXenFDcDFNeHFjMUNjaXl0dlp2cDNCY2MwOS1hdlpyV3A3Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://edmonton.taproot.news",
-      "title": "Taproot Edmonton"
-    }
-  },
-  {
-    "title": "ASUS Republic of Gamers Strix Laptop Lineup Returns With the Latest Intel Core Ultra 9 290HX Plus Processors - ASUS Pressroom",
-    "description": "ASUS Republic of Gamers Strix Laptop Lineup Returns With the Latest Intel Core Ultra 9 290HX Plus Processors  ASUS Pressroom",
-    "published date": "Tue, 17 Mar 2026 09:07:14 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdWpyckhCVWU5V0VaeGJSRUN0dXpMSE9XcWJtQkZsVXozRmNDa2FXNW5DMUlXRzVfUWZPVDVvWVJBb21SOGt2SGcxVTAxeDQxWkU4R0N0ZmRRb0tVTDI4b0xrd2FDWUJpS25STDRZWG80RFMtTGZfWmdHUUM1TEFOUExCNER4ZXZtU1MzLUlpUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://press.asus.com",
-      "title": "ASUS Pressroom"
-    }
-  },
-  {
     "title": "Nvidia unveils new AI technologies at annual developer conference - chinadailyasia.com",
-    "description": "Nvidia unveils new AI technologies at annual developer conference  chinadailyasia.comNVIDIA DLSS 5 Delivers AI-Powered Breakthrough In Visual Fidelity For Games  NVIDIANvidia's new DLSS 5 Brings Photo-Realistic Lighting To RTX 50-Series  Digital FoundryWhoa: Nvidia's DLSS 5 Can Make PC Games Look Real  PCMagNVIDIA claims DLSS 5 will deliver 'photoreal' image quality with AI this fall  Engadget",
+    "description": "Nvidia unveils new AI technologies at annual developer conference  chinadailyasia.comNVIDIA DLSS 5 Delivers AI-Powered Breakthrough In Visual Fidelity For Games  NVIDIANvidia's new DLSS 5 Brings Photo-Realistic Lighting To RTX 50-Series  Digital FoundryWhoa: Nvidia's DLSS 5 Can Make PC Games Look Real  PCMagNVIDIA claims DLSS 5 will deliver 'photoreal' image quality with AI this fall  Yahoo News Canada",
     "published date": "Tue, 17 Mar 2026 06:24:27 GMT",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81Vml1eC1OTk9tMzZmcV9RVWQ1cDNueGhGc1JFdk1Kbk80cE94ODlkcFlxdWNBR1FqVnhiYWZkOHFDVkJlaGxHbHRBT2xNTkJvWDN1REdmazI?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.chinadailyasia.com",
       "title": "chinadailyasia.com"
-    }
-  },
-  {
-    "title": "QCon London 2026: Behind Booking.com's AI Evolution: The Unpolished Story - infoq.com",
-    "description": "QCon London 2026: Behind Booking.com's AI Evolution: The Unpolished Story  infoq.com",
-    "published date": "Tue, 17 Mar 2026 05:21:08 GMT",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15Q2NrY1NNaldJWHNQWmpqbndteVFudHBoYnlHQ3JqWnJhdEplNzBTaGgtY1ctYzFGYmpjZGJQMGphdnVKUnFWSlByXzBUVHViQ1ZRaENXUGlVMFA2TmdEcWFUUEtuT2ZHMVpLUkVXSnU?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.infoq.com",
-      "title": "infoq.com"
     }
   },
   {
@@ -60,33 +50,13 @@
     }
   },
   {
-    "title": "National Lottery hunts for missing £10.6m London jackpot winner - BBC",
-    "description": "National Lottery hunts for missing £10.6m London jackpot winner  BBC",
-    "published date": "Tue, 17 Mar 2026 05:59:56 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rTkF3aVNBTXRFenhrY1N1dUgyU3Y2YlJ1RHlaN0h2TzVmY3UyTV9DNWpEczRHeEdIY2J6emQ2RnEzekl6THhhRjNvYW9HSDF2RE1RaHFyLXlaZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "ASUS Republic of Gamers Strix Laptop Lineup Returns With the Latest Intel Core Ultra 9 290HX Plus Processors - ASUS Pressroom",
+    "description": "ASUS Republic of Gamers Strix Laptop Lineup Returns With the Latest Intel Core Ultra 9 290HX Plus Processors  ASUS Pressroom",
+    "published date": "Tue, 17 Mar 2026 09:07:14 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdWpyckhCVWU5V0VaeGJSRUN0dXpMSE9XcWJtQkZsVXozRmNDa2FXNW5DMUlXRzVfUWZPVDVvWVJBb21SOGt2SGcxVTAxeDQxWkU4R0N0ZmRRb0tVTDI4b0xrd2FDWUJpS25STDRZWG80RFMtTGZfWmdHUUM1TEFOUExCNER4ZXZtU1MzLUlpUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.bbc.com",
-      "title": "BBC"
-    }
-  },
-  {
-    "title": "Five handy gadgets for EDC (everyday carry) enthusiasts - Financial Times",
-    "description": "Five handy gadgets for EDC (everyday carry) enthusiasts  Financial Times",
-    "published date": "Mon, 16 Mar 2026 11:00:08 GMT",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CdjhGWlZXUFFhZVMzSGxQWEJPNWtkbWVDdk5WOFd5X0VqT1lCNFpjSzNUWTN4Zk4wTXJ4WkFSWWR6OU5WZXJOeG96VG15eUJROFpRRFZQYjNZNnVpMGE5ZGhLcWFORE5IMFhVVUFVaWM?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ft.com",
-      "title": "Financial Times"
-    }
-  },
-  {
-    "title": "Plans for pedestrian and cyclist gate at factory - Yahoo News Canada",
-    "description": "Plans for pedestrian and cyclist gate at factory  Yahoo News Canada",
-    "published date": "Tue, 17 Mar 2026 06:02:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQamZCQ0hfdXA2d3ZKblQ2bW5nYVpkYkdOaE01WkJEUTlBV2NvLXRCYUZMWW1oREl3X2Jnd203aENSRnEtUlIyckpXQXQtaHBpWHRmRlJCeUVNWUsza050b1VPbmN2eVI0WnhVNHh1YjJpZVJ5el9mSGFrOWlDVUxUMzQ1VGU?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://ca.news.yahoo.com",
-      "title": "Yahoo News Canada"
+      "href": "https://press.asus.com",
+      "title": "ASUS Pressroom"
     }
   },
   {
@@ -100,6 +70,16 @@
     }
   },
   {
+    "title": "Plans for pedestrian and cyclist gate at factory - Yahoo News Canada",
+    "description": "Plans for pedestrian and cyclist gate at factory  Yahoo News Canada",
+    "published date": "Tue, 17 Mar 2026 06:02:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQamZCQ0hfdXA2d3ZKblQ2bW5nYVpkYkdOaE01WkJEUTlBV2NvLXRCYUZMWW1oREl3X2Jnd203aENSRnEtUlIyckpXQXQtaHBpWHRmRlJCeUVNWUsza050b1VPbmN2eVI0WnhVNHh1YjJpZVJ5el9mSGFrOWlDVUxUMzQ1VGU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://ca.news.yahoo.com",
+      "title": "Yahoo News Canada"
+    }
+  },
+  {
     "title": "Devnexus 2026: Focus on AI with Core Java, Java Frameworks, Security and Career Mentoring - infoq.com",
     "description": "Devnexus 2026: Focus on AI with Core Java, Java Frameworks, Security and Career Mentoring  infoq.com",
     "published date": "Mon, 16 Mar 2026 11:35:29 GMT",
@@ -110,13 +90,33 @@
     }
   },
   {
+    "title": "Scientists discover heavier version of proton with upgraded detector - The Guardian",
+    "description": "Scientists discover heavier version of proton with upgraded detector  The Guardian",
+    "published date": "Tue, 17 Mar 2026 08:02:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV0RTTnVRYVhaMHpSWnZ1OEFFVTJ5dlVldVc3MTNKeFdQb2tacERfMlBGaWwyQy1Ka2Q2R3k3cVFhNmowRTJ1dXQ1YTk4NGJGWXpwTXhYVmpKOTJTWHZfMDg0QzM3OC1LalJrcnJUOF9FSWNlRVY5MEd6Z3QyS3FKSDd3MkQ1SURqVGdDX0N2eEtXMTQ1MTlXU1NEeTJzeFFwY2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theguardian.com",
+      "title": "The Guardian"
+    }
+  },
+  {
     "title": "Brave The Deep Jungles Of Runeterra in Riftbound: Unleashed - Games Press",
     "description": "Brave The Deep Jungles Of Runeterra in Riftbound: Unleashed  Games PressThe Unleashed Overview  RiftboundPreview Season Unleashed  Riftbound",
-    "published date": "Mon, 16 Mar 2026 16:53:48 GMT",
+    "published date": "Tue, 17 Mar 2026 10:41:12 GMT",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQejI1N3NRMUZLMm1sQmxSQmYwQmR3NGdSRlpuS3ZqS2Zkbkp4Ti1DYUVJQTBLNmJwQUlhajcyRkd1aWhDR3QwWjBzeVhFRmtIQ1RiM3VBYU1XYVpFcjhCczRSME5VRzdkdnAwSkNQdzFQQjAxa25lWUIxZTI4YWQwWlZQc2JUSjdPTXN4OXNB?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.gamespress.com",
       "title": "Games Press"
+    }
+  },
+  {
+    "title": "MIT’s Photonic Chip Projects Data into Free Space - AZoQuantum",
+    "description": "MIT’s Photonic Chip Projects Data into Free Space  AZoQuantumPhotonic 'ski jumps' efficiently beam light into free space  Phys.orgNew photonic device beams thousands of lasers into free space at once  Interesting EngineeringNanophotonic waveguide chip-to-world beam scanning  Nature",
+    "published date": "Tue, 17 Mar 2026 12:10:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DX0pmQWhkWnlpbDRJOFk5M2lLdHlSS1V1MURWeFJhbm1uX1EtWnRjSEpyX19XSWNTNlBHNTl0WTVYR21aQzB6aVk0SnF5N2FnMUxoVzEwWkkzZWdrdnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.azoquantum.com",
+      "title": "AZoQuantum"
     }
   },
   {
@@ -130,6 +130,16 @@
     }
   },
   {
+    "title": "The Morning After: Apple's surprise AirPods Max refresh - Engadget",
+    "description": "The Morning After: Apple's surprise AirPods Max refresh  EngadgetView Full Coverage on Google News",
+    "published date": "Tue, 17 Mar 2026 11:15:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa1FIZ3Bib3Qyb2Q5NFBsNzd5ZDhCaEZ0bHc1VE9LUGowT3FtUTc1VENjTXBLbDJuS0NLVksyQ1BTWWJwZXk4Nk1taHlZRzd2N2ZGTlByQUZVTXd2RzltaFVSM3RydGNVV19obXY4bTFHTjFPbGhuSWlJVGRJb3hVRnQwWXZZd2JYQzBHbnRR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.engadget.com",
+      "title": "Engadget"
+    }
+  },
+  {
     "title": "QCon London 2026: The Hidden Power of Boring Problems - infoq.com",
     "description": "QCon London 2026: The Hidden Power of Boring Problems  infoq.com",
     "published date": "Mon, 16 Mar 2026 16:31:31 GMT",
@@ -140,43 +150,23 @@
     }
   },
   {
-    "title": "Warner Bros Montréal reportedly hit with staff cuts - GamesIndustry.biz",
-    "description": "Warner Bros Montréal reportedly hit with staff cuts  GamesIndustry.bizGotham Knights Dev Warner Bros Montreal Reportedly Hit by Layoffs  TechRaptor",
-    "published date": "Mon, 16 Mar 2026 08:46:19 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeUdNaVhVVmRrYkdtLTliX1czeHJHNklJSXJTQWktR08wRlZHQVl4SXdJWDZDVVp1NzVnQlJ0eU14aW5aSmtVV3dsTVFLSTlKbUZOb3J3RVBEaGxOeEYwa3hwdjl4Qy1CMUwwMXZfVk1EbkM3UXVrb191ZlN5WTQwam5ISnJLZVJX?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "WB Montreal Hit With Unknown Number of Layoffs Amidst Paramount Skydance’s Acquisition of WB - Wccftech",
+    "description": "WB Montreal Hit With Unknown Number of Layoffs Amidst Paramount Skydance’s Acquisition of WB  WccftechWarner Bros Montréal reportedly hit with staff cuts  GamesIndustry.bizGotham Knights Dev Warner Bros Montreal Reportedly Hit by Layoffs  TechRaptor",
+    "published date": "Mon, 16 Mar 2026 13:57:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUk9BYktOa2tYcVFLVDcyTDIzVUxoUUtkSW5WQjJPZC1qQUFremdFTEE5a0ZjTHhqNmhJS05wdTZRVVRzQ3JQM0owSl9Ebm9kZk1UejY5OGZnMWVYdFctYWZOQUpXMGljQmxUUG55bTQ3TUpTcGRLWUFsUVhsRWJxWVpSZWN2b0wzRHpiNXRpZlhmczdRMks1M19haW85OHFYamxJT0FObG5UUdIBrwFBVV95cUxPRDhFd2NqTU9TUFA0ejlUZWhtZGFsODE2LUF5ejZUdUJ4eUxiS2EzbkdXQTluMG9hRWVqV0xnZUhkS3pWNmhLUXNoeWxxTll4clY0eDQ4UU9Gb1dGVmtRdTJnYnZhM2hQVi1yTTY3dWYxUlROOEE5LUQ2S1BHVWhCbzg2aUhjOTRVZjFlRXN1ZE9LRlZISGtQdFBTb2xLVUxJekIzMHRqYjZUT05HellJ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.gamesindustry.biz",
-      "title": "GamesIndustry.biz"
+      "href": "https://wccftech.com",
+      "title": "Wccftech"
     }
   },
   {
     "title": "Samsung admits 'some variation' will be seen on Galaxy S26 Ultra's screen brightness due to Privacy Display - TechRadar",
-    "description": "Samsung admits 'some variation' will be seen on Galaxy S26 Ultra's screen brightness due to Privacy Display  TechRadarSamsung Galaxy S26 Ultra review: its huge screen blocks shoulder surfers from spying on you  The GuardianSamsung Galaxy S26 Series and Galaxy Buds4 Series Now Available Worldwide  Samsung Global NewsroomThe Samsung Galaxy S26 Ultra screen is dimmer than the S25 Ultra, even with Privacy Display off — but it's still a great phone  TechRadarSamsung Galaxy S26 Series is Now Available in Canada  iPhone in Canada",
+    "description": "Samsung admits 'some variation' will be seen on Galaxy S26 Ultra's screen brightness due to Privacy Display  TechRadarSamsung Galaxy S26 Ultra review: its huge screen blocks shoulder surfers from spying on you  The GuardianSamsung Galaxy S26 Series and Galaxy Buds4 Series Now Available Worldwide  Samsung Global NewsroomSamsung Galaxy S26 review: The smartphone status quo  EngadgetGalaxy S26 Ultra Is Now Cheaper Than the S25 Ultra, With Galaxy Buds4 Savings in a Samsung Exclusive Offer  Gizmodo",
     "published date": "Mon, 16 Mar 2026 17:46:29 GMT",
     "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNX3FMS0VVcTJGNUNtd2l6WXY1eDZ0TnZTdEVkem8zTTNYeUZHYi1XNDB1YWp6QU1vNzJ0T1ZieXJpZWJvZkVNUE5ES3ZUS09LUWJRYW84d1A3aHpOUGpRSk9uN0JGZTdDVVRjS29GRnhZVzFOUjVOUmFFQUdBZEM2NUVFM3AtSVAtQmJiX0YwX1pLa3N1QUxCSW1TYUZtVHY4LUxUX0M5Rm1oNkh3RXhxNkhob0tXN09UNC1XX3Y4M3E2NjA0WHA2bk5wQV9OcTk4eUdvUmZUMmhsLWhXc1RpQ2duT295eFpRTU01WG5zNHN1ejdOWWVwNEJ3WWw1eWlQejF4dTRXbk5wcDJmVDlYdURzSlpSWkZGeXFV?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.techradar.com",
       "title": "TechRadar"
-    }
-  },
-  {
-    "title": "Microscopic \"Ski-Jumps\" Could Shrink Spacecraft LiDAR to the Size of a Microchip - Universe Today",
-    "description": "Microscopic \"Ski-Jumps\" Could Shrink Spacecraft LiDAR to the Size of a Microchip  Universe TodayPhotonic 'ski jumps' efficiently beam light into free space  Phys.orgNew photonic device beams thousands of lasers into free space at once  Interesting EngineeringNanophotonic waveguide chip-to-world beam scanning  Nature",
-    "published date": "Mon, 16 Mar 2026 19:28:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUUEzcHpoLUcwcHU3NFpkTVBqTHo1Rk95RFRIQ1kweE9MYkxrT3NQeVR3ajMzRThvSlJyeHNqNkdiT2tqVHpJdTdVZXVpSGtCZDExZnZrVWYtYXJlamttaXpKWE42OFlCZHVnVS1zTS1xMnVMX3A4VjZ2LTBRSnZiNzhHYmxaeEg4UTZPcjU5blNMdG1LMldZX1UwUzlESldPNUtZaEtKak5HU0E4dUpuVXVvSVk5X0tn?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.universetoday.com",
-      "title": "Universe Today"
-    }
-  },
-  {
-    "title": "Apple’s New AirPods Max 2 Headphones Are a Lazy Update - WIRED",
-    "description": "Apple’s New AirPods Max 2 Headphones Are a Lazy Update  WIREDApple introduces AirPods Max 2  AppleApple Debuts $549 AirPods Max 2 Headphones With Live Translation, Better Noise Canceling  Bloomberg.comAirPods Max 2 vs AirPods Max: What's different?  Tom's GuideAirPods Max 2 Reveal iOS 26.4 Launch Date  MacRumors",
-    "published date": "Mon, 16 Mar 2026 20:14:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40eUFBZzBibDZfVS1aeGkwYkNrUE5nUWpxOHVoOVNQUEhvSUtUVll3ZlQ2MUFxMlozSzhPc05KWWt5OTdBVVlFWDktQzNWWHNGTERJN1pFVHR3eEM4WGJMM1lLUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.wired.com",
-      "title": "WIRED"
     }
   },
   {
@@ -190,13 +180,13 @@
     }
   },
   {
-    "title": "Inside the AI companion lawsuits: Man believed Google chatbot was his ‘AI wife’ - CTV News",
-    "description": "Inside the AI companion lawsuits: Man believed Google chatbot was his ‘AI wife’  CTV NewsView Full Coverage on Google News",
+    "title": "Inside the AI companion lawsuits: Man believed Google chatbot was his ‘AI wife’ - CP24",
+    "description": "Inside the AI companion lawsuits: Man believed Google chatbot was his ‘AI wife’  CP24New study raises concerns about AI chatbots fueling delusional thinking  The GuardianHow to Talk to Someone Experiencing 'AI Psychosis'  404 Media",
     "published date": "Mon, 16 Mar 2026 18:49:49 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNUhuTXpQcTFQX2Y4VEVWQ1lUbnl1b3ZFTUlqdjlyY2k2aFJxUm1iYjhzWjFGM29uZVRINDdNVXBDdC0wb0E3Y1F3UkxQclZrWHdsUVRfWTczVEU1VGNzOUE5X2gzTnRWbG43VzNfZkhRTElYRjFXRF9JYkdCYTdYSHktWGpsaXFrX29oeTRnUWJiTGJXUWN5VVVrQkdTSW44RGE2LVdJVnhJdUlPckpfZEVpLTBkZHJr?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUUtyNUlZZmJjcm1RZFNXcm01eUpGdjFMSlo4QkpzYW1MSW9iTzd5eUdPb3hzZVZOaFVYaHplOEdGQmhDZzNXVmlGOVBzZVFCQVViVWhXdHQ2RkcxU1JBekE2dmpQWFg4bjI1ZDV4cGZuYnB6Um1objh0X0wxaklVMWN6NDR4bGRVU2lwVmtfNzlOZXpDMHVPeUR5V2NoUjVmd29aUHhWWEcwU2FKVWVlT09kTjFWNlBnbUNmeA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.ctvnews.ca",
-      "title": "CTV News"
+      "href": "https://www.cp24.com",
+      "title": "CP24"
     }
   },
   {
@@ -220,6 +210,16 @@
     }
   },
   {
+    "title": "On The Lack Of ‘Crimson Desert’ PS5 And Xbox Series X/S Footage - Forbes",
+    "description": "On The Lack Of ‘Crimson Desert’ PS5 And Xbox Series X/S Footage  ForbesCrimson Desert on PS5 Pro: This Is How Good It Looks And How Well It Runs  Digital FoundryEvery Big Game Releasing The Week Of March 16, 2026  KotakuA Week Before Launch, Crimson Desert's PC Version Has Just Added Controversial Denuvo DRM  TheGamerWe Finally Have Our First Look at Crimson Desert Running on PS5 Pro — but We're Still Waiting on Base PS5 and Xbox Series X and S  IGN",
+    "published date": "Mon, 16 Mar 2026 15:00:39 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVEhRQzZsekhsdXVJRDN0WkZFaDhlUFQtc0s3Qm81cXNya1hqT3ZGUExZOW5CcnoyQkRJVWlMNmlHdHpFajRETXJUdkZVU20tQzNTUUI2TjMzWnBtY21aYmFfZ2xYWURtYkRnS2JZWDgyMkZtWkZuUTFyNGhSVWtVS082TUlLTFBaZWtQbXVPRGJ6SFp4ZDVBb000OTRlako5ZnFRaDI0V2h6eFA4aXM2WA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
+    }
+  },
+  {
     "title": "First Look: The Doxa SUB 200 Grande Roma Edition - Monochrome Watches",
     "description": "First Look: The Doxa SUB 200 Grande Roma Edition  Monochrome Watches",
     "published date": "Mon, 16 Mar 2026 13:00:57 GMT",
@@ -230,18 +230,8 @@
     }
   },
   {
-    "title": "On The Lack Of ‘Crimson Desert’ PS5 And Xbox Series X/S Footage - Forbes",
-    "description": "On The Lack Of ‘Crimson Desert’ PS5 And Xbox Series X/S Footage  ForbesCrimson Desert on PS5 Pro: This Is How Good It Looks And How Well It Runs  Digital FoundryEvery Big Game Releasing The Week Of March 16, 2026  KotakuHere Are The ‘Crimson Desert’ PC And Console Specs For Release  ForbesCrimson Desert Includes Denuvo DRM, To Nobody’s Delight  GameSpot",
-    "published date": "Mon, 16 Mar 2026 15:00:39 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVEhRQzZsekhsdXVJRDN0WkZFaDhlUFQtc0s3Qm81cXNya1hqT3ZGUExZOW5CcnoyQkRJVWlMNmlHdHpFajRETXJUdkZVU20tQzNTUUI2TjMzWnBtY21aYmFfZ2xYWURtYkRnS2JZWDgyMkZtWkZuUTFyNGhSVWtVS082TUlLTFBaZWtQbXVPRGJ6SFp4ZDVBb000OTRlako5ZnFRaDI0V2h6eFA4aXM2WA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.forbes.com",
-      "title": "Forbes"
-    }
-  },
-  {
     "title": "You Probably Don’t Meet The ‘Marathon’ Cryo Archive Access Requirements - Forbes",
-    "description": "You Probably Don’t Meet The ‘Marathon’ Cryo Archive Access Requirements  ForbesMarathon's Last Level Locked Behind Most Annoying Mission  KotakuMarathon still hasn't unlocked its fourth zone, but this group of ARG hunters is working to change that - and they're on the cusp of something big  Eurogamer",
+    "description": "You Probably Don’t Meet The ‘Marathon’ Cryo Archive Access Requirements  ForbesMarathon's Last Level Locked Behind Most Annoying Mission  Kotaku",
     "published date": "Mon, 16 Mar 2026 13:18:22 GMT",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdUJyMkZYclh0eTlZanpOUkNEeHJRLWhkaGMzeS1jNWV5RDFrR3gtNm5MOGJaa0lBbWQ3UHJXSHo1YU9VdE1WSldvVVdYTGIxd0ZFRkx2SklpS2FLNXFwVDRLb0ZLOVAzUkhzR0FnNmNWSl9xWExOVjJXcDdLTjNRa2JqVU9FMDVPSUpMbVRuQjZCZmxXY21wMU9MVGlNTXozYk9iTHN0VnZPMDc1bEstSGdNM2VGeWZpVnhDNQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -260,8 +250,18 @@
     }
   },
   {
+    "title": "I cleaned up my Gmail storage and got back way more space than expected - MakeUseOf",
+    "description": "I cleaned up my Gmail storage and got back way more space than expected  MakeUseOf",
+    "published date": "Mon, 16 Mar 2026 13:30:16 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeG5TS3dEYmtrRXVQTm94SHNCVDBkRnR0Y0xvcnR0ZnY0bTVHTl9SNk5RWkdrdkhRTWZkS2NrSXhGZG54OVlTSDI3VVdoemwzYlg4NHpoM1FFMTh6XzFVem11UzR4cW5wTmwwcFd1dkwtZHdqd1RRclA1UXh4SS1ySFFNaDZYa3hmb2NTeA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.makeuseof.com",
+      "title": "MakeUseOf"
+    }
+  },
+  {
     "title": "Google Zero-Day Alert For 3.5 Billion Chrome Users—Attacks Underway - Forbes",
-    "description": "Google Zero-Day Alert For 3.5 Billion Chrome Users—Attacks Underway  ForbesPatch Your Chrome Browser! Google Fixes Two Nasty Security Flaws Amid Release Notes Mix-Up  Bitdefender[updated] Google patches two Chrome zero-days under active attack  MalwarebytesGoogle Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8  The Hacker NewsGoogle rushes Chrome update fixing two zero-days already under attack  theregister.com",
+    "description": "Google Zero-Day Alert For 3.5 Billion Chrome Users—Attacks Underway  ForbesPatch Your Chrome Browser! Google Fixes Two Nasty Security Flaws Amid Release Notes Mix-Up  Bitdefender[updated] Google patches two Chrome zero-days under active attack  MalwarebytesGoogle Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8  The Hacker NewsUpdate Chrome Immediately to Fix This Zero-Day Exploit  Lifehacker",
     "published date": "Sun, 15 Mar 2026 14:45:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeUxUNURFaEY3YmlvcWh4YXlBTUNFLXZhY19oZmRrbVlHOW5kUENxb0J3TFE1SWRGa3ZMeFVTS3pDcWdOZWVwcGNkdWZWRHVGclF6czFTaDVJOWJfTi1tRWc2SDRIRFpnYmZJWF9UTnlmc25DTnBSU05ia2phYUwyNUNueXBXU05qeGVXczRod05VTklmejNOWjRpV21qMG93NEtWRGN4Y0pnVm5lTXgtSEdwNTFkb0l5Wk1z?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -271,32 +271,12 @@
   },
   {
     "title": "If Your iPhone Is On This List, Upgrade It Now — Liquid Glass ‘Isn’t Going Anywhere’ - Forbes",
-    "description": "If Your iPhone Is On This List, Upgrade It Now — Liquid Glass ‘Isn’t Going Anywhere’  ForbesApple’s Liquid Glass Interface Isn’t Going Anywhere Anytime Soon  Bloomberg.comApple’s Liquid Glass is Here to Stay: What to Expect for iOS 27 and Beyond  iPhone in Canada10+ New Features Coming in iOS 27  MacRumors",
+    "description": "If Your iPhone Is On This List, Upgrade It Now — Liquid Glass ‘Isn’t Going Anywhere’  ForbesApple’s Liquid Glass Interface Isn’t Going Anywhere Anytime Soon  Bloomberg.comiOS 27 Will Reportedly Be Like Mac OS X Snow Leopard  MacRumorsApple’s Liquid Glass is Here to Stay: What to Expect for iOS 27 and Beyond  iPhone in Canada10+ New Features Coming in iOS 27  MacRumors",
     "published date": "Sun, 15 Mar 2026 15:00:57 GMT",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNTBWQXhLbXB6eFBLQ3BTbDhNU1pCSlZfQ1lVN3ZuN2VGWmpGYUo4cFRLX3lBRXphVi0xak0xay1taHZSbzk5Q050THk3eXY3NjhhZTFKbVY3cHZYLWpWTWNpY2ZTWlR1MjBPVU5uZWxTaWlQN1ZhaHZfbmVQeXNkVTJpa3RjTjZzbzBOMTdpSnU1NHcxNDQ0TWt4bkw4OGdJVFJHT1U5bmNJMmN2alNRZmJTVF81VElDUVJsSVEtMjFkWDR0RTBTN1pva19qdw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.forbes.com",
       "title": "Forbes"
-    }
-  },
-  {
-    "title": "Why Are People Hating ‘Marathon’ As A Sport? - Forbes",
-    "description": "Why Are People Hating ‘Marathon’ As A Sport?  ForbesCrosstalk: Can Marathon survive where so many other live-service games failed?  AV ClubMarathon is a stylishly merciless video game built for cut-throat times  The Guardian",
-    "published date": "Sun, 15 Mar 2026 12:29:15 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMXVqMFlxV0Z4NDJTNENzeXBtcTdYSW5kcDVTeW5jMk52TU9NVmxlNkwwYzFnMzZILUpENHdreXFzQms1N1ZkVXh5SEs4cG0xbnV1MDJCSjdoNzV1RGJwcFhjVm1fdE1mVWZCSnRvMUJNVU5ma2xQck0tRkJfRGUzR2VnM2FSZU4tOWxiUGY1Sm9KT21SbmJn?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.forbes.com",
-      "title": "Forbes"
-    }
-  },
-  {
-    "title": "Your smart TV may be holding back your home Wi-Fi - here's why - Pocket-lint",
-    "description": "Your smart TV may be holding back your home Wi-Fi - here's why  Pocket-lint",
-    "published date": "Sun, 15 Mar 2026 11:00:17 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vdmhncGdGd0V4UHUxbUZ4NUl0X1dhQmRRUU8ybFc4VG1mUVZ1WUpLZEptdVhoQkFad3VNVUF1aXZ1N1V4MFhMLUR5TGF0VDYwSmFmdW5JLXR1TXNZbHZxOGxwcU9hMHM?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.pocket-lint.com",
-      "title": "Pocket-lint"
     }
   }
 ]
