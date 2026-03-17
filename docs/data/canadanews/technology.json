@@ -50,16 +50,6 @@
     }
   },
   {
-    "title": "QCon London 2026: Behind Booking.com's AI Evolution: The Unpolished Story - infoq.com",
-    "description": "QCon London 2026: Behind Booking.com's AI Evolution: The Unpolished Story  infoq.com",
-    "published date": "Tue, 17 Mar 2026 05:21:08 GMT",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15Q2NrY1NNaldJWHNQWmpqbndteVFudHBoYnlHQ3JqWnJhdEplNzBTaGgtY1ctYzFGYmpjZGJQMGphdnVKUnFWSlByXzBUVHViQ1ZRaENXUGlVMFA2TmdEcWFUUEtuT2ZHMVpLUkVXSnU?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.infoq.com",
-      "title": "infoq.com"
-    }
-  },
-  {
     "title": "Nvidia's New DLSS 5 Uses AI to Boost Photorealism - extremetech.com",
     "description": "Nvidia's New DLSS 5 Uses AI to Boost Photorealism  extremetech.comNVIDIA DLSS 5 Delivers AI-Powered Breakthrough In Visual Fidelity For Games  NVIDIANvidia faces gamer backlash over 'breakthrough' AI graphics feature  BBCNvidia's new DLSS 5 Brings Photo-Realistic Lighting To RTX 50-Series  Digital FoundryNvidia's DLSS 5 Is a Slap in the Face to the Art of Video Game Design  IGN",
     "published date": "Tue, 17 Mar 2026 15:29:12 GMT",
@@ -90,13 +80,13 @@
     }
   },
   {
-    "title": "ASUS Republic of Gamers Strix Laptop Lineup Returns With the Latest Intel Core Ultra 9 290HX Plus Processors - ASUS Pressroom",
-    "description": "ASUS Republic of Gamers Strix Laptop Lineup Returns With the Latest Intel Core Ultra 9 290HX Plus Processors  ASUS Pressroom",
-    "published date": "Tue, 17 Mar 2026 09:07:14 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdWpyckhCVWU5V0VaeGJSRUN0dXpMSE9XcWJtQkZsVXozRmNDa2FXNW5DMUlXRzVfUWZPVDVvWVJBb21SOGt2SGcxVTAxeDQxWkU4R0N0ZmRRb0tVTDI4b0xrd2FDWUJpS25STDRZWG80RFMtTGZfWmdHUUM1TEFOUExCNER4ZXZtU1MzLUlpUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Samsung confirms the Galaxy S26 Ultra has a brightness problem - Pocket-lint",
+    "description": "Samsung confirms the Galaxy S26 Ultra has a brightness problem  Pocket-lintSamsung Galaxy S26 Ultra review: its huge screen blocks shoulder surfers from spying on you  The GuardianSamsung Galaxy S26 Ultra review: Private and performant  Ars TechnicaHere's what the Samsung Galaxy S26 Ultra's Privacy Display does to its battery life  Android PoliceThe Samsung Galaxy S26 Ultra Added A New Feature That I Can’t Live Without  Forbes",
+    "published date": "Tue, 17 Mar 2026 17:07:45 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOODJkN2N2MVp4dXNjZTlMSXhXYUNDcDZqNzJkVzg0eTVoYUlqeGgyNXctMU9sMm9ZNE5Fc2tSUFc0dk96N2NQeU9VN0NORHdoa1BNYU1ENE43WU1xclUxMW1MeVF6clJaZk03WGF4czZ1Wi1zc2l4VHBmMnZ6Q0tRV2NvMEZzRndvVGdFUlpzazV2VlA0?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://press.asus.com",
-      "title": "ASUS Pressroom"
+      "href": "https://www.pocket-lint.com",
+      "title": "Pocket-lint"
     }
   },
   {
@@ -110,6 +100,16 @@
     }
   },
   {
+    "title": "ASUS Republic of Gamers Strix Laptop Lineup Returns With the Latest Intel Core Ultra 9 290HX Plus Processors - ASUS Pressroom",
+    "description": "ASUS Republic of Gamers Strix Laptop Lineup Returns With the Latest Intel Core Ultra 9 290HX Plus Processors  ASUS PressroomView Full Coverage on Google News",
+    "published date": "Tue, 17 Mar 2026 09:07:14 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdWpyckhCVWU5V0VaeGJSRUN0dXpMSE9XcWJtQkZsVXozRmNDa2FXNW5DMUlXRzVfUWZPVDVvWVJBb21SOGt2SGcxVTAxeDQxWkU4R0N0ZmRRb0tVTDI4b0xrd2FDWUJpS25STDRZWG80RFMtTGZfWmdHUUM1TEFOUExCNER4ZXZtU1MzLUlpUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://press.asus.com",
+      "title": "ASUS Pressroom"
+    }
+  },
+  {
     "title": "Devnexus 2026: Focus on AI with Core Java, Java Frameworks, Security and Career Mentoring - infoq.com",
     "description": "Devnexus 2026: Focus on AI with Core Java, Java Frameworks, Security and Career Mentoring  infoq.com",
     "published date": "Mon, 16 Mar 2026 11:35:29 GMT",
@@ -120,43 +120,53 @@
     }
   },
   {
-    "title": "Samsung admits 'some variation' will be seen on Galaxy S26 Ultra's screen brightness due to Privacy Display - TechRadar",
-    "description": "Samsung admits 'some variation' will be seen on Galaxy S26 Ultra's screen brightness due to Privacy Display  TechRadarSamsung Galaxy S26 Ultra review: its huge screen blocks shoulder surfers from spying on you  The GuardianHere's what the Samsung Galaxy S26 Ultra's Privacy Display does to its battery life  Android PoliceThe Samsung Galaxy S26 Ultra Makes Me Wish All Phones Had a Privacy Screen  WIREDI reviewed the Samsung Galaxy S26 Ultra, and it's so much better than all the drama  Android Police",
-    "published date": "Mon, 16 Mar 2026 17:46:29 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNX3FMS0VVcTJGNUNtd2l6WXY1eDZ0TnZTdEVkem8zTTNYeUZHYi1XNDB1YWp6QU1vNzJ0T1ZieXJpZWJvZkVNUE5ES3ZUS09LUWJRYW84d1A3aHpOUGpRSk9uN0JGZTdDVVRjS29GRnhZVzFOUjVOUmFFQUdBZEM2NUVFM3AtSVAtQmJiX0YwX1pLa3N1QUxCSW1TYUZtVHY4LUxUX0M5Rm1oNkh3RXhxNkhob0tXN09UNC1XX3Y4M3E2NjA0WHA2bk5wQV9OcTk4eUdvUmZUMmhsLWhXc1RpQ2duT295eFpRTU01WG5zNHN1ejdOWWVwNEJ3WWw1eWlQejF4dTRXbk5wcDJmVDlYdURzSlpSWkZGeXFV?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "QCon London 2026: Behind Booking.com's AI Evolution: The Unpolished Story - infoq.com",
+    "description": "QCon London 2026: Behind Booking.com's AI Evolution: The Unpolished Story  infoq.com",
+    "published date": "Tue, 17 Mar 2026 05:21:08 GMT",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15Q2NrY1NNaldJWHNQWmpqbndteVFudHBoYnlHQ3JqWnJhdEplNzBTaGgtY1ctYzFGYmpjZGJQMGphdnVKUnFWSlByXzBUVHViQ1ZRaENXUGlVMFA2TmdEcWFUUEtuT2ZHMVpLUkVXSnU?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.techradar.com",
-      "title": "TechRadar"
+      "href": "https://www.infoq.com",
+      "title": "infoq.com"
     }
   },
   {
-    "title": "CERN detects new particle at Large Hadron Collider, expanding understanding of the strong force - Innovation News Network",
-    "description": "CERN detects new particle at Large Hadron Collider, expanding understanding of the strong force  Innovation News NetworkScientists discover heavier version of proton with upgraded detector  The GuardianParticle discovered at CERN solves a 20-year-old mystery  New ScientistNew particle discovered by Large Hadron Collider  France 24",
-    "published date": "Tue, 17 Mar 2026 11:46:07 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdFZXa1FBN3J2dGR0Q0k4TkY3elpyUGdPWEFLYUVTSmEwbGt2cHdOSml4WGg0NlduWU8wbWxlazhRMzFSbTNBV3c2Z0ZUZGMyWXdRaTc1Y0RnazBJZFlzWURhOFAxMm5YVjdfaFRWa29PdjFyU1YwbnBLaXVaSzhxUVNVWGM4cmM2LS1xVWZtc3V4ajJVMVRNNWJmaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Marvel Rivals season 7 drops March 20 with Black Cat and White Fox, full details - artthreat.net",
+    "description": "Marvel Rivals season 7 drops March 20 with Black Cat and White Fox, full details  artthreat.netView Full Coverage on Google News",
+    "published date": "Tue, 17 Mar 2026 16:46:33 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUFViVW85Q1poSGVqclZhT3VlMHhTRzNhZUpzTDFVa2pXaUtGcGlISlNZRTBfRENld0U4YVRkQVp5c0FweUhQXzduRUoySTktYmg4WHZycHVKQmIxSk1uSGJjbERKLTlIUWtkR3FqX2xQRXQ5OEswdUtWVTNveGdxX0dFU21LM002WmpNUGYtcVl4dkpSZG1PTXUtRGkxT1JQeFR2TWdnS05JYVdoWFA3d3BwNA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.innovationnewsnetwork.com",
-      "title": "Innovation News Network"
+      "href": "https://artthreat.net",
+      "title": "artthreat.net"
     }
   },
   {
-    "title": "Plans for pedestrian and cyclist gate at factory - ca.news.yahoo.com",
-    "description": "Plans for pedestrian and cyclist gate at factory  ca.news.yahoo.com",
+    "title": "A PlayStation Portal update is adding a 1080p High Quality mode - Engadget",
+    "description": "A PlayStation Portal update is adding a 1080p High Quality mode  EngadgetPlayStation Portal Update Adds 1080p High Quality Mode and 'Refined Streaming Experience' — Here's What's New  IGNThe PlayStation Portal just got even better: a new High Quality Mode and 'refined streaming experience' headline the latest update  Eurogamer",
+    "published date": "Tue, 17 Mar 2026 14:22:16 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRGNIdnNfOUQxZWpRZUJ3VW9pN2czZGxXVkFmcTVZWmd1WDIycXhMSGI2b25HajFHU2JJbmRKeDZpRlRvQnJ1SnFmVHN4TUtZMlBFZnA3cHU2cHlkOWhSZnhoa0ZBWDVZVVBYT0NpRHoybUtQdkZ2MEdJN2JBVlBNRWgzTXMwTDY2WTlnYktObWxmNUFxRDNkMm5EQjF3MHVJajVkYU1ubjF1SHNoNS1j?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.engadget.com",
+      "title": "Engadget"
+    }
+  },
+  {
+    "title": "OPPO Launches Crease-Free Foldable Phone, Ahead of Samsung and Apple - 조선일보",
+    "description": "OPPO Launches Crease-Free Foldable Phone, Ahead of Samsung and Apple  조선일보OPPO Find N6 - Ultra Flat, Flexible & Powerful | OPPO Global  OPPOChina’s Oppo Reveals World’s First Crease-Free Foldable Phone  Bloomberg.comOppo irons out foldable crease with Find N6  Mobile World LiveOppo Find N6 to Receive “Global Launch” on March 17  iPhone in Canada",
+    "published date": "Tue, 17 Mar 2026 15:39:45 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTzZxOXREQUFWSVJuRG83UUR6eVdWMjdUeW1EUi1OeUFoY2ZsSGRFbDVGZjVuN3RLQnc2QU9tWU5wNVJrMWNpYVY0SW9uSm16UFdoeXE1MEQyQ2daS2lyMVpIVy1NUEdYbHkydjhhZFhMZEZqcXlrd3VJRDA1Mzc4M1JxbTBTY29i?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.chosun.com",
+      "title": "조선일보"
+    }
+  },
+  {
+    "title": "Plans for pedestrian and cyclist gate at factory - Yahoo News Canada",
+    "description": "Plans for pedestrian and cyclist gate at factory  Yahoo News Canada",
     "published date": "Tue, 17 Mar 2026 06:02:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQamZCQ0hfdXA2d3ZKblQ2bW5nYVpkYkdOaE01WkJEUTlBV2NvLXRCYUZMWW1oREl3X2Jnd203aENSRnEtUlIyckpXQXQtaHBpWHRmRlJCeUVNWUsza050b1VPbmN2eVI0WnhVNHh1YjJpZVJ5el9mSGFrOWlDVUxUMzQ1VGU?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://ca.news.yahoo.com",
-      "title": "ca.news.yahoo.com"
-    }
-  },
-  {
-    "title": "OPPO Find N6 - Ultra Flat, Flexible & Powerful | OPPO Global - OPPO",
-    "description": "OPPO Find N6 - Ultra Flat, Flexible & Powerful | OPPO Global  OPPOChina’s Oppo Reveals World’s First Crease-Free Foldable Phone  Bloomberg.comOppo irons out foldable crease with Find N6  Mobile World LiveOppo Find N6 to Receive “Global Launch” on March 17  iPhone in CanadaI Love How Skinny Oppo's Foldable Phone Is, but I Hate That I Can't Buy It  CNET",
-    "published date": "Tue, 17 Mar 2026 12:02:49 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ndktkem51YnNwOHdvUzZXem52NzJXaFhpcDJBZnYxc2diVjZnMjFDUldUNUhpUTh2THNjbGN3aG5LN1dXVDd6OWxmMWd4dS0tU09WeDI5VUxoRzJQV1FjS1VhWnpSSlJtX2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.oppo.com",
-      "title": "OPPO"
+      "title": "Yahoo News Canada"
     }
   },
   {
@@ -167,16 +177,6 @@
     "publisher": {
       "href": "https://www.gamespress.com",
       "title": "Games Press"
-    }
-  },
-  {
-    "title": "High quality finally comes to PlayStation Portal - Here's what that really means - Pocket-lint",
-    "description": "High quality finally comes to PlayStation Portal - Here's what that really means  Pocket-lintPlayStation Portal update adds 1080p High Quality mode, rolls out March 18  VideoCardz.comIt took a couple years, but I finally warmed up to the PlayStation Portal  MobileSyrup",
-    "published date": "Tue, 17 Mar 2026 15:01:40 GMT",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ydHlreGRzS05tXzRSVkJjY3ItbU8wZE9MZ1FKTlhxaUl1cmJsM0lSTjcxOV91RUFjWDdHNk5sZ25nSHdXbW14Z1ViZWowZEttVUhNUjlsVjJCdjBCLUVYMmRKelpTWTMwbm5LNmRYcWJadFJZZk5LMkthMHk?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.pocket-lint.com",
-      "title": "Pocket-lint"
     }
   },
   {
@@ -210,6 +210,16 @@
     }
   },
   {
+    "title": "Microscopic \"Ski-Jumps\" Could Shrink Spacecraft LiDAR to the Size of a Microchip - Universe Today",
+    "description": "Microscopic \"Ski-Jumps\" Could Shrink Spacecraft LiDAR to the Size of a Microchip  Universe TodayPhotonic 'ski jumps' efficiently beam light into free space  Phys.orgNew photonic device beams thousands of lasers into free space at once  Interesting EngineeringNanophotonic waveguide chip-to-world beam scanning  Nature",
+    "published date": "Mon, 16 Mar 2026 19:28:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUUEzcHpoLUcwcHU3NFpkTVBqTHo1Rk95RFRIQ1kweE9MYkxrT3NQeVR3ajMzRThvSlJyeHNqNkdiT2tqVHpJdTdVZXVpSGtCZDExZnZrVWYtYXJlamttaXpKWE42OFlCZHVnVS1zTS1xMnVMX3A4VjZ2LTBRSnZiNzhHYmxaeEg4UTZPcjU5blNMdG1LMldZX1UwUzlESldPNUtZaEtKak5HU0E4dUpuVXVvSVk5X0tn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.universetoday.com",
+      "title": "Universe Today"
+    }
+  },
+  {
     "title": "Warner Bros Montréal reportedly hit with staff cuts - GamesIndustry.biz",
     "description": "Warner Bros Montréal reportedly hit with staff cuts  GamesIndustry.bizGotham Knights Dev Warner Bros Montreal Reportedly Hit by Layoffs  TechRaptor",
     "published date": "Mon, 16 Mar 2026 08:46:19 GMT",
@@ -220,13 +230,33 @@
     }
   },
   {
-    "title": "Tech YouTuber MKBHD says the MacBook Neo is Apple's 'most disruptive product' in years - Business Insider",
-    "description": "Tech YouTuber MKBHD says the MacBook Neo is Apple's 'most disruptive product' in years  Business InsiderApple MacBook Neo review: Is this $799 computer the best budget laptop of 2026? I tested it — here's my honest review  Yahoo Lifestyle CanadaWe just tested the MacBook Neo vs MacBook Air M5 — which laptop should you buy?  Tom's GuideAsus Co-CEO: MacBook Neo Is a 'Shock' to the PC Industry  PCMagThe MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit  TechCrunch",
-    "published date": "Mon, 16 Mar 2026 10:02:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWjI5UkZRcDhfbmVZQTFYOExsckZXS29JaV9Nbmh2clhVakJIU2pVdWpfNjBuSVdsNEJaanZ0dXkta3lVRjhQS19KWDgwVEsxM20yRG1LcEhMMlFLbUl0UnZCOXppV3JHanRiVHZCeUZaQUxrelAxbWxUanZqN28zci1rc1NfOHktUXM0WmNoZEpKWXVNd01RcWhiZEFuZlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Magic Chaos Vault To Release Secret Lair Dandân Deck - Star City Games",
+    "description": "Magic Chaos Vault To Release Secret Lair Dandân Deck  Star City GamesMagic’s new Dandan Secret Lair sold out instantly — now it’s being flipped for triple the price  Polygon.com",
+    "published date": "Mon, 16 Mar 2026 19:59:52 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLUhmSXNfTFRfdVc2TV9pa0YyN3liZ3Z2dlV3d25MbnRiYmtnSFMxUnl3bUY2ZnpZblRlYWM5cklxQnFXNktndXJZSzlCUmhZYW9uZTgzVTV5b2EyRDBEQU5KZTBnRDBoNnp0SklrZHNGazZPa3NsMmhBaTNlVWkzcHZieU1zSjJhVWdfdXg5UXZ0VWdtcUZtWEVWTWpOOUwtTXJsTm0tM3BKNk9K?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.businessinsider.com",
-      "title": "Business Insider"
+      "href": "https://articles.starcitygames.com",
+      "title": "Star City Games"
+    }
+  },
+  {
+    "title": "MacBook Neo, MacBook Air, MacBook Pro: Which to buy in early 2026 - AppleInsider",
+    "description": "MacBook Neo, MacBook Air, MacBook Pro: Which to buy in early 2026  AppleInsiderTech YouTuber MKBHD says the MacBook Neo is Apple's 'most disruptive product' in years  Business InsiderApple MacBook Neo review: Is this $799 computer the best budget laptop of 2026? I tested it — here's my honest review  Yahoo Lifestyle CanadaWe just tested the MacBook Neo vs MacBook Air M5 — which laptop should you buy?  Tom's GuideMacBook Neo review: the Mac for the masses  The Verge",
+    "published date": "Tue, 17 Mar 2026 17:51:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObmRvXzUybGh2Z3FkWDFnSU1pTkl4NjJBOVNOTlE1bVhxaTlpbl9vcDR0RVdVdkc3WEZ1VE9FU2JHTC01RFJEdXBVdUxWYzBGN0RrcmFVZVNXWUZZclA0WWlaSHNjWl9ydmw3TE5SR3U0dVhrQXFIRHJnZDVkMDhHSkNGSS03Q3YxZ2pZSGRjc1pSNHI0U29ldUhUV3FUM3lnUWJJRVN4Vlo?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://appleinsider.com",
+      "title": "AppleInsider"
+    }
+  },
+  {
+    "title": "Two Steam games release with the same name and avoid disaster by 'acting like human beings' - Polygon.com",
+    "description": "Two Steam games release with the same name and avoid disaster by 'acting like human beings'  Polygon.comTwo games accidentally launched with the same name so the devs teamed up  Dexerto",
+    "published date": "Mon, 16 Mar 2026 15:00:31 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jTVBiNW5rWmJiTHBEWExNM1RFYVdYQTUyM2JMQS1ZYVhmOUY2c2tvdjJ2Ul9LNTdUb21LS0xXQjJpdzQxZU01bzlDa1E3bXpIcEhZM1JubUo5REE4SVBzWHUzd3ZWNVNLT0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.polygon.com",
+      "title": "Polygon.com"
     }
   },
   {
@@ -237,6 +267,136 @@
     "publisher": {
       "href": "https://www.infoq.com",
       "title": "infoq.com"
+    }
+  },
+  {
+    "title": "Our Ultimate Google Home Voice Command List: Over 60 Commands to Master - CNET",
+    "description": "Our Ultimate Google Home Voice Command List: Over 60 Commands to Master  CNET",
+    "published date": "Tue, 17 Mar 2026 11:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY2VkR2ZfQzFNUUZQM1V2WHdYSWIwSEo2T19QeVNwWlp4ZTRqZ21Sc0xvTmoyNnc1YU4wbVMxNDlPTWctb0dSUG9NMFNVU1lWRVlLZzYzeFRlMWxRXzFla1o2TkxjMzNSVEtHVkQ3THk1U1FiVlBjeGxYb0ZZbk56SUYwQVlZQXZubU8ybUZkQXZhdjFlVkl0REVJdkpmZ1FHaHJKMDY3R3ZkdDZ1U1ZsV1g4XzI3dkJMLWNHZTFB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cnet.com",
+      "title": "CNET"
+    }
+  },
+  {
+    "title": "Coming to Xbox Game Pass: Disco Elysium, Resident Evil 7: Biohazard, Final Fantasy IV and More - Xbox",
+    "description": "Coming to Xbox Game Pass: Disco Elysium, Resident Evil 7: Biohazard, Final Fantasy IV and More  Xbox",
+    "published date": "Tue, 17 Mar 2026 13:03:55 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jNTMyRmVTWDZSVjBCam1fdXpyZ1J2dnJrYnJFRU93RG9FMS0zN2RkdkdWZTNaaXY0My1hTkdJVU8ybkM0ekVXNW45Slo5TE9KQzBYb1M2RzBWaUtnUFg2cHhNODBjeDFmX1dOR0VQUVVkbFA4c3dfYk03REc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://news.xbox.com",
+      "title": "Xbox"
+    }
+  },
+  {
+    "title": "Samsung discontinues its Galaxy Z TriFold after just three months - The Verge",
+    "description": "Samsung discontinues its Galaxy Z TriFold after just three months  The VergeSamsung to Stop Selling $2,899 TriFold Phone After Three Months  Bloomberg.comAfter three months, Samsung is ending sales of the $2,899 Galaxy Z TriFold  Ars TechnicaSamsung confirms the Galaxy Z TriFold is being discontinued  SamMobileSamsung ends Galaxy Z TriFold sales three months after launch  Engadget",
+    "published date": "Tue, 17 Mar 2026 11:49:11 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcUx3Z00xVG5yeVJTTEtIbzZRaS1DeldjMmprVm83QUhEdGR4S3pQS2lEOFVkYjY2REZWNmNXRGdCTE9WcFJzNHlLcVlvallkR3FFTUZ4VDBQMGt5WTE0cGN6enJyNl8tTmJETGl0OWdHeXlyNTQ2X0xQVFdtZGxhb2d6YzNyVDBoVWFFQjBNRHIxV28?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theverge.com",
+      "title": "The Verge"
+    }
+  },
+  {
+    "title": "Todd Howard Talks Elder Scrolls 6 Progress, Starfield's PS5 Port, and Bethesda's Future – IGN Interview - IGN",
+    "description": "Todd Howard Talks Elder Scrolls 6 Progress, Starfield's PS5 Port, and Bethesda's Future – IGN Interview  IGNThe Elder Scrolls 6 Has Made Todd Howard More Conscious of What He Announces: 'Just Pretend We Didn't Announce It'  IGN",
+    "published date": "Tue, 17 Mar 2026 15:15:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONDdUQmxrakI4UW9yMElWZjJHZDduc3c3VjFZYWZINGw4MmNXdlpXTFIwTllRMDV3NV9rMlZVNkpRcHY5ajNHWW9rSEFCZGV5Zmp2TUh1MWxkc1R3WkZWei1pZHVHanI2aFJ1b3dxVWY0bEF2SFVFb2RuVWtoOU1xZDlBZnJMSFRwcWFCVzVYTTZhQi1peHE3WllRV3dKV0RreUkzeXkxRmRQV1pBWmZVZDF0VWJfbEIwdFhWSlR0SF9XN3Fw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ign.com",
+      "title": "IGN"
+    }
+  },
+  {
+    "title": "875 Million Android Phones Put At Risk From This 60 Second Hack - Forbes",
+    "description": "875 Million Android Phones Put At Risk From This 60 Second Hack  ForbesThis Android vulnerability can break your lock screen in under 60 seconds  Malwarebytes875 Million Android Phones Put At Risk From 60 Second Hack  ForbesA major security flaw could affect 1 in 4 Android phones - here's how to check yours  ZDNETAndroid Phone Crypto Wallets Could Be at Risk Due to MediaTek Exploit: Ledger  Decrypt",
+    "published date": "Mon, 16 Mar 2026 16:12:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOalRIaXZLcEdjWkZVYjBhOVZHSU5kNGJ1d0R3TFdFMXhHN2ExQTNBLTlHYkxsSVgxdGZVTjhrN0taSGtFUS1FN2cxeGNOZ1Q1dnFvSFVnalZlOEZmQWZ0bV9ER3liN29Tc0pKZ09uaUV5YktZbVNnOFhfSGJwcE44M3B4N05UZ2hZR3BIbTBRVnlhQ3RqVk10bUVfRXgwVFJ0Q1I3a3RUREp4RmFoaEhOZVMxYWlyc0tlN2Jj?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
+    }
+  },
+  {
+    "title": "We Saw Starfield's Big Overhaul and DLC - Is It Enough to Revive Bethesda's Space RPG? - IGN",
+    "description": "We Saw Starfield's Big Overhaul and DLC - Is It Enough to Revive Bethesda's Space RPG?  IGNEverything Coming in Starfield’s Free Lanes Update & Terran Armada DLC  Bethesda.netXbox opens ‘Starfield’ to PlayStation gamers in further blow to exclusivity  CTV NewsStarfield is coming to PlayStation 5 on April 7  PlayStation.BlogStarfield’s ‘biggest update’ ever turns it into the game everyone wanted 3 years ago  Polygon.com",
+    "published date": "Tue, 17 Mar 2026 15:15:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdTJkb3dmRDBabFYwYmtjbEt2U2dvVkxrMTZDUWlhUE5wTUZxOGhUQUhVTTRzZVFQSHBOdzV3c2JxazF2MDFoZkhWNVp2d0lMWkdTRWpiZDNSaWZVVnBtLUliZmE1WlJkQS0tbG9kZ091cGFSLWd2bEI1bnNwSXgzQ1ZXVnc2QmRQOWlPM3dEY0gzZ2hhOUZFY1RfRFZEM09od0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ign.com",
+      "title": "IGN"
+    }
+  },
+  {
+    "title": "Leaving civilization is now easier with this ‘off-grid utility core’ - The Verge",
+    "description": "Leaving civilization is now easier with this ‘off-grid utility core’  The Verge",
+    "published date": "Tue, 17 Mar 2026 10:16:39 GMT",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOVktlTzJLMUl2NTZhY3RLVUFOZnNPU2V2NFp4dGpSZDNwUlFNRkhlX2o1OFNnVDVrYkUtR3NUTEcwR09KNGJnQmQ5dzYxbHVOQ2dCZE1QUEw3TFRIVmxlM0MxVWltQ3FjNzhSU2djQ1Z1UWJhYWNtbWFpckN2SEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theverge.com",
+      "title": "The Verge"
+    }
+  },
+  {
+    "title": "On The Lack Of ‘Crimson Desert’ PS5 And Xbox Series X/S Footage - Forbes",
+    "description": "On The Lack Of ‘Crimson Desert’ PS5 And Xbox Series X/S Footage  ForbesCrimson Desert on PS5 Pro: This Is How Good It Looks And How Well It Runs  Digital Foundry‘Crimson Desert’ Will Easily Be The Second Best-Selling Game Of 2026  ForbesWe’ve Finally Seen Crimson Desert Running on Base PS5  IGNCrimson Desert Looks A Lot More Ordinary Running On A Regular PS5  Kotaku",
+    "published date": "Mon, 16 Mar 2026 15:00:39 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVEhRQzZsekhsdXVJRDN0WkZFaDhlUFQtc0s3Qm81cXNya1hqT3ZGUExZOW5CcnoyQkRJVWlMNmlHdHpFajRETXJUdkZVU20tQzNTUUI2TjMzWnBtY21aYmFfZ2xYWURtYkRnS2JZWDgyMkZtWkZuUTFyNGhSVWtVS082TUlLTFBaZWtQbXVPRGJ6SFp4ZDVBb000OTRlako5ZnFRaDI0V2h6eFA4aXM2WA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
+    }
+  },
+  {
+    "title": "First Look: The Doxa SUB 200 Grande Roma Edition - Monochrome Watches",
+    "description": "First Look: The Doxa SUB 200 Grande Roma Edition  Monochrome Watches",
+    "published date": "Mon, 16 Mar 2026 13:00:57 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSy1OYlY1dTluTEQ1R3FaeDNwN1c2OUtFMVZUZ1BHWlNQV0Y1UFJQLXNENVBEVXB6NkdndTZYX08xZmdyT0lWNTRrVjgzTi1BSjAxckhndWNsQkd1aTJRcjNzVm15T0ZPTTQzNXpIWWQ0MmduZnBYb2Jkb3BtTWxiV1JZYTVVNkJEdjhVOEFnZDlEWHlsMFFYdnFVRzMzWXhydnBndkpySkpEVmVnRE45M0pzcG9YVHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://monochrome-watches.com",
+      "title": "Monochrome Watches"
+    }
+  },
+  {
+    "title": "You Probably Don’t Meet The ‘Marathon’ Cryo Archive Access Requirements - Forbes",
+    "description": "You Probably Don’t Meet The ‘Marathon’ Cryo Archive Access Requirements  ForbesBungie ‘overcorrected’ the distance gunfire can be heard in Marathon, says it will dial it back later  Video Games ChronicleMarathon's next update will help your vault feel roomier, and Bungie outlines their plans for higher-end PCs  Rock Paper Shotgun",
+    "published date": "Mon, 16 Mar 2026 13:18:22 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdUJyMkZYclh0eTlZanpOUkNEeHJRLWhkaGMzeS1jNWV5RDFrR3gtNm5MOGJaa0lBbWQ3UHJXSHo1YU9VdE1WSldvVVdYTGIxd0ZFRkx2SklpS2FLNXFwVDRLb0ZLOVAzUkhzR0FnNmNWSl9xWExOVjJXcDdLTjNRa2JqVU9FMDVPSUpMbVRuQjZCZmxXY21wMU9MVGlNTXozYk9iTHN0VnZPMDc1bEstSGdNM2VGeWZpVnhDNQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
+    }
+  },
+  {
+    "title": "Stroud boy with cerebral palsy is first to trial exoskeleton - BBC",
+    "description": "Stroud boy with cerebral palsy is first to trial exoskeleton  BBC",
+    "published date": "Mon, 16 Mar 2026 06:43:55 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Pcm8tX0hqQndwcGcxckdhb1hFajRHYndmTnA5R0oydjJlRHJHS3kzaktfYl9pWHpMV1JfQWZ1M1FuZUtYUmYzcm92Vzh0d2ZrUjVaNm10WThaZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bbc.com",
+      "title": "BBC"
+    }
+  },
+  {
+    "title": "Elon Musk Just Made a Small Change That Speaks Volumes About His Desperation - Futurism",
+    "description": "Elon Musk Just Made a Small Change That Speaks Volumes About His Desperation  FuturismX locks Grok behind a paywall for premium users only  Dexerto",
+    "published date": "Mon, 16 Mar 2026 17:01:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMUpNeElteGdqbjhIdVgzN2w2TjFDYmFWQVlwTUVOdkJMZDNTZU1fdWdFeHdqLVZNX0s4ZzRlY3R6OVlEWi1NMFZOMk5pV2ctQUUwaDhReERvRTRBTHczcDhGMHQxWkd2NjN4Y3FJWldrbG1meWx0UklSWU52RDdBOXV0c3A?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://futurism.com",
+      "title": "Futurism"
+    }
+  },
+  {
+    "title": "If Your iPhone Is On This List, Upgrade It Now — Liquid Glass ‘Isn’t Going Anywhere’ - Forbes",
+    "description": "If Your iPhone Is On This List, Upgrade It Now — Liquid Glass ‘Isn’t Going Anywhere’  ForbesView Full Coverage on Google News",
+    "published date": "Tue, 17 Mar 2026 17:53:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVG5WVzY3M09QTGM1NkJ2RE0xLU5qSHpIVk9sODFuY3dHU0R4TmZVZ2J5NndsWGRNUWwtSS1zZURUel80cUFCbTJVamIwdFlZSUpta0w0ekxMazh6ZXVaMHIyeUVQTWE4X1N1UUJaaUJobHg5b3RWTmRrbFhocERpM3E0UVB2UmpZODNTRU5IM2Nmb0w0Mk1fUVFKWmxmalhOdGF6eUo3Qk0tQTVkdVVKTXBfRGtIaG94UFl4Nm53MWRWVnRuWTBGYmlERnA4dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
     }
   }
 ]
