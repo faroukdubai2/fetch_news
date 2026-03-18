@@ -1,12 +1,22 @@
 [
   {
-    "title": "The Taproot Mini - No. 169 - Taproot Edmonton",
-    "description": "The Taproot Mini - No. 169  Taproot Edmonton",
-    "published date": "Tue, 17 Mar 2026 12:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40TDVveHhUemtkY0wyTU90YjliNFBoMzBCVXdGTVJRWjlQcWtqemxWLXZvb3QtMWNfUm9GeTVyNW1xYndrRVc4VDhQSUVMa0FyNFRNLUFGRl9Hbm9VSGdHREh6YWJLR1ZLQU01ZVM4YzlEaGZWcnpOclRtbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "The Taproot Mini - No. 168 - Taproot Edmonton",
+    "description": "The Taproot Mini - No. 168  Taproot Edmonton",
+    "published date": "Mon, 16 Mar 2026 12:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54QkF3czBXb0lrMXNGRTFmZWtXMUdiNlJVWDlPWUlOa3MtNFlIOXdEUWVoMUpEVk4yUXAxMkI0Y0hBbUtZdDZYNDhvNEx3SnpzUjkwczh4eVNXenFDcDFNeHFjMUNjaXl0dlp2cDNCY2MwOS1hdlpyV3A3Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://edmonton.taproot.news",
       "title": "Taproot Edmonton"
+    }
+  },
+  {
+    "title": "Nvidia’s DLSS 5 Launch Sparks Meme Frenzy as Gamers Balk at AI ‘Neural Rendering’ - Decrypt",
+    "description": "Nvidia’s DLSS 5 Launch Sparks Meme Frenzy as Gamers Balk at AI ‘Neural Rendering’  DecryptNVIDIA DLSS 5 Delivers AI-Powered Breakthrough In Visual Fidelity For Games  NVIDIANvidia faces gamer backlash over 'breakthrough' AI graphics feature  BBCNvidia's new DLSS 5 Brings Photo-Realistic Lighting To RTX 50-Series  Digital FoundryJensen Huang says gamers are 'completely wrong' about DLSS 5 — Nvidia CEO responds to DLSS 5 backlash  Tom's Hardware",
+    "published date": "Tue, 17 Mar 2026 22:45:41 GMT",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NX2RCQXdfbmxTd2RzV2Utd0lsWE83X0dKNWN5aTdhTHRadDhqOHpocHh5bzFOa0g1bmpfWk9TNkJBLVJvOGpBZ09ZU2N3MmQyVXdDWlRaYmxOck5ZX0NLTUxsem9WU24tRHI4NllkUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://decrypt.co",
+      "title": "Decrypt"
     }
   },
   {
@@ -30,16 +40,6 @@
     }
   },
   {
-    "title": "Netflix Found a Faster Way to Load Containers - Cloud Native Now",
-    "description": "Netflix Found a Faster Way to Load Containers  Cloud Native Now",
-    "published date": "Tue, 17 Mar 2026 14:40:01 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRzZBRV9zYTNaVWoxa1lZVnRzLVh4by1CNko5VUpWa0xqWVBiblhKZjMwMFc3blVpb3VtSkNDd0J4cTJIVHhnaU9qOW1ockhlWVlKeXRNSVB4bGxsVnUwRmQwdkpOWERKT1czWldmblV1VTR3a0l5UXphWVdFS01aZ0k2Nk1MdmpvM0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://cloudnativenow.com",
-      "title": "Cloud Native Now"
-    }
-  },
-  {
     "title": "QCon London 2026: How To Run on Three Clouds at Once, and When Not To - infoq.com",
     "description": "QCon London 2026: How To Run on Three Clouds at Once, and When Not To  infoq.com",
     "published date": "Mon, 16 Mar 2026 18:12:08 GMT",
@@ -50,20 +50,50 @@
     }
   },
   {
-    "title": "Nvidia’s AI-Powered Photorealistic Gaming Technology Roasted As ‘AI Slop’ - Forbes",
-    "description": "Nvidia’s AI-Powered Photorealistic Gaming Technology Roasted As ‘AI Slop’  ForbesNVIDIA DLSS 5 Delivers AI-Powered Breakthrough In Visual Fidelity For Games  NVIDIANvidia faces gamer backlash over 'breakthrough' AI graphics feature  BBCNvidia's new DLSS 5 Brings Photo-Realistic Lighting To RTX 50-Series  Digital FoundryNvidia's DLSS 5 Is a Slap in the Face to the Art of Video Game Design  IGN",
-    "published date": "Tue, 17 Mar 2026 17:31:35 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObjNTZ2p4dG56OVNzZkp2aDM1eXh3X0t3T25QVzVHd0VYRTVJYW55bWJ5VDR6UVJZcHZCcERsVy01ejRZRHRkelZGbHoyVEJNUndZQ2QtOFhpOTgwajZkSWh1aFdMaTlhUnhIa0djWWhDdEdIRzJyNU9MOEgzbHBjRXNGei10S1VvMklZTjlyUjNNeTVIQ0g0TlZ1ZnFmMXJ5b0dqd3FSRDNsN3RCcTVPUjVLdmdBLVJiZVVXd1pQQUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Netflix Found a Faster Way to Load Containers - Cloud Native Now",
+    "description": "Netflix Found a Faster Way to Load Containers  Cloud Native Now",
+    "published date": "Tue, 17 Mar 2026 14:40:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRzZBRV9zYTNaVWoxa1lZVnRzLVh4by1CNko5VUpWa0xqWVBiblhKZjMwMFc3blVpb3VtSkNDd0J4cTJIVHhnaU9qOW1ockhlWVlKeXRNSVB4bGxsVnUwRmQwdkpOWERKT1czWldmblV1VTR3a0l5UXphWVdFS01aZ0k2Nk1MdmpvM0E?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.forbes.com",
-      "title": "Forbes"
+      "href": "https://cloudnativenow.com",
+      "title": "Cloud Native Now"
     }
   },
   {
-    "title": "QCon London 2026: All Tech Debt is Not Created Equal - infoq.com",
-    "description": "QCon London 2026: All Tech Debt is Not Created Equal  infoq.com",
-    "published date": "Tue, 17 Mar 2026 11:03:13 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VWndRT3g3OFB5M3JQWkVQcE9ZVEFneW9lSGhmNzVmeTVEMEUyOWNmWTFubTdfNDhlSzFzWDIyYTR5NExfVE5mQ1hPVFZmdXhYTFlmV3pQSjVqajNEN1dxUUhfSEVLQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Samsung confirms the Galaxy S26 Ultra has a brightness problem - Pocket-lint",
+    "description": "Samsung confirms the Galaxy S26 Ultra has a brightness problem  Pocket-lintSamsung Galaxy S26 Ultra Sets a New Standard for Night Photography  Samsung Global NewsroomSamsung Galaxy S26 Ultra review: its huge screen blocks shoulder surfers from spying on you  The GuardianSamsung Galaxy S26 Ultra review: Frustratingly the best Android phone I've tested  ZDNETI used the Galaxy S26 Ultra and iPhone 17 Pro Max, and the gap is widening  Android Police",
+    "published date": "Tue, 17 Mar 2026 17:07:45 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOODJkN2N2MVp4dXNjZTlMSXhXYUNDcDZqNzJkVzg0eTVoYUlqeGgyNXctMU9sMm9ZNE5Fc2tSUFc0dk96N2NQeU9VN0NORHdoa1BNYU1ENE43WU1xclUxMW1MeVF6clJaZk03WGF4czZ1Wi1zc2l4VHBmMnZ6Q0tRV2NvMEZzRndvVGdFUlpzazV2VlA0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.pocket-lint.com",
+      "title": "Pocket-lint"
+    }
+  },
+  {
+    "title": "QCon London 2026: The Hidden Power of Boring Problems - infoq.com",
+    "description": "QCon London 2026: The Hidden Power of Boring Problems  infoq.com",
+    "published date": "Mon, 16 Mar 2026 16:31:31 GMT",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03X1B0QVZvTUlmd3FwS3lZY0pNRXRWY0R4dE1FMUF4X0JkcGFSVER0R2t4U0N4aF9xOEJTWVJhdGVkellaZDRTbmd0TWVQelZZVjlpSnhRSjg2bXlxWGxoU2lEQjdfZ0M2STJHMWdjX1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.infoq.com",
+      "title": "infoq.com"
+    }
+  },
+  {
+    "title": "QCon London 2026: From Prompt to Production: How Spotify Builds Internal Tools in Days with AI - infoq.com",
+    "description": "QCon London 2026: From Prompt to Production: How Spotify Builds Internal Tools in Days with AI  infoq.com",
+    "published date": "Tue, 17 Mar 2026 08:09:08 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04dDkwblZXMXZSUU5tWHNQaDZOcVVEZ0lub1J2bFVoZDZkLVZyNWV2U3JTVjVEcG9rUk9BUmtsc19tOUxhXzd5OUJDTE1BVzdfQUNHNWJwdDBQUTRvN3YySnBjQTM4aXZF?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.infoq.com",
+      "title": "infoq.com"
+    }
+  },
+  {
+    "title": "Devnexus 2026: Focus on AI with Core Java, Java Frameworks, Security and Career Mentoring - infoq.com",
+    "description": "Devnexus 2026: Focus on AI with Core Java, Java Frameworks, Security and Career Mentoring  infoq.com",
+    "published date": "Mon, 16 Mar 2026 11:35:29 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhUkVpM25jZ0JZWk15WUpDcVMtS3UxUEFwQnBMZk91WWJvajlyc0owel80QkpJaGYycTdoRzJiMHl2Ymd2VHhBVVg2UjFVMW9hYVlYWTlKelBmcjRSWGc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.infoq.com",
       "title": "infoq.com"
@@ -80,63 +110,33 @@
     }
   },
   {
-    "title": "Samsung confirms the Galaxy S26 Ultra has a brightness problem - Pocket-lint",
-    "description": "Samsung confirms the Galaxy S26 Ultra has a brightness problem  Pocket-lintSamsung Galaxy S26 Ultra review: its huge screen blocks shoulder surfers from spying on you  The GuardianThe Galaxy S26 Ultra is great, but I'm sticking with my S23 Ultra  Android PoliceThe Samsung Galaxy S26 Ultra Added A New Feature That I Can’t Live Without  ForbesSamsung Galaxy S26 Ultra review: Private and performant  Ars Technica",
-    "published date": "Tue, 17 Mar 2026 17:07:45 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOODJkN2N2MVp4dXNjZTlMSXhXYUNDcDZqNzJkVzg0eTVoYUlqeGgyNXctMU9sMm9ZNE5Fc2tSUFc0dk96N2NQeU9VN0NORHdoa1BNYU1ENE43WU1xclUxMW1MeVF6clJaZk03WGF4czZ1Wi1zc2l4VHBmMnZ6Q0tRV2NvMEZzRndvVGdFUlpzazV2VlA0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Oppo Find N6 goes official with ‘crease-less’ display, but limited ‘global’ launch plans - 9to5Google",
+    "description": "Oppo Find N6 goes official with ‘crease-less’ display, but limited ‘global’ launch plans  9to5GoogleChina’s Oppo Reveals World’s First Crease-Free Foldable Phone  Bloomberg.comOppo’s Find N6 might be the foldable of your dreams  EngadgetOppo irons out foldable crease with Find N6  Mobile World LiveOPPO and Google Partner to Redefine Productivity for Foldable Devices with Next-Gen AI Stylus Experience  The Globe and Mail",
+    "published date": "Tue, 17 Mar 2026 13:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15VWVNZ3JaaDNGOGQxNjRRamVaMm5XVGNWM1UyZnVrejVEVlJ5TWpsd1Q0TXRUMkNMazB2TzNZaDR0SEozd1luUHlrQWxsbDRXVkVhQ1JsWUt6dk5DZFJIWXFQUTc5RGtES0piZGVLWkFiSXlGMWVF?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.pocket-lint.com",
-      "title": "Pocket-lint"
+      "href": "https://9to5google.com",
+      "title": "9to5Google"
     }
   },
   {
-    "title": "Image Processing for Automated Tests - infoq.com",
-    "description": "Image Processing for Automated Tests  infoq.com",
-    "published date": "Mon, 16 Mar 2026 14:02:32 GMT",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNVHlLT3lQTUVtS3ZIVWphcFk2eHdTMGEyMGtnVnVUbVRGRVFBSnZVakRlV0cza2d1LVVtck5vQmlJUzJDdjNKLXRmX1hkZ0NIZlpYczRCbEUzWHRDS2tLNkVOR2hZcDc2QXE4ajV0WEllcU03UFU0TA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.infoq.com",
-      "title": "infoq.com"
-    }
-  },
-  {
-    "title": "OPPO Launches Crease-Free Foldable Phone, Ahead of Samsung and Apple - 조선일보",
-    "description": "OPPO Launches Crease-Free Foldable Phone, Ahead of Samsung and Apple  조선일보OPPO Find N6 - Ultra Flat, Flexible & Powerful | OPPO Global  OPPOChina’s Oppo Reveals World’s First Crease-Free Foldable Phone  Bloomberg.comOppo irons out foldable crease with Find N6  Mobile World LiveOppo Find N6 to Receive “Global Launch” on March 17  iPhone in Canada",
-    "published date": "Tue, 17 Mar 2026 15:39:45 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTzZxOXREQUFWSVJuRG83UUR6eVdWMjdUeW1EUi1OeUFoY2ZsSGRFbDVGZjVuN3RLQnc2QU9tWU5wNVJrMWNpYVY0SW9uSm16UFdoeXE1MEQyQ2daS2lyMVpIVy1NUEdYbHkydjhhZFhMZEZqcXlrd3VJRDA1Mzc4M1JxbTBTY29i?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.chosun.com",
-      "title": "조선일보"
-    }
-  },
-  {
-    "title": "Devnexus 2026: Focus on AI with Core Java, Java Frameworks, Security and Career Mentoring - infoq.com",
-    "description": "Devnexus 2026: Focus on AI with Core Java, Java Frameworks, Security and Career Mentoring  infoq.com",
-    "published date": "Mon, 16 Mar 2026 11:35:29 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhUkVpM25jZ0JZWk15WUpDcVMtS3UxUEFwQnBMZk91WWJvajlyc0owel80QkpJaGYycTdoRzJiMHl2Ymd2VHhBVVg2UjFVMW9hYVlYWTlKelBmcjRSWGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "QCon London 2026: All Tech Debt is Not Created Equal - infoq.com",
+    "description": "QCon London 2026: All Tech Debt is Not Created Equal  infoq.com",
+    "published date": "Tue, 17 Mar 2026 11:03:13 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VWndRT3g3OFB5M3JQWkVQcE9ZVEFneW9lSGhmNzVmeTVEMEUyOWNmWTFubTdfNDhlSzFzWDIyYTR5NExfVE5mQ1hPVFZmdXhYTFlmV3pQSjVqajNEN1dxUUhfSEVLQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.infoq.com",
       "title": "infoq.com"
     }
   },
   {
-    "title": "The Morning After: Apple's surprise AirPods Max refresh - Engadget",
-    "description": "The Morning After: Apple's surprise AirPods Max refresh  EngadgetView Full Coverage on Google News",
+    "title": "The Morning After: Apple's surprise AirPods Max refresh - Yahoo News Canada",
+    "description": "The Morning After: Apple's surprise AirPods Max refresh  Yahoo News CanadaApple introduces AirPods Max 2  AppleApple Debuts $549 AirPods Max 2 Headphones With Live Translation, Better Noise Canceling  Bloomberg.comThe AirPods Max 2 are official – but how do they differ from the originals?  What Hi-Fi?Apple’s AirPods Max 2 bring H2 chip, boosted ANC in April for $549  Ars Technica",
     "published date": "Tue, 17 Mar 2026 11:15:01 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa1FIZ3Bib3Qyb2Q5NFBsNzd5ZDhCaEZ0bHc1VE9LUGowT3FtUTc1VENjTXBLbDJuS0NLVksyQ1BTWWJwZXk4Nk1taHlZRzd2N2ZGTlByQUZVTXd2RzltaFVSM3RydGNVV19obXY4bTFHTjFPbGhuSWlJVGRJb3hVRnQwWXZZd2JYQzBHbnRR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVEVMSTZjRkExVjNLOTJqcVY0MzlMd3RNdERXNWNTamV1bTgxbDFtMlZpQ2FKQWd4WWtleWpoMTFRcVFjRUpJejFtcm9HbUpZODNmNWduR3J2eUNaTTdEenFveWVyNFE3S1A1b1NhWEFLOEpqWTFpTEc4dkQxWTlNdXNB?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.engadget.com",
-      "title": "Engadget"
-    }
-  },
-  {
-    "title": "QCon London 2026: Behind Booking.com's AI Evolution: The Unpolished Story - infoq.com",
-    "description": "QCon London 2026: Behind Booking.com's AI Evolution: The Unpolished Story  infoq.com",
-    "published date": "Tue, 17 Mar 2026 05:21:08 GMT",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15Q2NrY1NNaldJWHNQWmpqbndteVFudHBoYnlHQ3JqWnJhdEplNzBTaGgtY1ctYzFGYmpjZGJQMGphdnVKUnFWSlByXzBUVHViQ1ZRaENXUGlVMFA2TmdEcWFUUEtuT2ZHMVpLUkVXSnU?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.infoq.com",
-      "title": "infoq.com"
+      "href": "https://ca.news.yahoo.com",
+      "title": "Yahoo News Canada"
     }
   },
   {
@@ -150,16 +150,6 @@
     }
   },
   {
-    "title": "Brave The Deep Jungles Of Runeterra in Riftbound: Unleashed - Games Press",
-    "description": "Brave The Deep Jungles Of Runeterra in Riftbound: Unleashed  Games PressThe Unleashed Overview  RiftboundRiftbound: Unleashed Card Preview – Vex’s Gloomist Rewards Battlefield Control  Inven GlobalPreview Season Unleashed  Riftbound",
-    "published date": "Tue, 17 Mar 2026 10:41:12 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQejI1N3NRMUZLMm1sQmxSQmYwQmR3NGdSRlpuS3ZqS2Zkbkp4Ti1DYUVJQTBLNmJwQUlhajcyRkd1aWhDR3QwWjBzeVhFRmtIQ1RiM3VBYU1XYVpFcjhCczRSME5VRzdkdnAwSkNQdzFQQjAxa25lWUIxZTI4YWQwWlZQc2JUSjdPTXN4OXNB?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.gamespress.com",
-      "title": "Games Press"
-    }
-  },
-  {
     "title": "Plans for pedestrian and cyclist gate at factory - Yahoo News Canada",
     "description": "Plans for pedestrian and cyclist gate at factory  Yahoo News Canada",
     "published date": "Tue, 17 Mar 2026 06:02:00 GMT",
@@ -167,6 +157,26 @@
     "publisher": {
       "href": "https://ca.news.yahoo.com",
       "title": "Yahoo News Canada"
+    }
+  },
+  {
+    "title": "Riftbound: Unleashed Card Preview – Vex’s Gloomist Rewards Battlefield Control - Inven Global",
+    "description": "Riftbound: Unleashed Card Preview – Vex’s Gloomist Rewards Battlefield Control  Inven GlobalThe Unleashed Overview  RiftboundPreview Season Unleashed  Riftbound",
+    "published date": "Mon, 16 Mar 2026 20:08:08 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMW04bk5nTmlvMl9EOFVRU0piVXVZWFlEZmVIcVBXZU9wb25sQ21VSE0xZ2RiNVNkZHh2SGRrWjNmNmJpVWFqWWdBd1c0N3BWbF9vMkU4LUh6c1VpWGFfX2hXUmk4dXl4cTFwZEJnVXhEd0hwX2F6WmlJWG1EZW5wakN5OEQycFNwUF8yMzlPWDJaTE5GYmt3WDdBNzJhTGJtV1ZCN1IyXzhkZVFWc2N0emRtRnFhVU1f?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.invenglobal.com",
+      "title": "Inven Global"
+    }
+  },
+  {
+    "title": "QCon London 2026: Behind Booking.com's AI Evolution: The Unpolished Story - infoq.com",
+    "description": "QCon London 2026: Behind Booking.com's AI Evolution: The Unpolished Story  infoq.com",
+    "published date": "Tue, 17 Mar 2026 05:21:08 GMT",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15Q2NrY1NNaldJWHNQWmpqbndteVFudHBoYnlHQ3JqWnJhdEplNzBTaGgtY1ctYzFGYmpjZGJQMGphdnVKUnFWSlByXzBUVHViQ1ZRaENXUGlVMFA2TmdEcWFUUEtuT2ZHMVpLUkVXSnU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.infoq.com",
+      "title": "infoq.com"
     }
   },
   {
@@ -180,18 +190,18 @@
     }
   },
   {
-    "title": "MacBook Neo Teardown, Neo and Apple Creator Studio, Neo Revenue Potential, Apple’s New Instagram Play - Above Avalon",
-    "description": "MacBook Neo Teardown, Neo and Apple Creator Studio, Neo Revenue Potential, Apple’s New Instagram Play  Above AvalonTech YouTuber MKBHD says the MacBook Neo is Apple's 'most disruptive product' in years  Business InsiderApple MacBook Neo review: Is this $799 computer the best budget laptop of 2026? I tested it — here's my honest review  Yahoo Lifestyle CanadaWe just tested the MacBook Neo vs MacBook Air M5 — which laptop should you buy?  Tom's GuideHow a MacBook Neo bought for a high school student is worth $50k to Apple  9to5Mac",
-    "published date": "Mon, 16 Mar 2026 16:41:21 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNLTRrSDNPd1JCXzctU1JhQm5udl9fNDI4dTZZdFh3emZnTl9QMnNqSlZDdU5sbE1qWUc0cFhWcEF6MWw3NVJYNUpvZGp0Tl8xSE9Wd0J0bDU3Q0o5WEotWW1QYkVCbmpRMjZHYlFMb1ZoZ3l4WldlLWo0UGZTbzN1TnRTQjlEZUpqZEJ1eEZvU2ZCeXVSVkRKRGdmemc0QVJRWWIzMnN1eWtfTmEtZkMxbngzOW1EOG5xVjRHM2FlWkJXbGZwR1VaOGtCSHp1Um5VSEt1WXk3RmM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Tech YouTuber MKBHD says the MacBook Neo is Apple's 'most disruptive product' in years - Business Insider",
+    "description": "Tech YouTuber MKBHD says the MacBook Neo is Apple's 'most disruptive product' in years  Business InsiderApple MacBook Neo review: Is this $799 computer the best budget laptop of 2026? I tested it — here's my honest review  Yahoo Lifestyle CanadaWe just tested the MacBook Neo vs MacBook Air M5 — which laptop should you buy?  Tom's GuideMacBook Neo review: the Mac for the masses  The VergeHow a MacBook Neo bought for a high school student is worth $50k to Apple  9to5Mac",
+    "published date": "Mon, 16 Mar 2026 10:02:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWjI5UkZRcDhfbmVZQTFYOExsckZXS29JaV9Nbmh2clhVakJIU2pVdWpfNjBuSVdsNEJaanZ0dXkta3lVRjhQS19KWDgwVEsxM20yRG1LcEhMMlFLbUl0UnZCOXppV3JHanRiVHZCeUZaQUxrelAxbWxUanZqN28zci1rc1NfOHktUXM0WmNoZEpKWXVNd01RcWhiZEFuZlE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.aboveavalon.com",
-      "title": "Above Avalon"
+      "href": "https://www.businessinsider.com",
+      "title": "Business Insider"
     }
   },
   {
     "title": "Inside the AI companion lawsuits: Man believed Google chatbot was his ‘AI wife’ - CP24",
-    "description": "Inside the AI companion lawsuits: Man believed Google chatbot was his ‘AI wife’  CP24New study raises concerns about AI chatbots fueling delusional thinking  The GuardianMillions falling victim to ‘AI psychosis’  news.com.auHow to Talk to Someone Experiencing 'AI Psychosis'  404 Media",
+    "description": "Inside the AI companion lawsuits: Man believed Google chatbot was his ‘AI wife’  CP24New study raises concerns about AI chatbots fueling delusional thinking  The GuardianMillions falling victim to ‘AI psychosis’  News.com.auHow to Talk to Someone Experiencing 'AI Psychosis'  404 Media",
     "published date": "Mon, 16 Mar 2026 18:49:49 GMT",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUUtyNUlZZmJjcm1RZFNXcm01eUpGdjFMSlo4QkpzYW1MSW9iTzd5eUdPb3hzZVZOaFVYaHplOEdGQmhDZzNXVmlGOVBzZVFCQVViVWhXdHQ2RkcxU1JBekE2dmpQWFg4bjI1ZDV4cGZuYnB6Um1objh0X0wxaklVMWN6NDR4bGRVU2lwVmtfNzlOZXpDMHVPeUR5V2NoUjVmd29aUHhWWEcwU2FKVWVlT09kTjFWNlBnbUNmeA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -200,18 +210,18 @@
     }
   },
   {
-    "title": "QCon London 2026: The Hidden Power of Boring Problems - infoq.com",
-    "description": "QCon London 2026: The Hidden Power of Boring Problems  infoq.com",
-    "published date": "Mon, 16 Mar 2026 16:31:31 GMT",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03X1B0QVZvTUlmd3FwS3lZY0pNRXRWY0R4dE1FMUF4X0JkcGFSVER0R2t4U0N4aF9xOEJTWVJhdGVkellaZDRTbmd0TWVQelZZVjlpSnhRSjg2bXlxWGxoU2lEQjdfZ0M2STJHMWdjX1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Garmin Launches WhatsApp Integration for Watches - DC Rainmaker",
+    "description": "Garmin Launches WhatsApp Integration for Watches  DC RainmakerWhatsApp is now officially available on Garmin smartwatches  Yahoo News CanadaGarmin adds WhatsApp support so its watches can finally reply like an Apple Watch  T3Garmin launches WhatsApp app for select smartwatches By Investing.com  Investing.com Canada",
+    "published date": "Tue, 17 Mar 2026 22:09:28 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRXdnUTFWZmRuTktHeE03TEJXZVBPeVd0ZWxJekdqTmI2ZHhGRVkwV2tEa0V3RGN1aUdtZXMyT3dyS3FmX2xvV05kbElPOU1JdkZEbC1pYzFPbGhtVTBwOU5GQ0NVaVRfTkdLMjIxWTRKelZtcDVGLVJwSlJrREVuQVFmcW1Sc0YtYXBYVjNsRU5oYm8?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.infoq.com",
-      "title": "infoq.com"
+      "href": "https://www.dcrainmaker.com",
+      "title": "DC Rainmaker"
     }
   },
   {
     "title": "‘Starfield’ Reveals PS5 Launch Date And New Terran Armada DLC - Forbes",
-    "description": "‘Starfield’ Reveals PS5 Launch Date And New Terran Armada DLC  ForbesEverything Coming in Starfield’s Free Lanes Update & Terran Armada DLC  Bethesda.netStarfield is coming to PlayStation 5 on April 7  PlayStation.BlogStarfield’s ‘biggest update’ ever turns it into the game everyone wanted 3 years ago  Polygon.comWe Saw Starfield's Big Overhaul and DLC - Is It Enough to Revive Bethesda's Space RPG?  IGN",
+    "description": "‘Starfield’ Reveals PS5 Launch Date And New Terran Armada DLC  ForbesEverything Coming in Starfield’s Free Lanes Update & Terran Armada DLC  Bethesda.netXbox opens ‘Starfield’ to PlayStation gamers in further blow to exclusivity  CTV NewsStarfield is coming to PlayStation 5 on April 7  PlayStation.BlogWe Saw Starfield's Big Overhaul and DLC - Is It Enough to Revive Bethesda's Space RPG?  IGN",
     "published date": "Tue, 17 Mar 2026 15:27:47 GMT",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWUVZWUNhZ1NkQ1p1V0QxXzdHdnRZQVVfQlJZN204NXQzWk1BLUJOUHd1bmVkVndINGg1WlZPUXpTcEhfNklLNWNoVDZvV3E1WEUxUVFqQXB3MnBTX2FlclVpNlU1ZE0zLXVMR2xuZjRrc2FCWERQbXFFd3dRdjNGNGxfVWZJZ01LeExKUnNhR3F3OW9pWnB4RUR4RUxGc09uRnNMWjB1cmNwMEExeEUw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -220,10 +230,50 @@
     }
   },
   {
-    "title": "On The Lack Of ‘Crimson Desert’ PS5 And Xbox Series X/S Footage - Forbes",
-    "description": "On The Lack Of ‘Crimson Desert’ PS5 And Xbox Series X/S Footage  ForbesCrimson Desert on PS5 Pro: This Is How Good It Looks And How Well It Runs  Digital Foundry‘Crimson Desert’ Will Easily Be The Second Best-Selling Game Of 2026  ForbesWe’ve Finally Seen Crimson Desert Running on Base PS5  IGNCrimson Desert Looks A Lot More Ordinary Running On A Regular PS5  Kotaku",
-    "published date": "Mon, 16 Mar 2026 15:00:39 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVEhRQzZsekhsdXVJRDN0WkZFaDhlUFQtc0s3Qm81cXNya1hqT3ZGUExZOW5CcnoyQkRJVWlMNmlHdHpFajRETXJUdkZVU20tQzNTUUI2TjMzWnBtY21aYmFfZ2xYWURtYkRnS2JZWDgyMkZtWkZuUTFyNGhSVWtVS082TUlLTFBaZWtQbXVPRGJ6SFp4ZDVBb000OTRlako5ZnFRaDI0V2h6eFA4aXM2WA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "‘ARC Raiders’ Patch Notes Reveal Big Il Toro, Energy Clip Nerfs - Forbes",
+    "description": "‘ARC Raiders’ Patch Notes Reveal Big Il Toro, Energy Clip Nerfs  ForbesPatch Notes 1.20.0  ARC RaidersNew Arc Raiders Patch Finally Takes Aim at the Il Toro to Make It Feel 'More Like a Weapon of Its Rarity'  IGNPatch Notes 1.19.0  ARC Raiders",
+    "published date": "Tue, 17 Mar 2026 14:05:21 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa1hjSy12aVVSTEtjcTNYY3prLTc1bjJKZXBpR3VsazZQTTMyeXM4bk5nWEVjRU9YRF9jSkRsaEp2T3Vud0paTEQ5a1NZbEt4UjhpYlJ4cUY0WkplV0FRVGJkQldTZndsSzd5U01HMGpKUTlrQjhsdm5HVkNpV1dieUhPb2lZckp1V05udF82MHc4N3JGT1dKSDhMWEhKQWE5NTVvNXhneHJNR3EyUUZTSA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
+    }
+  },
+  {
+    "title": "Here’s The First ‘Crimson Desert’ Base PS5 Footage At Last - Forbes",
+    "description": "Here’s The First ‘Crimson Desert’ Base PS5 Footage At Last  ForbesCrimson Desert on PS5 Pro: This Is How Good It Looks And How Well It Runs  Digital FoundryCrimson Desert Is Going To Be A Big Deal On Steam, Early Numbers Suggest  GameSpotWe’ve Finally Seen Crimson Desert Running on Base PS5  IGNOn The Lack Of ‘Crimson Desert’ PS5 And Xbox Series X/S Footage  Forbes",
+    "published date": "Tue, 17 Mar 2026 13:07:35 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeTZhTHAxeEs4MnE4d3Jxd1h5Skd5LWZtMnM2Y2pSbXpjYU9vWm5qMFRhNlp4MGdIU0YxSF9sckRVS1djQmpfaUFGVThhMVZvWXRCQWZLam9ITzAwZUx2YWVpaEFvN0JtanFOSWlPN3poSTVPRklYbjJaZkNPV1F4RlcwUDY0YWlPckdWT2VfcUVkbWl0b1RtTG4tbGl3NThoekZyUU0tU21mZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
+    }
+  },
+  {
+    "title": "March Team Update - A Message to Our Community - Lost Ark",
+    "description": "March Team Update - A Message to Our Community  Lost Ark",
+    "published date": "Tue, 17 Mar 2026 22:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVXNXMVV0UTVmcUlCMF9HQzYzWllnbnJENzJCbzFsWmZKZ0xJcVZEU21IWjcxUnktTFRtbE5kUlk4WkRlbVd4VnN4akpFSnUtY1BVd1hRazg1UGZVX1JsdEFXaFlnOGlpS05tXzVRRHFKZlZ2NWZ0dTdQUVhXeFIzOHJ0STFvVkRRZGFr?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.playlostark.com",
+      "title": "Lost Ark"
+    }
+  },
+  {
+    "title": "Hands-On: The new Tissot Visodate Collection, a Classic Redesigned - Monochrome Watches",
+    "description": "Hands-On: The new Tissot Visodate Collection, a Classic Redesigned  Monochrome WatchesNew Release: Tissot Brings Back The Visodate Watch Collection  aBlogtoWatch",
+    "published date": "Tue, 17 Mar 2026 11:01:21 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWUJVbGZqS0tReEN5SFZZYzctQ0phdXhKUXJLQ3lrVmVIT3BmZTc5eFFFOXBCN3d1MHdjd0VBX1VlTlJJZ3pvYzd3RGhUb3FRekJlOE9pOFZWR3FLR0llNlF5c1pZSG5kQkdDVVd2a0NZT21lREFBNV9kc01ZM0RfMDhpaHNFbThHQWItVW9yWXFDSlE3dXBiVzhjcGthdG1IT01j?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://monochrome-watches.com",
+      "title": "Monochrome Watches"
+    }
+  },
+  {
+    "title": "875 Million Android Phones Put At Risk From This 60 Second Hack - Forbes",
+    "description": "875 Million Android Phones Put At Risk From This 60 Second Hack  ForbesThis Android vulnerability can break your lock screen in under 60 seconds  Malwarebytes875 Million Android Phones Put At Risk From 60 Second Hack  ForbesA major security flaw could affect 1 in 4 Android phones - here's how to check yours  ZDNETAndroid Phone Crypto Wallets Could Be at Risk Due to MediaTek Exploit: Ledger  Decrypt",
+    "published date": "Mon, 16 Mar 2026 16:12:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOalRIaXZLcEdjWkZVYjBhOVZHSU5kNGJ1d0R3TFdFMXhHN2ExQTNBLTlHYkxsSVgxdGZVTjhrN0taSGtFUS1FN2cxeGNOZ1Q1dnFvSFVnalZlOEZmQWZ0bV9ER3liN29Tc0pKZ09uaUV5YktZbVNnOFhfSGJwcE44M3B4N05UZ2hZR3BIbTBRVnlhQ3RqVk10bUVfRXgwVFJ0Q1I3a3RUREp4RmFoaEhOZVMxYWlyc0tlN2Jj?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.forbes.com",
       "title": "Forbes"
@@ -231,7 +281,7 @@
   },
   {
     "title": "You Probably Don’t Meet The ‘Marathon’ Cryo Archive Access Requirements - Forbes",
-    "description": "You Probably Don’t Meet The ‘Marathon’ Cryo Archive Access Requirements  ForbesBungie ‘overcorrected’ the distance gunfire can be heard in Marathon, says it will dial it back later  Video Games ChronicleMarathon's next update will help your vault feel roomier, and Bungie outlines their plans for higher-end PCs  Rock Paper Shotgun",
+    "description": "You Probably Don’t Meet The ‘Marathon’ Cryo Archive Access Requirements  ForbesHow to get into Cryo Archive in Marathon  GamesRadar+Marathon's next update will help your vault feel roomier, and Bungie outlines their plans for higher-end PCs  Rock Paper Shotgun",
     "published date": "Mon, 16 Mar 2026 13:18:22 GMT",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdUJyMkZYclh0eTlZanpOUkNEeHJRLWhkaGMzeS1jNWV5RDFrR3gtNm5MOGJaa0lBbWQ3UHJXSHo1YU9VdE1WSldvVVdYTGIxd0ZFRkx2SklpS2FLNXFwVDRLb0ZLOVAzUkhzR0FnNmNWSl9xWExOVjJXcDdLTjNRa2JqVU9FMDVPSUpMbVRuQjZCZmxXY21wMU9MVGlNTXozYk9iTHN0VnZPMDc1bEstSGdNM2VGeWZpVnhDNQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -240,8 +290,18 @@
     }
   },
   {
+    "title": "First Look: The Doxa SUB 200 Grande Roma Edition - Monochrome Watches",
+    "description": "First Look: The Doxa SUB 200 Grande Roma Edition  Monochrome Watches",
+    "published date": "Mon, 16 Mar 2026 13:00:57 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSy1OYlY1dTluTEQ1R3FaeDNwN1c2OUtFMVZUZ1BHWlNQV0Y1UFJQLXNENVBEVXB6NkdndTZYX08xZmdyT0lWNTRrVjgzTi1BSjAxckhndWNsQkd1aTJRcjNzVm15T0ZPTTQzNXpIWWQ0MmduZnBYb2Jkb3BtTWxiV1JZYTVVNkJEdjhVOEFnZDlEWHlsMFFYdnFVRzMzWXhydnBndkpySkpEVmVnRE45M0pzcG9YVHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://monochrome-watches.com",
+      "title": "Monochrome Watches"
+    }
+  },
+  {
     "title": "If Your iPhone Is On This List, Upgrade It Now — Liquid Glass ‘Isn’t Going Anywhere’ - Forbes",
-    "description": "If Your iPhone Is On This List, Upgrade It Now — Liquid Glass ‘Isn’t Going Anywhere’  ForbesView Full Coverage on Google News",
+    "description": "If Your iPhone Is On This List, Upgrade It Now — Liquid Glass ‘Isn’t Going Anywhere’  ForbesApple’s Liquid Glass Interface Isn’t Going Anywhere Anytime Soon  Bloomberg.comiOS 27 Will Reportedly Be Like Mac OS X Snow Leopard  MacRumorsApple’s Liquid Glass is Here to Stay: What to Expect for iOS 27 and Beyond  iPhone in Canada10+ New Features Coming in iOS 27  MacRumors",
     "published date": "Tue, 17 Mar 2026 17:53:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVG5WVzY3M09QTGM1NkJ2RE0xLU5qSHpIVk9sODFuY3dHU0R4TmZVZ2J5NndsWGRNUWwtSS1zZURUel80cUFCbTJVamIwdFlZSUpta0w0ekxMazh6ZXVaMHIyeUVQTWE4X1N1UUJaaUJobHg5b3RWTmRrbFhocERpM3E0UVB2UmpZODNTRU5IM2Nmb0w0Mk1fUVFKWmxmalhOdGF6eUo3Qk0tQTVkdVVKTXBfRGtIaG94UFl4Nm53MWRWVnRuWTBGYmlERnA4dw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
