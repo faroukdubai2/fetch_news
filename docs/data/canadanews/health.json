@@ -30,16 +30,6 @@
     }
   },
   {
-    "title": "In the brain, astrocytes orchestrate fear - Université de Montréal",
-    "description": "In the brain, astrocytes orchestrate fear  Université de Montréal",
-    "published date": "Wed, 25 Mar 2026 20:20:54 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSlZScDVaeGpucFFwQzRpRVhuOGdKQ3FNTEVFMXNNcHRnVWNST3NrOFBEbVhWTmpXR0Z6bFNaVDF6YkpiUDdnTVFha1VFdzdad3E2MEM0b0VGeUtOVkdCS2ZDelNoZzN1VXBHcmdjQzdscklHQUZSUkhQUDBzRXljSWpmcjBoQkJLRW9IZXRBUU9Db2xVaGtBNQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://nouvelles.umontreal.ca",
-      "title": "Université de Montréal"
-    }
-  },
-  {
     "title": "Nunavut’s top public health doctor optimistic over TB numbers - Nunatsiaq News",
     "description": "Nunavut’s top public health doctor optimistic over TB numbers  Nunatsiaq NewsWorld Tuberculosis Day in Iqaluit celebrates progress made to eliminate the disease  CBCJoint Statement from the Acting Chief Public Health Officer of Canada and the Chief Medical Officer of Public Health for Indigenous Services Canada on World Tuberculosis Day  The Globe and MailTimmins signs turning red for annual awareness day  TimminsToday.comLethbridge City Hall joins record number of Canadian monuments illuminated in red for World TB Day  Lethbridge News Now",
     "published date": "Tue, 24 Mar 2026 22:53:00 GMT",
@@ -47,6 +37,16 @@
     "publisher": {
       "href": "https://nunatsiaq.com",
       "title": "Nunatsiaq News"
+    }
+  },
+  {
+    "title": "In the brain, astrocytes orchestrate fear - Université de Montréal",
+    "description": "In the brain, astrocytes orchestrate fear  Université de Montréal",
+    "published date": "Wed, 25 Mar 2026 20:20:54 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSlZScDVaeGpucFFwQzRpRVhuOGdKQ3FNTEVFMXNNcHRnVWNST3NrOFBEbVhWTmpXR0Z6bFNaVDF6YkpiUDdnTVFha1VFdzdad3E2MEM0b0VGeUtOVkdCS2ZDelNoZzN1VXBHcmdjQzdscklHQUZSUkhQUDBzRXljSWpmcjBoQkJLRW9IZXRBUU9Db2xVaGtBNQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://nouvelles.umontreal.ca",
+      "title": "Université de Montréal"
     }
   },
   {
@@ -70,28 +70,8 @@
     }
   },
   {
-    "title": "The skincare step women are finally talking about - Starts at 60",
-    "description": "The skincare step women are finally talking about  Starts at 60",
-    "published date": "Wed, 25 Mar 2026 21:08:01 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaEQxZVFjS3k5d3FKWE9sQ2ROYWx4OXpSYkk0YVFXUEJNWmZPZkp4N1pLdk1ZS2YtVVhwZlZ5TFJGd25VTER6Mm1NRzhRUGdFcDV6TzdELXlKRkJRS1BTVmhTUzU4T05YckpEbEdrSkNYRFY0bzhCemU0OXZEenJxN3h2THI?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://startsat60.com",
-      "title": "Starts at 60"
-    }
-  },
-  {
-    "title": "BA.3.2, Nicknamed Cicada, Is a New COVID Variant to Watch - Everyday Health",
-    "description": "BA.3.2, Nicknamed Cicada, Is a New COVID Variant to Watch  Everyday HealthNew COVID-19 variant 'Cicada' is spreading. What to know about BA.3.2.  USA TodayNew Covid variant has been identified and is already spreading in 25 states  The IndependentNew COVID variant with immune escape potential confirmed in US, 22 other countries  CIDRAPNew COVID omicron variant BA.3.2 identified, spreading in 25 states, including Michigan  WXYZ Channel 7",
-    "published date": "Wed, 25 Mar 2026 22:18:47 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMGRiMDY2VFFfZ0dtTUtJb0N0YU50NmJVVFl6NDREbWVSUjhELTNzbUJVeTZGaEdyNU9xakhUMW1zOFM1T3l6LUVTODE0WDdnM0p1SDljaDZmMU1mRGhTalg2RmRSWnNYeFhDR2g5RlI5TE9nZGhERVR6T20tdkFuMmZUYUtkclFHNnhabGxiVFBDRlUtY3drSkZQNDNwN2lOVTVlcmlib1YyQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.everydayhealth.com",
-      "title": "Everyday Health"
-    }
-  },
-  {
-    "title": "APH issues uspension orders, ramps up immunization enforcement - ElliotLakeToday.com",
-    "description": "APH issues uspension orders, ramps up immunization enforcement  ElliotLakeToday.comThousands of students risk suspension over outdated immunization records  CTV NewsSome 8,600 Halton students face possible suspension over missing vaccine records  Oakville NewsSuspension looms for secondary students with outdated vaccine records  The Record",
+    "title": "APH issues suspension orders, ramps up immunization enforcement - ElliotLakeToday.com",
+    "description": "APH issues suspension orders, ramps up immunization enforcement  ElliotLakeToday.comThousands of students risk suspension over outdated immunization records  CTV NewsSome 8,600 Halton students face possible suspension over missing vaccine records  Oakville NewsSuspension looms for secondary students with outdated vaccine records  The Record",
     "published date": "Wed, 25 Mar 2026 23:05:38 GMT",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRnVWSEFHSWxPejNSeTEtbWd3V3B2SUtDVGNndHE3Rldnc3ItN3NvdVJoNWFpRUVKT0VIUV9YSVk0VFlPNDVraWd4N3A4ZzkxRGhnMml3VTlNb05ZYTd2ZGYxbThiandPemFmODA2czdiQUQ1QThEUmdtYjY4eUtQV2ZDa3NBdV92M0g1MDVrWDhGLWdVdWxBRjhKNWJHR2VRSXgteVM3QUlMcVRZbFBROXUxWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -100,13 +80,13 @@
     }
   },
   {
-    "title": "Oral Semaglutide Improves Cardiovascular Risk Factors in Type 2 Diabetes - AJMC",
-    "description": "Oral Semaglutide Improves Cardiovascular Risk Factors in Type 2 Diabetes  AJMCHealth Canada Approves Ozempic® (semaglutide injection) to Reduce the Risk of Major Adverse Cardiovascular Events (MACE) in Adults with Type 2 Diabetes  Bioscience Association Manitoba",
-    "published date": "Wed, 25 Mar 2026 15:04:59 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZE1MY09heHZaelFUZ3ltZ3JhdTN6ZjdGc3JHWENSbkJHX1Q3R0lRRnpnRmdEbXdxejhBVF9iSFZtTzAtSEI0a01iZWJORzBHakZOaXN6VnNvb1pjWDZiaU41bjFNSmQ4TkRta2NCR0JDMWdub3pwTkRUWmMxN3lvdXRONEl0OU41WWF6YzNtS2V2eXA0d0ZoS3NVaFFibTg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "The skincare step women are finally talking about - Starts at 60",
+    "description": "The skincare step women are finally talking about  Starts at 60",
+    "published date": "Wed, 25 Mar 2026 21:08:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaEQxZVFjS3k5d3FKWE9sQ2ROYWx4OXpSYkk0YVFXUEJNWmZPZkp4N1pLdk1ZS2YtVVhwZlZ5TFJGd25VTER6Mm1NRzhRUGdFcDV6TzdELXlKRkJRS1BTVmhTUzU4T05YckpEbEdrSkNYRFY0bzhCemU0OXZEenJxN3h2THI?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.ajmc.com",
-      "title": "AJMC"
+      "href": "https://startsat60.com",
+      "title": "Starts at 60"
     }
   },
   {
@@ -120,10 +100,20 @@
     }
   },
   {
+    "title": "Oral Semaglutide Improves Cardiovascular Risk Factors in Type 2 Diabetes - AJMC",
+    "description": "Oral Semaglutide Improves Cardiovascular Risk Factors in Type 2 Diabetes  AJMCHealth Canada Approves Ozempic® (semaglutide injection) to Reduce the Risk of Major Adverse Cardiovascular Events (MACE) in Adults with Type 2 Diabetes  Bioscience Association Manitoba",
+    "published date": "Wed, 25 Mar 2026 15:04:59 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZE1MY09heHZaelFUZ3ltZ3JhdTN6ZjdGc3JHWENSbkJHX1Q3R0lRRnpnRmdEbXdxejhBVF9iSFZtTzAtSEI0a01iZWJORzBHakZOaXN6VnNvb1pjWDZiaU41bjFNSmQ4TkRta2NCR0JDMWdub3pwTkRUWmMxN3lvdXRONEl0OU41WWF6YzNtS2V2eXA0d0ZoS3NVaFFibTg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ajmc.com",
+      "title": "AJMC"
+    }
+  },
+  {
     "title": "P.E.I. sees big drop in RSV hospitalizations with expanded vaccine access, says CPHO - CBC",
     "description": "P.E.I. sees big drop in RSV hospitalizations with expanded vaccine access, says CPHO  CBC",
-    "published date": "Wed, 25 Mar 2026 13:01:08 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT1QycXBTZFd0Qi1NUm5lUXRCTXVxbFpKTXkwY3ZFa21HYjhOVm44dlJ4enZaenJlUzkzWW5seHRaUDVYeU9YU3RBVmVsZDJfMlNBRXhRdGxBUjVpZ2ZrMnZDYzZmSnpDU3pvTEVKczZYdnNGdDRJYmxzS292M1lybC0ycC1sOU9w?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "published date": "Wed, 25 Mar 2026 13:05:45 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RRlJGbnc3cG5EWGJwaUd3dnc1TUxMMXJBUDFrM0JpTThkOUp2MkRxVG93RnpxLTJlRVpYMFdDS1loZUNBX1o0NkdWQ01uazJa?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.cbc.ca",
       "title": "CBC"
@@ -160,6 +150,16 @@
     }
   },
   {
+    "title": "New Covid variant has been identified and is already spreading in 25 states - Yahoo News Canada",
+    "description": "New Covid variant has been identified and is already spreading in 25 states  Yahoo News CanadaView Full Coverage on Google News",
+    "published date": "Wed, 25 Mar 2026 06:44:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObjVjLXM4azlwTGtIVUZwYk1HWmt1RERmdjNsaHNsRGwxeFBmWU13NnBMN0pwbFFVV3VCWFFTeVdHVkpUNzRrd1diX0tnVkVZYVdCcTlOUnpldkM5QVd3MHNmSDJSMDN3OXo3bnMzSjJzS2pZc0tEWVRUTUVjUWx3TF9SM052NVpKR1hz?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://ca.news.yahoo.com",
+      "title": "Yahoo News Canada"
+    }
+  },
+  {
     "title": "Measles exposure reported at Montreal CHU Sainte-Justine hospital as Quebec declares new outbreak - CityNews Montreal",
     "description": "Measles exposure reported at Montreal CHU Sainte-Justine hospital as Quebec declares new outbreak  CityNews Montreal",
     "published date": "Tue, 24 Mar 2026 20:51:08 GMT",
@@ -167,16 +167,6 @@
     "publisher": {
       "href": "https://montreal.citynews.ca",
       "title": "CityNews Montreal"
-    }
-  },
-  {
-    "title": "Women's College Hospital Foundation raises over $1.1M at 15th annual Women for Women's event, and honours Nelly Furtado with Trailblazer Award - Newswire Canada",
-    "description": "Women's College Hospital Foundation raises over $1.1M at 15th annual Women for Women's event, and honours Nelly Furtado with Trailblazer Award  Newswire Canada",
-    "published date": "Wed, 25 Mar 2026 14:40:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQX0pTUWF1a2xmci14YWNiUjJoZnJsUGpVVWdiTlRaODVDR3hSU2ViTUhRcDc0MlB1V2lpSEV4aXVmNkEyZ0ZfZ3ZnYjdTbEJuZXRLd0twUk5WcFBYdmlUVXUwVEZ4ajBXZ2l3bVBud3hkcDg4ZlVxZkRuU2dkRkkwbk1uMlJBdTFkN0tGN1dSckVHcjQtMkZhend4dG1IVXFVb0V4RkVQQnpuZ2Nkc1E2cXRvVFh5MlRmSHlUa0poS3VjVTRiM2hQejQzcXJnUnFXRWFJbDJjNTFpOEdiVElHazdpLWJodTRVVHpibVVRMkF6LTE5SjBLRzlfQVhzb2NWMTROR2hVanFYOGZYSF9hTUphZHZUVWNBLWhzSVpB?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.newswire.ca",
-      "title": "Newswire Canada"
     }
   },
   {
@@ -200,13 +190,33 @@
     }
   },
   {
-    "title": "Chatham-Kent health unit issues alert over unlicensed tattoo and piercing studio - AM 800 CKLW",
-    "description": "Chatham-Kent health unit issues alert over unlicensed tattoo and piercing studio  AM 800 CKLWCK Public Health issues alert for tattoo and piercing provider  CK News Today",
-    "published date": "Tue, 24 Mar 2026 20:26:13 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUDJjRFRGbVpoeGJhZ2xJbllGQlBtUjlMTWRob0g0THlUMzVZYTkxbUZlUUMwc0k5d1NiZTZyei1lTTBJREU0cEw5Q3VXdnVOOU1CRzRYZVU1WHgxeVYxdzVEd0lEMWVWNW01SlZySlZlWHE4clBoRVlhczFGQmYxMl9QNGxqVTl4RWc0ZkFHVjFHa0cxbUFCUW5MWXdFNzJLbjRTdmtBMmU5WkZ0VkVRbkxGdmZTZ28?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Women's College Hospital Foundation raises over $1.1M at 15th annual Women for Women's event, and honours Nelly Furtado with Trailblazer Award - Newswire Canada",
+    "description": "Women's College Hospital Foundation raises over $1.1M at 15th annual Women for Women's event, and honours Nelly Furtado with Trailblazer Award  Newswire Canada",
+    "published date": "Wed, 25 Mar 2026 14:40:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQX0pTUWF1a2xmci14YWNiUjJoZnJsUGpVVWdiTlRaODVDR3hSU2ViTUhRcDc0MlB1V2lpSEV4aXVmNkEyZ0ZfZ3ZnYjdTbEJuZXRLd0twUk5WcFBYdmlUVXUwVEZ4ajBXZ2l3bVBud3hkcDg4ZlVxZkRuU2dkRkkwbk1uMlJBdTFkN0tGN1dSckVHcjQtMkZhend4dG1IVXFVb0V4RkVQQnpuZ2Nkc1E2cXRvVFh5MlRmSHlUa0poS3VjVTRiM2hQejQzcXJnUnFXRWFJbDJjNTFpOEdiVElHazdpLWJodTRVVHpibVVRMkF6LTE5SjBLRzlfQVhzb2NWMTROR2hVanFYOGZYSF9hTUphZHZUVWNBLWhzSVpB?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.am800cklw.com",
-      "title": "AM 800 CKLW"
+      "href": "https://www.newswire.ca",
+      "title": "Newswire Canada"
+    }
+  },
+  {
+    "title": "The Role of Integrative Medicine in Oncology: Expert Perspectives on Nutrition, Exercise, and Symptom Management - Oncology Nursing News",
+    "description": "The Role of Integrative Medicine in Oncology: Expert Perspectives on Nutrition, Exercise, and Symptom Management  Oncology Nursing News",
+    "published date": "Wed, 25 Mar 2026 14:09:48 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQS0xPX3RORVhSTEVjNWFrNkcwUnItWVZIX2NjNzZpcGE2NXh2a3FnanB2QVlzekhMQ18tY0hoYUtZOTNzMXBTMktwaExQWnVrMHM3TW9PZHlycnZEcFF5bEJCbUpjVExabTlzN2hpVlQxbzNaMkhOYm1FOGxlc3ByLUFWLV9JVXFWY003aFRVWno5d2RNcC1UTWR6Ynp6THdLa2ZXdXFmR0pUdXZNbWphV0x1ZVhXc2ZrQTlyaW1pRlhLdm1YbV9lU2hyZEdjWGtGdXBkU0Y4LUcxaWtKcFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.oncnursingnews.com",
+      "title": "Oncology Nursing News"
+    }
+  },
+  {
+    "title": "Public health warns of infection risk linked to unlicensed tattoo and piercing provider in Chatham - Sydenham Current",
+    "description": "Public health warns of infection risk linked to unlicensed tattoo and piercing provider in Chatham  Sydenham CurrentChatham-Kent health unit issues alert over unlicensed tattoo and piercing studio  CTV NewsCK Public Health issues alert for tattoo and piercing provider  CK News Today",
+    "published date": "Wed, 25 Mar 2026 06:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQclF3WTBVNm1fdG9JMWp4Sk5jZ3hkYmhDSHhoekdaQ3dDb1gydUZ0czRLVHRiT1dYN002a0tZdUplQU5wZllYbklibWtPV2tVQ3BMcTB6eldrYXduRmllSjd6ZDlYZ0h0STR0SGhJeVJsTENNTEtscUFlYXNuckVvR000MjdGQ0dkd3hNV3RuRF9HeDRRVlQ3TE5iQVRudXMycVNsbjdEbEg1aE5sR3FtUGljQkJuV25sYUJ4dl9Mb21XRnhaUV9tVkdPUVRvczg5azlF?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://sydenhamcurrent.ca",
+      "title": "Sydenham Current"
     }
   },
   {
@@ -230,16 +240,6 @@
     }
   },
   {
-    "title": "Hormonal contraception not associated with prevalence of idiopathic intracranial hypertension - News-Medical",
-    "description": "Hormonal contraception not associated with prevalence of idiopathic intracranial hypertension  News-Medical",
-    "published date": "Thu, 26 Mar 2026 01:15:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaXFoSS1sUnAwZ2tyVzFMS05jbzNaSjI4cTM3Zmhmc2tZLVVxWl9FZ2FjMUVBNk1qWnFubGpXaV9XYWh1dXNLOGpTY042dTk3dllMUmpBUzZFZjlXa3EzYWVNNG5WMFM5cy12dng3bGZySXhvdzRWU2tFQmxRSWxNdlEzWXI5V0o3QjNZOVhTVEpaSGgtSGVFYW5BaFliU2otODlGWTM1WlIwTXpFeW9QNzVSU0haTldMR2x1RW1nMHhVNUdORmdaVVprcjQ2SXlsbmVtXzVibE4?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.news-medical.net",
-      "title": "News-Medical"
-    }
-  },
-  {
     "title": "Your choice of booze influences your risk of death, study says - Medical Xpress",
     "description": "Your choice of booze influences your risk of death, study says  Medical XpressWine, beer or liquor: Study finds one drink is linked to lower risk of death than others  Fox NewsWine drinkers show lower heart risk than other alcohol consumers, study finds  Yahoo News CanadaWine Isn’t Risk-Free — but It May Not Be the Biggest Health Threat on Your Table  Food & WineThe perfect amount of wine to drink to lower your risk of dying from heart disease by 21%  New York Post",
     "published date": "Wed, 25 Mar 2026 00:10:03 GMT",
@@ -250,13 +250,13 @@
     }
   },
   {
-    "title": "Investigators called after receptionist peeked in dental office - Brantford Expositor",
-    "description": "Investigators called after receptionist peeked in dental office  Brantford ExpositorAnger boils over as dental clients worry about viruses  Brantford Expositor",
-    "published date": "Wed, 25 Mar 2026 16:33:30 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTVFvdGJQX3I1cWhRVmRzczRIaURVZG1nMmYtaUNvb1F6T3hSYm4tcGhTbTBsR0dQMnB1ZjA2TUtURlgzZks1SlBKdlFxTVdyYUxpSjQ0OHVHeC16VThIeDdGeUVvRFlLWnA2ZVRsWV81YWFZR0o0YlFhdG9JbGIxM3VGamJPeWVDbHNVSzNZT1I3R2lmeldxUnF3cjNIMkRKNFhTVS1iTW9jaERFNkNpOWRWQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Hormonal contraception not associated with prevalence of idiopathic intracranial hypertension - News-Medical",
+    "description": "Hormonal contraception not associated with prevalence of idiopathic intracranial hypertension  News-Medical",
+    "published date": "Thu, 26 Mar 2026 01:15:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaXFoSS1sUnAwZ2tyVzFMS05jbzNaSjI4cTM3Zmhmc2tZLVVxWl9FZ2FjMUVBNk1qWnFubGpXaV9XYWh1dXNLOGpTY042dTk3dllMUmpBUzZFZjlXa3EzYWVNNG5WMFM5cy12dng3bGZySXhvdzRWU2tFQmxRSWxNdlEzWXI5V0o3QjNZOVhTVEpaSGgtSGVFYW5BaFliU2otODlGWTM1WlIwTXpFeW9QNzVSU0haTldMR2x1RW1nMHhVNUdORmdaVVprcjQ2SXlsbmVtXzVibE4?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.brantfordexpositor.ca",
-      "title": "Brantford Expositor"
+      "href": "https://www.news-medical.net",
+      "title": "News-Medical"
     }
   },
   {
@@ -270,6 +270,16 @@
     }
   },
   {
+    "title": "Investigators called after receptionist peeked in dental office - Brantford Expositor",
+    "description": "Investigators called after receptionist peeked in dental office  Brantford ExpositorAnger boils over as dental clients worry about viruses  Brantford Expositor",
+    "published date": "Wed, 25 Mar 2026 16:33:30 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTVFvdGJQX3I1cWhRVmRzczRIaURVZG1nMmYtaUNvb1F6T3hSYm4tcGhTbTBsR0dQMnB1ZjA2TUtURlgzZks1SlBKdlFxTVdyYUxpSjQ0OHVHeC16VThIeDdGeUVvRFlLWnA2ZVRsWV81YWFZR0o0YlFhdG9JbGIxM3VGamJPeWVDbHNVSzNZT1I3R2lmeldxUnF3cjNIMkRKNFhTVS1iTW9jaERFNkNpOWRWQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.brantfordexpositor.ca",
+      "title": "Brantford Expositor"
+    }
+  },
+  {
     "title": "Public Health Sudbury and District issues drug warning - The Manitoulin Expositor",
     "description": "Public Health Sudbury and District issues drug warning  The Manitoulin ExpositorPublic Health warns of jump in drug poisonings  Sudbury NewsPublic Health warns of spike in drug poisonings across Sudbury region  Sudbury Star",
     "published date": "Wed, 25 Mar 2026 04:00:00 GMT",
@@ -277,6 +287,16 @@
     "publisher": {
       "href": "https://www.manitoulin.com",
       "title": "The Manitoulin Expositor"
+    }
+  },
+  {
+    "title": "60% of Cancer Survivors Can't Sleep--New Smartphone App Aims to Change That - Newswire Canada",
+    "description": "60% of Cancer Survivors Can't Sleep--New Smartphone App Aims to Change That  Newswire Canada",
+    "published date": "Tue, 24 Mar 2026 13:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcXV5YzRFTHMzV0ZoYnZUbU1BT2tiOHBqWWVnRnE5RVBrTGVReGpEdF9tYk53Q2hNd1JsMUtHNVEzZ0k2U0lEcEtST00zdXhDYWJCS3JUaG1LY0kteTNhcDZSMHRIWTdSUF9XN09kNDJvLVJkaGd6cWtjb0VYSmRqNmwyTkx5WGlQQ3VOSWpKc0pNaEViclBlRHRVWXFlM1lWLWJrZ0FEaml0LXE2WlcyMGRqVUJ3cHFYbGlqV1E4QXo0Um1Q?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.newswire.ca",
+      "title": "Newswire Canada"
     }
   },
   {
@@ -310,33 +330,23 @@
     }
   },
   {
-    "title": "60% of Cancer Survivors Can't Sleep--New Smartphone App Aims to Change That - Newswire Canada",
-    "description": "60% of Cancer Survivors Can't Sleep--New Smartphone App Aims to Change That  Newswire Canada",
-    "published date": "Tue, 24 Mar 2026 13:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcXV5YzRFTHMzV0ZoYnZUbU1BT2tiOHBqWWVnRnE5RVBrTGVReGpEdF9tYk53Q2hNd1JsMUtHNVEzZ0k2U0lEcEtST00zdXhDYWJCS3JUaG1LY0kteTNhcDZSMHRIWTdSUF9XN09kNDJvLVJkaGd6cWtjb0VYSmRqNmwyTkx5WGlQQ3VOSWpKc0pNaEViclBlRHRVWXFlM1lWLWJrZ0FEaml0LXE2WlcyMGRqVUJ3cHFYbGlqV1E4QXo0Um1Q?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Blood scandal victim says memorial 'means so much' - Yahoo News Canada",
+    "description": "Blood scandal victim says memorial 'means so much'  Yahoo News CanadaContaminated blood scandal victim says memorial 'means so much'  BBC",
+    "published date": "Thu, 26 Mar 2026 06:14:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPT3E5RmNmeVdTcTF4MUozdmFUekZEbTc1SV84dVo0LWJCeGVNMi12SS1JQXRZUnNWTmRXZkJTY19VUEhzS3BKTDFFWTQxcXlHT3hFZkRTWTF2cHhMdHB1eUQ5Mjh5TFhYYTRUMVRRTlcxZTVtVkFFajFLNmhqVW1yQw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.newswire.ca",
-      "title": "Newswire Canada"
+      "href": "https://ca.news.yahoo.com",
+      "title": "Yahoo News Canada"
     }
   },
   {
-    "title": "Probing and Rescuing Dysfunctional Brain Circuits in Depression - Toronto Star",
-    "description": "Probing and Rescuing Dysfunctional Brain Circuits in Depression  Toronto Star",
-    "published date": "Tue, 24 Mar 2026 15:17:25 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdW4zdWhENkVHUzVTUXQ2cVpyT05ocHRNUlI0Y25NbDJwTlAzZk5TbGs4aUE3aGFXSnJGUF9HV1o4VFRiSmN4OVY3SGVxUVVuNVFSZ2d2MlJmUjhkLVIxZkt3THBod2lsZVhEZkRZQjlFa095a1hobWRkVlZ5d0VSLXFIWWVkOUpiZElmRnVIUlR0YTJjYU9DZ3U1NmU5R24yN0sxOENRcGRPd3VNZlpTb2otMlY0TlFFODlEZXVPUU1ZRFgxLWp1bmZrM1o2T1p2TXVpMGlBdGZObjZoRmpVcWhOUnhZdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "The Sunburnt Car Highlights Sun Exposure Risks While Driving - Branding in Asia",
+    "description": "The Sunburnt Car Highlights Sun Exposure Risks While Driving  Branding in AsiaMycar turns car interior into ‘human skin’ to expose Australia’s UV blind spot  Marketing-Interactive",
+    "published date": "Thu, 26 Mar 2026 04:40:18 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOXdSYXpYQlB2b0NjSkRfd0dJRHNqZUVMeGdkR0lGQTNJTnJ2T0VpMGlWWjBHVlJLcl90SWdhb1BnZ29iLXdGclR6VE9TMk9TVGZ6S0F4NVI1UTd1ZU13TFJqQkhGQm1fNzloeXgtWVdpWkc1RW1wZUV5WlZGY0Q2ZXRRbDdXaW9HT1I5c0tNZ1c3aEJNZmU0?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.thestar.com",
-      "title": "Toronto Star"
-    }
-  },
-  {
-    "title": "How to manage seasonal allergies as pollen counts increase | Daily Sabah - Daily Sabah",
-    "description": "How to manage seasonal allergies as pollen counts increase | Daily Sabah  Daily SabahWelcome to allergy season. Here’s how to protect yourself  CityNews Ottawa",
-    "published date": "Wed, 25 Mar 2026 11:59:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNzk0OFJoRGlGVVlReWV2dl9hcUpuX2t6YUFjYmhGY3NNTExOMldsbVRCbVpnRndPMnZISXhvVW9NOHV6TUdJR0NLUjluQjVWSldOd1V3QVEtRU1OX2dUSDBHa3lzUWZfTklkT0hmUlRnQzZScE9BYUdXMTV5MkpZOFk2MEpWenNfcm5Qa0dnYnBveUxDN0M4NzI2OTVrQdIBowFBVV95cUxQc1Z3TkxYQjBrRlBxT3lVMmxSbFQzejlhVEtKVm9TY3hSRjhBM2NscHFmZWxZXzRjQy1KeDJ3cUZsS3UwajV3a0R5eWVKaWpCR1FxVDNRVFdHN2MwV3pfczVuaDByeXVDRlBfYUswcXQ5V0lGYUVIdlltbVBZeWxRcF9CTXgzczlBSHl2Z1ZFbE5lSWE3R3A2MFR2cS1rRDgtdExJ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.dailysabah.com",
-      "title": "Daily Sabah"
+      "href": "https://www.brandinginasia.com",
+      "title": "Branding in Asia"
     }
   },
   {
@@ -350,16 +360,6 @@
     }
   },
   {
-    "title": "First Parkinson's Patients Treated in Landmark Phase 2 Trial of Dapansutrile – Expanding a Leading Oral NLRP3 Inhibitor into Neurological Diseases | Newswise - Newswise",
-    "description": "First Parkinson's Patients Treated in Landmark Phase 2 Trial of Dapansutrile – Expanding a Leading Oral NLRP3 Inhibitor into Neurological Diseases | Newswise  Newswise",
-    "published date": "Tue, 24 Mar 2026 13:45:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQcUFFQXRKNmk4LVh3VlNHMFdzazRFUGVRRXhCZDZ0OFVhcG1wSVpMZURaZ1VCZHJZYVktaUt1bWVhaFBoMHVLa2Ntb29PZ2pXX3lvSEV6WmJyeFpkWGdaR3k3YXZzQmRvaG9naFA3Mm1lOTEwSTlUNnVpaTFhaHdXMXpNck1RQ0xmMDVGVlhmSEpwTTRSVzAxV1I5OWJYcDhKM0JraUpiWlZxVjZPbXlXUXNod3dTcjRsc0JTNHpFLXhNcWFyTThMV0RYM0w0a0w4aU43RE5QcTVfVkNIYUctMy1ZLU9lX2NHaXBiUUlWNi1Lc1JGaXg5TjNOdjZLX2tER0FXbFA5VnFSUdIBigJBVV95cUxQcUFFQXRKNmk4LVh3VlNHMFdzazRFUGVRRXhCZDZ0OFVhcG1wSVpMZURaZ1VCZHJZYVktaUt1bWVhaFBoMHVLa2Ntb29PZ2pXX3lvSEV6WmJyeFpkWGdaR3k3YXZzQmRvaG9naFA3Mm1lOTEwSTlUNnVpaTFhaHdXMXpNck1RQ0xmMDVGVlhmSEpwTTRSVzAxV1I5OWJYcDhKM0JraUpiWlZxVjZPbXlXUXNod3dTcjRsc0JTNHpFLXhNcWFyTThMV0RYM0w0a0w4aU43RE5QcTVfVkNIYUctMy1ZLU9lX2NHaXBiUUlWNi1Lc1JGaXg5TjNOdjZLX2tER0FXbFA5VnFSUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.newswise.com",
-      "title": "Newswise"
-    }
-  },
-  {
     "title": "Why Cancer Misdiagnosis Happens More Often Than You Think: Causes, Consequences, and Patient Options - Medical News Bulletin",
     "description": "Why Cancer Misdiagnosis Happens More Often Than You Think: Causes, Consequences, and Patient Options  Medical News Bulletin",
     "published date": "Tue, 24 Mar 2026 14:08:44 GMT",
@@ -367,6 +367,16 @@
     "publisher": {
       "href": "https://medicalnewsbulletin.com",
       "title": "Medical News Bulletin"
+    }
+  },
+  {
+    "title": "How to manage seasonal allergies as pollen counts increase | Daily Sabah - Daily Sabah",
+    "description": "How to manage seasonal allergies as pollen counts increase | Daily Sabah  Daily SabahWelcome to allergy season. Here’s how to protect yourself  CityNews Ottawa",
+    "published date": "Wed, 25 Mar 2026 11:59:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNzk0OFJoRGlGVVlReWV2dl9hcUpuX2t6YUFjYmhGY3NNTExOMldsbVRCbVpnRndPMnZISXhvVW9NOHV6TUdJR0NLUjluQjVWSldOd1V3QVEtRU1OX2dUSDBHa3lzUWZfTklkT0hmUlRnQzZScE9BYUdXMTV5MkpZOFk2MEpWenNfcm5Qa0dnYnBveUxDN0M4NzI2OTVrQdIBowFBVV95cUxQc1Z3TkxYQjBrRlBxT3lVMmxSbFQzejlhVEtKVm9TY3hSRjhBM2NscHFmZWxZXzRjQy1KeDJ3cUZsS3UwajV3a0R5eWVKaWpCR1FxVDNRVFdHN2MwV3pfczVuaDByeXVDRlBfYUswcXQ5V0lGYUVIdlltbVBZeWxRcF9CTXgzczlBSHl2Z1ZFbE5lSWE3R3A2MFR2cS1rRDgtdExJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.dailysabah.com",
+      "title": "Daily Sabah"
     }
   },
   {
@@ -380,13 +390,13 @@
     }
   },
   {
-    "title": "Researchers issue stark warning about growing threat of lung cancer for non-smokers - The Cool Down",
-    "description": "Researchers issue stark warning about growing threat of lung cancer for non-smokers  The Cool DownA look at new risk factors for lung cancer  Yahoo News Canada",
-    "published date": "Wed, 25 Mar 2026 20:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTHlzclNXUG4wa3FyT2ZYSXNYVnN1VnRRYkF2SDJWMC1Kc0xjazlWY1FRMVIweWtBUUVXZWtvcWk1dGJrQnl3cTZWaDI2V1ZpMFhQZ0Z0ZUtXT0pWM1MwdWJ3VUEtRlluTkg2dDZ1TGlSRVdveUNPc3dJTUFseGhtOVRR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "First Parkinson's Patients Treated in Landmark Phase 2 Trial of Dapansutrile – Expanding a Leading Oral NLRP3 Inhibitor into Neurological Diseases | Newswise - Newswise",
+    "description": "First Parkinson's Patients Treated in Landmark Phase 2 Trial of Dapansutrile – Expanding a Leading Oral NLRP3 Inhibitor into Neurological Diseases | Newswise  Newswise",
+    "published date": "Tue, 24 Mar 2026 13:45:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQcUFFQXRKNmk4LVh3VlNHMFdzazRFUGVRRXhCZDZ0OFVhcG1wSVpMZURaZ1VCZHJZYVktaUt1bWVhaFBoMHVLa2Ntb29PZ2pXX3lvSEV6WmJyeFpkWGdaR3k3YXZzQmRvaG9naFA3Mm1lOTEwSTlUNnVpaTFhaHdXMXpNck1RQ0xmMDVGVlhmSEpwTTRSVzAxV1I5OWJYcDhKM0JraUpiWlZxVjZPbXlXUXNod3dTcjRsc0JTNHpFLXhNcWFyTThMV0RYM0w0a0w4aU43RE5QcTVfVkNIYUctMy1ZLU9lX2NHaXBiUUlWNi1Lc1JGaXg5TjNOdjZLX2tER0FXbFA5VnFSUdIBigJBVV95cUxQcUFFQXRKNmk4LVh3VlNHMFdzazRFUGVRRXhCZDZ0OFVhcG1wSVpMZURaZ1VCZHJZYVktaUt1bWVhaFBoMHVLa2Ntb29PZ2pXX3lvSEV6WmJyeFpkWGdaR3k3YXZzQmRvaG9naFA3Mm1lOTEwSTlUNnVpaTFhaHdXMXpNck1RQ0xmMDVGVlhmSEpwTTRSVzAxV1I5OWJYcDhKM0JraUpiWlZxVjZPbXlXUXNod3dTcjRsc0JTNHpFLXhNcWFyTThMV0RYM0w0a0w4aU43RE5QcTVfVkNIYUctMy1ZLU9lX2NHaXBiUUlWNi1Lc1JGaXg5TjNOdjZLX2tER0FXbFA5VnFSUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.thecooldown.com",
-      "title": "The Cool Down"
+      "href": "https://www.newswise.com",
+      "title": "Newswise"
     }
   },
   {
@@ -397,6 +407,26 @@
     "publisher": {
       "href": "https://viterbischool.usc.edu",
       "title": "USC Viterbi School of Engineering"
+    }
+  },
+  {
+    "title": "Researchers issue stark warning about growing threat of lung cancer for non-smokers - The Cool Down",
+    "description": "Researchers issue stark warning about growing threat of lung cancer for non-smokers  The Cool DownA look at new risk factors for lung cancer  Yahoo News Canada",
+    "published date": "Wed, 25 Mar 2026 20:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTHlzclNXUG4wa3FyT2ZYSXNYVnN1VnRRYkF2SDJWMC1Kc0xjazlWY1FRMVIweWtBUUVXZWtvcWk1dGJrQnl3cTZWaDI2V1ZpMFhQZ0Z0ZUtXT0pWM1MwdWJ3VUEtRlluTkg2dDZ1TGlSRVdveUNPc3dJTUFseGhtOVRR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.thecooldown.com",
+      "title": "The Cool Down"
+    }
+  },
+  {
+    "title": "Probing and Rescuing Dysfunctional Brain Circuits in Depression - Toronto Star",
+    "description": "Probing and Rescuing Dysfunctional Brain Circuits in Depression  Toronto Star",
+    "published date": "Tue, 24 Mar 2026 15:17:25 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdW4zdWhENkVHUzVTUXQ2cVpyT05ocHRNUlI0Y25NbDJwTlAzZk5TbGs4aUE3aGFXSnJGUF9HV1o4VFRiSmN4OVY3SGVxUVVuNVFSZ2d2MlJmUjhkLVIxZkt3THBod2lsZVhEZkRZQjlFa095a1hobWRkVlZ5d0VSLXFIWWVkOUpiZElmRnVIUlR0YTJjYU9DZ3U1NmU5R24yN0sxOENRcGRPd3VNZlpTb2otMlY0TlFFODlEZXVPUU1ZRFgxLWp1bmZrM1o2T1p2TXVpMGlBdGZObjZoRmpVcWhOUnhZdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.thestar.com",
+      "title": "Toronto Star"
     }
   },
   {
@@ -440,26 +470,6 @@
     }
   },
   {
-    "title": "Age, Race, Cancer Status Linked to COVID-19 Severity in Gynecologic Cancers - Cancer Therapy Advisor",
-    "description": "Age, Race, Cancer Status Linked to COVID-19 Severity in Gynecologic Cancers  Cancer Therapy Advisor",
-    "published date": "Wed, 25 Mar 2026 04:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRTdfbHc0WUV3bEw5bWd2MjE0MkFCTHIydzRfWlRWRnN3TjZEOWZzclIxU2xETWhiYjhuRFdMUW4zVnRTeGVGcENDazRFa012ZFI3M3hxeFdmMTBvZWFTTWx3TnlrR1YwN0RPUXlJeFF0dW9LV1d1T3pFeTU3VlZmeHpGZ1BHSTgxRUlEMllGY3RHbk1zTVZsdXVHSlRFa1ZFc2RZV1k2T3U4V2ZTT0ZoNmRQQXlGN3M?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cancertherapyadvisor.com",
-      "title": "Cancer Therapy Advisor"
-    }
-  },
-  {
-    "title": "5 powerful brain games that slow aging - Rolling Out",
-    "description": "5 powerful brain games that slow aging  Rolling OutThe Brain-Boosting Activity Doctors Wish More People Did  EatingWellPractical, science-based Behaviors to strengthen your mind at every age.  Psychology Today",
-    "published date": "Tue, 24 Mar 2026 13:30:24 GMT",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LTTlBVmFCRzJWbXFSM1o3WXFzanNnRGRlMEwzQ0lEd0dKZGNpcEJBNW1oRWJOWjRfYTBZQjdBNHpOSGdXcXZyTUw3YVBjUDkwRUFZUWZGRmhWdGU1TTR4Z3VDLXdSaDNIUlNrVk1pazEtTy16YUNYTg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://rollingout.com",
-      "title": "Rolling Out"
-    }
-  },
-  {
     "title": "Mom's Severe Latex Allergy Means Balloons, Playgrounds Can Be Life-Threatening - Yahoo Lifestyle Canada",
     "description": "Mom's Severe Latex Allergy Means Balloons, Playgrounds Can Be Life-Threatening  Yahoo Lifestyle Canada",
     "published date": "Tue, 24 Mar 2026 12:55:16 GMT",
@@ -467,16 +477,6 @@
     "publisher": {
       "href": "https://ca.style.yahoo.com",
       "title": "Yahoo Lifestyle Canada"
-    }
-  },
-  {
-    "title": "From chemistry to imaging: U of T professor advances PET imaging tools for brain research - University of Toronto",
-    "description": "From chemistry to imaging: U of T professor advances PET imaging tools for brain research  University of Toronto",
-    "published date": "Tue, 24 Mar 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb1dtZTZtSWFLUVVObjk3dnd4SUJrY3ZJcjg1WmM4eFg4NnlCcFRtVl8zd2QxdkszdUJhRVZ1clhqRi16TnJVa0hTcFJ3Ty1wcXJ4eDMtc1NHM01fcGhOVUY0YjFvWm9zcTd6TXMyOXhyeW1hTTlmdTdzUE1XNnl4YlBqRWNKTXBLZEk4TC0zTTh6ZjF4MHZLZGFKNWRnN0VDQ1RzV0JTQTVJd05LeDNiUktyUHY?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://temertymedicine.utoronto.ca",
-      "title": "University of Toronto"
     }
   },
   {
@@ -500,23 +500,23 @@
     }
   },
   {
-    "title": "Lessons From the Sea - Bluedot Living",
-    "description": "Lessons From the Sea  Bluedot Living",
-    "published date": "Tue, 24 Mar 2026 07:00:09 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJbkhxM2Y5TzF4VUh2REdfOHo1aHFndzhaNExYNTVjejltUEJMWkVrY1VqNE5UWEpJRWJ1b0Y3bG1QTG1Cb2ZHdXRZdGp2emtCb2I0Y0xCNXJCUGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Scientists uncover gut-brain pathway that triggers sickness during parasitic infections - Xinhua",
+    "description": "Scientists uncover gut-brain pathway that triggers sickness during parasitic infections  XinhuaParasites trigger epithelial cell crosstalk to drive gut–brain signalling  NatureScientists Just Found Why You Suddenly Lose Your Appetite When Sick  SciTechDaily",
+    "published date": "Thu, 26 Mar 2026 05:56:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZENPcUFySkh6b2VYYmlYSEdKUXdVVmd5LTB5Y0VuT2xOUThBUzNTQXJ5Q1B2M3IwbkplMVFLTEdrRWo0LXY5NWNJNjk1N2xuUDNraGhwd18yX1FHemltRnZpSUFtZzBjR1dCMlNFa3k2dE4za1Bzal9KaTFoWUczR2tGS1R1Z05vVm9QeA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://bluedotliving.com",
-      "title": "Bluedot Living"
+      "href": "https://english.news.cn",
+      "title": "Xinhua"
     }
   },
   {
-    "title": "Your Good Health: At-home kits aren’t intended for people with Lynch syndrome - Times Colonist",
-    "description": "Your Good Health: At-home kits aren’t intended for people with Lynch syndrome  Times Colonist",
-    "published date": "Tue, 24 Mar 2026 09:45:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGhCcnE1b2pvTUZQRlhJR3draEt3UEY2QjhraTZmdUotR0U5Y1hnT1JuSWRlX0JnbXpRckR3aldZVHJ4RjlMUlJ2dktOMmU2VUxWZF91TEVWc202SDAwLU9MdkV0VXljZ296U1JTZ1ZmUnpaRmZ2dlJOdHkweFg0MHc2dzcwMHBxVXU3VWl4N05CSnVMUVN5VmE5NUJ6ODVBV3lHYVVhbV9tVl93N2RHX25VcDJqMWZmWElj?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Trial introduced to diagnose breast cancer earlier - Yahoo News Canada",
+    "description": "Trial introduced to diagnose breast cancer earlier  Yahoo News Canada",
+    "published date": "Thu, 26 Mar 2026 05:47:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaTZnSVZKbWJZdGdmc0lERjFmYmNKVVBxTjdvajVLTTF1eDl4N2dOZU5BTzQ2SmdDaU96aWFaYkdOUnFtR2FOUEJJekVCazUtcDNHbVl5V0NoM1BWcy12bDlMMG51bDNFVHhmUEhEQXh5XzNPRWxBUG1vQmxZWEtHMVJsTXZmaUE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.timescolonist.com",
-      "title": "Times Colonist"
+      "href": "https://ca.news.yahoo.com",
+      "title": "Yahoo News Canada"
     }
   },
   {
@@ -541,7 +541,7 @@
   },
   {
     "title": "Clinical trial finds hormone patches to be effective for locally advanced prostate cancer - Medical Xpress",
-    "description": "Clinical trial finds hormone patches to be effective for locally advanced prostate cancer  Medical XpressEstradiol patches as effective as injections for locally advanced prostate cancer  News-Medical",
+    "description": "Clinical trial finds hormone patches to be effective for locally advanced prostate cancer  Medical XpressHRT patches can help treat prostate cancer  The TelegraphEstradiol patches as effective as injections for locally advanced prostate cancer  News-Medical",
     "published date": "Wed, 25 Mar 2026 21:00:03 GMT",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdHNjTjN1Sk9fem5yYnMza2NPUXd2MGVoaTZvNktkOEh5MVo0QUNNTE5GN0N3bHJaeVNWVk53amhzenFQQVpGUVA0NDFKSTNZOWtvNFo0RXRoMkRHTzhhdUxQUnZ5OThMa2VLTngwdl9NQjRqNF82em9ud1FPWFNISUxiLXcwTjZHdkFDSA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -560,6 +560,26 @@
     }
   },
   {
+    "title": "After 60 Years, Diabetes Drug Revealed to Unexpectedly Affect The Brain - ScienceAlert",
+    "description": "After 60 Years, Diabetes Drug Revealed to Unexpectedly Affect The Brain  ScienceAlertMetformin’s hidden brain pathway revealed after 60 years  ScienceDaily",
+    "published date": "Wed, 25 Mar 2026 23:02:04 GMT",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQkRXT0s2Q3dPOFhGYkhmZDVWQm16T0pCNmt4ZGtRLWJxSXNXX184WTltNVJHWG5ITlFmdGV2Y2xhMENhMGppVUxjTlNvY2VIX3JnbnR1QldxM3Y0NkMySXVNSzVGOE9DY0luSFBjS3VjbmZNVXp5RHYtY1JsT2xDNlBiclpGRFM5a2ppcnFzcWF1eWczZEwteTVYOWtlZnRO?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.sciencealert.com",
+      "title": "ScienceAlert"
+    }
+  },
+  {
+    "title": "Community music programs boost youth wellbeing and life skills - News-Medical",
+    "description": "Community music programs boost youth wellbeing and life skills  News-Medical",
+    "published date": "Wed, 25 Mar 2026 14:08:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcHdiYjJHSXpqaGtKYzMtZDVfSC00YmdPTGdLWlJsdUlsT2o0M05ZMXFsaVVGRFQ1Q2w1NzFpR2dHUnZEQkZwdEp6S3R4NUM3RFo0WFlnOTBkbko0NHV0dFdieENEc0lVQUpUMm5WMnRFcW9kUmpicjdsd2hYUGZyS3N0c0dvbmFSb2JydUNmRkFDZTNLUmpwdTdzajQ2N2FsMWxMSnlwTkRjQmkyamxN?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.news-medical.net",
+      "title": "News-Medical"
+    }
+  },
+  {
     "title": "Dominant clones leverage developmental epigenomic states to drive ependymoma - Nature",
     "description": "Dominant clones leverage developmental epigenomic states to drive ependymoma  NatureAndrogen activity in the male embryonic hindbrain drives lethal PFA ependymoma  Nature",
     "published date": "Wed, 25 Mar 2026 22:06:41 GMT",
@@ -570,33 +590,13 @@
     }
   },
   {
-    "title": "Gut-to-brain pathway explains how the immune system triggers loss of appetite during parasitic infection - Medical Xpress",
-    "description": "Gut-to-brain pathway explains how the immune system triggers loss of appetite during parasitic infection  Medical XpressParasites trigger epithelial cell crosstalk to drive gut–brain signalling  NatureScientists Just Found Why You Suddenly Lose Your Appetite When Sick  SciTechDaily",
-    "published date": "Wed, 25 Mar 2026 16:00:29 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUndUbmZ2WWhSTjlnTnZzMnNBSnhCTmpLdzM5aW93WmtsX0ZhekMtOXd4YlFOeVd0R0o5d1VvZGpmaXJzd3I0bzFDMU9rb0FJdVBWMi0xdkdzdFB0WWU4WHc1Y3R4blRUcjVXQmFxUDJ6QndOd0w3eEpJdGd3Y2k3Y2o5VQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://medicalxpress.com",
-      "title": "Medical Xpress"
-    }
-  },
-  {
     "title": "ADHD medication in childhood may lower risk of psychosis later in life, study finds - Euronews.com",
-    "description": "ADHD medication in childhood may lower risk of psychosis later in life, study finds  Euronews.comCommon ADHD medication prescribed in childhood may protect against risk of psychosis  NBC NewsChildhood ADHD medication shows protective effect against future psychosis  News-Medical",
+    "description": "ADHD medication in childhood may lower risk of psychosis later in life, study finds  Euronews.comCommon ADHD medication prescribed in childhood may protect against risk of psychosis  NBC NewsADHD medication may reduce later risk of psychosis, study finds  AOL.com",
     "published date": "Wed, 25 Mar 2026 15:15:51 GMT",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY2pfVTlOWVlIeTB5UlphSXFFRWxKUXo2U0JpUTNuNHQxVk5sRDdCTmxER2pqYmpfOTJfSjJySUpQaVpjQmhvZG9feWVseHBxS3pvNHFqVjlhSl9lanlMRU9MTHdjREtULThfdDh5amF3QTZld1NDVjg0NDJtSFNjeF92TVZuRWI3c1A0OWhvUm9oYjAzd2VaQTdyblNrTzlSMXlWYjBLRjJBV3VaZ0lsNnd6QXhVRU44UU9TTHJRRnV1Wkk?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.euronews.com",
       "title": "Euronews.com"
-    }
-  },
-  {
-    "title": "Community music education a key youth well-being strategy - Phys.org",
-    "description": "Community music education a key youth well-being strategy  Phys.org",
-    "published date": "Thu, 26 Mar 2026 00:20:01 GMT",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuWjVocV9nN1Vxc3QxWHFPd2cwNUd0Ym1QVmRUN3ZScjZYSGRLOHNmaFExWFdyRWNyMjVTZWVBQ3NreUJRZjd1dUJiWHpRRkduTjVzanh0eEFyWVZuNlI5X05rT1ZUTjMzdGY2cUpBVGJISU9uLWl5Xw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://phys.org",
-      "title": "Phys.org"
     }
   },
   {
@@ -660,13 +660,13 @@
     }
   },
   {
-    "title": "Proteomic signatures link physical activity to lower risks of cancer, cardiometabolic diseases, and multimorbidity - International Agency for Research on Cancer",
-    "description": "Proteomic signatures link physical activity to lower risks of cancer, cardiometabolic diseases, and multimorbidity  International Agency for Research on CancerHow exercise can lower your cancer risk  Medical Xpress",
-    "published date": "Wed, 25 Mar 2026 10:12:22 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeDNCMFVZRVJJa0dKc1RvTnZMdHU1RDJieFZrQkF6NWRjcG1fREtxRlpkdmtmOV9hZHM3Y1lpaEtjZXQwMUs0b2lSdktDUlJFdFRpSXdZTXh5ZGNIZU02RTBZNVhYT3VvWU1aUmxnZ1pBaGtrbUhqbE5xaUh0V0NvYzMwU2RlQWFEOFRPNUdTTTNaellQVmpldkR0UGNaUmFMWWVYV0JDTDZiZDkwc3Q1cFI1U2dfd2JodkpsVUtnYlNqeTlfTERoQk90UERxNk1mMWtXQ18xWHdmbDJLZ0ppRUVmNU0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Kale Health Calls for a National Reset on Metabolic and Gut Health Foundations - ACCESS Newswire",
+    "description": "Kale Health Calls for a National Reset on Metabolic and Gut Health Foundations  ACCESS Newswire",
+    "published date": "Wed, 25 Mar 2026 16:25:57 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOU9yX1RGemFyQUw4SkEyY2dpc21vbTRNUm11Ym9fb3ZHNnZxenNlMHhlZ0VTeWxYY0UxRjZWamR3U0VoalNFWnVmRHdxVWZmUEtLUXRUUmVFNkQxeDJlSzUwNXpRRHpPVmxmWnhUWTNidG1oV2MxMkhFb1NpakRSeUZGYkpILUJrV1dmS0xKemdOQjRCSzU2dlhrVTZZVTYyTHV5QU1Sd2xTV1VkRzJyMWM0YXJGZmZ0WEl5dTY2Ni1qRzUzNkpJd28zbWYxSHJGdGstRVlCZG44RFpkSHlvbHA1MHo?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.iarc.who.int",
-      "title": "International Agency for Research on Cancer"
+      "href": "https://www.accessnewswire.com",
+      "title": "ACCESS Newswire"
     }
   },
   {
@@ -680,16 +680,6 @@
     }
   },
   {
-    "title": "Kale Health Calls for a National Reset on Metabolic and Gut Health Foundations - ACCESS Newswire",
-    "description": "Kale Health Calls for a National Reset on Metabolic and Gut Health Foundations  ACCESS Newswire",
-    "published date": "Wed, 25 Mar 2026 16:25:57 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOU9yX1RGemFyQUw4SkEyY2dpc21vbTRNUm11Ym9fb3ZHNnZxenNlMHhlZ0VTeWxYY0UxRjZWamR3U0VoalNFWnVmRHdxVWZmUEtLUXRUUmVFNkQxeDJlSzUwNXpRRHpPVmxmWnhUWTNidG1oV2MxMkhFb1NpakRSeUZGYkpILUJrV1dmS0xKemdOQjRCSzU2dlhrVTZZVTYyTHV5QU1Sd2xTV1VkRzJyMWM0YXJGZmZ0WEl5dTY2Ni1qRzUzNkpJd28zbWYxSHJGdGstRVlCZG44RFpkSHlvbHA1MHo?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.accessnewswire.com",
-      "title": "ACCESS Newswire"
-    }
-  },
-  {
     "title": "71% Of Baby Foods Are Ultra-Processed And A Lot Sweeter Than Parents Think - Today's Parent",
     "description": "71% Of Baby Foods Are Ultra-Processed And A Lot Sweeter Than Parents Think  Today's Parent",
     "published date": "Wed, 25 Mar 2026 20:29:53 GMT",
@@ -697,6 +687,16 @@
     "publisher": {
       "href": "https://www.todaysparent.com",
       "title": "Today's Parent"
+    }
+  },
+  {
+    "title": "Hospital trust ‘missed earlier opportunity’ to raise alarm on Kent meningitis case - Yahoo News Canada",
+    "description": "Hospital trust ‘missed earlier opportunity’ to raise alarm on Kent meningitis case  Yahoo News CanadaOpinion: The British meningitis outbreak is a reminder of the everyday importance of public health  The Globe and MailNHS hospital waited two days before raising alarm about meningitis outbreak  BBCMemories of 'devastating' 1980s meningitis outbreak  Yahoo News CanadaA meningitis B outbreak is happening in the UK. What people should know  CNN",
+    "published date": "Wed, 25 Mar 2026 08:54:35 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTk5SOTlpUFBYcjlCOC1kako0RVRrTXk2bFRuLWxCbi1feEltSkVicVNkWE50bmliNExEUHpoZnpMb2QyRXJERHF4RDRkZEo5TVpNX2RwQzN5U3JwS0Rnc0txWkwxVTIzM3RqaEUydlV3NHZXVWxlQU0tVWZrZ0Y1N0JxbVRHV1puX0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://ca.news.yahoo.com",
+      "title": "Yahoo News Canada"
     }
   }
 ]
