@@ -1,12 +1,12 @@
 [
   {
-    "title": "Apple Discontinues Mac Pro Desktop in Favor of the Mac Studio - Bloomberg.com",
-    "description": "Apple Discontinues Mac Pro Desktop in Favor of the Mac Studio  Bloomberg.comApple discontinues the Mac Pro with no plans for future hardware  9to5MacIn with a bang, out in silence — the end of the Mac Pro  AppleInsiderApple Mac Pro Fades Into Oblivion  CNETApple’s Mac Pro is dead, apparently for good this time  The Verge",
-    "published date": "Thu, 26 Mar 2026 21:23:11 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWFlxVXllRUcxeldsZjlrTS15U3p0c1dDN1pvOHR0enFWU3NtbEpSR3ZnSzVOOG9ZRjREcGVpWFZsclFld2p1WkNKQ1M0M1NQQnVCdnVwWjRsNHVpRjhPakpYZGkxdkNISGxCdklmNEc1MG4xUExRV0pHejZBVGI5cmx4Snp4aFVCd3U0cWo4X3FteUpMYUF4SU9MTHVwYXJoR05CX2QxZ3E2MktZQnM3NTRR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Apple Discontinues Legacy Cheese Grater Mac Pro - Let's Data Science",
+    "description": "Apple Discontinues Legacy Cheese Grater Mac Pro  Let's Data ScienceApple discontinues the Mac Pro with no plans for future hardware  9to5MacIn with a bang, out in silence — the end of the Mac Pro  AppleInsiderApple Discontinues Mac Pro Desktop in Favor of the Mac Studio  Bloomberg.comApple Mac Pro Fades Into Oblivion  CNET",
+    "published date": "Thu, 26 Mar 2026 22:36:57 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVjMxTDB4QkphY0FkZEhhMW5sd0dfaDVlQ3RPUGdsamdNSlpvQzZnQTlFbEJVN0IyYVV0ZmZReVpRM0x5TlYzV185em9QUUVJUEpmc25idUZ6OWpWNDR1VWpSaTlDQVA2SEFvYUxHRk5zUGt0bElFc0lsR2gwRS1VVWNWZFVJOFl5RzVFUFB5R09pczg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.bloomberg.com",
-      "title": "Bloomberg.com"
+      "href": "https://letsdatascience.com",
+      "title": "Let's Data Science"
     }
   },
   {
@@ -40,16 +40,6 @@
     }
   },
   {
-    "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini - TechCrunch",
-    "description": "You can now transfer your chats and personal information from other chatbots directly into Gemini  TechCrunchMake the switch: Bring your AI memories and chat history to Gemini  blog.googleGoogle Gemini Adds Tool to Make It Easier to Switch From ChatGPT  Bloomberg.comGoogle adds chat import feature to lure AI users from rivals like ChatGPT  Investing.com CanadaGoogle Just Made it Easy to Switch from ChatGPT to Gemini: How to Move Your Data  iPhone in Canada",
-    "published date": "Thu, 26 Mar 2026 23:47:56 GMT",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNR3Q2OVQxeXVvTEhtU0llOU1qLV9hMkFsS1hqTk8tYlFCOVVsWVZLalRyaWFNNEp3SnVZM1UxcVJUejhMN2hnbDR1MDdZelU1NGZrM0FXR0dXSHlnSzl0U2JHdzJfRVRodzNldnpjRU90UlBnTXRwRnpLbWNNNEV5LTZ5MTBiMTRMY0k5Vi1DM0FRRWRVaHlpbG5ZMWF4eFdaZlJNR21abGVoQUp3ems5V213MHg3VGRrSkhpaVNaNHE5SFRlTW4ycDNsTng?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://techcrunch.com",
-      "title": "TechCrunch"
-    }
-  },
-  {
     "title": "NET 11 Preview 2 Updates MAUI with Performance Improvements and Platform Refinements - infoq.com",
     "description": "NET 11 Preview 2 Updates MAUI with Performance Improvements and Platform Refinements  infoq.com",
     "published date": "Wed, 25 Mar 2026 09:00:17 GMT",
@@ -57,6 +47,16 @@
     "publisher": {
       "href": "https://www.infoq.com",
       "title": "infoq.com"
+    }
+  },
+  {
+    "title": "Google Gemini now lets you import your chats and data from other AI apps - Engadget",
+    "description": "Google Gemini now lets you import your chats and data from other AI apps  EngadgetMake the switch: Bring your AI memories and chat history to Gemini  blog.googleGoogle Gemini Adds Tool to Make It Easier to Switch From ChatGPT  Bloomberg.comGoogle just fixed the biggest problem with leaving ChatGPT — I tried it  Tom's GuideGoogle adds chat import feature to lure AI users from rivals like ChatGPT  Investing.com Canada",
+    "published date": "Thu, 26 Mar 2026 22:57:11 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQamZFLTZNZUtyNGYtMEhwZm1xTldOYUJUU3cyS2w0blY3SWhXV0hvd3dhY2pRVVNtQU5fTXpiUk4yMHFkS0FkTjFqNmtPSTlHWjZGaEJKX2lGTGxFZk1rU3ctS3A1TE9FQ0ktR2pROUIwZEVHcWM5QjRSb094dGpmckdVYkUxWjZNZGVfamd6RzUtNzlQXzBWNkVuQ2swUzlXVlFRdEVMOGRBRFAxdW81TWt0bExCQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.engadget.com",
+      "title": "Engadget"
     }
   },
   {
@@ -70,16 +70,6 @@
     }
   },
   {
-    "title": "The Retro-Inspired Phoenix Red 2025 Porsche 911 S/T in Photos - Robb Report",
-    "description": "The Retro-Inspired Phoenix Red 2025 Porsche 911 S/T in Photos  Robb ReportFrom the Camel GT Challenge to a special one off  Porsche NewsroomOne-Off Porsche 911 S/T Revives a Forgotten Racing Legend  Autoblog",
-    "published date": "Thu, 26 Mar 2026 17:00:12 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVWRibm92bEVrZzJTejJRSE8tVGpuLVpnNVhyNXdiNzN4cjl5ZnVuYTRvaGx2RnhjSV9yaGR2QWREd1RuZDJyemx1M2hJSUM1aXVsTG9xQWx6QlRFNm9aRldCbnhhMHNpaFBzNzFSSUFzZmx3aVkwaGFXOEttbDJyUWhkZC1sSnRUQl9PUW0tb3ZiMzJscjhMcU1R?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://robbreport.com",
-      "title": "Robb Report"
-    }
-  },
-  {
     "title": "GIGABYTE Z890 AORUS ELITE DUO X Now Available Featuring CQDIMM Leading Z890 Plus Series - TNGlobal",
     "description": "GIGABYTE Z890 AORUS ELITE DUO X Now Available Featuring CQDIMM Leading Z890 Plus Series  TNGlobal",
     "published date": "Thu, 26 Mar 2026 08:53:52 GMT",
@@ -87,16 +77,6 @@
     "publisher": {
       "href": "https://technode.global",
       "title": "TNGlobal"
-    }
-  },
-  {
-    "title": "My Hero Ultra Rumble Season 16 Adds Hero Star and Stripe, Events to Celebrate Game's Anniversary - Anime News Network",
-    "description": "My Hero Ultra Rumble Season 16 Adds Hero Star and Stripe, Events to Celebrate Game's Anniversary  Anime News NetworkMY HERO ULTRA RUMBLE : Patch Notes 1.15.0  Bandai Namco Europe",
-    "published date": "Wed, 25 Mar 2026 17:09:37 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZ2dOSnBxZTdfaW42T1M1VmhLekM0TWxnWkJSTDJneDZIdWR2NUxQQnpBY01jNmp0TG9RRzliZ0xlRFNFMDZxWkdQVkdtb1dJUDBzRnpyRmJJQzdVRHdqeXNES29zQWN1VHhxS1g2VTNmU0FncXdMbmt2c0dydjFJYlJiTzVxUDBwLTdNSGdJbl9sR05FN3JjQ3dYTHg3bU5oOENDeFV2YWJyR0VFVVR5LW9SWmFueklpNHRPWkxHSnRkamJvUE5YY1o0dXBCMmZKOTk1RHUyVjJUT2VhaW1tVlVUbWJmVlFxYlZQTUNqVHM?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.animenewsnetwork.com",
-      "title": "Anime News Network"
     }
   },
   {
@@ -110,23 +90,23 @@
     }
   },
   {
+    "title": "My Hero Ultra Rumble Season 16 Adds Hero Star and Stripe, Events to Celebrate Game's Anniversary - Anime News Network",
+    "description": "My Hero Ultra Rumble Season 16 Adds Hero Star and Stripe, Events to Celebrate Game's Anniversary  Anime News NetworkMY HERO ULTRA RUMBLE : Patch Notes 1.15.0  Bandai Namco Europe",
+    "published date": "Wed, 25 Mar 2026 17:09:37 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZ2dOSnBxZTdfaW42T1M1VmhLekM0TWxnWkJSTDJneDZIdWR2NUxQQnpBY01jNmp0TG9RRzliZ0xlRFNFMDZxWkdQVkdtb1dJUDBzRnpyRmJJQzdVRHdqeXNES29zQWN1VHhxS1g2VTNmU0FncXdMbmt2c0dydjFJYlJiTzVxUDBwLTdNSGdJbl9sR05FN3JjQ3dYTHg3bU5oOENDeFV2YWJyR0VFVVR5LW9SWmFueklpNHRPWkxHSnRkamJvUE5YY1o0dXBCMmZKOTk1RHUyVjJUT2VhaW1tVlVUbWJmVlFxYlZQTUNqVHM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.animenewsnetwork.com",
+      "title": "Anime News Network"
+    }
+  },
+  {
     "title": "Latest gaming layoffs reveal Big Tech's immersive gaming reset - eMarketer",
-    "description": "Latest gaming layoffs reveal Big Tech's immersive gaming reset  eMarketerToday’s layoffs  Epic GamesThe creator of Fortnite has laid off more than 1,000 staff – despite billions in revenue  The GuardianEpic Games to lay off more than 1,000 employees as Fortnite usage drops  CBCOn Epic Games and the death of accountability  Game Developer",
+    "description": "Latest gaming layoffs reveal Big Tech's immersive gaming reset  eMarketerThe creator of Fortnite has laid off more than 1,000 staff – despite billions in revenue  The GuardianToday’s layoffs  Epic GamesEpic Games to lay off more than 1,000 employees as Fortnite usage drops  CBCOn Epic Games and the death of accountability  Game Developer",
     "published date": "Thu, 26 Mar 2026 19:42:35 GMT",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVGpQNWo2TEdZVVdqSFpaZXJjTjRnLTRYN3hXRERDVGNWc2tEdVlPU0Ffa0hOendHNEZWbmx0SzlaLWE3blBpQ1BMenljd3BNZDZyaUliYUNHaHkxelZ2WjgwbUY3UVd3YUNKVmNuM1c3VVJYaUdGUlJ5WW9wTmxJLS1wWjZUNXFTNmxUVXFxY19RNHE4Ymx2TWh5MDc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.emarketer.com",
       "title": "eMarketer"
-    }
-  },
-  {
-    "title": "As part of the Big Spring Sale, Amazon has launched a $150 discount on our favorite e-reader for writing - Android Central",
-    "description": "As part of the Big Spring Sale, Amazon has launched a $150 discount on our favorite e-reader for writing  Android CentralThe Best Kindles Have the Deepest Discounts During Amazon's Big Spring Sale  LifehackerI Tried The Buzzy New Color Kindle, And I'm Imploring You To Get It While It's The Lowest Price Of The Year  HuffPost",
-    "published date": "Thu, 26 Mar 2026 14:36:18 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORXdsdmJ5eElLbDlFYVNHeUl4bC1jWWxsMWNVVEpXYWFlMHFSSWV5dXNWOHkzX2VGODZUVGFGVXlwbXVWSUt0alNMRkU2RzZwcHFSMnBlYnJnRm5xXy1rRUI3SzdZRnE5YVNINjFlMFA3bHNCejRqbzBRdEdCZlk4d2tsazg4azF5NWFTLTRscHZIQmxpcVRucE1URWJBZXY3czFqMkI3RzJoWlRmeWNVcXF5TTVtX0ZLajFQaEk2RnZOcVZlQURiMFh3VXlpQVQyS0JOX3Y0dHNNS2loSEI2MnBaOVA1UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.androidcentral.com",
-      "title": "Android Central"
     }
   },
   {
@@ -137,6 +117,16 @@
     "publisher": {
       "href": "https://www.ubisoft.com",
       "title": "Ubisoft"
+    }
+  },
+  {
+    "title": "As part of the Big Spring Sale, Amazon has launched a $150 discount on our favorite e-reader for writing - Android Central",
+    "description": "As part of the Big Spring Sale, Amazon has launched a $150 discount on our favorite e-reader for writing  Android CentralI Tried The Buzzy New Color Kindle, And I'm Imploring You To Get It While It's The Lowest Price Of The Year  HuffPostSave a huge 32% as the Kindle Colorsoft 16GB drops back to its Black Friday price  Android Authority",
+    "published date": "Thu, 26 Mar 2026 14:36:18 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORXdsdmJ5eElLbDlFYVNHeUl4bC1jWWxsMWNVVEpXYWFlMHFSSWV5dXNWOHkzX2VGODZUVGFGVXlwbXVWSUt0alNMRkU2RzZwcHFSMnBlYnJnRm5xXy1rRUI3SzdZRnE5YVNINjFlMFA3bHNCejRqbzBRdEdCZlk4d2tsazg4azF5NWFTLTRscHZIQmxpcVRucE1URWJBZXY3czFqMkI3RzJoWlRmeWNVcXF5TTVtX0ZLajFQaEk2RnZOcVZlQURiMFh3VXlpQVQyS0JOX3Y0dHNNS2loSEI2MnBaOVA1UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.androidcentral.com",
+      "title": "Android Central"
     }
   },
   {
@@ -161,12 +151,22 @@
   },
   {
     "title": "Samsung Unveils Galaxy A57 5G and Galaxy A37 5G, Packing Pro-Level Features in Camera and AI - samsung.com",
-    "description": "Samsung Unveils Galaxy A57 5G and Galaxy A37 5G, Packing Pro-Level Features in Camera and AI  samsung.comSamsung Unveils Galaxy A57 5G and Galaxy A37 5G, Packing Pro-Level Features at Awesome Price  samsung.comSamsung's A37 and A57 are midrange phones with some premium features  MashableOnly one Samsung phone is worth buying now, and it's not a Galaxy S26  Android AuthoritySamsung Galaxy A37 and A57 star in a long hands-on video, which reveals their pricing - GSMArena.com news  GSMArena.com",
+    "description": "Samsung Unveils Galaxy A57 5G and Galaxy A37 5G, Packing Pro-Level Features in Camera and AI  samsung.comSamsung Unveils Galaxy A57 5G and Galaxy A37 5G, Packing Pro-Level Features at Awesome Price  samsung.comOnly one Samsung phone is worth buying now, and it's not a Galaxy S26  Android AuthoritySamsung Galaxy A37 and A57 star in a long hands-on video, which reveals their pricing - GSMArena.com news  GSMArena.comThis is when Samsung is finally announcing the Galaxy A57 and A37 - GSMArena.com news  GSMArena.com",
     "published date": "Thu, 26 Mar 2026 06:00:57 GMT",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZjVlTHNRRTdyeDdxTUFpd2liSXI5dWpHSUNoc01zWEF4cG5UV2EwUXd0TWgzR1UtXzg3QnA1SXRFQ0NGX25XLVRzc3N2dUtCbElJaXV0YVlNYVl4ZWNWS1R5eGN1bFNHdkh4Y3U0YTJkWXhxRGc1aGEwamNmSDVGRlExcnl1UmxGOUQ5UzR2djRJa21fd2pRQUtCQjNvbFZ4cFhFMWVsc25wd1VRZGpxYk95VmRYaDhWN0dV?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://news.samsung.com",
       "title": "samsung.com"
+    }
+  },
+  {
+    "title": "Motorola’s next Razr Ultra is even thicker in first leak, and it makes me want to scream - 9to5Google",
+    "description": "Motorola’s next Razr Ultra is even thicker in first leak, and it makes me want to scream  9to5GoogleMotorola's next Razr Ultra leak hints at a thicker, but potentially better Galaxy Z Flip 8 rival  Android Authority",
+    "published date": "Thu, 26 Mar 2026 22:46:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWlgzaFd3U1N0R0xaWlFqM1dGLUYxNDI1Y3I4TWQ4TjZ4WlJVUGVrV0ZsX2FNc1ZvRUFLRFJHUWllLWpGT0V0aUR3cGJLcHE3R3ctcjAtZjZwUFk4UTIzSER6SnBKM05xcGJfMDY1Smh3SHJNZTFEYndvQ0liZlh2SU1wNTdwa1hwLVVteXBUOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://9to5google.com",
+      "title": "9to5Google"
     }
   },
   {
@@ -180,10 +180,10 @@
     }
   },
   {
-    "title": "RCS update will add native video call support, text formatting – eventually - 9to5Google",
-    "description": "RCS update will add native video call support, text formatting – eventually  9to5GoogleRCS 4.0 upgrades could bring video calls to your favorite messaging app  Android Authority",
-    "published date": "Thu, 26 Mar 2026 17:20:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTnNub041Ti1LVmdKWnV6NktxcEh6S0NGR2JFcVY5RmVfdXA2WVNFX1phNmlqdXdTNDRVS2Q2ejV4RVBEeW1VbmpTVTI2b2REYUNtbXJoeGJURUxLaHNmOFQyeDlaN1BGbnhtWXdqMnU5dk1fcVZrWjB0eFdZdDVYbXVWYWlTRHdfUnNZSDBzVGdtU3g0RnNiQ2JVSnF5ZGc3Y3c0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Android Auto users still say they don’t have Gemini — do you? [Poll] - 9to5Google",
+    "description": "Android Auto users still say they don’t have Gemini — do you? [Poll]  9to5Google",
+    "published date": "Thu, 26 Mar 2026 15:05:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB0WVlOQjB6T2NibmczN0VsdzlGSTduYUhVV09IVzF0MG9KZGIzZFNINTlFS1ZaSUtvRHVxLWwyckZHZWZucXhHWTNtUGZxWjB0bHVfSjNUamsycm14U29JemI4VUxnb29ldXF2M3lfbng1ZTk3RTkxcDFB?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://9to5google.com",
       "title": "9to5Google"
@@ -197,6 +197,26 @@
     "publisher": {
       "href": "https://www.hagerty.com",
       "title": "Hagerty"
+    }
+  },
+  {
+    "title": "RCS update will add native video call support, text formatting – eventually - 9to5Google",
+    "description": "RCS update will add native video call support, text formatting – eventually  9to5GoogleRCS 4.0 upgrades could bring video calls to your favorite messaging app  Android Authority",
+    "published date": "Thu, 26 Mar 2026 17:20:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTnNub041Ti1LVmdKWnV6NktxcEh6S0NGR2JFcVY5RmVfdXA2WVNFX1phNmlqdXdTNDRVS2Q2ejV4RVBEeW1VbmpTVTI2b2REYUNtbXJoeGJURUxLaHNmOFQyeDlaN1BGbnhtWXdqMnU5dk1fcVZrWjB0eFdZdDVYbXVWYWlTRHdfUnNZSDBzVGdtU3g0RnNiQ2JVSnF5ZGc3Y3c0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://9to5google.com",
+      "title": "9to5Google"
+    }
+  },
+  {
+    "title": "Apple Still Aiming for 20th Anniversary iPhone With All-Screen Display - MacRumors",
+    "description": "Apple Still Aiming for 20th Anniversary iPhone With All-Screen Display  MacRumorsNew iPhone design with quad-curved display in the works, says leaker  9to5Mac",
+    "published date": "Thu, 26 Mar 2026 14:06:32 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU2c5aXBCMkpoRmN5N2JGRTRFN1o2OGdRS3dBZldfbS1YOXpCa0ZiVURNXzlVT1JsajFycHZra0l1N3dTRi1YaG0zMHJzaUdOdUR0aEpybm9yWjVQRjJmb0wxaTlwY2c1NzFzMjhjRTNobnpFU0o2cF9xdzExYXQ1TGR5LWo?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.macrumors.com",
+      "title": "MacRumors"
     }
   },
   {
@@ -230,6 +250,26 @@
     }
   },
   {
+    "title": "Mastodon is making its decentralized social network easier to use with its latest revamp - TechCrunch",
+    "description": "Mastodon is making its decentralized social network easier to use with its latest revamp  TechCrunchMastodon revamps profiles to simplify onboarding and attract new users  mezha.net",
+    "published date": "Thu, 26 Mar 2026 20:42:50 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN3NKcGM0eDdLR1lYUmtOY0ZlbmlEeEhDVm9ZN0kzRkt0NlRwbkdZeWd0QkhWbVRuYnZqaTYyOTRqSk9lTDBtX2x1Tk5FSU1oMnphWnQzNFpFZDdLdG9feTlnR2xpS2ZsNGpjVk1FY1gzejBBRVcwQUJXbmFpcGZEZzAzb1dRbF84OV9kV2F1eWVJZVpoWHoxQzd3S0pFNkVvWC1nN3p1NHZFSWNsaGtXdWRwWFNaVy1zQVgyTmhDczY?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://techcrunch.com",
+      "title": "TechCrunch"
+    }
+  },
+  {
+    "title": "Anthropic tweaks Claude usage limits to manage capacity - theregister.com",
+    "description": "Anthropic tweaks Claude usage limits to manage capacity  theregister.comClaude Users Hit a New Reality of AI Rationing  PYMNTS.com",
+    "published date": "Thu, 26 Mar 2026 22:15:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82VnVtLXZqUjlEN3JMbi1lbUdfUUdwbG1uQTBzNXRGemViV0dCSkFPaG9VY0pxemEtNzBnMUYxLUtKOERBWUtaaV9pU29iYkFabEwzSjNXelRmRG0yS3BHOXczeU14SFRQSmJkM0dlOHlRUkh2Wk5fQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theregister.com",
+      "title": "theregister.com"
+    }
+  },
+  {
     "title": "The Life of a 2XKO Patch - 2XKO",
     "description": "The Life of a 2XKO Patch  2XKO",
     "published date": "Thu, 26 Mar 2026 18:00:00 GMT",
@@ -250,8 +290,18 @@
     }
   },
   {
+    "title": "WhatsApp rolls out updates including multiple accounts for iOS - Engadget",
+    "description": "WhatsApp rolls out updates including multiple accounts for iOS  EngadgetWhatsApp can now draft AI-generated responses based on your conversations  TechCrunchWhatsApp gets multiple account support on iOS, cross-platform transfer from iOS to Android - GSMArena.com news  GSMArena.comNew WhatsApp Features: How to Use Two Accounts on One iPhone and More  iPhone in CanadaWhatsApp update brings the new profile tab to iOS users  9to5Mac",
+    "published date": "Thu, 26 Mar 2026 13:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS2wxSXpqdEZURjhJRG03MXVCYmVUYTdpXzRwVWluNHM3aUFTdmpHSUFKMDFseGd1WmFQclhHQzV3QmJ6bU5XRlQ0aWpRaVB4N01tNVlnSnZRV3RtcUdBNHdBTWU4R29ONEFKVjNPanAxUHFMRDN5Y3liOXQ4ejdTbFJJaGtwYzdjWDNxOXNTVXZncEFkci1GWlJVVXh5UVFXY3ZlQkhPZTRObkt0NGlEcEJSUlRadw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.engadget.com",
+      "title": "Engadget"
+    }
+  },
+  {
     "title": "The Expanse: Osiris Reborn – Learn More About Gameplay, New Companions, the Closed Beta, and the Release Window - Xbox Wire",
-    "description": "The Expanse: Osiris Reborn – Learn More About Gameplay, New Companions, the Closed Beta, and the Release Window  Xbox WireThe Expanse game gets a sad release date update — and a demo  Polygon.comHow The Expanse: Osiris Reborn Handles the Extreme Amount of Time It Takes for Space Travel  IGNOwlcat uses gen-AI while making The Expanse: Osiris Reborn  EurogamerThe Expanse: Osiris Reborn Gets a Number of Announcements at Xbox Partner Preview  IGN",
+    "description": "The Expanse: Osiris Reborn – Learn More About Gameplay, New Companions, the Closed Beta, and the Release Window  Xbox WireHow The Expanse: Osiris Reborn Handles the Extreme Amount of Time It Takes for Space Travel  IGNThe Expanse game gets a sad release date update — and a demo  Polygon.comOwlcat uses gen-AI while making The Expanse: Osiris Reborn  EurogamerThe Expanse: Osiris Reborn Gets a Number of Announcements at Xbox Partner Preview  IGN",
     "published date": "Thu, 26 Mar 2026 17:06:45 GMT",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ3huTmNTQ19iTlBURUxpWEwtelJxVVBDV0Z1cEozVFhjc01xdW5PemFYNmU5QUJoWk4xZm44ZFhTek4yTmRxS3A2Q2JNWWFnSTNaMzdvSDFkUHVwMnQzaXdOdFg5X0pyMUFDQ211YktjNjYteUdBTVVEX05WbG8yRTJoVnlHbmUzTjROR2E1bw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -270,16 +320,6 @@
     }
   },
   {
-    "title": "Hytale Patch Notes - Update 4 - Hytale",
-    "description": "Hytale Patch Notes - Update 4  HytaleHytale Update 4 Brings Over 500 New Blocks and More  TechRaptor",
-    "published date": "Thu, 26 Mar 2026 15:43:55 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PQTVvaDZkeXVpZFc0WjhpRjVDVDVXYV9nZ25wVk5IbzVFRGFld1diZzk4U2F0amZzbW9oZzRtUzFvNXAzV3FYWUxuWklVRy1fUmhHX1QxQWtpV3Q1bjlCczBIRk1BbVRkS3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://hytale.com",
-      "title": "Hytale"
-    }
-  },
-  {
     "title": "Chernobyl Fungus Seems to Have Evolved an Incredible Ability - ScienceAlert",
     "description": "Chernobyl Fungus Seems to Have Evolved an Incredible Ability  ScienceAlert",
     "published date": "Thu, 26 Mar 2026 22:27:37 GMT",
@@ -287,6 +327,16 @@
     "publisher": {
       "href": "https://www.sciencealert.com",
       "title": "ScienceAlert"
+    }
+  },
+  {
+    "title": "Hytale Patch Notes - Update 4 - Hytale",
+    "description": "Hytale Patch Notes - Update 4  HytaleHytale Update 4 Brings Over 500 New Blocks and More  TechRaptor",
+    "published date": "Thu, 26 Mar 2026 15:43:55 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PQTVvaDZkeXVpZFc0WjhpRjVDVDVXYV9nZ25wVk5IbzVFRGFld1diZzk4U2F0amZzbW9oZzRtUzFvNXAzV3FYWUxuWklVRy1fUmhHX1QxQWtpV3Q1bjlCczBIRk1BbVRkS3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://hytale.com",
+      "title": "Hytale"
     }
   },
   {
@@ -310,6 +360,16 @@
     }
   },
   {
+    "title": "'Come Back for the Adventure' — After a Turbulent 6 Months, Borderlands 4 Gets Its First Big DLC, and Gearbox Hopes Lapsed Fans Return for It - IGN",
+    "description": "'Come Back for the Adventure' — After a Turbulent 6 Months, Borderlands 4 Gets Its First Big DLC, and Gearbox Hopes Lapsed Fans Return for It  IGNStory Pack 1 Out Now  Borderlands | Official Website",
+    "published date": "Thu, 26 Mar 2026 20:00:03 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOOUtXamxpQVg4N3NkaW42bmJveGVmN2EwSm9HMGJ6VC1abTE5WkNWd3pxNnNmYXhOU0l6MWlDQkpXNmxVYVhUdUg3VUNid0kyYms1VE8wQncySm1qelcyZmNyc3ppRnozd2swRERMOUhrSVdfLXRhclpmbV9qZTBnUEJxeEZEQmY2eExPTUVabENURW1LbU9GUVNrTlhwUllNRHFwdEl1d2l6VGNOSHdqcHRYemtJNUVyUHBJdkVOVExJZ01TaDkyVnhRZWtWYUtlRlVjekg2WTBTM29IYkdqbXNsaTV2YlI1SndWNWVMNVg4X0p4M1RR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ign.com",
+      "title": "IGN"
+    }
+  },
+  {
     "title": "How an iPad turned a pro ballet dancer into a digital artist with 1.6 million TikTok followers - Creative Bloq",
     "description": "How an iPad turned a pro ballet dancer into a digital artist with 1.6 million TikTok followers  Creative Bloq",
     "published date": "Thu, 26 Mar 2026 09:34:59 GMT",
@@ -320,6 +380,16 @@
     }
   },
   {
+    "title": "Switch 2 Games Are Getting Big Discounts at Amazon This Week - Here's Our Top Picks in the Sale - IGN",
+    "description": "Switch 2 Games Are Getting Big Discounts at Amazon This Week - Here's Our Top Picks in the Sale  IGNWoot's gaming sale is dunking on Amazon's Spring Sale — Nintendo Switch, PS5, and Xbox games on sale  MashableAmazon's Big Spring Sale is full of deals for gamers  Polygon.comWoot Is Having a Massive Video Game Sale That Only Lasts 1 Day  IGN",
+    "published date": "Thu, 26 Mar 2026 23:08:49 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQM0wyZmNKNzdUYlMxNEw2RWdFTTB0NXlPQW9rV2VJNU1ieGZGNVlERmRGeFFHM2kzbFNNUVlzeTdFY3VBOUh0T1JQNVh5SS1YSV9wOGdKZFRobkN3Z3pzdnlwRWhIeWRsZTU3SEhZa2tBZF9BZFV6SHRsbDJHLUpiSTV3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ign.com",
+      "title": "IGN"
+    }
+  },
+  {
     "title": "Artificial Detective: Breaking Down the Gameplay Behind This Incredible Xbox Partner Preview Reveal - Xbox Wire",
     "description": "Artificial Detective: Breaking Down the Gameplay Behind This Incredible Xbox Partner Preview Reveal  Xbox Wire‘Robot detective’ game, Artificial Detective, revealed from Control, Dead Space vets  Video Games Chronicle",
     "published date": "Thu, 26 Mar 2026 17:36:48 GMT",
@@ -327,6 +397,16 @@
     "publisher": {
       "href": "https://news.xbox.com",
       "title": "Xbox Wire"
+    }
+  },
+  {
+    "title": "Pokémon Pokopia Is Finally Letting Players Put a Mew Under a Truck Outside the S.S. Anne - IGN",
+    "description": "Pokémon Pokopia Is Finally Letting Players Put a Mew Under a Truck Outside the S.S. Anne  IGN",
+    "published date": "Thu, 26 Mar 2026 19:07:33 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcTJnT3VZMjMweHZqRHVOTlEyWTlKY2FqVWpPSjdBQVhDUXY3SjBNTTVONTJvNWVWTEpkSW1wREZiOUg4bTVqRllsRllPSFBPRHBrY2xfUXk5czFCektFckxNR3BuMW5MeVItXzBpOHpNU2RVdGduMUd3QzBnUUc0dnNPeGNUTEY4bFRZV3hXWHRsSHNHNGI0MzNwd3hfZFVVaDZzMnhSZWRPa1RHVWRsV2hHVVNFVU9Cd1BPZ2Y5VWVZTFdj?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ign.com",
+      "title": "IGN"
     }
   },
   {
@@ -360,6 +440,16 @@
     }
   },
   {
+    "title": "Forza Horizon 6’s New Rush Events Mix Showcase-Style Spectacle With a More Replayable Hook | IGN First - IGN",
+    "description": "Forza Horizon 6’s New Rush Events Mix Showcase-Style Spectacle With a More Replayable Hook | IGN First  IGN",
+    "published date": "Thu, 26 Mar 2026 15:14:06 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTUJyM3I2M2tpLVRLZzUzS2FuWkl4ZmRabk1rSE9QdXBzYWd6VnhKb0gxWTRIN3NEUGtGSjMzUEpPSzhiWVcySjJvcXFVa01SYmRWVG5waEJxMVVWNjNaRTBHUlNrcTJFNTVMbldodk0wQ1Mzbnk4eWRZdjl3YjJIenNZS3A5MS04RnZIdW9kdl92TlpscnBleGh1Q29MbS1vUnNZRkZ1a0pUYUZZSjJUZGJRX25tZU1fTDh1UnpJemlvSkNiYzVF?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ign.com",
+      "title": "IGN"
+    }
+  },
+  {
     "title": "OpenAI Gives Users a Long-Term Storage Option With ChatGPT Library - CNET",
     "description": "OpenAI Gives Users a Long-Term Storage Option With ChatGPT Library  CNETChatGPT’s New File Library Changes Deletion Rules for Paid Users  eWeekOpenAI rolls out ChatGPT Library to store your personal files  BleepingComputer",
     "published date": "Wed, 25 Mar 2026 23:12:00 GMT",
@@ -377,6 +467,16 @@
     "publisher": {
       "href": "https://www.theverge.com",
       "title": "The Verge"
+    }
+  },
+  {
+    "title": "Saros Looks Like Returnal, But Feels Unlike Anything Else Housemarque Has Made - GameSpot",
+    "description": "Saros Looks Like Returnal, But Feels Unlike Anything Else Housemarque Has Made  GameSpotSaros: The Big Preview  IGNCrafting the haunting alien world of Saros with Housemarque’s art director  MobileSyrupHousemarque Has Made PS5 Exclusive Saros Kinder in Response to Returnal Feedback — but It's Still Fundamentally Difficult  IGNSaros is clicking for me in ways that Returnal never did  MobileSyrup",
+    "published date": "Thu, 26 Mar 2026 16:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUHRXX21RZnpPUFd1RXlGbV9FblNNb2JEZmhmUUVVWVAxMzREVGpiaFlkZDR6S0xnM01fcm1MOXJqZVBMQjExMjhLdEt5RExCcFpXWHdyXzdHU0NGZDJMQWZlemRQV3ZSd3BrUlhmT2VLTHpITUxBU2pLcldOM3NyaGsyMjhYeHEwNXZXR1ZYU1l4bUlrQVNrR01SOUk1d2tRNTJNWkhfeFdJY2p0NW5lTjhNOVZvZ2V1S3E4ZmJkTVBNOGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.gamespot.com",
+      "title": "GameSpot"
     }
   },
   {
@@ -400,18 +500,8 @@
     }
   },
   {
-    "title": "Saros Looks Like Returnal, But Feels Unlike Anything Else Housemarque Has Made - GameSpot",
-    "description": "Saros Looks Like Returnal, But Feels Unlike Anything Else Housemarque Has Made  GameSpotSaros: The Big Preview  IGNCrafting the haunting alien world of Saros with Housemarque’s art director  MobileSyrupHousemarque Has Made PS5 Exclusive Saros Kinder in Response to Returnal Feedback — but It's Still Fundamentally Difficult  IGNSaros is clicking for me in ways that Returnal never did  MobileSyrup",
-    "published date": "Thu, 26 Mar 2026 16:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUHRXX21RZnpPUFd1RXlGbV9FblNNb2JEZmhmUUVVWVAxMzREVGpiaFlkZDR6S0xnM01fcm1MOXJqZVBMQjExMjhLdEt5RExCcFpXWHdyXzdHU0NGZDJMQWZlemRQV3ZSd3BrUlhmT2VLTHpITUxBU2pLcldOM3NyaGsyMjhYeHEwNXZXR1ZYU1l4bUlrQVNrR01SOUk1d2tRNTJNWkhfeFdJY2p0NW5lTjhNOVZvZ2V1S3E4ZmJkTVBNOGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.gamespot.com",
-      "title": "GameSpot"
-    }
-  },
-  {
     "title": "Nintendo is going to charge less for digital Switch 2 games - The Verge",
-    "description": "Nintendo is going to charge less for digital Switch 2 games  The VergeAbout Nintendo Switch 2 Game Pricing - News - Nintendo Official Site  nintendo.comNintendo Switch 2 Physical Games Will Now Be More Expensive Than Digital Versions  IGNNintendo will charge different prices for physical and digital games in Canada  MobileSyrupNintendo Switch 2 Digital And Physical Games Will Soon Differ In Price  GameSpot",
+    "description": "Nintendo is going to charge less for digital Switch 2 games  The VergeAbout Nintendo Switch 2 Game Pricing - News - Nintendo Official Site  NintendoNintendo Switch 2 Physical Games Will Now Be More Expensive Than Digital Versions  IGNNintendo will charge different prices for physical and digital games in Canada  MobileSyrupNintendo Switch 2 Digital And Physical Games Will Soon Differ In Price  GameSpot",
     "published date": "Wed, 25 Mar 2026 17:45:24 GMT",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORTBwd0dUTTIzMzIyc3NFVGQzZDJsS01URW9pcE9mWUhPQVQ5UWZpWVduc05CS0UxMVRxSmRBX1N4Nm9rOWhCQmlTLUE0WHRNRVdwUld3Qy12UzNDRU4tM0FmdktDVW1Zc09oeFFOaTFIUWwzTVN2bTVCSnFNTGUzenFOOA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -430,6 +520,16 @@
     }
   },
   {
+    "title": "New Microsoft Surface Pro and Surface Laptop releases detailed - Notebookcheck",
+    "description": "New Microsoft Surface Pro and Surface Laptop releases detailed  Notebookcheck",
+    "published date": "Wed, 25 Mar 2026 17:36:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd3FWRU1nd0VRdkRuWGZSbEdSYkZ0OGRBVDVpYUpBQXhURzBUV3RLWFkxT0YtM05FY2ZzVktGaGlBby1LY2JCU1lYaFh1WHBTWHk3Yzh5UUZhNWhyc0ctUU1RZDNmXzRMLXZJdWk1YTZod3VHX2tvRklZT0JqTWZtUDZxdEFZdVUwUzcxNjA0UUN4TFNfV1ZEUjFYZHVqa1RyVG0xdHNSYW1FZEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.notebookcheck.net",
+      "title": "Notebookcheck"
+    }
+  },
+  {
     "title": "Seiko resurrected a 44-year-old digital watch NASA astronauts wore to space - The Verge",
     "description": "Seiko resurrected a 44-year-old digital watch NASA astronauts wore to space  The Verge",
     "published date": "Wed, 25 Mar 2026 16:43:07 GMT",
@@ -441,32 +541,12 @@
   },
   {
     "title": "Google launches Lyria 3 Pro music generation model - TechCrunch",
-    "description": "Google launches Lyria 3 Pro music generation model  TechCrunchLyria 3 Pro: Create longer tracks in more Google products  blog.googleGoogle launches Lyria 3 Pro for longer AI-generated music tracks  Investing.com CanadaGoogle's Lyria 3 Pro can now generate AI music (slop) up to 3 minutes in length  EngadgetBuild with Lyria 3, our newest music generation model  blog.google",
+    "description": "Google launches Lyria 3 Pro music generation model  TechCrunchLyria 3 Pro: Create longer tracks in more Google products  blog.googleGoogle's Lyria 3 Pro can now generate AI music (slop) up to 3 minutes in length  EngadgetBuild with Lyria 3, our newest music generation model  blog.google",
     "published date": "Wed, 25 Mar 2026 16:37:43 GMT",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQlVTU09iT29HcktYbzlMVU9XMENpMlRqdjNVUGpodjJvMmRvWnZMdkpoMndRcllzSlVXMWpvYUZicC1VZ1NtWEQxcWRIN1RXV19zR1p4b1d4T3FpeDdxclpldDBtV0Y4MC02bGZ3ZlRGUUtOazB5dEE1U1ZRQmc2SFpjUjJ6WF9hajJzV3dn?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://techcrunch.com",
       "title": "TechCrunch"
-    }
-  },
-  {
-    "title": "New Microsoft Surface Pro and Surface Laptop releases detailed - Notebookcheck",
-    "description": "New Microsoft Surface Pro and Surface Laptop releases detailed  Notebookcheck",
-    "published date": "Wed, 25 Mar 2026 17:36:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd3FWRU1nd0VRdkRuWGZSbEdSYkZ0OGRBVDVpYUpBQXhURzBUV3RLWFkxT0YtM05FY2ZzVktGaGlBby1LY2JCU1lYaFh1WHBTWHk3Yzh5UUZhNWhyc0ctUU1RZDNmXzRMLXZJdWk1YTZod3VHX2tvRklZT0JqTWZtUDZxdEFZdVUwUzcxNjA0UUN4TFNfV1ZEUjFYZHVqa1RyVG0xdHNSYW1FZEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.notebookcheck.net",
-      "title": "Notebookcheck"
-    }
-  },
-  {
-    "title": "Forza Horizon 6 Extreme RT targets GeForce RTX 5070 Ti and Radeon RX 9070 XT - VideoCardz.com",
-    "description": "Forza Horizon 6 Extreme RT targets GeForce RTX 5070 Ti and Radeon RX 9070 XT  VideoCardz.comExperience Japan with Ray Tracing in Forza Horizon 6 on PC  Forza.netPlayground Games Details Forza Horizon 6 PC Requirements, and it Looks To Be Super Well Optimized  IGNForza Horizon 6's Recommended PC Specs Have Arrived, Here's How Your Machine Stacks  GameSpot",
-    "published date": "Wed, 25 Mar 2026 16:00:21 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSDI3c253Nk5KSnk0QzRwX1l6cEhNeWpJbGJkcFBZb052T0xYSl9uNGRxXy10MXZwMmQzWDFvVjNjQmozR2wzNnJmNzQ5N2FjWktSVy1RMER3ZDc0RzVhanVDNXNxaktDQ25BNTgzMG5Rc2hHcXF4aUxhYzRyLUxTZkhTWVJxYmxDUWdicE1MTkJsQkcyeXUzS21acWtvaXNicHU4UzFwUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://videocardz.com",
-      "title": "VideoCardz.com"
     }
   },
   {
@@ -487,36 +567,6 @@
     "publisher": {
       "href": "https://news.xbox.com",
       "title": "Xbox Wire"
-    }
-  },
-  {
-    "title": "Sony's new theater system lets you upgrade your TV setup gradually - how it works - ZDNET",
-    "description": "Sony's new theater system lets you upgrade your TV setup gradually - how it works  ZDNETSony Unveils New Bravia TVs, Home Theater Speakers And Soundbars  Yahoo News CanadaSony Announces New TV and Soundbars as TCL Deal Looms  Bloomberg.comSony adds the Bravia Theater Bar 5 and Bar 7 to its soundbar lineup  EngadgetI’ve been waiting for this Sony gaming TV upgrade – but there's a catch  What Hi-Fi?",
-    "published date": "Wed, 25 Mar 2026 17:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR1kxUWZIYlE5QkFEUUs0V0pGazBsRzM2a0l0UzNWR2l4a0xIS2I2WHJJQ1Fta081S0labXVmUDBGU3J4aS16TTFzcDVlcnVrMS1jZDNKYWh3SFhqTk0ySGRlSk1Da19HTFJXSVpCaWFyWGMxT2NGMThOM0ZwTkx6dTRLOHRIbWdWaEJyY2tpMnoxczBnbXZtVFh3emtlMjQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.zdnet.com",
-      "title": "ZDNET"
-    }
-  },
-  {
-    "title": "Intel launches Arc Pro B70 at $949 with 32GB GDDR6 memory - VideoCardz.com",
-    "description": "Intel launches Arc Pro B70 at $949 with 32GB GDDR6 memory  VideoCardz.comMaxsun Launches 32 GB Arc Pro B70 Series Graphics Cards  techpowerup.comIntel Targets AI Workstations With Memory-Stuffed Arc Pro B70 and B65 GPUs  PCMagIntel Announces Arc Pro B70 With 32GB GDDR6 Video Memory  PhoronixIntel Arc Pro B70 and Arc Pro B65 GPUs bring 32GB of RAM to AI and pro apps — bigger Battlemage finally arrives, but it's not for gamers  Tom's Hardware",
-    "published date": "Wed, 25 Mar 2026 13:06:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSlBJcUxGZXRVcWRDUEZOSjlFNkx0ZzFJeUJXNHNMYVdFZGJaRmVkWENfMS1vUlRrcllvN0FqSWM4NC1mdW1Zdk5Eem5GQ2ZTeDN5Y19QakdYQWg4WW51SV9QMS0zZ0lmMWlhNXdaeElENHJOdDVGcmJmRl80SzNXZHVPN3p6ajVTT3lJWg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://videocardz.com",
-      "title": "VideoCardz.com"
-    }
-  },
-  {
-    "title": "My brief, weird time with the Samsung TriFold - The Verge",
-    "description": "My brief, weird time with the Samsung TriFold  The VergeSamsung Kills TriFold Before Most Could Touch It  The Tech Buzz",
-    "published date": "Thu, 26 Mar 2026 17:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZW81dkgtTnU5QTVUVWw1SXUwQW9ZTFhJNXZGYmk2WXNBOEVnb2NyTWdYNUpxMTNfcFJsd1c2MVViUzkzdGxDaTl4S3JPSHc5cEFYU2g0Sk1lZHBPWmJoOC1wWTllRnprUUwtRTJ3NVotOTQyZlQyQjFyLV9HbVB0MjE2TU5wd28zOXJSRw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theverge.com",
-      "title": "The Verge"
     }
   },
   {
@@ -541,7 +591,7 @@
   },
   {
     "title": "Did AMD Just Make the Best CPU for Gamers and Creators? - Gizmodo",
-    "description": "Did AMD Just Make the Best CPU for Gamers and Creators?  GizmodoAMD makes the flagship Ryzen 9 9950X3D2 official — first dual-cache X3D CPU arrives in April, with 208MB cache, 200W TDP, promising modest performance gains  Tom's HardwareAMD's Ryzen 9950X3D2 chip features an incredible 208MB of on-chip cache  EngadgetAMD Announces Ryzen 9 9950X3D2 Dual Edition Desktop Processor with 192 MB L3 Cache  techpowerup.comAMD Announces The Ryzen 9 9950X3D2  Phoronix",
+    "description": "Did AMD Just Make the Best CPU for Gamers and Creators?  GizmodoAMD makes the flagship Ryzen 9 9950X3D2 official — first dual-cache X3D CPU arrives in April, with 208MB cache, 200W TDP, promising modest performance gains  Tom's HardwareAMD doubles up on V-Cache with 9950X3D2 Dual Edition  theregister.comAMD's Ryzen 9950X3D2 chip features an incredible 208MB of on-chip cache  EngadgetAMD Announces Ryzen 9 9950X3D2 Dual Edition Desktop Processor with 192 MB L3 Cache  techpowerup.com",
     "published date": "Thu, 26 Mar 2026 19:20:30 GMT",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcTBGdnFwZFc5VkR4NVRLRHdHSjBwc1RXdUZlUDRvUW51LUY5ZWJtV3lzRFpLSWdYNTBVVElhTTVMVmxwVWFxYTdQWGVNTW0yNG1MaXJiYmRUX2ZBZ2hGeXZZVkFMbW94cnBfUTlBM2Nza0VuTVB0eWgzdVE2Tndxd1VOUXVreERaUHhNM0F3?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -550,8 +600,28 @@
     }
   },
   {
+    "title": "Sony's new theater system lets you upgrade your TV setup gradually - how it works - ZDNET",
+    "description": "Sony's new theater system lets you upgrade your TV setup gradually - how it works  ZDNETSony Unveils New Bravia TVs, Home Theater Speakers And Soundbars  Yahoo News CanadaSony Announces New TV and Soundbars as TCL Deal Looms  Bloomberg.comSony adds the Bravia Theater Bar 5 and Bar 7 to its soundbar lineup  EngadgetSony's new Dolby Atmos soundbar beats the Sonos Arc Ultra in 3 key areas — and it's expandable  TechRadar",
+    "published date": "Wed, 25 Mar 2026 17:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR1kxUWZIYlE5QkFEUUs0V0pGazBsRzM2a0l0UzNWR2l4a0xIS2I2WHJJQ1Fta081S0labXVmUDBGU3J4aS16TTFzcDVlcnVrMS1jZDNKYWh3SFhqTk0ySGRlSk1Da19HTFJXSVpCaWFyWGMxT2NGMThOM0ZwTkx6dTRLOHRIbWdWaEJyY2tpMnoxczBnbXZtVFh3emtlMjQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.zdnet.com",
+      "title": "ZDNET"
+    }
+  },
+  {
+    "title": "DJI’s Avata 360 is a more functional, flexible 360 drone - The Verge",
+    "description": "DJI’s Avata 360 is a more functional, flexible 360 drone  The VergeDJI Avata 360 Sets New Standards for Immersive 360 FPV Flying  Newswire CanadaDJI Avata 360 drone review: 360 video hits new highs  EngadgetWhy Americans Can’t Have DJI’s Super-Cheap New Drone  GizmodoDJI Doubles Down on FPV With Announced Global Launch of Avata 360  No Film School",
+    "published date": "Thu, 26 Mar 2026 12:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTmJ5WWs0Q3ZWSXp1WGk2bmZNdVlRM3FLdjhKVW04Vk5YVWplRGFhV09UR2FrZDAwc1MtZjVtLXN6b3I3R2c5SGc0QWhzdnZTWFE3bHA4Sk5pd2FVUnlNdzFWMGVLdkJ1MHMxTi1kRmpfUEhVNkpUS1dFT2pIcm9CNHRxc1BoSXJhd1NvUWszUzJVNU5KNXpwTjI2TzhyWnU5dEdYRmliM09YaWZCemhqMXBFWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theverge.com",
+      "title": "The Verge"
+    }
+  },
+  {
     "title": "Best Amazon Spring Sale Save past-gen tech deals 2026: Apple and Sony on sale - Mashable",
-    "description": "Best Amazon Spring Sale Save past-gen tech deals 2026: Apple and Sony on sale  MashableThis Is My Favorite Laptop of the Past Year, and It Just Hit Its Lowest Price Ever  CNETThese are the best new MacBook deals right now: March 2026 Buyer’s Guide  9to5MacMacBooks start at $689 during Amazon's Big Spring Sale 2026  Mashable",
+    "description": "Best Amazon Spring Sale Save past-gen tech deals 2026: Apple and Sony on sale  MashableThis Is My Favorite Laptop of the Past Year, and It Just Hit Its Lowest Price Ever  CNETMacBooks start at $689 during Amazon's Big Spring Sale 2026  Mashable",
     "published date": "Thu, 26 Mar 2026 14:04:54 GMT",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRGp4cjNvY09uM05yX3UzWXlVNURqSWROQW55dGxCeldueTkxeGQzalRkcExKdzh3Y1BBNE5BaTRGY25LeHlHbkpPQnZ3dHRuOVc2U1BJSGEwNUN6V2wtRU1EM0ljeXJvbnhfaGdpbnozN0xwdFlxdHVSbkdma0JUWmg2QUZrUm5uR2c?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -567,6 +637,16 @@
     "publisher": {
       "href": "https://www.vogue.com",
       "title": "Vogue"
+    }
+  },
+  {
+    "title": "Intel launches Arc Pro B70 at $949 with 32GB GDDR6 memory - VideoCardz.com",
+    "description": "Intel launches Arc Pro B70 at $949 with 32GB GDDR6 memory  VideoCardz.comMaxsun Launches 32 GB Arc Pro B70 Series Graphics Cards  techpowerup.comIntel Targets AI Workstations With Memory-Stuffed Arc Pro B70 and B65 GPUs  PCMagIntel Announces Arc Pro B70 With 32GB GDDR6 Video Memory  PhoronixIntel Arc Pro B70 and Arc Pro B65 GPUs bring 32GB of RAM to AI and pro apps — bigger Battlemage finally arrives, but it's not for gamers  Tom's Hardware",
+    "published date": "Wed, 25 Mar 2026 13:06:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSlBJcUxGZXRVcWRDUEZOSjlFNkx0ZzFJeUJXNHNMYVdFZGJaRmVkWENfMS1vUlRrcllvN0FqSWM4NC1mdW1Zdk5Eem5GQ2ZTeDN5Y19QakdYQWg4WW51SV9QMS0zZ0lmMWlhNXdaeElENHJOdDVGcmJmRl80SzNXZHVPN3p6ajVTT3lJWg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://videocardz.com",
+      "title": "VideoCardz.com"
     }
   },
   {
@@ -600,28 +680,8 @@
     }
   },
   {
-    "title": "Entire Apple Watch range slashed up to 57% – including standout lightning deal - Creative Bloq",
-    "description": "Entire Apple Watch range slashed up to 57% – including standout lightning deal  Creative BloqApple Watch Ultra 3 Deal Saves You $130 Right Now  iPhone in CanadaDeals: Apple Watch Series 11, M4 MacBook Air, Apple Pencil, more 9to5Mac  9to5Mac",
-    "published date": "Wed, 25 Mar 2026 11:20:31 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUHE5N1BrM1FxdFdJdEk1NDJ6UXRrbUhzaGZ0WjNoUFgwZ2tnSkg4U3ozdmhBMnRmdnBDSTlwNk5QaUtPX0lFVG14RzRoaTllaFRzZjJ5WGVKc0c1T3hvSzBqSHpDcExhblQ3WGdtUkdydTJrTHNFYUJhU2JUYUFYV2hZeWZ0aDF5WlFIUEpDLUVZSVFsSWN6LVdCM3FyTjFvTzZySjBMN0RXWWh5VEdMdy1CZzdyZ0ND?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.creativebloq.com",
-      "title": "Creative Bloq"
-    }
-  },
-  {
-    "title": "PlayStation Plus April 2026 free game leaked - Notebookcheck",
-    "description": "PlayStation Plus April 2026 free game leaked  NotebookcheckPlayStation Plus April Game Catalog Leak Reveals Major Title  IGNApril’s main PlayStation Plus ‘free’ Essential monthly game has been leaked  Video Games Chronicle",
-    "published date": "Wed, 25 Mar 2026 10:03:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWjhWWk9Mak84Q1gwRkF0NGNFNU54d1FMYWpjUmVUaFV3NzZ0Sk5QT1M5REFuVlA1ekJjTXlINWRyUkVmNGdyRXpQcGZBN1ZDb25QYjJOOVhpUUVVYjh6cTJHZVZ2a29WRzc5N0JCOUZmSVVoOGtVeURvUFhmYkJLQllpT2VoWk10UHgxYUxTYVpFWmM?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.notebookcheck.net",
-      "title": "Notebookcheck"
-    }
-  },
-  {
     "title": "How To Fix Crimson Desert’s Biggest Remaining Problem - Forbes",
-    "description": "How To Fix Crimson Desert’s Biggest Remaining Problem  Forbes40 Hours In and I'm Hooked. Why Crimson Desert is the Only RPG That Matters Right Now  PCMagCan Crimson Desert Patch Its Way to a Cyberpunk 2077-Style Victory?  IGN‘Crimson Desert’ Has One Of The Best Open World Video Game Sandboxes Ever  ForbesCrimson Desert studio Pearl Abyss's share prices stabilize as sales top 3 million  GamesIndustry.biz",
+    "description": "How To Fix Crimson Desert’s Biggest Remaining Problem  ForbesCrimson Desert Dev Share Price Skyrockets Following Sales Announcement  IGN‘Crimson Desert’ Has One Of The Best Open World Video Game Sandboxes Ever  ForbesCrimson Desert Handheld Performance Review - Out-of-Box Experience  techpowerup.com40 Hours In and I'm Hooked. Why Crimson Desert is the Only RPG That Matters Right Now  PCMag",
     "published date": "Thu, 26 Mar 2026 13:15:20 GMT",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYjVqcE9oRjI3NzJsY1ExYnlzMk9kZlk4VjNWRzhNUGU0cEwzVGVrdDdzSF9OYm1fclhiQ3d0WmZnMUxPX1dzMGlWdjRZWE4xdTBaZWJ2elNHUWl2UFljVU9wa29kaHhPV2duWDYxNmctSDhWWE82dHRiemxmOE5TWFBkWndOYzZ4YldWamVOUi1TWjd3ZWU1RnZObWhwMXhFQjZWZ1FR?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -630,73 +690,13 @@
     }
   },
   {
-    "title": "I keep recommending this hidden Pixel setting to all my friends - Android Police",
-    "description": "I keep recommending this hidden Pixel setting to all my friends  Android Police",
-    "published date": "Thu, 26 Mar 2026 10:00:10 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdW1sb3dzN2pHYng2Qmg4WXVDaHJHN2F1M0V6MC01azhpa1pNY1VsS1FTSVJqQktPZHFSYlFVZmNJSDZtQjFxWWRVamY4UldHMWM5aEZRMG5KWEF0NVY0NGVtYUxDa3dtZkFZVFROaWxfNWpqVm9ydnVIQUMxLTFLZWd3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "IKEA Has An Affordable Multi-Use Solution For Laundry Room Storage - House Digest",
+    "description": "IKEA Has An Affordable Multi-Use Solution For Laundry Room Storage  House Digest",
+    "published date": "Wed, 25 Mar 2026 19:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWS1NQ1NnT1lGZXhQTGxtbFBRVzNUTlRYTVlsVzRwTWVfd0o1aUVadldxOTFuMFpWNEN0RHBNalVNcUhwTXp2ZkQ4TmJySVV4ZnhxZkNVc0RDaWdXT3l0RHk0YWcyVWNrc242eW45SEktdWp5b3ZFd2pQdkZndDdqRXdiT2Z5akV4?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.androidpolice.com",
-      "title": "Android Police"
-    }
-  },
-  {
-    "title": "What's A TV Episode That Is So Heartbreaking, You Can Only Watch It Once? - BuzzFeed",
-    "description": "What's A TV Episode That Is So Heartbreaking, You Can Only Watch It Once?  BuzzFeed",
-    "published date": "Thu, 26 Mar 2026 18:31:01 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQek9jNGV3dGFEeG1rQ2M0RERZdEJrNlI4dGVhdkJMUFlqNk5GYWZXQUxpTFFhOU1RUWpyTmlSdTY1X2FMMjFzdWJqd1BXLUsydkFBdUlQUFdVaXhwVmlDblNsNzZnZlVCNkxrMXZ0d3VCMmFsZllkaF8ydlNPRVFGMTdyQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.buzzfeed.com",
-      "title": "BuzzFeed"
-    }
-  },
-  {
-    "title": "The legendary 3dfx Voodoo is back in FPGA form - TechSpot",
-    "description": "The legendary 3dfx Voodoo is back in FPGA form  TechSpotBuilding an FPGA 3dfx Voodoo with modern RTL tools  AdafruitThe 3DFX Voodoo Lives Again In An FPGA  Hackaday",
-    "published date": "Wed, 25 Mar 2026 17:48:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSXBDa2J3TlRYNWQzOHFUYmVUVElPQTFiTlNaeE9mcFVfZ2FMX215YUhlNHlJS2hNYi1JZkM1aGV5MGpvSzdFZ3dCZkVzM0hTVVEwSmZUUUswckY0b01PSzB4cl9SWXd6UnZTdFU2Ymt2bWRBZFJ2S25tTFREQy1jeHJpdlVXckRqczhhT0hSREJvUEVrYXVkM0ItTnpIdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.techspot.com",
-      "title": "TechSpot"
-    }
-  },
-  {
-    "title": "\"They wouldn't look at any game that was less than £50 million\" Why Tencent's all-in strategy didn't suit Bulkhead - GamesIndustry.biz",
-    "description": "\"They wouldn't look at any game that was less than £50 million\" Why Tencent's all-in strategy didn't suit Bulkhead  GamesIndustry.biz",
-    "published date": "Wed, 25 Mar 2026 14:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSGF0WGxmZVNHd1Y2WlpuMkJZS29vWnl5emFSMG5OWjJSaWZYMXZUNGtxNjRSbzZGbE5rNEQ2WUdGVjNHQnJDUTBqZVZUUk9yV3RNR2NqMFJaOUZsRDdCYnhrbmJmYTlaNnIwUmNtWGxuTG10S0lwdFFtUU13UDhYQ1ZDYXhVTVlVeFUzWTRhd2NfdGp3ajhFYk1pMHBNd1pQUUVVNGdraDJ3VnBEREoxV1JuLVBPelVTbnYyY2c3cTFIdUIwRkpVZ2hhck0xUmVTWU1jaQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.gamesindustry.biz",
-      "title": "GamesIndustry.biz"
-    }
-  },
-  {
-    "title": "PlayStation’s ‘Dynamic Pricing’ Offers Wildly Different Discounts For Some Games - Insider Gaming",
-    "description": "PlayStation’s ‘Dynamic Pricing’ Offers Wildly Different Discounts For Some Games  Insider GamingPlayStation's Dynamic Pricing Appears To Offer A Huge Gap In What You Pay For PS5 Games  GameSpot",
-    "published date": "Wed, 25 Mar 2026 15:11:39 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQW94Z25SdXUxOExydDFMaW9iSnlUT0dJSl90d3hBMkVEWFJ3NkxwODhYTGE1aG9GYzVJN0dsMDZBdzdUamlFeXcyYVQyWHRQNXpIdFVLOExtWFBDWEN6WkJWRlI1bzNvTWtKRWhNNE9QNUpKSUluazlWamZsZ3dYdTgwNWcwZTdmTm5yOFlfcW5kVXdVdVpr?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://insider-gaming.com",
-      "title": "Insider Gaming"
-    }
-  },
-  {
-    "title": "Scientists Just Broke the Solar Power Limit Everyone Thought Was Absolute - SciTechDaily",
-    "description": "Scientists Just Broke the Solar Power Limit Everyone Thought Was Absolute  SciTechDaily130% quantum yield: Singlet fission breaks 100% ‘physical ceiling’ for solar cells  Interesting Engineering",
-    "published date": "Wed, 25 Mar 2026 14:00:24 GMT",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU2hGdE1IM3Y2bHNWSEdPaE5sc0FBVXk0ZTZqak5kaHRuMHlYTjNCNi1seTZ3SG1XNkpuTXpGbnJtX0VQRmpkQlhCVWd6VE94U0FCNGlLZnNveHR0amtyblZWeFVTcWVlWkFYWWFzLWUxTUpSTFNiTVNNN3VMUFhmTk50c0RkcTZ0aDcyZy01V3FxVHRFX2FkOUcwTWVITHlw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://scitechdaily.com",
-      "title": "SciTechDaily"
-    }
-  },
-  {
-    "title": "ON1 Restore AI Turns Old Family Photos into Grotesque Nightmare Fuel - PetaPixel",
-    "description": "ON1 Restore AI Turns Old Family Photos into Grotesque Nightmare Fuel  PetaPixel",
-    "published date": "Wed, 25 Mar 2026 19:48:08 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUW56UkprUWZYbHpGbmdvcUV6S0Q4N2FJX0ptWHZTTF93b2xGMmhnbTU2aTExMGl0VUFiR1g4Snh2eDlLM0pvaVBBU3ZQeF84WUgzaW5TSmstdHAtZWZxb3ZER3MzXzVTWHZuWElGNXhTLXBFQk5McUk5SmFfNExBVVBRWVpaXzloQjJCN3ZvbjBaTXBJLWlZRHBWeFRNaW5GNHROQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://petapixel.com",
-      "title": "PetaPixel"
+      "href": "https://www.housedigest.com",
+      "title": "House Digest"
     }
   }
 ]
