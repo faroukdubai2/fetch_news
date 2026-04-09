@@ -1,5 +1,25 @@
 [
   {
+    "title": "A workout class sent this St. John's woman to hospital. She's not the only one - Yahoo News Canada",
+    "description": "A workout class sent this St. John's woman to hospital. She's not the only one  Yahoo News Canada",
+    "published date": "Wed, 08 Apr 2026 08:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPT0ZLWlZ3RC14VlBFQ3lrOXpUeFktZmdXakVhYWVZUDZNVWxmc0x6ZURlY3JzaWVKQ1QzaW5GNk1jdEFuMGJOR3VrVUlQU2RFanF3cDhvM0s4dkFMTnhVcFhyMFlxMWdFSklPclpVZ1lyc044WHBKazV5eE55T2RCUnhmdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://ca.news.yahoo.com",
+      "title": "Yahoo News Canada"
+    }
+  },
+  {
+    "title": "Measles case reported in Quebec City - CTV News",
+    "description": "Measles case reported in Quebec City  CTV News",
+    "published date": "Thu, 09 Apr 2026 17:25:19 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONlNkUXoyMnQ3dkVvMnA5c2doUC1lN2R3YjBjbnlENlBudWx4ZmxoeTJ5R1RpN09TVTlKR0lXYnBnYU5XSHNYR3MxVndUNUhsMGNBTGcxY2UyNjYxMk1KX1FGY3ZzbnhPckI2M1dEblZPRDBSUklsenVLVHQwdi0xY1JpYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ctvnews.ca",
+      "title": "CTV News"
+    }
+  },
+  {
     "title": "Saskatchewan expands access to breast cancer screening with second mobile mammography unit - WestCentralOnline",
     "description": "Saskatchewan expands access to breast cancer screening with second mobile mammography unit  WestCentralOnlineSecond Sask. mobile mammography unit to start seeing patients next week  CBCSask. unveils second mammogram bus for breast cancer screening  The Star Phoenix‘A top-notch patient experience’: Second mobile mammography unit to hit the road in Sask.  650 CKOMSask. adds 2nd mobile mammogram unit to prepare for screening age of 40  Yahoo News Canada",
     "published date": "Thu, 09 Apr 2026 11:19:01 GMT",
@@ -7,26 +27,6 @@
     "publisher": {
       "href": "https://www.westcentralonline.com",
       "title": "WestCentralOnline"
-    }
-  },
-  {
-    "title": "Threads of Life enters “season of momentum” with new 2026 initiatives - Canadian Occupational Safety",
-    "description": "Threads of Life enters “season of momentum” with new 2026 initiatives  Canadian Occupational Safety",
-    "published date": "Thu, 09 Apr 2026 10:00:27 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObGM4bHpBajI1YW9RZGk0LUdXR3M2U05mN0Rxc25lcldqWVh5R3dMdFMxcFU5WVBqWkpiZEV3bVMyeUZkNlFmdWZmd3k1V3ZlS3hGcW9wUk1ldHRCY3RTRlJzZW9HVHlDVy1IZHBJUzdubTM5cGJDRGI3Z051M3BmRWtRWVdUVGh0bkRyLWduTGs0SjJkbEhqaUVhWXhsN1laVXpEU2JIOExSV0JTUXg3MEZlcXgxbzE4dTdj?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.thesafetymag.com",
-      "title": "Canadian Occupational Safety"
-    }
-  },
-  {
-    "title": "First case of measles detected in Quebec City in years as province faces another outbreak - CBC",
-    "description": "First case of measles detected in Quebec City in years as province faces another outbreak  CBC",
-    "published date": "Thu, 09 Apr 2026 15:20:46 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdWpqZmVxV012UEhYRzlnTktpZkdpMFB4bXJ6VVBvbTFkd3Y4bWNvMm8zTC10VkZOSElyMEdiTmlweDcyOFNqa2JGcklfYlRyeFpRT1FRWmRocVp4T2x1ajgwOWxEVFBvQTZvcG1yYVA0dER5NVZWeGx5OFdKTk50aWs1cHdjbUI1bGg4a0s0WE4?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cbc.ca",
-      "title": "CBC"
     }
   },
   {
@@ -40,33 +40,83 @@
     }
   },
   {
-    "title": "Measles exposure sites identified in Brandon, Neepawa - Brandon Sun",
-    "description": "Measles exposure sites identified in Brandon, Neepawa  Brandon SunMeasles exposure reported at north Winnipeg grocery store  Winnipeg SunMeasles exposure confirmed at Winnipeg Sobeys on Main Street  CityNews WinnipegPublic health administers ‘a few vaccinations’ at Brandon winter fair  Winnipeg Free PressManitoba government tasking pharmacists with giving measles shot to young people  Toronto Star",
-    "published date": "Thu, 09 Apr 2026 02:35:26 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZVZEOHVGd1NFTFJ5VXVnbFU1aHJWNzYxSkVpWG9ERWt2MGpHSUUxdWVtYUhUNzdaYVJmdng5XzIzWk9zZXBNem1jMUlLNFhOUnhrelhFbFBXLWdjX1FLNmRRb2pjNEhmblF5T09DQ05Ra0RZemxYQlFGWHI0VkFzdVF0amJpMlZaQVR2RV9BLTc2V1QwLS04OU80SGM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Threads of Life enters “season of momentum” with new 2026 initiatives - Canadian Occupational Safety",
+    "description": "Threads of Life enters “season of momentum” with new 2026 initiatives  Canadian Occupational Safety",
+    "published date": "Thu, 09 Apr 2026 10:00:27 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObGM4bHpBajI1YW9RZGk0LUdXR3M2U05mN0Rxc25lcldqWVh5R3dMdFMxcFU5WVBqWkpiZEV3bVMyeUZkNlFmdWZmd3k1V3ZlS3hGcW9wUk1ldHRCY3RTRlJzZW9HVHlDVy1IZHBJUzdubTM5cGJDRGI3Z051M3BmRWtRWVdUVGh0bkRyLWduTGs0SjJkbEhqaUVhWXhsN1laVXpEU2JIOExSV0JTUXg3MEZlcXgxbzE4dTdj?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.brandonsun.com",
-      "title": "Brandon Sun"
+      "href": "https://www.thesafetymag.com",
+      "title": "Canadian Occupational Safety"
     }
   },
   {
-    "title": "Over 700 Region of Waterloo high school students suspended due to outdated vaccination records - CTV News",
-    "description": "Over 700 Region of Waterloo high school students suspended due to outdated vaccination records  CTV News704 high school students in Waterloo region suspended for out of date vaccination records  CBC700 high school students suspended for out-of-date vaccination records  CityNews KitchenerSuspensions for 704 secondary students with incomplete vaccine records  The RecordNearly 1,200 Halton elementary students suspended over missing or incomplete vaccine records  Oakville News",
-    "published date": "Thu, 09 Apr 2026 14:52:32 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVFVPd3BCNnNrWVVYaUZmM1FPckZ4eUlnb0FCeHFmanA1MkgycWEzTDdsRElpU3lHNDhRZ2RRRUJSTy1sRjJKa0hqWEhLV3F4OERhT3ZmNmUyYUFHbzdmSlIwQkVpZ1RKb3VGN2JGX1BUaDQzMndwOHhodTVfY3FJYXNheGNCMFdEM21VTEVkUVZCY0F0czNqYUlxX2NzeXMxRGNpOUdSendRRjJKaXRmWFFZRHR4YjJhRmlrOERKQzNoWE56LTEwQzJCclhhb3l1TGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Woman With 3 Autoimmune Diseases Enters Remission After Immune 'Reset' - ScienceAlert",
+    "description": "Woman With 3 Autoimmune Diseases Enters Remission After Immune 'Reset'  ScienceAlertWoman with three deadly diseases has ‘remarkable’ recovery after cell therapy  The GuardianScientists Are Finally Unlocking a Cancer Treatment’s Full Potential  The AtlanticIn Medical First, a Single Therapy Knocked Out 3 Autoimmune Diseases at Once  Gizmodo",
+    "published date": "Thu, 09 Apr 2026 15:05:26 GMT",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUkZZVjF4aDU4N2liTWh6TDlPU0VoSlRJaUdDYUVhOE9xYTNaajhKVThJTThoSGdYbTRTOEdlWjVBYi0zemhVcy1Rc2xZT3VJWmI1QzBZd1B3SDVSNW1FckVnVktpMVItWm5oT1p5M3lCMnRjV0xOckFFaU9RaG5KTlp4NFA4Wjc3bm43QVVPVGU2NjdMejIwUEljTUJrZw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.ctvnews.ca",
-      "title": "CTV News"
+      "href": "https://www.sciencealert.com",
+      "title": "ScienceAlert"
     }
   },
   {
-    "title": "Woman with three deadly diseases has ‘remarkable’ recovery after cell therapy - The Guardian",
-    "description": "Woman with three deadly diseases has ‘remarkable’ recovery after cell therapy  The GuardianScientists Are Finally Unlocking a Cancer Treatment’s Full Potential  The AtlanticWoman With 3 Autoimmune Diseases Enters Remission After Immune 'Reset'  ScienceAlert",
-    "published date": "Thu, 09 Apr 2026 15:46:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOGg4SXJqYThOR0hpdzA1WG1sUDJzNXFSRTk5MXlkTmRxclEzTUNKaTJDYjVIeGxKV0FqMEJ6bWIwSjFyM1YweEw1MldZN1NvN0NoUnk3MWpvUlpLX1RuTDlaLWkydlgxRjRMVmdrSEVIZXlXcmtRXzRkWVZXdk0tdlpoTjVMSnZuZzFPT1VqM2VTTHU3NC1Tbg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "704 high school students in Waterloo region suspended for out-of-date vaccination records - CBC",
+    "description": "704 high school students in Waterloo region suspended for out-of-date vaccination records  CBC700 high school students suspended for out-of-date vaccination records  CityNews KitchenerOver 700 Region of Waterloo high school students suspended due to outdated vaccination records  CTV NewsSuspensions for 704 secondary students with incomplete vaccine records  The RecordNearly 1,200 Halton elementary students suspended over missing or incomplete vaccine records  Oakville News",
+    "published date": "Thu, 09 Apr 2026 15:04:12 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORkxTUkZyQmQtQ1hhU2x4aWxveXAyT3JGRmh5al9IS20yanNObVJCWjdLU2hqLVpCbGp1MUpBYkpURjBZbWp5Zy1NYmhGUDl0WXRRNS1uUUJXZjNIdTRrdWdWbzAtbDVxNTg1VE1pZFVGcUJNMndkZURQRlZxamFZVzRmbk9nMkJ0djNKYkpTVGdHazZOeXd6R0FYYkVEY3ZGcFlIajBraG13cVhueG1Ed3RiNmE2c3lzLTd3ak1CVUxaUGVLYmNZaVhxYVZhY2NvRjVLbmhLbW12NmM?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.theguardian.com",
-      "title": "The Guardian"
+      "href": "https://www.cbc.ca",
+      "title": "CBC"
+    }
+  },
+  {
+    "title": "Mapping the brain’s response to cannabis - Schulich School of Medicine & Dentistry",
+    "description": "Mapping the brain’s response to cannabis  Schulich School of Medicine & DentistryThe unsettling truth about medical cannabis and mental health  BBC Science Focus MagazineThe madness of using cannabis to treat mental health  The Spectator",
+    "published date": "Thu, 09 Apr 2026 16:55:54 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNzk0azFMSUd3WkJ0T1hQa2gtS2J3eWlpQk1icGc2U3pzNEpNVG01OXloLTlYei01U1M5TGdRZHpGQUxHQVhfQXZFYWVUTjNSUjdXVDNCTTB3QzhSc1NhZHY2VFFFYlNFM1VJbEFsQ0xIWGRDbTI2b1lGeU5iMERrS2g0bGUzR0FIdE1CYk9OQzBXcUhVUmlwQnppcXlSX2k2S0NBYTF6ak9jR1pkd3c0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.schulich.uwo.ca",
+      "title": "Schulich School of Medicine & Dentistry"
+    }
+  },
+  {
+    "title": "Ridgeville’s Burton family ready to walk for Conway - PelhamToday.ca",
+    "description": "Ridgeville’s Burton family ready to walk for Conway  PelhamToday.ca",
+    "published date": "Thu, 09 Apr 2026 18:34:22 GMT",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZzgyTV9FVjN1UEhsQ2ZuVTZkWlk3cjFWenVudEc2ZVl5RFVIRXI0bFI5ekowTTdBZE52a0s2djl6X2lGZlVqZFhqa2p1SERxemRHNDUxOThLRjNUTHhubnpVdnV0QWdhdlpiN0NyQUVVWVRQNmlPRUdVSnhKcHFqcEdzWmtOZmZDbFFKRkoyMUZFM2ZCa0M2aWJ3VU1WUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.pelhamtoday.ca",
+      "title": "PelhamToday.ca"
+    }
+  },
+  {
+    "title": "From the Archives of Western Newspapers - Sunny South News",
+    "description": "From the Archives of Western Newspapers  Sunny South News",
+    "published date": "Thu, 09 Apr 2026 18:09:04 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUFVXUXlRbDhqaDZ2a29kSW1XbGlBanVkaU1oZkFPamw3UE9mNFZCd24xWmxOS0JBQmMycDB5dm5La043ZjVTQ3owOGtvN1JiTzNKbEdsSVFqX05Nek50X0FDV084NW1DbGlzUWNzWEJVRjVBZlh3bkpxbW9RWFNkWjVEaWFMcXhsVkp3Mko5cG91SVNVa2tfbg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "http://www.sunnysouthnews.com",
+      "title": "Sunny South News"
+    }
+  },
+  {
+    "title": "Daffodils for Hope and Research - Prince Albert Daily Herald",
+    "description": "Daffodils for Hope and Research  Prince Albert Daily Herald",
+    "published date": "Thu, 09 Apr 2026 11:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yVE5lWlZwTzNpTGhQMHlIdE5Nc2JhQWh2bldvNWtZTVZkU3RvVlp4dGtnMlNhcmp2OElIbndjT3F0NXczcVBXTHI5Q0lWTnVSdDcyUE12M2NxN1RteTFtdEpJdDdudw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://paherald.sk.ca",
+      "title": "Prince Albert Daily Herald"
+    }
+  },
+  {
+    "title": "Patients scramble to find estrogen patches as shortage worsens after US FDA champions use - Reuters",
+    "description": "Patients scramble to find estrogen patches as shortage worsens after US FDA champions use  ReutersOpinion | My pharmacy ran out of estrogen gel. Then things really got heated  Toronto StarOpinion | Hormones Don’t Need to Make You Live Longer to Be Worth It  The New York TimesHormone Drugs Make $6.3 Billion Comeback After FDA Nixes Safety Warnings  Bloomberg.comEstrogen patches face shortage as more women seek hormone therapy  PBS",
+    "published date": "Thu, 09 Apr 2026 15:34:04 GMT",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaGw2U1F3OWJhN1RnQ1JoSXlqcVZvMnRsNmtScXlMc2pudDd5Y3diOFpfSFQ1dEZQNHVXRWpQYkoxMGM4YTFsbEd6M3dLSHdmdEhuZm5GaXA2M1lDVTItd3lBS1ZhaE9JS2h2U2JRMVJKSkh5TjJsUzhqdG5PUXNORU9IQ3V3R3JwY2FQMEwxbTJTY0lNNDZxRl9fWmYxS3VtOHFvOXlzZU1PaWRDV0hQNTNKazVDTlFXSmE3Uk40R1N5NHEtWGU5d2E0QXE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.reuters.com",
+      "title": "Reuters"
     }
   },
   {
@@ -87,26 +137,6 @@
     "publisher": {
       "href": "https://www.cidrap.umn.edu",
       "title": "CIDRAP"
-    }
-  },
-  {
-    "title": "CDC delays publishing report showing covid vaccine benefits - The Washington Post",
-    "description": "CDC delays publishing report showing covid vaccine benefits  The Washington PostTop C.D.C. Official Delays Report on Covid Shot’s Effectiveness  The New York TimesRFK Jr’s CDC delays report showing benefits from Covid vaccine, insiders say  The IndependentUS CDC delays publishing report showing COVID vaccine benefits, WaPo reports  Yahoo",
-    "published date": "Thu, 09 Apr 2026 16:31:58 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM3diR2lSdUdWR2hIM1VOVktUWXRnenlpZFBDSmdTT2JiR2xTWm1TVHhpWHNDVW1oZ1dOTnZ2NmJzaHFMUnE4Nlk2SkQyMUhmWnF3X1QwM2VXck1xcG4tNlk5YS1iMzhaaWFiczVZWHlsbERkYUVaaTk3R2puMTQzUDhNeVk?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.washingtonpost.com",
-      "title": "The Washington Post"
-    }
-  },
-  {
-    "title": "Patients scramble to find estrogen patches as shortage worsens after US FDA champions use - Reuters",
-    "description": "Patients scramble to find estrogen patches as shortage worsens after US FDA champions use  ReutersOpinion | My pharmacy ran out of estrogen gel. Then things really got heated  Toronto StarOpinion | Hormones Don’t Need to Make You Live Longer to Be Worth It  The New York TimesEstrogen patches face shortage as more women seek hormone therapy  PBSEstrogen patch shortages are getting worse and could last for years  NBC News",
-    "published date": "Thu, 09 Apr 2026 12:52:40 GMT",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaGw2U1F3OWJhN1RnQ1JoSXlqcVZvMnRsNmtScXlMc2pudDd5Y3diOFpfSFQ1dEZQNHVXRWpQYkoxMGM4YTFsbEd6M3dLSHdmdEhuZm5GaXA2M1lDVTItd3lBS1ZhaE9JS2h2U2JRMVJKSkh5TjJsUzhqdG5PUXNORU9IQ3V3R3JwY2FQMEwxbTJTY0lNNDZxRl9fWmYxS3VtOHFvOXlzZU1PaWRDV0hQNTNKazVDTlFXSmE3Uk40R1N5NHEtWGU5d2E0QXE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.reuters.com",
-      "title": "Reuters"
     }
   },
   {
@@ -170,23 +200,33 @@
     }
   },
   {
-    "title": "Calgary Innovation Highlights Importance of Treating Skin Tears in Seniors - OkotoksOnline",
-    "description": "Calgary Innovation Highlights Importance of Treating Skin Tears in Seniors  OkotoksOnline",
-    "published date": "Thu, 09 Apr 2026 06:04:27 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQkoxeEpMU0VOY0xnaGlpU3pqYkhXVUVDOWY4STZxN0tKY01sNmV5UWNjaldhQ0Y3OW1XckloRGJpWWdTT3lzSVNCWlVNYjBaT1RlZXNTSWtmNFA1clVlbFpyYkdMTFNGdUltTXM0RHNGSF90UVRJSnlZazd5TXItaFNsemkySkM4M0tOX1JmdFFleXZDdHdZVU4yUWl2YmpTRXk2ZXNkY1kyRmlVb0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Waterloo team finds combination approach may reduce risks of Alzheimer's antibody therapy - StratfordToday.ca",
+    "description": "Waterloo team finds combination approach may reduce risks of Alzheimer's antibody therapy  StratfordToday.caNew drug combination doubles down on Alzheimer's treatments  University of Waterloo",
+    "published date": "Thu, 09 Apr 2026 18:31:43 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTHk2cEllUnNNWncyYjZLZTlYYzRuVndWckxmLVZmTkJkM2VnckhaX1d1ZHVoNEM2Y2FYNjMxZnN6UWhyTHhDNWxNZHJ3bUEwZ1Q0cFhId2tUbFNXM1hsLW5WM3NYYnNQYkxUbDlENkpHb0lKR1dTZW5SVFVpVGs5LTBfN1JyVDZ0VW1iUDl3Q2Q4TkZkb1h5SnpPaVU5WGQxSmJyTWphWUxzZXlsUFJrZXczcG9ONllqeTZkdm5tRXdEQ1F3YnFiREVxM0JrMTY0dmVVcg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://okotoksonline.com",
-      "title": "OkotoksOnline"
+      "href": "https://www.stratfordtoday.ca",
+      "title": "StratfordToday.ca"
     }
   },
   {
-    "title": "World's First CAR-T Therapy for Solid Tumors Available in China Soon - Newswire Canada",
-    "description": "World's First CAR-T Therapy for Solid Tumors Available in China Soon  Newswire Canada",
-    "published date": "Thu, 09 Apr 2026 05:28:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY1g1V0hQeEgxRmVROHFCR3haNkJIVEF6cFBnVDJMY3BqVEdCbVZYZ0hGMkZnbTFzNDVvTHlMOEp4eWtLeFk2YUhTWUVoa2tNbUtlSUk0U0xUbWxzeGx4Z3pFSXl4U21DTFk2ZkVvcHdTWVFkY05RTjlYdFljenkxZWZTTzZMWkdLbXJlNTZOa0dBY1R5TWNvN1VyT040WlNQS3FJbXJ5UWM4T1VHSmJnN3dhOG95MGhfTlA5Q3hn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Novel antiviral fogging tech to be tested against bird flu - University of Nebraska Medical Center",
+    "description": "Novel antiviral fogging tech to be tested against bird flu  University of Nebraska Medical CenterStudying How Bird Flu Spreads Through the Air  respiratory-therapy.comUSDA funds $2M project to test antiviral fogging technology against avian Influenza  The National Provisioner",
+    "published date": "Wed, 08 Apr 2026 22:33:13 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUVpfZGM2V1BvRXZDUXBZNGtJVnpkX1ZXVE5FOHUwUkU3azBCOEFidGo3a2JlTnBQSnBSNGtZa3hUcWlZWk5wcUMwOHRuN2MzbllsVF81ckJzcFl3MGJiM0tjMThPVHVGMHNIUVZ0MHAyVHlrY3NwM3lka095QTdQdHdMd1UzZFJ4QVZKN2xsbkxWT3JmU1ZiZmozWUVlcW11R0FJVGRtelZHb3ZjeHJ6aldtRlliaDFjMWtF?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.newswire.ca",
-      "title": "Newswire Canada"
+      "href": "https://www.unmc.edu",
+      "title": "University of Nebraska Medical Center"
+    }
+  },
+  {
+    "title": "Measles exposure sites identified in Brandon, Neepawa - Brandon Sun",
+    "description": "Measles exposure sites identified in Brandon, Neepawa  Brandon SunMeasles exposure reported at north Winnipeg grocery store  Winnipeg SunMeasles exposure confirmed at Winnipeg Sobeys on Main Street  CityNews Winnipeg",
+    "published date": "Thu, 09 Apr 2026 02:35:26 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZVZEOHVGd1NFTFJ5VXVnbFU1aHJWNzYxSkVpWG9ERWt2MGpHSUUxdWVtYUhUNzdaYVJmdng5XzIzWk9zZXBNem1jMUlLNFhOUnhrelhFbFBXLWdjX1FLNmRRb2pjNEhmblF5T09DQ05Ra0RZemxYQlFGWHI0VkFzdVF0amJpMlZaQVR2RV9BLTc2V1QwLS04OU80SGM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.brandonsun.com",
+      "title": "Brandon Sun"
     }
   },
   {
@@ -200,16 +240,6 @@
     }
   },
   {
-    "title": "Testosterone Therapy in Women: A Literature Review of Clinical Indications, Dosing, Routes of Administration, and Safety - Cureus",
-    "description": "Testosterone Therapy in Women: A Literature Review of Clinical Indications, Dosing, Routes of Administration, and Safety  CureusIs it true that … more testosterone means more muscle?  The GuardianTestosterone isn’t a magic cure-all for middle age  The Japan Times",
-    "published date": "Thu, 09 Apr 2026 12:48:45 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNGlmLWg4dUl3aXV4dklvcVp2aG41QjQtSTYtMWN0ckZNMWRtTTRXVUppSUNQQkNUcHVKdWF3UlNscTY4UlF0VGlyU1VfLUFBazVVQUxNV1d4Tk5xQkIwWHp3SkZqcFZvTHVtazFRVWZPRjNYQmtaWlZ6bzNZazRGdDB5SFNJSTZJUDNpaEFpcU1zdEVKd29NQzBFbU1VZVBGN0RQNmRnUVF5eGRETkpjY194YnNaTG51Sk5oekE1YjE4SDJiMWdzSkxNRjdITHBRanFOb2pLUzBJdm1UWGVDd3hIel9aQjhNOFRZ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cureus.com",
-      "title": "Cureus"
-    }
-  },
-  {
     "title": "Measles vaccination rates falling provincewide, CBC analysis finds | CBC News - CBC",
     "description": "Measles vaccination rates falling provincewide, CBC analysis finds | CBC News  CBC",
     "published date": "Wed, 08 Apr 2026 13:29:06 GMT",
@@ -220,13 +250,33 @@
     }
   },
   {
-    "title": "Novel antiviral fogging tech to be tested against bird flu - University of Nebraska Medical Center",
-    "description": "Novel antiviral fogging tech to be tested against bird flu  University of Nebraska Medical CenterStudying How Bird Flu Spreads Through the Air  respiratory-therapy.comUSDA funds $2M project to test antiviral fogging technology against avian Influenza  The National Provisioner",
-    "published date": "Wed, 08 Apr 2026 22:33:13 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUVpfZGM2V1BvRXZDUXBZNGtJVnpkX1ZXVE5FOHUwUkU3azBCOEFidGo3a2JlTnBQSnBSNGtZa3hUcWlZWk5wcUMwOHRuN2MzbllsVF81ckJzcFl3MGJiM0tjMThPVHVGMHNIUVZ0MHAyVHlrY3NwM3lka095QTdQdHdMd1UzZFJ4QVZKN2xsbkxWT3JmU1ZiZmozWUVlcW11R0FJVGRtelZHb3ZjeHJ6aldtRlliaDFjMWtF?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "World's First CAR-T Therapy for Solid Tumors Available in China Soon - Newswire Canada",
+    "description": "World's First CAR-T Therapy for Solid Tumors Available in China Soon  Newswire Canada",
+    "published date": "Thu, 09 Apr 2026 05:28:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY1g1V0hQeEgxRmVROHFCR3haNkJIVEF6cFBnVDJMY3BqVEdCbVZYZ0hGMkZnbTFzNDVvTHlMOEp4eWtLeFk2YUhTWUVoa2tNbUtlSUk0U0xUbWxzeGx4Z3pFSXl4U21DTFk2ZkVvcHdTWVFkY05RTjlYdFljenkxZWZTTzZMWkdLbXJlNTZOa0dBY1R5TWNvN1VyT040WlNQS3FJbXJ5UWM4T1VHSmJnN3dhOG95MGhfTlA5Q3hn?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.unmc.edu",
-      "title": "University of Nebraska Medical Center"
+      "href": "https://www.newswire.ca",
+      "title": "Newswire Canada"
+    }
+  },
+  {
+    "title": "Calgary Innovation Highlights Importance of Treating Skin Tears in Seniors - OkotoksOnline",
+    "description": "Calgary Innovation Highlights Importance of Treating Skin Tears in Seniors  OkotoksOnline",
+    "published date": "Thu, 09 Apr 2026 06:04:27 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQkoxeEpMU0VOY0xnaGlpU3pqYkhXVUVDOWY4STZxN0tKY01sNmV5UWNjaldhQ0Y3OW1XckloRGJpWWdTT3lzSVNCWlVNYjBaT1RlZXNTSWtmNFA1clVlbFpyYkdMTFNGdUltTXM0RHNGSF90UVRJSnlZazd5TXItaFNsemkySkM4M0tOX1JmdFFleXZDdHdZVU4yUWl2YmpTRXk2ZXNkY1kyRmlVb0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://okotoksonline.com",
+      "title": "OkotoksOnline"
+    }
+  },
+  {
+    "title": "Testosterone Therapy in Women: A Literature Review of Clinical Indications, Dosing, Routes of Administration, and Safety - Cureus",
+    "description": "Testosterone Therapy in Women: A Literature Review of Clinical Indications, Dosing, Routes of Administration, and Safety  CureusIs it true that … more testosterone means more muscle?  The GuardianTestosterone isn’t a magic cure-all for middle age  The Japan Times",
+    "published date": "Thu, 09 Apr 2026 12:48:45 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNGlmLWg4dUl3aXV4dklvcVp2aG41QjQtSTYtMWN0ckZNMWRtTTRXVUppSUNQQkNUcHVKdWF3UlNscTY4UlF0VGlyU1VfLUFBazVVQUxNV1d4Tk5xQkIwWHp3SkZqcFZvTHVtazFRVWZPRjNYQmtaWlZ6bzNZazRGdDB5SFNJSTZJUDNpaEFpcU1zdEVKd29NQzBFbU1VZVBGN0RQNmRnUVF5eGRETkpjY194YnNaTG51Sk5oekE1YjE4SDJiMWdzSkxNRjdITHBRanFOb2pLUzBJdm1UWGVDd3hIel9aQjhNOFRZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cureus.com",
+      "title": "Cureus"
     }
   },
   {
@@ -250,16 +300,6 @@
     }
   },
   {
-    "title": "Why nightmares persist in children – and how to break the cycle - Yahoo Lifestyle Canada",
-    "description": "Why nightmares persist in children – and how to break the cycle  Yahoo Lifestyle Canada",
-    "published date": "Thu, 09 Apr 2026 15:33:40 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdVV0WEh2QmNIemFKQjYxcGFFeHpDMElKZlkyc3BHRndWNnA5WDZQSC0tZHRESXNtbmQ3MG5xd09QWnk2ZGY5d0Z5d250VWVqNW9faEJNWEV1eDVnbmF3VHFhNHdMZm9zT3JzVFBTOXZJWS03bkx6ODdDUTV3M3prVF8yYjVrQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://ca.style.yahoo.com",
-      "title": "Yahoo Lifestyle Canada"
-    }
-  },
-  {
     "title": "Tuberculosis found in Prince Albert homeless shelter - CBC",
     "description": "Tuberculosis found in Prince Albert homeless shelter  CBC",
     "published date": "Wed, 08 Apr 2026 11:00:00 GMT",
@@ -267,6 +307,16 @@
     "publisher": {
       "href": "https://www.cbc.ca",
       "title": "CBC"
+    }
+  },
+  {
+    "title": "Why nightmares persist in children – and how to break the cycle - Yahoo Lifestyle Canada",
+    "description": "Why nightmares persist in children – and how to break the cycle  Yahoo Lifestyle Canada",
+    "published date": "Thu, 09 Apr 2026 15:33:40 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdVV0WEh2QmNIemFKQjYxcGFFeHpDMElKZlkyc3BHRndWNnA5WDZQSC0tZHRESXNtbmQ3MG5xd09QWnk2ZGY5d0Z5d250VWVqNW9faEJNWEV1eDVnbmF3VHFhNHdMZm9zT3JzVFBTOXZJWS03bkx6ODdDUTV3M3prVF8yYjVrQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://ca.style.yahoo.com",
+      "title": "Yahoo Lifestyle Canada"
     }
   },
   {
@@ -281,22 +331,12 @@
   },
   {
     "title": "Health official shares tips for managing seasonal allergies - DiscoverMooseJaw",
-    "description": "Health official shares tips for managing seasonal allergies  DiscoverMooseJawSeasonal Allergies: Understanding Your Body’s Reaction to Pollen  The New York Times3 Tips for Allergy Season  The New York Times",
+    "description": "Health official shares tips for managing seasonal allergies  DiscoverMooseJawSeasonal Allergies: Understanding Your Body’s Reaction to Pollen  The New York TimesAn expert shares how to reduce allergy symptoms this spring  CTV NewsSneezing Season Is Here: How to Manage Pollen Allergy So Symptoms Don’t Ruin Your Spring  GlobeNewswire3 Tips for Allergy Season  The New York Times",
     "published date": "Wed, 08 Apr 2026 18:03:09 GMT",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTENsdFhHTWtjWXJwMURVZW50bk5FUjlzd3lobUIwV3p2NVhhZjNSWFZtZmNjSHQtRlpoZHpiTW81aWtQNzV6dGtQMC1YdUZBYnhaMVBPTGk2S3c0NlQzVlhaTkZpYUowOG8zYmJtaHdSVkRJS3NCaGUxR0ttLW4yaWQydHNxa2JERkoyRk5yc3pBdGxxelFncElOcmM0dw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://discovermoosejaw.com",
       "title": "DiscoverMooseJaw"
-    }
-  },
-  {
-    "title": "Ecuador Free of Rabies project accelerates progress toward eliminating dog-mediated rabies supported by Boehringer Ingelheim’s Stop Rabies program - Toronto Star",
-    "description": "Ecuador Free of Rabies project accelerates progress toward eliminating dog-mediated rabies supported by Boehringer Ingelheim’s Stop Rabies program  Toronto StarView Full Coverage on Google News",
-    "published date": "Thu, 09 Apr 2026 08:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNZEY0Rnh3ajUySmJWZkRCb3pKMVUwSDVBRF9ncHpnUkJhdkw5OFB4UTRVVWdmNVdVTDBuYnE1TUR4aVp1c3FCVnVVa1Y3NFNsZVE0NHJzYXNyWEVFTTZaYzhBN0xUSnFxVlVUY0d0Wl9Lc1hwUjBmelhncFdOMVJNUU5DdkstYUl4MmN4YUEzbGVITE9UcjdJNlVQYXlabDdjMWNHWEZkY3FkNGt2aDZEYWp5OUNXZlh4VDRtc215XzZmMzZWZkI1a3ZrRXFXV2FoZ2tmZXZDa0FzTks3dkIyVkhPOUVJQWx6NGphMTRtQjBXZldsUEJxdnJrVkRDc29XQjIwS0pWZGVOY3B6cVR0SUtHZExTTF9VVFk1bG44Qmt6cHR0aFZUM2RR?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.thestar.com",
-      "title": "Toronto Star"
     }
   },
   {
@@ -307,6 +347,16 @@
     "publisher": {
       "href": "https://www.safetyandhealthmagazine.com",
       "title": "Safety+Health Magazine"
+    }
+  },
+  {
+    "title": "Ecuador Free of Rabies project accelerates progress toward eliminating dog-mediated rabies supported by Boehringer Ingelheim’s Stop Rabies program - Toronto Star",
+    "description": "Ecuador Free of Rabies project accelerates progress toward eliminating dog-mediated rabies supported by Boehringer Ingelheim’s Stop Rabies program  Toronto StarView Full Coverage on Google News",
+    "published date": "Thu, 09 Apr 2026 08:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNZEY0Rnh3ajUySmJWZkRCb3pKMVUwSDVBRF9ncHpnUkJhdkw5OFB4UTRVVWdmNVdVTDBuYnE1TUR4aVp1c3FCVnVVa1Y3NFNsZVE0NHJzYXNyWEVFTTZaYzhBN0xUSnFxVlVUY0d0Wl9Lc1hwUjBmelhncFdOMVJNUU5DdkstYUl4MmN4YUEzbGVITE9UcjdJNlVQYXlabDdjMWNHWEZkY3FkNGt2aDZEYWp5OUNXZlh4VDRtc215XzZmMzZWZkI1a3ZrRXFXV2FoZ2tmZXZDa0FzTks3dkIyVkhPOUVJQWx6NGphMTRtQjBXZldsUEJxdnJrVkRDc29XQjIwS0pWZGVOY3B6cVR0SUtHZExTTF9VVFk1bG44Qmt6cHR0aFZUM2RR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.thestar.com",
+      "title": "Toronto Star"
     }
   },
   {
@@ -340,16 +390,6 @@
     }
   },
   {
-    "title": "Goderich-based professor believes ‘personalized medicine’ is the future of healthcare - CTV News",
-    "description": "Goderich-based professor believes ‘personalized medicine’ is the future of healthcare  CTV News",
-    "published date": "Wed, 08 Apr 2026 16:59:13 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMld3blE4dXdWaU9mUFItUzhsLW0xTzdVcURaNUtNa0NXR0J2VzB3eVVBNlZvZFFEQm93aGJST3F0WUNhNDBxOC1kX2lwcXhxLVpLeHVrRUFuVURzR0s0cTVGeTVRdVU4MGpLMDE0UWVhdVU4anI1UElhMHZtM3FidXdsMmJKUjNzTDcwMnN1Z1ZTSTBweXBxVGdaTW42c0xvQzFWemh6NDNRSXptUG9iT0Q0YXNQNlVIZnd0RURXRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ctvnews.ca",
-      "title": "CTV News"
-    }
-  },
-  {
     "title": "Schoolgirl wins praise for coeliac disease video - Yahoo News Canada",
     "description": "Schoolgirl wins praise for coeliac disease video  Yahoo News Canada",
     "published date": "Wed, 08 Apr 2026 14:02:47 GMT",
@@ -370,6 +410,16 @@
     }
   },
   {
+    "title": "Bridging the Precision Gap: Accelerating Clinical Adoption of Companion Diagnostics in Oncology - Pharmaceutical Executive",
+    "description": "Bridging the Precision Gap: Accelerating Clinical Adoption of Companion Diagnostics in Oncology  Pharmaceutical ExecutiveJMIR Publications showcases precision oncology success: individualized multi-drug therapy outperforms standard care  EurekAlert!JMIR Publications' new article showcases the transformative potential of precision oncology  News-Medical",
+    "published date": "Wed, 08 Apr 2026 14:03:45 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa3VieGdBZmlac1VFdzlsU2czQ05JVXVaaE9iRmo4bjVObS1EOVREQWlseEdQVHlzclBmZXBZS2w5MktaTEVuTWQ2YUZ6VUdMOXdQUDdxcS1xQnp5Zlh4eVF2ZmFfTkFXeFBIX1FwVExhQVlMbGsxdTU0ZF95NTlYVlB4elljTjBkN3hnYkctTXFqcGQ4WE85RXduVGJCOU90NWVURnZpbWE2c1FRU2hQNUZ6X0FhUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.pharmexec.com",
+      "title": "Pharmaceutical Executive"
+    }
+  },
+  {
     "title": "EU and Canada deepen research ties at second Horizon Europe Joint Committee meeting - Open Access Government",
     "description": "EU and Canada deepen research ties at second Horizon Europe Joint Committee meeting  Open Access Government",
     "published date": "Thu, 09 Apr 2026 07:55:26 GMT",
@@ -377,36 +427,6 @@
     "publisher": {
       "href": "https://www.openaccessgovernment.org",
       "title": "Open Access Government"
-    }
-  },
-  {
-    "title": "$10K grant given to Okanagan youth services group - Kelowna Capital News",
-    "description": "$10K grant given to Okanagan youth services group  Kelowna Capital News",
-    "published date": "Wed, 08 Apr 2026 18:48:58 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVUs0cHRaM1dZd2pQSk82Rko5WGlyUERiSzFBdWIxWTd2M081OEFkVEpZWlBGNEp5UnFWZ0VWdVM4bG5DNnFpVFZLZXVDRlAyb0VxcUpQdmpWbjF0SEQ3TW1mRXp2UkJmS0ZBYkd6RVF1U1FKcGxxVzdOclN3UHU5M3BVT09Gcldlc0c1LVltbjQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://kelownacapnews.com",
-      "title": "Kelowna Capital News"
-    }
-  },
-  {
-    "title": "Shifting Global Health R&D Funding: Opportunities in a Changing Landscape - MSF Access",
-    "description": "Shifting Global Health R&D Funding: Opportunities in a Changing Landscape  MSF AccessAfrica Urged to Explore Innovative Financing to Strengthen Health Research and Development  healthbusiness.co.keCall to Africa: Increase investment in health  dailynews.co.tzStand with science: Tanzania urged to embrace evidence in health sector  thecitizen.co.tzStakeholders, experts seek solutions to Africa’s healthcare issues  The Sun Nigeria",
-    "published date": "Thu, 09 Apr 2026 08:52:24 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcFduZ2o5Q0ZaOFNlaFQ5N3I0RE91WHAwS3g4eHdpSFJYb3BEa1dKMDVkRTVnNHNSUzFFSHNKQVF3RVpSWm1UdGs2TDMtTGFqTEJkakdzdjF3TlRWRmxSOGRVMkN6YlhxRmM1U2pZdWhEdjFVWk9LandaSHkwWW81aDZ0WHlXTXZJNmk3RExfOTUzQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://msfaccess.org",
-      "title": "MSF Access"
-    }
-  },
-  {
-    "title": "Diagnostic dilemma: Woman’s ‘biologically implausible’ infection led her to sneeze ‘worms’ out of her nose - University of Nebraska Medical Center",
-    "description": "Diagnostic dilemma: Woman’s ‘biologically implausible’ infection led her to sneeze ‘worms’ out of her nose  University of Nebraska Medical CenterDiagnostic dilemma: Woman's 'biologically implausible' infection led her to sneeze 'worms' out of her nose  Live ScienceWoman sneezes nearly 1-inch-long 'worms' — how she got the 'biologically implausible' infection  New York Post",
-    "published date": "Thu, 09 Apr 2026 01:03:55 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPV1FFWFZiWFZUWjB6Qlo2MW5vUDFkZXd3N2RCQ201WV94QWw3YWxzR09UdXoyeVFVT2cwRTRMVDM5TGFqRlBfQzduTDFQTWk3NXFndHJNTkFvdnRZM2gwQ2tLNURUNTkxQXFoR1hpLTVPUV9Rb0ZUZ3R2M3VVUFpVLVd5ZW5MRWRteW1SSTA3dzQ2QzRnZ05FNEU4LUhyblI0S1dSSmluLUxwWnVSdWkyaHo5TGlmdE9CSlF5VU9EX1pDZjlTSmZ0Wk9rQUdocTlBQ2lYSFB3d1dMNUZieEMteV9iRElWWmdrdmllcmpiTzR5LVk?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.unmc.edu",
-      "title": "University of Nebraska Medical Center"
     }
   },
   {
@@ -420,33 +440,13 @@
     }
   },
   {
-    "title": "Largest-ever study of psychedelics could help advance their use in treating mental health disorders - EurekAlert!",
-    "description": "Largest-ever study of psychedelics could help advance their use in treating mental health disorders  EurekAlert!An international mega-analysis of psychedelic drug effects on brain circuit function  NatureHow Psychedelics Affect the Brain  The New York TimesScientists identify ‘neural fingerprint’ of psychedelic drugs in the brain  The GuardianHere's what psychedelics actually do to the brain  National Geographic",
-    "published date": "Wed, 08 Apr 2026 23:48:05 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iYkh0YVdld0M1dUs0eG1WQUFWSm1CdG5tNWVtWXpISFRXR2hnYWlYYlFHUnktQnlMQjB5V3pzQWdSMGVyUFpMd2liWFhMZDFyUmxIem51Q1VzaFlv?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Shifting Global Health R&D Funding: Opportunities in a Changing Landscape - MSF Access",
+    "description": "Shifting Global Health R&D Funding: Opportunities in a Changing Landscape  MSF AccessAfrica Urged to Explore Innovative Financing to Strengthen Health Research and Development  healthbusiness.co.keCall to Africa: Increase investment in health  dailynews.co.tzStand with science: Tanzania urged to embrace evidence in health sector  thecitizen.co.tzStakeholders, experts seek solutions to Africa’s healthcare issues  The Sun Nigeria",
+    "published date": "Thu, 09 Apr 2026 08:52:24 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcFduZ2o5Q0ZaOFNlaFQ5N3I0RE91WHAwS3g4eHdpSFJYb3BEa1dKMDVkRTVnNHNSUzFFSHNKQVF3RVpSWm1UdGs2TDMtTGFqTEJkakdzdjF3TlRWRmxSOGRVMkN6YlhxRmM1U2pZdWhEdjFVWk9LandaSHkwWW81aDZ0WHlXTXZJNmk3RExfOTUzQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.eurekalert.org",
-      "title": "EurekAlert!"
-    }
-  },
-  {
-    "title": "Fluvoxamine Improves Fatigue, QoL in Long COVID - Pulmonology Advisor",
-    "description": "Fluvoxamine Improves Fatigue, QoL in Long COVID  Pulmonology AdvisorCommon antidepressant may help adults with long COVID: study - National  Global NewsCommon antidepressant can treat long COVID fatigue symptoms: study  CTV News",
-    "published date": "Wed, 08 Apr 2026 04:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLWpSdVhCYlVIalVoOWE2UUZNZTNHRGRBS1FWR3FuMk11emRoS1FRcGlnMkRnZmh3SnJGQm5BX3Rpa0hraWVNRGxJbGRPLVhiT3JFeDFweTFNV1ZqVmNZamlNc2NqNzVLMWxjTXZQdWtpR2ZZSVpfaXVVbTQtV1E0UnotSVFLdWUyWU4tQ2ZpZHk?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.pulmonologyadvisor.com",
-      "title": "Pulmonology Advisor"
-    }
-  },
-  {
-    "title": "Breakthrough drugs could finally tackle deadliest ‘undruggable’ cancer mutation - The News International",
-    "description": "Breakthrough drugs could finally tackle deadliest ‘undruggable’ cancer mutation  The News InternationalKRAS Breakthrough: Setidegrasib Shakes Cancer Treatment  The Eastern Herald",
-    "published date": "Wed, 08 Apr 2026 10:56:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVGZqTDhKeldqM2o0QUVFNWQ3NWJTUnhuU05fa1IwMjdtcXNYZGU2c3ZXaXlHUm40ZElLWkZRY1J4b1JEX1o1VTltN01waWRydEwxeGhNZUJ2Q1BtMjNhTWxyQWRpT2xvc21YbUdQMzd4b2pRM2o4RENaVEZyS0NSRERHekNLaW1DbFF6U3d4R1paSGlCdlJrckw4U1ozN2Y2eVZJcVRrdS1PTkItblhmeFVMYzNRS25CM05B0gG3AUFVX3lxTE9aZEZCLURLU2hzRTNucXljaVk1SmhfZFpnS0F0N204blU1ZzEtQVBIazFLWWVaWmI4aUN6S2tpVTdnQXFaUUFjM1M2SGtVQkVMS0sxMFFOMkE2YkdsY0I2cmF1T3h0X1dnQ1J4YnpYbTVyaFNHNGtNcV9jQnBTRXBPZVZnM3lOQ0Jjb2FmV1NEdjlUS2lzME9jVUstZTdQQkl0VE5VNWlWeFFhSkFGdVdJZ1dwQ2pmaw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.thenews.com.pk",
-      "title": "The News International"
+      "href": "https://msfaccess.org",
+      "title": "MSF Access"
     }
   },
   {
@@ -460,13 +460,43 @@
     }
   },
   {
-    "title": "This was a better season for respiratory viruses in B.C. but there were exceptions - Creston Valley Advance",
-    "description": "This was a better season for respiratory viruses in B.C. but there were exceptions  Creston Valley Advance",
-    "published date": "Wed, 08 Apr 2026 17:00:40 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcGtjdDlReEpjLU5YOUx6bWdQZUcwLU5NamFRX01JQXowdmJOdjkwMGdIQkpObjBTVWF2QmdPN2UzdE9VV2R2ZEFHVG9GUXU3M3ZVTTRnWk9QYnZZbWs3ZmNhTTRaTHV1a3Z1aVhHNjBKT1cxQWgtNXNzcWs0VzF4Uk5lMzVHcVZ4NWlaVlBNdHh3bW9aX3Mxc3EzNmdJajd4Snh3dU4xS2RDWTVUOU12aDF0NmVWTUYtRkw4SGM0TTROTnM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Diagnostic dilemma: Woman’s ‘biologically implausible’ infection led her to sneeze ‘worms’ out of her nose - University of Nebraska Medical Center",
+    "description": "Diagnostic dilemma: Woman’s ‘biologically implausible’ infection led her to sneeze ‘worms’ out of her nose  University of Nebraska Medical CenterDiagnostic dilemma: Woman's 'biologically implausible' infection led her to sneeze 'worms' out of her nose  Live ScienceWoman sneezes nearly 1-inch-long 'worms' — how she got the 'biologically implausible' infection  New York Post",
+    "published date": "Thu, 09 Apr 2026 01:03:55 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPV1FFWFZiWFZUWjB6Qlo2MW5vUDFkZXd3N2RCQ201WV94QWw3YWxzR09UdXoyeVFVT2cwRTRMVDM5TGFqRlBfQzduTDFQTWk3NXFndHJNTkFvdnRZM2gwQ2tLNURUNTkxQXFoR1hpLTVPUV9Rb0ZUZ3R2M3VVUFpVLVd5ZW5MRWRteW1SSTA3dzQ2QzRnZ05FNEU4LUhyblI0S1dSSmluLUxwWnVSdWkyaHo5TGlmdE9CSlF5VU9EX1pDZjlTSmZ0Wk9rQUdocTlBQ2lYSFB3d1dMNUZieEMteV9iRElWWmdrdmllcmpiTzR5LVk?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://crestonvalleyadvance.ca",
-      "title": "Creston Valley Advance"
+      "href": "https://www.unmc.edu",
+      "title": "University of Nebraska Medical Center"
+    }
+  },
+  {
+    "title": "New AI tool can detect 'silent killer' five years before it develops - tyla.com",
+    "description": "New AI tool can detect 'silent killer' five years before it develops  tyla.comScientists develop AI tool to spot heart failure risk five years before it strikes  The Guardian",
+    "published date": "Thu, 09 Apr 2026 11:29:09 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc0Q4TUpTZW11TFRVUjQ5NWdqWjQ3WlpCeUF5VGJfaG5pMlpRTHZaTFdWYzdJOFFiUG4wTUM5emlHelRydnJIbi04RlNweFI1aE9abm5RczdaZnBZWDhJa1lhN2trTFBYXzhQQjhGZzRxUjZpM2Z4Vjk0YnN2ekdKN1B2RHpsOUNva1FRUFdEZVg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.tyla.com",
+      "title": "tyla.com"
+    }
+  },
+  {
+    "title": "Largest-ever study of psychedelics could help advance their use in treating mental health disorders - EurekAlert!",
+    "description": "Largest-ever study of psychedelics could help advance their use in treating mental health disorders  EurekAlert!An international mega-analysis of psychedelic drug effects on brain circuit function  NatureHow Psychedelics Affect the Brain  The New York TimesScientists identify ‘neural fingerprint’ of psychedelic drugs in the brain  The GuardianHere's what psychedelics actually do to the brain  National Geographic",
+    "published date": "Wed, 08 Apr 2026 23:48:05 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iYkh0YVdld0M1dUs0eG1WQUFWSm1CdG5tNWVtWXpISFRXR2hnYWlYYlFHUnktQnlMQjB5V3pzQWdSMGVyUFpMd2liWFhMZDFyUmxIem51Q1VzaFlv?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.eurekalert.org",
+      "title": "EurekAlert!"
+    }
+  },
+  {
+    "title": "Breakthrough drugs could finally tackle deadliest ‘undruggable’ cancer mutation - The News International",
+    "description": "Breakthrough drugs could finally tackle deadliest ‘undruggable’ cancer mutation  The News InternationalKRAS Breakthrough: Setidegrasib Shakes Cancer Treatment  The Eastern Herald",
+    "published date": "Wed, 08 Apr 2026 10:56:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVGZqTDhKeldqM2o0QUVFNWQ3NWJTUnhuU05fa1IwMjdtcXNYZGU2c3ZXaXlHUm40ZElLWkZRY1J4b1JEX1o1VTltN01waWRydEwxeGhNZUJ2Q1BtMjNhTWxyQWRpT2xvc21YbUdQMzd4b2pRM2o4RENaVEZyS0NSRERHekNLaW1DbFF6U3d4R1paSGlCdlJrckw4U1ozN2Y2eVZJcVRrdS1PTkItblhmeFVMYzNRS25CM05B0gG3AUFVX3lxTE9aZEZCLURLU2hzRTNucXljaVk1SmhfZFpnS0F0N204blU1ZzEtQVBIazFLWWVaWmI4aUN6S2tpVTdnQXFaUUFjM1M2SGtVQkVMS0sxMFFOMkE2YkdsY0I2cmF1T3h0X1dnQ1J4YnpYbTVyaFNHNGtNcV9jQnBTRXBPZVZnM3lOQ0Jjb2FmV1NEdjlUS2lzME9jVUstZTdQQkl0VE5VNWlWeFFhSkFGdVdJZ1dwQ2pmaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.thenews.com.pk",
+      "title": "The News International"
     }
   },
   {
@@ -480,23 +510,23 @@
     }
   },
   {
-    "title": "Hearing loss and sex shape dual-task outcomes in older adults with mild cognitive impairment - News-Medical",
-    "description": "Hearing loss and sex shape dual-task outcomes in older adults with mild cognitive impairment  News-Medical",
-    "published date": "Wed, 08 Apr 2026 02:10:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZ1plckdaaHF6b2xkT1JtaS1EcTN5d3FkNEp1alJCbk1COE16c0pkV0lpTU1QYUFxMWNKV2tFTXlha1N3SFdXOEtDazRNc3JkRGNROV84TnFWLWQzNXBaWG0xMVQzb2pmaGpnbUtQQ2xlaGdwLVNiMXIybDdCX0hiMHhNeXZCSWNhei1sSk1DS2ZmTlM0X3lBN2VlRm82NEtOcEV3TG9DWjEyeDJsNGxtNlVZVm9Yb0xJSmwwbDBCelZONVJrTWp1RmE1OWs3a3pXcEtUeUFGbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Health Officials highlight risk of farmer’s lung as seeding begins - DiscoverMooseJaw",
+    "description": "Health Officials highlight risk of farmer’s lung as seeding begins  DiscoverMooseJaw",
+    "published date": "Thu, 09 Apr 2026 11:00:50 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWVJXb0JJMlUxTndrVDFVWDZ1cGNvdWRRaXY4QXFPR0ZSdEl0NzFkY3ZxUTFKSWJoeDBHZ0tTck15TE9pNHVGQTBwcTR4WlJrYzdUZjdwYl8xVmNGMUZfbHM5SlNTNFdFRFFsTUxpdG5wSVZONjVtZzBfR1UtNkVSZE84NlZTYkhCNUNHSnJtQ0E4eFBvb2IwVmRsbW1SY18wOUJTMUllQkVZZzA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.news-medical.net",
-      "title": "News-Medical"
+      "href": "https://www.discovermoosejaw.com",
+      "title": "DiscoverMooseJaw"
     }
   },
   {
-    "title": "New National Study Reveals Nearly Half of Canadian Youth Combine Substance Use and Sex - Newswire Canada",
-    "description": "New National Study Reveals Nearly Half of Canadian Youth Combine Substance Use and Sex  Newswire Canada",
-    "published date": "Wed, 08 Apr 2026 16:17:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdWwxY0dPOWw0bWFNYUxSZlRrcENwM1FOV2xmeE1lX182b1VPUVNSdllRTmdzbEJaeWVJT2VGcHpYWDJPeDJQaGZ4WkFLNFA2VUE3Y09xSGxRSGVqVU8wVmtTQTdSRWNUQTV4clFWc0Y0SmZhNXhkSEFSMVRqc0pIcGVaNjRTVkFwQ21rMkdKQ2VkV05OdHc4dE1EeVZYS3lSTk4weGdKVlJtZUJNeUlhbmEyemNXOEdhTzBTd1J2WmNXOTRKcFFFekFHUXB5VFRRSUFTTDFB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "CDC Suspends Dozens of Diagnostic Tests Amid Agency Downsizing, Raising Alarms for Pharmacists and Public Health - Pharmacy Times",
+    "description": "CDC Suspends Dozens of Diagnostic Tests Amid Agency Downsizing, Raising Alarms for Pharmacists and Public Health  Pharmacy TimesCDC pauses dozens of types of lab testing during evaluation and in wake of downsizing  Times ColonistC.D.C. Pauses Testing for Rabies and Pox Viruses  The New York TimesCDC temporarily halts testing for several infectious diseases amid staffing shortages  The GuardianCDC pauses diagnostic testing for rabies, other infectious diseases  The Hill",
+    "published date": "Wed, 08 Apr 2026 15:40:24 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNHRPeE9rNlJ5N1FyaUZSZmEtNXFNNXN4RmpQX0EzTGlmWG42b3hBNHp0aUxxa0YzVk1yZWlLSGFiRW0tRUpjQThzMnVPTVFyX2laQkxUMlBuQkdoQmR6X1ZwY1RVTk5Ybl9JeFhma0JNQjVrS01ZemNaYWVUWEEtb0ZWbjRlczZvSlAzeDhEejdERUhYMUtoSzVBMGVqd1YwVmtMRXdqclhyV0VMS2hhLXMyS3oxOFBaTS1QQU0yQmtTSGRUbG5uZG1NenFtZ0FUUVFObURZZk9WUnRlNGU0?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.newswire.ca",
-      "title": "Newswire Canada"
+      "href": "https://www.pharmacytimes.com",
+      "title": "Pharmacy Times"
     }
   },
   {
@@ -510,26 +540,6 @@
     }
   },
   {
-    "title": "AI can predict a patient’s chance of getting heart disease five years before it develops - Yahoo News Australia",
-    "description": "AI can predict a patient’s chance of getting heart disease five years before it develops  Yahoo News AustraliaScientists develop AI tool to spot heart failure risk five years before it strikes  The GuardianNew AI tool can detect 'silent killer' five years before it develops  tyla.com",
-    "published date": "Wed, 08 Apr 2026 14:00:22 GMT",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiUEJwMlM3eTVZLU00bFhTdDNpS2xCenZ4WGdab25WQWxkSEtJRWNLTGpyRE0xSEpIeDhHREU3NHpmMzhGU0JmR2xQRzdHM2FFZF9LUUNZU29vczctMk1nbExYR2J0WE52bHhKRENyWVRreDFFMXhZWHhfeTZMeW8?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://au.news.yahoo.com",
-      "title": "Yahoo News Australia"
-    }
-  },
-  {
-    "title": "Health Officials highlight risk of farmer’s lung as seeding begins - DiscoverMooseJaw",
-    "description": "Health Officials highlight risk of farmer’s lung as seeding begins  DiscoverMooseJaw",
-    "published date": "Thu, 09 Apr 2026 11:00:50 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWVJXb0JJMlUxTndrVDFVWDZ1cGNvdWRRaXY4QXFPR0ZSdEl0NzFkY3ZxUTFKSWJoeDBHZ0tTck15TE9pNHVGQTBwcTR4WlJrYzdUZjdwYl8xVmNGMUZfbHM5SlNTNFdFRFFsTUxpdG5wSVZONjVtZzBfR1UtNkVSZE84NlZTYkhCNUNHSnJtQ0E4eFBvb2IwVmRsbW1SY18wOUJTMUllQkVZZzA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.discovermoosejaw.com",
-      "title": "DiscoverMooseJaw"
-    }
-  },
-  {
     "title": "Candidemia is infrequent but deadly in organ transplant patients, study finds - CIDRAP",
     "description": "Candidemia is infrequent but deadly in organ transplant patients, study finds  CIDRAP",
     "published date": "Wed, 08 Apr 2026 16:10:00 GMT",
@@ -540,23 +550,23 @@
     }
   },
   {
-    "title": "Suspended CDC Lab Testing May Cause Delays, Local Strain - Medscape",
-    "description": "Suspended CDC Lab Testing May Cause Delays, Local Strain  MedscapeCDC pauses dozens of types of lab testing during evaluation and in wake of downsizing  Times ColonistC.D.C. Pauses Testing for Rabies and Pox Viruses  The New York TimesCDC temporarily halts testing for several infectious diseases amid staffing shortages  The GuardianCDC pauses diagnostic testing for rabies, other infectious diseases  The Hill",
-    "published date": "Wed, 08 Apr 2026 10:26:33 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX0o3aVZ5OS1TRVdJNV83SVNqcUVXdU5vcGItT1Y5ZU1fY2lwSllKM01nMjFCdjJ5WXZTS2VHRGV0a3dCR1BUSng3VlNSbkdoYlJVUzNsWDNuRUFybXF1TlZleE13Tk1hRFJHNG5WQ3R6azBzZUlEY2FLc1AydERONG9ENDJsUGx6eGFrc2N0eXdFdk9QTG4tTGtha1l4X21Uc2ZLNG5XUG8?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Fluvoxamine Improves Fatigue, QoL in Long COVID - Pulmonology Advisor",
+    "description": "Fluvoxamine Improves Fatigue, QoL in Long COVID  Pulmonology Advisor",
+    "published date": "Wed, 08 Apr 2026 04:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLWpSdVhCYlVIalVoOWE2UUZNZTNHRGRBS1FWR3FuMk11emRoS1FRcGlnMkRnZmh3SnJGQm5BX3Rpa0hraWVNRGxJbGRPLVhiT3JFeDFweTFNV1ZqVmNZamlNc2NqNzVLMWxjTXZQdWtpR2ZZSVpfaXVVbTQtV1E0UnotSVFLdWUyWU4tQ2ZpZHk?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.medscape.com",
-      "title": "Medscape"
+      "href": "https://www.pulmonologyadvisor.com",
+      "title": "Pulmonology Advisor"
     }
   },
   {
-    "title": "Just thinking about tequila, whiskey or wine shifts your mindset – new research - Yahoo News Canada",
-    "description": "Just thinking about tequila, whiskey or wine shifts your mindset – new research  Yahoo News Canada",
-    "published date": "Wed, 08 Apr 2026 17:27:15 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSk9KeE9DNWpBUVBHWHBnTGFOVGZ0bDhBV1MyNmZlZ08tZlg2VFplYVdpRmJEbTFfY2VEemZLai1KMFJPZXZsSE8wRzlnTkdFQkJ5cHdoejgwQmExYUhwaVNuWTk3Q1JuQ0JNUzllMDh4RkRQOG9KcEpGZWpxT0tINA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Hearing loss and sex shape dual-task outcomes in older adults with mild cognitive impairment - News-Medical",
+    "description": "Hearing loss and sex shape dual-task outcomes in older adults with mild cognitive impairment  News-Medical",
+    "published date": "Wed, 08 Apr 2026 02:10:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZ1plckdaaHF6b2xkT1JtaS1EcTN5d3FkNEp1alJCbk1COE16c0pkV0lpTU1QYUFxMWNKV2tFTXlha1N3SFdXOEtDazRNc3JkRGNROV84TnFWLWQzNXBaWG0xMVQzb2pmaGpnbUtQQ2xlaGdwLVNiMXIybDdCX0hiMHhNeXZCSWNhei1sSk1DS2ZmTlM0X3lBN2VlRm82NEtOcEV3TG9DWjEyeDJsNGxtNlVZVm9Yb0xJSmwwbDBCelZONVJrTWp1RmE1OWs3a3pXcEtUeUFGbw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://ca.news.yahoo.com",
-      "title": "Yahoo News Canada"
+      "href": "https://www.news-medical.net",
+      "title": "News-Medical"
     }
   },
   {
@@ -590,6 +600,16 @@
     }
   },
   {
+    "title": "Keeping up with the phages: How V. cholerae neighbors swap defenses against viruses - Phys.org",
+    "description": "Keeping up with the phages: How V. cholerae neighbors swap defenses against viruses  Phys.orgCholera-causing bacteria and viruses locked in evolutionary arms race  News-MedicalEvolution of pandemic cholera at its global source  Nature",
+    "published date": "Thu, 09 Apr 2026 18:00:10 GMT",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXbHlfYkJiSXpZVEt2N1dVeDZvZzdFNW15UndLLWhQbzI2bVNRQ2EyRVZmNGQ0bWV4SHYycnZGMGNQNThheGlaWWlvZ05VZGJObndtZmhURlJhdTRCM3EyVGJDUDlHY0hsNmgtZFJMaFVsS01FejJGRGVLc296U2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://phys.org",
+      "title": "Phys.org"
+    }
+  },
+  {
     "title": "5 seemingly 'healthy’ foods that could be putting your heart health at risk - Yahoo Lifestyle Canada",
     "description": "5 seemingly 'healthy’ foods that could be putting your heart health at risk  Yahoo Lifestyle CanadaWarning issued over potential drawbacks of kimchi and kombucha  MSN",
     "published date": "Thu, 09 Apr 2026 07:08:00 GMT",
@@ -600,23 +620,33 @@
     }
   },
   {
-    "title": "Social Support, Sleep Quality, and Pain Management Identified as Key to Mental Health in Older Canadian Adults - geneonline.com",
-    "description": "Social Support, Sleep Quality, and Pain Management Identified as Key to Mental Health in Older Canadian Adults  geneonline.comMale gender, marriage, and social support linked to flourishing mental health for older Canadians  EurekAlert!Social support, physical health and spiritual engagement help older adults truly flourish  News-Medical",
-    "published date": "Wed, 08 Apr 2026 21:09:17 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUU8xVGg3bHo4Q1V1dVJubnJMT0I5bmI0eVVJaWdWTWo5clg5TWRtbXFxeXRMRnN6UEtrbVAwOUdhUmlmdXlUNnpsMnFCSXNzUm5IWllFbDB2ZzJRRHVJemZLM21KWnlCV2Roak10R25vbkRDNnYwN2p3cVNjMFJLZzA4VXRUMzRoT3BkZ3k4RUxvM0VlV0tMaG1CX2RtbnA1SmdmS0JqNjRlVnU0MHE2eXAtSG5WcjktMENTcm5FeFRlcUVrUUEwandJS0RfMENUdVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "The past, present and future of bird flu in Alberta - Calgary Journal",
+    "description": "The past, present and future of bird flu in Alberta  Calgary JournalU.S. facing largest outbreak of bird flu in its history, including backyard flocks in Kentucky  WEKU",
+    "published date": "Thu, 09 Apr 2026 16:54:47 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU3lnR1lrNXVNTUVjV2U4eTBlblNndzVKQ1d3bFhDWVg5RFlObjVFaUx0X0o3OUVsa0wwM0Vkb0VJanM2OHI5UnJIZWFLalBPcEo2TUdGVG1SOFhwS3JVWUxMdXVCYWR4U211THZEZERoWnRVS3NyUGxFV2Y3X3UzMlZESGtVaGVBTFhvUGZTMHp0Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.geneonline.com",
-      "title": "geneonline.com"
+      "href": "https://calgaryjournal.ca",
+      "title": "Calgary Journal"
     }
   },
   {
     "title": "Plant-food rich diet may cut dementia risk, study finds - Euronews.com",
-    "description": "Plant-food rich diet may cut dementia risk, study finds  Euronews.comEating more plants linked to lower risk of dementia, even in older age  CNNA Diet High in These 7 Plant-Based Foods May Lower Alzheimer's Risk, New Study Finds  TODAY.comA DASH of Prevention  Fisher Center for Alzheimer's Research FoundationHealthier Plant-Based Diet May Lower Dementia Risk  Brain & Life",
+    "description": "Plant-food rich diet may cut dementia risk, study finds  Euronews.comA Diet High in These 7 Plant-Based Foods May Lower Alzheimer's Risk, New Study Finds  TODAY.comHealthier Plant-Based Diet May Lower Dementia Risk  Brain & LifeA DASH of Prevention  Fisher Center for Alzheimer's Research FoundationEating more plants linked to lower risk of dementia, even in older age  CNN",
     "published date": "Thu, 09 Apr 2026 16:09:58 GMT",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc0NJc3NvZHplanlJRXF2YnlnV0h2YkFfaEtJc0NnY2pvWTR6V0hIRkNYWWhHM2hXQ3Z0d1J5dmtscGozTlhMZEItcmtYOWRIYzVlQi11el9GbGVYN2k5YVc2TzhDaEoxY21od05HTTJvVG13VUJ4SURvX1dhRUVoUEtXY3JJRlJWUGdLcFkwd1VDUEI1U2tkbHhvZkpyLUhwU1piLWc0amstNWdPT0xHYTcwajc3T1lqOTh3S25Tbm5WZnduMnNTTg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.euronews.com",
       "title": "Euronews.com"
+    }
+  },
+  {
+    "title": "Lung Cancer Surgery Is Safe for Many Patients Over 80 - Cancer Health",
+    "description": "Lung Cancer Surgery Is Safe for Many Patients Over 80  Cancer HealthLung Cancer Surgery Safe for Patients 80 and Older, Mount Sinai Study Finds  Cure Today",
+    "published date": "Thu, 09 Apr 2026 18:13:03 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYTc1QTNiZXgwTWY2STdXanJSY25rWHJwcHlTa1JjN1Qwem41clRNVVZKVk1XakE4M2JyYVJLN19ycjRIWEpGRkU3UzlmeXVEbXZXVFRYaWVkWmZZekFOR0YwcnFvb21nb1FDLTFwamFCQ2hsdll1R3dXN09lcmJ1R2hWcTY?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cancerhealth.com",
+      "title": "Cancer Health"
     }
   },
   {
@@ -627,6 +657,26 @@
     "publisher": {
       "href": "https://www.benefitsandpensionsmonitor.com",
       "title": "Benefits and Pensions Monitor"
+    }
+  },
+  {
+    "title": "Woman and her dog both have breast cancer - TheSuburban.com",
+    "description": "Woman and her dog both have breast cancer  TheSuburban.com",
+    "published date": "Thu, 09 Apr 2026 18:16:28 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOXgwbV85YmlDblpWRVpxZlZZdnhlenZBZi1EbGQ0RS13S2dXdUU2YlhTSXVxZFJIbDV4MUJicnF1c2dLQjNkNmNZaXA0TXA3bzVZUFd3MEFmVXUzcXB6UEExaDI5YnRyWWJwUVlsLTZkcjRzbUgxMFpXQ2drQ05EUWZPN2VrODN0UDRkOGo3bk9PbUxRVjJncmt1clI1WGY2Zm9SbnQwMGpXbkg1LVJEcHg4bzBPLUUzWDc4elhPaHN5WFBvYWE3V0ZINA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.thesuburban.com",
+      "title": "TheSuburban.com"
+    }
+  },
+  {
+    "title": "What Happens When You Drink Wine Every Day? Health Experts Weigh In - Delish",
+    "description": "What Happens When You Drink Wine Every Day? Health Experts Weigh In  DelishWine Drinkers Face Lower Early Death Risk Than Beer or Spirits Consumers, Study Finds  Vinetur",
+    "published date": "Thu, 09 Apr 2026 18:41:31 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUnZubXQwcWFkVEp3QldieG5JSkZiYkUzWDlxNXhteWx5QWJKZC1IVC1Md1p2bUNsWHlqQXZ0b05nMk1BY2NySnVkd1N6c3gxOTc5ZGlXQTNCWWRMQWtQNzNqejdJR2Q4T2ZmX0dmcENNY2VnckdtRms3VXo2UmJ4NU93?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.delish.com",
+      "title": "Delish"
     }
   },
   {
@@ -647,56 +697,6 @@
     "publisher": {
       "href": "https://www.forbes.com",
       "title": "Forbes"
-    }
-  },
-  {
-    "title": "Scientists discover hidden gut trigger behind ALS and dementia - ScienceDaily",
-    "description": "Scientists discover hidden gut trigger behind ALS and dementia  ScienceDailyGut bacteria may help explain why some people keep their memory sharp past 100  Futura, le média qui explore le monde",
-    "published date": "Thu, 09 Apr 2026 10:38:29 GMT",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBobXJZdW02MFZGRDdweDNOYUZiTERDUHRGTFVISUVKZ2hTMGVTcGxiVF9vQndaYzJhTFI1eTZseFRKS2JJSFZycTNoRE5YMkxjeExVQWVidmd0WVZmU0pOR0Exa1VQcWJULUVKV0NmWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.sciencedaily.com",
-      "title": "ScienceDaily"
-    }
-  },
-  {
-    "title": "Prostate cancer patient receives cutting-edge therapy - Yahoo News New Zealand",
-    "description": "Prostate cancer patient receives cutting-edge therapy  Yahoo News New Zealand",
-    "published date": "Thu, 09 Apr 2026 13:50:08 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUDh5T2VHdkNNSDcxYzRrQ1NJd3FTenJ4WFBKb1UtWWlLekt1OHRKZGNsN3hJa1VRUHJRb0ZVNE9BU1pOUV9lYjhhSVN5UnBma0ZqSlhsV2hhT2kzdm9sRW9CMU9WUFNKOEdlQ2JqTjAzakFMaWUwTjBaMGxPdGxEX3pNc2tCYVhy?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://nz.news.yahoo.com",
-      "title": "Yahoo News New Zealand"
-    }
-  },
-  {
-    "title": "This detox may erase 10 years of social media brain damage, researchers say - The Washington Post",
-    "description": "This detox may erase 10 years of social media brain damage, researchers say  The Washington PostTo Reverse Cognitive Decline, Make Your Smartphone Dumb  Newser",
-    "published date": "Thu, 09 Apr 2026 16:26:03 GMT",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xMUkwXzQxNDc4VTlSM1pKV244cWFGSXJlUGNRb1NlcWNrZ2lzTnRpNXVCQlFUTk5qTGtSaVRlLW5TN3IzQy1vN2pUcGVWTHlFNzNxeVlYTi1Ydi1EWGhnRUxmUFRZemotTE1RaDVWV2xJZEtQdFhr?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.washingtonpost.com",
-      "title": "The Washington Post"
-    }
-  },
-  {
-    "title": "Kidney cancer guidelines published - Healthcare Today",
-    "description": "Kidney cancer guidelines published  Healthcare Today",
-    "published date": "Thu, 09 Apr 2026 05:01:49 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04RG5CM0lpMFhYLWhYXzk1bnpZS0ZFcVBHTzhkbDV1VHdESy1sUzNOZ1pZUllfZDlBbkIyNWFUdWJzVVpmTFlZQlZHdC1jR0QwSjVVNGdtLU5QM1RPTGptYlczMFVoRHhFcWdLX005WnEya3lQcC1uM29n?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://healthcaretoday.com",
-      "title": "Healthcare Today"
-    }
-  },
-  {
-    "title": "I tried the $950 blood test Silicon Valley thinks can revolutionize cancer screening - Business Insider",
-    "description": "I tried the $950 blood test Silicon Valley thinks can revolutionize cancer screening  Business InsiderThe tension at the heart of new healthcare tech  Business Insider Africa",
-    "published date": "Thu, 09 Apr 2026 08:07:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdm9YWkVjZWxBcmVSV1hybjdMRFN5azlFQlF0ODhQRC1pUkdyUXJ4enNsWFVReVlOYlMtakVMZ09yNHg2aVBDQVhadVlaN2k0TjVrTWc2YkNBQ2haZHJmSTJFQklfWjZkY0hmX0NVbkxSQ1Vkb0Q2ZzdqYXVyUW9LUFBfeFhsWXAyYm9yTXlGTFNTa1NaVnktRGVWTlg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.businessinsider.com",
-      "title": "Business Insider"
     }
   }
 ]
