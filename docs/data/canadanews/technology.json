@@ -1,5 +1,15 @@
 [
   {
+    "title": "Aspire 13.2 Released with Expanded CLI, TypeScript AppHost Preview, and Dashboard Improvements - infoq.com",
+    "description": "Aspire 13.2 Released with Expanded CLI, TypeScript AppHost Preview, and Dashboard Improvements  infoq.com",
+    "published date": "Thu, 09 Apr 2026 08:31:51 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4NjV4SllIMEdHSHQwV1JiTUVsTVJRN3QtZjB4bXdtWVZJblZWT3NNbGR1WlR2MWRhV1FVZXV5ak5lNE5SRjlBS3Y1QzZpY2p0a1lFc29hRFhWMkVIUC1JSUZsOFB6QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.infoq.com",
+      "title": "infoq.com"
+    }
+  },
+  {
     "title": "Demand for physical media driving up business for Vancouver’s vinyl record industry - CBC",
     "description": "Demand for physical media driving up business for Vancouver’s vinyl record industry  CBC",
     "published date": "Tue, 07 Apr 2026 14:50:44 GMT",
@@ -7,16 +17,6 @@
     "publisher": {
       "href": "https://www.cbc.ca",
       "title": "CBC"
-    }
-  },
-  {
-    "title": "#New40k – Take cover with updated terrain rules - Warhammer Community",
-    "description": "#New40k – Take cover with updated terrain rules  Warhammer Community#New40k – Vanguard Veteran Revealed  Warhammer Community#New40k – How your army affects your mission  Warhammer CommunityBuilding an army in the new edition of Warhammer 40,000  Warhammer Community",
-    "published date": "Wed, 08 Apr 2026 13:59:57 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTnpERGYxZ2tnS0drUVFHUElheG10T0lSWkF0djN6M1pCcTVSWVpsbktPdkd3ZHpMZkV5cGY5WDFlREt4TE9NX19XZ0pubnNkR1Btc3E2ODltQVBvcDlkdThzcW5xd0tzT2lQOUptZXdsSGRMV1dybDlZMkJLNjdBMFFDTm5MNGVrNVJxdHQxeHgwYUs2N3ZQWTJyLWlLc20yY3ctUFVuOXQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.warhammer-community.com",
-      "title": "Warhammer Community"
     }
   },
   {
@@ -70,6 +70,16 @@
     }
   },
   {
+    "title": "Oppo details most powerful phone camera system ever; compares it to iPhone 17 Pro - Notebookcheck",
+    "description": "Oppo details most powerful phone camera system ever; compares it to iPhone 17 Pro  NotebookcheckOppo Find X9 Ultra spotted: First hands-on video shows display  Notebookcheck",
+    "published date": "Wed, 08 Apr 2026 20:17:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYkZxSF9TN2hLODZwaGR6ZnI2bkZmelRKMHhxX3NMS1JCYjlPdkVOWlRaOVhQSGl3VHhHWnBtVEhJOWROb3F2NTRxMXZKVjBlZV93QlA3NUNpQWNiTUc1X3NMaXhHSGJJcUlDTXV2QnJXQnJoM1k4WVBvTGNTWl90cVlfMXYyM1lHV0NOSnRNVjhoQ1dLU3hkZ2wzeFQtZkdndloyWFB3R3NrUGZva2c0VGdsVFRxcTdVbnktck0xa1FRYVU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.notebookcheck.net",
+      "title": "Notebookcheck"
+    }
+  },
+  {
     "title": "Stateful Continuation for AI Agents: Why Transport Layers Now Matter - infoq.com",
     "description": "Stateful Continuation for AI Agents: Why Transport Layers Now Matter  infoq.com",
     "published date": "Wed, 08 Apr 2026 15:23:47 GMT",
@@ -90,16 +100,6 @@
     }
   },
   {
-    "title": "Oppo details most powerful phone camera system ever; compares it to iPhone 17 Pro - Notebookcheck",
-    "description": "Oppo details most powerful phone camera system ever; compares it to iPhone 17 Pro  NotebookcheckOppo Find X9 Ultra spotted: First hands-on video shows display  Notebookcheck",
-    "published date": "Wed, 08 Apr 2026 20:17:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYkZxSF9TN2hLODZwaGR6ZnI2bkZmelRKMHhxX3NMS1JCYjlPdkVOWlRaOVhQSGl3VHhHWnBtVEhJOWROb3F2NTRxMXZKVjBlZV93QlA3NUNpQWNiTUc1X3NMaXhHSGJJcUlDTXV2QnJXQnJoM1k4WVBvTGNTWl90cVlfMXYyM1lHV0NOSnRNVjhoQ1dLU3hkZ2wzeFQtZkdndloyWFB3R3NrUGZva2c0VGdsVFRxcTdVbnktck0xa1FRYVU?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.notebookcheck.net",
-      "title": "Notebookcheck"
-    }
-  },
-  {
     "title": "Inside Spotify’s 2025 Wrapped Archive: AI Narratives at Scale and the Privacy Trade‑Off - infoq.com",
     "description": "Inside Spotify’s 2025 Wrapped Archive: AI Narratives at Scale and the Privacy Trade‑Off  infoq.com",
     "published date": "Wed, 08 Apr 2026 07:01:30 GMT",
@@ -111,7 +111,7 @@
   },
   {
     "title": "Xbox’s new era needs games like Forza Horizon 6 - The Verge",
-    "description": "Xbox’s new era needs games like Forza Horizon 6  The VergeForza Horizon 6 – Full Map Reveal  Forza.netForza Horizon 6 Preview: Collectibles, Seamless Races and Open World Design Make for the Most Explorable Adventure Yet  Xbox WireForza Horizon 6 gives would-be racers another gorgeous open world to explore  EngadgetForza Horizon 6 Is Every Japanese Driving Fantasy Rolled into One: Hands-On Preview  IGN",
+    "description": "Xbox’s new era needs games like Forza Horizon 6  The VergeForza Horizon 6 Preview: Collectibles, Seamless Races and Open World Design Make for the Most Explorable Adventure Yet  Xbox WireForza Horizon 6 – Full Map Reveal  Forza.netForza Horizon 6 gives would-be racers another gorgeous open world to explore  EngadgetForza Horizon 6 And Its Japanese Setting Elevate Great, But Familiar, Racing  GameSpot",
     "published date": "Wed, 08 Apr 2026 13:00:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkdXNOem5hTVk1OThxeXJtSnJHMXZhRnM5LTNseVd4dDVudTFBcFZOUEVJSTN0WUxObzQ2R2thVElZcllEZkdJSlB4NXMyTWlqSWR1RHhRUmk0cGJ4UUJFSjdkNG1xZm9SQXotazRSUm9XQU92?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -120,23 +120,23 @@
     }
   },
   {
-    "title": "Apple reportedly kicks off foldable iPhone trial production, final mass production timing undecided - digitimes",
-    "description": "Apple reportedly kicks off foldable iPhone trial production, final mass production timing undecided  digitimesApple’s Foldable iPhone Remains on Track for September Debut (AAPL)  Bloomberg.comApple shares fall on reported foldable iPhone delay  Yahoo! Finance CanadaFoldable iPhone hits engineering snags, shipment delays possible: sources  Nikkei AsiaiPhone Fold dimensions: Here’s how the foldable iPhone sizes up next to the iPhone 18 Pro  9to5Mac",
-    "published date": "Thu, 09 Apr 2026 03:15:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQVA3VUN5ZkVjcFg5c1Y2ZmJrWjNSX05EVXp3TzB4cXNscG54aERxazBNS3VqZkoxRlRxSkRjcEVnZXl0QmZmMi1FVUtvWVBEVWNFQWRXXzE3Q1d4NUlDd0FIYnVwR1V1SmRkS2dFOTBvaU5rOFVsdlp3VTNBLW1iZklsdnhIUDZDVDRiOWktUnJ5R3c2X2dnaFJXSVJLVzZsQzBNVVlR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Insta360’s Nifty New Selfie Screen for Phones Is Now Available Everywhere - PetaPixel",
+    "description": "Insta360’s Nifty New Selfie Screen for Phones Is Now Available Everywhere  PetaPixelInsta360’s Snap is a tiny magnetic phone screen for taking rear-camera selfies  The Verge",
+    "published date": "Wed, 08 Apr 2026 18:02:15 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORWx1Q1F0Rjh1NWFicDNQOThsVkZGMlpOY1c1bWlyTk1ETDI4QXFyRk1ndzROM201aUk0MkgyQTRpVDMzX0NoOEtJaUY4bVpRMzdGakd0LV9GZTJha1BIVTdQM3dqUWw4ZzdtTExUS2xhZ0duVFJiMjdVTmxUY1BvR3VCZVpDejROZnY4RVlmaGluSVlNWENwNjItMUVUazFLMUhJN3RIUWlzdw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.digitimes.com",
-      "title": "digitimes"
+      "href": "https://petapixel.com",
+      "title": "PetaPixel"
     }
   },
   {
-    "title": "Bloom Filters: Theory, Engineering Trade‑offs, and Implementation in Go - infoq.com",
-    "description": "Bloom Filters: Theory, Engineering Trade‑offs, and Implementation in Go  infoq.com",
-    "published date": "Tue, 07 Apr 2026 09:44:33 GMT",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44Qld6dTVPclNFOFNJZXNacHV4T0RrWUNvNUdyOHZrcDJtdHpFX3FuNG04WEVyc3dhU1REOWZkX3JMYmdFQ1ZTWWVYRUJyakpmODlwUmlxMTA0LXdwQUEzVGRreFVHbUdNZEFXeWpsLWlBTHBfMk5xcQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "iPhone Fold delay explained: Why Apple’s Foldable may take longer — and get a new name - Gulf News",
+    "description": "iPhone Fold delay explained: Why Apple’s Foldable may take longer — and get a new name  Gulf NewsApple’s Foldable iPhone Remains on Track for September Debut (AAPL)  Bloomberg.comApple shares fall on reported foldable iPhone delay  Yahoo! Finance CanadaiPhone Fold dimensions: Here’s how the foldable iPhone sizes up next to the iPhone 18 Pro  9to5MacA wide foldable iPhone dummy emerges amid rumors of a delay  The Verge",
+    "published date": "Thu, 09 Apr 2026 06:05:02 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdnJuRk95VzNYcDN0aTdmX2hRbmc0d1hmR0F2Q2Y0YVh0T3BzblBfTTBybEkyMExtM1hYRnJsZ1NRcXpkSmhOemhER3BsRUF5R1VjN1QzeUZKVURFZVl1eTE4bHFIeVFJaTUxSmlYNV94eUs5WVUzNnpEME92Q05NRTdkWVYwZm9mcDhWU2F4TGItWU0xaFVKM3BDRkRKVmVoaFVCQWJoODhOVU01MGtqSnJ1MURPTDFxRy1ZelVjZ0dwVHht0gHUAUFVX3lxTE5ESDRjWVg5ZTJpTlhONzNldTV0SkFGdktFSTlNQVRUcjhPa0pHcGJ3S0lyeUF1WTc3N1BmUHc5T0NHemEyNDhpb0FDSFNCbEoyV1dEZllVYnJ0ekoyYXA3eTBKRzJrT2ZuS0s5NndtVGVoMUJCeGEtS3ZETWJyNTZfUXgtOVBKU2p2dlpLS1ZvY0pjNGIxQ2xHVmRvRXBjMzlLRHRGdVJyWnhNLXgzclJra0JkVU41TDY5SUlIdVljVnFmdkt6MHA4QmtFbnphWjZlYXZj?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.infoq.com",
-      "title": "infoq.com"
+      "href": "https://gulfnews.com",
+      "title": "Gulf News"
     }
   },
   {
@@ -160,16 +160,6 @@
     }
   },
   {
-    "title": "Samsung Electronics Named No. 1 in Global Soundbar Sales for 12th Consecutive Year - samsung.com",
-    "description": "Samsung Electronics Named No. 1 in Global Soundbar Sales for 12th Consecutive Year  samsung.comSamsung's Music Studio speakers and two of its 2026 soundbars are available now  EngadgetSamsung HW-Q990H soundbar: Everything you need to know  SamMobile",
-    "published date": "Wed, 08 Apr 2026 16:43:38 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVTdadEUweGxxUWdYX2VwSzd2cVgydVZBZng2Y2JwMk1GQjhpeERWSHFOSlljZ0ZMeTZqdVZNUW05SjhkUm5CdU5pQ01lYTVaLXFiQmltZWhXNF96ak81TFhuTTB2STBnd2xrVmpGc0k5ZTZadnpFakcwMnA5SmJuZWRuZmF0Mm5peEhITG5hS2dTS0NBdlo5QVlUNXJubUNNREZoWk51eDNiQ0pUU2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://news.samsung.com",
-      "title": "samsung.com"
-    }
-  },
-  {
     "title": "Can’t face another mouthful of chicken? You’re probably coming down with the ick - The Guardian",
     "description": "Can’t face another mouthful of chicken? You’re probably coming down with the ick  The GuardianMore and more people are getting the 'chicken ick' when it comes to eating food  LADbibleThe ‘chicken ick’: why we suddenly become disgusted by foods we used to like  The Conversation",
     "published date": "Wed, 08 Apr 2026 03:55:00 GMT",
@@ -177,16 +167,6 @@
     "publisher": {
       "href": "https://www.theguardian.com",
       "title": "The Guardian"
-    }
-  },
-  {
-    "title": "Motorola Mobility launches 2026 Moto Pad and Stylus in US, Canada - Telecompaper",
-    "description": "Motorola Mobility launches 2026 Moto Pad and Stylus in US, Canada  TelecompaperMotorola announces Moto Pad and next-gen Moto G Stylus  EngadgetMotorola unveils 2026’s new Moto G Stylus  MobileSyrupThe Moto G Stylus Evolves Its Signature Feature, but With a Price Bump  CNETIntroducing moto g stylus - 2026 and moto pad - 2026: Where ideas take shape across screens  Motorola News",
-    "published date": "Wed, 08 Apr 2026 09:09:14 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMzhHc0JocWNabDlFX2dfT2twTFZhbW9BYzh6bVMyMF9TNldyMXNZTW1WaTBSRFhPWFNHTW9hS0pvTW5VTTY0LXZIa0pfNG5NSzFjMzBtaVhSUzduRjF5U0ZZUkpJMjQ5QTdFWGNyRHFXOEJjem9LUG1xRGxHcXFrTXM5akNxdUs3ZHRlOEZvLU5VdFdISE5CSTFhOEJZWmc3eVRaQU5tMERMSjA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.telecompaper.com",
-      "title": "Telecompaper"
     }
   },
   {
@@ -200,6 +180,36 @@
     }
   },
   {
+    "title": "Samsung Electronics Named No. 1 in Global Soundbar Sales for 12th Consecutive Year - samsung.com",
+    "description": "Samsung Electronics Named No. 1 in Global Soundbar Sales for 12th Consecutive Year  samsung.comSamsung's Music Studio speakers and two of its 2026 soundbars are available now  EngadgetSamsung HW-Q990H soundbar: Everything you need to know  SamMobile",
+    "published date": "Wed, 08 Apr 2026 16:43:38 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVTdadEUweGxxUWdYX2VwSzd2cVgydVZBZng2Y2JwMk1GQjhpeERWSHFOSlljZ0ZMeTZqdVZNUW05SjhkUm5CdU5pQ01lYTVaLXFiQmltZWhXNF96ak81TFhuTTB2STBnd2xrVmpGc0k5ZTZadnpFakcwMnA5SmJuZWRuZmF0Mm5peEhITG5hS2dTS0NBdlo5QVlUNXJubUNNREZoWk51eDNiQ0pUU2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://news.samsung.com",
+      "title": "samsung.com"
+    }
+  },
+  {
+    "title": "Motorola Mobility launches 2026 Moto Pad and Stylus in US, Canada - Telecompaper",
+    "description": "Motorola Mobility launches 2026 Moto Pad and Stylus in US, Canada  TelecompaperMotorola announces Moto Pad and next-gen Moto G Stylus  EngadgetMotorola unveils the moto g stylus - 2026 and moto pad - 2026, powering seamless creativity across screens  Newswire CanadaMotorola unveils 2026’s new Moto G Stylus  MobileSyrup",
+    "published date": "Wed, 08 Apr 2026 09:09:14 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMzhHc0JocWNabDlFX2dfT2twTFZhbW9BYzh6bVMyMF9TNldyMXNZTW1WaTBSRFhPWFNHTW9hS0pvTW5VTTY0LXZIa0pfNG5NSzFjMzBtaVhSUzduRjF5U0ZZUkpJMjQ5QTdFWGNyRHFXOEJjem9LUG1xRGxHcXFrTXM5akNxdUs3ZHRlOEZvLU5VdFdISE5CSTFhOEJZWmc3eVRaQU5tMERMSjA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.telecompaper.com",
+      "title": "Telecompaper"
+    }
+  },
+  {
+    "title": "Instagram Expands Teen Accounts Inspired by 13+ Content Ratings - meta.com",
+    "description": "Instagram Expands Teen Accounts Inspired by 13+ Content Ratings  meta.comInstagram Goes Global With Movie-Style Teen Content Filters  The Tech Buzz",
+    "published date": "Thu, 09 Apr 2026 07:30:24 GMT",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONjYzNTFPSnVlQzBCNnMyQXVKelA1R2l5TlRBMmU4NlV3OXUydVBra1V3dFNGa0JreFNQMGZBSFZVY1dVanUyNW9KamNzMWlpU2ZSd2ZlbWdBLVEwd2I5dmFfUF82Q2Jia3V1ZjBSZVhrTk9DYlVlNUtpTDBRa2w0eHZrRUxHRlFacnpIRXZMaEJINk9vdjRwUGdqY1lzZ9IBowFBVV95cUxNNF9EZWhBVnFzaUR0OEhMUV9tdmVNMmlrVkpVdU9sU2FCM3NhSmpneC1VZjN6Q3ZUWW5zeUlFTGRfRVNtV1hTdVEtSUgxYy1YVFpqc1l1ZkNmVml4a0lPSEZVV1h4NlAxdWM3clZYdm9wMUdpd2ZWTktXWDRnWHdNbV9EVnRTZWw3OElkMy1aWkNwZzFKX3Q3d2VwWHNvTE9qbEtB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://about.fb.com",
+      "title": "meta.com"
+    }
+  },
+  {
     "title": "‘A Douchebag With a Camera on Your Face’: Should Smart Glasses Record Imagery? - PetaPixel",
     "description": "‘A Douchebag With a Camera on Your Face’: Should Smart Glasses Record Imagery?  PetaPixelSay no to a ‘camera on your face’, says Meta smart glasses rival  Financial TimesWhy ‘Open Platform’ Is the Next Big Frontier for Smart Glasses  Lifehacker",
     "published date": "Wed, 08 Apr 2026 13:59:30 GMT",
@@ -207,16 +217,6 @@
     "publisher": {
       "href": "https://petapixel.com",
       "title": "PetaPixel"
-    }
-  },
-  {
-    "title": "Gemini gets notebooks to help you organize projects - The Verge",
-    "description": "Gemini gets notebooks to help you organize projects  The VergeTry notebooks in Gemini to easily keep track of projects  blog.google",
-    "published date": "Thu, 09 Apr 2026 00:06:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9oTWNBX1RBclo1Nnl1Tjg2bFctbFdCTUxHNXNub0w3ZUdCRjlXeTJVX09TYkx3OHZfZWowb1IySS1DTHRRaW1MbGtwRHFENWs3UDFZVFZfX0NibkJtRE1Vd0dtSXZsTVBRM2hNZ0xMN3gwekpXWU1FcjNONA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theverge.com",
-      "title": "The Verge"
     }
   },
   {
@@ -260,8 +260,18 @@
     }
   },
   {
+    "title": "Google’s Gmail Upgrade Decision—2 Billion Users Must Act Now - Forbes",
+    "description": "Google’s Gmail Upgrade Decision—2 Billion Users Must Act Now  ForbesView Full Coverage on Google News",
+    "published date": "Thu, 09 Apr 2026 06:22:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeTZ2WlViVkwwb25QOVUxeWlpM3kzUjZ4Z3pPYjQ3MjI3ZUN4YnA5RFJOeVcwM0h3LWdLTHc4cEFRNy1nZGhSS2tvZDh1RmszU0duaEdWZTNIV1dKcllqaXpYckZXWFN6eDVncFowMWpCam1tOUxlbXZOdkN5R01uZnRqbVdvZWZ3MG4tMEh2dW9RZUFQd25fRUNWRWRLaHYxRUM3SlR6cE1QSXBoREFqeA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
+    }
+  },
+  {
     "title": "‘Stop Texting’—Apple Changes iPhone After 15 Years - Forbes",
-    "description": "‘Stop Texting’—Apple Changes iPhone After 15 Years  Forbes",
+    "description": "‘Stop Texting’—Apple Changes iPhone After 15 Years  ForbesI've been switching apps for years, and this Google Messages upgrade might finally fix that  Android Police",
     "published date": "Wed, 08 Apr 2026 16:21:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdDA2Wi1TRlVFd014Rm00czZQMWgzUENUZUowZk02djJGdkxjVHJuM3plRFZuNGUydHZNdTlNb05yakJCem0zal81MzlwblU3M3pqZHlReHR5WXpmQnp5aUNlbzU5NHBzaGZSR0dJV0Z6V0JENUxhczFHTHRBbTdNU1NVMmVnc2Vtb29MaU5HNWNaMkhjTU1BQWNZN21ZRDR4X0E?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -291,12 +301,22 @@
   },
   {
     "title": "Dyson just announced its first-ever handheld fan, with a motor that spins up to 65,000 RPM - Engadget",
-    "description": "Dyson just announced its first-ever handheld fan, with a motor that spins up to 65,000 RPM  EngadgetDyson's new HushJet Mini Cool portable fan is only $99  MashableDyson made a handheld version of its iconic fans  The VergeDyson just launched its first-ever portable fan — and it could be the gadget of the summer  Tom's Guide",
+    "description": "Dyson just announced its first-ever handheld fan, with a motor that spins up to 65,000 RPM  EngadgetDyson made a handheld version of its iconic fans  The VergeDyson's new HushJet Mini Cool portable fan is only $99  Mashable",
     "published date": "Thu, 09 Apr 2026 00:01:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMXh0S3pzTGpTak1uRG5DXzlHRnVjMjBHQUZuMWtJb04xcno3aWR2N3JQWno2U2dEeXJ5cVBBZWhTYzBpdXpjblFkQklYdlFMX05oVTctcXhYbzRSOG5QMDlWdnZKV19tdjFkZ2x1TGh1SmQ5M0s3c2IyYlFOWmljSzJya2JpbjgyNWt1TVlhZU5jdnFwRzUxZVo3UTRuYVB4NmVUdDEwdURSRnFwTFNLbDdaTmVwQkZ4Z1Q5SGVhUTc1RENaRjBqbkxhQWFkdw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.engadget.com",
       "title": "Engadget"
+    }
+  },
+  {
+    "title": "Apple Warns All iPhone Users—Do Not Answer These Calls And Texts - Forbes",
+    "description": "Apple Warns All iPhone Users—Do Not Answer These Calls And Texts  ForbesUser Nearly Loses $15,000 After Calling Apple Pay Scam Number  The Mac Observer",
+    "published date": "Wed, 08 Apr 2026 22:09:17 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVFVBUVFZa0ZiN001RnlyWHFPNnU4djFuNzluenhIbTNlNjdObEJFZWFwWXpaTnJVQjgxcXhwV2J3UG5Ua2VnYXZONmdSYXc4OXpNUUtDRHBPZ29iNjFjdjliODB1ei13dk9vNFR3b2ZIa3lZYlY2M253b3Q5ZHh5SVBsQUpla1hqMUhNcEJhV0t1UGRFY1AzWlBrSmNIaENCNVF4aEI3RW5NQUdSaG5NSVlGVzlPc2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
     }
   },
   {
@@ -320,6 +340,26 @@
     }
   },
   {
+    "title": "Gemini gets notebooks to help you organize projects - The Verge",
+    "description": "Gemini gets notebooks to help you organize projects  The VergeTry notebooks in Gemini to easily keep track of projects  blog.googleGemini just got a new notebooks feature that syncs with NotebookLM  XDA",
+    "published date": "Thu, 09 Apr 2026 00:06:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9oTWNBX1RBclo1Nnl1Tjg2bFctbFdCTUxHNXNub0w3ZUdCRjlXeTJVX09TYkx3OHZfZWowb1IySS1DTHRRaW1MbGtwRHFENWs3UDFZVFZfX0NibkJtRE1Vd0dtSXZsTVBRM2hNZ0xMN3gwekpXWU1FcjNONA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theverge.com",
+      "title": "The Verge"
+    }
+  },
+  {
+    "title": "iOS 26.4.1 Includes These Two Changes for iPhones - MacRumors",
+    "description": "iOS 26.4.1 Includes These Two Changes for iPhones  MacRumorsiOS 26.4.1 Released: Apple’s New iPhone Update Is An Unexpected, Urgent Bug Fix  ForbesiOS and iPadOS 26.4.1 is out to fix iCloud syncing bug  MacworldApple Releases iOS 26.4.1, Fixes Frustrating iCloud Sync Bug  iPhone in CanadaApple Releases iOS 26.4.1 and iPadOS 26.4.1 With Bug Fixes  MacRumors",
+    "published date": "Thu, 09 Apr 2026 02:17:34 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeEFGSVYzSEp4MFVWSzg1SkxVY1VfZkRpazk5VUQtaGNJZmN4ZXlnVnVmdFMzWC16MVM5Mk1oTXRlandwOXhXVy1IS1NyR0N1azRqQkFfNHN0Q1Bic1ViYUh6YWVfQWlTejRhQm9TU2hJeTF6dDkya196RFo4dy13VFhB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.macrumors.com",
+      "title": "MacRumors"
+    }
+  },
+  {
     "title": "Tubi is the first streamer to launch a native app within ChatGPT - TechCrunch",
     "description": "Tubi is the first streamer to launch a native app within ChatGPT  TechCrunchTubi App Goes Live in ChatGPT to Give You TV and Movie Recommendations  CNET",
     "published date": "Wed, 08 Apr 2026 18:23:06 GMT",
@@ -327,6 +367,26 @@
     "publisher": {
       "href": "https://techcrunch.com",
       "title": "TechCrunch"
+    }
+  },
+  {
+    "title": "I finally get the iPhone Air - The Verge",
+    "description": "I finally get the iPhone Air  The Verge",
+    "published date": "Wed, 08 Apr 2026 19:45:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbGNZLWd0UUo4ejc1NG9SOU1BVnJGMFY0aS1XVXdFN1p5WElPak1rZW0yVHBvWGQ0QW9mTFZYSExQYkRzeUE2LW9YNU9sYlIxZGxRRFFkNGZTdTdaem8zVnNrUjFSckxSckU1VjRaWUhpUVhXNk5IaER6dzIxd3lFWXlJSjcxMUZt?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theverge.com",
+      "title": "The Verge"
+    }
+  },
+  {
+    "title": "Microsoft Confirms New And Widespread 2FA Code Attacks Ongoing - Forbes",
+    "description": "Microsoft Confirms New And Widespread 2FA Code Attacks Ongoing  ForbesHundreds of orgs compromised daily in Microsoft device code phishing attacks  theregister.comEvilTokens abuses Microsoft device code flow for account takeovers  csoonline.com",
+    "published date": "Wed, 08 Apr 2026 13:24:18 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcDFzQ2xhU3FxeGZSQ2h5NjhkZ0ljX2c4dDVZMDF1TGt1Zlpuc0FTQmp4YS1YOGs2dk1wTy04ZURZWTFiZUNhQS1yVVd0ejR5OEQ0T1VMci1fYTFUQmQ0dFJScnFrYTZPTDBKTEo5VGE5YVVUV0tMekFlOEtoMGJHdmhZR20xX05lUTFUQmtWNzlBNm5OQlVHS3lrbW5nMkZCNjU4RnNnRGdlekZwRG5pMzdHVHFIU00?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
     }
   },
   {
@@ -340,28 +400,18 @@
     }
   },
   {
-    "title": "Microsoft Confirms New And Widespread 2FA Code Attacks Ongoing - Forbes",
-    "description": "Microsoft Confirms New And Widespread 2FA Code Attacks Ongoing  ForbesHundreds of orgs compromised daily in Microsoft device code phishing attacks  theregister.comNew Phishing Platform Used in Credential Theft Campaigns Against C-Suite Execs  Infosecurity MagazineEvilTokens abuses Microsoft device code flow for account takeovers  csoonline.comDevice code phishing attacks surge 37x as new kits spread online  BleepingComputer",
-    "published date": "Wed, 08 Apr 2026 13:24:18 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcDFzQ2xhU3FxeGZSQ2h5NjhkZ0ljX2c4dDVZMDF1TGt1Zlpuc0FTQmp4YS1YOGs2dk1wTy04ZURZWTFiZUNhQS1yVVd0ejR5OEQ0T1VMci1fYTFUQmQ0dFJScnFrYTZPTDBKTEo5VGE5YVVUV0tMekFlOEtoMGJHdmhZR20xX05lUTFUQmtWNzlBNm5OQlVHS3lrbW5nMkZCNjU4RnNnRGdlekZwRG5pMzdHVHFIU00?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Fans Blast ‘Pokémon Champions’ Game—As Nintendo Wipes ‘Pokopia’ Stock Gains - Forbes",
+    "description": "Fans Blast ‘Pokémon Champions’ Game—As Nintendo Wipes ‘Pokopia’ Stock Gains  ForbesGet battling with the new free-to-start game, Pokémon Champions!  NintendoPokémon Champions Is Now Available on Nintendo Switch and Nintendo Switch 2  Pokemon.comPokemon Champions is off to a rough start – here’s why  Nintendo EverythingDespite messy launch, Pokémon Champions fans are thrilled at major sleep and paralysis nerfs  Polygon.com",
+    "published date": "Wed, 08 Apr 2026 18:15:53 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUjFxbl9ZTm1lWnFmLURFc0VhbUxXMThZSlZEdlBrQ2FvRlVMNnJRSWJfOVd3VlVJeV9mYTBKTmtzeVRHRlVBbXZVeHRnUFRsenZPRnpITjV3dGNXVjF5SUlDZV9ZbXNIVldid2NrMUZCMUg4aDkwSVQ2T1NUWDQ5SDRpUEdtbURySGJuNDhSRUthT1JKR05qR2k3Sy0tNWl0S1JtYjlQVXZ4N0FTMVNxOWVKbURSVnNaZG9MSG1xR1A?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.forbes.com",
       "title": "Forbes"
     }
   },
   {
-    "title": "Apple Releases iOS 26.4.1 and iPadOS 26.4.1 With Bug Fixes - MacRumors",
-    "description": "Apple Releases iOS 26.4.1 and iPadOS 26.4.1 With Bug Fixes  MacRumorsiOS 26.4.1 Released: Apple’s New iPhone Update Is An Unexpected, Urgent Bug Fix  ForbesiOS 26.4.1 Includes These Two Changes for iPhones  MacRumorsiOS and iPadOS 26.4.1 is out to fix iCloud syncing bug  MacworldApple Releases iOS 26.4.1, Fixes Frustrating iCloud Sync Bug  iPhone in Canada",
-    "published date": "Wed, 08 Apr 2026 20:09:27 GMT",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wZ25RNTFOYlhYZ25mU3VTRVNfLU9HMGtaN21lY3BOeXV0UGNsSERrcEJkcWhfbGozOUltTVl0RW1ScDZjRWFGdVM5cGVzQ2NXVHoyUE1XY2ttRXpaanc1N0IzenB4ZmVtSjFhajJWZXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.macrumors.com",
-      "title": "MacRumors"
-    }
-  },
-  {
     "title": "PlayStation®5 Pro Update Is Live! - cyberpunk.net",
-    "description": "PlayStation®5 Pro Update Is Live!  cyberpunk.netCyberpunk 2077 PlayStation 5 Pro enhancements detailed  PlayStation.BlogReview: Cyberpunk 2077's PS5 Pro Patch Goes Heavy On RT And Performance Upgrades  Digital Foundry",
+    "description": "PlayStation®5 Pro Update Is Live!  cyberpunk.netCyberpunk 2077 PlayStation 5 Pro enhancements detailed  PlayStation.BlogReview: Cyberpunk 2077's PS5 Pro Patch Goes Heavy On RT And Performance Upgrades  Digital FoundryCyberpunk 2077's new update makes the PS5 Pro investment feel worth it  Polygon.com",
     "published date": "Wed, 08 Apr 2026 19:18:29 GMT",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVNndfWEFLV2VzR2dmOUtZRk5WWVZZME5Db010end5dktXdzQ0LWkySFhwWnFXN3FwQ3EzR1BYeVoyMUNmbzNWeklYczByMGQtZlUzYlZHejdMUG9uSDZNOTV0dElla0ZfWW51MkZOV3ZwajVpdmt4ZFFTcEdrd2c?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -371,22 +421,12 @@
   },
   {
     "title": "Artemis 2 moon astronauts capture space history — on their iPhones - Space",
-    "description": "Artemis 2 moon astronauts capture space history — on their iPhones  SpaceArtemis II Just Dropped Stunning Wallpapers For Your Phone Or PC  ForbesArtemis II astronaut puts all of our iPhone moon photos to shame  EngadgetLunarWall: Shuffle Moon Photos from Artemis II On Your Lock Screen or Mac Desktop  MacStoriesStunning Artemis II Phone Wallpapers  Kottke.org",
+    "description": "Artemis 2 moon astronauts capture space history — on their iPhones  SpaceArtemis II Just Dropped Stunning Wallpapers For Your Phone Or PC  ForbesLunarWall: Shuffle Moon Photos from Artemis II On Your Lock Screen or Mac Desktop  MacStoriesArtemis II astronaut puts all of our iPhone moon photos to shame  EngadgetArtemis II Astronauts Are Using iPhones to Capture Stunning Space Images  CNET",
     "published date": "Wed, 08 Apr 2026 13:00:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTy1HR1JvV2Nlak1CaWdoN1hzeFFPOVpLaDR3WGxnckFGc090MmdyTzdTS25uUHdtMHhMbElQTUduQlE5bURFS2w1R0gtSmRnLXdfQ2M1ZlljaS1rNTE3RnBqU3daTk81eWZ6RzQ3clk2MG1NTVhZaW9OaS14Ml95VlRaUWM3UzZneERTcGl0U2ZFN3JiWFl2b0RUTjBDLWVqSWRnZDFBcHVxMkhSeVd0bl9n?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.space.com",
       "title": "Space"
-    }
-  },
-  {
-    "title": "Google quietly launched an AI dictation app that works offline - TechCrunch",
-    "description": "Google quietly launched an AI dictation app that works offline  TechCrunchView Full Coverage on Google News",
-    "published date": "Wed, 08 Apr 2026 05:40:19 GMT",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR1FlNm1xU3ZLdElyeF9DdjN0UzVtSnhFM1ozNE1tQkFiYnl1cUV1alJ6N2xyT0JzMjRsaGVKTGZQMXpSdXpnaTk0TkRkTngxZVJ6Q0FKSTBJWk5OVVZfVm85VkhDd091NHB0R2t2enlrUVYtY2xRYkYydGlPZ0haZ2l3ajZ4QzlFU0t4NURyTmVTMkNmcUhvU25lcjhjQUQ3?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://techcrunch.com",
-      "title": "TechCrunch"
     }
   },
   {
@@ -400,13 +440,13 @@
     }
   },
   {
-    "title": "Available for Xbox Insiders: New Improvements to Achievements - Xbox Wire",
-    "description": "Available for Xbox Insiders: New Improvements to Achievements  Xbox WireXbox Achievements Are Getting A Visual Overhaul And Other Welcome Changes  GameSpotXbox Achievements Getting New Features and Options  IGNXbox Achievements Get Overdue Update To Address Feedback  Kotaku",
-    "published date": "Wed, 08 Apr 2026 17:02:01 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdWY3cUdaZTc1TEFHM0dvdXdUN2xzLUNsRzdyOFI1U29BVVNia29XZjhRV2hFdkhtQXlEam5PUzBhb0V4ZThIeHNfYldLX0R4akxWelVMOFVud3dFQ3JpR3luLTBlTUgzQWhHLVdWUk5zU2F4Yno3V0ZBb1pfRnBzbFpBNEVpZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Google quietly launched an AI dictation app that works offline - TechCrunch",
+    "description": "Google quietly launched an AI dictation app that works offline  TechCrunchView Full Coverage on Google News",
+    "published date": "Wed, 08 Apr 2026 05:40:19 GMT",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR1FlNm1xU3ZLdElyeF9DdjN0UzVtSnhFM1ozNE1tQkFiYnl1cUV1alJ6N2xyT0JzMjRsaGVKTGZQMXpSdXpnaTk0TkRkTngxZVJ6Q0FKSTBJWk5OVVZfVm85VkhDd091NHB0R2t2enlrUVYtY2xRYkYydGlPZ0haZ2l3ajZ4QzlFU0t4NURyTmVTMkNmcUhvU25lcjhjQUQ3?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://news.xbox.com",
-      "title": "Xbox Wire"
+      "href": "https://techcrunch.com",
+      "title": "TechCrunch"
     }
   },
   {
@@ -420,8 +460,28 @@
     }
   },
   {
+    "title": "Crimson Desert Players Gets Platinum Trophy After 305 Hours - IGN",
+    "description": "Crimson Desert Players Gets Platinum Trophy After 305 Hours  IGNThe Average ‘Crimson Desert’ Player Is Playing 22 Hours A Week  Forbes",
+    "published date": "Wed, 08 Apr 2026 14:40:49 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZHZwX3lydDFZRnVyaDB4allnYkRIYUhoeFVTNUhFXzI1NmwtZU82TU14T2RZN0JoRGRWUkJmd0paRjgxRmxTZkhKSlhzbVJ6QUJWT01Ja2pEVGxmSk5oYlNja3BnREVHNy1feWloUWhpNno0SjNjXzJ3Y284MnNTUWtlYkRObjI3dmdIemkwY0pnRnVDOXJCeVJrMG82U190bUd4TFR6THNjRHFNWXBZZktBZUpkbEhiN3N6ZTh2aEpDcmZFaEdCcXZqSTQ0Y3JNeU92NmQ1ZEpaT3BuZXVadHdPeWlnaEg3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ign.com",
+      "title": "IGN"
+    }
+  },
+  {
+    "title": "Available for Xbox Insiders: New Improvements to Achievements - Xbox Wire",
+    "description": "Available for Xbox Insiders: New Improvements to Achievements  Xbox WireXbox Achievements Are Getting A Visual Overhaul And Other Welcome Changes  GameSpotXbox Achievements Getting New Features and Options  IGNXbox Achievements Get Overdue Update To Address Feedback  Kotaku",
+    "published date": "Wed, 08 Apr 2026 17:02:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdWY3cUdaZTc1TEFHM0dvdXdUN2xzLUNsRzdyOFI1U29BVVNia29XZjhRV2hFdkhtQXlEam5PUzBhb0V4ZThIeHNfYldLX0R4akxWelVMOFVud3dFQ3JpR3luLTBlTUgzQWhHLVdWUk5zU2F4Yno3V0ZBb1pfRnBzbFpBNEVpZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://news.xbox.com",
+      "title": "Xbox Wire"
+    }
+  },
+  {
     "title": "NASA chose an old DSLR as its primary Artemis II camera - here's why - Digital Camera World",
-    "description": "NASA chose an old DSLR as its primary Artemis II camera - here's why  Digital Camera WorldThe Best Endorsements Are The Ones You Can’t Pay For  PetaPixelStellar Artemis II photos taken with old-model Nikon worth about $1,000: ‘Proven technology’  New York PostNASA astronauts are using regular cameras from a main brand to shoot the stunning photos from Artemis II - here's why  Amateur PhotographerNASA’s otherworldly ‘Earthset’ photo was taken on a decade-old DSLR you can buy for under $1,000 — and it might be the biggest camera bargain going  TechRadar",
+    "description": "NASA chose an old DSLR as its primary Artemis II camera - here's why  Digital Camera WorldThe Best Endorsements Are The Ones You Can’t Pay For  PetaPixelStellar Artemis II photos taken with old-model Nikon worth about $1,000: ‘Proven technology’  New York PostNASA astronauts are using regular cameras from a main brand to shoot the stunning photos from Artemis II - here's why  Amateur PhotographerArtemis II: The Cameras That Made The Cut to The Moon  The Phoblographer",
     "published date": "Wed, 08 Apr 2026 08:34:32 GMT",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMUptTjZHcGgwVHVYQktiTjd1NFkwMnJMM0JOLXpPVV9ZSUduc2gzcktVREl4emNxR3VLblg0X1MtM1BUeUc2VDlpSHFBbVRvOEtNRXhrbDU3bXZOeXBKb2JOaVFqUkkwZFpON0xqNGVodHRIXzhiSjNRa0FKMzJ6NkdtV3NBdVBYUjVfcFJyZFZDa096NlB2ajdpMWdJYmYxQ0VYS216cnl5T3p5UFhSUTJ0TGNHUTZDVjJtcWxR?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -440,18 +500,8 @@
     }
   },
   {
-    "title": "Golden Demon 2026 – AdeptiCon finalists part one - Warhammer Community",
-    "description": "Golden Demon 2026 – AdeptiCon finalists part one  Warhammer Community",
-    "published date": "Wed, 08 Apr 2026 07:59:09 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdlBSekQ1aGNKTmVmaGpjT1k0am9kM1daWlBaZlU4ZUt3eTAwbUp4QUV5cmpJQkdSOW1yX0xIWTZ0VGNxY1Rsb3R4ZHhsb3hMTWhOa0twVFhraUpyUkhCd21EaTAxMlkwLUFkRzNmM0NVUW9WNV9DYU1nQTl4UFdHSEowbWlKdDlmSURKQllnVHEyV0djc0FDbzk1QkplZHZ6RFA1bkMycDAxYkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.warhammer-community.com",
-      "title": "Warhammer Community"
-    }
-  },
-  {
     "title": "New WhatsApp for CarPlay now available to all iPhone users - 9to5Mac",
-    "description": "New WhatsApp for CarPlay now available to all iPhone users  9to5MacWhatsApp Gets New CarPlay App  MacRumorsWhatsApp Gets Native CarPlay App, Beta Version Available Now  iPhone in CanadaWhatsApp is working on a dedicated CarPlay app, available now for beta testers  9to5Mac",
+    "description": "New WhatsApp for CarPlay now available to all iPhone users  9to5MacWhatsApp Gets New CarPlay App  MacRumorsWhatsApp is working on a dedicated CarPlay app, available now for beta testers  9to5Mac",
     "published date": "Wed, 08 Apr 2026 00:59:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb3JYT2Q5X2lKdmNFc1BycTlVNGtvOG5mblhTQUNsTHo1bmIxc3lVQTNUZFI1cXlHQ2xyQ2QtYndtUmpBUGNhSFJaUi1BVlRpVFRKb2Q4a1dFMm9vMjFCR2lCNVJWOGpEVGpBbVhoVDd5cE96Ti1LWEdxeFVIaUJHYnJQNVBnRFhjT1MxVkM3dXk5SE93bFJWRU9yUVY1VVRIcEpBMy1GNjlpUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -471,7 +521,7 @@
   },
   {
     "title": "A Decade on, Plants vs Zombies 3 Has Now Soft Launched For at Least the Third Time - IGN",
-    "description": "A Decade on, Plants vs Zombies 3 Has Now Soft Launched For at Least the Third Time  IGNSlideshow: Plants vs. Zombies 3: Evolved Images  IGN India",
+    "description": "A Decade on, Plants vs Zombies 3 Has Now Soft Launched For at Least the Third Time  IGN",
     "published date": "Wed, 08 Apr 2026 09:11:41 GMT",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSzBCLXdaSW1GLXFBRGFzREMzSFRzRV9RMjBEY2R0R2lyWXg5UzFoRUhxVWRzbnJYMUw4REd2VUdNVzJ2d1h5R2d5Mzl3aTZlWWRUbjJQRUJTM2V2Z2VfMl94cVBNTlFUUXlreUF5NjRHdXJxSHNlM25rSEFWVlI4UFVQRGs3Y183elc3ME1KWjF1MnhWaUNRMjNqT3MxUkZTaGdzdlVLdnhmaFBPdTJj?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -480,13 +530,13 @@
     }
   },
   {
-    "title": "I found a hidden Google Photos tool that makes clearing storage feel less like a chore - ZDNET",
-    "description": "I found a hidden Google Photos tool that makes clearing storage feel less like a chore  ZDNET",
-    "published date": "Thu, 09 Apr 2026 00:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX1ZrNnEtRW1tZEdpOGUwYjVpR2U4ZktlSTZwaGJPWjhRZmdGdWRJX1FQYVZ5UlFWQ29WdTl5WC1jYnRxR2NycHlLWFdERkdQNnhOUW9ENk5QenJkMUdqWmxHY3ExR1U5TVF1RzJJNWtWLV9BdTRQbnRnYnNCQVB1TA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Golden Demon 2026 – AdeptiCon finalists part one - Warhammer Community",
+    "description": "Golden Demon 2026 – AdeptiCon finalists part one  Warhammer Community",
+    "published date": "Wed, 08 Apr 2026 07:59:09 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdlBSekQ1aGNKTmVmaGpjT1k0am9kM1daWlBaZlU4ZUt3eTAwbUp4QUV5cmpJQkdSOW1yX0xIWTZ0VGNxY1Rsb3R4ZHhsb3hMTWhOa0twVFhraUpyUkhCd21EaTAxMlkwLUFkRzNmM0NVUW9WNV9DYU1nQTl4UFdHSEowbWlKdDlmSURKQllnVHEyV0djc0FDbzk1QkplZHZ6RFA1bkMycDAxYkE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.zdnet.com",
-      "title": "ZDNET"
+      "href": "https://www.warhammer-community.com",
+      "title": "Warhammer Community"
     }
   },
   {
@@ -500,6 +550,26 @@
     }
   },
   {
+    "title": "I found a hidden Google Photos tool that makes clearing storage feel less like a chore - ZDNET",
+    "description": "I found a hidden Google Photos tool that makes clearing storage feel less like a chore  ZDNET",
+    "published date": "Thu, 09 Apr 2026 00:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX1ZrNnEtRW1tZEdpOGUwYjVpR2U4ZktlSTZwaGJPWjhRZmdGdWRJX1FQYVZ5UlFWQ29WdTl5WC1jYnRxR2NycHlLWFdERkdQNnhOUW9ENk5QenJkMUdqWmxHY3ExR1U5TVF1RzJJNWtWLV9BdTRQbnRnYnNCQVB1TA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.zdnet.com",
+      "title": "ZDNET"
+    }
+  },
+  {
+    "title": "Apple and Lenovo have the least repairable laptops, analysis finds - Ars Technica",
+    "description": "Apple and Lenovo have the least repairable laptops, analysis finds  Ars TechnicaThe iPhone Gets a D– for Repairability  WIRED",
+    "published date": "Tue, 07 Apr 2026 22:08:32 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMUxFdEIwcFN6dmF1MjBvelQ2OUh0Vkc2ZF9CTy1kZE5sX3VqZTF3MnViby13Nll6STJTSXh2UnRkSXJYX3FVSjJLM18wSEZDclJmMk5IaXlYRjVSelhQUWU5dmNrQ3ZHb3A5cWsySVRWNEt2N3F4VjFwSHRucThKSlFqdGkwWE0ySzd3dkViWUcxcU93ejBaRmtFeHhLSnBEUFhudFl2cTdyYkk?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://arstechnica.com",
+      "title": "Ars Technica"
+    }
+  },
+  {
     "title": "‘Destiny Rising’ Could Actually Replace ‘Destiny 2’ For The Time Being - Forbes",
     "description": "‘Destiny Rising’ Could Actually Replace ‘Destiny 2’ For The Time Being  Forbes",
     "published date": "Wed, 08 Apr 2026 15:27:45 GMT",
@@ -510,13 +580,33 @@
     }
   },
   {
-    "title": "Netflix Launches VOID AI That Rewrites Video Scenes After Filming - Forbes",
-    "description": "Netflix Launches VOID AI That Rewrites Video Scenes After Filming  ForbesNetflix’s new AI doesn’t create videos — it rewrites reality (and it's open source)  Tom's GuideNetflix AI Team Just Open-Sourced VOID: an AI Model That Erases Objects From Videos — Physics and All  MarkTechPost",
-    "published date": "Tue, 07 Apr 2026 14:00:57 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTW5wWFRNU3JMeTk4STZJWHIwVl9aZjlsQm9NQWlSWXo4UU44NmZkZloxRFZlTFR3WEdUY3FqQnRfZ1F5am1vdHhJcVJORVhXeF9ELXF1MjdHR1lPRW1kSmFWQjhPNDk3WVl1SEUyRTJtSjliNGpKdDBPTWN4ME5ySHdlaURXbzI0Sl81QjJ6V0oxVWd1cWU1ZXl3RE1aUUU1Y1dnUkkyNnFkdEdXYkF6Z2t5TUhmUElC?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Samsung’s Galaxy S27 lineup sounds like a disaster waiting to happen - Android Authority",
+    "description": "Samsung’s Galaxy S27 lineup sounds like a disaster waiting to happen  Android AuthoritySurprise Galaxy S27 Leak Gives Samsung New Options  ForbesSamsung Could Introduce a New Pro Model in the Galaxy S27 Lineup  CNETThe Samsung Galaxy S27 Ultra could get a new variant with major missing feature  Mashable",
+    "published date": "Wed, 08 Apr 2026 08:39:55 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQN0xiLUNkR09SVWJqVUxmRTJGdGxTcGdLeTlvUkxBV3ctaTdqX2V6RDJ5UHEtNmQ4SERRT3dBZnRtc2JYcW1kaFFZQW9INEhNNzI3aWVDZzJlVS1BVVZvVVZjUHJsSHJjQ3NCNmFaM01lR2l5UUpTNFVNYWstczQtTGhRay1ra2s?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.forbes.com",
-      "title": "Forbes"
+      "href": "https://www.androidauthority.com",
+      "title": "Android Authority"
+    }
+  },
+  {
+    "title": "Ikea’s New Smart Home Gear Is Taking Over My House - WIRED",
+    "description": "Ikea’s New Smart Home Gear Is Taking Over My House  WIREDIKEA Has Launched a Smart Version of the Viral Pendant Lamp  Homes and Gardens",
+    "published date": "Wed, 08 Apr 2026 13:16:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uclR1R0Z2M3FrNUlqblhCMlBtcHJSdW90R2laa1lPdk9haGptWW9yNTJwZGRHajc5WnFoaFJvQlBYUkFudHh0TDc0cmo3VWF2U0xhZTJSblRHczNLLTNsVWZ3b3hKc0Z0bFc3Wg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.wired.com",
+      "title": "WIRED"
+    }
+  },
+  {
+    "title": "Play! Pokémon Rules and Resources Updated for Q1 2026 - Pokemon.com",
+    "description": "Play! Pokémon Rules and Resources Updated for Q1 2026  Pokemon.com",
+    "published date": "Tue, 07 Apr 2026 18:48:25 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN2ZiYlpiTU9JNm1VRWRrb0JLa2VTTHZGNHNCVEotMWlQajdGX1FuSE5VbWF6czd5RlZvVGJjb3kxQUhKamFtbWNLZVVwSWU4NTBIeG5hYmtpX1dBeVUtdmduZnFhWDk4YzZIN3RnbjdIN3BtcTVlSTRzb3VpZnIxaW9MUmRzUzRSQkx5VDJ2UEp0OG14YkFj?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.pokemon.com",
+      "title": "Pokemon.com"
     }
   },
   {
@@ -527,16 +617,6 @@
     "publisher": {
       "href": "https://www.gearpatrol.com",
       "title": "Gear Patrol"
-    }
-  },
-  {
-    "title": "I finally get the iPhone Air - The Verge",
-    "description": "I finally get the iPhone Air  The Verge",
-    "published date": "Wed, 08 Apr 2026 19:45:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbGNZLWd0UUo4ejc1NG9SOU1BVnJGMFY0aS1XVXdFN1p5WElPak1rZW0yVHBvWGQ0QW9mTFZYSExQYkRzeUE2LW9YNU9sYlIxZGxRRFFkNGZTdTdaem8zVnNrUjFSckxSckU1VjRaWUhpUVhXNk5IaER6dzIxd3lFWXlJSjcxMUZt?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theverge.com",
-      "title": "The Verge"
     }
   },
   {
@@ -560,18 +640,18 @@
     }
   },
   {
-    "title": "Ikea’s New Smart Home Gear Is Taking Over My House - WIRED",
-    "description": "Ikea’s New Smart Home Gear Is Taking Over My House  WIREDIKEA Has Launched a Smart Version of the Viral Pendant Lamp  Homes and Gardens",
-    "published date": "Wed, 08 Apr 2026 13:16:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uclR1R0Z2M3FrNUlqblhCMlBtcHJSdW90R2laa1lPdk9haGptWW9yNTJwZGRHajc5WnFoaFJvQlBYUkFudHh0TDc0cmo3VWF2U0xhZTJSblRHczNLLTNsVWZ3b3hKc0Z0bFc3Wg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Netflix Launches VOID AI That Rewrites Video Scenes After Filming - Forbes",
+    "description": "Netflix Launches VOID AI That Rewrites Video Scenes After Filming  ForbesNetflix’s new AI doesn’t create videos — it rewrites reality (and it's open source)  Tom's GuideNetflix AI Team Just Open-Sourced VOID: an AI Model That Erases Objects From Videos — Physics and All  MarkTechPost",
+    "published date": "Tue, 07 Apr 2026 14:00:57 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTW5wWFRNU3JMeTk4STZJWHIwVl9aZjlsQm9NQWlSWXo4UU44NmZkZloxRFZlTFR3WEdUY3FqQnRfZ1F5am1vdHhJcVJORVhXeF9ELXF1MjdHR1lPRW1kSmFWQjhPNDk3WVl1SEUyRTJtSjliNGpKdDBPTWN4ME5ySHdlaURXbzI0Sl81QjJ6V0oxVWd1cWU1ZXl3RE1aUUU1Y1dnUkkyNnFkdEdXYkF6Z2t5TUhmUElC?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.wired.com",
-      "title": "WIRED"
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
     }
   },
   {
     "title": "I just tried the new Google Maps update and these 3 new features are game changers - Tom's Guide",
-    "description": "I just tried the new Google Maps update and these 3 new features are game changers  Tom's Guide3 updates that make contributing to Maps easier  blog.googleGoogle Maps can now write captions for your photos using AI  TechCrunchI let Gemini in Google Maps plan my day and it went surprisingly well  The VergeGoogle's Ask Maps Fully Available In US and India  Search Engine Roundtable",
+    "description": "I just tried the new Google Maps update and these 3 new features are game changers  Tom's Guide3 updates that make contributing to Maps easier  blog.googleGoogle Maps wants to lower the bar for getting started with contributions  Android AuthorityI let Gemini in Google Maps plan my day and it went surprisingly well  The VergeGoogle's Ask Maps Fully Available In US and India  Search Engine Roundtable",
     "published date": "Wed, 08 Apr 2026 15:50:36 GMT",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNlVUQThGbFZWMzk3N0JDdjFlOV9MeXRXcGVOMV93MXpNOWFNeWNiV085Z0ZuSGdMSXdIZEw5blVXTlBTZTRaSUNSdy1maTRJUUJMVmZSM3V6YkdaT01xUzV0UG53eHJEamVxQ3VLRlBudmt4NnZ6YWJwaTE1dUJYdlQ3YWt0blh4QndiQjU5NzFxR3c2bUtmMHZXMHZmdmRjSFdGRExRWjU3MVJ1TnNBcE01azBndzM4ZU1qT2N2TGY3Rk0?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -581,22 +661,12 @@
   },
   {
     "title": "Incredible MacBook Neo demand may finish off Apple's A18 Pro stock - AppleInsider",
-    "description": "Incredible MacBook Neo demand may finish off Apple's A18 Pro stock  AppleInsiderHere’s What Apple’s New MacBook Neo Gets Right (And Wrong)  ForbesThe Neo Effect: How Apple’s cheapest Mac is changing the PC game  The VergeApple’s $600 MacBook Is Probably All You Need  New York Magazine8GB of RAM Hasn’t Hurt MacBook Neo Sales at All  Gizmodo",
+    "description": "Incredible MacBook Neo demand may finish off Apple's A18 Pro stock  AppleInsiderHere’s What Apple’s New MacBook Neo Gets Right (And Wrong)  ForbesThe Neo Effect: How Apple’s cheapest Mac is changing the PC game  The VergeApple’s $600 MacBook Is Probably All You Need  New York Magazine'Why does the Neo exist in the first place?' Framework CEO tears down the MacBook Neo and brilliantly pinpoints why Apple made a $599 laptop  Tom's Guide",
     "published date": "Tue, 07 Apr 2026 14:35:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdnpxNTBoOWhIV2hRQXVxTnlfQ0RXU2ZwclB1c0lsSDRFTDREaXFyWkwzd3dKeDBRc2k5THRCTzNGOXRQWWdTQVFpNmNrVjRYT1p4NzEyRUlxbDVPbFpTZVJiblJBNUJlbEJfeEZmR0lhUmRpdXdGaU5lWDhTWnVhTDVuY1Z2Y1F3SjBpN1FZSGdkYlJfekYwSDU5T21jT0RDTTdJQ3M1dWVkaW1C?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://appleinsider.com",
       "title": "AppleInsider"
-    }
-  },
-  {
-    "title": "The Average ‘Crimson Desert’ Player Is Playing 22 Hours A Week - Forbes",
-    "description": "The Average ‘Crimson Desert’ Player Is Playing 22 Hours A Week  ForbesCrimson Desert Players Gets Platinum Trophy After 305 Hours  IGN",
-    "published date": "Tue, 07 Apr 2026 13:39:08 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbFctSG1HakNtREppMWtuOXVKNWhSa3MzN0pfeWo1THJsbmJTeGlZYndkQjdEckxJRVlDakZjNU9MbVlTU2QtY2VNU1dNLWxpWUdybFBISGI3OFFRSm04OUluaDlVVldUcmpzRzMzLWRsM3JfS2h4YU1oM1ZPVHRlZlplbUMyTnFNcTg3aWVlM0gxcm1DVHJHeGhGeUhLSVBQal9jcTZmT0dJanRmQVVBcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.forbes.com",
-      "title": "Forbes"
     }
   },
   {
@@ -610,26 +680,6 @@
     }
   },
   {
-    "title": "Coming to Xbox Game Pass: Kiln, Hades II, Vampire Crawlers, and More - Xbox Wire",
-    "description": "Coming to Xbox Game Pass: Kiln, Hades II, Vampire Crawlers, and More  Xbox WireMicrosoft Confirms Some Big Hitters for Xbox Game Pass April 2026 Wave 1 Lineup  IGNNew Game Pass Games For April 2026: Hades 2, Kiln, And Vampire Crawlers Headline A Busy Month  GameSpotThese 19 Games Are Coming To Xbox Game Pass (April 7-23)  Pure Xbox",
-    "published date": "Tue, 07 Apr 2026 13:01:55 GMT",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KeWdOWkZxbV90MWpKbGdEUEN0Y096SGlIc3NQd3lqUENpRVh5YUg3ME1KXzJreC1XOVhuV0N2M0FlT1lGVUdVTWQyVGdaYlo3OE5nZEM3Z09DaHBRdVEyMFQ5Vk9CSm1BSXN4VTFOS3NWSWViZngtdUpfNV8?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://news.xbox.com",
-      "title": "Xbox Wire"
-    }
-  },
-  {
-    "title": "Lotus Esprit returns as a $569,000 carbon-fiber restomod, with only 50 built worldwide - supercarblondie.com",
-    "description": "Lotus Esprit returns as a $569,000 carbon-fiber restomod, with only 50 built worldwide  supercarblondie.comReborn $570,000 Lotus Esprit Fires Up Its Rebuilt V8 for the First Time  Autoblog",
-    "published date": "Tue, 07 Apr 2026 15:04:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13RDlDcTFXSUhURk4wQVZMUlpmTUZHUE1lS1RucUJiNzZhbk9sc19PaW9xeWc0bmx4VFZVbDdlSm5fVHRhVlZyYzlvZjJFZXlMcDUzZmpPWDlBRVFlb0ZjN3NWSnItS2tD?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://supercarblondie.com",
-      "title": "supercarblondie.com"
-    }
-  },
-  {
     "title": "You Already Have One Of The Best Weapons In ‘Crimson Desert’ - Forbes",
     "description": "You Already Have One Of The Best Weapons In ‘Crimson Desert’  ForbesMost Crimson Desert ‘Best Weapon’ Guides Are Tricking You  Forbes",
     "published date": "Wed, 08 Apr 2026 14:39:51 GMT",
@@ -640,63 +690,13 @@
     }
   },
   {
-    "title": "A year of continuous glucose monitoring pushed me to the edge - The Verge",
-    "description": "A year of continuous glucose monitoring pushed me to the edge  The Verge",
-    "published date": "Wed, 08 Apr 2026 11:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQWlIVGg4ZlRSU1VwWGxmMzJlUjNDc0JIaTNzRk5NTFEyYUJPajhheGppN0FLbjdqYUlJLWVldDA3Y1lSM1hzRkVXek9QVXZxR0EzVlJnUm5GSG43RHJXVk9aNXlkeEtRUWJlSFJxNHV6ci1aM21jSUZodnBDX1RQZ015SGgwNExZdFVCSlVsYVRyb3lnbkN0blh6dHZMeml4bEF4M09R?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Lotus Esprit returns as a $569,000 carbon-fiber restomod, with only 50 built worldwide - supercarblondie.com",
+    "description": "Lotus Esprit returns as a $569,000 carbon-fiber restomod, with only 50 built worldwide  supercarblondie.comReborn $570,000 Lotus Esprit Fires Up Its Rebuilt V8 for the First Time  Autoblog",
+    "published date": "Tue, 07 Apr 2026 15:04:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13RDlDcTFXSUhURk4wQVZMUlpmTUZHUE1lS1RucUJiNzZhbk9sc19PaW9xeWc0bmx4VFZVbDdlSm5fVHRhVlZyYzlvZjJFZXlMcDUzZmpPWDlBRVFlb0ZjN3NWSnItS2tD?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.theverge.com",
-      "title": "The Verge"
-    }
-  },
-  {
-    "title": "5 ChatGPT Prompts To Help Leaders Communicate Clearly And Persuasively - Forbes",
-    "description": "5 ChatGPT Prompts To Help Leaders Communicate Clearly And Persuasively  Forbes",
-    "published date": "Tue, 07 Apr 2026 13:49:59 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc1gxek1oV1dFdmw2NVNaUzV0bGhhaTlfU2lwNmN4Q1BMVzR1eDBZNm1uaTFtRVg1cmhIbWtZQnBKd2tsOGJkMEwtM3VvcnpwSHQ4cEtFa0pvT2FyTGhOUXdhUUFKUjFhZHE0NndNV0lPOW5ZNWtMM05kR0RLZEhuLTB5TzhHN2FOOEIxQXhrSHFrMzR6MVB4TDF5bTR0amphQkR1QXNQc29fVmNxMzV4a2xKalpEd1ZseVFZSWMyeUc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.forbes.com",
-      "title": "Forbes"
-    }
-  },
-  {
-    "title": "Linux gamers didn't do anything wrong, but they might pay for Windows piracy anyway - XDA",
-    "description": "Linux gamers didn't do anything wrong, but they might pay for Windows piracy anyway  XDAA brief history of Denuvo DRM and the new hypervisor bypass — inside the cat-and-mouse game between Denuvo and the piracy scene  Tom's HardwareGame Pirates Beat Denuvo with Hypervisor Bypasses — Irdeto Promises Countermeasure  torrentfreak.com",
-    "published date": "Tue, 07 Apr 2026 21:30:21 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNUc1UGdKdkluazlMa0lYNnI5Z1ZZT04tYXE1NHFVLTJKSEZrbmJEaGg5dkxqajJVSUdjTEFVWHZnZzlQZEt4LVJIdWt6SEkyNFN6WnFjLWx1NTNWWVVnR3FoYWthZWw4aDhIZkdRYXRiNXVRVi1WLXdodVpMRTZwbjUtVTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.xda-developers.com",
-      "title": "XDA"
-    }
-  },
-  {
-    "title": "Amazon to end support for older Kindle devices - TechCrunch",
-    "description": "Amazon to end support for older Kindle devices  TechCrunchAmazon discontinuing support for older Kindles. See affected models.  Yahoo News CanadaGot a Kindle From Before 2013? Amazon Is Pulling Support  PCMagAmazon thanks loyal Kindle devotees by bricking their kit  theregister.comHow to quickly convert EPUB files to Kindle format - and why it matters  ZDNET",
-    "published date": "Wed, 08 Apr 2026 19:56:16 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeGZHNm94TlVKdDBhU0tqQ0pSdmUyeDlWZF92bFRvVTUwbjRXUVNjbDM4QVhuRjdEUnpyRW1mY1NFeVFVa21TT0phVkZCRUpHaXI1Y3lXc0R1TG1JVTZpUENjV1V3U2VlY2hLb0J4SEYyWUNnTVhsMFhSQ1l1WW40Qk5waTVpdzlEQm12cW90dw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://techcrunch.com",
-      "title": "TechCrunch"
-    }
-  },
-  {
-    "title": "The Software Engineers Are Freaking Out - The Free Press",
-    "description": "The Software Engineers Are Freaking Out  The Free PressView Full Coverage on Google News",
-    "published date": "Tue, 07 Apr 2026 16:03:15 GMT",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wb1pBMzJWX2szWVdGdGkyS1h4WU1EZ3FmZ1hKNUJPWVRXRTVWTzZ6SnJtdG1ZcTdDV0dHeVZWMmVMblh0UkZxOVBObnBRN1ZUakR4ajB1REpoN2tPUzNscXlEaTZEQ0RPb0Jj?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.thefp.com",
-      "title": "The Free Press"
-    }
-  },
-  {
-    "title": "6 Of The Best Soundbars For Audiophiles, According To Audiophiles - SlashGear",
-    "description": "6 Of The Best Soundbars For Audiophiles, According To Audiophiles  SlashGear12 Of The Best Soundbars You Can Buy In 2026, Ranked  bgr.com",
-    "published date": "Wed, 08 Apr 2026 15:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcjlwRjY3SzRYcUc5dXdnTnpkVFpoNmxGbjJ2QzRhTzFDUkVKczJQOGsyYy13NU1iV1NNaGFlLXVGSUUwZTBieXE2MGR2NWlWN1Mzc0hDcFdTd2k4QWNpbUVScEF6YmVtc25zM1JkanZkdmh4aU5vWWJGUHo0UlQwYWowQm9rNGRaRXY5OXBnY3BTWmM0LWZaUU00ZE84VkF4?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.slashgear.com",
-      "title": "SlashGear"
+      "href": "https://supercarblondie.com",
+      "title": "supercarblondie.com"
     }
   }
 ]
