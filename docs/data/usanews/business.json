@@ -1,15 +1,5 @@
 [
   {
-    "title": "Anthropic’s latest AI model strikes fear into banks - Morning Brew",
-    "description": "Anthropic’s latest AI model strikes fear into banks  Morning BrewProject Glasswing: Securing critical software for the AI era  AnthropicMeta's most-popular former employee and father of AI Yann LeCun calls Anthropic's latest model that has everyone scared, as 'Drama'  The Times of IndiaAnthropic's Mythos sparks Washington's big bank anxiety  Yahoo FinanceBanks Are Warned About Anthropic’s New, Powerful A.I. Technology  The New York Times",
-    "published date": "Sat, 11 Apr 2026 08:33:42 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRmdoRzI0OHVuMXhJUmMyRUdTZWhDM1hTTnJYWTJ6cnFISkVPOHlIVE5lT3k2enpDMGJZdjlWWXh1UnJfZkdMQzNtYjdESHFSOElGWnk2Y0trNzVDM0htRk9zRTRPQzhqU3FZZHNDUXp0Z2VOa3ltMGVtZS1nQ3lBUU5DbTgwa1F0bXBtMW5GRlQxblFjWVEzdUdOS1Y?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.morningbrew.com",
-      "title": "Morning Brew"
-    }
-  },
-  {
     "title": "An AI started and employed an entire store with $100,000. It screwed up with staffing on day one. - Business Insider",
     "description": "An AI started and employed an entire store with $100,000. It screwed up with staffing on day one.  Business InsiderSan Francisco store created and managed by AI  NBC Bay AreaAI runs this store. It's lied, surveilled workers and tried to hire someone in Afghanistan  NBC NewsAI Launches San Francisco Retail Store, Hires Staff  Let's Data ScienceCow Hollow Corner Store Lets Robot Boss Hire The Human Help  Hoodline",
     "published date": "Sun, 12 Apr 2026 01:30:00 GMT",
@@ -21,12 +11,22 @@
   },
   {
     "title": "‘Close to midnight’: Alleged Sam Altman firebomber wrote of fears AI would end humanity - San Francisco Chronicle",
-    "description": "‘Close to midnight’: Alleged Sam Altman firebomber wrote of fears AI would end humanity  San Francisco ChronicleSam Altman Confirms Molotov Cocktail Incident and Responds to “Incendiary” New Yorker Investigation  YahooSFPD arrests young suspect who allegedly threw Molotov cocktail at home of OpenAI CEO Sam Altman  Mission Local20-year-old suspect arrested after throwing Molotov cocktail at Sam Altman's San Francisco home, OpenAI says  ABC7 San FranciscoSuspect in Molotov cocktail attack on Sam Altman’s home identified  The San Francisco Standard",
+    "description": "‘Close to midnight’: Alleged Sam Altman firebomber wrote of fears AI would end humanity  San Francisco ChronicleSam Altman Confirms Molotov Cocktail Incident and Responds to “Incendiary” New Yorker Investigation  YahooSFPD arrests young suspect who allegedly threw Molotov cocktail at home of OpenAI CEO Sam Altman  Mission LocalMan arrested after Sam Altman's house hit with Molotov cocktail, OpenAI headquarters threatened  CNBC20-year-old suspect arrested after throwing Molotov cocktail at Sam Altman's San Francisco home, OpenAI says  ABC7 San Francisco",
     "published date": "Sat, 11 Apr 2026 20:56:36 GMT",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRGFBemY0NDg1dGtoWXBvZDNodXh0ck12Q0xmbkNraG1VOWZMTjhnRThyek5mc1VnWXJ0alZ4MXRNSnpHanlqU1F2NFlBbDM2Z1l0SEVGTlBUNXhySU56RFhGTjZON0UxSlVHYndtNFpMMkVfTlVJR2Q5bndsYmkyQW1vR3hxMFVoNV9hbFl4UG1jcllCY1lHa3NFSFlSakRzeDJn?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.sfchronicle.com",
       "title": "San Francisco Chronicle"
+    }
+  },
+  {
+    "title": "Commodity traders lost ‘billions’ in early days of Iran war - Financial Times",
+    "description": "Commodity traders lost ‘billions’ in early days of Iran war  Financial TimesEnergy Trader Vitol Reorganizes Derivatives Team After Losses  Bloomberg.comExclusive | Wrong-Way Bets on Oil Had a Star Trader Hundreds of Millions in the Hole  WSJIran war prompts Intercontinental Exchange to raise oil futures margins  NewsBytesVitol, the 'crude oil trading giant,' suffers heavy losses amid the Iran conflict as a star derivatives trader of Chinese descent incurs massive losses from leveraged positions.  富途牛牛",
+    "published date": "Sun, 12 Apr 2026 04:01:56 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUjNEZlhtU0N3MExiOXUzSEdHSk90dm5WUW80aG9CZ1ZLRUh6dlh0M3pvaGJtUzdXeDkyVnpKaXlSVVlXTDhEbXh3bnFHQWJNeW83TFJ4OWtjVlBpeEVXbkEwbGFBWEVXNVE4OENKWEQ0QnpheVRrMHpjZFRUUkROUFIxUTA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ft.com",
+      "title": "Financial Times"
     }
   },
   {
@@ -40,13 +40,13 @@
     }
   },
   {
-    "title": "Energy Trader Vitol Reorganizes Derivatives Team After Losses - Bloomberg.com",
-    "description": "Energy Trader Vitol Reorganizes Derivatives Team After Losses  Bloomberg.comExclusive | Wrong-Way Bets on Oil Had a Star Trader Hundreds of Millions in the Hole  WSJIran war prompts Intercontinental Exchange to raise oil futures margins  NewsBytesVitol, the 'crude oil trading giant,' suffers heavy losses amid the Iran conflict as a star derivatives trader of Chinese descent incurs massive losses from leveraged positions.  富途牛牛Oil Trading Costs Have Surged Since Iran War Began  Mint",
-    "published date": "Sat, 11 Apr 2026 16:49:15 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWDNpV1UxZDBwZWNOYWYyaC1qOV9kTzBjbHNJbHN0b1BCWDZQaEwzdFhFX3pwbHRpME52eFNjeEhodTVLMDR0anZjbm1odVhadlNITEhXcFFMUnY1WVJnX1pkSUZqQWU0UkZaaGdEdUFLQlVCTjdMSUJOQl95anVRZnljWXdtSnh5RmNIUkg2NG5wLVpFbjhtSGRfc0stRzlRV1hzVGpydi1fZHJGN1U2RzJR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Anthropic’s latest AI model strikes fear into banks - Morning Brew",
+    "description": "Anthropic’s latest AI model strikes fear into banks  Morning BrewBanks Are Warned About Anthropic’s New, Powerful A.I. Technology  The New York TimesMeta's most-popular former employee and father of AI Yann LeCun calls Anthropic's latest model that has everyone scared, as 'Drama'  The Times of IndiaProject Glasswing: Securing critical software for the AI era  AnthropicAnthropic's Mythos sparks Washington's big bank anxiety  Yahoo Finance",
+    "published date": "Sat, 11 Apr 2026 08:33:42 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRmdoRzI0OHVuMXhJUmMyRUdTZWhDM1hTTnJYWTJ6cnFISkVPOHlIVE5lT3k2enpDMGJZdjlWWXh1UnJfZkdMQzNtYjdESHFSOElGWnk2Y0trNzVDM0htRk9zRTRPQzhqU3FZZHNDUXp0Z2VOa3ltMGVtZS1nQ3lBUU5DbTgwa1F0bXBtMW5GRlQxblFjWVEzdUdOS1Y?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.bloomberg.com",
-      "title": "Bloomberg.com"
+      "href": "https://www.morningbrew.com",
+      "title": "Morning Brew"
     }
   },
   {
@@ -60,13 +60,13 @@
     }
   },
   {
-    "title": "How AI is getting better at finding security holes - NPR",
-    "description": "How AI is getting better at finding security holes  NPR'Vulnpocalypse': What happens when AI gives hackers a superweapon  NBC NewsA.I. Is on Its Way to Upending Cybersecurity  The New York TimesEven Without Mythos, Researchers Say AI is Getting Scary Good at Hacking  The InformationHow Shadow AI Culture Is Destroying Your Business  Forbes",
-    "published date": "Sat, 11 Apr 2026 09:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObEhQTS1hZGhScUtkQWVJeHg4ZmU4TmFsVmpQdF9Gam5hNWl4Q1VvTm92ZDM1MFJQMUtqVzhQM290WlNqMEhWV2R5elZ6c3NQNTJGbFVqMXByclJyVWd1RmZTVHZDYUtHVzM4cnAtVkUzUkR0UldBd1FsOHRpcEFEMWRFYVpOZEhreG1jcS1zRjM1clp1LXVSMnQzcVNWY3A1OE5XS2puSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "'The plan is working': Trump's trade chief brushes off economic fears in Rust Belt tour - Politico",
+    "description": "'The plan is working': Trump's trade chief brushes off economic fears in Rust Belt tour  PoliticoTrump's Trade Chief Defends Economic Policies During Rust Belt Tour  National TodayTrump trade rep says manufacturing jobs will rebound in Michigan tour  MSNAmericans are making more and getting paid more to do it: US trade representative  YahooU.S. Trade Representative. Jamieson Greer tours Atomic Industries  The Detroit News",
+    "published date": "Sat, 11 Apr 2026 14:55:09 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRmNSQ3BES3VQV3lLa2JZVFZmRGV6QVhmZmk0N2Z1TGhuVm5RNU8xLXBzRUdWMks0VklOWjZDaHlsR2JjZDJUN3lDaU45NzF1ZFRmenlGWGtSWXd0UmpBWnBXQ0J5Z2hoOUhtWHRiUlNnNm1lVFhtYkFIcDZWeFRRYVZZV3lkWmxsZ3NHQ2U0QS04Q1Q3NkswNmN3?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.npr.org",
-      "title": "NPR"
+      "href": "https://www.politico.com",
+      "title": "Politico"
     }
   },
   {
@@ -80,13 +80,13 @@
     }
   },
   {
-    "title": "'The plan is working': Trump's trade chief brushes off economic fears in Rust Belt tour - Politico",
-    "description": "'The plan is working': Trump's trade chief brushes off economic fears in Rust Belt tour  PoliticoTrump's Trade Chief Defends Economic Policies During Rust Belt Tour  National TodayTrump trade rep says manufacturing jobs will rebound in Michigan tour  MSNAmericans are making more and getting paid more to do it: US trade representative  YahooU.S. Trade Representative. Jamieson Greer tours Atomic Industries  The Detroit News",
-    "published date": "Sat, 11 Apr 2026 14:55:09 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRmNSQ3BES3VQV3lLa2JZVFZmRGV6QVhmZmk0N2Z1TGhuVm5RNU8xLXBzRUdWMks0VklOWjZDaHlsR2JjZDJUN3lDaU45NzF1ZFRmenlGWGtSWXd0UmpBWnBXQ0J5Z2hoOUhtWHRiUlNnNm1lVFhtYkFIcDZWeFRRYVZZV3lkWmxsZ3NHQ2U0QS04Q1Q3NkswNmN3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Buyers fret as the average cost of a new car nears $50K - AP News",
+    "description": "Buyers fret as the average cost of a new car nears $50K  AP NewsAverage price of new cars nears $50,000 as automakers focus on big pickups and SUVs  FortuneKelley Blue Book Report: New-Vehicle Price Increases Accelerate in March As Large Trucks and SUVs Gain Share  Cox Automotive Inc.Why it’s gotten so expensive to buy a car in America  nny360.comNew cars getting out of reach for some Americans; average sticker price approaching $50,000  West Kentucky Star",
+    "published date": "Sat, 11 Apr 2026 17:52:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTkRqTmQ1eUZGeVhBVEUwVlRqOExESUdzYk5XNF9teVVOSjFFRERVM3gtNFZ3SHJDcUdKZVBPQldFRF9zUVVQeEU2Y01LNUhiYVZTWHFFbEVXMjU0NzViTzZOWFhyTmpkMFFwTVhoTXp6TVdpRVpEYzBxWUZVd2RWalJoOTBYQ24xb0trdGdiZGJGTTEtczFkSW9Qdw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.politico.com",
-      "title": "Politico"
+      "href": "https://apnews.com",
+      "title": "AP News"
     }
   },
   {
@@ -100,13 +100,13 @@
     }
   },
   {
-    "title": "Buyers fret as the average cost of a new car nears $50K - AP News",
-    "description": "Buyers fret as the average cost of a new car nears $50K  AP NewsView Full Coverage on Google News",
-    "published date": "Sat, 11 Apr 2026 17:52:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTkRqTmQ1eUZGeVhBVEUwVlRqOExESUdzYk5XNF9teVVOSjFFRERVM3gtNFZ3SHJDcUdKZVBPQldFRF9zUVVQeEU2Y01LNUhiYVZTWHFFbEVXMjU0NzViTzZOWFhyTmpkMFFwTVhoTXp6TVdpRVpEYzBxWUZVd2RWalJoOTBYQ24xb0trdGdiZGJGTTEtczFkSW9Qdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Anthropic closes in on OpenAI as US business use surges - Financial Times",
+    "description": "Anthropic closes in on OpenAI as US business use surges  Financial TimesVibe check from inside one of AI industry's main events: 'Claude mania'  CNBCAnthropic is close to overtaking OpenAI on this measure of AI business spending  Business InsiderAt HumanX, Anthropic Stokes AI Optimism  The InformationAnthropic Is the Center of the AI Orbit at HumanX Conference  Bloomberg.com",
+    "published date": "Sat, 11 Apr 2026 04:01:57 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTVJIZE1vTWNUYmc0T2RHTjhOYTFxcHE1VHotVDVwLTFJR1k0Vm52MFAtMXBRMy1sOEVjTzhObEhVOFpXRVJUNEZ2ei14QkJ1eHIwc055TlgxSE9Vai1jT1dnY2g2V2NVQXdUc0tHVFZmZ3JPODhPVjZPMlNXN25hMTV5dDU?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://apnews.com",
-      "title": "AP News"
+      "href": "https://www.ft.com",
+      "title": "Financial Times"
     }
   },
   {
@@ -120,28 +120,8 @@
     }
   },
   {
-    "title": "Anthropic closes in on OpenAI as US business use surges - Financial Times",
-    "description": "Anthropic closes in on OpenAI as US business use surges  Financial TimesVibe check from inside one of AI industry's main events: 'Claude mania'  CNBCAnthropic is close to overtaking OpenAI on this measure of AI business spending  Business InsiderAt HumanX, Anthropic Stokes AI Optimism  The InformationAnthropic Is the Center of the AI Orbit at HumanX Conference  Bloomberg.com",
-    "published date": "Sat, 11 Apr 2026 04:01:57 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTVJIZE1vTWNUYmc0T2RHTjhOYTFxcHE1VHotVDVwLTFJR1k0Vm52MFAtMXBRMy1sOEVjTzhObEhVOFpXRVJUNEZ2ei14QkJ1eHIwc055TlgxSE9Vai1jT1dnY2g2V2NVQXdUc0tHVFZmZ3JPODhPVjZPMlNXN25hMTV5dDU?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ft.com",
-      "title": "Financial Times"
-    }
-  },
-  {
-    "title": "USPS Is Running Out of Money. Here’s How It Could Affect Your Mail. - The New York Times",
-    "description": "USPS Is Running Out of Money. Here’s How It Could Affect Your Mail.  The New York TimesUSPS suspends contributions to pension plan to delay running out of cash  Federal News NetworkOpinion | Tinkering with stamp prices won’t save the Postal Service  The Washington PostCash-strapped US Postal Service suspends contributions to pension plan  ReutersUSPS recommends new prices  USPS",
-    "published date": "Sat, 11 Apr 2026 18:41:43 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWHZYNEZjNXNTZUhSYnE4NlpFQkE2S256ZTExS1d5ODFrSjY4bUJvWHFpTEZQRW51MWdvMlY0ODh4VnpURXZxdGx0R0puUk1NNFB1TjNOLXdKR3FGcUpJRmNPY1BvcHlNRHVPWEQwS2xmcTJhTEpEaEhHUkhNX0tvV1U2YjR1WnM?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.nytimes.com",
-      "title": "The New York Times"
-    }
-  },
-  {
     "title": "Fuel Shortages From Iran War Threaten Asia’s Biggest Food Staple - Bloomberg.com",
-    "description": "Fuel Shortages From Iran War Threaten Asia’s Biggest Food Staple  Bloomberg.comHigh fertiliser prices mean more soybeans for farmers – and greater reliance on China  South China Morning PostThe Iran War’s Agriculture Shock Isn’t Over Yet  Foreign PolicyIran war’s impact on fertilizer and fuel  ReutersIran war's shock waves threaten England's farms 6,000 miles away  NBC News",
+    "description": "Fuel Shortages From Iran War Threaten Asia’s Biggest Food Staple  Bloomberg.comA global food emergency: Why the closed Strait of Hormuz puts half the world's calories at risk  FortuneHigh fertiliser prices mean more soybeans for farmers – and greater reliance on China  South China Morning PostThe Iran War’s Agriculture Shock Isn’t Over Yet  Foreign PolicyIran war’s impact on fertilizer and fuel  Reuters",
     "published date": "Sat, 11 Apr 2026 00:00:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb0c5SDlkVTFuYVlYWHJTZGUzUktZQ3Q5QVY4MU9mNld4UnE2OGQ0MkY0MURQYk9UdGI3anpVaVN2LXFCNldNcjJEdFVhVlZ5RWJjRVBkM1FJN0RCZXVLWGE2dmV3VnNPc2RPRVR0TU5odEhGMjNSVWQxSXdmS281T1hINlZXeEpvak1LYVdzM1FIeG9YQWU5MXZscGFmNjNMZVZnNnNOa05iX0drUE9Yd180emtVUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -150,8 +130,18 @@
     }
   },
   {
+    "title": "USPS Is Running Out of Money. Here’s How It Could Affect Your Mail. - The New York Times",
+    "description": "USPS Is Running Out of Money. Here’s How It Could Affect Your Mail.  The New York TimesUSPS suspends contributions to pension plan to delay running out of cash  Federal News NetworkOpinion | Tinkering with stamp prices won’t save the Postal Service  The Washington PostCash-strapped US Postal Service suspends contributions to pension plan  ReutersUSPS suspends pension contributions and seeks to raise stamp prices amid cash ‘crisis'  NBC4 Washington",
+    "published date": "Sat, 11 Apr 2026 18:41:43 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWHZYNEZjNXNTZUhSYnE4NlpFQkE2S256ZTExS1d5ODFrSjY4bUJvWHFpTEZQRW51MWdvMlY0ODh4VnpURXZxdGx0R0puUk1NNFB1TjNOLXdKR3FGcUpJRmNPY1BvcHlNRHVPWEQwS2xmcTJhTEpEaEhHUkhNX0tvV1U2YjR1WnM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nytimes.com",
+      "title": "The New York Times"
+    }
+  },
+  {
     "title": "Middle East war to cut growth, deliver cascading impact, World Bank chief says - Reuters",
-    "description": "Middle East war to cut growth, deliver cascading impact, World Bank chief says  ReutersOpinion | I Studied the Economic Fallout From World War I. This Could Be Worse Than We Expect.  The New York TimesHead of IMF says Iran war will permanently scar global economy even if peace is reached  The GuardianConflict Hits MENAAP Economies, Underscoring Need for Action to Boost Resilience, Create Jobs  World BankCharting the Global Economy: War Fuels Inflation, Saps Sentiment  Bloomberg.com",
+    "description": "Middle East war to cut growth, deliver cascading impact, World Bank chief says  ReutersOpinion | I Studied the Economic Fallout From World War I. This Could Be Worse Than We Expect.  The New York TimesCharting the Global Economy: War Fuels Inflation, Saps Sentiment  Bloomberg.comIMF chief's warning: No painless exit from war's energy shock  AxiosIMF Chief Expects Slowdown on Global Economic Growth Even if Peace Is ‘Durable’  WSJ",
     "published date": "Fri, 10 Apr 2026 19:02:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObW8zc2RJNmt0ZUVldFRlWmctY0sxdEhFVzUyY1dtcndxbFh1emVrdGh6LVptZnVNZVAwdlpqT0NNVDFvWnFyYVFPVEp5NDBYblRQY0hyZjQzb3NjVV9PWUxrRjdMby00VE5NRGE0aTVvUm8xZEk3MjU2RkFJM3hPY2h3NzVKR3JJbzdVS29ORTdBelJReW1nMjBjb2tXSVN6bkdxeGpFaHRnUElCdmlUOFYyTWVodW0wem54anNHWXJBWkVIUHc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -161,22 +151,12 @@
   },
   {
     "title": "Judge blocks new state rules that ban sale of smokable hemp - KUT",
-    "description": "Judge blocks new state rules that ban sale of smokable hemp  KUTJudge rules to temporarily block Texas’ smokeable hemp ban  The Texas TribuneSmokable hemp ban temporarily lifted, shops can sell smokable products again, Travis County judge says  ABC13 HoustonTexas hemp industry hopeful to continue operation amid pause on THC ban  FOX 4 News Dallas-Fort WorthJudge pauses Texas' new ban on smokable THC  Houston Chronicle",
+    "description": "Judge blocks new state rules that ban sale of smokable hemp  KUTJudge rules to temporarily block Texas’ smokeable hemp ban  The Texas TribuneSmokable hemp ban temporarily lifted, shops can sell smokable products again, Travis County judge says  ABC13 HoustonTexas hemp industry hopeful to continue operation amid pause on THC ban  FOX 4 News Dallas-Fort WorthTexas hemp shops celebrate reprieve after court halts smokable THC ban  CBS News",
     "published date": "Fri, 10 Apr 2026 21:09:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPakV0aEk2Sk8yNUdJWnRiR2VWdHgxQlJMV3NPTXpSMnFWN3dVMWNncmxfWDNXX0h0RHljTzdpR0VkQkRZUTdoZ3pDZ1FuMVdLMkw4XzhSVUZfdnFfRUNoMzVCeVlEUmIwZURla3RrNnJpUTNrMHlRUzNVZ051QVJzaTZBa1VkaEd0WmtUUmZ0MFdHQmtfU1AyRnVkRlFXbW82Y3l6X0dKVmQ4cE9NQ1RBNzZvXzc4aTBnYWFr?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.kut.org",
       "title": "KUT"
-    }
-  },
-  {
-    "title": "European airports face jet fuel shortages within three weeks - Financial Times",
-    "description": "European airports face jet fuel shortages within three weeks  Financial TimesAirports could face a jet fuel crunch within 3 weeks as airlines weigh flight cancellations  CNBCEU airline industry warns of fuel shortages if Strait of Hormuz stays closed  BBCEurope could face jet fuel crunch within weeks, airports body warns  ReutersAirlines are canceling flights as they face jet fuel shortages and rising prices brought on by the Iran war  Business Insider",
-    "published date": "Fri, 10 Apr 2026 09:46:40 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVJuSFdKOXVVQm9jdk9RanF3NlMwVWhlZGhTeXV0dVlDVkhKZ0VGMDNWVEEwNDNWUkx5QnNUeGgtcjhkV01GSmhfSDhreWVWbjUwZHE5MG5VYm5SRmdZOVpORVc4czFEWGVyM2FDeU5icWVpYXpCSUFTOFRKMUJPRGIyclY?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ft.com",
-      "title": "Financial Times"
     }
   },
   {
@@ -200,18 +180,8 @@
     }
   },
   {
-    "title": "The Netherlands is the first European country to approve Tesla’s supervised Full Self-Driving - The Verge",
-    "description": "The Netherlands is the first European country to approve Tesla’s supervised Full Self-Driving  The VergeTesla's supervised self-driving software gets Dutch okay, first in Europe  ReutersTesla FSD in Europe vs. US: It’s not what you think  TeslaratiTesla gets FSD Supervised approved in the Netherlands — here’s what it means  ElectrekThe first European country to get Tesla’s Full Self-Driving Supervised will be the Netherlands  Engadget",
-    "published date": "Sat, 11 Apr 2026 23:22:15 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdVZrb0VqbDdnS1ViR2pSZ3hqZzd5VzJsNGdkdUItNkl3NG9wNzU5QjBac2NFUlRqcVpBejhRemxBMTU5WG5LZDdObElDTVR4Wjg0N3pMODR0M20wX3VkQzEybUtTS3ZIMGU2TGZLV2VtVmZiUWtpUHVaZl9OeURiQTN1MnM2bE1JWnBaMTBMUkx6cFRHZ0cyeA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theverge.com",
-      "title": "The Verge"
-    }
-  },
-  {
     "title": "From Boston to Denver, US drivers cut back as Iran war pushes fuel costs higher - Reuters",
-    "description": "From Boston to Denver, US drivers cut back as Iran war pushes fuel costs higher  ReutersAmerica barely uses Middle East oil. So why did gas prices rise?  USA TodayGas Prices Are Americans’ Top Concern in Iran War  Pew Research CenterIs Oregon going to suspend the gas tax amid war in Iran? Kotek responds  KOIN.comGraphic: Track U.S. and state gas prices  NBC News",
+    "description": "From Boston to Denver, US drivers cut back as Iran war pushes fuel costs higher  ReutersGas Prices Are Americans’ Top Concern in Iran War  Pew Research CenterAmerica barely uses Middle East oil. So why did gas prices rise?  USA TodayReport: Mass. drivers have paid more than $1 million extra at the pump since the Iran war began  Boston.comIs Oregon going to suspend the gas tax amid war in Iran? Kotek responds  KOIN.com",
     "published date": "Sat, 11 Apr 2026 12:27:34 GMT",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGN0NHR3YzdiWXVmNnViaGNhd3R3R1E0eHZGNldpMU4yWWROUTdvbVN2UnI0ZjRBei05YnJ1ZnBFRFh0Z25meWg3T2dmZnU1YURWTF90Vlh3eTVlTEhnY0xrSVBDSmlYWjFwblQ1YWZzVDhvOHg1Q2tLcmtFNzE5Vnp3MGl4eGNqeWlyRTBfRjQ1NVVKYXMwcVpaeGpQSmJZYzgtOGlXVDliN0pNWndEWW1IVmlvdnV0dUxn?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -221,12 +191,22 @@
   },
   {
     "title": "CFTC Announces Innovation Task Force Staff - Commodity Futures Trading Commission | CFTC (.gov)",
-    "description": "CFTC Announces Innovation Task Force Staff  Commodity Futures Trading Commission | CFTC (.gov)CFTC Names Task Force to Set AI and Prediction Market Rules  PYMNTS.comThe US Commodity Futures Trading Commission announces the first members of its innovation task force to promote clarity in cryptocurrency regulation.  BitgetCrypto Regulation News: CFTC Task Force Signals Major Shift for US Crypto Rules  Coinpedia Fintech NewsCFTC Taps Latham, Sidley Attys For Innovation Task Force  Law360",
+    "description": "CFTC Announces Innovation Task Force Staff  Commodity Futures Trading Commission | CFTC (.gov)CFTC Names Task Force to Set AI and Prediction Market Rules  PYMNTS.comThe US Commodity Futures Trading Commission announces the first members of its innovation task force to promote clarity in cryptocurrency regulation.  BitgetCrypto Regulation News: CFTC Task Force Signals Major Shift for US Crypto Rules  CoinpediaCFTC Taps Latham, Sidley Attys For Innovation Task Force  Law360",
     "published date": "Fri, 10 Apr 2026 18:05:02 GMT",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vSGlXcjFoVVJkM0piQUU2Nllsc1UwdmNWSUxzcjk4UVpZWHFwQmo1Sk5mTTNMODBkcjVQNEw5aXpZd2JCZkJscjFGVWJBWk9NTWxXSXc3cVhtRHZCTlRRM3NB?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.cftc.gov",
       "title": "Commodity Futures Trading Commission | CFTC (.gov)"
+    }
+  },
+  {
+    "title": "European airports face jet fuel shortages within three weeks - Financial Times",
+    "description": "European airports face jet fuel shortages within three weeks  Financial TimesEU airline industry warns of fuel shortages if Strait of Hormuz stays closed  BBCAirports could face a jet fuel crunch within 3 weeks as airlines weigh flight cancellations  CNBCAirlines are canceling flights as they face jet fuel shortages and rising prices brought on by the Iran war  Business InsiderJet Fuel Crunch Is Getting Severe With No Reprieve in Sight for Airlines  WSJ",
+    "published date": "Fri, 10 Apr 2026 09:46:40 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVJuSFdKOXVVQm9jdk9RanF3NlMwVWhlZGhTeXV0dVlDVkhKZ0VGMDNWVEEwNDNWUkx5QnNUeGgtcjhkV01GSmhfSDhreWVWbjUwZHE5MG5VYm5SRmdZOVpORVc4czFEWGVyM2FDeU5icWVpYXpCSUFTOFRKMUJPRGIyclY?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ft.com",
+      "title": "Financial Times"
     }
   },
   {
@@ -240,8 +220,18 @@
     }
   },
   {
+    "title": "The Netherlands is the first European country to approve Tesla’s supervised Full Self-Driving - The Verge",
+    "description": "The Netherlands is the first European country to approve Tesla’s supervised Full Self-Driving  The VergeTesla's supervised self-driving software gets Dutch okay, first in Europe  ReutersTesla FSD in Europe vs. US: It’s not what you think  TeslaratiTesla gets FSD Supervised approved in the Netherlands — here’s what it means  ElectrekThe first European country to get Tesla’s Full Self-Driving Supervised will be the Netherlands  Engadget",
+    "published date": "Sat, 11 Apr 2026 23:22:15 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdVZrb0VqbDdnS1ViR2pSZ3hqZzd5VzJsNGdkdUItNkl3NG9wNzU5QjBac2NFUlRqcVpBejhRemxBMTU5WG5LZDdObElDTVR4Wjg0N3pMODR0M20wX3VkQzEybUtTS3ZIMGU2TGZLV2VtVmZiUWtpUHVaZl9OeURiQTN1MnM2bE1JWnBaMTBMUkx6cFRHZ0cyeA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theverge.com",
+      "title": "The Verge"
+    }
+  },
+  {
     "title": "People Who Lose Their Job to AI Are in for a World of Pain, Goldman Sachs Report Finds - Futurism",
-    "description": "People Who Lose Their Job to AI Are in for a World of Pain, Goldman Sachs Report Finds  FuturismTech companies are cutting jobs and betting on AI. The payoff is far from guaranteed  The GuardianAI-Displaced Workers Could Face Long Setbacks, Report Finds  WSJThe one piece of data that could actually shed light on your job and AI  MIT Technology ReviewThe white-collar jobs most exposed to AI, according to Anthropic’s own data  Fortune",
+    "description": "People Who Lose Their Job to AI Are in for a World of Pain, Goldman Sachs Report Finds  FuturismAnthropic's research shows that AI can already do a huge portion of many jobs; its top economist talks about how that could shape the future of work  FortuneTech companies are cutting jobs and betting on AI. The payoff is far from guaranteed  The GuardianAI-Displaced Workers Could Face Long Setbacks, Report Finds  WSJThe one piece of data that could actually shed light on your job and AI  MIT Technology Review",
     "published date": "Sat, 11 Apr 2026 10:00:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pMWxOVU5zVTVHc1A0NU1GTmxpT2pGNXBrUnRCOVJVbmU1aFlFTnZDZFYtRmNYZ0N2RS1MbDVTZGxvenp2N05CSHZMaUlVY0pLaTBTSEN6RmNYOUpiaUxOODFxcEx5OXNNYnVXSWpfc0F1LU12aXNGRg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -251,7 +241,7 @@
   },
   {
     "title": "How the Iran war could create a new global order in oil - Axios",
-    "description": "How the Iran war could create a new global order in oil  AxiosDesperate for fuel, US allies in Asia are turning to its adversaries instead  CNNCan the world bypass the Strait of Hormuz?  The TelegraphThis Isn’t a 1970s Oil Shock  Foreign PolicyCrisis in Hormuz Exposes Fragility of the Rules-Based Order  Geopolitical Monitor",
+    "description": "How the Iran war could create a new global order in oil  AxiosDesperate for fuel, US allies in Asia are turning to its adversaries instead  CNNThe Hormuz War Will End  The AtlanticCrisis in Hormuz Exposes Fragility of the Rules-Based Order  Geopolitical MonitorThis Isn’t a 1970s Oil Shock  Foreign Policy",
     "published date": "Fri, 10 Apr 2026 09:32:20 GMT",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96WjRHQ21lb0cyUUpRaFFCdDlNRHBMYUdQcmV5aDNvRmFBdWhXN2NRVm0wNGtpUWwxUkEwdkpXRUVlRjR4cm9kT29aV19YT04xT3IwbGI5Nk5tVlVIcUEtMQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -270,6 +260,16 @@
     }
   },
   {
+    "title": "How AI is getting better at finding security holes - NPR",
+    "description": "How AI is getting better at finding security holes  NPR'Vulnpocalypse': What happens when AI gives hackers a superweapon  NBC NewsA.I. Is on Its Way to Upending Cybersecurity  The New York TimesEven Without Mythos, Researchers Say AI is Getting Scary Good at Hacking  The InformationHow Shadow AI Culture Is Destroying Your Business  Forbes",
+    "published date": "Sat, 11 Apr 2026 09:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObEhQTS1hZGhScUtkQWVJeHg4ZmU4TmFsVmpQdF9Gam5hNWl4Q1VvTm92ZDM1MFJQMUtqVzhQM290WlNqMEhWV2R5elZ6c3NQNTJGbFVqMXByclJyVWd1RmZTVHZDYUtHVzM4cnAtVkUzUkR0UldBd1FsOHRpcEFEMWRFYVpOZEhreG1jcS1zRjM1clp1LXVSMnQzcVNWY3A1OE5XS2puSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.npr.org",
+      "title": "NPR"
+    }
+  },
+  {
     "title": "'How are you using AI?' Your therapist should ask you that question, experts argue - NPR",
     "description": "'How are you using AI?' Your therapist should ask you that question, experts argue  NPRThe ChatGPT Symptom Spiral  The AtlanticJust how bad are generative AI chatbots for our mental health?  The ConversationChatGPT Is Sending People Into Obsessive Spirals of Hypochondria  FuturismAI in Psychiatry Raises Ethics Questions With Dominic Sisti, PhD  HCPLive",
     "published date": "Fri, 10 Apr 2026 13:30:11 GMT",
@@ -277,16 +277,6 @@
     "publisher": {
       "href": "https://www.npr.org",
       "title": "NPR"
-    }
-  },
-  {
-    "title": "‘How Do We Make Sure That Claude Behaves Itself?’: Anthropic Invited 15 Christians for a Summit - Gizmodo",
-    "description": "‘How Do We Make Sure That Claude Behaves Itself?’: Anthropic Invited 15 Christians for a Summit  GizmodoCan AI be a ‘child of God’? Inside Anthropic’s meeting with Christian leaders.  The Washington PostAnthropic Consults Christian Leaders on Claude's Moral Development  Let's Data ScienceClaude developer hosts Christian leaders for AI summit  Premier Christian NewsAnthropic Hosts Summit with 15 Christians to Ensure Claude’s Proper Conduct  El-Balad.com",
-    "published date": "Sat, 11 Apr 2026 19:28:04 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWXBwc1JWbE1yZ0xGVE4zMjBvRHVEZmpuMnFmREZWaDQzUFl5WUMwQW40RzV5Qnpjd2o1bElsS24wMHdycTBxNnlGVFRzM3lNSHFRMGRaVm1UdnNKQUZwMlhsbUttLTdDUnVYWkQ1cTRWdXpjQkEyQzRINHZFeC1YQzdsMzVLYmRvM283ZU5Zd1NmenJRVW8tcndkOWJIY2cwN2daVXZ6ZHpsZkE2TnA4UjdUdjlhNUVrUHlKNjM4TQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://gizmodo.com",
-      "title": "Gizmodo"
     }
   },
   {
@@ -301,7 +291,7 @@
   },
   {
     "title": "Vineyard Wind Sues Turbine Manufacturer To Stop It From Backing Out Of Wind Farm; $4.5 Billion Project In Jeopardy - Nantucket Current",
-    "description": "Vineyard Wind Sues Turbine Manufacturer To Stop It From Backing Out Of Wind Farm; $4.5 Billion Project In Jeopardy  Nantucket CurrentDeveloper of Massachusetts offshore wind farm sues to stop turbine manufacturer from walking away  AP NewsVineyard Wind sues GE Vernova to block it from abandoning work on wind farm  ReutersIberdrola dispute with GE Vernova over US offshore wind farm erupts into the open  Recharge NewsVineyard Wind sues GE Renewables to block it from abandoning project  The New Bedford Light",
+    "description": "Vineyard Wind Sues Turbine Manufacturer To Stop It From Backing Out Of Wind Farm; $4.5 Billion Project In Jeopardy  Nantucket CurrentDeveloper of Massachusetts offshore wind farm sues to stop turbine manufacturer from walking away  AP NewsVineyard Wind sues GE Vernova to block it from abandoning work on wind farm  ReutersIberdrola dispute with GE Vernova over US offshore wind farm erupts into open  Recharge NewsVineyard Wind sues GE Renewables to block it from abandoning project  The New Bedford Light",
     "published date": "Sat, 11 Apr 2026 03:21:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVXZ6bmlMMjBvRjZqaWhPRlBManBHb3k0SHNjZVJObk8xd1l1YkVDMWdfTlFZZXRweDNIM1JZTFRZUS0yWjlLZm50MVM1SW5nMlVCRG92OHZIU253OHNNRjF1Q19iZWI5eDRHM1BiVjJkaFlfTThIQlJRazZDNXdjNkVJRmprbWo5SWVLS0RpY2Qxd19yLWE5bldNWW1ULW5acTk4YTcySnVWSE5meUF1V2FaOWpfc051QkNRZ2VISV9vV2IxTGp0YzRaTEkwM18tc3UtdWt4SkloWGl5UWs4?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -310,13 +300,23 @@
     }
   },
   {
-    "title": "Americans are eating up the meat industry's health claims - NBC News",
-    "description": "Americans are eating up the meat industry's health claims  NBC NewsView Full Coverage on Google News",
-    "published date": "Sat, 11 Apr 2026 09:30:40 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZzIxbmlscWFyLW9KT2ZfQXpPd2NYVW5FWGlPS0VPY3I2cEZOT2dqVy1IV2ZvaTZDZ0lYMUZRQmRPMnBfbnMwOUxBelVPaWRUdERlejZ2MkRfcEZ5QzQxLUE0MVhYNTliTXRyQVJwUDJxTDcyZ0JjY3N0c1JERVg2YmZFbFdRZm43eTQ0bWlOZ214aWs1NEoyNTN3OV81SHF5REtGbzNB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "‘How Do We Make Sure That Claude Behaves Itself?’: Anthropic Invited 15 Christians for a Summit - Gizmodo",
+    "description": "‘How Do We Make Sure That Claude Behaves Itself?’: Anthropic Invited 15 Christians for a Summit  GizmodoCan AI be a ‘child of God’? Inside Anthropic’s meeting with Christian leaders.  The Washington PostAnthropic Consults Christian Leaders on Claude's Moral Development  Let's Data ScienceClaude developer hosts Christian leaders for AI summit  Premier Christian NewsAnthropic consults Christian religious leaders as the company seeks to know how to steer its AI model Claude’s ...  The Times of India",
+    "published date": "Sat, 11 Apr 2026 19:28:04 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWXBwc1JWbE1yZ0xGVE4zMjBvRHVEZmpuMnFmREZWaDQzUFl5WUMwQW40RzV5Qnpjd2o1bElsS24wMHdycTBxNnlGVFRzM3lNSHFRMGRaVm1UdnNKQUZwMlhsbUttLTdDUnVYWkQ1cTRWdXpjQkEyQzRINHZFeC1YQzdsMzVLYmRvM283ZU5Zd1NmenJRVW8tcndkOWJIY2cwN2daVXZ6ZHpsZkE2TnA4UjdUdjlhNUVrUHlKNjM4TQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.nbcnews.com",
-      "title": "NBC News"
+      "href": "https://gizmodo.com",
+      "title": "Gizmodo"
+    }
+  },
+  {
+    "title": "PSA: If you use the Meta AI app, your friends will find out and it will be embarrassing - TechCrunch",
+    "description": "PSA: If you use the Meta AI app, your friends will find out and it will be embarrassing  TechCrunchDown 5% in 2026, Is Muse Spark What META Stock Needs to Finally Recover?  Yahoo FinanceMeta Banks on AI to Clear the Smoke of Social-Media Lawsuits  WSJMeta AI app climbs to No. 5 on the App Store after Muse Spark launch  TechCrunchMeta’s New AI Asked for My Raw Health Data—and Gave Me Terrible Advice  WIRED",
+    "published date": "Fri, 10 Apr 2026 13:52:02 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZzBEYjBPT01IU1N1US01NXRfODA1MnI4X2JtLTl5WDFySno3VFlOUzRVTFlzaTV3YnRuSmtsWGtNTGZfVnJybTBNb2VFdFVJSmVuWE5DVGpudDBCYl8wWXd3MVBCM1c3ZXZaWGxKOHo4a2tGLV90UzIyQzhVUDBlcy1LVzd2Zm93M0dkOGtkX0h4ZThUVUdmZld2aWRLQ2lCZFBqRWs2cDZTSEJZRTF1N2sxVHQwNkJWaTlqag?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://techcrunch.com",
+      "title": "TechCrunch"
     }
   },
   {
@@ -330,28 +330,18 @@
     }
   },
   {
-    "title": "PSA: If you use the Meta AI app, your friends will find out and it will be embarrassing - TechCrunch",
-    "description": "PSA: If you use the Meta AI app, your friends will find out and it will be embarrassing  TechCrunchMeta Banks on AI to Clear the Smoke of Social-Media Lawsuits  WSJIntroducing Muse Spark: MSL’s First Model, Purpose-Built to Prioritize People  meta.comWhy the Meta Muse Spark rally is continuing  Yahoo FinanceMeta AI app climbs to No. 5 on the App Store after Muse Spark launch  TechCrunch",
-    "published date": "Fri, 10 Apr 2026 13:52:02 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZzBEYjBPT01IU1N1US01NXRfODA1MnI4X2JtLTl5WDFySno3VFlOUzRVTFlzaTV3YnRuSmtsWGtNTGZfVnJybTBNb2VFdFVJSmVuWE5DVGpudDBCYl8wWXd3MVBCM1c3ZXZaWGxKOHo4a2tGLV90UzIyQzhVUDBlcy1LVzd2Zm93M0dkOGtkX0h4ZThUVUdmZld2aWRLQ2lCZFBqRWs2cDZTSEJZRTF1N2sxVHQwNkJWaTlqag?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Americans are eating up the meat industry's health claims - NBC News",
+    "description": "Americans are eating up the meat industry's health claims  NBC NewsView Full Coverage on Google News",
+    "published date": "Sat, 11 Apr 2026 09:30:40 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZzIxbmlscWFyLW9KT2ZfQXpPd2NYVW5FWGlPS0VPY3I2cEZOT2dqVy1IV2ZvaTZDZ0lYMUZRQmRPMnBfbnMwOUxBelVPaWRUdERlejZ2MkRfcEZ5QzQxLUE0MVhYNTliTXRyQVJwUDJxTDcyZ0JjY3N0c1JERVg2YmZFbFdRZm43eTQ0bWlOZ214aWs1NEoyNTN3OV81SHF5REtGbzNB?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://techcrunch.com",
-      "title": "TechCrunch"
-    }
-  },
-  {
-    "title": "Experimental Drug Can Reverse Osteoarthritis in Weeks, Animal Research Shows - ScienceAlert",
-    "description": "Experimental Drug Can Reverse Osteoarthritis in Weeks, Animal Research Shows  ScienceAlertStunning Stanford study finds way to regrow joint cartilage. Could it mean an end to osteoarthritis?  KTVUScientists test new ways to regrow joints damaged by arthritis  Medical XpressNew Research Brings Joint Repair Closer for Millions With Osteoarthritis  Duke HealthFederal Agency Unveils Three Potential Osteoarthritis Treatments  The New York Times",
-    "published date": "Sat, 11 Apr 2026 21:05:55 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS1NOc2c4TWo0a094UThCZ2R4N0xleVFXY2pmWjZKdUlXQnVSU0d0dDF4MnBrVDFtVHp1SWtTejJEbzFYdXlFN2dxWDFpcndzRHAtcS1sWU1NSm5EVWpHTV9NTm5PNWFGT0RkVjBJWFo1d29xMS1fUG9mVFBndDBQazB4X0c4N09nWlpSTmFQX2E0NEZCY2dQWFFmZDZmSGVFZ1FfUjlDdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.sciencealert.com",
-      "title": "ScienceAlert"
+      "href": "https://www.nbcnews.com",
+      "title": "NBC News"
     }
   },
   {
     "title": "Anthropic Agrees to Rent CoreWeave AI Capacity to Power Claude - Bloomberg.com",
-    "description": "Anthropic Agrees to Rent CoreWeave AI Capacity to Power Claude  Bloomberg.comCoreWeave stock climbs 10% on Anthropic deal  Yahoo FinanceCoreWeave, Anthropic Form AI Cloud Agreement  WSJMeta commits to spending additional $21 billion with CoreWeave as AI costs keep rising  CNBCCoreWeave Announces Multi-Year Agreement With Anthropic  CoreWeave",
+    "description": "Anthropic Agrees to Rent CoreWeave AI Capacity to Power Claude  Bloomberg.comCoreWeave stock climbs 10% on Anthropic deal  Yahoo FinanceCoreWeave, Anthropic Form AI Cloud Agreement  WSJMeta commits to spending additional $21 billion with CoreWeave as AI costs keep rising  CNBCCoreWeave’s stock pops as new Anthropic deal highlights intense scramble for AI compute  MarketWatch",
     "published date": "Fri, 10 Apr 2026 20:07:11 GMT",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN01ZR1JqdllyclhfRDFvR25rcWVVYWR2UTZMUlJ1NG5GcmxUNzdrM3dBV2pYVEtpY084b0JTeV9hOXdGOURfSEN1bFhCWVJ0N0R6Q1ZOYmhEdThyZzdHVEUzRDdMQmlCUzB5RThnc3VhSXNjU09DamhFc2ZMeUNrUl9lcDU3ZHpMQmZPT1otR2FwYWJaRzZJMjY0ZEhucjFNVTRhRWdRM21yWWRfZzVuZURFbw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -360,23 +350,53 @@
     }
   },
   {
-    "title": "Office of Public Affairs | IBM Pays $17 Million to Resolve Allegations of Discrimination Through Illegal DEI Practices - Department of Justice (.gov)",
-    "description": "Office of Public Affairs | IBM Pays $17 Million to Resolve Allegations of Discrimination Through Illegal DEI Practices  Department of Justice (.gov)IBM to pay $17 million in anti-DEI settlement  CNNIBM to pay $17 million to settle US government probe over DEI  ReutersIBM to pay $17M to settle discrimination claims tied to federal contracts  KUSA.comIBM to Pay $17 Million to Settle DOJ’s DEI False Claim Probe  Bloomberg Law News",
-    "published date": "Fri, 10 Apr 2026 20:23:50 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRnNYM0E2OWl6T2RhX0h0bFBJaVhyT3E0Sl9RLTFQMnlkQllxZGxGWGVIMWtmb1VkUzA1aHhPbm0xNHVmWlJmdjQzaVVXNHJhWDlkX0N0VnVuaF9RN1N6clh3RHl4V19mZHhnbHg0cGVmcnlNMXdONXFmSTRpcTJOeVpMYmpLN3hZOE0zaDVuamk3NnRIaXdZZTFBT3FVUFYxdVdETnlJYVNrbURZOUpPS2ppTXllUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "IBM settles its DEI lawsuit with the DOJ for $17 million - Engadget",
+    "description": "IBM settles its DEI lawsuit with the DOJ for $17 million  EngadgetIBM to pay $17 million to settle US government probe over DEI  ReutersIBM to pay $17M to settle discrimination claims tied to federal contracts  KUSA.comIBM to Pay $17 Million to Settle DOJ’s DEI False Claim Probe  Bloomberg Law NewsIBM Settles Federal Hiring Practice Allegations: $17M Settlement - News and Statistics  IndexBox",
+    "published date": "Sat, 11 Apr 2026 15:37:49 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU1BubHpPNWZ6dEUwM3J1QjkxSzQ3MkdBZ3ZOa2Nlajl5dEhhMTZyVXZMdkp6OEhVQnkwaGZRbTJmOEw1RkkxOFZ4UlJUbkY4bU81M0RNeFIxVWhIRV9ZV2VpX093Mm1RSUpXUzdNeC12d0tkcFpHaW9Gb0lQeEJXd1FMaXI4bElOMjJDSHF2MXNMOFduNVJ3RGgtTkxzSVNlSGRWaW8wMA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.justice.gov",
-      "title": "Department of Justice (.gov)"
+      "href": "https://www.engadget.com",
+      "title": "Engadget"
     }
   },
   {
     "title": "A Panicked Race for Barrels Is Gripping the Global Oil Market - Bloomberg.com",
-    "description": "A Panicked Race for Barrels Is Gripping the Global Oil Market  Bloomberg.comIran War Drives Deeper Oil Shock Than Prices Reveal  The New York TimesOil-price disconnect obscures unprecedented energy shock  AxiosOil whiplash: Iran war shock to flip market to deficit in 2026, analysts say  Yahoo FinanceAnalysis | The Iran war is fanning the flames of inflation  The Washington Post",
+    "description": "A Panicked Race for Barrels Is Gripping the Global Oil Market  Bloomberg.comIran War Drives Deeper Oil Shock Than Prices Reveal  The New York TimesOil-price disconnect obscures unprecedented energy shock  AxiosAnalysis | The Iran war is fanning the flames of inflation  The Washington PostOil whiplash: Iran war shock to flip market to deficit in 2026, analysts say  Reuters",
     "published date": "Sat, 11 Apr 2026 15:00:17 GMT",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWXJnYXF3QVdPQkhwbk90ZVdZRm5zNjQ2OHdWTTU3T1VNdnVsYm9lQjJxYVlwZlFRaW5STVVEOV9kckx5MHhvUXRkRHpaLUhCaDI4bU13M3VpWklNZHlDdi1fQ1JZa3FZYXBtektiWTRITF9XNV8tbnJOaWt6VzZQV3dNSGEtblBvdHFCelVHWnY4Vkk3YmJXYWtpczI1LVpmUG5yRGxGVmtzXzBEaVdtcw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.bloomberg.com",
       "title": "Bloomberg.com"
+    }
+  },
+  {
+    "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser's delusions and ignored her warnings - TechCrunch",
+    "description": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser's delusions and ignored her warnings  TechCrunchWoman Sues OpenAI, Alleging ChatGPT Encouraged Stalker Ex-Boyfriend To Harass Her  NDTVJay Edelson Made Facebook Pay. Now He’s Coming for Silicon Valley’s AI  The InformationOpenAI Sued After Ignoring Safety Flags in Stalking Case  The Tech BuzzOpenAI Accused of Encouraging Stalker’s Delusion Through ChatGPT  Bloomberg Law News",
+    "published date": "Fri, 10 Apr 2026 16:41:34 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZHYybXdkd0h4cGpCYjZQV2NvV2ZFcFhqQVd1bFdtNG81NzlDN0o4NDVlQzB0MGFUMkozUDd3dTh2WXUydnRkQ21QczdmcU1DSGcyNWl5Z2otVHlZRzhzOGhwWmZPWE5yZVl0TXFDYVFrWVo0cXlqSVFoVlo0dG9ISGxYNHd2RUg4azVmSkx2eDg3c2V0LTJJSDlEMjJqdkI3aDFzWG9IbXE5MjVONW40VEk4dFNkcnlJcnlZTmlPbUZtZFhMSWRmZlc4RQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://techcrunch.com",
+      "title": "TechCrunch"
+    }
+  },
+  {
+    "title": "Experimental Drug Can Reverse Osteoarthritis in Weeks, Animal Research Shows - ScienceAlert",
+    "description": "Experimental Drug Can Reverse Osteoarthritis in Weeks, Animal Research Shows  ScienceAlertStunning Stanford study finds way to regrow joint cartilage. Could it mean an end to osteoarthritis?  KTVUScientists test new ways to regrow joints damaged by arthritis  Medical XpressNew Research Brings Joint Repair Closer for Millions With Osteoarthritis  Duke HealthA simple shot shows promise to reverse osteoarthritis within weeks  University of Colorado Boulder",
+    "published date": "Sat, 11 Apr 2026 21:05:55 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS1NOc2c4TWo0a094UThCZ2R4N0xleVFXY2pmWjZKdUlXQnVSU0d0dDF4MnBrVDFtVHp1SWtTejJEbzFYdXlFN2dxWDFpcndzRHAtcS1sWU1NSm5EVWpHTV9NTm5PNWFGT0RkVjBJWFo1d29xMS1fUG9mVFBndDBQazB4X0c4N09nWlpSTmFQX2E0NEZCY2dQWFFmZDZmSGVFZ1FfUjlDdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.sciencealert.com",
+      "title": "ScienceAlert"
+    }
+  },
+  {
+    "title": "From coffee to home prices, costs are up everywhere - Yahoo Finance",
+    "description": "From coffee to home prices, costs are up everywhere  Yahoo Finance‘People are struggling.’ Soaring gas prices deepen Massachusetts’ cost-of-living crisis, residents say.  The Boston GlobeAmericans Blame Trump for Rising Gas Prices  Navigator ResearchWho’s Counting? Gas Prices, the Stock Market, and Dead Children  CounterpunchThe price of gas!  The Tennessee Tribune",
+    "published date": "Sat, 11 Apr 2026 11:46:06 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNml3VVdBMUxzajJOYVNOM2VheDE3T29RUWt5X2xMQkF0b1lRNV95VGxjTlpBX3FFSFdRTHJVSW5CNDNFaUZ2QUQwNFNmSmhhYUV5dV9LUWRFMzBVMmtoc2p2RVdfeEpEbFkyMDVNNF9ndURCVlQxR29wN1FZMkloQklOOEFHODFSY2ZSbnJBWGtFX3dvby1mVXRMLUJHN1NkRGlRa1Ywb1BoSTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://finance.yahoo.com",
+      "title": "Yahoo Finance"
     }
   },
   {
@@ -390,6 +410,26 @@
     }
   },
   {
+    "title": "‘Fortress China’ shows cracks as Iran war strains supply chains - Financial Times",
+    "description": "‘Fortress China’ shows cracks as Iran war strains supply chains  Financial TimesThis Is Not China’s War, but Beijing Started Preparing for It Years Ago  The New York TimesChina built resilience to an energy shock — it's paid off for Chinese assets amid the Iran war  CNBCDeutsche Bank Declares China Energy ‘Winner’ in New Era of War  Bloomberg.comWhy China’s green energy strategy may shield it from the Iran war oil shock  South China Morning Post",
+    "published date": "Sat, 11 Apr 2026 04:01:57 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSEN0bFZuLUlQdkk0cXhaRTh3NlhxVXBSdDVRTzBMeFF6cVpmRjJ0Z1hlcnlld1N1RVQ0VXJ5eGpaSDR2WVRlZ09Vdi0yVmVpeENPaDJzYUpvZnVkSC1mZG1RRDVIQksyb2NWUXFvQ2FzOFpFZExGVmpTRkYxbDVvWGtOcU8?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ft.com",
+      "title": "Financial Times"
+    }
+  },
+  {
+    "title": "Lawsuit blames Texas cheerleader's death on excessive energy drink consumption - FOX 26 Houston",
+    "description": "Lawsuit blames Texas cheerleader's death on excessive energy drink consumption  FOX 26 HoustonTexas Teen Died Due to ‘Enlarged Heart’ from Caffeine from Energy Drink, Attorney Claims: Reports  People.comWeslaco family blames Alani energy drink for teen’s heart-related death  San Antonio Express-NewsEnergy drink contributed to 17-year-old cheerleader’s death, says U.S. lawsuit - National  Global NewsFamily says popular energy drink played role in cheerleader's fatal heart condition  NBC News",
+    "published date": "Fri, 10 Apr 2026 20:35:37 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbmpsdllmeFJUYTBqaEU3NW9zeUh5cDBrRFp5Zmc4cmNPR3ZtbnVSdV9CLTNxNnd3ZXlDQ1RJcVhUdmcyUWxlRUJMT09RSDN6OWEybkxVTmlTdTJ0NF9qbnJ0ZDFFLUVxNHNmaDNyVVhhZ1ZOLWRiZTQ4M3ZEN0xIUXYtbDNDbXJ0bHNiQ09UYi01cm4zOXlJTFhuREZxT292djBpcXNUWUU1LUxVbXJieE9xNEt4UC1hYWw00gHAAUFVX3lxTE1kMGZTSzdkWW1SeFRxUVVQR0JrRmV5M1dodG92ekhfeEdxNXp4RU9PVTJReVRLdlQxVG16RXM3M2lBUUF1empIdkhzaDQwdVRLS24xc2s4dlBlZzFocWpCQkxaNXNsNTJxNXA3LUFENkhZUkE5UGF1a0tkOUNSU3g1MG0zbG1ObEtlbXFpVndYZlBmR1FiNHZJU0labWN0cC1GWlQwUEsxLXZNdExVQkJmTUNHTzMxSEtYamxsQU43OQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.fox26houston.com",
+      "title": "FOX 26 Houston"
+    }
+  },
+  {
     "title": "YouTube Premium Price Hikes Hit as Company Vows to 'Support Creators and Artists on YouTube' - IGN",
     "description": "YouTube Premium Price Hikes Hit as Company Vows to 'Support Creators and Artists on YouTube'  IGNYouTube Hikes Premium Prices For First Time Since 2023—Here’s How Much More You’ll Pay  ForbesAll the streaming apps that raised prices this year so far  MashableYouTube Premium Raises Prices for First Time Since 2023  The Hollywood ReporterYouTube raises subscription prices in US for the first time in 3 years  Reuters",
     "published date": "Fri, 10 Apr 2026 22:47:49 GMT",
@@ -400,10 +440,10 @@
     }
   },
   {
-    "title": "‘Fortress China’ shows cracks as Iran war strains supply chains - Financial Times",
-    "description": "‘Fortress China’ shows cracks as Iran war strains supply chains  Financial TimesThis Is Not China’s War, but Beijing Started Preparing for It Years Ago  The New York TimesChina built resilience to an energy shock — it's paid off for Chinese assets amid the Iran war  CNBCDeutsche Bank Declares China Energy ‘Winner’ in New Era of War  Bloomberg.comWhy China’s green energy strategy may shield it from the Iran war oil shock  South China Morning Post",
-    "published date": "Sat, 11 Apr 2026 04:01:57 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSEN0bFZuLUlQdkk0cXhaRTh3NlhxVXBSdDVRTzBMeFF6cVpmRjJ0Z1hlcnlld1N1RVQ0VXJ5eGpaSDR2WVRlZ09Vdi0yVmVpeENPaDJzYUpvZnVkSC1mZG1RRDVIQksyb2NWUXFvQ2FzOFpFZExGVmpTRkYxbDVvWGtOcU8?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "The biggest IPO in history has a hole in its safety net - Financial Times",
+    "description": "The biggest IPO in history has a hole in its safety net  Financial TimesSpaceX: How to buy before the IPO  Yahoo FinanceThe unconventional logic behind SpaceX's $1.75 trillion price tag  ReutersSpaceX Woos Investors As C-Suite Shakeups Continue  The InformationWant to Own SpaceX Stock Before Its Blockbuster IPO? Here Are 3 Ways Investors Can Buy Right Now.  The Motley Fool",
+    "published date": "Fri, 10 Apr 2026 13:03:46 GMT",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aaWppbWFleGJnMzh0anBISjBSeWRsbEIzLXBGZ3FxR1dDT2Z4cWpLcFNIdmNYSFlpT1BKUUJLeTBZanNIckJ6Z3NidzE1cl96cVg0SGgwamgxeFJ2anByMmNyRjhoYXRvcTB2NGdoM1o?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.ft.com",
       "title": "Financial Times"
@@ -420,23 +460,23 @@
     }
   },
   {
-    "title": "From coffee to home prices, costs are up everywhere - Yahoo Finance",
-    "description": "From coffee to home prices, costs are up everywhere  Yahoo Finance‘People are struggling.’ Soaring gas prices deepen Massachusetts’ cost-of-living crisis, residents say.  The Boston GlobeAmericans Blame Trump for Rising Gas Prices  Navigator ResearchWho’s Counting? Gas Prices, the Stock Market, and Dead Children  CounterpunchThe price of gas!  The Tennessee Tribune",
-    "published date": "Sat, 11 Apr 2026 11:46:06 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNml3VVdBMUxzajJOYVNOM2VheDE3T29RUWt5X2xMQkF0b1lRNV95VGxjTlpBX3FFSFdRTHJVSW5CNDNFaUZ2QUQwNFNmSmhhYUV5dV9LUWRFMzBVMmtoc2p2RVdfeEpEbFkyMDVNNF9ndURCVlQxR29wN1FZMkloQklOOEFHODFSY2ZSbnJBWGtFX3dvby1mVXRMLUJHN1NkRGlRa1Ywb1BoSTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Zohran Mamdani Interviewed by John Wilson in Video About Reducing New York City Scaffolding (EXCLUSIVE) - Variety",
+    "description": "Zohran Mamdani Interviewed by John Wilson in Video About Reducing New York City Scaffolding (EXCLUSIVE)  VarietyNew NYC plan to cut down on sidewalk sheds, falling debris  ABC7 New YorkPower & Politics: Department of Buildings brings new changes; hate crimes on the rise  News12 | BronxMamdani takes on scaffolding with HBO’s John Wilson on 100th day in office  New York Daily NewsNew NYC Plan to Reduce Sidewalk Sheds and Falling Debris  National Today",
+    "published date": "Fri, 10 Apr 2026 15:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdjZuNVdaRXR0T3ByRjJhdkNqUUF2SHZrRldoblZrNHhvYnJxYnBZVkFiV0tFWG5tUlctUDN1WnhfR0V5UWZJYkhacnp2TkxUTVNVMWg4MmNUN1NMWG5HR2J1cjVCdTlKaHNzbFVLUkg3QmhrZEtudlgyZnZkRnFCLUlHRWtZdWlfdmFCZHltY1BZbGNEQWEwOA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://finance.yahoo.com",
-      "title": "Yahoo Finance"
+      "href": "https://variety.com",
+      "title": "Variety"
     }
   },
   {
-    "title": "Lawsuit blames Texas cheerleader's death on excessive energy drink consumption - FOX 26 Houston",
-    "description": "Lawsuit blames Texas cheerleader's death on excessive energy drink consumption  FOX 26 HoustonTexas Teen Died Due to ‘Enlarged Heart’ from Caffeine from Energy Drink, Attorney Claims: Reports  People.comEnergy drink contributed to 17-year-old cheerleader’s death, says U.S. lawsuit  Global NewsDoctors warn against energy drink consumption among teenagers  KXLY.comFamily says popular energy drink played role in cheerleader's fatal heart condition  NBC News",
-    "published date": "Fri, 10 Apr 2026 20:35:37 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbmpsdllmeFJUYTBqaEU3NW9zeUh5cDBrRFp5Zmc4cmNPR3ZtbnVSdV9CLTNxNnd3ZXlDQ1RJcVhUdmcyUWxlRUJMT09RSDN6OWEybkxVTmlTdTJ0NF9qbnJ0ZDFFLUVxNHNmaDNyVVhhZ1ZOLWRiZTQ4M3ZEN0xIUXYtbDNDbXJ0bHNiQ09UYi01cm4zOXlJTFhuREZxT292djBpcXNUWUU1LUxVbXJieE9xNEt4UC1hYWw00gHAAUFVX3lxTE1kMGZTSzdkWW1SeFRxUVVQR0JrRmV5M1dodG92ekhfeEdxNXp4RU9PVTJReVRLdlQxVG16RXM3M2lBUUF1empIdkhzaDQwdVRLS24xc2s4dlBlZzFocWpCQkxaNXNsNTJxNXA3LUFENkhZUkE5UGF1a0tkOUNSU3g1MG0zbG1ObEtlbXFpVndYZlBmR1FiNHZJU0labWN0cC1GWlQwUEsxLXZNdExVQkJmTUNHTzMxSEtYamxsQU43OQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Palantir CEO says AI 'will destroy' humanities jobs, but there will be 'more than enough jobs' for people with vocational training - Fortune",
+    "description": "Palantir CEO says AI 'will destroy' humanities jobs, but there will be 'more than enough jobs' for people with vocational training  FortunePalantir CEO Alex Karp Has a Stark Message Amid the AI Takeover: Only Trade Workers and ‘Neurodivergent’ Individuals Will Thrive  BarchartThe Cage Disguised as a Crown  TheHumanist.comNeurodivergence in a world of AI and why celebrating ‘superheroes’ won’t fix workplaces  Women's AgendaOnly 2 types of people will survive the AI era, warns Palantir’s billionaire CEO — but there is another way to succeed  Yahoo Finance",
+    "published date": "Sat, 11 Apr 2026 11:05:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYUpnTUFwQWpmQURZdzYxblotNzJjMFZROU1TQ2hZdXp5bkFNdGdnYUh6TWk3M2FETUJmQVRWRG91MU9hRHpUNnJVYllybGt3NkZQWFExdjJZR0FlUC1fX0FjdVVXR1FQTXR2azNfY2NUcjR6WHVtNjM2eU5JUTVqWG44M2FQbkFOdUh0eEo3T0pIZ25h?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.fox26houston.com",
-      "title": "FOX 26 Houston"
+      "href": "https://fortune.com",
+      "title": "Fortune"
     }
   },
   {
@@ -450,46 +490,6 @@
     }
   },
   {
-    "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser's delusions and ignored her warnings - TechCrunch",
-    "description": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser's delusions and ignored her warnings  TechCrunchJay Edelson Made Facebook Pay. Now He’s Coming for Silicon Valley’s AI  The InformationOpenAI Sued After Ignoring Safety Flags in Stalking Case  The Tech BuzzTechnology News | ⚡OpenAI Faces Lawsuit Alleging ChatGPT Fueled Stalking and Harassment Campaign  LatestLYOpenAI Accused of Encouraging Stalker’s Delusion Through ChatGPT  Bloomberg Law News",
-    "published date": "Fri, 10 Apr 2026 16:41:34 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZHYybXdkd0h4cGpCYjZQV2NvV2ZFcFhqQVd1bFdtNG81NzlDN0o4NDVlQzB0MGFUMkozUDd3dTh2WXUydnRkQ21QczdmcU1DSGcyNWl5Z2otVHlZRzhzOGhwWmZPWE5yZVl0TXFDYVFrWVo0cXlqSVFoVlo0dG9ISGxYNHd2RUg4azVmSkx2eDg3c2V0LTJJSDlEMjJqdkI3aDFzWG9IbXE5MjVONW40VEk4dFNkcnlJcnlZTmlPbUZtZFhMSWRmZlc4RQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://techcrunch.com",
-      "title": "TechCrunch"
-    }
-  },
-  {
-    "title": "The biggest IPO in history has a hole in its safety net - Financial Times",
-    "description": "The biggest IPO in history has a hole in its safety net  Financial TimesSpaceX: How to buy before the IPO  Yahoo FinanceThe unconventional logic behind SpaceX's $1.75 trillion price tag  ReutersSpaceX Woos Investors As C-Suite Shakeups Continue  The InformationWant to Own SpaceX Stock Before Its Blockbuster IPO? Here Are 3 Ways Investors Can Buy Right Now.  The Motley Fool",
-    "published date": "Fri, 10 Apr 2026 13:03:46 GMT",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aaWppbWFleGJnMzh0anBISjBSeWRsbEIzLXBGZ3FxR1dDT2Z4cWpLcFNIdmNYSFlpT1BKUUJLeTBZanNIckJ6Z3NidzE1cl96cVg0SGgwamgxeFJ2anByMmNyRjhoYXRvcTB2NGdoM1o?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ft.com",
-      "title": "Financial Times"
-    }
-  },
-  {
-    "title": "What the tech bros get wrong about longevity that you can get right starting now - CNN",
-    "description": "What the tech bros get wrong about longevity that you can get right starting now  CNNKara Swisher examines the science, tech and business of living longer in new CNN docuseries  AP NewsHow to Watch 'Kara Swisher Wants to Live Forever,' New Investigative Series on the Longevity Industry  The Hollywood ReporterTech bros like Bryan Johnson skewered in new Kara Swisher CNN longevity show  USA TodaySaturday TV: Kara Swisher’s Urge for Longevity  Roger Catlin",
-    "published date": "Sat, 11 Apr 2026 13:30:54 GMT",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjcjQ1TFlWZGF0bnFlZGxnUkpqRV9OakhiMXVmVm5oR1BEVk4yandFYWVoSXJ3a05Nek5iUnBFNkwyZXgzY0VZOVpQRTlYal9kaWdESTNOVVlPbDh1ZGo4blRHUFJycU5Ea1pJbU1SdzlScDBHS1Z2eA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cnn.com",
-      "title": "CNN"
-    }
-  },
-  {
-    "title": "Southwest Airlines Imposes Further Limits on Portable Chargers on Flights - The New York Times",
-    "description": "Southwest Airlines Imposes Further Limits on Portable Chargers on Flights  The New York TimesSouthwest Airlines limits passengers to 1 portable charger per person over fire concerns  Fox BusinessFAQ: What you need to know about the two-power-bank limit on flights from Singapore  CNASouthwest Airlines announces new limit on portable chargers  KSN.comMajor airline to limit popular carry-on item to 1 per passenger  MLive.com",
-    "published date": "Sat, 11 Apr 2026 22:47:34 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUmZ0Yk8zSzhxUnRES2FWTWFHYS1BS2xaWFZndllfX0haSlBEd0kzQnNpdHdXMXBJSEdWdGhLRUo2emx0SC0xdjBrVzg3QWZIRzNiS0F5WjlET01DNVEzaUJRQ01FWVZIczJlMC0wRG96SDVsYS0tYU02MXktT1VzRjIwT0h2cDRxZkV3?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.nytimes.com",
-      "title": "The New York Times"
-    }
-  },
-  {
     "title": "Fox News has 'delusional' take on Trump’s inflation 'surge' - Alternet",
     "description": "Fox News has 'delusional' take on Trump’s inflation 'surge'  AlternetGrim new economic numbers highlight how Trump is losing leverage against Iran  CNNNews Wrap: Inflation report shows the biggest increase since 2024  PBSWhat to Look for in Friday's Q1 Inflation Report  Business InsiderFox News shares major breaking alert - and it's bad news for Trump  Daily Express US",
     "published date": "Fri, 10 Apr 2026 14:02:00 GMT",
@@ -500,13 +500,33 @@
     }
   },
   {
-    "title": "Two Hikers Found a Simple Aluminum Can in the Woods Filled With Nearly 600 Gold Coins Worth $330,000 - The Daily Galaxy",
-    "description": "Two Hikers Found a Simple Aluminum Can in the Woods Filled With Nearly 600 Gold Coins Worth $330,000  The Daily GalaxyView Full Coverage on Google News",
-    "published date": "Sat, 11 Apr 2026 14:15:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhTkZUaVdUVzY4YkZ6U2REUE9Lcmd1dTNmNWdScmtpSXJSU2JoNUl0NTBvV25nQmFRZWdLQ1F4TWljOWVuVTVXRkttREFkSDlwM0NmaHYyUnpXUm0xcEVoV0RrTnVzN3kxVGlMMzBmQ0NQbGVsQjB4U05Bd0g?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Southwest Airlines Imposes Further Limits on Portable Chargers on Flights - The New York Times",
+    "description": "Southwest Airlines Imposes Further Limits on Portable Chargers on Flights  The New York TimesSouthwest Airlines limits passengers to 1 portable charger per person over fire concerns  Fox BusinessTravelers will face limits on how many chargers they can carry as airlines try to reduce fire risks  Inquirer.comSouthwest Airlines announces new limit on portable chargers  KSN.comMajor airline to limit popular carry-on item to 1 per passenger  MLive.com",
+    "published date": "Sat, 11 Apr 2026 22:47:34 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUmZ0Yk8zSzhxUnRES2FWTWFHYS1BS2xaWFZndllfX0haSlBEd0kzQnNpdHdXMXBJSEdWdGhLRUo2emx0SC0xdjBrVzg3QWZIRzNiS0F5WjlET01DNVEzaUJRQ01FWVZIczJlMC0wRG96SDVsYS0tYU02MXktT1VzRjIwT0h2cDRxZkV3?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://dailygalaxy.com",
-      "title": "The Daily Galaxy"
+      "href": "https://www.nytimes.com",
+      "title": "The New York Times"
+    }
+  },
+  {
+    "title": "OpenAI flags software supply chain scare - Axios",
+    "description": "OpenAI flags software supply chain scare  AxiosOpenAI identifies security issue involving third-party tool, says user data was not accessed  CNBCOpenAI says user data is safe after security issue involving third-party tool  Seeking AlphaOpenAI says to update Mac apps including ChatGPT and Codex as security precaution  9to5MacWhat is the OpenAI security issue and why is it important?  News.az",
+    "published date": "Sat, 11 Apr 2026 09:48:28 GMT",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Qdk9vcVp6UUhYakVDZ1U2NmNwVFB6MG40M0JWdHE2TFExSGgtZFV2dG1VRUJLbmE3ZjNOYmpSSmNrdjY3Z19lZzg5M3Bla1I4RnY1N3RFSVF6UDVBZlZpMjVjYkxpdExhQWQ3NTFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.axios.com",
+      "title": "Axios"
+    }
+  },
+  {
+    "title": "Apple is Closing a Unionized Store in the U.S. and the Union is 'Outraged' - MacRumors",
+    "description": "Apple is Closing a Unionized Store in the U.S. and the Union is 'Outraged'  MacRumorsTowson Town Center faces uncertainty as Apple Store prepares to leave  WBFFApple will close its first unionized retail store  MashableApple is closing stores in three states as it begins to pull back on mall locations  The IndependentTowson Apple store closure “perplexes” leader, shoppers split  Baltimore Sun",
+    "published date": "Fri, 10 Apr 2026 14:25:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM0R2RGNFbHFwd2Zvb3dIcjhkV2E4c1lQZFY0RFNjV08xeHRPM05yX3Y4X2gtdEEtZHdwaEg1em5DeWpYYkxPZGpid1FsaWNqVWgyOWhBM2lnNjEyRG5rUmNjdU5IREtuSWZPNWRVSUhQbERqT05NeTJwMGpMWTRlb2RVUkw1UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.macrumors.com",
+      "title": "MacRumors"
     }
   },
   {
@@ -520,23 +540,13 @@
     }
   },
   {
-    "title": "Palantir CEO says AI 'will destroy' humanities jobs, but there will be 'more than enough jobs' for people with vocational training - Fortune",
-    "description": "Palantir CEO says AI 'will destroy' humanities jobs, but there will be 'more than enough jobs' for people with vocational training  FortunePalantir CEO Alex Karp Has a Stark Message Amid the AI Takeover: Only Trade Workers and ‘Neurodivergent’ Individuals Will Thrive  Barchart.comThe Cage Disguised as a Crown  TheHumanist.comNeurodivergence in a world of AI and why celebrating ‘superheroes’ won’t fix workplaces  Women's AgendaOnly 2 types of people will survive the AI era, warns Palantir’s billionaire CEO — but there is another way to succeed  Yahoo Finance",
-    "published date": "Sat, 11 Apr 2026 11:05:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYUpnTUFwQWpmQURZdzYxblotNzJjMFZROU1TQ2hZdXp5bkFNdGdnYUh6TWk3M2FETUJmQVRWRG91MU9hRHpUNnJVYllybGt3NkZQWFExdjJZR0FlUC1fX0FjdVVXR1FQTXR2azNfY2NUcjR6WHVtNjM2eU5JUTVqWG44M2FQbkFOdUh0eEo3T0pIZ25h?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Smucker’s offers Artemis II crewmembers a lifetime supply of Uncrustables upon splashdown - Fortune",
+    "description": "Smucker’s offers Artemis II crewmembers a lifetime supply of Uncrustables upon splashdown  FortuneThe Navy confirmed an ‘abundant amount’ of Uncrustables when the Artemis II crew lands. Smucker’s just offered them a lifetime supply  YahooArtemis II astronauts can't accept a lifetime supply of free toilet paper. Here's why.  Houston ChronicleThis Toronto breakfast company's cereal launched into space with Artemis II mission  CBCThe food on Artemis II is surprisingly tasty—but it still won’t be good enough for Mars  National Geographic",
+    "published date": "Fri, 10 Apr 2026 21:48:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUGdpY2N6dUhWcWJxVmFUblVSY0ZsNTk1aXVJMklRZmRCUWE1YUhXRmoweHBUOFBreEozVHVxT3dkdktNazg5a0Z1TERWWXE4TUswSG0xUGlhVzdpdDdCZk5PQ19QcTBVa3hib0hsVjVjeUZrTjJIWEVDZFI1c0ZxdmNkYk9YYnNUYjQ0?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://fortune.com",
       "title": "Fortune"
-    }
-  },
-  {
-    "title": "Apple will close its first unionized retail store - Mashable",
-    "description": "Apple will close its first unionized retail store  MashableTowson Town Center faces uncertainty as Apple Store prepares to leave  WBFFApple is closing stores in three states as it begins to pull back on mall locations  The IndependentTowson Apple store closure “perplexes” leader, shoppers split  Baltimore SunApple is Permanently Closing Three U.S. Stores in June  MacRumors",
-    "published date": "Sat, 11 Apr 2026 18:43:30 GMT",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWWVZpNU5VQWRXeWNVVHRGRmdkbGpEcFNkZGFqT2xVTmpZMkRHMmN0UHhGZW12LXd0d2Z5VVgxV0Q4OEtTYS1kaUl2c0M3RkpVUlpPY1c5am0xc181WFFmMW9vajQxVU5KYldHaUZZVks?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://mashable.com",
-      "title": "Mashable"
     }
   },
   {
@@ -547,16 +557,6 @@
     "publisher": {
       "href": "https://www.wsj.com",
       "title": "WSJ"
-    }
-  },
-  {
-    "title": "OpenAI flags software supply chain scare - Axios",
-    "description": "OpenAI flags software supply chain scare  AxiosOpenAI identifies security issue involving third-party tool, says user data was not accessed  CNBCOpenAI says to update Mac apps including ChatGPT and Codex as security precaution  9to5MacOpenAI Reveals Security Breach, Tightens macOS App Verification Protocols  BenzingaWhat is the OpenAI security issue and why is it important?  News.az",
-    "published date": "Sat, 11 Apr 2026 05:09:42 GMT",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Qdk9vcVp6UUhYakVDZ1U2NmNwVFB6MG40M0JWdHE2TFExSGgtZFV2dG1VRUJLbmE3ZjNOYmpSSmNrdjY3Z19lZzg5M3Bla1I4RnY1N3RFSVF6UDVBZlZpMjVjYkxpdExhQWQ3NTFn?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.axios.com",
-      "title": "Axios"
     }
   },
   {
@@ -580,23 +580,23 @@
     }
   },
   {
-    "title": "Private equity has a private credit problem - Axios",
-    "description": "Private equity has a private credit problem  AxiosHow bond market's private credit crisis fears are playing out in fixed-income ETFs  CNBCOpinion | This Is Starting to Look Like a Slow-Motion Bank Run  The New York TimesOaktree Says Exposure to Software Firms, Direct Lending Is Small  Bloomberg.comCan the secondary market allay private-credit fears?  The Economist",
-    "published date": "Fri, 10 Apr 2026 14:37:25 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1LUy1tM0UtOWozTFRmUEd4NGtua2cxci1KUzNiM3NhbjVsb3JaVUJJa2s5ZENxanFzZ2tTSHhYNUg1aVJCNFBHVXBlc0NGZV9GOTUyWVk5WF9nak0yamFhaWEzOWlOYXBJekNseU9pM29Lc3JVaVNLQXFB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Why Teens Can’t Get Enough of NeeDohs: ‘Obsessed’ - SheKnows",
+    "description": "Why Teens Can’t Get Enough of NeeDohs: ‘Obsessed’  SheKnowsWhere Can You Buy NeeDohs? Everything To Know About the Viral Collectible  TODAY.comNeeDoh hunting on Long Island has parents lining up outside toy stores  NewsdayNeeDoh is sold out everywhere, find squishy toy alternatives here  USA TodayDigested week: NeeDohs, Knox and news from the far side of the moon | Emma Brockes  The Guardian",
+    "published date": "Fri, 10 Apr 2026 20:27:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQei1vSk5tMmtLLV9GNjhVT2JFdTVYaF9GVGZxMktubjlSV2d6NEg1NmpfZDA5N2JiQ0JjRzMxT2s0MWpmTGhUNUNmLWhkVzJxZ0pJSldFczh2aW1QTzEydjRvNHpubTU4S1lXdnNlRjNnc2Ztampxa2hJR0NxUG1HRzJNZXN5ZnYwZWxqRkQ0Y3FRY3A2eHc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.axios.com",
-      "title": "Axios"
+      "href": "https://www.sheknows.com",
+      "title": "SheKnows"
     }
   },
   {
-    "title": "U.S. Treasury Secretary Fuels Huge $1.5 Quadrillion Crypto Prediction As The Bitcoin Price Suddenly Soars - Forbes",
-    "description": "U.S. Treasury Secretary Fuels Huge $1.5 Quadrillion Crypto Prediction As The Bitcoin Price Suddenly Soars  ForbesOpinion | Digital Asset Rules Need Clarity  WSJBessent urges Congress to pass crypto regulation bill  ReutersCrypto bill negotiations enter critical week as lawmakers return amid pressure to resolve stablecoin rewards  The BlockCrypto Clarity bill has 30% chance of passing this year, Wintermute’s Hammond says  CoinDesk",
-    "published date": "Sat, 11 Apr 2026 11:30:21 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQVFCdjE3dXd3SnFYQ1I1dklSWjJBbTVtX055OGhnRXNCTmx6MmVGNDNaNUFvZC1aOXdyZmtfamRWU1RvTVE0WjN2Nm1ISnZvS0dtOGNLdTZGYmI1LTRUR2RHNTlXZFFJR0ZZRm9OYU1rSUhaWFpmT1IyT29aWU1CY0dYajlhME1ZZ0c0a1VfazVFQVh0cGNzTVF6c1RhUEkzbi1pejJrdHB1eXlmNVkzMG8wblJKSFVJZDljeFF4WnZlWWowdDVxRl9ueVQ3M3BJSEFSSnI3VXpSZzNya284Y2dtbHpIVUtwTFhKYnNR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "What the tech bros get wrong about longevity that you can get right starting now - CNN",
+    "description": "What the tech bros get wrong about longevity that you can get right starting now  CNNKara Swisher examines the science, tech and business of living longer in new CNN docuseries  AP NewsHow to Watch 'Kara Swisher Wants to Live Forever,' New Investigative Series on the Longevity Industry  The Hollywood ReporterTech bros like Bryan Johnson skewered in new Kara Swisher CNN longevity show  USA TodaySaturday TV: Kara Swisher’s Urge for Longevity  Roger Catlin",
+    "published date": "Sat, 11 Apr 2026 13:30:54 GMT",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjcjQ1TFlWZGF0bnFlZGxnUkpqRV9OakhiMXVmVm5oR1BEVk4yandFYWVoSXJ3a05Nek5iUnBFNkwyZXgzY0VZOVpQRTlYal9kaWdESTNOVVlPbDh1ZGo4blRHUFJycU5Ea1pJbU1SdzlScDBHS1Z2eA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.forbes.com",
-      "title": "Forbes"
+      "href": "https://www.cnn.com",
+      "title": "CNN"
     }
   },
   {
@@ -610,13 +610,23 @@
     }
   },
   {
-    "title": "Smucker’s offers Artemis II crewmembers a lifetime supply of Uncrustables upon splashdown - Fortune",
-    "description": "Smucker’s offers Artemis II crewmembers a lifetime supply of Uncrustables upon splashdown  FortuneThe Navy confirmed an ‘abundant amount’ of Uncrustables when the Artemis II crew lands. Smucker’s just offered them a lifetime supply  YahooArtemis II astronauts can't accept a lifetime supply of free toilet paper. Here's why.  Houston ChronicleThis Toronto breakfast company's cereal launched into space with Artemis II mission  CBCThe food on Artemis II is surprisingly tasty—but it still won’t be good enough for Mars  National Geographic",
-    "published date": "Fri, 10 Apr 2026 21:48:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUGdpY2N6dUhWcWJxVmFUblVSY0ZsNTk1aXVJMklRZmRCUWE1YUhXRmoweHBUOFBreEozVHVxT3dkdktNazg5a0Z1TERWWXE4TUswSG0xUGlhVzdpdDdCZk5PQ19QcTBVa3hib0hsVjVjeUZrTjJIWEVDZFI1c0ZxdmNkYk9YYnNUYjQ0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Private equity has a private credit problem - Axios",
+    "description": "Private equity has a private credit problem  AxiosHow bond market's private credit crisis fears are playing out in fixed-income ETFs  CNBCOpinion | This Is Starting to Look Like a Slow-Motion Bank Run  The New York TimesOaktree Says Exposure to Software Firms, Direct Lending Is Small  Bloomberg.comCan the secondary market allay private-credit fears?  The Economist",
+    "published date": "Fri, 10 Apr 2026 14:37:25 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1LUy1tM0UtOWozTFRmUEd4NGtua2cxci1KUzNiM3NhbjVsb3JaVUJJa2s5ZENxanFzZ2tTSHhYNUg1aVJCNFBHVXBlc0NGZV9GOTUyWVk5WF9nak0yamFhaWEzOWlOYXBJekNseU9pM29Lc3JVaVNLQXFB?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://fortune.com",
-      "title": "Fortune"
+      "href": "https://www.axios.com",
+      "title": "Axios"
+    }
+  },
+  {
+    "title": "Two Hikers Found a Simple Aluminum Can in the Woods Filled With Nearly 600 Gold Coins Worth $330,000 - The Daily Galaxy",
+    "description": "Two Hikers Found a Simple Aluminum Can in the Woods Filled With Nearly 600 Gold Coins Worth $330,000  The Daily GalaxyView Full Coverage on Google News",
+    "published date": "Sat, 11 Apr 2026 14:15:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhTkZUaVdUVzY4YkZ6U2REUE9Lcmd1dTNmNWdScmtpSXJSU2JoNUl0NTBvV25nQmFRZWdLQ1F4TWljOWVuVTVXRkttREFkSDlwM0NmaHYyUnpXUm0xcEVoV0RrTnVzN3kxVGlMMzBmQ0NQbGVsQjB4U05Bd0g?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://dailygalaxy.com",
+      "title": "The Daily Galaxy"
     }
   },
   {
@@ -630,18 +640,8 @@
     }
   },
   {
-    "title": "American Airlines completes nerfing of basic economy for elite members - Frequent Miler",
-    "description": "American Airlines completes nerfing of basic economy for elite members  Frequent Miler",
-    "published date": "Fri, 10 Apr 2026 19:45:32 GMT",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZXFxNGlHdC1sWDlseWdmVGZLdG1WQ0JPRTRmX2ZSYXJ1eVNYcXE2a1ZCSDRLMDFCNGd6MTB2WTdxbWFhUXNNRlJoMWFqdTBLdHVsTmRvWndPd2JMU3dYRTdtend2bTdsRDRaZDAyd3owSThmY0kwb0k3S0xTQUVsMWRYMUNxMkt4cTFUazNESjVqRjlQVl9HWEdhbllKdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://frequentmiler.com",
-      "title": "Frequent Miler"
-    }
-  },
-  {
     "title": "OpenAI Says Not to Worry About UBI, Because It Has Another Idea - Futurism",
-    "description": "OpenAI Says Not to Worry About UBI, Because It Has Another Idea  FuturismSam Altman and Vinod Khosla agree: AI will break the economy. Their fix is no income tax for most Americans  FortuneBehind the Curtain: Sam's superintelligence New Deal  AxiosAI Giants Go on Charm Offensive to Avert Public Backlash  WSJOpenAI calls for robot taxes, a public wealth fund, and a 4-day workweek to tackle AI disruption  Business Insider",
+    "description": "OpenAI Says Not to Worry About UBI, Because It Has Another Idea  FuturismSam Altman and Vinod Khosla agree: AI will break the economy. Their fix is no income tax for most Americans  FortuneBehind the Curtain: Sam's superintelligence New Deal  AxiosOpenAI calls for robot taxes, a public wealth fund, and a 4-day workweek to tackle AI disruption  Business InsiderAI Giants Go on Charm Offensive to Avert Public Backlash  WSJ",
     "published date": "Fri, 10 Apr 2026 20:01:33 GMT",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Yd1RwdVI2bUJYVzVBejV6VGJUamdyTGIxeWhoYXppa0tRQWExeGk3V2JCTzgwTFZZaWxJY0ZhdUVjU2NHT2xvMWtKNnBFUVNIeklsOU16REs5aUxNX2hJY3hvZzhVcHpSRDFSeDctRDYtaWRBTkFhX2VWdjRXUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -650,13 +650,33 @@
     }
   },
   {
-    "title": "Barron Trump Praised For Not 'Partying Like Some Rich Kids Do' After Bold Business Move: 'Earning His Own Money' - The Blast",
-    "description": "Barron Trump Praised For Not 'Partying Like Some Rich Kids Do' After Bold Business Move: 'Earning His Own Money'  The BlastWhat is Barron Trump's SOLLOS drink? What's in it  The Palm Beach PostBarron Trump's New Business Venture Unveils Its First Product Ahead of Spring Launch  People.comBarron Trump Sets Date to Launch His New Get Rich Scheme, SOLLOS Yerba Mate  The Daily BeastBarron Trump has a new venture — with a South Florida man vibe  Miami Herald",
-    "published date": "Sat, 11 Apr 2026 04:30:24 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBJRWdYaXJSYjBvWUIzRGNmUG9GTmlyRHRvSEk2RlV3V1pGejdfYXJNbTF2SEhiYmhWVWM1M0JZMUhFVzR6R0FNQkZYV2tRNDBFU1kzaDdrY0NJeWM4eU9UXy1xYXJjaXRoQjN6eVlCQTViX25iUEg5MFB3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "American Airlines completes nerfing of basic economy for elite members - Frequent Miler",
+    "description": "American Airlines completes nerfing of basic economy for elite members  Frequent MilerAirline to begin punishing travelers with bad seats for lacking status  SFGATEAmerican Airlines Strips Elite Benefits From Basic Economy Fares  Aviation A2ZUnited States: American Airlines Strips Elite Benefits from Basic Economy Fares, Leaving Loyal Members with Fewer Perks  Travel And Tour WorldAmerican Airlines Reduces Elite Perks in Basic Economy Class  El-Balad.com",
+    "published date": "Fri, 10 Apr 2026 19:45:32 GMT",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZXFxNGlHdC1sWDlseWdmVGZLdG1WQ0JPRTRmX2ZSYXJ1eVNYcXE2a1ZCSDRLMDFCNGd6MTB2WTdxbWFhUXNNRlJoMWFqdTBLdHVsTmRvWndPd2JMU3dYRTdtend2bTdsRDRaZDAyd3owSThmY0kwb0k3S0xTQUVsMWRYMUNxMkt4cTFUazNESjVqRjlQVl9HWEdhbllKdw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://theblast.com",
-      "title": "The Blast"
+      "href": "https://frequentmiler.com",
+      "title": "Frequent Miler"
+    }
+  },
+  {
+    "title": "The US government is about to reset Social Security — do this to protect yourself (even if you're young or middle-aged) - Yahoo Finance",
+    "description": "The US government is about to reset Social Security — do this to protect yourself (even if you're young or middle-aged)  Yahoo FinanceNext generation of senators inherits a national debt time bomb: Social Security’s insolvency  FortuneMost Americans think Social Security is going broke. Is it?  USA TodaySocial Security: The debate about who should get it  Deseret NewsWhat if Social Security Was Capped at $100,000 Annually?  Reason Magazine",
+    "published date": "Fri, 10 Apr 2026 15:07:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRC1MTmFZTGhtQUR0UVplYl9OMWM1OV9aUk5hMGFLMUc4OWp3cmRoaHdHaU83Yl9rRUVrSnhRQXhnRlRFLXRfM3RETzlUV09IZlk4X19EUGNOOGV4Nko4eV9hOGpEZlBTWjBqcWl5OHN1RGRZNmRnTWxjdjlPSGFXdXA1NHN2MUh4RS1hVm96azJqUjl1VldEbUxkVm1Wc21mNXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://finance.yahoo.com",
+      "title": "Yahoo Finance"
+    }
+  },
+  {
+    "title": "In-N-Out CEO Shares Why the Fast Food Chain Will Never Offer Mobile Ordering or App-Based Pickup - IGN",
+    "description": "In-N-Out CEO Shares Why the Fast Food Chain Will Never Offer Mobile Ordering or App-Based Pickup  IGNIn-N-Out CEO says no to delivery and East Coast expansion: 'We won't compromise'  Fox NewsIn-N-Out owner says \"no\" to mobile order apps, it's about the \"smiles, freshness\"  CBS NewsIn-N-Out refrains from mobile orders  WZTVIn-N-Out Will Not Offer Mobile Ordering, CEO Says  People.com",
+    "published date": "Fri, 10 Apr 2026 18:14:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX29NY25iNXRTcVNWZlBGbmtJdnRiUFlyXzdWU3pxalZZdFdITFljbS04ZXZuOHJpY0c4MWVTbHV3bmJCSDJHbFd3dXZMa3dfY1pSUnN4M0ZKZDNYWUFDa0I0bXgzTWZ6bm5oT1lyeWFMY1pCU2lUZGlpRk9BbTZ5bVBydmtDOWVqZ0dybDlmSXpIUmJiMlhLS0pZWC0tR0xZSFN5TFlRa05oNlkwdi13NVEzWGZUd1lnaUdjd29abm5RUjQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ign.com",
+      "title": "IGN"
     }
   },
   {
@@ -670,33 +690,13 @@
     }
   },
   {
-    "title": "Software, Cybersecurity Stocks Tank. Anthropic and OpenAI Fears Rattle the Sector - Yahoo Finance",
-    "description": "Software, Cybersecurity Stocks Tank. Anthropic and OpenAI Fears Rattle the Sector  Yahoo FinanceSoftware stocks are plunging. Why that's a warning sign for the entire market: Chart of the Day  Yahoo FinanceCyber security stocks fall on worries over Anthropic’s advanced AI tool  Financial TimesThe Software Narrative Is Leaking Badly Again Thanks To Anthropic Mythos  Seeking AlphaSoftware Stocks Are Cracking. Is Your Portfolio Exposed?  InvestorPlace",
-    "published date": "Fri, 10 Apr 2026 12:18:40 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN2c0aHlpSHBuTVJBZ21CTnpta3k3TTFFazRtVmVMZEhuRWZuSmx4N29vNUJPNGxSeHp6bWtWRzkyUEp6a0FtS1RkR05UbVI0WExXUjBMRU1JLVFQRmtLUjYzMmlhUy1CN1FUNkR3RjlIVXc0ejNFY0xmcGlSeHB1eUswQndybE5HYjRWaVpLSXAyTGRHeXhaVy0yVGhOZmtVaUtkMV82S1lUYmltQkZlMl9mMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Barron Trump Praised For Not 'Partying Like Some Rich Kids Do' After Bold Business Move: 'Earning His Own Money' - The Blast",
+    "description": "Barron Trump Praised For Not 'Partying Like Some Rich Kids Do' After Bold Business Move: 'Earning His Own Money'  The BlastWhat is Barron Trump's SOLLOS drink? What's in it  The Palm Beach PostBarron Trump's New Business Venture Unveils Its First Product Ahead of Spring Launch  People.comBarron Trump Sets Date to Launch His New Get Rich Scheme, SOLLOS Yerba Mate  The Daily BeastBarron Trump has a new venture — with a South Florida man vibe  Miami Herald",
+    "published date": "Sat, 11 Apr 2026 04:30:24 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBJRWdYaXJSYjBvWUIzRGNmUG9GTmlyRHRvSEk2RlV3V1pGejdfYXJNbTF2SEhiYmhWVWM1M0JZMUhFVzR6R0FNQkZYV2tRNDBFU1kzaDdrY0NJeWM4eU9UXy1xYXJjaXRoQjN6eVlCQTViX25iUEg5MFB3?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://finance.yahoo.com",
-      "title": "Yahoo Finance"
-    }
-  },
-  {
-    "title": "McDonald’s CEO blames mother’s etiquette training for awkward burger bite in video - The Guardian",
-    "description": "McDonald’s CEO blames mother’s etiquette training for awkward burger bite in video  The GuardianExclusive | McDonald’s CEO Responds to the Viral Big Arch Backlash  WSJMcDonald's CEO dragged again after another awkward food video: 'Nugget bite was worse'  Fox NewsMcDonald's CEO blasted again for bite of McNugget during WSJ interview  USA TodayMcDonald’s CEO Blames His Mom’s Advice for His Viral Reaction to Trying the Big Arch Burger  People.com",
-    "published date": "Sat, 11 Apr 2026 09:02:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa0dqTkJyRjA3cHNSYjhTQWNacG0zMExhZ1Fta3ZKVXV6bkZaOWhUTjZLT24xSjR5bm01c0E0dUtvLVlZQkVUV0FsQzM3bHZZYVBkUnpURDkyai1sSWF6RVhGdk5hQ2xrRzJTVDdBNXE4eVBkOFNRYm9ZU2JnV2dOZm9haExKSVpDdlBEQlh4aE04aERWM3RzQTNDemE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theguardian.com",
-      "title": "The Guardian"
-    }
-  },
-  {
-    "title": "The 'affordability economy' has created a housing market nobody predicted: Prices collapsing in the Sun Belt, soaring in the Rust Belt - Fortune",
-    "description": "The 'affordability economy' has created a housing market nobody predicted: Prices collapsing in the Sun Belt, soaring in the Rust Belt  FortuneNo more American Dream? Housing market strains buyers and owners  USA TodayATW: Americans Sour on Homeowning, Why GLP-1s Would Grow With Employer Coverage, and Will The World Cup Finally Tip America Into Soccer Fandom?  The Harris PollAffordable Housing Remains Elusive as Wages Fail to Keep Pace  National TodayHow Policymakers Can Lower Mortgage Costs And Increase Housing Affordability  Seeking Alpha",
-    "published date": "Sat, 11 Apr 2026 08:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SaHF3QUdsaUdBTmhJNzJaalU0YlVrQ1Q0endUX1NQVEhPVV9RYVRSLVRlTVZvRzJLYXo5MUl4SHU2b01Sd2tVNUJBUnpEblRael84aTRPamdtbHJLSE5uNUFsY18xWEhDTlA0?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://fortune.com",
-      "title": "Fortune"
+      "href": "https://theblast.com",
+      "title": "The Blast"
     }
   }
 ]
