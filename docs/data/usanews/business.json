@@ -1,52 +1,42 @@
 [
   {
-    "title": "Judge Halts Nexstar-Tegna TV Station Merger - WSJ",
-    "description": "Judge Halts Nexstar-Tegna TV Station Merger  WSJFederal Court Temporarily Freezes Nexstar’s Merger With Tegna  The New York TimesFederal judge blocks politically fraught TV station merger  CNNFederal judge blocks Nexstar-Tegna TV station merger until antitrust lawsuit is settled  NBC NewsJudge halts local TV giant Nexstar's takeover of rival Tegna until trial  NPR",
-    "published date": "Sat, 18 Apr 2026 12:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSUVvRXVHVjF3VkZzaWN2V1p1c1BMX3ZQZElCUEN6bFNYR1FqRUJQdmNiRUdSd3FrQjhjWGZnN3JnampySW1QbklYbDZuMVJJamFQdzQxYk9yZlJ5bXhqQ20zUVFVX25FeDRSLUZQdlhtOFcySWRSSlRqQnlERkFmQkdXNWdvTENMM3o0SlNoVng?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.wsj.com",
-      "title": "WSJ"
-    }
-  },
-  {
-    "title": "Anthropic’s Mythos AI model tests limits of global cyber defences - Financial Times",
-    "description": "Anthropic’s Mythos AI model tests limits of global cyber defences  Financial TimesWhite House and Anthropic Hold ‘Productive’ Meeting, Aiming for a Compromise  The New York TimesScoop: Bessent and Wiles met Anthropic's Amodei in sign of thaw  AxiosHow Anthropic Learned Mythos Was Too Dangerous for the Wild  Bloomberg.comAnthropic’s Nuclear Bomb  War on the Rocks",
-    "published date": "Sat, 18 Apr 2026 11:00:09 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUjBqU2pGcGVOYmtZRTdOR01KczRZY1RMMHFQaHlGUmVOVG1BSFg5cHc0cmQxUVdFbk1KZjB5WU9TX0Zrbm9YcHB5U0g2S2FYTVZsX2s2MkliM3N1azVqNWZzWHo3ZHU4em9HaXYwMzJDdTAwNUJvMm1yalRFbzBZZ0FsUkM?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ft.com",
-      "title": "Financial Times"
-    }
-  },
-  {
-    "title": "Tired of waiting for your EV to charge up? One Chinese company has a novel solution - NPR",
-    "description": "Tired of waiting for your EV to charge up? One Chinese company has a novel solution  NPRView Full Coverage on Google News",
-    "published date": "Sat, 18 Apr 2026 11:31:50 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNblowN2ZMYlloVHp6alYyUVBobmJON1pHaDQ5ZXVlTThoNG5XaTU2dlhacU1vQ0t3cklFa3ZFRWxMaW1ic1JOaFFTVlo1ak0taGdMZUgtRTRzdW9lUWdQVGhiQWlGNEJ1UjdVelRzV1QtUUNWaXNtd3hTMUFJbGlmdUhPNA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.npr.org",
-      "title": "NPR"
-    }
-  },
-  {
-    "title": "OpenAI's senior exec Srinivas Narayanan announces he is leaving; says: 'Looking forward to spending some - The Times of India",
-    "description": "OpenAI's senior exec Srinivas Narayanan announces he is leaving; says: 'Looking forward to spending some  The Times of India3 top executives leave OpenAI in a single day  Business InsiderOpenAI loses multiple executives in latest leadership shakeup  CNBCOpenAI’s Former Product Chief and Sora Head Leave Company  Bloomberg.comOpenAI Executive Kevin Weil Is Leaving the Company  WIRED",
-    "published date": "Sat, 18 Apr 2026 08:35:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOWjZfZkswTmJTelRBNXkwc2hyVlVmQW9BNkxNOGQybEkwb1dQRnNqbGRmbW1vdVlSaVNZcm9CcFhnSHAzenVBYy1GWjR5NTFjTlZtcWpwS1FQMENqVEJjT0lYZjQ5NGEwR1ZsSnJiSFNhNy1tUzB0NWY1eFQ5dmY5enFkZFZSdk5feE1kZkZ2MUgxYXdndjh0Y1RXZXdmaXVXZms3ZDg1Y0FOczhVR1ZlZXVVWFdRcnVobF9aeW90a0Q3M185NXVDam9YekJPNFBuLXZxN1RmMnFTcllxclZWc0pIS2c3bkNJOVFzLTM0LVNmS0I2c0pfQVZia3phRUZKaThET2QzZk5HZTdWY1JSc1IzaHlTV0xHR3BneWRPNTZFdlp5RVdIVEVrMDFnTmI2U3NQR1dLeHdPMDVlcUFFZkxRV1NfUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://timesofindia.indiatimes.com",
-      "title": "The Times of India"
-    }
-  },
-  {
     "title": "Airline industry faces a shake-up as jet fuel hits hard - Axios",
-    "description": "Airline industry faces a shake-up as jet fuel hits hard  AxiosThe Jet-Fuel Surge Is Making Global Flight Connections Disappear  Bloomberg.comCould Jet Fuel Shortage Cancel Your International Flight This Summer? Here’s What To Know  ForbesAP Exclusive: Europe has ‘maybe 6 weeks of jet fuel left,’ energy agency head warns  AP NewsExclusive: EU to push for jet fuel diversification as Iran war threatens supply  Reuters",
+    "description": "Airline industry faces a shake-up as jet fuel hits hard  AxiosWhat consumers can do as the Iran war impacts the cost and availability of flights  AP NewsThe Jet-Fuel Surge Is Making Global Flight Connections Disappear  Bloomberg.comCould Jet Fuel Shortage Cancel Your International Flight This Summer? Here’s What To Know  ForbesExclusive: EU to push for jet fuel diversification as Iran war threatens supply  Reuters",
     "published date": "Sat, 18 Apr 2026 12:35:22 GMT",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNczA4N09oVzRWUVhqV3NvUGE4c3BZQlFwRFJYNUVLc0t5V3ZzOHdrRk9GN2R4V0ZsZUlFdHk5SlF3WU5vMU82c3d2ekw5MGxmX1pFMlVjb1FiZGpVZHExX2VQNThTMWNQZ3FKb0FsLXdSa0prNEdhWDVkOFBDUGZfelRLc1F5Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.axios.com",
       "title": "Axios"
+    }
+  },
+  {
+    "title": "Trump, When Asked About White House Meeting with Anthropic’s Dario Amodei: ‘Who?’ - Gizmodo",
+    "description": "Trump, When Asked About White House Meeting with Anthropic’s Dario Amodei: ‘Who?’  GizmodoWhite House and Anthropic Hold ‘Productive’ Meeting, Aiming for a Compromise  The New York TimesScoop: Bessent and Wiles met Anthropic's Amodei in sign of thaw  AxiosHow Anthropic Learned Mythos Was Too Dangerous for the Wild  Bloomberg.comMythos a serious threat but more will follow, Barclays CEO says  Reuters",
+    "published date": "Sat, 18 Apr 2026 17:25:16 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ0dUbUVBQ2E3YjJZVGZqQk5kUU5VYkhVVzA2U19PVFVMU0x2UG5KWXVpTkFkTjdYSWVjY2NRZU9IUnBLeTM0WVQwS1F1bk8wWTlLRlQ0Q3RJazUwNWppY1phbVZpT2N3SEhEeWl0NjBzUW0xcVNiUzltaFo3SGJvT1Jfd255XzdneGlkQXhUOG9fRjl6eVh2TFNUWXVyZXlDakNuYU5ZYzRnUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://gizmodo.com",
+      "title": "Gizmodo"
+    }
+  },
+  {
+    "title": "United CEO Scott Kirby and American CEO Robert Isom were once colleagues known as the 'dream team.' Now Kirby wants to acquire his rival - Fortune",
+    "description": "United CEO Scott Kirby and American CEO Robert Isom were once colleagues known as the 'dream team.' Now Kirby wants to acquire his rival  FortuneAmerican Airlines Says It Won’t Merge With United  The New York TimesAmerican Airlines Rejects United CEO’s Merger Proposal  WSJStatement from American Airlines  American AirlinesSky Harbor's biggest airline shuts down drama-filled merger rumors  azcentral.com and The Arizona Republic",
+    "published date": "Sat, 18 Apr 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBneVFGSFN2cDBpZ3ZNOHd1Z21yalpJcW4taG1nWDlKa0VNV1NINzhtaHV3STd0cWtvU1hLNHhQbFpNcmNnd0dSaWxjTE9RT3RTS3NLS3lvSjdtQ1BxZGNVZnhkd2hPNXVGNllRem1wTi1OYlBtMHVkRUVB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://fortune.com",
+      "title": "Fortune"
+    }
+  },
+  {
+    "title": "Judge Halts Nexstar-Tegna TV Station Merger - WSJ",
+    "description": "Judge Halts Nexstar-Tegna TV Station Merger  WSJFederal Court Temporarily Freezes Nexstar’s Merger With Tegna  The New York TimesFederal judge blocks Nexstar-Tegna merger until antitrust lawsuit is resolved  PBSJudge halts local TV giant Nexstar's takeover of rival Tegna until trial  NPRNexstar says it will appeal following U.S. judge ruling halting Tegna merger  CNBC",
+    "published date": "Sat, 18 Apr 2026 12:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSUVvRXVHVjF3VkZzaWN2V1p1c1BMX3ZQZElCUEN6bFNYR1FqRUJQdmNiRUdSd3FrQjhjWGZnN3JnampySW1QbklYbDZuMVJJamFQdzQxYk9yZlJ5bXhqQ20zUVFVX25FeDRSLUZQdlhtOFcySWRSSlRqQnlERkFmQkdXNWdvTENMM3o0SlNoVng?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.wsj.com",
+      "title": "WSJ"
     }
   },
   {
@@ -60,28 +50,28 @@
     }
   },
   {
-    "title": "Trump orders more access to psychedelics like LSD, psilocybin, ibogaine - The Washington Post",
-    "description": "Trump orders more access to psychedelics like LSD, psilocybin, ibogaine  The Washington PostTrump Signs Executive Order to Loosen Restrictions on Psychedelic Drugs  The New York TimesTrump signs order to speed review of psychedelics, including the controversial drug ibogaine  Pittsburgh Post-GazetteTrump accelerates research on psychedelic treatments and asks, ‘Can I have some?’  CNNTrump signs executive order on psychedelic drugs — with Joe Rogan by his side  MS NOW",
-    "published date": "Sat, 18 Apr 2026 14:23:34 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYmFsY0NaTUUzeTdKT1dQeWtELXdIcURPMTZQWGJ4WmlfQm14QnF5eGdXYzhZTExtUm9hTUZVWUJTalEtR1JZdndOZkVnM0duRV9jRnZVd3ZXd3lCYkh5dWtVUmtKejZlVUhxSDdFeXRKLXJuWXlrd1JlMTBIVk1yNTRLcVF3S0g3Qi05a0lhNFBjS3pk?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Tired of waiting for your EV to charge up? One Chinese company has a novel solution - NPR",
+    "description": "Tired of waiting for your EV to charge up? One Chinese company has a novel solution  NPRView Full Coverage on Google News",
+    "published date": "Sat, 18 Apr 2026 11:31:50 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNblowN2ZMYlloVHp6alYyUVBobmJON1pHaDQ5ZXVlTThoNG5XaTU2dlhacU1vQ0t3cklFa3ZFRWxMaW1ic1JOaFFTVlo1ak0taGdMZUgtRTRzdW9lUWdQVGhiQWlGNEJ1UjdVelRzV1QtUUNWaXNtd3hTMUFJbGlmdUhPNA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.washingtonpost.com",
-      "title": "The Washington Post"
+      "href": "https://www.npr.org",
+      "title": "NPR"
     }
   },
   {
-    "title": "Stock Market News From April 17, 2026: Nasdaq Sets Longest Win Streak Since 1992 - Barron's",
-    "description": "Stock Market News From April 17, 2026: Nasdaq Sets Longest Win Streak Since 1992  Barron'sStocks Rally as Oil Plunges on Reopening of Hormuz Strait  Bloomberg.comThe Nasdaq Just Did Something It Hasn't Done Since 2020, and Here's What Could Happen Next  The Motley FoolNasdaq scores longest winning streak since 1992 as historic stock-market comeback continues  MarketWatchThe post-ceasefire rally just lifted the Nasdaq to its longest win streak in 34 years  Business Insider",
-    "published date": "Fri, 17 Apr 2026 23:58:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGRVRWSGxaRC1rTkloUUMxZWRHVWo2dkpnZ05UOU43NTZkcjh2STF0ZjdpdXJQNzhTNVZVWHJyZmtNNkhWM2QwZXZCWF9MR29XNXFTSFFzWUtIc3FQeE9uRHhwS2hoQVJFZUFHUDRtMDhyalpyNEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Why Netflix Stock Is Tanking Friday - Yahoo Finance",
+    "description": "Why Netflix Stock Is Tanking Friday  Yahoo FinanceNetflix stock slides as forecast misses, co-founder Reed Hastings announces departure from board  Yahoo FinanceNetflix Stock Slumps 10%. Buy the Dip, This Analyst Says.  Barron'sNetflix co-founder Reed Hastings to step down, departure is 'spooking investors'  Fox BusinessTed Sarandos Insists “No Palace Intrigue” Over Reed Hastings’ Netflix Exit & WBD Bid: “Reed Was A Big Champion For That Deal”  Deadline",
+    "published date": "Fri, 17 Apr 2026 13:52:40 GMT",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd1FadTJaa0xOTTBIcURfbS1haDR1NHY1MzUtWEpIbjVFNUoySWZrZkRRNU45SUExaXJ1cms0RWxTZzVkdVFRQmVhVHZOdkFJdGZEMDMyNkEtSnhXc0NzOF9GTXY5bXhiUm9FNVlpR1RGR1EyWHpOVFJBNXFtZFdCTTRxNFZ3ZkJMRU4tempQQjF3Ym1PWnh4QVZlZU05UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.barrons.com",
-      "title": "Barron's"
+      "href": "https://finance.yahoo.com",
+      "title": "Yahoo Finance"
     }
   },
   {
     "title": "Exclusive | Justice Department Rebuffs French on X Probe, Musk Interview - WSJ",
-    "description": "Exclusive | Justice Department Rebuffs French on X Probe, Musk Interview  WSJTrump DOJ calls France’s investigation into Elon Musk’s X ‘unjust’  CryptopolitanUS Declines French Request for Musk Investigation Aid  DevdiscourseUS Department of Justice refused to assist France in investigation against social network X and Elon Musk  Українські Національні Новини (УНН)DOJ refuses to help French authorities in criminal probe of X  Engadget",
+    "description": "Exclusive | Justice Department Rebuffs French on X Probe, Musk Interview  WSJDOJ won’t contribute to France’s probe of Musk’s X: Report  The HillParis prosecutors reject accusation in rift with Musk over X probe  ReutersJudicial Independence at Stake: Paris and U.S. Clash Over Investigating Musk's X Platform  DevdiscourseTrump DOJ calls France’s investigation into Elon Musk’s X ‘unjust’  Cryptopolitan",
     "published date": "Sat, 18 Apr 2026 14:16:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQlotcXgtOVZuZjhwSkJhT2paOHRya29rVUNKMTA2SnAzWG93TU9US0U2QVd2NXFUOVB0Smx5eTR4RVJEWG4zOVpGYmUwcGwyS19JNm1PN1dfZURUUEt3cndERm84WUdiUVBxdm96RUkzRWZfQnphRHJnRDMzd3hkTlBvTWV5Z2ZLVjRDQUIwd3FGOGUxUlQ3WGRnbWM3UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -91,7 +81,7 @@
   },
   {
     "title": "The AI Doomers Who Are Playing With Fire - Gizmodo",
-    "description": "The AI Doomers Who Are Playing With Fire  GizmodoExclusive | Altman Attack Suspect Called for ‘Luigi-ing Tech CEOs’ in Online Messages  WSJAttacks on Sam Altman's home are extreme. But the AI backlash is going mainstream  Fortune‘This is really serious shit’: OpenAI policy czar thinks ‘doomers’ are playing with fire  The San Francisco StandardThe attack on Sam Altman exposed a dark underbelly of the anti-AI movement  CNN",
+    "description": "The AI Doomers Who Are Playing With Fire  GizmodoThe attack on Sam Altman exposed a dark underbelly of the anti-AI movement  CNNAttacks on Sam Altman's home are extreme. But the AI backlash is going mainstream  FortuneAttorney for suspect in attack at Sam Altman’s home says he was in midst of 'mental health crisis'  AP NewsExclusive | Altman Attack Suspect Called for ‘Luigi-ing Tech CEOs’ in Online Messages  WSJ",
     "published date": "Sat, 18 Apr 2026 12:00:38 GMT",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5tUVMwbWJRMU81MmJYR3NMUHI0Z0JIeVpjX1gxbU5xNmRLcDNiR2xFUDNib1lqdlFfeG9CZjZ3ZXZtVWd2OGZrZ1lMRXpMeXctWkNsclZmM3ZEMjRpNlEzOU9qazlRTGdNcGhlTHRjZXhOSFB2eVhLS2dUaw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -100,8 +90,18 @@
     }
   },
   {
+    "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’ - TechCrunch",
+    "description": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’  TechCrunch3 top executives leave OpenAI in a single day  Business InsiderOpenAI Executive Kevin Weil Is Leaving the Company  WIREDOpenAI's senior exec Srinivas Narayanan announces he is leaving; says: 'Looking forward to spending some time with my aging parents in India before…'  The Times of IndiaOpenAI’s Former Product Chief and Sora Head Leave Company  Bloomberg.com",
+    "published date": "Fri, 17 Apr 2026 20:38:17 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT3lfUDVGeXhMUW5JMTByNUhmeWFSQVA2SnM0ZFh4SDd2N0NZVVJ2SkwtQW5wdkt3SUV5Wm5oMzVadUlyanMxTHBXQUN1MWZZbXZRR1FzVUppUFFBNGE2WDh1cE5tRm1odGhiZk1zY25JWVBRQWYtY0lZNDB2U0d0VFBtZ01lTTlWb2std0hnYmFjaWNxQ2VROXdPd1gtRXRHUU85WTFYNHd6UW5yV3gwOFBfdzN3dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://techcrunch.com",
+      "title": "TechCrunch"
+    }
+  },
+  {
     "title": "Experts send strong message about decreasing mortgage rates - thestreet.com",
-    "description": "Experts send strong message about decreasing mortgage rates  thestreet.comMortgage rates fall as Iran ceasefire eases market tensions  Fox BusinessMortgage and refinance interest rates today, April 17, 2026: Buying power 'better than a year ago'  Yahoo FinanceLowest Rates in Over a Month Despite Small Move Today  Mortgage News DailyWhat are today's mortgage interest rates: April 17, 2026?  CBS News",
+    "description": "Experts send strong message about decreasing mortgage rates  thestreet.comMortgage rates fall as Iran ceasefire eases market tensions  Fox BusinessMortgage and refinance interest rates today, April 17, 2026: Buying power 'better than a year ago'  Yahoo FinanceMortgage rates dip to 4-week low — just in time for the best week of the year to sell a home  MarketWatchLowest Rates in Over a Month Despite Small Move Today  Mortgage News Daily",
     "published date": "Sat, 18 Apr 2026 14:33:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRm5BYWRjMEZzNkZFd1VDa29DNWcwdmstZEhuYk5vaTA4LXU1WEJZZWpOZXpsRG5RZkppNFRQaHUyUldyODdhT0E2YVY1ZkRjaWR1WVdQeUtpT0Z0R2h5ak03NHUzcE5yeDdid1Fsc1JkemR0YUxvMFg3WG9sMmpPalZkcjFXamtIWG9VZ0ZLMFlvalBnSllEUFE5ekFFdw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -110,18 +110,8 @@
     }
   },
   {
-    "title": "United CEO Scott Kirby and American CEO Robert Isom were once colleagues known as the 'dream team.' Now Kirby wants to acquire his rival - Fortune",
-    "description": "United CEO Scott Kirby and American CEO Robert Isom were once colleagues known as the 'dream team.' Now Kirby wants to acquire his rival  FortuneAmerican Airlines Says It Won’t Merge With United  The New York TimesAmerican Airlines rejects merger talks with United Airlines  New York PostStatement from American Airlines  American AirlinesWhy United Plus American Could Equal More Woe for Passengers  Bloomberg.com",
-    "published date": "Sat, 18 Apr 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBneVFGSFN2cDBpZ3ZNOHd1Z21yalpJcW4taG1nWDlKa0VNV1NINzhtaHV3STd0cWtvU1hLNHhQbFpNcmNnd0dSaWxjTE9RT3RTS3NLS3lvSjdtQ1BxZGNVZnhkd2hPNXVGNllRem1wTi1OYlBtMHVkRUVB?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://fortune.com",
-      "title": "Fortune"
-    }
-  },
-  {
-    "title": "‘It’s a twilight zone’: Iran war casts deep shadows over IMF gathering in Washington - The Guardian",
-    "description": "‘It’s a twilight zone’: Iran war casts deep shadows over IMF gathering in Washington  The GuardianIran War Casts Gloom Over Outlook of World Finance Ministers and Investors  WSJIMF says Middle East war to deepen economic divide in Latin America, Caribbean  ReutersIran, the Global Economy, and the Case Against Complacency  Council on Foreign RelationsCharting the Global Economy: IMF Trims World Growth Projections  Bloomberg.com",
+    "title": "‘It’s a twilight zone’: Iran war casts deep shadows over IMF gathering in Washington | Politics - The Guardian",
+    "description": "‘It’s a twilight zone’: Iran war casts deep shadows over IMF gathering in Washington | Politics  The GuardianIran War Casts Gloom Over Outlook of World Finance Ministers and Investors  WSJWar Revives Stagflation Dangers for Global Economy  Bloomberg.comIMF says Middle East war to deepen economic divide in Latin America, Caribbean  ReutersBusiness  The Economist",
     "published date": "Sat, 18 Apr 2026 08:22:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOUpjYlozcFJUS0ZHcGxIZlR5UXV2ZE5GV2cyR1VwZkN0NFdSX05MN0RpTGZvUkMtOWtQc01rbk1RbU5ZSFlGSkR1Zkc3TzZoQmtCREt4OG9oZzZFTHdjUEZNS2EzcG9LSEsxS0RERTAtSEZPajMxemIxaG9FSzVzM012T0YtZ180Z2xrRkpKWnZJdlRWSl9wTXZYeEtkbkNlR2ttODAycUtnaUJqeWpPVVg5UWtsbjZfLTRUaUlUSnJVcC1VeEpBbw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -130,23 +120,43 @@
     }
   },
   {
-    "title": "Watch live: Blue Origin reusing New Glenn rocket stage for 1st time on April 19 launch - Space",
-    "description": "Watch live: Blue Origin reusing New Glenn rocket stage for 1st time on April 19 launch  SpaceNew Glenn Mission NG-3  Blue OriginBlue Origin to stream New Glenn rocket launch. Time, date, how to watch  USA TodayBlue Origin hot fires its first previously flown booster, prepares for weekend launch  Spaceflight NowBlue Origin targets Sunday launch for New Glenn rocket’s third mission  WKMG",
-    "published date": "Sat, 18 Apr 2026 10:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTVoteTVwZ3RoMUtkR1pnUUR0NWZwcHJ2MWF5ZzdrVnZFN0Z6cUNpb2poMEJ5RXZyNzF3OHVoUkI1M3R3VEhLVWdKcklNQ1hGQWJtNk5ueVVrejhWOWFoTHZaT0M1dldRUXkya0wxMjlsRU5oUXNiQ2JIaUVSRFhUSUJBbHh2dDZGYm8yVlh0YlVIMVVYa3RZSjZ5OG5yZEpQSFRlQ1JBWUttS3gtOHR3ZVJ1eDlXYXJjcEo0aUUwZjVlNkk0NFVVelhTSlZ2aWNwdl9iMjJCOFlsSUFjOXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "A longevity expert on how to live longer, without spending a fortune - Daily Mail",
+    "description": "A longevity expert on how to live longer, without spending a fortune  Daily MailKara Swisher on AI, biohacking, and the business of anti-aging  EnterpriseAM EgyptForget Biohacking—These Are the Real Longevity Rules  Women's HealthLongevity isn’t just about the latest gadget. The actual keys to a longer life are in plain sight | Health | phillytrib.com  phillytrib.comLongevity isn’t just about the latest gadget. The actual keys to a longer life are in plain sight  AOL.com",
+    "published date": "Thu, 16 Apr 2026 11:00:08 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTFp3ZVhmNzFWb29nclZIdW5wdGtlUEw1T1JTTU4yTVpoWjc3T2V0RndDMTNBQ3pmR3k1VXN0eEtuTUhKZzhCTG8zakozQVgwU21UMnRBQWREb3dfa0ZoZDJ0UHA3SnZRMGhfOUJJakhtdmNndEtIMnNtRkE4cUFINXNKcW1uNXhNdi10dlJpQThjRHkzS2QxWk5JcjRlS2doSEEyMDFaNmVheG92di1yR09MWXJSWlU?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.space.com",
-      "title": "Space"
+      "href": "https://www.dailymail.co.uk",
+      "title": "Daily Mail"
     }
   },
   {
-    "title": "Reed Hastings Exit Tests Netflix Board Confidence And Growth Narrative - Yahoo Finance",
-    "description": "Reed Hastings Exit Tests Netflix Board Confidence And Growth Narrative  Yahoo FinanceNetflix stock slides as forecast misses, co-founder Reed Hastings announces departure from board  Yahoo FinanceNetflix chairman and co-founder to step down from board in June | CNN Business  CNNTed Sarandos Insists “No Palace Intrigue” Over Reed Hastings’ Netflix Exit & WBD Bid: “Reed Was A Big Champion For That Deal”  DeadlineNetflix co-founder Reed Hastings to step down, departure is 'spooking investors'  Fox Business",
-    "published date": "Fri, 17 Apr 2026 14:05:09 GMT",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTG9fLXo5amFVeUcwaS12QmlBMTdvWG1EaENpTFM4OVlRaDVDVS1kR3lMeGxZVmZ5S3FVSy1XWmthSWdMNERyRmJ2M2hJR18ySHBpZU9TX0FXd3NWMUF4ZkNQM1VQX005RFdUTzZmN2lKRE14MVUwT214OVNxR2lPQjFXQVpWa0tvUGk5UEkxck5jMzRzYjE3MEFYNUY0UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Wall St Week Ahead Surging record-high US stocks to wade deeper into earnings season - Reuters",
+    "description": "Wall St Week Ahead Surging record-high US stocks to wade deeper into earnings season  ReutersS&P 500 notches first close above 7,100, Nasdaq posts longest win streak since 1992: Live updates  CNBCStocks Extend ‘Astonishing’ Rally as Middle East Tensions Ease Further  The New York TimesStock Market News, April 17, 2026: Dow Jumped, Oil Tumbled After Iran Declared Strait Open  WSJS&P 500, Nasdaq edge up to new records with Middle East hopes in focus  Reuters",
+    "published date": "Fri, 17 Apr 2026 20:22:23 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaWJmWUFPa2lnWnJCby1JSlA3dU1XVE9YeVpJMTJOSzlzXzI2ZnJqZkREdFlHMENwcldMZFRZaFRkSVlJMm1YdnY4a1ZHN21XRk9kZzFiQW5oYzRxMlJWTHlUNHcxVDR5Ml9UODlxdzNlSDlHVEE3eWR0eFNFOW1YcnI0NzVDZUhjSTdEOHNvWnpLTmJQNTZJZXgwc3RvOWJ4OE94V1N0NnlTV2xpZXFpTHpyUExlX195S19R?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://finance.yahoo.com",
-      "title": "Yahoo Finance"
+      "href": "https://www.reuters.com",
+      "title": "Reuters"
+    }
+  },
+  {
+    "title": "United Airlines flight diverts and passengers escape on emergency slides amid 'bomb threat' after pilots 'hear beeping device' - Daily Mail",
+    "description": "United Airlines flight diverts and passengers escape on emergency slides amid 'bomb threat' after pilots 'hear beeping device'  Daily MailUnited Airlines Flight Diverted Due to ‘Potential Bomb,’ Passengers Exit Plane Via Emergency Slides  People.comUnited flight from Chicago evacuated due to ‘security concern,’ airline says  FOX 32 ChicagoPlane diverted to Pittsburgh for 'possible security issue,' officials say  WTAE‘Security issue’ on NYC-bound flight prompts emergency landing: FAA  Yahoo",
+    "published date": "Sat, 18 Apr 2026 17:18:58 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVjBzS1FGcEFxYlZfUmtBYlJwdS0zbURodkFUZldrcTFCZ3RFZlVGdTN1ekMtZGFUR3hScENmcDZxRVVmNlpJei1EQ3pZdy1US2N5Ml9vcWlGYVlCUVFlQWhURFFYeXJlNHZ2cFhGdk42QW5zd2ExNzVBTkd5VmhtMy1qWEV2a1B4VndmejcyeGEwRWNKRlVmX09OZWRHOVRSUklxUDh3VFhrSXQ0SFpjSlFhdDc1VE94bUNZVV9KWENWR1NwTWROYXBocXBndWhGMjNLX1NWNm90UdIB3wFBVV95cUxOa0FNazlKTnRGMjVFQzZMUUhuZU9xRlZ1a281UVFXVWpTZ0dCN2sxaVZNa2REZHQ2TFRXY255Z3V2bUhoQ0wtVnRXc2pMc2dxNWUzMlhpUHA2bjdiR25mQ1VCT19ZWXhvc2RYc012dmVNdnVvaWx0WjVGZ0VMRkd0d1I4S3ZPVnc4M01PLWhXMnh0bm9fVEVUcERYU0o5UHZaRFc3eWhOY3FmeFBEaWdtUHhteTYyYUMyajhqMFg5WndMa2Q0YmlNUVN0S1BfdXhudXRBQ2VSd1hBNVNBWndr?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.dailymail.co.uk",
+      "title": "Daily Mail"
+    }
+  },
+  {
+    "title": "Bay Area-based Philz Coffee reversing course, adding back Pride flags to all of its locations - ABC7 San Francisco",
+    "description": "Bay Area-based Philz Coffee reversing course, adding back Pride flags to all of its locations  ABC7 San FranciscoCalifornia coffee chain reinstates policy on Pride flags after swift backlash  The GuardianPhilz Coffee doubles down on removing Pride flags despite backlash  San Francisco ChronicleAfter Backlash, Philz Coffee Decides to Let Pride Flags Fly in Stores After All  them.us'I made a mistake': Philz Coffee reverses course on removing pride flags  SFGATE",
+    "published date": "Fri, 17 Apr 2026 17:40:37 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZlRxOGZBQkxRNEtTdXFxRHVJWk8wTzI0UlY5VDQzTUJTaU9rekQ3Mnp3OUwtMzVEa01oRG5VdXczTWlQazRkc3ZQeThnWU9MZ1ZmT3VCSkx6Q3FIaWVlT2x3Nm00ME1nbEE0b3ZiQTZhZUt3NS1lTDZERmUzb2MtYW1BQzV0SG1QMkxlUlh5YTZoMDlPZnJqZ2luQTJKemlxT3psZURNUU9UMkpFVEFBblVNak7SAboBQVVfeXFMTWhEYUJVQVhyRml0UDU1ckFKUjExa1IyR3N3eUpONVkwQk1mZGFJXzk1SzFrY0hsMjJUQnc1VDlJVGsteGpkcmdHRUJERWdqSXNRSmRiVTktVFI4YUNhajF6akVkbzJsLUZESEN6U0U0U19nZmF6c3hYMGFETng5TUxOQ183VzFmTmZDcms1d0pOZkR3NmhiMF9aOGlaS054b0F5d3E5T2Y1SDVMd2dDdEo1NkFVbmFNc1pn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://abc7news.com",
+      "title": "ABC7 San Francisco"
     }
   },
   {
@@ -160,18 +170,8 @@
     }
   },
   {
-    "title": "Bay Area-based Philz Coffee reversing course, adding back Pride flags to all of its locations - ABC7 San Francisco",
-    "description": "Bay Area-based Philz Coffee reversing course, adding back Pride flags to all of its locations  ABC7 San FranciscoCalifornia coffee chain reinstates policy on Pride flags after swift backlash  The Guardian‘I am sincerely sorry': Philz Coffee to keep Pride flags at cafes  NBC Bay AreaPhilz Coffee doubles down on removing Pride flags despite backlash  San Francisco ChronicleAfter Backlash, Philz Coffee Decides to Let Pride Flags Fly in Stores After All  them.us",
-    "published date": "Fri, 17 Apr 2026 17:40:37 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZlRxOGZBQkxRNEtTdXFxRHVJWk8wTzI0UlY5VDQzTUJTaU9rekQ3Mnp3OUwtMzVEa01oRG5VdXczTWlQazRkc3ZQeThnWU9MZ1ZmT3VCSkx6Q3FIaWVlT2x3Nm00ME1nbEE0b3ZiQTZhZUt3NS1lTDZERmUzb2MtYW1BQzV0SG1QMkxlUlh5YTZoMDlPZnJqZ2luQTJKemlxT3psZURNUU9UMkpFVEFBblVNak7SAboBQVVfeXFMTWhEYUJVQVhyRml0UDU1ckFKUjExa1IyR3N3eUpONVkwQk1mZGFJXzk1SzFrY0hsMjJUQnc1VDlJVGsteGpkcmdHRUJERWdqSXNRSmRiVTktVFI4YUNhajF6akVkbzJsLUZESEN6U0U0U19nZmF6c3hYMGFETng5TUxOQ183VzFmTmZDcms1d0pOZkR3NmhiMF9aOGlaS054b0F5d3E5T2Y1SDVMd2dDdEo1NkFVbmFNc1pn?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://abc7news.com",
-      "title": "ABC7 San Francisco"
-    }
-  },
-  {
     "title": "Trump expects his Fed chair nominee to cut interest rates. Here’s how Kevin Warsh might try to do it. - MarketWatch",
-    "description": "Trump expects his Fed chair nominee to cut interest rates. Here’s how Kevin Warsh might try to do it.  MarketWatchWhat Warsh should do at the Fed  Financial TimesFederal Reserve Leadership Transition: Insights from Mary Daly  GuruFocusDual mandate, dual headache: Why the Fed should focus on price stability  Competitive Enterprise InstituteFed chair nominee Warsh will have ideas, economy may deliver surprises, Daly says  Reuters",
+    "description": "Trump expects his Fed chair nominee to cut interest rates. Here’s how Kevin Warsh might try to do it.  MarketWatchWhat Warsh should do at the Fed  Financial TimesFederal Reserve Leadership Transition: Insights from Mary Daly  GuruFocusCritical Analysis: Fed's Warsh Confirmation Risks Tracked By Danske Bank Reveal Policy Concerns  Bitcoin WorldFed chair nominee Warsh will have ideas, economy may deliver surprises, Daly says  Reuters",
     "published date": "Sat, 18 Apr 2026 13:00:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeGdPSFdNTWxwZW5COW5aSEtCajktZ0ZTdUJFa2JzSDZ2TU1WdFE0aVRLM3FCOWh1MnUwZktPZzNfenVnTUpUUFNwd1U5X1dGYW5PRjJGLVhTbldsZTJzM2IzazllVjNkS2xnRVljcEJYanFqS1pWak9FMkx0bXBKdklKaHFRTnV3MjVvWmMyVlFocV9ZTUlKMF9TejkxMjN4TmF2OGdqaVFYc2J4SW9Cd3FmYVdWNFlxM1UweXd1cHBQb253Rm1vb0dCcGNYMExIN2YtSUZQSmQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -180,18 +180,8 @@
     }
   },
   {
-    "title": "Oil Slides but the Real Test Comes This Weekend - Crude Oil Prices Today | OilPrice.com",
-    "description": "Oil Slides but the Real Test Comes This Weekend  Crude Oil Prices Today | OilPrice.comOil drops, stocks soar to wrap up a wild week. What just happened in markets?  CNNStock Market Rallies As Strait Of Hormuz Reopens; U.S.-Iran Talks, Tesla Earnings Loom  Investor's Business DailyTrump Says Iran Deal Will Bring ‘Free Oil’ and ‘Free Hormuz Strait’  WSJStocks Hold Gains as Oil Prices Edge Higher  The New York Times",
-    "published date": "Fri, 17 Apr 2026 15:23:58 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeUltWDN4UmsxNE9ScEZ1bGx5dENGSkhfdzJ6TWhUX1hUdk5PZ3Jlbjl1aWxFZEI3RDNKaG5KN0lxNmYzT1VpSkNySDR5c2RyLU5VaEZGWlhsTmtCbm4zd3BPeXItd3hYTVE3V2w5Z2ZISGo5S3RLYVV1R3Z4bmlvcENieXU5Vko3TjlodHNMbk5hbkEydUHSAZsBQVVfeXFMUHJpNmFVQnk1WlZaQ1BLNDh3ZE1HdGoxc1lDR1RoU3Nocy1iNkNtS2xBVDJhTTR0eFZPZDlFalhWc20yOFg0SkJnZzJXdlFDOHg4dDNrVHJHUmxjTkRNMm9nZXdxNHl4clRtLTV3b3A2d0dyNVM5MVFjcEh1T19uV3lBblVoSHZhblN0dUhMTFExQ2NfaWNROGhEekk?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://oilprice.com",
-      "title": "Crude Oil Prices Today | OilPrice.com"
-    }
-  },
-  {
     "title": "Here Are The Biggest Losers From Oil Stock Rout - Investor's Business Daily",
-    "description": "Here Are The Biggest Losers From Oil Stock Rout  Investor's Business DailyThe Energy Sector Is on Fire. Is Chevron the Best Way to Play It?  The Motley FoolWhy Chevron Stock Dropped on Friday  Yahoo FinanceChevron (NYSE:CVX) Shares Down 2.2% - Time to Sell?  MarketBeatChevron is Adding Even More Fuel to its High-Octane Growth Engine. Is the Oil Stock Still a Buy Following its 22% War-Fueled Surge?  The Globe and Mail",
+    "description": "Here Are The Biggest Losers From Oil Stock Rout  Investor's Business DailyWhy Chevron Stock Dropped on Friday  Yahoo FinanceThe Energy Sector Is on Fire. Is Chevron the Best Way to Play It?  The Motley FoolChevron (NYSE:CVX) Shares Down 2.2% - Time to Sell?  MarketBeatChevron Corporation stock (US1667641005): Why energy transition strategy matters more now for long-t  AD HOC NEWS",
     "published date": "Fri, 17 Apr 2026 20:32:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRnZlX1Bxb2lIU2ozdDNhWlZ4NmZCVnI0anBVSFRpelJlRXY0dVNFN2JyQ2hVTnh1MTZ0aFRtRW5tU3JJS05TUkR3N2N0SWFUZUI5M0Y3UjNLc2FNejh6c1lzSTMyZEh1T1l5cUtvU0F1TGVnRXk0UkR4X1QyTGt5RkpUaTBPbDR2?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -200,38 +190,18 @@
     }
   },
   {
-    "title": "Spirit Airlines reached out to Trump administration for emergency bailout - CBS News",
-    "description": "Spirit Airlines reached out to Trump administration for emergency bailout  CBS NewsOpinion | The U.S. government killed Spirit Airlines  The Washington PostSpirit Airlines could liquidate as early as this week, sources say  CNBCWhat to know if you plan to fly Spirit Airlines in the coming weeks  NBC NewsIs Spirit Airlines shutting down? What to know if you have tickets  6abc Philadelphia",
-    "published date": "Fri, 17 Apr 2026 22:13:10 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVjBIODh0ejdvUDlfcklRSHBSWElFTEtpd1Y2YnRSbWJvbXlkQTBzdG5CckRUb1pkYURRaEtjZjRBS1hIaVVyNlpOdnFmV0NuenBwbURoLUVJRHJjNU56UFVCVUhmUHlNVDFNUENRRzVKSnd5dWxnX0xwZVY3Z1JUakpYOG1rd2U5T3VBWtIBkgFBVV95cUxQQUFneUh5bC1lNUtQcy1UQnRaVnVINUMxdzhCUVNCUXR6NVg2WTU4clAwVXpmcTdtRmZobk1wTUc2YkItdkJVRkpBb0g4LWY3bFZfeUxGZ2YzQ0F4TV9nblByX1Z2UHJGVFRIOXZwWnl3WFRKbEpkN3hzYWFMdVZfZlBSV3gzR2o4VERQQWp6VEFxdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Experimental drug doubles one-year survival in pancreatic cancer - Live Science",
+    "description": "Experimental drug doubles one-year survival in pancreatic cancer  Live ScienceRevolution Medicines says its potential breakthrough pancreatic cancer drug succeeds in late-stage trial  CNBCFor Ben Sasse, Revolution Medicines’ pancreatic cancer trial felt like his best, only option  statnews.comNew pancreatic cancer drug Elraglusib, created at Northwestern Medicine, helps patients live longer: Dr. Deva Mahalingam  ABC7 ChicagoA pancreatic cancer expert on why Revolution Medicines’ study could ‘open up a new era’ of treatment  statnews.com",
+    "published date": "Sat, 18 Apr 2026 13:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ1I4Q3IySWl1UDBDWUpFdWJFZzFNcTJ3YTJmUllvMEt6SHdpb05LMVFjOHMyc21tZ1pZcExVRmR5Vkd3dW5NMHJDUFZIdVFaeE1wUTQ2NzNLTldzd3JHTWx2cDEtZ3ZWYnFBbzUxcFlhNkZjaHNYcHB6am5md3ZCQ1lyOHlTQllDZk81UVVSM2JwcUhJeTBxaTFLWHpkM1dCWHVabUFIR2c2LXJYYUVuRGZMdXg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.cbsnews.com",
-      "title": "CBS News"
-    }
-  },
-  {
-    "title": "United Boeing 737 MAX 8 flight UA2092 is declaring an emergency after takeoff from Chicago - airlive",
-    "description": "United Boeing 737 MAX 8 flight UA2092 is declaring an emergency after takeoff from Chicago  airliveUnited Airlines flight diverted to Pittsburgh due to potential security concern  WPXIUnited flight from Chicago evacuated due to ‘security concern,’ airline says  FOX 32 ChicagoUnited Airlines Flight UA2092 transmits code 7700 indicating general emergency  dailystar.co.ukFlight heading to New York from Chicago diverts to Pittsburgh for \"possible security issue\"  CBS News",
-    "published date": "Sat, 18 Apr 2026 15:55:15 GMT",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQd19KaUFwOVFFaDZCcG1scE9qaVZqWXF2UGhoM1RxSmp4Mk5CdFFvUU5fakNMcER3VmpDU1JyY2d5Qzc1aTdacG11Ml9iSTFtT2JJM2gyV3dpeVBqWVB6OFZBLWd5MjVXWXJHYkNpeWR5b1lvVklXRkZ0d1E5REJjUW1tOEV6Y183MDZfbkVLeTdwYXFXbm9zdUZ4MDd1aDhRUlFLb01Od0FWNTg0bUphcEY2Nlk5U3Azamk3d2tKOFFtRjREbmJLV3pTNzU?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://airlive.net",
-      "title": "airlive"
-    }
-  },
-  {
-    "title": "O’Hare Must Cut About 300 Flights Per Day This Summer To Reduce Delays, Officials Order - Block Club Chicago",
-    "description": "O’Hare Must Cut About 300 Flights Per Day This Summer To Reduce Delays, Officials Order  Block Club ChicagoFAA orders O'Hare Airport to cut more than 300 planned daily flights  NBC 5 ChicagoFlight cap at O’Hare could impact service at regional airports  YahooEurope widespread flight cancellations today: Europe jet fuel shortage announced amid Chicago O'Hare flight cancellations order  ABC7 ChicagoFAA reveals summer flight caps for O’Hare  WGN-TV",
-    "published date": "Fri, 17 Apr 2026 13:06:50 GMT",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOEZzOUJsYXNSOTZnMHNjdDFRVERtSWxGd3htekQwZ2pJcUJxcmUzTlRUeGtUbmlSMFFTUC1MSEVkME9xeTBVTnVabHRuSHdiNEFXSDRsbDE1bXQ2VjQzM2xDd0ljak5FT3FPb1VCb1BmMEdKdHZZVHljVE9ubzlRcEhETEIyTkxFUVVpbW5NMi12VW40MDlMelJiY0xtanlHY2Z0NmlSZGdkZC1zLTRaazBleU1mcGdQYWVZZjBxVTZMUmlU?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://blockclubchicago.org",
-      "title": "Block Club Chicago"
+      "href": "https://www.livescience.com",
+      "title": "Live Science"
     }
   },
   {
     "title": "Kailera CEO 'knew we were in a good spot' before obesity biotech's record-breaking $625M IPO - Fierce Biotech",
-    "description": "Kailera CEO 'knew we were in a good spot' before obesity biotech's record-breaking $625M IPO  Fierce BiotechKailera soars over 60% in Nasdaq debut as weight-loss drug race heats up  ReutersQ&A: On IPO day, Kailera CEO Ron Renaud talks about obesity market, China and biotech sentiment  Endpoints NewsKailera Therapeutics indicated to open at $24, IPO priced at $16  Yahoo FinanceKailera nets $625M in one of biotech’s biggest-ever IPOs  BioPharma Dive",
+    "description": "Kailera CEO 'knew we were in a good spot' before obesity biotech's record-breaking $625M IPO  Fierce BiotechKailera soars over 60% in Nasdaq debut as weight-loss drug race heats up  ReutersQ&A: On IPO day, Kailera CEO Ron Renaud talks about obesity market, China and biotech sentiment  Endpoints NewsWeight loss drug developer Kailera climbs 50% on trading debut  Seeking AlphaKailera Rings the Opening Bell  Nasdaq",
     "published date": "Fri, 17 Apr 2026 08:42:08 GMT",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZE1YTVB5RTI4U1FIMkpYZUx5Y1BvTUl1UlZaaUN2OGp0MFJ2eDB3NlkxTlFyTEpVYkFlOEh1VTM3QW5hMDJHLVNHd0ZEcjB5Wl9adzZxczZzcmVxZ2R6bXprN2E4RF9Wa3luRVRRYWVkT1JwaWtWU2Nwand5WmIta2ZtZk1QT1pUV2ctay1YSUw1YzVzRTBJblptX0c?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -240,28 +210,28 @@
     }
   },
   {
-    "title": "Wall Street Journal announces the era of the “mega layoff” - World Socialist Web Site",
-    "description": "Wall Street Journal announces the era of the “mega layoff”  World Socialist Web SiteThe tech jobs bust is real. Don’t blame AI (yet)  The EconomistHas the Era of the Mega-Layoff Arrived?  WSJOpinion | What most predictions miss about AI job loss  The Washington PostHow to protect your career and save your paycheck as AI eliminates jobs  WCPO 9 Cincinnati",
-    "published date": "Sat, 18 Apr 2026 02:20:21 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tWnZKc2RwbHJYenNjWW5hNmx1LXZpWDVGbFhab0NZanRTQkNkaTVMR1FhQ1FvbngxY1l4d2lVakJXMXlObUxKWUNZOUFuajlqUEtsejFURjlxTUJLdi1DSUVNS1lXN01J?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "O’Hare Must Cut About 300 Flights Per Day This Summer To Reduce Delays, Officials Order - Block Club Chicago",
+    "description": "O’Hare Must Cut About 300 Flights Per Day This Summer To Reduce Delays, Officials Order  Block Club ChicagoThis Busy U.S. Airport Is Cutting Over 300 Daily Scheduled Flights This Summer. How It Might Impact Your Vacation  People.comFAA orders O'Hare Airport to cut more than 300 planned daily flights  NBC 5 ChicagoEurope widespread flight cancellations today: Europe jet fuel shortage announced amid Chicago O'Hare flight cancellations order  ABC7 ChicagoFAA to cut flights at major US airport to reduce delays  Fox Business",
+    "published date": "Fri, 17 Apr 2026 13:06:50 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOEZzOUJsYXNSOTZnMHNjdDFRVERtSWxGd3htekQwZ2pJcUJxcmUzTlRUeGtUbmlSMFFTUC1MSEVkME9xeTBVTnVabHRuSHdiNEFXSDRsbDE1bXQ2VjQzM2xDd0ljak5FT3FPb1VCb1BmMEdKdHZZVHljVE9ubzlRcEhETEIyTkxFUVVpbW5NMi12VW40MDlMelJiY0xtanlHY2Z0NmlSZGdkZC1zLTRaazBleU1mcGdQYWVZZjBxVTZMUmlU?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.wsws.org",
-      "title": "World Socialist Web Site"
+      "href": "https://blockclubchicago.org",
+      "title": "Block Club Chicago"
     }
   },
   {
-    "title": "AEVEX Corp. Announces Pricing of Initial Public Offering - Business Wire",
-    "description": "AEVEX Corp. Announces Pricing of Initial Public Offering  Business WireView Full Coverage on Google News",
-    "published date": "Fri, 17 Apr 2026 02:32:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQno3VE5jLS0xNklYNktUeWZBeHVpcXRIaklBUDhlbWhDeWNhTlRfbHFUTVZobXV3TmV4Zk43MWVCb2pSTzFrZ21nWVRlSGlKTUtDOXQtbjh1MG1yTVNoME5UaXdVaTctWHdEVEUwLWNlVGpSVVlsc0lhZEpEVDVwd3N6UFpEUFNhVUx3UXVHdWZNemxLdjRSSktrS256d2d6TmhZSVRTVHdqUnlpOURmYmlHUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "QVC Group, Whose Networks Popularized Shopping On TV, Files For Chapter 11 Bankruptcy - Deadline",
+    "description": "QVC Group, Whose Networks Popularized Shopping On TV, Files For Chapter 11 Bankruptcy  DeadlineTV shopping empire behind QVC, HSN files for bankruptcy amid mounting losses  Fox BusinessQVC Group to Significantly Strengthen Financial Position as Company Continues Advancing Transformational Live Social Shopping Growth Strategy  QVC GroupClarks, Skechers Among Shoe Brands Hit by QVC Bankruptcy  WWDQVC and HSN staff won't face layoffs in bankruptcy process, company says  The Business Journals",
+    "published date": "Fri, 17 Apr 2026 23:22:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRDNhdmN1bThYM2Q4akRkWVNEMDhnNWVDREgtaTlYS3FpTXpwX25Ud25pVVNKWkZ6VGtHZnFINFQxNFJ1dzRrU3VfVzF6dFRzYlU1VjRBZ2VsM3lSbjB5NG8yTG1GOHJ5RVEwU1dhZFBWaGloRV9vd1B3dFUyajZFNnNETWlFeWtOZ1h4NjBraHNuc3M?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.businesswire.com",
-      "title": "Business Wire"
+      "href": "https://deadline.com",
+      "title": "Deadline"
     }
   },
   {
     "title": "Speech by Governor Waller on the economic outlook - Federal Reserve (.gov)",
-    "description": "Speech by Governor Waller on the economic outlook  Federal Reserve (.gov)Fed Governor Waller says Iran war and labor market risks are keeping central bank on hold  CNBCFed’s Waller Signals Caution On Rate Cuts, Sees Risk of Longer Conflict  Bloomberg.comFed's Waller strikes a cautious tone on rate cuts amid oil shock  Yahoo FinanceTop Fed official warns Iran war could spark ‘lasting’ price shock  Financial Times",
+    "description": "Speech by Governor Waller on the economic outlook  Federal Reserve (.gov)Fed's Waller says rate cuts still possible this year if war ends quickly  ReutersTop Fed official warns Iran war could spark ‘lasting’ price shock  Financial TimesFed Governor Waller says Iran war and labor market risks are keeping central bank on hold  CNBCFed’s Waller Signals Caution On Rate Cuts, Sees Risk of Longer Conflict  Bloomberg.com",
     "published date": "Fri, 17 Apr 2026 18:02:45 GMT",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83X2pLZWlBZGdKUTFPbmtvNW16RmRrQVhQY2h6R3VkZHZoczlCYVdkZ1ktOWk1bExtSnYyRVhfdTFRQzdKRnlubzJkcElCMFNRS3doZ0tWbGR1WFZHbmd4Tmg0UWJ4dHF2OXZ5ME9WRlNBVDBhRllV?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -270,13 +240,23 @@
     }
   },
   {
-    "title": "QVC Group, Whose Networks Popularized Shopping On TV, Files For Chapter 11 Bankruptcy - Deadline",
-    "description": "QVC Group, Whose Networks Popularized Shopping On TV, Files For Chapter 11 Bankruptcy  DeadlineTV shopping empire behind QVC, HSN files for bankruptcy amid mounting losses  Fox BusinessClarks, Skechers Among Shoe Brands Hit by QVC Bankruptcy  WWDQVC’s parent company files for bankruptcy  CNNQVC and HSN staff won't face layoffs in bankruptcy process, company says  The Business Journals",
-    "published date": "Fri, 17 Apr 2026 23:22:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRDNhdmN1bThYM2Q4akRkWVNEMDhnNWVDREgtaTlYS3FpTXpwX25Ud25pVVNKWkZ6VGtHZnFINFQxNFJ1dzRrU3VfVzF6dFRzYlU1VjRBZ2VsM3lSbjB5NG8yTG1GOHJ5RVEwU1dhZFBWaGloRV9vd1B3dFUyajZFNnNETWlFeWtOZ1h4NjBraHNuc3M?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Spirit Airlines reached out to Trump administration for emergency bailout - CBS News",
+    "description": "Spirit Airlines reached out to Trump administration for emergency bailout  CBS NewsOpinion | The U.S. government killed Spirit Airlines  The Washington PostSpirit Airlines could liquidate as early as this week, sources say  CNBCFuel surge threatens Spirit Airlines bankruptcy exit, raises liquidation risk  ReutersWhat to know if you plan to fly Spirit Airlines in the coming weeks  NBC News",
+    "published date": "Fri, 17 Apr 2026 22:13:10 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVjBIODh0ejdvUDlfcklRSHBSWElFTEtpd1Y2YnRSbWJvbXlkQTBzdG5CckRUb1pkYURRaEtjZjRBS1hIaVVyNlpOdnFmV0NuenBwbURoLUVJRHJjNU56UFVCVUhmUHlNVDFNUENRRzVKSnd5dWxnX0xwZVY3Z1JUakpYOG1rd2U5T3VBWtIBkgFBVV95cUxQQUFneUh5bC1lNUtQcy1UQnRaVnVINUMxdzhCUVNCUXR6NVg2WTU4clAwVXpmcTdtRmZobk1wTUc2YkItdkJVRkpBb0g4LWY3bFZfeUxGZ2YzQ0F4TV9nblByX1Z2UHJGVFRIOXZwWnl3WFRKbEpkN3hzYWFMdVZfZlBSV3gzR2o4VERQQWp6VEFxdw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://deadline.com",
-      "title": "Deadline"
+      "href": "https://www.cbsnews.com",
+      "title": "CBS News"
+    }
+  },
+  {
+    "title": "Wall Street Journal announces the era of the “mega layoff” - World Socialist Web Site",
+    "description": "Wall Street Journal announces the era of the “mega layoff”  World Socialist Web SiteOpinion | What most predictions miss about AI job loss  The Washington PostHas the Era of the Mega-Layoff Arrived?  WSJThe tech jobs bust is real. Don’t blame AI (yet)  The EconomistHow to protect your career and save your paycheck as AI eliminates jobs  WCPO 9 Cincinnati",
+    "published date": "Sat, 18 Apr 2026 02:20:21 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tWnZKc2RwbHJYenNjWW5hNmx1LXZpWDVGbFhab0NZanRTQkNkaTVMR1FhQ1FvbngxY1l4d2lVakJXMXlObUxKWUNZOUFuajlqUEtsejFURjlxTUJLdi1DSUVNS1lXN01J?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.wsws.org",
+      "title": "World Socialist Web Site"
     }
   },
   {
@@ -290,19 +270,9 @@
     }
   },
   {
-    "title": "The Iran war has revealed Trump's pressure point: the economy - Reuters",
-    "description": "The Iran war has revealed Trump's pressure point: the economy  ReutersFaisal Islam: What people in power think the impact of the Iran war will be  BBCWe spoke to over 30 central bankers, policymakers and politicians. Here are their top concerns  CNBCEconomic pain from Iran war will hit poor countries hardest, officials say  Financial TimesWhite House Shrugs Off Shaky Economy as War Exceeds Trump’s Timeline  The New York Times",
-    "published date": "Sat, 18 Apr 2026 05:01:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX1RwMnNsanJQQ29BUkNGZlYxdm5CM3VwRWlEdTV5VE1mbjBRUFVyUVR5MU85MFdiODR5My1yNzZnSWJDQ2VRMUNicUZUSDB2OVFZUkhlMmFrYW5Xd0laWlg2U21CdzhxQWs2c3ZjeTN3Mll2VGFBLXpLYzVCSmp1TF9iaE5YU0RITVdtYjYweVd5N1BRTmlvQzNiSTYwZHZDQW81YTZpVlk?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.reuters.com",
-      "title": "Reuters"
-    }
-  },
-  {
     "title": "With Allbirds AI pivot, a familiar strategy takes flight - Axios",
-    "description": "With Allbirds AI pivot, a familiar strategy takes flight  AxiosWhat the Allbirds 'Hail Mary' says about the AI trade right now  Yahoo FinanceSneaker Company Allbirds Plans to Pivot to A.I. Yes, A.I.  The New York TimesAllbirds Sinks as 582% AI Surge Comes to Screeching Halt  Bloomberg.comAllbirds shares soar on a very 2026 pivot to AI  CNN",
-    "published date": "Fri, 17 Apr 2026 21:18:38 GMT",
+    "description": "With Allbirds AI pivot, a familiar strategy takes flight  AxiosWhat the Allbirds 'Hail Mary' says about the AI trade right now  Yahoo FinanceSneaker Company Allbirds Plans to Pivot to A.I. Yes, A.I.  The New York TimesAllbirds Stock Soared This Week. What Does It Mean That It Hasn't Fallen All the Way Back?  InvestopediaWhat’s Behind Allbirds’ Complete Pivot from Shoes to AI?  AI Magazine",
+    "published date": "Fri, 17 Apr 2026 11:04:09 GMT",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNenU5Vk1udE9HU2dPdVhDVV9JU0hub09nUmJxNGtFaG0yNEExTXJhajFzUTdob3V5S3Jrbi1jYlpjMVl0QUdOcXhZeXdxU0ZjUWF6NkhLZk9ZaTJGTkF6NE0xeDhkRDN6THNzU05Oc2hYa2VrMVBqdThVMExFSHVJSlhGOV8xUnlUY1ctelNaUy1ZZw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.axios.com",
@@ -310,13 +280,33 @@
     }
   },
   {
-    "title": "Stock Market Today: Dow Surges On Hormuz Reopening; Tesla, Palantir Climb (Live Coverage) - Investor's Business Daily",
-    "description": "Stock Market Today: Dow Surges On Hormuz Reopening; Tesla, Palantir Climb (Live Coverage)  Investor's Business DailyS&P 500 notches first close above 7,100, Nasdaq posts longest win streak since 1992: Live updates  CNBCStocks Extend ‘Astonishing’ Rally as Middle East Tensions Ease Further  The New York TimesStock Market News, April 17, 2026: Dow Jumped, Oil Tumbled After Iran Declared Strait Open  WSJWall Street Rushes to Price Out War Damage as Stocks Hit Records  Bloomberg.com",
-    "published date": "Fri, 17 Apr 2026 20:31:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMVJoUGF3NVJpcjF5dE1qLXE5VWxWTVYybGR1a2puZWh1ZzI2RWhuS1V4VW94QVhvTk12UW1hdzJMVXo5WTZiRWtDZDhqRlF4YTVaaEg5NC1VTzVEQTR2aW9iS1R6N3ZtdktnbS1USDljMldrTmo5LW00NF9FYmVuM3JOakxEV3BxbW50VUtWRnhSbWdIaW8zM1JPMGk1dDU1eGNfejJIN2F4aWtRY2dyZVRISW5fMkJURVp6bg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Here’s what the stock market might have gotten wrong about the Iran war - The Washington Post",
+    "description": "Here’s what the stock market might have gotten wrong about the Iran war  The Washington PostWhy the stock market is hitting records despite Iran war  CNBCWhy Are Markets So Sanguine About the Iran War?  Bloomberg.comWhy Aren’t Investors More Worried?  Goldman SachsMarkets Are Pivoting From Iran War. But Earnings Pose a Reality Check and 4 Other Things to Know Today.  Barron's",
+    "published date": "Sat, 18 Apr 2026 18:43:16 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdUhqLUcxRUMzckFORGoybXk2LU5qdGRsRHpyY0Q4Zm5kWndiNHBENzZqc3dTN0xrX0t3R0dMbmxwSGNZTkI3dlE5SERqYm1YRmNJMncyc2NUN1lUNUp0S1U2T2h2X3U2N0FVVlI0R3FYZnBZOXBkTlJ2OXJBelk4YU1TUy04dXNr?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.investors.com",
-      "title": "Investor's Business Daily"
+      "href": "https://www.washingtonpost.com",
+      "title": "The Washington Post"
+    }
+  },
+  {
+    "title": "Is the FCC's Foreign-Made Router Ban Only the Beginning? - PCMag",
+    "description": "Is the FCC's Foreign-Made Router Ban Only the Beginning?  PCMagThe FCC just saved Netgear from its router ban for no obvious reason  The VergeI was baffled by the US router ban, but Netgear getting ‘special treatment’ has now made me angry  TechRadarFCC exempts Netgear from ban on foreign routers, doesn’t explain why  Ars TechnicaFCC's Foreign-Made Router Ban: One Popular Brand Just Got the First Exemption  CNET",
+    "published date": "Fri, 17 Apr 2026 21:39:22 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVVZTX19IQkpUYWVYWXhwVmhkLTdETmhYNktXNV9UUWZmYU4tQUtiOVdhWWRva24yYkYwWVpZUjA2ZEtXbm95ZzdjZ1NfTXo0a2pLY1Y0Q1phZEFJSUtDSXhFNUJNN0pURldxTDdFZDhTNHh1T0MxRkhseHdqTWJIOGNGaC1xeWtu?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.pcmag.com",
+      "title": "PCMag"
+    }
+  },
+  {
+    "title": "The Iran war has revealed Trump's pressure point: the economy - Reuters",
+    "description": "The Iran war has revealed Trump's pressure point: the economy  ReutersFaisal Islam: What people in power think the impact of the Iran war will be  BBCWe spoke to over 30 central bankers, policymakers and politicians. Here are their top concerns  CNBCInflation is likely here to stay, even if gas prices fall  MS NOWEconomic pain from Iran war will hit poor countries hardest, officials say  Financial Times",
+    "published date": "Sat, 18 Apr 2026 05:01:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX1RwMnNsanJQQ29BUkNGZlYxdm5CM3VwRWlEdTV5VE1mbjBRUFVyUVR5MU85MFdiODR5My1yNzZnSWJDQ2VRMUNicUZUSDB2OVFZUkhlMmFrYW5Xd0laWlg2U21CdzhxQWs2c3ZjeTN3Mll2VGFBLXpLYzVCSmp1TF9iaE5YU0RITVdtYjYweVd5N1BRTmlvQzNiSTYwZHZDQW81YTZpVlk?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.reuters.com",
+      "title": "Reuters"
     }
   },
   {
@@ -350,33 +340,43 @@
     }
   },
   {
-    "title": "A pancreatic cancer expert on why Revolution Medicines’ study could ‘open up a new era’ of treatment - statnews.com",
-    "description": "A pancreatic cancer expert on why Revolution Medicines’ study could ‘open up a new era’ of treatment  statnews.comExperimental drug doubles one-year survival in pancreatic cancer  Live ScienceRevolution Medicines says its potential breakthrough pancreatic cancer drug succeeds in late-stage trial  CNBCFor Ben Sasse, Revolution Medicines’ pancreatic cancer trial felt like his best, only option  statnews.comNew pancreatic cancer drug Elraglusib, created at Northwestern Medicine, helps patients live longer: Dr. Deva Mahalingam  ABC7 Chicago",
-    "published date": "Fri, 17 Apr 2026 17:39:38 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc3FxRmpWbWVFdHloVENubjU3WU05YXp6V1hMVmtaTy1CQVZfRVhCSzRwYlhhbXNLVXY0amk1VHU1MlA5UDJJRHlJVW5WXzFxbXpJY1oxWS1hTzVJWktnUXN2N2VhU0w3Sl85T25sUGNYaW1MRHNDUDVYTGpoQ1VxazljLVRDS0drOUUtUmJVeFhFTDgwY05Xd0w1OWpMdnctOE44ZU1Jdkk1bHdjVzMyVWRiUW14dUlR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Nasdaq scores longest winning streak since 1992 as historic stock-market comeback continues - MarketWatch",
+    "description": "Nasdaq scores longest winning streak since 1992 as historic stock-market comeback continues  MarketWatchStock Market News From April 17, 2026: Nasdaq Sets Longest Win Streak Since 1992  Barron'sStocks Rally as Oil Plunges on Reopening of Hormuz Strait  Bloomberg.comThe Nasdaq Just Did Something It Hasn't Done Since 2020, and Here's What Could Happen Next  The Motley FoolThe post-ceasefire rally just lifted the Nasdaq to its longest win streak in 34 years  Business Insider",
+    "published date": "Fri, 17 Apr 2026 19:18:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORllxWUR4NHFicjRCeDdrSTJoSEFRb25QSVMxNUdKTXpVTVZVVDdQUFJOVmVYdlBISmVRMjd2cXpqRjJnMmJidUJwcXRxNEphVHJrTHBiQXpmZU9rbFdXbzNGalVrT1JRbjM5U1BnLXFWV1FheWhZaXlFaUlaSEhkd2VFQjVTSU5hNGVEYnNZemZDQkp3QkdORVVQVlN1QVlXai1LcWVuVFAxUGNTQjNGUlRmZjhKRDdVQjlzUmt4UkRBUG8xTHUxRnN6UEh1dmZJWEpLNGlQSVhBbl84?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.statnews.com",
-      "title": "statnews.com"
+      "href": "https://www.marketwatch.com",
+      "title": "MarketWatch"
     }
   },
   {
-    "title": "Here’s what the stock market might have gotten wrong about the Iran war - The Washington Post",
-    "description": "Here’s what the stock market might have gotten wrong about the Iran war  The Washington PostWhy the stock market is hitting records despite Iran war  CNBCWhy Are Markets So Sanguine About the Iran War?  Bloomberg.comWhy Aren’t Investors More Worried?  Goldman SachsMarkets Are Pivoting From Iran War. But Earnings Pose a Reality Check and 4 Other Things to Know Today.  Barron's",
-    "published date": "Sat, 18 Apr 2026 18:01:53 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdUhqLUcxRUMzckFORGoybXk2LU5qdGRsRHpyY0Q4Zm5kWndiNHBENzZqc3dTN0xrX0t3R0dMbmxwSGNZTkI3dlE5SERqYm1YRmNJMncyc2NUN1lUNUp0S1U2T2h2X3U2N0FVVlI0R3FYZnBZOXBkTlJ2OXJBelk4YU1TUy04dXNr?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Berkshire shares left behind as S&P 500 rallies to record high - CNBC",
+    "description": "Berkshire shares left behind as S&P 500 rallies to record high  CNBC",
+    "published date": "Sat, 18 Apr 2026 12:54:30 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRHBzWFpBRmVaZ1ZHWWhCNmNaQ0RGQXE5VVBLbHpFQjdoSnBVQ3FodXdmM2lfVERfWDFSNUZYVmdTbkEyb3BhME05dTFjOUpkRTJkaUdManZkOEt2RHB6Y3EwLXBQcXZ1X24ySnQxaDJsYjZobzRHeG9ENzVKaVdySEkwNE9GekFyb2stY1kwcWdxNUlpb0FTNllOdGxOMjTSAaQBQVVfeXFMTVNfTWQtXzgzYlYzdEZXS0V6Z0JJeC1NUFBxU1FQU3BwNXZPZHVUQnBzTDV1Q1hsZVBENVdHTGx1clBTeGpuaV9aelRQbW55dTRXNHFOb1E1cFUyZWJuUURsRkIwanoxeTZfVnczVlpaTVh5b253Vkx3andUWVdtYkJFLTQzUDRCQlVwODJtbmgxX25SZG9TY3RtbnR5cExrY1VmQWI?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.washingtonpost.com",
-      "title": "The Washington Post"
+      "href": "https://www.cnbc.com",
+      "title": "CNBC"
     }
   },
   {
-    "title": "Watches and Wonders Geneva: 13 New Watches Our Editors Loved in 2026 - Gear Patrol",
-    "description": "Watches and Wonders Geneva: 13 New Watches Our Editors Loved in 2026  Gear PatrolThe 27 Best Watches From Watches and Wonders 2026  GQ10 (actually bonkers) releases from Watches and Wonders still blowing our minds  British GQThe Best New Watches of Watches and Wonders 2026  InsideHookLuxury watch revival cut short as Iran war adds to sector’s woes  FashionNetwork USA",
-    "published date": "Sat, 18 Apr 2026 06:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVU1ISm5sNzl0RUktTUw1NWU5d3NNWU8weXVYTVBqdDF4Rkw0ekx4M2tXc3huNTlWcTQ5Q2R3V1g3OC14VjhIMHVPWXJCbmFPcm00M1dybXMzX1hzeGh0anNLbmxweFY4TGJ1RUlaRWhyQVBsSmZGZW80Zk9PMi10c2tEdEQ5a2dq?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Ford recalls 1.4 million F-150 pickup trucks to fix a gearshift issue - abcnews.com",
+    "description": "Ford recalls 1.4 million F-150 pickup trucks to fix a gearshift issue  abcnews.comFord recalls nearly 1.4 million F-150 pickup trucks over gearshift issue  Fox BusinessFord recalling nearly 1.4 million F-150 pickup trucks over gearshift issue  NewsNationFord recalls nearly 1.4M vehicles. See affected models  USA TodayFord Recalls 1.4 Million Old F-150 Trucks Due to Faulty Transmissions  Autoblog",
+    "published date": "Sat, 18 Apr 2026 17:19:16 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ2Iyak1WZWxKakF5UUZxRGdTYlo0U3RHRERIN1pCN1B1ZzNMRWdIWlNVSnBydlliMWxRQ2VnNk84LWZYamExQ1dzcXRHb1RyUmg4bUNzeXZOWXlTd2lvbnBxQkdTaHVIOUh6NzFDcmdkZFlmcW9RN3hLenBVYks5ZkozWkZkMXZfanVsWEt2V2htRVdMMEl0VdIBngFBVV95cUxPcE11OVpnYldmbDV5bDAwV2kxOW9oSDVkVEpFdmJhLXVzSG81eThrVlJKNmdjOXN0S3g1NFhTc0U5clhMVVZuVkU5ZGVpUXp1eDVMTFV6ZC1IdmhvVGR0YkswRHRwV2w3WEpXazg4NExMRXREWFlBVDNBX25wRlA0a09xZlVENWVtTVNzOEJ4Q3hyZy0zZ29uNkFpRTdHZw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.gearpatrol.com",
-      "title": "Gear Patrol"
+      "href": "https://abcnews.com",
+      "title": "abcnews.com"
+    }
+  },
+  {
+    "title": "Market pros say load up on these 3 investments as the Strait of Hormuz reopening sets the economy up to roar - Business Insider",
+    "description": "Market pros say load up on these 3 investments as the Strait of Hormuz reopening sets the economy up to roar  Business InsiderReopened Strait of Hormuz, oil price drop may recast Fed's rate-cut options  ReutersAirline and cruise stocks soar, as ‘TACO’ gives way to ‘trust in Trump alone’  MarketWatchTreasuries Rally as Oil Tumbles on Mideast Peace Deal Optimism  Bloomberg.comEuropean stocks soar after Iran keeps Strait of Hormuz open; travel stocks gain 5%  CNBC",
+    "published date": "Sat, 18 Apr 2026 09:40:13 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYlVUejB1M19IM19xcEQ3Njlxdlowdi1YWGdHY0xwck5FRFBQQjNoVW56bHp5cTFTZThyZm1yam9IdklfWFA4R2JvZmgwS0RUOFBRYXZ2NDN4YXhXX3c0anJoXzIyeFE0VnZRdS04aDBsVERIYmxwOXBTclhCaUw0TnZ2U3AxZWNvRFRXWnJjV0g1SlhOeVEwOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.businessinsider.com",
+      "title": "Business Insider"
     }
   },
   {
@@ -390,18 +390,18 @@
     }
   },
   {
-    "title": "Gasoline could drop below $4 in coming days - NPR",
-    "description": "Gasoline could drop below $4 in coming days  NPROil Prices: How soon will Bay Area gas prices drop with Strait of Hormuz reopening? Here's what experts say  ABC7 San FranciscoDrivers See Small Break as Gas Prices Tick Lower  AAA Gas PricesWhat the Strait of Hormuz reopening means for gas prices  NewsNationWhen will gas prices go back down? Experts weigh in on where things are headed.  Yahoo Finance",
-    "published date": "Fri, 17 Apr 2026 18:47:31 GMT",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5STUpRS2ZBcy1naDFTWXNPOExFa21TVmp2WFVCUThBcndzNGx0NTBqZlhBYnZkZ2ItQWwxWEhvZzJJbHZlZ3pZUERieGh3ak1FUlR6WGR4cXhKTkJlZXlRZThsZ3M5RzRLRWFLQUJmT1Y0WnBZWkRlemJBY3h1UlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Watches and Wonders Geneva: 13 New Watches Our Editors Loved in 2026 - Gear Patrol",
+    "description": "Watches and Wonders Geneva: 13 New Watches Our Editors Loved in 2026  Gear PatrolThe 27 Best Watches From Watches and Wonders 2026  GQ10 (actually bonkers) releases from Watches and Wonders still blowing our minds  British GQThe Best New Watches of Watches and Wonders 2026  InsideHookLuxury watch revival cut short as Iran war adds to sector’s woes  FashionNetwork USA",
+    "published date": "Sat, 18 Apr 2026 06:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVU1ISm5sNzl0RUktTUw1NWU5d3NNWU8weXVYTVBqdDF4Rkw0ekx4M2tXc3huNTlWcTQ5Q2R3V1g3OC14VjhIMHVPWXJCbmFPcm00M1dybXMzX1hzeGh0anNLbmxweFY4TGJ1RUlaRWhyQVBsSmZGZW80Zk9PMi10c2tEdEQ5a2dq?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.npr.org",
-      "title": "NPR"
+      "href": "https://www.gearpatrol.com",
+      "title": "Gear Patrol"
     }
   },
   {
     "title": "Air Canada will suspend flights to JFK for nearly 5 months as jet fuel costs soar - AP News",
-    "description": "Air Canada will suspend flights to JFK for nearly 5 months as jet fuel costs soar  AP NewsAirlines cut routes in response to rising jet fuel costs amid Iran war  CBS NewsAir Canada suspends some U.S. flights due to jet fuel prices as oil crisis hits Europe  National PostTrump’s War Sends Airlines Scrambling in Mass Cancellations  The Daily BeastAir Canada temporarily suspends some flights to New York and other locations  The Guardian",
+    "description": "Air Canada will suspend flights to JFK for nearly 5 months as jet fuel costs soar  AP NewsAirlines cut routes in response to rising jet fuel costs amid Iran war  CBS NewsAir Canada suspends some U.S. flights due to jet fuel prices as oil crisis hits Europe  National PostAir Canada suspending five routes amid skyrocketing jet fuel prices, concerns of shortages  Toronto StarAir Canada temporarily suspends some flights to New York and other locations  The Guardian",
     "published date": "Fri, 17 Apr 2026 18:50:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV3N6RmxPbFVRTkdLT1NBU1VGejlDcEVMZXpWTjgwbTh2alhkeHNTZDNtTUsxcURBZzhHX2N1MUU4QzloODVPNVg0NFcwcU1jVnlVYnFGakFjbHZja0dDajdiNm1IbmhjRmhGTDAwNVozeWEzTGt0bGFBcG1sd1I4d3puN1loOUpkcDFNRA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -410,33 +410,23 @@
     }
   },
   {
-    "title": "UCB pays $650M+ for Neurona, marking 'strategic expansion' into regenerative medicine - Fierce Biotech",
-    "description": "UCB pays $650M+ for Neurona, marking 'strategic expansion' into regenerative medicine  Fierce BiotechUCB to acquire Neurona Therapeutics, advancing its innovative leadership in epilepsy through regenerative science  PR NewswireBelgium's UCB to acquire Neurona Therapeutics for up to $1.15 billion  ReutersUCB (UCBJY) Announces Acquisition of Neurona Therapeutics for $1  GuruFocusFirm Advises Neurona Therapeutics on Acquisition by UCB  Wilson Sonsini",
-    "published date": "Fri, 17 Apr 2026 17:55:56 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVUlMcUdQWDF1TE54Z2xPQWl5Z2s5M2l5VDhnNUE4VnlpOFBBeGtTSHRCRW91cFJSbWZ2QXBhX1QxcjJoREtoSnNTUjhFZ0NIWXdOclo1bXZaSFpIaFFueUtsWExtcTVtNlVjYjNrTEV1clN4NHh3ZVg1VnFwelVGZXoyMzVsY1JaOW1xQkpYUGdtZ1JDY0g3TXdBMmZlR0YxSVBZMEhzUk04cy1xS1ROVmZTOVljcWJNaXJIMkh3d3ZJSzg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Gasoline could drop below $4 in coming days - NPR",
+    "description": "Gasoline could drop below $4 in coming days  NPROil Prices: How soon will Bay Area gas prices drop with Strait of Hormuz reopening? Here's what experts say  ABC7 San FranciscoDrivers See Small Break as Gas Prices Tick Lower  AAA Gas PricesWhat the Strait of Hormuz reopening means for gas prices  NewsNationGas prices are dropping. These states are seeing the biggest relief  USA Today",
+    "published date": "Fri, 17 Apr 2026 18:47:31 GMT",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5STUpRS2ZBcy1naDFTWXNPOExFa21TVmp2WFVCUThBcndzNGx0NTBqZlhBYnZkZ2ItQWwxWEhvZzJJbHZlZ3pZUERieGh3ak1FUlR6WGR4cXhKTkJlZXlRZThsZ3M5RzRLRWFLQUJmT1Y0WnBZWkRlemJBY3h1UlE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.fiercebiotech.com",
-      "title": "Fierce Biotech"
+      "href": "https://www.npr.org",
+      "title": "NPR"
     }
   },
   {
-    "title": "Anthropic debuts Claude Design, because who needs designers? - theregister.com",
-    "description": "Anthropic debuts Claude Design, because who needs designers?  theregister.comIntroducing Claude Design by Anthropic Labs  AnthropicTech stocks today: Anthropic releases its newest model, Claude Opus 4.7  Yahoo FinanceAnthropic launches Claude Design, a Figma and Canva rival built on Claude  The New StackAnthropic Unveils Updated Opus Model Aimed at Advanced Coding  Bloomberg.com",
-    "published date": "Fri, 17 Apr 2026 20:38:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1rQUp1eGhmbkNEcHhIM3lUX3VtWVQwbDlzVmtSdkdUUDFUUFk4c1FKT3VGWWF6bGUwaEJNU3RfQmJJY3RrZGpHWW94OGFpWDhoeVprdDA1VFhxRmcyaEZYX1l1ek15MklNRkd6VjJsY2IxVHdidGF3ckZn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "iPhones to Get These New Satellite Features - MacRumors",
+    "description": "iPhones to Get These New Satellite Features  MacRumorsAmazon to acquire Globalstar and expand Amazon Leo satellite network  About AmazonBezos Just Bought What Musk Wanted — And The $200B Space War Is Escalating  Yahoo FinanceAmazon to buy satellite firm Globalstar in $11.57 billion deal to take on Musk's Starlink  ReutersWhy Amazon Is Buying Globalstar—and What It Means for Your iPhone  WIRED",
+    "published date": "Fri, 17 Apr 2026 18:59:16 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQmRlLXhqVExXMWJxZ3lBUDlSSjhzTnlsVWpwZnJHWVV4NXl0UWp0YWRKZW4wTHB5cnVLMHJRWHhqTFRNMG01NFJ6Q2VGMi1PREVOQy1oY1EwVFd3TVVtdmczNGt2aWZ4Z0N3bTRsVjg1OGVTcFI0R2Rjazl2QTZZc3JIdHU5anNY?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.theregister.com",
-      "title": "theregister.com"
-    }
-  },
-  {
-    "title": "Timeline: War with Iran and a global oil shock - CNN",
-    "description": "Timeline: War with Iran and a global oil shock  CNNOil Drops as Trump Strikes Upbeat Tone on Outlook for Iran Deal  Bloomberg.comEnergy prices set to rise as last Gulf Tankers reach Europe, analysts say  Euronews.comMidDay Futures: Nymex Natural Gas Ticking Higher as Weather Outweighs Easing Iran Tensions  Natural Gas IntelligenceEuropean natural gas prices plunge over 8% on hopes for end to Iran war  Anadolu Ajansı",
-    "published date": "Fri, 17 Apr 2026 17:49:39 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOazVYeGhSRzhpd1VXZFZjVkM1R3NMRlJkNmRMci1JdTUxcUpiNjhtYWVNVVBvLVQ5Vm5EdElXYnluUFhOaEc4WC1GUzlkdU5TWFhCTWE5aVd3dG0wSzJkZk1yNDBuaUd3NjJOMHlBckEzb3Eyek42ZzRzNDlqS3huVm9VZUxvd0FEMk5mQVdUNlRFX1k?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cnn.com",
-      "title": "CNN"
+      "href": "https://www.macrumors.com",
+      "title": "MacRumors"
     }
   },
   {
@@ -450,69 +440,39 @@
     }
   },
   {
-    "title": "iPhones to Get These New Satellite Features - MacRumors",
-    "description": "iPhones to Get These New Satellite Features  MacRumorsAmazon to acquire Globalstar and expand Amazon Leo satellite network  About AmazonBezos Just Bought What Musk Wanted — And The $200B Space War Is Escalating  Yahoo FinanceAmazon to buy satellite firm Globalstar in $11.57 billion deal to take on Musk's Starlink  ReutersOpinion | The Wireless Space Wars Get Interesting  WSJ",
-    "published date": "Fri, 17 Apr 2026 18:59:16 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQmRlLXhqVExXMWJxZ3lBUDlSSjhzTnlsVWpwZnJHWVV4NXl0UWp0YWRKZW4wTHB5cnVLMHJRWHhqTFRNMG01NFJ6Q2VGMi1PREVOQy1oY1EwVFd3TVVtdmczNGt2aWZ4Z0N3bTRsVjg1OGVTcFI0R2Rjazl2QTZZc3JIdHU5anNY?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Timeline: War with Iran and a global oil shock - CNN",
+    "description": "Timeline: War with Iran and a global oil shock  CNNOil Drops as Trump Strikes Upbeat Tone on Outlook for Iran Deal  Bloomberg.comEnergy prices set to rise as last Gulf Tankers reach Europe, analysts say  Euronews.comMidDay Futures: Nymex Natural Gas Ticking Higher as Weather Outweighs Easing Iran Tensions  Natural Gas IntelligenceEuropean natural gas prices plunge over 8% on hopes for end to Iran war  Anadolu Ajansı",
+    "published date": "Fri, 17 Apr 2026 17:49:39 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOazVYeGhSRzhpd1VXZFZjVkM1R3NMRlJkNmRMci1JdTUxcUpiNjhtYWVNVVBvLVQ5Vm5EdElXYnluUFhOaEc4WC1GUzlkdU5TWFhCTWE5aVd3dG0wSzJkZk1yNDBuaUd3NjJOMHlBckEzb3Eyek42ZzRzNDlqS3huVm9VZUxvd0FEMk5mQVdUNlRFX1k?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.macrumors.com",
-      "title": "MacRumors"
+      "href": "https://www.cnn.com",
+      "title": "CNN"
     }
   },
   {
-    "title": "This Is The Highest Quality Fast Food Chain In The US, According To Customers - The Takeout",
-    "description": "This Is The Highest Quality Fast Food Chain In The US, According To Customers  The TakeoutThis Southern Fast-Food Chain Ranks No. 1 For Quality In The U.S.  Southern LivingBest bites 2026: U.S. restaurant brand rankings  YouGovValue menus are the top driver of frequency for QSR diners  Nation’s Restaurant NewsChick-fil-A Named Best Fast-Food Chicken in 2026 Study  AOL.com",
-    "published date": "Fri, 17 Apr 2026 18:25:09 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTGQyUWc2bHZ3VFAxT3VnWl81VndOdlFZOUhsaVliQ19fRmM3bGkwRGc2Z0ZTUHlDUkhmYW56Z0JSdkhiVUp4QkJIV0M2eU9RY0RGNVBMZGVJMEpaa1V3WHFmcGFfNlRDUXg3NzhvLUNDUGJXMWRNZ01WODlJLXJoeVJJVWsyd3A2X01uU0hwNS1raVh3UFFxTHByZENHWl9ZNzlEeXZ2bTBGNVZC?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Anthropic debuts Claude Design, because who needs designers? - theregister.com",
+    "description": "Anthropic debuts Claude Design, because who needs designers?  theregister.comIntroducing Claude Design by Anthropic Labs  AnthropicTech stocks today: Anthropic releases its newest model, Claude Opus 4.7  Yahoo FinanceAnthropic launches Claude Design, a Figma and Canva rival built on Claude  The New StackAnthropic Unveils Updated Opus Model Aimed at Advanced Coding  Bloomberg.com",
+    "published date": "Fri, 17 Apr 2026 20:38:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1rQUp1eGhmbkNEcHhIM3lUX3VtWVQwbDlzVmtSdkdUUDFUUFk4c1FKT3VGWWF6bGUwaEJNU3RfQmJJY3RrZGpHWW94OGFpWDhoeVprdDA1VFhxRmcyaEZYX1l1ek15MklNRkd6VjJsY2IxVHdidGF3ckZn?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.thetakeout.com",
-      "title": "The Takeout"
+      "href": "https://www.theregister.com",
+      "title": "theregister.com"
     }
   },
   {
-    "title": "Netflix Stock Slumps 12%. Buy the Dip, This Analyst Says. - Barron's",
-    "description": "Netflix Stock Slumps 12%. Buy the Dip, This Analyst Says.  Barron'sThe future of Netflix is now  Yahoo FinanceNetflix: Why The 9% Dip Is A Gift For Long-Term Investors (NASDAQ:NFLX)  Seeking Alpha‘Wait For It,’ Says Top Investor About Netflix Stock  TipRanksNew Street Research Forecasts Strong Price Appreciation for Netflix (NASDAQ:NFLX) Stock  MarketBeat",
-    "published date": "Fri, 17 Apr 2026 20:24:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVUlk0STRuVkZUQjl6cnZXOGVHb0NndGg1TVJyT1JaNElma0prWGlvUVREM0IwZlYtOFlIRnRvamhnZkFxbzZkWDdrRkMwN1o0UnhFUVJUSmVLaDlTdUpmSmxvZkhwTnhVcWptdE5VR2l3NEF6eUExQ0N0Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "UCB pays $650M+ for Neurona, marking 'strategic expansion' into regenerative medicine - Fierce Biotech",
+    "description": "UCB pays $650M+ for Neurona, marking 'strategic expansion' into regenerative medicine  Fierce BiotechUCB to acquire Neurona Therapeutics, advancing its innovative leadership in epilepsy through regenerative science  PR NewswireBelgium's UCB to acquire Neurona Therapeutics for up to $1.15 billion  ReutersUCB (UCBJY) Announces Acquisition of Neurona Therapeutics for $1  GuruFocusFirm Advises Neurona Therapeutics on Acquisition by UCB  Wilson Sonsini",
+    "published date": "Fri, 17 Apr 2026 17:55:56 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVUlMcUdQWDF1TE54Z2xPQWl5Z2s5M2l5VDhnNUE4VnlpOFBBeGtTSHRCRW91cFJSbWZ2QXBhX1QxcjJoREtoSnNTUjhFZ0NIWXdOclo1bXZaSFpIaFFueUtsWExtcTVtNlVjYjNrTEV1clN4NHh3ZVg1VnFwelVGZXoyMzVsY1JaOW1xQkpYUGdtZ1JDY0g3TXdBMmZlR0YxSVBZMEhzUk04cy1xS1ROVmZTOVljcWJNaXJIMkh3d3ZJSzg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.barrons.com",
-      "title": "Barron's"
-    }
-  },
-  {
-    "title": "Reopened Strait of Hormuz, oil price drop may recast Fed's rate-cut options - Reuters",
-    "description": "Reopened Strait of Hormuz, oil price drop may recast Fed's rate-cut options  ReutersMarket pros say load up on these 3 investments as the Strait of Hormuz reopening sets the economy up to roar  Business InsiderHow Will Dow Jones Futures, Oil Prices React As Iran, Hormuz News Turns?  Investor's Business DailyTreasuries Rally as Oil Tumbles on Mideast Peace Deal Optimism  Bloomberg.comEuropean stocks soar after Iran keeps Strait of Hormuz open; travel stocks gain 5%  CNBC",
-    "published date": "Fri, 17 Apr 2026 18:00:22 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYkgyRGcxLVlpUFRuOExKY3lyUjFKaUFUbnRWdWVWNGpzbkc0Y1RqcGVGVTkzLW5yZllTVDVqU1hzbHAxemtBalZIUVoxTzFBbmdxdFdYS0VDWm53U2ctMUdNSUcwUVBFNVNDd2hMNVhBemRBbGgxbHNBMmY2QnRObmtNYnFKSzRjeGxMRzl5MUo4NUlhLUhVRDdFWEtwZUxRTGVPYkdzWHFoS2s2QWdGTEpmZVgxR09ESDFLVXdxbFJ5V3FkbkZHdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.reuters.com",
-      "title": "Reuters"
-    }
-  },
-  {
-    "title": "Upscale steakhouse chain files for bankruptcy - WBIR",
-    "description": "Upscale steakhouse chain files for bankruptcy  WBIRSteak and seafood chain 801 Restaurant Group files for bankruptcy after closing Denver, Minneapolis spots  Fox BusinessDenver steakhouse owner files for bankruptcy  KUSA.comPopular steakhouse chain's owners file bankruptcy. Do closures loom?  USA Today801 Restaurant Group files for Chapter 11 bankruptcy; 1 of 2 Minneapolis locations closes  The Business Journals",
-    "published date": "Fri, 17 Apr 2026 00:21:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUFc2VElaUGtEc1FlQjJ3NTZxQ2VPemgwV3VncU5YWGYxYXk2ZE1relVBQUExWkFqenhVQ1ZNTGd6b2N2NnV4Z2s3bEpfTTBxWExyUHloalVUUVFZbGlmOFpSUGFycjQ2ZmdFVlc4UHlLSWxZa2pvVUxZMXY2M04wMHJ3UzBBQ0RPLWFMZFA0akxwaFJWUFlBTndPcmQzWFZPUXk4ekozZ2dIdl9Ub3lXbWRUM0tmMTlWbnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.wbir.com",
-      "title": "WBIR"
-    }
-  },
-  {
-    "title": "Ford recalls 1.4 million F-150 pickup trucks to fix a gearshift issue - AP News",
-    "description": "Ford recalls 1.4 million F-150 pickup trucks to fix a gearshift issue  AP NewsFord recalls nearly 1.4 million F-150 pickup trucks over gearshift issue  Fox BusinessFord recalls nearly 1.4 million F-150 pickup trucks due to gearshift issue  CBS NewsFord recalls nearly 1.4M vehicles. See affected models  USA TodayFord recalling nearly 1.4 million F-150 pickup trucks over gearshift issue  NewsNation",
-    "published date": "Fri, 17 Apr 2026 12:59:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSXpDWG1TaFlFTzZUcUp2UGo3MkExU0RYUTgzMFhuQUw3NUFrWENyR2VVUEJfVVNRTW1CdGlOeThXbUUwUWRJbGl3bmtQSVZ3aHQxUV9VX05nZ1VNRURlQmMwYnV2UkREUjBRX0hkNHZyQ201ajdCNEx3MFlCS3dHdll6WQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://apnews.com",
-      "title": "AP News"
+      "href": "https://www.fiercebiotech.com",
+      "title": "Fierce Biotech"
     }
   },
   {
     "title": "Exclusive | Greg Abel Has Been Leading Berkshire for 100 Days. Things Are Already Changing. - WSJ",
-    "description": "Exclusive | Greg Abel Has Been Leading Berkshire for 100 Days. Things Are Already Changing.  WSJWarren Buffett's Successor, Greg Abel, Has 79% of Berkshire Hathaway's $318 Billion of Invested Assets Put to Work in Just 10 Stocks  Yahoo FinanceBerkshire Hathaway: The Fortress Has Become A Waiting Room (NYSE:BRK.A)  Seeking AlphaWhat Warren Buffett's successor Greg Abel can learn from Tim Cook about following an iconic CEO  Business InsiderBerkshire Hathaway’s new CEO just made a move Buffett never did  thestreet.com",
-    "published date": "Sat, 18 Apr 2026 08:31:13 GMT",
+    "description": "Exclusive | Greg Abel Has Been Leading Berkshire for 100 Days. Things Are Already Changing.  WSJBerkshire CEO Abel sold stocks managed by ex-portfolio manager Combs, WSJ reports  ReutersBerkshire Hathaway: The Fortress Has Become A Waiting Room (NYSE:BRK.A)  Seeking AlphaWarren Buffett's Successor, Greg Abel, Has 79% of Berkshire Hathaway's $318 Billion of Invested Assets Put to Work in Just 10 Stocks  Yahoo FinanceBerkshire Hathaway’s new CEO just made a move Buffett never did  thestreet.com",
+    "published date": "Sat, 18 Apr 2026 01:01:14 GMT",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUkl6X3N6cndJUU1kMldZUzB4Z2RkRERGazBTeTN5ekExMWhKUml6dDBRa2pfdm5ORWpQTHlQTEs3SWs4d3FRendqY3hhUmk2VF9QQ29qeExwaGhOUlBuYllCYzl4em9oaVV6T1pVQ3FjSWZvb041M1VoeVhfZGFPNDRIVDkyYWZNUHFPSw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.wsj.com",
@@ -520,13 +480,13 @@
     }
   },
   {
-    "title": "11 Signs Someone You Care About Is In Full Fledged AI Psychosis, According To Research - YourTango",
-    "description": "11 Signs Someone You Care About Is In Full Fledged AI Psychosis, According To Research  YourTangoPersonal Perspective: Chatbots are reshaping our sense of authentic connection.  Psychology TodayYour New Therapist: Chatty, Leaky, and Hardly Human  KFF Health NewsAI psychosis: a mental health crisis for the 21st century  The ObserverDocuseries shines light on dangers of AI  AOL.com",
-    "published date": "Fri, 17 Apr 2026 19:34:51 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbWF1SmV0cHdRcU5WS192MkYxM05aSGczZ3pqbGQ4aW1ILVBzczhjeC1KMjU3aHZxZDJBX1dIMnc3STBiSHZGYnpBQnB5VF82V2xWaElESHlKSkJ6Q0xfbnRYUVdteWFzYWl1Q3dOVi10VXV4cW03V3VIaHpteFAyMEZ1aERQQ3NzdnRaaEtvT1luaHRrZVZjOG85TjFPam9OOWJ0NG5aVUxQOTN0N01JNDY5RQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "This Is The Highest Quality Fast Food Chain In The US, According To Customers - The Takeout",
+    "description": "This Is The Highest Quality Fast Food Chain In The US, According To Customers  The TakeoutBest bites 2026: U.S. restaurant brand rankings  YouGovThis Southern Fast-Food Chain Ranks No. 1 For Quality In The U.S.  Southern LivingChick-fil-A takes top spot in fast-food brands ranked for quality  The American BazaarChick-fil-A Named Best Fast-Food Chicken in 2026 Study  AOL.com",
+    "published date": "Fri, 17 Apr 2026 18:25:09 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTGQyUWc2bHZ3VFAxT3VnWl81VndOdlFZOUhsaVliQ19fRmM3bGkwRGc2Z0ZTUHlDUkhmYW56Z0JSdkhiVUp4QkJIV0M2eU9RY0RGNVBMZGVJMEpaa1V3WHFmcGFfNlRDUXg3NzhvLUNDUGJXMWRNZ01WODlJLXJoeVJJVWsyd3A2X01uU0hwNS1raVh3UFFxTHByZENHWl9ZNzlEeXZ2bTBGNVZC?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.yourtango.com",
-      "title": "YourTango"
+      "href": "https://www.thetakeout.com",
+      "title": "The Takeout"
     }
   },
   {
@@ -540,6 +500,16 @@
     }
   },
   {
+    "title": "11 Signs Someone You Care About Is In Full Fledged AI Psychosis, According To Research - YourTango",
+    "description": "11 Signs Someone You Care About Is In Full Fledged AI Psychosis, According To Research  YourTangoPersonal Perspective: Chatbots are reshaping our sense of authentic connection.  Psychology TodayYour New Therapist: Chatty, Leaky, and Hardly Human  KFF Health NewsAI psychosis: a mental health crisis for the 21st century  The ObserverDocuseries shines light on dangers of AI  AOL.com",
+    "published date": "Fri, 17 Apr 2026 19:34:51 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbWF1SmV0cHdRcU5WS192MkYxM05aSGczZ3pqbGQ4aW1ILVBzczhjeC1KMjU3aHZxZDJBX1dIMnc3STBiSHZGYnpBQnB5VF82V2xWaElESHlKSkJ6Q0xfbnRYUVdteWFzYWl1Q3dOVi10VXV4cW03V3VIaHpteFAyMEZ1aERQQ3NzdnRaaEtvT1luaHRrZVZjOG85TjFPam9OOWJ0NG5aVUxQOTN0N01JNDY5RQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.yourtango.com",
+      "title": "YourTango"
+    }
+  },
+  {
     "title": "Sazerac Prepares $15 Billion Cash Offer for Maker of Jack Daniel’s - The New York Times",
     "description": "Sazerac Prepares $15 Billion Cash Offer for Maker of Jack Daniel’s  The New York TimesSazerac bids $15 billion for Jack Daniel's maker Brown-Forman, source says  ReutersPernod downplays US slowdown amid Brown-Forman talks  The Spirits BusinessReported $15B bid revealed for Brown-Forman as Louisville company draws interest  WDRBIf Brown-Forman is in play ...  Moore County Observer",
     "published date": "Fri, 17 Apr 2026 21:30:39 GMT",
@@ -550,8 +520,38 @@
     }
   },
   {
+    "title": "Chinese Carmaker Patents Voice-Controlled In-Car Toilet - Newser",
+    "description": "Chinese Carmaker Patents Voice-Controlled In-Car Toilet  NewserChinese carmaker patents voice-controlled 'in-vehicle toilet'  BBCStuck in traffic? This car may come with a toilet  KTLAGo with the flow: Carmaker debuts voice-controlled ‘in-vehicle toilet’  New York PostThis car company just patented a toilet under your seat  Fast Company",
+    "published date": "Fri, 17 Apr 2026 15:45:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSmphUjFSa2tUQ0x5WFJKakJJTks1U2p5QlA5dzRPcDRLVlhiTFNpa3V3bmhuaTdBdlVYUVNMQkMwR3gwTVNrczR5SDFRaGtDY0FySWw5UGxIMk9hSVFZeW9sZEhQOGN1Z3FtQnU5VmtQUkF0Rmh5RGc3QllqNHVMZlVsU2t6M29SanVqNVU5OGhzZ0QwTi04d21mbXM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.newser.com",
+      "title": "Newser"
+    }
+  },
+  {
+    "title": "Upscale steakhouse chain files for bankruptcy - WBIR",
+    "description": "Upscale steakhouse chain files for bankruptcy  WBIRSteak and seafood chain 801 Restaurant Group files for bankruptcy after closing Denver, Minneapolis spots  Fox BusinessDenver steakhouse owner files for bankruptcy  KUSA.comPopular steakhouse chain's owners file bankruptcy. Do closures loom?  USA Today801 Restaurant Group files for Chapter 11 bankruptcy; 1 of 2 Minneapolis locations closes  The Business Journals",
+    "published date": "Fri, 17 Apr 2026 00:21:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUFc2VElaUGtEc1FlQjJ3NTZxQ2VPemgwV3VncU5YWGYxYXk2ZE1relVBQUExWkFqenhVQ1ZNTGd6b2N2NnV4Z2s3bEpfTTBxWExyUHloalVUUVFZbGlmOFpSUGFycjQ2ZmdFVlc4UHlLSWxZa2pvVUxZMXY2M04wMHJ3UzBBQ0RPLWFMZFA0akxwaFJWUFlBTndPcmQzWFZPUXk4ekozZ2dIdl9Ub3lXbWRUM0tmMTlWbnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.wbir.com",
+      "title": "WBIR"
+    }
+  },
+  {
+    "title": "FDA eyes expanding testosterone therapy for libido - statnews.com",
+    "description": "FDA eyes expanding testosterone therapy for libido  statnews.comTrump Administration Gets On Board With Gender-Affirming Care — For Cis Men  Yahoo News AustraliaExperts react to FDA’s potential pathway for TRT label expansion  Urology TimesHIMS Stock's Rally May Have Plenty Of Room Left: FDA Opens Door To Testosterone Therapy  StocktwitsUS FDA weighs broader use of testosterone therapy for low sex drive in men  Reuters",
+    "published date": "Fri, 17 Apr 2026 13:44:33 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcGVsRGF4N3dycWY5VkE1aEpXaEhfUk9abk1vYmlmdFMwemNyeWFVQUtYUVJMdkhtM3pWU3ZEY3hHVV9uUkhONlpPSkhvUzRRcEJtTkdRR01DTzBGUE01WFQ3bU1nSVdXc2o0OFpIMkYzcVJiTDdOcXRON09ZVk8wZEsyeEdaRlVaaTBZZkw1QlhIUnRLZUNz?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.statnews.com",
+      "title": "statnews.com"
+    }
+  },
+  {
     "title": "Premium: The Hater's Guide to Private Credit - Ed Zitron's Where's Your Ed At",
-    "description": "Premium: The Hater's Guide to Private Credit  Ed Zitron's Where's Your Ed AtPrivate Credit Is Not a Financial Crisis in the Making  Bloomberg.comOpinion | This Is Starting to Look Like a Slow-Motion Bank Run  The New York TimesPrivate credit has calmed the credit cycle  Financial TimesPrivate credit funds faced a $20 billion redemption rush. Here are 3 charts showing how much investors got.  Business Insider",
+    "description": "Premium: The Hater's Guide to Private Credit  Ed Zitron's Where's Your Ed AtPrivate Credit Is Not a Financial Crisis in the Making  Bloomberg.comWall Street Is Searching for Cockroaches in Private Credit. Here’s What Has Happened So Far.  WSJPrivate credit has calmed the credit cycle  Financial TimesOpinion | This Is Starting to Look Like a Slow-Motion Bank Run  The New York Times",
     "published date": "Fri, 17 Apr 2026 16:59:32 GMT",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CM2hITWhaOFo1Ri1VM0FfZ3RuYU9WUWloR1hpOHc0alEzbk55RHRhdXVpZDVfdW8tMnJnRU54bkVub2VNRTJVTnZ6ZDA5YVFrWVlfY0F5eWNqRFpjbGcwS2REcFQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -561,7 +561,7 @@
   },
   {
     "title": "Cerebras Files for IPO as Demand Surges for More Efficient AI Chips - WSJ",
-    "description": "Cerebras Files for IPO as Demand Surges for More Efficient AI Chips  WSJAI chipmaker Cerebras files to go public after scrapping IPO plans last year  CNBCOpenAI to Spend More Than $20 Billion on Cerebras Chips, Receive Equity Stake  The InformationNvidia rival Cerebras is taking another swing at an IPO  MarketWatchCerebras Systems Announces Filing of Registration Statement for Proposed Initial Public Offering  Business Wire",
+    "description": "Cerebras Files for IPO as Demand Surges for More Efficient AI Chips  WSJAI chipmaker Cerebras files to go public after scrapping IPO plans last year  CNBCAI chip startup Cerebras files for IPO  TechCrunchNvidia rival Cerebras is taking another swing at an IPO  MarketWatchOpenAI to Spend More Than $20 Billion on Cerebras Chips, Receive Equity Stake  The Information",
     "published date": "Fri, 17 Apr 2026 22:25:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN1o1WkloLUZqUTFnYTVVVU1wc2o0cDllQldqOGV3R2lsNlJKNDQzejZOa2lMWUk5ZkhCVDZ3ZmRSZUc2cTFIb1BMcU1RVkZzbFV0WXR2U216bTdiUlZCZzEzREZTRXpKVHlfSHBCUHFFRnhQNXd0dGVMSjZvSkRFMlY2MXItUTVLeTNSRzhRR1RWN2M?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -570,13 +570,23 @@
     }
   },
   {
-    "title": "There Are Signs of a Massive AI Backlash - Futurism",
-    "description": "There Are Signs of a Massive AI Backlash  FuturismThe public sours on AI and data centers as Anthropic, OpenAI look to IPO and tech keeps spending  CNBCFear and Loathing Among the Haves and Have Mores in San Francisco  WSJWhy Data Center Opposition Is Getting Violent  Heatmap NewsGet In, Everyone—We’re Going to Eat the Rich  Friday Things",
-    "published date": "Fri, 17 Apr 2026 18:07:12 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pdkRWaF9XX2VhYW1hd19aQUowNzV0elpVY2J4N1JGQ09XMlg5M3JpSGp3QUdQcW11bzh0RXIzRzdDcWFOcHp5aTAySm4zc0V5T055RDVWV0IwbTZtN3NRTEQzam5LdTJSZHNkTy10eFlCZHJFQy1WVXNB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "FAA quietly developing AI-enabled predictive air traffic management system - The Air Current",
+    "description": "FAA quietly developing AI-enabled predictive air traffic management system  The Air CurrentPalantir, Thales Among Companies Competing on FAA AI Tool  Bloomberg.comPalantir, Thales, and a startup are competing to build the FAA’s predictive air traffic AI  The Next WebPalantir Eyes Major FAA Deal to Modernize Air Traffic  TipRanksDoes Palantir (PLTR) Winning FAA AI Work Strengthen Its Moat or Highlight Valuation Tensions?  simplywall.st",
+    "published date": "Fri, 17 Apr 2026 16:46:33 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObl9sdF8xRGszZ3NUNDVSY0N1WVZMeWd6LWxYWjJPc2FCS0xkd05YUUpsOExubWc1T2VFelpaTFNBOXJ5SXI5akxrWGtrOTZWUGw1MVBmZTFOU1hBUGpaMlczcFIzXzQ4bXpnbzZNdHV4SDMwZG1kcFRuRmVIdm9vNHVUcXRvaWd6WE5yc2J3VGQ5S2dBTkFrNDREX1hZWC0yLVJIQzlDUG9EQXp2cW9NZG4zTFYtTWs?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://futurism.com",
-      "title": "Futurism"
+      "href": "https://theaircurrent.com",
+      "title": "The Air Current"
+    }
+  },
+  {
+    "title": "More Americans Taking 401(k) Hardship Withdrawals - The New York Times",
+    "description": "More Americans Taking 401(k) Hardship Withdrawals  The New York TimesFidelity, Fed raise red flags on 401(k)s and IRAs  thestreet.comFor Every $1 That Goes Into a 401k 40 Cents Comes Right Back Out and It Is Getting Worse  Yahoo FinanceNew Report Uncovers Red Flags for the Nation’s 401(k)s and IRAs  ParadeMore Americans Than Ever Made This Major 401(k) Blunder in 2025 (It Could Cost Thousands)  AOL.com",
+    "published date": "Sat, 18 Apr 2026 09:00:20 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTDAtY20yZXFPdXVxRDRSNnZpSWl4X3g2eG5kMDA3UnZUMXEybXo1LUU1UWlydWJZbTZIOENnNTd3MTljTEZYc1Jyb2pGb0JlMmt6SC1pVG9HTnpONloyZjRJUHVRS1JNc3A3SU5YM01IVE5qeDQtY1A3M2R3dGNQVjd5eFd6NDhYREk1d1RB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nytimes.com",
+      "title": "The New York Times"
     }
   },
   {
@@ -590,13 +600,23 @@
     }
   },
   {
-    "title": "Older millennials are starting to act like boomers in the housing market—and pulling away from the pack - Fortune",
-    "description": "Older millennials are starting to act like boomers in the housing market—and pulling away from the pack  FortuneFirst-Time Homebuyers Drop to Lowest on Record  InvestopediaFirst-time home buying plunges to record low as baby boomers prevent younger Americans from ever owning  New York PostEquity-Rich Baby Boomers Driving Housing Market  | Florida RealtorsIlyce Glink: The Boomers own the housing market  WGN Radio 720",
-    "published date": "Fri, 17 Apr 2026 09:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMVN1aHh4SmtWWTM0LUZUbVNzRllub19WVGJYaWx1dW1wSGRjWVpVc0hSTzZscHVqX3NOcXZ0MENjQWQ2ZWhaM0tGWnZtdDVyZURtekFUYUVNSXViSGdfanZJemc3S1Rrby0xT0VpVncwZk9GbGNTOS1DNWp4NV9LamRWZGZWZDQyb1ZFSElTcnZjelgtc3VaaTI4UUsxVHM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "There Are Signs of a Massive AI Backlash - Futurism",
+    "description": "There Are Signs of a Massive AI Backlash  FuturismThe public sours on AI and data centers as Anthropic, OpenAI look to IPO and tech keeps spending  CNBCFear and Loathing Among the Haves and Have Mores in San Francisco  WSJWhy Data Center Opposition Is Getting Violent  Heatmap NewsGet In, Everyone—We’re Going to Eat the Rich  Friday Things",
+    "published date": "Fri, 17 Apr 2026 18:07:12 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pdkRWaF9XX2VhYW1hd19aQUowNzV0elpVY2J4N1JGQ09XMlg5M3JpSGp3QUdQcW11bzh0RXIzRzdDcWFOcHp5aTAySm4zc0V5T055RDVWV0IwbTZtN3NRTEQzam5LdTJSZHNkTy10eFlCZHJFQy1WVXNB?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://fortune.com",
-      "title": "Fortune"
+      "href": "https://futurism.com",
+      "title": "Futurism"
+    }
+  },
+  {
+    "title": "Bezos Met Gala Fury Spills Underground - The Hollywood Reporter",
+    "description": "Bezos Met Gala Fury Spills Underground  The Hollywood ReporterActivists Urge Boycott of ‘Bezos Met Gala’ With Posters Around NYC  The New York TimesPosters in NYC call for boycott, protest of ‘Bezos Met Gala’  New York Daily NewsCalls for Met Gala boycott overJeff Bezos sponsorship  The Independent“Boycott the Bezos Met Gala” Posters Emerge Across NYC  Hyperallergic",
+    "published date": "Fri, 17 Apr 2026 21:09:47 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTjBWNTk4Q0pDWHUyTncyaHZwSURSdEtHWW8wc1NoanZiOEE3YWNrTVpKVlNEWjNudVNBY2h3YWhxLVZrRTE1U1QwMjlqVU5IR1JLSVRueHhpSU0yY1V3aWRXVUFjQVk3RnBEWTEtSy1lcjRvU1B5dEJ1T25ZOTV3S2dLRno4UW9RWXg3SExJY2ZqSzBhUlkxMFM4WWM2VmV5Sy1RTw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.hollywoodreporter.com",
+      "title": "The Hollywood Reporter"
     }
   },
   {
@@ -620,13 +640,43 @@
     }
   },
   {
-    "title": "Howard Lutnick tells Canada ‘they suck’ and vows to wind back trade deal with US - Financial Times",
-    "description": "Howard Lutnick tells Canada ‘they suck’ and vows to wind back trade deal with US  Financial TimesLutnick Says Canada Trade Deal Needs to Be Reworked Ahead of Talks  The New York TimesCommerce Secretary Lutnick Says Trade Deal With Canada, Mexico Needs to Be ‘Reconsidered’  WSJLutnick says Trump views CUSMA as ‘a bad deal,’ needs to be ‘re-imagined’ - National  Global NewsLutnick blasts Canada on trade: ‘They suck’  The Hill",
-    "published date": "Fri, 17 Apr 2026 20:14:59 GMT",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZZk5VVmh4Z2txNTB1YmVONElqWUpJSzFDX2tRcG84NU41TTgxb0JRVTNjY0hPWU5ldzdUZWZVVUQ3Q05PdlAwdGZtSFJkaHpNRFFPMEg5LXFNN0o1azMwSUhybU9wWTEwSUFPOWxDdkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "The Stock Market Sounds an Alarm for the First Time in 25 Years. Here's Where History Says the S&P 500 Is Headed Next. - The Motley Fool",
+    "description": "The Stock Market Sounds an Alarm for the First Time in 25 Years. Here's Where History Says the S&P 500 Is Headed Next.  The Motley FoolView Full Coverage on Google News",
+    "published date": "Sat, 18 Apr 2026 02:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd2FxRFFDNG55ekJTcEhHUlVVSjRRclNYMGxHaGVzMHk2NWxJSlRuQjVubjQ2eXdpVTBieHl3VFJGN3RhNHE3VExGT0x0RmUwY29yLXhsc1BKYUxydHpHME95UDVvZDljWksxd04zRlBWaFlHM0Ricy1yNkJKTmd4c0tZcFVydXBkRExYNEFoeXRuUldwVC1PQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.ft.com",
-      "title": "Financial Times"
+      "href": "https://www.fool.com",
+      "title": "The Motley Fool"
+    }
+  },
+  {
+    "title": "Commerce Secretary Lutnick Says Trade Deal With Canada, Mexico Needs to Be ‘Reconsidered’ - WSJ",
+    "description": "Commerce Secretary Lutnick Says Trade Deal With Canada, Mexico Needs to Be ‘Reconsidered’  WSJHoward Lutnick tells Canada ‘they suck’ and vows to wind back trade deal with US  Financial TimesLutnick says Trump views CUSMA as ‘a bad deal,’ needs to be ‘re-imagined’ - National  Global NewsLutnick Says Canada Trade Deal Needs to Be Reworked Ahead of Talks  The New York TimesLutnick blasts Canada on trade: ‘They suck’  The Hill",
+    "published date": "Fri, 17 Apr 2026 20:42:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOU3pzcXNORkNxWXJmSlRaeDNTOXdaZlJhWGo2cFNXcWFBcWFjY2ZmeHE3S0pXNFh1eWVuZlJOdU42UEI1LU1JVVBGdlVUd3JGWVZzc3JyTkN4M3pONmZBTU1HMjRERFBiMGotdFlqcnpTUVJZdnpSaXgzVmVMVzMzNjZEa0EycXVhVW9tdE0xcFk2Um5WbzhJMVZoaG1nVXpzZWFaZWxKbWxtZDVjQkRNX2RnbkdIY0tMZ0h1ZE5XejVkd3RfbUI1SW9maUNSZUU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.wsj.com",
+      "title": "WSJ"
+    }
+  },
+  {
+    "title": "Controller to Small Plane: 'What Are You Doing?' - Newser",
+    "description": "Controller to Small Plane: 'What Are You Doing?'  NewserUPS plane ordered by controller to abort landing after jet approached runway: \"What are you doing?\"  CBS NewsUPS plane has 'near miss' at Louisville Muhammad Ali International Airport  The Courier-JournalUPS plane avoids potential collision with another aircraft at Louisville airport  WDRBUPS plane aborts landing in near miss at same airport where November crash killed 15  Fox News",
+    "published date": "Fri, 17 Apr 2026 21:47:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRFBEdnFiUzhMVU04cXpZOWpiZHdFTnFqUENsVkpyYjF0N2dQN1Y2WDBSR2t0YWdPR1JYRHl3LTZQd0FXdHl5S3VJQlFQTzVCQ0RZaVctdkNaTHJFMUlyV250QTFPTlZIa3hHODk1U2Nra3FMcktxbnY1bmxQRFhDT3JidkQ1YjlwakhxdF9n?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.newser.com",
+      "title": "Newser"
+    }
+  },
+  {
+    "title": "Lies, Damned Lies and Economic Vibes - Paul Krugman | Substack",
+    "description": "Lies, Damned Lies and Economic Vibes  Paul Krugman | SubstackTrump’s economy officially passes Biden’s for worst consumer sentiment in recorded history  FortuneConsumer sentiment plummets to record low as Iran war jacks up inflation | CNN Business  CNNAmericans hate the 2026 economy  AxiosHere’s a model of consumer sentiment that doesn’t suck  Strength In Numbers | G. Elliott Morris",
+    "published date": "Fri, 17 Apr 2026 10:31:11 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ldmpmc1VCdVl6MFEyaHRCV3RNaGwta1V3Z1NwX0FrRGkxWWJLRXpvSHZ5Z0hLUFQ5SndNTmhkWm53YjBWX0wzQXdMR1V3SHlmR3otSHRCUlVYcFBLUDJ4VmN0dUctVC1aQW1NU2hlajF2Wk8tNTVxZ0Rn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://paulkrugman.substack.com",
+      "title": "Paul Krugman | Substack"
     }
   },
   {
@@ -641,22 +691,12 @@
   },
   {
     "title": "Nurse who downed at least 14 tequila shots wins $300,000 in lawsuit against cruise line - Los Angeles Times",
-    "description": "Nurse who downed at least 14 tequila shots wins $300,000 in lawsuit against cruise line  Los Angeles TimesWoman Who Took 15 Tequila Shots on Carnival Cruise Gets $300,000 in Damages  The New York TimesSacramento woman wins $300K after being overserved alcohol on cruise before fall. A legal expert weighs in.  CBS NewsPassenger blacks out after 14 shots, wins $300K in lawsuit against Carnival Cruise  WPEC14 shots of tequila later, cruise passenger sues Carnival and gets a verdict  Miami Herald",
+    "description": "Nurse who downed at least 14 tequila shots wins $300,000 in lawsuit against cruise line  Los Angeles TimesWoman Who Took 15 Tequila Shots on Carnival Cruise Gets $300,000 in Damages  The New York TimesCruise passenger awarded $300K after being served 14 tequila shots  USA TodaySacramento woman wins $300K after being overserved alcohol on cruise before fall. A legal expert weighs in.  CBS NewsPassenger blacks out after 14 shots, wins $300K in lawsuit against Carnival Cruise  WPEC",
     "published date": "Fri, 17 Apr 2026 18:28:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdjhNYnJfaVFYVFdqemItcmQ5RXFKejVtdHBYcUVJV21HOUhLMG5Nako3NUxzZlo5V3ctQ2xaNTV2WkM1bXlmOU1DZWRFRndSVUVUdWVWYk84Y0Zjd1hnOHhSbm12U3daUGM0TklJLU41cm91RGZlTHJWakE0R2pBMC1rZnNqalA0QnBWTGt0Q3V2alNSeDFfV19kZ2prMFkxZXNZdWVjb3loYVN6SjZmNG0tdGdGUzA1QlE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.latimes.com",
       "title": "Los Angeles Times"
-    }
-  },
-  {
-    "title": "ALDI Is Testing Out A New Store Format In Florida–Here's What's Changing - Southern Living",
-    "description": "ALDI Is Testing Out A New Store Format In Florida–Here's What's Changing  Southern LivingFirst Look At New Aldi Format Set To Rollout Across The U.S.  ForbesAldi Süd's globally uniform store concept: Tests will continue in the US in 2026  FreshPlazaIs ALDI Working on a New Store Format?  Progressive GrocerAldi to roll out unified global store format across markets  Retail Systems",
-    "published date": "Fri, 17 Apr 2026 20:53:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DRlR3SHREb1pHb3ZCa3BfVVNuX09Ra0oxVnVfVi1rSG9QZU5ZSEhPclJ2UkFIZUdRZ0ZpUWVHN3ZnR1djdGFUQmZmQUVJVzk1SDJhcFJkN1lFS1ZTeldrSnJCVXNtZGRtWVAyWTV4S2paTi1QQUU2ZDdjS3FZZzQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.southernliving.com",
-      "title": "Southern Living"
     }
   }
 ]
