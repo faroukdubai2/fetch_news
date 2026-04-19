@@ -10,16 +10,6 @@
     }
   },
   {
-    "title": "Amazon will ditch Android on ‘all’ future Fire TV Sticks as latest model runs Vega OS - 9to5Google",
-    "description": "Amazon will ditch Android on ‘all’ future Fire TV Sticks as latest model runs Vega OS  9to5GoogleAmazon releases second Fire TV stick with Vega OS, plans to bring it to all future models  lowpass.ccAmazon launches its slimmest ever streaming device, the Fire TV Stick HD  About AmazonBuying Amazon's New Fire TV Stick HD? Say Goodbye to Sideloading  PCMagAmazon is Warning Some Users That You Can’t Sideload Apps on the New Fire Stick HD  | Cord Cutters News",
-    "published date": "Fri, 17 Apr 2026 14:25:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aVkxlTEx0MnNKaEsxaklVMzVFLTZPMFAySW5fdkI5cURVT2psYU1QZlFJelFiZXBOdDA1ZTl6Z1V6U01fLUtGTVhrcDRkOEFXaXVyaTVLUWJJNUZXeWRQcDhDVjc2SmE4c0RnZlVQY3RZOEFsTGdpWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://9to5google.com",
-      "title": "9to5Google"
-    }
-  },
-  {
     "title": "Microsoft Expands Xbox Mode to Windows Laptops, PCs, and Tablets - TechPowerUp",
     "description": "Microsoft Expands Xbox Mode to Windows Laptops, PCs, and Tablets  TechPowerUpWindows 11 Speeds Up Storage, Lifts 32GB FAT32 Limit After 3 Decades  extremetech.comMicrosoft is giving Windows 11 File Explorer a speed boost, dark mode fix, and reducing explorer.exe crashes  Windows Latest5 Windows 11 improvements coming in April that prove Microsoft is finally listening  How-To GeekMicrosoft debuting new way to remove Windows 11 default apps with latest builds  Neowin",
     "published date": "Sat, 18 Apr 2026 02:50:37 GMT",
@@ -27,6 +17,16 @@
     "publisher": {
       "href": "https://www.techpowerup.com",
       "title": "TechPowerUp"
+    }
+  },
+  {
+    "title": "Amazon will ditch Android on ‘all’ future Fire TV Sticks as latest model runs Vega OS - 9to5Google",
+    "description": "Amazon will ditch Android on ‘all’ future Fire TV Sticks as latest model runs Vega OS  9to5GoogleBuying Amazon's New Fire TV Stick HD? Say Goodbye to Sideloading  PCMagAmazon launches its slimmest ever streaming device, the Fire TV Stick HD  About AmazonAmazon releases second Fire TV stick with Vega OS, plans to bring it to all future models  lowpass.ccAmazon is Warning Some Users That You Can’t Sideload Apps on the New Fire Stick HD  | Cord Cutters News",
+    "published date": "Fri, 17 Apr 2026 14:25:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aVkxlTEx0MnNKaEsxaklVMzVFLTZPMFAySW5fdkI5cURVT2psYU1QZlFJelFiZXBOdDA1ZTl6Z1V6U01fLUtGTVhrcDRkOEFXaXVyaTVLUWJJNUZXeWRQcDhDVjc2SmE4c0RnZlVQY3RZOEFsTGdpWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://9to5google.com",
+      "title": "9to5Google"
     }
   },
   {
@@ -51,12 +51,22 @@
   },
   {
     "title": "5 surreal and striking sci-fi anime to watch while you play Pragmata - Polygon.com",
-    "description": "5 surreal and striking sci-fi anime to watch while you play Pragmata  Polygon.comPragmata's tale of AI slop, humanity, & lunar conquest makes it the timeliest sci-fi game of the year  SpacePragmata Launch: Glowing Reviews and Chart-Topping Sales but Mediocre Player Counts  TechPowerUpPragmata’s Steam User Score Is Beating ‘Clair Obscur: Expedition 33’  ForbesPragmata Is a ‘Sad Dad’ Game Without the Emotional Bond  The New York Times",
+    "description": "5 surreal and striking sci-fi anime to watch while you play Pragmata  Polygon.comPragmata Launch: Glowing Reviews and Chart-Topping Sales but Mediocre Player Counts  TechPowerUpPragmata's tale of AI slop, humanity, & lunar conquest makes it the timeliest sci-fi game of the year  SpacePragmata’s Steam User Score Is Beating ‘Clair Obscur: Expedition 33’  ForbesPragmata Review - Hack And Blast  Game Informer",
     "published date": "Sat, 18 Apr 2026 18:00:18 GMT",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTWRNQVpGeUJkMEhJVHEyQmV3OV8xRnBLZTdOZjFpU3l0aTd3Y0VlbEF0UUNrSGduMU9ycndoQkpWVEhkbDI0T0V3SkFyS0c2cmxPSEs0RXhRU1J3d2Q5MUJCQVIyellUa2VSZzRPTFhFWkZGd3BHM2dueUxJd2E2NmZaaG80Z1NSQ25ibjVmY0NxZkhRc2lV?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.polygon.com",
       "title": "Polygon.com"
+    }
+  },
+  {
+    "title": "Apple AirPods Max 2 vs. Sony WH-1000XM6: What's the Best Choice for Apple Users? - CNET",
+    "description": "Apple AirPods Max 2 vs. Sony WH-1000XM6: What's the Best Choice for Apple Users?  CNETAirPods Pro 3 or Sony WF-1000XM6? I tested both for months, and here’s my favorite  CNNApple AirPods Max 2 vs. Bose QuietComfort Ultra vs. Sony WH-1000XM6: Who Wins High-End ANC?  PCMagAirPods Max 2 Review: A Bigger Upgrade Than You Think  bgr.comIs stunning ANC and a 10-band EQ enough to make the Sony WH-1000XM6 stand out? Well yes, yes it is.  Creative Bloq",
+    "published date": "Sat, 18 Apr 2026 12:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4wakQ2UlNFaGhlMlExQ2xIN1ZFSVZjWmIxUWI5dVdhcUhWSURyVDVuS2NrbGxNdU5HdE1aRmhNaXlqZ2VNeGc4ZVNFNGhuYTdOX0tzTExBQmViZHdFQkNzWllOSEFOT1hhVm9JMkVWNHlPWWpNWkg2OHNpOGQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cnet.com",
+      "title": "CNET"
     }
   },
   {
@@ -71,32 +81,12 @@
   },
   {
     "title": "Here's How To Get All Your Filthy Tomodachi Life Videos Directly Off Your Switch - GameSpot",
-    "description": "Here's How To Get All Your Filthy Tomodachi Life Videos Directly Off Your Switch  GameSpotAsk the Developer Vol. 21: Tomodachi Life: Living the Dream — Part 1  NintendoTomodachi Life: Living the Dream Review  IGNTomodachi Life: Living the Dream captivates me in a way Animal Crossing: New Horizons does not  Polygon.comTomodachi Life: Living the Dream devs say the Mii mechanics took '6 or 7 years' to finetune because 'we came up with more and more ideas as development progressed' — 'There was even a time when we thought leaving it chaotic like that might actually be ki  TechRadar",
+    "description": "Here's How To Get All Your Filthy Tomodachi Life Videos Directly Off Your Switch  GameSpotAsk the Developer Vol. 21: Tomodachi Life: Living the Dream — Part 1  nintendo.comTomodachi Life: Living the Dream Review  IGNTomodachi Life: Living the Dream captivates me in a way Animal Crossing: New Horizons does not  Polygon.comTomodachi Life: Living the Dream devs say the Mii mechanics took '6 or 7 years' to finetune because 'we came up with more and more ideas as development progressed' — 'There was even a time when we thought leaving it chaotic like that might actually be ki  TechRadar",
     "published date": "Fri, 17 Apr 2026 17:41:52 GMT",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOGpUd2RpRzRHZm01cjVFbVpCcS1aWmlSZ3YzV1ZwR1oxdktSNk55azBtOGVSWVZGTTR3d1BMcnVuR184ZGVIdlZKNzZZRTZBN2stc0JYUXRYaUVNR0Q3SFY4Qmpob2U3aG9NbUF0RlhOZU02WFNwUHdjYWtxT09MUWVidndadU0zS3NMYXd5UVNyUkJMOFlPWEU3ZVRnVXFrSlU3YnB1Vy1qa1NCQl80VWp3OERHNE9JcVBPejEzVUY4SHU4UVE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.gamespot.com",
       "title": "GameSpot"
-    }
-  },
-  {
-    "title": "The App Store is booming again, and AI may be why - TechCrunch",
-    "description": "The App Store is booming again, and AI may be why  TechCrunchAppfigures: Global app releases jumped 60% this year, iOS 80%  NewsBytesApple’s App Store, Google Play app launches up 60% in Q1  Tech in AsiaApp Store Surges as AI Coding Tools Spark Mobile Dev Boom  The Tech BuzzAI Drives 84 Percent Surge On App Store  i-programmer.info",
-    "published date": "Sat, 18 Apr 2026 13:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUDV4WmVoTVlmTWwzUXpPTkE3VF9vYUh6WVVCTVlLZnU5VVZmSXlmRng1VnJpcTBRdkxoQ0gxVzhhXzZDSWhJRVRUV1luQmhIR1ktNXdDNTN2UUFDVnFJZ09aWG1MNHk5ZXNRVEpPeHUxQUNicDBqNy1kdGlfYnBfUGliVEEyb1Z1MzJN?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://techcrunch.com",
-      "title": "TechCrunch"
-    }
-  },
-  {
-    "title": "Apple AirPods Max 2 vs. Sony WH-1000XM6: What's the Best Choice for Apple Users? - CNET",
-    "description": "Apple AirPods Max 2 vs. Sony WH-1000XM6: What's the Best Choice for Apple Users?  CNETApple AirPods Max 2 vs. Bose QuietComfort Ultra vs. Sony WH-1000XM6: Who Wins High-End ANC?  PCMagAirPods Max 2 Review: A Bigger Upgrade Than You Think  bgr.comIs stunning ANC and a 10-band EQ enough to make the Sony WH-1000XM6 stand out? Well yes, yes it is.  Creative BloqSony’s new flagship earbuds are a triumph of form over function  Domus Web",
-    "published date": "Sat, 18 Apr 2026 12:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4wakQ2UlNFaGhlMlExQ2xIN1ZFSVZjWmIxUWI5dVdhcUhWSURyVDVuS2NrbGxNdU5HdE1aRmhNaXlqZ2VNeGc4ZVNFNGhuYTdOX0tzTExBQmViZHdFQkNzWllOSEFOT1hhVm9JMkVWNHlPWWpNWkg2OHNpOGQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cnet.com",
-      "title": "CNET"
     }
   },
   {
@@ -107,6 +97,16 @@
     "publisher": {
       "href": "https://www.warhammer-community.com",
       "title": "Warhammer Community"
+    }
+  },
+  {
+    "title": "The App Store is booming again, and AI may be why - TechCrunch",
+    "description": "The App Store is booming again, and AI may be why  TechCrunchAppfigures: Global app releases jumped 60% this year, iOS 80%  NewsBytesApple’s App Store, Google Play app launches up 60% in Q1  Tech in AsiaApp Store Surges as AI Coding Tools Spark Mobile Dev Boom  The Tech BuzzAI Drives 84 Percent Surge On App Store  i-programmer.info",
+    "published date": "Sat, 18 Apr 2026 13:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUDV4WmVoTVlmTWwzUXpPTkE3VF9vYUh6WVVCTVlLZnU5VVZmSXlmRng1VnJpcTBRdkxoQ0gxVzhhXzZDSWhJRVRUV1luQmhIR1ktNXdDNTN2UUFDVnFJZ09aWG1MNHk5ZXNRVEpPeHUxQUNicDBqNy1kdGlfYnBfUGliVEEyb1Z1MzJN?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://techcrunch.com",
+      "title": "TechCrunch"
     }
   },
   {
@@ -130,26 +130,6 @@
     }
   },
   {
-    "title": "Here are all of the new Apple products worth waiting for, and what to avoid buying now - 9to5Mac",
-    "description": "Here are all of the new Apple products worth waiting for, and what to avoid buying now  9to5MacMoving Beyond Pro: Apple Leaks Reveal 4 New ‘Ultra’ Tier Devices for 2026  Geeky GadgetsApple Has Released These 12 New Products This Year  MacRumorsApple could launch 7 new smart home devices this year — but there's a catch  Tom's GuideApple plans to launch more than fifteen new devices before the end of 2026  Technobezz",
-    "published date": "Sat, 18 Apr 2026 20:14:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZmVPb3QtTVFYMmNjZ0t5YWsxSlJZenNodVo4dlhPdWZoQU1mdFdSWUNNZm9nWlUzX3VsVjk5TVV5LXlDU0hUYUVVYWZzY1FhRHozbFRjaEhVUmhwdWVQY0x1S3B6SG9fMGpmYTdDNnU5SUJQNE9XSTVINWEwQWZJWUlYTVBzNWptR296aG5OMm1hYVRWdHJWdDVNcDFzQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://9to5mac.com",
-      "title": "9to5Mac"
-    }
-  },
-  {
-    "title": "The Manthey Porsche Just Ran A Near-Perfect Nürburgring Lap. A Mustang Still Beat It - Carscoops",
-    "description": "The Manthey Porsche Just Ran A Near-Perfect Nürburgring Lap. A Mustang Still Beat It  CarscoopsPorsche Sets Incredible Nürburgring Time, but It Gets Outdone by Ford on the Same Day  Car and DriverManthey Kit-Equipped Porsche 911 GT3 RS Laps the 'Ring in 6:45.389  Road & TrackPorsche Just Smashed The Mustang GTD's Nürburgring Lap Time - How Long Will That Last?  CarBuzzBad news for the Chevy Corvette ZR1X! The Porsche 911 GT3 RS is also faster at the Nurburgring  autoevolution",
-    "published date": "Fri, 17 Apr 2026 23:39:28 GMT",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPMEE4ejhmd1RscjM4Rl91RDRmUjl4V0dKSW5jZ1Fuek9lRWhIMjhvZmEwNTA0RFdqbThxQzYzbDU0b0V4TkUyQlVaWmFQd1UyX1NYOFJmRkZCR2dRRGpUOVZpZ193OFpuUTdISmxibVkyUUxhV2lUaEZ2N3BSUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.carscoops.com",
-      "title": "Carscoops"
-    }
-  },
-  {
     "title": "The iPhone 18 Pro colors have leaked, and one of them is stealing the show - PhoneArena",
     "description": "The iPhone 18 Pro colors have leaked, and one of them is stealing the show  PhoneArenaiPhone 18 Pro colors revealed: Exclusive look at Apple’s 2026 models  MacworldLatest iPhone rumors: iPhone 18 colors and cameras appear in new leaks  MashableApple iPhone 18 Pro Latest Leak Signals Significant Design Change  ForbesiPhone 18 Pro's Four Rumored Colors Revealed, Including 'Dark Cherry'  MacRumors",
     "published date": "Sat, 18 Apr 2026 02:00:24 GMT",
@@ -157,6 +137,16 @@
     "publisher": {
       "href": "https://www.phonearena.com",
       "title": "PhoneArena"
+    }
+  },
+  {
+    "title": "Here are all of the new Apple products worth waiting for, and what to avoid buying now - 9to5Mac",
+    "description": "Here are all of the new Apple products worth waiting for, and what to avoid buying now  9to5MacMoving Beyond Pro: Apple Leaks Reveal 4 New ‘Ultra’ Tier Devices for 2026  Geeky GadgetsApple Has Released These 12 New Products This Year  MacRumorsApple could launch 7 new smart home devices this year — but there's a catch  Tom's GuideApple plans to launch more than fifteen new devices before the end of 2026  Technobezz",
+    "published date": "Sat, 18 Apr 2026 20:14:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZmVPb3QtTVFYMmNjZ0t5YWsxSlJZenNodVo4dlhPdWZoQU1mdFdSWUNNZm9nWlUzX3VsVjk5TVV5LXlDU0hUYUVVYWZzY1FhRHozbFRjaEhVUmhwdWVQY0x1S3B6SG9fMGpmYTdDNnU5SUJQNE9XSTVINWEwQWZJWUlYTVBzNWptR296aG5OMm1hYVRWdHJWdDVNcDFzQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://9to5mac.com",
+      "title": "9to5Mac"
     }
   },
   {
@@ -170,13 +160,13 @@
     }
   },
   {
-    "title": "‘We just can’t go back’: How one mom dramatically cut her family’s technology use - East Idaho News",
-    "description": "‘We just can’t go back’: How one mom dramatically cut her family’s technology use  East Idaho NewsView Full Coverage on Google News",
-    "published date": "Sat, 18 Apr 2026 00:58:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWktJY3JfQ0xkaWVURnVIUW93a2NfdzEtdUZZTkhrQnZPQnNMaFZ0SEktM0pTcUtweEZBaS1YMWh4UjR4RGhpRjJyYlVqdjVUU1ZPT0FZVkVqMTZURGpZVlFhUmZiQzNla19adU9QYzl2SXNFV2JBd2VVS1hMejBQcHlUeURESUNaVkJZSy1ic0xsMDhITG1hREZqNmJMTUN1c2lpcnVCNFBCcXBKSTJ2b1ZDeXZPZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "The Manthey Porsche Just Ran A Near-Perfect Nürburgring Lap. A Mustang Still Beat It - Carscoops",
+    "description": "The Manthey Porsche Just Ran A Near-Perfect Nürburgring Lap. A Mustang Still Beat It  CarscoopsPorsche Sets Incredible Nürburgring Time, but It Gets Outdone by Ford on the Same Day  Car and DriverManthey Kit-Equipped Porsche 911 GT3 RS Laps the 'Ring in 6:45.389  Road & TrackPorsche Just Smashed The Mustang GTD's Nürburgring Lap Time - How Long Will That Last?  CarBuzzBad news for the Chevy Corvette ZR1X! The Porsche 911 GT3 RS is also faster at the Nurburgring  autoevolution",
+    "published date": "Fri, 17 Apr 2026 23:39:28 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPMEE4ejhmd1RscjM4Rl91RDRmUjl4V0dKSW5jZ1Fuek9lRWhIMjhvZmEwNTA0RFdqbThxQzYzbDU0b0V4TkUyQlVaWmFQd1UyX1NYOFJmRkZCR2dRRGpUOVZpZ193OFpuUTdISmxibVkyUUxhV2lUaEZ2N3BSUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.eastidahonews.com",
-      "title": "East Idaho News"
+      "href": "https://www.carscoops.com",
+      "title": "Carscoops"
     }
   },
   {
@@ -190,43 +180,43 @@
     }
   },
   {
-    "title": "Super Mario-kun manga may finally be ending after more then 30 years - Nintendo Everything",
-    "description": "Super Mario-kun manga may finally be ending after more then 30 years  Nintendo Everything",
-    "published date": "Sat, 18 Apr 2026 22:03:29 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaHpfMFA5a2o0bF9iU196RzRaLVZjN1ZzX3BkS0dXM3d0eHVBdXo3Rk1VT0hOdjJZdkI2dGg3R0VtTGRsLVZQdUlFTnJYVVMzNENUcEgtbkt3c3pZWDFUT3RvbnRPak5EYlFNTml3b1ZXSkVyWGdSZWVDaDY1WG45WEpDcWxPa1FqNXFpQUk1aWx0eFVONENidUdpMDFubjktaEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "‘We just can’t go back’: How one mom dramatically cut her family’s technology use - East Idaho News",
+    "description": "‘We just can’t go back’: How one mom dramatically cut her family’s technology use  East Idaho NewsView Full Coverage on Google News",
+    "published date": "Sat, 18 Apr 2026 00:58:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWktJY3JfQ0xkaWVURnVIUW93a2NfdzEtdUZZTkhrQnZPQnNMaFZ0SEktM0pTcUtweEZBaS1YMWh4UjR4RGhpRjJyYlVqdjVUU1ZPT0FZVkVqMTZURGpZVlFhUmZiQzNla19adU9QYzl2SXNFV2JBd2VVS1hMejBQcHlUeURESUNaVkJZSy1ic0xsMDhITG1hREZqNmJMTUN1c2lpcnVCNFBCcXBKSTJ2b1ZDeXZPZw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://nintendoeverything.com",
-      "title": "Nintendo Everything"
+      "href": "https://www.eastidahonews.com",
+      "title": "East Idaho News"
     }
   },
   {
-    "title": "Microsoft confirms major Rewards changes in May that may impact daily point earners and frequent redeemers - Windows Central",
-    "description": "Microsoft confirms major Rewards changes in May that may impact daily point earners and frequent redeemers  Windows CentralView Full Coverage on Google News",
-    "published date": "Sat, 18 Apr 2026 13:29:33 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxObmxDQTl1YWhHQlRsVnl2X1lpTXN0Mzk5ZGFRZW9BYk9NejlUQ1N3Y1g0WGtHOFdkcUZkRF9Nc084ZW4tZFJ1WGFPc29TM2JkQmNLcDI5QXdmTTFwWkQwYXp5OUtJM3o2WEIzb0FoUl9uOE9zZ1o2ajhsdDRFbkVqV2piRHo2RjlZU3pNVC0zaDE2Vl9yOUw5bjVocUhQS1JYS0JpTE0tbHlHZ0ZJTndOamFKOEw2aEV0SFRDZENEUjh4WWVFV3VxLTFqMEw3VHlSRmRCbkxmai1qZjJHWXVIVDVjMUtCd3BvNGdULXJSVVgwZGhhNlY1UzhPS09uZllYSzdac3Z3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Sailor Piece Sea 2: Everything You Need To Know - Beebom",
+    "description": "Sailor Piece Sea 2: Everything You Need To Know  BeebomSea 2 Update - Sailor Piece [Roblox] Guide  IGNHow to Get All Map Pieces in Sailor Piece  BeebomHow to find all 6 Ancient Pieces in Sailor Piece  EurogamerRoblox Sailor Piece Sea 2 update: Release date, timings, what to expect & more  Khel Now",
+    "published date": "Sat, 18 Apr 2026 21:51:56 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5yT3dGRXd4cGMwWmNXQWh4TXQwMGxzUkZFNnRtVUxGc1gwRnR1aW5qUUppTDdWdG5FMnl4YVlxa2M5dmNKV0lGMTNDTGx4SXg5ZWNBT1Qzb9IBXEFVX3lxTE5rbEY0TlVwV3JNd1I2RXA2c0FVNnk4ejFOV3dleDY4a1JpeEdMalVQVlFJd1pfRGNKeHFyU3kzc2RfRzhmWXRzbXRhQnJ1NkRpQnZreDVRdHBEVjY0?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.windowscentral.com",
-      "title": "Windows Central"
+      "href": "https://beebom.com",
+      "title": "Beebom"
     }
   },
   {
-    "title": "Apple’s upcoming AirPods Pro 3 variant could debut a groundbreaking new feature - 9to5Mac",
-    "description": "Apple’s upcoming AirPods Pro 3 variant could debut a groundbreaking new feature  9to5MacApple Integrates Silent-Speech Tech into AirPods Pro 3  Let's Data ScienceAirPods Pro 3 may let you talk to Siri without actually saying a word  Digital Trends",
-    "published date": "Sat, 18 Apr 2026 17:55:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU3dtanM1MFBtcHRqa1h0VF9YZmkxbWI2VmJweFc3NHNIVHpqSDE1eEZMd2VHTmRTT2dCQnlpTUYwUWJhcVVweGVVTDRmemxxb1lHbGI5QUJITGxDWEtFczZPWDVsdEZLdkRlX1d5TENzUjlOWXllSnVFd25XbVYyQU5uQ1QwMTRibndGajZrazZtMURQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Steam Beloved RPG Surpasses Even Crimson Desert In Scale, And It's Free - GAMINGbible",
+    "description": "Steam Beloved RPG Surpasses Even Crimson Desert In Scale, And It's Free  GAMINGbible",
+    "published date": "Sat, 18 Apr 2026 23:04:35 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMHdZS21wOXhndVhaT0MzLVU5ZkxQbzhNVnlsdVp4M3VtRDRMX0dfb0V1MS1haUtXY0FWT095WnVWLUxmTXF0cmNGR2RkNEtJeEpZNV9Vang1c1J1dkQySFh2ZWdZbVhUd3ItS3cydGx4MEJPdEpmUDRjVVRCcEtsSXhFbkhlazZ4c3JNZmR6Yl9mLVk5b1JPdVdKUlpGNEVrSzJZQ013?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://9to5mac.com",
-      "title": "9to5Mac"
+      "href": "https://www.gamingbible.com",
+      "title": "GAMINGbible"
     }
   },
   {
-    "title": "Hackers are abusing unpatched Windows security flaws to hack into organizations - TechCrunch",
-    "description": "Hackers are abusing unpatched Windows security flaws to hack into organizations  TechCrunchThree Microsoft Defender Zero-Days Actively Exploited; Two Still Unpatched  The Hacker NewsRecently leaked Windows zero-days now exploited in attacks  BleepingComputerRedSun: Windows 0day when Defender becomes the attacker  CloudSEKMicrosoft Defender 0-Day Vulnerability “RedSun” Enables Full SYSTEM Access  CyberSecurityNews",
-    "published date": "Fri, 17 Apr 2026 17:48:46 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUlp1MEdPdWlsSnpUZlBzY29CV0JJS1lxZE1nMXh3Wm9qVDFCamJHNTRITDJMVVZsdDJ1QXJ4UzBJdEVqYUFKSGJnSzhVYUpYcmNXelFkR0x4dUhrcW9CU2lzS3VVTVQyczE0UGllQ2xHNWN3bThxZHNISThwZWNCeXQ4dVV3M1plLWFUeXlpMzhsSE8xbXI3Tm1sSWVmV25zTU5BLU9kTElobXJwVHNXOHFOVFo?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "They Built the ‘Cursor for Hardware.’ Now, Anthropic Wants In - WIRED",
+    "description": "They Built the ‘Cursor for Hardware.’ Now, Anthropic Wants In  WIRED",
+    "published date": "Sat, 18 Apr 2026 10:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdVBob0stWHk1ZnBWTy1CUnlJSVNyWV9HOEc5M2M0S2k0bzhBRlNYNDRaQjZhMjk1d29zSTR2MFJGVEJVU0otT2NOQksyd1JFUGdlRS1VbVRpcGJzYlZKRUZoUURseTlyeWxqWGVSaVM3T3d3N0pOcDNwTERrRjlPNXJSTlhQVG5QUnhFcXdDRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://techcrunch.com",
-      "title": "TechCrunch"
+      "href": "https://www.wired.com",
+      "title": "WIRED"
     }
   },
   {
@@ -240,16 +230,6 @@
     }
   },
   {
-    "title": "New Apple iPhone Fold Decision Changes Smartphones Forever - Forbes",
-    "description": "New Apple iPhone Fold Decision Changes Smartphones Forever  ForbesApple’s foldable iPhone Ultra is taking shape – Here’s what we know  MacworldApple Set to Capture 46% Share in North America Foldables Market in 2026, Pressuring Competitors  Counterpoint Technology Market ResearchiPhone Fold Production Pushed Back, But Fall 2026 Launch Still on Track  MacRumorsiPhone Ultra is coming: Six new features in Apple’s high-end model  9to5Mac",
-    "published date": "Sat, 18 Apr 2026 20:19:50 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWkhEMmtSYkhZWjMxS2VCRVBLUm1kbV82bWh4UGtmNjlIR1FmOVJfMDlSM3lKVnpsdV9HNW1uXzdxZWFCS0hNaVYzbW8xSnZlLXJTTXlfUTJTa0h0TTROWVg5aERyMlQ0Yksyb2I3bmZzTjh0N3U3MWtKdEZjR3o2WGhCQXY3TjhsMlRsMm9lcTJnUkx6bkZhZ0h2WGo?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.forbes.com",
-      "title": "Forbes"
-    }
-  },
-  {
     "title": "World of Warcraft private server Stormforge is shutting down as Blizzard builds pressure on fan alternatives - PCGamesN",
     "description": "World of Warcraft private server Stormforge is shutting down as Blizzard builds pressure on fan alternatives  PCGamesNWorld of Warcraft rogue server TurtleWoW has announced its sunset following court agreement  Massively OverpoweredPopular World Of Warcraft Private Server Turtle WoW Ordered To Cease And Desist  GameSpotAfter Nostalrius came WoW Classic, now the end of Turtle WoW must lead to WoW Classic Plus  Mein-MMOCreators of the WoW Stormforge fan server announced its closure - Blizzard strikes again  ixbt.games",
     "published date": "Sat, 18 Apr 2026 11:02:19 GMT",
@@ -257,6 +237,26 @@
     "publisher": {
       "href": "https://www.pcgamesn.com",
       "title": "PCGamesN"
+    }
+  },
+  {
+    "title": "Hackers are abusing unpatched Windows security flaws to hack into organizations - TechCrunch",
+    "description": "Hackers are abusing unpatched Windows security flaws to hack into organizations  TechCrunchThree Microsoft Defender Zero-Days Actively Exploited; Two Still Unpatched  The Hacker NewsRecently leaked Windows zero-days now exploited in attacks  BleepingComputerRedSun: Windows 0day when Defender becomes the attacker  CloudSEKMicrosoft Defender 0-Day Vulnerability “RedSun” Enables Full SYSTEM Access  CyberSecurityNews",
+    "published date": "Fri, 17 Apr 2026 17:48:46 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUlp1MEdPdWlsSnpUZlBzY29CV0JJS1lxZE1nMXh3Wm9qVDFCamJHNTRITDJMVVZsdDJ1QXJ4UzBJdEVqYUFKSGJnSzhVYUpYcmNXelFkR0x4dUhrcW9CU2lzS3VVTVQyczE0UGllQ2xHNWN3bThxZHNISThwZWNCeXQ4dVV3M1plLWFUeXlpMzhsSE8xbXI3Tm1sSWVmV25zTU5BLU9kTElobXJwVHNXOHFOVFo?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://techcrunch.com",
+      "title": "TechCrunch"
+    }
+  },
+  {
+    "title": "New Apple iPhone Fold Decision Changes Smartphones Forever - Forbes",
+    "description": "New Apple iPhone Fold Decision Changes Smartphones Forever  ForbesApple’s foldable iPhone Ultra is taking shape – Here’s what we know  MacworldApple Set to Capture 46% Share in North America Foldables Market in 2026, Pressuring Competitors  Counterpoint Technology Market ResearchiPhone Fold Production Pushed Back, But Fall 2026 Launch Still on Track  MacRumorsiPhone Ultra is coming: Six new features in Apple’s high-end model  9to5Mac",
+    "published date": "Sat, 18 Apr 2026 20:19:50 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWkhEMmtSYkhZWjMxS2VCRVBLUm1kbV82bWh4UGtmNjlIR1FmOVJfMDlSM3lKVnpsdV9HNW1uXzdxZWFCS0hNaVYzbW8xSnZlLXJTTXlfUTJTa0h0TTROWVg5aERyMlQ0Yksyb2I3bmZzTjh0N3U3MWtKdEZjR3o2WGhCQXY3TjhsMlRsMm9lcTJnUkx6bkZhZ0h2WGo?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
     }
   },
   {
@@ -270,6 +270,36 @@
     }
   },
   {
+    "title": "Microsoft confirms major Rewards changes in May that may impact daily point earners and frequent redeemers - Windows Central",
+    "description": "Microsoft confirms major Rewards changes in May that may impact daily point earners and frequent redeemers  Windows CentralView Full Coverage on Google News",
+    "published date": "Sat, 18 Apr 2026 13:29:33 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxObmxDQTl1YWhHQlRsVnl2X1lpTXN0Mzk5ZGFRZW9BYk9NejlUQ1N3Y1g0WGtHOFdkcUZkRF9Nc084ZW4tZFJ1WGFPc29TM2JkQmNLcDI5QXdmTTFwWkQwYXp5OUtJM3o2WEIzb0FoUl9uOE9zZ1o2ajhsdDRFbkVqV2piRHo2RjlZU3pNVC0zaDE2Vl9yOUw5bjVocUhQS1JYS0JpTE0tbHlHZ0ZJTndOamFKOEw2aEV0SFRDZENEUjh4WWVFV3VxLTFqMEw3VHlSRmRCbkxmai1qZjJHWXVIVDVjMUtCd3BvNGdULXJSVVgwZGhhNlY1UzhPS09uZllYSzdac3Z3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.windowscentral.com",
+      "title": "Windows Central"
+    }
+  },
+  {
+    "title": "Super Mario-kun manga may finally be ending after more then 30 years - Nintendo Everything",
+    "description": "Super Mario-kun manga may finally be ending after more then 30 years  Nintendo Everything",
+    "published date": "Sat, 18 Apr 2026 22:03:29 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaHpfMFA5a2o0bF9iU196RzRaLVZjN1ZzX3BkS0dXM3d0eHVBdXo3Rk1VT0hOdjJZdkI2dGg3R0VtTGRsLVZQdUlFTnJYVVMzNENUcEgtbkt3c3pZWDFUT3RvbnRPak5EYlFNTml3b1ZXSkVyWGdSZWVDaDY1WG45WEpDcWxPa1FqNXFpQUk1aWx0eFVONENidUdpMDFubjktaEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://nintendoeverything.com",
+      "title": "Nintendo Everything"
+    }
+  },
+  {
+    "title": "Apple’s upcoming AirPods Pro 3 variant could debut a groundbreaking new feature - 9to5Mac",
+    "description": "Apple’s upcoming AirPods Pro 3 variant could debut a groundbreaking new feature  9to5MacApple Integrates Silent-Speech Tech into AirPods Pro 3  Let's Data ScienceAirPods Pro 3 may let you talk to Siri without actually saying a word  Digital Trends",
+    "published date": "Sat, 18 Apr 2026 17:55:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU3dtanM1MFBtcHRqa1h0VF9YZmkxbWI2VmJweFc3NHNIVHpqSDE1eEZMd2VHTmRTT2dCQnlpTUYwUWJhcVVweGVVTDRmemxxb1lHbGI5QUJITGxDWEtFczZPWDVsdEZLdkRlX1d5TENzUjlOWXllSnVFd25XbVYyQU5uQ1QwMTRibndGajZrazZtMURQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://9to5mac.com",
+      "title": "9to5Mac"
+    }
+  },
+  {
     "title": "Fortnite Loses Two Game Modes, But 'Save The World' Goes Free On Xbox & Beyond - Pure Xbox",
     "description": "Fortnite Loses Two Game Modes, But 'Save The World' Goes Free On Xbox & Beyond  Pure XboxFortnite: Save The World Is Finally Free-To-Play, Offers A Free Skin For Good Measure  GameSpotFortnite Save the World on Mobile: Is It Available?  games.ggFortnite Save the World Twitch Drops - How to Claim All Free Rewards Before April 21  Shane the GamerDoes Fortnite Save The World Give V-Bucks? Free V-Bucks, Explained  Insider Gaming",
     "published date": "Fri, 17 Apr 2026 13:13:03 GMT",
@@ -277,16 +307,6 @@
     "publisher": {
       "href": "https://www.purexbox.com",
       "title": "Pure Xbox"
-    }
-  },
-  {
-    "title": "Samsung tipped to use UFS 5.0 storage on select Galaxy S27 models - GSMArena.com news - GSMArena.com",
-    "description": "Samsung tipped to use UFS 5.0 storage on select Galaxy S27 models - GSMArena.com news  GSMArena.comTake your pick: Galaxy S27 rumor says every model won't see new UFS storage  Android CentralLeaked Exynos 2700 performance data paints a very early picture  Yahoo TechGalaxy S27 Ultra may perform on par with desktops, and not just because of a 2nm chip  PhoneArenaSamsung Exynos 2700 emerges in early Geekbench listings - GSMArena.com news  GSMArena.com",
-    "published date": "Fri, 17 Apr 2026 11:44:02 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMUphVU5qS1R0aXhHU29VTXZsdEc0UVNMZTdicHU5Q25PUy1OSE1qR0lvNThkaThOODlYNEpwMlZ4akpjN0U2eDFoRGZmcnFaM1B2Yl9EaWNRZllYSldTbzZfNldmN0Nlbkg4cm14NUUxOUgya1JCanZNVXpaVElBeHkxN3dGd2NHU0NxXzZrMnNtTUdTb0xCU0RYUFFrNTA1MTYwbDg0Z9IBowFBVV95cUxQMlYtMzBXQ0NvT2tZTzh3YXJyQ25HNVZZaThUbkNZd3RjVWxZTFlPQnJob25weno4VHpJQ0JiREdYeGdEclZZR3VKWmpVSWhpMTQ2eUEteGg4Ql80dVRWdC0tekU1WFVfUXZVbnRNcTBpai10Qko5RXdBNFdLelh5MjNmSXpwMS1YRTdOT2VkTy1LcW5XcHRQODNSSng0S2VmbnNN?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.gsmarena.com",
-      "title": "GSMArena.com"
     }
   },
   {
@@ -300,6 +320,16 @@
     }
   },
   {
+    "title": "Samsung tipped to use UFS 5.0 storage on select Galaxy S27 models - GSMArena.com news - GSMArena.com",
+    "description": "Samsung tipped to use UFS 5.0 storage on select Galaxy S27 models - GSMArena.com news  GSMArena.comTake your pick: Galaxy S27 rumor says every model won't see new UFS storage  Android CentralLeaked Exynos 2700 performance data paints a very early picture  Yahoo TechGalaxy S27 Ultra may perform on par with desktops, and not just because of a 2nm chip  PhoneArenaSamsung Exynos 2700 emerges in early Geekbench listings - GSMArena.com news  GSMArena.com",
+    "published date": "Fri, 17 Apr 2026 11:44:02 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMUphVU5qS1R0aXhHU29VTXZsdEc0UVNMZTdicHU5Q25PUy1OSE1qR0lvNThkaThOODlYNEpwMlZ4akpjN0U2eDFoRGZmcnFaM1B2Yl9EaWNRZllYSldTbzZfNldmN0Nlbkg4cm14NUUxOUgya1JCanZNVXpaVElBeHkxN3dGd2NHU0NxXzZrMnNtTUdTb0xCU0RYUFFrNTA1MTYwbDg0Z9IBowFBVV95cUxQMlYtMzBXQ0NvT2tZTzh3YXJyQ25HNVZZaThUbkNZd3RjVWxZTFlPQnJob25weno4VHpJQ0JiREdYeGdEclZZR3VKWmpVSWhpMTQ2eUEteGg4Ql80dVRWdC0tekU1WFVfUXZVbnRNcTBpai10Qko5RXdBNFdLelh5MjNmSXpwMS1YRTdOT2VkTy1LcW5XcHRQODNSSng0S2VmbnNN?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.gsmarena.com",
+      "title": "GSMArena.com"
+    }
+  },
+  {
     "title": "How Jason Chambers Runs a Tight Ship on ‘Below Deck’ - The New York Times",
     "description": "How Jason Chambers Runs a Tight Ship on ‘Below Deck’  The New York Times",
     "published date": "Sat, 18 Apr 2026 09:00:13 GMT",
@@ -310,8 +340,18 @@
     }
   },
   {
+    "title": "The Neo Geo+ Will Be \"Better Than Emulation\" Says Modding Legend Furrtek - Time Extension",
+    "description": "The Neo Geo+ Will Be \"Better Than Emulation\" Says Modding Legend Furrtek  Time ExtensionSNK's Neo Geo console remake works with original cartridges and HDMI  EngadgetThe new NEOGEO AES+ is the most ambitious retro console yet  Creative BloqSNK Revives the Legendary Neo Geo AES for 35th Anniversary  hypebeast.comNeoGeo AES+: SNK announces reissue of retro console without emulation  heise online",
+    "published date": "Sat, 18 Apr 2026 19:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcVpsZmVpSDFKTXRTSnBIMWwwWVVOZGhGYThFYjdWU2VGMW5MaF9tTEszM05QdFZMZFplMkhrRUpmMDlBTzBUNzA3aTFuY3FDSk1zcXZwYnU5LWREMlhVWlFLQmVZLU5QaktpSGJkQjBmU25uY3cxZDVrbjBxRHhsaDlTQVpaZFVMTTk2bmJhQ3hOYV9yX0k2Vkx4QVhuTE1LbGJGalpyclozeTdTRW02N1pGRGRjODg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.timeextension.com",
+      "title": "Time Extension"
+    }
+  },
+  {
     "title": "Slay the Spire 2 roadmap suggests we won't get matchmaking but does promise \"whimsy\" – here's what's new - Eurogamer",
-    "description": "Slay the Spire 2 roadmap suggests we won't get matchmaking but does promise \"whimsy\" – here's what's new  Eurogamer'I Don’t Want Sloppy Spire 2' — Slay the Spire 2 Roadmap Reveal Doesn’t Promise Release Dates Because Mega Crit Wants to Do 'What Works for Us'  IGNAfter a month of haggling with players, Mega Crit make Slay the Spire 2's beta patches official, with big character reworks alongside new art and scoring systems  Rock Paper ShotgunSlay The Spire 2 Outlines A Big Roadmap But Devs Aren't Rushing  KotakuSlay the Spire 2 Is Being Review-Bombed Again on Steam  games.gg",
+    "description": "Slay the Spire 2 roadmap suggests we won't get matchmaking but does promise \"whimsy\" – here's what's new  Eurogamer'I Don’t Want Sloppy Spire 2' — Slay the Spire 2 Roadmap Reveal Doesn’t Promise Release Dates Because Mega Crit Wants to Do 'What Works for Us'  IGNAfter a month of haggling with players, Mega Crit make Slay the Spire 2's beta patches official, with big character reworks alongside new art and scoring systems  Rock Paper ShotgunSlay The Spire 2 Outlines A Big Roadmap But Devs Aren't Rushing  KotakuSlay the Spire 2 Receives Major Patch - New Relics and Balance  ixbt.games",
     "published date": "Sat, 18 Apr 2026 14:39:24 GMT",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZFpjMGlpWmdZZTg2V1dWWVpkdEpJM19ES2xXaUtXWUVERHhieXNhdDJHV0tPZHYxZ05QanJ3T2xXMHFPcWRqZjJ5MExZRW5Tc0pNUC1ibUE5R2ZjQ3NsejRYaVlONFlSYXpRZ2d6VW1yZVduWjQ5Q1EzeUNEZFBNMy15ZXp3OFRTaWRMZWhXcVB1d3M0eWNTUGlzeGxDTmhkQm9Oby1iVmROdzZlQWlpNi1LRFpJcEwyQmFEWVcxZ2I?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -320,23 +360,13 @@
     }
   },
   {
-    "title": "Ditch Your TV Remote For This All-In-One Free App - bgr.com",
-    "description": "Ditch Your TV Remote For This All-In-One Free App  bgr.com",
-    "published date": "Sat, 18 Apr 2026 14:47:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnODl3TjJTU2dFNDBBUVFVWXBjRXh2b1FpRF9wZGFRT2VOMG1FbllhZWgzckctVUZSdTgtVmRtOHpjNHQtemNBMWZ6cUJsOGNybmRvNlFpTHJTeWdpVS04VkcxamlWM3FYQ3ZON2NiSlpQbmI0QVZv?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Gemini app bug removes features, reverts UI on Android - 9to5Google",
+    "description": "Gemini app bug removes features, reverts UI on Android  9to5GoogleAre you seeing Gemini's UI changes? Google's update is starting to roll out  Android AuthorityGoogle's Gemini Android app loses NotebookLM uploads and other features  NewsBytesAndroid “Gemini Live” Gets New Floating UI Rollout  jetstream.blog",
+    "published date": "Sat, 18 Apr 2026 19:46:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91aGw2dGxPcnJ2UGJNWFhTMndrT2tlcjl2LWhBT1FtYUxxbW5fTkxmMktlWGJSZU1YZVFzZ2VOQmZZUzZWTTNhQWlQRlZSTmcta09lcGhsblFXc2NMd2c?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.bgr.com",
-      "title": "bgr.com"
-    }
-  },
-  {
-    "title": "The Neo Geo+ Will Be \"Better Than Emulation\" Says Modding Legend Furrtek - Time Extension",
-    "description": "The Neo Geo+ Will Be \"Better Than Emulation\" Says Modding Legend Furrtek  Time ExtensionSNK's Neo Geo console remake works with original cartridges and HDMI  EngadgetThe new NEOGEO AES+ is the most ambitious retro console yet  Creative BloqSNK and Plaion Announce the Return of the King: The NEOGEO AES+ Ready For Holiday 2026  TechPowerUpNeoGeo AES+: SNK announces reissue of retro console without emulation  heise online",
-    "published date": "Sat, 18 Apr 2026 19:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcVpsZmVpSDFKTXRTSnBIMWwwWVVOZGhGYThFYjdWU2VGMW5MaF9tTEszM05QdFZMZFplMkhrRUpmMDlBTzBUNzA3aTFuY3FDSk1zcXZwYnU5LWREMlhVWlFLQmVZLU5QaktpSGJkQjBmU25uY3cxZDVrbjBxRHhsaDlTQVpaZFVMTTk2bmJhQ3hOYV9yX0k2Vkx4QVhuTE1LbGJGalpyclozeTdTRW02N1pGRGRjODg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.timeextension.com",
-      "title": "Time Extension"
+      "href": "https://9to5google.com",
+      "title": "9to5Google"
     }
   },
   {
@@ -350,23 +380,23 @@
     }
   },
   {
+    "title": "Ditch Your TV Remote For This All-In-One Free App - bgr.com",
+    "description": "Ditch Your TV Remote For This All-In-One Free App  bgr.com",
+    "published date": "Sat, 18 Apr 2026 14:47:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnODl3TjJTU2dFNDBBUVFVWXBjRXh2b1FpRF9wZGFRT2VOMG1FbllhZWgzckctVUZSdTgtVmRtOHpjNHQtemNBMWZ6cUJsOGNybmRvNlFpTHJTeWdpVS04VkcxamlWM3FYQ3ZON2NiSlpQbmI0QVZv?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bgr.com",
+      "title": "bgr.com"
+    }
+  },
+  {
     "title": "Wazdakka Gutsmek rules revealed – Launch your own Speedwaaagh! - Warhammer Community",
     "description": "Wazdakka Gutsmek rules revealed – Launch your own Speedwaaagh!  Warhammer Community",
-    "published date": "Sun, 19 Apr 2026 04:09:02 GMT",
+    "published date": "Sun, 19 Apr 2026 06:34:53 GMT",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZkNqU0U1SnJwRm82ak5VUk9qMEFOVUg5OXAyWHJsOTZjc0Q0V2l4djRBdHlHeHBCN1U1VmkwN3RIeEVlb21FWUVsOTJNRkN0TF9BX2RLQ01MbzBsT3pkeHEybVZtWGFFQ0ZUZktnRmZiOU1XTHZpYUJOV1YwMnVKQTBnWGhzTFlPREEyLXoxaEE0Njg3b25PVENGZkVqZGJCRmRtVzEzYURFZi1nblFJdk9VVEk3VkV5NlNJdA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.warhammer-community.com",
       "title": "Warhammer Community"
-    }
-  },
-  {
-    "title": "macOS 27 Will Mark the End of an Era - MacRumors",
-    "description": "macOS 27 Will Mark the End of an Era  MacRumors",
-    "published date": "Sat, 18 Apr 2026 13:45:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tMFZKd3dXR3RDYU1nR3Q2WWNqSTBsZ1dDeUlHNDVvTnlmaTZrTUNxUXIyVkxxUzROWk9SUnBoZ1VRQ2JsLUo1SlJGMTBvc0pCWVd6UGN0NkdXVnJWSEgydlNWcWp3ZGhDaHcyT2haUEJIX2lBbEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.macrumors.com",
-      "title": "MacRumors"
     }
   },
   {
@@ -380,16 +410,6 @@
     }
   },
   {
-    "title": "Gemini app bug removes features, reverts UI on Android - 9to5Google",
-    "description": "Gemini app bug removes features, reverts UI on Android  9to5Google",
-    "published date": "Sat, 18 Apr 2026 19:46:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91aGw2dGxPcnJ2UGJNWFhTMndrT2tlcjl2LWhBT1FtYUxxbW5fTkxmMktlWGJSZU1YZVFzZ2VOQmZZUzZWTTNhQWlQRlZSTmcta09lcGhsblFXc2NMd2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://9to5google.com",
-      "title": "9to5Google"
-    }
-  },
-  {
     "title": "25 Things That Screamed, \"They Must Be Rich!\" To People As Kids - BuzzFeed",
     "description": "25 Things That Screamed, \"They Must Be Rich!\" To People As Kids  BuzzFeed",
     "published date": "Fri, 17 Apr 2026 12:30:02 GMT",
@@ -400,23 +420,13 @@
     }
   },
   {
-    "title": "MacBook Neo has a chip supply problem, here’s how Apple could fix it - 9to5Mac",
-    "description": "MacBook Neo has a chip supply problem, here’s how Apple could fix it  9to5MacMac Neo should be the follow up to the huge success of the MacBook Neo  AppleInsiderAsk Paul: April 17 ⭐️  Thurrott.com$299 Mac mini Neo: Is This the End of the Budget Windows PC?  Geeky GadgetsThe MacBook Neo is selling out — act fast to secure the best-ever price at Amazon  Mashable",
-    "published date": "Sat, 18 Apr 2026 21:47:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWm8yUzdpdWZrUFVnOHVXdHA5cFVnY3ZGbExXTm14WjJuSkNVRldFWTQyM282NGxyaXZBR0FtZldIaUhFUjlHeXMyRkkxVXlQcG1sZ01zM2hwRzRBbUpobE96LWpyLUktMnVwMlFJR3lQWjQtZFlSSFZ4VUVCRmxWbkVUNU4xQjNzMHFRNXRNbFZqNXBmRjFFWW9RLVlLdW8?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "macOS 27 Will Mark the End of an Era - MacRumors",
+    "description": "macOS 27 Will Mark the End of an Era  MacRumors",
+    "published date": "Sat, 18 Apr 2026 13:45:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tMFZKd3dXR3RDYU1nR3Q2WWNqSTBsZ1dDeUlHNDVvTnlmaTZrTUNxUXIyVkxxUzROWk9SUnBoZ1VRQ2JsLUo1SlJGMTBvc0pCWVd6UGN0NkdXVnJWSEgydlNWcWp3ZGhDaHcyT2haUEJIX2lBbEE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://9to5mac.com",
-      "title": "9to5Mac"
-    }
-  },
-  {
-    "title": "How Body-In-White 911s Birthed The Seven-Figure Porsche Restomod - Jalopnik",
-    "description": "How Body-In-White 911s Birthed The Seven-Figure Porsche Restomod  Jalopnik",
-    "published date": "Sat, 18 Apr 2026 18:05:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jWGktTDlDMkUtNlhUcFBRb1pWM1R3aXNxY0o0WjJndTdXTGxScVMwTUlGaEFUMEFwUWM4R0dEeFI3ZWlHYTk0cjNJU01paEVYcEVtU0hEazhNVHZWQk1JNG8ybXZFaTdmZDVLRVdPNWJVZ0F3Z3FZVEJn?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.jalopnik.com",
-      "title": "Jalopnik"
+      "href": "https://www.macrumors.com",
+      "title": "MacRumors"
     }
   },
   {
@@ -450,23 +460,43 @@
     }
   },
   {
-    "title": "Spanish Scientists Developed New Membrane That Cuts Hydrogen Processing Time from 3 Days to 3 Hours - The Daily Galaxy",
-    "description": "Spanish Scientists Developed New Membrane That Cuts Hydrogen Processing Time from 3 Days to 3 Hours  The Daily Galaxy",
-    "published date": "Sat, 18 Apr 2026 13:15:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWjV1SEtxdkxZU1p5UERING9vaUNJQkpoaXh0T0xqOHdlNk9BUkdGS1RjbVBfbmVPS1VBaHFVdnFiZTdLcWl5YnpVbFVJbkwyN0lJRU5HN3VtMlIzVXEwUWUxc05vSzFLX1hKdTlXZkQxcHJ5T1dDeExUU3JuQmRDVg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "MacBook Neo has a chip supply problem, here’s how Apple could fix it - 9to5Mac",
+    "description": "MacBook Neo has a chip supply problem, here’s how Apple could fix it  9to5MacMac Neo should be the follow up to the huge success of the MacBook Neo  AppleInsiderAsk Paul: April 17 ⭐️  Thurrott.com$299 Mac mini Neo: Is This the End of the Budget Windows PC?  Geeky GadgetsThe MacBook Neo is selling out — act fast to secure the best-ever price at Amazon  Mashable",
+    "published date": "Sat, 18 Apr 2026 21:47:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWm8yUzdpdWZrUFVnOHVXdHA5cFVnY3ZGbExXTm14WjJuSkNVRldFWTQyM282NGxyaXZBR0FtZldIaUhFUjlHeXMyRkkxVXlQcG1sZ01zM2hwRzRBbUpobE96LWpyLUktMnVwMlFJR3lQWjQtZFlSSFZ4VUVCRmxWbkVUNU4xQjNzMHFRNXRNbFZqNXBmRjFFWW9RLVlLdW8?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://dailygalaxy.com",
-      "title": "The Daily Galaxy"
+      "href": "https://9to5mac.com",
+      "title": "9to5Mac"
     }
   },
   {
-    "title": "“Looking into this” as Xbox’s new CEO steps in after an Insider update reportedly bricks a Series S and raises fresh concerns - Windows Central",
-    "description": "“Looking into this” as Xbox’s new CEO steps in after an Insider update reportedly bricks a Series S and raises fresh concerns  Windows Central",
-    "published date": "Sat, 18 Apr 2026 13:45:22 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQWlRQM2MyOE90eE8wZTVJLTNsbDBWeFFNMXFWNzI4dFN6SEFTYjF6M08tQVhsb0l2eTZJMEpXMnJnU3FiMHJZVUVkV1F3c3lrR2hrRFhRS1VuZWpXSXlEUTRxWnNKMmdZMnZmMHAzTDROcnA3eUZDQ19MUEtiZXlkOHdzbXhqQk1RMnJzdEJUck5kaktBWnFRck93Mk1zMFRNM2dVREFFcW8zbTVvVV9ocDVvdF9SQ0F1MU9QVzZLdDdsUkVjN1l2bzRTWnI2enh0RkRHQ0FockRlVnA2eEtjQnNxdkJsWkhYQktBVzF3MV9NSzVOUk4zYQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "How Body-In-White 911s Birthed The Seven-Figure Porsche Restomod - Jalopnik",
+    "description": "How Body-In-White 911s Birthed The Seven-Figure Porsche Restomod  Jalopnik",
+    "published date": "Sat, 18 Apr 2026 18:05:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jWGktTDlDMkUtNlhUcFBRb1pWM1R3aXNxY0o0WjJndTdXTGxScVMwTUlGaEFUMEFwUWM4R0dEeFI3ZWlHYTk0cjNJU01paEVYcEVtU0hEazhNVHZWQk1JNG8ybXZFaTdmZDVLRVdPNWJVZ0F3Z3FZVEJn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.jalopnik.com",
+      "title": "Jalopnik"
+    }
+  },
+  {
+    "title": "Reddit users highlight 10 open‑source apps that run smoothly on Windows 11 and offer real value for everyday tasks - Windows Central",
+    "description": "Reddit users highlight 10 open‑source apps that run smoothly on Windows 11 and offer real value for everyday tasks  Windows Central",
+    "published date": "Sat, 18 Apr 2026 14:29:56 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM1lMU29uZnJqdTlOakFXdVhVSHdtNHgxcGRqR0tTeE9GUE9WcGNYVElzZlNaV1RZdURFdWQwODFJUU1DN1JuU2JRUEtsQUZ5Y1A3Q1BZZ1V2UjZuWU0wVWpWRWREX25LSXZRakp1QTh0VmZUajFuZVhHM2h0YlpSaF82TVZJZno1SWxSWmlzT1lkR2VuZVgyS1FkMGt3WVl6TTdjenNZMzN6anM?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.windowscentral.com",
       "title": "Windows Central"
+    }
+  },
+  {
+    "title": "How Long To Beat Mouse: P.I. For Hire - All Missions List - GameSpot",
+    "description": "How Long To Beat Mouse: P.I. For Hire - All Missions List  GameSpotMouse: P.I. For Hire Review - A Monochrome Mystery Worth Solving  Game InformerMouse PI For Hire Review: New Classic Cartoon FPS Is Very Good  KotakuMouse: PI For Hire - Bandel's Laboratory walkthrough  Rock Paper ShotgunMOUSE: P.I. For Hire review  Tech-Gaming",
+    "published date": "Sat, 18 Apr 2026 16:04:25 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMG0yb1NvUVVQQ2NQTzlweEx1Z1dGNnBwTkZiNDZMdUVqWklLMmdhOWFWUkU3OTE5TzFDS0hfRmU2QnNGeHZNR1NIdG5HQjUwbzd4aU5sVkFWbDhfQnlYdHZZOTBGeFp1emtlckgzblJPa0FaeEFiX0RxNXozdDJGR3lNalU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.gamespot.com",
+      "title": "GameSpot"
     }
   },
   {
@@ -490,26 +520,6 @@
     }
   },
   {
-    "title": "Metroid Prime Remastered Studio 'Iron Galaxy' Announces More Layoffs - Nintendo Life",
-    "description": "Metroid Prime Remastered Studio 'Iron Galaxy' Announces More Layoffs  Nintendo LifeIron Galaxy Studios lays off 'a number' of workers as it reduces company size  Game DeveloperIron Galaxy Studios Lays Off Staff, Blames \"Current Market Conditions\"  TechPowerUpVideo Game Industry Woes Continue With More Mass Layoffs At Iron Galaxy  GameSpotIron Galaxy Slashes More Developers In An Attempt To Survive  Kotaku",
-    "published date": "Sun, 19 Apr 2026 01:25:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYlE2N2ZESlBwZzN1SElUV0Zkb3hSTUNZRTdBdW5qX3E5NUwtN3k2SnJXSklCV0RhRFNmWFJNTUR2ZkxFa09qeG5YclhmMTE1R01NRVZUb3BVM19wQWZZR21KeEpYNVJIcExZRVJPdTdVWkpPbnY3ZWxNM2dpZXFxTDl1R3ROT0xTbTgyRlRUVUxBQko3TXlza3hSd3owTVMtQVBxLWRuYmpyRVFK?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.nintendolife.com",
-      "title": "Nintendo Life"
-    }
-  },
-  {
-    "title": "How Long To Beat Mouse: P.I. For Hire - All Missions List - GameSpot",
-    "description": "How Long To Beat Mouse: P.I. For Hire - All Missions List  GameSpotMouse: P.I. For Hire Review - A Monochrome Mystery Worth Solving  Game InformerMouse PI For Hire Review: New Classic Cartoon FPS Is Very Good  KotakuMouse: PI For Hire - Bandel's Laboratory walkthrough  Rock Paper ShotgunMOUSE: P.I. For Hire review  Tech-Gaming",
-    "published date": "Sat, 18 Apr 2026 16:04:25 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMG0yb1NvUVVQQ2NQTzlweEx1Z1dGNnBwTkZiNDZMdUVqWklLMmdhOWFWUkU3OTE5TzFDS0hfRmU2QnNGeHZNR1NIdG5HQjUwbzd4aU5sVkFWbDhfQnlYdHZZOTBGeFp1emtlckgzblJPa0FaeEFiX0RxNXozdDJGR3lNalU?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.gamespot.com",
-      "title": "GameSpot"
-    }
-  },
-  {
     "title": "I’m learning to DJ from my bedroom — here’s everything you need if you want to do it too - NBC News",
     "description": "I’m learning to DJ from my bedroom — here’s everything you need if you want to do it too  NBC News",
     "published date": "Fri, 17 Apr 2026 16:25:55 GMT",
@@ -520,26 +530,6 @@
     }
   },
   {
-    "title": "Common cleaning sponge found to release trillions of microplastic fibers - ScienceDaily",
-    "description": "Common cleaning sponge found to release trillions of microplastic fibers  ScienceDaily",
-    "published date": "Sat, 18 Apr 2026 13:57:49 GMT",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBybGpmU2tDQXF0QW5kZk5TTDR4X3VQeUpIR1RBRjF4QXFGWGZTTUh5STBiRHlFcWhkVDgtWGFXSy16dm51ZF9xRW1KNVRSdjZYQVF3ODJzV0RFZ3Vpbm1HNjhtYXgxY3hKYlN2LTRXMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.sciencedaily.com",
-      "title": "ScienceDaily"
-    }
-  },
-  {
-    "title": "Costco Is Randomly Selling Big Switch 2 Games For Just $30 - Kotaku",
-    "description": "Costco Is Randomly Selling Big Switch 2 Games For Just $30  Kotaku",
-    "published date": "Sat, 18 Apr 2026 14:45:23 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16OE4yNEFhT29HV240TllNajVJMDNaNDNLNmM5dXduSnJ1RjU5SHd6YUpFQWQwSVNBdlU1aGxOd1k4Q0EtMUtHTm1VMGtfRUM0UnlPUkdqS2VyU3FxLVVNZXhqeng2bTAwYjY5WHBpVk15bVFWNmJXZzJB?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://kotaku.com",
-      "title": "Kotaku"
-    }
-  },
-  {
     "title": "Are Amazfit fitness trackers a good deal or a cheap headache? - NBC News",
     "description": "Are Amazfit fitness trackers a good deal or a cheap headache?  NBC News",
     "published date": "Fri, 17 Apr 2026 20:10:11 GMT",
@@ -547,6 +537,36 @@
     "publisher": {
       "href": "https://www.nbcnews.com",
       "title": "NBC News"
+    }
+  },
+  {
+    "title": "Spanish Scientists Developed New Membrane That Cuts Hydrogen Processing Time from 3 Days to 3 Hours - The Daily Galaxy",
+    "description": "Spanish Scientists Developed New Membrane That Cuts Hydrogen Processing Time from 3 Days to 3 Hours  The Daily Galaxy",
+    "published date": "Sat, 18 Apr 2026 13:15:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWjV1SEtxdkxZU1p5UERING9vaUNJQkpoaXh0T0xqOHdlNk9BUkdGS1RjbVBfbmVPS1VBaHFVdnFiZTdLcWl5YnpVbFVJbkwyN0lJRU5HN3VtMlIzVXEwUWUxc05vSzFLX1hKdTlXZkQxcHJ5T1dDeExUU3JuQmRDVg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://dailygalaxy.com",
+      "title": "The Daily Galaxy"
+    }
+  },
+  {
+    "title": "Metroid Prime Remastered Studio 'Iron Galaxy' Announces More Layoffs - Nintendo Life",
+    "description": "Metroid Prime Remastered Studio 'Iron Galaxy' Announces More Layoffs  Nintendo LifeIron Galaxy Studios lays off 'a number' of workers as it reduces company size  Game DeveloperIron Galaxy Studios Lays Off Staff, Blames \"Current Market Conditions\"  TechPowerUpVideo Game Industry Woes Continue With More Mass Layoffs At Iron Galaxy  GameSpotIron Galaxy Slashes More Developers In An Attempt To Survive  Kotaku",
+    "published date": "Sun, 19 Apr 2026 01:25:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYlE2N2ZESlBwZzN1SElUV0Zkb3hSTUNZRTdBdW5qX3E5NUwtN3k2SnJXSklCV0RhRFNmWFJNTUR2ZkxFa09qeG5YclhmMTE1R01NRVZUb3BVM19wQWZZR21KeEpYNVJIcExZRVJPdTdVWkpPbnY3ZWxNM2dpZXFxTDl1R3ROT0xTbTgyRlRUVUxBQko3TXlza3hSd3owTVMtQVBxLWRuYmpyRVFK?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nintendolife.com",
+      "title": "Nintendo Life"
+    }
+  },
+  {
+    "title": "“Looking into this” as Xbox’s new CEO steps in after an Insider update reportedly bricks a Series S and raises fresh concerns - Windows Central",
+    "description": "“Looking into this” as Xbox’s new CEO steps in after an Insider update reportedly bricks a Series S and raises fresh concerns  Windows Central",
+    "published date": "Sat, 18 Apr 2026 13:45:22 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQWlRQM2MyOE90eE8wZTVJLTNsbDBWeFFNMXFWNzI4dFN6SEFTYjF6M08tQVhsb0l2eTZJMEpXMnJnU3FiMHJZVUVkV1F3c3lrR2hrRFhRS1VuZWpXSXlEUTRxWnNKMmdZMnZmMHAzTDROcnA3eUZDQ19MUEtiZXlkOHdzbXhqQk1RMnJzdEJUck5kaktBWnFRck93Mk1zMFRNM2dVREFFcW8zbTVvVV9ocDVvdF9SQ0F1MU9QVzZLdDdsUkVjN1l2bzRTWnI2enh0RkRHQ0FockRlVnA2eEtjQnNxdkJsWkhYQktBVzF3MV9NSzVOUk4zYQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.windowscentral.com",
+      "title": "Windows Central"
     }
   },
   {
@@ -580,6 +600,16 @@
     }
   },
   {
+    "title": "Common cleaning sponge found to release trillions of microplastic fibers - ScienceDaily",
+    "description": "Common cleaning sponge found to release trillions of microplastic fibers  ScienceDaily",
+    "published date": "Sat, 18 Apr 2026 13:57:49 GMT",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBybGpmU2tDQXF0QW5kZk5TTDR4X3VQeUpIR1RBRjF4QXFGWGZTTUh5STBiRHlFcWhkVDgtWGFXSy16dm51ZF9xRW1KNVRSdjZYQVF3ODJzV0RFZ3Vpbm1HNjhtYXgxY3hKYlN2LTRXMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.sciencedaily.com",
+      "title": "ScienceDaily"
+    }
+  },
+  {
     "title": "New South LA Dunkin’ Donuts won’t let diners inside as customer trashes store - Yahoo",
     "description": "New South LA Dunkin’ Donuts won’t let diners inside as customer trashes store  Yahoo",
     "published date": "Fri, 17 Apr 2026 17:46:56 GMT",
@@ -587,6 +617,16 @@
     "publisher": {
       "href": "https://www.yahoo.com",
       "title": "Yahoo"
+    }
+  },
+  {
+    "title": "Costco Is Randomly Selling Big Switch 2 Games For Just $30 - Kotaku",
+    "description": "Costco Is Randomly Selling Big Switch 2 Games For Just $30  Kotaku",
+    "published date": "Sat, 18 Apr 2026 14:45:23 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16OE4yNEFhT29HV240TllNajVJMDNaNDNLNmM5dXduSnJ1RjU5SHd6YUpFQWQwSVNBdlU1aGxOd1k4Q0EtMUtHTm1VMGtfRUM0UnlPUkdqS2VyU3FxLVVNZXhqeng2bTAwYjY5WHBpVk15bVFWNmJXZzJB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://kotaku.com",
+      "title": "Kotaku"
     }
   },
   {
@@ -600,16 +640,6 @@
     }
   },
   {
-    "title": "The travellers mapping their holiday by the stars - BBC",
-    "description": "The travellers mapping their holiday by the stars  BBC",
-    "published date": "Fri, 17 Apr 2026 13:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZXZPWmVGclMxa3NlYjJZSzFYYmY5aFR1NEQ2UU1pYTF0NXZZb0RvQzlFQW1GTlRwcUtTRmZwWjNVRm5GVnpGVU5fcHd4TFo0aDRJZ01hakVRRzlCNVRJTW9wSWhwQi1kSWl0emVxYW5GdzdIbmlkWlFqd1pOSzlrSmk0c0dLRlRDZ0NzeGFtWmJYa1A4?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.bbc.com",
-      "title": "BBC"
-    }
-  },
-  {
     "title": "Kingdom Come Deliverance 2 Director Says It Did Gay Romance \"Right\" By Not Going \"Woke\" - GameSpot",
     "description": "Kingdom Come Deliverance 2 Director Says It Did Gay Romance \"Right\" By Not Going \"Woke\"  GameSpotView Full Coverage on Google News",
     "published date": "Fri, 17 Apr 2026 20:39:50 GMT",
@@ -620,13 +650,23 @@
     }
   },
   {
-    "title": "69 Switch 1 & 2 Games To Check Out In Nintendo's 'Spotlight Sale' (North America) - Nintendo Life",
-    "description": "69 Switch 1 & 2 Games To Check Out In Nintendo's 'Spotlight Sale' (North America)  Nintendo LifeSave up to 90% on Spike Chunsoft Games During the Spike Chunsoft Spring Sale on Nintendo eShop April 17 to April 29, 2026  Spike ChunsoftBandai Namco kicks off Nintendo Switch 2 and Switch sale with Dragon Ball: Sparking Zero, Ni no Kuni, and more at new low prices  Nintendo Everything2026 Devolver Digital April Sale Discounts 18 Nintendo Switch Games  Nintendo InsiderNintendo eShop game sale from $12: Dave The Diver for Switch 2, Hades II, much more  9to5Toys",
-    "published date": "Sat, 18 Apr 2026 15:28:31 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdzVXTkRQeExLVmhkTDRpbkF0UkxjalpPRGp1ZEZ6MURoVnZWNEVFVmRqTjE2aXhaT2wtcDBvZmlKSmtUajJVQmdaMW9rWm9fSXpkVGVtNWIwYkJTWXJXYmIzSUNTMk9LWC1qSjhuM2U1T2owOVNYYWktMzhGc2J5UzdWR1U0ZUZnZ0otZkluQU53WTJzWUd1NDQyN1pCRGdRT2lNZkFBUkk1X2NKTFZSLUl1MEU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "The travellers mapping their holiday by the stars - BBC",
+    "description": "The travellers mapping their holiday by the stars  BBC",
+    "published date": "Fri, 17 Apr 2026 13:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZXZPWmVGclMxa3NlYjJZSzFYYmY5aFR1NEQ2UU1pYTF0NXZZb0RvQzlFQW1GTlRwcUtTRmZwWjNVRm5GVnpGVU5fcHd4TFo0aDRJZ01hakVRRzlCNVRJTW9wSWhwQi1kSWl0emVxYW5GdzdIbmlkWlFqd1pOSzlrSmk0c0dLRlRDZ0NzeGFtWmJYa1A4?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.nintendolife.com",
-      "title": "Nintendo Life"
+      "href": "https://www.bbc.com",
+      "title": "BBC"
+    }
+  },
+  {
+    "title": "Bandai Namco kicks off Nintendo Switch 2 and Switch sale with Dragon Ball: Sparking Zero, Ni no Kuni, and more at new low prices - Nintendo Everything",
+    "description": "Bandai Namco kicks off Nintendo Switch 2 and Switch sale with Dragon Ball: Sparking Zero, Ni no Kuni, and more at new low prices  Nintendo EverythingSave up to 90% on Spike Chunsoft Games During the Spike Chunsoft Spring Sale on Nintendo eShop April 17 to April 29, 2026  Spike Chunsoft2026 Devolver Digital April Sale Discounts 18 Nintendo Switch Games  Nintendo InsiderNintendo eShop game sale from $12: Dave The Diver for Switch 2, Hades II, much more  9to5Toys69 Switch 1 & 2 Games To Check Out In Nintendo's 'Spotlight Sale' (North America)  Nintendo Life",
+    "published date": "Sat, 18 Apr 2026 04:53:27 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPejJhVTRRQi1NeXMzeVZFSXJnV2Q3QjQ1SzhWckdJekdzMThTNks4aW1MQ0FTMHpIeUZYTXJseVNpUkp6X2Zldks5SUVZVE9EY3RpelVvTUhob3lMR2V6NW9YbnlWT3RkYlRhQWROVk00NURKako0ekRZVFFYMnZSbnBvcXc3d0dGZ1ZaVnJDZlRxTGVISlVlUzlsb0Q5WGFGNkVrZjFCQUw5bFNwdUhzdHhOcHRfV2dMcGQ0OVNVUVBIbV9DMkJZdFVTQk9mcy1PMFRpWTlZUjVBeGdUV2R5WFZDcVpzRTFNU3JuU3ln?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://nintendoeverything.com",
+      "title": "Nintendo Everything"
     }
   },
   {
@@ -640,18 +680,8 @@
     }
   },
   {
-    "title": "The Design Issue Star Trek's Starship Enterprise Could Never Escape - bgr.com",
-    "description": "The Design Issue Star Trek's Starship Enterprise Could Never Escape  bgr.com",
-    "published date": "Fri, 17 Apr 2026 14:17:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWnQyUTlmZDViS1JheEtiNmVRQmk0MnlNS29UZl8tLWJXdWlkWVVMeU96STBqVkY2WlI0dkJKeFREandRc2ZEbTBqMXZuaWRBR0JULWE2U2JiSDQtcEREd3M2SEpjR1RwWmtVZjFBOERBUmlZSDc4bDVMMk81RVFZTXE0OEpXanZWOVNVeC1tdHVGWjc5?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.bgr.com",
-      "title": "bgr.com"
-    }
-  },
-  {
     "title": "Meta’s AI spending spree is helping make its Quest headsets more expensive - Ars Technica",
-    "description": "Meta’s AI spending spree is helping make its Quest headsets more expensive  Ars TechnicaAn Update on Meta Quest Pricing - Meta | Meta Store  meta.comMeta Is Increasing The Price Of Quest 3 & Quest 3S  UploadVRMeta to raise Quest VR headset prices in US on rising component costs  ReutersMeta Quest headset prices are going up on April 19  Engadget",
+    "description": "Meta’s AI spending spree is helping make its Quest headsets more expensive  Ars TechnicaAn Update on Meta Quest Pricing - Meta | Meta Store  meta.comWhere To Buy A Meta Quest 3 VR Headset Before The Prices Go Up This Week  GameSpotMeta blames RAM shortage for $100 Quest 3 price hike  The VergeMeta to raise Quest VR headset prices in US on rising component costs  Reuters",
     "published date": "Fri, 17 Apr 2026 16:23:20 GMT",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT2d5ak9hQmlTZkpESlVHY1RyMGtrcmJMaER5V01Ga3BnOXBCMy1aaUc5eGhXaTBfN3FwMi1uYW1fU1VHZ1dTdzJJVTFsZDRXTWRiUVhqMjh1U3JVMmdZS0E1N25Xb1ViT3lwSU5rUHpYOHlTS2hwZnZwSjlYdkpFSHhfQzFTbVY2MHZMd2cteVJPUXNjRzhGaWg5Q2haWlo0VXhZNXJ1UzlnQ0ZEeWc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -660,43 +690,13 @@
     }
   },
   {
-    "title": "My Mom Walked 30 Miles in the Comfy, Cool-Girl Sneakers Amal Clooney, 48, and Jennifer Lawrence, 35, Wear - instyle.com",
-    "description": "My Mom Walked 30 Miles in the Comfy, Cool-Girl Sneakers Amal Clooney, 48, and Jennifer Lawrence, 35, Wear  instyle.com",
-    "published date": "Sat, 18 Apr 2026 11:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE95RkFpclFEWjZ2NEliYXd6bGNMOWloQzRaak5RWnd2WmJ0aFU4R0M3YU5BeXhQdnNXTGZXZlM2V1FkdktFSzZYSWUzcDdEbDMxbTM1cWhxb05Qc21rRWVMU2lZWmRlOEJzYnpVNXZOSy1vbEdfck9TczFSTFI?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "The Design Issue Star Trek's Starship Enterprise Could Never Escape - bgr.com",
+    "description": "The Design Issue Star Trek's Starship Enterprise Could Never Escape  bgr.com",
+    "published date": "Fri, 17 Apr 2026 14:17:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWnQyUTlmZDViS1JheEtiNmVRQmk0MnlNS29UZl8tLWJXdWlkWVVMeU96STBqVkY2WlI0dkJKeFREandRc2ZEbTBqMXZuaWRBR0JULWE2U2JiSDQtcEREd3M2SEpjR1RwWmtVZjFBOERBUmlZSDc4bDVMMk81RVFZTXE0OEpXanZWOVNVeC1tdHVGWjc5?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.instyle.com",
-      "title": "instyle.com"
-    }
-  },
-  {
-    "title": "My Mac felt slow, but hardware wasn’t the problem. Here’s how I fixed it. - Cult of Mac",
-    "description": "My Mac felt slow, but hardware wasn’t the problem. Here’s how I fixed it.  Cult of Mac",
-    "published date": "Sat, 18 Apr 2026 13:01:42 GMT",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qT2JGQlNJeUI5R2oxb1gwcDM4YVNzenJmUm1sOFVOUlk2Y01icy1EUGdYY1M3T3Y5MTh5eHg5WWh5X0hIVmRxUVg5cjY4VHJWTkYwV0d4U0dxZ2VETXFib1hZM2g3Vnh2dlVJUDRB?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cultofmac.com",
-      "title": "Cult of Mac"
-    }
-  },
-  {
-    "title": "Canon’s Retro Pivot: Is the EOS R8 Mark II the Retro Camera We've Been Waiting For? - Canon Rumors",
-    "description": "Canon’s Retro Pivot: Is the EOS R8 Mark II the Retro Camera We've Been Waiting For?  Canon Rumors",
-    "published date": "Sat, 18 Apr 2026 07:50:09 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSEk5YmswdXdLMjFkQzRYUGR2ZmQ2Unl0Wlp5VVRNS1pIX1J3VEozYjJSYkNUazVSdUJla1htSjBrNWFFQXJKdTNaTVFXNFJBWHRNRXp5NEdKc1RqR29uZlhmU0NlVjZvOXNxemZhajRjaGtTUEpqVjhVU3Y4QWVZUGQtZFNBRjg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.canonrumors.com",
-      "title": "Canon Rumors"
-    }
-  },
-  {
-    "title": "Samsung says Galaxy S26 vertical camera is a ‘core identity’ — it’s also a core problem - 9to5Google",
-    "description": "Samsung says Galaxy S26 vertical camera is a ‘core identity’ — it’s also a core problem  9to5Google‘Technically Hard To Do’: Why Samsung’s Galaxy S26 Ultra Privacy Display Is A Global First  ForbesThe Galaxy S26 Ultra is better than the iPhone. Here’s why it still can’t win  MacworldSamsung says that these design choices are what makes a phone a Galaxy phone  PhoneArenaPhone Comparisons: Samsung Galaxy S26 vs OnePlus 15  Android Headlines",
-    "published date": "Sat, 18 Apr 2026 12:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbG5MZFhqdUF6djhTcm93czhaSVJ0X25IbUFVWlpVOGVyYVVkY2hmeGI0ZmRWMENjMWxubllVd0EyUUp0dUVYZldESWRCX3VoaG5BdEpDbUdxMUI5Y2xTZ3FWYlV4YjZ2RXFHQTZiQ21fTFVYbXFGMklxY3RsQUpQc0lhVGRLejFPZy1kRDRqbEFIemd4eTFReGlGc3M?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://9to5google.com",
-      "title": "9to5Google"
+      "href": "https://www.bgr.com",
+      "title": "bgr.com"
     }
   }
 ]
