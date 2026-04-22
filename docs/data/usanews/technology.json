@@ -1,27 +1,7 @@
 [
   {
-    "title": "Hands-on with ChatGPT's powerful new image engine - Axios",
-    "description": "Hands-on with ChatGPT's powerful new image engine  AxiosChatGPT’s new Images 2.0 model is surprisingly good at generating text  TechCrunchOpenAI Beefs Up ChatGPT’s Image Generation Model  WIREDChatGPT Images 2.0 is better at rendering non-Latin text  EngadgetOpenAI Takes Aim at Google with New Image Model  The Information",
-    "published date": "Wed, 22 Apr 2026 09:30:13 GMT",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBQngzdnQ3Q2JpNllWNUsyVEtiQUlUcUNGMFIzWUdjcm9HWGhGU2Y3bWZ1NU1ZTVFabmprZmcyNmNScEgzUUhJWU8wSWRjeU9IZVJHSy1SbjJlY2lYUE9GZXhNZTEtVUtxWmJLR3VWOUQzSGVMeVpQanZyVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.axios.com",
-      "title": "Axios"
-    }
-  },
-  {
-    "title": "Microsoft cuts Xbox Game Pass price, to remove 'Call of Duty' day one inclusions - Reuters",
-    "description": "Microsoft cuts Xbox Game Pass price, to remove 'Call of Duty' day one inclusions  ReutersXbox Game Pass Ultimate Price Update  Xbox WireXbox cuts prices for Game Pass but ends day-one Call of Duty access  BBCMicrosoft cuts Game Pass subscription prices after new Xbox CEO promises to 'recommit' to gamers  CNBCXbox Game Pass ‘has become too expensive,’ says Microsoft’s new gaming chief in leaked memo  The Verge",
-    "published date": "Tue, 21 Apr 2026 17:31:43 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWmVpYmNua0U0RV9xSFdlUXhMUnRpdk1Gc1VUN0dZcW9QdzZGY3VtVHZySjdjaHVDcjgtMFAzM3ExMWI5SmxQZjlHQmtZb29jOThSaUNWb2hBQVlheDd6dy1RMmxwenRCQnc1Ti1od2JWQ01zOEdaN0JVc3dZWFVxejhTS1JjbkdxNmNBSjB0TU1oWFd4N3M2QkFvaWlfbzdGV1c1OWRLUDVoZ18yVF9rUkszUlVCUnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.reuters.com",
-      "title": "Reuters"
-    }
-  },
-  {
     "title": "Framework’s first eGPUs turn its laptop into a desktop PC - The Verge",
-    "description": "Framework’s first eGPUs turn its laptop into a desktop PC  The VergeFramework announces Laptop 13 Pro, ‘the MacBook Pro for Linux users’  The Verge‘The MacBook Pro for Linux users’ both copies and contrasts with Apple  9to5MacFramework’s CEO on the RAM crisis and creating a “MacBook Pro for Linux users”  Ars TechnicaFramework Has a Better, More Take-Apartable Laptop  WIRED",
+    "description": "Framework’s first eGPUs turn its laptop into a desktop PC  The VergeFramework announces Laptop 13 Pro, ‘the MacBook Pro for Linux users’  The VergeFramework’s CEO on the RAM crisis and creating a “MacBook Pro for Linux users”  Ars Technica‘The MacBook Pro for Linux users’ both copies and contrasts with Apple  9to5MacFramework Has a Better, More Take-Apartable Laptop  WIRED",
     "published date": "Tue, 21 Apr 2026 18:07:24 GMT",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQk5PbF9SX2IzS2Y3Z2ZkUUVTYlZPcDZORzc1Zm1TTkRkdklLTjVxbDlpb2g2dWs3Xy1EZ1AyR2J1UlhjeHdBMjcyVUFFVTgxbVVuaHNCN0NWYXBoSzctU2hzZzB5d2JBengzcmY0Qm84bG02MVVCVnFsSmpleUxGMzVqR0RhUXM?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -30,38 +10,48 @@
     }
   },
   {
-    "title": "Google Wallet adds Live Update for flight tracking - 9to5Google",
-    "description": "Google Wallet adds Live Update for flight tracking  9to5GoogleGoogle Wallet just got a big upgrade ahead of the busy travel season  Android PoliceGoogle Wallet now lets you track flights from the lock screen, here's what it looks like  Android AuthorityGoogle Wallet's latest update might just make you uninstall your favorite Airline app  PhoneArenaGoogle Wallet launches live updates for real time flight notifications  NewsBytes",
-    "published date": "Tue, 21 Apr 2026 20:55:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5IVldvVlFiR1g3TEtwQzJPQ2VWand4ZUlFYlI4ZW83MVFVRXNQdTRVUk93anFnejMxbkdYUTgwaEwwcVltSGVNVm9vX1d2aWpoOHdDb0hoV0hPbmM3UFhQa0NFeTY2U0VtQjk2ZXBWcG9RRkZNRlRR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Google announces ‘Workspace Intelligence’ and TPU 8t + 8i chips - 9to5Google",
+    "description": "Google announces ‘Workspace Intelligence’ and TPU 8t + 8i chips  9to5GoogleGoogle Meet adding in-person ‘Take Notes for me’ and Drive ‘projects’  9to5GoogleGoogle debuts Workspace Intelligence for Gemini Workspace  TestingCatalogGemini can now create documents, slides, meetings and more in chat  Digital TrendsWith Workspace Intelligence, Google’s productivity suite gets more AI smarts  SiliconANGLE",
+    "published date": "Wed, 22 Apr 2026 12:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0dDN2ZlZKOFZwclYwa0J4emFMRVB0S0QwM2ZkZjVuNXFTdVA1SWF5MDdLNld5UW5iYjQxakRpd2pBVl9Ramt5NDl3bktPcTdlN0ZkbXRpNXQ3WE5OcjYwb050VFd3Z195eHl2RHZtMERNUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://9to5google.com",
       "title": "9to5Google"
     }
   },
   {
-    "title": "'Pull the rug out': Mark Gurman explains Apple’s plan to launch smart glasses and stop Meta’s momentum - Tom's Guide",
-    "description": "'Pull the rug out': Mark Gurman explains Apple’s plan to launch smart glasses and stop Meta’s momentum  Tom's GuideApple’s smart glasses could arrive in 2027 – Here’s what to expect  MacworldHere’s How Apple (AAPL) Plans to Compete with Meta (META) In Smart Glasses  Yahoo FinanceSmart glasses race heats up as Apple prepares for late 2026 entry  AppleInsider4 Things To Know About Apple Glasses  Forbes",
-    "published date": "Mon, 20 Apr 2026 15:02:33 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZHllQmd3OXlwZm44UlI3clFZbG1zeGhhMWRCN3dpekpBMkdEcDh2bXl0QWF5TkFjb1laRG13NWNlakZtOVdwR2VpaWlUWkc1andFRVZHVVdEdzYzZWJacmlQbmxlNmIxdUF3eUFsUC1ZVWNnUlpoRUZjX0diellYUGVmbjVubF9SVHlXbHd3SjdOMFc4dFFzemNXRWVUSmJMSDRiNWdxWEszcEVEemFMS3E2dmZnVmpoamRnV1BhOGlLcnl6d3pRdGZrSUtaSEZtODlFNjFDWU9KRGh2R3pPLUhUTWpWN2hESlhMbA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "\"Not surprising at all\" – analysts see Xbox Game Pass price cut as inevitable shift that will drive subscription growth in 2026 - GamesIndustry.biz",
+    "description": "\"Not surprising at all\" – analysts see Xbox Game Pass price cut as inevitable shift that will drive subscription growth in 2026  GamesIndustry.bizXbox Game Pass Ultimate Price Update  Xbox WireCall of Duty never made much sense for Xbox Game Pass  The VergeMicrosoft cuts Game Pass subscription prices after new Xbox CEO promises to 'recommit' to gamers  CNBCThe Sharma memo  SuperJoost Playlist",
+    "published date": "Wed, 22 Apr 2026 09:47:27 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTjBjVzBjUmxUYVdHQk41bUlRZTNvMXlfTndjbzVReDlKbnBPLVFuaHN4ODdncV9QeDNJcWNRdW5ZUGJWLUFXZHB3M0gwRHQ2TDNFOWRUcHlPZGVhT2ZkNGdRTFoxT0M0MWxqc2xNeElRcWxraDlXOURjczE1YVpmZ19pSXczeUlCUFNURVJYUVRoTE01Z1VfdjNJWURKN2hUVDRkWVF2VF9OUGpCbWpsVGhVWHBJQ09EWkN2M2M5UmlzcjMxQmVPZ2o4YzFMdlNaSUVNMUxzelZGZm5UZ0k5N3ZWbi1tVktP?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.tomsguide.com",
-      "title": "Tom's Guide"
+      "href": "https://www.gamesindustry.biz",
+      "title": "GamesIndustry.biz"
     }
   },
   {
-    "title": "Google now lets you have full conversations with Gemini for Home - Engadget",
-    "description": "Google now lets you have full conversations with Gemini for Home  EngadgetMake chats more natural and efficient with Continued Conversation, now in Gemini for Home  blog.googleYou can now talk to Google Home again without saying “Hey Google” every time.  The VergeGemini for Google Home Just Got Way More Contextual  Droid LifeGoogle just gave you the best Alexa+ feature for free—but you have to turn it on yourself  How-To Geek",
-    "published date": "Tue, 21 Apr 2026 16:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVGMxQnpIWEJTLTNmcXUzQkVibUJVVktiRElWbEVjQkdlV1JNNmxwN0YxYkF0STJ6MTgySlhuZVRXS01TMmNBMFRkbl9pRHQ3SjVWdGdpcWV2c2I1Z2RTZ0F2QnZRRlk4a2dMVmxMRjU4VnFmY1Y3UkVpVDd3cmRqZkZQMkJkODV4UTBMYmNaV2xCajFyU21nS3NQdl84MmVYblpOekEyOUc3OFhRQnhGQUNwREp4QkhCSnNseg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "iPhone 18 Pro to Kick Off Apple's Four-Part Camera Upgrade Plan - MacRumors",
+    "description": "iPhone 18 Pro to Kick Off Apple's Four-Part Camera Upgrade Plan  MacRumorsHow iPhone 18 Pro's rumored variable aperture will supercharge your photography  AppleInsiderApple has begun manufacturing the new camera components for the iPhone 18 Pro  The Jerusalem PostSupply Chain Leaks Confirm iPhone 18 Pro To Receive Radical Camera Upgrade  ForbesiPhone 18 Pro Max camera upgrade raises more questions than answers  Báo VietNamNet",
+    "published date": "Wed, 22 Apr 2026 12:09:11 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd2JfMnAzNkFFSkVYZENES1dFaHdBOUhQb3FpNWxoUHFTcnFvODhSbS03UWlmdWdNb1NaN2dINldzVDB2Rnh6UFhzQkpESVRtOVZabl9FMU4xbE51ZnVrUW5BMTRpRFM5anpDQUl3WjN3ZWtfbE1QUmkwcG9xTW45Z1lleVM?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.engadget.com",
-      "title": "Engadget"
+      "href": "https://www.macrumors.com",
+      "title": "MacRumors"
+    }
+  },
+  {
+    "title": "Hands-on with ChatGPT's powerful new image engine - Axios",
+    "description": "Hands-on with ChatGPT's powerful new image engine  AxiosOpenAI says its new image tool can make complex charts and diagrams  Los Angeles TimesChatGPT’s new Images 2.0 model is surprisingly good at generating text  TechCrunchOpenAI's ChatGPT Images 2.0 is here and it does multilingual text, full infographics, slides, maps, even manga — seemingly flawlessly  VentureBeatOpenAI Takes Aim at Google with New Image Model  The Information",
+    "published date": "Wed, 22 Apr 2026 09:03:44 GMT",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBQngzdnQ3Q2JpNllWNUsyVEtiQUlUcUNGMFIzWUdjcm9HWGhGU2Y3bWZ1NU1ZTVFabmprZmcyNmNScEgzUUhJWU8wSWRjeU9IZVJHSy1SbjJlY2lYUE9GZXhNZTEtVUtxWmJLR3VWOUQzSGVMeVpQanZyVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.axios.com",
+      "title": "Axios"
     }
   },
   {
     "title": "AMD's Ryzen 9 9950X3D2 Dual Edition tested: Gratuitous overkill with a price to match - theregister.com",
-    "description": "AMD's Ryzen 9 9950X3D2 Dual Edition tested: Gratuitous overkill with a price to match  theregister.comThe Reviews Are In: AMD's Ryzen 9950X3D2 Is the Fastest for Gaming, But Not by Much  extremetech.comAMD Ryzen 9 9950X3D2 Dual Edition review: Tons of cache for tons of dollars  Ars TechnicaThe Alienware Area-51 Is Getting AMD's New Most Powerful Processors Later This Week  IGNAMD Ryzen 9 9950X3D2 Review: Twice the 3D V-Cache  TechSpot",
+    "description": "AMD's Ryzen 9 9950X3D2 Dual Edition tested: Gratuitous overkill with a price to match  theregister.comAMD Ryzen 9 9950X3D2 review: More cache, more cash  Tom's HardwareThe Alienware Area-51 Is Getting AMD's New Most Powerful Processors Later This Week  IGNThe Reviews Are In: AMD's Ryzen 9950X3D2 Is the Fastest for Gaming, But Not by Much  extremetech.comAMD Ryzen 9 9950X3D2 Review: Twice the 3D V-Cache  TechSpot",
     "published date": "Tue, 21 Apr 2026 13:00:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9wTUR6aTkyeEZTOVg3MkRkYl9sQ1lRbUt6WEFpX2FMampTTlNqSkhmempNdmUzOVZhNjdDZ0dUUFNBYzA0Z2phSjd2NEFYMFJTWndMZHR3cVJtZkRNQmFJaHJvdDJibldaVFNaVWZuWWZJUTA0?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -70,33 +60,123 @@
     }
   },
   {
-    "title": "The iPhone Fold's first major red flag is waving high - PhoneArena",
-    "description": "The iPhone Fold's first major red flag is waving high  PhoneArenaNew Apple iPhone Fold Design Pushes Smartphone Rivals To Go Wider And Taller  ForbesHow the iPhone Fold and the Galaxy Z Fold 8 differ, according to leaks  MashableApple's foldable iPhone hinges on one key feature for me - and it's not the hardware  ZDNETiPhone Fold leak may have revealed final design and confirmed MagSafe — here's what we know  Tom's Guide",
-    "published date": "Tue, 21 Apr 2026 13:01:52 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY21kM1ZwRk9GeTNIdzBCR2xQVnEtTEhSYkhIaWpQa1pJazZ0aVFnX3o5dHk4TmpnbnZUV3dXT3lyWEhSd3l1UTZoTzYyeDl5TWk0YlEtZkgwLThEM2dvR29IeEx5eWhwdDVJcjVHRU5hNXB4clRFMXNoMi1MVTVfQk1WVXNGYi1yNWYwTVluN0NKSTdVS3RmeA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Anker Earth Day Sale Features Up to 40% Off Popular Chargers and More - MacRumors",
+    "description": "Anker Earth Day Sale Features Up to 40% Off Popular Chargers and More  MacRumorsBest Earth Day Deals 2026: Save on Power Stations, Solar Panels, Kitchen Gear and More  CNETAmazon slashes Anker’s best-selling power station from $1,499 to $800  geekspinAnker SOLIX C1000 vs C2000 Gen 2 Review: World Record Speed Meets Home Backup  Digital Reviews NetworkAnker Solix C2000 Gen 2 Portable Power station Delivers High Capacity Power at an Accessible Price  TechEBlog -",
+    "published date": "Tue, 21 Apr 2026 13:51:40 GMT",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zN0ZTODZnVHk5RHRyMmhQbjM2c21ic1Z0SXE2c09ZX2padnh6X0ota0MtZk82SXBFYzA2QldqTnp2TUgzMWVLZUE0VGpic1RNRnlNWFF4UHUwRDc2TmRTeDRFbXJBUEw3dlJWN1cweGc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.phonearena.com",
-      "title": "PhoneArena"
+      "href": "https://www.macrumors.com",
+      "title": "MacRumors"
     }
   },
   {
-    "title": "Oppo announces the Find X9 Ultra with a 50MP 10x optical zoom telephoto camera - Engadget",
-    "description": "Oppo announces the Find X9 Ultra with a 50MP 10x optical zoom telephoto camera  EngadgetAs a Pro Photographer, I've Loved Using Oppo's Find X9 Ultra  CNETI was happy with my Pixel camera until I tried the Oppo Find X9 Ultra [Gallery]  9to5GoogleOppo Find X9 Ultra review: Makes the S26 Ultra's camera look like an afterthought  Android PoliceGet an Oppo Find X9 Ultra totally free  Tech Advisor",
-    "published date": "Tue, 21 Apr 2026 17:00:52 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTDFBTDZLNS1taktxckxPQ2tRS1RGZEw3OXlFSWFwNUx0X1lFYVNsN2lIcW4zejAtYnBRd1d2aHdiSGpBeHBNeHZWOVFOejJMWG82bF9QY0JhZ2pjemg4RVAyYnptZE9ibkFVa2tYUEY5T1JIWXl6QURBLWdGLVdIaVRoNGVQMW5nVktCTGIydllNS2lvVEd5bWwycGFXVlJTWlJMY1l3Nmc4T3Z1VENLYVByZGl6Wlp0ZTcxWU5WX1NPY20wNUItRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Google Wallet adds Live Update for flight tracking - 9to5Google",
+    "description": "Google Wallet adds Live Update for flight tracking  9to5GoogleGoogle Wallet's latest update is all about easing your flight anxiety  Android CentralGoogle Wallet just got a big upgrade ahead of the busy travel season  Android PoliceGoogle Wallet now lets you track flights from the lock screen, here's what it looks like  Android AuthorityGoogle Wallet's latest update might just make you uninstall your favorite Airline app  PhoneArena",
+    "published date": "Tue, 21 Apr 2026 20:55:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5IVldvVlFiR1g3TEtwQzJPQ2VWand4ZUlFYlI4ZW83MVFVRXNQdTRVUk93anFnejMxbkdYUTgwaEwwcVltSGVNVm9vX1d2aWpoOHdDb0hoV0hPbmM3UFhQa0NFeTY2U0VtQjk2ZXBWcG9RRkZNRlRR?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.engadget.com",
-      "title": "Engadget"
+      "href": "https://9to5google.com",
+      "title": "9to5Google"
+    }
+  },
+  {
+    "title": "4 Drugs That May Increase Your Dementia Risk - The New York Times",
+    "description": "4 Drugs That May Increase Your Dementia Risk  The New York Times",
+    "published date": "Wed, 22 Apr 2026 09:00:52 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUzZIRW5JVmR4SHlid3pEakdjdnZoVWI1UDR4VHlBQzZxOFB2dzY5YlBhUjFjU3FTTkwydWwyMUljM3FkbzNac1RGVTNTclNQdzhVcEhJVE9paXJmdEZ0SUxPdklPeHc4S0dwQnhONDBJaDdzakVUZ2tvRzVZNjhUSGRGaVF1aVl2NUM4OA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nytimes.com",
+      "title": "The New York Times"
+    }
+  },
+  {
+    "title": "Google Maps is about to get a big dose of AI - TechCrunch",
+    "description": "Google Maps is about to get a big dose of AI  TechCrunchThis Google Maps feature is now my secret weapon for planning date nights  Android PoliceI used Gemini in Google Maps to find hidden local gems — now I’m hooked  Tom's GuideI finally get the hype about Gemini in Google Maps  Yahoo TechI’ve been using “Ask Maps,” and it has forever changed Google Maps for me  Digital Trends",
+    "published date": "Wed, 22 Apr 2026 12:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVGhwOTZFVmtCOGZaVlJwbnpKSXY2c1BxT08tNzRLbVlMeWQtSjN1c295QTducVdSRW9tV01DWlE0TVFjU2xJcEQtMF84NFlZS1F1R1BYTUc3VmMxdDY0RGNrMURNTGEtTUxIcUNoN2hpdG5qaEZMcVlPSkhWX3NOeUNpbWF3Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://techcrunch.com",
+      "title": "TechCrunch"
+    }
+  },
+  {
+    "title": "Continued Conversation finally hits Gemini for Home - Android Police",
+    "description": "Continued Conversation finally hits Gemini for Home  Android PoliceMake chats more natural and efficient with Continued Conversation, now in Gemini for Home  blog.googleGoogle now lets you have full conversations with Gemini for Home  EngadgetYou can now talk to Google Home again without saying “Hey Google” every time.  The VergeGemini for Google Home Just Got Way More Contextual  Droid Life",
+    "published date": "Tue, 21 Apr 2026 19:44:09 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDWFNyMDVfTGFEc0E0UFcyemgtNEdyVldqUU5zdmJac21YWGJQcWhMbVlYY3hlNzllcmpjTG9BX21FRDZtM1BWQ09PaEREZWljYnJLXzFhQ0xGWHF4dkFUSTlJcXFwdk1XMU03TFM4dDdRR3JYM1BiYmtwaUY?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.androidpolice.com",
+      "title": "Android Police"
+    }
+  },
+  {
+    "title": "Zoom across Armageddon with new Space Marine Detachments - Warhammer Community",
+    "description": "Zoom across Armageddon with new Space Marine Detachments  Warhammer CommunityWarhammer 40K: Astra Militarum Armageddon Detachments  Bell of Lost SoulsUnleash the Astra Militarum motor pool with new Detachments from Armageddon  Warhammer CommunityAstra Militarum rules revealed – Commissar Graves and new vehicles  Warhammer CommunityWarhammer 40K: Astra Militarum Commissar Graves & New Vehicle Rules Reveal  Bell of Lost Souls",
+    "published date": "Wed, 22 Apr 2026 13:57:25 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaUFFV2lmTjctUTlQZUdEUDFOQ2xieUZTdFBfejhFRW42RU01N0hwZ2JXbXZ3Y2ctbV83WndVTHdvdUR2UXd5RzRkUFlMUEFPcHIybWZxcGt5ejdLMkNLM1gzdXRuNTFGNlRCVnQ4TkRCWkpsY01STF94ZEQ1Vm9CeWhwNDFSVWpPYjZDU1E2dmN3aXJpWUhnOEd4VXg2MjdEVWpvYzBZX2I1Z0FlaXZNYWdVQXBIQ3hr?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.warhammer-community.com",
+      "title": "Warhammer Community"
+    }
+  },
+  {
+    "title": "'Yoshi And The Mysterious Book' Is More Than Just A Pretty Face - Nintendo Life",
+    "description": "'Yoshi And The Mysterious Book' Is More Than Just A Pretty Face  Nintendo Life'Yoshi and the Mysterious Book'  MashableYoshi's New Game Rethinks What A Platformer Can Be  GameSpotYoshi and the Mysterious Book Preview: It’s More for Kids Than for You and That’s OK  IGNNintendo’s new Yoshi game makes a controversial decision for platformers  Polygon.com",
+    "published date": "Wed, 22 Apr 2026 13:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSTlsbTg5dHRlUlBYdVVhcDduS1U2a2JvS1JKNmVaNEJMbHNXREhpLVpyUm1wWnR1aV9KRVNGOHdKeUlvVGV2eHJyYXh2VUNBVDEyeTNOY2ZRS1MtUWVReWh6REUzWVZNeFVfQkZCRVdmcjRucXdrNUJWY2dvalpoX3lORkdLZlYtUWdaUzlNQ1ZRVFp0OG4wcC1IejIyNDlz?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nintendolife.com",
+      "title": "Nintendo Life"
     }
   },
   {
     "title": "Deezer says 44% of new music uploads are AI-generated, most streams are fraudulent - Ars Technica",
-    "description": "Deezer says 44% of new music uploads are AI-generated, most streams are fraudulent  Ars TechnicaDeezer: AI-generated tracks now represent 44% of all new uploaded music  Deezer NewsroomNearly Half Of All Songs Uploaded To Music Streaming Platform Deezer Are Now AI-Generated  NDTVDeezer says AI song uploads have nearly overtaken human music  The VergeDeezer says AI-made songs make up 44 percent of daily uploads  Engadget",
+    "description": "Deezer says 44% of new music uploads are AI-generated, most streams are fraudulent  Ars TechnicaDeezer: AI-generated tracks now represent 44% of all new uploaded music  Deezer NewsroomNearly Half Of All Songs Uploaded To Music Streaming Platform Deezer Are Now AI-Generated  NDTVDeezer says AI-made songs make up 44 percent of daily uploads  EngadgetIs AI Taking Over Our Music Platforms?  digit.fyi",
     "published date": "Mon, 20 Apr 2026 17:15:51 GMT",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY2h2amlFa2JicGVFX1FMaG10bUc3ZlJXN19pN3VnbFVfVjl0WW04WTFSQUd1a0RhX3RWZy1VN1R4RS0yRnROZnlwVUQ2dTJlWWJ0VFR1ZEFEUHhzWnpYMzQwamZESmdHcUJGSkF6TGt3LV8yaTVraDl6UlI4NmhmSDIxcUZONXJ1WFhmSWZ3VlFPZU5YeThOTzBpbU5WbzdMdEt5eW1WVWJRUElVaWg5cG1rcl9iU1k?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://arstechnica.com",
       "title": "Ars Technica"
+    }
+  },
+  {
+    "title": "Gran Turismo 7 April 2026 Update: Renault Twingo, Porsche 964 Turbo S, Yangwang U9 - GTPlanet",
+    "description": "Gran Turismo 7 April 2026 Update: Renault Twingo, Porsche 964 Turbo S, Yangwang U9  GTPlanetGran Turismo 7 update 1.69 available today, first 2026 Gran Turismo World Series details  PlayStation.BlogThe Gran Turismo 7 April Update: Three New Cars, Three New Races and New Power Pack Features!  gran-turismo.comNew GT7 Update Coming Soon: What Are the Three Cars?  autoevolutionGran Turismo 7’s next three cars confirmed  Traxion.GG",
+    "published date": "Wed, 22 Apr 2026 05:05:43 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdzJvZnRYWTBIM3ZUaUpyejJQNmhZUTFuRXhMcmR5Znczdy0yLU9tRHJ1azgyY0QyU3hySF9VdFFGUXpsOE1kb1Z1Q0xpNWtBSlFncjl3dlMzeldicEJENXdDczZ6bHpsVU1BbUhJYS00ZjFhVUJINmVMNW9RQkVsUmpXOVp2WnRBSUVXbGl4U1lvc1dUMnRDRUg4UC14TW5Ock80OUtYdlI?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.gtplanet.net",
+      "title": "GTPlanet"
+    }
+  },
+  {
+    "title": "The year’s weirdest game is hard to explain and even harder to put down - The Verge",
+    "description": "The year’s weirdest game is hard to explain and even harder to put down  The VergeTitanium Court is a most rare video game vision  AV Club2026 has a worthy Blue Prince contender that also plays like Candy Crush  Polygon.com‘Titanium Court’ Review: AP Thomson’s Surreal, Impish, and Tragic Anti-Roguelite  Slant MagazineTitanium Court review  PC Gamer",
+    "published date": "Wed, 22 Apr 2026 13:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTEYyelFLVW9hZ0dKSkRma1p1TTV5TmI1ZHV5Y05ldDdqNmdtN0xPcENVZktyczl5aC1sZF9LV3l1bENLZ2JhU2s1QUxVdHM3NVpUbGZNTXNUaTNEQ0NYRmZGOTlISUl4WkViRUZCaDBfVDhoeEpxWnNVLTdZTkhVZzlmeWU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theverge.com",
+      "title": "The Verge"
+    }
+  },
+  {
+    "title": "Shigeru Miyamoto wants Peach's backstory in The Super Mario Galaxy Movie to remain canon in future Nintendo games - Eurogamer.net",
+    "description": "Shigeru Miyamoto wants Peach's backstory in The Super Mario Galaxy Movie to remain canon in future Nintendo games  Eurogamer.netMiyamoto wants to adhere to Peach's backstory in The Super Mario Galaxy Movie in future games  Nintendo EverythingMiyamoto hints that Peach and Rosalina's story in The Super Mario Galaxy Movie will be reflected in future games  GoNintendoMiyamoto says he wants Peach’s origin story in The Super Mario Galaxy Movie to remain canon in future games  Video Games ChronicleMario Galaxy Movie Backstory Now Video Game Canon, Miyamoto Suggests  IGN India",
+    "published date": "Wed, 22 Apr 2026 14:00:14 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOREd5WFNJYkxodnRQUHNPOTFWb2Z1SGQzNjUzRVdhY1dUakNRcW5TdjZoT0U0SEJvWTdqUkV0WEh0UFM2TTJhNlBFOFYtMkhyeWM2REJ3RUtCeE14cW9nejlVQVo1LWRDYnJ5blowZExjV25vQzliWGFfTkhWTWVzazM4aEhwT3B2YVpvZjB4OXR0WlJ0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.eurogamer.net",
+      "title": "Eurogamer.net"
+    }
+  },
+  {
+    "title": "ECCO THE DOLPHIN: COMPLETE - PR Newswire",
+    "description": "ECCO THE DOLPHIN: COMPLETE  PR NewswireEcco The Dolphin: Complete Announced, Includes Remasters & A Brand New Game  Nintendo LifeEcco the Dolphin remaster heading to Switch (UPDATE)  GoNintendoEcco the Dolphin: Complete collection revealed  My Nintendo NewsEcco the Dolphin: Complete Includes Old-School Ecco and a Brand New Game  TechRaptor",
+    "published date": "Wed, 22 Apr 2026 13:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ1NkQXk1eWZjdWhRWVNjak5RWFlBYW1Iay1ObjJ3aHh5U05wYnNDUmROTkZuYjdQNExEZjVNZERRMm9XWVJUcFQ3ODZGeWFoZGkzbzFTUGprbWxsWFhPVmxHLTNvS3A1QWZMck5KUlhmbU11bmdqa1FIWGhNdmJoUDVLZUdYVzdy?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.prnewswire.com",
+      "title": "PR Newswire"
     }
   },
   {
@@ -110,8 +190,18 @@
     }
   },
   {
+    "title": "Diablo IV: Lord of Hatred Review - Embrace The Hate - Game Informer",
+    "description": "Diablo IV: Lord of Hatred Review - Embrace The Hate  Game InformerLord of Hatred Developer Update Stream Announce Blog — Diablo IV  Blizzard NewsDiablo 4: Lord of Hatred Review  IGN‘Diablo 4’ Lord Of Hatred Review: Third Time’s The Talisman Charm  ForbesDiablo IV: Lord of Hatred Review: Closure  MMORPG.com",
+    "published date": "Tue, 21 Apr 2026 16:02:43 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkN3l6b243NW93QnNEUUdjQ3QyeFdKYUMwcVFlQU1jUnpKYjhaeGtMUGx4LWRCajgwMFBlcnVLTGNEV0xWMVM3VUlDbGwxOWp5R3l5VmNST2owdnd4OTRGeUtEeVNUSnozdEhfTm9pazZacUxUZ1N6Z0p2U0I5dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://gameinformer.com",
+      "title": "Game Informer"
+    }
+  },
+  {
     "title": "Splatoon Raiders' Switch 2 Price And Box Art Have Been Revealed - Nintendo Life",
-    "description": "Splatoon Raiders' Switch 2 Price And Box Art Have Been Revealed  Nintendo LifeThis new Splatoon Raiders trailer shows off rad details for the Nintendo Switch 2 exclusive game  nintendo.comNintendo Makes a Big Splash With July Switch 2 Game Release Date  Men's JournalSplatoon Raiders Launch Date, New Trailer Unveiled  CrunchyrollSplatoon Raiders hits the Switch 2 in July  The Verge",
+    "description": "Splatoon Raiders' Switch 2 Price And Box Art Have Been Revealed  Nintendo LifeThis new Splatoon Raiders trailer shows off rad details for the Nintendo Switch 2 exclusive game  NintendoNintendo Makes a Big Splash With July Switch 2 Game Release Date  Men's JournalSplatoon Raiders Launch Date, New Trailer Unveiled  CrunchyrollSplatoon Raiders, A Single-Player Adventure, Gets New Trailer And July Launch Date  Game Informer",
     "published date": "Tue, 21 Apr 2026 14:15:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZENRcXoyTEFYMXZkNWRFblFzdGtlNi1LdkRTSjNmcUpjRDFYdHVJNEpKejA2Z3dUalcyWWZlOU9Kbkd5MkNoTzl3bkVqYk95S2llSzM5M2U1X2NyUE0yNE9aSEg4M1NBVTBCODZMTk9zMXpzRW9HUDBxemV2TnBmYnVHVERQaXozY3VBZ01JV2FVS0xyc3BvSTNSUDZjVUI4aWh0SmpPOA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -120,13 +210,23 @@
     }
   },
   {
-    "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox - WIRED",
-    "description": "Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox  WIREDThe zero-days are numbered  blog.mozilla.orgMozilla: Anthropic’s Mythos found 271 security vulnerabilities in Firefox 150  Ars TechnicaMozilla says it patched 271 Firefox vulnerabilities thanks to Anthropic's Claude Mythos  Engadget😸 AI found bugs humans missed for 27 years  The Neuron",
-    "published date": "Tue, 21 Apr 2026 18:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU2xvY1hSYy1WNlFNYkVUakZueEk1a0RaN3E2b2lxV1J2QV9OaC1ES1ozLU9tZWNmQXpaeWxDeTJ6dW9panFrRkw0NmEwOFdJdnUwWFFFcU1yMlpOc3gzQ0NOTUFGc0I1dmg3T0N2TUZad3NRR01lcG5VVFd1SFdKNDJwZzhvY1loNUZRSGlIc3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Pokémon Doubles Down on Decision to Penalize Pro Player - IGN",
+    "description": "Pokémon Doubles Down on Decision to Penalize Pro Player  IGNPlay! Pokémon Issue a Statement After Controversial Firestar73 Ruling  Pokémon GO HubPlay! Pokémon doubles down on controversial Pokémon Go championship ruling  Pocket TacticsPokemon Issues Statement on Controversial Pokemon GO Tournament  GameRantPokémon Puts Out Statement After Stripping A Player Of Win  Kotaku",
+    "published date": "Wed, 22 Apr 2026 09:18:53 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTkF4a0VyV1I0WUJQSzluSW9rcVJHQ2JZaHhST2ZlQk9JNUN4Q00yX1Y5a2VqVmRKQ0VLTUdfYWltajJBeHBNbFRIbXFQb252R0d2QVM1SUxxVlVnZTBzSWdBQjIzaUtpWGlQcWRVMHlFZGJOX18wNnFzcFJ5elpNMTdwN2UzTUFLVWxV?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.wired.com",
-      "title": "WIRED"
+      "href": "https://www.ign.com",
+      "title": "IGN"
+    }
+  },
+  {
+    "title": "How Vampire Crawlers Keeps the Soul of Vampire Survivors Alive in a Whole New Genre - Xbox Wire",
+    "description": "How Vampire Crawlers Keeps the Soul of Vampire Survivors Alive in a Whole New Genre  Xbox WireVampire Crawlers Review: Crawling in My Skin  Restart.runVampire Survivors’ new spinoff switches genres but keeps the good vibes  The VergeVampire Crawlers releases today and it just got Steam Deck Verified, so here's when you can play in your region  PC GuideVampire Crawlers Beginner's Tips  GameSpot",
+    "published date": "Tue, 21 Apr 2026 16:33:12 GMT",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1aXdDX05hc3pDWkR0ZEx2OVYxX2szUVd4dHJmUmtlZF9waDRCNmw1RkF3YTdFVXNNWnI5YXNwaU55SEFRRXBLdnBtS3dId1FDd0pvYWYtODRVS080Rmc0SnFCd3QwREV2NnBuTjZuTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://news.xbox.com",
+      "title": "Xbox Wire"
     }
   },
   {
@@ -140,63 +240,33 @@
     }
   },
   {
-    "title": "Diablo IV: Lord of Hatred Review - Embrace The Hate - Game Informer",
-    "description": "Diablo IV: Lord of Hatred Review - Embrace The Hate  Game InformerLord of Hatred Developer Update Stream Announce Blog — Diablo IV  Blizzard News‘Diablo 4’ Lord Of Hatred Review: Third Time’s The Talisman Charm  ForbesDiablo IV: Lord of Hatred Review: Closure  MMORPG.comDiablo 4: Lord Of Hatred Review-In-Progress - Mother Knows Best  GameSpot",
-    "published date": "Tue, 21 Apr 2026 16:02:43 GMT",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkN3l6b243NW93QnNEUUdjQ3QyeFdKYUMwcVFlQU1jUnpKYjhaeGtMUGx4LWRCajgwMFBlcnVLTGNEV0xWMVM3VUlDbGwxOWp5R3l5VmNST2owdnd4OTRGeUtEeVNUSnozdEhfTm9pazZacUxUZ1N6Z0p2U0I5dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Mozilla says it patched 271 Firefox vulnerabilities thanks to Anthropic's Claude Mythos - Engadget",
+    "description": "Mozilla says it patched 271 Firefox vulnerabilities thanks to Anthropic's Claude Mythos  EngadgetThe zero-days are numbered  blog.mozilla.orgMozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox  WIREDMozilla: Anthropic’s Mythos found 271 security vulnerabilities in Firefox 150  Ars TechnicaMythos found 271 Firefox flaws – but none a human couldn’t spot  theregister.com",
+    "published date": "Tue, 21 Apr 2026 22:43:30 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN19qLUNMbk1qVlA4TzRPWGl5UWdna0QzN0t1OFBWZUswcFFNX2ZlMXNXYkZRamtvMHFkbm9lZnB2UXB4cGwzV3c2OVhBM0hiLU1PWHM4RG42NEVQbEZWbUVoZ082V3JTWV9WcDhDUlBxZVNETVBWTXktRkFFMFJJOEpJRlg1ZXBMMkQyQmFULUg4dWlySzJ6MEJKREJ4Rlc2amtiX1ZiYld2Z1lCMFQ0b0ZnQ0NGVEQyU2VJY0FVVlhKcExOaDByZw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://gameinformer.com",
-      "title": "Game Informer"
+      "href": "https://www.engadget.com",
+      "title": "Engadget"
     }
   },
   {
-    "title": "How Vampire Crawlers Keeps the Soul of Vampire Survivors Alive in a Whole New Genre - Xbox Wire",
-    "description": "How Vampire Crawlers Keeps the Soul of Vampire Survivors Alive in a Whole New Genre  Xbox WireVampire Crawlers Review: Crawling in My Skin  Restart.runVampire Survivors’ new spinoff switches genres but keeps the good vibes  The VergeVampire Crawlers launch trailer - next game from Vampire Survivors dev on Nintendo Switch 2, Switch  Nintendo EverythingVampire Crawlers Beginner's Tips  GameSpot",
-    "published date": "Tue, 21 Apr 2026 16:33:12 GMT",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1aXdDX05hc3pDWkR0ZEx2OVYxX2szUVd4dHJmUmtlZF9waDRCNmw1RkF3YTdFVXNNWnI5YXNwaU55SEFRRXBLdnBtS3dId1FDd0pvYWYtODRVS080Rmc0SnFCd3QwREV2NnBuTjZuTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "How Tim Cook’s Tech Uniform Helped Make Apple Trillions - The New York Times",
+    "description": "How Tim Cook’s Tech Uniform Helped Make Apple Trillions  The New York Times",
+    "published date": "Tue, 21 Apr 2026 21:31:31 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aZlMyWGI0ZnpFRFV3dm9IRW9SNVhwYlRqbzhtYk5FOVNUV2RiSjdSZ0txVkxTWm9xNXI1QWVGeXFkY2hJcnBxVXBNU3FhZXFWOEQ5cVptUUVyZ25oQklIT2ZIZUVSSmJSMndyRnNGbzdvZjByUzd1c0Rycko?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://news.xbox.com",
-      "title": "Xbox Wire"
+      "href": "https://www.nytimes.com",
+      "title": "The New York Times"
     }
   },
   {
     "title": "Apple to drop Intel Mac support with macOS 27, Tahoe 26 becomes final release - VideoCardz.com",
-    "description": "Apple to drop Intel Mac support with macOS 27, Tahoe 26 becomes final release  VideoCardz.comEnd of an Era: macOS 27 Drops Support for Intel-Based Macs  TechPowerUp[News] Apple to End Intel Mac Support with macOS 27, Deepening Shift to In-House M-Series Chips  TrendForceThese MacBooks Will No Longer Receive macOS 27  Yahoo News UKApple to drop Intel CPU support with MacOS 27  OC3D",
+    "description": "Apple to drop Intel Mac support with macOS 27, Tahoe 26 becomes final release  VideoCardz.comEnd of an Era: macOS 27 Drops Support for Intel-Based Macs  TechPowerUpmacOS 27 Drops Intel Support: Why Your Old Mac is Now Obsolete  HotHardware[News] Apple to End Intel Mac Support with macOS 27, Deepening Shift to In-House M-Series Chips  TrendForceThese MacBooks Will No Longer Receive macOS 27  Yahoo News UK",
     "published date": "Tue, 21 Apr 2026 15:41:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeGRSdExmZHFMUno5aVhNTVhGT3BOb2xCRl9XVHBsSl84eXNlaHRhR0NaT1JFUWxCQzFaZk44dTU4a05qVFhZU2phaU12ODFvWklmNnhfSnItVVdwYXNXV2VCckEtOEVqbE5Wa3MyTFluRHl2X0JrUTJaS2lXcW9RdlNrbi0xLVM5bDN5RlhzLWFTMUFlU2pzUlRLZEhGLVBueUNLWmMwSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://videocardz.com",
       "title": "VideoCardz.com"
-    }
-  },
-  {
-    "title": "Gran Turismo 7 April 2026 Update: Renault Twingo, Porsche 964 Turbo S, Yangwang U9 - GTPlanet",
-    "description": "Gran Turismo 7 April 2026 Update: Renault Twingo, Porsche 964 Turbo S, Yangwang U9  GTPlanetNew GT7 Update Coming Soon: What Are the Three Cars?  autoevolutionGran Turismo 7: April update brings 2.977 hp hypercar and cult classic  PlayFrontGran Turismo 7: Three New Cars Confirmed for the April 2026 Update  BoxThisLapGran Turismo 7 update 1.69 available today, first 2026 Gran Turismo World Series details  PlayStation.Blog",
-    "published date": "Wed, 22 Apr 2026 05:05:43 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdzJvZnRYWTBIM3ZUaUpyejJQNmhZUTFuRXhMcmR5Znczdy0yLU9tRHJ1azgyY0QyU3hySF9VdFFGUXpsOE1kb1Z1Q0xpNWtBSlFncjl3dlMzeldicEJENXdDczZ6bHpsVU1BbUhJYS00ZjFhVUJINmVMNW9RQkVsUmpXOVp2WnRBSUVXbGl4U1lvc1dUMnRDRUg4UC14TW5Ock80OUtYdlI?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.gtplanet.net",
-      "title": "GTPlanet"
-    }
-  },
-  {
-    "title": "Wizards of the Coast Pre-Bans Five Secrets of Strixhaven MTG Cards - MTG Rocks",
-    "description": "Wizards of the Coast Pre-Bans Five Secrets of Strixhaven MTG Cards  MTG RocksMTG Arena Announcements – April 20, 2026  Magic: The GatheringBest Magic: The Gathering deal: Save 13% on a Secrets of Strixhaven booster box  MashableThe 32 Most Expensive and Must-Have Cards in Secrets of Strixhaven  DraftsimThe 6 top commanders in MTG Secrets of Strixhaven  wargamer.com",
-    "published date": "Mon, 20 Apr 2026 18:08:33 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CLWZqZmRRVERBMTBQckhlbFh0bV9EV0U2WEd0SkhMeEdiNkZJVE8xQlFYVUFVaDZlbmg0ZndKaVlwTzFubzJOY0lCUEZGRERCV0VYU3g2Vk1PTENsYUcxZ3Rn?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://mtgrocks.com",
-      "title": "MTG Rocks"
-    }
-  },
-  {
-    "title": "A Realm Reborn in Magic: The Gathering®—FINAL FANTASY™ - Magic: The Gathering",
-    "description": "A Realm Reborn in Magic: The Gathering®—FINAL FANTASY™  Magic: The GatheringView Full Coverage on Google News",
-    "published date": "Tue, 21 Apr 2026 15:16:01 GMT",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1kMUlkNzRjOWNsVjFhZFoyTkVCQ0dtMWtuSG1Rc0JvOVc5cVpXVmNtamM0ZW5RZU54ekxCNkhBWVVkbmV4RWYzYk45eDdMTndjbW5jZzlabkdUNFZ4ZXlsMUZWcThHek8zb0FrUWZQUlFhdjI2ODFLb0lKOHNXZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://magic.wizards.com",
-      "title": "Magic: The Gathering"
     }
   },
   {
@@ -210,8 +280,28 @@
     }
   },
   {
+    "title": "Marathon Was One Of March’s Best-Selling Games But That Probably Won’t Stop The Obsession Over Steam Charts - Kotaku",
+    "description": "Marathon Was One Of March’s Best-Selling Games But That Probably Won’t Stop The Obsession Over Steam Charts  Kotaku",
+    "published date": "Wed, 22 Apr 2026 13:01:05 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jTi00ajhBdnNtc21ueFJYbldnSUU2WUlneEw2Z2JJcmtOcWM3NXZRNTYwNUVfN0ZBM09tTDkwczhZRDV5SXNZek54NUxmcWd5Q2tjR0VNb3EtV3BwTFZ5c0NjeGlwdTlMOU5GcWxJYUdWeG51V1FGakE5Z1c?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://kotaku.com",
+      "title": "Kotaku"
+    }
+  },
+  {
+    "title": "Pixel phones are seeing unusual battery drain after the latest update — and Google is looking into it - Android Central",
+    "description": "Pixel phones are seeing unusual battery drain after the latest update — and Google is looking into it  Android CentralGoogle’s New Android Update—‘Severe’ Impact On Pixel Battery  ForbesPixel phones hit with battery drain issue, Google investigating  9to5GoogleWe Might Finally Know Why Google Pixel Phone Batteries Are Draining So Fast  bgr.comThanks Google, my Pixel 10 now performs like a 2010 budget phone  PhoneArena",
+    "published date": "Tue, 21 Apr 2026 16:11:07 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQUdFR0dYQnRYLVhZVm5zbnVadk9YMG1zYWtyblFNMnY2Q3Y4bno5aFNiZTNTN0NpbkJTUFBQN056ekF4RGpLRG5vLUJaRXBSNmkzcXJEZkI3LXpKR0tUWjdkRGVLS2Z3bkRCaVpXUmlFcFR0Ul9udGJuaGZxTnM1MERxd09YWm91bV9DTV9qQU9SQlpBaWxyMVhsQWwxTXZwcUplZ0ZmcHpaOWJCdzh4LVFWWlRWY0tYVXEzUVVqNmtDQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.androidcentral.com",
+      "title": "Android Central"
+    }
+  },
+  {
     "title": "Microsoft Teams is trying to fix accidental hand-raising - The Verge",
-    "description": "Microsoft Teams is trying to fix accidental hand-raising  The VergeMicrosoft Teams is redesigning its meeting toolbar to stop you from accidentally raising your hand  XDAMicrosoft Teams and Outlook are getting significant changes soon  NeowinTeams is finally fixing those annoying Raise Hand and Leave buttons  Yahoo TechWhat’s New in Microsoft 365 – April 2026  Seton Hall",
+    "description": "Microsoft Teams is trying to fix accidental hand-raising  The VergeMicrosoft Teams is redesigning its meeting toolbar to stop you from accidentally raising your hand  XDAFix Is Coming for This Annoying Microsoft Teams Feature  PCMagMicrosoft Teams and Outlook are getting significant changes soon  NeowinTeams is finally fixing those annoying Raise Hand and Leave buttons  Yahoo Tech",
     "published date": "Tue, 21 Apr 2026 09:14:16 GMT",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVE1KbnlST05pS1VKWHh6bVR0T3RXVzF5NVBfSHI5OXU5cktnLVRHMDlqTk4yQUhuYk5yUG9TanQwRlNMcXZmM19FckV6cVg2SFdqbGFjdzdBRG9vUVl0b0FJYjFWWlkxdl8ySWhiM2dOYUZ4a2dHaE5FTkdlSkdMWVNJTU53OVk?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -220,23 +310,83 @@
     }
   },
   {
-    "title": "Google Maps is about to get a big dose of AI - TechCrunch",
-    "description": "Google Maps is about to get a big dose of AI  TechCrunchI finally get the hype about Gemini in Google Maps  Android PoliceI used Gemini in Google Maps to find hidden local gems — now I’m hooked  Tom's GuideI’ve been using “Ask Maps,” and it has forever changed Google Maps for me  Digital TrendsGoogle Maps abandons the flat map and gains 3D navigation with transparent buildings, visible traffic lights, and a chat assistant with artificial intelligence that understands questions as if it were a normal conversation.  CPG Click Petróleo e Gás",
-    "published date": "Wed, 22 Apr 2026 12:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVGhwOTZFVmtCOGZaVlJwbnpKSXY2c1BxT08tNzRLbVlMeWQtSjN1c295QTducVdSRW9tV01DWlE0TVFjU2xJcEQtMF84NFlZS1F1R1BYTUc3VmMxdDY0RGNrMURNTGEtTUxIcUNoN2hpdG5qaEZMcVlPSkhWX3NOeUNpbWF3Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Wizards of the Coast Pre-Bans Five Secrets of Strixhaven MTG Cards - MTG Rocks",
+    "description": "Wizards of the Coast Pre-Bans Five Secrets of Strixhaven MTG Cards  MTG RocksMTG Arena Announcements – April 20, 2026  Magic: The GatheringBest Magic: The Gathering deal: Save 13% on a Secrets of Strixhaven booster box  MashableThe 32 Most Expensive and Must-Have Cards in Secrets of Strixhaven  DraftsimThe 6 top commanders in MTG Secrets of Strixhaven  wargamer.com",
+    "published date": "Mon, 20 Apr 2026 18:08:33 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CLWZqZmRRVERBMTBQckhlbFh0bV9EV0U2WEd0SkhMeEdiNkZJVE8xQlFYVUFVaDZlbmg0ZndKaVlwTzFubzJOY0lCUEZGRERCV0VYU3g2Vk1PTENsYUcxZ3Rn?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://techcrunch.com",
-      "title": "TechCrunch"
+      "href": "https://mtgrocks.com",
+      "title": "MTG Rocks"
     }
   },
   {
-    "title": "Pragmata Looks Best on PS5 Pro, Says Tech Experts - Push Square",
-    "description": "Pragmata Looks Best on PS5 Pro, Says Tech Experts  Push SquareAn Uncanny ‘Sad Dad’ Game With a Robot Child  The New York TimesReview: Pragmata On Consoles: Fine on PS5/Series X - But PS5 Pro Is The Best Way To Play  Digital FoundryPragmata's tale of AI slop, humanity, & lunar conquest makes it the timeliest sci-fi game of the year  SpacePragmata Interview: How Capcom Delivered a Stunning New Sci-Fi IP With RE Engine  80 Level",
+    "title": "Dead by Daylight studio Behaviour Interactive confirms layoffs - Game Developer",
+    "description": "Dead by Daylight studio Behaviour Interactive confirms layoffs  Game DeveloperDead by Daylight Behavior Interactive appears to have suffered fresh layoffs, as senior animator announces sudden departure  Eurogamer.net",
+    "published date": "Wed, 22 Apr 2026 09:19:56 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSHN2ZDRIcDFYVzVlVEpZWnpGeW16bEkzSmpXb0RzOVlvWVFKT3pVVjhEbklPeTd6aHJ3Z1dkSmFLdXVtMlRvZDY2dkdwNXMxWmpRMFR1Um85emp2bDNTZ05FaS1YbkUwSExUOWtfOTRBQ3gtenJKTU9nMkxwaGRlUklMWTBBbXlyZjRvaC1JZ2h0ZnV1Q1FZWWFNVm1TRlRzQmVJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.gamedeveloper.com",
+      "title": "Game Developer"
+    }
+  },
+  {
+    "title": "A Realm Reborn in Magic: The Gathering®—FINAL FANTASY™ - Magic: The Gathering",
+    "description": "A Realm Reborn in Magic: The Gathering®—FINAL FANTASY™  Magic: The GatheringView Full Coverage on Google News",
+    "published date": "Tue, 21 Apr 2026 15:16:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1kMUlkNzRjOWNsVjFhZFoyTkVCQ0dtMWtuSG1Rc0JvOVc5cVpXVmNtamM0ZW5RZU54ekxCNkhBWVVkbmV4RWYzYk45eDdMTndjbW5jZzlabkdUNFZ4ZXlsMUZWcThHek8zb0FrUWZQUlFhdjI2ODFLb0lKOHNXZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://magic.wizards.com",
+      "title": "Magic: The Gathering"
+    }
+  },
+  {
+    "title": "2026 Ford Mustang Dark Horse SC Offers GTD-Like Power for a Third of the Price - The Drive",
+    "description": "2026 Ford Mustang Dark Horse SC Offers GTD-Like Power for a Third of the Price  The DriveFord Finally Revealed the Mustang Dark Horse SC Horsepower Output and It Doesn't Match the GTD  Car and DriverThe 2026 Ford Mustang Dark Horse SC Pumps Out 795 Horsepower  Road & TrackFord Mustang Dark Horse limited-edition returns, with Australian-built T8-Spec Pack  drive.com.auFord Mustang Dark Horse SC Output Revealed: How Can The Next-Gen Chevy Camaro Compete With That?  GM Authority",
+    "published date": "Mon, 20 Apr 2026 16:00:04 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORk5MS2lwOFMwejk3dEJYelp5MWxQV19mS1hkaVlwYjZycGdwVXNrUzdmQTlkOTMxZjYtYlIyWmhjc0pNa1FrUDNva1JoQ0pvRm1uWURiZkJmUmR4YWdqTjYyMDNGbDdrVWhDZFVaQ1l6VDRlVTdFa3J4VEdac2lQbTZlN3R0VVJWWlRvU1hicHJUbnBsMGM5YURrOXJzTWZiN3RXNTUyekp2aWVs?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.thedrive.com",
+      "title": "The Drive"
+    }
+  },
+  {
+    "title": "Prego Pivots From Budget-Tier Pasta Sauce to Small Microphones That Listen to Your Family's Intimate Conversations - Futurism",
+    "description": "Prego Pivots From Budget-Tier Pasta Sauce to Small Microphones That Listen to Your Family's Intimate Conversations  FuturismYour Secrets Are in the Sauce. Everything to Know About Prego's Recording Device  PCMagPrego® Partners with StoryCorps to Transform the Everyday Dinner into Cherished Family Memories  PR NewswirePrego Has a Dinner-Conversation-Recording Device, Capisce?  WIREDPrego—Yes, the Spaghetti Sauce Brand—Is Launching a Dinnertime Voice Recorder  extremetech.com",
+    "published date": "Tue, 21 Apr 2026 19:01:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vOUhLbV9sUl9oQW8ycTBsVEczbngwdElRUERRdWMyMUJGWllfa3oxeWVFcC1HN3RyRnh5YjZhUDJ5WmszZElUTm1hcW41TFA5UWFlU0hyM2JuamRUbGVaZUlMdmk5YVBkbk1LZVJLU2hUdjBhNXFKZG8wUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://futurism.com",
+      "title": "Futurism"
+    }
+  },
+  {
+    "title": "KB5083631: Microsoft explains how Windows 11 will get significantly faster soon - Neowin",
+    "description": "KB5083631: Microsoft explains how Windows 11 will get significantly faster soon  NeowinMicrosoft’s next Windows 11 update targets stability and speed  PCWorldMicrosoft tests Windows Explorer speed, performance improvements  BleepingComputerMicrosoft Expands Xbox Mode to Windows Laptops, PCs, and Tablets  TechPowerUpThe most annoying Windows 11 File Explorer bug keeps coming back, but Microsoft promises it's fixed once and for all  Yahoo Tech",
+    "published date": "Mon, 20 Apr 2026 17:10:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQVFJWlVSeDV5YVBxemdIUFlTSFVQVEpIdjFCTFVMS0UtUGhMOUl2UDItX0NKNEpXQnl3XzVOaXpOdU13eWw1blRmNlhQbGVqNDR6MnNqU3JuUTB5NXlLSDZqVDNqdUF0NmlydHhIendOSlJkRDVySlkzTXczTG9FT21UV3ZLaThmRkJxVFljTHdYb2o4ZmlBUE1JbUR2Y1ZJT2M1Y3NOUnFNSFnSAaoBQVVfeXFMUHBiQzlVNnY5ZDlKMXRFRXFKd2laMmVfWFNjLTM5MmxjUHNfM0pwZEpzUTRkTDlKQVZsN0ZqeER1QU9RNVdHaFppc3NjeVEwSUpQS0lWSTVUYUNadGhnazBiZGtMRFNMVF9WUVlyc0xHRmFVX0xydWJ3dDhtQXdaUjM1M0V0U20tR0ROSmNNWXVMZkhYcExpVlpSeWdYb0tYTk1TQW85T09jMkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.neowin.net",
+      "title": "Neowin"
+    }
+  },
+  {
+    "title": "Pragmata Looks Best on PS5 Pro, Say Tech Experts - Push Square",
+    "description": "Pragmata Looks Best on PS5 Pro, Say Tech Experts  Push SquareAn Uncanny ‘Sad Dad’ Game With a Robot Child  The New York TimesReview: Pragmata On Consoles: Fine on PS5/Series X - But PS5 Pro Is The Best Way To Play  Digital FoundryPragmata PC performance tested: 18 GPUs take us to the Moon  Tom's HardwarePragmata's tale of AI slop, humanity, & lunar conquest makes it the timeliest sci-fi game of the year  Space",
     "published date": "Tue, 21 Apr 2026 00:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRUlzMzA4ejRNS0hHWnZFZHNjU3YxWHA3SE4zVjBCa2hqeHVoTVhWOGx5V3NlcTJKOU9abUJxSm9oQm9YN1dJeW52bHR2dHY4dkgtZ2NMejVXQTRUVE4tUDNPUFRQQVdTR3FDSUMxQ2pLcEduRGg2endzV2xjcU1PM2tIN0NHR1hpUmVBX0RDOE93UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTy0tRnJacWw5Nl9waVBQamE2ZHZxNE5YZHJVeXFReVVoaXgxc2wwSDZ6TG1XcjlKQ25FWVlJbjBNQTNzMUk2S000dk1QckxtQ1Y0VF8tQ0h0b0FnRFRNdElJSHIzZHM2YWFOTmVUUkxFLW9YbjZLQkt3aUVhaFhLUExxaDY3WXZhZXlCNDNGZWU?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.pushsquare.com",
       "title": "Push Square"
+    }
+  },
+  {
+    "title": "Rumor: Street Fighter 6 Year 4 DLC characters leak, includes big crossover - Nintendo Everything",
+    "description": "Rumor: Street Fighter 6 Year 4 DLC characters leak, includes big crossover  Nintendo Everything‘Street Fighter 6’ Season 4 DLC Characters Allegedly Leaked, Including a Shocking ‘Final Fantasy’ Guest Character  Men's JournalTifa Lockhart Reportedly Coming to Street Fighter 6 DLC, New Leak Claims  VICERumour: Tifa is joining Street Fighter 6  Gamereactor UKStreet Fighter 6’s Year 4 Characters to Include Final Fantasy 7’s Tifa Lockhart – Rumor  GamingBolt",
+    "published date": "Wed, 22 Apr 2026 00:38:45 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVW9MYnlJQnlYNTYzOFZ4OWFuTTlwR3J4ZGJUdUlYSkFqZUhFZnJ1UkMtM1FuTy1BMUNQZzZhT01YS0tFclZubkI0YnNPZ3hORVduX0RRdkpWVjRkY0hzWWNZeEliSV92Qm9PckhNS1lUU1I4blZKbXY3bmxPQ2djQUgyMWgzLUtvUzR2ZGpoSzctLTZnWm5JZWZFekgwRWNmaF9vVWQ0OA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://nintendoeverything.com",
+      "title": "Nintendo Everything"
     }
   },
   {
@@ -250,93 +400,23 @@
     }
   },
   {
-    "title": "IKEA launches inflatable chair \"trapped within a metal frame\" - Dezeen",
-    "description": "IKEA launches inflatable chair \"trapped within a metal frame\"  DezeenIkea reveals new furniture, including a rocking bench, built for buddies  wallpaper.comInside Ikea’s dream factory: Its prototyping lab (exclusive)  Fast CompanyA Beloved Ikea Collection Returns with a New Batch of Future Classics  Gear PatrolAfter 30 Years of Trial and Error, IKEA Has Made Inflatable Furniture Chic  domino.com",
-    "published date": "Tue, 21 Apr 2026 10:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd1pjcUtHT2ZLY05YdHN5cFVWYmhab1dZdGJxZlVrSk9QTHZLWEhSSWdadlBsVDFYLTBmLU1nQ0psbWxMTklsWmZ3SkU5d1V1Y1FSTmk1T3BpNWd4VTk1OGd1bzRxcWZacGk3R25PaGtUOGRPT2p2WU1zMzRZTzZMcWdLSkplWWtITWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Steam Controller one step closer to launch after Valve teases 'unboxing' video with announcement pending - PC Guide",
+    "description": "Steam Controller one step closer to launch after Valve teases 'unboxing' video with announcement pending  PC GuideValve Uploads Steam Controller Unboxing Video, Launch Imminent  TechPowerUp$60 Steam Controller 2 is Packing Features PC Gamers Have Been Waiting For  Geeky GadgetsNew Valve Leak May Tease Impending Steam Machine Release  comicbook.comSteam Surprise Hardware Announcement Spotted On Digital Store  GAMINGbible",
+    "published date": "Tue, 21 Apr 2026 12:52:56 GMT",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVVdSS3FHLW5pZzdna05UUWRaMkV0aTNieXVUNjJfUEM1SmVTajk0aWdGT3ZkaXdwRUcyLVpWQUNUazJNRWh1cmtYVlBwNEMyR041WjFKNERBOGFiYVdyOHdIWXRQU1VhaE9DNkhQcDJCLU1uZER3QVFCaXZQQjBOcUcybVU2NENURDNVamFrWG1nMy1HeDM3ZXpOWl9MSFRVV245WUl2R1R1dkhYdndEWjJEcXVkV25CZkxiaDZ4ZEFERllvQlA2Qnl4NFg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.dezeen.com",
-      "title": "Dezeen"
+      "href": "https://www.pcguide.com",
+      "title": "PC Guide"
     }
   },
   {
-    "title": "Prego Pivots From Budget-Tier Pasta Sauce to Small Microphones That Listen to Your Family's Intimate Conversations - Futurism",
-    "description": "Prego Pivots From Budget-Tier Pasta Sauce to Small Microphones That Listen to Your Family's Intimate Conversations  FuturismPrego Has a Dinner-Conversation-Recording Device, Capisce?  WIREDPrego® Partners with StoryCorps to Transform the Everyday Dinner into Cherished Family Memories  PR NewswirePrego—Yes, the Spaghetti Sauce Brand—Is Launching a Dinnertime Voice Recorder  extremetech.comWant your voice preserved in the Library of Congress? Prego's weird new collab could get you in for just $20  Fast Company",
-    "published date": "Tue, 21 Apr 2026 19:01:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vOUhLbV9sUl9oQW8ycTBsVEczbngwdElRUERRdWMyMUJGWllfa3oxeWVFcC1HN3RyRnh5YjZhUDJ5WmszZElUTm1hcW41TFA5UWFlU0hyM2JuamRUbGVaZUlMdmk5YVBkbk1LZVJLU2hUdjBhNXFKZG8wUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Your Smartwatch May Be Getting 6 Key Health Metrics Wrong - ScienceAlert",
+    "description": "Your Smartwatch May Be Getting 6 Key Health Metrics Wrong  ScienceAlert6 ways your smartwatch is lying to you, according to science  The Conversation",
+    "published date": "Tue, 21 Apr 2026 01:12:36 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSmtLVEFvbHZfVm1oeTJ6aGFrUnJmbFV3a3R3Z0plTFdaX3ZFaVAwU1A3cXM1OE1CSjZBRUVmWXg5amxBemQxVGZOVkRraFBjMVpHOVZ4cmJQeTNPTFRpMlNjbGJvZ0JlbFVrTGtKY0lQTUszTDJITXZoZUpiZVhJcEMxVEUtOGNYMElBbm5CSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://futurism.com",
-      "title": "Futurism"
-    }
-  },
-  {
-    "title": "Pixel phones are seeing unusual battery drain after the latest update — and Google is looking into it - Android Central",
-    "description": "Pixel phones are seeing unusual battery drain after the latest update — and Google is looking into it  Android CentralGoogle’s New Android Update—‘Severe’ Impact On Pixel Battery  ForbesPixel phones hit with battery drain issue, Google investigating  9to5GoogleWe Might Finally Know Why Google Pixel Phone Batteries Are Draining So Fast  bgr.comGoogle's March update to Android 16 QPR3: Pixel users report numerous bugs  heise online",
-    "published date": "Tue, 21 Apr 2026 16:11:07 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQUdFR0dYQnRYLVhZVm5zbnVadk9YMG1zYWtyblFNMnY2Q3Y4bno5aFNiZTNTN0NpbkJTUFBQN056ekF4RGpLRG5vLUJaRXBSNmkzcXJEZkI3LXpKR0tUWjdkRGVLS2Z3bkRCaVpXUmlFcFR0Ul9udGJuaGZxTnM1MERxd09YWm91bV9DTV9qQU9SQlpBaWxyMVhsQWwxTXZwcUplZ0ZmcHpaOWJCdzh4LVFWWlRWY0tYVXEzUVVqNmtDQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.androidcentral.com",
-      "title": "Android Central"
-    }
-  },
-  {
-    "title": "The 2026 Ford Mustang Dark Horse SC Pumps Out 795 Horsepower - Road & Track",
-    "description": "The 2026 Ford Mustang Dark Horse SC Pumps Out 795 Horsepower  Road & TrackFord Finally Revealed the Mustang Dark Horse SC Horsepower Output and It Doesn't Match the GTD  Car and DriverConfirmed: The Ford Mustang Dark Horse SC Has 795 Horsepower  Motor1.comFord Mustang Dark Horse limited-edition returns, with Australian-built T8-Spec Pack  drive.com.auFord Mustang Dark Horse SC Output Revealed: How Can The Next-Gen Chevy Camaro Compete With That?  GM Authority",
-    "published date": "Mon, 20 Apr 2026 17:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS1g1QUhhTG5wMWF3MVR0dlpfbmh6ejNVQzc1WlZzdFQ0VVlvb0xraGlTM0R1WHNEcnJLaUEwRU5vX25hMzdnZ0RrSFNRMm9uTEtwQlFkTTRBU1JKMUFuaUllX3B2TDlSdWJpbEFEdWR0TFZLa0p6OXQ0NDdITGFmUTVQS2JtcWRQdDJ6dy1LU3VZeUM5Zmc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.roadandtrack.com",
-      "title": "Road & Track"
-    }
-  },
-  {
-    "title": "Da Speedwaaagh! begins with two new Ork Detachments - Warhammer Community",
-    "description": "Da Speedwaaagh! begins with two new Ork Detachments  Warhammer Community",
-    "published date": "Tue, 21 Apr 2026 14:57:09 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNjJfaTBuc3BFNkFuX252ZExyLVc2Qmg4ZUJCZUNSbjhSaUpDbmpGSTJLVzdkUExXWnRhVldpRWlHUDhfOWhKLW0tcXVSQ1RkQ1o1cWFyb0ZkVllsNVRjUmZYUTRUTDRkZDU0VVdLd2RXa2Q1T2c4M0prRl9sRmRkWWhuODZ6bWVtaS1PdGhMY3ZJbnpaQks1YkdTZlhOUXlhcC16ckZqQkhJWGpIZkNJRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.warhammer-community.com",
-      "title": "Warhammer Community"
-    }
-  },
-  {
-    "title": "Rumor: Street Fighter 6 Year 4 DLC characters leak, includes big crossover - Nintendo Everything",
-    "description": "Rumor: Street Fighter 6 Year 4 DLC characters leak, includes big crossover  Nintendo Everything'Street Fighter 6' DLC Rumors: Tifa Lockhart, Vega Leaked for Year 4 Character Pass  player.oneTifa Lockhart Reportedly Coming to Street Fighter 6 DLC, New Leak Claims  VICERumour: Tifa is joining Street Fighter 6  Gamereactor UK",
-    "published date": "Wed, 22 Apr 2026 00:38:45 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVW9MYnlJQnlYNTYzOFZ4OWFuTTlwR3J4ZGJUdUlYSkFqZUhFZnJ1UkMtM1FuTy1BMUNQZzZhT01YS0tFclZubkI0YnNPZ3hORVduX0RRdkpWVjRkY0hzWWNZeEliSV92Qm9PckhNS1lUU1I4blZKbXY3bmxPQ2djQUgyMWgzLUtvUzR2ZGpoSzctLTZnWm5JZWZFekgwRWNmaF9vVWQ0OA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://nintendoeverything.com",
-      "title": "Nintendo Everything"
-    }
-  },
-  {
-    "title": "Leaker: Apple Downgrading iPhone 18 to Cut Costs - MacRumors",
-    "description": "Leaker: Apple Downgrading iPhone 18 to Cut Costs  MacRumorsExclusive look at Dark Cherry and the rest of the iPhone 18 Pro colors  MacworldLatest iPhone rumors: iPhone 18 colors and cameras appear in new leaks  MashableReal photo of iPhone 18 Pro in new colors reveals two very welcome changes  PhoneArenaiPhone 18 Pro release date: Here’s when Apple’s new flagship is coming  9to5Mac",
-    "published date": "Mon, 20 Apr 2026 16:12:57 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOXNDR3NDRHNGWnc2aTFRZm5YYkhfOTFlNmplZV83M0wxSVprLUZnYWRUaG5Ld2ZRWEdBMkFobGV0ZHllRzNnS2VWTTU3UjQ3d3Z4cHAwYlNJNjFhajcxZzl1WE45LXNlRmJmRk1RYzFZcFhFZ2ZfSEhwN2Q3Tmh2U09RcWo?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.macrumors.com",
-      "title": "MacRumors"
-    }
-  },
-  {
-    "title": "The Arab Israeli Engineer From Haifa Poised to Become One of Apple's Top Leaders - Haaretz",
-    "description": "The Arab Israeli Engineer From Haifa Poised to Become One of Apple's Top Leaders  HaaretzJohny Srouji named Apple’s Chief Hardware Officer  AppleApple's elevation of silicon head Johny Srouji signals sprint to build in-house chips for all devices  CNBCApple to Focus Hardware Team on Five Areas Under Johny Srouji  Bloomberg.comNew Apple hardware chief wastes little time in introducing five underlings  AppleInsider",
-    "published date": "Tue, 21 Apr 2026 13:58:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPdktmN2VKWndXckhCRlRXTFBGZWdWcG55Y2pGSjVSZTBDdVM2WEcyb0ItT3cxdFdzcEhoRGlNQWhtVk9NN0psa1BCRUZVLVBTeDBPNEx6RWNfWS1xX3dLcW5EakUtZ0Nka0lDWnJhWDNjdm9tYVFPaHdBejBWWlBQNHE2NkRWR2RGcUQ0U1h0T0VucFZ6RkVpZ1ljREg5ZE5iS0NZV3NpYy1jdjRaSnRoUkdoeW5CdUdobEg2OVZIRFZLNjZmeXBqNkw1MXBDSnZUWGVXaVJ5dVhlTzVmZnNVVDVuUVd0dEhaRXdkUVhTd0Q0b1QyaVZ0RUVFX1NTR19EcHZ5b0lPX0dXaHBhSEN3UA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.haaretz.com",
-      "title": "Haaretz"
-    }
-  },
-  {
-    "title": "Sennheiser launches HD 480 Pro, the closed-back headphones fans have been waiting for - Engadget",
-    "description": "Sennheiser launches HD 480 Pro, the closed-back headphones fans have been waiting for  EngadgetSennheiser launches the closed-back HD 480 PRO headphones  SennheiserI’ve finally found a pair of closed-back headphones I don’t want to EQ straight away  MusicTechReview: Sennheiser HD 480 PRO  Mixdown MagazineSennheiser’s HDR 480 cans keep sound in where you need it  pickr.com.au",
-    "published date": "Tue, 21 Apr 2026 08:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNDdmQ25vMktIeVdmWjFqVmNyTXRTSW9LREI0bmxyYzl2N0xZVmctUXVjZ29YT1U5SGhjaS01dTdMWkZ3UXpQamJZVnBZXzRaTFRaemc5NnVRbHo5RkIxQjdoeExzU1hCdHppeFdXeTBmVVliX1JvWWZIUndBbDkydFZyWmpTTk1MRXMxTl9LME5UM2tkRVNELS1DZHNwazFRTDlKZkFNdHJTU3RjYUh3MS1VR05GQnpZY2NDTkhUYllyN0FRZGd4TEpqWHZxbVFVeFVNYUhCUmY?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.engadget.com",
-      "title": "Engadget"
+      "href": "https://www.sciencealert.com",
+      "title": "ScienceAlert"
     }
   },
   {
@@ -350,63 +430,63 @@
     }
   },
   {
-    "title": "Stop Paying for a VPN: Firefox Just Built One Right Into Your Browser - CNET",
-    "description": "Stop Paying for a VPN: Firefox Just Built One Right Into Your Browser  CNETFirefox 150 Is Now Available for Download, This Is What’s New  9to5LinuxFirefox 150 brings Linux emoji picker, PDF page ordering + more  OMG! UbuntuWhat’s new in Firefox mobile: Less clutter, more control and a free built-in VPN  blog.mozilla.orgFirefox 150 Arrives With Over 270 More Fixes, Plus New Features  Thurrott.com",
-    "published date": "Tue, 21 Apr 2026 16:01:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaExMVTY5enRNYUN6QTRMTVNFSzk0SlRoLTU4ZVA5REJ1bmlBWHlFYlRJWmhmTWRXN19xUFVFUHdVOFhWR3NFdmdXeUhWUzlvTzlFaXp4S2wtd1lPN2dyV1dLTC1zUzRhMVRjYnZJN1MxTmZFalppc3l2angwYlg3QUFrLVNJQjB3M2dGQS1aVDZfSE5PZFgwVmNSdVNBbEdxZHI1RHd2eU1xSGZwVE1UUXZERWRkejVL?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Da Speedwaaagh! begins with two new Ork Detachments - Warhammer Community",
+    "description": "Da Speedwaaagh! begins with two new Ork Detachments  Warhammer Community",
+    "published date": "Tue, 21 Apr 2026 14:57:09 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNjJfaTBuc3BFNkFuX252ZExyLVc2Qmg4ZUJCZUNSbjhSaUpDbmpGSTJLVzdkUExXWnRhVldpRWlHUDhfOWhKLW0tcXVSQ1RkQ1o1cWFyb0ZkVllsNVRjUmZYUTRUTDRkZDU0VVdLd2RXa2Q1T2c4M0prRl9sRmRkWWhuODZ6bWVtaS1PdGhMY3ZJbnpaQks1YkdTZlhOUXlhcC16ckZqQkhJWGpIZkNJRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.cnet.com",
-      "title": "CNET"
+      "href": "https://www.warhammer-community.com",
+      "title": "Warhammer Community"
     }
   },
   {
-    "title": "Steam Controller one step closer to launch after Valve teases 'unboxing' video with announcement pending - PC Guide",
-    "description": "Steam Controller one step closer to launch after Valve teases 'unboxing' video with announcement pending  PC GuideValve Uploads Steam Controller Unboxing Video, Launch Imminent  TechPowerUpNew Valve Leak May Tease Impending Steam Machine Release  comicbook.comSteam Surprise Hardware Announcement Spotted On Digital Store  GAMINGbibleRumors about a new Valve device have intensified - a hidden video has been found  ixbt.games",
-    "published date": "Tue, 21 Apr 2026 12:52:56 GMT",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVVdSS3FHLW5pZzdna05UUWRaMkV0aTNieXVUNjJfUEM1SmVTajk0aWdGT3ZkaXdwRUcyLVpWQUNUazJNRWh1cmtYVlBwNEMyR041WjFKNERBOGFiYVdyOHdIWXRQU1VhaE9DNkhQcDJCLU1uZER3QVFCaXZQQjBOcUcybVU2NENURDNVamFrWG1nMy1HeDM3ZXpOWl9MSFRVV245WUl2R1R1dkhYdndEWjJEcXVkV25CZkxiaDZ4ZEFERllvQlA2Qnl4NFg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "The Arab Israeli Engineer From Haifa Poised to Become One of Apple's Top Leaders - Haaretz",
+    "description": "The Arab Israeli Engineer From Haifa Poised to Become One of Apple's Top Leaders  HaaretzJohny Srouji named Apple’s Chief Hardware Officer  AppleApple's elevation of silicon head Johny Srouji signals sprint to build in-house chips for all devices  CNBCApple to Focus Hardware Team on Five Areas Under Johny Srouji  Bloomberg.comNew Apple hardware chief wastes little time in introducing five underlings  AppleInsider",
+    "published date": "Tue, 21 Apr 2026 13:58:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPdktmN2VKWndXckhCRlRXTFBGZWdWcG55Y2pGSjVSZTBDdVM2WEcyb0ItT3cxdFdzcEhoRGlNQWhtVk9NN0psa1BCRUZVLVBTeDBPNEx6RWNfWS1xX3dLcW5EakUtZ0Nka0lDWnJhWDNjdm9tYVFPaHdBejBWWlBQNHE2NkRWR2RGcUQ0U1h0T0VucFZ6RkVpZ1ljREg5ZE5iS0NZV3NpYy1jdjRaSnRoUkdoeW5CdUdobEg2OVZIRFZLNjZmeXBqNkw1MXBDSnZUWGVXaVJ5dVhlTzVmZnNVVDVuUVd0dEhaRXdkUVhTd0Q0b1QyaVZ0RUVFX1NTR19EcHZ5b0lPX0dXaHBhSEN3UA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.pcguide.com",
-      "title": "PC Guide"
+      "href": "https://www.haaretz.com",
+      "title": "Haaretz"
     }
   },
   {
-    "title": "Northrop Grumman takes $71 million charge on Vulcan booster issue - SpaceNews",
-    "description": "Northrop Grumman takes $71 million charge on Vulcan booster issue  SpaceNewsSpace Force Considers Using The Vulcan For Lower-Risk Missions  Orbital TodayVulcan rocket problems will affect new Pentagon launch contracts  MezhaVulcan woes will “absolutely” be a factor in Pentagon’s next rocket competition  Ars TechnicaSpace Force Weighs Options To Use Vulcan For Lower-Risk Missions  Aviation Week",
-    "published date": "Wed, 22 Apr 2026 02:19:37 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTWxZVWZScnA1RHR1ekZlaF9CZjgyZTQ4cWZSZm5ydktWV3hhVURzY01CU2ZfLU1JMXlENWJTdVJRellSVUktem1fLUVveGN6MGdWRXZfZ1JTR2hFeDViVzI1d0lzQlhYNFhHRmlJSzczY0dZRDU5Sk5JdWxXYVJKenRkVm9EeGtvQ0tjbDRFMUc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Leaker: Apple Downgrading iPhone 18 to Cut Costs - MacRumors",
+    "description": "Leaker: Apple Downgrading iPhone 18 to Cut Costs  MacRumorsExclusive look at Dark Cherry and the rest of the iPhone 18 Pro colors  MacworldiPhone 18 Pro's Special Color Rumored Yet Again  MacRumorsLatest iPhone rumors: iPhone 18 colors and cameras appear in new leaks  MashableApple to Downgrade The Base iPhone 18 With M12+ Display Tech From 2023 to Fund Pro-Tier Flagships  Wccftech",
+    "published date": "Mon, 20 Apr 2026 16:12:57 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOXNDR3NDRHNGWnc2aTFRZm5YYkhfOTFlNmplZV83M0wxSVprLUZnYWRUaG5Ld2ZRWEdBMkFobGV0ZHllRzNnS2VWTTU3UjQ3d3Z4cHAwYlNJNjFhajcxZzl1WE45LXNlRmJmRk1RYzFZcFhFZ2ZfSEhwN2Q3Tmh2U09RcWo?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://spacenews.com",
-      "title": "SpaceNews"
+      "href": "https://www.macrumors.com",
+      "title": "MacRumors"
     }
   },
   {
-    "title": "KB5083631: Microsoft explains how Windows 11 will get significantly faster soon - Neowin",
-    "description": "KB5083631: Microsoft explains how Windows 11 will get significantly faster soon  NeowinMicrosoft’s next Windows 11 update targets stability and speed  PCWorldMicrosoft tests Windows Explorer speed, performance improvements  BleepingComputerMicrosoft Expands Xbox Mode to Windows Laptops, PCs, and Tablets  TechPowerUpMicrosoft releases Xbox mode in Insider Canary build for Windows 11: Report  Business Standard",
-    "published date": "Mon, 20 Apr 2026 17:10:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQVFJWlVSeDV5YVBxemdIUFlTSFVQVEpIdjFCTFVMS0UtUGhMOUl2UDItX0NKNEpXQnl3XzVOaXpOdU13eWw1blRmNlhQbGVqNDR6MnNqU3JuUTB5NXlLSDZqVDNqdUF0NmlydHhIendOSlJkRDVySlkzTXczTG9FT21UV3ZLaThmRkJxVFljTHdYb2o4ZmlBUE1JbUR2Y1ZJT2M1Y3NOUnFNSFnSAaoBQVVfeXFMUHBiQzlVNnY5ZDlKMXRFRXFKd2laMmVfWFNjLTM5MmxjUHNfM0pwZEpzUTRkTDlKQVZsN0ZqeER1QU9RNVdHaFppc3NjeVEwSUpQS0lWSTVUYUNadGhnazBiZGtMRFNMVF9WUVlyc0xHRmFVX0xydWJ3dDhtQXdaUjM1M0V0U20tR0ROSmNNWXVMZkhYcExpVlpSeWdYb0tYTk1TQW85T09jMkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Oppo announces the Find X9 Ultra with a 50MP 10x optical zoom telephoto camera - Engadget",
+    "description": "Oppo announces the Find X9 Ultra with a 50MP 10x optical zoom telephoto camera  EngadgetAs a Pro Photographer, I've Loved Using Oppo's Find X9 Ultra  CNETI was happy with my Pixel camera until I tried the Oppo Find X9 Ultra [Gallery]  9to5GoogleOppo Find X9s and Find X9s Pro are official for different markets - GSMArena.com news  GSMArena.comOppo Find X9 Ultra: Where to buy yours  Tech Advisor",
+    "published date": "Tue, 21 Apr 2026 17:00:52 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTDFBTDZLNS1taktxckxPQ2tRS1RGZEw3OXlFSWFwNUx0X1lFYVNsN2lIcW4zejAtYnBRd1d2aHdiSGpBeHBNeHZWOVFOejJMWG82bF9QY0JhZ2pjemg4RVAyYnptZE9ibkFVa2tYUEY5T1JIWXl6QURBLWdGLVdIaVRoNGVQMW5nVktCTGIydllNS2lvVEd5bWwycGFXVlJTWlJMY1l3Nmc4T3Z1VENLYVByZGl6Wlp0ZTcxWU5WX1NPY20wNUItRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.neowin.net",
-      "title": "Neowin"
+      "href": "https://www.engadget.com",
+      "title": "Engadget"
     }
   },
   {
-    "title": "5 Things You Didn't Know Your Apple Watch's Digital Crown Can Do - bgr.com",
-    "description": "5 Things You Didn't Know Your Apple Watch's Digital Crown Can Do  bgr.com",
-    "published date": "Tue, 21 Apr 2026 23:17:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01SnRaOExCR1dYSFFaY3gzay0xYjNvMTBqLVBuTUt5NFF3a3BxalRpYW9iOWpnOGpiUWlvRlowVV9UWTV2ODl6MW1ic2FNTEFxZTc0S0k5bUlrb2tYTEkxRzh2UVRfSTFaMktwOXp3dVEtb21mQVlN?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Sennheiser launches HD 480 Pro, the closed-back headphones fans have been waiting for - Engadget",
+    "description": "Sennheiser launches HD 480 Pro, the closed-back headphones fans have been waiting for  EngadgetSennheiser launches the closed-back HD 480 PRO headphones  SennheiserI’ve finally found a pair of closed-back headphones I don’t want to EQ straight away  MusicTechReview: Sennheiser HD 480 PRO  Mixdown MagazineSennheiser’s HDR 480 cans keep sound in where you need it  pickr.com.au",
+    "published date": "Tue, 21 Apr 2026 08:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNDdmQ25vMktIeVdmWjFqVmNyTXRTSW9LREI0bmxyYzl2N0xZVmctUXVjZ29YT1U5SGhjaS01dTdMWkZ3UXpQamJZVnBZXzRaTFRaemc5NnVRbHo5RkIxQjdoeExzU1hCdHppeFdXeTBmVVliX1JvWWZIUndBbDkydFZyWmpTTk1MRXMxTl9LME5UM2tkRVNELS1DZHNwazFRTDlKZkFNdHJTU3RjYUh3MS1VR05GQnpZY2NDTkhUYllyN0FRZGd4TEpqWHZxbVFVeFVNYUhCUmY?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.bgr.com",
-      "title": "bgr.com"
+      "href": "https://www.engadget.com",
+      "title": "Engadget"
     }
   },
   {
-    "title": "Panasonic Introduces New Compact Standard Prime Lens to its Full Frame - Panasonic North America",
-    "description": "Panasonic Introduces New Compact Standard Prime Lens to its Full Frame  Panasonic North AmericaPanasonic Introduces Ultra Compact Lumix S 40mm f/2 Lens for L-Mount  PetaPixelThe L-Mount has a new everyday 40mm f/2 lens – and it's lighter than some kit lenses  Digital Camera WorldWhy the Panasonic 40mm f2 Could Be the Best Value Prime of the Year  The PhoblographerPanasonic Introduces a New Everyday Carry Prime Lens With Lightweight Versatility  No Film School",
-    "published date": "Tue, 21 Apr 2026 14:03:50 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV0E5MzNIYlpRM2c5TVlUblphZUNlTGQzamlZczFiaFdqbko2b2VMMWRjR2otQ1pWbE5DM3lmeUNzLVJNM0ZDUm9GMUdMWm9hRXVZNmF5RlRkemE2dGxpR3dXOFZicnBhQlRoVzZMMTNyekpPWXlvOVhpRm1XQkFSSFFJVWI5Y296UEozaW5sUEd2ejJwLThIN3ZtT2UxWGtYdEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Over 1,300 Microsoft SharePoint servers vulnerable to spoofing attacks - BleepingComputer",
+    "description": "Over 1,300 Microsoft SharePoint servers vulnerable to spoofing attacks  BleepingComputerPatch Tuesday, April 2026 Edition  Krebs on SecurityMicrosoft Issues Patches for SharePoint Zero-Day and 168 Other New Vulnerabilities  The Hacker NewsKB5083769: Microsoft updates Media Creation Tool for Windows 11 USB installations  NeowinMicrosoft Discloses ‘Monstrous’ Number Of Bugs As AI Discoveries Surge: Researcher  crn.com",
+    "published date": "Wed, 22 Apr 2026 06:53:02 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOazVYcHJweERQcnZrZU95eU1rWUk0ZzVjWkF0THM3dEJIQXo4RWt1ejVEZzFSZHpHNGR6LVp4aUFiZ2haNUFVaXYxaDZobGNaZmxUSGd0ZnZZaHBaanM1UVRhUzJla0lqUXgzTDNrZGh0aWxvQUl4ZDRQWV8xcHR0amJEM2xUcDJlaE9LcDI1ekU4a21tZkt2SWczTW5TaXhOVEtON0hMVlZjTUVGdDlHeDNJTkI2VEV30gG-AUFVX3lxTE5FazRnTHFNU05IX1BYdFZtSnBtUlpDaHVHb0Z2M1NSenM5V0FwUVpyS2Z0dGJOeEh5VzVyXzl0VFhZS0ptZWpwcF9YNEtUTXdEYXRYdWp1aldCd1JXWEdHcHhaVGFNX2M3TW1wVm5VN1hyZVNaTDh1ODNDNmZQZU5ITVowWU9aSTVBcTNQN1Jva1FldVZ1dzNyMDF2ckI3YXJGTkt1bXhyLUw1N3NWNVY2S0xPMzhuX2t5eWVNWVE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://na.panasonic.com",
-      "title": "Panasonic North America"
+      "href": "https://www.bleepingcomputer.com",
+      "title": "BleepingComputer"
     }
   },
   {
@@ -420,18 +500,38 @@
     }
   },
   {
-    "title": "Mega Excadrill ex from \"Abyss Eye\" Revealed! - PokeBeach",
-    "description": "Mega Excadrill ex from \"Abyss Eye\" Revealed!  PokeBeachPokémon Pitch Black | Release date and what to expect  Radio TimesPokemon TCG Reveals First Look at New Cards Featuring Megas from Legends: Z-A DLC  comicbook.comPokemon TCG Pitch Black set reportedly coming in 2026: Mega Darkrai ex, Abyss Eye link, and new Dark-type cards  The Times of IndiaFirst Pokémon TCG: Pitch Black Cards Appear Online  ScreenRant",
-    "published date": "Wed, 22 Apr 2026 10:18:22 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcUY5VndOSVFQRmhqblU4T19RWDdhdElZeGFxUTd1dWtrQkdFM3JmTzJrVjBUX1NRS3lMZjhtUEE0TmZTNUZmMmVrV1Q0LVI4czNxblJ4M1pYcTJyeWVvb3AtMTNEd25pN0ItMjFoSjFnYllmdExTZXZOMGs0VTdLNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Marathon Goes On Sale For The First Time As Fans Debate Free-To-Play Nuclear Option - Kotaku",
+    "description": "Marathon Goes On Sale For The First Time As Fans Debate Free-To-Play Nuclear Option  KotakuAs ‘Marathon’ Goes On Sale, Is A Free-To-Play Switch In The Cards?  Forbes‘Marathon’ delivers an extraction shooter that combines beauty and brutality | Video Game Odyssey  Chico Enterprise-RecordMarathon: Is It Worth Playing in 2026? Honest Review  PlayStation UniverseMarathon Already on Sale After 7 Weeks - Bungie Tries to Save Online Activity  ixbt.games",
+    "published date": "Tue, 21 Apr 2026 17:30:43 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ERmZ1RFdiYTU5aksxMEZWaWJuUTZ6WkxSNEtpeUJGX0stM0lwQVJyUWtwRVFBc2JhWkhuNWljeHE5ZEdNNTREemVHV0ZkTDd3WlhwN2ZwTTVaS1lrSHVyV1dlR0hJMG1XeGxUekF4QloxUGM2azE1YXB3?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.pokebeach.com",
-      "title": "PokeBeach"
+      "href": "https://kotaku.com",
+      "title": "Kotaku"
+    }
+  },
+  {
+    "title": "Panasonic Introduces New Compact Standard Prime Lens to its Full Frame - Panasonic North America",
+    "description": "Panasonic Introduces New Compact Standard Prime Lens to its Full Frame  Panasonic North AmericaPanasonic Lumix S 40mm f/2 Review: The Lens the S9 Needed  PetaPixelThe L-Mount has a new everyday 40mm f/2 lens – and it's lighter than some kit lenses  Digital Camera WorldWhy the Panasonic 40mm f2 Could Be the Best Value Prime of the Year  The PhoblographerPanasonic Introduces a New Everyday Carry Prime Lens With Lightweight Versatility  No Film School",
+    "published date": "Tue, 21 Apr 2026 14:03:50 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV0E5MzNIYlpRM2c5TVlUblphZUNlTGQzamlZczFiaFdqbko2b2VMMWRjR2otQ1pWbE5DM3lmeUNzLVJNM0ZDUm9GMUdMWm9hRXVZNmF5RlRkemE2dGxpR3dXOFZicnBhQlRoVzZMMTNyekpPWXlvOVhpRm1XQkFSSFFJVWI5Y296UEozaW5sUEd2ejJwLThIN3ZtT2UxWGtYdEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://na.panasonic.com",
+      "title": "Panasonic North America"
+    }
+  },
+  {
+    "title": "5 Things You Didn't Know Your Apple Watch's Digital Crown Can Do - bgr.com",
+    "description": "5 Things You Didn't Know Your Apple Watch's Digital Crown Can Do  bgr.com",
+    "published date": "Tue, 21 Apr 2026 23:17:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01SnRaOExCR1dYSFFaY3gzay0xYjNvMTBqLVBuTUt5NFF3a3BxalRpYW9iOWpnOGpiUWlvRlowVV9UWTV2ODl6MW1ic2FNTEFxZTc0S0k5bUlrb2tYTEkxRzh2UVRfSTFaMktwOXp3dVEtb21mQVlN?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bgr.com",
+      "title": "bgr.com"
     }
   },
   {
     "title": "Poll: What Review Score Would You Give Tomodachi Life: Living The Dream? - Nintendo Life",
-    "description": "Poll: What Review Score Would You Give Tomodachi Life: Living The Dream?  Nintendo LifeTomodachi Life: Living the Dream is here!  nintendo.comTomodachi Life: Living the Dream Review  IGNTomodachi Life: Living the Dream devs say the Mii mechanics took '6 or 7 years' to finetune because 'we came up with more and more ideas as development progressed' — 'There was even a time when we thought leaving it chaotic like that might actually be ki  TechRadarUK Charts: Tomodachi Life Is Living The Dream In Its Debut Week  Nintendo Life",
+    "description": "Poll: What Review Score Would You Give Tomodachi Life: Living The Dream?  Nintendo LifeTomodachi Life: Living the Dream is here!  NintendoTomodachi Life: Living the Dream Review  IGNTomodachi Life: Living the Dream devs say the Mii mechanics took '6 or 7 years' to finetune because 'we came up with more and more ideas as development progressed' — 'There was even a time when we thought leaving it chaotic like that might actually be ki  TechRadarTomodachi Life: Living the Dream gives you permission to get intricately stupid  Polygon.com",
     "published date": "Tue, 21 Apr 2026 11:30:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd0ZMMUlwU1UxRmNHNDBJTkJPVDh4S1kxcUtGVFJwSW1LNGRZeXdzSWZaZHlEM0hKRTI0RnpISmhVM2hJTzBCQjRCVzlNMWZHMmtRZXJHWjN2dDNROHJPS3prMi1RV3NPQks2Y2sxNTVJOGlObzdoZVRNUjNxNm0yRWhDbmRrbXZISFFwcElUb250SnRCMkxRZU1SY2FrX1FQcWwwNDlTUjJycFE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -440,13 +540,13 @@
     }
   },
   {
-    "title": "Marathon Goes On Sale For The First Time As Fans Debate Free-To-Play Nuclear Option - Kotaku",
-    "description": "Marathon Goes On Sale For The First Time As Fans Debate Free-To-Play Nuclear Option  KotakuAs ‘Marathon’ Goes On Sale, Is A Free-To-Play Switch In The Cards?  Forbes‘Marathon’ delivers an extraction shooter that combines beauty and brutality | Video Game Odyssey  Chico Enterprise-RecordMarathon: Is It Worth Playing in 2026? Honest Review  PlayStation UniverseMarathon Already on Sale After 7 Weeks - Bungie Tries to Save Online Activity  ixbt.games",
-    "published date": "Tue, 21 Apr 2026 17:30:43 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ERmZ1RFdiYTU5aksxMEZWaWJuUTZ6WkxSNEtpeUJGX0stM0lwQVJyUWtwRVFBc2JhWkhuNWljeHE5ZEdNNTREemVHV0ZkTDd3WlhwN2ZwTTVaS1lrSHVyV1dlR0hJMG1XeGxUekF4QloxUGM2azE1YXB3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Mega Excadrill ex from \"Abyss Eye\" Revealed! - PokeBeach",
+    "description": "Mega Excadrill ex from \"Abyss Eye\" Revealed!  PokeBeachPokémon Pitch Black | Release date and what to expect  Radio TimesPokemon TCG Reveals First Look at New Cards Featuring Megas from Legends: Z-A DLC  comicbook.comPokemon TCG Pitch Black set reportedly coming in 2026: Mega Darkrai ex, Abyss Eye link, and new Dark-type cards  The Times of IndiaFirst Pokémon TCG: Pitch Black Cards Appear Online  ScreenRant",
+    "published date": "Wed, 22 Apr 2026 10:18:22 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcUY5VndOSVFQRmhqblU4T19RWDdhdElZeGFxUTd1dWtrQkdFM3JmTzJrVjBUX1NRS3lMZjhtUEE0TmZTNUZmMmVrV1Q0LVI4czNxblJ4M1pYcTJyeWVvb3AtMTNEd25pN0ItMjFoSjFnYllmdExTZXZOMGs0VTdLNA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://kotaku.com",
-      "title": "Kotaku"
+      "href": "https://www.pokebeach.com",
+      "title": "PokeBeach"
     }
   },
   {
@@ -460,13 +560,33 @@
     }
   },
   {
-    "title": "NotebookLM just launched a major update that is everything I wanted from the app - Android Police",
-    "description": "NotebookLM just launched a major update that is everything I wanted from the app  Android PoliceI finally figured out when to use Gemini Notebooks vs NotebookLM — here’s the winning workflow  Tom's Guide5 ways to make Gemini Notebooks your favorite feature  TechRadarNotebooks are now available for free Gemini app users  9to5GoogleWhy You Might Be Using the Wrong Google Gemini Tool for Your Workflows  Geeky Gadgets",
-    "published date": "Tue, 21 Apr 2026 10:01:11 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX3BtN1RWdUVvdVB5clc1dUVUWVh6SGQxdWJJWFFDV0VBNFRKTHNTYWZBdzlJNW1IUWNHSXNia3RoNHJaR00tcVlSRFB1RHFyNVlpR1BjZHB6Y1l0dHI0U0JrQmxHaVkwcDVqbldDN0R2SkhZeFdJTTM3d0dET2JKS3BlcVdiZ1h3MXZJMFZ2NUtVbFAxMGVZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Google’s Whoop rival looks surprisingly affordable as its launch nears - Android Police",
+    "description": "Google’s Whoop rival looks surprisingly affordable as its launch nears  Android PoliceGoogle’s Fitbit Air Will Come in 3 Colors, Several Band Options  Droid LifeSources: 'Fitbit Air' is a screen-less Whoop competitor debuting with 'Google Health' subscription  9to5GoogleFitbit screenless fitness tracker: Screens are out, and honestly, I’m here for it  Gadget FlowSteph Curry is testing Google and Fitbit's screenless Whoop competitor: Everything we know  Mashable",
+    "published date": "Tue, 21 Apr 2026 06:10:43 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdDRJcUYzbmV6UlhpTi1Zb3VuNHNoZV9ydW5UdGlDUTdmVkRtcXhBdmNFc2t5blljdWxqY2Yzd09pZ213YkRudXgzRU83eldHTHlyOHRUYVZKbnNvMWhHbldZM1h4LUFRVUZUdHV3ZG9JMGE4Q2ZQVngzRXJCVE1TU2trTnNKS2RSNHRUcWtnQXlYZ01YRHJfZg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.androidpolice.com",
       "title": "Android Police"
+    }
+  },
+  {
+    "title": "WhatsApp Testing Paid 'Plus' Subscription Tier – Here's What's Included - MacRumors",
+    "description": "WhatsApp Testing Paid 'Plus' Subscription Tier – Here's What's Included  MacRumorsMark Zuckerberg Is Trying to Figure Out What You’ll Pay Him For  New York MagazineWhatsApp Joins Instagram in Selling New Premium Subscriptions  Bloomberg.comWhatsApp is testing a premium subscription, but it is mainly cosmetic  TechCrunchWhatsApp tests ‘Plus’ subscription that adds stickers and more for a few bucks a month  The Verge",
+    "published date": "Tue, 21 Apr 2026 13:22:16 GMT",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VRXY0NDl0RE50THNGNUU5YVZpV3NKZWlxUmRwRUVrOEFIS2tScHRYR3FkVjBheDA2a1RHNjg4Z3MwZFp0SXdOT2xiN1VpWXlGQndKRjRYb0h5ZkxGVVJ1c01oRzZMSS14WGNKRTd1cEk4LTJUdzQwNV9ocw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.macrumors.com",
+      "title": "MacRumors"
+    }
+  },
+  {
+    "title": "Samsung is ending Messages in July: 5 replacements I'd switch to now - ZDNET",
+    "description": "Samsung is ending Messages in July: 5 replacements I'd switch to now  ZDNETView Full Coverage on Google News",
+    "published date": "Tue, 21 Apr 2026 14:03:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QMVRtdTk1WWwwUUs4d0F2VXpqcEl3WGZ2aFdFRm5yTUJwX2FYU2ZvLXpZelVCcE1heGxKZGNnMW4yOTZTQ1FOU0xVQ002ZzJSRlY0U1VYMkUwSF9FQW1FMElUeDcya09Fby1UYXNhY2FLbHFPcV9kTjl6TQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.zdnet.com",
+      "title": "ZDNET"
     }
   },
   {
@@ -477,16 +597,6 @@
     "publisher": {
       "href": "https://www.jalopnik.com",
       "title": "Jalopnik"
-    }
-  },
-  {
-    "title": "Google’s Whoop rival looks surprisingly affordable as its launch nears - Android Police",
-    "description": "Google’s Whoop rival looks surprisingly affordable as its launch nears  Android PoliceGoogle’s Fitbit Air Will Come in 3 Colors, Several Band Options  Droid LifeSources: 'Fitbit Air' is a screen-less Whoop competitor debuting with 'Google Health' subscription  9to5GoogleFitbit screenless fitness tracker: Screens are out, and honestly, I’m here for it  Gadget FlowThe latest Fitbit Air leak gives us colors, a launch date, and a possible price — and I've got my money ready  TechRadar",
-    "published date": "Tue, 21 Apr 2026 06:10:43 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdDRJcUYzbmV6UlhpTi1Zb3VuNHNoZV9ydW5UdGlDUTdmVkRtcXhBdmNFc2t5blljdWxqY2Yzd09pZ213YkRudXgzRU83eldHTHlyOHRUYVZKbnNvMWhHbldZM1h4LUFRVUZUdHV3ZG9JMGE4Q2ZQVngzRXJCVE1TU2trTnNKS2RSNHRUcWtnQXlYZ01YRHJfZg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.androidpolice.com",
-      "title": "Android Police"
     }
   },
   {
@@ -520,63 +630,33 @@
     }
   },
   {
-    "title": "Samsung is ending Messages in July: 5 replacements I'd switch to now - ZDNET",
-    "description": "Samsung is ending Messages in July: 5 replacements I'd switch to now  ZDNET",
-    "published date": "Tue, 21 Apr 2026 14:03:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QMVRtdTk1WWwwUUs4d0F2VXpqcEl3WGZ2aFdFRm5yTUJwX2FYU2ZvLXpZelVCcE1heGxKZGNnMW4yOTZTQ1FOU0xVQ002ZzJSRlY0U1VYMkUwSF9FQW1FMElUeDcya09Fby1UYXNhY2FLbHFPcV9kTjl6TQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "NotebookLM just launched a major update that is everything I wanted from the app - Android Police",
+    "description": "NotebookLM just launched a major update that is everything I wanted from the app  Android PoliceI finally figured out when to use Gemini Notebooks vs NotebookLM — here’s the winning workflow  Tom's Guide5 ways to make Gemini Notebooks your favorite feature  TechRadarNotebooks are now available for free Gemini app users  9to5GoogleWhy You Might Be Using the Wrong Google Gemini Tool for Your Workflows  Geeky Gadgets",
+    "published date": "Tue, 21 Apr 2026 10:01:11 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX3BtN1RWdUVvdVB5clc1dUVUWVh6SGQxdWJJWFFDV0VBNFRKTHNTYWZBdzlJNW1IUWNHSXNia3RoNHJaR00tcVlSRFB1RHFyNVlpR1BjZHB6Y1l0dHI0U0JrQmxHaVkwcDVqbldDN0R2SkhZeFdJTTM3d0dET2JKS3BlcVdiZ1h3MXZJMFZ2NUtVbFAxMGVZ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.zdnet.com",
-      "title": "ZDNET"
+      "href": "https://www.androidpolice.com",
+      "title": "Android Police"
     }
   },
   {
-    "title": "Your Smartwatch May Be Getting 6 Key Health Metrics Wrong - ScienceAlert",
-    "description": "Your Smartwatch May Be Getting 6 Key Health Metrics Wrong  ScienceAlert",
-    "published date": "Tue, 21 Apr 2026 01:12:36 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSmtLVEFvbHZfVm1oeTJ6aGFrUnJmbFV3a3R3Z0plTFdaX3ZFaVAwU1A3cXM1OE1CSjZBRUVmWXg5amxBemQxVGZOVkRraFBjMVpHOVZ4cmJQeTNPTFRpMlNjbGJvZ0JlbFVrTGtKY0lQTUszTDJITXZoZUpiZVhJcEMxVEUtOGNYMElBbm5CSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "IKEA launches inflatable chair \"trapped within a metal frame\" - Dezeen",
+    "description": "IKEA launches inflatable chair \"trapped within a metal frame\"  DezeenAfter 30 Years of Trial and Error, IKEA Has Made Inflatable Furniture Chic  domino.comInside Ikea’s dream factory: Its prototyping lab (exclusive)  Fast CompanyIkea reveals new furniture, including a rocking bench, built for buddies  wallpaper.comA Beloved Ikea Collection Returns with a New Batch of Future Classics  Gear Patrol",
+    "published date": "Tue, 21 Apr 2026 10:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd1pjcUtHT2ZLY05YdHN5cFVWYmhab1dZdGJxZlVrSk9QTHZLWEhSSWdadlBsVDFYLTBmLU1nQ0psbWxMTklsWmZ3SkU5d1V1Y1FSTmk1T3BpNWd4VTk1OGd1bzRxcWZacGk3R25PaGtUOGRPT2p2WU1zMzRZTzZMcWdLSkplWWtITWc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.sciencealert.com",
-      "title": "ScienceAlert"
+      "href": "https://www.dezeen.com",
+      "title": "Dezeen"
     }
   },
   {
     "title": "Nintendo Switch Users Have Thousands of Free Wii and GameCube Games Now - GAMINGbible",
     "description": "Nintendo Switch Users Have Thousands of Free Wii and GameCube Games Now  GAMINGbible",
-    "published date": "Tue, 21 Apr 2026 12:21:39 GMT",
+    "published date": "Wed, 22 Apr 2026 03:20:52 GMT",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOblN0bVZWMlVORlJOc1FOTVlQR1ZLa3h0THU0cGU0UWVTRTJubE1xVnlPQm1BMzhoYS1pUDNLNmF4RnlBV0FfbzN6NVBDbXRYZTY5MWdxRFNrSkg4NkQxU09kNHVMandMWWI0NEFIeG5TaGtFX2ZDZDRycDRFRUMxd2Rac0I3U2IzTDN2MGtoblRLejR6R21LZklXeXAzSVJydGp0TFdCenFhLWVVQ2RhNU9PbkJIUVk?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.gamingbible.com",
       "title": "GAMINGbible"
-    }
-  },
-  {
-    "title": "Top Racers Need Top Gear – Introducing the Forza Horizon 6 Limited Edition Controller and Headset - Xbox Wire",
-    "description": "Top Racers Need Top Gear – Introducing the Forza Horizon 6 Limited Edition Controller and Headset  Xbox WireForza Horizon 6 Controller And Headset Are Extremely Colorful, Preorders Now Live  GameSpotXbox’s New Hardware Has Been Revealed, and It’s Not Pretty  GAMINGbibleNew Xbox Controller & Game Pass April 2026 Lineup Unveiled Ahead of ID@Xbox Showcase  Comics Gaming MagazineSuddenly I NEED this controller to play Forza Horizon 6  BoxThisLap",
-    "published date": "Mon, 20 Apr 2026 13:58:12 GMT",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVlI0VDU3T2RBdDdtQlNaeW0tMWJETHJ6OE02OVNVWkhCdVV6bjRwY0RzZjZUejhVWXpNN0xxaFlwWjlOck1fZzNMNV9qSnA5NXJ4bVFqUnpXUFRPamV1YlVqQ1dfWHVZOUFIWWFXRUdya2x1SGpfa3NFVXp3V3U1anM3WUZnS1RMa0lGRE5vdjBCMWg2N2lSaWZSN0dYOFN6?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://news.xbox.com",
-      "title": "Xbox Wire"
-    }
-  },
-  {
-    "title": "WhatsApp Testing Paid 'Plus' Subscription Tier – Here's What's Included - MacRumors",
-    "description": "WhatsApp Testing Paid 'Plus' Subscription Tier – Here's What's Included  MacRumorsMark Zuckerberg Is Trying to Figure Out What You’ll Pay Him For  New York MagazineWhatsApp Joins Instagram in Selling New Premium Subscriptions  Bloomberg.comWhatsApp is testing a premium subscription, but it is mainly cosmetic  TechCrunchWhatsApp tests ‘Plus’ subscription that adds stickers and more for a few bucks a month  The Verge",
-    "published date": "Tue, 21 Apr 2026 13:22:16 GMT",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VRXY0NDl0RE50THNGNUU5YVZpV3NKZWlxUmRwRUVrOEFIS2tScHRYR3FkVjBheDA2a1RHNjg4Z3MwZFp0SXdOT2xiN1VpWXlGQndKRjRYb0h5ZkxGVVJ1c01oRzZMSS14WGNKRTd1cEk4LTJUdzQwNV9ocw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.macrumors.com",
-      "title": "MacRumors"
-    }
-  },
-  {
-    "title": "Is Leica Working on a Medium Format Mirrorless Camera With Gpixel Sensor? - Y.M.Cinema Magazine",
-    "description": "Is Leica Working on a Medium Format Mirrorless Camera With Gpixel Sensor?  Y.M.Cinema MagazineWhy the Golden Age of Leica is About to Return  The PhoblographerLeica Partners With Gpixel to Make Its Next-Generation Image Sensor  PetaPixelLeica Camera and Gpixel Partner on Sensor Development | Business | Apr 2026  Photonics SpectraLeica & Gpixel team up to build a next-generation sensor for future cameras  Digital Camera World",
-    "published date": "Tue, 21 Apr 2026 08:00:02 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV3l1VU9pU2N4TmlzTUJyb1hLb1dKTVEwVHNmc3RXZzd0d1F2V210aVNxZ2l2NFF3TzJZRzZxOEY2S0g5SHRaSHFjRFlSWkdEOHlmdXJjOEN6UWE0MmhEU240LVlLb3J0d1J2LTc4WUlmd3czTjBBRHRIeTREMklVVTRjQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://ymcinema.com",
-      "title": "Y.M.Cinema Magazine"
     }
   },
   {
@@ -587,6 +667,16 @@
     "publisher": {
       "href": "https://www.inc.com",
       "title": "inc.com"
+    }
+  },
+  {
+    "title": "Xbox Series X|S gets two fresh dynamic backgrounds - TrueAchievements",
+    "description": "Xbox Series X|S gets two fresh dynamic backgrounds  TrueAchievementsDouble Fine's cozy new brawler Kiln has been 9 years in the making  Polygon.comXbox's Next First-Party Game Arrives This Week, And Preloads Have Already Begun  Pure XboxWe Like Big Pots And We Cannot Lie: Xbox's Kiln Sweepstakes Gets Cheeky  GameSpotA Truly Cheeky Giveaway: The Butt-iful Collection, By Kiln  Xbox Wire",
+    "published date": "Tue, 21 Apr 2026 11:58:02 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE91TFJ6TXBGS3N6eU1KTFc3Tjh0bzV2eDAyVHhJTEt3U3UtRk9MZV9yNGZDWk1ZSHRPUS1KbGpZWkpOcFpqR016MFJrVU5VSnNocTJJWThaVDIwUkpzQ0VwOGtWMmJTZ3ZKSkFrbUU5SzZVa09VbzJFbk5sV2NwZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.trueachievements.com",
+      "title": "TrueAchievements"
     }
   },
   {
@@ -607,36 +697,6 @@
     "publisher": {
       "href": "https://www.jalopnik.com",
       "title": "Jalopnik"
-    }
-  },
-  {
-    "title": "Google rolls out Gemini in Chrome in APAC countries - TechCrunch",
-    "description": "Google rolls out Gemini in Chrome in APAC countries  TechCrunchA new way to explore the web with AI Mode in Chrome  blog.googleGoogle brings Gemini in Chrome to users in Asia and the Pacific  EngadgetGoogle's AI Mode Update Tries to Kill Tab Hopping in Chrome  WIREDGoogle Embeds AI Into Chrome for 3.5 Billion Users  PYMNTS.com",
-    "published date": "Mon, 20 Apr 2026 22:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYnAxdmxiRGxCcFp0WnBBODFORm1zZllCa1Y2QWRpR1EtRDJONTBXY04wLW9ONFUzM0E3azk3Xy1FN1VUQXBRYjBPeUo3eEVWdEIzclUwT0kyRUNFVFJDb2l4NTJLekREQ1NYRlh0NV9KM25zYmVlWF9OajlDUWNQVm8taE5Ua0lvLWcySFpIaFFDNU90TEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://techcrunch.com",
-      "title": "TechCrunch"
-    }
-  },
-  {
-    "title": "Game Pass Is Adding Five Day-One New Releases In The Next Few Weeks - GameSpot",
-    "description": "Game Pass Is Adding Five Day-One New Releases In The Next Few Weeks  GameSpotComing to Xbox Game Pass: Kiln, Aphelion, Final Fantasy V, and More  Xbox WirePlay One of the Best Games of 2025 Right Now on Xbox Game Pass  CNETXbox Game Pass 10 New Free Games Includes A 30 Hour RPG  GAMINGbibleXbox Game Pass getting five day one releases for free, but I'm more worried about what's leaving the service  t3.com",
-    "published date": "Mon, 20 Apr 2026 14:36:25 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV1Nzem1mNEhMSmF3ampqUFV1czNRVy1EV3VUNWFuTmM1d2JkRHE2STVCZE1VRHlRVjhlbFVnb3lDeHlEVnJBUWZhMTlfaTQxVFc3X2ltd2xXZzZnMXlGTV9WU2JkY09aWWZiZUVFUUFfMlo1XzAwdmluV2dib2NLanlVVmt6VXJUZVlQMTBCM0tBYzg1VFpaRUNKZG5vRWhQbm4xRHZMUlVfdFd0TVpPQg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.gamespot.com",
-      "title": "GameSpot"
-    }
-  },
-  {
-    "title": "iOS 27 Rumored to Drop Support for These iPhone Models - MacRumors",
-    "description": "iOS 27 Rumored to Drop Support for These iPhone Models  MacRumorsiOS 27 will drop support for four iPhone models, says leaker  9to5MacThese four iPhones are rumored not to be getting iOS 27 and Siri 2.0  PhoneArenaiPhone update alert: if you own one of these four models, you (probably) won’t be getting iOS 27  stuff.tvApple iOS27 won’t support iPhone 11, Jeff Bezos nears $10bn funding for AI Lab  Tech Digest",
-    "published date": "Mon, 20 Apr 2026 14:53:38 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSDNfempMRnBWRW82Mkhua3BDdjk3Nk1QZ1RGeWhsVWFTU01YZDk4MUFRMmo4VmNtZHhOTS1XNFVZaUZFUmhsVko2Nm1SY1JEMGpadVkzeElXc2x5bzNfNl93eTNrb1EzVE9yYlFHdm43VDh6SS1OTDBUVXctSE9oTA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.macrumors.com",
-      "title": "MacRumors"
     }
   }
 ]
