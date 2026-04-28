@@ -1,15 +1,5 @@
 [
   {
-    "title": "Valve’s Steam Controller Gets an Official Price & Release Date! - Comics Gaming Magazine",
-    "description": "Valve’s Steam Controller Gets an Official Price & Release Date!  Comics Gaming MagazineValve launches the Steam Controller without the Steam Machine  The VergeSteam Machine feels like the gaming PC evolution I actually want — because of Windows  Yahoo News CanadaValve Steam Controller review: A gamepad in search of a console  EngadgetThe Steam controller is a near-perfect PC gamepad that should only get better  Polygon.com",
-    "published date": "Mon, 27 Apr 2026 18:56:58 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbExqZGpGcFBodVdjdnVwSTgxY3BTZDNYQ0NQZnJ1OVI3MUoyT0xUbzJNNWJMVXNydUhxTG9rc3RwWEYtOGgtZk9DLWk0bXk2OGlRVHJQd3ZTd3NseFVDR28waF9SMDhtQ3V6SGlGNzVUd2M1NUxjUGhyWmZnQlNIYg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cgmagonline.com",
-      "title": "Comics Gaming Magazine"
-    }
-  },
-  {
     "title": "The Rise of AI Chatbot Addiction - Neuroscience News",
     "description": "The Rise of AI Chatbot Addiction  Neuroscience NewsAre you addicted to your AI chatbot? It might be by design  UBC ScienceVinay Menon: Of course chatbots can be rude and threatening, as new research finds. They learned everything from us  Toronto Star",
     "published date": "Mon, 27 Apr 2026 17:31:59 GMT",
@@ -20,13 +10,23 @@
     }
   },
   {
-    "title": "Warlock Leveling Guides Now Available! - Maxroll",
-    "description": "Warlock Leveling Guides Now Available!  MaxrollDread Claws Warlock Leveling Guide for Diablo IV Season 13 - Season of Reckoning  MaxrollMinions Warlock Endgame Build Guide  MobalyticsBlazing Scream Warlock Endgame Build Guide  Mobalytics",
-    "published date": "Mon, 27 Apr 2026 07:59:51 GMT",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNRGtPZGlDMGgtWjVfMy1IbHAyNDFDQ0h2aS0wcnhyV1dPX081QzBIZk0xeEZTb0dOdTdtdGllazhMTE5UaGppcHNLaVVhZHFvNW1MQXlNazBuRXVKMTRPdTJicVBUQ2hySUlqZ3Y2LUpadw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Diablo 4 Season 13 & LoH Best Leveling Builds & Guide for All Classes - AOEAH",
+    "description": "Diablo 4 Season 13 & LoH Best Leveling Builds & Guide for All Classes  AOEAHDread Claws Warlock Leveling Guide for Diablo IV Season 13 - Season of Reckoning  MaxrollMinions Warlock Endgame Build Guide  MobalyticsWarlock Leveling Guides Now Available!  MaxrollBlazing Scream Warlock Endgame Build Guide  Mobalytics",
+    "published date": "Mon, 27 Apr 2026 03:57:22 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORm9xVDVwY041Mkd1dFJrTFlXa1p1SDRDVUhxUzgyQnM3bUdZaklHU3FsWVVQb0dkRi1KUmxaVlAtc3pDdjZMbnYyU0FveWJMMFdOclNDQVg0SjluSjZfV0FlX0pXQUlzTmRBaW1faG1tNHAwYWxaeTVvQXQ5aXRLVUtmZlA5T21qdmNkdVcyZW1RNEU0UGdqNTJaalJINVRXVnc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://maxroll.gg",
-      "title": "Maxroll"
+      "href": "https://www.aoeah.com",
+      "title": "AOEAH"
+    }
+  },
+  {
+    "title": "Valve’s Steam Controller Gets an Official Price & Release Date! - Comics Gaming Magazine",
+    "description": "Valve’s Steam Controller Gets an Official Price & Release Date!  Comics Gaming MagazineValve launches the Steam Controller without the Steam Machine  The VergeSteam Machine feels like the gaming PC evolution I actually want — because of Windows  Yahoo News CanadaValve Steam Controller review: A gamepad in search of a console  EngadgetSteam Controller developer interview — Valve talks design, the learning curve, and the lack of kernel drivers  Tom's Hardware",
+    "published date": "Mon, 27 Apr 2026 18:56:58 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbExqZGpGcFBodVdjdnVwSTgxY3BTZDNYQ0NQZnJ1OVI3MUoyT0xUbzJNNWJMVXNydUhxTG9rc3RwWEYtOGgtZk9DLWk0bXk2OGlRVHJQd3ZTd3NseFVDR28waF9SMDhtQ3V6SGlGNzVUd2M1NUxjUGhyWmZnQlNIYg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cgmagonline.com",
+      "title": "Comics Gaming Magazine"
     }
   },
   {
@@ -40,28 +40,18 @@
     }
   },
   {
-    "title": "An AI agent allegedly deleted a startup's production database, causing a huge outage - Mashable SEA",
-    "description": "An AI agent allegedly deleted a startup's production database, causing a huge outage  Mashable SEAView Full Coverage on Google News",
-    "published date": "Mon, 27 Apr 2026 18:58:04 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZGxiRU1VckMyZTBDdEVha0lFZFRVT1RscUV1YkxuaDVid2VyZFBpQy1DNE1leHFxY1l5cHlFOE1qTW53VXA1Z1k2YmRIdlY0SzZ6ZndfOWFBbjEydDYwb2NncllSdGxUemhVNlRCSjNTNlRQOE9xMXFMWEV4YThYbWlEWUdOaWhyRE0tNlM0U1NHMkVuakZFbUZmUnZZdXRHcGFiTzhlVnRGYU04VkhtcVVOLVhkUXl1Tnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Is Microsoft Outlook down? Thousands report outages in Canada: Downdetector - CP24",
+    "description": "Is Microsoft Outlook down? Thousands report outages in Canada: Downdetector  CP24Microsoft Outlook's Outage Is Fixed, but You May Have to Log Back In  CNETIs Microsoft Outlook down? Latest on the outage impacting thousands  Yahoo News CanadaMicrosoft Outlook issues today: Why you can't log in  MashableIs Outlook down right now? Users report issues with iPhone app  Asbury Park Press",
+    "published date": "Mon, 27 Apr 2026 23:57:03 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVk9vV0VqelVTMmRMLTJEdTV5eFNjenc4MU9CRVJLX1NGN0gyaVd2VU14dnBWWWhCWnl4bUpzVG1DWEROMzFNYUo5akNaTUJxeFVFb0tjQmEzbmpYVENOdVJiQWhneU9NWUhrVnZoSEp3Q01MT2t1bVVsWloyNXVDNVJWenFrSktjbmpEWWE3ZmVTZm9DWk1zWmFUb0VZSHpMRnk0eEc1MnJtMllXRU1UWHpTYlBTN2tYVGc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://sea.mashable.com",
-      "title": "Mashable SEA"
-    }
-  },
-  {
-    "title": "Is Microsoft Outlook down? Thousands report outages in Canada: Downdetector - CTV News",
-    "description": "Is Microsoft Outlook down? Thousands report outages in Canada: Downdetector  CTV NewsMicrosoft Outlook's Outage Is Fixed, but You May Have to Log Back In  CNETMicrosoft Outlook issues today: Why you can't log in  MashableIs Microsoft Outlook down? Latest on the outage impacting thousands  Yahoo News CanadaIs Outlook down right now? Users report issues with iPhone app  Asbury Park Press",
-    "published date": "Mon, 27 Apr 2026 19:42:26 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdXdia3FMWWw4azJXVW5fMXE4Y0R4eWRMUDFCQnIzNnlqTnctWlRKREozQVR6VUczUUdHbndBVm5MTjBwelplOFF0dDB1Y0tZT3loOG1wc3JKSzZFUmJSUHlkRFAyWThVQlpSdGxyVG5oQlZTejZ6RDBNYmZVZHlhZm91NmlUNnlWbW5PVW56ODFENXZjT0VxcDNRWDhnaVNfUGgxalRtcW45bFNodWt3MGFTdm0?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ctvnews.ca",
-      "title": "CTV News"
+      "href": "https://www.cp24.com",
+      "title": "CP24"
     }
   },
   {
     "title": "Arc Raiders Riven Tides Update Patch Notes: New Map, ARC Turbine Enemy, and More - Beebom",
-    "description": "Arc Raiders Riven Tides Update Patch Notes: New Map, ARC Turbine Enemy, and More  BeebomRiven Tides update - Reclaim the coast  ARC RaidersArc Raiders Riven Tides Trailer Reveals Massive Beach-Themed Update With New Seaside Map and Turbine Enemy  IGNTrials season 4: What’s on the horizon  ARC Raiders",
+    "description": "Arc Raiders Riven Tides Update Patch Notes: New Map, ARC Turbine Enemy, and More  BeebomRiven Tides update - Reclaim the coast  ARC RaidersArc Raiders' biggest update yet adds a new map and a massive new enemy  Polygon.comTrials season 4: What’s on the horizon  ARC RaidersArc Raiders Riven Tides Trailer Reveals Massive Beach-Themed Update With New Seaside Map and Turbine Enemy  IGN",
     "published date": "Mon, 27 Apr 2026 17:28:29 GMT",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tcXN4Wm9EbDdNRFU4ekhHQ0VaN1l0Z3QyelFKNUFrbUNhYThETm9qdDhRUjU1Z3F4eExTcXJvSm5EQ09WV0hPazcyemQwMUx0Zi01WjFZX2xlNTFFMS02R09TcjhRTXhZcFZqeUNGSdIBdEFVX3lxTFBMVkREekFqTERsMTNGNlhjSzAyQTdiNElVYzJUQTdGU2xOd0dkS1VRUnBzcThZR01MNENyazF2VDhRQ1NRU281ZnlVOEFKMHV5RngyeGpjdkwzWDdGS2xwdWh2QUdyMmhjQ3d0cVB0dHloelo5?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -100,6 +90,16 @@
     }
   },
   {
+    "title": "Spring News Roundup: First Release Candidates of Boot, Security, Integration, Modulith, AMQP - infoq.com",
+    "description": "Spring News Roundup: First Release Candidates of Boot, Security, Integration, Modulith, AMQP  infoq.com",
+    "published date": "Mon, 27 Apr 2026 02:30:29 GMT",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54S0pySlNGSFNvZ3YyckRnRFRwZjA3ZTN0VUNsZ1RmNzNwX19kZnIxU3FWWk83NUNWeW84Q2EydUdNSjBhY1BSaUg0S0tuVU16azQ5dlo1NHNLYmJhLUJQczl0YWVScmxjWFlMSE1JOUF0eTNk?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.infoq.com",
+      "title": "infoq.com"
+    }
+  },
+  {
     "title": "Jaw-Dropping Custom Road and Gravel Bikes at The Bespoked Show, London - Outside Magazine",
     "description": "Jaw-Dropping Custom Road and Gravel Bikes at The Bespoked Show, London  Outside MagazineClever and Curious Bike Mods At The Bespoked Handmade Bike Show  Pinkbike14 Standout Custom MTBs from Bespoked London 2026  Pinkbikein Innerleithen, Scotland - photo by Jessie-MayM  Pinkbike",
     "published date": "Mon, 27 Apr 2026 17:50:45 GMT",
@@ -110,13 +110,13 @@
     }
   },
   {
-    "title": "Spring News Roundup: First Release Candidates of Boot, Security, Integration, Modulith, AMQP - infoq.com",
-    "description": "Spring News Roundup: First Release Candidates of Boot, Security, Integration, Modulith, AMQP  infoq.com",
-    "published date": "Mon, 27 Apr 2026 02:30:29 GMT",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54S0pySlNGSFNvZ3YyckRnRFRwZjA3ZTN0VUNsZ1RmNzNwX19kZnIxU3FWWk83NUNWeW84Q2EydUdNSjBhY1BSaUg0S0tuVU16azQ5dlo1NHNLYmJhLUJQczl0YWVScmxjWFlMSE1JOUF0eTNk?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "A chemistry lab that runs itself to find the perfect reaction - Nature",
+    "description": "A chemistry lab that runs itself to find the perfect reaction  Nature",
+    "published date": "Mon, 27 Apr 2026 18:22:30 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xMGdocEZZcXo2d1JwU0tVZWVKbTFOOFdjMUpVUTF3ZXFXa0hRZjFDbzlOVG1Eams5M0kxZTRnTDZFVTVqUUplRVRHWkgtd3VheVJUTFlIci1Gc09JWVNJ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.infoq.com",
-      "title": "infoq.com"
+      "href": "https://www.nature.com",
+      "title": "Nature"
     }
   },
   {
@@ -130,6 +130,16 @@
     }
   },
   {
+    "title": "“Not on the high street”: bespoke bike builders explain why they’re adopting 32in wheels - BikeRadar",
+    "description": "“Not on the high street”: bespoke bike builders explain why they’re adopting 32in wheels  BikeRadarTesting a 32\" Mega Mullet Downhill Bike Against the Clock  Pinkbike32-Inch Wheels Are Leaving Everyday Riders Behind  Outside Magazine5 things we learned about the future of 32″ bikes (and other wheel sizes) at Sea Otter  Canadian Cycling Magazine2026 Sea Otter Downhill Results: A First Win for a 32\" Mega Mullet Bike  Pinkbike",
+    "published date": "Mon, 27 Apr 2026 11:07:28 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYWpRMFZYRW91dENPbjU0cG5JdmN3anJCSEpQTi16QUxZOUxuLWEzc29YOFhrMGV6ampPMi1Ra2FMNDhTSGR3SmpQYXdHQWVhcG9RRjlBVnowQnZGSXQ5SWRYNUMyazQyT0JOLWlXOGxWelZrcW1JZTFEY0dLeC1IRWJqd1M3aTNqUF9MNEhscnJ5dmczQ2hXLQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bikeradar.com",
+      "title": "BikeRadar"
+    }
+  },
+  {
     "title": "Škoda Auto celebrates successful Milan Design Week with strong visitor interest and Fuorisalone Award recognition as highest-rated installation - Škoda Storyboard",
     "description": "Škoda Auto celebrates successful Milan Design Week with strong visitor interest and Fuorisalone Award recognition as highest-rated installation  Škoda Storyboardinflatable clay-like landscape by ulises studio fills palazzo del senato in milan with color  DesignboomSkoda's Inflatable Car Installation at Milan Design Week Looks Like a Bouncy Castle Grew Wheels  Yanko Design",
     "published date": "Mon, 27 Apr 2026 11:34:44 GMT",
@@ -140,28 +150,18 @@
     }
   },
   {
-    "title": "Here Are The ‘Diablo 4: Lord Of Hatred’ Launch Times In Your Region - Forbes",
-    "description": "Here Are The ‘Diablo 4: Lord Of Hatred’ Launch Times In Your Region  ForbesDiablo IV Patch Notes  Blizzard NewsDiablo 4: Lord Of Hatred Review-In-Progress - Mother Knows Best  GameSpotWar Plans  MaxrollDiablo 4: Lord of Hatred Global Release Times and Details Confirmed  IGN",
-    "published date": "Mon, 27 Apr 2026 13:13:07 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVkhTZ1hNT0pkQi0xd3RlWFJOa0FDeHZMOFY1Um1TNG9pVG43N1BrdUdwbWpOMlRIVGtXeG5CbUJtUkc3WmZ6RHNrdVZIelJIS09hMHk0a0dkYnJvcjVEckJKc0wzSUVTXy1CSFBqUkZVLWtLSnVGX2cwWFJXamcwdG9INmlpYk5nbnpHYlBNSjFSRjN1cTNKQzJ6M0hVaDI4RzVNLWtkaXV5Y3FEN01aWTY4SW90UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Qualcomm shares jump 13% premarket on report of OpenAI smartphone chip partnership - Yahoo! Finance Canada",
+    "description": "Qualcomm shares jump 13% premarket on report of OpenAI smartphone chip partnership  Yahoo! Finance CanadaQualcomm up 7% on report it’s partnering with OpenAI on smartphone AI chip  CNBCQualcomm stock pares back 12% jump as analyst points to next big catalyst for chipmaker  Yahoo FinanceOpenAI’s Revolutionary AI Gadget Is… a Phone? A Stinkin’ Phone?  GizmodoOpenAI could be making a phone with AI agents replacing apps  TechCrunch",
+    "published date": "Mon, 27 Apr 2026 09:54:10 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWWwwY1c1RlRPWWtjUGRtTHV1UG1hOWlrbUxTTWtZYjhFenllWWt1U3Q1Um9pb0tvdHp4bHFvc3RPMEExRTA3MGhocE9iRkFKTHJqQnk4ejdESVEwRkx4VVVYbms4Nm5rXzZDVkhQOGhwUFA0bGJpR1JnUjNLaXg4SW9oeU55THhf?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.forbes.com",
-      "title": "Forbes"
-    }
-  },
-  {
-    "title": "Stock Market Today, April 27: Qualcomm Rises on Reported OpenAI Smartphone Chip Collaboration - The Motley Fool",
-    "description": "Stock Market Today, April 27: Qualcomm Rises on Reported OpenAI Smartphone Chip Collaboration  The Motley FoolQualcomm up 7% on report it’s partnering with OpenAI on smartphone AI chip  CNBCQualcomm stock pares back 12% jump as analyst points to next big catalyst for chipmaker  Yahoo FinanceOpenAI’s Revolutionary AI Gadget Is… a Phone? A Stinkin’ Phone?  GizmodoOpenAI could be making a phone with AI agents replacing apps  TechCrunch",
-    "published date": "Mon, 27 Apr 2026 22:29:33 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbi1vdkFyd3h1cUNrZ25zRmY5SFB0ZGYxTzhnUDJTSXRQcGtOd0c1SjdCT2hvZnQzNzVreFdBSTljdnFRVjVxR0l4VUlJRjJzckhJXzFaOHpCU0I2RTZwTkhFTC1lT2Ftdl9obU8zTDExRmR0UkpTelB2QmtTTDcxRzhmM1FRclBRVnRHWjMycDBBa3lnZnFrMXVQai1vQ3lKa3JUYl9UWXN5bG93OTRxSWtZZ1hYZWhLSHhqemNqb3FjOVNqQ1NmRC1uMF9hR1ZXazF5ZFk2XzdjN0VLcGZKb2hiQUt1bUU?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.fool.com",
-      "title": "The Motley Fool"
+      "href": "https://ca.finance.yahoo.com",
+      "title": "Yahoo! Finance Canada"
     }
   },
   {
     "title": "Samsung Galaxy’s Ocean Mode and Coral Reef Initiative Receive International Recognition and Awards - samsung.com",
-    "description": "Samsung Galaxy’s Ocean Mode and Coral Reef Initiative Receive International Recognition and Awards  samsung.comOcean Mode and Samsung's coral protection efforts receive multiple awards  SamMobileSamsung’s Ocean Mode camera gains global recognition  Sammy Fans",
+    "description": "Samsung Galaxy’s Ocean Mode and Coral Reef Initiative Receive International Recognition and Awards  samsung.comOcean Mode and Samsung's coral protection efforts receive multiple awards  SamMobileSamsung’s Coral Reef Efforts Earn Recognition Thanks to Ocean Mode  SammyGuru",
     "published date": "Mon, 27 Apr 2026 14:20:02 GMT",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSkc0dGw4WHM0eUx4cjdhUnNLUEhoNTRKMkRYS0VTckpoSUt0X21QSTFjVDZrWlRLTjBmVjVzc0xyZjBnV0xRYnRTaENfRnlhVlNudkZzZlNYR3lXbmNHMVNGRlF2Nm16dXdhak9xd1NaM1hac2pYLUdSQXJUUTE1Rm9oV1VDVFJVUllzWWwtNUVPa01RejlWUjlEbTZLNHQ1RlEwTW1OQXJ6OUs1TFI1SklkYUxHdy1YMnlIcXZVUlJPeEk?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -180,6 +180,16 @@
     }
   },
   {
+    "title": "I've used Pixel Weather for 2 years — here's why I'm ditching it for Gradient Weather - Android Authority",
+    "description": "I've used Pixel Weather for 2 years — here's why I'm ditching it for Gradient Weather  Android Authority",
+    "published date": "Sun, 26 Apr 2026 09:31:54 GMT",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcjZrblZoTEwza1hCSnlNR3JDai10dFk4YUFJWnk4OWE4X2J4ak43YU51a2NkTk9sU2FuRE5KdHhTcUVjZDcyUmhZc200UDJYbEF5UXNpcnA3ZmtPaUV3SGY2dS10SVRndzREZ05XQXZ1WjJweXRhWWxlQ09leTdHcnBEQ1U5YnMxc2d2anpzUUwzeDJoUWJITTdVaXlJZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.androidauthority.com",
+      "title": "Android Authority"
+    }
+  },
+  {
     "title": "How emoji use at work can determine how competent your colleagues think you are - Phys.org",
     "description": "How emoji use at work can determine how competent your colleagues think you are  Phys.org",
     "published date": "Sun, 26 Apr 2026 16:30:01 GMT",
@@ -191,32 +201,12 @@
   },
   {
     "title": "I left Kindle for a better e-reader a year ago, and I recommend it to everyone - Android Police",
-    "description": "I left Kindle for a better e-reader a year ago, and I recommend it to everyone  Android PoliceAmazon is discontinuing multiple Kindle devices as of next month - National  Global NewsI'm never buying another Kindle, and neither should you  Android AuthorityAmazon’s May 20 Kindle Cutoff: Which Models are Affected and How to Keep Reading Anyway  PCMag",
+    "description": "I left Kindle for a better e-reader a year ago, and I recommend it to everyone  Android PoliceI've used Kindles for 15 years—here's why I won't buy another one  How-To Geek",
     "published date": "Sun, 26 Apr 2026 12:30:10 GMT",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSWxnQzNxMklMeGhrLTNQNVJnb0lOcjhtRU52alF1bDFfNFJxc2tVbFNYdm1BSmZxVnRSaldacV9UNU4zYmRTd3B4Rm5oVE1wRzFQaE1hYWhFYmp0cDYyV2Yya3hPRzkzSm0ybWVvZUJRUTA4d2pqWTNkNGRIRUsxYQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.androidpolice.com",
       "title": "Android Police"
-    }
-  },
-  {
-    "title": "Alberta Gold vs Alberta Red - FloHockey",
-    "description": "Alberta Gold vs Alberta Red  FloHockey",
-    "published date": "Sun, 26 Apr 2026 12:28:45 GMT",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90YjQ1S2V4TUx2SG9XNXF6YnpackZyRjZ0TW1GU2dIemFvYm5LMllwMzk3MFRPNGlfYm5QRTdDVzRaeEJ2UFNJWC1RZ2xub3M2emE4S3pKazVhRUNZalFYcEhGNTh5WEw3bWRFZFA2Y3liZldRbmtV?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.flohockey.tv",
-      "title": "FloHockey"
-    }
-  },
-  {
-    "title": "Xbox at Summer Game Fest Play Days 2026: Meet the Developers of This Year’s Featured Games - Xbox Wire",
-    "description": "Xbox at Summer Game Fest Play Days 2026: Meet the Developers of This Year’s Featured Games  Xbox Wire",
-    "published date": "Mon, 27 Apr 2026 13:04:23 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMmkwWDdKWlZjOFVrSWN4ODNwV3dULTBqZXJ1SVliMzhhS2x6QWRxaXNlcUJiNDJ2ZXRYNHhBNlczdExVRDd2S1U0MVVmMXNjU1BBNjdVcXJmNFd4QXBVbUQ5RS1OMm42U1ZmLXhzWUtmVzBXNFJrR2xvNW54eU1qbmgyX2NrYnFGWklhY2hndXpXTVFPN1VXYQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://news.xbox.com",
-      "title": "Xbox Wire"
     }
   },
   {
@@ -227,6 +217,16 @@
     "publisher": {
       "href": "https://www.techpowerup.com",
       "title": "TechPowerUp"
+    }
+  },
+  {
+    "title": "Xbox at Summer Game Fest Play Days 2026: Meet the Developers of This Year’s Featured Games - Xbox Wire",
+    "description": "Xbox at Summer Game Fest Play Days 2026: Meet the Developers of This Year’s Featured Games  Xbox Wire",
+    "published date": "Mon, 27 Apr 2026 13:04:23 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMmkwWDdKWlZjOFVrSWN4ODNwV3dULTBqZXJ1SVliMzhhS2x6QWRxaXNlcUJiNDJ2ZXRYNHhBNlczdExVRDd2S1U0MVVmMXNjU1BBNjdVcXJmNFd4QXBVbUQ5RS1OMm42U1ZmLXhzWUtmVzBXNFJrR2xvNW54eU1qbmgyX2NrYnFGWklhY2hndXpXTVFPN1VXYQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://news.xbox.com",
+      "title": "Xbox Wire"
     }
   },
   {
@@ -250,13 +250,63 @@
     }
   },
   {
+    "title": "Hands-On: The Tudor Monarch, an Unexpected yet Succesful Return - Monochrome Watches",
+    "description": "Hands-On: The Tudor Monarch, an Unexpected yet Succesful Return  Monochrome WatchesEvery Tudor Watch Discontinued in 2026  Luxury Bazaar",
+    "published date": "Mon, 27 Apr 2026 16:05:37 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOXJ1VE1sdGdKSi1qb0UyR3FTWG5PMmpEcVJubkhRTUU0X3RTQ19GYkZyeVdVN0prSXk1X2lsUi1BajZITlp5ckxhOWlfNnVPWjd3Z3gyTE13cDcwc1JwNEpyRzMwd0s0bG4xSk5ROE1tT2ItYi1RUE4wdzNHVWVqQ0dYTUxpd0h2UzJuUW9SNURsd1dINkNwSkVyMTZvSGJxc1dCQS05SFZYQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://monochrome-watches.com",
+      "title": "Monochrome Watches"
+    }
+  },
+  {
+    "title": "Diablo 4: Lord of Hatred Global Release Times and Details Confirmed - IGN Nordic",
+    "description": "Diablo 4: Lord of Hatred Global Release Times and Details Confirmed  IGN NordicView Full Coverage on Google News",
+    "published date": "Mon, 27 Apr 2026 09:58:40 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa1JIZExZSW41alR2Ny1ZQlZHMjNsZUVvazhoN016VkhMaFJNaFZHV25ZZFp4elJFYXZaeHdFWDFwb1RYTmMtVGV1a2xCUTNHTi1wT3ctbGZRcWxBM0JGbDNkeEtzSEQzWGVGWm94ZXBra2tqQi1falV2MTZyYXdzTXRRZGRETVlQeWVnQkZ5bUVWTkNTN0pEV0V1Y3lUZWVaN2RIRGZLTUh5dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://nordic.ign.com",
+      "title": "IGN Nordic"
+    }
+  },
+  {
     "title": "More PS5 Price Hikes Furthers The Question Of Why Anyone Would Buy One - Forbes",
-    "description": "More PS5 Price Hikes Furthers The Question Of Why Anyone Would Buy One  ForbesPS5 Price Increased in South Korea and Southeast Asia  VGChartzSony’s PlayStation 5 is $200 off for the first time since December  The Verge",
+    "description": "More PS5 Price Hikes Furthers The Question Of Why Anyone Would Buy One  ForbesSony’s PlayStation 5 is $200 off for the first time since December  The Verge",
     "published date": "Mon, 27 Apr 2026 14:47:02 GMT",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdjNkTVpSbU5JdnhJQ0NzUXA5d1ZpbFB6cEgwdnpuQzBUM2cxWTNRU2lsWnBacS1leVA3MnFTbExmN1RPNG8xdFlHZURQSEFJcHpQcHBwZ1FWU19fZm1ha0ZRYkFETGFvdWwzNEp3MWxnOGdyRHBNamVYenRrbVJWYmQxcHplaUJQNE1DbS1ObnpIXzM0aVh3MW00ZWZIUHZrZ1o5cFRmbTBfTG9LcG9pLUhSbXhySGNDa1BPa1JB?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.forbes.com",
       "title": "Forbes"
+    }
+  },
+  {
+    "title": "Fake RTX 4090 uses shaved GDDR6X memory and laser-engraved GPU, best one so far - VideoCardz.com",
+    "description": "Fake RTX 4090 uses shaved GDDR6X memory and laser-engraved GPU, best one so far  VideoCardz.comRTX 4090 sent for repair is a sophisticated fake with laser-etched VRAM and core, 'This is the best scam I've ever seen' — Scammers pulled a factory-level job to sell a dud to unsuspecting customer  Tom's Hardware",
+    "published date": "Mon, 27 Apr 2026 12:58:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYTlINnBraGlEQUxaWERuMTFUVzJTSnB6QzZkQ0tmVjl1bEF0WHJYTmY0MlBOdnNxSEJ6ajJCczdWRDVfNGdleHJMaFBLZGlTYmxUOVY4bzN5VnZTUHR0R3h4X016QnRhR005QWNrdXdsSURhTHRrd3I1MkF0bHNaMnBTTDc3Z0dwSXJiUzRDS3pFMjhvRFZwd1A1aGJKS21CYmlrZE1peWNTQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://videocardz.com",
+      "title": "VideoCardz.com"
+    }
+  },
+  {
+    "title": "Microsoft Visual Studio Professional 2026 is down to $35 - TechSpot",
+    "description": "Microsoft Visual Studio Professional 2026 is down to $35  TechSpotThis $50 coding bundle might actually change your life  Boing Boing",
+    "published date": "Sun, 26 Apr 2026 20:36:03 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN1hqal81NG1DYm9mRjlRY19mQmlDOVpsQTd2TFhFRTIyTUdUeU1jdU5iODlIZTZlSThRSXBqZDYzZ0g4NGtzQmVVcHpsNExrNVJpV1ZvY0JBbEt6Yl80NjJtTnJBOWpfb0hiWFlYc3BrVUpOSHFUUGVwWVlhQXBRZmtXSXpPTVd1SzJKczE2V01QMmZYU0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.techspot.com",
+      "title": "TechSpot"
+    }
+  },
+  {
+    "title": "Denuvo may have reached the end as every protected PC game is now crackable - TechSpot",
+    "description": "Denuvo may have reached the end as every protected PC game is now crackable  TechSpotBlack Myth: Wukong Denuvo Protection Has Been Cracked  DSOGaming",
+    "published date": "Mon, 27 Apr 2026 20:52:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV1BpbkVQNUtqSVo4aUdHcXEwU2lrVWlMYjBTclRHcWFaNVFqN3pBV25uaEd3dEo4LU9QTGFlOWQyTGd6U0JKZnc3MGVJTUFxaUg2UjJ5aDVhenY1dWstVEluUjh5TXlxQ2JPWnE2bVlISDN6b1VhczMzbE5wNm9nUGZmaktieG5QbzdlNDB0T1llQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.techspot.com",
+      "title": "TechSpot"
     }
   },
   {
@@ -287,6 +337,26 @@
     "publisher": {
       "href": "https://phys.org",
       "title": "Phys.org"
+    }
+  },
+  {
+    "title": "Intel confirms Arc G3 series for gaming handhelds - VideoCardz.com",
+    "description": "Intel confirms Arc G3 series for gaming handhelds  VideoCardz.comArc G3 Extreme and Arc G3 slated to arrive as Intel’s newest handheld console chips  NotebookcheckIntel Arc G3 and Arc G3 Extreme handhelds expected to debut at Computex  VideoCardz.com",
+    "published date": "Sun, 26 Apr 2026 09:46:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbEw3YUlpWEllVTktdXBRV1Y1WWRXQkpjTjYyMzFnTG55MlluZi1IaEtqWVh3OHdqQjA4VEU4LTIyeXJlb2xzbjBJZ25YYW9HalRraFAwMGZxNFkwYnRsVl94Z3lhbUUxM2lCNUhESlpxeDJIRlJCUndjc0NxeDc4LVo3NA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://videocardz.com",
+      "title": "VideoCardz.com"
+    }
+  },
+  {
+    "title": "AMD Ryzen 9 9950X3D2 appears in Amazon’s top 10 CPU best sellers - VideoCardz.com",
+    "description": "AMD Ryzen 9 9950X3D2 appears in Amazon’s top 10 CPU best sellers  VideoCardz.comYou Can Now Customize Alienware’s Area-51 With AMD’s Newest CPU  Yahoo News CanadaAMD Launches Ryzen™ 9 9950X3D2 Dual Edition Processor, the First Dual Processor with AMD 3D V-Cache™ Technology for Developers, Creators and Gamers  AMDYou Don't Need The AMD Ryzen 9 9950X3D2 If All You Want Is a Gaming PC, Especially For $900  IGNAMD Ryzen 9 9950X3D2 Review: Twice the 3D V-Cache  TechSpot",
+    "published date": "Sun, 26 Apr 2026 11:55:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeDhiX3kyY1FiR2NMZnd5YkRsaHRLTW55LTdkNzJjdG1iN3IwMWt3bFJQMWV6eVZMZWt1YjZDVmlvR3VuS3RUVVBzc0Y3djR5Z2xGWkM0c2FacVo5Q2gzR2lScmpDWmxUeU96QmRJMDloMjlWcmxxdU1zOGtCeUVNcVREanB1d2RXOXJsYjkyY1JBT0NLcnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://videocardz.com",
+      "title": "VideoCardz.com"
     }
   }
 ]
