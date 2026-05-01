@@ -32,7 +32,7 @@
   {
     "title": "Warhammer 40,000: Armageddon Unboxing – The Space Marines - Warhammer Community",
     "description": "Warhammer 40,000: Armageddon Unboxing – The Space Marines  Warhammer Community",
-    "published date": "Fri, 01 May 2026 18:57:53 GMT",
+    "published date": "Fri, 01 May 2026 18:57:52 GMT",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZE9CUXpyOXV4OU9OMktLSDBBa211cWFOZmJ4aTc2T2JQTW9MZ3lBNXdFaU0xUVlvWTg2aGViVTd6UEtaZHdNMGtEOHdYdGtJRk1pSm9jaG9VUE1QSnpxZVNQWVJabGJIZG5ocWk2NHdKV1pwUkM4UGZsajZVM1dpY001S1FCbjE2eFJhS0FLSENuVmlSSDNKRklmSUxCQzBGVUlzNWxHa3gySGRqVWllWW9EdVk?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.warhammer-community.com",
@@ -80,16 +80,6 @@
     }
   },
   {
-    "title": "Google releases experimental ‘COSMO’ AI assistant app on Play Store [U] - 9to5Google",
-    "description": "Google releases experimental ‘COSMO’ AI assistant app on Play Store [U]  9to5Google",
-    "published date": "Fri, 01 May 2026 15:36:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vUzBCd0QyRjBUekg4aktYUTFMajc1emxHc1JIamlFNDBjR0toZjJiSlFDNmRrNEVLc3hka3FIVVFPcDJVNzV6bFJaZ0dkckNfcDNRNnJZZG0yeXFaYXg5cnh2SEgyMk1z?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://9to5google.com",
-      "title": "9to5Google"
-    }
-  },
-  {
     "title": "Made to Last: 25 Years of Prowess in Space - MDA Space",
     "description": "Made to Last: 25 Years of Prowess in Space  MDA Space",
     "published date": "Thu, 30 Apr 2026 13:03:10 GMT",
@@ -110,6 +100,16 @@
     }
   },
   {
+    "title": "Why OpenAI's 'goblin' problem matters — and how you can release the goblins on your own - VentureBeat",
+    "description": "Why OpenAI's 'goblin' problem matters — and how you can release the goblins on your own  VentureBeatWhere the goblins came from  OpenAIOpenAI tells ChatGPT models to stop talking about goblins  BBCOpenAI Really Wants Codex to Shut Up About Goblins  WIREDChatGPT Developed A Goblin Obsession After OpenAI Tried To Make It Nerdy  Engadget",
+    "published date": "Thu, 30 Apr 2026 17:11:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSjJSME9PX05MQzJxanptNF96SW53b1NGeG8tc3E5R3RPbU9GSXVlQ2pRLXQ3WUhVbmhMV1ZtaXp6ZUJfRTI3VXJ4TlFDeEJzeU51SXRJOFN4bW1VbktYR0VLRkVQaXZtRUNmUzBxd0ExQ2RHYVhwcnNyVWZ4bFRBZkhpaTRQNjdyMkJWV1E2Sldpd2k5OG1YZ2NNY2VHUkNFbU1OUEpxUFlQUTNHU1pkUzVzZ3RPZThK?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://venturebeat.com",
+      "title": "VentureBeat"
+    }
+  },
+  {
     "title": "The DPoP Storage Paradox: Why Browser-Based Proof-of-Possession Remains an Unsolved Problem - infoq.com",
     "description": "The DPoP Storage Paradox: Why Browser-Based Proof-of-Possession Remains an Unsolved Problem  infoq.com",
     "published date": "Thu, 30 Apr 2026 09:00:13 GMT",
@@ -120,13 +120,13 @@
     }
   },
   {
-    "title": "Why OpenAI's 'goblin' problem matters — and how you can release the goblins on your own - VentureBeat",
-    "description": "Why OpenAI's 'goblin' problem matters — and how you can release the goblins on your own  VentureBeatWhere the goblins came from  OpenAIOpenAI tells ChatGPT models to stop talking about goblins  BBCOpenAI Really Wants Codex to Shut Up About Goblins  WIREDChatGPT Developed A Goblin Obsession After OpenAI Tried To Make It Nerdy  Engadget",
-    "published date": "Thu, 30 Apr 2026 17:11:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSjJSME9PX05MQzJxanptNF96SW53b1NGeG8tc3E5R3RPbU9GSXVlQ2pRLXQ3WUhVbmhMV1ZtaXp6ZUJfRTI3VXJ4TlFDeEJzeU51SXRJOFN4bW1VbktYR0VLRkVQaXZtRUNmUzBxd0ExQ2RHYVhwcnNyVWZ4bFRBZkhpaTRQNjdyMkJWV1E2Sldpd2k5OG1YZ2NNY2VHUkNFbU1OUEpxUFlQUTNHU1pkUzVzZ3RPZThK?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Google releases experimental ‘COSMO’ AI assistant app on Play Store [U] - 9to5Google",
+    "description": "Google releases experimental ‘COSMO’ AI assistant app on Play Store [U]  9to5GoogleGoogle just dropped a new 'experimental AI assistant' app exclusively for Android  Android Authority",
+    "published date": "Fri, 01 May 2026 15:36:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vUzBCd0QyRjBUekg4aktYUTFMajc1emxHc1JIamlFNDBjR0toZjJiSlFDNmRrNEVLc3hka3FIVVFPcDJVNzV6bFJaZ0dkckNfcDNRNnJZZG0yeXFaYXg5cnh2SEgyMk1z?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://venturebeat.com",
-      "title": "VentureBeat"
+      "href": "https://9to5google.com",
+      "title": "9to5Google"
     }
   },
   {
@@ -140,16 +140,6 @@
     }
   },
   {
-    "title": "EarthDaily is about to launch a new satellite constellation to keep tabs on the planet - The Logic",
-    "description": "EarthDaily is about to launch a new satellite constellation to keep tabs on the planet  The Logic",
-    "published date": "Fri, 01 May 2026 16:06:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKbmlnMDYybS13MG92YU5ZTFBfaTZWdUVrNE1IekF4UzNxTlBRZ0F0TFY3VXd0OFhCbkFSQmNuWkU4N2gyN3pjZEZDSUNFV2E4WkFYUERKbGt0M0dXU3pfSTk0ZHRUdVZ4RU5PSFFNLXoyMXYzM2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://thelogic.co",
-      "title": "The Logic"
-    }
-  },
-  {
     "title": "Temporary closure of the Conroy Pit parking lot on April 30, 2026 - National Capital Commission",
     "description": "Temporary closure of the Conroy Pit parking lot on April 30, 2026  National Capital Commission",
     "published date": "Wed, 29 Apr 2026 23:28:13 GMT",
@@ -157,6 +147,16 @@
     "publisher": {
       "href": "https://ncc-ccn.gc.ca",
       "title": "National Capital Commission"
+    }
+  },
+  {
+    "title": "EarthDaily is about to launch a new satellite constellation to keep tabs on the planet - The Logic",
+    "description": "EarthDaily is about to launch a new satellite constellation to keep tabs on the planet  The Logic",
+    "published date": "Fri, 01 May 2026 16:06:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKbmlnMDYybS13MG92YU5ZTFBfaTZWdUVrNE1IekF4UzNxTlBRZ0F0TFY3VXd0OFhCbkFSQmNuWkU4N2gyN3pjZEZDSUNFV2E4WkFYUERKbGt0M0dXU3pfSTk0ZHRUdVZ4RU5PSFFNLXoyMXYzM2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://thelogic.co",
+      "title": "The Logic"
     }
   },
   {
@@ -170,16 +170,6 @@
     }
   },
   {
-    "title": "A clean energy future: Hidden \"in-between\" materials to build solar fuels and batteries - Open Access Government",
-    "description": "A clean energy future: Hidden \"in-between\" materials to build solar fuels and batteries  Open Access GovernmentOverlooked 'in-between' materials could reshape solar fuel and battery design  Tech Xplore‘Hidden’ stages of material creation for solar fuels and batteries discovered  Interesting Engineering",
-    "published date": "Fri, 01 May 2026 08:09:18 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeEVRVWkybVZ1djZTVVZQaHFpdDNGZkNkTWJ4RF9sYkxZRmh4NzFxMG1mSzdUNEhPOS00bnNOVm1XMEJaYUJ4QmduaXRLMlFpSGZ1VFN6TDlibHphaWNlc0RpUzVtNTVnUWY5QzAwR253R203NE9kSlU5SUxJQ3VVN3A0blM3QmNQdTF5QlEyX1IxSUh2SEk2c21rM0JQRUx3dHhJbE5idE1Cb3ZGenhxLXY2ZFBxYm1FbzhMX0N0blFlN2liTXIwZg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.openaccessgovernment.org",
-      "title": "Open Access Government"
-    }
-  },
-  {
     "title": "Diablo 4 Hecaton Chasm Drop Location (Boss), Farming & Build Guide - AOEAH",
     "description": "Diablo 4 Hecaton Chasm Drop Location (Boss), Farming & Build Guide  AOEAH",
     "published date": "Thu, 30 Apr 2026 02:24:08 GMT",
@@ -190,13 +180,33 @@
     }
   },
   {
-    "title": "Kobo is giving away free e-readers, accessories, and gift cards — here's how to enter - Android Authority",
-    "description": "Kobo is giving away free e-readers, accessories, and gift cards — here's how to enter  Android Authority",
-    "published date": "Thu, 30 Apr 2026 19:47:11 GMT",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXczNnUlRlOVhsbHRnY2JFMUh3SEZNektrSzNQdHFSem1WLXhVSWgzd25IbWVmME1uZEEtRUVxalBoRTFmTHF0eGpjT1d1aGhiR25DX0RvbzFXYnZYMUxLeHNKRm83ZlAyMzVYd090akdsUzdQUXMw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "This tiny e-reader is smashing sales numbers, beating Amazon's Kindles - Android Police",
+    "description": "This tiny e-reader is smashing sales numbers, beating Amazon's Kindles  Android PoliceXteink X4 is the first Non-Kindle e-reader on Amazons Top 10  Good e-ReaderThis Little Device Might Be the Pocket E-Reader of My Dreams  Lifehacker",
+    "published date": "Fri, 01 May 2026 10:00:19 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaVRTVmRMVmthMVc3Y0JyajdoX3FrdjdoNVdSR3M5VTBPVmJKQ3VhWW14VXFxTTJZb2JjMnMxN05qX1hvd2tuaXFfYWFsRDVka181ZEduVzRMWHg2M3R1VmxOU2U0TTZPZGJhUkJWUVdUZmE3ZHEtc0VjRVVycjNUUUtzN3YtVzlYMlNncW9R?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.androidauthority.com",
-      "title": "Android Authority"
+      "href": "https://www.androidpolice.com",
+      "title": "Android Police"
+    }
+  },
+  {
+    "title": "A clean energy future: Hidden \"in-between\" materials to build solar fuels and batteries - Open Access Government",
+    "description": "A clean energy future: Hidden \"in-between\" materials to build solar fuels and batteries  Open Access GovernmentOverlooked 'in-between' materials could reshape solar fuel and battery design  Tech Xplore‘Hidden’ stages of material creation for solar fuels and batteries discovered  Interesting Engineering",
+    "published date": "Fri, 01 May 2026 08:09:18 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeEVRVWkybVZ1djZTVVZQaHFpdDNGZkNkTWJ4RF9sYkxZRmh4NzFxMG1mSzdUNEhPOS00bnNOVm1XMEJaYUJ4QmduaXRLMlFpSGZ1VFN6TDlibHphaWNlc0RpUzVtNTVnUWY5QzAwR253R203NE9kSlU5SUxJQ3VVN3A0blM3QmNQdTF5QlEyX1IxSUh2SEk2c21rM0JQRUx3dHhJbE5idE1Cb3ZGenhxLXY2ZFBxYm1FbzhMX0N0blFlN2liTXIwZg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.openaccessgovernment.org",
+      "title": "Open Access Government"
+    }
+  },
+  {
+    "title": "Yashee Mathur, PhD ’26: The Search for Clean, Affordable Hydrogen Energy - Stanford Graduate School of Business",
+    "description": "Yashee Mathur, PhD ’26: The Search for Clean, Affordable Hydrogen Energy  Stanford Graduate School of Business",
+    "published date": "Fri, 01 May 2026 19:05:43 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb2h6Y0dBek9Yc1dONmg1YVBZZUh3Y0VFb2djTzYtX19IT1RjWTVJb240cjR3SDJ0VENmTzVmN2NOY0V2UEtnYVVReXhCZ3pQUFRpalpHcHJaNk1PalJTMTRYTVZVRFMwamNYdUFIZGhXMmdlUDBhUVN6ampSQllTUUh1eU83b3Z6d0R0c1dZZnhXUXdNQlVKSE8ySk45Mzk3dWFXQ0Q1TlBGNjFDdkltSG83QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.gsb.stanford.edu",
+      "title": "Stanford Graduate School of Business"
     }
   },
   {
@@ -230,6 +240,16 @@
     }
   },
   {
+    "title": "Galaxy Book6 Enterprise Edition Extends Connected Galaxy Experience to Enterprise IT Environments, Powered by Intel® Core™ Ultra Processors With Intel vPro - samsung.com",
+    "description": "Galaxy Book6 Enterprise Edition Extends Connected Galaxy Experience to Enterprise IT Environments, Powered by Intel® Core™ Ultra Processors With Intel vPro  samsung.comSurprise! Samsung just made the Galaxy Book 6 Edge official, no teasers or hype  SamMobileSamsung Galaxy Book 6 Edge powered by Snapdragon X2 gets early listing ahead of release  Notebookcheck",
+    "published date": "Thu, 30 Apr 2026 12:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPeXg4Vm1zLXdjaUZJOVBiNTI1V09weVpKQV9EQXJRWThsSVJSVlloWThHdkNXN25Zd1MtRDBPUUw1T3NMT3M3bzdLWGZoNEdiZ3Fnb2dOVmNVZ0dFdnJkTjZtUEpHc01PZF9ZWjVabVlOSUxIQlg2aGEwMmVTQ3poODlmdlJQTGhHZExJRFJmNU9pVWZzQnh4VzNKRXhyNWdzSlc5c21IWmt3XzZ1REpIZF9DNlRSMk1IdDVzRDZFNGxFcjQxUEV3YU92cVo2cTllcy1UR2JiM3N5a0pxV1lEQzEwX0RTU25OUktPMUR0anctRk1PcHlYRWswZUw3WkJjcy05N2hjMFJvSGp2TWtlTUFB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://news.samsung.com",
+      "title": "samsung.com"
+    }
+  },
+  {
     "title": "Moto G87 Launched With 200MP Camera, 5,200mAh Battery — Full Specs, Features, Price And Availability - NDTV Profit",
     "description": "Moto G87 Launched With 200MP Camera, 5,200mAh Battery — Full Specs, Features, Price And Availability  NDTV ProfitMotorola’s best moto g camera yet arrives with the new moto g87  Motorola NewsMoto G87 debuts with a 200MP camera, brighter display, but downgraded performance  NotebookcheckMoto G87 surfaces on Motorola.com and on an online store in Italy - GSMArena.com news  GSMArena.com",
     "published date": "Thu, 30 Apr 2026 11:44:45 GMT",
@@ -240,13 +260,13 @@
     }
   },
   {
-    "title": "Galaxy Book6 Enterprise Edition Extends Connected Galaxy Experience to Enterprise IT Environments, Powered by Intel® Core™ Ultra Processors - samsung.com",
-    "description": "Galaxy Book6 Enterprise Edition Extends Connected Galaxy Experience to Enterprise IT Environments, Powered by Intel® Core™ Ultra Processors  samsung.comSurprise! Samsung just made the Galaxy Book 6 Edge official, no teasers or hype  SamMobileSamsung Galaxy Book 6 Edge powered by Snapdragon X2 gets early listing ahead of release  Notebookcheck",
-    "published date": "Thu, 30 Apr 2026 20:13:31 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbmMtU0t2bEoxLURVTU1yREtELXFPVE9PdGNFNVcyOXF1RFktUlh3eXZRR1g5U3NqVUxEUWJ4ZU40MDZFVng1dTR1amVBNTcwdlJkMGxzb0lzLWFVbXlRUUpnOUdwRnh2Mk42S3oxS2pPOTJuRWpYbU5hNlhqemR1MnVZOTBIMmo1SEJJSnN6MVNRdTI3QURVZ21Ddzd0blNsaTBMdDliZnkzcUpHeHA5MVc4eEFWVUJCSW92SXE3bWpYV3NQUWFHMFJUYlNVbnNfdmY3UnVoWHdDWHJ6My1aSHhyVTk4am9nRGpIc3lWbWFGR1RsQXY0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Anbernic’s new rotating screen handheld will start at less than $100 - The Verge",
+    "description": "Anbernic’s new rotating screen handheld will start at less than $100  The VergeAnbernic's Swiveling Retro Handheld Will Be Available May 11  Engadget",
+    "published date": "Thu, 30 Apr 2026 15:00:08 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNUdtNFg3U2hJc3p2WC0yTlNaOVNzV2ZuT1JsaUVPZjRadGIxQ29jNUVVaDBxekF1TXlZY1l1WWVreWxtNVFZNk1OZW1IZk9CdFA3Q1FfWndYdGdXZnM5TVFSNWtqWXR4Qm1haWo2ZnpUcWx0NFlIYUctcDVfUlI1SWhSeThEVWtKRnduWnJ6cks3TzUwS3ExMndkT3lKNE9leHJYckV3?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://news.samsung.com",
-      "title": "samsung.com"
+      "href": "https://www.theverge.com",
+      "title": "The Verge"
     }
   },
   {
@@ -270,23 +290,13 @@
     }
   },
   {
-    "title": "With Saros, Housemarque makes a case for doing next-gen games differently - The Verge",
-    "description": "With Saros, Housemarque makes a case for doing next-gen games differently  The VergeFrom Gamestation to PlayStation: Actor Rahul Kohli on his dream role  BBCTips and Tricks - Saros Guide  IGNSaros review – you’ll strafe until your thumbs hurt in this primal alien shooter  The Guardian6 Things to Do First in Saros  IGN",
-    "published date": "Thu, 30 Apr 2026 19:00:45 GMT",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tcTM0TGJHYnFES3ZTazMzb3RsTnE0eTdXdExITFdhaWZYZjBVSjJPYTRMNl9ZNFVIUUhpcldKOEQ1ZW9Ra2VSRHlQVzdTUUx5c0tvSmpiek9MYmVVcmx3MmtuWktOZGpjTU5aN1h6X2RtajRvMWxqTA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Fast, tough and rewarding: Saros is one of 2026’s most addictive action games - ynetnews",
+    "description": "Fast, tough and rewarding: Saros is one of 2026’s most addictive action games  ynetnewsWith Saros, Housemarque makes a case for doing next-gen games differently  The VergeFrom Gamestation to PlayStation: Actor Rahul Kohli on his dream role  BBCTips and Tricks - Saros Guide  IGNSaros review – you’ll strafe until your thumbs hurt in this primal alien shooter  The Guardian",
+    "published date": "Thu, 30 Apr 2026 12:17:53 GMT",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55OE40b0lLeEowYWxBeS1NeWhXZzBWbW9JbHVrdVdWMWhMRHNnTUdCMzNfTy1BcWtjb0Q1V19LeTRrTnY0ZXJNVXVvMjNfRTN0QTZ0c01HcExCZWdLSjFpcEN2Ykc3blc0STROUFpB?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.theverge.com",
-      "title": "The Verge"
-    }
-  },
-  {
-    "title": "GeForce NOW Ultimate Brings RTX 5080 Performance On Nearly 4000+ Games This May - Comics Gaming Magazine",
-    "description": "GeForce NOW Ultimate Brings RTX 5080 Performance On Nearly 4000+ Games This May  Comics Gaming MagazineIt’s Gonna Be May: 16 Games Hit the Cloud This Month, With More NVIDIA GeForce RTX 5080 Power  NVIDIA BlogGeForce Now update brings RTX 5080 performance to nearly every Ready-to-Play game for Ultimate members  PC Guide",
-    "published date": "Thu, 30 Apr 2026 15:13:23 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUjdfdmF1bWttN1lOdU5pcE0tLUVBRXBMbmZsT0ZSX3p1dEhEVlNRd0FKem1iT0dsS3prNzVZUS0xT3pFT2lYbmd2UUl4R1REbWhiWHVlNGZaRnhhSGZ0WS12Qzk4cEhHOXlZZ3o4VjNxQ1d5YmNfcV9ZQzlSYm9Leg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cgmagonline.com",
-      "title": "Comics Gaming Magazine"
+      "href": "https://www.ynetnews.com",
+      "title": "ynetnews"
     }
   },
   {
@@ -310,13 +320,13 @@
     }
   },
   {
-    "title": "'No Levels, No Gear Scores and No Progression Gates': Ubisoft Really Wants You to Know That Assassin's Creed Black Flag Resynced Is Not an RPG, as It Details Combat and HUD Changes - IGN",
-    "description": "'No Levels, No Gear Scores and No Progression Gates': Ubisoft Really Wants You to Know That Assassin's Creed Black Flag Resynced Is Not an RPG, as It Details Combat and HUD Changes  IGNUbisoft Really Wants You to Know That Assassin's Creed Black Flag Resynced is Not an RPG, as It Details Combat and HUD Changes  IGN Southeast AsiaAssassin’s Creed Black Flag Resynced – Deep Dive into HUD Customization  UbisoftAssassin’s Creed Black Flag Resynced: first details, launches on PS5 July 9  PlayStation.BlogUbisoft has finally dropped a trailer for that Assassin's Creed: Black Flag remake  Engadget",
-    "published date": "Thu, 30 Apr 2026 10:42:55 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUnVBTjFTVGtfRklxWWxXa1lUY2pmeTBOTUFtRGkxVXdLZWdvRWV3RGdXcklZQTRMQVJ4c0RSQ2JpT1VWVDFlRTdFNlpUZnlpYm1rdUt6Rk01dUFlRUNzcG1leWJldDVfQ3NDQjVvb3o3RjJEcjQyd25sQk43UUxDRWlxdTVZa29FOWVWVFJobEU0OWlQZjc0TXY1V1M2Zlo5MTQycWl4VW8wNm9Lb2o4NlFWRGpHU2xOWDh3Z0k1QTRiV1hvR0hnTmUxYjJ5b2xUNXc4NVg2Q2NsRTZ4dVJITEFRdG1Vd3du?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "10 New Things We Just Learned About The Assassin’s Creed Black Flag Remake - Kotaku",
+    "description": "10 New Things We Just Learned About The Assassin’s Creed Black Flag Remake  KotakuAssassin’s Creed Black Flag Resynced – Deep Dive into HUD Customization  UbisoftAssassin’s Creed Black Flag Resynced: first details, launches on PS5 July 9  PlayStation.BlogUbisoft has finally dropped a trailer for that Assassin's Creed: Black Flag remake  EngadgetAssassin’s Creed Black Flag Resynced doesn’t include the Freedom Cry DLC, Ubisoft say they made a “clear choice” to focus on Edward’s adventure  Rock Paper Shotgun",
+    "published date": "Thu, 30 Apr 2026 18:00:51 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONjdzcU1QRDlmbmtGTlh4MllhTEF6aFhjVzN6ZUlaZ1ByU1FHY3ZOOXh5dDhFcDNKMzhSNXZqek5sNjFCWlVrbXpkOHF0MXA1Sm9HWUFuNXBhUS1qTEs2c29qVU1fS0VuM2wwNXNkdHBONFZNNEtHc2NMZmZMSE9BalhvbEQwLTBjWnE3eG5DTWFBVVZvXzFwU2VjRTZEUjRiZUdwbDl3?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.ign.com",
-      "title": "IGN"
+      "href": "https://kotaku.com",
+      "title": "Kotaku"
     }
   },
   {
@@ -330,13 +340,23 @@
     }
   },
   {
-    "title": "Apple may take \"several months\" to catch up to Mac mini and Studio demand - Ars Technica",
-    "description": "Apple may take \"several months\" to catch up to Mac mini and Studio demand  Ars TechnicaGood Luck Getting a Mac Mini for the Next ‘Several Months’  WIREDApple is facing Mac mini supply constraints as AI and OpenClaw developers buy up tiny desktops  Yahoo FinanceTim Cook: Apple Mac mini, Mac Studio Shortages Could Last for Months  PCMagApple was surprised by AI-driven demand for Macs  TechCrunch",
-    "published date": "Fri, 01 May 2026 14:10:48 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc25vWFppTDRSVWN1eGc4emljbHh3MVdGQ0dxM0dNZlpGWXBublA1eWMweDVDQnBoQ3RVYXhlc1dlM3hXZ2RUQ2JiS2hla1Z1ajBUUTljSDRRcXFFTHZQNmN2cHFJVFVzRFZWMmJLOVlucVdydlVfZGdiT1g1UklTT013d0pDV2RILTZWR1dzNElKV0ppWW1lcGNiU2VUS0xuVHNMZlAyUFo0X2ZRQnlhcDFR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Ubuntu infrastructure has been down for more than a day - Ars Technica",
+    "description": "Ubuntu infrastructure has been down for more than a day  Ars TechnicaUbuntu services hit by outages after DDoS attack  TechCrunchPro-Iran crew turns DDoS into shakedown as Ubuntu.com stays down  theregister.com",
+    "published date": "Fri, 01 May 2026 19:12:26 GMT",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb3JOcThtS1BhcXhFNl85cmpMQ1NjN2xlU2RvSnA2ekJfV1VlSVE3ZUxKem1felhvNG9jSzBTZE1iaEZheEYzekhoemgwTVlVcWlYdEpncWpqOFZsdUNRdHFwazVoVFkzZU1zU2ZsdGFfX19ZdVc4OEpIS2tYYzFKRHIxNGNXR3JMVEVTbFFRSVRzUkZKempjUzFWQl9NQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://arstechnica.com",
       "title": "Ars Technica"
+    }
+  },
+  {
+    "title": "Where to buy a non-Apple, non-Google smartphone - theregister.com",
+    "description": "Where to buy a non-Apple, non-Google smartphone  theregister.com",
+    "published date": "Fri, 01 May 2026 15:24:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mbG5vdnJsWmJYeV9abUhOOHUxSjVPaDd1THFkRVJfSGFpSExoUldMWFpxcW9GYXpMZEpiQ003clozWVA4Rll4ekF6OXB6aHdreEs5Wk1weWRWdGZDYTZyZ012SVR4QWhGN2pha2t3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theregister.com",
+      "title": "theregister.com"
     }
   },
   {
@@ -360,13 +380,23 @@
     }
   },
   {
-    "title": "Pro-Iran crew turns DDoS into shakedown as Ubuntu.com stays down - theregister.com",
-    "description": "Pro-Iran crew turns DDoS into shakedown as Ubuntu.com stays down  theregister.comCanonical, the company that makes Ubuntu Linux, says its web infrastructure is under a 'sustained, cross-border attack'  PC Gamer",
-    "published date": "Fri, 01 May 2026 11:05:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR1dIejBwNTBiNDdWOTBhNGMtVDJHVFdDN0hwSlBmdnVMa0I4dXd5eVJZZzZ4aTRiUFRWTF82SThvMFdXOTRRLXc2dF9zaEU3WVd4bVZUdzlOQjc2OUZKTnRZbmhoUlBsV1BEb09ic09sSmdEcmswNEl4bXV2OV9jOUhFM2Q4UDhTS1NhQlVrRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Apple plans ‘aggressive pricing’ for iPhone 18 Pro models, per report - 9to5Mac",
+    "description": "Apple plans ‘aggressive pricing’ for iPhone 18 Pro models, per report  9to5MaciPhone 18 Pro vs iPhone Ultra: Three features to win your upgrade  9to5MaciPhone 18 Pro Max set to launch in September with all these new features  MSNThese are the camera upgrades coming to the next iPhone generations - GSMArena.com news  GSMArena.comiPhone 18 Pro and Ultra details revealed in leaker’s extensive Q&A  Macworld",
+    "published date": "Fri, 01 May 2026 15:51:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeURVNHJhMEx0VW9wTlZYZ0JDd284VE9FN2tCV0p1cG1uQm9vUmRGNExaR0hQNkJ2Nk8xZlJFRzhYWHd6eGM3ZHpWdzBlTmJUUnlPVzd5ZGR6cWV4b0QyZXRONE9ablNmYUNwVTFEQjRsaUxsTzZDSmJDa1Nfa0h1M0xHc0JzazZTR0wySGdaWjN3N0JfMFRfNDNLaGt6emM?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.theregister.com",
-      "title": "theregister.com"
+      "href": "https://9to5mac.com",
+      "title": "9to5Mac"
+    }
+  },
+  {
+    "title": "Running Linux On The PS5 With A Hypervisor Exploit - Hackaday",
+    "description": "Running Linux On The PS5 With A Hypervisor Exploit  HackadayLinux now Officially Available for PlayStation 5  TechPowerUpYour PS5 can now transform into a Linux PC  The VergePS5 Linux loader goes public, turning ‘Phat’ consoles into full Linux PCs — build script includes bootable Ubuntu 24.04 image, can output 4K games at 60 FPS  Tom's Hardware",
+    "published date": "Fri, 01 May 2026 11:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNckQwcHp2RVVyeHBBeWJWSEloRDNadlYyRUpIbEhXTUVVN09yeFMybUJwakpSRUhlbU1EV1luZ3h6cC1QZlZVc1dIRzFpb2wyS1Q1NUwwRkhQVkVTUXVVVXNqcVJDZ3dvN1JxNU1acU5Kb2NueWpBbWptbTlZd3kwUkZ3REpScmloVzhR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://hackaday.com",
+      "title": "Hackaday"
     }
   },
   {
@@ -380,6 +410,26 @@
     }
   },
   {
+    "title": "Tim Cook: Apple Mac mini, Mac Studio Shortages Could Last for Months - PCMag",
+    "description": "Tim Cook: Apple Mac mini, Mac Studio Shortages Could Last for Months  PCMagGood Luck Getting a Mac Mini for the Next ‘Several Months’  WIREDApple Raises Mac Mini’s Starting Price to $799 After AI Frenzy Drains Supply  Bloomberg.comApple is facing Mac mini supply constraints as AI and OpenClaw developers buy up tiny desktops  Yahoo FinanceApple was surprised by AI-driven demand for Macs  TechCrunch",
+    "published date": "Fri, 01 May 2026 09:35:13 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObEhVb2JzZWMtb0NiOThGbUFSNDFLZHdIcXJTWWxkT0hSREJRSm1Hc0V1TnFYRDM3bjY3cDd5M2t0TDZUV3BsbjMwQXNmUWNGbC1hdDA3aHp1aDdhcnA5QTBvdG80WFpWcTVNQ04xZUVjY18zTHRwbzczRnpPUVYxbWt6TVA5RnQxUmRoYmlVb09nQnlEaUxqc3RteXA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.pcmag.com",
+      "title": "PCMag"
+    }
+  },
+  {
+    "title": "Android Auto app widgets mirror mobile setup, leak shows as release nears - 9to5Google",
+    "description": "Android Auto app widgets mirror mobile setup, leak shows as release nears  9to5GoogleAndroid Auto home screen widgets look nearly ready to launch  Android AuthorityAndroid Auto is one step closer to getting home screen widgets  Android Police",
+    "published date": "Fri, 01 May 2026 14:22:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90XzVocmNoRzBsR3Zoc0pPNDZjUzRsUlNvcE92RmtsbFA5WS1qSmVJTFV1LWF6MjEyUkRha3Ric3doeXZaRUJTRmRlV1FyeE9mZ3FNUkxfcllCOUJFQ2w0YmRSLWJiZVlZNFo2djlSSmRaZWxm?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://9to5google.com",
+      "title": "9to5Google"
+    }
+  },
+  {
     "title": "Dualsense on PC: This $16 Raspberry Pi Adds Wireless Adaptive Triggers and Haptic Feedback To The PS5 Controller - Digital Foundry",
     "description": "Dualsense on PC: This $16 Raspberry Pi Adds Wireless Adaptive Triggers and Haptic Feedback To The PS5 Controller  Digital FoundryHomebrew PlayStation DualSense controller adapter for PC can be built for just $20 with a Raspberry Pi Pico — wireless dongle delivers adaptive triggers and haptic feedback to gamers  Tom's HardwareSomeone built the PlayStation controller PC dongle that Sony refuses to make  XDA",
     "published date": "Fri, 01 May 2026 14:22:25 GMT",
@@ -390,8 +440,18 @@
     }
   },
   {
+    "title": "‘Diablo 4: Lord Of Hatred’ Patch Notes - Nemesis Exploit, Pit Portal, War Plan Change - Forbes",
+    "description": "‘Diablo 4: Lord Of Hatred’ Patch Notes - Nemesis Exploit, Pit Portal, War Plan Change  ForbesDiablo 4: Lord Of Hatred's All-New Class Skill Trees Have Players Divided  GameSpotDiablo 4: Lord of Hatred Global Release Times and Details Confirmed  IGN",
+    "published date": "Fri, 01 May 2026 14:20:59 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZU9lU3RDU3JjMUpKUW51RUU4Z2pzckhnS0Z4ZlhVNVIzOEM1eTN2WVF0UFkzQ2ZyTi11bHJQQ0NCbTk3VHd3VGd4MGxPaXpsZ1d0SExqbDNBcElCTEZGSnZYdm1GczhPci1nOFFNNUVSUVVSb1NJRW1US0NtVlFQSmpLNVRwelFWQW1YQk01b3U0MGstRXRMSjZXNy1GOUxzNFlrRjlzenVTYmxXVmVoUlgzaGJ0blp6TXcwOFFKZzlJNHRzX2tr?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
+    }
+  },
+  {
     "title": "New Lithium-Plasma Engine Passes Key Mars Propulsion Test - Universe Today",
-    "description": "New Lithium-Plasma Engine Passes Key Mars Propulsion Test  Universe TodayNASA’s Lithium-Fed Nuclear Thruster Flares to Life in First of Its Kind Test  GizmodoNASA Fires Up Powerful Lithium-Fed Thruster for Trips to Mars  NASA Jet Propulsion Laboratory (JPL) (.gov)",
+    "description": "New Lithium-Plasma Engine Passes Key Mars Propulsion Test  Universe TodayNASA Fires Up Powerful Lithium-Fed Thruster for Trips to Mars  NASA Jet Propulsion Laboratory (JPL) (.gov)",
     "published date": "Fri, 01 May 2026 02:21:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRVozclJVUmNST3FReDZxTzI5bk1fNms2UUJFZlVmN2ppbkstMEZfdFhiNzhZTTJEbHg3elY4czVNdkpGbFZVVUhUM1A5VVhQXzRtaEZRRFdORVpsRDd0a0xtRnZkS0pOc3BoRWRMaUhDWW8yeTNSalIwMld1UnRYTmtUXzRCS2dDRnBxZ1ZvOTR1b1BZRkhuUFRseng?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -410,16 +470,6 @@
     }
   },
   {
-    "title": "‘Diablo 4: Lord Of Hatred’ Patch Notes - Nemesis Exploit, Pit Portal, War Plan Change - Forbes",
-    "description": "‘Diablo 4: Lord Of Hatred’ Patch Notes - Nemesis Exploit, Pit Portal, War Plan Change  ForbesDiablo 4: Lord Of Hatred's All-New Class Skill Trees Have Players Divided  GameSpotDiablo 4 die-hards desperate for dyes, following launch of Lord of Hatred Expansion  EurogamerThe New ‘Diablo 4: Lord Of Hatred’ Skill Trees Have One Weird Problem  ForbesDiablo 4: Lord of Hatred Global Release Times and Details Confirmed  IGN",
-    "published date": "Fri, 01 May 2026 14:20:59 GMT",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZU9lU3RDU3JjMUpKUW51RUU4Z2pzckhnS0Z4ZlhVNVIzOEM1eTN2WVF0UFkzQ2ZyTi11bHJQQ0NCbTk3VHd3VGd4MGxPaXpsZ1d0SExqbDNBcElCTEZGSnZYdm1GczhPci1nOFFNNUVSUVVSb1NJRW1US0NtVlFQSmpLNVRwelFWQW1YQk01b3U0MGstRXRMSjZXNy1GOUxzNFlrRjlzenVTYmxXVmVoUlgzaGJ0blp6TXcwOFFKZzlJNHRzX2tr?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.forbes.com",
-      "title": "Forbes"
-    }
-  },
-  {
     "title": "This $22 8-in-1 cable simplifies charging on the go - Mashable",
     "description": "This $22 8-in-1 cable simplifies charging on the go  Mashable",
     "published date": "Thu, 30 Apr 2026 22:00:00 GMT",
@@ -431,12 +481,32 @@
   },
   {
     "title": "Indiana Jones and the Great Circle reveals Nintendo Switch 2 frame rate, resolution, and DLSS usage - Nintendo Everything",
-    "description": "Indiana Jones and the Great Circle reveals Nintendo Switch 2 frame rate, resolution, and DLSS usage  Nintendo Everything\"It Is Just One-To-One\" - MachineGames Talks Preserving 'Indiana Jones And The Great Circle' On Switch 2  Nintendo Life",
+    "description": "Indiana Jones and the Great Circle reveals Nintendo Switch 2 frame rate, resolution, and DLSS usage  Nintendo EverythingRound Up: The Previews Are In For Indiana Jones And The Great Circle (Switch 2)  Nintendo Life",
     "published date": "Fri, 01 May 2026 13:47:33 GMT",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPODFmVlJITmlIQlR4RUE1ekZkX1hjTGQzdktnRURla00xemNBVWV1Y1N4bm5lbFgwRlhYUGtZTElGRmlnZDRHZ19INC1HYWdaWkt1elhtU0FkcFVPeFVkZUFIYUxTdllEb25RM3NjdlhIMUMtbXZ0SDVJRkVUa1VlQXRqNXhRZjUxYklzNzdOVWlfV0dFTnQxcTR0Mm5vTGdqTWc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://nintendoeverything.com",
       "title": "Nintendo Everything"
+    }
+  },
+  {
+    "title": "The Outer Worlds To Be Partially Delisted, Free 'Spacer's Choice Edition' For Those Affected - Pure Xbox",
+    "description": "The Outer Worlds To Be Partially Delisted, Free 'Spacer's Choice Edition' For Those Affected  Pure XboxThe Outer Worlds Is Getting Grenades, Nearly 7 Years After It Came Out  IGNThe Outer Worlds Is Getting A Major Update Seven Years Post-Launch  Kotaku",
+    "published date": "Fri, 01 May 2026 12:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUkI3LXpnSEFSeUJRNmdjQ3U1Rm1xVjRrc01jUmdSQjlEb0ZCWkx1RHlDSTJJeHl1NU0zbFFaMGJIaVp6WkhramhSUllKUlFMRlFtN0JtcGJURlAxYVgyZ2FydWx2YlU2WlhPVEVnNU5mTVJkM3dVT3ZaUTRfRUM0cEFpOWNNanpCcGg4eEhPTVhDazJJZEJ4cTRFRjRTak1GbmtaUFhmMjVOYm9xaGVyQkw3N0J6VzVXZ3V2UUxYOWk5NnJK?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.purexbox.com",
+      "title": "Pure Xbox"
+    }
+  },
+  {
+    "title": "\"It's Rare For Me To Make Downtime\" - Naoki Hamaguchi Talks Final Fantasy VII's \"Packed And Eventful\" Development - Nintendo Life",
+    "description": "\"It's Rare For Me To Make Downtime\" - Naoki Hamaguchi Talks Final Fantasy VII's \"Packed And Eventful\" Development  Nintendo LifeFinal Fantasy VII Director Has Already Completed \"Over 40 Full Playthroughs\" Of The Third Game  Nintendo Life",
+    "published date": "Fri, 01 May 2026 15:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxON0hUd3FEWmwzWTk2RS10enlmRkRvbW1yZFNZOUVTVWFBTW9CYlphZWI5aGRUdkVUUGdQeHRwZGlTWGRCeGZqSlJDcm40ZDI0Z2tKYzNnTk51Q3J4MkpDYlhxOUFjMUxYRklSUUhyT0RXdVJCWXNhdV83eU4wb1pCWFF4REo4SHBQWFZpS1kwbFlfbi1vTXBPNk5jem9uZVFoVEc3X3lfSzl4TEc2TmdqbUF0ZnlURDRBNmpQWkdRekp3Qmh2dXNTc2U5aTJUa0NjUGZtdjdZOEJOVTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nintendolife.com",
+      "title": "Nintendo Life"
     }
   },
   {
@@ -450,23 +520,13 @@
     }
   },
   {
-    "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles - TechCrunch",
-    "description": "Google’s Gemini AI assistant is hitting the road in millions of vehicles  TechCrunchYour car with Google built-in is about to get smarter, thanks to Gemini  blog.googleGM brings Google Gemini to millions of vehicles on the road  General MotorsGemini for Android Automotive is rolling out soon, even if your car isn’t brand new  9to5GoogleGoogle Gemini to Roll Out in Growing Number of New and Existing Vehicles  Le Guide de l'auto",
-    "published date": "Thu, 30 Apr 2026 17:46:54 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa2lVcWVzczM0clRNYlFERWZ2d2FmR2hjWUctSG5adkpWZWExNElVVVItS1FXbDBiWnVaTjI1c0FyWGppV2V4ZG1OdGNpUEsyWFBpeFlpVVBYaDdVeXRtTXR1bF8wamJCS2pTQi1TTWpWQm1Dbi1reDdkdG0wQ2NGcEl3cHoxeWxPNG8yOXVBTlRBNkRxMTJzNlBNSnFTM0lKbERUWVFmSGpoQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Microsoft fixes Remote Desktop warnings displaying incorrectly - BleepingComputer",
+    "description": "Microsoft fixes Remote Desktop warnings displaying incorrectly  BleepingComputerMicrosoft explains why Windows 11 KB5083631, KB5083769 are making systems restart more times  NeowinApril KB5083769 Windows 11 update causes backup software failures  BleepingComputerMicrosoft beefs up Remote Desktop security with ... hard-to-read messages  theregister.comWindows 11 KB5083769 update breaks BITS and causes system freezes  Neowin",
+    "published date": "Fri, 01 May 2026 12:46:48 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa1ZkTzMwbGVmZnlwWWZ6ZFo0aUtOdFZ6T2tPUzhEV3FhUjl6dndSOEpWMmFhYzIyT2Y3VndwUkU3akhLS2xwN0R5MnBhMXZUaTZ6YjFrdlNWQ1pzMk85RENkXzktZWlGakxEdXRadVZvSnN1V0xZWnhvRy1UeTcyVlhUQWdKT184TTF1YjVweXk4RzVoMjJiNUJMQnJ5dFNNYjZjZEVYN3JyR05seDA4VNIBtgFBVV95cUxQQzdpcGpXSndUcTlDS2s3NVc3dmtmMmdJTG00VmFlVXhheFRjVENxdUpLLXp4NmVYVjgwck9kR2xoYVRQbnhXTk90d2xkazRSemowYndzMGpaSVBMZXJuNzBmVXBURmtlTXhyZDVOcTJUa2FDQ1QtSFFOaV9xZGtsVHRFWlZ5OUh0WWwwNlBvSjljYkFidVNTbXIyQjV4akFZeExxRkVZRnd6Zk52N25lS1ZEdnJKZw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://techcrunch.com",
-      "title": "TechCrunch"
-    }
-  },
-  {
-    "title": "Final Fantasy VII Director Has Already Completed \"Over 40 Full Playthroughs\" Of The Third Game - Nintendo Life",
-    "description": "Final Fantasy VII Director Has Already Completed \"Over 40 Full Playthroughs\" Of The Third Game  Nintendo Life\"It's Rare For Me To Make Downtime\" - Naoki Hamaguchi Talks Final Fantasy VII's \"Packed And Eventful\" Development  Nintendo Life",
-    "published date": "Fri, 01 May 2026 14:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQzFaY2UxclBXTU1rUUJMR3hBa3QzMzF6OGhrckluNkQtaF90QVp6Y0w5R2hoeG9XS2E3ZlRLVFNKVW1sWWhCYWRGVF9NYUNRT1NCTks5T0tNM1lGWWZvS3FZT0p5cnQtenZfaVE1eVVQb2lCQkJ1TG5SdjR3elBOOVE2ZVRHdWVFV0pTUzZoN2FGY0lyOUxwV1k4aS1VOEpzTFQwZHBjcFNFVTdnM3Zka0ZZLUt3R0E0a19JNmZJeVUyT3VSNjdCR2p0TWFfVmM?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.nintendolife.com",
-      "title": "Nintendo Life"
+      "href": "https://www.bleepingcomputer.com",
+      "title": "BleepingComputer"
     }
   },
   {
@@ -480,13 +540,13 @@
     }
   },
   {
-    "title": "New ROG Xbox Ally Updates: Docking Improvements, Auto SR Preview, Collective Library, Enhanced Vibration, and More - Xbox Wire",
-    "description": "New ROG Xbox Ally Updates: Docking Improvements, Auto SR Preview, Collective Library, Enhanced Vibration, and More  Xbox WireXbox Mode Begins Rolling Out to Players on Windows 11 PCs Today  Xbox WireROG Xbox Ally X Finally Gets Auto SR Support, Plus New Docked Mode Features  Digital FoundryMicrosoft’s DLSS competitor is now available on the Xbox Ally X handheld  The VergeThe ROG Xbox Ally X Is Getting Some Updates, Including Automatic Super Resolution  Engadget",
-    "published date": "Thu, 30 Apr 2026 16:02:19 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTnpadk11THlyQjJwdlVlVnNhQVZfZHpLbE13Zm05Z1dqZzZlZ3E1M25FSlFkbjlYdUZsV3Y4Zm44b09ERTE2VlB2enhHbkxRR1VOUUNKX1RIdVZhaG5IN1RhWUNRQ0J5WGlQc3BKSnM0R0tKQmJRRXUtdUZEQU0ydG9JbHJESjlCbFc1QkpOdm1ZWE1ubC1la0h3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles - TechCrunch",
+    "description": "Google’s Gemini AI assistant is hitting the road in millions of vehicles  TechCrunchYour car with Google built-in is about to get smarter, thanks to Gemini  blog.googleGM brings Google Gemini to millions of vehicles on the road  General MotorsGemini for Android Automotive is rolling out soon, even if your car isn’t brand new  9to5GoogleGoogle Gemini to Roll Out in Growing Number of New and Existing Vehicles  Le Guide de l'auto",
+    "published date": "Thu, 30 Apr 2026 17:46:54 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa2lVcWVzczM0clRNYlFERWZ2d2FmR2hjWUctSG5adkpWZWExNElVVVItS1FXbDBiWnVaTjI1c0FyWGppV2V4ZG1OdGNpUEsyWFBpeFlpVVBYaDdVeXRtTXR1bF8wamJCS2pTQi1TTWpWQm1Dbi1reDdkdG0wQ2NGcEl3cHoxeWxPNG8yOXVBTlRBNkRxMTJzNlBNSnFTM0lKbERUWVFmSGpoQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://news.xbox.com",
-      "title": "Xbox Wire"
+      "href": "https://techcrunch.com",
+      "title": "TechCrunch"
     }
   },
   {
@@ -497,6 +557,16 @@
     "publisher": {
       "href": "https://www.nintendolife.com",
       "title": "Nintendo Life"
+    }
+  },
+  {
+    "title": "New ROG Xbox Ally Updates: Docking Improvements, Auto SR Preview, Collective Library, Enhanced Vibration, and More - Xbox Wire",
+    "description": "New ROG Xbox Ally Updates: Docking Improvements, Auto SR Preview, Collective Library, Enhanced Vibration, and More  Xbox WireXbox Mode Begins Rolling Out to Players on Windows 11 PCs Today  Xbox WireROG Xbox Ally X Finally Gets Auto SR Support, Plus New Docked Mode Features  Digital FoundryMicrosoft’s DLSS competitor is now available on the Xbox Ally X handheld  The VergeThe ROG Xbox Ally X Is Getting Some Updates, Including Automatic Super Resolution  Engadget",
+    "published date": "Thu, 30 Apr 2026 16:02:19 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTnpadk11THlyQjJwdlVlVnNhQVZfZHpLbE13Zm05Z1dqZzZlZ3E1M25FSlFkbjlYdUZsV3Y4Zm44b09ERTE2VlB2enhHbkxRR1VOUUNKX1RIdVZhaG5IN1RhWUNRQ0J5WGlQc3BKSnM0R0tKQmJRRXUtdUZEQU0ydG9JbHJESjlCbFc1QkpOdm1ZWE1ubC1la0h3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://news.xbox.com",
+      "title": "Xbox Wire"
     }
   },
   {
@@ -520,16 +590,6 @@
     }
   },
   {
-    "title": "VES On-Set VFX Data Collection and Usage Guide released - befores & afters",
-    "description": "VES On-Set VFX Data Collection and Usage Guide released  befores & afters",
-    "published date": "Thu, 30 Apr 2026 16:04:34 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQkQ2UmFxMWxuUk9UaF9kR0lLbGFuT0NaRmtaU0VfdENkdGFRNmFKNTE4NjRFQ042NUVNZlhRWWZJMzFaWGxoQ2lQUDZjc0NEWGJRR2Naa1U5cFJTZHRCUmtaVlFXTjhQVVV4cVg0QmxFM3MtcmU0SHlrNXQ4dzdjWVRmeTRRTnpBQWVLVkF5d1A2THlDR293VDY0OEM?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://beforesandafters.com",
-      "title": "befores & afters"
-    }
-  },
-  {
     "title": "LibreOffice 26.2.3 Open-Source Office Suite Released with More Than 40 Bug Fixes - 9to5Linux",
     "description": "LibreOffice 26.2.3 Open-Source Office Suite Released with More Than 40 Bug Fixes  9to5Linux",
     "published date": "Thu, 30 Apr 2026 16:19:38 GMT",
@@ -540,8 +600,58 @@
     }
   },
   {
+    "title": "VES On-Set VFX Data Collection and Usage Guide released - befores & afters",
+    "description": "VES On-Set VFX Data Collection and Usage Guide released  befores & afters",
+    "published date": "Thu, 30 Apr 2026 16:04:34 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQkQ2UmFxMWxuUk9UaF9kR0lLbGFuT0NaRmtaU0VfdENkdGFRNmFKNTE4NjRFQ042NUVNZlhRWWZJMzFaWGxoQ2lQUDZjc0NEWGJRR2Naa1U5cFJTZHRCUmtaVlFXTjhQVVV4cVg0QmxFM3MtcmU0SHlrNXQ4dzdjWVRmeTRRTnpBQWVLVkF5d1A2THlDR293VDY0OEM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://beforesandafters.com",
+      "title": "befores & afters"
+    }
+  },
+  {
+    "title": "Watch Out For Those Fees - Defector",
+    "description": "Watch Out For Those Fees  Defector",
+    "published date": "Fri, 01 May 2026 16:33:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ibHVnWV8yc3Axc2FoZldaV3BNQmV2Q3BEUWNfeE9idDlDbzVBWE5TdWhkMGt4bm8ySW02RFd3SkthbTRneXEwaDZ0MndjNkprYmdTNi1QOUI?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://defector.com",
+      "title": "Defector"
+    }
+  },
+  {
+    "title": "Final Fantasy VII Rebirth's Internal Resolution Detailed For Switch 2 - Nintendo Life",
+    "description": "Final Fantasy VII Rebirth's Internal Resolution Detailed For Switch 2  Nintendo LifeFinal Fantasy 7 Rebirth confirms Nintendo Switch 2 resolution, dev talks hair rendering changes  Nintendo EverythingFinal Fantasy 7 Rebirth cuts back on background props on Nintendo Switch 2  Nintendo EverythingFinal Fantasy VII Rebirth Director Reveals How The Game Was Tweaked For Switch 2 [Exclusive]  comicbook.comFREE DEMO OF FINAL FANTASY VII REBIRTH OUT NOW ON NINTENDO SWITCH 2 AND XBOX  Square Enix press site",
+    "published date": "Fri, 01 May 2026 14:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVVU3ZW5KWG1QVWNwY0dUTnR0QTVwVEM1bXlUVGV0MjZObHByY2Q4ZkNkTEhmdjY2RktSSkV3Y2M3SEtqMTNtcXIwUE9WZ0RsYlJGX1FxTl9YTnM5WVVEbXJGTE10ZEdjLWZjQzNyaWZaQjNqU0VfRl9iTzcxdTFFX1BmM1d3bmQ0SlVhTzNvMTlKRjVndDlwWk1lZzQ2dWJBU2xQMUZoVFgwNGRyOUVv?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nintendolife.com",
+      "title": "Nintendo Life"
+    }
+  },
+  {
+    "title": "GameMaker incorporates Claude Code to enable AI-assisted workflows - Game Developer",
+    "description": "GameMaker incorporates Claude Code to enable AI-assisted workflows  Game DeveloperGameMaker leans into AI coding and Sony clarifies DRM confusion  Game Developer",
+    "published date": "Fri, 01 May 2026 10:45:39 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd1BLSnRDRFk3NWw1bERCRlVoZ3N1b1ByX3dVRnFQSi0wczV1R3Y1R2k1RC1BRkRmallUcmptNExyNEhUUWx6cVlJRUYyamFYdUxZcnM1Qm5HdEFzaGR5Zjl4S0ZCVmJDN3pBS0p5MWo0TVFuOU1rVjg5MmwxR0ZBc3B3Ri1QZGZ0b2Y1SzhVdWJ4akFDS1dKQmhTZTQ1QXIwdUM3aDlCMGRfTWs?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.gamedeveloper.com",
+      "title": "Game Developer"
+    }
+  },
+  {
+    "title": "'It Was a Really Hot Topic in Our Offices Whether to Do This AMA' — Kingdom Come: Deliverance 2 Devs Answered Fan Questions on Reddit and Inevitably Most Were About AI - IGN",
+    "description": "'It Was a Really Hot Topic in Our Offices Whether to Do This AMA' — Kingdom Come: Deliverance 2 Devs Answered Fan Questions on Reddit and Inevitably Most Were About AI  IGNKingdom Come: Deliverance AMA Gets Bombarded With Questions About AI  Kotaku",
+    "published date": "Fri, 01 May 2026 09:48:39 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWGxwZDcyMHoxbTlEb3ZQUUVocHQ3Qm1VYm9jS1Y4SnBuYjZuMEJQU2VsU2lfcERnR1lYbDh0aWJuYmh1el9KZE1uRS1FVXlieHBDbnM4YjgyY2JKWm5MLXhRTFhFYWtnSFpEb24wdUdyVGVYR01teEdrVlJHdVlxY0xQUVQ3cTA3eVhDTzBZdnR2UGt5MlNqVThqN211RDItZFJ5S2h2aFlNS2FLMm5CZWJuZHJScTFrdVhtNlBTUkhZVUlxQlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ign.com",
+      "title": "IGN"
+    }
+  },
+  {
     "title": "The most severe Linux threat to surface in years catches the world flat-footed - Ars Technica",
-    "description": "The most severe Linux threat to surface in years catches the world flat-footed  Ars TechnicaLinux exploit instantly grants administrator access on most distributions since 2017 — cryptography optimization snafu grants root privileges to local users  Tom's HardwareNew Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions  The Hacker NewsSevere Linux Copy Fail security flaw uncovered using AI scanning help  The Verge\"Copy Fail\": Linux root in all major distributions with 732 bytes of Python  heise online",
+    "description": "The most severe Linux threat to surface in years catches the world flat-footed  Ars TechnicaLinux exploit instantly grants administrator access on most distributions since 2017 — cryptography optimization snafu grants root privileges to local users  Tom's HardwareNew Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions  The Hacker News\"Copy Fail\": Linux root in all major distributions with 732 bytes of Python  heise onlineLinux cryptographic code flaw offers fast route to root  theregister.com",
     "published date": "Thu, 30 Apr 2026 20:20:48 GMT",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeDU5TDZDOUpzcVVNZ0FnaFg5UWFVV3huM09OS2ZnSllqRnlXOUxtT0dnX081N3lDSGRhRF91V3ZrVVhpcnpscXk1dEZydDJ2SEZBSzhMMGlnRUU3eUxpTUdGcDRGdl9FOGdWa1JGN1o0ZWRJNXVnVmtNN2RZaXE3MHhLQUZCQTVWOHAwWmRUZzM4UUJRQ3laamx3X0g1MW56UDFlb2c5eTQ3b0x0R2tmbg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -550,10 +660,20 @@
     }
   },
   {
-    "title": "Upcoming Nintendo Switch 2 Games & Accessories For May & June 2026 - Nintendo Life",
-    "description": "Upcoming Nintendo Switch 2 Games & Accessories For May & June 2026  Nintendo LifeSwitch officially has 5 must-play new games coming in May 2026  Polygon.com",
-    "published date": "Fri, 01 May 2026 12:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYjhrcUtTUmNfUHd1ek5VQlZaN2ZQbW1kSHR2eGxpbEcta3RXb1AzMVQ5WjhIRUNvMmk5eGxfdWt6N2pDWXBOTlJpLVh3QTlweWg5dE1yZl9raVYyRDU3aXg3ZEtuTFF6THZSa3J4a2hmeDJjb0E4X3JQN1N6TkFHOVNQYy0tUThhaFBPbmNpZWJSQ2ZaOVBJemR4TUczSnl3Ujk0RG9ieWxIUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Xbox Presents: A Special Look at Stranger Than Heaven Airs Next Wednesday - Here’s Everything You Need to Know - Xbox Wire",
+    "description": "Xbox Presents: A Special Look at Stranger Than Heaven Airs Next Wednesday - Here’s Everything You Need to Know  Xbox Wire'Stranger Than Heaven' Will Detail Story, World, Characters And More During Next Week's Xbox Presents Showcase  Worthplaying",
+    "published date": "Thu, 30 Apr 2026 13:03:18 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX2c3R29vMHZMVHktRC14OW5mQkpTekRTRXRjR296bHh2UDRFbXN4YTZ0YUkwMkVzWVF1S1RGejFTamlsd0tKWVFHenAtY3JfdE1felk0V01Wd0hOVk50eUQ1cUtWTGN1LUU3cE02Mkd3UktZdUZzeEZoVzdZUndleFhSTzFIekFlLTgwa1lOY09VazhQZkdoMU52Yw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://news.xbox.com",
+      "title": "Xbox Wire"
+    }
+  },
+  {
+    "title": "POKEBOOK Is Taking You Back To Kanto For Pokémon's 30th Anniversary Year - Nintendo Life",
+    "description": "POKEBOOK Is Taking You Back To Kanto For Pokémon's 30th Anniversary Year  Nintendo LifePokémon Officially Returns To Kanto For New 30th Anniversary Release  ScreenRant",
+    "published date": "Fri, 01 May 2026 10:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSXhJZFI3ZFpBTWdlY0VpVkREZEVTYTBWcDRRZ0tQbVE3VlFGdy1uMTZ3azFPSExGVE1YbzdjVEJLNFpncEtTaDRWa29feUpGRV9ETWR5b1Rkb2tqVDRxa0ptM3k4SUd0bHR6NG93QzIySUlXVjZOYmpKTVM5OERvQjU3M3JxOVVIaUFoZ1VwN3JVM1Z2ZDA5WWhpMHZkLVlTdHZxWnh0TzlMb0F1V21qNjEwdw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.nintendolife.com",
       "title": "Nintendo Life"
@@ -570,16 +690,6 @@
     }
   },
   {
-    "title": "Xbox Presents: A Special Look at Stranger Than Heaven Airs Next Wednesday - Here’s Everything You Need to Know - Xbox Wire",
-    "description": "Xbox Presents: A Special Look at Stranger Than Heaven Airs Next Wednesday - Here’s Everything You Need to Know  Xbox Wire'Stranger Than Heaven' Will Detail Story, World, Characters And More During Next Week's Xbox Presents Showcase  Worthplaying",
-    "published date": "Thu, 30 Apr 2026 13:03:18 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX2c3R29vMHZMVHktRC14OW5mQkpTekRTRXRjR296bHh2UDRFbXN4YTZ0YUkwMkVzWVF1S1RGejFTamlsd0tKWVFHenAtY3JfdE1felk0V01Wd0hOVk50eUQ1cUtWTGN1LUU3cE02Mkd3UktZdUZzeEZoVzdZUndleFhSTzFIekFlLTgwa1lOY09VazhQZkdoMU52Yw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://news.xbox.com",
-      "title": "Xbox Wire"
-    }
-  },
-  {
     "title": "Samsung Galaxy vs. Google Pixel: My take after testing dozens of phones from both brands - ZDNET",
     "description": "Samsung Galaxy vs. Google Pixel: My take after testing dozens of phones from both brands  ZDNET",
     "published date": "Thu, 30 Apr 2026 13:06:00 GMT",
@@ -587,116 +697,6 @@
     "publisher": {
       "href": "https://www.zdnet.com",
       "title": "ZDNET"
-    }
-  },
-  {
-    "title": "POKEBOOK Is Taking You Back To Kanto For Pokémon's 30th Anniversary Year - Nintendo Life",
-    "description": "POKEBOOK Is Taking You Back To Kanto For Pokémon's 30th Anniversary Year  Nintendo Life",
-    "published date": "Fri, 01 May 2026 10:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSXhJZFI3ZFpBTWdlY0VpVkREZEVTYTBWcDRRZ0tQbVE3VlFGdy1uMTZ3azFPSExGVE1YbzdjVEJLNFpncEtTaDRWa29feUpGRV9ETWR5b1Rkb2tqVDRxa0ptM3k4SUd0bHR6NG93QzIySUlXVjZOYmpKTVM5OERvQjU3M3JxOVVIaUFoZ1VwN3JVM1Z2ZDA5WWhpMHZkLVlTdHZxWnh0TzlMb0F1V21qNjEwdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.nintendolife.com",
-      "title": "Nintendo Life"
-    }
-  },
-  {
-    "title": "Take-Two CEO Addresses Grand Theft Auto 6 Price, and the Possibility for More L.A. Noire - IGN",
-    "description": "Take-Two CEO Addresses Grand Theft Auto 6 Price, and the Possibility for More L.A. Noire  IGN“There’s No Delay Incoming” For GTA 6, It’s Claimed, as the November Release Date is Seemingly Locked-In  wccftech.com",
-    "published date": "Wed, 29 Apr 2026 23:21:43 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbExjRmZ0VmpZLXo1N2VfOE1OSkZUcUJ6ekxYaWlzVGRFbHVWLTFqVGpYU2g0UEJpaEJodDJMdmdqaDFVbFd3MC1fWEJqMEpMdFRjeHpiZUNWT1YxVlN3STZHMC1DOGhUbF9CWTdrQzJSYndrUmRVeFhsbU1ZVHdUZWdkMW9TeTNzUm5Dc3MzYWh1VEdpbVF6VzVaWGNrVEJqa3h4clhUdm1EUExUQkFJVWxseTg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ign.com",
-      "title": "IGN"
-    }
-  },
-  {
-    "title": "CachyOS Linux Performance Leading Over Ubuntu 26.04 LTS, Fedora Workstation 44 - Phoronix",
-    "description": "CachyOS Linux Performance Leading Over Ubuntu 26.04 LTS, Fedora Workstation 44  Phoronix",
-    "published date": "Thu, 30 Apr 2026 15:45:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5OVJpSTVTc1Vxa3NDY0Y4SlNGdmFtY0g5bUs5MnR0U1VsYy13Zjhkb1pscU0tWXprMHdHX295MzdvNFZxdGd5cW1OUWpObFhMSkRiODN4X3FMcDVkMVI2bmdCZlVVOGw4ellyWldB?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.phoronix.com",
-      "title": "Phoronix"
-    }
-  },
-  {
-    "title": "Free Play Days – Predator: Hunting Grounds, Railway Empire 2, Dragon Ball FighterZ and NBA Bounce - Xbox Wire",
-    "description": "Free Play Days – Predator: Hunting Grounds, Railway Empire 2, Dragon Ball FighterZ and NBA Bounce  Xbox WireXbox Game Pass subscribers get four free bonus games this weekend  TrueAchievements",
-    "published date": "Thu, 30 Apr 2026 15:03:24 GMT",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5lc0plVkZTazNEd3RnUU1rdl9pVlBqc1owRGlHd0lMM2NXRHRmRWZJTjJ5c0FSdTBaTjZuYTZCR1dlVFlIc1NCUnZVbjlvR0RiYWszR2RZX3VCLVpfMUJnYkhqRElhekRqVGxOWHdvamlldjQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://news.xbox.com",
-      "title": "Xbox Wire"
-    }
-  },
-  {
-    "title": "How I scan documents with my Android phone and turn them into PDFs for free - it's easy - ZDNET",
-    "description": "How I scan documents with my Android phone and turn them into PDFs for free - it's easy  ZDNET",
-    "published date": "Fri, 01 May 2026 13:09:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOFFXaHlCY0dqWk56ekhhVVZlbUxwdl9fSTFyOWdBMFY0VTlySm1MNWpLRHJoeDZpZ0pNaWZwMVpRbFotaXJ6bWhnRFItTWlVVS1FbVVzTTBFZDRvZGlyeHY0emFPSW0xaGVDZkZCUTJqWE5Sc3dHaFR3Z1R5VHdnVU90eS10SGYzSGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.zdnet.com",
-      "title": "ZDNET"
-    }
-  },
-  {
-    "title": "Bunch of PS5, PS4 Games Delisted From PS Store Without Notice - PlayStation LifeStyle",
-    "description": "Bunch of PS5, PS4 Games Delisted From PS Store Without Notice  PlayStation LifeStylePS5 Users Issued Warning As 6 Games Being Delisted In May And June  GAMINGbible6 PlayStation Games Are Shutting Down by June 1  GameRant",
-    "published date": "Fri, 01 May 2026 13:16:03 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaUcwVWVYSy0zMFh1ekNWaFdJLUkxTXhCT1dQanNRbUZiTXVXYkI2QmdzLXFNWjVPRDE4VG5DQXpidkRyNEJXMVRTNWFYelJpRzlaTjFNVkRxY2Y4TUlEdnJ2cTBQaHFEZVVVOGdCaU5PXzlPVDNTbkhQR3NOM3lHNjFOdkFoUGZZQm5LM1JNdXB2OWNiT2fSAZsBQVVfeXFMT0FpMldyRHlqNnZHc3M2QnJmLTRnNlBOOFU5QlkteWhUREFkQmtqaF9oMWFPb3l4cHo5TXdpczVQeEFVUkFXN082VUpKMVRwNHFmTEtEUWlHTVl2UFV0MlFJSzRncHVlMFRPOThhN2NNak5oa3NZMGowRmVybGxVYmVyWEk2NG1KZ2w3RWs3eXgwRjV2N2M5WHZ1ZWs?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.playstationlifestyle.net",
-      "title": "PlayStation LifeStyle"
-    }
-  },
-  {
-    "title": "People Are Selling Kills of Marathon’s Hardest Boss on eBay - 404 Media",
-    "description": "People Are Selling Kills of Marathon’s Hardest Boss on eBay  404 Media",
-    "published date": "Thu, 30 Apr 2026 13:52:08 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95cnMtaEhTbkxRUDBJVlRTVFBlbVMwZmFqWVRUdmpkeEJ4RWg5VUh2Rk8zQ25YdmNxUHB6RUZBVkc3Y1J4dVVXbE9ZNmEtbEZzUEJkcXl2Y2NRNFN4UlhFWA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.404media.co",
-      "title": "404 Media"
-    }
-  },
-  {
-    "title": "Final Fantasy 7 Rebirth cuts back on background props on Nintendo Switch 2 - Nintendo Everything",
-    "description": "Final Fantasy 7 Rebirth cuts back on background props on Nintendo Switch 2  Nintendo EverythingFinal Fantasy 7 Rebirth confirms Nintendo Switch 2 resolution, dev talks hair rendering changes  Nintendo EverythingFinal Fantasy VII Rebirth's Internal Resolution Detailed For Switch 2  Nintendo LifeFREE DEMO OF FINAL FANTASY VII REBIRTH OUT NOW ON NINTENDO SWITCH 2 AND XBOX  Square Enix press siteFinal Fantasy VII Rebirth Director Reveals How The Game Was Tweaked For Switch 2 [Exclusive]  comicbook.com",
-    "published date": "Thu, 30 Apr 2026 17:01:17 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUzM5M2VoQjNfUkNtMGRXeVNDRWktRnVYNGYyVlNiMGxUUDJTcUtiYUlMRGJXMjZlUVFTcU5FYVpma0VUNnVrRnBnaTh1Ui0tMkVkOVlJU2FqLVcwOElDZmhDUDZURVZ5UEFlam1mVjJ6NjZXMlR3WWdVbEotbTZDSkdQX0ZORWlUUWY1VmtBakJkc0pCeXBjNmFTMlJfVjFHSWRYV3ZyT1liUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://nintendoeverything.com",
-      "title": "Nintendo Everything"
-    }
-  },
-  {
-    "title": "Total War: Warhammer 40,000 Devs Reveal Huge Battle Maps, Planets, and Region Scale - IGN",
-    "description": "Total War: Warhammer 40,000 Devs Reveal Huge Battle Maps, Planets, and Region Scale  IGNTotal War: Warhammer 40k's map reveals fill me with faith that Creative Assembly can handle the setting's absurd scale  PC Gamer",
-    "published date": "Fri, 01 May 2026 15:38:16 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaXBGNlFkOHZJa1oyS3VORHBmT28zbEllaUJVYjZYZjZXOEhyczljdTRzcWNsYnR4OXpRUnhTbDhaZEZEVGVmLUgtdjF3ekhxRE9hUncxYXV3blhfZXVmMDQ4Vkd3SVZPRmJ5YzcwTmJ2QndjTzA4Z2owdjhsTWxGX3MxMGhuMXBKMzVyNDFoN3B2RUxPV1pQSFBRT2RsZWJkUktyelBDaXp2VEV0?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ign.com",
-      "title": "IGN"
-    }
-  },
-  {
-    "title": "The Outer Worlds Is Getting Grenades, Nearly 7 Years After It Came Out - IGN",
-    "description": "The Outer Worlds Is Getting Grenades, Nearly 7 Years After It Came Out  IGNThe Outer Worlds To Be Partially Delisted, Free 'Spacer's Choice Edition' For Those Affected  Pure XboxThe Outer Worlds Is Getting A Major Update Seven Years Post-Launch  Kotaku",
-    "published date": "Fri, 01 May 2026 11:33:03 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQzRiSV96aC1kN3Nyd1N4RFRMM0d6SFhJSklTcmlQcXpka0xtTDNSak9SNmdOWVJYdTBHTmYyaWV1ZmtEcl9CQmJuVThkVGF6RUlOWi1zWE9jUDhhQ1hlWk9VOE9nbkpDNWkzOUlrWmxmUnp1Uy1IQXFvazRibzZEdHBKbEVfQ25HVkVSUWxZUkdZelQ3Q3lDQWNYM3I2aEk?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ign.com",
-      "title": "IGN"
-    }
-  },
-  {
-    "title": "I asked ChatGPT to recreate Bryan Johnson’s $2 million anti-aging routine for $20 — here’s what worked - Tom's Guide",
-    "description": "I asked ChatGPT to recreate Bryan Johnson’s $2 million anti-aging routine for $20 — here’s what worked  Tom's Guide",
-    "published date": "Fri, 01 May 2026 05:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcUdWNzNYM0pOTThGbVBTUWFNSE5ucU9BZ3NMN1B6dFExZmhSUGFILTdXZ2FKNnNDZFdGYXpLSVNyRzBNenNjUzZEVzRjRlVEVWVWcy1wYXg2RTZfdmhNOFJNOXJyTUhqY0RSTzdhSzRwUkh6WkJXRVF3NFJ6dE43TDRDYzNpX2tuMll6WDcxZG9vel9XVFNhU3hNMEZmUndkc3hSWHlXUnVMbmlvc051dDk0cG53NzhUbHU4THJsM1hkZWRabXJWX2JSQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.tomsguide.com",
-      "title": "Tom's Guide"
     }
   }
 ]
