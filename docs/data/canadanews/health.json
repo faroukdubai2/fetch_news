@@ -1,15 +1,5 @@
 [
   {
-    "title": "‘Mole Mobile’ returns to Ottawa to scan for skin cancers - CTV News",
-    "description": "‘Mole Mobile’ returns to Ottawa to scan for skin cancers  CTV News",
-    "published date": "Fri, 01 May 2026 13:30:27 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS2lGam51NG9vZy10a1dvY3laQ3NBdFFmQ1hUZTFfb290OThJZlJDUVRzdGdjTXR6bXkzZ2dvUWJuakdrLThjR2lRN0FmUFN2Ti13MlhzeGVoSTk3cWxjOXkza0dOM3JLS3N1aktlNVhPRDhrNmpmazB0algweGprN25jV3VQOWJkUXhfMlJiV0p2UlEtcWs0eA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ctvnews.ca",
-      "title": "CTV News"
-    }
-  },
-  {
     "title": "Employers shoulder $110B burden as mental health costs Canada $180B a year - Canadian Occupational Safety",
     "description": "Employers shoulder $110B burden as mental health costs Canada $180B a year  Canadian Occupational SafetyCanadians want mental health funding to continue, new polling shows  Newswire Canada",
     "published date": "Fri, 01 May 2026 10:01:00 GMT",
@@ -17,6 +7,16 @@
     "publisher": {
       "href": "https://www.thesafetymag.com",
       "title": "Canadian Occupational Safety"
+    }
+  },
+  {
+    "title": "Manitoba expands RSV protection program to all infants - Winnipeg Sun",
+    "description": "Manitoba expands RSV protection program to all infants  Winnipeg SunP.E.I. records sharp decline in RSV hospitalizations for infants and seniors  CTV News‘Truly wonderful news,’ says N.L.’s top doctor as RSV shots expanded for infants and seniors  CBC",
+    "published date": "Fri, 01 May 2026 15:48:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQV1B1WjBwbXgtLWU2Y210bU5uWXZhbDNfdHN4cWFoc0NQZFUyWHZ1b3hVMUMzaTh2a1llYW42bTU5N1dnQ2tvWEpYV2kyQkxWaXRqU0FiOVFmV0xfbVRxX0R5ZER3eEROblA4bTlZRG5aanA2bEo5S0p0RldmY1JrcVZRdTdPQk0zN09yd3lvRXR5TVRUZ0NCLVZKaElCWlRjdmRGVURKOVFuY0l0OVNNU0JTUmEtRHhCZ0REUXVKYk41Zld4WWcyQnZBcU11MmVIYU9kVjNxM0VfRFRrd2lZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.winnipegsun.com",
+      "title": "Winnipeg Sun"
     }
   },
   {
@@ -40,6 +40,16 @@
     }
   },
   {
+    "title": "Living near a gas station raises childhood cancer risk, study shows - Phys.org",
+    "description": "Living near a gas station raises childhood cancer risk, study shows  Phys.org",
+    "published date": "Fri, 01 May 2026 16:00:08 GMT",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yR0JCdGtPRDdOY19mbjVVQXJBRDdSQ2g2dXdBZEs3cGZxaHhoX3hDVlE0bFlEOHFCNnpHLVA0cDlxclhtTDlLSUg2ekJZMjhsd3h2aldoZVZTVW9wX2tfTTlPMHNFbTJxYWRhNjEtWWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://phys.org",
+      "title": "Phys.org"
+    }
+  },
+  {
     "title": "1 in 5 Manitobans sought care for anxiety, study finds — but researcher says that's likely an undercount - CBC",
     "description": "1 in 5 Manitobans sought care for anxiety, study finds — but researcher says that's likely an undercount  CBCMood and anxiety disorders affect more than a quarter of Manitobans: report - Winnipeg  Global NewsNew report finds 1-in-5 Manitobans seek care for anxiety, 1-in-6 for depression, aged 15+  CityNews Winnipeg",
     "published date": "Wed, 29 Apr 2026 22:34:40 GMT",
@@ -57,16 +67,6 @@
     "publisher": {
       "href": "https://nz.news.yahoo.com",
       "title": "Yahoo News New Zealand"
-    }
-  },
-  {
-    "title": "May 5, 2026 – World Hand Hygiene Day - Shared Health",
-    "description": "May 5, 2026 – World Hand Hygiene Day  Shared Health5 May World Hand Hygiene Day: Action saves lives!  World Health Organization (WHO)",
-    "published date": "Thu, 30 Apr 2026 13:25:41 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUGlxeVhYWnVPRWRsd0lIclJTTnBKdzlmc2tvVUpJV0hkU0toX3JERmJsSzhvX20wZEl5cVRXTjA3eFRXNXRMUUFkZTFGUUtnWWg3U2EwUGR6V2VyYkRBODg4cjVORUJLM254SzZKVUJiOGdocGtiM21iUUVYNmt4OG5B?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://sharedhealthmb.ca",
-      "title": "Shared Health"
     }
   },
   {
@@ -100,13 +100,13 @@
     }
   },
   {
-    "title": "P.E.I. records sharp decline in RSV hospitalizations for infants and seniors - CTV News",
-    "description": "P.E.I. records sharp decline in RSV hospitalizations for infants and seniors  CTV News‘Truly wonderful news,’ says N.L.’s top doctor as RSV shots expanded for infants and seniors  CBC",
-    "published date": "Wed, 29 Apr 2026 19:33:08 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWFFDY1BsNHlIR01kY3dqalNkTWQ1dmZ3NkxhZGMzaV9IeVRyM19fYkpmVHJuN1RGeGN3Tmd4MWdVeWNXTS1qdFNsWTQ1b0ZOUWhCOXNFaUdCdG5iaHozaEtLbkg2ZGE5dkhTQlJFMHRkaWE0OUhOeWxacGFqSFJXazQzSnFvWndLdkNvdVN0aTlndVJEQWEzckdZUFlEYk9QdEg4ajF1anFTVjhSLWVQbUhiSHMwemU5ajh5aklqNnFERGZNS0g1N3o2aUljejB5?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "May 5, 2026 – World Hand Hygiene Day - Shared Health",
+    "description": "May 5, 2026 – World Hand Hygiene Day  Shared Health5 May World Hand Hygiene Day: Action saves lives!  World Health Organization (WHO)",
+    "published date": "Thu, 30 Apr 2026 13:25:41 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUGlxeVhYWnVPRWRsd0lIclJTTnBKdzlmc2tvVUpJV0hkU0toX3JERmJsSzhvX20wZEl5cVRXTjA3eFRXNXRMUUFkZTFGUUtnWWg3U2EwUGR6V2VyYkRBODg4cjVORUJLM254SzZKVUJiOGdocGtiM21iUUVYNmt4OG5B?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.ctvnews.ca",
-      "title": "CTV News"
+      "href": "https://sharedhealthmb.ca",
+      "title": "Shared Health"
     }
   },
   {
@@ -120,16 +120,6 @@
     }
   },
   {
-    "title": "Public health issues drug poisoning alert for Haliburton County - Global News",
-    "description": "Public health issues drug poisoning alert for Haliburton County  Global NewsAlert issued following high number of suspected drug poisonings in Haliburton  The Peterborough Examiner",
-    "published date": "Thu, 30 Apr 2026 18:27:33 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUFZxdWJsUVh4ZkFNRmFYTjJ3NkdmTXlkcHlranFJQlZZMVdjd01HS3diQU1WQlFrVVNUSThOM3JqYXJETXktM3FqRFZCa0MwQnRIVktrbkpwcTBOYTlpcWpCVV9veURqTjhiZ3RvTVdUSUMxUGozcFBYX3lSU2tRYw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://globalnews.ca",
-      "title": "Global News"
-    }
-  },
-  {
     "title": "Do Psychedelic Treatments Receive Disproportionate Media Hype? - EMJ",
     "description": "Do Psychedelic Treatments Receive Disproportionate Media Hype?  EMJFast relief or fragile fix?  The New Indian Express",
     "published date": "Thu, 30 Apr 2026 14:03:59 GMT",
@@ -140,13 +130,13 @@
     }
   },
   {
-    "title": "SHA warns of Pertussis (whooping cough) exposure at Victoria Hospital - Prince Albert Daily Herald",
-    "description": "SHA warns of Pertussis (whooping cough) exposure at Victoria Hospital  Prince Albert Daily HeraldWhooping cough exposure at Victoria Hospital  paNOWExposure aleret issued after pertussis case at Prince Albert hospital  CTV News",
-    "published date": "Fri, 01 May 2026 00:11:26 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUGdGNGxhLUV1T200azRueE1WN1ZPQURfbXh2WWx0ekFPVVY4bVJ2UktEVnVOVVJkSFNwbG54bkctMUdGV1d4dzlDWTBaeV90YTJ0aE12dmxfZ1BqaGtLVDBFSGxjaF9SXzZfTUxaWVBHMWZ5SWZwZWtrMXZNbnhYclp6VldIaVBYQWxvcl9rQm9jdVZlVXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Public health issues drug poisoning alert for Haliburton County - Global News",
+    "description": "Public health issues drug poisoning alert for Haliburton County  Global NewsAlert issued following high number of suspected drug poisonings in Haliburton  The Peterborough Examiner",
+    "published date": "Thu, 30 Apr 2026 18:27:33 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUFZxdWJsUVh4ZkFNRmFYTjJ3NkdmTXlkcHlranFJQlZZMVdjd01HS3diQU1WQlFrVVNUSThOM3JqYXJETXktM3FqRFZCa0MwQnRIVktrbkpwcTBOYTlpcWpCVV9veURqTjhiZ3RvTVdUSUMxUGozcFBYX3lSU2tRYw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://paherald.sk.ca",
-      "title": "Prince Albert Daily Herald"
+      "href": "https://globalnews.ca",
+      "title": "Global News"
     }
   },
   {
@@ -170,6 +160,46 @@
     }
   },
   {
+    "title": "SHA warns of Pertussis (whooping cough) exposure at Victoria Hospital - Prince Albert Daily Herald",
+    "description": "SHA warns of Pertussis (whooping cough) exposure at Victoria Hospital  Prince Albert Daily HeraldWhooping cough exposure at Victoria Hospital  paNOWExposure aleret issued after pertussis case at Prince Albert hospital  CTV News",
+    "published date": "Fri, 01 May 2026 00:11:26 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUGdGNGxhLUV1T200azRueE1WN1ZPQURfbXh2WWx0ekFPVVY4bVJ2UktEVnVOVVJkSFNwbG54bkctMUdGV1d4dzlDWTBaeV90YTJ0aE12dmxfZ1BqaGtLVDBFSGxjaF9SXzZfTUxaWVBHMWZ5SWZwZWtrMXZNbnhYclp6VldIaVBYQWxvcl9rQm9jdVZlVXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://paherald.sk.ca",
+      "title": "Prince Albert Daily Herald"
+    }
+  },
+  {
+    "title": "New in Clinical Guidance | Dyslipidemia, Gene Editing and CHD - American College of Cardiology",
+    "description": "New in Clinical Guidance | Dyslipidemia, Gene Editing and CHD  American College of CardiologyDoctors just updated the cholesterol number that aligns closest with heart disease risk  Earth.comEarlier cardiovascular disease screening and lower cholesterol levels among updated guidelines  Toronto Sun",
+    "published date": "Fri, 01 May 2026 11:41:58 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNWFEeVB4QXBRSEhUZFpldkJBb3Q0dFZobVNHSkUweUVsUTAwOTVyZEc5c0phV3JkN0pHRXd0TzNiaTJWLV9JM3gwU3FZbVA2MWNrQ09nWmJqY3ZiYmJsQnpoeFJmMUpOZUVvaHFlYmgzdExNbVJPdWlWRnQzSzlWVUh3RWpOUWotTHpqVjFCS0pBQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.acc.org",
+      "title": "American College of Cardiology"
+    }
+  },
+  {
+    "title": "Nirmatrelvir-Ritonavir Recovery but Fails to Reduce Hospitalizations in Vaccinated High-Risk Adults - Pharmacy Times",
+    "description": "Nirmatrelvir-Ritonavir Recovery but Fails to Reduce Hospitalizations in Vaccinated High-Risk Adults  Pharmacy TimesA new study looked into the effectiveness of the COVID-19 drug Paxlovid. Here’s what the results showed.  CTV News",
+    "published date": "Fri, 01 May 2026 16:05:59 GMT",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaV84Ym9KU2VJZm9OdlNXWG55YndhenVtLUJsMU5PVFZfVFo3SjViejJ2bnN6SWNNZndrSXgzdUphN1RDSFZ4VWlUWDVXVElYcVdHd0RpLVFQLUZTbndzcFRaRmZ0cGNibUVKRlJQeXFPMVVkeHlFQ1MxMVF4b21PUjY1dnA3YnpKSXRvcG1iOUw5TnBxYW9PR2VkUjl5QkpEcWhHbkh6aVVEY1RoUmVVcENsUjNydmlER1psTG5CaHE3WXlzYV9wQmQteGVVSEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.pharmacytimes.com",
+      "title": "Pharmacy Times"
+    }
+  },
+  {
+    "title": "Here’s why the idea behind a commonly-used kitchen tool could prevent strokes - CP24",
+    "description": "Here’s why the idea behind a commonly-used kitchen tool could prevent strokes  CP24",
+    "published date": "Thu, 30 Apr 2026 10:04:15 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdEVyZXBfaHpmU05hYzFrU3E5NXpfMDRwZkxQMEZweHhHNk8tNlhLZncza1VqV1dIOUJjZ3ozTG5NNkRxRXd4SjhYQXNUY3gtOWdZWEwzQW9NR2NDczJPVEtfQldZQ2VBbG53RGRSaVg2dEN6MFZwYVdXQ3d6VFNEdWxPbllLbXJJYThUQjZFc25ZTGpCR3dKRl83OVRoMXZsU2E5Y3k5WU9mQnZqdTR6bVdvaldrVEx5UXJWakIwTHhzY3c5ZFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cp24.com",
+      "title": "CP24"
+    }
+  },
+  {
     "title": "2025 had the most potential rabies exposures ever reported in Waterloo Region - CityNews Kitchener",
     "description": "2025 had the most potential rabies exposures ever reported in Waterloo Region  CityNews Kitchener",
     "published date": "Fri, 01 May 2026 08:27:17 GMT",
@@ -187,36 +217,6 @@
     "publisher": {
       "href": "https://www.medicalnewstoday.com",
       "title": "Medical News Today"
-    }
-  },
-  {
-    "title": "Living near a gas station increases cancer risk - Université de Montréal",
-    "description": "Living near a gas station increases cancer risk  Université de Montréal",
-    "published date": "Thu, 30 Apr 2026 20:11:56 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX2tIeFQwQ2dHT1hJOGhhMmxJcWpLaFlWOGg1Q3pJaFM1RE5Md2NmUzZFamE3Z09Walo3N2t2TWlLUHNwQkV0c2hGNGxiWlJhRWZHdFhsaXgwTjUyRmV3eXhkdzBhbFZTcnM2Mk5fN1lSUnNQUWUwQmY3ckZIUjBFc2VIY3FxaTNYRTNDd0toTnVYSk9oZDVGdHpxYWNBdWFCMmc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://nouvelles.umontreal.ca",
-      "title": "Université de Montréal"
-    }
-  },
-  {
-    "title": "New in Clinical Guidance | Dyslipidemia, Gene Editing and CHD - American College of Cardiology",
-    "description": "New in Clinical Guidance | Dyslipidemia, Gene Editing and CHD  American College of CardiologyDoctors just updated the cholesterol number that aligns closest with heart disease risk  Earth.comEarlier cardiovascular disease screening and lower cholesterol levels among updated guidelines  Toronto Sun",
-    "published date": "Fri, 01 May 2026 11:37:30 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX2JkWE1WNnVmN2JDNS1OWW1pS19uU0NmdG5tR2hZN0dFTmd4Y192RGxQV0Jzc1lzdVhfU2VUQnYzWkFjakpzbC1YZGZuTURST1JyM1VyYWhHSEdOQk1qWVRLbGFleFR2cHZ3d2FjSjVDQ1d2Yk9YXzJ3VGF2S2RTM2NzQkNWOGFtYTdfYmRuR1RjQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.acc.org",
-      "title": "American College of Cardiology"
-    }
-  },
-  {
-    "title": "Toronto man cured of HIV after stem cell transplant - Aidsmap",
-    "description": "Toronto man cured of HIV after stem cell transplant  AidsmapOpinion: The path to an AIDS cure is rare and brutal  The Globe and MailToronto team leads first-in-Canada case of sustained HIV remission  University of TorontoIn a Canadian first, a Toronto man’s HIV is in sustained remission. Here’s how scientists achieved it  Toronto StarToronto man poised to become the first Canadian cured of HIV  The Globe and Mail",
-    "published date": "Wed, 29 Apr 2026 14:50:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON08tNHRJWmExbHNZZkh1U3lWUEgzRDJKajlXdjY1T29EZktHLUNKZjNYUHQ1d1o2SDBhUzgxTU55cnV1MHByVUllQkNWUTNZZGZ4c3JMSnRJbjZISGs3MVhoWFl5cmd3S1VhQ3VobHpJbGY2WTVYSFc2bllGdk85ZVowUjdNRTV2aTJ4QmxGTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.aidsmap.com",
-      "title": "Aidsmap"
     }
   },
   {
@@ -260,16 +260,6 @@
     }
   },
   {
-    "title": "The full moon is here: Are you feeling anxious, unsettled, tense, violent? - PentictonNow",
-    "description": "The full moon is here: Are you feeling anxious, unsettled, tense, violent?  PentictonNow",
-    "published date": "Thu, 30 Apr 2026 18:15:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSTBBN0hnMzJZdTE0U2Q0Yk9zT19xRDJVWTN6bDB4dUhBZzVnQmNLc2hVbTdwaGkzY3pHc2FBUll3SE1vVUp1TS13NlJnQXZUMUJhRkE5VThDelIzOHpWVlVFQ0dxamNXbHllYnZqdWlxTm1WM0JXMGlaWDBaRDEwTnh5SXVYam82NUNLRjMyTVZ3RkJCUVlmd09RUmtsSENtZnNpTUZvZFVvYU0xLWNNekRndWpVa2xac2xSckpFSDFXam1vVjdaYXZXRkk?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.pentictonnow.com",
-      "title": "PentictonNow"
-    }
-  },
-  {
     "title": "Take precautions against hantavirus during spring cleaning: Sask. Health Authority - paNOW",
     "description": "Take precautions against hantavirus during spring cleaning: Sask. Health Authority  paNOWView Full Coverage on Google News",
     "published date": "Thu, 30 Apr 2026 18:15:17 GMT",
@@ -280,33 +270,23 @@
     }
   },
   {
-    "title": "What Reddit Knows About Ozempic Side Effects That Doctors Don’t—and How It Can Affect Your Performance - Outside Magazine",
-    "description": "What Reddit Knows About Ozempic Side Effects That Doctors Don’t—and How It Can Affect Your Performance  Outside MagazineNew weight-loss drugs such as Ozempic can also erase people’s love of food  The Globe and Mail",
-    "published date": "Thu, 30 Apr 2026 20:53:10 GMT",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMTByUklaVTFNOG1qRDUwbnF5TENROXltMjZoZS1sNlM5MGZrdC11a0x5MGg2YjhEWXRKZmNpNU1nLWhtT1RUWTh2cHNaMEtnY0p4aVBoN19WajlBd0FYeFhsUkJBc2NmZTdVNDllbDdaTXRBMFNDbDZYZ19kZkNneEZwT3lXMFZLSmJ5aTJQSm1ZdmoyOWR6Z0VoQktYZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "The full moon is here: Are you feeling anxious, unsettled, tense, violent? - PentictonNow",
+    "description": "The full moon is here: Are you feeling anxious, unsettled, tense, violent?  PentictonNow",
+    "published date": "Thu, 30 Apr 2026 18:15:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSTBBN0hnMzJZdTE0U2Q0Yk9zT19xRDJVWTN6bDB4dUhBZzVnQmNLc2hVbTdwaGkzY3pHc2FBUll3SE1vVUp1TS13NlJnQXZUMUJhRkE5VThDelIzOHpWVlVFQ0dxamNXbHllYnZqdWlxTm1WM0JXMGlaWDBaRDEwTnh5SXVYam82NUNLRjMyTVZ3RkJCUVlmd09RUmtsSENtZnNpTUZvZFVvYU0xLWNNekRndWpVa2xac2xSckpFSDFXam1vVjdaYXZXRkk?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.outsideonline.com",
-      "title": "Outside Magazine"
+      "href": "https://www.pentictonnow.com",
+      "title": "PentictonNow"
     }
   },
   {
     "title": "'There's a role here in keeping life stable': Nova Scotia doctor on the everyday power of immunization - Halifax Examiner",
-    "description": "'There's a role here in keeping life stable': Nova Scotia doctor on the everyday power of immunization  Halifax ExaminerSudbury-area parents keen to have their kids immunized, Public Health says  Sudbury Star",
+    "description": "'There's a role here in keeping life stable': Nova Scotia doctor on the everyday power of immunization  Halifax Examiner",
     "published date": "Thu, 30 Apr 2026 18:48:43 GMT",
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbzRmd3hONGlZLURGNk54TTdvU1ZMN3VtUGFLNDhVNmdWLWR5aHJXRE5YelZ0Z1lHenFCbXNwbkxnUDZhYVZlWUhkZWtoVUtJSmdwZE43bVJySlFqYXlSbExyMnlTazVqR1l3WWM0aWJxZjN4eXJBazN3Z2NHVFluOEEtekJFLXlKMTZJU3dyQjdib2hMU0lMSVllOTh4NHlPOHdFM29zQ1BYS18wWDAyVTJMaWVLOVFFaVlITHNqUk55eVItQnRfUUFsS3BzU2txckx3?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.halifaxexaminer.ca",
       "title": "Halifax Examiner"
-    }
-  },
-  {
-    "title": "How effective is the COVID-19 antiviral Paxlovid? - umtoday.ca",
-    "description": "How effective is the COVID-19 antiviral Paxlovid?  umtoday.caA new study looked into the effectiveness of the COVID-19 drug Paxlovid. Here’s what the results showed.  CTV News",
-    "published date": "Thu, 30 Apr 2026 14:12:33 GMT",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5yaXNFaGlmYXJJOUs0TUNRLVphX2Z2cmJFNVR1MXlrOHlkZ2ItalNDdURrQVlNaHl1UjhYSWhsbzZWNWdCSTdjdGV5cVQ0N0Y3V1ZsSVBkSk9tZ05jXy1EYVFBMTZuWnp0YTVtakxVNEt5MlZuUk9r?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://umtoday.ca",
-      "title": "umtoday.ca"
     }
   },
   {
@@ -317,26 +297,6 @@
     "publisher": {
       "href": "https://temertymedicine.utoronto.ca",
       "title": "University of Toronto"
-    }
-  },
-  {
-    "title": "Khalqi joins residents in breast‑cancer awareness walk led by survivor Nina Sheikh - The Spec",
-    "description": "Khalqi joins residents in breast‑cancer awareness walk led by survivor Nina Sheikh  The Spec",
-    "published date": "Fri, 01 May 2026 00:21:12 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPc2ZwQmFXR3RaU1M2a0xDTTlwcVlxY2laZmc3SU45WnBlam1JZUZIMlNaSWF2V3dFdTJLNFJJZUZfVmZZdzMtZzl6aDlUb2Vuc1pMRkJDUGlBY1hteHZON0Z1bFo1bTlUS0J0WEQ2Sk96X054X0ZsNDBqd0taSU0xRG5XTVk2MjRudGxiNEY2empjWXlCNjFyR2hKN3B0MWY4VFIzXzQ5UWRWYTVwWXBiamlNQzFjaU1JNl8zV2RsSzhpTG1aSDc1VmFudW1PTjNxZWZNNFlSaE5Wam8wYU9kSVRrTkJoRXpGUUpTT3ZlQk53R1VFZlgzN2FOMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.thespec.com",
-      "title": "The Spec"
-    }
-  },
-  {
-    "title": "Century-Old Cleaning Solvent TCE Linked to Higher Parkinson's Disease Risk as Vapor Intrusion Raises Indoor Air Concerns - Intelligent Living",
-    "description": "Century-Old Cleaning Solvent TCE Linked to Higher Parkinson's Disease Risk as Vapor Intrusion Raises Indoor Air Concerns  Intelligent LivingParkinson’s Disease and the Environmental Risks Researchers Are Watching  Being Patient",
-    "published date": "Thu, 30 Apr 2026 21:04:51 GMT",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pNUctWnEyYTdRNjEyTEJSRl9Ya1Zobm9PMmRGeW1zYVdqZDVxMlhfWkx3cERhckV2UXE3VWVlMkVTV2V5WlcwUkZYN0Y4a0xKVnFKWUhCSnhqNmwwV2w4WmJqWEtoZHZ2aklwaDVyRWlXRk1ZcHc4YmxNMXg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.intelligentliving.co",
-      "title": "Intelligent Living"
     }
   },
   {
@@ -360,13 +320,23 @@
     }
   },
   {
-    "title": "ER nightmare: Users overdosing on toxic drug supply can turn violent, putting doctors, patients at risk - National Post",
-    "description": "ER nightmare: Users overdosing on toxic drug supply can turn violent, putting doctors, patients at risk  National PostSudbury letters: Drug crisis, Highway 69 delays and high gas prices  Sudbury Star",
-    "published date": "Thu, 30 Apr 2026 15:10:31 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZFdhU1JkdDZXUk9HV2hGLXFDa3lhM0JFWlJnczVjV3U3Q3dwS1MtcWxrLUJadnFWck8xQXI0dEpDb1ZYenpKRHlCZjViOXpMbHJDbXd5aGs1ZnZyQ2IxTkF2ME5JRkhNeFdVQlg5QkRFNXFNYTBvX1FmN3dfbUVxRFpabW0zdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Khalqi joins residents in breast‑cancer awareness walk led by survivor Nina Sheikh - The Spec",
+    "description": "Khalqi joins residents in breast‑cancer awareness walk led by survivor Nina Sheikh  The Spec",
+    "published date": "Fri, 01 May 2026 00:21:12 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPc2ZwQmFXR3RaU1M2a0xDTTlwcVlxY2laZmc3SU45WnBlam1JZUZIMlNaSWF2V3dFdTJLNFJJZUZfVmZZdzMtZzl6aDlUb2Vuc1pMRkJDUGlBY1hteHZON0Z1bFo1bTlUS0J0WEQ2Sk96X054X0ZsNDBqd0taSU0xRG5XTVk2MjRudGxiNEY2empjWXlCNjFyR2hKN3B0MWY4VFIzXzQ5UWRWYTVwWXBiamlNQzFjaU1JNl8zV2RsSzhpTG1aSDc1VmFudW1PTjNxZWZNNFlSaE5Wam8wYU9kSVRrTkJoRXpGUUpTT3ZlQk53R1VFZlgzN2FOMA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://nationalpost.com",
-      "title": "National Post"
+      "href": "https://www.thespec.com",
+      "title": "The Spec"
+    }
+  },
+  {
+    "title": "One per cent of Canadians have celiac disease - most don't know it - Newswire Canada",
+    "description": "One per cent of Canadians have celiac disease - most don't know it  Newswire CanadaCeliac Disease Market Overview, Key Trends, and Major Player Analysis  openPR.com",
+    "published date": "Fri, 01 May 2026 15:27:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOUFyajMzZVFwNTZQemhWVUV0dFlSajZocjdQa2p4ZW8yZnZsMkZualMwbTZINHBXaFY2SXZyWS1kdXRaM0M5WW9PWXB3dFc3cDNmbTcyeUlVZE9PNjJxSkVyRmlTdHdyNjRtLWRXUzd0LW1ENm9OYzRCZnFocjlxYzhGVUxhMkZKN3RsS3J1cTduZjBWdGRHN1lxRGtvcGpxSVpHQXhIRkJCME1lUlRxMHQ5MXJneUNH?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.newswire.ca",
+      "title": "Newswire Canada"
     }
   },
   {
@@ -380,33 +350,13 @@
     }
   },
   {
-    "title": "The Bangui operation: A story of blood, science and biomedical exploitation - Medical Xpress",
-    "description": "The Bangui operation: A story of blood, science and biomedical exploitation  Medical Xpress",
-    "published date": "Fri, 01 May 2026 13:40:01 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUmVUUFhjNFotemhkQlBNQnJDSjhrYnlXRG5yNWJKckZMUlN5WVpjM1c3MTZZQTljc1M3UlN6V1hpVndiUEpUZi1oY2tmMk0tbWQtU1BER2MxOVBzc1VSX3ljQm1Lbm1TdVhnR2hSQXBsVlAxTW16NU9ud3NLZVVOOV92SkFjaVRM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Century-Old Cleaning Solvent TCE Linked to Higher Parkinson's Disease Risk as Vapor Intrusion Raises Indoor Air Concerns - Intelligent Living",
+    "description": "Century-Old Cleaning Solvent TCE Linked to Higher Parkinson's Disease Risk as Vapor Intrusion Raises Indoor Air Concerns  Intelligent LivingParkinson’s Disease and the Environmental Risks Researchers Are Watching  Being Patient",
+    "published date": "Thu, 30 Apr 2026 21:04:51 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pNUctWnEyYTdRNjEyTEJSRl9Ya1Zobm9PMmRGeW1zYVdqZDVxMlhfWkx3cERhckV2UXE3VWVlMkVTV2V5WlcwUkZYN0Y4a0xKVnFKWUhCSnhqNmwwV2w4WmJqWEtoZHZ2aklwaDVyRWlXRk1ZcHc4YmxNMXg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://medicalxpress.com",
-      "title": "Medical Xpress"
-    }
-  },
-  {
-    "title": "Gamma Knife trial explores earlier treatment for trigeminal neuralgia in Alberta - thegatewayonline.ca",
-    "description": "Gamma Knife trial explores earlier treatment for trigeminal neuralgia in Alberta  thegatewayonline.ca",
-    "published date": "Fri, 01 May 2026 07:02:39 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ25pTkhNM2pwUWxXOWoxNFBGVjlOR3hBZlBnWkR1Z1NDSzE4NVZFTTF2blRNMEVvTnFPclRCeWJINHNTY3hsd3NiU1c5NTZVaHJYLUNTRWYwMmpZUzhteWNqVVM3b0YwN01UVUNvTnduUkZfRXdQODdsWFVzVXF0VFdlUGExWndSMTlZWGdnN3pESDhYNi1nT19xQkhlMEZhRXJveUlRRk85NzcydC14a1p0bGxDM3J6?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://thegatewayonline.ca",
-      "title": "thegatewayonline.ca"
-    }
-  },
-  {
-    "title": "How multi-omics is changing what scientists can see in the human immune system - News-Medical",
-    "description": "How multi-omics is changing what scientists can see in the human immune system  News-Medical",
-    "published date": "Thu, 30 Apr 2026 02:43:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeTJjSjdtTnhjMWU3Rmw3eGxxTlNjZHo4aW9hbTF6V05HeFRqZ0ZQa1QyeHpPdE8wand0NTItcFBockVGMHJZWjlXZUVaRE5MUFFWVzZaRVJ4V2dOYXJxazVJR1lUZ3VPN1pCVGRlZUdCMWhGSmNMcUZFdWUtWjlCcXVnSm5aNXB5RDRKVU5yd1ZEa18ydHRIb3NWek1ncFBzRURwRzc5ZFZPU2xEQ1JNV0prNHBjTy1TUXZ3MGQyLXRMbG5V?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.news-medical.net",
-      "title": "News-Medical"
+      "href": "https://www.intelligentliving.co",
+      "title": "Intelligent Living"
     }
   },
   {
@@ -420,13 +370,33 @@
     }
   },
   {
-    "title": "Why are more young adults being diagnosed with some cancers? - Euronews.com",
-    "description": "Why are more young adults being diagnosed with some cancers?  Euronews.com11 cancers on the rise in young people - scientists find first clue why it's happening  BBCEleven types of cancer are on the rise in England’s under 50s – these factors might explain the trend  The ConversationCancer in the under-50s: Obesity is an important driver, researchers warn  Yahoo News CanadaResearchers warn of key new driver of 11 cancers in under-50s – and it’s not smoking or poor diet  AOL.com",
-    "published date": "Thu, 30 Apr 2026 08:23:34 GMT",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdzZKZktRWnhSS1NYV0I1U2dFTEJBYl9lWTFpcWljY1ExVE9qLXJja2tXQVZrcUlDeXA5ZjFBMlB3WWZrSVFVR3FGRFhQcktQbjV5N2hrMGdBQXRBSmpDaWlORWJfQ3IyRFhzdy1PNnppcWtEczJuZ3ZJR2V5N2swRWgzNG1EaXhJWFhBYzJPOTBDX0JUTjR4aVJoQlB1WWdWTjBHYV83WUVNVE9iTlhqeWJYWkhOT3BRN09kZzhDTmFBTnRVNG8zNXFlb1FpZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "The Bangui operation: A story of blood, science and biomedical exploitation - Medical Xpress",
+    "description": "The Bangui operation: A story of blood, science and biomedical exploitation  Medical Xpress",
+    "published date": "Fri, 01 May 2026 13:40:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUmVUUFhjNFotemhkQlBNQnJDSjhrYnlXRG5yNWJKckZMUlN5WVpjM1c3MTZZQTljc1M3UlN6V1hpVndiUEpUZi1oY2tmMk0tbWQtU1BER2MxOVBzc1VSX3ljQm1Lbm1TdVhnR2hSQXBsVlAxTW16NU9ud3NLZVVOOV92SkFjaVRM?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.euronews.com",
-      "title": "Euronews.com"
+      "href": "https://medicalxpress.com",
+      "title": "Medical Xpress"
+    }
+  },
+  {
+    "title": "How multi-omics is changing what scientists can see in the human immune system - News-Medical",
+    "description": "How multi-omics is changing what scientists can see in the human immune system  News-Medical",
+    "published date": "Thu, 30 Apr 2026 02:43:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeTJjSjdtTnhjMWU3Rmw3eGxxTlNjZHo4aW9hbTF6V05HeFRqZ0ZQa1QyeHpPdE8wand0NTItcFBockVGMHJZWjlXZUVaRE5MUFFWVzZaRVJ4V2dOYXJxazVJR1lUZ3VPN1pCVGRlZUdCMWhGSmNMcUZFdWUtWjlCcXVnSm5aNXB5RDRKVU5yd1ZEa18ydHRIb3NWek1ncFBzRURwRzc5ZFZPU2xEQ1JNV0prNHBjTy1TUXZ3MGQyLXRMbG5V?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.news-medical.net",
+      "title": "News-Medical"
+    }
+  },
+  {
+    "title": "Gamma Knife trial explores earlier treatment for trigeminal neuralgia in Alberta - thegatewayonline.ca",
+    "description": "Gamma Knife trial explores earlier treatment for trigeminal neuralgia in Alberta  thegatewayonline.ca",
+    "published date": "Fri, 01 May 2026 07:02:39 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ25pTkhNM2pwUWxXOWoxNFBGVjlOR3hBZlBnWkR1Z1NDSzE4NVZFTTF2blRNMEVvTnFPclRCeWJINHNTY3hsd3NiU1c5NTZVaHJYLUNTRWYwMmpZUzhteWNqVVM3b0YwN01UVUNvTnduUkZfRXdQODdsWFVzVXF0VFdlUGExWndSMTlZWGdnN3pESDhYNi1nT19xQkhlMEZhRXJveUlRRk85NzcydC14a1p0bGxDM3J6?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://thegatewayonline.ca",
+      "title": "thegatewayonline.ca"
     }
   },
   {
@@ -460,6 +430,16 @@
     }
   },
   {
+    "title": "Two Medtech Industry Leaders Selected to Serve on NIH HEAL Initiative® Multi-Disciplinary Working Group - Toronto Star",
+    "description": "Two Medtech Industry Leaders Selected to Serve on NIH HEAL Initiative® Multi-Disciplinary Working Group  Toronto Star",
+    "published date": "Fri, 01 May 2026 13:08:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQX3ZUZGR1M3ZqcmQ2OUdjV0RMN2M1cTB3cXBOQnYxa21rWVlsNTFpa1ZOT1Q5V0ZaSFhjTFZBb3FBcVYtZUtHWG1nNmlKWVBYeUNXSC1NUjVnSzQyMDlnZ3NPUmVtaXd5Z3FGMUtNZllPOFpYUl9jeTRJRHhKbEhfcHVGVlJYLUhYYURxWTVFczRySExZRjlYaGRLTjNKTHRSNEJOV2tON1lwb3FSTnhFOVZOR25VczF0V0lVbDlDVVFIRHEyTElnaXI3eFY5a3V0cnJhSWFWWXVVSU5LaExzVWpnZkp4Q1ZQVnhvVzlxWW13bkx0eUZjbVNpc2hsa2MzbXdoemc4c25VMmY4aTg2OGRjMS0zeGRSMGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.thestar.com",
+      "title": "Toronto Star"
+    }
+  },
+  {
     "title": "How healthy is your plant milk — is it time to go back to dairy? - The Times",
     "description": "How healthy is your plant milk — is it time to go back to dairy?  The TimesOat and soy milk may pose danger to children  Female First",
     "published date": "Thu, 30 Apr 2026 19:00:00 GMT",
@@ -467,16 +447,6 @@
     "publisher": {
       "href": "https://www.thetimes.com",
       "title": "The Times"
-    }
-  },
-  {
-    "title": "Non-invasive endometriosis scan trial boosts hope for faster diagnosis - Global News",
-    "description": "Non-invasive endometriosis scan trial boosts hope for faster diagnosis  Global NewsEndometriosis: New scan technique shows promise for earlier detection  BBCTrial of non-invasive endometriosis scan boosts hopes for quicker diagnosis  The Guardian",
-    "published date": "Thu, 30 Apr 2026 20:03:57 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONlgxN0pRSno0TDBVbTIzUUR1NVE4ZjRnd29ZQW5IdFJZc1Ywd19pbHY4SjdZZXRSR0I1bVNpajE2UG5vWmh1eFJJRmd2S0lneHlISFF3a09GTlZ5YzF0LVFRdGJIbWtKRjJaLXI5YnpfWmN1S1J0YWUyVDNaOGtaT1dqOU5oNHZf?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://globalnews.ca",
-      "title": "Global News"
     }
   },
   {
@@ -490,6 +460,16 @@
     }
   },
   {
+    "title": "Non-invasive endometriosis scan trial boosts hope for faster diagnosis - Global News",
+    "description": "Non-invasive endometriosis scan trial boosts hope for faster diagnosis  Global NewsEndometriosis: New scan technique shows promise for earlier detection  BBCTrial of non-invasive endometriosis scan boosts hopes for quicker diagnosis  The Guardian",
+    "published date": "Thu, 30 Apr 2026 20:03:57 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONlgxN0pRSno0TDBVbTIzUUR1NVE4ZjRnd29ZQW5IdFJZc1Ywd19pbHY4SjdZZXRSR0I1bVNpajE2UG5vWmh1eFJJRmd2S0lneHlISFF3a09GTlZ5YzF0LVFRdGJIbWtKRjJaLXI5YnpfWmN1S1J0YWUyVDNaOGtaT1dqOU5oNHZf?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://globalnews.ca",
+      "title": "Global News"
+    }
+  },
+  {
     "title": "AI and CRISPR technologies drive proactive health monitoring - News-Medical",
     "description": "AI and CRISPR technologies drive proactive health monitoring  News-MedicalJMIR News: AI mammograms and pocket CRISPR lead shift to proactive care  EurekAlert!",
     "published date": "Thu, 30 Apr 2026 18:46:00 GMT",
@@ -497,16 +477,6 @@
     "publisher": {
       "href": "https://www.news-medical.net",
       "title": "News-Medical"
-    }
-  },
-  {
-    "title": "Brain scans offer clues to why math is harder for some kids - Science News Explores",
-    "description": "Brain scans offer clues to why math is harder for some kids  Science News Explores",
-    "published date": "Fri, 01 May 2026 10:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3NGRnMXJJVFNMMUQ1NHE4WEd4d3VwQ3psNXdUUV83ZEYzZ1M1c1d3ajhxalVLZk9fY3h0MmQtOHlMaGhVU2FvekZPazBod1JaYjNzNVpBUE9Kd0Y3MDN6eFZKSE9kM1VsYnA4d05EY1BFZ0ZjQ0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.snexplores.org",
-      "title": "Science News Explores"
     }
   },
   {
@@ -530,13 +500,23 @@
     }
   },
   {
-    "title": "Magic mushrooms could help people quit smoking - BBC",
-    "description": "Magic mushrooms could help people quit smoking  BBC",
-    "published date": "Fri, 01 May 2026 09:06:43 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ1hhTHozTzJVbHA5YndlZHhfUzJYRHA2cFMwWW9NeDNndFNrSUY3TEszcHBXRkZPQ2hLQzQ0b1habmg2VHl3TkN4SGJSMjFNMVMxN2J2MlNVZWV6aVBQX1NfY3VjemtiSlFFTnBjSk9SU1pCVVNjZ1JGbGtybXE5Sm8ydFlDc3RjZVJpWGw1MXc5eGh2?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Brain scans offer clues to why math is harder for some kids - Science News Explores",
+    "description": "Brain scans offer clues to why math is harder for some kids  Science News Explores",
+    "published date": "Fri, 01 May 2026 10:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3NGRnMXJJVFNMMUQ1NHE4WEd4d3VwQ3psNXdUUV83ZEYzZ1M1c1d3ajhxalVLZk9fY3h0MmQtOHlMaGhVU2FvekZPazBod1JaYjNzNVpBUE9Kd0Y3MDN6eFZKSE9kM1VsYnA4d05EY1BFZ0ZjQ0E?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.bbc.com",
-      "title": "BBC"
+      "href": "https://www.snexplores.org",
+      "title": "Science News Explores"
+    }
+  },
+  {
+    "title": "Leading scientist reveals disturbing theory on what happens when we die - UNILAD Tech",
+    "description": "Leading scientist reveals disturbing theory on what happens when we die  UNILAD TechNeil deGrasse Tyson reveals the science of why he wants to be buried instead of cremated  Upworthy",
+    "published date": "Fri, 01 May 2026 15:15:08 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORjd1a2R1MEp4SkJnM3lUM1lnclU0MkY3Q0xqbDh6cnNwLXJJbEhDdTN1Z3l5eTcxa2xrYlNEeWt4eTA0b3hzTi12SnBTTUdrN1lFQ0hYcE5DcUgwNFc2WWZ4MkhOajFmeXBQTlE1bk1rU3czZU9QUThweWZqY2gxOXNHcDNSX1A5ZUVIY2RHZ2ZTeWJkVkpfMXNaYXN1Z3VzTzNFMEtEWkhLbS1F?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.uniladtech.com",
+      "title": "UNILAD Tech"
     }
   },
   {
@@ -550,16 +530,6 @@
     }
   },
   {
-    "title": "Vet telemedicine saved these two calves - Manitoba Co-operator",
-    "description": "Vet telemedicine saved these two calves  Manitoba Co-operator",
-    "published date": "Thu, 30 Apr 2026 11:15:20 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMnRHWE0tLXhWeWQxY2c5RXMyaDgzQkxvajBqU3FVSm83WW02NUxobzZGaEg5WWR1TDRnUzM1UGRLSFFGWVMxT1V5ZnV3R2hDSm02VkRYcWJ6R3c5NEY5ZWlneVVwTHgzYXlxR2swTElCOFo3UE5Qak41YUY4dDhaRG9XeUJ2cjNlYnlj?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.manitobacooperator.ca",
-      "title": "Manitoba Co-operator"
-    }
-  },
-  {
     "title": "Communication from the CDC fuels skepticism about vaccines and science, research suggests - Medical Xpress",
     "description": "Communication from the CDC fuels skepticism about vaccines and science, research suggests  Medical XpressNew CDC Messaging May Be Eroding Trust in Vaccines, Survey Finds  MedPage Today",
     "published date": "Thu, 30 Apr 2026 18:00:17 GMT",
@@ -570,13 +540,13 @@
     }
   },
   {
-    "title": "GLP-1 Drug Improved Motivation in Major Depressive Disorder - MedPage Today",
-    "description": "GLP-1 Drug Improved Motivation in Major Depressive Disorder  MedPage TodayStudy: Weight loss drug GLP-1 may aid in treating depression  Newsday",
-    "published date": "Wed, 29 Apr 2026 15:38:42 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PT3JNeG54U1dBZVdHY1pUSUpUdzRLSHg4QWVKS0ZjaG1qTVJralBtX3JJYWgzOU9FRW1mRHFObUJwVlVhd1pWYWVUbjBNenRHbl9FX28taURWaDhKRFhxREtkQnRQMlRx?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "CDC Issues Warning About Drug-Resistant Salmonella Outbreak That's Sickened 34 People, Mostly Children - Yahoo News Canada",
+    "description": "CDC Issues Warning About Drug-Resistant Salmonella Outbreak That's Sickened 34 People, Mostly Children  Yahoo News CanadaCDC Announces Salmonella Outbreak Linked to Chicken in 13 States  AllrecipesCDC warns of drug-resistant salmonella infections linked to backyard poultry  Toronto StarCases of drug-resistant salmonella, several among kids, linked to outbreak; CDC issues warning  The HillInvestigation Update: Salmonella Outbreak, April 2026  Centers for Disease Control and Prevention | CDC (.gov)",
+    "published date": "Thu, 30 Apr 2026 15:08:25 GMT",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CenkySGhONkhEYXNqbTJlLXdLQWpQTWNzQVRFX1VCQnMyLTZSTFZnRkFOWExNV3hpS3NUZUJOM1R2am9rbHUzd290WlgxOE8tNEdpcEhUSVJSX2tvb2dET0l4UkdIdXphOEN4VExlRllnMW5DWk56Y21HYXJ4eVk?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.medpagetoday.com",
-      "title": "MedPage Today"
+      "href": "https://ca.news.yahoo.com",
+      "title": "Yahoo News Canada"
     }
   },
   {
@@ -587,16 +557,6 @@
     "publisher": {
       "href": "https://www.theweathernetwork.com",
       "title": "The Weather Network"
-    }
-  },
-  {
-    "title": "Pet cats that roam outdoors can carry similar disease risk as feral cats - Phys.org",
-    "description": "Pet cats that roam outdoors can carry similar disease risk as feral cats  Phys.orgResearchers identify the simplest way to help your cat live longer  The Independent",
-    "published date": "Wed, 29 Apr 2026 23:20:03 GMT",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93eHBDb0VsekVpSTE3QnNnQmMtZFBmeTB2SVdNR0ljNkJqYWlnSm1oWEI0MTFTZjh4eVJGR3hOYzhGV3BnMWZLU21rQnpIUmxWZVVMeF9NXzFvS0dvanhobTN1RFZfbnVxMHVuZXpKZ2VxemM?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://phys.org",
-      "title": "Phys.org"
     }
   },
   {
@@ -640,13 +600,13 @@
     }
   },
   {
-    "title": "PAS: Balanced Crystalloid Fluid, 0.9% Saline Comparable in Pediatric Septic Shock - Infectious Disease Advisor",
-    "description": "PAS: Balanced Crystalloid Fluid, 0.9% Saline Comparable in Pediatric Septic Shock  Infectious Disease AdvisorLarge international study confirms similar efficacy and safety of common fluid treatments for pediatric sepsis  MSN",
-    "published date": "Fri, 01 May 2026 04:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ3hDeURCeXN5YkxUM3JxcVdmcE1Qcnl0Rno5Um1pcW5uclhZMzY1WVgydXpUVlZTUUs0UVBaWnFlekdOMkFNcURpOWVwT0k2RkdKMWt6M2FCeHMwYUlXMmtvbmxiUy1oWHRsSS1JVkdBUDNHbFV2VzBXa2hON3ZieFR3OWY2aTdETDhGOTZXVHVfT1RIbUc3aVpzVWdKS2E5SjRHMzgwV3EzV1lKNkh2NDlUcENtc2l5TkVSckZCVUo1T28?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Pet cats that roam outdoors can carry similar disease risk as feral cats - Phys.org",
+    "description": "Pet cats that roam outdoors can carry similar disease risk as feral cats  Phys.orgResearchers identify the simplest way to help your cat live longer  The Independent",
+    "published date": "Wed, 29 Apr 2026 23:20:03 GMT",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93eHBDb0VsekVpSTE3QnNnQmMtZFBmeTB2SVdNR0ljNkJqYWlnSm1oWEI0MTFTZjh4eVJGR3hOYzhGV3BnMWZLU21rQnpIUmxWZVVMeF9NXzFvS0dvanhobTN1RFZfbnVxMHVuZXpKZ2VxemM?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.infectiousdiseaseadvisor.com",
-      "title": "Infectious Disease Advisor"
+      "href": "https://phys.org",
+      "title": "Phys.org"
     }
   },
   {
@@ -660,13 +620,13 @@
     }
   },
   {
-    "title": "ETI Reduces Cough Frequency, Boosts Activity in Cystic Fibrosis - Pulmonology Advisor",
-    "description": "ETI Reduces Cough Frequency, Boosts Activity in Cystic Fibrosis  Pulmonology Advisor",
+    "title": "PAS: Balanced Crystalloid Fluid, 0.9% Saline Comparable in Pediatric Septic Shock - Infectious Disease Advisor",
+    "description": "PAS: Balanced Crystalloid Fluid, 0.9% Saline Comparable in Pediatric Septic Shock  Infectious Disease AdvisorLarge international study confirms similar efficacy and safety of common fluid treatments for pediatric sepsis  MSN",
     "published date": "Fri, 01 May 2026 04:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTTY2TGEyZjY3ak00NlpKcTQzejVjSUFCc2VvWG9YSkNwOEU1SEg1di1GUUxrOFpSUEducHdvdmlKWHBUY0hsNGJqdURCOXBoUDkyMVFRS3h3aUVqRzlrVGlIN2R2eVhLRTZ2djFjOFZ1X1FOMkJIUXotcHVsaWhiNnAtRG1FcHlONjByQWJmZlprQmVXd0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ3hDeURCeXN5YkxUM3JxcVdmcE1Qcnl0Rno5Um1pcW5uclhZMzY1WVgydXpUVlZTUUs0UVBaWnFlekdOMkFNcURpOWVwT0k2RkdKMWt6M2FCeHMwYUlXMmtvbmxiUy1oWHRsSS1JVkdBUDNHbFV2VzBXa2hON3ZieFR3OWY2aTdETDhGOTZXVHVfT1RIbUc3aVpzVWdKS2E5SjRHMzgwV3EzV1lKNkh2NDlUcENtc2l5TkVSckZCVUo1T28?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.pulmonologyadvisor.com",
-      "title": "Pulmonology Advisor"
+      "href": "https://www.infectiousdiseaseadvisor.com",
+      "title": "Infectious Disease Advisor"
     }
   },
   {
@@ -680,13 +640,33 @@
     }
   },
   {
-    "title": "CDC Issues Warning About Drug-Resistant Salmonella Outbreak That's Sickened 34 People, Mostly Children - Yahoo News Canada",
-    "description": "CDC Issues Warning About Drug-Resistant Salmonella Outbreak That's Sickened 34 People, Mostly Children  Yahoo News CanadaCDC Announces Salmonella Outbreak Linked to Chicken in 13 States  AllrecipesCDC warns of drug-resistant salmonella infections linked to backyard poultry  Toronto StarThe CDC Has Identified the Source of the Latest Multistate Salmonella Outbreak  Yahoo News CanadaWhere People Got Sick: Salmonella Outbreak, April 2026  Centers for Disease Control and Prevention | CDC (.gov)",
-    "published date": "Thu, 30 Apr 2026 15:08:25 GMT",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CenkySGhONkhEYXNqbTJlLXdLQWpQTWNzQVRFX1VCQnMyLTZSTFZnRkFOWExNV3hpS3NUZUJOM1R2am9rbHUzd290WlgxOE8tNEdpcEhUSVJSX2tvb2dET0l4UkdIdXphOEN4VExlRllnMW5DWk56Y21HYXJ4eVk?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "ETI Reduces Cough Frequency, Boosts Activity in Cystic Fibrosis - Pulmonology Advisor",
+    "description": "ETI Reduces Cough Frequency, Boosts Activity in Cystic Fibrosis  Pulmonology Advisor",
+    "published date": "Fri, 01 May 2026 04:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTTY2TGEyZjY3ak00NlpKcTQzejVjSUFCc2VvWG9YSkNwOEU1SEg1di1GUUxrOFpSUEducHdvdmlKWHBUY0hsNGJqdURCOXBoUDkyMVFRS3h3aUVqRzlrVGlIN2R2eVhLRTZ2djFjOFZ1X1FOMkJIUXotcHVsaWhiNnAtRG1FcHlONjByQWJmZlprQmVXd0E?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://ca.news.yahoo.com",
-      "title": "Yahoo News Canada"
+      "href": "https://www.pulmonologyadvisor.com",
+      "title": "Pulmonology Advisor"
+    }
+  },
+  {
+    "title": "NITHA reports rise in active tuberculosis cases in northern Sask. - MBC Radio",
+    "description": "NITHA reports rise in active tuberculosis cases in northern Sask.  MBC Radio",
+    "published date": "Wed, 29 Apr 2026 21:28:56 GMT",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQclNEY21Mc1F1Nk9KVG1HaFQwUjJ3MUtBdVVMRi1tRVpRNTN0c29lWkE0S01ERnJGQ1dfclJ1R3VuQmN1OFJROWlUcUtySUF2WlozY0FqSGFvQ0Q4QjBJeDJYbl90REZjMHYtZ19Gcy14RDh6RTNpM1pZWmNnQlFkcm9FV1NfbEg0cVYxT1R4N003WElucXVJQkl2R1JMUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.mbcradio.com",
+      "title": "MBC Radio"
+    }
+  },
+  {
+    "title": "Your Good Health: Taking Repatha for cholesterol - Times Colonist",
+    "description": "Your Good Health: Taking Repatha for cholesterol  Times Colonist",
+    "published date": "Thu, 30 Apr 2026 09:45:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORHpELXNVblR4ZjBMNnVCQUk0TmdVU2tzUzNQcDEwb0E0dTFOek5BdC1zckwyRVJGanJXUTBDMEY2dER3LUpBb3RjaFBobU51dnBlcE54OXhvdDRjN21LcUxKVkR3emhLaWJScnJyVzgtbTZtUGpPSnhZTWxVZXVhY0NFSHFFMWZBbldTSU5FeDZOYml0MHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.timescolonist.com",
+      "title": "Times Colonist"
     }
   },
   {
@@ -697,6 +677,26 @@
     "publisher": {
       "href": "https://medicalxpress.com",
       "title": "Medical Xpress"
+    }
+  },
+  {
+    "title": "From smoking to stigma: How screen stories influence health - Phys.org",
+    "description": "From smoking to stigma: How screen stories influence health  Phys.org",
+    "published date": "Fri, 01 May 2026 00:40:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VN0t3ZjVmUl8xMDFYNzVPTElnekRla0hYWDd5WGhOSXBQXzNOemZjeUZwdkc0Mm1ieTRZTm9OZEJIZmhPSDdUdl9BTTRpNWFHUm54UFpMVDhYQS00YWxzcV84UktyRGVwRWg0ZFZleE8?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://phys.org",
+      "title": "Phys.org"
+    }
+  },
+  {
+    "title": "'I had a stroke at the weekend so didn't get a thrombectomy' - Yahoo News Canada",
+    "description": "'I had a stroke at the weekend so didn't get a thrombectomy'  Yahoo News Canada",
+    "published date": "Thu, 30 Apr 2026 18:36:14 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOajNsd0lMa1BycU04MHNFcVQ4NE04NDg2YnJvaTBsT0ZjRXpkOUI0UF96ZUZiakp3SmZ0NGhzVzFWTXFPSFJ6QTNUTU9Eb1pCMzJ6R2VfeF9XTW9IOXNQUm9JU1VBVnpxRjFrWk41OUYzQlg0dG5mdm5PRE5telg3TnlpbUk?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://ca.news.yahoo.com",
+      "title": "Yahoo News Canada"
     }
   }
 ]
