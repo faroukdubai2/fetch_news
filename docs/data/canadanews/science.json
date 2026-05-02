@@ -1,15 +1,5 @@
 [
   {
-    "title": "This app lets kids with disabilities use devices with their minds. Now anyone can download it - CBC",
-    "description": "This app lets kids with disabilities use devices with their minds. Now anyone can download it  CBC",
-    "published date": "Sat, 02 May 2026 08:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOVFFN2NYU3VxTmlHV3lyb1hmaWFabV9OVzVaeXJfRWdWcUFYUHczWC1ESHh4aGZIOWZWOGxhaE1aa002OXB4dWpTbTBiZHJXV0Fob1NVRXRUWjQ0NWx5Um5PLVZveG5VYzgwYnd3MVI4VkdoVmR0Y1Bza3BFUjI2a0Y5UVl1NGE0S1kyTVg3dVlpdE5VT2NraEhjTkliZnVa?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cbc.ca",
-      "title": "CBC"
-    }
-  },
-  {
     "title": "105-year-old astronomy enthusiast receives historic black hole image - CTV News",
     "description": "105-year-old astronomy enthusiast receives historic black hole image  CTV NewsPhotos: Cosmic birthday for 105-year-old  The Record",
     "published date": "Fri, 01 May 2026 00:11:00 GMT",
@@ -17,6 +7,16 @@
     "publisher": {
       "href": "https://www.ctvnews.ca",
       "title": "CTV News"
+    }
+  },
+  {
+    "title": "This app lets kids with disabilities use devices with their minds. Now anyone can download it - CBC",
+    "description": "This app lets kids with disabilities use devices with their minds. Now anyone can download it  CBC",
+    "published date": "Sat, 02 May 2026 08:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOVFFN2NYU3VxTmlHV3lyb1hmaWFabV9OVzVaeXJfRWdWcUFYUHczWC1ESHh4aGZIOWZWOGxhaE1aa002OXB4dWpTbTBiZHJXV0Fob1NVRXRUWjQ0NWx5Um5PLVZveG5VYzgwYnd3MVI4VkdoVmR0Y1Bza3BFUjI2a0Y5UVl1NGE0S1kyTVg3dVlpdE5VT2NraEhjTkliZnVa?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cbc.ca",
+      "title": "CBC"
     }
   },
   {
@@ -40,13 +40,23 @@
     }
   },
   {
-    "title": "A bright moon may dim the Eta Aquarid meteor shower made up of Halley's comet debris - CP24",
-    "description": "A bright moon may dim the Eta Aquarid meteor shower made up of Halley's comet debris  CP24A bright moon may dim the Eta Aquarid meteor shower made up of Halley’s comet debris  CityNews MontrealThis meteor shower in Metro Vancouver has 'long-streaking' shooting stars  Vancouver Is AwesomeEta Aquarid Meteor Shower 2019: When, Where and How to See It  Space",
-    "published date": "Sat, 02 May 2026 14:14:51 GMT",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQd2R5VmE1azI4N2hMVUNyclRPQXkycmd0bUZuTmVkMTI1SVdYZzVlcWlSc2ZnRTZfaDFmemVIck1XYmhzS1QwOXlHRXlCaU9vZHdGVlFpMGlDWkRseUFvOF9sc1J6TTdoeFBaZkVOOGVGcllZRlUtWXVYSHRhRXVYcmtTeVNBbUR2czdsVWF4a0pTZmFMSFo2NlpSODVFVUFiSzZNMmdpQjB1V2lfOC11ZkV1WFA3Vlh1MEFHb1lRdjJVQ2xIS3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "A bright moon may dim the Eta Aquarid meteor shower made up of Halley's comet debris - Barrie 360",
+    "description": "A bright moon may dim the Eta Aquarid meteor shower made up of Halley's comet debris  Barrie 360A bright moon may dim the Eta Aquarid meteor shower made up of Halley’s comet debris  CityNews MontrealThis meteor shower in Metro Vancouver has 'long-streaking' shooting stars  Vancouver Is AwesomeEta Aquarid Meteor Shower 2019: When, Where and How to See It  Space",
+    "published date": "Sat, 02 May 2026 15:12:17 GMT",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93V19OdlZQSDB1NGZKNjBRT0hwNVJYTG1ZMHcyNmhqT1hIMnJBc2dNMU1ZNHN5ckREOXVjajM4QXBTYk9RSDZWeUZLU0pyTXNqOF96OXRxeEgySWN4cTFaaUU5QXg3OExXc1VoWTdR?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.cp24.com",
-      "title": "CP24"
+      "href": "https://barrie360.com",
+      "title": "Barrie 360"
+    }
+  },
+  {
+    "title": "Canada proposes POET mission to hunt Earth-sized planets - Phys.org",
+    "description": "Canada proposes POET mission to hunt Earth-sized planets  Phys.org",
+    "published date": "Sat, 02 May 2026 22:00:55 GMT",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BSE85TWhCWU13Z2F2SWp2Yl8tcWZLbTFvYmZTTUN1WTVPSHVsNldFelJFYmxMMS1MblJxalh0bkNrc25mc0haN2RSbUU1eVZnOTBTQ0hHdERMbzRxVzN2SW1mUmloY2hhVEJqdkh3ODlWUUJ0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://phys.org",
+      "title": "Phys.org"
     }
   },
   {
@@ -91,7 +101,7 @@
   },
   {
     "title": "In Photos: Full ‘Flower Moon’ Lights Up Night Sky Around The World - Forbes",
-    "description": "In Photos: Full ‘Flower Moon’ Lights Up Night Sky Around The World  ForbesWhat’s Up: May 2026 Skywatching Tips from NASA  NASA Science (.gov)8 night sky events to see in May, from a blue moon to a Milky Way showstopper  National GeographicWhen does the Flower Moon 2026 rise tonight? Find out with our moonrise timetable  BBC Sky at Night MagazineSee May's full 'Flower Moon' bloom in gorgeous photos from around the world  Space",
+    "description": "In Photos: Full ‘Flower Moon’ Lights Up Night Sky Around The World  ForbesWhat’s Up: May 2026 Skywatching Tips from NASA  NASA Science (.gov)8 night sky events to see in May, from a blue moon to a Milky Way showstopper  National GeographicSee May's full 'Flower Moon' bloom in gorgeous photos from around the world  SpaceWhen does the Flower Moon 2026 rise tonight? Find out with our moonrise timetable  BBC Sky at Night Magazine",
     "published date": "Sat, 02 May 2026 06:55:50 GMT",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdGh5ZDF4a18xN0w4N2FXZFc3enBIU0QzWTc4VERtMGhQLTcxLTlMOFV5c0FpZTFPRFN5NHlVSmk3aG1fVk5RMmFVNUlwWFRSV09CV2VwUnNpLXNudmNLX3JTbVExdjVLR29pS3F0OTRTZGM0UXduV1NTSjlXNm1OOXd6aEJKeGhxZktqVGc2dkUzZUwtVlQxVUtXc21GYUE2aGZVX2Z0YngtWHpsMUtBTG9YNV9FalRONTJJM29TTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -120,13 +130,13 @@
     }
   },
   {
-    "title": "New Gravenhurst-manufactured dock accessory promises to transform waterfront living - South Muskoka Doppler",
-    "description": "New Gravenhurst-manufactured dock accessory promises to transform waterfront living  South Muskoka Doppler",
-    "published date": "Fri, 01 May 2026 21:31:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUERhdFZGYzF2QnFwcTlYTVgxS181TDQ1Q3U5NHkxUWFoaU40NHBXSnV6VFhPelI4ZzJudEl3UWtsM3VXUDJZNl96U1U5X0dSUVh2Z3lCWEpubmFlaHlVcFpBNzVaYjdkMzVCZU5Tc0NUN1VOUkNndmxNUENWQzNXNmxvT2NLbWotRW40ODF2UGdqZjFaQTdxVWo2V21nWXBVTTNZLVZySmdZeVJ5MlJNSTFqUnpCOEZvZU1pTjJVOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Clean Energy Breakthrough: Scientists Have Discovered “Something Interesting and Unknown” in This Novel Material - The Debrief",
+    "description": "Clean Energy Breakthrough: Scientists Have Discovered “Something Interesting and Unknown” in This Novel Material  The DebriefHow New Materials Could Revolutionize Solar Fuel and Lab Efficiency  Lab Manager‘Hidden’ stages of material creation for solar fuels and batteries discovered  Interesting Engineering",
+    "published date": "Sat, 02 May 2026 14:14:09 GMT",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTERteWlBaWNMalhDNW81ZWxHV3d2SnVwaldsQVAzYk9yZ2tyUUk2TzMyUnJCUkd4S2E4Qk9wQ2xYWDJvdWhPLV9wbU00TDNkblZsZ2NTaXlZRzI5QUV5TUxyWUhmR2xWd3RRXzBlcms4WHhjUFY2OFVnYWZwQmRuQjJOVlRMS0lBRUpPbTloNTRoVTN4OUhrSDFvbEFwZWZ2ZHktdXZfZUEyY2R3eHBTRjk0OVBEc244eDI1MGJIRWs0RkZ0RXB4S2pWM2Vrdw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://southmuskoka.doppleronline.ca",
-      "title": "South Muskoka Doppler"
+      "href": "https://thedebrief.org",
+      "title": "The Debrief"
     }
   },
   {
@@ -140,6 +150,16 @@
     }
   },
   {
+    "title": "New Gravenhurst-manufactured dock accessory promises to transform waterfront living - South Muskoka Doppler",
+    "description": "New Gravenhurst-manufactured dock accessory promises to transform waterfront living  South Muskoka Doppler",
+    "published date": "Fri, 01 May 2026 21:31:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUERhdFZGYzF2QnFwcTlYTVgxS181TDQ1Q3U5NHkxUWFoaU40NHBXSnV6VFhPelI4ZzJudEl3UWtsM3VXUDJZNl96U1U5X0dSUVh2Z3lCWEpubmFlaHlVcFpBNzVaYjdkMzVCZU5Tc0NUN1VOUkNndmxNUENWQzNXNmxvT2NLbWotRW40ODF2UGdqZjFaQTdxVWo2V21nWXBVTTNZLVZySmdZeVJ5MlJNSTFqUnpCOEZvZU1pTjJVOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://southmuskoka.doppleronline.ca",
+      "title": "South Muskoka Doppler"
+    }
+  },
+  {
     "title": "UVic research finds birth weight shapes how athletes handle extreme endurance - Creston Valley Advance",
     "description": "UVic research finds birth weight shapes how athletes handle extreme endurance  Creston Valley Advance",
     "published date": "Fri, 01 May 2026 19:47:09 GMT",
@@ -147,16 +167,6 @@
     "publisher": {
       "href": "https://crestonvalleyadvance.ca",
       "title": "Creston Valley Advance"
-    }
-  },
-  {
-    "title": "A clean energy future: Hidden \"in-between\" materials to build solar fuels and batteries - Open Access Government",
-    "description": "A clean energy future: Hidden \"in-between\" materials to build solar fuels and batteries  Open Access GovernmentHow New Materials Could Revolutionize Solar Fuel and Lab Efficiency  Lab Manager‘Hidden’ stages of material creation for solar fuels and batteries discovered  Interesting Engineering",
-    "published date": "Fri, 01 May 2026 08:09:18 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeEVRVWkybVZ1djZTVVZQaHFpdDNGZkNkTWJ4RF9sYkxZRmh4NzFxMG1mSzdUNEhPOS00bnNOVm1XMEJaYUJ4QmduaXRLMlFpSGZ1VFN6TDlibHphaWNlc0RpUzVtNTVnUWY5QzAwR253R203NE9kSlU5SUxJQ3VVN3A0blM3QmNQdTF5QlEyX1IxSUh2SEk2c21rM0JQRUx3dHhJbE5idE1Cb3ZGenhxLXY2ZFBxYm1FbzhMX0N0blFlN2liTXIwZg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.openaccessgovernment.org",
-      "title": "Open Access Government"
     }
   },
   {
@@ -230,6 +240,26 @@
     }
   },
   {
+    "title": "The Earth is tearing itself apart near Vancouver Island in the Pacific Northwest - The Brighter Side of News",
+    "description": "The Earth is tearing itself apart near Vancouver Island in the Pacific Northwest  The Brighter Side of NewsEarth is splitting open beneath the Pacific Northwest, scientists say  ScienceDailyEarth Is Breaking Apart Under the Pacific Northwest Across a Fault That Is Ripping Deeper Than Anyone Expected  Indian Defence Review",
+    "published date": "Fri, 01 May 2026 14:07:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT1AwbUY1VVJFNVZfbFg4N3czNkQwX2VYd2pTYjFUUkYzei04U1RtSzZJZ3NtOERLSzZVY0dRdkFiMFNaOUN1YTBXMnBWQWhxaGVsXzdpbzlwWmw1Q25rM0xlNDBOZWs3NktyenNmMkRmM2ZONzFzalRvWmNEQUVNcGNNWnR6UGdkS014SjhGazZMT21XNU5ya21SVFNCYm5rOXhTdkN5QXJMWGp4cXE0eFJjeHQwT0gtSmVB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.thebrighterside.news",
+      "title": "The Brighter Side of News"
+    }
+  },
+  {
+    "title": "Study on isolation pillar thickness optimization and slope stability control in hanging wall ore mining - Nature",
+    "description": "Study on isolation pillar thickness optimization and slope stability control in hanging wall ore mining  Nature",
+    "published date": "Sat, 02 May 2026 21:11:52 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95N2tnRXhXOU5pekt5S1V2MXp3T1l3RkJQMFdYTkxyc2tXdEJjOU9KNmhLZ0FIeHV5dzlYaUNWREM2dG0wanNCaUR2R09YMnRDUlRuSEdvWXRNdkh3X0V3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nature.com",
+      "title": "Nature"
+    }
+  },
+  {
     "title": "Where was Canada 320 million years ago? New map lets you explore - The Weather Network",
     "description": "Where was Canada 320 million years ago? New map lets you explore  The Weather NetworkNew Tool Lets You Trace Where Your Backyard Was 320 Million Years Ago  ScienceAlertNew Online Tool Lets You See Where On Earth Your House Was Located 320 Million Years Ago  IFLScience",
     "published date": "Sat, 02 May 2026 19:07:31 GMT",
@@ -240,13 +270,13 @@
     }
   },
   {
-    "title": "The Earth is tearing itself apart near Vancouver Island in the Pacific Northwest - The Brighter Side of News",
-    "description": "The Earth is tearing itself apart near Vancouver Island in the Pacific Northwest  The Brighter Side of NewsEarth is splitting open beneath the Pacific Northwest, scientists say  ScienceDailyEarth Is Breaking Apart Under the Pacific Northwest Across a Fault That Is Ripping Deeper Than Anyone Expected  Indian Defence Review",
-    "published date": "Fri, 01 May 2026 14:07:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT1AwbUY1VVJFNVZfbFg4N3czNkQwX2VYd2pTYjFUUkYzei04U1RtSzZJZ3NtOERLSzZVY0dRdkFiMFNaOUN1YTBXMnBWQWhxaGVsXzdpbzlwWmw1Q25rM0xlNDBOZWs3NktyenNmMkRmM2ZONzFzalRvWmNEQUVNcGNNWnR6UGdkS014SjhGazZMT21XNU5ya21SVFNCYm5rOXhTdkN5QXJMWGp4cXE0eFJjeHQwT0gtSmVB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "NASA Fires Up Futuristic Plasma Thruster Designed to Take Us to Mars - Futurism",
+    "description": "NASA Fires Up Futuristic Plasma Thruster Designed to Take Us to Mars  FuturismNASA Fires Up Powerful Lithium-Fed Thruster for Trips to Mars  NASA (.gov)NASA’s Lithium-Fed Nuclear Thruster Flares to Life in First of Its Kind Test  GizmodoNew Lithium-Plasma Engine Passes Key Mars Propulsion Test  Universe Today",
+    "published date": "Sat, 02 May 2026 13:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByNG9NdkNfZ0RDX3J5Wk9XNGx0dkRpX2lRZ3lvM0EtQURGUjZYY3M0UDBaU2c0aUVrREdrU2ZDVEVxemhvZGVtUzg2SV9rT2ctRGJvQnpfNFJzMnM5VGk3N3R4VkhfdFpWX1hZRUpKaHE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.thebrighterside.news",
-      "title": "The Brighter Side of News"
+      "href": "https://futurism.com",
+      "title": "Futurism"
     }
   },
   {
@@ -260,16 +290,6 @@
     }
   },
   {
-    "title": "NASA Satellite Captures First-Ever High-Res View of Massive Pacific Tsunami - SciTechDaily",
-    "description": "NASA Satellite Captures First-Ever High-Res View of Massive Pacific Tsunami  SciTechDailyWhy Kamchatka's magnitude 8.8 earthquake brought a smaller tsunami—and where risk may remain  Phys.orgNASA Captures First Detailed Satellite View Of Giant Pacific Tsunami Across Vast Ocean Basin  Indian Defence Review",
-    "published date": "Fri, 01 May 2026 22:38:25 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON3RFWUx0d25KTXNtSVFuems1TUNEV3dkUTZwem5IV1VpOFl6Rmo0X3piUXZDUWd1LUJyQ09lU1dhaVF0aUMtNkZvOG5TZFU0TFVOYVBtNkFOSUNKR3ZacDhJZXB2Wmd6dF81VklzMVkyaHJhcnRvaXUxTXhLZ0ZBMWNScjBTbWc3T0ZGcnVBbDdTU2dLWmNINjN6YmVnNzh4YmJv?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://scitechdaily.com",
-      "title": "SciTechDaily"
-    }
-  },
-  {
     "title": "Penn engineers use AI to solve some of science’s most difficult math problems - The Brighter Side of News",
     "description": "Penn engineers use AI to solve some of science’s most difficult math problems  The Brighter Side of News",
     "published date": "Sat, 02 May 2026 20:07:00 GMT",
@@ -277,6 +297,16 @@
     "publisher": {
       "href": "https://www.thebrighterside.news",
       "title": "The Brighter Side of News"
+    }
+  },
+  {
+    "title": "NASA Satellite Captures First-Ever High-Res View of Massive Pacific Tsunami - SciTechDaily",
+    "description": "NASA Satellite Captures First-Ever High-Res View of Massive Pacific Tsunami  SciTechDailyWhy Kamchatka's magnitude 8.8 earthquake brought a smaller tsunami—and where risk may remain  Phys.org",
+    "published date": "Fri, 01 May 2026 22:38:25 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON3RFWUx0d25KTXNtSVFuems1TUNEV3dkUTZwem5IV1VpOFl6Rmo0X3piUXZDUWd1LUJyQ09lU1dhaVF0aUMtNkZvOG5TZFU0TFVOYVBtNkFOSUNKR3ZacDhJZXB2Wmd6dF81VklzMVkyaHJhcnRvaXUxTXhLZ0ZBMWNScjBTbWc3T0ZGcnVBbDdTU2dLWmNINjN6YmVnNzh4YmJv?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://scitechdaily.com",
+      "title": "SciTechDaily"
     }
   },
   {
@@ -290,16 +320,6 @@
     }
   },
   {
-    "title": "NASA’s Lithium-Fed Nuclear Thruster Flares to Life in First of Its Kind Test - Gizmodo",
-    "description": "NASA’s Lithium-Fed Nuclear Thruster Flares to Life in First of Its Kind Test  GizmodoNASA Fires Up Powerful Lithium-Fed Thruster for Trips to Mars  NASA (.gov)New Lithium-Plasma Engine Passes Key Mars Propulsion Test  Universe Today",
-    "published date": "Fri, 01 May 2026 16:35:04 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPS1kyZkhOcnROMzRLUDQ1SVU5MWpwYnpuN1JVN29NeTJ0UDc1bTgxRnBLQlFqQlRqWDNnbHFhcG4tRWlMenVMMnd4OFVzS1h4LWpsZU9EQUdmNXhMamVpQXI4a3ptTDBHTjJUdGdZdHdDVDV1cHVqc1ZnMzFRd0oxR0lZeVMxYVduWEFBOGwzNVlqek5sNEhSbHE1OTNYOGlLakgwUnNvOTgyZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://gizmodo.com",
-      "title": "Gizmodo"
-    }
-  },
-  {
     "title": "Don’t toss cannabis leaves: Scientists found rare compounds with medical potential - ScienceDaily",
     "description": "Don’t toss cannabis leaves: Scientists found rare compounds with medical potential  ScienceDaily",
     "published date": "Sat, 02 May 2026 03:38:37 GMT",
@@ -307,6 +327,16 @@
     "publisher": {
       "href": "https://www.sciencedaily.com",
       "title": "ScienceDaily"
+    }
+  },
+  {
+    "title": "Yellowstone's volcano may be fueled in a very different way than we thought - Live Science",
+    "description": "Yellowstone's volcano may be fueled in a very different way than we thought  Live Science🌋 We misunderstood supervolcans  Techno-Science.net",
+    "published date": "Sat, 02 May 2026 12:15:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLUZDZlhhd3h1LVM4eXdNOHVGRWl0dzFqSWVJeEtnam9XWWY3T3ZBWGxoTUtfRTZBY1h1ZFMyckZjUTNSMHc1UkRrWmFyaURQb3lJOUFCRlowRHB3ZUVTUWNEVHlJLUEzZ3ZocFAyVVJIX1FPRHBEYUxhVmZiQWljazZzMVRnVDVBSTd4SmFzUktYazV6cmNiV2hEV0ppLTNaVjdXYWU5YzkzaHJGSzhwclN0SkFFNTVROVVjYVNuQUJEUTA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.livescience.com",
+      "title": "Live Science"
     }
   },
   {
@@ -440,16 +470,6 @@
     }
   },
   {
-    "title": "Why Do Humans Have Eyebrows? An Evolutionary Biologist Explains - Forbes",
-    "description": "Why Do Humans Have Eyebrows? An Evolutionary Biologist Explains  Forbes",
-    "published date": "Fri, 01 May 2026 12:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTjFMSzhIcUtPdU9FQ2QzWks2cVB0Y2Voc1BwNWE0RnVvdDJHZ3p2V05UOXMwR09XMW9IcFJRcFBxTVljankyakdaT3I3OEJZXy1nUjZlLW1QaW9Za25SYnNvNWNmeGgzNU5lTEdpaW8zTkFZQVE5SU1OS0xvei1WeUVDS056aHdoR1dvT3pzcHd4SEtRS3d4SW5lVTM1MHFZWnQtN3d4am95bnNEaFBtbW0yOV9BajA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.forbes.com",
-      "title": "Forbes"
-    }
-  },
-  {
     "title": "Astronomers Turn to Powerful New Telescope That Could Finally Confirm the Existence of Planet 9 - The Daily Galaxy",
     "description": "Astronomers Turn to Powerful New Telescope That Could Finally Confirm the Existence of Planet 9  The Daily GalaxyAstronomers Uncover Evidence Of A Huge Object Lurking Beyond Neptune  IFLScience",
     "published date": "Fri, 01 May 2026 11:15:00 GMT",
@@ -460,13 +480,13 @@
     }
   },
   {
-    "title": "A longstanding quantum roadblock just fell, opening existing fiber networks to ultra-secure light signals - Phys.org",
-    "description": "A longstanding quantum roadblock just fell, opening existing fiber networks to ultra-secure light signals  Phys.orgA quantum-coherent photon–emitter interface in the original telecom band  Nature",
-    "published date": "Thu, 30 Apr 2026 22:00:01 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQUVJMndSMGttVlBzQXJqdjZxZnM4ZGZTYnVwanNicnhuM003SHNNUWs3WXQ2c0diSjg1ZVZDUGQ3T0F4Mk1PYWN3MFlwd2t1YkNjUlUtNXAwR1FFUGpqUlhSTjFjR3phU1Q2Nk1IX1Q5MGFob3p5ZjhiV3ZhN0dhb2hn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Why Do Humans Have Eyebrows? An Evolutionary Biologist Explains - Forbes",
+    "description": "Why Do Humans Have Eyebrows? An Evolutionary Biologist Explains  Forbes",
+    "published date": "Fri, 01 May 2026 12:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTjFMSzhIcUtPdU9FQ2QzWks2cVB0Y2Voc1BwNWE0RnVvdDJHZ3p2V05UOXMwR09XMW9IcFJRcFBxTVljankyakdaT3I3OEJZXy1nUjZlLW1QaW9Za25SYnNvNWNmeGgzNU5lTEdpaW8zTkFZQVE5SU1OS0xvei1WeUVDS056aHdoR1dvT3pzcHd4SEtRS3d4SW5lVTM1MHFZWnQtN3d4am95bnNEaFBtbW0yOV9BajA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://phys.org",
-      "title": "Phys.org"
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
     }
   },
   {
@@ -487,16 +507,6 @@
     "publisher": {
       "href": "https://dailygalaxy.com",
       "title": "The Daily Galaxy"
-    }
-  },
-  {
-    "title": "Scientists Unearthed the World’s Oldest Wooden Structure Built by a Species Predating Modern Humans by 200,000 Years - Indian Defence Review",
-    "description": "Scientists Unearthed the World’s Oldest Wooden Structure Built by a Species Predating Modern Humans by 200,000 Years  Indian Defence Review",
-    "published date": "Thu, 30 Apr 2026 21:45:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcV8ydVBuUFRySTlGZlAtcmx2NDFJQW84Wms4dDhSRE9fcy13WFExV0lKU24wX2ozZ2hwNm9yX1lzVmFsUm1PX0gyM0RuQ0RnbmF6aVNhbDRCb2htRVc2VnFZSDg1SHJfeFRzWFZkM3NpSzdzR1QwdW0tMXlUVEJESkJuN3R4cUNsOGpIOEpuOG5zUTdzc0c5cWhVYnlHQkpKQjFiLVZwX0dsZmZZWEpyOFpsWXdkZ0gwMFlkd0lka0x4V2FxMk50Sm1xUFM0QVJuSm1mS0tJMUJQWXBQZzQ1ag?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://indiandefencereview.com",
-      "title": "Indian Defence Review"
     }
   }
 ]
