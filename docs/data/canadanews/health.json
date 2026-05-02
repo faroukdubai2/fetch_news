@@ -1,15 +1,5 @@
 [
   {
-    "title": "Drug warning: May 1, 2026 - Public Health Sudbury & Districts",
-    "description": "Drug warning: May 1, 2026  Public Health Sudbury & DistrictsPublic Health warns of ongoing spike in overdoses across Sudbury area  Sudbury StarSudbury letters: Drug crisis, Highway 69 delays and high gas prices  Sudbury Star",
-    "published date": "Fri, 01 May 2026 21:08:50 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53XzBSNEItZDYyaFR6RFpocXR6UFZTX2FlUkZvQWNoZnBGVnl1amx5X3F6eDg1eGFWYll0dEtJQzYtdm8wRmZ2ejF1eDJlUTR2Q0J5ZWwtdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.phsd.ca",
-      "title": "Public Health Sudbury & Districts"
-    }
-  },
-  {
     "title": "More measles in Manitoba than rest of Canada combined; provincial numbers in first four months of year exceed all of 2025 - Winnipeg Free Press",
     "description": "More measles in Manitoba than rest of Canada combined; provincial numbers in first four months of year exceed all of 2025  Winnipeg Free Press22 more confirmed measles cases in Manitoba bring total to 519 this year  CBCMeasles cases remain high in Manitoba  Yahoo News Canada",
     "published date": "Fri, 01 May 2026 23:51:33 GMT",
@@ -40,6 +30,16 @@
     }
   },
   {
+    "title": "Tuberculosis Resurgence A Growing Public Health Concern - Milford-Orange Times",
+    "description": "Tuberculosis Resurgence A Growing Public Health Concern  Milford-Orange TimesCDC Warns Large Tuberculosis Outbreaks Doubled in US Since Mid-2010s  Newsweek",
+    "published date": "Sat, 02 May 2026 12:50:39 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV005VEYyV3hFTTljel93c0taNkRBVjlTMXdnMXYyRjJxWVJyR3o2N3dqV1RwdXQ0N09wU2w0dE5qYXdwYzJTX1l4aWNMam1GR1k0N2lCaHZpQ1BYNUhGMXk0aUFaVTk3NFpIaVFkamY0bXFPbmFhbVJuZEdIX3Zna3BTNTVYcll2Y1BV?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://theorangetimes.com",
+      "title": "Milford-Orange Times"
+    }
+  },
+  {
     "title": "Employers shoulder $110B burden as mental health costs Canada $180B a year - Canadian Occupational Safety",
     "description": "Employers shoulder $110B burden as mental health costs Canada $180B a year  Canadian Occupational SafetyCanadians want mental health funding to continue, new polling shows  Newswire Canada",
     "published date": "Fri, 01 May 2026 10:01:00 GMT",
@@ -50,23 +50,13 @@
     }
   },
   {
-    "title": "‘I couldn’t explain what was happening’: Survivor speaks out on life after cancer - CP24",
-    "description": "‘I couldn’t explain what was happening’: Survivor speaks out on life after cancer  CP24",
-    "published date": "Sat, 02 May 2026 11:06:52 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON2h2dXdfSkRRUEd4RVktT2hkY2h1WVNtQ01vd3NaZGlQUFlHczZEOExwdldIT0U0LUpuTEgxM2YtQnMzZUlJU0RvQW85M2NxOGpSU19zZDlzZURKTlFqbmlVZXV4aWgyamI1VERsRi1sUU5meFB4YjI2emlYcHVySGN6TTJJQjJRWl9uaHpiWkxEeGp4eUlqQWYyR2xJUDIybG8tdEJiWDZVUlN0emM4TjYzQmpTeDdkYXQxTWpFR3h4dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Whooping cough exposure risk reported at P.A. hospital ER visit - SaskToday.ca",
+    "description": "Whooping cough exposure risk reported at P.A. hospital ER visit  SaskToday.caExposure alert issued after pertussis case at Prince Albert hospital  CTV NewsWhooping cough exposure at Victoria Hospital  paNOWSHA releases details after whooping cough exposure at Prince Albert hospital  CTV News",
+    "published date": "Fri, 01 May 2026 23:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWEtKaVhsaEc0RURGa19Qa0VMaHNTXzlHaWkzUlpFYkxVT1lrZmZxNVBUTG03NmVBQlJaTXQtSjRIZGYyNm8yNWlYTzVDdS0yZ1QzSUNmV0JHZ0ZiSDdWVGV3SEp5T3FtbmVqNzE2dnBaal9Wc3JpQW5pWDlwbW4xVzBNZHNQTWpqdzBDSjBsRVF3U3gwZ0daVDgyT0Fhb1piYTNaQjFZRG4zZF90bV9NVDNMVWpCUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.cp24.com",
-      "title": "CP24"
-    }
-  },
-  {
-    "title": "GUEST COLUMN: Why oral health matters more than we think - CollingwoodToday.ca",
-    "description": "GUEST COLUMN: Why oral health matters more than we think  CollingwoodToday.ca",
-    "published date": "Sat, 02 May 2026 12:33:33 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLXhWUTY4b3BfWkV2aG9ySlUxcDhhQ2hTOTFiVGx4X2p4a01CVlQ0WTdGbjZJWGN6WnB3eUNIYXd4clFXaFZJeFAzdU1BczhXWjNMYnhTQm5ycE96YmZxdkJUczA4Wm5QUEtxQWxZai1pZ2NPcE5yY2R4TVBCamZ5VUhCeVFHRUY5WjU4VExkQ0hqc2F0cV81eUYwdDh0cDlsZG1OTVJxcFVPWW8?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.collingwoodtoday.ca",
-      "title": "CollingwoodToday.ca"
+      "href": "https://www.sasktoday.ca",
+      "title": "SaskToday.ca"
     }
   },
   {
@@ -80,6 +70,16 @@
     }
   },
   {
+    "title": "‘I couldn’t explain what was happening’: Survivor speaks out on life after cancer - CP24",
+    "description": "‘I couldn’t explain what was happening’: Survivor speaks out on life after cancer  CP24",
+    "published date": "Sat, 02 May 2026 11:06:52 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON2h2dXdfSkRRUEd4RVktT2hkY2h1WVNtQ01vd3NaZGlQUFlHczZEOExwdldIT0U0LUpuTEgxM2YtQnMzZUlJU0RvQW85M2NxOGpSU19zZDlzZURKTlFqbmlVZXV4aWgyamI1VERsRi1sUU5meFB4YjI2emlYcHVySGN6TTJJQjJRWl9uaHpiWkxEeGp4eUlqQWYyR2xJUDIybG8tdEJiWDZVUlN0emM4TjYzQmpTeDdkYXQxTWpFR3h4dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cp24.com",
+      "title": "CP24"
+    }
+  },
+  {
     "title": "Public health leaders say they are ready for World Cup’s global health risk - New Jersey Monitor",
     "description": "Public health leaders say they are ready for World Cup’s global health risk  New Jersey MonitorView Full Coverage on Google News",
     "published date": "Fri, 01 May 2026 11:02:28 GMT",
@@ -90,33 +90,13 @@
     }
   },
   {
-    "title": "‘I think we’ve reached a state of an emergency’: Manitobans declare after recent spike in overdoses - CTV News",
-    "description": "‘I think we’ve reached a state of an emergency’: Manitobans declare after recent spike in overdoses  CTV NewsView Full Coverage on Google News",
-    "published date": "Fri, 01 May 2026 16:54:26 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPM0Rsd25zUTk4ZDg1d0pPUHdXRVdLb1lOUUJFS29UMW80cVdDYm9JX012Sm9PUkpLOVFqWmpJcDRXdFMwdmdycWg2VG4zT1ZEckxHR1ZkamZyT3BIS3Nvb2s2a0xZWktEemxEUENLTy0zb0JRdHJqQ09lajhtWk9LZWp5LU9tRWFLaVNSUURMM0doc3Y4Q3cwTXdOZ1pJZ0p3cWlZQVVIeGxZZG5lMDJHLU9CUloxZmZ4YnkxWEVnNDBYLWUtQnpEekQtNFVvV0JqdDlyZzRZR2FxdEpDTFJVMFFwYmFhWl9XZi1yNi1qbVlHcGxhc2JfQ3A2b0U?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "GUEST COLUMN: Why oral health matters more than we think - CollingwoodToday.ca",
+    "description": "GUEST COLUMN: Why oral health matters more than we think  CollingwoodToday.ca",
+    "published date": "Sat, 02 May 2026 12:33:33 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLXhWUTY4b3BfWkV2aG9ySlUxcDhhQ2hTOTFiVGx4X2p4a01CVlQ0WTdGbjZJWGN6WnB3eUNIYXd4clFXaFZJeFAzdU1BczhXWjNMYnhTQm5ycE96YmZxdkJUczA4Wm5QUEtxQWxZai1pZ2NPcE5yY2R4TVBCamZ5VUhCeVFHRUY5WjU4VExkQ0hqc2F0cV81eUYwdDh0cDlsZG1OTVJxcFVPWW8?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://vancouverisland.ctvnews.ca",
-      "title": "CTV News"
-    }
-  },
-  {
-    "title": "Your Good Health: Exercise is best to help preserve shoulder function - Times Colonist",
-    "description": "Your Good Health: Exercise is best to help preserve shoulder function  Times Colonist",
-    "published date": "Sat, 02 May 2026 09:45:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbC11STFtWWdVb0FKSGlLUnp2eE0wVGp5a0t6Z3ZGNkFCRUFQdWs1Ym0wOXV1cC0zMU12YmQ1ZHY3MXJwLUZabmt5VWNTTzJraXlDT0I5cnUwcjVtSVd6T3NJR1dqWW1qMWR5Wi1iQXFBYkI4TmJDSVhwd3VIRkRSRF9neno1TGJjWl82eFZBMWphOHN4N1dpVTB6RTdaM2lURDlNU3FXOFBPZ2dxRmp6SVdn?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.timescolonist.com",
-      "title": "Times Colonist"
-    }
-  },
-  {
-    "title": "Whooping cough exposure risk reported at P.A. hospital ER visit - SaskToday.ca",
-    "description": "Whooping cough exposure risk reported at P.A. hospital ER visit  SaskToday.caSHA releases details after whooping cough exposure at Prince Albert hospital  CTV NewsWhooping cough exposure at Victoria Hospital  paNOWExposure aleret issued after pertussis case at Prince Albert hospital  CTV News",
-    "published date": "Fri, 01 May 2026 23:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWEtKaVhsaEc0RURGa19Qa0VMaHNTXzlHaWkzUlpFYkxVT1lrZmZxNVBUTG03NmVBQlJaTXQtSjRIZGYyNm8yNWlYTzVDdS0yZ1QzSUNmV0JHZ0ZiSDdWVGV3SEp5T3FtbmVqNzE2dnBaal9Wc3JpQW5pWDlwbW4xVzBNZHNQTWpqdzBDSjBsRVF3U3gwZ0daVDgyT0Fhb1piYTNaQjFZRG4zZF90bV9NVDNMVWpCUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.sasktoday.ca",
-      "title": "SaskToday.ca"
+      "href": "https://www.collingwoodtoday.ca",
+      "title": "CollingwoodToday.ca"
     }
   },
   {
@@ -130,6 +110,16 @@
     }
   },
   {
+    "title": "Drug warning: May 1, 2026 - Public Health Sudbury & Districts",
+    "description": "Drug warning: May 1, 2026  Public Health Sudbury & Districts",
+    "published date": "Fri, 01 May 2026 21:08:50 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53XzBSNEItZDYyaFR6RFpocXR6UFZTX2FlUkZvQWNoZnBGVnl1amx5X3F6eDg1eGFWYll0dEtJQzYtdm8wRmZ2ejF1eDJlUTR2Q0J5ZWwtdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.phsd.ca",
+      "title": "Public Health Sudbury & Districts"
+    }
+  },
+  {
     "title": "Health Fair to Mark Vaccination Week in the Americas - Jamaica Information Service (JIS)",
     "description": "Health Fair to Mark Vaccination Week in the Americas  Jamaica Information Service (JIS)Canada marks vaccination week amid 'sobering' return of measles  Yahoo News Canada",
     "published date": "Fri, 01 May 2026 22:08:43 GMT",
@@ -137,6 +127,16 @@
     "publisher": {
       "href": "https://jis.gov.jm",
       "title": "Jamaica Information Service (JIS)"
+    }
+  },
+  {
+    "title": "The Focus Is On Mental Health - 730 CKDM",
+    "description": "The Focus Is On Mental Health  730 CKDM1 in 5 Manitobans sought care for anxiety, study finds — but researcher says that's likely an undercount  CBCMood and anxiety disorders affect more than a quarter of Manitobans: report - Winnipeg  Global NewsNew report finds 1-in-5 Manitobans seek care for anxiety, 1-in-6 for depression, aged 15+  CityNews Winnipeg",
+    "published date": "Fri, 01 May 2026 10:00:39 GMT",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1naTI2TUgycmRMSXp1VXBoVFdBMzB0bHVMOEM2NWk0b3VXcUlzdXVPR04zOXZJTHg1U3BjR3BnMzBtNlUxSDRCYzVrY0ExM0dSdTQweFpXVThac0xfTXVaN1VFZER0bG15TXlDYzZUY2tjZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://730ckdm.com",
+      "title": "730 CKDM"
     }
   },
   {
@@ -150,18 +150,8 @@
     }
   },
   {
-    "title": "The Focus Is On Mental Health - 730 CKDM",
-    "description": "The Focus Is On Mental Health  730 CKDM1 in 5 Manitobans sought care for anxiety, study finds — but researcher says that's likely an undercount  CBCMood and anxiety disorders affect more than a quarter of Manitobans: report - Winnipeg  Global NewsNew report finds 1-in-5 Manitobans seek care for anxiety, 1-in-6 for depression, aged 15+  CityNews Winnipeg1 in 5 Manitobans seeking health for anxiety  Global News",
-    "published date": "Fri, 01 May 2026 10:00:39 GMT",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1naTI2TUgycmRMSXp1VXBoVFdBMzB0bHVMOEM2NWk0b3VXcUlzdXVPR04zOXZJTHg1U3BjR3BnMzBtNlUxSDRCYzVrY0ExM0dSdTQweFpXVThac0xfTXVaN1VFZER0bG15TXlDYzZUY2tjZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://730ckdm.com",
-      "title": "730 CKDM"
-    }
-  },
-  {
     "title": "Memorial draws more than 1,000 to celebrate Stephen Lewis's life - Toronto Metropolitan University (TMU)",
-    "description": "Memorial draws more than 1,000 to celebrate Stephen Lewis's life  Toronto Metropolitan University (TMU)Letter: Support for HIV/AIDS funding matters now more than ever  Niagara NowManitoba launches Stephen Lewis fellowship for HIV/AIDS research  Winnipeg SunLocal grandmothers raise funds to support the Stephen Lewis Foundation  Niagara-on-the-Lake LocalManitoba creates HIV/AIDS research fellowship honouring Stephen Lewis  CHVN Radio",
+    "description": "Memorial draws more than 1,000 to celebrate Stephen Lewis's life  Toronto Metropolitan University (TMU)Manitoba launches Stephen Lewis fellowship for HIV/AIDS research  Winnipeg SunLocal grandmothers raise funds to support the Stephen Lewis Foundation  Niagara-on-the-Lake LocalManitoba creates HIV/AIDS research fellowship honouring Stephen Lewis  CHVN Radio",
     "published date": "Thu, 30 Apr 2026 18:59:39 GMT",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLXlyV3B1dGxIX2p2djVZWFdEZGFNQUZSY2xvWFl2Qk5WWFo1a3BOcmM0dDVUMm5ScUFEZXNrY1d4aUFhcnFYcExXY2VmUFVTeW9SUlFZT0thMnpjRmN6dktTQ25YakFYUjJLQ2tjUWpreENWbFdRNE9pVEJ1WnhNNnhPYXAzcUpibmhxanlhQ3laLWg4eTYzcnFSVEJZdWRxSG9NWF9pQ1laYldlS1E2YXJaOFY1QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -190,13 +180,13 @@
     }
   },
   {
-    "title": "Global cervical cancer gap may widen without stronger prevention efforts - News-Medical",
-    "description": "Global cervical cancer gap may widen without stronger prevention efforts  News-MedicalAustralia wants to be first nation in the world to eliminate a cancer - can it?  BBCRich nations might eliminate cervical cancer by 2048, progress slow in poor countries: Study  The Tribune",
-    "published date": "Thu, 30 Apr 2026 22:58:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOVVNNDd6eGYxeWEya0J3R3BaOVE1Und5WXkydG9xa3oxbGc0RGNMc2liVC12THZRMmUwbWdwZ05Lc1NZamtKTGY1VVFEajdJdmRMTW9ici1jdThJYV9TUnhMRGdjbnZTamJ3dzlMOFgwbEdSSHIzQXVfZEg3QnlQLVotTjk3ZVR1bmdtbVU3b25mWUx1bkNmbDZKTVZPb3FvdjZ2ZFlnM3EyMUlSejd1Z3RlTlFZaC1XMjhlZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Hantavirus risk prompts spring warning from Saskatchewan Health Authority - DiscoverMooseJaw",
+    "description": "Hantavirus risk prompts spring warning from Saskatchewan Health Authority  DiscoverMooseJawTake precautions against hantavirus during spring cleaning: Sask. Health Authority  paNOWHow to protect yourself from hantavirus during spring cleaning  CTV NewsSHA reminds public to take precautions for Hantavirus  DiscoverHumboldtResidents urged to take precautions against hantavirus  620 CKRM",
+    "published date": "Sat, 02 May 2026 18:02:42 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU1otOEFnZ0hfWm1OM01xMUl2UzVGNjdfbjZYUG1aamtuS3k5SG9SblVoeFZ5RllMZXNXc01sMDJvN3RQaHJ0SDNRSjdabl9qV0Q4UWFvT3FWdkt0anBINzltWUYxMlJZWGUzTzBTTEFEcEJzMmpiMG00Qk1yUmVJcHhHOWtwRk5ac252aklLVEJJb2dKUFNLUVNxWl9Qa2xDX1p2ajREV05lYVJvQ1RDZkswemF6Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.news-medical.net",
-      "title": "News-Medical"
+      "href": "https://www.discovermoosejaw.com",
+      "title": "DiscoverMooseJaw"
     }
   },
   {
@@ -220,6 +210,16 @@
     }
   },
   {
+    "title": "Early-Stage Rectal Mixed Neuroendocrine-Non-neuroendocrine Neoplasm Treated With Local Excision in a Frail Elderly Patient: A Multidisciplinary Management Dilemma - Cureus",
+    "description": "Early-Stage Rectal Mixed Neuroendocrine-Non-neuroendocrine Neoplasm Treated With Local Excision in a Frail Elderly Patient: A Multidisciplinary Management Dilemma  Cureus",
+    "published date": "Sat, 02 May 2026 15:07:44 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOMnpNZ1k0VGtFa0huSFNMQTVtT1NuN091RVktMFAwRnNHdF95Znh0bjRLek9RY3pDaTdER2NIV0lqZWJ4V3NKVTVRTmNFc21jNU9rWk1iQ2hzVXJFM1NuMENFLU14WE5yU1AxZnY0dHFUakVVc2lLTDY0TmhRZF9yZlEwVnNKd2o3QXpQYW05ZmRWS3hjWXhXUEFteG9ON1p3QU56V1pqaDNGMFZlZkFDQUI1N21pdmMwT05QcmUzVFFFQ2g5WXF4clE2RWNzX3lRcDduc3ZuWnZhcE9OY3ZhVXJSaVl0Yzlfb2RnTWE0N3BydHhSZ3plRlhsVE5yeWdSUWFYdXdVUzNSMWpuaGlaU3lrWk1tUkk3RVhNS0l6Qkl0Zzg5Rldn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cureus.com",
+      "title": "Cureus"
+    }
+  },
+  {
     "title": "Public health issues toxic drug alert after spike in suspected overdoses - Brighton Today.ca",
     "description": "Public health issues toxic drug alert after spike in suspected overdoses  Brighton Today.caPublic health issues drug poisoning alert for Haliburton County  Global NewsAlert issued following high number of suspected drug poisonings in Haliburton  The Peterborough Examiner",
     "published date": "Fri, 01 May 2026 09:36:36 GMT",
@@ -227,6 +227,16 @@
     "publisher": {
       "href": "https://www.brightontoday.ca",
       "title": "Brighton Today.ca"
+    }
+  },
+  {
+    "title": "Pelvic Floor Problems Are More Common Than You Think — Here’s What to Know - Northern Virginia Magazine",
+    "description": "Pelvic Floor Problems Are More Common Than You Think — Here’s What to Know  Northern Virginia Magazine5 Pelvic Floor Exercises That Are Actually Worth Trying  Health News Hub‘Pelvic Floor Physical Therapy Changed My Life. Here's Why I Think It’s Essential for All Pregnant Women.’  Women's Health",
+    "published date": "Fri, 01 May 2026 11:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQjVRbmVNbFlyRHFOWmo4Yms5QmhZOGtqVGJkLXVMQ1JEdlhrdEk0emtUbmw3WjVVTXN6d1JfajZfbzRORFV1QzE4ZnlRLWRFMS1xRGJsYW5KY3pqdktzWmI3WkJpMDMwVDd3MXlBd0hCV2ZVN3VSV09FVlZqX0w1aGlOa3hLYko2QU5vcm9kcW5ObUItZkFtTDZuUEpjODJWQUhjQ1QzSUwxd0FHdjd3S1h1UTdCYWV4cFR6YTdFa0pUUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://northernvirginiamag.com",
+      "title": "Northern Virginia Magazine"
     }
   },
   {
@@ -240,16 +250,6 @@
     }
   },
   {
-    "title": "Canadian foundation launches melanoma campaign - Benefits and Pensions Monitor",
-    "description": "Canadian foundation launches melanoma campaign  Benefits and Pensions MonitorView Full Coverage on Google News",
-    "published date": "Fri, 01 May 2026 14:08:09 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNU0JabWtZSUJVRVo4aEJTdGw1X285QlM5cmNCUjdlTGo1ZDFhdXVZc1E0d3d4VVd5aGxpNzVqR0RGOXZoNGJqUFR1TlNBWUk4YXpKYTZYQVh1bHFsbzhPRmhXdXBwNzMySndyNnc1WEROekVVTG1YQUkzUTI3Ykl5WEFBVFpxbU9tOFRHQkVZbkg2X016VFNTcnFxMTQ2bldiRTBJcWJZb240TzF0MXJRUGoyTktUQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.benefitsandpensionsmonitor.com",
-      "title": "Benefits and Pensions Monitor"
-    }
-  },
-  {
     "title": "New in Clinical Guidance | Dyslipidemia, Gene Editing and CHD - American College of Cardiology",
     "description": "New in Clinical Guidance | Dyslipidemia, Gene Editing and CHD  American College of CardiologyDoctors just updated the cholesterol number that aligns closest with heart disease risk  Earth.comEarlier cardiovascular disease screening and lower cholesterol levels among updated guidelines  Toronto Sun",
     "published date": "Fri, 01 May 2026 11:41:58 GMT",
@@ -260,53 +260,13 @@
     }
   },
   {
-    "title": "Food agency plans trial for bird flu vaccination - The Western Producer",
-    "description": "Food agency plans trial for bird flu vaccination  The Western Producer",
-    "published date": "Fri, 01 May 2026 22:32:27 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQa1hCSmV0bms2UlZTcTdlVGFaSDE4QThnS1VuTVlUNnBXNTVrVDF2d2xqMGlrVTExUWxwWWJBTHlWMUZyRURGZmxpNGNHSzlvd0dFZ25SUVRMeWJaMENQc2RhSTZTWVgzN09aMVd0bEdiMzQxZ05wQ1JrX1F0UU03NmF6Y0ZQQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Canadian foundation launches melanoma campaign - Benefits and Pensions Monitor",
+    "description": "Canadian foundation launches melanoma campaign  Benefits and Pensions MonitorView Full Coverage on Google News",
+    "published date": "Fri, 01 May 2026 14:08:09 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNU0JabWtZSUJVRVo4aEJTdGw1X285QlM5cmNCUjdlTGo1ZDFhdXVZc1E0d3d4VVd5aGxpNzVqR0RGOXZoNGJqUFR1TlNBWUk4YXpKYTZYQVh1bHFsbzhPRmhXdXBwNzMySndyNnc1WEROekVVTG1YQUkzUTI3Ykl5WEFBVFpxbU9tOFRHQkVZbkg2X016VFNTcnFxMTQ2bldiRTBJcWJZb240TzF0MXJRUGoyTktUQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.producer.com",
-      "title": "The Western Producer"
-    }
-  },
-  {
-    "title": "Parents of girl, 2, with cancer needing 'miracle' - Yahoo News Canada",
-    "description": "Parents of girl, 2, with cancer needing 'miracle'  Yahoo News Canada",
-    "published date": "Sat, 02 May 2026 06:34:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9PeVQxLVZUYmJ5eGQwbFUyQUJSWWZCM1BFQ2FTNG9SSk9FTzYtVFkxZEdIeExFQ2lza3I5a2pBQzFvRHFyRjRYeFEtbUpZNE1ackoyTE5iTE9PYTZZZmZmOTBBSG5lazB2b0tnSUpnYlVsSUpaOFJXLTNB?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://ca.news.yahoo.com",
-      "title": "Yahoo News Canada"
-    }
-  },
-  {
-    "title": "Take precautions against hantavirus during spring cleaning: Sask. Health Authority - paNOW",
-    "description": "Take precautions against hantavirus during spring cleaning: Sask. Health Authority  paNOWView Full Coverage on Google News",
-    "published date": "Thu, 30 Apr 2026 18:15:17 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMlpsZDhDcHQtWnY2akRxQmNjN3BOeGtRX0RzZlV0bHlSaURwcVBwcW5VLS12SWNRWjVVYUlEQy1WWUl4UEJsNENtcGJBdG9aTERlQ25vbEF4WkxYV0x5cmp3MTB3LVpERDEzM2tESlJodXBKR2U4QjhGd1EyVk5oTTRTRWoyNy1fNGVfRE9oUGRVSk1OSXVad0Nyb1dHWWhHNlNGcm5sVWwyYmVrV2R1V0tR?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://panow.com",
-      "title": "paNOW"
-    }
-  },
-  {
-    "title": "PRHC Performs First-Ever Implantable Cardioverter Defibrillator Procedure in Peterborough - PtboCanada",
-    "description": "PRHC Performs First-Ever Implantable Cardioverter Defibrillator Procedure in Peterborough  PtboCanada",
-    "published date": "Fri, 01 May 2026 20:59:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMUJYRGVHV2x4aENPcThwaC1xaEZOc0Z2SnVTa1RfZmthSFFUVUZxNFhtSzZ1NU5xRElkaUZHUFVmVl9IcmtLcGc1djczTk9LVDJjZkx2ZHFmaVlDWk9fUEFCV0gzRVVtZmc4U2xFR3oySlZZUG5pdFpCWXF5aHdXSU9ZamhSUXN2UmwwcXhjc1BuelltQ3lMWWEtc01iZmtZMVhfdE5hMEtDbjlnVTViRnRsN0tfTE1pcU9lUXpEb294Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ptbocanada.com",
-      "title": "PtboCanada"
-    }
-  },
-  {
-    "title": "Expert coalition releases recs for breast cancer care in Canada - AuntMinnie",
-    "description": "Expert coalition releases recs for breast cancer care in Canada  AuntMinnie",
-    "published date": "Thu, 30 Apr 2026 16:35:53 GMT",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWk9JRUh6V0ZsZ0xlS1NlOVZfMklBTDNvaS1Ed05LdlpNVmJsY3FPMFNGTEpYTnhKZWtxbWs5dElxeVN1LVBwS250cGc4Y0UxS0ZWelRma0x1dkVVLVUtN3JjUDk1MlJnSDJnWUZENURQUGV3VnZzbU9kVnY1VEstT2kwVmljT0I2M3hKMG8zcmN4NWRTSThUVG9QblZSV0pQZXNLLVRzdTRFejBfc2JoVDNqMnVyelVvZU1LZzZGZXp4OFdBZkplanZIQW5hQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.auntminnie.com",
-      "title": "AuntMinnie"
+      "href": "https://www.benefitsandpensionsmonitor.com",
+      "title": "Benefits and Pensions Monitor"
     }
   },
   {
@@ -320,13 +280,43 @@
     }
   },
   {
-    "title": "Longevity bros aren’t thinking enough about reducing chronic disease. But researchers are - CNN",
-    "description": "Longevity bros aren’t thinking enough about reducing chronic disease. But researchers are  CNN",
-    "published date": "Sat, 02 May 2026 13:00:51 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbjh5cHhNYkJ3UXl5aFc3RnQ2WXNfcjBCR3k5U3c2MExjMkpIUER5YzFWM0kzTFlOY2ZrUFNYcHBub2hBWGFDUEN6Z0dWT2xCU3BvazFCRnE1SEVxMUpJYzBFZ2JiTkZleWs4Vy1YVVhkNXZ2LV9qT3lBdGg2bHdYRGVJQlhrYzc0YjNR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Food agency plans trial for bird flu vaccination - The Western Producer",
+    "description": "Food agency plans trial for bird flu vaccination  The Western Producer",
+    "published date": "Fri, 01 May 2026 22:32:27 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQa1hCSmV0bms2UlZTcTdlVGFaSDE4QThnS1VuTVlUNnBXNTVrVDF2d2xqMGlrVTExUWxwWWJBTHlWMUZyRURGZmxpNGNHSzlvd0dFZ25SUVRMeWJaMENQc2RhSTZTWVgzN09aMVd0bEdiMzQxZ05wQ1JrX1F0UU03NmF6Y0ZQQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.cnn.com",
-      "title": "CNN"
+      "href": "https://www.producer.com",
+      "title": "The Western Producer"
+    }
+  },
+  {
+    "title": "PRHC Performs First-Ever Implantable Cardioverter Defibrillator Procedure in Peterborough - PtboCanada",
+    "description": "PRHC Performs First-Ever Implantable Cardioverter Defibrillator Procedure in Peterborough  PtboCanada",
+    "published date": "Fri, 01 May 2026 20:59:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMUJYRGVHV2x4aENPcThwaC1xaEZOc0Z2SnVTa1RfZmthSFFUVUZxNFhtSzZ1NU5xRElkaUZHUFVmVl9IcmtLcGc1djczTk9LVDJjZkx2ZHFmaVlDWk9fUEFCV0gzRVVtZmc4U2xFR3oySlZZUG5pdFpCWXF5aHdXSU9ZamhSUXN2UmwwcXhjc1BuelltQ3lMWWEtc01iZmtZMVhfdE5hMEtDbjlnVTViRnRsN0tfTE1pcU9lUXpEb294Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ptbocanada.com",
+      "title": "PtboCanada"
+    }
+  },
+  {
+    "title": "Parents of girl, 2, with cancer needing 'miracle' - Yahoo News Canada",
+    "description": "Parents of girl, 2, with cancer needing 'miracle'  Yahoo News Canada",
+    "published date": "Sat, 02 May 2026 06:34:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9PeVQxLVZUYmJ5eGQwbFUyQUJSWWZCM1BFQ2FTNG9SSk9FTzYtVFkxZEdIeExFQ2lza3I5a2pBQzFvRHFyRjRYeFEtbUpZNE1ackoyTE5iTE9PYTZZZmZmOTBBSG5lazB2b0tnSUpnYlVsSUpaOFJXLTNB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://ca.news.yahoo.com",
+      "title": "Yahoo News Canada"
+    }
+  },
+  {
+    "title": "Aging better isn’t just about adding more years. Tech to reduce chronic disease is just as important - CTV News",
+    "description": "Aging better isn’t just about adding more years. Tech to reduce chronic disease is just as important  CTV News",
+    "published date": "Sat, 02 May 2026 15:05:34 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObmZieUVrcHg4aXlmMWloVnZmbWxnT2lEQWx2U1pmQzVxMklNNi1RMEowbHRJbEhjVnVWN0NwQ1dGUTFleFo3cWVNYTFINWhmeEZneEFtblF6MXpwZnNkZ0lUcnlBNmJjWGk1ZnNMSmUyU2ROZWFHTlJzSVFBTHk4N0NUMkdESDY3LW9QZTMyd3ZDZDFiS0pCMXBpaG9yX2FTN19ReF9rVno1emNsS3VES09LV0Zta0hJcWYwUkFYZ0RXSUVvNXhqZlBublFwNm11eWVZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ctvnews.ca",
+      "title": "CTV News"
     }
   },
   {
@@ -340,16 +330,6 @@
     }
   },
   {
-    "title": "TBDHU Launches Campaign to Raise Syphilis Awareness - Thunder Bay District Health Unit (TBDHU)",
-    "description": "TBDHU Launches Campaign to Raise Syphilis Awareness  Thunder Bay District Health Unit (TBDHU)",
-    "published date": "Fri, 01 May 2026 17:00:24 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMjBoWlJDRFZseTZyT0o1bGhxZGIzeG0xY2swQ2xUUERkNndDLVRWNFo5YWZweFNpUWM2aXBpU2NfMDN2clVRX3NUOGRsUC1hT05GWk5ITFNFNDB1MVFtUThBZlRlTjBUeUtHOVJQdnZRRERmc2NaSmZEcGR3d01DaWxxRU4?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.tbdhu.com",
-      "title": "Thunder Bay District Health Unit (TBDHU)"
-    }
-  },
-  {
     "title": "Diabetes, cervical cancer screening clinics planned across Hastings Prince Edward - The Quinteist",
     "description": "Diabetes, cervical cancer screening clinics planned across Hastings Prince Edward  The Quinteist",
     "published date": "Fri, 01 May 2026 18:58:40 GMT",
@@ -360,6 +340,16 @@
     }
   },
   {
+    "title": "TBDHU Launches Campaign to Raise Syphilis Awareness - Thunder Bay District Health Unit (TBDHU)",
+    "description": "TBDHU Launches Campaign to Raise Syphilis Awareness  Thunder Bay District Health Unit (TBDHU)",
+    "published date": "Fri, 01 May 2026 17:00:24 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMjBoWlJDRFZseTZyT0o1bGhxZGIzeG0xY2swQ2xUUERkNndDLVRWNFo5YWZweFNpUWM2aXBpU2NfMDN2clVRX3NUOGRsUC1hT05GWk5ITFNFNDB1MVFtUThBZlRlTjBUeUtHOVJQdnZRRERmc2NaSmZEcGR3d01DaWxxRU4?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.tbdhu.com",
+      "title": "Thunder Bay District Health Unit (TBDHU)"
+    }
+  },
+  {
     "title": "Durham health department reminding you to report all animal bites and scratches - Durham Radio News",
     "description": "Durham health department reminding you to report all animal bites and scratches  Durham Radio News",
     "published date": "Fri, 01 May 2026 19:27:00 GMT",
@@ -367,16 +357,6 @@
     "publisher": {
       "href": "https://www.durhamradionews.com",
       "title": "Durham Radio News"
-    }
-  },
-  {
-    "title": "Women reveal battle with little-known chronic leg fat condition - Canadian Affairs",
-    "description": "Women reveal battle with little-known chronic leg fat condition  Canadian AffairsPuffy legs, heavy aches, rippled skin: what is lipedema?  The GuardianWhy Doja Cat Is Not the Only One Self-Diagnosing Lipedema  ELLE",
-    "published date": "Sat, 02 May 2026 10:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQX0dTMjdMVkVQSXVIdnJtbFFrOExVanNzbTZGNm5lUF9jdkI3ODFGSzZVcl9VSHV1UkI0T0oxM211VEtOc1hsdHdyM2ZCYkFqLVZXRURHMXltMlhsNVVvaHo0TVlPMEY1U2xKeGJxVVBvMHdiaW9SUkNMZGRxZ3BEYkRPdzlLUEZfbWM3RXRiRGN5WWNJemVIT1RLQ0MxUDFuREc0VTJXUVo3WGVT?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.canadianaffairs.news",
-      "title": "Canadian Affairs"
     }
   },
   {
@@ -410,6 +390,16 @@
     }
   },
   {
+    "title": "Women reveal battle with little-known chronic leg fat condition - Canadian Affairs",
+    "description": "Women reveal battle with little-known chronic leg fat condition  Canadian AffairsPuffy legs, heavy aches, rippled skin: what is lipedema?  The GuardianWhy Doja Cat Is Not the Only One Self-Diagnosing Lipedema  ELLE",
+    "published date": "Sat, 02 May 2026 10:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQX0dTMjdMVkVQSXVIdnJtbFFrOExVanNzbTZGNm5lUF9jdkI3ODFGSzZVcl9VSHV1UkI0T0oxM211VEtOc1hsdHdyM2ZCYkFqLVZXRURHMXltMlhsNVVvaHo0TVlPMEY1U2xKeGJxVVBvMHdiaW9SUkNMZGRxZ3BEYkRPdzlLUEZfbWM3RXRiRGN5WWNJemVIT1RLQ0MxUDFuREc0VTJXUVo3WGVT?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.canadianaffairs.news",
+      "title": "Canadian Affairs"
+    }
+  },
+  {
     "title": "GISRS mourns the passing of Dr Nancy Cox - World Health Organization (WHO)",
     "description": "GISRS mourns the passing of Dr Nancy Cox  World Health Organization (WHO)",
     "published date": "Fri, 01 May 2026 18:01:22 GMT",
@@ -417,26 +407,6 @@
     "publisher": {
       "href": "https://www.who.int",
       "title": "World Health Organization (WHO)"
-    }
-  },
-  {
-    "title": "MS Canada urges action during MS Awareness Month in May - Multiple Sclerosis News Today",
-    "description": "MS Canada urges action during MS Awareness Month in May  Multiple Sclerosis News TodayFlag raising marks MS Awareness Month  CKPG TodayMS Walk Erie – National Multiple Sclerosis Society aims to raise $50,000 for research  AOL.com",
-    "published date": "Thu, 30 Apr 2026 16:44:13 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMkVqdEh1T0NtTDRIMG5aUUlnM3Z6ZVVielZLcU43bzRfTnR1d2Z3amNUOFRmUlloVHRLYTRFTThzX0NiXzNwWHFKNnhpek5sdGRyU1M3b2lZRkFic1ZoLXNrWFdQdlQ4ZGhFaUhoSG83Q1V1OTRVVXhkVm1CQkRsSTFnbEpheUVCNERnVi1rSXRnZXR4czdheFJzZTh4djJ5R0xXTTV5NklRU2s?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://multiplesclerosisnewstoday.com",
-      "title": "Multiple Sclerosis News Today"
-    }
-  },
-  {
-    "title": "Quadruple Non-Insulin Therapy for Advanced Type 2 Diabetes Mellitus With Cognitive Impairment: A Case Report - Cureus",
-    "description": "Quadruple Non-Insulin Therapy for Advanced Type 2 Diabetes Mellitus With Cognitive Impairment: A Case Report  Cureus",
-    "published date": "Sat, 02 May 2026 02:48:06 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdUJNSy1mMmt6cGNfSEd3U0FaalFKSTZfR0JuYjdJbVgzeFFRb1JiQVh1TnNGRXhIb0JmWU5NRmN6NTJoVkZkQ2Z2TEJiOVY4aDVfS01ENjdCRjhJZnotWGcyYjZua1lRcGNlNVNnQXBWYWlYdzFPNzkyWmZNaFlyWHdoOXc4T0NTV2xpVV9zT2E2UDZpTFItMGVPTWNGQnlwVUZGNUFBSFdJeFpMWE1UMmlCdHJIUllybkZ1YkYtUjh1eXc1M2t2aGplSnkyWVJfWWVtLVdzbGRHUGJHU2Nz?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cureus.com",
-      "title": "Cureus"
     }
   },
   {
@@ -450,13 +420,13 @@
     }
   },
   {
-    "title": "Gamma Knife trial explores earlier treatment for trigeminal neuralgia in Alberta - thegatewayonline.ca",
-    "description": "Gamma Knife trial explores earlier treatment for trigeminal neuralgia in Alberta  thegatewayonline.ca",
-    "published date": "Fri, 01 May 2026 07:02:39 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ25pTkhNM2pwUWxXOWoxNFBGVjlOR3hBZlBnWkR1Z1NDSzE4NVZFTTF2blRNMEVvTnFPclRCeWJINHNTY3hsd3NiU1c5NTZVaHJYLUNTRWYwMmpZUzhteWNqVVM3b0YwN01UVUNvTnduUkZfRXdQODdsWFVzVXF0VFdlUGExWndSMTlZWGdnN3pESDhYNi1nT19xQkhlMEZhRXJveUlRRk85NzcydC14a1p0bGxDM3J6?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Quadruple Non-Insulin Therapy for Advanced Type 2 Diabetes Mellitus With Cognitive Impairment: A Case Report - Cureus",
+    "description": "Quadruple Non-Insulin Therapy for Advanced Type 2 Diabetes Mellitus With Cognitive Impairment: A Case Report  Cureus",
+    "published date": "Sat, 02 May 2026 02:48:06 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdUJNSy1mMmt6cGNfSEd3U0FaalFKSTZfR0JuYjdJbVgzeFFRb1JiQVh1TnNGRXhIb0JmWU5NRmN6NTJoVkZkQ2Z2TEJiOVY4aDVfS01ENjdCRjhJZnotWGcyYjZua1lRcGNlNVNnQXBWYWlYdzFPNzkyWmZNaFlyWHdoOXc4T0NTV2xpVV9zT2E2UDZpTFItMGVPTWNGQnlwVUZGNUFBSFdJeFpMWE1UMmlCdHJIUllybkZ1YkYtUjh1eXc1M2t2aGplSnkyWVJfWWVtLVdzbGRHUGJHU2Nz?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://thegatewayonline.ca",
-      "title": "thegatewayonline.ca"
+      "href": "https://www.cureus.com",
+      "title": "Cureus"
     }
   },
   {
@@ -470,16 +440,6 @@
     }
   },
   {
-    "title": "Boob Tour event in Innisfail breaks another record - The Albertan",
-    "description": "Boob Tour event in Innisfail breaks another record  The Albertan",
-    "published date": "Thu, 30 Apr 2026 18:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWXdUWUpBMGtlZ05BZllsYlRaejFkOUZ6amZzTVZ1VGxzV1FjdXRIbXM2bklGbUJWN3poaDg2bC1XeTc0R1JWeGc1OFZNQ2NHZGZQeWIyRmlNbGttaG1xS296MmJURlVpRkJUaXJWcGVISktrdjVhdzhwU3oxbnA5UXVWMnRETFFaRWhzNlIxUWpyWmgxb3FIN0hpVm5Ka2VvMVVrMw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.thealbertan.com",
-      "title": "The Albertan"
-    }
-  },
-  {
     "title": "Canadian Heart Failure Society And Canadian Cardiovascular Society Call For Attention To Rising Heart Fail ... - Kawartha 411",
     "description": "Canadian Heart Failure Society And Canadian Cardiovascular Society Call For Attention To Rising Heart Fail ...  Kawartha 411Canadian Heart Failure Society and Canadian Cardiovascular Society Call for Attention to Rising Heart Failure Cases in Younger Canadians Ahead of Awareness Week  Newswire Canada",
     "published date": "Fri, 01 May 2026 15:57:55 GMT",
@@ -487,6 +447,16 @@
     "publisher": {
       "href": "https://www.kawartha411.ca",
       "title": "Kawartha 411"
+    }
+  },
+  {
+    "title": "The Bangui operation: A story of blood, science and biomedical exploitation - Medical Xpress",
+    "description": "The Bangui operation: A story of blood, science and biomedical exploitation  Medical Xpress",
+    "published date": "Fri, 01 May 2026 13:40:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUmVUUFhjNFotemhkQlBNQnJDSjhrYnlXRG5yNWJKckZMUlN5WVpjM1c3MTZZQTljc1M3UlN6V1hpVndiUEpUZi1oY2tmMk0tbWQtU1BER2MxOVBzc1VSX3ljQm1Lbm1TdVhnR2hSQXBsVlAxTW16NU9ud3NLZVVOOV92SkFjaVRM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://medicalxpress.com",
+      "title": "Medical Xpress"
     }
   },
   {
@@ -510,23 +480,13 @@
     }
   },
   {
-    "title": "The Bangui operation: A story of blood, science and biomedical exploitation - Medical Xpress",
-    "description": "The Bangui operation: A story of blood, science and biomedical exploitation  Medical Xpress",
-    "published date": "Fri, 01 May 2026 13:40:01 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUmVUUFhjNFotemhkQlBNQnJDSjhrYnlXRG5yNWJKckZMUlN5WVpjM1c3MTZZQTljc1M3UlN6V1hpVndiUEpUZi1oY2tmMk0tbWQtU1BER2MxOVBzc1VSX3ljQm1Lbm1TdVhnR2hSQXBsVlAxTW16NU9ud3NLZVVOOV92SkFjaVRM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Unclear vaccine communication fuels doubt and hesitancy - News-Medical",
+    "description": "Unclear vaccine communication fuels doubt and hesitancy  News-Medical",
+    "published date": "Thu, 30 Apr 2026 21:45:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUDVmQ2otQW1mdHAyWEd2VVE0dmZuNHd1UGFFcFNfRGRlUUdldGpoZTZHdEI4V3U5ZUNwRllRcnFtckFZTTViNU9yQUYxYVE4ajVKQl9IODV3clppcXl6ZHR3ZTdseXVvcFBGS3p3U2E1MF81OThTSnRIUElPMUVkcGVBWmhvenlEeGYtZVF5LUdqeEZCeWdXdjZSZDdMN3RpaUtSaEN3?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://medicalxpress.com",
-      "title": "Medical Xpress"
-    }
-  },
-  {
-    "title": "CDC Communication Shifts Erode Vaccine Trust - Mirage News",
-    "description": "CDC Communication Shifts Erode Vaccine Trust  Mirage NewsUnclear vaccine communication fuels doubt and hesitancy  News-Medical",
-    "published date": "Thu, 30 Apr 2026 18:10:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ1Uwb3YzYkNDQWQ4Q09VM3dsSS1lYk9tTTBmeURNbHFjUktpdnZ4MkFqTmZPT3VjOGNHX3JKVy1UT29seWpUUlZqMnc5dFE4TDhDVHpxemI4UVZWYWhSNm1qb2hxb1NSSnNFcmZ3TGlIQzRFTFhuVHF2Vy1keEZicWpna2pjRmM?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.miragenews.com",
-      "title": "Mirage News"
+      "href": "https://www.news-medical.net",
+      "title": "News-Medical"
     }
   },
   {
@@ -541,7 +501,7 @@
   },
   {
     "title": "CDC flags drug-resistant salmonella cases connected to backyard birds - WTGS",
-    "description": "CDC flags drug-resistant salmonella cases connected to backyard birds  WTGSCDC Announces Salmonella Outbreak Linked to Chicken in 13 States  AllrecipesCDC Issues Warning About Drug-Resistant Salmonella Outbreak That's Sickened 34 People, Mostly Children  Yahoo News CanadaCDC warns of drug-resistant salmonella infections linked to backyard poultry  Toronto StarWhere People Got Sick: Salmonella Outbreak, April 2026  Centers for Disease Control and Prevention | CDC (.gov)",
+    "description": "CDC flags drug-resistant salmonella cases connected to backyard birds  WTGSCDC Announces Salmonella Outbreak Linked to Chicken in 13 States  AllrecipesCDC Issues Warning About Drug-Resistant Salmonella Outbreak That's Sickened 34 People, Mostly Children  Yahoo News CanadaSalmonella Outbreak Across 13 States Has Been Linked To Backyard Chickens  DelishCDC warns of drug-resistant salmonella infections linked to backyard poultry  Toronto Star",
     "published date": "Fri, 01 May 2026 16:13:38 GMT",
     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNakVIOGk5VEpjWVdnZzBqRGZrYnpvWnNhWC1TLXc2LUx2MUMwR2IxNEd5a1NGRmVYVmNxLXB1RnU3M1hCQ29QMFJyWGZWNlpNaTEwMUZvbFVnWXFwaXNqUzJDSUR6VW9seHlRaHFvWmpMS0hwYUM2VEktTl92Z2VSZS12NnNrVWowbDQyTWpOWnF2a3c3NUh3eDBZc2NZSFJ5Qk9pT0ZPUFJEbzNfb0ptcU1JRHZ0VU1KeHY0eVZzQ29mWm5wSzZ2eWp1alRWTW1lUjJUZ05JTzFUck5RLTBtUDkyaEhEdUNmMGZXV3FxOFpXd1l1eDRJ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -557,16 +517,6 @@
     "publisher": {
       "href": "https://www.psypost.org",
       "title": "PsyPost"
-    }
-  },
-  {
-    "title": "AI and CRISPR technologies drive proactive health monitoring - News-Medical",
-    "description": "AI and CRISPR technologies drive proactive health monitoring  News-MedicalUPSC Prelims Current Affairs for 29 April 2026  Vajiram & RaviAI model predicts cardiovascular risk from BACs on mammograms  AuntMinnieHow Beth Israel is using AI to take screenings beyond the mammogram to assess breast cancer risk  The Business JournalsMammogram, Meaning, Importance, Latest News  Vajiram & Ravi",
-    "published date": "Thu, 30 Apr 2026 18:46:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUQ4M0hFRld4TFV0Y1R5cUpDbU83SHRQeGhKNWgtQUIyR2ZTakowTmxQS2lqQ2t6V3dRa2xrNmdVc21rTnNia2pTUG81S3pfcWZLOS1ZOEZubklJLWhHU2lpT1VLb29FckZHUEtxLVhPbW03M3ZxOEF5OXZLYWRraWRHNUJsT1liRlV0aFpYX0wtaFh4NGNDMGwxakd6enJOZTFLclJDcjI5bmZr?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.news-medical.net",
-      "title": "News-Medical"
     }
   },
   {
@@ -610,16 +560,6 @@
     }
   },
   {
-    "title": "Utility of the Medical Knowledge AI Copilot, OpenEvidence: A Patient With 100 Cerebral Microhemorrhages - Cureus",
-    "description": "Utility of the Medical Knowledge AI Copilot, OpenEvidence: A Patient With 100 Cerebral Microhemorrhages  Cureus",
-    "published date": "Fri, 01 May 2026 18:58:46 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSGQzOUZMbzVuZUhmMlV5bS1GQ2FUSFdxYmRGWUZ4OTVWRS1TTHAzVXN5NllWZ1VkdG82ZzVPS1VxR3lsc2tpSmtiVnhoOWtpLUZ3eW9iLUlLaEdYaVhqRnpYSk5FVHZGeGlTMmxCYnhaNGFzbTZwSnB2MGFrTUFucGZKUDlaMlFRcHU4RDlaXzdXZTZ2VGFXR25yYlE5WWtqZnBvb1dZeFFzQUo1TDNxU2pya0d5ZnFjNV96amhadFpMV1lyY3N0ZVB6ZTMwVGJFY1hOYU92VQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cureus.com",
-      "title": "Cureus"
-    }
-  },
-  {
     "title": "From smoking to stigma: How screen stories influence health - Phys.org",
     "description": "From smoking to stigma: How screen stories influence health  Phys.org",
     "published date": "Fri, 01 May 2026 00:40:01 GMT",
@@ -637,6 +577,16 @@
     "publisher": {
       "href": "https://www.newswire.ca",
       "title": "Newswire Canada"
+    }
+  },
+  {
+    "title": "Utility of the Medical Knowledge AI Copilot, OpenEvidence: A Patient With 100 Cerebral Microhemorrhages - Cureus",
+    "description": "Utility of the Medical Knowledge AI Copilot, OpenEvidence: A Patient With 100 Cerebral Microhemorrhages  Cureus",
+    "published date": "Fri, 01 May 2026 18:58:46 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSGQzOUZMbzVuZUhmMlV5bS1GQ2FUSFdxYmRGWUZ4OTVWRS1TTHAzVXN5NllWZ1VkdG82ZzVPS1VxR3lsc2tpSmtiVnhoOWtpLUZ3eW9iLUlLaEdYaVhqRnpYSk5FVHZGeGlTMmxCYnhaNGFzbTZwSnB2MGFrTUFucGZKUDlaMlFRcHU4RDlaXzdXZTZ2VGFXR25yYlE5WWtqZnBvb1dZeFFzQUo1TDNxU2pya0d5ZnFjNV96amhadFpMV1lyY3N0ZVB6ZTMwVGJFY1hOYU92VQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cureus.com",
+      "title": "Cureus"
     }
   },
   {
@@ -670,6 +620,16 @@
     }
   },
   {
+    "title": "Leading scientist reveals disturbing theory on what happens when we die - UNILAD Tech",
+    "description": "Leading scientist reveals disturbing theory on what happens when we die  UNILAD TechTop scientist shares unsettling theory about what happens after death  MSN",
+    "published date": "Fri, 01 May 2026 15:15:08 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORjd1a2R1MEp4SkJnM3lUM1lnclU0MkY3Q0xqbDh6cnNwLXJJbEhDdTN1Z3l5eTcxa2xrYlNEeWt4eTA0b3hzTi12SnBTTUdrN1lFQ0hYcE5DcUgwNFc2WWZ4MkhOajFmeXBQTlE1bk1rU3czZU9QUThweWZqY2gxOXNHcDNSX1A5ZUVIY2RHZ2ZTeWJkVkpfMXNaYXN1Z3VzTzNFMEtEWkhLbS1F?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.uniladtech.com",
+      "title": "UNILAD Tech"
+    }
+  },
+  {
     "title": "Advocacy, and Physical Fitness, Needed to Stem Pain-Related Cath Lab Injury - TCTMD.com",
     "description": "Advocacy, and Physical Fitness, Needed to Stem Pain-Related Cath Lab Injury  TCTMD.com",
     "published date": "Thu, 30 Apr 2026 20:35:54 GMT",
@@ -677,6 +637,26 @@
     "publisher": {
       "href": "https://www.tctmd.com",
       "title": "TCTMD.com"
+    }
+  },
+  {
+    "title": "Australia wants to become the first country to eliminate a cancer - can it? - Yahoo",
+    "description": "Australia wants to become the first country to eliminate a cancer - can it?  YahooGlobal cervical cancer gap may widen without stronger prevention efforts  News-MedicalRich nations might eliminate cervical cancer by 2048, progress slow in poor countries: Study  The Tribune",
+    "published date": "Sat, 02 May 2026 01:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWHFrcm5qRGdPZ25xLWJtYVdKY1hpYXBOVWxSd3lyay1pS00taUgtR2h0VUpSeXh1dEZWcmVnVUdEenVVaXBpU3lWNy04UDV4WmJBQzl6QV9GM2Z1akhOc0ZqeGJiSERSQ0FEMEdLWHJpWnFud0NvalQ5UU52dDdfZFZxcDR2Njk4R2RmekR3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.yahoo.com",
+      "title": "Yahoo"
+    }
+  },
+  {
+    "title": "Machine Learning Predicts Asthma Risk in Children With Early-Life Atopic Dermatitis - Pulmonology Advisor",
+    "description": "Machine Learning Predicts Asthma Risk in Children With Early-Life Atopic Dermatitis  Pulmonology Advisor",
+    "published date": "Fri, 01 May 2026 04:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOXVheXJuYUx3cXJkVkRPV1FNTjVUNjBVOHJJZ3BONUFYME4yMTZMNjE2LW5CQmV4Nzk2ckVqS2ZYSWE2YS13TDV3THVocnV4eDU3MXhrSkRmX05JVHdwTlgtLXBUX3lwOU1PY3JzMm9xZ3h0aS1CQkhDT1BtSUExdU5TMWNkcnR5ZGY4bFp6VXRWWmpZU0ZqdF9rUi0zUkpvRGJZUGREWTY4b3otT0VhRnZVQlJ1YmdkeENaSFY1R3BDZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.pulmonologyadvisor.com",
+      "title": "Pulmonology Advisor"
     }
   },
   {
@@ -690,13 +670,33 @@
     }
   },
   {
-    "title": "Machine Learning Predicts Asthma Risk in Children With Early-Life Atopic Dermatitis - Dermatology Advisor",
-    "description": "Machine Learning Predicts Asthma Risk in Children With Early-Life Atopic Dermatitis  Dermatology Advisor",
-    "published date": "Fri, 01 May 2026 04:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY2FNSGJHNjhhYkdVeWJnZHhtV09qVDNoUVZPZkpZeHdhZWZCaEJwVFFrdUNZbkQ5ZnhGM3IzeEluQnlDWnNsN0VaR29RNlpHM0lfOUgtaHZYSENtLU1LbU05dTdOaHdZVmZOSmJ4V1FySHNSbFFibnBjcUJFRERqVmxGamVzelRod2NpTFhjRHUwaDNVcW9BTUtKRjRJNS01Ry1aWU4xY09LdDFldmpBazRlNndtZnNnU1ZraW1VZWpRdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Gene circuits reshape DNA folding and affect how genes are expressed, study finds - Phys.org",
+    "description": "Gene circuits reshape DNA folding and affect how genes are expressed, study finds  Phys.org",
+    "published date": "Thu, 30 Apr 2026 20:30:03 GMT",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qTjFLenhMY1hYVWgtRjVWU1g3RGo1azJST1l2NmxBbW5yY0ctb1l6NkpnRGkyWEd6cEt2ZENWT1pCbW90cFUxbHJRTzcyQWM2UkdENzVZX042UFQ4LV9ZaHNWTHpjM0tXMFJTRVhDUkhnemlUN1E?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.dermatologyadvisor.com",
-      "title": "Dermatology Advisor"
+      "href": "https://phys.org",
+      "title": "Phys.org"
+    }
+  },
+  {
+    "title": "100 people who’ve lived to 100 were asked the secret to a long, happy life. Here are their answers. - Yahoo Lifestyle Canada",
+    "description": "100 people who’ve lived to 100 were asked the secret to a long, happy life. Here are their answers.  Yahoo Lifestyle Canada",
+    "published date": "Thu, 30 Apr 2026 23:03:42 GMT",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xanlRc25wUk02b1M4U1lSV3BfOF9oZHc1SC1sdGFxYUQ3Vi1ELUtOUFlGYjFjRlJuMlZTcU5lRlNpYS1PSU0yVXpaZnlSLXZVcmR5WTZUWFFNb2hYUFBEMHN0MXRCLTlNamwyckNHWUxzclU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://ca.style.yahoo.com",
+      "title": "Yahoo Lifestyle Canada"
+    }
+  },
+  {
+    "title": "Is this the secret to stop bananas going brown? - Yahoo News New Zealand",
+    "description": "Is this the secret to stop bananas going brown?  Yahoo News New Zealand",
+    "published date": "Fri, 01 May 2026 04:36:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DZ1hyMDRRcUZycHZMRVJQOF9mVm9wYV9PelJqdlQ2LUpCcHhqTkVVemlSSVk4aTdlUXhTLVhXQXVXWllCWUFBMEJ6ZjZqTUlHWnUzaVdsSVk2WnlKZmMxUEdjNURhZ3BhcFN1ampJZ2hpUU1VMzE1X2lacG8?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://nz.news.yahoo.com",
+      "title": "Yahoo News New Zealand"
     }
   }
 ]
