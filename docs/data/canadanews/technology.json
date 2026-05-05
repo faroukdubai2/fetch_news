@@ -1,5 +1,25 @@
 [
   {
+    "title": "Figma Builds In-House Redis Proxy to Hit Six Nines Uptime - infoq.com",
+    "description": "Figma Builds In-House Redis Proxy to Hit Six Nines Uptime  infoq.com",
+    "published date": "Tue, 05 May 2026 07:00:46 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Va3R1empyd0pyVjVyVU54R1hBSlFwQ1JTT0FYc001WlQ1OWE1emV1NVk1bDNEZTBwdGU1aVd6U3RaWG5UaGY3OHlNS05HTDRzbk5OU1lxZEQ0a2RaeGJub2NXMTQxYzQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.infoq.com",
+      "title": "infoq.com"
+    }
+  },
+  {
+    "title": "Cloudflare Introduces Flagship: an Edge-Native Feature Flag Service Built on OpenFeature - infoq.com",
+    "description": "Cloudflare Introduces Flagship: an Edge-Native Feature Flag Service Built on OpenFeature  infoq.com",
+    "published date": "Tue, 05 May 2026 06:24:46 GMT",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oSnd5SHlDQ0QzOTRHU2ltUGo4MjdQR05nbWhZRmwwVVBoWlQwQXhIN1UyNFNTSHhQLWVMX0thV1BpcGwxeWhwbDVlLWdJbElLdTlHbF9fRW81MXRLRmRMQjBOTnQ0SjBDRzNaeERHM3p0ZVJqclE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.infoq.com",
+      "title": "infoq.com"
+    }
+  },
+  {
     "title": "From Batch to Micro-Batch Streaming: Lessons Learned the Hard Way in a Delta Index Pipeline - infoq.com",
     "description": "From Batch to Micro-Batch Streaming: Lessons Learned the Hard Way in a Delta Index Pipeline  infoq.com",
     "published date": "Mon, 04 May 2026 11:00:44 GMT",
@@ -40,33 +60,13 @@
     }
   },
   {
-    "title": "Samsung is gifting free smart scales with your Galaxy Watch purchase - Android Authority",
-    "description": "Samsung is gifting free smart scales with your Galaxy Watch purchase  Android AuthorityLevel Up Your Health with Galaxy Watch and Receive a Withings Smart Scale on Us  samsung.com",
-    "published date": "Mon, 04 May 2026 17:58:11 GMT",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LbFJoMU4xQXd6c0Z0SHNHUFhSTGhHeDVZSzc3bmVyMDhSWWJoT2ZtM2tsWUplOV9iZ0VOTUdUTDV5RHpmZkFEUzUwTkFyY01VUUdiZmU3VnhOT1VoTnA0NUhvOGVFZEUybGZsRG9DQjdvRldRVlBfYVFxWk5sc28?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.androidauthority.com",
-      "title": "Android Authority"
-    }
-  },
-  {
     "title": "Lunar Resource-Seeking Technologies - NASA (.gov)",
-    "description": "Lunar Resource-Seeking Technologies  NASA (.gov)Interlune Awarded $6.9 Million Contract from NASA for Lunar Resource Development  Yahoo FinanceInterlune Wins $6.9 Million NASA Contract to Advance Lunar Helium-3 Resource Extraction  TipRanks",
+    "description": "Lunar Resource-Seeking Technologies  NASA (.gov)Interlune Secures $6.9 Million NASA Contract to Develop Lunar Resource Extraction  energynews.proInterlune Wins $6.9 Million NASA Contract to Advance Lunar Helium-3 Resource Extraction  TipRanks",
     "published date": "Mon, 04 May 2026 20:32:47 GMT",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeUFzbkN1S2VfYWJFWWg4bWF1QkIzMEwtQUFLaDFWcmNFMV9Xd2hmYUE1cHVZQlVwT2x5dWhLZU8yRDBtMXQwanJlS1NrMHU2NHQ1OHJzN2hnQ2kwUXlqM3F4RVZSVERmV051XzBZNHdLTS0tZkV6elNpNy1FU0RLZzg1NjhCUm8tZWRjUmlUeTRiUG9qSFd2dUVUTVY?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.nasa.gov",
       "title": "NASA (.gov)"
-    }
-  },
-  {
-    "title": "CISA warns “Copy Fail” Linux flaw is already actively exploited - CyberInsider",
-    "description": "CISA warns “Copy Fail” Linux flaw is already actively exploited  CyberInsiderCVE-2026-31431: Copy Fail vulnerability enables Linux root privilege escalation across cloud environments  MicrosoftUS government warns of severe CopyFail bug affecting major versions of Linux  TechCrunchCISA says ‘Copy Fail’ flaw now exploited to root Linux systems  BleepingComputerProof-of-concept exploit available for Linux 'Copy Fail' vulnerability (CVE-2026-31431)  Sophos",
-    "published date": "Mon, 04 May 2026 15:01:09 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVHJuZjhtNklwc21WdllhREVHQTVJY3NIUDBKT1dPU2hIc1psUUJ5Ty1ULVpydFlMaFpTZDFkNWpPUTdnWUxiTkxuQlJaX1FjaENvOE00TnY1WWY0QU5wbXNhcUpMN2pHRmh6SW9iUmJCUEVVWHpaWDhSbVE5OGlvSG5wV25BWUNXaHV0bDZwWXI?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://cyberinsider.com",
-      "title": "CyberInsider"
     }
   },
   {
@@ -80,13 +80,23 @@
     }
   },
   {
-    "title": "Xiaomi Cancels MIX Flip 3: Shifting Focus to the New Xiaomi 18 Fold - Android Headlines",
-    "description": "Xiaomi Cancels MIX Flip 3: Shifting Focus to the New Xiaomi 18 Fold  Android HeadlinesXiaomi is done with flip phones, at least for now  PhandroidXiaomi: New Snapdragon alternative leaks with higher performance and fresh architecture  Notebookcheck",
-    "published date": "Mon, 04 May 2026 22:16:32 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZWZmZ0hmSnU2S0xIMl95cFJIVUZNbEhpdXFCOTRPNHlBZXh6bTIyMUZPWHFaLXZ1Uk11ZEFpQWRXZFBrZzFiQWJQeGlpUWQ1dzdnVklZYlNLeVMzd0ltYUhaSWJfMVVBSm9aRzg1UlFraEd0ajdQYk15U3FfZmdjel9rdFBLd3VkLTdGa1NB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "CISA warns “Copy Fail” Linux flaw is already actively exploited - CyberInsider",
+    "description": "CISA warns “Copy Fail” Linux flaw is already actively exploited  CyberInsiderCVE-2026-31431: Copy Fail vulnerability enables Linux root privilege escalation across cloud environments  MicrosoftUS government warns of severe CopyFail bug affecting major versions of Linux  TechCrunchUpdate Linux Now As 9-Year-Old Root Hack Confirmed, CISA Warns Users  ForbesProof-of-concept exploit available for Linux 'Copy Fail' vulnerability (CVE-2026-31431)  Sophos",
+    "published date": "Mon, 04 May 2026 15:01:09 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVHJuZjhtNklwc21WdllhREVHQTVJY3NIUDBKT1dPU2hIc1psUUJ5Ty1ULVpydFlMaFpTZDFkNWpPUTdnWUxiTkxuQlJaX1FjaENvOE00TnY1WWY0QU5wbXNhcUpMN2pHRmh6SW9iUmJCUEVVWHpaWDhSbVE5OGlvSG5wV25BWUNXaHV0bDZwWXI?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.androidheadlines.com",
-      "title": "Android Headlines"
+      "href": "https://cyberinsider.com",
+      "title": "CyberInsider"
+    }
+  },
+  {
+    "title": "Samsung is gifting free smart scales with your Galaxy Watch purchase - Android Authority",
+    "description": "Samsung is gifting free smart scales with your Galaxy Watch purchase  Android AuthorityLevel Up Your Health with Galaxy Watch and Receive a Withings Smart Scale on Us  samsung.com",
+    "published date": "Mon, 04 May 2026 18:01:20 GMT",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LbFJoMU4xQXd6c0Z0SHNHUFhSTGhHeDVZSzc3bmVyMDhSWWJoT2ZtM2tsWUplOV9iZ0VOTUdUTDV5RHpmZkFEUzUwTkFyY01VUUdiZmU3VnhOT1VoTnA0NUhvOGVFZEUybGZsRG9DQjdvRldRVlBfYVFxWk5sc28?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.androidauthority.com",
+      "title": "Android Authority"
     }
   },
   {
@@ -100,43 +110,43 @@
     }
   },
   {
+    "title": "Xiaomi Cancels MIX Flip 3: Shifting Focus to the New Xiaomi 18 Fold - Android Headlines",
+    "description": "Xiaomi Cancels MIX Flip 3: Shifting Focus to the New Xiaomi 18 Fold  Android HeadlinesXiaomi is done with flip phones, at least for now  PhandroidXiaomi: New Snapdragon alternative leaks with higher performance and fresh architecture  Notebookcheck",
+    "published date": "Mon, 04 May 2026 22:16:32 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZWZmZ0hmSnU2S0xIMl95cFJIVUZNbEhpdXFCOTRPNHlBZXh6bTIyMUZPWHFaLXZ1Uk11ZEFpQWRXZFBrZzFiQWJQeGlpUWQ1dzdnVklZYlNLeVMzd0ltYUhaSWJfMVVBSm9aRzg1UlFraEd0ajdQYk15U3FfZmdjel9rdFBLd3VkLTdGa1NB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.androidheadlines.com",
+      "title": "Android Headlines"
+    }
+  },
+  {
+    "title": "Serial World limited-time demo now available - Gematsu",
+    "description": "Serial World limited-time demo now available  Gematsu",
+    "published date": "Mon, 04 May 2026 17:17:35 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLWlWdWVpdDM1TXhSdm5aaFZvNUZ2dHV0aUY3U0xkSDIxQ3BTTkwxUFc4NW42QzBhbHFMUmxwMGpqU09HZ0k2aEc4T0VXdGZaMmgxZEFRREtTVVBVSDRiRG5PTlNxdHlfTEpsTEo4a0w1ZEJ6MXcyNHczRVpUY0FRbXp3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.gematsu.com",
+      "title": "Gematsu"
+    }
+  },
+  {
+    "title": "T-Mobile’s off-grid satellite coverage now works beyond the US - Android Authority",
+    "description": "T-Mobile’s off-grid satellite coverage now works beyond the US  Android AuthorityT-Mobile Customers Can Now Use Starlink in Canada Through Rogers  iPhone in CanadaT-Mobile Expands Starlink Roaming to Canada and New Zealand  driveteslacanada.ca",
+    "published date": "Mon, 04 May 2026 18:29:34 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT1NITDBwR1Z1dG5LS1Q2LTdiM2xua0NvZ19qZEJBLXdiODNSTmJlQmFDdVdaejhLcXAtbnFYQmdYYi0xVkpPd2dJR3k3VTAtR2JSTVBzUkltLWVidXdqYUtMc3VnUXZBVWtKdlBHQUNic1dHeVF4Z2MxXzBocTNOSEEwSXBzUUVDbWh5czhUREE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.androidauthority.com",
+      "title": "Android Authority"
+    }
+  },
+  {
     "title": "Survey suggests the Pixel battery mess is making a lot of you rethink your next phone - Android Authority",
     "description": "Survey suggests the Pixel battery mess is making a lot of you rethink your next phone  Android AuthorityHere’s what Google Pixel you told us you are using daily  9to5Google",
-    "published date": "Mon, 04 May 2026 23:16:40 GMT",
+    "published date": "Mon, 04 May 2026 23:15:49 GMT",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT0x0QnlaT3JUcTZKRmR3MGJHOTRkSk1rVEZLMHJNWFNEdHVYRUdxbjdwLUdFeGJKOFdnWmtRM3F1UE8yS0dZSVNtc1FXTE5qdkROXzlBa29aS0E5UUZrR0VnaG1vQkVIejRzODFQTFBSUW9sSlpad2lqd01MRmQyODBLbC1uTzNOZmU4S0hqSk1ZTldIbkpnYg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.androidauthority.com",
       "title": "Android Authority"
-    }
-  },
-  {
-    "title": "Boox Go 10.3 (Gen II) Lumi hands-on review: Lightweight ePaper tablet with Android apps - Notebookcheck",
-    "description": "Boox Go 10.3 (Gen II) Lumi hands-on review: Lightweight ePaper tablet with Android apps  Notebookcheck",
-    "published date": "Sun, 03 May 2026 08:06:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcTdpVnVhbHBaN05GV2pZaFNCRHYxWlhYdWE3ak5ScUNmMEpaTlJia3dsZW5TTUJYMzZ2cHFSY1ZPcHZvUlpnVF9fbzlyUVNzR2tUT2doUjdQSHRoSnRUVWlmZldWUHNHNzljaVdSNnJ6OTFSMGh5RHNvRWxVTDFSVzZSUDVaNUNoWXhkcndvSVo1czZIaVNxSE96YTlGSWg0Sm1WV3h5VEJFRDAzdEhfZ2czd0I4cmFkaU1aY1pFdGhJSWgtNFJELQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.notebookcheck.net",
-      "title": "Notebookcheck"
-    }
-  },
-  {
-    "title": "3 reasons the Galaxy S24 Ultra is the last true Galaxy Ultra Samsung ever made - Android Authority",
-    "description": "3 reasons the Galaxy S24 Ultra is the last true Galaxy Ultra Samsung ever made  Android Authority",
-    "published date": "Mon, 04 May 2026 09:31:59 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTzhsYTVyaW1ZbFJ6Wl9GSkZ1TTZQVy1sS3NWZHZJWEdVaDN6U1RmTkRIN21lYkIwMDBjVXdodklCRTJvTWREdkhxVkM2NFEtMG1VTUl5dkNGTUtiOFMzVDBZS25VTU9DRDg4OHZVRE10bFE1bWVtSkYwd1BaWFR2OUFqdDM1ZDdVVnFNdjVWUVREbFV1bVBaUk1VdmJ1aHU5M0s2aE9Gd2tCNGU4eUJzaXhydmJfNkJJQlZ2YQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.androidauthority.com",
-      "title": "Android Authority"
-    }
-  },
-  {
-    "title": "AI-powered tool automates 2D drawing creation from 3D CAD models - The Fabricator",
-    "description": "AI-powered tool automates 2D drawing creation from 3D CAD models  The Fabricator",
-    "published date": "Mon, 04 May 2026 15:11:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYldfNFRJY2dhemVvQW0tVGdkQmFHWl90MC1qeWVLNzJVeVpSOHFKSlZGcFJwWEc0dHZJeTBONG1ySGZCRy1KYy1CbWhvcTkxR25sYXNnR0dzUExTb211dnNCQ0pVLUliQWlRbTItT2c5ell6bzdBZHhFM3JvNG1vMVhTMUVaZG1jLXdZTThFUGdPWWMyUERfX2dDYWFOMXZadENacnpHV2dPZ3R0aF9RQ3llNnRwZEt6SFlIZldjWHI2a1RGUDdOUGJYcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.thefabricator.com",
-      "title": "The Fabricator"
     }
   },
   {
@@ -150,18 +160,8 @@
     }
   },
   {
-    "title": "Google’s new face unlock hardware reportedly not debuting in Pixel 11 after all - 9to5Google",
-    "description": "Google’s new face unlock hardware reportedly not debuting in Pixel 11 after all  9to5GoogleThe Pixel 11 may not get the Face ID competitor we were expecting  Android Authority",
-    "published date": "Mon, 04 May 2026 19:15:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iMW9TWTRxYzJtSTFXSmpYY04tYjRlNDlVTnJwVVBCd3FZb2pjb25ZR3NoLWtpUTJKSWxyd2J5S3pHcEtzYW1TWEtOeFFyaDVZS2pDWEZsM2s4QzAtU3BMeDNCSnZXRkM2dEpQai05VUMzRzRvTVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://9to5google.com",
-      "title": "9to5Google"
-    }
-  },
-  {
     "title": "The Pixel 11 could be the next victim of the RAM shortage - The Verge",
-    "description": "The Pixel 11 could be the next victim of the RAM shortage  The VergePixel 11 leak reveals new camera hardware, Tensor G6 details, more specs  9to5GoogleGoogle Pixel 11 Rumored to Come With a Better Camera, but Less RAM  CNETGoogle Pixel 11 leak brings both good and bad news  Android PoliceGoogle Tensor G6 Chip Likely To Launch With An Ancient GPU That Debuted Around 5 Years Back  Wccftech",
+    "description": "The Pixel 11 could be the next victim of the RAM shortage  The VergePixel 11 leak reveals new camera hardware, Tensor G6 details, more specs  9to5GoogleGoogle Pixel 11 — everything we know so far  Tom's GuideHuge round of Pixel 11 leaks also suggests its 'Pixel Glow' design  Android CentralGoogle’s new face unlock hardware reportedly not debuting in Pixel 11 after all  9to5Google",
     "published date": "Mon, 04 May 2026 16:48:21 GMT",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zRzM0OTlrZXFIdGhJeVB3TmN1U2pJaXpaQnZITVpTMjAzZzZ4ZC1HZlZQUkt1VmNSMmJWWDFCbm1WMHBiTEw1MUxJc3JQcFRfV0ZjQzYxdGJ6dDZoQUFWQlFJSW55b2RMZUJ3QXBtbUFKWE5pY3gxcjZEMnM?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -170,18 +170,18 @@
     }
   },
   {
-    "title": "Plex will soon charge you 50% more to stream your own media remotely - Android Authority",
-    "description": "Plex will soon charge you 50% more to stream your own media remotely  Android AuthorityPlex Remote Pass for streaming from your own NAS becomes 50% more expensive  Notebookcheck",
-    "published date": "Mon, 04 May 2026 05:30:06 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMWxQM3dzV1NQYU5rQXVrZkY1OWtlWXBqZHlZOFBxZk9RU1lLTmp0RzhINXZnZmJqSFFLaUtyZVVfUW83TjZZU2xnU0puRTlZWmxodi1lQWFXeUN4Y3pPU3UtejV5NXNiaUtXbGRYdjZ6MmVjOGpnbWUxVTZVQVNPZmJ5dUFnZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "AI-powered tool automates 2D drawing creation from 3D CAD models - The Fabricator",
+    "description": "AI-powered tool automates 2D drawing creation from 3D CAD models  The Fabricator",
+    "published date": "Mon, 04 May 2026 15:11:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYldfNFRJY2dhemVvQW0tVGdkQmFHWl90MC1qeWVLNzJVeVpSOHFKSlZGcFJwWEc0dHZJeTBONG1ySGZCRy1KYy1CbWhvcTkxR25sYXNnR0dzUExTb211dnNCQ0pVLUliQWlRbTItT2c5ell6bzdBZHhFM3JvNG1vMVhTMUVaZG1jLXdZTThFUGdPWWMyUERfX2dDYWFOMXZadENacnpHV2dPZ3R0aF9RQ3llNnRwZEt6SFlIZldjWHI2a1RGUDdOUGJYcw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.androidauthority.com",
-      "title": "Android Authority"
+      "href": "https://www.thefabricator.com",
+      "title": "The Fabricator"
     }
   },
   {
     "title": "Apple highlights 3 enhancements coming to iPhone with iOS 26.5 - 9to5Mac",
-    "description": "Apple highlights 3 enhancements coming to iPhone with iOS 26.5  9to5MaciOS 26.5 Will Add End-To-End Encryption For RCS Messages Between Apple And Android  EngadgetApple releases iOS 26.5 RC  9to5MaciOS 26.5 Coming Soon With These New Features  MacRumorsEncrypted RCS between Android and iPhone launching with iOS 26.5  9to5Google",
+    "description": "Apple highlights 3 enhancements coming to iPhone with iOS 26.5  9to5MaciOS 26.5 Will Add End-To-End Encryption For RCS Messages Between Apple And Android  EngadgetApple rolls out macOS 26.5 RC, here’s what’s coming  9to5MacmacOS Tahoe 26.5 Release Candidate Now Available  MacRumorsEncrypted RCS between Android and iPhone launching with iOS 26.5  9to5Google",
     "published date": "Mon, 04 May 2026 17:22:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM3BDSFpjZU9RX0RJbnBQRjFpekI1UDdSbEhqS2s4WkhMNFdBS0xhNkFfRFdsaF9SRF9USkhBRE1nUFFwQUhTTDkyazZhd25ITklVVVJJZlB3R0FWaTFIR1lkMU9CWWtUMG4tZkRuQXNia25zc1F5enAxa2ZwZ1JDZGRjWjBheV9xVjlHakNrX0VxblNwc3dMRGFn?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -200,6 +200,26 @@
     }
   },
   {
+    "title": "Plex will soon charge you 50% more to stream your own media remotely - Android Authority",
+    "description": "Plex will soon charge you 50% more to stream your own media remotely  Android AuthorityPlex Remote Pass for streaming from your own NAS becomes 50% more expensive  Notebookcheck",
+    "published date": "Mon, 04 May 2026 05:41:53 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMWxQM3dzV1NQYU5rQXVrZkY1OWtlWXBqZHlZOFBxZk9RU1lLTmp0RzhINXZnZmJqSFFLaUtyZVVfUW83TjZZU2xnU0puRTlZWmxodi1lQWFXeUN4Y3pPU3UtejV5NXNiaUtXbGRYdjZ6MmVjOGpnbWUxVTZVQVNPZmJ5dUFnZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.androidauthority.com",
+      "title": "Android Authority"
+    }
+  },
+  {
+    "title": "This Company Has Figured Out a Way to Make Face ID Invisible - WIRED",
+    "description": "This Company Has Figured Out a Way to Make Face ID Invisible  WIREDAndroid phones could get this impressive under-display face unlock tech pretty soon  9to5Google",
+    "published date": "Mon, 04 May 2026 14:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWE5qclJxbjgxb0dZVU01Z29Gck0tZmROckJwWmhKN20zOEhOT3lJZDgxZ1ZzVGRsUzB2OTI0X0dLWFVSam1jaHJyaEFNRUJwNFc2QXd6S1J1R1lLVXhQcE5Vc2N1aE8xVjJtdWNjVXNPbUh3WlFKYURZeWtRZHFTazdQc1ItTU9jclExT29B?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.wired.com",
+      "title": "WIRED"
+    }
+  },
+  {
     "title": "Evan Blass retires @evleaks - GSMArena.com news - GSMArena.com",
     "description": "Evan Blass retires @evleaks - GSMArena.com news  GSMArena.comThe guy who spoiled smartphone launches for years just called it quits  Android Authority",
     "published date": "Mon, 04 May 2026 11:31:02 GMT",
@@ -207,6 +227,16 @@
     "publisher": {
       "href": "https://www.gsmarena.com",
       "title": "GSMArena.com"
+    }
+  },
+  {
+    "title": "Pixel Buds find problems, say ANC mode vanished from quick menu - Android Central",
+    "description": "Pixel Buds find problems, say ANC mode vanished from quick menu  Android CentralWeird Pixel Buds bug is causing ANC and transparency toggles to vanish  Android Authority",
+    "published date": "Tue, 05 May 2026 09:11:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX0JHQTZhMUZjcTFCLUFLRzFMVW04dUdXb2pTRDZTTk5HdVVvbW5YSHRzaFN4YUxzdkljQ0RsX2pmZ2xzbGlZaGIzdUx2cjdaQ3FULTRoSTBOOC1OenVWU196dkJRUlljc3VRZzE2NDZoMGc3NWczMlpQRkNjRlQ3ejJEaW9UMTFxb0FMdWJFQTBhcUJibWVNM2FVSFBzbkp3RUU1MWYzdXFhQTA5cnBmTEtQb3Uydkk?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.androidcentral.com",
+      "title": "Android Central"
     }
   },
   {
@@ -220,26 +250,6 @@
     }
   },
   {
-    "title": "Oppo Find X9 Ultra Khronos Creator Kit hands-on - GSMArena.com news - GSMArena.com",
-    "description": "Oppo Find X9 Ultra Khronos Creator Kit hands-on - GSMArena.com news  GSMArena.comI took the Galaxy S26 Ultra and Find X9 Ultra to a Porsche meet. One camera was the clear winner  Android PoliceiPhone 17 Pro Max crushed: I just tested the Oppo Find X9 Ultra's silicon-carbon battery and it's not even close  Tom's GuideWatch the Oppo Find X9 Ultra capture Earth from the edge of Space - GSMArena.com news  GSMArena.com",
-    "published date": "Sun, 03 May 2026 09:11:01 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdlY3NkVoT3l0TG9lQmlzVlZKdUhyMWsxT1ZyQ2xBWWtBWVF1UXdHVnk2cEl6c0VRSUZmYk45anUxSURKRWxfSUtSNWEwZ3hNVWI0eVJsWVNCVDZZQjg0ZllIdEx6UU5LbnFZaTJoMEtwTVpXRUxxN1pUTTZNa282OFVUMlZad2tSVlhza2wxVdIBiwFBVV95cUxPbFpiS0FTeWlVQU9pWVpzd3VLX1IwdW5JbFhvc05wNG9PRUdvSmJDdG5LaEk3T0h3TnZwR2xKZ001REFXX25ZZ2Y1eVdGS25lVUd1QnZrTDg3NzJmM0JYMU1BSmlDZ0Q2LUU4ajhLZGp1NHJDeEliMGxyTmlFRU00UWVBSUhiUVBSc1g4?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.gsmarena.com",
-      "title": "GSMArena.com"
-    }
-  },
-  {
-    "title": "My Google TV kept crashing and lagging — until I changed one hidden setting - Android Authority",
-    "description": "My Google TV kept crashing and lagging — until I changed one hidden setting  Android AuthorityI switched to a TV with Google TV and spent a week fixing what Google got wrong  MakeUseOf",
-    "published date": "Mon, 04 May 2026 10:36:24 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTDRiZ2JjbWlBa29qazJrWHpuLWc3NHh3WmlFRy1PQjFrbl8yVW0wY2xtUGlVd3Q1Z21ZZHNiQ1ZfYjM2c3RmZDJNdTNjT3pFV3FIT3N0blFYUEZyTE54UUxwT0RNblExalhsQTB2bC1Db205aWlIQkpsQW9ELWl1YVNWcWR4ckhCRVBMbXV5cEtCV3EtX20yZHZ5QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.androidauthority.com",
-      "title": "Android Authority"
-    }
-  },
-  {
     "title": "IPod Nano Gets Three Monitors - Hackaday",
     "description": "IPod Nano Gets Three Monitors  Hackaday",
     "published date": "Sun, 03 May 2026 20:00:00 GMT",
@@ -250,6 +260,16 @@
     }
   },
   {
+    "title": "My Google TV kept crashing and lagging — until I changed one hidden setting - Android Authority",
+    "description": "My Google TV kept crashing and lagging — until I changed one hidden setting  Android AuthorityI switched to a TV with Google TV and spent a week fixing what Google got wrong  MakeUseOf",
+    "published date": "Mon, 04 May 2026 10:37:34 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTDRiZ2JjbWlBa29qazJrWHpuLWc3NHh3WmlFRy1PQjFrbl8yVW0wY2xtUGlVd3Q1Z21ZZHNiQ1ZfYjM2c3RmZDJNdTNjT3pFV3FIT3N0blFYUEZyTE54UUxwT0RNblExalhsQTB2bC1Db205aWlIQkpsQW9ELWl1YVNWcWR4ckhCRVBMbXV5cEtCV3EtX20yZHZ5QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.androidauthority.com",
+      "title": "Android Authority"
+    }
+  },
+  {
     "title": "Someone made a gaming PC so big you can live in it, and yes, it actually plays games - XDA",
     "description": "Someone made a gaming PC so big you can live in it, and yes, it actually plays games  XDAEnthusiast builds a PC big enough to live in — humans in this RGB-lit fish tank case look just like figurines  Tom's HardwareCreator builds PC large enough to fit a human and the future GeForce RTX 6090  VideoCardz.com",
     "published date": "Mon, 04 May 2026 22:25:36 GMT",
@@ -257,6 +277,16 @@
     "publisher": {
       "href": "https://www.xda-developers.com",
       "title": "XDA"
+    }
+  },
+  {
+    "title": "These reusable digital Polaroids are a clever way to cover a fridge in memories - The Verge",
+    "description": "These reusable digital Polaroids are a clever way to cover a fridge in memories  The VergeVidaBay snap review: This battery-free e-ink magnet redefines photo sharing  MSN",
+    "published date": "Sun, 03 May 2026 13:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZmI3OWZfVy1qNHd1Q0N1YnE5cFdNMkVGb05WWEtGbUJIRUZSSnFoRFQ3OGlubVpveHdOLWNwTTUwMmlxMjFRdlV0MFFOQ0ZndGJabHRDRjh4eG1ZSElpcFJDYnYxTHk4a1B2enJuaUhXeTRicnhKMTlLUW90YkIyZHFWMThOR0cxQnNCNmxTVXFtR0l3ZXJwVkln?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theverge.com",
+      "title": "The Verge"
     }
   },
   {
@@ -280,26 +310,6 @@
     }
   },
   {
-    "title": "These reusable digital Polaroids are a clever way to cover a fridge in memories - The Verge",
-    "description": "These reusable digital Polaroids are a clever way to cover a fridge in memories  The VergeVidaBay snap review: This battery-free e-ink magnet redefines photo sharing  MSN",
-    "published date": "Sun, 03 May 2026 13:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZmI3OWZfVy1qNHd1Q0N1YnE5cFdNMkVGb05WWEtGbUJIRUZSSnFoRFQ3OGlubVpveHdOLWNwTTUwMmlxMjFRdlV0MFFOQ0ZndGJabHRDRjh4eG1ZSElpcFJDYnYxTHk4a1B2enJuaUhXeTRicnhKMTlLUW90YkIyZHFWMThOR0cxQnNCNmxTVXFtR0l3ZXJwVkln?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theverge.com",
-      "title": "The Verge"
-    }
-  },
-  {
-    "title": "Leaks Show First Look at Sony’s Absurdly Expensive New Wireless Headphones - Gizmodo",
-    "description": "Leaks Show First Look at Sony’s Absurdly Expensive New Wireless Headphones  GizmodoNew Sony WH-1000XX ultra-premium headphones pictured before global release  Notebookcheck",
-    "published date": "Mon, 04 May 2026 15:15:15 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQkUzM01XV1BUMFAxZ25nTzBZUmoxSlZCdGRSQmdjRGdrejhUZndzOWNoVUlFVl9mbDJfNm1DWnZuU2NPWnA0ZHBSVFRmdUMwZlBYX2FWdXZUS1U1Y09NamZnb0pLbWEwUGttSFhhc3VpZ1Z4aW9iTURfRnBabGRiM3NBSV9qRkUxWlJKS3hpT1YzX2NqWHVoZlB1bERncXJYTUMzbXAwVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://gizmodo.com",
-      "title": "Gizmodo"
-    }
-  },
-  {
     "title": "Apple Watch Ultra's Modular face is being simplified for watchOS 27 - AppleInsider",
     "description": "Apple Watch Ultra's Modular face is being simplified for watchOS 27  AppleInsiderIt sounds like Apple has run out of ideas for watchOS 27  MacworldWatchOS 27 Set to Get Slimmed-Down Watch Ultra Face, Report Says  CNETApple Watch to get modular watch face in watchOS 27  The Times of India",
     "published date": "Sun, 03 May 2026 14:50:00 GMT",
@@ -312,21 +322,11 @@
   {
     "title": "Google finally explains why AICore uses so much storage - Android Authority",
     "description": "Google finally explains why AICore uses so much storage  Android AuthorityGoogle explains why Android AICore occasionally takes up more storage  9to5GoogleWhat is AICore and why is it taking up so much space on your Android phone?  Neowin",
-    "published date": "Mon, 04 May 2026 08:04:41 GMT",
+    "published date": "Mon, 04 May 2026 07:36:55 GMT",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sU09LWTFKbUhUUGF5VTZiMjQ5VnZTTXlqYTdXSnZxdkFNNXVPUkltcXM0SUdURDlGTms3NEx3cjN0NzYxSXRGOFdkTzVpdjd5YzJWaElqdy04c3JOSHFZRDB1eWxJZlpFNG1QWDlOdUFPNWxNWTk3VGRR?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.androidauthority.com",
       "title": "Android Authority"
-    }
-  },
-  {
-    "title": "This tiny, magnetic e-reader could stop you from doomscrolling - TechCrunch",
-    "description": "This tiny, magnetic e-reader could stop you from doomscrolling  TechCrunchThis tiny e-reader is smashing sales numbers, beating Amazon's Kindles  Android PoliceThis Little Device Might Be the Pocket E-Reader of My Dreams  Lifehacker",
-    "published date": "Sun, 03 May 2026 13:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA4V0FrUHd5dHZfb3N6X3Fia1FIOHZVbmhOX25rMjZIcm54RWhXektmbllRV2JBNFhlRGFBdzFfSk1TWkFpbWNYMV9TTE9HRTh6RnVZV0g3SW9YdmxTZk1LZFdFdmhjYkF5emZmZk82Z2ZPZUdWZ2VXNzNyWUl4Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://techcrunch.com",
-      "title": "TechCrunch"
     }
   },
   {
@@ -340,13 +340,23 @@
     }
   },
   {
-    "title": "Google Home will roll out Gemini upgrades more widely in Europe, Asia-Pacific this week - 9to5Google",
-    "description": "Google Home will roll out Gemini upgrades more widely in Europe, Asia-Pacific this week  9to5GoogleThese Google Home updates for cameras, voice controls is what we all need  Android CentralGoogle Home makes it easier to understand why devices aren’t working  The Verge",
-    "published date": "Sun, 03 May 2026 21:05:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOGVOYVNQbzFtcnBNT2ltMjFZN1RWQnR1ZU1IVkdzYWNGdVVkYk02OVdVVmNUcDNGLVVoQTdadDJLZUhNNllEblZjSjNubkhjek8wY05pMC1rZkNZMzc3dlBRUVlNalROYjZjNzZkaEF4WUYzZV9WZFBhOXhfSXR1Q3dhY0dyUzhOOFZoRFlRR1RieTg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Leaks Show First Look at Sony’s Absurdly Expensive New Wireless Headphones - Gizmodo",
+    "description": "Leaks Show First Look at Sony’s Absurdly Expensive New Wireless Headphones  GizmodoNew Sony WH-1000XX ultra-premium headphones pictured before global release  Notebookcheck",
+    "published date": "Mon, 04 May 2026 15:15:15 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQkUzM01XV1BUMFAxZ25nTzBZUmoxSlZCdGRSQmdjRGdrejhUZndzOWNoVUlFVl9mbDJfNm1DWnZuU2NPWnA0ZHBSVFRmdUMwZlBYX2FWdXZUS1U1Y09NamZnb0pLbWEwUGttSFhhc3VpZ1Z4aW9iTURfRnBabGRiM3NBSV9qRkUxWlJKS3hpT1YzX2NqWHVoZlB1bERncXJYTUMzbXAwVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://9to5google.com",
-      "title": "9to5Google"
+      "href": "https://gizmodo.com",
+      "title": "Gizmodo"
+    }
+  },
+  {
+    "title": "This tiny, magnetic e-reader could stop you from doomscrolling - TechCrunch",
+    "description": "This tiny, magnetic e-reader could stop you from doomscrolling  TechCrunchThis tiny e-reader is smashing sales numbers, beating Amazon's Kindles  Android PoliceThis Little Device Might Be the Pocket E-Reader of My Dreams  Lifehacker",
+    "published date": "Sun, 03 May 2026 13:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA4V0FrUHd5dHZfb3N6X3Fia1FIOHZVbmhOX25rMjZIcm54RWhXektmbllRV2JBNFhlRGFBdzFfSk1TWkFpbWNYMV9TTE9HRTh6RnVZV0g3SW9YdmxTZk1LZFdFdmhjYkF5emZmZk82Z2ZPZUdWZ2VXNzNyWUl4Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://techcrunch.com",
+      "title": "TechCrunch"
     }
   },
   {
@@ -362,7 +372,7 @@
   {
     "title": "Samsung Shuts Down Messages—Apple Changes iPhone After 15 Years - Forbes",
     "description": "Samsung Shuts Down Messages—Apple Changes iPhone After 15 Years  ForbesView Full Coverage on Google News",
-    "published date": "Tue, 05 May 2026 05:42:03 GMT",
+    "published date": "Tue, 05 May 2026 05:42:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSGVrSGtLS0ZFak1GdThzYXJ1VTl0ZThDUVc2bENCOFpOeHY0TVI0YXlQWHhGS3lZUlB1Y1g1R2M2TDMweHMtT1pscUw0RExabWhNOG9LUVBxRmhlZVhQTzVvN1JLdWxIejl2MEJmNFg2S0NYWGwwQ05lTlQzbXZSMjhfcGlOYjY2b3h5QTl2WGxUUzFyLTNPa1ExejFaSjJZTWlzS0NJcVVxRmd6eDl6S2F4MzI0dw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.forbes.com",
@@ -380,18 +390,38 @@
     }
   },
   {
-    "title": "35.4 Patch Notes - Blizzard Entertainment",
-    "description": "35.4 Patch Notes  Blizzard EntertainmentTake a First Look at Hearthstone’s New Class Sets  Blizzard Entertainment",
-    "published date": "Tue, 05 May 2026 02:54:35 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PbDdEM28tNDB1NmgwdHBxTTRWUlRVQ0UtRTd1ZloyZnlpZnF2VkFaTXJsZnBLclBra1ZnYXpqYnpTWmo4Y2hfblpqUmVlUWN1YTBMd1ppZU9MNlh1MVZSQXNR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Apple Plans to Let Users Build Their Own Passes in iOS 27 Wallet App - Bloomberg.com",
+    "description": "Apple Plans to Let Users Build Their Own Passes in iOS 27 Wallet App  Bloomberg.comView Full Coverage on Google News",
+    "published date": "Tue, 05 May 2026 02:45:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGpLcGh3bjU4UG5tRy1fRHUzLXdPR2pVdkhMQV9pbkVqX3RNbko2QVE5WGN2ZWcxUURtandYTGJ0dmxFMmtDaEp5SzBPNU9ZMEZtMFNaX0QtSnQ2cXV4R2xDLWRtTFlSMjYyMDJCU1hUdmtFczQweWRyWUN2a3hWYUdodV9pSVl4cEVsZkNyYnNKV0xSLUR3R2hfLWYwUUFuZjRDNWZ1eGo2Nzc5WG1jamZ5cXd2YWdfdmplWk5JcWtpbmJWaGRz?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://hearthstone.blizzard.com",
-      "title": "Blizzard Entertainment"
+      "href": "https://www.bloomberg.com",
+      "title": "Bloomberg.com"
     }
   },
   {
-    "title": "‘Turn It Off’—Google Update Starts Scanning Your Gmail - Forbes",
-    "description": "‘Turn It Off’—Google Update Starts Scanning Your Gmail  ForbesI don't like AI, but Gemini in Gmail has been a game-changer  Android PoliceGoogle AI is creeping into every app on your phone. Here is how to disable it  Android Central",
+    "title": "ADATA XPG Unveils the World's First Infinity Mirror Gaming Memory NOVAKEY RGB DDR5 - TechPowerUp",
+    "description": "ADATA XPG Unveils the World's First Infinity Mirror Gaming Memory NOVAKEY RGB DDR5  TechPowerUp",
+    "published date": "Tue, 05 May 2026 07:19:10 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSEF5QnZNRzdJSXZmWlpXSVFNeFRYc1Y1MUhWT3lvR0UwSGVRSEgzQnFFTHBnbldiY1lRQi1meEpxY21nay1Mdm84Tm5RT0JuUFNSV2NsUVA1NUp6ZWpxMG9US1NvaGlaU19aLWVOMm9rZU91dWNzVndaRXFPeWotZHo2M1RMTXpKamw1VmRVYUFVTHlWdjZ3aEtRd25TYUsxSlhNNVdfRVhKVEc5UWpORjY1QnNUUnPSAbwBQVVfeXFMTnlQR3BfYmhiUVBCc0QtLUtQY2ZXcE4tWFE3WU1XcDZkOG9NVFRzaXpMdXRLWWVjWC16QVIyUWdEOWtUUkJRRll6ajFha0NBWUlmRmxUdGtsWEhpWEJsWHFGRjZEX3ZuX3ZBQXdSMXdNRjRfUngwNVYwdXF5eDBMMGk0Rm14T3ZVeGVsSnFXb204RXdaZXFkSFRQcnp3eTJSVkFJOF9kTGNjSW11LVZDSHhtdlk3TXFYSnI3dTM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.techpowerup.com",
+      "title": "TechPowerUp"
+    }
+  },
+  {
+    "title": "Diablo IV hits new all-time player count on Steam following latest Expansion - KitGuru",
+    "description": "Diablo IV hits new all-time player count on Steam following latest Expansion  KitGuruIt may have taken almost three years, but Diablo 4 finally feels finished to me  PC Gamer",
+    "published date": "Tue, 05 May 2026 09:00:45 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNUVUSjk4MXBQb0lyZElBZC00Ti1IR2p1aDZmYjBBNUk4ZGNHLXZUdkpra1dEeTBLODZJWGJvMER4ckNWU0VfQ2hrSl9ET1k4RkxCa3MteXRkbV9FM25TTDBRVEtvQ29wX3MxYUp4YThfcnJNM1ozWS1yal9wNVM3dlJSU044ZVE0TVNaQ0lXbzRDaHpOd3BLYk41V292clBDeS1Xa2hDdExQQ0I5NzdBdVhOMU51MkFKLUFrTEd4VGk0OWEwbUk4?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.kitguru.net",
+      "title": "KitGuru"
+    }
+  },
+  {
+    "title": "‘Turn It Off’—Google Starts Scanning Your Gmail As Update Goes Live - Forbes",
+    "description": "‘Turn It Off’—Google Starts Scanning Your Gmail As Update Goes Live  ForbesI don't like AI, but Gemini in Gmail has been a game-changer  Android PoliceGoogle AI is creeping into every app on your phone. Here is how to disable it  Android Central",
     "published date": "Mon, 04 May 2026 22:42:43 GMT",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPclF6OU9RZUoxXzhTa0Q2ZGNxMm1QR2dsejFoT2JabmV1ODZFQU90ZDhiY05jWnotdnh1WVdSeldLY0ZwSEl2Z3lnOTNKbDVVRWFuZTJYY2dDRmpMYk9hd0NULWEtZ2dvZ2xBXzlzazlieDctYUFlMDJpZ1UzTFRXbGZnbkhDcE1tVmlHU0pZMWtLejZqdmtLYUowU3lxQmNSRWp2TklQVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -401,7 +431,7 @@
   },
   {
     "title": "‘Waiting A Long Time’—Samsung Delays Free Android Upgrade - Forbes",
-    "description": "‘Waiting A Long Time’—Samsung Delays Free Android Upgrade  Forbes‘Starting With Galaxy S25’—Samsung’s Free Upgrade Goes Live  ForbesOne UI 8.5 stable release dates for Galaxy S25, other devices tipped  SamMobileSamsung’s Crucial Galaxy S25 Update: Wait Almost Over, New Report Claims  ForbesSamsung Releases Free Upgrade To Millions More Galaxy Phones  Forbes",
+    "description": "‘Waiting A Long Time’—Samsung Delays Free Android Upgrade  ForbesSamsung One UI 8.5 Update Missing: Why Galaxy S25 Users Are Still Waiting Today  ForbesOne UI 8.5 stable release dates for Galaxy S25, other devices tipped  SamMobile‘Starting With Galaxy S25’—Samsung’s Free Upgrade Goes Live  ForbesSamsung Releases Free Upgrade To Millions More Galaxy Phones  Forbes",
     "published date": "Mon, 04 May 2026 21:52:26 GMT",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTG9CaU9NZUFYUmp0ZzZsRktNVlJMTHNiWTg3ZzlqRTNuNlJ6eFVrM1psMlllZkZvbDMtWGEwN2VFbnZzRFFCYldIYWRQblM0RVpCMTFCXzV4cVVmUnJ0VWh2MGxsOVBDUjhMUGd4NFpqMjNyOVkxcUZWVlFiRXd1RGdWQkhkcE9HNHJ0Q2lZaDJvQnNxbG93SjFOUFR4YnNLUUNsZDFxd3hic28?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -420,23 +450,23 @@
     }
   },
   {
-    "title": "The History of Mood Swings - Magic: The Gathering",
-    "description": "The History of Mood Swings  Magic: The GatheringIntroducing Mood Swings  Magic: The GatheringCrafting the Visual Identity of Mood Swings  Magic: The Gathering",
-    "published date": "Mon, 04 May 2026 15:17:21 GMT",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yMEpHcFl1aWpWS0lLSHRJYXhKa0tueFc0aHNrckNfanJuVkNHdVVVb0NoV3BDWXBBbUJiTFo4UGtaWGk2ZmItR2twVGVGbGVXQUV6TlhUMkVhTVNKbVc4OERia2ZnNXRtU3VjekpaR3RXSW9oem9od0xuUGZYUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Sennheiser finally discounted its marathon battery headphones to a price worth considering - XDA",
+    "description": "Sennheiser finally discounted its marathon battery headphones to a price worth considering  XDAThese Excellent Sennheiser Momentum 4 Headphones Are 51% Off, But Not For Long  PCMag",
+    "published date": "Tue, 05 May 2026 01:54:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR2dQN0dqMVBpNXpFM1hEb1hkTVZvakZYNnVPOGR5YzJZUlNhZUhaNEl2THNUYjczaUFvb2RBOHlzRE5aRThIeGUwZ04zRGFwNHpBTnhid3Y5X05JSThOTW00LVdtbVBIZzJlUjBZTklWV3BSTzVjS2ZjMHlDTHp4cEF6S3R2bURuMkhn?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://magic.wizards.com",
-      "title": "Magic: The Gathering"
+      "href": "https://www.xda-developers.com",
+      "title": "XDA"
     }
   },
   {
-    "title": "Db2 Genius Hub adds next generation autonomous capabilities - IBM",
-    "description": "Db2 Genius Hub adds next generation autonomous capabilities  IBM",
-    "published date": "Mon, 04 May 2026 16:32:19 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZnFsMlRiNXMtc1JvQTlqQnh1ZWIweEpuOUlMMDhfZFdDYXpZZUI4VHZ3ZWJsb3owY1JiVGJXdnZ3N3pISHhLQW1VTnNmRDJZaEpuOGNCMTl6Sm4xUWZtazZZZXNmV0hxd3NZRGFTaFVRbmpjMmtHRXdRdFVjQmZ4aQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "35.4 Patch Notes - Blizzard Entertainment",
+    "description": "35.4 Patch Notes  Blizzard EntertainmentTake a First Look at Hearthstone’s New Class Sets  Blizzard Entertainment",
+    "published date": "Tue, 05 May 2026 02:54:35 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PbDdEM28tNDB1NmgwdHBxTTRWUlRVQ0UtRTd1ZloyZnlpZnF2VkFaTXJsZnBLclBra1ZnYXpqYnpTWmo4Y2hfblpqUmVlUWN1YTBMd1ppZU9MNlh1MVZSQXNR?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.ibm.com",
-      "title": "IBM"
+      "href": "https://hearthstone.blizzard.com",
+      "title": "Blizzard Entertainment"
     }
   },
   {
@@ -450,8 +480,28 @@
     }
   },
   {
+    "title": "Db2 Genius Hub adds next generation autonomous capabilities - IBM",
+    "description": "Db2 Genius Hub adds next generation autonomous capabilities  IBM",
+    "published date": "Mon, 04 May 2026 16:32:19 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZnFsMlRiNXMtc1JvQTlqQnh1ZWIweEpuOUlMMDhfZFdDYXpZZUI4VHZ3ZWJsb3owY1JiVGJXdnZ3N3pISHhLQW1VTnNmRDJZaEpuOGNCMTl6Sm4xUWZtazZZZXNmV0hxd3NZRGFTaFVRbmpjMmtHRXdRdFVjQmZ4aQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ibm.com",
+      "title": "IBM"
+    }
+  },
+  {
+    "title": "The History of Mood Swings - Magic: The Gathering",
+    "description": "The History of Mood Swings  Magic: The GatheringIntroducing Mood Swings  Magic: The GatheringCrafting the Visual Identity of Mood Swings  Magic: The Gathering",
+    "published date": "Mon, 04 May 2026 15:17:21 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yMEpHcFl1aWpWS0lLSHRJYXhKa0tueFc0aHNrckNfanJuVkNHdVVVb0NoV3BDWXBBbUJiTFo4UGtaWGk2ZmItR2twVGVGbGVXQUV6TlhUMkVhTVNKbVc4OERia2ZnNXRtU3VjekpaR3RXSW9oem9od0xuUGZYUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://magic.wizards.com",
+      "title": "Magic: The Gathering"
+    }
+  },
+  {
     "title": "Valve just imported 50 tons of game consoles in two days - The Verge",
-    "description": "Valve just imported 50 tons of game consoles in two days  The VergeValve Steam Controller: What reviewers are saying, how to get your hands on one  MashableSold Out? Gamers Struggle to Buy New Steam Controller, Urge Valve to Fix Its Site  PCMagThe Steam controller is a near-perfect PC gamepad that should only get better  Polygon.comSteam Controller launch live — hands-on report, and where to buy yours today  Tom's Guide",
+    "description": "Valve just imported 50 tons of game consoles in two days  The VergeValve Finally Addresses Steam Machine Delays  VICE",
     "published date": "Mon, 04 May 2026 23:58:44 GMT",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWjVaWmNJR094V0ExZVRJQW5FN2puS1FtbVBLUlJLQnZuZWdVRTVDTmNReVk0b0lVQ3V2T3VoeF9wbWpZLURITEpNWWJPNWF6OHhjcDB2OUgwek5GUVo3SGFiZl9TOGltMVVCcEczR3Q5NEJLaWI1Rzl6NE1EZzFyRldoUFpDRTlCWE5iTTA2UFlyOGdjWUE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -470,20 +520,50 @@
     }
   },
   {
-    "title": "Take-Two CEO Says ‘Grand Theft Auto VI’ Expectations Are ‘Terrifying’ - Bloomberg.com",
-    "description": "Take-Two CEO Says ‘Grand Theft Auto VI’ Expectations Are ‘Terrifying’  Bloomberg.comStrauss Zelnick discusses high stakes ahead of Grand Theft Auto VI launch  Investing.com CanadaI've Been Reviewing Games for Years, and Never Dreaded a Launch More Than GTA VI  PCMagWhy GTA 6 Is Not Coming To PC At Launch, And It's Not Due To A PlayStation Deal  GameSpot",
-    "published date": "Mon, 04 May 2026 19:16:17 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ2Z2M09ybFYtM2RBOXpUNnFRZGRfU1NsNGFSWlFUQkJzaV9GUXRjOUNndV9WaFFDazJCZ25NZk9RSHV3RHZpdUt2dnpRbFRYZzBZelROVlloc1J0MkFmU01NdGE0OU5ic0NiVEpjR2JaNmh3TGpOMFZ5aTlxdzNjS0JJR1FSbGo0TFZLaURROXpmd2FXdmhkaXBEY3ZsRjhZbEptVEs4SVVOWXRKQmtFU2RKLU5hbEk?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Video offers clearest look yet at foldable iPhone Ultra dummy unit - 9to5Mac",
+    "description": "Video offers clearest look yet at foldable iPhone Ultra dummy unit  9to5MacApple’s upcoming ‘Ultra’ releases: iPhone, MacBook, and more confirmed  MacworldA foldable iPhone dummy — on video.  The VergeTop Stories: MacBook Ultra, Vision Pro, and iPhone Ultra Rumors  MacRumorsMacBook Ultra could bring ‘Neo’ energy, but for the high-end  9to5Mac",
+    "published date": "Mon, 04 May 2026 23:15:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQlJKSFpWeEZOUEQwOU1pRWJBMjNSOTVkOW9MS3J0UFI2bEZoNlB3ZlljWWlrSUZENEpHaFRhckI1OWFMUHRhRXRBb0lIY3Z4UFN3U0hab3R0OGZDd1hESWlMRjNoVzhzZ1Z3SWZDMEhZeUxHWkRxM1pLZkFRY2g1RU5rdTBuLVM0amhwWERBbjAyM0drMnVRYzkyM1U4eG8?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.bloomberg.com",
-      "title": "Bloomberg.com"
+      "href": "https://9to5mac.com",
+      "title": "9to5Mac"
     }
   },
   {
-    "title": "Apple Plans to Let Users Build Their Own Passes in iOS 27 Wallet App - Bloomberg.com",
-    "description": "Apple Plans to Let Users Build Their Own Passes in iOS 27 Wallet App  Bloomberg.comView Full Coverage on Google News",
-    "published date": "Mon, 04 May 2026 17:34:10 GMT",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGpLcGh3bjU4UG5tRy1fRHUzLXdPR2pVdkhMQV9pbkVqX3RNbko2QVE5WGN2ZWcxUURtandYTGJ0dmxFMmtDaEp5SzBPNU9ZMEZtMFNaX0QtSnQ2cXV4R2xDLWRtTFlSMjYyMDJCU1hUdmtFczQweWRyWUN2a3hWYUdodV9pSVl4cEVsZkNyYnNKV0xSLUR3R2hfLWYwUUFuZjRDNWZ1eGo2Nzc5WG1jamZ5cXd2YWdfdmplWk5JcWtpbmJWaGRz?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Vadzo Launches VISPA ARC 2.0 USB Camera SDK with Multi-ROI - ACCESS Newswire",
+    "description": "Vadzo Launches VISPA ARC 2.0 USB Camera SDK with Multi-ROI  ACCESS Newswire",
+    "published date": "Mon, 04 May 2026 18:04:17 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTG0xY0dfajdFRXRYVHdHLVVDd3lnSUFFbzdmNUEyZTlGWnA5bkNveElPOEhRQkphSFhERTgxUmlTNk8yWUdrZC1VRi15N1FGajV0OXU2QzB1MGNSa2VROFhmS1pQS2Z2elpzUmlUT04yOEtoZEtWZVAwaUNXOUhMWE93SEMwUjlHQXpyQ0k1YW9Oc2QzbC1jY00zaGVoNWVXeGFwTEVYaFRfX0dCQ2xnRjR4MTMwWGdFVkJJMVJPaVhiZ05QeGlUVVl6dG1BVVc1dTBQRTlLWGljRWpnLVhpVlcweHg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.accessnewswire.com",
+      "title": "ACCESS Newswire"
+    }
+  },
+  {
+    "title": "Maker builds Alien-style DIY laptop around Raspberry Pi - theregister.com",
+    "description": "Maker builds Alien-style DIY laptop around Raspberry Pi  theregister.com",
+    "published date": "Mon, 04 May 2026 19:07:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS3U3QkhoekxyWnNKaW9fRmFldmpkSFg4RHB1b2pKWkhQOGROWGExRkFsX1JpSzVqMjdRMnQ4dzhQN2dQQ1Q5VkRVWmZaY1BHZ0d0OGtYRkhLRlJnNHFkdXo0bnRMYnNhdDN6Z1FPVWh1Ujc2akVZZDVBQXpqRl9kbkZwbGI?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theregister.com",
+      "title": "theregister.com"
+    }
+  },
+  {
+    "title": "What’s new in Android’s May 2026 Google System Updates - 9to5Google",
+    "description": "What’s new in Android’s May 2026 Google System Updates  9to5GoogleNew Google Play system update rolling out to Samsung phones on One UI 8.5  Sammy FansWhat’s new in Android’s April 2026 Google System Updates [U]  9to5Google",
+    "published date": "Mon, 04 May 2026 22:04:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE55UWNZaXZRZU5mTHNmd1FpbnFSQUJDbGRqU1BrVWxMNGRVaWM1WFpiZ3JOMVI5WEZpOHN3UDFtcEFnb3JVcVBVdWV0MTBoSlkzTm5MVkRhU3U0alRuNnB3YlRIN3ItaWkwVTAyaGZsaUFuMjA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://9to5google.com",
+      "title": "9to5Google"
+    }
+  },
+  {
+    "title": "Take-Two CEO Says ‘Grand Theft Auto VI’ Expectations Are ‘Terrifying’ - Bloomberg.com",
+    "description": "Take-Two CEO Says ‘Grand Theft Auto VI’ Expectations Are ‘Terrifying’  Bloomberg.comStrauss Zelnick discusses high stakes ahead of Grand Theft Auto VI launch  Investing.com CanadaTake-Two CEO Addresses Grand Theft Auto 6 Price, and the Possibility for More L.A. Noire  IGNI've Been Reviewing Games for Years, and Never Dreaded a Launch More Than GTA VI  PCMagWhy GTA 6 Is Not Coming To PC At Launch, And It's Not Due To A PlayStation Deal  GameSpot",
+    "published date": "Mon, 04 May 2026 19:16:17 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ2Z2M09ybFYtM2RBOXpUNnFRZGRfU1NsNGFSWlFUQkJzaV9GUXRjOUNndV9WaFFDazJCZ25NZk9RSHV3RHZpdUt2dnpRbFRYZzBZelROVlloc1J0MkFmU01NdGE0OU5ic0NiVEpjR2JaNmh3TGpOMFZ5aTlxdzNjS0JJR1FSbGo0TFZLaURROXpmd2FXdmhkaXBEY3ZsRjhZbEptVEs4SVVOWXRKQmtFU2RKLU5hbEk?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.bloomberg.com",
       "title": "Bloomberg.com"
@@ -500,18 +580,8 @@
     }
   },
   {
-    "title": "Ninkear YBOOK 15 Review - Budget 2-in-1 with Caveats - TechPowerUp",
-    "description": "Ninkear YBOOK 15 Review - Budget 2-in-1 with Caveats  TechPowerUp",
-    "published date": "Mon, 04 May 2026 17:36:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qVlFWREZjLTJaU2llZmZlbmRrdnctZGg2R1hUZ3NFMHQweWh4UWI3M2pONHk4VUFsSXlSWlY1RGZ2SC1QQjBKMkwxeGc0VWNCb0U2MlUyMVZUR0RNaFRxRFh3?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.techpowerup.com",
-      "title": "TechPowerUp"
-    }
-  },
-  {
     "title": "Subnautica 2 Coming to Xbox Game Preview on May 14 - Xbox Wire",
-    "description": "Subnautica 2 Coming to Xbox Game Preview on May 14  Xbox WireWatch The Subnautica 2 Pre-launch Showcase On May 9!  Unknown WorldsSubnautica 2 Early Access Cinematic Trailer Released  Unknown WorldsSubnautica 2 Early Access Launch Events  Unknown WorldsKrafton's removal from Subnautica 2 Steam page \"blown up a little bigger than it was meant to\", as developers emphasise continued co-publishing support  Eurogamer.net",
+    "description": "Subnautica 2 Coming to Xbox Game Preview on May 14  Xbox WireWatch The Subnautica 2 Pre-launch Showcase On May 9!  Unknown WorldsSubnautica 2 Release Date Announcement Forces Outbound Dev to Bring Its Game Launch Forward  IGN AfricaSubnautica 2 Early Access Cinematic Trailer Released  Unknown WorldsSubnautica 2 Early Access Launch Events  Unknown Worlds",
     "published date": "Mon, 04 May 2026 16:03:09 GMT",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LencyVGpYRnFlT1A3SWtTQTdTazdtTllZZmdlWndZeHVRRlhmSXVhaXZudEREaV9Uak03VFU1Rk9QYm51a19SdHB0QXRDMmsxVElHYl9uVjdwbkJlWGJRZEZUZnlwdVhqNW5wRU1JWlo3U1U?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -520,33 +590,13 @@
     }
   },
   {
-    "title": "Vadzo Launches VISPA ARC 2.0 USB Camera SDK with Multi-ROI - ACCESS Newswire",
-    "description": "Vadzo Launches VISPA ARC 2.0 USB Camera SDK with Multi-ROI  ACCESS Newswire",
-    "published date": "Mon, 04 May 2026 18:04:17 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTG0xY0dfajdFRXRYVHdHLVVDd3lnSUFFbzdmNUEyZTlGWnA5bkNveElPOEhRQkphSFhERTgxUmlTNk8yWUdrZC1VRi15N1FGajV0OXU2QzB1MGNSa2VROFhmS1pQS2Z2elpzUmlUT04yOEtoZEtWZVAwaUNXOUhMWE93SEMwUjlHQXpyQ0k1YW9Oc2QzbC1jY00zaGVoNWVXeGFwTEVYaFRfX0dCQ2xnRjR4MTMwWGdFVkJJMVJPaVhiZ05QeGlUVVl6dG1BVVc1dTBQRTlLWGljRWpnLVhpVlcweHg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.accessnewswire.com",
-      "title": "ACCESS Newswire"
-    }
-  },
-  {
     "title": "iPhone 18 Pro: Six new features are coming later this year - 9to5Mac",
-    "description": "iPhone 18 Pro: Six new features are coming later this year  9to5MaciPhone 18 Pro and iPhone 18 Pro Max to have a smaller Dynamic Island - GSMArena.com news  GSMArena.comHere’s When Apple Will Launch iPhone 18 Pro, iPhone 18 Pro Max And iPhone Ultra  ForbesApple plans ‘aggressive pricing’ for iPhone 18 Pro models, per report  9to5MaciPhone 18 Pro to have some of Apple’s biggest camera upgrades ever: report  9to5Mac",
+    "description": "iPhone 18 Pro: Six new features are coming later this year  9to5MacHere’s When Apple Will Launch iPhone 18 Pro, iPhone 18 Pro Max And iPhone Ultra  ForbesiPhone 18 Pro and iPhone 18 Pro Max to have a smaller Dynamic Island - GSMArena.com news  GSMArena.comApple's iPhone 18 Pro and iPhone 18 Pro Max to be aggressively priced - GSMArena.com news  GSMArena.comiPhone 18 Pro to have some of Apple’s biggest camera upgrades ever: report  9to5Mac",
     "published date": "Mon, 04 May 2026 19:52:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaFozaFJvNUszZ2Q4cWpWWHRJblBHeUd4OHYtYWdyTktwWkJyeGNQTTJBMVZ1RmRFUVFlWS02cVpmVmh4eWphNjVmVlV4bEFiUUFuWGdWSEVvYTRPaHFjTjJRZWk2SzY1c2N5d1VybEl0c1psZVUwMlRPYm9UalM2b3AyZllsbU5GeDBzMkE1QWNoa1U?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://9to5mac.com",
       "title": "9to5Mac"
-    }
-  },
-  {
-    "title": "What’s new in Android’s May 2026 Google System Updates - 9to5Google",
-    "description": "What’s new in Android’s May 2026 Google System Updates  9to5GoogleNew Google Play system update rolling out to Samsung phones on One UI 8.5  Sammy FansWhat’s new in Android’s April 2026 Google System Updates [U]  9to5Google",
-    "published date": "Mon, 04 May 2026 22:04:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE55UWNZaXZRZU5mTHNmd1FpbnFSQUJDbGRqU1BrVWxMNGRVaWM1WFpiZ3JOMVI5WEZpOHN3UDFtcEFnb3JVcVBVdWV0MTBoSlkzTm5MVkRhU3U0alRuNnB3YlRIN3ItaWkwVTAyaGZsaUFuMjA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://9to5google.com",
-      "title": "9to5Google"
     }
   },
   {
@@ -560,13 +610,13 @@
     }
   },
   {
-    "title": "Hisense aggressively cuts the price of its RGB LED TV on release day - The Verge",
-    "description": "Hisense aggressively cuts the price of its RGB LED TV on release day  The VergeTerry Crews' new Hisense TV for the World Cup is up to $3,000 off now  USA Today",
-    "published date": "Mon, 04 May 2026 13:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBldVVSbVc5S3NLTzRZN2U5R09OdGtHVEh0RUVlNTZnZUtQYWM5Z0xuT1lIYmV2RkRvUXEwQTN3U09zMERtSy1rRmhiQkNadENrVFVDamtBNnBaTTdsT1dkeEh6d2JJMGNHUDI0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Former Nintendo boss says Amazon once asked company to break the law - MobileSyrup",
+    "description": "Former Nintendo boss says Amazon once asked company to break the law  MobileSyrupReggie Fils-Aimé reveals the surprising reason Nintendo stopped selling consoles on Amazon  Polygon.comReggie Fils-Aimé says Amazon once asked Nintendo to break the law  The Verge",
+    "published date": "Mon, 04 May 2026 19:03:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZjRERG1PWWdKRGFVS0gxaVIwa0RHaXQ3T1o5NmVYNkR6R1RLMUg3YUFadlJ5UDVYYnVsODZZZFFWSUxUYm5BdHlkcFR4blA1c2xPTkY1Z1JsWVFCRk80ZG1GTFJldEkyb0R4czhjUFNrUFFNR0NPTldXYU4xQ3B4T1hvSjU0SUI0T1hkNTBGY1A?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.theverge.com",
-      "title": "The Verge"
+      "href": "https://mobilesyrup.com",
+      "title": "MobileSyrup"
     }
   },
   {
@@ -590,58 +640,48 @@
     }
   },
   {
-    "title": "Former Nintendo boss says Amazon once asked company to break the law - MobileSyrup",
-    "description": "Former Nintendo boss says Amazon once asked company to break the law  MobileSyrupReggie Fils-Aimé reveals the surprising reason Nintendo stopped selling consoles on Amazon  Polygon.comReggie Fils-Aimé says Amazon once asked Nintendo to break the law  The Verge'I Wasn't Going to Do Something Illegal' — Reggie Fils-Aimé Remembers the Phone Call That Made Nintendo Stop Working With Amazon During the DS Era  IGN",
-    "published date": "Mon, 04 May 2026 19:03:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZjRERG1PWWdKRGFVS0gxaVIwa0RHaXQ3T1o5NmVYNkR6R1RLMUg3YUFadlJ5UDVYYnVsODZZZFFWSUxUYm5BdHlkcFR4blA1c2xPTkY1Z1JsWVFCRk80ZG1GTFJldEkyb0R4czhjUFNrUFFNR0NPTldXYU4xQ3B4T1hvSjU0SUI0T1hkNTBGY1A?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Hisense aggressively cuts the price of its RGB LED TV on release day - The Verge",
+    "description": "Hisense aggressively cuts the price of its RGB LED TV on release day  The VergeTerry Crews' new Hisense TV for the World Cup is up to $3,000 off now  USA TodayHisense's new RGB Mini-LED TV is now available with Google TV for less than TCL can offer  9to5Google",
+    "published date": "Mon, 04 May 2026 13:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBldVVSbVc5S3NLTzRZN2U5R09OdGtHVEh0RUVlNTZnZUtQYWM5Z0xuT1lIYmV2RkRvUXEwQTN3U09zMERtSy1rRmhiQkNadENrVFVDamtBNnBaTTdsT1dkeEh6d2JJMGNHUDI0?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://mobilesyrup.com",
-      "title": "MobileSyrup"
+      "href": "https://www.theverge.com",
+      "title": "The Verge"
     }
   },
   {
-    "title": "This Company Has Figured Out a Way to Make Face ID Invisible - WIRED",
-    "description": "This Company Has Figured Out a Way to Make Face ID Invisible  WIREDAndroid phones could get this impressive under-display face unlock tech pretty soon  9to5Google",
-    "published date": "Mon, 04 May 2026 14:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWE5qclJxbjgxb0dZVU01Z29Gck0tZmROckJwWmhKN20zOEhOT3lJZDgxZ1ZzVGRsUzB2OTI0X0dLWFVSam1jaHJyaEFNRUJwNFc2QXd6S1J1R1lLVXhQcE5Vc2N1aE8xVjJtdWNjVXNPbUh3WlFKYURZeWtRZHFTazdQc1ItTU9jclExT29B?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Samsung shows off wild new phone displays with insane colors and private health tracking - Android Authority",
+    "description": "Samsung shows off wild new phone displays with insane colors and private health tracking  Android AuthorityLG Display has a 27-inch 5K OLED screen.  The Verge",
+    "published date": "Tue, 05 May 2026 03:53:40 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFVtckRndmJmaEFBdXBzQ3djSUF1QVMta0FVT3cxSnlIUDd1SXl6bXhBdDVXdmNEeW84OHJUSDhabFpkZ1pQNVRpU2tnaVZxaEgxSXgwWjY1N3pjdG85eUhCV1BPMDFtRGRuckpSR1g1Z0g3eHpMaXZLOGZZZnQ1VVUyYnl5QkRFVGwxR2xJdlM?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.wired.com",
-      "title": "WIRED"
+      "href": "https://www.androidauthority.com",
+      "title": "Android Authority"
     }
   },
   {
-    "title": "Freewrite Wants You To Write A Novel In A Month With 50K May - Forbes",
-    "description": "Freewrite Wants You To Write A Novel In A Month With 50K May  Forbes",
-    "published date": "Mon, 04 May 2026 15:38:05 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcnFNaEh3ZkJCeHMtWE5faUcyRkprNERwanlVSVBVOWZQejAySExDczN2S0h5NUF0aG9VUTZuTHN2ZzRqLUd5YnBSSGczVlVyR18waXA0NzhXVjJnMkRZUFVCQkJhTVNRWmVyWU1yQ2trekJRZGJ0dXNCQl81cTNTeEdGb0pkZUFJYVlDUFdhNDI1eEV2cDBHbHJaZWR4YWxoeVkwSTVDUXhPZUx6X3pWYWE5UGs?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Farm Boy Grew Up With a Lambo on His Wall, Turned Down $12M for His Ferrari F50 Because He Drives It - autoevolution",
+    "description": "Farm Boy Grew Up With a Lambo on His Wall, Turned Down $12M for His Ferrari F50 Because He Drives It  autoevolution",
+    "published date": "Tue, 05 May 2026 08:11:49 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNU2FOaWNpVjZ2bldYa3ZLZGhaZ0VHcG81dTlOSmwtN1VaTnhYMzg5Q252eXBudGxleTdzSW9uOFhwazdHVUpJakFNM0Z6aGRVYkpFcjBiNzdvcDR0Z1dzdG9XSUpCdWI5TWVfcG95ZWNlZlFpeUNtemJ2SUJUN2Z3dUVRWW0xcl9iQVdDZUZxR3VwOTc2ME41Vkt3NkJKUDJPSmdHRGFZaFpOdDd1ZjBLQnY1VnZRYlBaUHZxRjRHVi04T2JSVHRpdUFKblpEOEdnZk9tQWt2eWpjYmd3Z2c?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.forbes.com",
-      "title": "Forbes"
+      "href": "https://www.autoevolution.com",
+      "title": "autoevolution"
     }
   },
   {
-    "title": "‘Restart And Shut Down’—Microsoft Confirms Windows Update ‘Disruption’ - Forbes",
-    "description": "‘Restart And Shut Down’—Microsoft Confirms Windows Update ‘Disruption’  ForbesMicrosoft Enables Indefinite Windows 11 Update Pausing Amid Security Warnings  HarianBasis.co",
-    "published date": "Mon, 04 May 2026 05:03:56 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbUx0azMwemVPVkRnYkNoWG8xdS1Zdm1aUEZjblFnT2ZJSGlvVzZFR1RCbVVHTGJjR1RKWXJ0b2JQdml4dF9MQ25yRnpmSHJaZ0lnanhHNTVWNjc3Tzd0eTNHTnV1djZXbVhpNElxQ29renVSckVFb21wcHJiNFNUSWRWbGo5b2NacWF2QkQwcHk3NjlZTTlwTE90Y1JYbTJaeUtKMlhXclVydE54QXBDSklFUFVCTTgya1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "DDR6 Development Aims for Commercial Shipments in 2028 - TechPowerUp",
+    "description": "DDR6 Development Aims for Commercial Shipments in 2028  TechPowerUpDDR6 development starts, memory makers target 2028 to 2029 launch  VideoCardz.com",
+    "published date": "Mon, 04 May 2026 16:33:14 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdEs1dndUUTBWUnEyNmo1d1oycnNTNEo3R3NZdzM0c2R3QjJITU42QWcwenFlOThhVTlzSTRYWl8xeVY1dUpPMmw4MkdlZzR3aTMxNDNTNnRTa3BNeXhIc0ZZalJ3eXNKOEdUV2NhaW82bEduekRlSElsa1pXQWlrR2F2TzFxeEJnX180R3JxUWtZLUHSAZgBQVVfeXFMT28zWlVraHF1aFhxMTJhTlg5LVVuaU85dEFERkNBS3hpelA4ai1YbzdSTTNoQXV5eVJ5cmJzXzBKS0F3RXZTbjZQbUc3alFSRWRqSExWdFd2NW9meWZDS2l3SVpKSFBMMC0xM2t5R0IyUkNSNmsyd2FvVTdXU0pORWNqWXJ0TXVoQkFmOXpBMFZMTEY1ODRVVGc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.forbes.com",
-      "title": "Forbes"
-    }
-  },
-  {
-    "title": "‘Crimson Desert’ Just Finished Its Three Month Roadmap In Three Weeks - Forbes",
-    "description": "‘Crimson Desert’ Just Finished Its Three Month Roadmap In Three Weeks  ForbesThe Good And Bad Of Crimson Desert’s Big ‘Endgame’ Update Patch  Forbes",
-    "published date": "Mon, 04 May 2026 14:44:41 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWENOUWZyay1pcGJ3VV9Zb0dSblJ6bDBNZFZjcDRQSml3TktUTUJBQmpvZ1B4ZnNwRkxYTzdydUlHY3NmQVhmWEZOZ1ZRTVN5ZzVhMFJFQ3hrM1Z4WWphTmdiY0NFcEFFZDJMYzVQbjZwRmlUODNjVXU4Qk5RNDBHZ1hlQnVvQlVsMlJLcF9SeFNMcXdyYnI2dmxIQ1JIRm1kRVdNZG9uN2hJNEpKaXo1dlZUUTF5eW5vTUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.forbes.com",
-      "title": "Forbes"
+      "href": "https://www.techpowerup.com",
+      "title": "TechPowerUp"
     }
   },
   {
     "title": "Today’s NYT Strands Hints, Spangram, Answers For Tuesday, May 5 (Get Up!) - Forbes",
-    "description": "Today’s NYT Strands Hints, Spangram, Answers For Tuesday, May 5 (Get Up!)  ForbesNYT Strands Hints for May 4, 2026  The New York TimesToday’s NYT Strands Hints, Spangram, Answers For Monday, May 4 (May The Forest Be With You)  ForbesToday’s NYT Strands Hints, Spangram, Answers For Sunday, May 3 (Something’s Fishy)  Forbes",
+    "description": "Today’s NYT Strands Hints, Spangram, Answers For Tuesday, May 5 (Get Up!)  ForbesNYT Strands Hints for May 5, 2026  The New York TimesToday’s NYT Strands Hints, Spangram, Answers For Sunday, May 3 (Something’s Fishy)  Forbes",
     "published date": "Tue, 05 May 2026 02:00:38 GMT",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc1pkSkJrOGQ0RmhValY4QnU1NHo5UVR6c29PYWRRX2RJQjBtd2tFWGxWeTI4ZGFfZXF0VmtqWFFBcVJnR055WUFiblVFMDFPX1g1V3lBVGU2eWE5YUhuN08ySFNiWTF6LU5uRFlSdGpqQjFrWjV0RXQ4LS1UQ2l3YkdZR1pwSVZIN2FHeV9mTlllSVYxY29LR0RUc3dDempTODRnZTVsTHU1Q2xNYjZTcDRTMXdGcWIz?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -650,53 +690,13 @@
     }
   },
   {
-    "title": "Meet the indie studios funding other indie studios - Game Developer",
-    "description": "Meet the indie studios funding other indie studios  Game Developer",
-    "published date": "Mon, 04 May 2026 17:18:02 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd3pILUFESW9BWURWazhuZnNrWE9IQmtGcENCc2gwUDlDTVFuaW0xSmk0Tkt3YjJiUGZoaC1CXzFiM2VDMy1iWjVNNDZaRVFlMkI3MVVQT0hsaUtKQm4wUWRlMEo5ajdKSlo2MFAzOVZYYy1kSEdGT21iWnZuamZfX0dhT2pHajZaMl82NURSNjdsbXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "‘Crimson Desert’ Just Finished Its Three Month Roadmap In Three Weeks - Forbes",
+    "description": "‘Crimson Desert’ Just Finished Its Three Month Roadmap In Three Weeks  ForbesThe Good And Bad Of Crimson Desert’s Big ‘Endgame’ Update Patch  ForbesCrimson Desert Update 1.05.00 Out Now — Check Out the Patch Notes  IGN",
+    "published date": "Mon, 04 May 2026 14:44:41 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWENOUWZyay1pcGJ3VV9Zb0dSblJ6bDBNZFZjcDRQSml3TktUTUJBQmpvZ1B4ZnNwRkxYTzdydUlHY3NmQVhmWEZOZ1ZRTVN5ZzVhMFJFQ3hrM1Z4WWphTmdiY0NFcEFFZDJMYzVQbjZwRmlUODNjVXU4Qk5RNDBHZ1hlQnVvQlVsMlJLcF9SeFNMcXdyYnI2dmxIQ1JIRm1kRVdNZG9uN2hJNEpKaXo1dlZUUTF5eW5vTUE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.gamedeveloper.com",
-      "title": "Game Developer"
-    }
-  },
-  {
-    "title": "Forza Horizon 6's Full Resolution & FPS Details Revealed For Xbox Series X|S - Pure Xbox",
-    "description": "Forza Horizon 6's Full Resolution & FPS Details Revealed For Xbox Series X|S  Pure XboxTurn up Your Airwaves with the Horizon Festival’s Biggest Line-Up Yet  Forza.netSix Cars Are Being Given Away As Loyalty Rewards In Forza Horizon 6  Pure XboxNew Forza Horizon 6 Details Discussed in Developer Discord Q&A  IGN",
-    "published date": "Mon, 04 May 2026 16:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZHhvYWRNMlNsTGZTUFh6LW81bVZ2SGU2Uk1NaHRWUTZLZlFFZHpqdzJtbExGb2UtM2EtQ1ZXTDI3dnpfclJ2NTNCMUFtdkRZbTIxbHMzLW9qT04yMmY4bXpTVlIxRTcwcWhBMm9RSnEwb3NkZU1HTTFETUwwTm1qSWpBUXJHM29DRmpPSDhxZWFSMFNYeDEzRmRtNy1Xb1pCaGRaY0prdnZfc1lzZDVZYl9JZGo?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.purexbox.com",
-      "title": "Pure Xbox"
-    }
-  },
-  {
-    "title": "Steam Controller Quickly Goes Out Of Stock After Payment Processing Issues Plague Release - GameSpot",
-    "description": "Steam Controller Quickly Goes Out Of Stock After Payment Processing Issues Plague Release  GameSpotView Full Coverage on Google News",
-    "published date": "Mon, 04 May 2026 19:19:22 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPR1VWUndYRHhpUE9GeW5WUVg0YVZZbUFYNDRZbWRBV2dyWEp4c2FTOUxuWTdjNDZwYlZIU3FhVWdsV0FEME9ZbW54cmU0eXg4Zk9aN3pPU2dRTnhHVVhJUENzWGYyZXVuYWY2Y1VrakhYYlpoXzUtak02NVc1SWdjd005bk1GZE9ZUlRuTktBUjZBVW5ybU9rckkxT1YyX1VyOHpFMjI3Y2Vuam1xa1lpMkw3LVZOa09kSkFnZlhfdGQ5Z1NLZkFSR3d4YWZCRXVTOEhR?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.gamespot.com",
-      "title": "GameSpot"
-    }
-  },
-  {
-    "title": "Hawking’s “Own Work Pointed to Need for Prior Transcendent Mind” - Science and Culture Today",
-    "description": "Hawking’s “Own Work Pointed to Need for Prior Transcendent Mind”  Science and Culture Today",
-    "published date": "Tue, 05 May 2026 01:33:23 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ25BUHczLXlwYzZKVEFMZWIzUU9TU2NsT0k3bENlRk1TaGpjVk1LWXBwSlBCNGxxcTAtTk5FcG1zMzRaMG1ha0VXWGVGOTF3M0UxeE82bGpMZzUtUEYtb24wN1d4OFpBX25WdmVXODZOVThIeFh3V2ItbzZNbDRQOWJXQnJlU2dfWVRMVEE2UFNyX0g4N3QxWi1mUGxoYW5QNXlXcnBJY05UX3BuSk41TUpFWnVsanlaMUhKS3RPcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://scienceandculture.com",
-      "title": "Science and Culture Today"
-    }
-  },
-  {
-    "title": "Omarchy 3.7 Linux Distribution Overhauls Gaming Support, Adds Unified CLI - Phoronix",
-    "description": "Omarchy 3.7 Linux Distribution Overhauls Gaming Support, Adds Unified CLI  Phoronix",
-    "published date": "Mon, 04 May 2026 14:55:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNeWpteUdkQVhMM2tEN3VCX3NJSm1IMHUtU2dCdlNNWkdqUXFMUGR4VHk4dHp3Vnh3aFRlclcwRmkwMmJ3cF9VNVFyNEluSG92X3pvZU1qRU5aUHNjcnIw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.phoronix.com",
-      "title": "Phoronix"
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
     }
   }
 ]
