@@ -1,87 +1,147 @@
 [
   {
-    "title": "JetBlue Steps in to Help Stranded Spirit Customers with $99 Rescue Fares, Announces Plans to Add 11 Destinations From Fort Lauderdale - news.jetblue.com",
-    "description": "JetBlue Steps in to Help Stranded Spirit Customers with $99 Rescue Fares, Announces Plans to Add 11 Destinations From Fort Lauderdale  news.jetblue.comSpirit Airlines Prepares to Shut Down as Rescue Deal Falls Apart  WSJEvery airline is Spirit Airlines now  vox.comWhy did Spirit fail? Too many passengers hated flying it  CNNFrontier Airlines Announces Discounted Rescue Fares to Support Spirit Airlines Customers  Frontier Airlines",
-    "published date": "Tue, 05 May 2026 08:56:47 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOV0FKMEE3b3NYa0RIZ1VZMVExaV96ZnhTYTlXU3N0Nzk0bjA2ekJieWpJUk9DcHhTOVAwTUlrUUdsOUZQX2o0TGNOejAtRm1sVjdhX3h4X3pLaFlBQzM2WWIxUUdYa181V0ZseDRFa29ZQUcxQTFSc3l3blI1LXhxd3FGek5UczFRR29zNFhYRlE1azQtSktkcEVoM2V3MEJWWnJnYVEzTFpuSWZlVzBhc0Z5dDZpay1jaXBUYkRhNkhKQzZFNHBpYTBTbG5ab2N5UnRvWHdBejZNWHRHZ2t6cVU3S3I4Zk1HdU9zWHk1ZURFczRTOHBVWXREU3FMUk9pZ1hFZGYtS2YwNkF6aElFRDZhZE1sUXhSQ2ZxUE9WS2F6a2hySXdnRkhMS1hJSmEyMzNTOXlMTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.news.jetblue.com",
-      "title": "news.jetblue.com"
-    }
-  },
-  {
-    "title": "World shares mixed and oil prices retreat after the latest flare in Iran tensions - AP News",
-    "description": "World shares mixed and oil prices retreat after the latest flare in Iran tensions  AP NewsShares slide, oil prices elevated as U.S.-Iran truce prospects dim  CNBCAsia stocks fall as Iran tensions rise; Australia dips as RBA strikes hawkish note  Investing.comAsian markets are mixed and oil is steady after Wall Street hits records  ABC27World shares are mixed, with sharp gains for tech stocks, while oil prices bounce back  WFMZ.com",
-    "published date": "Tue, 05 May 2026 09:43:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWEd0NzBZZEVzZGZscGJ5R01lMnlkMEJqa05vRWYzdlV2LVJNQ3IteHZxbmlHekMyZDRlZjdNN0pBd0gzbk9SREYyUE1HdldEQlBpbnZkVW8zWi00dGtpUnoxR09mQ2ZzVWtjYU5kZzB1YVlXVVNSMzRTam1hRFFhYnFCeXJVNE1ja3BlSGM2LUpoY1k?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://apnews.com",
-      "title": "AP News"
-    }
-  },
-  {
-    "title": "GameStop shares fall 10% after CEO skirts questions over eBay acquisition details - The Guardian",
-    "description": "GameStop shares fall 10% after CEO skirts questions over eBay acquisition details  The GuardianGameStop’s pursuit of eBay has analysts scratching their heads  CNNEBay Investor Skeptical That GameStop Can Make Good on Acquisition Offer  Bloomberg.comGameStop stock falls after company proposes $56 billion deal for eBay  Yahoo FinanceGameStop stock sinks after surprise eBay takeover bid, Cohen's combative CNBC interview  CNBC",
-    "published date": "Mon, 04 May 2026 21:37:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc3hMVHc1Y1JOUFkyWV9ITVlaYll5bTZXYWRWNTMyZTRFVGcwM0dtSFlBMHdMWGtod1dGdmNZOWttYllWU3VLUFN5M1RsYnQ5ZUd2STBTWFJRMUZITTJUckxrYVNVN0N2ZGJlVEVFSm1hRHF5eV84UnR5dEljRjRBN2E3TUpudzQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theguardian.com",
-      "title": "The Guardian"
-    }
-  },
-  {
-    "title": "White House considers government reviews for AI models, NYT reports - Reuters",
-    "description": "White House considers government reviews for AI models, NYT reports  ReutersWhite House Considers Vetting A.I. Models Before They Are Released  The New York TimesNew frontier of AI forces Trump's heavy hand  AxiosWhite House Opposes Anthropic’s Plan to Expand Access to Mythos Model  WSJTrump is weighing AI oversight. This is what smart people are saying about it.  Business Insider",
-    "published date": "Mon, 04 May 2026 21:19:32 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWGlZa1RoakVfZmdhdU9fUnIwcHlvZWxNM09ZM2VEVmJ1Y2tBU0kycVFSMnN3UFFDUmJLUlMxb2Q4alg2dzRlNV9IVi1INTY4VlB4ZlZpczdEOWZyLWtGWmZYNVR1UDlVMGFUamFyUW5oYUpfcU40SVk4R3Zoc3NjbTZ0Tl9GRjU0eVZDZFh5RHJucHpIakFWWklhUE83Vzg5bk9HZFJvV2Y5NWg5NVFMb2c4TmRkNjNjUGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Crypto exchange Coinbase to cut about 14% of workforce in AI-driven restructuring - Reuters",
+    "description": "Crypto exchange Coinbase to cut about 14% of workforce in AI-driven restructuring  ReutersCrypto exchange Coinbase plans to cut 700 jobs, citing 'market conditions' amid restructuring for 'AI era'  Yahoo Finance3 key things we learned about Brian Armstrong's vision for Coinbase's post-layoff workforce  Business InsiderCoinbase will lay off 14% of its staff as AI spurs ‘a new way of working’  MarketWatchCoinbase to lay off 700 workers as cryptocurrency exchange embraces AI  CBS News",
+    "published date": "Tue, 05 May 2026 15:08:30 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT1g2OGFqMDJHRktkT0I4RE12Y004bFFyWEh5MFBkS0M4VmYtWmtuZF9ycVBSLS1zTzZ1QVBJU0ZVamZ0eGFRUUFtZEpQNllQeWRLNndtZGV3a3o2SkdZeFBJbGdMbkpNZk5KQWNSNExSajVIT182RjgtTmt6VHcwS1NuTERuYXVqdjhDR1pSaE5tVFlh?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.reuters.com",
       "title": "Reuters"
     }
   },
   {
-    "title": "Pfizer tops Wall Street estimates, reaffirms outlook as newer products show growth - CNBC",
-    "description": "Pfizer tops Wall Street estimates, reaffirms outlook as newer products show growth  CNBCPfizer Beats Sales Estimates as Older Blockbusters Outperform  Bloomberg.comPfizer Stock Edges Higher as Earnings and Revenue Beat Estimates  Barron'sHow To Earn $500 A Month From Pfizer Stock Ahead Of Q1 Earnings  BenzingaPfizer Earnings: What To Look For From PFE  Yahoo Finance",
-    "published date": "Tue, 05 May 2026 10:55:52 GMT",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrZHdWS3A1blJxbjF5OUVqVzZSUzFFVklCN3B3NjIxNkpUQm4tdG40TUdWTHlHYU5XaDFTSkNCbzZKbktFQnBQR0JacVdlY1ZfVk5MTE5GOFAwcEFhdUF6bmZMakJmWGlPYXJieXh0Nkh1Z9IBd0FVX3lxTE5Zd2piU2tXNVVnbmtJdnRvenlrV1gyUi02MGxEbGw1VlRtZm9xbTkzejNIczluWXE3cnFCQmExV01IR21FN0ZjVVFJXzZGajVVeHJ6dlZvNHZkZkM5a2JkaUJJNUx0WlVBTXBmY3hCSWJWNU5Sb3VR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "The Secret Team Blowing Up Ford’s Assembly Line to Make a $30,000 Electric Truck - WSJ",
+    "description": "The Secret Team Blowing Up Ford’s Assembly Line to Make a $30,000 Electric Truck  WSJAfter Setbacks, Ford Says Its Affordable Electric Truck Is on Track  The New York TimesHow do you design a $30,000 electric pickup? Inside Ford's skunkworks.  Ars TechnicaFord’s secret EV unit emerges from shadows, still bullish on new pickup amid market slowdown  CNBCFord's secretive EV project could reinvent the way it designs and builds cars  Axios",
+    "published date": "Tue, 05 May 2026 14:26:39 GMT",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zbnJCX2JpYmhPdm5TbmdNVmpIOElSMzBRQzA3Ry1OQ19WQVhuOEZSTVNVTWx0UnhxekRYd3hObTlVT0xuSC0xWms1WlhIMk5QbklXRTNsYjdCcXRlZzh0QUpGWFpyZTh5V0lMdGk4SkRjMzFD?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.wsj.com",
+      "title": "WSJ"
+    }
+  },
+  {
+    "title": "FDA commissioner defends agency's drug approval decisions after wave of backlash - CNBC",
+    "description": "FDA commissioner defends agency's drug approval decisions after wave of backlash  CNBCWhy the FDA rejected a ‘breakthrough’ melanoma drug  Scientific AmericanOpinion | Replimune’s Fate Is Worse Than a Tragedy  WSJFDA Commissioner Makary Defends Agency's Decision on Replimune's Drug  U.S. News & World ReportFda's Makary on Replimune Says Three Indepndent Teams Arrived at the Same Conclusions - Cnbc  marketscreener.com",
+    "published date": "Tue, 05 May 2026 14:42:45 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSWw2UjViZ0xPREdxLXA5UFFsLW9BUm16TUwzalAwSzJxRHRLNWZYeUJ4U3R3MU0xZFI3U3hpREdHdEo1c2ktRVluLWhkcGVQNGY1UnZWZXpiUGpzdGNyOUVUTWhORkN1NFl0aS1fMktvZWlNRFZ1ZHZ0RE56YnVuSWRoQTJGVDRaWTYybndDSDByMXh3ZFJHSFBXY2RGdmvSAaQBQVVfeXFMUEJ4X3J6TWZ5NzdpanVydzM3UzljanZ1MHdhZzE4dDZPZXdWTHRfR3lrSko1Q3RQRlYzb2NYaEF6cGNHamNvSTd2Y3N0dXRUOTJ5TTB6dXJPRXJGbk9KRVREVWhiQmhDT2tXTzhpejdUQ1pnVlY1M0V1UTgwemhJWk1mTzYyTmNzMnpUbXozOE1HY2NGQi1obXc3YmlXYk5JNmRXRTY?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.cnbc.com",
       "title": "CNBC"
     }
   },
   {
-    "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race - TechCrunch",
-    "description": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race  TechCrunchMusk wanted to settle with OpenAI just days before their courtroom showdown, new filing says  CNNThe death of AI idealism  AxiosElon Musk’s Lawyers Ask OpenAI’s President Why He Is Worth $30 Billion  The New York TimesMusk threatened to turn OpenAI's Altman and Brockman into 'most hated men in America' ahead of trial  Yahoo Finance",
-    "published date": "Mon, 04 May 2026 16:57:47 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMDNnMlhwQXBBMDh4eUZpd0hTQ3I2MGhJUDVfR3ZLVGM0NUlhNnNhZEMzaVlSNnhSeDNQMDRVOHZzN3ZZbzQzWnZLX0Z6MWJBS3NOV09CUjR2UHlfZFRDWkJVNUNobko0M0FvV09KUDF4LVd3Y0tUQlp3VGFwb1k2MnJ4cVk3QTNTbUlMeEl3amtBd0pJZnMwTGFtRm9pN2RxWWF6blhHM1lrMDRG?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "HSBC Profit Misses on Charges Related to the UK, Middle East - Bloomberg.com",
+    "description": "HSBC Profit Misses on Charges Related to the UK, Middle East  Bloomberg.comHSBC Takes $400 Million Hit From Private-Credit Alleged Fraud  WSJHSBC’s darkest scenario: stock markets down 35% and oil at $145  MarketWatchHSBC shares drop as first-quarter pre-tax profit misses estimates on higher expected credit losses  CNBCHSBC shares slump 6% on surprise $400 million hit linked to MFS collapse  Reuters",
+    "published date": "Tue, 05 May 2026 11:57:51 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdzJVbEZKMzZ0Mkk3cEdlYlVkLXRWd3l0WUFBUHpkdG5HMVphdk05bS1fOE9TR243OTNSbERwcnhGUnAzekZzRnlOQV9YYXhWRjJtNTRTSVlHNHI3TnZvSlNHcER1OWFINVJEXzAtdF9hVEN3aTNJNHFERklUWHVLS01OdVgxUHVKUGRYcTJJRVVXRTNTMmVmbk1NOW5uQ1hueVc4eUt6ZFVfTGoxOW1r?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://techcrunch.com",
-      "title": "TechCrunch"
+      "href": "https://www.bloomberg.com",
+      "title": "Bloomberg.com"
     }
   },
   {
-    "title": "Stock futures are higher as Wall Street eyes latest developments in Middle East and oil prices: Live updates - CNBC",
-    "description": "Stock futures are higher as Wall Street eyes latest developments in Middle East and oil prices: Live updates  CNBCStock Market News, May 4, 2026: Oil Rises, Dow Falls on Fears of Escalation in Hormuz  WSJ‘Exuberance’ for Tech Drives Stock Market Gains Even as Iran War Concerns Deepen  Barron'sStock market today: S&P 500, Nasdaq, Dow futures edge higher with Middle East tensions, earnings in focus  Yahoo FinanceStocks rise as investors take heart from upbeat earnings, dip in oil  Reuters",
-    "published date": "Tue, 05 May 2026 10:58:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5uU0UtNFRUY1h0ekRTUjB2YXZhVnRMemxBS25paWJpVWdkc2RTUDc2OEI4cjVqU01IaTFDUHQzQXRrcFBtLUt4VEF4NDNOWHhBd2NwY05OMmdJSVFNV3hhbkdrcFpNcWZ6b2pVOFZBZllvM3BXNEFZ0gF8QVVfeXFMTlRWcndjWDVIN04tWHo1eEg4ekFRVWFjSFBIRUdvUERiY2Z1emVtcjcwS1ZqRGJtRjlQbU9ZQm9VaHZBd3NIZVRQT01YcnpCSm9taE45Qk5ub3lNT202MXF3aGdtYXY1aHdLTW1BMUdURW42SlRHZkFxbVVWQg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "CAISI Signs Agreements Regarding Frontier AI National Security Testing With Google DeepMind, Microsoft and xAI - National Institute of Standards and Technology (.gov)",
+    "description": "CAISI Signs Agreements Regarding Frontier AI National Security Testing With Google DeepMind, Microsoft and xAI  National Institute of Standards and Technology (.gov)White House Considers Vetting A.I. Models Before They Are Released  The New York TimesMicrosoft, Google, xAI giving government early access to AI models for review  The HillGoogle, Microsoft and xAI Agree to Share Early AI Models with U.S.  WSJNew frontier of AI forces Trump's heavy hand  Axios",
+    "published date": "Tue, 05 May 2026 12:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcVVVcGZjcGM0aUswU2dyUUxVTFlhTThiZEZldkRoaVU5MnhMVUVDV05ENUVXTHU5YmR0a3RTZWRXcC1WRkRneWgtOUd0WEd6TGdxQXhLODBSaHY4dkFvWHI1ZHBoUjdrbkU5NExPWEE1emxBYmJtRWdLZUtYQnBnTFl6Zmtxd2k5ekoxR1RtcTlBYlJ3STJySElUQlBEd0VBc2hNcGZ6Q0NmN3BwUXFwQnF6S0lzekk?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nist.gov",
+      "title": "National Institute of Standards and Technology (.gov)"
+    }
+  },
+  {
+    "title": "Nasdaq rises to record high as stocks get boost from oil pullback, strong earnings: Live updates - CNBC",
+    "description": "Nasdaq rises to record high as stocks get boost from oil pullback, strong earnings: Live updates  CNBCWall Street flirts with records after oil prices give back some of Monday's spurt  YahooStock Market Today: Nasdaq Sets New All-Time High as Tech Shares Rally; Oil Prices Retreat After Surging on Middle East Tensions  InvestopediaThe S&P 500 Just Had Its Best Month Since 2020. Don’t Let ‘Sell in May’ Spook You.  Barron'sWall Street flirts with records after oil prices give back some of Monday’s spurt  AP News",
+    "published date": "Tue, 05 May 2026 13:59:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5uU0UtNFRUY1h0ekRTUjB2YXZhVnRMemxBS25paWJpVWdkc2RTUDc2OEI4cjVqU01IaTFDUHQzQXRrcFBtLUt4VEF4NDNOWHhBd2NwY05OMmdJSVFNV3hhbkdrcFpNcWZ6b2pVOFZBZllvM3BXNEFZ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.cnbc.com",
       "title": "CNBC"
     }
   },
   {
-    "title": "Gas prices rise to $4.46 per gallon and oil jumps as shippers stay out of Strait of Hormuz - NBC News",
-    "description": "Gas prices rise to $4.46 per gallon and oil jumps as shippers stay out of Strait of Hormuz  NBC NewsGas prices surge across Metro Detroit  AxiosGas prices jump about 30-cents a gallon over the past week in Philly area  NBC10 PhiladelphiaWhy did Massachusetts gas prices jump 31 cents in one week? Expert says it could last until 2027.  CBS NewsGas prices rise nearly 3 cents, continuing daily climb as tensions flare in Strait of Hormuz  10TV",
-    "published date": "Mon, 04 May 2026 20:09:55 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZEYwYmlJUkFaMHBFRFdYbUVTSzdDRUlCcC1ORDY3U3l6LUpkeUplRWxuNzg2Zl9Jd0NWS2xTMnV1YWNFX1JTbzZ5ZUZqZExlZGVQbF9xTWVLSDBKbEVGdGR5cll6OW11R0ZDMU9YMElsRlhtQ0VYNm9SZEpfZWpuNXJuejY0NUdoazhtR01nNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Late Night Laments Losing Spirit Airlines as a Punchline - The New York Times",
+    "description": "Late Night Laments Losing Spirit Airlines as a Punchline  The New York TimesSpirit Airlines turmoil leaves budget travelers scrambling for refunds, answers  Fox NewsFrontier Airlines Announces Discounted Rescue Fares to Support Spirit Airlines Customers  Frontier AirlinesWhy did Spirit fail? Too many passengers hated flying it  CNNWedding Photographer Captures Moment Spirit Airlines Canceled Flights as She Was Flying to a Ceremony (Exclusive)  People.com",
+    "published date": "Tue, 05 May 2026 13:20:46 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcEZFYXozaG5yUVdwSm9FRmMzWXVmSmdOb0FCdV9zRU11QTNrVXFydTg2WHNnc3BVemxfWS1GRnFuLVdoMHV2cm40dHdKck9YZlliSTc1R3VMQlNwWnpKakxSaF9HRkY4U3Q4X2dveVNicmRLWFd1LXMzSXRKaDZETVplMWxPUWRBT3c?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.nbcnews.com",
-      "title": "NBC News"
+      "href": "https://www.nytimes.com",
+      "title": "The New York Times"
+    }
+  },
+  {
+    "title": "'Big Short' investor Michael Burry sells GameStop stake, shorts Palantir stock - Business Insider",
+    "description": "'Big Short' investor Michael Burry sells GameStop stake, shorts Palantir stock  Business InsiderGameStop’s pursuit of eBay has analysts scratching their heads  CNNTraders are doubtful Cohen's GameStop can pull off monster eBay acquisition  CNBCeBay Confirms Receipt of Unsolicited Proposal from GameStop  PR NewswireGameStop GME Eyes $55.5B eBay Takeover: $368M Bitcoin Treasury in Danger?  Yahoo Finance",
+    "published date": "Tue, 05 May 2026 12:35:18 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON3ViWmpWZlNMdzJJM0tUbmhWV1h4N1ZOd1pXQkdEUFZmV09VV0RzUm1EaG9ZMjdWRUt4TWF6ZjZJTHZ6T0ZnX2lNeUxLckhXNTh0VmRkQ3VRamkwSVNTSHRQSTd5MFlZQy1kVk55dks2STgyV0h0VGcyTUdZbUF6RVNOWXNiVEFoSjhzSloxejFGV1lndzVLWXR6NW9uWjAwNDNOWC13SQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.businessinsider.com",
+      "title": "Business Insider"
+    }
+  },
+  {
+    "title": "Nvidia and PulteGroup are helping this startup put mini data centers on homes - CNBC",
+    "description": "Nvidia and PulteGroup are helping this startup put mini data centers on homes  CNBC",
+    "published date": "Tue, 05 May 2026 12:30:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb1pfcW83bXRMaUY4WWhmeGl6SjU2QlJGa2ktT2czcWZaM244azc0LXI5d3A1TkxGRkp2LVlRVFVCNFdNdTBCX18wQ1JXcWMyaGFEZ3I4MUtMS09LZDNJZ3ExMzVLaG1uNWxIN2JnSUZnUDk2WE5tY3VlV0ZZdGFwNm1LOXhCOE40?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cnbc.com",
+      "title": "CNBC"
+    }
+  },
+  {
+    "title": "Palantir Shares Slip Despite Strong Growth and Upgraded Outlook - Yahoo Finance",
+    "description": "Palantir Shares Slip Despite Strong Growth and Upgraded Outlook  Yahoo FinancePalantir tops estimates on 85% revenue growth, fastest expansion since market debut in 2020  CNBCPalantir Earnings Beat Amid Strong U.S. Government Sales. More Maven Upside Expected.  Investor's Business DailyPalantir’s AI Boom; Ryan Cohen’s Chutzpah  The InformationPalantir stock drops despite strong results—These ETFs have the highest exposure (PLTR:NASDAQ)  Seeking Alpha",
+    "published date": "Tue, 05 May 2026 10:25:31 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV0psTWY0TTVBMUtxMUxnQy13d3RGUm4zU0ZrU1NsT0NTVG5rVkZhY1NKTzVrMm9YWFpwdWx5Wkg2SkQ1aVAxRmRKZjJQbmo0MEpXUHRBMTltZmtZYVQzLXFTQVoxTWRMUE4zNXhxUUNacUFOVHBIZElCYVQ2T2s2TUh5c01FTldHTHpVZW9ZNEdJbEtDX3IxQ0FEQ3hRN2VTX3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://finance.yahoo.com",
+      "title": "Yahoo Finance"
+    }
+  },
+  {
+    "title": "Key US Yield at 5% Highlights Mounting Pressure in Bond Market - Bloomberg.com",
+    "description": "Key US Yield at 5% Highlights Mounting Pressure in Bond Market  Bloomberg.comThe long bond is back in Wall Street's danger zone  Yahoo FinanceTreasury yields ease as investors assess Iran war's impact on economic outlook  CNBCUS bond yields have crept above a dangerous level that could signal weakness for stocks  Business Insider5% on the 30‑Year Bond Is Huge, But Is It Really 'The Line in the Sand'?  TheStreet Pro",
+    "published date": "Tue, 05 May 2026 15:14:11 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcVRaU3MtUHMwX3hWODdodWNiamNSZGxNYjZKc0lmWXhUUE9tcjREdTFWUm5Oa2tuUVB0anNuajYxX0ZvTHVoZ095VHNYOVJIM3gzVloxc1hkZlRMblpMZWh6TEdjYXZ5Zm5MdnpNWmp3RjYtbVhDVlZMdmJnY2E0czhhc2hYV1NCdjVvMF9iRWtPQzB5cTJYUFcySDJfaWFFRWN6TUQ1cFBPN1hJcnFTeWNB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bloomberg.com",
+      "title": "Bloomberg.com"
+    }
+  },
+  {
+    "title": "Doris Fisher, Co-Founder of the Gap, Dies at 94 - The New York Times",
+    "description": "Doris Fisher, Co-Founder of the Gap, Dies at 94  The New York TimesGap co-founder Doris Fisher dies at 94  WANE 15Doris Fisher, co-founder of the Gap, dies at 94 in San Francisco  SFGATEDoris Fisher, Gap co-founder who helped reshape U.S. casual style, dies at 94  NBC NewsJonah Hill’s Actress Sister Announces Pregnancy With Wife  The Daily Beast",
+    "published date": "Tue, 05 May 2026 15:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mTFRTSng4REJmX2h6VG1MQmVhYlZDaC1TWmhfYk5QcWJaWkttal83RkxNR04zVERRTDcwVEFHOUZJc1d3S2xnbmtDWFd0UFVpVUt1TXdfbU1WTkV5NU93ZUtzeWhONVVSZUJGS2g5YnlVZ0st?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nytimes.com",
+      "title": "The New York Times"
+    }
+  },
+  {
+    "title": "Anthropic Unveils AI Agents to Field Financial Services Tasks - Bloomberg.com",
+    "description": "Anthropic Unveils AI Agents to Field Financial Services Tasks  Bloomberg.comAgents for financial services and insurance  AnthropicAnthropic takes shot at consulting industry in joint venture with Wall Street giants  FortuneAnthropic deepens finance push with 10 new AI agents for banks, insurers  Yahoo FinanceAnthropic deepens its ties to Wall Street with new partnerships, tools  Axios",
+    "published date": "Tue, 05 May 2026 15:00:18 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMFJ1S2k5ejdYdmxvaEFJZUtZSHZnSkxMRldNZE5FanluTUFldXVvdUhHQ3V4MGFYX2pxRFJVNzcwdDYzZkx1bUZTZmpDTFBiR0NEazBkQXpWTXVKczBpbXl6bHpvZVYyNzg4eHZxbTJVZ1ZfZU4xd2xKRlZIS0RXSFRrSEtmSWV4dng3bkNabWJTNXNOWUVGYmRlRWRRN0NRRUZaSVF1dFNPeS01X013RWx3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bloomberg.com",
+      "title": "Bloomberg.com"
+    }
+  },
+  {
+    "title": "Shopify Operating Profit Light As Revenue Edges By Estimates. Shares Fall. - Investor's Business Daily",
+    "description": "Shopify Operating Profit Light As Revenue Edges By Estimates. Shares Fall.  Investor's Business DailyShopify Delivers Again as Merchants Clear $100 Billion in Q1 GMV  Yahoo FinanceShopify Stock Slumps After Earnings. What Left the Market Wanting.  Barron'sShopify Guides Softer Second-Quarter Profitability on Cost Pressures  WSJShopify Q1 2026 earnings beat overshadowed by slow growth outlook  qz.com",
+    "published date": "Tue, 05 May 2026 11:28:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRlNHV0o4eUFLVTZOMU53elVIV09uY2ZJWXVjcWlSTXRpamhlWjYwdWdUSURtZ0FlSzBPVV9TbjkyYVdzOGpDWU01S3BycUI1LWU5V2tUc2M0SkdKNXBYdkZJb3BzZ2xPcTVYYVB2REg0T3g5VXBoaWxNUmZoSkE3VlhXbXJhNkNJeVdYaHN3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.investors.com",
+      "title": "Investor's Business Daily"
     }
   },
   {
     "title": "Australia hikes rates again and warns inflation will stay higher for longer - CNBC",
-    "description": "Australia hikes rates again and warns inflation will stay higher for longer  CNBCAustralia's central bank set to cool its heels after rapid-fire rate hikes  ReutersRBA Delivers Third Straight Hike, Cementing Outlier Status  Bloomberg.comDoes the RBA really have to raise interest rates? | Fiona Katauskas  The GuardianAustralia bucks global trend and raises interest rates  Financial Times",
+    "description": "Australia hikes rates again and warns inflation will stay higher for longer  CNBCAustralia's central bank set to cool its heels after rapid-fire rate hikes  ReutersRBA Signals Pause After Delivering Third Straight Rate Hike  Bloomberg.comRBA interest rates: Michele Bullock says Australians poorer with ‘no way out’ as she warns of more rate hikes  The GuardianRBA warns of 'rough' time ahead as interest rates rise by 0.25pc to 4.35pc  Australian Broadcasting Corporation",
     "published date": "Tue, 05 May 2026 04:33:45 GMT",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcG9FZ1ZsWEJwRzRTbTlNVkFseDVKQ180b1NKYmh4bko0Y2FJZUh4MXJuNEgwTlYtSW5xTUhBN0I1eXVpNVRsVmxMWTF1Zzd6NlVxLU1CdjYxVEdtQkIwV01TLVpWSE9PQUVJdUQ1bnozOThqWHBUalI5NENzdXE4QUdtcjVCRENDRVow0gGQAUFVX3lxTFBUMDFuVWRwejdOYmZQZXhNSUctU08yaDJQSEwtVWZxVTJ6QjQ1UmtxTzhFSFJNUmt4bUFVTVVvYnB1Sy1VVE5zQnhVT0c3eHZwX1JxQXVDZ24ybjdPbGtpUFZyWi1TMHFzaEJMYi1YaERoQndkaHRwZ0ZXOEN5SXJXQVFVSmpfQWEwUWt3U0s5NA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -90,8 +150,18 @@
     }
   },
   {
+    "title": "Cytokinetics Announces Positive Topline Results from ACACIA-HCM, the Pivotal Phase 3 Clinical Trial of Aficamten in Patients with Non-Obstructive Hypertrophic Cardiomyopathy - Cytokinetics",
+    "description": "Cytokinetics Announces Positive Topline Results from ACACIA-HCM, the Pivotal Phase 3 Clinical Trial of Aficamten in Patients with Non-Obstructive Hypertrophic Cardiomyopathy  CytokineticsCytokinetics drug Myqorzo meets twin efficacy goals in study of genetic heart disease  statnews.comCytokinetics stock hits 52-week high after ACACIA-HCM trial  qz.comCytokinetics scores with Myqorzo in key cardiomyopathy trial  Fierce PharmaCytokinetics succeeds where Bristol Myers failed in heart muscle disease  Endpoints News",
+    "published date": "Tue, 05 May 2026 11:31:32 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNRDYtd3NidXU2eUlnWFZsNlBTRW1ncFhWZURYWDBSbWZTQmlfTjhZTW5UYzdId3dFQ09sX1RmQUVfWmhzd0dqY0tzdlR5NTVTTEJYQ05uTWZ5OTFvMFpmNTZUcEo0RzJJZkwyd0FzSDU2aGhZVzg5SmF3SlJNMTNvY2lIM2hHZkcwREJEMEI3RGZHWVpUTXhQYUFyUFBUYlZHTC02UlV4dGZHSUxPRUhUbDJCV2MxSHZSRTUxcm9XVVpOeW1RSldVbmlsb0pjcGtNOFVqcTlpUWgxMV9LdG51c1JTTlp4X0xEaUtZc2lHMFp5QmxqS0lXR0M4Ty1NU3BneHRiWVNXVGlsUktwZGVDdUY3R284UWExZkFhRlh6TTlkSlJyNUFzUUUteXZMa19CSFZRaXJLZ2dOWjhYcFpNSmZkYWlITDdsRUh4T2VsUEhhbG4tRXlLdjlRdmR6S1RyT0c5ZHEzbHFKZzhpVDEzYg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://ir.cytokinetics.com",
+      "title": "Cytokinetics"
+    }
+  },
+  {
     "title": "Baltimore bakery truck hit by United Airlines jet on New Jersey Turnpike, video shows - CBS News",
-    "description": "Baltimore bakery truck hit by United Airlines jet on New Jersey Turnpike, video shows  CBS NewsPlane collides with bakery delivery truck during landing at Newark Airport  CNNNewark Liberty close call spurs questions over safety at NYC area airports  NewsdayUnited jet hits tractor-trailer, Turnpike light pole while landing at Newark  NBC New YorkNTSB investigating after United Airlines collision with light pole, truck damaged on NJ Turnpike during landing at Newark Airport  ABC7 New York",
+    "description": "Baltimore bakery truck hit by United Airlines jet on New Jersey Turnpike, video shows  CBS NewsNTSB investigating after United Airlines collision with light pole, truck damaged on NJ Turnpike during landing at Newark Airport  ABC7 New YorkBaltimore driver shaken after truck hit by United jet on New Jersey Turnpike, father says  CBS NewsVIDEO: Baltimore bakery truck struck by plane in New Jersey  WBFFDriver injured after United plane strikes truck while landing at Newark airport  The Guardian",
     "published date": "Mon, 04 May 2026 22:57:38 GMT",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbG83Y2xZcHEta2hmaVlHd2tqTHY0b29mYVBBcmF0VkVsMkxyUnZVaDV4US15UFZCR0F1eW9Tb1F2V05vVVp3MXlfb0wwUXZjQUdEUC1YeDhmR2xVNWVEd2xDYnFSVEFlaUdrREF3Z1ljU3cwXzZiZkVudWhtZnRrR0FGWlFza1FBUjFqNGZKTF9XLXpJdWhvLUVRcUIxQnVsUUpoY0Zod08wbGVxbnVHcUlGZnhWUy13dl9ERg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -100,59 +170,39 @@
     }
   },
   {
-    "title": "California says State Farm violated the law in handling of insurance claims after Eaton, Palisades fires in 2025 - ABC7 Los Angeles",
-    "description": "California says State Farm violated the law in handling of insurance claims after Eaton, Palisades fires in 2025  ABC7 Los AngelesCalifornia Seeks ‘Historic’ Fine Against State Farm: Just $2 Million  The New York TimesRegulators may seek to suspend State Farm's license, citing widespread mishandling of L.A. wildfire claims  Los Angeles TimesState Farm has mishandled wildfire claims, state regulators say  LAistCalifornia says state’s largest home insurer violated the law in handling of claims after 2025 LA wildfires  CNN",
-    "published date": "Mon, 04 May 2026 20:26:21 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTUxyUlk5S1FCXzdKQlN2WUVjaWRxbzkxYlVsQU1XSWNVd0VwQy1kNGxVb3NnS0VRa0lqOFFqY01xdjV1V2JmamNkRzdjUy1YaXZfMGhNcFd3bkQtRkItX09TZnF6SFNudFdQb0d3OXhNWjRRWm94RU00d2ctWXR0dER2Y1VZUkNwZ25tRnowbTZCdERvOFo5YzdHVHphY3lXYlJNSUxJeVk2Yk9OVzdiUUxiaVE5QdIBuwFBVV95cUxONllpS0Nmekd4R1RHUVJ5MVhVOFdyQWxaNnQtSlQxajQ3MlU3N01Kb1VEOEFVaGR0VWhPZ0NBTm1NN25YMVlHZEpnU2NISW5MQUVpT2U4dWVGWFFqYTJZbVl0YU8yZXptb2VaeHBZRU9ZajdUMEc2b25SNTRuWlVYeDlPTkw2OXZQWTVHbzZhLVY0Mi1NUkotbXZtRVhsXzFTMWZmRnlNSkFXeng5WHhRTG1CYmtId2ZkZUpr?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "California Seeks ‘Historic’ Fine Against State Farm: Just $2 Million - The New York Times",
+    "description": "California Seeks ‘Historic’ Fine Against State Farm: Just $2 Million  The New York TimesRegulators may seek to suspend State Farm's license, citing widespread mishandling of L.A. wildfire claims  Los Angeles TimesCalifornia says state’s largest home insurer violated the law in handling of claims after 2025 LA wildfires  CNNCalifornia says State Farm violated the law in handling of insurance claims after Eaton, Palisades fires in 2025  ABC7 Los AngelesCalifornia: State Farm violated law in handling of L.A. fire insurance claims  CalMatters",
+    "published date": "Mon, 04 May 2026 23:08:44 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZjIyVDlFVmtXcTdUZzVCN1RyRHp2cXNRQU92SEZBZHpzRnFkeU1rWTJ0dGVIMHpVdS14a19hdW42LUl0WnFyV0RYLXhEUGFYbHpWNEVMU0liQm50ekZmTlczaXhaSno2aW8ySjlXNFdXbU1mRDZ6SDM0eUt2QlhUOGctbmV6V0VrUndmdl81dVBhdw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://abc7.com",
-      "title": "ABC7 Los Angeles"
+      "href": "https://www.nytimes.com",
+      "title": "The New York Times"
     }
   },
   {
-    "title": "Delta Cancels Hundreds Of Flights, Warns Operational Problems Could Last All Summer - Live and Let's Fly",
-    "description": "Delta Cancels Hundreds Of Flights, Warns Operational Problems Could Last All Summer  Live and Let's FlyDelta is canceling hundreds of flights due to crew and scheduling challenges, an internal memo shows  Business InsiderFlights Cancelled Across America Today As Los Angeles, Atlanta, Las Vegas, Miami, Orlando, And More Delay 1,707 And Cancel 347, Disrupting Delta, United, Spirit, SkyWest, Southwest, And Other US Airlines  Travel And Tour WorldAnother airline cancels hundreds of flights, travelers stranded  thestreet.comDetroit Metro Airport Disruptions: Spirit and Delta Face Massive Delays and Cancellations  Nomad Lawyer",
-    "published date": "Mon, 04 May 2026 10:39:35 GMT",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xSG1mNHNtMnVZMUdmM0JTOVMyaDU4ZEFIeldROGowZExCQWVFTS1DTm1JVGU5UWJ4WmVlMG1oWFd3RExLYlE5VDV5UVdlUzQ5azhvUmwwVVVHektHS1pxSHRBUlFWS0doeXR4UHVFVXpHd3l1SnVB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Robot Passenger Delays Southwest Flight - Newser",
+    "description": "Robot Passenger Delays Southwest Flight  NewserRobotic passenger traveling for work causes Southwest flight delay  K8 News | Jonesboro, ArkansasRobot Passenger ‘Bebop’ Triggers Airline Safety Concerns  eWeekRobot passenger delays flight from Oakland to San Diego  San Francisco ChronicleBebop, the viral humanoid robot, makes appearance in Chicago McCormick Place for Digestive Disease Week to promote Yangtze  ABC7 Chicago",
+    "published date": "Tue, 05 May 2026 08:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQajRTZ3E2ZkdpWElTMUc1WlBWVVpubmdRcEY2R3B6NEVBNkdPZkhfdHgwOVY0czBydTVTSFhNcU00VjJhd2ZZeEZZX0Z6MWNlZXZHenV3RWpXQTdaaGpYVmRqd0hfYTFsam9GaGZPSE1NMDhrR3JGNFlvVmxmMldPTW5DX1ctSlk?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://liveandletsfly.com",
-      "title": "Live and Let's Fly"
+      "href": "https://www.newser.com",
+      "title": "Newser"
     }
   },
   {
-    "title": "Palantir Earnings Beat As U.S. Government Growth Booms, Commercial Sales Light - Investor's Business Daily",
-    "description": "Palantir Earnings Beat As U.S. Government Growth Booms, Commercial Sales Light  Investor's Business DailyPalantir tops estimates on 85% revenue growth, fastest expansion since market debut in 2020  CNBCPalantir Stock: With a Fresh Earnings Report Showing Even Faster Growth, Is It Now a Better AI Stock to Buy Than Nvidia?  Yahoo FinancePalantir’s AI Boom; Ryan Cohen’s Chutzpah  The InformationPalantir posts its fastest revenue growth ever while calling out ‘AI slop’  MarketWatch",
-    "published date": "Mon, 04 May 2026 21:14:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMEFOMnNCb0JVSHNndmo3UW5TY2J6c1p5a2U5ekdiQWwwd1g2NldxakZCbTFZMjAyUU85MDdiSVZJQmtxZkFwbXFON1UzWWFnbFpnQndzSG5sb2cwR3lFMUVPakk0QlVHM080WXpSU1RjYnY2MDVJZTB0UE04dmtfRzFRZzdVbkZXc0FONHN3N1NHT0dpYW1v?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Amazon rebrands third-party logistics arms as unified supply chain service - FreightWaves",
+    "description": "Amazon rebrands third-party logistics arms as unified supply chain service  FreightWavesIntroducing Amazon Supply Chain Services: Amazon’s logistics network, now open to every business  About AmazonAmazon Built a Massive Supply Chain for Itself. Now It’s for Hire.  WSJFedEx, UPS Shares Sink on ‘Watershed’ Amazon Logistics Move  Bloomberg.comNew Amazon venture rocks shipping and logistics industry  KUOW",
+    "published date": "Tue, 05 May 2026 13:50:44 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdG95YzBfbGc0MkVfQzNPNDZKamJpUjJKd1FCMkR6ZDdkQWRMeWtxWEhla3ZQSVFPb3pjV0Q2TkpsY1ZaU21BeXFUTmxoSHRDTTFxbU8xMWxfZ19UZk16R2U3cGdmZmhWUzBkUGwwYWFnVE5tc2hRc0poN2RzLTFNYlFZYmtsaG9Dalp2YWY0UUUxTDllejJkbG4zTllZVHptMl82bDNXdjc3cERa?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.investors.com",
-      "title": "Investor's Business Daily"
-    }
-  },
-  {
-    "title": "Doris Fisher, Gap cofounder, dies at 94 - The San Francisco Standard",
-    "description": "Doris Fisher, Gap cofounder, dies at 94  The San Francisco StandardDoris Fisher, Co-Founder of the Gap, Dies at 94  The New York TimesDoris Fisher, co-founder of the Gap, dies at 94 in San Francisco  SFGATEDoris Fisher, Gap co-founder who helped reshape U.S. casual style, dies at 94  NBC NewsHonoring Doris Fisher’s Legacy  Gap Inc.",
-    "published date": "Mon, 04 May 2026 16:22:47 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jVVJJUERvWkYzaWVJLXczSW9aa3pOMUo4dWpkVUpyNHltNGt2dEJKRWhtNXlHdDZpckdrenRQbXpudTRhSXBERGI4QVFlSEpybk4tQURzWGFVU3d0cU00SUJqQThIZTRwR25EeThPUzNIcUtYRF9MY193?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://sfstandard.com",
-      "title": "The San Francisco Standard"
-    }
-  },
-  {
-    "title": "Elon Musk settles SEC lawsuit over Twitter stock disclosures - Politico",
-    "description": "Elon Musk settles SEC lawsuit over Twitter stock disclosures  PoliticoElon Musk and SEC propose to settle Twitter lawsuit for just $1.5mn  Financial TimesS.E.C. Settles Lawsuit Against Elon Musk Over His Twitter Disclosures  The New York TimesMusk Agrees to Pay $1.5 Million Over SEC Twitter Stake Case  Bloomberg.comSEC and Elon Musk agree to settle lawsuit over Twitter buyout in 2022  CNBC",
-    "published date": "Mon, 04 May 2026 22:49:53 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMnlmTHVnZ0VLeVdPM01IeGVONUV5M1lzRThrNkFWYkk3UFJ3TDNHQlp4TmVxajJJWUlGa05Ia1gzdUR5SDB6RjAzbkpldDJ5b1lIbHRLQ21DeTNKLW1lcV85aWY0MS1TRy0tZTg3RGgtbld2N1BweF9zcU5GQXo2NDhDV3g0YUdVanVRMWIxZV9zOUlYS3E3RERSTlBhTWVqay14Y3pULWVyZ09vZ05z?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.politico.com",
-      "title": "Politico"
+      "href": "https://www.freightwaves.com",
+      "title": "FreightWaves"
     }
   },
   {
     "title": "Trump family's crypto firm sues investor Justin Sun, escalating feud - ABC News - Breaking News, Latest News and Videos",
-    "description": "Trump family's crypto firm sues investor Justin Sun, escalating feud  ABC News - Breaking News, Latest News and VideosTrump’s World Liberty Financial venture sues crypto entrepreneur for defamation  The GuardianTrump family's World Liberty Financial sues crypto billionaire Justin Sun for defamation  CBS NewsTrump’s Crypto Empire Descends Into Warring Lawsuits  Mother Jones'Meritless PR stunt': Justin Sun downplays Trump-backed WLFI defamation countersuit as frozen token dispute escalates  The Block",
-    "published date": "Tue, 05 May 2026 00:34:32 GMT",
+    "description": "Trump family's crypto firm sues investor Justin Sun, escalating feud  ABC News - Breaking News, Latest News and VideosTrump’s World Liberty Financial venture sues crypto entrepreneur for defamation  The GuardianTrump family's World Liberty Financial sues crypto billionaire Justin Sun for defamation  CBS NewsTrump’s Crypto Empire Descends Into Warring Lawsuits  Mother JonesBillionaire Justin Sun Launched ‘Smear Campaign’ Against Trump’s World Liberty, Lawsuit Alleges  Forbes",
+    "published date": "Tue, 05 May 2026 10:42:39 GMT",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSHhTbXBtNzZ2VUhvTS1IcjJzQkhTd19KM3BVb0N4b2VIRlNmc0g5NlZtaWhqMWF1ZGo0ZHlPV1BETmk4b3J0blo2UkQzZVRfRmpjdG5odzNJWGthY0pFYkNaaTdzcXJYQmc3OXdQVkdMQzJyQ2VaN1M4Sm9SWnV2VGcyZ2dUZzFEOXMyNWJockVNdHU2VEZz0gGcAUFVX3lxTFBqcFU4M2EwSl9zMXZQOWxQYThDX0pyYkZZYnYzNVNMNWlPX2dsUmlwalN0QVlEYUkwUVRvaE8yZlBBbHZLSmFkb0duVUNEYzY5NXZMQUxaUXNDS1lYdzd2SDkzVGdTNUJqM1EtUFZHNG9haEdaYmxHSGx1T3ladFRRTktLdkk2SzB2RHVDdUdmMnZGN19GY2ZTeFRRMw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://abcnews.com",
@@ -160,28 +210,78 @@
     }
   },
   {
-    "title": "Nvidia Just Stunned the Quantum Computing Market. What Does This Mean for IonQ, D-Wave, and Rigetti? - The Motley Fool",
-    "description": "Nvidia Just Stunned the Quantum Computing Market. What Does This Mean for IonQ, D-Wave, and Rigetti?  The Motley FoolJensen Huang Just Announced Something Big. Here's What It Means for Nvidia Stock.  Yahoo FinanceNVIDIA's New Quantum‑AI Models Are Impressive — and the Market Doesn’t Seem Ready to Price the Step‑Change  24/7 Wall St.Nvidia’s CEO Is Trying to Shorten His Own Quantum Timeline  Banyan Hill PublishingIonQ Gets A Nod From Nvidia’s New Quantum AI Models  Finimize",
-    "published date": "Mon, 04 May 2026 21:39:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObzVuaXlORG5nTEl3b25RNUJlWXhfeGYwaU8xMjl5ZTc3RWZiMzhBaGs5MnlPQWxqNW9DOFFES25QZE90cHlfTEVZZmNGMTU1dHk1Q1MtMDFycVY5YWpQSWYtUjU0MWJMaG1aeEQ4V3RPU0djVkJNUmVNbVRLekhvVlltNGVWQ25fdHBLeXVYTTRiYjl0THE0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Just 11 States Still Have Gas Below $4 as Prices Keep Rising—See Your State Average - Investopedia",
+    "description": "Just 11 States Still Have Gas Below $4 as Prices Keep Rising—See Your State Average  InvestopediaGas prices rise to $4.46 per gallon and oil jumps as shippers stay out of Strait of Hormuz  NBC NewsOhio drivers face growing pain as gas nears $5 a gallon  AxiosOil Prices Spike, National Average Up Nearly 30 Cents in One Week  AAA Gas PricesAs Colorado gas prices near $4.50 per gallon, driving to work is like taking a pay cut  The Colorado Sun",
+    "published date": "Mon, 04 May 2026 19:17:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOajlnRVBoTlZNeFAxemVHZ0VPdEtRa0hJZHMtNWFoWGRzcUpoaXJhVFlSdWQ2T0lKS2t2akZneE93N2NxT3REU2JLNnJXRnBiQ2lFa1h4Z1R6UElTc1ZuN1c3VFNmaW1JYVdpekI1S0Q1MGkzbUR2UEJaMWF5a05nUE9IQXYwVWg5T08ydWZCLUNCRW9YX2xjd3ZDVWJGNzM0RGx4MmM2VmVkckNCU2d5Z01WN3hqaFpMM3VnMw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.fool.com",
-      "title": "The Motley Fool"
+      "href": "https://www.investopedia.com",
+      "title": "Investopedia"
     }
   },
   {
-    "title": "Berkshire shares trade lower even after Abel scores good marks at meeting, earnings jump - CNBC",
-    "description": "Berkshire shares trade lower even after Abel scores good marks at meeting, earnings jump  CNBCBizarre moment at Berkshire's annual meeting spotlights cyber risk  Yahoo FinanceBerkshire's cash pile hits $397 billion, but post-Buffett annual meeting's attendance falls sharply  FortuneWarren Buffett's Successor, Greg Abel, Is Sending a 'Loud Signal' About Investing Today  money.comBerkshire Hathaway shareholder meeting sees smaller Omaha crowd under new CEO  WOWT",
-    "published date": "Mon, 04 May 2026 12:44:12 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdlN3aGUzMmpqN0dKLXVNbkl0Wk5CZzc4Q3ZKUUpmUkZJSWNUeXZ4ell3LXhUZmVrODN3dzdLeS1ROG8tbzE4X25TdmI4b19iRng3NWNvMll6ZjY0OTZsQ0ZnbnkwUW5MenVOWHFZNmNtY19Ubkh2VXhGc29MckRZdEo2QkZRZmlfakZWRG5yd0swcFVkd0g4VmV6VzF1TktYZE9YWlQ4Rk5hSDRiS0pIT25rTWF4SWp1Sl9CdEVmaHZ5bGRhQWprOHFRdDRMWGNp0gHWAUFVX3lxTE41aHZSbktHUEQtUnhZS1gtNUFJem9vSUxkMnBrc0ttVXNqd0FOREFKa1NXR0lMcmp2b2ZiSDdaZkJ1c0doWFBIMlQyUExoY3lRQ2pwbHNOQnBtWV81Q2lJc2J1UThpNHhUZGZOVDFqN0t6SkhZTzF2MWxRQ0RmbW9zcy03SVVFbWVraU0xeTlxWVJCTVNiOE95WllwZzZfWGNyT0VFalZJZGpWS2otOGpxcGMzMmZwNzBBUWN0RGFZSnJGSmt6SlBBNTlNZUdBeWdDbnhhVlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race - TechCrunch",
+    "description": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race  TechCrunchMusk texted OpenAI's Brockman about settlement two days before trial began  CNBCGreg Brockman’s Rough Day  The InformationElon Musk’s Lawyers Ask OpenAI’s President Why He Is Worth $30 Billion  The New York TimesOpenAI co-founder discloses nearly $30 billion stake, financial ties to Altman  Reuters",
+    "published date": "Mon, 04 May 2026 16:57:47 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMDNnMlhwQXBBMDh4eUZpd0hTQ3I2MGhJUDVfR3ZLVGM0NUlhNnNhZEMzaVlSNnhSeDNQMDRVOHZzN3ZZbzQzWnZLX0Z6MWJBS3NOV09CUjR2UHlfZFRDWkJVNUNobko0M0FvV09KUDF4LVd3Y0tUQlp3VGFwb1k2MnJ4cVk3QTNTbUlMeEl3amtBd0pJZnMwTGFtRm9pN2RxWWF6blhHM1lrMDRG?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.cnbc.com",
-      "title": "CNBC"
+      "href": "https://techcrunch.com",
+      "title": "TechCrunch"
+    }
+  },
+  {
+    "title": "Should you be worried about jet fuel shortages in Europe this summer? - The Washington Post",
+    "description": "Should you be worried about jet fuel shortages in Europe this summer?  The Washington PostAirlines slash flights as fuel shortage fears mount  Financial TimesUK government plans to allow airlines to consolidate flights as jet fuel costs soar  CNBCSummer holidays up in the air as Europe braces for jet fuel shortage  France 24The threat to summer holidays looming with jet fuel shortages  BBC",
+    "published date": "Tue, 05 May 2026 15:44:36 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOamdSNHdhWkJXeTRNa1NROG9xY2gzU3RhQ0dBQkpraFU3eHRmeVVnTG5GclBxRlpwZ1NaOUV0VEp6ZVZzVDFybncxNjF1NGowU0Z6T1BtTzltS1RIRWpVZVFQSWx6RGo2VmVRV2hyeHdGNWFwX3VHZ1hkWmZrdkZ5a2htWlgtQjJtdUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.washingtonpost.com",
+      "title": "The Washington Post"
+    }
+  },
+  {
+    "title": "Soon, No More Free Drink Refills at McDonald's - Newser",
+    "description": "Soon, No More Free Drink Refills at McDonald's  NewserHarger: McDonald's is killing the self-serve soda fountains. My coworkers are taking it personally. I have questions  MyNorthwest.comMcDonald’s change means this freebie is going away  AL.comMcDonald's Is Phasing Out A Familiar Dining Room Feature—And Fans Aren't Thrilled  Southern LivingWant a refill? McDonald's is changing how you get soda at restaurants  USA Today",
+    "published date": "Tue, 05 May 2026 11:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTmJSZElUNnlVZ1lIdzliMDZlQThIcnB5WmVTdEd1MjF4NGRHSFVnNXZvZjdPT3FoY1g3TWtoTFpaOWUzb2NFZnA4RVRDYi1MUnh0RHVIYWkxT2xHSnVyM05UZ29aY0tLd2laZ3RyaE9vY0V6dHZiV0s3RVRRdG16bE5aTGh3bkdVR3RXcUNhWm5JOC1UcVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.newser.com",
+      "title": "Newser"
+    }
+  },
+  {
+    "title": "Why is crypto up today: Circle (CRCL), Coinbase (COIN) lead crypto stocks rally amid Clarity Act progress - CoinDesk",
+    "description": "Why is crypto up today: Circle (CRCL), Coinbase (COIN) lead crypto stocks rally amid Clarity Act progress  CoinDeskCircle jumps nearly 20% on Clarity Act compromise that preserves stablecoin rewards  CNBCClarity Act Compromise Sparks Crypto Stock Rally; Bitcoin Briefly Tops $80,000  Investor's Business DailyBank Groups Say Senate Stablecoin Rewards Proposal ‘Falls Short’  Bloomberg.comCoinbase Stock, Strategy Gain. It’s Not Just Rising Bitcoin Lifting Crypto Companies.  Barron's",
+    "published date": "Mon, 04 May 2026 17:35:32 GMT",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcExoeFZrVUlneDhYT0gxbUIxaE8tNXlYUUgxZGh4NmZCTEN3STI2TTZKU0NzQVJIcnJaeW44TC1TbVVfUTRoVUxhR1Uyc0NYNDBwZmJlcE5pVnVreXhFMGsxWWF4NDhMUTk3dGFlSUNXc3BMb2Z5aFFvdS1xbS1ZSmx5VmE1ZktwYXR3ODdDSWpZN1VXOU5FcTdTUnVDeGpNVmFDYllZODhVRzhFOGdYbjdLWWo4WXNLOEJ1THhETm5KbWt4NjdHc285VDRMUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.coindesk.com",
+      "title": "CoinDesk"
+    }
+  },
+  {
+    "title": "Meta on trial in New Mexico in landmark case over alleged harm to children - NBC News",
+    "description": "Meta on trial in New Mexico in landmark case over alleged harm to children  NBC NewsZuckerberg accuses New Mexico of 'overreach' as Meta bench trial begins  Santa Fe New MexicanMeta's public nuisance case in New Mexico has billion-dollar consequences  CNBCNew Mexico judge to decide if Meta's actions are a public nuisance  KOATNew Mexico has a plan to overhaul Facebook and Instagram  The Verge",
+    "published date": "Mon, 04 May 2026 15:14:49 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ1BOaEhQSGFwOFlRNFN3OFl6eENWVU9uQnZHd0hnNmtCMlprczBUeGFwa1ZpWG14M0h6T2wtMGZqRGlPMnNmOXNabWRvMWJsUGVfcU5fci01dFNnYW9xNDNrRE9VaXhIX2lLa1h4dDlvLWhmdFROVzVMa1BxWWszTXhld3ZGcVJITFM5b0dTNEdJYk1zdk5lWHk3cVAzUG8?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nbcnews.com",
+      "title": "NBC News"
+    }
+  },
+  {
+    "title": "Stock Market Today: Nasdaq Drives To Record High As Intel Soars; Palantir Dives (Live Coverage) - Investor's Business Daily",
+    "description": "Stock Market Today: Nasdaq Drives To Record High As Intel Soars; Palantir Dives (Live Coverage)  Investor's Business DailyIran tensions, Palantir earnings, Musk's SEC settlement and more in Morning Squawk  CNBCIntel, PayPal, Palantir, Shopify, Duolingo, Firefly Aerospace, and More Stock Market Movers  Barron'sStock Market Today: Dow up 275 points, S&P 500 and Nasdaq trade at records as oil dips from highs; Palantir slips after results; AMD earnings on tap.  MarketWatchBiggest stock movers Tuesday: SHOP, PYPL, INTC, DUOL, and more  Seeking Alpha",
+    "published date": "Tue, 05 May 2026 14:27:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNci0xdDBBWThSQlJnY1Y2bllTSnA2Q25Bc1dQTlNDSnFIN1NJdGhUdHpXbVhHcldpbmhRWmQ3aGRDejVQWTdsYURpUmF6N3FNSFAyaVotMUZQdDZoUG5fb1lOU3J6QnpVdDhqR1V2ZFdDX093Z1MyRkNlODdXYWhXQ1ktRUEwbFNJcnNBMmZyeGZWdGNDbTQ2Yy1fa2x5YXpnVnV0c3hTQWZBcXJfT0lmYnJ1NVZ3RS0tQlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.investors.com",
+      "title": "Investor's Business Daily"
     }
   },
   {
     "title": "USDA Issues Nationwide Health Alert for Contaminated Frozen Pizzas as Salmonella Risk Spreads Across Major Retail Brands - Nbsla.ca",
-    "description": "USDA Issues Nationwide Health Alert for Contaminated Frozen Pizzas as Salmonella Risk Spreads Across Major Retail Brands  Nbsla.caFrozen pizza sold at Walmart, Aldi recalled over salmonella concerns  Fox BusinessSalmonella Alert Expanded by FSIS—Check Your Freezer for These Products  Good HousekeepingAlert issued for pizza, pork rinds sold nationwide over salmonella risk  The HillFrozen pizzas sold at Walmart recalled. See the impacted flavors  USA Today",
+    "description": "USDA Issues Nationwide Health Alert for Contaminated Frozen Pizzas as Salmonella Risk Spreads Across Major Retail Brands  Nbsla.caFrozen pizza sold at Walmart, Aldi recalled over salmonella concerns  Fox BusinessPopular snacks, frozen pizzas sold nationwide recalled due to Salmonella: What to know  NBC 5 ChicagoSalmonella Alert Expanded by FSIS—Check Your Freezer for These Products  Good HousekeepingAlert issued for pizza, pork rinds sold nationwide over salmonella risk  The Hill",
     "published date": "Mon, 04 May 2026 15:41:15 GMT",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WcTVfaEhYSWhrRTdGNTdCVFZGblNhUkIxeHU3bTlCVE42aXF3by1Gdlh3RUM1VTRfZmk1TkZDZTZ2dWZTVUpEQnZOSTVHUldfMzRXcDlUVlBIcllaWjhvRHViZnN3T0hCUjBiamw0Ymc2c2pzMlE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -190,48 +290,28 @@
     }
   },
   {
-    "title": "U.S. Senate Resolves Issue Of Stablecoin Yield - Yahoo Finance",
-    "description": "U.S. Senate Resolves Issue Of Stablecoin Yield  Yahoo FinanceCrypto industry calls for lawmakers to act on legislation after breakthrough agreement  CNBCCoinbase says deal reached on key provision of crypto bill  Reuters‘Go Time’—White House Quietly Confirms ‘Imminent’ May Bitcoin Price Game-Changer  ForbesVault: Tillis-Alsobrooks cinch deal on stablecoin yield  Punchbowl News",
-    "published date": "Mon, 04 May 2026 13:02:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUnNYdU92dEQ1ZHVOczRHSXQ2LUVPdTdfbkpYUHBBNm9Cc1g1MGk4WS1XU1Q2R0M5UEFINVNSMS1YenRjcDZwMlpDRndNU2VpQUpKYmxWWXpuenlkTTBKY2dVNmpJcEVZSlZaNFpjclZPVVcycTNmV0ZuaWdHd0RHSkFmY3dndVdlMEc5d2lKRUZHNXFSbU13aDRKWDMwLW92?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "California investigates Trump administration’s deal to end an offshore wind project - AP News",
+    "description": "California investigates Trump administration’s deal to end an offshore wind project  AP NewsMore Than 150 Wind Projects Stall as Pentagon Delays Reviews  The New York TimesTrump’s Weird Obsession with Windmills Has Officially Gone Too Far  EsquireCalifornia probes Trump administration deal to cancel offshore wind lease  ReutersWhy the Trump administration is paying billions to abandon wind farms  PBS",
+    "published date": "Tue, 05 May 2026 01:35:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa1JrRWhDSzgxMklJZmRtUzhrd2g1UXpiV3I3a0NnWnFsNGVFNEI0TklPV1NOSDBvZndXd0pPbEQyV0pxVHk1WThKekpxeUh3SXBSZXBzNVpmc2RyZ1FkMW1GRjYzRV9XRHBnbU84cjBTMnRTclVIb3VreERPNW9tQmN1WEhoanpCZ28zdnp5Z0daQV9XbFVmTXhUUnFWeFpsUWJLOHNmSHlsLUFlX21BeVJhVGRjNGh0SGVmag?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://finance.yahoo.com",
-      "title": "Yahoo Finance"
+      "href": "https://apnews.com",
+      "title": "AP News"
     }
   },
   {
-    "title": "Wall Street's $1.5 Billion Plan to Build the 'McKinsey of AI' - Business Insider",
-    "description": "Wall Street's $1.5 Billion Plan to Build the 'McKinsey of AI'  Business InsiderBuilding a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs  AnthropicAnthropic takes shot at consulting industry in joint venture with Wall Street giants  FortuneAnthropic teams with Goldman, Blackstone and others on $1.5 billion AI venture targeting PE-owned firms  CNBCOpenAI Finalizes $10 Billion Joint Venture With PE Firms to Deploy AI  Bloomberg.com",
-    "published date": "Mon, 04 May 2026 20:50:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV0RraGpxYkhIdmZXY2VpcEI1eURXdm5Cc0E2Tk0wQ0sxRlc2ZHJqQ1NWc3pvdEI5REJrVGhIMlh4MHdUc3NJRWdFZzdDY1VieDFaSzlKclNRcFZiLWVTQ1F5OEVwMVlNWVE1TDRCSzNLMTVjSEZjY3dYWkZ2VEJjU3cyd29vejVkN1I0Ump6VTZkZ0NfbGE3SnRFc040OEc3YkJ0WXYyV3B1VWVaUEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Elon Musk settles SEC lawsuit over Twitter stock disclosures - Politico",
+    "description": "Elon Musk settles SEC lawsuit over Twitter stock disclosures  PoliticoSEC and Elon Musk agree to settle lawsuit over Twitter buyout in 2022  CNBCElon Musk settled an SEC lawsuit over Twitter disclosure for $1.5 million  qz.comElon Musk will pay $1.5 million to settle with SEC over late paperwork  The Washington PostElon Musk gets just a slap on the wrist as he settles Twitter lawsuit  MarketWatch",
+    "published date": "Mon, 04 May 2026 22:49:53 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMnlmTHVnZ0VLeVdPM01IeGVONUV5M1lzRThrNkFWYkk3UFJ3TDNHQlp4TmVxajJJWUlGa05Ia1gzdUR5SDB6RjAzbkpldDJ5b1lIbHRLQ21DeTNKLW1lcV85aWY0MS1TRy0tZTg3RGgtbld2N1BweF9zcU5GQXo2NDhDV3g0YUdVanVRMWIxZV9zOUlYS3E3RERSTlBhTWVqay14Y3pULWVyZ09vZ05z?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.businessinsider.com",
-      "title": "Business Insider"
-    }
-  },
-  {
-    "title": "Paramount Making “Great Progress” on Warner Bros. Buy, Reaffirms Deal Close Timing - The Hollywood Reporter",
-    "description": "Paramount Making “Great Progress” on Warner Bros. Buy, Reaffirms Deal Close Timing  The Hollywood ReporterParamount earnings, revenue beat expectations as streaming business offers a boost  CNBCParamount Q1 2026 Earnings Hit Target But Streaming Sub Gains Lag A Bit  DeadlineParamount Skydance first-quarter profit benefits from cost-cutting  ReutersParamount Q1 Profit Rises on Streaming, Studios, Despite TV’s Decline  Variety",
-    "published date": "Mon, 04 May 2026 21:53:19 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZlFpd29ZNHFjQTZWQWdoTmYwWWhKdFN5VWJ1VzA3SHRtSFdLM0xDa3BUMzVkQ2NuOXJtNks3bHBqMlEtdTBXdmIwQkdROHVKUHFFdllpcVpQYzFwbUh6WVZSWDRXRkh1c1hoRlBJSkRQdVJ3ZmxtUUhKZm9Ockh6SEpGaXVHMHZXM1lCcjk0M0NySnVJZlZfMjdaem14aUc4WE0yNUZnZWZVcFo5ZEFOMmhqZ2tlTExocnJMWERBQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.hollywoodreporter.com",
-      "title": "The Hollywood Reporter"
-    }
-  },
-  {
-    "title": "Everyone Is Chasing Nvidia Stock — BlackRock Is Watching Paint - PPG Indus (NYSE:PPG) - Benzinga",
-    "description": "Everyone Is Chasing Nvidia Stock — BlackRock Is Watching Paint - PPG Indus (NYSE:PPG)  Benzinga'Like 10 Manhattan Projects Going off All at Once.' How AI Is Rewiring the Global Economy, Says This BlackRock Exec.  富途牛牛Beyond The AI Trade: BlackRock Flags HALO Shift - Defiance AI & Power Infrastructure ETF (NASDAQ:AIPO), D  Benzinga",
-    "published date": "Mon, 04 May 2026 14:46:51 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUTkxU3hicjVFdUxBU2J4WXQ4ekRTR0xJc0NMRmZXN3hVbXZFR3c5WkNQQ1g4cG05SUQ4QTRhdHRnVUtEeVgzNExwUUR1MExHTkNXNWtaTmZxaTBFUE53VmNEWTVyRURvQ2g0WF9CUldjV2tYdVpjOHo4RjduTjZRYnpoWG5adXdiTExDMllIclFtLW1fQ0Z6TW5jQTlpZUhXQ1M3ZTlJREc5bVZUVmRYcnVyWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.benzinga.com",
-      "title": "Benzinga"
+      "href": "https://www.politico.com",
+      "title": "Politico"
     }
   },
   {
     "title": "Jerome Powell Just Threw President Donald Trump Under the Bus One Last Time Before His Term as Fed Chair Ends - The Motley Fool",
-    "description": "Jerome Powell Just Threw President Donald Trump Under the Bus One Last Time Before His Term as Fed Chair Ends  The Motley FoolWhy Jerome Powell Decided to Stay at the Fed  WSJFed holds rates steady but with highest level of dissent since 1992  CNBC‘Integrity is priceless’: Powell closes out eight years at the helm of the Fed  CNNTrump fumes as Jerome Powell plots future at Federal Reserve  The Hill",
+    "description": "Jerome Powell Just Threw President Donald Trump Under the Bus One Last Time Before His Term as Fed Chair Ends  The Motley FoolView Full Coverage on Google News",
     "published date": "Mon, 04 May 2026 10:06:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYlpxeFFBWDVHbUlzSXNCWGNWOGFHc2FiOTUybmFwWHhBMjkwWGFfRHNWUkg3VTNfWUxqLVlVblZ0STQ1N09DOWpTanZPelRSSmtObkpXNDV6ZVFwcnA1dGZ6ZUlIZVFlUTFYNTU4a0tqejVuM2E1TWNubHlfeWI0c3dOanR1ZmlrSnNublZXQksxVGFqSEVwbQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -240,8 +320,48 @@
     }
   },
   {
+    "title": "Michael Burry sells GameStop after Ryan Cohen's hefty eBay bid: 'Never confuse debt for creativity' - CNBC",
+    "description": "Michael Burry sells GameStop after Ryan Cohen's hefty eBay bid: 'Never confuse debt for creativity'  CNBC",
+    "published date": "Tue, 05 May 2026 12:11:59 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa1I0RFZobnhzYkwwZUE3MDFfRWg3dTJfSDQtVW5nUHRoUlM5QWlwelpIQmxlUGJETnlPbUVaWkh0a3ZwSDhpYzBDdXZSMGF6aFBDcVNYZXVTTWdZeDRGWEY1aUl3bkRmUkZieDRnSUppV1ZScVVoZW9ia1lydkRQUGFuVlFoTzFnQVFaMUl5RTBhMDJFQzE2bUJqN3hwRGV3U09JandvYTJ4WnIxdWZtUkVKVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cnbc.com",
+      "title": "CNBC"
+    }
+  },
+  {
+    "title": "Last Middle East oil shipment reportedly reaches Long Beach amid rising gas prices - ABC7 Los Angeles",
+    "description": "Last Middle East oil shipment reportedly reaches Long Beach amid rising gas prices  ABC7 Los AngelesCalifornia braces for uncertainty as last shipment of Persian Gulf oil arrives in Long Beach  Los Angeles TimesLast Oil Tanker Hits Long Beach as CA Gas Crisis Deepens  LAmagCalifornia leaders report four to six weeks worth of gasoline and diesel in supply  KMPHUnderstanding California Refineries: The ‘Turnaround’  California Globe",
+    "published date": "Mon, 04 May 2026 14:50:06 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeWxBNF95c2tnaWxQNmR0cnBzZGlicUktWUpWTlVPR25EMVRtRnZmOENjOWpnX1EwXzVEYnFkX2xNa0N4SEhYSUs1Rk9aRDhqRVJIWDc5R0x2MklkT1dRUlNLR3I0Nl8tMnFaajRSSU9NRjBERG5xVkZhbVpHN3JWdFp6YXg1X0k0TXptRmVKbGVvRjJnR3NnZkNnWEMzNko2blRJQWtTRVBqWGZjLTVDTFYzakXSAboBQVVfeXFMTXZSWUF5X084eHBncFBHSGlxOWNaVzVTOG4yQmRfSkZJMnczaEtBdXl1RjkwUTVvekhoUE41U3pSbUZSTnlHZzRLZkItUDB5XzlaN25HY3ZsZFpoQ0pmVlR6eWFSNEFfUXFxMVR2Tk5aVjBvbk5GUXdSc1BES3FBNzdBM3Ziamh6cmNkVGRpS3dUT1B6QTZTMDBCdm5FR0ZNQ0FzdFZOa0t0RG5jVXREcDBucGJCTlZwdk13?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://abc7.com",
+      "title": "ABC7 Los Angeles"
+    }
+  },
+  {
+    "title": "Delta Air Lines will no longer serve snacks and drinks to these passengers - Yahoo Creators",
+    "description": "Delta Air Lines will no longer serve snacks and drinks to these passengers  Yahoo CreatorsWhat to know about Delta Air Lines snack, beverage changes  ABC News - Breaking News, Latest News and VideosDelta customers in uproar as airline cuts snack and beverage service on hundreds of flights daily  New York PostMajor airline says goodbye to food, drink service on 450 short-haul flights  MassLiveDelta to Eliminate All Food and Beverage Service on 450 Daily Flights  People.com",
+    "published date": "Mon, 04 May 2026 15:58:07 GMT",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObURJb3pBRDJHeEN1OGVsV1k2MGdlcWhia2dCWXp6aEZ3WElHV256Y0NCdDNITm9VSzVUX3E2Q29NNHJ6MVltc3JKbmN0X25HUFgyazA5bFhkWWlTaW0yWEY3RkI5SWpFR1oxUnNXcUtoSDJiSWRETlBLNnhBVlNYTU9CRlVhMVctOU9mS2FpZFJvSjhoZ2VubjNGaDczSGdZYmtxdGJScDREOUJMNW9JSUZuNkxTYmlHNTNPaDBuaWZyUEt0N2RGZUZHWnQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://creators.yahoo.com",
+      "title": "Yahoo Creators"
+    }
+  },
+  {
+    "title": "Paramount Making “Great Progress” on Warner Bros. Buy, Reaffirms Deal Close Timing - The Hollywood Reporter",
+    "description": "Paramount Making “Great Progress” on Warner Bros. Buy, Reaffirms Deal Close Timing  The Hollywood ReporterParamount earnings, revenue beat expectations as streaming business offers a boost  CNBCParamount Q1 Profit Rises on Streaming, Studios, Despite TV’s Decline  VarietyHere's what David Ellison told Paramount employees after beating earnings estimates  Business InsiderParamount Gets House In Order As It Prepares To Welcome Warner Bros. Discovery  TV News Check",
+    "published date": "Mon, 04 May 2026 21:53:19 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZlFpd29ZNHFjQTZWQWdoTmYwWWhKdFN5VWJ1VzA3SHRtSFdLM0xDa3BUMzVkQ2NuOXJtNks3bHBqMlEtdTBXdmIwQkdROHVKUHFFdllpcVpQYzFwbUh6WVZSWDRXRkh1c1hoRlBJSkRQdVJ3ZmxtUUhKZm9Ockh6SEpGaXVHMHZXM1lCcjk0M0NySnVJZlZfMjdaem14aUc4WE0yNUZnZWZVcFo5ZEFOMmhqZ2tlTExocnJMWERBQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.hollywoodreporter.com",
+      "title": "The Hollywood Reporter"
+    }
+  },
+  {
     "title": "Chevron CEO says shortages in oil supply will begin appearing - Reuters",
-    "description": "Chevron CEO says shortages in oil supply will begin appearing  ReutersChevron ‘Concerned’ Over Hormuz Transit as US, Iran Trade Fire  Bloomberg.comChevron CEO Warns of Emerging Physical Shortages in Crude Oil  Crude Oil Prices Today | OilPrice.comChevron chief compares Hormuz crisis to 1970s oil shocks as shortages loom  investingLiveChevron chief warns Strait of Hormuz closure will soon lead to oil shortages  Middle East Eye",
+    "description": "Chevron CEO says shortages in oil supply will begin appearing  ReutersChevron ‘Concerned’ Over Hormuz Transit as US, Iran Trade Fire  Bloomberg.comChevron CEO Warns of Emerging Physical Shortages in Crude Oil  Crude Oil Prices Today | OilPrice.comChevron CEO warns of oil shortages from Strait of Hormuz closure  qz.comMiddle East crisis to have longer-term impact: Chevron CEO  S&P Global",
     "published date": "Mon, 04 May 2026 20:32:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOGhsbDlaaVBUVGo0VzMwNHdMYldMTmx5d1RnRjlLaXZia1hiekJTalpDNjBnd1htTDhtN1lHWG92UDliSlVsMzctd3Z2RFliZjhHRi1tNkxyNnA1RDlvVmN4elpSc1FYaUotVVlOOG44QUt2UWNHNEkzMVpfMjNNV2VYN1dKYTJXY2t2Q256RWVZaXhrcEdwVTR0OUkzbVBhZXd5WFhudm5aV3pRalAyVU1CMWI?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -250,33 +370,23 @@
     }
   },
   {
-    "title": "Trump just blocked 165 US wind projects – here’s what’s behind it - Electrek",
-    "description": "Trump just blocked 165 US wind projects – here’s what’s behind it  ElectrekWhy the Trump administration is paying billions to abandon wind farms  PBSCalifornia investigates Trump administration’s deal to end an offshore wind project  AP NewsMore Than 150 Wind Projects Stall as Pentagon Delays Reviews  The New York TimesCalifornia probes Trump administration deal to cancel offshore wind lease  Reuters",
-    "published date": "Mon, 04 May 2026 19:53:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN0V6eXo5WFg2UDJ0dmpTWjdHXzF0d0dQQWJPWm5lV0I1eGQyZWpOa1JNMjlxZHk3dXg2Vm9JSzNHNkZ4ZXRTWHg2RTZwZzFaVDdGeG5pdklZR3cwSEp2d3FhWjE3ZWhQLVp3T0dDTWl5TE9HM0RpcGFybzJWdWZ4X0hiRXlWMHdhSmkwdVlPcjZNUkhiUllIbQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Stock Market Today: Dow Advances, Oil Prices Slip as U.S. Downplays Mideast Tensions — Live Updates - WSJ",
+    "description": "Stock Market Today: Dow Advances, Oil Prices Slip as U.S. Downplays Mideast Tensions — Live Updates  WSJOil pulls back after hitting a 2026 high on day one of Trump’s plan to unblock Hormuz  CNNOil Retreats From 4-Year Highs As U.S.-Iran Ceasefire Remains Fragile  ForbesUS Stocks Bounce as Traders Track If Truce Holds: Markets Wrap  Bloomberg.comOil prices surge as violence flares in Strait of Hormuz  Al Jazeera",
+    "published date": "Tue, 05 May 2026 15:26:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV2ZDbHNNTlE2amZHU2wwQmpBWGw1Qi1OZ0V5RmdnWHM1ZS1ZTjdWcW5Nb3NURTVkTVRXYWlLaWxJV250cE95RUEtc1ZKU0dKMjZaS1A5bmNqdHNrUVhUS2VkTjYwQ0NoQnVPbEQ1b2YtSi14eVY1c0J6TVdLQjVIenRoSl9SSnM?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://electrek.co",
-      "title": "Electrek"
+      "href": "https://www.wsj.com",
+      "title": "WSJ"
     }
   },
   {
-    "title": "FedEx, UPS Shares Sink on ‘Watershed’ Amazon Logistics Move - Bloomberg.com",
-    "description": "FedEx, UPS Shares Sink on ‘Watershed’ Amazon Logistics Move  Bloomberg.comIntroducing Amazon Supply Chain Services: Amazon’s logistics network, now open to every business  About AmazonAmazon Opens Its Logistics Network to Broader Freight Market  Bloomberg.comUPS, FedEx stocks sink after Amazon expands logistics network to other businesses  CNBCAmazon Opens Shipping Business to All Comers. FedEx Stock Tumbles.  Barron's",
-    "published date": "Mon, 04 May 2026 20:22:47 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeGZOLTdvM3FIZE5XWkZmbVN6X0lfb0tMbGdXbnpQdW9aZzZBM1pmTl9oVTZxVG01Uzg1NGh2akk0cHp0dHZzWm41aWNFdGRhZ1otbzFYenhsTFNFc2kyaHlSLXdoa2RHSGlRdUlsSTNpODBuVTFNQUVIa1BMVGk1S2gtdlR4bjBmcUs0VzNWR2tGUlUwUGJNX2JoM0hleVhSNDZFSjlCQ2ZlMUtQSndUeQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Dow Jones Futures: Iran Attacks Spark Stock Market Losses; Palantir Slides On Earnings - Investor's Business Daily",
+    "description": "Dow Jones Futures: Iran Attacks Spark Stock Market Losses; Palantir Slides On Earnings  Investor's Business DailyStock market today: S&P 500, Nasdaq, Dow rise as oil slides, wave of solid earnings rolls in  Yahoo FinanceWall Street advances as the U.S.-Iran ceasefire continues to hold  Seeking AlphaMarkets on edge as fresh U.S.-Iran attacks dent optimism over a peace deal  CNBCWall Street opens in the green as U.S.-Iran tensions cool and oil prices dip  Investing.com",
+    "published date": "Tue, 05 May 2026 00:34:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZVV6OTdoMnpIM29UT19CanZZYUFhMy1vMVB5OHdEZHBlTzdhSTdOeDNmX1ptakdZY1JQQTNvZndqNzF4RTFNY1NWV0hGUG50M2JIRHJFV0N1dWlMMHNLMEI5WkotYTBqUUFidjNlUmdYdk1xTl9NaVAzQURRMmRaeHRnXy12RE83MXVDaHQ1NGZobUk1Q24xa3cwbEFQY2hXRUh0clhIRnNERXRjMVp2bDJqazNEc2RGUjB3VFh1dWg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.bloomberg.com",
-      "title": "Bloomberg.com"
-    }
-  },
-  {
-    "title": "On a mission to maintain strong local journalism in Pittsburgh - Pittsburgh Post-Gazette",
-    "description": "On a mission to maintain strong local journalism in Pittsburgh  Pittsburgh Post-Gazette'Devastating blow': Post-Gazette faces staff reductions after acquisition by Venetoulis Institute  WTAENew Pittsburgh Post-Gazette owners making deep cuts to newsroom staff  90.5 WESANewspaper Guild members allege anti-union discrimination in Post-Gazette offer letters  Pittsburgh City PaperThe Venetoulis Institute goes to Pittsburgh.  Columbia Journalism Review",
-    "published date": "Mon, 04 May 2026 13:02:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVEpPMWJVWWZ3ejNBR3RhbkVjOUpLbzRmOVVWeXcxc1RTM0N3SXV5NC1kT3ZoYjBjWENCcWxmWGhuVDZuQ0tOekd1TzhEUG9BNkJoXy1TUWxoc3dERHctSDNrejVUUnR1SEZWSmVfRnUwVnNKNGRYTjhkcXdTeVpHQXlROU5WWUQydmUybGY4ckxmb0pUZ25IY1Z2NTd1MGF3R2FyN0cxdUR3Z3dxWTBZcE1mZEpVeXpxdmc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.post-gazette.com",
-      "title": "Pittsburgh Post-Gazette"
+      "href": "https://www.investors.com",
+      "title": "Investor's Business Daily"
     }
   }
 ]
