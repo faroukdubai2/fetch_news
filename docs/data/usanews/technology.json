@@ -1,7 +1,7 @@
 [
   {
     "title": "Apple brings encrypted RCS chats to iPhone - The Verge",
-    "description": "Apple brings encrypted RCS chats to iPhone  The VergeEnd-to-end encrypted RCS messaging begins rolling out today for Android and iPhone users  blog.googleEnd-to-end encrypted RCS messaging begins rolling out today in beta  AppleYour iPhone's Green Bubble Messages Get Safer With iOS 26.5: Look for the Lock  CNETUpdate Your iPhone Now for Better Encrypted Messaging With Android  WIRED",
+    "description": "Apple brings encrypted RCS chats to iPhone  The VergeEnd-to-end encrypted RCS messaging begins rolling out today for Android and iPhone users  blog.googleFinally, texts between Android and iPhone users can be end-to-end encrypted  TechCrunchEnd-to-end encrypted RCS messaging begins rolling out today in beta  AppleYour iPhone's Green Bubble Messages Get Safer With iOS 26.5: Look for the Lock  CNET",
     "published date": "Mon, 11 May 2026 17:57:56 GMT",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdHN2Y1JJR1ViQTlDN0p2N3MxSHZ0RWZacmhjSnhUN0hCcm1uck1obVAwWGE2LUNXZVNrVlBzU1Y1MkN6T3lRSmJjbko5b2JGYVM1R2Y4SGltSHIyOXRiZUZ6Q1dFVnJpYVh6SDV4bzJaTi1lQVRnMjRlSzY1SUhkNU9pZmZKazZwMHp1ZV9uQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -10,8 +10,18 @@
     }
   },
   {
+    "title": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation - The Hacker News",
+    "description": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation  The Hacker NewsGoogle Says Criminal Hackers Used A.I. to Find a Major Software Flaw  The New York TimesGoogle says it likely thwarted effort by hacker group to use AI for 'mass exploitation event'  CNBCAI-powered hacking has exploded into industrial-scale threat, Google says  The GuardianHackers Used AI to Build Zero-Day Attack, Google Researchers Say  Bloomberg.com",
+    "published date": "Mon, 11 May 2026 15:45:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNDVNZTk5NFNPWDB6WFRfVmhBLVB4djVtc3JWbzRHS2hQVmhUVmhCMzRqYVk4MlVRRVR5MlV5Rmg3Nm51NzlPcEhKd0RnR1djNzVDckZtdUVRODRkZVZZbGg3YmktVjBtRDJ0UnJZelR1bUxLelRDWTlmQWh0bnAzX3BTZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://thehackernews.com",
+      "title": "The Hacker News"
+    }
+  },
+  {
     "title": "Discord launches Nitro Rewards, giving subscribers access to the base tier of Xbox Game Pass for no extra cost - TechCrunch",
-    "description": "Discord launches Nitro Rewards, giving subscribers access to the base tier of Xbox Game Pass for no extra cost  TechCrunchXbox Game Pass and Discord: Building on Our Partnership to Bring More Benefits to Players  Xbox WireDiscord Partners With Xbox, Bringing Game Pass To Nitro Subscribers  Game InformerXbox announces a new, cheaper version of Game Pass  Polygon.comDiscord's Nitro Subscription Now Includes A Slightly Nerfed Xbox Game Pass  Engadget",
+    "description": "Discord launches Nitro Rewards, giving subscribers access to the base tier of Xbox Game Pass for no extra cost  TechCrunchXbox Game Pass and Discord: Building on Our Partnership to Bring More Benefits to Players  Xbox WireDiscord Partners With Xbox, Bringing Game Pass To Nitro Subscribers  Game InformerXbox announces a new, cheaper version of Game Pass  Polygon.comDiscord adds a free Xbox Game Pass ‘starter edition’ for Nitro subscribers  The Verge",
     "published date": "Mon, 11 May 2026 13:00:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeU81S1dsaEkzakV0empOSnd4aGtuYW9HeWZwU3NDQlhJdE01RzJXU2FpM2V4ZzFHaVB2MzFFUUlPT1RQZFVFV0g3eG85WnU2Q2o3REJ2ak9TOEJmbEJKM0V3QzdnLXFZRmRveUZ6bGFtQWpQZXFHYzhSM1pWMEhkNk52SDZFQk52cEJhdXd1ZEdfX2ZHV3oxS1ByZ09HYU5KWDRmSDk5TFhKY093VW9kcmdUTVU3T0luM0lUaGV4U3FEanhtZ3k1UWh6bDdoZjRILUE3Zm9SSXduTVhZ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -30,6 +40,16 @@
     }
   },
   {
+    "title": "Linux 7.0.6 Released To Finish Mitigating the Dirty Frag Vulnerability - Phoronix",
+    "description": "Linux 7.0.6 Released To Finish Mitigating the Dirty Frag Vulnerability  PhoronixActive attack: Dirty Frag Linux vulnerability expands post-compromise risk  MicrosoftLinux bitten by second severe vulnerability in as many weeks  Ars TechnicaLinux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions  The Hacker NewsNew ‘Dirty Frag’ Linux Vulnerability Possibly Exploited in Attacks  SecurityWeek",
+    "published date": "Mon, 11 May 2026 09:51:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zdHlxVnFPQ05PcWctV1lYcWdmTG1oSVNFeFpLQUw1M0doY3FvYy1tamFiSmhYRTRPZmRHRnJtelVsTTVOb3FxMFQ0YU1PWlVERXFkVUM3OGhXbnVhTllJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.phoronix.com",
+      "title": "Phoronix"
+    }
+  },
+  {
     "title": "Starlink shuts down its GPS-style cheat code. Researchers may unlock it anyway. - Ars Technica",
     "description": "Starlink shuts down its GPS-style cheat code. Researchers may unlock it anyway.  Ars Technica",
     "published date": "Mon, 11 May 2026 17:55:34 GMT",
@@ -37,6 +57,16 @@
     "publisher": {
       "href": "https://arstechnica.com",
       "title": "Ars Technica"
+    }
+  },
+  {
+    "title": "Govee’s new portable smart lamp is on sale for the first time - The Verge",
+    "description": "Govee’s new portable smart lamp is on sale for the first time  The VergeGovee's new smart table lamp is identical to Philips Hue's – but costs half the price  t3.comAmazon Drops These Govee Smart Bulbs to a Record Low, 4X Cheaper Than Philips Hue  GizmodoGovee's Matter Pendant Light brings unique and stylish three-layer illumination at $120 (second-best price), more  9to5ToysGovee Intros Floor Lamp 3, Lantern Floor Lamp With LuminBlend+ Technology  Wifi Hifi Magazine",
+    "published date": "Mon, 11 May 2026 19:56:28 GMT",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Tc2NFVl9OMmVTV3BJVWRTNHFseENYRzBvZkpfREhZeHY3ZmEtekJNcWgzcC1GV2xOM3ZOajhtM2VLUjFTakpIME53bHhTRkpSdmFMd0ZLTGF2b0R0NnRiTjd4TDZOTnRZelNVQnJzQXFVM0hjODZjRUdSd3VySWs?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theverge.com",
+      "title": "The Verge"
     }
   },
   {
@@ -60,26 +90,6 @@
     }
   },
   {
-    "title": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation - The Hacker News",
-    "description": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation  The Hacker NewsGoogle Says Criminal Hackers Used A.I. to Find a Major Software Flaw  The New York TimesGoogle disrupts hackers using AI to exploit an unknown weakness in a company’s digital defense  NBC NewsGoogle says it likely thwarted effort by hacker group to use AI for 'mass exploitation event'  CNBCAI-powered hacking has exploded into industrial-scale threat, Google says  The Guardian",
-    "published date": "Mon, 11 May 2026 15:45:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNDVNZTk5NFNPWDB6WFRfVmhBLVB4djVtc3JWbzRHS2hQVmhUVmhCMzRqYVk4MlVRRVR5MlV5Rmg3Nm51NzlPcEhKd0RnR1djNzVDckZtdUVRODRkZVZZbGg3YmktVjBtRDJ0UnJZelR1bUxLelRDWTlmQWh0bnAzX3BTZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://thehackernews.com",
-      "title": "The Hacker News"
-    }
-  },
-  {
-    "title": "Red Magic Gaming Tablet 5 Pro Launch Date Still Unclear - Gizchina.com",
-    "description": "Red Magic Gaming Tablet 5 Pro Launch Date Still Unclear  Gizchina.comThis is the RedMagic 11S Pro - GSMArena.com news  GSMArena.comРедМагик 11С Pro эълон қилинди: Snapdragon 8 Элите Ген 5 нинг энг кучли версияси  Zamin.uzREDMAGIC rumored to unveil the REDMAGIC 11S Pro next week  Android HeadlinesRedMagic’s OLED-touting gaming tablet has been delayed  Trusted Reviews",
-    "published date": "Sun, 10 May 2026 07:47:35 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeEZDT05JbXJyaDJQVk5ha3NOMXVka3JhZkpreEpsbkVMemRJUU5MUENWNXpXMUJkN1JiNXJXazNTZVZielUtQWRoQjd3LUM1b3psdU1kSzQtS1V6Q3F6LVA4Vzh0cUVZb2JvZ3JtclpTWUwwbXJpOVFEdmtTMHo3S2FKRjFac25ibDBzZnVmbEQtN1o4?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.gizchina.com",
-      "title": "Gizchina.com"
-    }
-  },
-  {
     "title": "MTG Arena Announcements – May 11, 2026 - Magic: The Gathering",
     "description": "MTG Arena Announcements – May 11, 2026  Magic: The Gathering",
     "published date": "Mon, 11 May 2026 17:23:42 GMT",
@@ -100,13 +110,13 @@
     }
   },
   {
-    "title": "UPDATE: SpaceX launching classified mission from Vandenberg on Monday - KSBY News",
-    "description": "UPDATE: SpaceX launching classified mission from Vandenberg on Monday  KSBY NewsWatch SpaceX launch secret US spy satellites to orbit from California today  SpaceLive coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office  Spaceflight NowSpaceX plans Monday rocket launch at Vandenberg. When, where to watch  Ventura County StarSpaceX Targets Monday NROL-172 Launch from Vandenberg SFB  edhat",
-    "published date": "Sun, 10 May 2026 19:24:01 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVkQ2RTk1VE1GdW4xbXZYYzAxZ21JblBoNXpkUmxyMHBXa1ZRaXBCMXNtRXpBWkQyaW9uTHQ1cWhMMW9NSzJFcDZDU21JUEIyZUdMZU1ob3haRlNNUGp5SlpJcGFJdUZTREhGTzNfWFhEaThZeDZxTllIQlE2ZjZSU0JCdXpwXzhXblJlMzRYejFaYW82ZkMweS1OMC0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Pirates are already playing Forza Horizon 6 days before its launch - Ars Technica",
+    "description": "Pirates are already playing Forza Horizon 6 days before its launch  Ars TechnicaForza Horizon 6 appears to have leaked online  Video Games ChronicleForza Horizon 6 has been leaked and cracked a week before its release  The VergeForza Horizon 6 Leak Reportedly Drops 155 GB of Content Online  Insider GamingTurn up Your Airwaves with the Horizon Festival’s Biggest Line-Up Yet  Forza.net",
+    "published date": "Mon, 11 May 2026 15:29:16 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRUk3ZmhWQ25TTm40TjN5YW9Xc0VpOEpvS0lkVk9qTnItTTJVbkdNT3Y1T2dPdTFVSXlJOElPX1h6bFYtTEFzU1lyTEE0VlRLN1ZwVW5YVVNHX3doc1dzS1BOTGo0cS12eGxnbzNLSnBZNm5sZUxJd3REQkUtNmlKRFJCRjgwcVFYMkx5cVpUNmNvZnZoc3dFZ19hbnFHWXQweU56aGRrSnBEdw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.ksby.com",
-      "title": "KSBY News"
+      "href": "https://arstechnica.com",
+      "title": "Ars Technica"
     }
   },
   {
@@ -120,46 +130,6 @@
     }
   },
   {
-    "title": "Pirates are already playing Forza Horizon 6 days before its launch - Ars Technica",
-    "description": "Pirates are already playing Forza Horizon 6 days before its launch  Ars TechnicaForza Horizon 6 appears to have leaked online  Video Games ChronicleForza Horizon 6 Dev Responds to Leak, Threatens Bans  IGNForza Horizon 6 has been leaked and cracked a week before its release  The VergeTurn up Your Airwaves with the Horizon Festival’s Biggest Line-Up Yet  Forza.net",
-    "published date": "Mon, 11 May 2026 15:29:16 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRUk3ZmhWQ25TTm40TjN5YW9Xc0VpOEpvS0lkVk9qTnItTTJVbkdNT3Y1T2dPdTFVSXlJOElPX1h6bFYtTEFzU1lyTEE0VlRLN1ZwVW5YVVNHX3doc1dzS1BOTGo0cS12eGxnbzNLSnBZNm5sZUxJd3REQkUtNmlKRFJCRjgwcVFYMkx5cVpUNmNvZnZoc3dFZ19hbnFHWXQweU56aGRrSnBEdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://arstechnica.com",
-      "title": "Ars Technica"
-    }
-  },
-  {
-    "title": "Nintendo Shares Tumble After Lackluster Switch 2 Games Outlook - Bloomberg.com",
-    "description": "Nintendo Shares Tumble After Lackluster Switch 2 Games Outlook  Bloomberg.comNintendo hikes Switch 2 prices and expects console sales to decline as memory crunch bites  CNBCPrice Revision for Nintendo Switch 2 System - News - Nintendo Official Site  nintendo.comNintendo shares slump as price hikes, games shortfall spook market  ReutersThe future of game consoles is looking bleak  The Verge",
-    "published date": "Mon, 11 May 2026 01:51:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQzB0cnFlODVLZV9PSXpZcXc0Vko2cndtbnN1ajd2MmJqNUJENlpMckJER0lmTzJxVTFLRmJkbHM5cU1KNEV4ZkpEeHRiVnNvSGRFeC1qMTBTaEk3bU8yVG11UnpwbjFJVWQ2ZVJnb1FvQ1l4SnFUUnJZNXd2ajU0aGdoWXFheW5HLUM1THVEZ0xzUVMzQUdyUFZVTjAwZ1YxQTIzbU9EUnFDUGMxN2o4bUtFSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.bloomberg.com",
-      "title": "Bloomberg.com"
-    }
-  },
-  {
-    "title": "New Rocket League Paris Major Bundle: All Net Sales Going to Competing Players & Teams - Rocket League ®",
-    "description": "New Rocket League Paris Major Bundle: All Net Sales Going to Competing Players & Teams  Rocket League ®",
-    "published date": "Mon, 11 May 2026 16:08:22 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWjdmZVpValVHaHg4dzl6WDRUWGVUQlBRb3dqZGVaTW9HZ0x2ZzNodzhUczZjRFJrT2RYWW5zbUsyUTMzYnFMMUt4a3laa0ZfWHhDdEI5RnVFQWFzRU9ZVUNSQVdVSEcwV1BTSkdIRWZEV3dSMVhwZTRma000N2dyYkNQeTNaaldEMWR2U2ZaWVVEUldVTlBlbUVSV09WRUpxN2RZTmxxZWdoVjJScVo1d3dIVHJRS0NtQkU0VTd3?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.rocketleague.com",
-      "title": "Rocket League ®"
-    }
-  },
-  {
-    "title": "The latest Crimson Desert update lets you mount iguanas, mountain goats, tigers, lions and other fantastic beasts - Eurogamer",
-    "description": "The latest Crimson Desert update lets you mount iguanas, mountain goats, tigers, lions and other fantastic beasts  EurogamerHow ‘Crimson Desert’ beat the critics and became a global hit  The Washington PostCrimson Desert Adds Surprise Claw Machine Mini-Game and Lets Pet Dogs Attack Enemies as Part of Update 1.06.00  IGN‘Crimson Desert’ Patch Fixes A Big, Annoying Issue, Also Adds Mounts, Attack Dogs  ForbesCrimson Desert: Giving Players What They Want Instead of a Fixed Roadmap  Inven Global",
-    "published date": "Mon, 11 May 2026 10:59:21 GMT",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqMGRpUGRBcmxEbjdUUXk4aUo4WEhQVE1wQzVIemgwSGNXeXlCNmJBQkozSDdES1RKX0w3clNRS0ZuRHBHYXlwSDNYNXBlYjZ6NjJCXzJaaWhsazhWNHd1NnlhRmRFY3hPbEVyaEp1NA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.eurogamer.net",
-      "title": "Eurogamer"
-    }
-  },
-  {
     "title": "The Design of Mood Swings, Part 1 - Magic: The Gathering",
     "description": "The Design of Mood Swings, Part 1  Magic: The Gathering",
     "published date": "Mon, 11 May 2026 15:18:42 GMT",
@@ -170,23 +140,53 @@
     }
   },
   {
-    "title": "The No. 1 most underrated communication skill—it's a simple but 'powerful' technique that can save a conversation, says expert - CNBC",
-    "description": "The No. 1 most underrated communication skill—it's a simple but 'powerful' technique that can save a conversation, says expert  CNBC",
-    "published date": "Mon, 11 May 2026 15:25:01 GMT",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVmtpNEd3Z3BOQnM3NkZkbXdpcEM1ZVlQekxLQmIxdFVZcVBFN1hHa0tGV1lUcHJEVi1FRS1XeWZCMDQtRkJIMVV3R0NzRjY0NmhNMk5oeHJjZ3hEYnJGUTZxYS1obHplWnVVNnMxc2lQYlN4cTJGSWV1MWhlRkotem9aaWo1ZHY4NEJuMC1QUGw3RlBEODZPdFc4VVpYRmVPOG80Z0w4NlZBdmtrcXZKMHJRb3ZzdkhoQS1vZEZFSUo4Sk9k0gHKAUFVX3lxTE9URDF1ejJaNW5VTzhKUndQdWt5TDdKTlE1bGtMVnNfbXlzVUotR3Zuei0wX0FJbnFsQ1JwdWtQUGt6NXQtQS1heEY5SmdnSHQ2bnNPZV8teTlDQV85NmhRMTlCQ0NzQTNvTWpYakJDeTlQeVRjTGxzUXhIQUZHRFpSY0UtaHpVWGE1V3pXOGxMV0g3UWR3cW1TN1RLME5ZLWVMb2xGSl9JSERfOWZmQWV6djdIZzc0ZDdJdmN0WFMwOElxbjVZelhKTVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Nintendo Shares Tumble After Lackluster Switch 2 Games Outlook - Bloomberg.com",
+    "description": "Nintendo Shares Tumble After Lackluster Switch 2 Games Outlook  Bloomberg.comNintendo hikes Switch 2 prices and expects console sales to decline as memory crunch bites  CNBCPrice Revision for Nintendo Switch 2 System - News - Nintendo Official Site  NintendoNintendo shares slump as price hikes, games shortfall spook market  ReutersThe future of game consoles is looking bleak  The Verge",
+    "published date": "Mon, 11 May 2026 01:51:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQzB0cnFlODVLZV9PSXpZcXc0Vko2cndtbnN1ajd2MmJqNUJENlpMckJER0lmTzJxVTFLRmJkbHM5cU1KNEV4ZkpEeHRiVnNvSGRFeC1qMTBTaEk3bU8yVG11UnpwbjFJVWQ2ZVJnb1FvQ1l4SnFUUnJZNXd2ajU0aGdoWXFheW5HLUM1THVEZ0xzUVMzQUdyUFZVTjAwZ1YxQTIzbU9EUnFDUGMxN2o4bUtFSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.cnbc.com",
-      "title": "CNBC"
+      "href": "https://www.bloomberg.com",
+      "title": "Bloomberg.com"
     }
   },
   {
-    "title": "Nintendo says Switch 2 sales are picking up in the west, not concerned about momentum, \"wealth of new titles\" on the way - Nintendo Everything",
-    "description": "Nintendo says Switch 2 sales are picking up in the west, not concerned about momentum, \"wealth of new titles\" on the way  Nintendo EverythingAs Nintendo's Share Price Drops Following the Announcement of Console Price Rises, Switch 2 Maker Promises Unannounced Games Due Later This Year  IGNStop Stressing, Nintendo Says More Switch 2 Games Are Coming  Nintendo LifeEvery Major Nintendo Switch 2 Exclusive Coming This Summer  Men's JournalLeaker reveals half a dozen Nintendo Switch 2 titles currently in the works  KitGuru",
-    "published date": "Mon, 11 May 2026 11:54:34 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNalFiRktMRExBc2RuRUFWU0ExUko2TEVuV0hfUmRxazBfZHMxTW1nWlFJSmJoWFlBaVBDLXZydktGTjRXMGlNeXZDS3FjOFR2ejJpeVZta1lwZUY3bTR1R2NXSFVzbTJhaWJQZ25FTjYyZDgzbGc5QW55dDI2cGFJdzgzZG9mdWpKMkFlM0t4TWpSWG81ZlljUi1xQ09xNHAzYi1yVFYwWkEzVWZ5ZXVFTFpOV1ljUUNpd1Mxb1NibnhFT0h6eEgyR1o2VzdUX0QtNlNUQ3pNYllVWFhyQ1A5eFNR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "‘Crimson Desert’ Patch Fixes A Big, Annoying Issue, Also Adds Mounts, Attack Dogs - Forbes",
+    "description": "‘Crimson Desert’ Patch Fixes A Big, Annoying Issue, Also Adds Mounts, Attack Dogs  ForbesHow ‘Crimson Desert’ beat the critics and became a global hit  The Washington PostCrimson Desert Adds Surprise Claw Machine Mini-Game and Lets Pet Dogs Attack Enemies as Part of Update 1.06.00  IGNThe latest Crimson Desert update lets you mount iguanas, mountain goats, tigers, lions and other fantastic beasts  EurogamerCrimson Desert: Giving Players What They Want Instead of a Fixed Roadmap  Inven Global",
+    "published date": "Mon, 11 May 2026 12:58:38 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQlZwaUN5RDdoNHJFLXhjSEtJSHdFQ0tzbE50ZVZzQWo2b3VpcmNuU01Sem1uV2RuN2MtUkxINTloMjhZWEtYVDQ0OGZsZ2xDVWJGQWs1bWFLYVQxcWFLNDVKQVctLVZLVURoUEdKVmRnU2dhdVZvQW91Q3l5ZHFybDB2QW1TcmE4cnNEX2poZWctYlZMNXdwWUdDei1PWllBQmFoSjBLaXc4QkRWb2YtZ1AyaWtBNWYtS3NaWE1MN3Y2NE50a3c?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://nintendoeverything.com",
-      "title": "Nintendo Everything"
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
+    }
+  },
+  {
+    "title": "New Rocket League Paris Major Bundle: All Net Sales Going to Competing Players & Teams - Rocket League ®",
+    "description": "New Rocket League Paris Major Bundle: All Net Sales Going to Competing Players & Teams  Rocket League ®",
+    "published date": "Mon, 11 May 2026 16:08:22 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS18xSlFLYndJSmFpcWw5dEtSYlhjeGdod2lLSldvdmp1bFltQ2c0WVRBUkZkcDZmc3ZZQ09BMTdqZFBSYkdNZU5WVUk5TThnaXBPVjQ1OXl5cHl1czRMS2h4VjhTV284MnUtb2s4ZjJjRDR2ZHM5OE1jSWZPdXRYWDlFWDllSVd6am9DbFZGbVBzaHRQdTNVSUIxNnJGWEZjOVFSU0lrNDJFaHhpWjdjNG42RllDWmxlQS1HODkydEt3QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.rocketleague.com",
+      "title": "Rocket League ®"
+    }
+  },
+  {
+    "title": "Free Uncharted 4 Theme and Avatars Adventure to PS5, But You'll Need These Codes - Push Square",
+    "description": "Free Uncharted 4 Theme and Avatars Adventure to PS5, But You'll Need These Codes  Push SquareCELEBRATING 10 YEARS OF UNCHARTED 4: A THIEF’S END  Naughty DogPlayStation Releases Free Uncharted PSN Downloads for PS4 and PS5  comicbook.com20 Years On, ‘Uncharted’ Is Still Changing Games  GizmodoUncharted 4 is the antidote to overly bleak gaming  games.gg",
+    "published date": "Mon, 11 May 2026 17:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeXZZU0dpdlVKUHcya0Z0Vkt5Qm9kVWxKZllnWUJWSUp4ZW93a2JlVS04WWVGMVNsd0ktZldqZzlUTGE4Nnc0cmVKV2N1NG9hYWFoaXQ1eEJSQzVrRVcxS3MtUjM5RnpndGNGcmpmSTZKVHhXTmRtQ0ZqOFVtRVlzTVNSRWxreFRVcUMzTUx1Sy1GaFNkWUhiWHVuSk9OenNaZTd6MmdycTRiaVE0N00zMzdWN3Y4cjFwWlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.pushsquare.com",
+      "title": "Push Square"
+    }
+  },
+  {
+    "title": "Pre-purchase And Pre-load Subnautica 2 Early Access Starting Today! - Unknown Worlds",
+    "description": "Pre-purchase And Pre-load Subnautica 2 Early Access Starting Today!  Unknown WorldsA New Subnautica 2 Gameplay Trailer Just Dropped Ahead Of Its Early Access Release  EngadgetSteam's most-wishlisted game is out this week following a year of corporate drama that involved one of the most embarrassing ChatGPT uses on record  PC GamerHow Co-Op Multiplayer Works In Subnautica 2  GameSpotSubnautica 2 Granting Players Free Statue Upon Reaching Impressive Milestone Before Launch  TechRaptor",
+    "published date": "Mon, 11 May 2026 15:09:13 GMT",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ycmpmTW8xTXlWM2hFamdCVHk2bmtfMEctQmo2aGRFdVM2ZFRCano4MkxVNmtNMVBPSkJOQS02bXZoWXhQTWJTRUZHWmJXMElNd0Y1dl9mc1ltRk0wOW1WVVgwMjBpM1V4eTN2ckR1Z2NGanM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://unknownworlds.com",
+      "title": "Unknown Worlds"
     }
   },
   {
@@ -200,29 +200,39 @@
     }
   },
   {
-    "title": "Outbound Is Available Today With Xbox Game Pass, And Here's What The Reviews Are Saying - Pure Xbox",
-    "description": "Outbound Is Available Today With Xbox Game Pass, And Here's What The Reviews Are Saying  Pure XboxA Tourist Guide: Top 5 Landmarks to Visit in Outbound, Out Today  Xbox WireOutbound Now On Nintendo Switch 2  games.ggXbox Game Pass Adds A Cozy Open-World Game Today  VICEOutbound: Release Date, Gameplay, Co-Op, and Demo Details  space4games",
-    "published date": "Mon, 11 May 2026 11:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUzg4TFYzVnpnRHppT1huZ2RwQlpaQldFRG00WXhkTEVNQ2hwRkR5OGE5dmF4QTFPY1J3YUczNV84ZTl2eWlBblVnelRQQWszLWs2Z3p4eFpPSWlsYk03N3d5Qms5Ymc5VUpHem5yR2dvT2xlTVcxeEprbl9OcjAzbElwM0NDcExGM2tZTDdYUUYyZFBXNWdRdEJDSjNCNm16b2g4eTFqMEN5TnBuRFRpZDMzUG01SFJWbXNQZjRTX3g?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Xbox Game Pass adds new day-one game Outbound today - TrueAchievements",
+    "description": "Xbox Game Pass adds new day-one game Outbound today  TrueAchievementsA Tourist Guide: Top 5 Landmarks to Visit in Outbound, Out Today  Xbox WireOutbound Is Available Today With Xbox Game Pass, And Here's What The Reviews Are Saying  Pure XboxOutbound Now On Nintendo Switch 2  games.ggXbox Game Pass Adds A Cozy Open-World Game Today  VICE",
+    "published date": "Mon, 11 May 2026 09:24:42 GMT",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBEQjNkbmxBRVg2WEkweVZCYUV4S3l1YVI2cXdPZGhQMlU1TkVJZGs5WnVGUnNZQnduVjVBX1RkWTNDV1h2UVVweEJXYmFaM3dxdkRTc3NfbXZMZWdGZGRVYVdsTTVIRFZHTTBEdWZ3?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.purexbox.com",
-      "title": "Pure Xbox"
+      "href": "https://www.trueachievements.com",
+      "title": "TrueAchievements"
     }
   },
   {
-    "title": "Yes, Apple Is Reportedly Retooling Some Liquid Glass Problems for macOS 27 - Gizmodo",
-    "description": "Yes, Apple Is Reportedly Retooling Some Liquid Glass Problems for macOS 27  GizmodoApple to Make Design Changes in macOS 27 to Address Tahoe Quirks  Bloomberg.comApple's macOS 27 will fix the most annoying design issues in macOS Tahoe, report claims  MashableLiquid Glass Tweaks Are Reportedly Coming In The Next macOS  EngadgetmacOS 27: Two More Changes Leaked Ahead of WWDC Next Month  MacRumors",
-    "published date": "Mon, 11 May 2026 09:00:51 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWmxhWTZKUFNfV0pUbmR4RUdmYkI3anBxb1gyaFY3X1ExeDVvbXg4R0VadVVobzItd3hfajRWeVlRSWk2SGNCazhuOVZYdUNuSlJJSUJQNFNLZnR0b3VMOWh1eEtBTGxDLU5uMEVTYkxidHE4NTl2UkREclgtWVFoeVVtOGhCSGtXckF6SWJsc1o2N0xIQzVGMElKMkhNRXVNNkNVcUFfQ1I?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Nintendo says Switch 2 sales are picking up in the west, not concerned about momentum, \"wealth of new titles\" on the way - Nintendo Everything",
+    "description": "Nintendo says Switch 2 sales are picking up in the west, not concerned about momentum, \"wealth of new titles\" on the way  Nintendo EverythingAs Nintendo's Share Price Drops Following the Announcement of Console Price Rises, Switch 2 Maker Promises Unannounced Games Due Later This Year  IGNNintendo says its preparing a “robust” software lineup to “enhance” the Switch 2  My Nintendo NewsLeaker reveals half a dozen Nintendo Switch 2 titles currently in the works  KitGuruNintendo Reveals They Have A Lot Of Unannounced Games Coming From September To March 2027  gameranx.com",
+    "published date": "Mon, 11 May 2026 11:54:34 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNalFiRktMRExBc2RuRUFWU0ExUko2TEVuV0hfUmRxazBfZHMxTW1nWlFJSmJoWFlBaVBDLXZydktGTjRXMGlNeXZDS3FjOFR2ejJpeVZta1lwZUY3bTR1R2NXSFVzbTJhaWJQZ25FTjYyZDgzbGc5QW55dDI2cGFJdzgzZG9mdWpKMkFlM0t4TWpSWG81ZlljUi1xQ09xNHAzYi1yVFYwWkEzVWZ5ZXVFTFpOV1ljUUNpd1Mxb1NibnhFT0h6eEgyR1o2VzdUX0QtNlNUQ3pNYllVWFhyQ1A5eFNR?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://gizmodo.com",
-      "title": "Gizmodo"
+      "href": "https://nintendoeverything.com",
+      "title": "Nintendo Everything"
+    }
+  },
+  {
+    "title": "B&H Introduces New Low Prices On 2026 MacBook Pro and MacBook Air - MacRumors",
+    "description": "B&H Introduces New Low Prices On 2026 MacBook Pro and MacBook Air  MacRumorsGet more space and solid performance with this MacBook Pro for under $500  MashableDeals: M5 MacBook Pro up to $350 off orig. list, M5 MacBook Air $180 off, Hue Bridge Pro, CarPlay units, more  9to5MacApple Offloads MacBook Air via Amazon at a Near Record Low, Full Price on the Apple Store  GizmodoStop right here! The 15-inch MacBook Air just dropped under $1,000  Macworld",
+    "published date": "Mon, 11 May 2026 13:46:52 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTk1MbXhwdjZJamdWXzNqcmxqcWRDZWtwOXQyMXp3djN0UzVRSEJSLWtwY2stemNoYjEzMWhydDJreEp0LXM0WTBRMTV0QWpXY3VlWWhWaVdLOWMzSDhja2FTY2p3aFV1QndyQVVjTTZGenR3dzNXNDM2TDNWdXV6bUtZcER6UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.macrumors.com",
+      "title": "MacRumors"
     }
   },
   {
     "title": "iPhone 20 leak reveals 7 ‘jaw-dropping’ features for the 20th anniversary model - Tom's Guide",
     "description": "iPhone 20 leak reveals 7 ‘jaw-dropping’ features for the 20th anniversary model  Tom's GuideApple’s iPhone 20 Could Destroy the Smartphone Design Rulebook  The Eastern Herald",
-    "published date": "Mon, 11 May 2026 06:19:58 GMT",
+    "published date": "Mon, 11 May 2026 06:15:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ1B0bDdyMVhQak5FdE53MWN6NUtQNlhlVmtNZzhMcmlyNmpEbXBWcmdJN20tZDZDaTBwQ0R4NlMyWHNRM2s5bTkzc255VDNaTGgyc21aZ3BCUGVMLXkxR1hQQkdkeEN3N1M4cDBnalE5U195cjF0eDl6YWROUmF3emh6WS16MFY5MHo2R3h1SXBvTTVNaUNlNWZLYkUwc1R4V0RIMG5ZSjh4WTBPMWpPeUhDZkR2Yk1sVFE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.tomsguide.com",
@@ -240,13 +250,13 @@
     }
   },
   {
-    "title": "B&H Introduces New Low Prices On 2026 MacBook Pro and MacBook Air - MacRumors",
-    "description": "B&H Introduces New Low Prices On 2026 MacBook Pro and MacBook Air  MacRumorsThe \"too powerful for its own good\" M5 MacBook Air is down to its best-ever price — buy for under $950  MashableDeals: M5 MacBook Pro up to $350 off orig. list, M5 MacBook Air $180 off, Hue Bridge Pro, CarPlay units, more  9to5MacSave $500 USD on the Apple 16″ MacBook Pro Kit with AppleCare+ (M5 Pro)  NewsshooterStop right here! The 15-inch MacBook Air just dropped under $1,000  Macworld",
-    "published date": "Mon, 11 May 2026 13:46:52 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTk1MbXhwdjZJamdWXzNqcmxqcWRDZWtwOXQyMXp3djN0UzVRSEJSLWtwY2stemNoYjEzMWhydDJreEp0LXM0WTBRMTV0QWpXY3VlWWhWaVdLOWMzSDhja2FTY2p3aFV1QndyQVVjTTZGenR3dzNXNDM2TDNWdXV6bUtZcER6UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "‘Stellar Blade 2’ Will Leave Sony Behind To ‘Fully Reflect Its Identity’ In Marketing - Forbes",
+    "description": "‘Stellar Blade 2’ Will Leave Sony Behind To ‘Fully Reflect Its Identity’ In Marketing  ForbesStellar Blade studio Shift Up breaks from publishing partner Sony for \"high-quality self-publishing\"  GamesIndustry.bizStellar Blade 2 shouldn’t be a PS5 exclusive  Polygon.comSHIFT Up Says Stellar Blade Sequel Is Progressing Smoothly and Will Be Self-Published  TwistedVoxelShift Up says it will publish Stellar Blade 2 instead of Sony, wants to ‘reach a broad global audience from day one’  Video Games Chronicle",
+    "published date": "Mon, 11 May 2026 13:19:13 GMT",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT0pFcmFCa2dBTW5TSWxRTkM2cHBrbU5wNlgzbEFNRjdUdW1GbzQtNU9PTzNoV2p3eWZuWlZOSkxsMDNfZDVVMVhPRW1wYmtxbXAwRThxMnkxUWhOMW1kaHY4RUVNT01SZ0NtZFVpLVJwc1VqdkVkaThpR3Q3Wkt5TVV3SDNhYVVERjlXdEFaM041ZWhoaXBVbXRqa3FpaG9IU2lGZ0FzS2ZFYlJhOFAyZVhueHloZXExMW5jWWdCWEk2ZTh6ZlRwX0lBZy0?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.macrumors.com",
-      "title": "MacRumors"
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
     }
   },
   {
@@ -260,13 +270,13 @@
     }
   },
   {
-    "title": "Stellar Blade 2 Isn't Being Published By Sony, And That's Great News For PC Gamers - GameSpot",
-    "description": "Stellar Blade 2 Isn't Being Published By Sony, And That's Great News For PC Gamers  GameSpotStellar Blade 2 May Go Multiplatform After Developer Says the Sequel Won't Be Published by Sony  IGNStellar Blade 2 shouldn’t be a PS5 exclusive  Polygon.comSHIFT Up Says Stellar Blade Sequel Is Progressing Smoothly and Will Be Self-Published  TwistedVoxel‘Stellar Blade 2’ Will Leave Sony Behind To ‘Fully Reflect Its Identity’ In Marketing  Forbes",
-    "published date": "Mon, 11 May 2026 14:52:44 GMT",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPemRLT2VVUGF3SVBxUk1kWGppcWtVUnZZYkJialplbnBHMXFLM1lveTdzTzJHX1ZOa2ZELTdVWGRaSWFTRDRkd01Kdk11N0h4NVhDS3EwZUdZdFJxTUM5MDdwWmNwRklTel9SZWhvUWRuNEFHNFk2NC04eE1EYmt5aXYxUExjcmVwVmRWd2JMU0poVl9SbUdLSFYwd2dlQzFxYlhtczhUSXpZOXdvcDhtbVVxM1I3dGp2cVVIdTJZdEFBZkl6RGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Liquid Glass Tweaks Are Reportedly Coming In The Next macOS - Engadget",
+    "description": "Liquid Glass Tweaks Are Reportedly Coming In The Next macOS  EngadgetApple's macOS 27 will fix the most annoying design issues in macOS Tahoe, report claims  MashableApple to Make Design Changes in macOS 27 to Address Tahoe Quirks  Bloomberg.commacOS 27: Two More Changes Leaked Ahead of WWDC Next Month  MacRumorsYes, Apple Is Reportedly Retooling Some Liquid Glass Problems for macOS 27  Gizmodo",
+    "published date": "Sun, 10 May 2026 16:50:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMUtDanlvQjd4Mi1xZE5YTjNLU3NXNHZrRXB1c3ZoRTE4dUgyYjZ3UzJfanowYk5ITkJXbVRaWnFBZVpGZEZpc1JYQjlUUVRmSXh6bE9oT1lLV0NPQUNGeXJ4UGc2TEI2Y3VOU016cVpkSWRsZWEydkwtejgycllNQUJIZzZRb193Qy1odXJIbXdBeHN3NmJjOA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.gamespot.com",
-      "title": "GameSpot"
+      "href": "https://www.engadget.com",
+      "title": "Engadget"
     }
   },
   {
@@ -280,13 +290,23 @@
     }
   },
   {
-    "title": "Pre-purchase And Pre-load Subnautica 2 Early Access Starting Today! - Unknown Worlds",
-    "description": "Pre-purchase And Pre-load Subnautica 2 Early Access Starting Today!  Unknown WorldsA New Subnautica 2 Gameplay Trailer Just Dropped Ahead Of Its Early Access Release  EngadgetSubnautica 2 Release Time, Game Pass, Price, and Early Access Explained  KeenGamerSubnautica 2 Early Access Map Size Explained  games.ggHow Co-Op Multiplayer Works In Subnautica 2  GameSpot",
-    "published date": "Mon, 11 May 2026 15:09:13 GMT",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ycmpmTW8xTXlWM2hFamdCVHk2bmtfMEctQmo2aGRFdVM2ZFRCano4MkxVNmtNMVBPSkJOQS02bXZoWXhQTWJTRUZHWmJXMElNd0Y1dl9mc1ltRk0wOW1WVVgwMjBpM1V4eTN2ckR1Z2NGanM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Hackers abuse Google ads, Claude.ai chats to push Mac malware - BleepingComputer",
+    "description": "Hackers abuse Google ads, Claude.ai chats to push Mac malware  BleepingComputerClickFix campaign uses fake macOS utilities lures to deliver infostealers  MicrosoftDonuts and Beagles: Fake Claude site spreads backdoor  SophosFake macOS Troubleshooting Sites Used to Steal iCloud Data in ClickFix Scam  HackreadSecurity Bite Podcast: Why ClickFix is now the top way Macs get infected  9to5Mac",
+    "published date": "Sun, 10 May 2026 17:52:15 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObHpLVXEtVFJPWXhBUU5LSzUybGp3ckNKRmdyRmN2NXNRMXdBbkhUQXktUmJSZkxFTU1kMW4tMnk4ZE5wV0t2dHZPOUFEbzNPNUx0aUVwUG9zM3FMZjRjMzg5LWNjRFdNbFE1MjVKUE1NNkxlenlkWEE1N21EYUQ2cnZ0enNCY1pUazlYV0Frd2ZEdlRHdkJCQlZzY2NfaXB4Z2FZcE52QjRzWlXSAbABQVVfeXFMTmFrLUZueGU2Zkx6UjM0VWE4SXFrZWlyNnBDUFVzTlZmeTNkS2pLT2huaUM1RlVqT25JZHVvNDZ5RWdjSnVJQW55c1FnekpVVVgzeVpCWDlndXR0MTVRaUxrTVVCVWF2azB4RTVmWWo3S0FsazBzY25VS3VEREZFM25UNEpfeGx2dDRaeFhndTFYbVNLRU1rZkY4VnNoQ0g2RTBSSEw1WU14M005MkFoNC0?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://unknownworlds.com",
-      "title": "Unknown Worlds"
+      "href": "https://www.bleepingcomputer.com",
+      "title": "BleepingComputer"
+    }
+  },
+  {
+    "title": "visionOS 27 will bring these new Vision Pro upgrades: report - 9to5Mac",
+    "description": "visionOS 27 will bring these new Vision Pro upgrades: report  9to5MacApple releases tvOS 26.5, HomePod 26.5, and visionOS 26.5  9to5MacApple rolls out tvOS 26.5 to Apple TV and HomePod  AppleInsiderApple Releases tvOS 26.5  MacRumorsvisionOS 27 Vision Pro Upgrades: 4 Key Areas to Watch  virtual.reality.news",
+    "published date": "Mon, 11 May 2026 13:37:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZHdwZG4yeDNfajFaejd0Zk5qMElZbGVYRGNkWC1tYTZmbXQ4SkRURVJEbWYwUXIxcnJmRVFhb1pIZU0yQUY5RTBadzNKQ1YzU1BZUFlmOFg4c0M1dURCcGtwMnlMZFJLZTNEZG0tNGtHbGpxWVRmb1J5dy1BZjZZTjVUbVJRTHV5TWwwSDQ3TWNvZWQyQkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://9to5mac.com",
+      "title": "9to5Mac"
     }
   },
   {
@@ -300,83 +320,13 @@
     }
   },
   {
-    "title": "Incredible Uncharted 4 Documentary Reveals Huge Gameplay & Story Differences in Amy Hennig Version - Insider Gaming",
-    "description": "Incredible Uncharted 4 Documentary Reveals Huge Gameplay & Story Differences in Amy Hennig Version  Insider GamingInside the Scrapped Version of Uncharted 4 Led by Amy Hennig  80 LevelUnprecedented Uncharted 4 Deep Dive Reveals Cut Stories, Playable Characters, And Much More  KotakuNew Details and Motion Capture Footage Surface From Amy Hennig’s Canceled Version of Uncharted 4  TwistedVoxelUncharted 4: A Thief's End – Documentary reveals scrapped Splinter Cell approach  PlayFront",
-    "published date": "Mon, 11 May 2026 11:46:04 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOUZ3dEhmVGZEMzE2TDhKUE5faWJ3ZGVpdU9WSmlQRkJ3dUllVnJaWnZHUWFQVjlibDZKTVlNaFNVc3A1a2IzZ1NrQnBrbXFzdEpwWVp4bVJzYlRFZFJhXzgxTDlzc0tNbmlpdWJ6X3ZoYkVyeFlEVWN5a0p0anpLdzlqblFkeE1MeHV4Z0RXNVJ3Y3ZTcENJRzd0Q0hPSkg2eG1yblppeGtFXzQzSWlXbHlKVW84RkxJaV84bUZzZ1VNdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://insider-gaming.com",
-      "title": "Insider Gaming"
-    }
-  },
-  {
     "title": "Lucky Xbox Owners Accidentally Given Early Access To LEGO Batman: Legacy Of The Dark Knight - Pure Xbox",
-    "description": "Lucky Xbox Owners Accidentally Given Early Access To LEGO Batman: Legacy Of The Dark Knight  Pure XboxLego Batman: Legacy of the Dark Knight Preview  IGNLego Batman: Legacy of the Dark Knight May Be The Arkham Successor We've Been Waiting For  GameSpotFrame-Gen to 30fps? Lego Batman's \"Bizarre\" PC Specs Sheet Is a Case Study in How Not To Market a Game  Digital FoundryXbox Owners Accidentally Get Lego Batman Early As PC Players Bemoan Surprise Denuvo DRM  Kotaku",
+    "description": "Lucky Xbox Owners Accidentally Given Early Access To LEGO Batman: Legacy Of The Dark Knight  Pure XboxLego Batman: Legacy of the Dark Knight Preview  IGNLego Batman: Legacy of the Dark Knight May Be The Arkham Successor We've Been Waiting For  GameSpotFrame-Gen to 30fps? Lego Batman's \"Bizarre\" PC Specs Sheet Is a Case Study in How Not To Market a Game  Digital FoundryLegacy of the Dark Knight's Launch Trailer Is Set To Kiss From A Rose  Game Informer",
     "published date": "Mon, 11 May 2026 12:22:39 GMT",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa1NydkhuTVFMYW9DOWRCUWtXaU53VUI3aWlLanlvSWVtb1hReTdMVUNCeVJKZVZfN1l5dGxjRlJhNnN2RXNkY2tPZnh6S2FSeDZjdUR4Q1JBbDdMTGRWRUtha01xaXBDekotYjRmMXdFT01tNkN3UE5vTHJ2bVJnOWJibHRUUWtPS3hUTElaNlFNN290bnpleW5KaUtrNUhqd1Y1WXV0UXFNTU9UQXRTS3gwUEpCbzdvVldjMWNody1LM3FXVWhF?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.purexbox.com",
       "title": "Pure Xbox"
-    }
-  },
-  {
-    "title": "Hackers abuse Google ads, Claude.ai chats to push Mac malware - BleepingComputer",
-    "description": "Hackers abuse Google ads, Claude.ai chats to push Mac malware  BleepingComputerClickFix campaign uses fake macOS utilities lures to deliver infostealers  MicrosoftDonuts and Beagles: Fake Claude site spreads backdoor  SophosFake macOS Troubleshooting Sites Used to Steal iCloud Data in ClickFix Scam  HackreadFake macOS troubleshooting posts install crypto wallet stealers  CryptoRank",
-    "published date": "Sun, 10 May 2026 17:52:15 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObHpLVXEtVFJPWXhBUU5LSzUybGp3ckNKRmdyRmN2NXNRMXdBbkhUQXktUmJSZkxFTU1kMW4tMnk4ZE5wV0t2dHZPOUFEbzNPNUx0aUVwUG9zM3FMZjRjMzg5LWNjRFdNbFE1MjVKUE1NNkxlenlkWEE1N21EYUQ2cnZ0enNCY1pUazlYV0Frd2ZEdlRHdkJCQlZzY2NfaXB4Z2FZcE52QjRzWlXSAbABQVVfeXFMTmFrLUZueGU2Zkx6UjM0VWE4SXFrZWlyNnBDUFVzTlZmeTNkS2pLT2huaUM1RlVqT25JZHVvNDZ5RWdjSnVJQW55c1FnekpVVVgzeVpCWDlndXR0MTVRaUxrTVVCVWF2azB4RTVmWWo3S0FsazBzY25VS3VEREZFM25UNEpfeGx2dDRaeFhndTFYbVNLRU1rZkY4VnNoQ0g2RTBSSEw1WU14M005MkFoNC0?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.bleepingcomputer.com",
-      "title": "BleepingComputer"
-    }
-  },
-  {
-    "title": "Apple has reportedly rejected Touch ID for the Apple Watch for two reasons - 9to5Mac",
-    "description": "Apple has reportedly rejected Touch ID for the Apple Watch for two reasons  9to5MacThis Year’s Apple Watch Might Play Things Very Safe  GizmodoNext Apple Watch Models Unlikely to Add Touch ID, Focus on Battery Life  MacRumorsApple isn’t bringing Touch ID to Apple Watch, leaker insists  MacworldApple Watch Series 12: How the New ‘N240’ Sensors Could Predict Health Issues  Geeky Gadgets",
-    "published date": "Mon, 11 May 2026 11:20:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ2NRTnVvby0ySFdEZEJkaTZqWEVLTnhrVHowTk10ZmVGV0dGVmE1YWd5akZmZE9jMlVRQmlVU2psSzV4T0xYbm5XNVlSc0MxM0RyeEJ6TDVKR1VCWEsyRnNxYVlYQnI4V01oTlFYOTFHZXRxTEdXaGJ2VlZ1MXZseDJ1Z21jbmRMQTc1ZTZxanVudk96cnBMOGQtXzFjeVR6SGFlT2VwVzlPZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://9to5mac.com",
-      "title": "9to5Mac"
-    }
-  },
-  {
-    "title": "Vintage Disney-like shooter Mouse P.I. For Hire has sold so well its publisher has made all invested money back - Eurogamer",
-    "description": "Vintage Disney-like shooter Mouse P.I. For Hire has sold so well its publisher has made all invested money back  EurogamerMouse: P.I. For Hire Sales Update  IGNMouse: P.I. For Hire Switch 2 Review  Nintendo InsiderMouse: P.I. for Hire recouped all dev costs within a month, reaches 730k sold  GoNintendoMOUSE: P.I. For Hire has sold approximately 730,000 copies  Instant Gaming News",
-    "published date": "Mon, 11 May 2026 11:05:07 GMT",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wYjFSdDZFTUVhVk5ZYUxTdXdITXhQWUxuR0NzUkZNdjk5dnRZNWJZOWxrbFZLY3k1eTVPaUNBdld0aXZlT0N4QkctMlZLQVFIejZGYmdTNHNZYkhvTTRId1NNVER5V2M1Q3J4LQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.eurogamer.net",
-      "title": "Eurogamer"
-    }
-  },
-  {
-    "title": "Logitech’s tiny folding mouse improves upon the laptop trackpad - The Verge",
-    "description": "Logitech’s tiny folding mouse improves upon the laptop trackpad  The VergeLogitech's Rumored Folding Mouse Is Like a Little Flip Phone  CNETLogitech's new mouse wants to take on the Microsoft Surface Arc  NotebookcheckNew Logitech mouse leaks, folds under pressure  Stuff South AfricaLogitech's new folding mouse goes fully flat — something Microsoft's Arc can't do  gagadget.com",
-    "published date": "Mon, 11 May 2026 09:57:19 GMT",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hSlN5VnVocTFVZjVjbi1zck91cHdnRWZVV1pBN2JwR0VQVkd3bzQ3V1YzY2lPaTJmR3FpM0oxS1lvb2NtUUV4U2pTQzRhb2tNaDlYUThiVFVFdnVkSVEzLUZQNnp5N2pEbkZoT3BYRk1aLWZrYlh1WG1ZVDdtQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theverge.com",
-      "title": "The Verge"
-    }
-  },
-  {
-    "title": "PS5 Getting Acclaimed Switch Console Exclusive Adventure Game - PlayStation LifeStyle",
-    "description": "PS5 Getting Acclaimed Switch Console Exclusive Adventure Game  PlayStation LifeStyleSee more headlines & perspectives on Google News",
-    "published date": "Mon, 11 May 2026 12:44:33 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYzRWSEQxNENHYUJCVDZlemZPMGxfT2ZXZ2ZWSG9lSmNJLTZOQWk3R3pJVVI0U3ZCZEw4d0hvWUw2dzJuZi1JQXdpQW5GNzZYdVJNX1BFWFhNLUV2bzlZejhKd3FjcHNxc1ZVWTU4VE10S3drM2N1T0dfdFBGX05kS3RuN3dPLTVEMExMR3hnNTlBaENTT2U4SkViX2RlanPSAaQBQVVfeXFMTmlVRXRXdlVOY0pxTHltSzU3amxndFNrRllSZld0bzhNMHYxN05FNlhQOC1wNng0dHU0a0tpTmp6Nkw4QWlyRGNOdVNYeDByTTBXbElaZTFYQk41cldHRHlXRGZkMTlzZEt4SmhKOEczVFRrc2VrQ0dTWWctZnc1MTc4dFl6ZFA3QzcxLUtzOVhsZENzX3lGZnYxcWQ5U2FMamhZUEM?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.playstationlifestyle.net",
-      "title": "PlayStation LifeStyle"
-    }
-  },
-  {
-    "title": "ASUS teases ROG 20th anniversary Crosshair motherboard - VideoCardz.com",
-    "description": "ASUS teases ROG 20th anniversary Crosshair motherboard  VideoCardz.comASUS teases ROG 20th Anniversary motherboard  OC3DASUS Resurrects Its Legendary 2006 ROG Crosshair Copper Heatsink For a 20th Anniversary Motherboard  WccftechTop News Today: COMPUTEX Chips, Startup Funding & More  Analytics InsightEnterprise AI Infrastructure Solutions  Trend Hunter",
-    "published date": "Mon, 11 May 2026 09:22:40 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdi1ZNWk5ZjJuRC1ZbFlabHh3WU5zR3A4VHNNLUdnNWw5RkVseU42LXdSaUo3SFZRd2pJVUFqWDZ4UnpqRW1ZQjB6Q1psU0NNVGttM2xwdXNaUU9zaTJVZHlwcDA5Vy1EZFAwcXo0Z3JuaTJzMWVNWUlCdFpwNjhPZUhCTVV5MjJaWGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://videocardz.com",
-      "title": "VideoCardz.com"
     }
   },
   {
@@ -390,13 +340,43 @@
     }
   },
   {
-    "title": "WWE Teaser Might Have Revealed the Gears of War: E-Day Release Date - IGN",
-    "description": "WWE Teaser Might Have Revealed the Gears of War: E-Day Release Date  IGNWWE Sponsorship Could Hint at Gears of War: E-Day Launch  Insider GamingGears of War: E-Day Lands Between Halo and Fable as WWE Sponsorship Hints at September Slot in Xbox’s Calendar  WccftechGears Of War: E-Day Is Sponsoring Upcoming Professional Wrestling Event TripleMania 2026  gameranx.comGears of War: E‑Day Release Window May Have Leaked Early  VICE",
-    "published date": "Mon, 11 May 2026 15:21:03 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVFFqNVdHVGRGTXdFYlM5Y0VLNUdnQUpZZGxwLW9RYWdlRlNKRGlJNHQ4aV9QYk5PbGM4N09VX0FOS1lGSWZESU12eU91LTMxX2U0UC1PNHJTTm4tcXhsd3FVNDU4YmtOczlDX2JEUWJ6cUFQOWg4dTVzNVYxVzF6UTRmWlhtUTlQTnlPeEpOWE5CdGtmcnV3alhtRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "PS5 Getting Acclaimed Switch Console Exclusive Adventure Game - PlayStation LifeStyle",
+    "description": "PS5 Getting Acclaimed Switch Console Exclusive Adventure Game  PlayStation LifeStyleSee more headlines & perspectives on Google News",
+    "published date": "Mon, 11 May 2026 12:44:33 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYzRWSEQxNENHYUJCVDZlemZPMGxfT2ZXZ2ZWSG9lSmNJLTZOQWk3R3pJVVI0U3ZCZEw4d0hvWUw2dzJuZi1JQXdpQW5GNzZYdVJNX1BFWFhNLUV2bzlZejhKd3FjcHNxc1ZVWTU4VE10S3drM2N1T0dfdFBGX05kS3RuN3dPLTVEMExMR3hnNTlBaENTT2U4SkViX2RlanPSAaQBQVVfeXFMTmlVRXRXdlVOY0pxTHltSzU3amxndFNrRllSZld0bzhNMHYxN05FNlhQOC1wNng0dHU0a0tpTmp6Nkw4QWlyRGNOdVNYeDByTTBXbElaZTFYQk41cldHRHlXRGZkMTlzZEt4SmhKOEczVFRrc2VrQ0dTWWctZnc1MTc4dFl6ZFA3QzcxLUtzOVhsZENzX3lGZnYxcWQ5U2FMamhZUEM?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.ign.com",
-      "title": "IGN"
+      "href": "https://www.playstationlifestyle.net",
+      "title": "PlayStation LifeStyle"
+    }
+  },
+  {
+    "title": "Logitech’s tiny folding mouse improves upon the laptop trackpad - The Verge",
+    "description": "Logitech’s tiny folding mouse improves upon the laptop trackpad  The VergeLogitech's Rumored Folding Mouse Is Like a Little Flip Phone  CNETLogitech's new mouse wants to take on the Microsoft Surface Arc  NotebookcheckNew Logitech mouse leaks, folds under pressure  Stuff South AfricaLogitech's new folding mouse goes fully flat — something Microsoft's Arc can't do  gagadget.com",
+    "published date": "Mon, 11 May 2026 09:57:19 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hSlN5VnVocTFVZjVjbi1zck91cHdnRWZVV1pBN2JwR0VQVkd3bzQ3V1YzY2lPaTJmR3FpM0oxS1lvb2NtUUV4U2pTQzRhb2tNaDlYUThiVFVFdnVkSVEzLUZQNnp5N2pEbkZoT3BYRk1aLWZrYlh1WG1ZVDdtQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theverge.com",
+      "title": "The Verge"
+    }
+  },
+  {
+    "title": "ASUS teases ROG 20th anniversary Crosshair motherboard - VideoCardz.com",
+    "description": "ASUS teases ROG 20th anniversary Crosshair motherboard  VideoCardz.comASUS teases ROG 20th Anniversary motherboard  OC3DASUS Resurrects Its Legendary 2006 ROG Crosshair Copper Heatsink For a 20th Anniversary Motherboard  WccftechTop News Today: COMPUTEX Chips, Startup Funding & More  Analytics InsightEnterprise AI Infrastructure Solutions  Trend Hunter",
+    "published date": "Mon, 11 May 2026 09:22:40 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdi1ZNWk5ZjJuRC1ZbFlabHh3WU5zR3A4VHNNLUdnNWw5RkVseU42LXdSaUo3SFZRd2pJVUFqWDZ4UnpqRW1ZQjB6Q1psU0NNVGttM2xwdXNaUU9zaTJVZHlwcDA5Vy1EZFAwcXo0Z3JuaTJzMWVNWUlCdFpwNjhPZUhCTVV5MjJaWGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://videocardz.com",
+      "title": "VideoCardz.com"
+    }
+  },
+  {
+    "title": "Gears of War: E-Day's release window might have been revealed through a WWE Triplemania advert - Eurogamer",
+    "description": "Gears of War: E-Day's release window might have been revealed through a WWE Triplemania advert  EurogamerWWE Sponsorship Could Hint at Gears of War: E-Day Launch  Insider GamingGears of War: E-Day Lands Between Halo and Fable as WWE Sponsorship Hints at September Slot in Xbox’s Calendar  WccftechGears Of War: E-Day Is Sponsoring Upcoming Professional Wrestling Event TripleMania 2026  gameranx.comGears of War: E‑Day Release Window May Have Leaked Early  VICE",
+    "published date": "Mon, 11 May 2026 13:03:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVLVBfZG81eEpucmtkQ1lOM1ZtSWpmWDdvbVZkaGRPV3NUckFhMnAtMDk3VFc3X0JCZk5jQXF5REVLR3A0VE1OM3FFUUMzX1h0YjRlaHVxWlVWTFc2Q3pEWDUxLW04TjFaMDBJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.eurogamer.net",
+      "title": "Eurogamer"
     }
   },
   {
@@ -420,18 +400,18 @@
     }
   },
   {
-    "title": "20 Years On, ‘Uncharted’ Is Still Changing Games - Gizmodo",
-    "description": "20 Years On, ‘Uncharted’ Is Still Changing Games  GizmodoCELEBRATING 10 YEARS OF UNCHARTED 4: A THIEF’S END  Naughty DogPlayStation Releases Free Uncharted PSN Downloads for PS4 and PS5  comicbook.comFree Uncharted 4 Theme and Avatars Adventure to PS5, But You'll Need These Codes  Push SquareUncharted 4 is the antidote to overly bleak gaming  games.gg",
-    "published date": "Sun, 10 May 2026 16:25:55 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORFpWREJNRjVBUTNBT0VfNWc1Y2NRUWRISUhjRWIya04zSGxCNG1Ua2FvbHE5dlg0eEhBN1FONGZleTdtR3pKbzlFVHVwY1lTNWNqand1OGJjOXZjRk9xQ0w2aW5fYWNqUWhMeERyT2lINEFEakJRcTdCZ3NOcVZGVUJR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "What to Do With Clematis in May – 5 Simple Jobs That Lead to Bigger, Better Summer Blooms - Homes and Gardens",
+    "description": "What to Do With Clematis in May – 5 Simple Jobs That Lead to Bigger, Better Summer Blooms  Homes and Gardens",
+    "published date": "Mon, 11 May 2026 04:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ySFBRYkNvYzVqNG5HcHAzYlRzTzVlWXpvdHZOTVgzb3c2UFpQTjBrSGNTc0xhdFBlcUNxaWFJbmo0NmQ2N1VyVF9WMWdaUjhjUEpLMXFWQnhQMlhPOXBkWEdlY01RcTlZZGM5emRBWG9jRHBQZHZjQ0lfVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://gizmodo.com",
-      "title": "Gizmodo"
+      "href": "https://www.homesandgardens.com",
+      "title": "Homes and Gardens"
     }
   },
   {
     "title": "Despite previous comments, Star Fox's original creator thinks Switch 2 version is \"exactly\" what he \"had in mind\" in the 90s - Eurogamer",
-    "description": "Despite previous comments, Star Fox's original creator thinks Switch 2 version is \"exactly\" what he \"had in mind\" in the 90s  EurogamerStar Fox Direct 5.6.2026  nintendo.comStar Fox On Switch 2 Isn't Just A Retread, It's A Fresh Start  GameSpot'Star Fox' is returning this summer with a shiny 'Star Fox 64' remake for Nintendo Switch 2 full of unique features  SpaceA Star Fox Remake Is Heading To Switch 2 On June 25  Engadget",
+    "description": "Despite previous comments, Star Fox's original creator thinks Switch 2 version is \"exactly\" what he \"had in mind\" in the 90s  EurogamerStar Fox Direct 5.6.2026  NintendoStar Fox and Donkey Kong Bananza reveal new plushies [update: pre-orders live]  Nintendo EverythingNintendo's new Star Fox game is actually the fifth Star Fox 64 remake  Polygon.comStar Fox On Switch 2 Isn't Just A Retread, It's A Fresh Start  GameSpot",
     "published date": "Mon, 11 May 2026 08:58:54 GMT",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYi1JdnpRVDNoclNmYi1BQTRxQ2VNbDVNNDl5NnNBclhtdzhfM2VVV1l5ZzdXS1FUTC1fMlJzUnlzc0NjRERKTFJYSXY4S3d6dk1aaWdrUkZtZWhwbDIyMmNpRk9aNEV1WGJrRVBwTTJvUFczdG9VMVdkS2hiVEtyVTB3?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -440,18 +420,28 @@
     }
   },
   {
-    "title": "11 Reasons to Wait for the iPhone 18 Pro - MacRumors",
-    "description": "11 Reasons to Wait for the iPhone 18 Pro  MacRumorsWhy iPhone 18 Price Report Is Good News For Apple Buyers  ForbesiPhone 18: Here's What We Know About Apple's Next Flagship Phone  CNETiPhone Ultra and iPhone 18 lineup: Everything you need to know about Apple's rumored 2026 devices  Yahoo TechiPhone 18 Pro Rumored to Keep Aluminum Finish Amid Durability Complaints  MacRumors",
-    "published date": "Mon, 11 May 2026 16:01:36 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQWZwUVlWT0hDMW1JQi1Pd1FfQUMxRmtGdm95UV9DRVd3S0JFUXB6T0hjRG1vc3F0dENvVDZHSzdDWUZ6YldKeEt6dXI5ZGZUTG5LSUVIUktuaDRvVW5YR2pPUk9nZTMzWjdVSWl4RXNqY0gxVTlod1piNDk1SFJRcUpmMXZDUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Windows 11 is getting a macOS-like speed boost - The Verge",
+    "description": "Windows 11 is getting a macOS-like speed boost  The VergeMicrosoft's Next Windows 11 Update Could Come With a Big Speed Boost  CNETWe learned Microsoft is building a significant Windows 11 speed improvement and it targets the actions you use most  Windows CentralI tested Windows 11's hidden Low Latency Profile, and budget PCs are about to feel premium  Windows LatestMicrosoft is boosting the launch time of key Windows apps and features - here's how  ZDNET",
+    "published date": "Mon, 11 May 2026 11:12:42 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdm9NVlBobXoySWRxeEdteFprUVNlQ2V5OG1uTklxYkdKZk40X2syZWRWcC0zWlFZTmRzOTRvM2dZQ3FmcjlkTWJBMGRMVlRtRzlWRjZjMW5ZaGJiandkMWFyY3VHQ21VZ3VLczNxRHFETXdFMFQ5SThGMzBYckN6eHNtT3lLWWRDNG5v?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.macrumors.com",
-      "title": "MacRumors"
+      "href": "https://www.theverge.com",
+      "title": "The Verge"
+    }
+  },
+  {
+    "title": "You Need a PS5 Pro to Play 007 First Light at Its Best on Console - Push Square",
+    "description": "You Need a PS5 Pro to Play 007 First Light at Its Best on Console  Push SquareLicence to thrill: could 007 First Light be the best Bond game since GoldenEye?  The Guardian007 First Light: Here Are The Full PC Specs And Requirements  Game InformerThe best James Bond movie replacement officially releases in 3 weeks  Polygon.com007 First Light Second-Take Preview: 007 First Light Feels like the Fresh Start that Bond Fans Deserve  IGN",
+    "published date": "Mon, 11 May 2026 18:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQzBSdkFBVXFnSWstaWc2TEFQZU9nWWRCSklXS1YxRVVGeTdxLXVJMVc2NlN3Sl85SVBsa3dldlhTaTV6eWpqdmV6WGtCdGhnNTVaOUJMZmc4ZXVKVm1JN0lyY1d5UUFNZjFWelcyaEkxVUhrUENMek9ZdjUtVHRNcGt4SlN0WGVsNTliX2JnWktWdWczN3VrcnRkQkcta0NBOENDcExuZGM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.pushsquare.com",
+      "title": "Push Square"
     }
   },
   {
     "title": "Reddit Starts Blocking Mobile Website, Pushing Users to App Instead - MacRumors",
-    "description": "Reddit Starts Blocking Mobile Website, Pushing Users to App Instead  MacRumorsWhy Reddit blocked my daily visit to its mobile website  Ars TechnicaReddit Breaks Its Own Mobile Site to Push App Downloads  Gadget ReviewReddit begins blocking the mobile version of the website  SecNews.grHere's How to View Reddit on Your Phone Without Using the App  PCMag",
+    "description": "Reddit Starts Blocking Mobile Website, Pushing Users to App Instead  MacRumorsWhy Reddit blocked my daily visit to its mobile website  Ars TechnicaHere's How to View Reddit on Your Phone Without Using the App  PCMagReddit Makes Its Mobile Site Harder to Use to Drive App Downloads, Logins  Yahoo TechReddit Breaks Its Own Mobile Site to Push App Downloads  Gadget Review",
     "published date": "Mon, 11 May 2026 13:10:38 GMT",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb1NndVRpdnpacV9UcEYzM3hEZC03ZUQ1S0t1cGdQenlNVTFfekhWSzdFRTZ6T1F0M01RTDVMcGwyLWdnbGNCQ00xQTF5R2daWFNWdWJZaWJoWkstRVY1LUxhT3lGbXFldXI3Y0VGMFU1Nk83QmtXSEFkc19XQnBlUA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -470,33 +460,13 @@
     }
   },
   {
-    "title": "Lamborghini Fenomeno Roadster (2027) - NetCarShow.com",
-    "description": "Lamborghini Fenomeno Roadster (2027)  NetCarShow.comLamborghini's 'Few-Off' Fenomeno Roadster Boasts 1065 HP and Bizarre Side Windows  Road & TrackLamborghini’s New Fenomeno Roadster Is the Marque’s Most Powerful Open-Top Supercar Yet  Robb ReportLamborghini's Rarest Hypercar Yet Is a Roofless, 1,065-HP Beast Limited to Just 15 Units  HypebeastWelcome to the Fenomeno Roadster: the fastest ever roofless Lamborghini  Top Gear",
-    "published date": "Sat, 09 May 2026 21:44:09 GMT",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BcE1lN3IxYU1DWEV4NG1TSi1pcUJqUHpKMmNXXzVZc1dvYVJleHBKV0ZhcC12SGVwNXduN1l1OUN3dW5kTDNUb245VUltSUNRR2NkYUVaV01NR0dfdmdRWTJTRVZUM0o5YjFoX2I3dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "11 Reasons to Wait for the iPhone 18 Pro - MacRumors",
+    "description": "11 Reasons to Wait for the iPhone 18 Pro  MacRumorsWhy iPhone 18 Price Report Is Good News For Apple Buyers  ForbesiPhone 18: Here's What We Know About Apple's Next Flagship Phone  CNETiPhone Ultra and iPhone 18 lineup: Everything you need to know about Apple's rumored 2026 devices  Yahoo TechiPhone 18 Pro Rumored to Keep Aluminum Finish Amid Durability Complaints  MacRumors",
+    "published date": "Mon, 11 May 2026 16:01:36 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQWZwUVlWT0hDMW1JQi1Pd1FfQUMxRmtGdm95UV9DRVd3S0JFUXB6T0hjRG1vc3F0dENvVDZHSzdDWUZ6YldKeEt6dXI5ZGZUTG5LSUVIUktuaDRvVW5YR2pPUk9nZTMzWjdVSWl4RXNqY0gxVTlod1piNDk1SFJRcUpmMXZDUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.netcarshow.com",
-      "title": "NetCarShow.com"
-    }
-  },
-  {
-    "title": "Sunday Preview – March out with the Cities of Sigmar - Warhammer Community",
-    "description": "Sunday Preview – March out with the Cities of Sigmar  Warhammer Community",
-    "published date": "Sun, 10 May 2026 16:58:31 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOGFkZWFGYzJpSERUdDhjZjI1ZlpjbWZjMUs4YndqS1NRNzhJRkctQUFGZGRrbUxhWEk4ZkRQNFF6ampSVW1QOGszVXg3eTFWX2JWREVtdzk1U0dtYnFUUFMzVXdiSzI1UTFzOHZrMzZ6QUFVZEpJU0xuUWhtUHpVd29OSkdENW5LNDJwWjJQNGRzdkI5a1YtZHk1TXBOV2NrNkdjbGxsQ2hCS2FFenlMYg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.warhammer-community.com",
-      "title": "Warhammer Community"
-    }
-  },
-  {
-    "title": "Windows 11 is getting a macOS-like speed boost - The Verge",
-    "description": "Windows 11 is getting a macOS-like speed boost  The VergeI tested Windows 11's hidden Low Latency Profile, and budget PCs are about to feel premium  Windows LatestWe learned Microsoft is building a significant Windows 11 speed improvement and it targets the actions you use most  Windows CentralI left Windows for Linux, but Microsoft's K2 pivot just gave me a reason to reconsider  XDAI'm sick of Windows 11 being such a memory hog, so for the past week I've been using a RAM optimizer — here's what I found  TechRadar",
-    "published date": "Mon, 11 May 2026 11:12:42 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdm9NVlBobXoySWRxeEdteFprUVNlQ2V5OG1uTklxYkdKZk40X2syZWRWcC0zWlFZTmRzOTRvM2dZQ3FmcjlkTWJBMGRMVlRtRzlWRjZjMW5ZaGJiandkMWFyY3VHQ21VZ3VLczNxRHFETXdFMFQ5SThGMzBYckN6eHNtT3lLWWRDNG5v?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theverge.com",
-      "title": "The Verge"
+      "href": "https://www.macrumors.com",
+      "title": "MacRumors"
     }
   },
   {
@@ -520,26 +490,6 @@
     }
   },
   {
-    "title": "Writers are fleeing the Substack Tax - The Verge",
-    "description": "Writers are fleeing the Substack Tax  The VergeSee more headlines & perspectives on Google News",
-    "published date": "Sun, 10 May 2026 14:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLTUkyM1haX0w3NG5neWVvcGJrTU1Fb0l0VHJDNmh5a3lncjJHWVRYT1RoRTFJX1BwRXpkTFVyWkFhQWN5alZfVDJpcEF1SDQ0Q3NxQXFNX2NNVlpCd1Y5b3RzNVZJa2g2eGhaRUhRYzc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theverge.com",
-      "title": "The Verge"
-    }
-  },
-  {
-    "title": "You Need a PS5 Pro to Play 007 First Light at Its Best on Console - Push Square",
-    "description": "You Need a PS5 Pro to Play 007 First Light at Its Best on Console  Push SquareLicence to thrill: could 007 First Light be the best Bond game since GoldenEye?  The Guardian007 First Light: Here Are The Full PC Specs And Requirements  Game InformerThe best James Bond movie replacement officially releases in 3 weeks  Polygon.com007 First Light Second-Take Preview: 007 First Light Feels like the Fresh Start that Bond Fans Deserve  IGN",
-    "published date": "Mon, 11 May 2026 18:25:22 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQzBSdkFBVXFnSWstaWc2TEFQZU9nWWRCSklXS1YxRVVGeTdxLXVJMVc2NlN3Sl85SVBsa3dldlhTaTV6eWpqdmV6WGtCdGhnNTVaOUJMZmc4ZXVKVm1JN0lyY1d5UUFNZjFWelcyaEkxVUhrUENMek9ZdjUtVHRNcGt4SlN0WGVsNTliX2JnWktWdWczN3VrcnRkQkcta0NBOENDcExuZGM?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.pushsquare.com",
-      "title": "Push Square"
-    }
-  },
-  {
     "title": "Not Apple TV, Not Fire TV Stick: This Streaming Device Gets Consumer Reports' Top Rating - bgr.com",
     "description": "Not Apple TV, Not Fire TV Stick: This Streaming Device Gets Consumer Reports' Top Rating  bgr.com",
     "published date": "Sun, 10 May 2026 11:47:00 GMT",
@@ -550,28 +500,8 @@
     }
   },
   {
-    "title": "Study Shows 75% of Americans Prefer to Text Instead of Call Their Moms on Mother’s Day - AOL.com",
-    "description": "Study Shows 75% of Americans Prefer to Text Instead of Call Their Moms on Mother’s Day  AOL.comSee more headlines & perspectives on Google News",
-    "published date": "Sun, 10 May 2026 17:13:48 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdlFBTFR4d3A2NlJGZ1lEaGFDM2xsTEZsdURERzA4Z3Q4WVRwcmtsVW91bkU0MHlvdklLQkxCRHBua09qUjlJa1U2R1Bvb2JBUXVzSHdlZTUwRUdNdUl0aW5LWU1VZkRhVHZqWnA5TWgzSjl1azcwUUJwTmJ4STF6Ng?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.aol.com",
-      "title": "AOL.com"
-    }
-  },
-  {
-    "title": "5 Cool USB-C Gadgets You Should Plug Into Your New iPad - bgr.com",
-    "description": "5 Cool USB-C Gadgets You Should Plug Into Your New iPad  bgr.com",
-    "published date": "Sun, 10 May 2026 10:17:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5tV2QyNDM4YWdiYmdFRlBVMzF6RVlRM3JGUUdaZGU0WWxuNm45MW1MZ0hVd0JYZi1FNWkxeTBTTkU5XzBsdm9lUEtPc09iYXVndGxiS21acDlfVWhSbGhZWldOMDhEcWlqa25wOVFlSnlQVWhIZU5ncmROMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.bgr.com",
-      "title": "bgr.com"
-    }
-  },
-  {
     "title": "Leaked video shows Galaxy Z Fold 8 and Fold 8 Wide compromises - PhoneArena",
-    "description": "Leaked video shows Galaxy Z Fold 8 and Fold 8 Wide compromises  PhoneArenaSamsung Wide Fold design revealed in leaked images  MashableGalaxy Z Fold 8 release date: here's when Samsung could launch its next foldable  The Shortcut | Matt SwiderSamsung can't stop leaking its upcoming foldables in One UI 9  Android AuthorityStandard or Wide? Samsung’s New Dual-Fold Strategy Changes Everything for 2026  Geeky Gadgets",
+    "description": "Leaked video shows Galaxy Z Fold 8 and Fold 8 Wide compromises  PhoneArenaGalaxy Z Fold 8 release date: here's when Samsung could launch its next foldable  The Shortcut | Matt SwiderSamsung can't stop leaking its upcoming foldables in One UI 9  Android AuthoritySamsung Galaxy Z Flip 8 vs. Galaxy Z Flip 7: Maybe not worth the wait?  Yahoo TechSamsung Wide Fold design revealed in leaked images  Mashable",
     "published date": "Sun, 10 May 2026 22:36:12 GMT",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmWjctQWxLMW1GYnAxTGk3dGZDalZMbUZTTTBSRlpsZjNLQ1RUYzhCWlNwM0ZjcUk5Y19rZkV6bXVkVUE2cHhRU1dWSkdmb2lUWHIwX1pHTlVjUXVReWlGTERSX1ptclcya3M5TmR4cXhKeXEzSUdR?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -590,23 +520,13 @@
     }
   },
   {
-    "title": "Foldable iPhone 'Ultra' Rumored to Launch in Just Two Colors - MacRumors",
-    "description": "Foldable iPhone 'Ultra' Rumored to Launch in Just Two Colors  MacRumorsiPhone Ultra isn’t a foldable iPhone – it’s an iPad that makes calls  Tech AdvisoriPhone Fold mockup gives us in-depth look at Apple's foldable iPhone  Tom's GuideHey Apple, I Don't Want a Galaxy Z Fold Clone, I Want a Colorful 'iPhone Flip' Instead  PCMagApple’s Foldable Shock: The iPhone Ultra Fold Leak Reveals a Feature No One Saw Coming  Geeky Gadgets",
-    "published date": "Mon, 11 May 2026 14:39:12 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWVJGeFM2a0djNU5lUWpqdTRIYU9TSFBBd1FxMjFfaU5QRmF3aGwwMEw2U1JMTE92Ylp2Y0sxNXo0UWtsY0tkQl94emk1Z3MxdUJlSVJWd0c1bDNwMGhiSWR0X19id0lybjVCMF9HSThHVERaTmEzTWhZTjQzeklrZ1R5VmVndWptdGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Poll: Is Saros Better Than Returnal? - Push Square",
+    "description": "Poll: Is Saros Better Than Returnal?  Push SquareSaros Doesn’t Like Being a Roguelike, So Why Is It One?  GameSpot‘Saros’ Review: Total Eclipse of the Heart  Slant MagazineSAROS (Playstation 5) – Review  MKAU GamingBitcast 382 : Is Housemarque’s Saros a GOTY Contender?  Seasoned Gaming",
+    "published date": "Mon, 11 May 2026 19:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1MU5ELXlWQlhuYWZ6UWpZckdzRWJweEFJTk1OYnJZeUFmUVU1Z2lJUkFPdDByeDRyeHpjTFpXd2lyWHdRTWltcnU4QzRzNmtqNzlydVlZelFvOXpSZ3JVcHNyVko0cVlISk9LMXpNZE5DcjhHc3RHSDhn?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.macrumors.com",
-      "title": "MacRumors"
-    }
-  },
-  {
-    "title": "Bose’s new Sonos rival, a 360-degree David Bowie experience, surprise high-end hi-fi launch and more - What Hi-Fi?",
-    "description": "Bose’s new Sonos rival, a 360-degree David Bowie experience, surprise high-end hi-fi launch and more  What Hi-Fi?Bose takes on Sonos in your living room with its new wired speaker collection  New AtlasBose’s New Wired Speaker Sounds Like Sonos on Steroids  GizmodoBose's New Lifestyle Home Audio Lineup Includes A Speaker, Soundbar And Subwoofer  EngadgetBose Brings Back Its ‘Lifestyle’ Branding With New Speakers for the Home  WIRED",
-    "published date": "Mon, 11 May 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRWRySmRjM2dYQnd1eEV1SlluUFRRX0hWUUtIQlI2a1dVdjZ6SmIzajhQRW94QWUwSmRxMl9veEFhZnBmUy10NUVlQmtMSEJfTDN4VndwYVVyUEJJUzgwR25wcnVQbElxSWhSSjJoUVRBNmd3S1hVcUU4aFdlOEpoTk8tNFpNVkw1QkZLeW40cDlYd3JnZVVPbFNfMGZabkYxc2diODNXQW9uTHlDWHJhWTM4Y0RTLUd1MUhYT0RRaUdqakk?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.whathifi.com",
-      "title": "What Hi-Fi?"
+      "href": "https://www.pushsquare.com",
+      "title": "Push Square"
     }
   },
   {
@@ -617,6 +537,16 @@
     "publisher": {
       "href": "https://9to5mac.com",
       "title": "9to5Mac"
+    }
+  },
+  {
+    "title": "Bose’s new Sonos rival, a 360-degree David Bowie experience, surprise high-end hi-fi launch and more - What Hi-Fi?",
+    "description": "Bose’s new Sonos rival, a 360-degree David Bowie experience, surprise high-end hi-fi launch and more  What Hi-Fi?Bose takes on Sonos in your living room with its new wired speaker collection  New AtlasBose’s New Wired Speaker Sounds Like Sonos on Steroids  GizmodoBose's new home theater system is optimized for your various TV setups - but can it beat Sony?  ZDNETAlexa+ lands on Bose speakers as a free Prime perk - what changes for users  PPC Land",
+    "published date": "Mon, 11 May 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRWRySmRjM2dYQnd1eEV1SlluUFRRX0hWUUtIQlI2a1dVdjZ6SmIzajhQRW94QWUwSmRxMl9veEFhZnBmUy10NUVlQmtMSEJfTDN4VndwYVVyUEJJUzgwR25wcnVQbElxSWhSSjJoUVRBNmd3S1hVcUU4aFdlOEpoTk8tNFpNVkw1QkZLeW40cDlYd3JnZVVPbFNfMGZabkYxc2diODNXQW9uTHlDWHJhWTM4Y0RTLUd1MUhYT0RRaUdqakk?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.whathifi.com",
+      "title": "What Hi-Fi?"
     }
   },
   {
@@ -637,6 +567,16 @@
     "publisher": {
       "href": "https://www.purexbox.com",
       "title": "Pure Xbox"
+    }
+  },
+  {
+    "title": "'I stood on a dog biscuit - it left me in a wheelchair' - BBC",
+    "description": "'I stood on a dog biscuit - it left me in a wheelchair'  BBC",
+    "published date": "Sun, 10 May 2026 14:31:13 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2TXMyWVlCcnFxSi1uOWpaN3gySFg0WkhIQnBXMGg5d3k5UVFnNlpsVHd6SDlOVERiejNad05FcGtjTmF3OUJjQl90R0dFVHBSNU1ULUlreF94QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bbc.com",
+      "title": "BBC"
     }
   }
 ]
