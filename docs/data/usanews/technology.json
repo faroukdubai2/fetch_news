@@ -1,7 +1,7 @@
 [
   {
     "title": "I spent years forcing myself to finish The Witcher 3 —don’t repeat my mistake - Ars Technica",
-    "description": "I spent years forcing myself to finish The Witcher 3 —don’t repeat my mistake  Ars TechnicaThe Witcher 3 is a good game, but that doesn't mean you have to like it  GameDev.netI spent years forcing myself to finish The Witcher 3—don't repeat my mistake  GameDev.net",
+    "description": "I spent years forcing myself to finish The Witcher 3 —don’t repeat my mistake  Ars TechnicaI spent years forcing myself to finish The Witcher 3—don't repeat my mistake  GameDev.net",
     "published date": "Mon, 25 May 2026 11:22:27 GMT",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOelFPUnRQWnhhSlZNcXJWMW5vakNVVWczMmx4VHBzVzB6VU44b0JKX2Rxd2J2R0pQQ2psVFlHZmp3SjNlNGx5LTFsNHdqanhlZmNaOExQM1J3bjJtVDZTd24zWEtmMFFqcHpvRktITWk5WlZyNlhMNHE5YTU4QnRLdWRPckhkdlhZSk91bEdmTk9SM3JveGYtTlo4clpHRzJ4THdrdVk1Unh1VVd6alE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -10,69 +10,19 @@
     }
   },
   {
-    "title": "Microsoft Copilot Returns as a Sidebar in Windows 11 - TechPowerUp",
-    "description": "Microsoft Copilot Returns as a Sidebar in Windows 11  TechPowerUpMicrosoft lets users exile floating Copilot button after interface rage  The RegisterMicrosoft's big Copilot rollback continues as Office now lets you move its button to the ribbon  XDAMicrosoft admits the floating Copilot button in Word, Excel and PowerPoint was a mistake, lets you hide it after backlash  Windows LatestWindows 11 now lets you remove Microsoft Copilot app with Group Policy or Registry, as it tries to win back users  Windows Latest",
-    "published date": "Mon, 25 May 2026 07:41:26 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcG80enhmaFFpQW1UWVYyRVQtUGt2b3BDT3J2YzdvTm05d3g2YU9oRTh4WnYzWWpyc1pCVVE4aU1MQlhSZ2Q4ZXp5aXM2dUR3YUdRcmk0bl9wN1R4SGVKOC0wdTdHN3M1T1YwdFRreWhCZlVjZnRmOGdaM2RvOUp1YWFJdW9aMkR2NFFITkZFNEbSAZYBQVVfeXFMTVlkaFp5eTZXQzNibmFWdHd2MU1qWDUxaE1HQVREV01xRlJUV2ppaFdLc19HNS03bGFRbUVnZlNkaWk3Y2xuOEF4YW9ULVU2cDNHUHdPQS1TRWhBRl9nc1lUem1wb0tHUGE2Y0UtR0luT1Q1VTBoaDFmejZaalZOU1VvQ181WEFqamMxa0ZyWllManhBRllB?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.techpowerup.com",
-      "title": "TechPowerUp"
-    }
-  },
-  {
-    "title": "Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign - BleepingComputer",
-    "description": "Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign  BleepingComputerGhost CMS Vulnerability Exploited to Hack Over 700 Websites  SecurityWeekGhost CMS CVE-2026-26980 Exploited to Hijack 700+ Sites for ClickFix Attacks  The Hacker NewsGhost CMS SQL Injection Hits 700 Sites: Harvard, DuckDuckGo Serve Fake Cloudflare Malware  Tech TimesGhost CMS Mass Compromised via CVE-2026-26980, Now Fueling ClickFix Attacks  奇安信X 实验室",
-    "published date": "Sun, 24 May 2026 14:12:32 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVjR4R1R5NzFiT2ZRUlR2S3lSX3JqOVJzQk9vVWN1VjIzMWpDeHQ5UUgwdUw4UURvNnhnYzgtSnFOTjk0UFVGLXQtN19RYm1IRzh1MmQ1WS1OVVJMcGxOdFBNZmE2ajRKdTd2aFhmWWQtZm1qVjhXRHd3cU5Tdm0xTjk2M1FsSVI2dDA4bkl1NVB2eWkzRUdzYVlKQkt2NUdBZzgtZzVONlZUTmJldUs4VU9zaUhQVlpUS2Zz0gHAAUFVX3lxTFBYVlM0RjFUc3F4bndmcF9CSHRrZzNySFpNbUVOM1VLX2UtX3BDcUQteGd6LWRCbVlvTU8xeTVLUVdLenNMMzMxRmZUYXE2bVN3elZMLUJONlJQSXBxWHJ4YktwenpCeXBCTUdEQjlIalpjeHB5VUFkZWozajNISjRhUFNpY2xORHozNVZpY3YxcGN0WHN0cEhwRXBfWHpuRjduQ21qa29BdmNxdlVvRU1hVE1NRXAwVnZ2aHVFdFI3MA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "FBI warns of Kali365 phishing service targeting Microsoft 365 accounts - BleepingComputer",
+    "description": "FBI warns of Kali365 phishing service targeting Microsoft 365 accounts  BleepingComputerMicrosoft 365 users targeted by new phishing threat that bypasses MFA  Help Net SecurityThe New Phishing Click: How OAuth Consent Bypasses MFA  The Hacker NewsASD warns of device code phishing as Proofpoint tracks growing criminal toolkits  Australian Cyber Security MagazineHackers are using real Microsoft login pages to steal accounts, the FBI warns  How-To Geek",
+    "published date": "Mon, 25 May 2026 12:45:54 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRlVWM0RUc3RhcVU5T2dMM2ZiaFBfdUNTWUlEWmJwNC1lbFZuYk9VTGJUNndOdUdiNE1lelI5ZmNMN1VCQkpMOVVFODl4ZWZ6bGdxSmNPWWd4SXdRMUkwTER5Vjc3WHdka1docDZ5ZEZ2bEJhRm1XMnFkTk90OUh6eTM3QU1hMTZ2Nll4aXpfako3UzRTTkl4Wkc5bHctV3J4MUk2blFuN2ZycXlZSTN0UVJSQV9BNnhWR2fSAb8BQVVfeXFMT2NyaVJRZF9oaS0wWlVZd3o2OGpGQS1uZV9LWWY0RGhfcURCMC1ES1NzZXlWOTNtUUxoYURnOG1vcFItX2tlc1BPYWFkYWMydk13bTBJa1g1bndrTlhfNmY1Sm0weEJ3Zm1RTE1ia0ZwcjFNdFNwZzZyd0JnQUZONXNBSXlxUjBmY3R5TFMzNzBMN29JQzIwMHI2NEV3ck1UbUlIOUZCRmZaMWlhSTJ3elZJWnVQNFdmS0ZNSlFDMnM?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.bleepingcomputer.com",
       "title": "BleepingComputer"
     }
   },
   {
-    "title": "Apple registers new ‘gen AI’ subdomain ahead of next month’s WWDC keynote - 9to5Mac",
-    "description": "Apple registers new ‘gen AI’ subdomain ahead of next month’s WWDC keynote  9to5MacApple Preparing New 'Gen AI' Website Ahead of WWDC  MacRumorsWWDC26: Invite Design Reveals Clues About New Siri Interface, Report Claims  Forbes'GenAI' Apple subdomain surfaces weeks ahead of WWDC  AppleInsiderApple's WWDC 2026 has gone dark, and your iPhone's new Siri might follow  PhoneArena",
-    "published date": "Sat, 23 May 2026 22:37:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1TQWNteWpuTXZUa2lqNnNlNGFMdzBqbGh5MElDVkUyei1keE5lV1o1NXkyUmNlWmVWRVptdk15ajdoaThETXNmY1k1Rmp2WklvVzJiaHRoUTN4TXRMN19pWC1RaVdDQV95LTVQOUJIaVI4bmU1bU1VM2hiT04?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://9to5mac.com",
-      "title": "9to5Mac"
-    }
-  },
-  {
-    "title": "Cut fatigue and increase focus with short movement breaks - CNN",
-    "description": "Cut fatigue and increase focus with short movement breaks  CNN",
-    "published date": "Mon, 25 May 2026 12:00:07 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZkNSOTZvQTBtOU91S0h3VTNYRkl4Q2JwZ3pUUFplUHdoeFJ0Y2pLSWgzc2E3YTR2bDJhb1MtTmdpUUZKcGZyWjFxekJXUlYxSGtueDczNDFlMkxlYndaS0VmaFVkMnZTVDlSSUQtY05DZnI4dEhJVUFVWVlHakpiMHp2el9MZkJXU19mcQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cnn.com",
-      "title": "CNN"
-    }
-  },
-  {
-    "title": "Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years - The New York Times",
-    "description": "Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years  The New York Times",
-    "published date": "Mon, 25 May 2026 15:51:25 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVzZ0WC1UelpJRkNTMldfbkcwaW43MDJ3cXh2elVTLVBhUHZBeTFWYWNXT3NHWjlPcFJ5SjZkOTdOZ21BdEJpeFE5NlE4ZUhpQllLcWEtM0RtTlJhdE9yOUdEajRELTR3ZVFpbXBrbVg3cUVVSGFyc1hTRERfZHhUbg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.nytimes.com",
-      "title": "The New York Times"
-    }
-  },
-  {
-    "title": "Unreal Engine 6 Revealed By Epic Games, Will Likely Power Lots Of Project Helix Titles - Pure Xbox",
-    "description": "Unreal Engine 6 Revealed By Epic Games, Will Likely Power Lots Of Project Helix Titles  Pure XboxUnreal Engine 6 Revealed as Rocket League Gets a New Coat of Paint  IGNEpic Games Officially Teases Unreal Engine 6  80 LevelUnreal Engine 6 Announced, Rocket League Showcased  VGChartzRocket League is getting an upgrade to Unreal 6.  theverge.com",
-    "published date": "Mon, 25 May 2026 10:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU2lNWGczakhUbVZ5ckQ4Rnd3aFVLY3o1U1EydlEtRnlKMG8zSG9yRlVrUHpJNkVlWGhBUlQyWG44enpLN3FOZk5Hd0tjWHRURFU0aGJKOHNDdVYzV05PNWw3VXM1ZzJ1X29CempKcGR5NkpCZGZ0dUVXZWhabVZTeFlpOEFyR1FuUkpiZS1rNkItdlkwZVZtcUs1bG91cWotcEE1SEczNHhYVDdHY2hZR3AzYzR6LXFCdzBpeHotRzA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.purexbox.com",
-      "title": "Pure Xbox"
-    }
-  },
-  {
     "title": "Apple Memorial Day sales are here: We found sweet deals on MacBooks, AirPods, iPads and more - Yahoo Tech",
-    "description": "Apple Memorial Day sales are here: We found sweet deals on MacBooks, AirPods, iPads and more  Yahoo TechMemorial Day is the best time to buy Apple AirPods with deals that take up to $50 off  CNNShop the 30+ Best Apple Memorial Day Deals: Save Hundreds Off Macs, iPads, Apple Watches and More  CNETI found the best Memorial Day phone deals: Save big on Samsung, Google, Apple and more  ZDNETApple’s incredible AirPods Pro 3 drop back below $200  Macworld",
-    "published date": "Mon, 25 May 2026 15:05:00 GMT",
+    "description": "Apple Memorial Day sales are here: We found sweet deals on MacBooks, AirPods, iPads and more  Yahoo TechLots of Apple Products Are on Sale for Memorial Day  New York MagazineHoly moly, the M5 MacBook Air finally dropped below $900 for Memorial Day  mashable.comSave $300 on Apple's M5 Pro MacBook Pro with 48GB RAM today only  AppleInsiderShop the 30+ Best Apple Memorial Day Deals: Save Hundreds Off Macs, iPads, Apple Watches and More  CNET",
+    "published date": "Mon, 25 May 2026 18:25:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVThkX2ZJclJaTmU4X01SUHA4TnpDdnZVZjFORDdhMG5kSHpTM1NoOUYxTFJhVjdaU2hRc0lwdE1VNjJfakZzR3A0Uk5NamlFU0dxeE9PbTR1NjBRdjBIb0RsRVgxdFV0Z0ttel9xb0NZdXZTbTJnNzMtaEQxNWxNdHVicFZsRldfYWx2WGE5dmFRRVpMZUQwenNSUFJwRFlUeDh3MEEwUFMyVHl2NW5MeGd1amNPWDdxRFA2dVVPNjlrQjQzcXdUNk1RV3ZiOWFURnM0cC10UWd3MmpIeUQycEdlWDdJNTU5REpZ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://tech.yahoo.com",
@@ -80,18 +30,78 @@
     }
   },
   {
-    "title": "As 007 First Light's first 13 minutes leak online, IO Interactive drops official footage of the opening mission - Eurogamer",
-    "description": "As 007 First Light's first 13 minutes leak online, IO Interactive drops official footage of the opening mission  Eurogamer007 First Light: James Bond game redefines iconic British spy  BBCThe first moments of First Light.  theverge.comFirst 13 Minutes Of James Bond’s 007 First Light Officially Released, And, Erk  Kotaku007: First Light drops last-minute Denuvo DRM bombshell, leaving pre-order customers and fans furious — Bond title risks FPS drops and strict online check-ins, Pirates eagerly await repack as day-one cracks become the norm  Tom's Hardware",
-    "published date": "Sun, 24 May 2026 20:47:07 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YaHQ5TVJwd1hCVXBlekxaSXFaSm9GVEJwV2NJa1V1OWVWMzRuVldvQ0x0VExBa3ZDOGtaWUxqQVBWdno0Vmc5Ti1fUFVrM2Jkck9XbHJwYzJtdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Lessons Learned, Part 9 - Magic: The Gathering",
+    "description": "Lessons Learned, Part 9  Magic: The Gathering",
+    "published date": "Mon, 25 May 2026 15:16:35 GMT",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qYjRvZlF6bTBYdDFHUW5KbDFfMXRLemFMNXlMZlpGUjVteTlvLXdnNDhSQ3U4Y1l5VGhHNmRnZHpLalhVVllENDVYVkhNZi1fc0RJSGJTOUhQalJXb2xQelZPV2pDa1I1QzdUakFnWXFSY2RsOXRqMg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.eurogamer.net",
-      "title": "Eurogamer"
+      "href": "https://magic.wizards.com",
+      "title": "Magic: The Gathering"
+    }
+  },
+  {
+    "title": "Google is cannibalizing the web to feed AI - The Register",
+    "description": "Google is cannibalizing the web to feed AI  The RegisterAI is changing the internet forever. Here’s how  CNNGoogle's overhaul marks the end of the internet's golden age  AxiosWant to Ditch Google Search? Try These 5 Other Free Search Engines  CNETSix search engines worth trying now that Google isn’t really Google anymore  TechCrunch",
+    "published date": "Mon, 25 May 2026 12:25:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV2tIZ1hsaDNlU0kwZnZKM2ZRZ05wN2doNjc3WUpvdDk4R2lCVFBIQU4yTmZHSUlJUS1kNTdxLXN2YnN1VWxmR054TWRnVUt6dmpsZDNHSEdEaXN2QlZ3VE5fVXdpbW1iMWkyQnZ0U0xpSUVRMWpwUGhFSFhTSHRKZHVlU3Z4bFFGSkRhc29FM0gwNWpVUU90Z2xRYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theregister.com",
+      "title": "The Register"
+    }
+  },
+  {
+    "title": "Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years - The New York Times",
+    "description": "Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years  The New York TimesI/O 2026: Welcome to the agentic Gemini era  blog.googleSundar Pichai Understands Why People Are Anxious About A.I.  The New York TimesAsk AI or just Google it? Google makes a big change to a little search box  NPRGoogle is making its biggest change to the search bar in years  CNN",
+    "published date": "Mon, 25 May 2026 11:57:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVzZ0WC1UelpJRkNTMldfbkcwaW43MDJ3cXh2elVTLVBhUHZBeTFWYWNXT3NHWjlPcFJ5SjZkOTdOZ21BdEJpeFE5NlE4ZUhpQllLcWEtM0RtTlJhdE9yOUdEajRELTR3ZVFpbXBrbVg3cUVVSGFyc1hTRERfZHhUbg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nytimes.com",
+      "title": "The New York Times"
+    }
+  },
+  {
+    "title": "007 First Light: James Bond game redefines iconic British spy - BBC",
+    "description": "007 First Light: James Bond game redefines iconic British spy  BBCFirst 13 Minutes Of James Bond’s 007 First Light Officially Released, And, Erk  KotakuThe first moments of First Light.  The Verge007 Tech Secrets From Our First Light Deep Dive: Why Series S Is 30fps, How It Hits 60fps Elsewhere and Much More  Digital Foundry007 First Light Skips Pre-Load on Steam and Xbox; PlayStation 5 Will Be The Only Platform Due To Mandatory Requirement  Wccftech",
+    "published date": "Sun, 24 May 2026 01:07:40 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhS1RaVERCTmFBdE1EdnB4MFAxRUJYVmcxa1JXMTdIQnVnVWd6bVNfMFpTeVlqVGRyYkZSOVU4bTFNVnJCWG1CV2NodjE4aTlKVVlCTlZyQ3BFQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bbc.com",
+      "title": "BBC"
+    }
+  },
+  {
+    "title": "Epic Games Tips Unreal Engine 6 Timeline With Rocket League Reveal, Targeting UE5’s Multithreading Wall - Wccftech",
+    "description": "Epic Games Tips Unreal Engine 6 Timeline With Rocket League Reveal, Targeting UE5’s Multithreading Wall  WccftechEpic Games Officially Teases Unreal Engine 6  80 LevelRocket League is getting an upgrade to Unreal 6.  The VergeUnreal Engine 6 will take system hardware requirements to a new level  GameGPUUnreal Engine 6 Revealed By Epic Games, Will Likely Power Lots Of Project Helix Titles  Pure Xbox",
+    "published date": "Sun, 24 May 2026 18:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOREpBS21UbWg2UWNTeDg5TF92dzdwZlpqZ0QzOFJlWTdGYkpaOGk4bWhzbjJ2YldsMFZNQWdMSzFqbGdsS2hXaGdINl9QZVdqVDkxd2dQRGJ4NjFrREhQemVCTDIzWlZoamxmMnNYY0hnNnlzamhEVzNkdi1jdXl4NWdR0gGHAUFVX3lxTE56UGlyajk4czZlTllOcHNjU21MTFVjVjZZR2lvS1N2cUxzajl5dXN0X1cyRUlhSjNjckdZelliTGtHQmtTeWV4RFEya1REcWdmVlpTaXNsUEpJU21rUHNSZ3JJaWZSM0tmRHhFZXdrNUtWUzJiVnh3S1k5MXJBYlBCVzFxSGxQUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://wccftech.com",
+      "title": "Wccftech"
+    }
+  },
+  {
+    "title": "You Can Now Legally Rip Your Wii, GameCube, Wii And Xbox Discs Using A Blu-Ray Drive - Time Extension",
+    "description": "You Can Now Legally Rip Your Wii, GameCube, Wii And Xbox Discs Using A Blu-Ray Drive  Time Extension",
+    "published date": "Mon, 25 May 2026 12:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUkUxTkJ2UnhtbnROR2RpZjIzbEF4NWIxQ1FWWGpXX3JQVFUtdXNaZk02S2FaSTVacnJXbnpRVlJxZjdNeVJMYjB2a200b1FucmFCZ0RTRG9KVXpZSlVUX0d4R2NPei1EQUlRaFlncVlSV1g4UnBGQnQwWnFNSFJTWjBYVzNHY0ppcXBfLWRjUUExWTRkREVKY0k0TFRTYW1wOVR4LThPaW5TRXY1b0g3SGhZajhmVGFxUnhIR3lMN3N0TkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.timeextension.com",
+      "title": "Time Extension"
+    }
+  },
+  {
+    "title": "14 years after being announced, Star Citizen hits $1 billion in funding. - The Verge",
+    "description": "14 years after being announced, Star Citizen hits $1 billion in funding.  The VergeStar Citizen Hits $1 Billion in Funding, Squadron 42 Release Update  VarietyStar Citizen tops $1 billion crowdfunding milestone as \"$5000 JPEG\" spaceship you cannot use yet goes on sale  EurogamerStar Citizen reaches $1 billion in lifetime funding, 14 years after the project was first announced — game still in early access with no release window, including 'Squadron 42' campaign  Tom's HardwareStar Citizen Has Raised $1 Billion, Remains In Early Access After Nine Years  Engadget",
+    "published date": "Sun, 24 May 2026 19:11:35 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdTNaSWl3aTZEMldqdE0tSktDUmN1Y29JdFBTYTRIaUpRbHFSR1pmczJsU21JQ2pROXhwOFdvaEZXSWZHZHg0VEVTbFctaEFOVjEzZVdGcGJVV1ZLdjBtdkhGWUt0UGRtWDRDeUpmekdmcm9tUTd1ckxNRlhnQXZHRHNWaldUY3BnRmREY05hdG9KaWFPWlNOVFFiLVB4b3hfWnJLYmhoY3k5Qkk?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theverge.com",
+      "title": "The Verge"
     }
   },
   {
     "title": "Destiny 3 Petition Shatters Marathon’s Peak Player Count - Insider Gaming",
-    "description": "Destiny 3 Petition Shatters Marathon’s Peak Player Count  Insider GamingDestiny 2: Every End is a New Beginning  Bungie.netBungie Plans Layoffs After Ending ‘Destiny 2’ Development  Bloomberg.comCOLUMN: Bungie eyes 'significant' layoffs as 'Destiny 2' support ends  The Lawton ConstitutionMore Details About The End Of ‘Destiny 2’ From Inside Bungie  Forbes",
+    "description": "Destiny 3 Petition Shatters Marathon’s Peak Player Count  Insider GamingDestiny 2: Every End is a New Beginning  Bungie.netBungie Plans Layoffs After Ending ‘Destiny 2’ Development  Bloomberg.comDestiny 2 Is Getting Its Final Content Update Next Month As Bungie Ends Active Development  Game InformerMore Details About The End Of ‘Destiny 2’ From Inside Bungie  Forbes",
     "published date": "Mon, 25 May 2026 09:07:03 GMT",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUFBBMXVYeER2M3JSMl9GRDQtd3I0WjdKdTFLZW5OSHMweDlHV09lNEhKN005cjB3d18ycTNNLVBDU1puR2JCSUpSdi0zbGRjUko4OG5uZUtVeGt6NFRUMTZScWtyWGFsVm5QRXo5b0FEd2dfeWVLNWlKd0l2NHZBaVU5blNva25NOEpJ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -110,18 +120,18 @@
     }
   },
   {
-    "title": "14 years after being announced, Star Citizen hits $1 billion in funding. - theverge.com",
-    "description": "14 years after being announced, Star Citizen hits $1 billion in funding.  theverge.comStar Citizen Hits $1 Billion in Funding, Squadron 42 Release Update  VarietyStar Citizen Has Raised $1 Billion, Remains In Early Access After Nine Years  EngadgetStar Citizen tops $1 billion crowdfunding milestone as \"$5000 JPEG\" spaceship you cannot use yet goes on sale  Eurogamer'I Just Bought a $5,000 ODIN Jpeg, AMA' — Star Citizen Officially Crosses the $1 Billion Funding Raised Barrier as Its Most Expensive Spaceship Ever Goes on Sale in 'Concept Pledge' Form  IGN",
-    "published date": "Sun, 24 May 2026 19:11:35 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdTNaSWl3aTZEMldqdE0tSktDUmN1Y29JdFBTYTRIaUpRbHFSR1pmczJsU21JQ2pROXhwOFdvaEZXSWZHZHg0VEVTbFctaEFOVjEzZVdGcGJVV1ZLdjBtdkhGWUt0UGRtWDRDeUpmekdmcm9tUTd1ckxNRlhnQXZHRHNWaldUY3BnRmREY05hdG9KaWFPWlNOVFFiLVB4b3hfWnJLYmhoY3k5Qkk?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Dragon Quest VII Reimagined ‘Making of’ video - Gematsu",
+    "description": "Dragon Quest VII Reimagined ‘Making of’ video  GematsuDragon Quest VII Reimagined Gets Making of Video  VGChartzChapter 51 - A Reunion with Kiefer  IGN",
+    "published date": "Mon, 25 May 2026 13:05:38 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdmhYX2c0di0xSWpZOS1TbGljdG8zNXFVYWJGN1dmLVVINXQ1d0hSS0xYSlJJeGhGZWZoR0lINFR5ajBMR3BBR2N0UmxQbm9GeVVoSGh3c1dvSGMydkdFTjBubUpRZjhkbjgtaHp5bG9TajFWbDlTT25menBkYUVhUA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.theverge.com",
-      "title": "theverge.com"
+      "href": "https://www.gematsu.com",
+      "title": "Gematsu"
     }
   },
   {
     "title": "Sony Launches Reon Pocket Pro Plus Wearable Air Conditioner In Time For Summer Heatwaves - Forbes",
-    "description": "Sony Launches Reon Pocket Pro Plus Wearable Air Conditioner In Time For Summer Heatwaves  Forbes",
+    "description": "Sony Launches Reon Pocket Pro Plus Wearable Air Conditioner In Time For Summer Heatwaves  ForbesSony's wearable 'air conditioner' gets an upgrade for a better fit and stronger cooling  New AtlasForget fans, I've been testing Sony's new wearable thermo device — and it's the gadget of the future  Tom's GuideI've been testing Sony's new wearable AC and it's changed the way I survive summer heat — the tech is actually genius  inklSony launches wearable AC to help you beat the summer heatwaves: All details  Business Today",
     "published date": "Sun, 24 May 2026 18:36:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYi1PaUlFbEJSZmtLeV95Y0JWRE5ka1lPd19XMGRSeVlMaEZpUnhVWVpLMUV0anQ2eDRDWkQ2aUtPdHlnWlJvYWxpTUJMVXVDSUJ1NnhiR2dFWk1pMnBEUEd0YnZqaTVyNTEwZzBSWDBsenRLNndoeXVDeFNWVlFJdG1nTWFWQ29jekxzYVFFNDNjSHh0U1lyQUpzaGVMT0tUS0VoLXVBUkVHamVJRk1QcUp5QkNfTDIwVVZfS2lMQ2hSZlVUQ3ozWU4tQk1iOGJWbEFJdDl4MW4?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -130,118 +140,28 @@
     }
   },
   {
-    "title": "You Can Now Legally Rip Your Wii, GameCube, Wii And Xbox Discs Using A Blu-Ray Drive - Time Extension",
-    "description": "You Can Now Legally Rip Your Wii, GameCube, Wii And Xbox Discs Using A Blu-Ray Drive  Time Extension",
-    "published date": "Mon, 25 May 2026 12:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUkUxTkJ2UnhtbnROR2RpZjIzbEF4NWIxQ1FWWGpXX3JQVFUtdXNaZk02S2FaSTVacnJXbnpRVlJxZjdNeVJMYjB2a200b1FucmFCZ0RTRG9KVXpZSlVUX0d4R2NPei1EQUlRaFlncVlSV1g4UnBGQnQwWnFNSFJTWjBYVzNHY0ppcXBfLWRjUUExWTRkREVKY0k0TFRTYW1wOVR4LThPaW5TRXY1b0g3SGhZajhmVGFxUnhIR3lMN3N0TkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Apple To Release iOS 26.5.1 iPhone Update In Coming Days, Report Says - Forbes",
+    "description": "Apple To Release iOS 26.5.1 iPhone Update In Coming Days, Report Says  ForbesiOS 26.5.1 Update for iPhones is Coming Soon  MacRumorsiOS 26.5 added new features to three popular iPhone apps  9to5MacIs iOS 26.5 Actually Good? Here is What Users Are Saying  Geeky GadgetsiPhone and Android Can Now Text With Full Encryption. Here’s Why Kenya Misses Out  tech-ish.com",
+    "published date": "Mon, 25 May 2026 15:40:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOXg2THhWbDBqT0I0NkRWbUVMcmE4SW03V1hSVXdaaFZocVJ1RG5MdFFHTjVxMjdkLW1DOWJRMXJhRjJCdm9nYnVoN0ppdWplM2NNS0s4YXl6S0ZVQUJpUGN6bmVzYUZ1a04zWUF6Y2xQZFpreGJyTnpqZV9zYmNkOWFJYTg5SF9XQ0tFT2xOaEl3YUN5b3ZTSkxybnBiQnJlNjlONHhTZ3RjY1NpNFdTNm1qUkpoSkdMYzRR?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.timeextension.com",
-      "title": "Time Extension"
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
     }
   },
   {
-    "title": "Anker’s 25W MagSafe 3-in-1 packs active cooling in a travel-sized design [Hands-on] - 9to5Mac",
-    "description": "Anker’s 25W MagSafe 3-in-1 packs active cooling in a travel-sized design [Hands-on]  9to5MacAnker’s 5K Power Bank Drops to Its Best Price on Amazon, Thinner Than Your Passport  GizmodoAnker 3-in-1 Prime Wireless Charging Station Drops to $104.99 on Amazon  MacRumorsAnker’s 25,000mAh power bank with 2 built-in cables is $39 off today  PCWorldAnker's 300W Max Output Prime Power Bank May Not Last Another Day at Its Lowest Price for Memorial Day  Kotaku",
-    "published date": "Mon, 25 May 2026 03:48:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTmNjSVVBamd3bjlKRUhWakxSdXFYVkZpY1FwM0RCNV8zdnNLclA1OVc0cldVbkduZ29lbFhlYnJ1MG5GRFZoWlBXM0JyTTVGaFlTdjJUZEp3dEpTLW0ya3dnbVcydmwwNW44T2NoQ0hHQUN2U3hUaEplZFctNDlIUkxMZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Nintendo Breaks Silence on New Super Mario Game - comicbook.com",
+    "description": "Nintendo Breaks Silence on New Super Mario Game  comicbook.comNew 3D Mario on Switch 2? Miyamoto May Have Quietly Given Fans a Timeline  vocal.mediaFar cry from 16-pixel start, Mario makes it 'so big' on screen: creator Miyamoto  Edition.mvShigeru Miyamoto said he’s really looking forward to the next Mario game  My Nintendo NewsShigeru Miyamoto Says He’s Excited for the Next Mainline Mario Game  TwistedVoxel",
+    "published date": "Mon, 25 May 2026 12:10:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYTZaV1R5SDlDclJLLUczc19VR1FqbV80MlJCMFpPWHpnVG4ydXY5SUlPZU14X0M2YmpfZlRta0p1aWdIMUg2UHBvUHJPcnRzbzZBd3JhOEZtZ0I1MlphYXk4Qkd2a0VrRVpRWGtvOWRCdDdKcWpTUW93U1pPNkJEYmdB?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://9to5mac.com",
-      "title": "9to5Mac"
-    }
-  },
-  {
-    "title": "Ratel Not Concerned About Latest GT3 “Evolution” - Sportscar365",
-    "description": "Ratel Not Concerned About Latest GT3 “Evolution”  Sportscar365",
-    "published date": "Mon, 25 May 2026 12:02:38 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQblJCWEpnc0NtMGU3RHpuWTZ3M0dQQ2tFa2JBMWd0eWU0c0ttMHVJaEZTZ1ZWeTZCVkF5aHd2Wnlma1d2cERoU3pfT1NHdFlRZ3A5TDNRQTNDQ3phdWtLVnNsRkhSOC1pSE9LdkRMSU82bjF0LTVzeUxzRlZlSGFQTmlLREQ2YUtZSkJN?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://sportscar365.com",
-      "title": "Sportscar365"
-    }
-  },
-  {
-    "title": "Use Tiny11 to Rescue a Computer Running Windows 10 - WIRED",
-    "description": "Use Tiny11 to Rescue a Computer Running Windows 10  WIRED",
-    "published date": "Mon, 25 May 2026 11:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTVNXTEFGeUM4M2s5VE9hVk1HVmo5cnJRbVJBWGtwM2FnT1RzUFcteVR5QjhIbkNmYWpQcEVRR3pLejlNaDJsZkp2cE1NMlNjV3lfOU9vMVlQclIwUF9RdGlSeHJ5cVRQRWZuU2FteHpUYzBCSnZMdmFQeFhidmNkSGxMN1hpdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.wired.com",
-      "title": "WIRED"
-    }
-  },
-  {
-    "title": "Lunar Strike offers a pessimistic, and worryingly realistic look at the future of space travel - Space",
-    "description": "Lunar Strike offers a pessimistic, and worryingly realistic look at the future of space travel  Space",
-    "published date": "Sun, 24 May 2026 12:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTklZZ3BqeTQwRkdSVHNUN1lxa1daVXlwLW5mdld4T1VOQ0NSaXdDS0tsbUFLcHpQclBpUjllUW1KVU93RTBEWXp3Z0pxMk82b0FoUy1CdTJOdHJqbXdfS2xvd2Zfd0JvVGlQZUpUeFY0WTh4Q1JPWHBMYXpiYmh5ZkJhY1JFajZIM3JWd3dQWlFya1hPeHBtaURVRmcyOWZmNmM0Q3J2aUxzZzFRUHFkbWhQaVJMT2pMSGQ2ZEphTFFzbnJxSGFFOUxhWnNKQVd3c2pnZm9IT24?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.space.com",
-      "title": "Space"
-    }
-  },
-  {
-    "title": "AMD’s Next-Gen Zen 7 “Grimlock” CPUs To Utilize TSMC 1.4nm Process Tech & FOPLP Packaging, Launching in 2028 - Wccftech",
-    "description": "AMD’s Next-Gen Zen 7 “Grimlock” CPUs To Utilize TSMC 1.4nm Process Tech & FOPLP Packaging, Launching in 2028  WccftechAMD \"Zen 7\" IP to Use TSMC A14 Node and More Advanced Packaging  TechPowerUpA leak has revealed AMD's plans to release Zen 7 processors with 32 cores.  GameGPU[News] AMD Zen 7 Reportedly Built on TSMC A14 Node as Powertech’s FOPLP Packaging Said to Be Under Evaluation  TrendForceAMD Zen 7 Details Leak – “Grimlock” to use TSMC A14 node  OC3D",
-    "published date": "Mon, 25 May 2026 11:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb3NOcXBkNjdxaGFNMlFiVklKM0dfTlVZaFM1d0lhcUI3Ni1iZjJ4c3BSUVdTTVYzai1nZkVVT1BwN2huTG1yTE9XdWVyVVo2ekkyZzIybEZ3cHFISE41elJCQy1wV0YtZjlRWGd1NE1abHNucUcyTTFpRUhOOU9sczlWUnI2eWF2dFpmVktBb2RMMFBDOWU4RHBIZS10VHc1UWY0TzMxc9IBrAFBVV95cUxQN2FaUWJQbjdBUEpqWGdkbm1XRmJoY0JxeVhKcXN3OGJCMGpxcE9pM0lNNW5QcVNURUhBSkZCSndybzJxYVR5dE1tQVF1MHdQZVVMMEVwRXFRbm1mRFVYcG9LMWVqeGRCTWZ6bVdNRHB1czhMSG1FaVo5UEE1WGFrS3ZCeEZjSmswQ0RLMHBFQ3VvcF94Y2lFd0VVR0YxRUhsdExCaDd0dldwMnRz?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://wccftech.com",
-      "title": "Wccftech"
-    }
-  },
-  {
-    "title": "BMW M3 Faces The End: 2027 Is The Final Model Year - Motor1.com",
-    "description": "BMW M3 Faces The End: 2027 Is The Final Model Year  Motor1.comGallery: 2027 MW M3 CS Handschalter Photos  AutoweekInterview | How a BMW CCA Member Secretly Created the Manual M3 CS  BimmerLifeA BMW M Insider Just Confirmed The G80 M3 Is Done After This Model Year  bmwblog2027 BMW M3 CS Gets a 6-Speed Manual as a Last Hurrah  Edmunds",
-    "published date": "Mon, 25 May 2026 06:47:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95QmpOVUJTQlVhMC1oSEdJWnJSNnFMeEp5b0RDd2xmLUs0bHJWVmczSTJBc1QtNlhucWxsVkxaV0E5VnhndVBPcUtzVEl4REhGV05NR1dSbFFJR2JJaDNOUlk4TWhtLXlKR1ZMVlhhb20?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.motor1.com",
-      "title": "Motor1.com"
-    }
-  },
-  {
-    "title": "Geoff Keighley Teases Summer Game Fest With A Steam GIF, And Half-Life Fans Are Taking It As Well As You'd Expect - TheGamer",
-    "description": "Geoff Keighley Teases Summer Game Fest With A Steam GIF, And Half-Life Fans Are Taking It As Well As You'd Expect  TheGamerSummer Game Fest Steam teaser attracts Half-Life 3 fans desperate for release date  NotebookcheckGeoff Keighley Might Be Teasing Half-Life 3 to Be Revealed at Summer Game Fest  EGW.NewsHalf-Life 3 or Steam Machine? Keighley's cryptic Steam GIF has fans guessing again  gagadget.comValve may make an announcement at Summer Game Fest 2026  Instant Gaming News",
-    "published date": "Sun, 24 May 2026 14:27:40 GMT",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiMFE4UFVicExZcXB1VUlnaGQ5ZFBxRml4YmFlWnc2Z1V5VW96Z0FCaWFmZi16N0RSNUZxSlVBdGxwZ2p2eGNhampSS1NCU0JzMUpjZFpvOW1WckQwRWdmekxhUTVmVW1INm41TVU2aw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.thegamer.com",
-      "title": "TheGamer"
-    }
-  },
-  {
-    "title": "Xreal, Google's smartglasses partner, thinks it has finally mastered this notoriously tricky industry - TechCrunch",
-    "description": "Xreal, Google's smartglasses partner, thinks it has finally mastered this notoriously tricky industry  TechCrunchI Tried Google's Screen-Free Smart Glasses, and They're Exactly What I Want  PCMagIntelligent eyewear is coming this fall  blog.googleWarby Parker and Google take on Meta with new AI smart glasses  Fast CompanyAlphabet Bets On AI Glasses And Cheaper Gemini To Deepen Ecosystem  Yahoo Finance",
-    "published date": "Sun, 24 May 2026 19:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeE1sSzdrOHZZblZjZWxDZUhFNHhVQl9ESXJ4eElOcVdOeXgyeGRpUTZOMVRGOTdHZEdTZmhURHpGclo2VjRXLXdCLVZuQTZJOGhzcjFuSloyb0lrZWY5cUFyc0lQNHQtNGpjWllUZUVsaWlETWlTWXZQcV9TV3lUa1RydmRrMzc4Vks1TXhKTjRjNklYWlFXbE1ySGpwT0VXejBsQmdONWdRSTQ3TzR5Tnl6V3F3UGc5NndBNjFsMURHNWxwaWxVclgzckFDdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://techcrunch.com",
-      "title": "TechCrunch"
-    }
-  },
-  {
-    "title": "Brigandine: Abyss demo now available for PC - Gematsu",
-    "description": "Brigandine: Abyss demo now available for PC  GematsuBrigandine Abyss Preview: A Tactical RPG Series Still Fighting For Its Place  Noisy PixelBRIGANDINE ABYSS Demo Is Now Available On Steam  OpenCriticBRIGANDINE ABYSS Hands-On Preview The Return Of A SRPG Powerhouse  The OuterhavenBrigandine: Abyss PC Demo Released  RPGamer",
-    "published date": "Mon, 25 May 2026 00:24:08 GMT",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tUlBYOGowX1pWYlpYMWx4eGJEQnJXc2xJR0pRZXRjSlJuZWNIVjd5dUpqamt3Rk5YQXJSLURBUVI4LWhGbmtZMlVsaFU0T0RWTWpuRExkRk5vcDZWVkZLUlN3WlRfNVhjbTJBZjl1cVdrUkFlZTNTWGJDR04wUTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.gematsu.com",
-      "title": "Gematsu"
-    }
-  },
-  {
-    "title": "Forza Horizon 6 PC Performance Analysis & Tuning Guide – How To Get Best Experience On PC - Wccftech",
-    "description": "Forza Horizon 6 PC Performance Analysis & Tuning Guide – How To Get Best Experience On PC  Wccftech",
-    "published date": "Sun, 24 May 2026 09:05:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVzFjZU1aRVFJYVpvdDZPVm9Qbk9wai1HYU12QmhZaDlGeHRZZUVaRm84VXVRRGJ4X1hQZ3NrM25IMDZ0MGIzeWFPVmo0aGhSUFBBU0R0U29PSXBCMktoVG1keVNMTXZ6dFRncll3X0VtQWhKQm1wd1FFcldKSUh4SGFQSmhtaDdY0gGOAUFVX3lxTE1aODJrVXZZUU8wU1FqZnFsVnNJcnF6aHdWOVpGLThkdVNQRFNMOVd4WVVtT1B3M3k5Wm1ROG9MNHdvNFZhY3NfUnJFMWE0QnNsdTN5MzZzOW9zeUJ4RUJ1ekt0MkVPZlBUdlhXZW9RemM3ZzF0MWRRem93R0ZUUmRxeG96NUVVRk5jdE8xWmc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://wccftech.com",
-      "title": "Wccftech"
+      "href": "https://comicbook.com",
+      "title": "comicbook.com"
     }
   },
   {
     "title": "System Shock 2: 25th Anniversary Remaster gets new Nintendo Switch 2 version - Nintendo Everything",
-    "description": "System Shock 2: 25th Anniversary Remaster gets new Nintendo Switch 2 version  Nintendo Everything",
+    "description": "System Shock 2: 25th Anniversary Remaster gets new Nintendo Switch 2 version  Nintendo EverythingSystem Shock 2: 25th Anniversary Remaster Now Available on Switch 2  GoNintendoSystem Shock 2: 25th Anniversary Remaster for Switch 2 out later today  My Nintendo NewsSystem Shock 2: 25th Anniversary Remaster Now Available for Nintendo Switch 2  Gamers Heroes",
     "published date": "Mon, 25 May 2026 13:27:19 GMT",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUWgyY2xPbTBQOWRnOFR1UG81QkdZS2U1LVA3Q09tUFBLamNQYU9LYVc3a3pnU3dWeFZ4ekVGYnFIaTh1dFhpOS1ZdzFfWlo4eVRGWHpZRHRZa0MzY3h5Y2NlendTNzdkeWZQekRlVjNlMXgtMnJvS0YwN3d5V0RvNFBRNDN0ZV8wdk1wRWdPTEhpNjBKdmJlZzlJY0Z5dkZTVzk5X3hid0xaVHM?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -250,173 +170,53 @@
     }
   },
   {
-    "title": "‘Galaxy Z Fold 8 Ultra’ leaks, but it’s probably not for the foldable you thought - 9to5Google",
-    "description": "‘Galaxy Z Fold 8 Ultra’ leaks, but it’s probably not for the foldable you thought  9to5GoogleSamsung to use Galaxy Z Fold 8 and Z Fold 8 Ultra branding for upcoming foldable lineup  SamMobileSamsung’s new Folds may get a dramatic name change that nobody asked for  Android AuthorityGalaxy Z Fold 8 release date: should you wait for Apple's foldable iPhone or the Pixel 11 Pro Fold?  PhoneArenaSamsung's Galaxy Z Fold 8 Wide is the first foldable I would actually buy  Android Police",
-    "published date": "Mon, 25 May 2026 11:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xM1JsanYybWVhTW1VWmRhajlGeDVCRTlXeGhmeDc0VjVyMTNvTzZJSEF3NXdpZ3ltWWNhSTQ4QVhhMnlBSFJ0amgzMVhwa2o5S2hJdWxKcm1pT1FtVTh1QV93SlBSRWtPaXd2anA3U29PaXdfTzNmUG5R?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "One of horror's most iconic characters is finally coming to Dead by Daylight just in time for its tenth anniversary - Eurogamer",
+    "description": "One of horror's most iconic characters is finally coming to Dead by Daylight just in time for its tenth anniversary  EurogamerJason Voorhees Slashes Into DEAD BY DAYLIGHT This Summer  Fangoria17 Years Later, Jason Voorhees Is Officially Back  ColliderDead By Daylight Is Adding Another Slasher Movie Icon  vice.comJason Voorhees Finally Comes to Dead by Daylight this June  Restart.run",
+    "published date": "Sun, 24 May 2026 21:25:33 GMT",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ERnBFUTU5QU52M0ZiY0d2aUpFXzZPVU9nWk9fd0VyYjlDd2RXaDFaclRRVGRLWFM4VjlfSEo0VUVVakttOU1DZ3ZwOS1TS3B4OVdDUy1OM2FTRDZxbkVHeS1GRUlrMERzLVM2NA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://9to5google.com",
-      "title": "9to5Google"
+      "href": "https://www.eurogamer.net",
+      "title": "Eurogamer"
     }
   },
   {
-    "title": "Porsche Built The 993 For The 1990s, This One Was Built For The Future - Carscoops",
-    "description": "Porsche Built The 993 For The 1990s, This One Was Built For The Future  Carscoops",
-    "published date": "Mon, 25 May 2026 01:17:15 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbzZsZHdySUZ0MkRBQTJ6VXVkVEMtejdramJZeUNaei1LS2E1bFhWY2pUMHJqQXlyYzBfd2RRWWVrRlh3U0dTazBWYWFrRlFsaktETzRYaFJib2E0VHQ0bUhhWFUzT01nMkxkb3NJNjBQU3hMTXBTRThQZ3FyNmhHcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Fallout: Siege of New Vegas Trailer Drops Action-Packed Reveal - Insider Gaming",
+    "description": "Fallout: Siege of New Vegas Trailer Drops Action-Packed Reveal  Insider Gaming",
+    "published date": "Mon, 25 May 2026 13:51:33 GMT",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9td0N5b0JkZW5TMjdXQnhmMk5XRW9jZnZYdGhFbFVXenU2MTh4eTBjT3BxdUpZZXN1NGd6My1RRHV3STBqYWlJYmxodmJxRFdEVjhXZ0p0cUMyYVV0Q3Q2UlBEclFORHlNRWNHc3NiWWt2ejFkYWplcg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.carscoops.com",
-      "title": "Carscoops"
+      "href": "https://insider-gaming.com",
+      "title": "Insider Gaming"
     }
   },
   {
-    "title": "The Worst Video Game Movie Of The Century Is Mark Wahlberg’s Fault - giantfreakinrobot.com",
-    "description": "The Worst Video Game Movie Of The Century Is Mark Wahlberg’s Fault  giantfreakinrobot.com",
-    "published date": "Sun, 24 May 2026 00:25:06 GMT",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83Z0ZHUFl4aTJaMWdJWV8wSkpRRG02Sk5BY3BYektyQjZuSkk0VkZRNXBjT2I2RXM3VkIwdXJaYXRad3d0emV2SGpfSmN5VlM5TzNnUXF5amFJVDVibTFqVlhiZ1pEMmV4cEg0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Anker’s 25W MagSafe 3-in-1 packs active cooling in a travel-sized design [Hands-on] - 9to5Mac",
+    "description": "Anker’s 25W MagSafe 3-in-1 packs active cooling in a travel-sized design [Hands-on]  9to5MacAnker’s 5K Power Bank Drops to Its Best Price on Amazon, Thinner Than Your Passport  gizmodo.comAnker 3-in-1 Prime Wireless Charging Station Drops to $104.99 on Amazon  MacRumorsAnker’s 45W USB-C charger with a smart display hits best price ever at $28 (30% off)  PCWorldAnker's 300W Max Output Prime Power Bank May Not Last Another Day at Its Lowest Price for Memorial Day  Kotaku",
+    "published date": "Mon, 25 May 2026 03:48:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTmNjSVVBamd3bjlKRUhWakxSdXFYVkZpY1FwM0RCNV8zdnNLclA1OVc0cldVbkduZ29lbFhlYnJ1MG5GRFZoWlBXM0JyTTVGaFlTdjJUZEp3dEpTLW0ya3dnbVcydmwwNW44T2NoQ0hHQUN2U3hUaEplZFctNDlIUkxMZw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.giantfreakinrobot.com",
-      "title": "giantfreakinrobot.com"
+      "href": "https://9to5mac.com",
+      "title": "9to5Mac"
     }
   },
   {
-    "title": "Paralives continues to sound promising with a roadmap outlining free updates The Sims would normally charge for - Rock Paper Shotgun",
-    "description": "Paralives continues to sound promising with a roadmap outlining free updates The Sims would normally charge for  Rock Paper Shotgun9 cool things about Paralives you won't find in The Sims  PC GamerNavigate The Paralives Tutorial And Game Settings Like A Pro  Sims CommunityParalives feels like the perfect tranquil tonic to the chaos of The Sims  EurogamerParalives: the cozy life-simulation PC game in early access — launching this Monday.  Sortir à Paris",
-    "published date": "Sat, 23 May 2026 17:53:13 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPX05jLXk5MFoyc2xoRTFlWENFd0dDak5jUWhIc1lTakNDT2JTMlpsbjdvWi1YdFVBSGpXVFBvNHJqTkRPVVF3bzJkLTIwM0dvM3B3UlREVWV4VVQyT3haUEoteFdEcHJMOXBmZVVXcXNQNGFfUFkzZUZwWFFCV2x5WjZXSVJpRzNlS1hIUmRqQnpPQ3U2b0dTVTB5eGZaMWNObWptQTR3ODg3SkE5S2hVSW02LTk0NUNkYU5UUFN4c2hqT3dJTlVvS0NJTEJmdHRqQWFjWkZ5YUtPckVB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Sorry, Apple: Samsung’s Fainting Detection Is a Game Changer - gizmodo.com",
+    "description": "Sorry, Apple: Samsung’s Fainting Detection Is a Game Changer  gizmodo.com",
+    "published date": "Mon, 25 May 2026 13:00:57 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYWFuUmpUTElfd2xvZ2dSQmRJQkdvQkRRTHlFSWd5RlJVTDE1MVo5N0k0QXdjSkZZMm1MWU05aHN4MG9sMk5IZ2hZU0R4bE5IV2VtZHlVNURCY0RTdTA0azhDaG9SVU4yQ01mcHJ3TURCVjhabDNEdDFadnhyM3dyMEdfUU9hVnNPMHdkOWp2Vm41QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.rockpapershotgun.com",
-      "title": "Rock Paper Shotgun"
+      "href": "https://gizmodo.com",
+      "title": "gizmodo.com"
     }
   },
   {
-    "title": "This $82 USB cable hides a Wi-Fi microcontroller inside its connector - TechSpot",
-    "description": "This $82 USB cable hides a Wi-Fi microcontroller inside its connector  TechSpotWi-Fi controlled hacking USB cable stealthily packs in a microcontroller, microSD storage, and more — cable executes remote payload execution, keystroke injection, and more, but is 'built for makers, developers, enthusiasts, and cybersecurity learners'  Tom's HardwareThis “normal” USB cable secretly wants to be a hacking tool  Digital TrendsHacknect: A Wireless Automation Platform Inside a USB Cable  Hackster.ioHacknect – A wireless hacking USB cable with a built-in microSD card slot (Crowdfunding)  CNX Software",
-    "published date": "Sun, 24 May 2026 19:18:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX3pGd2hyVmZhNVNxMThYWDNWVjRwV0lwckd3aWpVSFYzMDFhLVNuX2hlQVFLS0xhN1pod09ValZIaVk0RVNSU3N4RVdGRjd0S0Rpb3NsR0RoYlZnX09kdjRkSzBJS0xVMEhzVF8xcXI4THp3TW5sQkkxS0lYdG9jRUl3cjlRSVppamtGdzh2UWw0a2M?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "\"Total game changer\": Xbox calibration has been cracked by this free tool, and it could fix stick drift forever - Windows Central",
+    "description": "\"Total game changer\": Xbox calibration has been cracked by this free tool, and it could fix stick drift forever  Windows CentralDriftGuard adds memory calibration to fix drift on Xbox controllers  KitGuruDriftGuard aims to make gamepad strick drift a thing of the past  XDAGot stick drift? DriftGuard can now automatically calibrate your controller  TweakTownGame-Changing Xbox Hardware Hack Fixes Stick Drift Permanently  GAMINGbible",
+    "published date": "Mon, 25 May 2026 13:42:29 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE43QlB3R1lZTHRlenVNWUVqVk5uanIyZmVVOUg3Q0R6dG1zU1dRX0FsVVhtOFdxNjZRdURYdm14YUZDdTN4dGN1RTdON2xPal9weTlEOWFrZ0ZXTjhGWkJRNEpUR1dtb0x2RlNBQ3pMZmNucE9JQ1poaTNn?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.techspot.com",
-      "title": "TechSpot"
-    }
-  },
-  {
-    "title": "Lenovo confirms to be working on NVIDIA N1x laptops - VideoCardz.com",
-    "description": "Lenovo confirms to be working on NVIDIA N1x laptops  VideoCardz.comLenovo Leak Points To NVIDIA N1X Laptop Chip Ahead Of Computex  HotHardwareNvidia’s N1X processor for laptops could be right around the corner  Digital TrendsNvidia N1X spotted online ahead of rumoured Computex launch  NotebookcheckLenovo Legion 7 with NVIDIA N1X to feature 245W power supply, similar to RTX 5070 laptops  VideoCardz.com",
-    "published date": "Sun, 24 May 2026 09:29:02 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZWZ4UTZzTktaN0tMekVqRTltclJRcjJaWkdLVnl6cHpIS01hdGctNmVCQmFHa0tIbGJqelBBU0VkN3BCQlpfeEozSXo4aUc2ZUxqQ3U1XzJnRlNpenF2Qk0wT1VoSUUxby1lNjJkMmN0ZTF4dGZBX2djWjBDRlJoZTE1TTRJUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://videocardz.com",
-      "title": "VideoCardz.com"
-    }
-  },
-  {
-    "title": "Firefox's Big Redesign Gives You a Button to Kill All the AI - Decrypt",
-    "description": "Firefox's Big Redesign Gives You a Button to Kill All the AI  DecryptDesigning Firefox for the future  blog.mozilla.orgFirefox's Free VPN Adds More Servers in More Countries  CNETFirefox wants to be the anti-Chrome browser for the AI era  Fast CompanyFirefox is working on a rounded redesign with easy-to-find controls for privacy and AI  theverge.com",
-    "published date": "Sat, 23 May 2026 17:01:31 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1vcHBiWlZVcU5sbm4zRFoxLWZtekw2aUd2Y0ppcWdKWWRrRE5kSVFhYXZ3YnBWcGhLLXZzWjkzYUxjYXlsRU1uaVhMc0QxWG5tSjVpYlpQV2wtZVJTcUVHSko2SzBQVVROdGw0clY0Q21oRkltd1BDNVNB0gGCAUFVX3lxTE0tOVR2SEtOSGItVjJIYUpTek1mMllpLVZ2dHg5NUlIVFp2ZVJNR0UybjlFdEJUTFhoTlpQZTBEWTcwaGZqYWFCM1lyNjBrSElJalF4bG5UMFc4Q3lHQjJ3TzJLNXBlZVNrcDlOS25pTmNCN2Uxckp6TnhMNDZwN3JjTkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://decrypt.co",
-      "title": "Decrypt"
-    }
-  },
-  {
-    "title": "Let Out of PS3 Jail, Here's an Hour of Metal Gear Solid 4's New PS5 Version - Push Square",
-    "description": "Let Out of PS3 Jail, Here's an Hour of Metal Gear Solid 4's New PS5 Version  Push SquareMetal Gear Solid 4 arrives on modern platforms August 27  Daily BeirutMetal Gear Solid 4 Remaster New Footage Shows Why It's The GOAT  GAMINGbibleMetal Gear Solid's Official Return Leaves Gamers Floored  ScreenRantFirst Metal Gear Solid 4 Gameplay Footage From Master Collection Vol. 2 Appears Online  TwistedVoxel",
-    "published date": "Mon, 25 May 2026 12:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYU53aF9SQ3pLcVdaUXg2R1VYNVRNLU1pTlA4VnJhdW5GRjFibHI4V3FJMzV6MXZvQy1FU2U0Rk44bTFuQ2psRmpaR2tmWmI0UHVtTm92XzFRQVVzVWVsWGRlQk50NU1BUVZOZDlGdElZalMyS3I1b3gtTFp5UW04M2JYUGwxdVZQWjRWdGZ6enJuNjRYVmhVYzRUZmt2ZEpWNHVRWDZ1SGJXd2h2cGlqWkt3?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.pushsquare.com",
-      "title": "Push Square"
-    }
-  },
-  {
-    "title": "Famitsu review scores – May 24, 2026 – Yoshi and the Mysterious Book and more - Nintendo Everything",
-    "description": "Famitsu review scores – May 24, 2026 – Yoshi and the Mysterious Book and more  Nintendo EverythingTraveling Through the Looking Glass With a Green Dinosaur  The New York TimesCrack open Yoshi’s next adventure!  nintendo.comYoshi and the Mysterious Book Review: Don’t judge this by its cover | VGC  Video Games ChronicleDiscoveries - Yoshi and the Mysterious Book Guide  IGN",
-    "published date": "Sun, 24 May 2026 12:02:19 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRXdINF9mbUo1d3ZUaXl2TF9DTUctUWRQVXdyVGFyWnZhNUhqcTJCQmI4QjhwZXd4ZGVZNWM5Wkp1SzZRY0JaMmFyM2dnQjcxVTVNZkJPYXFRMVBxUjB3OXd2b09KTHk2UThzeXZDX1RKaUtaLVFzTHp2WV8xY1BOWWhwN0ZnODVHamtBTmVPVW50aW8yTHJTYlRJUnNjamxwdnhDdUJhaw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://nintendoeverything.com",
-      "title": "Nintendo Everything"
-    }
-  },
-  {
-    "title": "Saturday pre-orders – Shake the battlefield with new tanks - Warhammer Community",
-    "description": "Saturday pre-orders – Shake the battlefield with new tanks  Warhammer CommunityHorus Heresy: The Falchion and Spartan Prometheus Up Close  Bell of Lost SoulsIconic tanks from the Horus Heresy revealed in this week's Warhammer 40k preview  wargamer.comSunday Preview – Mighty war machines in the Age of Darkness  Warhammer CommunityGames Workshop Pre-Orders: Time to Give Tanks  Bell of Lost Souls",
-    "published date": "Mon, 25 May 2026 14:15:39 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSURzSFdWY2VUaF9WNVl3V01FZEw4U3BZYWR3eGlCUGVDZTNWX1NtRHNvZ2tVWUpqWlo1QjhhRDQwNjUzMXdNSVBBNUZrMkpvajBYWVFheXU2V3U1MmFMVkJEYVEzWURBX2RvbmNRTDF2OWNOTkVzRzVyRGxHWEV1Y3IxTkJwdXVOYU9jQU95eFBxblR1U1NhYXZQZjZfcGpYUkRFeFYwUUM1UHhNNE5uQTBHTTJtekp4?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.warhammer-community.com",
-      "title": "Warhammer Community"
-    }
-  },
-  {
-    "title": "New iOS 27 Rumors Include Revamped AirPods Settings Menu and More - MacRumors",
-    "description": "New iOS 27 Rumors Include Revamped AirPods Settings Menu and More  MacRumorsApple's worst AI feature to get a 'big boost' with upgraded Apple Foundation Models  AppleInsiderReport: iOS 27 to revamp the AirPods settings UI  9to5MacApple Is Reportedly Making AirPods Less Frustrating to Control  GizmodoiOS 27 brings two fixes iPhone owners have grumbled about, starting with your AirPods  PhoneArena",
-    "published date": "Sun, 24 May 2026 20:02:41 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xVVpfQWM3OVozc1hJM2t3X3BtRmRZTnF5UkZ1bDFMOG1BdDN4T01Xc1N2djZyMmZZellzRG0ybTFtWmtPczY5bkRuMXR5SGJYTkdLSXJBenpJRUpDcDhtZFZoT0EyYWdTdGVuSFpCYlNTT1ZVRndxc2Nn?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.macrumors.com",
-      "title": "MacRumors"
-    }
-  },
-  {
-    "title": "GTA 6 Marketing Spotted in the Wild - GameRant",
-    "description": "GTA 6 Marketing Spotted in the Wild  GameRant‘GTA 6’ Price Still Not Revealed, but Take-Two Chief Says Rockstar on Track to Begin Marketing This Summer  VarietyTake-Two Says ‘GTA VI’ Launch Still Set for Nov. 19  WSJTake-Two Confirms November Debut for ‘Grand Theft Auto VI’  Bloomberg.comGTA 6 has become too big for Rockstar's own good, and everyone else's  Polygon.com",
-    "published date": "Sat, 23 May 2026 17:46:52 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12czlxQTQ1aXhEd1Z0b2NJVlljR0I4N21Nd1FBWWlDRVdNSUxhbEZYdGZqNXZOaUw3ZVdqYVlOSjlOVEdSOXY5NGpuazZfM3JhN0Fz?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://gamerant.com",
-      "title": "GameRant"
-    }
-  },
-  {
-    "title": "Adorable ASCII Aquarium Lives On Your Desk - Hackaday",
-    "description": "Adorable ASCII Aquarium Lives On Your Desk  Hackaday",
-    "published date": "Sun, 24 May 2026 17:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRTF4aG5xXzY2X2lFYzRVeE9ZMEdzekY1MEQ5WEoyd1R3SHYyRkZhX1RSc1NKWUl4ZFJXYkRCcHlobWpkVHc0dE1wdkJ3aGRrY3RJM1pKdXNzTUhwWW9LVzY0cG5lWGxTYzhVQTkzdWZLX2hQY21SdjlNX2hNY0JPYw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://hackaday.com",
-      "title": "Hackaday"
-    }
-  },
-  {
-    "title": "Where is the new Google Home? - Android Police",
-    "description": "Where is the new Google Home?  Android Police",
-    "published date": "Sun, 24 May 2026 12:15:52 GMT",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTURQa3pxSUFNczBJaXZWaUp2RzdRMFlxVE9mZmRNMk5aZGFHZ2lLRGdVQ2ZnU0tNblNzd2JRTHFyU2g3VFdTckxBaFFjYXo2cVhJM2x4NjBFVU9JcDc4eW5JTV82Rm5EYzU4SEp6MHRVblJLbGltellVekdSMDN1NDVZelZROENzV2xWUHJuSktfa3ZYOWdTNmd4c21WRmZo?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.androidpolice.com",
-      "title": "Android Police"
-    }
-  },
-  {
-    "title": "Round Up: 12 Switch 1 & 2* Games We Played At BitSummit 2026 - Here's What We Thought - Nintendo Life",
-    "description": "Round Up: 12 Switch 1 & 2* Games We Played At BitSummit 2026 - Here's What We Thought  Nintendo LifeBitSummit Day 2 Report: A charming puzzler from an ex-Grasshopper dev and a nod to Mega Man Battle Network  Video Games ChronicleFrom 200 to 60,000... What is the secret to 'BitSummit's' success chosen by Director Murakami?  Inven GlobalJapan: Nintendo Indie World announces its 17 game line up for BitSummit  My Nintendo NewsA Worldwide Lineup of Indies Comes to BitSummit PUNCH!  Games Press",
-    "published date": "Mon, 25 May 2026 12:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaUZ4cUwwY1BPTzA5MHFQLUxlTnFDOF9oZ3FDVEVoNThvZDEwUXVWeG9tMUJsQWpCR1VJaHZRZHNNeWJlZmppUzdPb1Jub2tBUHZwbmQzNFV2V2tCQXZmVDVvS0FHYWQ2LTlhaDFpMndYdG9hOEEwRTBWcGZZQ1JuUTJPVktHOW5Uc2o4cmxyUTF0WDlIYmNfcURkZ2dsZ3k5OXk4RXJpZWo1em1IZ1ExVGlFSUl2NGFILWJHbg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.nintendolife.com",
-      "title": "Nintendo Life"
-    }
-  },
-  {
-    "title": "There's One Forza Horizon 6 Player Terrorizing The Entire Community Right Now, And Even Their Drivatar Is A Menace - TheGamer",
-    "description": "There's One Forza Horizon 6 Player Terrorizing The Entire Community Right Now, And Even Their Drivatar Is A Menace  TheGamer",
-    "published date": "Sun, 24 May 2026 16:00:25 GMT",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yd28tQWYzLXZKVXNkci10TjNISS1qb3diWnNNWXpfbGUyU0RIdVBQWExmb2YzVkVhSk9ENWJLR1FNbU9QQkhUcGtXaHM5U2RIeEVvN2RTeWJoYW1vLTVJemxzXzY1bF9TX01XakZBTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.thegamer.com",
-      "title": "TheGamer"
-    }
-  },
-  {
-    "title": "The Best On-Demand Streaming Services in 2026, Ranked by Experts - Money Talks News",
-    "description": "The Best On-Demand Streaming Services in 2026, Ranked by Experts  Money Talks NewsNot Fire TV Stick Or Roku: This 4K Streaming Device Is Consumer Reports' Top Choice  SlashGearTop Media Streaming Devices in 2026: Stream Without Limits  Analytics Insight",
-    "published date": "Mon, 25 May 2026 11:07:43 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcDhBLTBsTVhBbXlGSmg5N2tWY0JHNTBLUkw4bWR6cXVRMTJTeE0taUxLUkFjckdqZmVTV21VYjE5THNadW5IQ0hGSElqUkpiS3VlbGd4ZFozdVc5VFNMSVpxSFJNRG5yVHZfcnBLeG5iaERIUms5NmdMblA3cWk2WGx4LXVkTGxyZU1YYUNaeEhIY2FY?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.moneytalksnews.com",
-      "title": "Money Talks News"
+      "href": "https://www.windowscentral.com",
+      "title": "Windows Central"
     }
   },
   {
@@ -430,123 +230,93 @@
     }
   },
   {
-    "title": "Former Nintendo exec confirms NES and SNES Classics were made to sustain the company's business during Wii U's dark days - Nintendo Everything",
-    "description": "Former Nintendo exec confirms NES and SNES Classics were made to sustain the company's business during Wii U's dark days  Nintendo EverythingSee more headlines & perspectives on Google News",
-    "published date": "Sat, 23 May 2026 22:02:19 GMT",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQckNDZkotOXBnMkE2Z2REUTd0U21NWS1lYWJ1WENqTTFHNG9UaGNjbEZRMjZlUVJzWEJoUjh2SElVWVM2MDBBellueF9ZdmVwNmhaTFk4QjRDUHNZRG1aY0JwLUxMTlViS05OUHJPN2lVMVJIdHNIMGE2VlBTUXJzZFdnR0pqdVNkR2xIS2M0MkNHY1dtRlM1T29wdW11TTBscThKMFFoclZmbWV4Z21PVU51aG41VXBWTHpSa0xaOFNQdFhO?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Ratel Not Concerned About Latest GT3 “Evolution” - Sportscar365",
+    "description": "Ratel Not Concerned About Latest GT3 “Evolution”  Sportscar365",
+    "published date": "Mon, 25 May 2026 12:02:38 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQblJCWEpnc0NtMGU3RHpuWTZ3M0dQQ2tFa2JBMWd0eWU0c0ttMHVJaEZTZ1ZWeTZCVkF5aHd2Wnlma1d2cERoU3pfT1NHdFlRZ3A5TDNRQTNDQ3phdWtLVnNsRkhSOC1pSE9LdkRMSU82bjF0LTVzeUxzRlZlSGFQTmlLREQ2YUtZSkJN?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://nintendoeverything.com",
-      "title": "Nintendo Everything"
+      "href": "https://sportscar365.com",
+      "title": "Sportscar365"
     }
   },
   {
-    "title": "Apple’s latest MacBook Air is $200 off in both sizes for Memorial Day - theverge.com",
-    "description": "Apple’s latest MacBook Air is $200 off in both sizes for Memorial Day  theverge.comSave $300 on Apple's M5 Pro MacBook Pro with 48GB RAM today only  AppleInsiderBest Apple Deals of the Week: Memorial Day Deals Arrive at Best Buy, Plus Lowest Price Yet on 15-Inch M5 MacBook Air  MacRumorsThe MacBook Air outlasts your workday. What else do you actually need?  Gadget FlowApple Gives the M5 MacBook Air Another Surprise Price Drop to a Record Low on Amazon for Memorial Day  Gizmodo",
-    "published date": "Sun, 24 May 2026 15:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeFFHa2JiS0ZJdkFOTkxiS01KUnBlOEpYZGpycE50d2puS0o4YVpWdGxyX3lKanFGcHBwd0JnaldwTjFOMEdibl90SnZGbDZwYmNtZUlTSDJuNkxrb1l1cUxfV0JGeDVSR3lEYWFUNGpYWms5aTBQMG9PbXBqd2s3VHZGUWxjNkZpQU56TFhtbzFRZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Forza Horizon 6 Seemingly Sold Almost 5 Million Copies Before Its Opening Weekend - Pure Xbox",
+    "description": "Forza Horizon 6 Seemingly Sold Almost 5 Million Copies Before Its Opening Weekend  Pure XboxForza Horizon 6 Now Available on Xbox Series X|S and PC  Forza.netForza Horizon 6 review – classic open world racing sim roars beautifully into Japan  The GuardianForza Horizon 6 Is Available Now With DLSS & Luna Abyss Launches May 21st  NVIDIAForza Horizon 6 Nears 5 Million Sales, 42% on Xbox  TechPowerUp",
+    "published date": "Mon, 25 May 2026 12:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd210VDR2emxPaG9Sdi1RYVZNYkJuclAtem1QU1E2UlZHM05YbFJ6czlvUll4MGNSa2ZYVEI1azhaTlZyUWVHSXVtOHMwUmQ2TDFfNXFITjFZZDV4VXMwYzJ0U1FObnBveGoxYkF2S0FodkJSWGZ3QkpnYzU4SHA3VGFiVWJNSjBfdk15Mkp4SFlURlpVV2QwTXhxUThLV2VXdGNCWWJpMmR6V1JXbXRWMm1MWnRhT2lBaEM0?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.theverge.com",
-      "title": "theverge.com"
+      "href": "https://www.purexbox.com",
+      "title": "Pure Xbox"
     }
   },
   {
-    "title": "No, that probably wasn’t Pixel 11’s ‘Glow’ at I/O – ‘Pixel Ultra meeting’ anyone? - 9to5Google",
-    "description": "No, that probably wasn’t Pixel 11’s ‘Glow’ at I/O – ‘Pixel Ultra meeting’ anyone?  9to5GoogleWait a minute: users wonder if Google teased the Pixel 11's glow at I/O  Android CentralAndroid Circuit: Pixel 11 Specs, Acer’s New Android Tablet, Xiaomi 17 Max Confirmed  ForbesPixel 11 Leak Exposes Tensor G6 and Pixel Glow  The GadgeteerGoogle Pixel 11 Pro XL leaks suggest massive hardware upgrades | Tap to know more | Inshorts  Inshorts",
-    "published date": "Mon, 25 May 2026 03:20:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sMzRXckZrVFZZN1F2ZnI4VW1mRlhTNkVHVmQzTUt5UV8zUmZBdDU3YnE4Mm5tTGdPSktJdHBST0RNbzdnZF84RVFya2R5eGNOQkpXbE56OERuQlJNQks3Zmo5WDRWOG8?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "PS5 Getting Surprise Remaster of 2013 PS Vita RPG - PlayStation LifeStyle",
+    "description": "PS5 Getting Surprise Remaster of 2013 PS Vita RPG  PlayStation LifeStyleEXSTETRA Makes Its Comeback in HD on July 30 on Steam  COGconnectedJRPG Exstetra HD Remaster Revealed, and It’s Coming to the West for the First Time  Simulation DailyExstetra Remaster Launching on PC in July, Console Versions Announced  RPGamerExstetra RPG's HD Remaster Releases on Steam in English on July 30  Anime News Network",
+    "published date": "Mon, 25 May 2026 11:36:28 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUGJ5RVVkb2JkZDJZVHAtbXp1V0RCaG1yTVM5RU4zZk1VRlIyQk01Rk1NVzVlVHA5c3dteTBvbGphLWl2V1Y1NER5OGhRWXM5azRsSVNxX1JRSU54OVBHSEEzODRsWWJ6ZzNadXROb2lWV0VJcFpZSVV0QU1OSEdBYUEwMGFwU1FUMHIzck9ISXpsZm16TXFZTkQ1MNIBoAFBVV95cUxPN1RNRTBwWU5ENVR0Zi1nbDJRdm9VS3NrSGdrYUdRVUJZVVJUcXo1YjVyMmd3S0w3blNqd1NCVWJuN2JZU0FEZHhBT1lmS1AwYV9icHFNMVg1S3RkeWJMNzRJUGhkUVRqczQxVDZfQkVaWGVHdTkyLWNKdGhibmxpZTVwY0tBNFhLd1dfUVEtMjhFd3VOQi1TSW1LMjFoOG9T?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.playstationlifestyle.net",
+      "title": "PlayStation LifeStyle"
+    }
+  },
+  {
+    "title": "Use Tiny11 to Rescue a Computer Running Windows 10 - WIRED",
+    "description": "Use Tiny11 to Rescue a Computer Running Windows 10  WIRED",
+    "published date": "Mon, 25 May 2026 11:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTVNXTEFGeUM4M2s5VE9hVk1HVmo5cnJRbVJBWGtwM2FnT1RzUFcteVR5QjhIbkNmYWpQcEVRR3pLejlNaDJsZkp2cE1NMlNjV3lfOU9vMVlQclIwUF9RdGlSeHJ5cVRQRWZuU2FteHpUYzBCSnZMdmFQeFhidmNkSGxMN1hpdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.wired.com",
+      "title": "WIRED"
+    }
+  },
+  {
+    "title": "Xreal, Google's smartglasses partner, thinks it has finally mastered this notoriously tricky industry - TechCrunch",
+    "description": "Xreal, Google's smartglasses partner, thinks it has finally mastered this notoriously tricky industry  TechCrunchI Tried Google's Screen-Free Smart Glasses, and They're Exactly What I Want  PCMagIntelligent eyewear is coming this fall  blog.googleWarby Parker and Google take on Meta with new AI smart glasses  Fast CompanyAlphabet Bets On AI Glasses And Cheaper Gemini To Deepen Ecosystem  Yahoo Finance",
+    "published date": "Sun, 24 May 2026 19:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeE1sSzdrOHZZblZjZWxDZUhFNHhVQl9ESXJ4eElOcVdOeXgyeGRpUTZOMVRGOTdHZEdTZmhURHpGclo2VjRXLXdCLVZuQTZJOGhzcjFuSloyb0lrZWY5cUFyc0lQNHQtNGpjWllUZUVsaWlETWlTWXZQcV9TV3lUa1RydmRrMzc4Vks1TXhKTjRjNklYWlFXbE1ySGpwT0VXejBsQmdONWdRSTQ3TzR5Tnl6V3F3UGc5NndBNjFsMURHNWxwaWxVclgzckFDdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://techcrunch.com",
+      "title": "TechCrunch"
+    }
+  },
+  {
+    "title": "One UI 8.5 breaks dark mode on Samsung phones, but there's a workaround - Android Authority",
+    "description": "One UI 8.5 breaks dark mode on Samsung phones, but there's a workaround  Android AuthoritySamsung’s latest Galaxy update changes how dark mode looks, but not for everyone  9to5GoogleSamsung has quietly removed filters from video mode on One UI 8.5  PiunikaWebSamsung removes creative video feature from Galaxy phones with One UI 8.5  SamMobileSamsung One UI 8.5 Removes Video Filters: What Changed and What Still Works  Gadget Hacks",
+    "published date": "Mon, 25 May 2026 07:33:46 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ1NrRzV2T2ptUm5Sb1JIUDAzUGd0MWdRTk0tUUR5UDlrcjhCM3VZenp2X0w4WF9MdFBKN1BjaWd5azhzZmY3eEtLbFRGOHpuNHVfVjJVeGNUTC1MUmI0WnVGdnRpVzJ2bEw2b3BMVGlrYlc1Z2d2Tk1Bb3ZpbXdnRThLZkFLRnlVYVpaWW5rY0k?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.androidauthority.com",
+      "title": "Android Authority"
+    }
+  },
+  {
+    "title": "Lunar Strike offers a pessimistic, and worryingly realistic look at the future of space travel - Space",
+    "description": "Lunar Strike offers a pessimistic, and worryingly realistic look at the future of space travel  Space",
+    "published date": "Sun, 24 May 2026 12:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTklZZ3BqeTQwRkdSVHNUN1lxa1daVXlwLW5mdld4T1VOQ0NSaXdDS0tsbUFLcHpQclBpUjllUW1KVU93RTBEWXp3Z0pxMk82b0FoUy1CdTJOdHJqbXdfS2xvd2Zfd0JvVGlQZUpUeFY0WTh4Q1JPWHBMYXpiYmh5ZkJhY1JFajZIM3JWd3dQWlFya1hPeHBtaURVRmcyOWZmNmM0Q3J2aUxzZzFRUHFkbWhQaVJMT2pMSGQ2ZEphTFFzbnJxSGFFOUxhWnNKQVd3c2pnZm9IT24?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.space.com",
+      "title": "Space"
+    }
+  },
+  {
+    "title": "‘Galaxy Z Fold 8 Ultra’ leaks, but it’s probably not for the foldable you thought - 9to5Google",
+    "description": "‘Galaxy Z Fold 8 Ultra’ leaks, but it’s probably not for the foldable you thought  9to5GoogleSamsung to use Galaxy Z Fold 8 and Z Fold 8 Ultra branding for upcoming foldable lineup  SamMobileSamsung’s new Folds may get a dramatic name change that nobody asked for  Android AuthorityGalaxy Z Fold 8 release date: should you wait for Apple's foldable iPhone or the Pixel 11 Pro Fold?  PhoneArenaSamsung's Galaxy Z Fold 8 Wide is the first foldable I would actually buy  Android Police",
+    "published date": "Mon, 25 May 2026 11:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xM1JsanYybWVhTW1VWmRhajlGeDVCRTlXeGhmeDc0VjVyMTNvTzZJSEF3NXdpZ3ltWWNhSTQ4QVhhMnlBSFJ0amgzMVhwa2o5S2hJdWxKcm1pT1FtVTh1QV93SlBSRWtPaXd2anA3U29PaXdfTzNmUG5R?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://9to5google.com",
       "title": "9to5Google"
     }
   },
   {
-    "title": "Warhammer 40,000: Chaos Gate - Deathwatch picks up where Daemonhunters' XCOM-ish gorefest left off - Rock Paper Shotgun",
-    "description": "Warhammer 40,000: Chaos Gate - Deathwatch picks up where Daemonhunters' XCOM-ish gorefest left off  Rock Paper ShotgunWarhammer 40,000: Chaos Gate – Deathwatch: Redefined Brutal Turn-Based Tactics on XBOX  XBOX WireWarhammer 40,000: Chaos Gate - Daemonhunters sequel revealed at Skulls Festival, known as Deathwatch  Gamereactor UKIN BRIEF: Frontier Developments stock up on new Warhammer game launch  London South East'Warhammer 40k: Chaos Gate - Deathwatch' Announced, Featuring Elite Xeno-Hunting Specialists  Inven Global",
-    "published date": "Sat, 23 May 2026 16:14:29 GMT",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUFM0d3F2bmZBdjBfOFFRVURsdEl2NDhGQmQwODZ1WkcxOHZEeUxpRWl5RFl5blp1QlIyQkM3TWdmYWZ5c3k2dzJyeG5iS2NvUXVYSzVjazIwLWNxZGlwTkc4Zjh4SUI4aklHNWc3blAyYzdudXZHSVE0V2I5al9RUGU1emljTWJUZ1Q3UWtLUEkzbENhTy1Gd1lBbVNfWWxuaVZqSS1EQUpJRm5yM3RiTk40WDRhUVZWcnRGT1RLdXJfNzV2?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "BMW M3 Faces The End: 2027 Is The Final Model Year - Motor1.com",
+    "description": "BMW M3 Faces The End: 2027 Is The Final Model Year  Motor1.comGallery: 2027 MW M3 CS Handschalter Photos  AutoweekInterview | How a BMW CCA Member Secretly Created the Manual M3 CS  BimmerLifeBMW M3 Production Ends In 2027 As The G80 Generation Bows Out  Autoblog2027 BMW M3 CS Gets a 6-Speed Manual as a Last Hurrah  Edmunds",
+    "published date": "Mon, 25 May 2026 06:47:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95QmpOVUJTQlVhMC1oSEdJWnJSNnFMeEp5b0RDd2xmLUs0bHJWVmczSTJBc1QtNlhucWxsVkxaV0E5VnhndVBPcUtzVEl4REhGV05NR1dSbFFJR2JJaDNOUlk4TWhtLXlKR1ZMVlhhb20?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.rockpapershotgun.com",
-      "title": "Rock Paper Shotgun"
-    }
-  },
-  {
-    "title": "Laravel Lang packages hijacked to deploy credential-stealing malware - BleepingComputer",
-    "description": "Laravel Lang packages hijacked to deploy credential-stealing malware  BleepingComputerSupply Chain Attack Targets Laravel-Lang Packages with Credential Stealer  Aikido SecurityLaravel-Lang Supply Chain Attack: Every Tag Across Multiple Composer Packages Rewritten to Steal CI Secrets  StepSecurityLaravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer  The Hacker NewsLaravel Lang Supply Chain Advisory  Snyk",
-    "published date": "Sat, 23 May 2026 20:48:23 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOWcwQU5qMnRwZmhHYnI3LS1IemdKZDBhYm9BUlpTQ2dHdDRhbHRCUnh5b1BFSjA1VG5vQVhTS1YtV2FWd1BjSFp0SFAwOUxzSHhhWjZUSmdTLVRjanVMX2tjeFpoOFFfdVBVZWJlakVwRlp6bGxZZkRZUTNuTUpVdWFoWkFRQzI2akl0Y0pBbXljc0hsUWp3QWNNc2dtRXBfNTA5bXkwT3VvZ0dsYlRMRjlIZFY3U2fSAbwBQVVfeXFMTTVmRmRKTGFxamVBTTVzRXU0QS1aRDRHTkVMcjBVUmtQSy10TFJYRjFzMlhvX0hJZFpleVZXY1hIRFZrSW50QTFva29Mb2lHMm5FN2h1bC1jUjVGNWJMaVg2b2p4bF9lRW5zSjkxRlVIdkpfZzF6X0ptUTlqNGhOdlIxQzE0QjJqaDc5bnIzR1Y4ZlFQWFdXOHJnUmpTbElFU2ttWVlDcTNXN3c4UXBJV2JJdUZFLUtacDRQSlg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.bleepingcomputer.com",
-      "title": "BleepingComputer"
-    }
-  },
-  {
-    "title": "Inside the World's Biggest Bet on Fusion Energy - CNET",
-    "description": "Inside the World's Biggest Bet on Fusion Energy  CNETBuilding the Sun on NHK World - Japan HD: full details and when it's on  TVGuide.co.ukThe ITER project gathered 10 million components manufactured in 35 countries to create an \"artificial star\" in France that will heat plasma to 150 million degrees Celsius, a temperature ten times higher than that of the Sun's core, and attempt to reproduce for th  CPG Click Petróleo e GásInside ITER and the Future of Fusion Energy  mashable.com",
-    "published date": "Sun, 24 May 2026 12:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ3ZWdloyVG1oQlpjX3gtOG1LUy1GdjBmelMzR2k1Ukp4ck5rOEJqVUFod2RLQURsMHRoeFVpOEcwaTNMbnA0MlNGeWJrR3JvTjQzc2V2ck5vTjhOUGZQMFA0S2twRG93dm9XdGJHS3hSTlNxVm9XSUFaU1g1R0VuYWg0RVNZX2JjampVaw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cnet.com",
-      "title": "CNET"
-    }
-  },
-  {
-    "title": "Report: watchOS 27 to improve heart-rate tracking; AI health coach may not debut at launch - 9to5Mac",
-    "description": "Report: watchOS 27 to improve heart-rate tracking; AI health coach may not debut at launch  9to5MacApple’s Watch and Health Efforts Need Reboot to Rival New Wearables  Bloomberg.comwatchOS 27 Will Add These New Features to Your Apple Watch  MacRumorsHeart rate tracking improvements are about all that's expected in watchOS 27  AppleInsiderBig Apple Watch AI upgrade might not arrive with iOS 27  Cult of Mac",
-    "published date": "Sun, 24 May 2026 15:59:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORWNQbE95bFg2T2tnODNTSGZ4NFZxTlBNY1k2Mm9VWFFTeFVfbFdVdXpZUEFZdkt5dHN1TnZ0ZTRGeVg0TXBkWlNQWUpPVzYxam1lbG1xQ0xvOF9FTXFiQ1k3UGJzNHlOUjIwb2dicnNfNVUxOF9COHFfMVhseExxcmVqZjNOamNMVC1Jc0d5NzlzWUhPdHcxdkhLSmUycTlGVUxEQTBEOTdydHR2ZXBn?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://9to5mac.com",
-      "title": "9to5Mac"
-    }
-  },
-  {
-    "title": "Quantum Batteries Could Run For Years Off Of A Single One-Minute Charge - SlashGear",
-    "description": "Quantum Batteries Could Run For Years Off Of A Single One-Minute Charge  SlashGear",
-    "published date": "Sun, 24 May 2026 09:45:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNallOcGQxRVZrRHFPTHhSNDR4am1jMVNEdVJlc29GWTJZR3h2bWhMa3BrZWl0OVZWWkU0Y2ZEd2RuaW1IRXJvdWNQWWlkSnFieTFkTEFtZ2M3SmlmUGFVYnVUR2xCRXpYSUxUc0lDWkswekJKb3U0WHBScGRwNGFOMmlLNA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.slashgear.com",
-      "title": "SlashGear"
-    }
-  },
-  {
-    "title": "Customers slowly handing more power to AT&T, T-Mobile, and Verizon - PhoneArena",
-    "description": "Customers slowly handing more power to AT&T, T-Mobile, and Verizon  PhoneArena",
-    "published date": "Sat, 23 May 2026 18:56:39 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTEFPR0JYTUR4WXlwNEtxYzBFcVpkc2prTnZLUEZqVy1VTkJYbWVkSnhIbjExcnpTX1NJUGh4LUktcG8tSFRGM3ExMUQtdWtoTFBCR0ZIaGduelN4V1MyMHNTOTIwdXVBN2VrZVZRQU1URmZBNG52QnZZekM5RGMyVl9HQ0d4SUFK?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.phonearena.com",
-      "title": "PhoneArena"
-    }
-  },
-  {
-    "title": "Radeon RX 9070 XT drops to record low in Japan, now around $551 - VideoCardz.com",
-    "description": "Radeon RX 9070 XT drops to record low in Japan, now around $551  VideoCardz.comSave almost $200 on a flagship AMD 9850X3D CPU and 9070 XT GPU with this Newegg combo bundle — AMD's Ryzen 9 9850X3D and Radeon RX 9070 XT can be yours at a great price  Tom's HardwareAMD Radeon RX 9070 XT & RX 9060 XT Crash Below MSRP In Japan, Defying the Global RAMpocalypse  WccftechThe Best Deals Today: RX 9070 XT, M5 MacBook Air, LEGO Back to the Future, and More  IGNRadeon RX 9060 XT 16GB price falls 10% in Japan, now around $333  VideoCardz.com",
-    "published date": "Sun, 24 May 2026 10:44:56 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLUpZNWhUY0FudVFOSGlhOWN3LTlONDZ6N2FLRU8wMm40cUdIbTJqaU5GZGpXOG1BX2dLRkMwdlNMOUV5ZjFXYmlDcXBxbU4tQXlPLWswWDZkdm5sRVVYeGtNaTdDbnhOR2hGWHpCS3NmOTlLbTFRVTlNSnR3NGEtWnZJSTFiX09hdnZVUjFFemRGRjQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://videocardz.com",
-      "title": "VideoCardz.com"
-    }
-  },
-  {
-    "title": "ASUS next-gen ROG Ally handheld may appear at Computex - VideoCardz.com",
-    "description": "ASUS next-gen ROG Ally handheld may appear at Computex  VideoCardz.comASUS at Computex 2026: ROG Ally 2, SCAR 18, and 5 Things to Watch Before June 2  The GadgeteerAn Asus ROG Ally 2 console for Computex?  Overclocking.comASUS to showcase advanced solutions and vision for an AI-driven future ahead at COMPUTEX 2026  ZAWYAASUS May Reveal Its Next-Gen Gaming Handheld At Computex In June 2026  TwistedVoxel",
-    "published date": "Mon, 25 May 2026 15:02:38 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRnFORVVVMFcxcmppRXd6QTlWcDczd2RNaGVaejEzcnE2QUVlOW5ZbWhYbWVVV0dibXJpTVNnTjU2Ymd3OFdlWDVBUkpqakl1UGlMUVNiNGFpaVk4dkFrUTBTbjgwN2stZUE0bDZlWTl6NzZRbmtCd1l5cVB1V3FqS216T1F6NWtldWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://videocardz.com",
-      "title": "VideoCardz.com"
-    }
-  },
-  {
-    "title": "It's Officially the End of an Era for PlayStation Plus - GameRant",
-    "description": "It's Officially the End of an Era for PlayStation Plus  GameRantSony Announces PlayStation Plus Price Increases 'Due to Ongoing Market Conditions'  IGNIt's Gotten a Lot More Expensive to Be a Gamer  Business InsiderPlayStation Plus to raise monthly subscription fee  BBCSony is raising short-subscription prices for PlayStation Plus  theverge.com",
-    "published date": "Sat, 23 May 2026 18:00:18 GMT",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jVWMzZ2c1QzFPR3g0NjEtV1V5cHpmY2lGcWtTVnpzUnM5eDBTTkp6UUxqQmtNZjhvX0tzTkZaTHFDQ0xSWjJBTkN0d0J1bVh2dC1UMTRRMVdsMUNKNC1CM3dydmpreVhfemZpdVhn?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://gamerant.com",
-      "title": "GameRant"
+      "href": "https://www.motor1.com",
+      "title": "Motor1.com"
     }
   },
   {
@@ -560,73 +330,243 @@
     }
   },
   {
-    "title": "Google May 2026 Core Update Landed Over The Weekend - Search Engine Roundtable",
-    "description": "Google May 2026 Core Update Landed Over The Weekend  Search Engine RoundtableGoogle Launches Core Update Amid I/O AI Search Overhaul – SEO Pulse  Search Engine JournalGoogle I/O 2026 Search Ranking Volatility & Update  Search Engine RoundtableGoogle's May 2026 core update is live - and the clock is ticking  PPC LandGoogle May 2026 Core Update Is Rolling Out - You Felt It  Search Engine Roundtable",
-    "published date": "Mon, 25 May 2026 12:01:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LLWRVci1rclFvRGhWcUhTdTE1OWd1WUJIVndUc21raVV3TjUyY1FEWDByeC1CTGZuTkoyOEExOGVZc0pkY1BjQ1FpTGpSc2JENEFmNmRtb1JOUDlKX3JacDR6SjZjSGplMHhkelFReFlPcl9PeXgzUjFnSGg5LWs?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Geoff Keighley Teases Summer Game Fest With A Steam GIF, And Half-Life Fans Are Taking It As Well As You'd Expect - TheGamer",
+    "description": "Geoff Keighley Teases Summer Game Fest With A Steam GIF, And Half-Life Fans Are Taking It As Well As You'd Expect  TheGamerSummer Game Fest Steam teaser attracts Half-Life 3 fans desperate for release date  NotebookcheckGeoff Keighley Might Be Teasing Half-Life 3 to Be Revealed at Summer Game Fest  EGW.NewsHalf-Life 3 or Steam Machine? Keighley's cryptic Steam GIF has fans guessing again  gagadget.comValve may make an announcement at Summer Game Fest 2026  Instant Gaming News",
+    "published date": "Sun, 24 May 2026 14:27:40 GMT",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiMFE4UFVicExZcXB1VUlnaGQ5ZFBxRml4YmFlWnc2Z1V5VW96Z0FCaWFmZi16N0RSNUZxSlVBdGxwZ2p2eGNhampSS1NCU0JzMUpjZFpvOW1WckQwRWdmekxhUTVmVW1INm41TVU2aw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.seroundtable.com",
-      "title": "Search Engine Roundtable"
+      "href": "https://www.thegamer.com",
+      "title": "TheGamer"
     }
   },
   {
-    "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out - TechCrunch",
-    "description": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out  TechCrunchSee more headlines & perspectives on Google News",
-    "published date": "Sun, 24 May 2026 15:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLUhvdVZVei13MzZZVU14cmNjLTVjMTRPSE1VWThNb01KSkd2enhIaS1weXpuTHVVNlZvYVZXeUpCZWlfZV9WRDBMWjlKSGJLVThoMWM0RXI3eFNYOC1wYUtNOHpjM09WTFowdzRjaHlDNnRZRE92bFlYLWxTcWc5TU9aVWx4Z1h0VDY0ODF2TnFnSEhIdVd0OUFWVUNoYVc0bldUSGlZOUpsWmFNSDFJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "AMD’s Next-Gen Zen 7 “Grimlock” CPUs To Utilize TSMC 1.4nm Process Tech & FOPLP Packaging, Launching in 2028 - Wccftech",
+    "description": "AMD’s Next-Gen Zen 7 “Grimlock” CPUs To Utilize TSMC 1.4nm Process Tech & FOPLP Packaging, Launching in 2028  WccftechAMD \"Zen 7\" IP to Use TSMC A14 Node and More Advanced Packaging  TechPowerUpA leak has revealed AMD's plans to release Zen 7 processors with 32 cores.  GameGPU[News] AMD Zen 7 Reportedly Built on TSMC A14 Node as Powertech’s FOPLP Packaging Said to Be Under Evaluation  TrendForceAMD Zen 7 Details Leak – “Grimlock” to use TSMC A14 node  OC3D",
+    "published date": "Mon, 25 May 2026 11:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb3NOcXBkNjdxaGFNMlFiVklKM0dfTlVZaFM1d0lhcUI3Ni1iZjJ4c3BSUVdTTVYzai1nZkVVT1BwN2huTG1yTE9XdWVyVVo2ekkyZzIybEZ3cHFISE41elJCQy1wV0YtZjlRWGd1NE1abHNucUcyTTFpRUhOOU9sczlWUnI2eWF2dFpmVktBb2RMMFBDOWU4RHBIZS10VHc1UWY0TzMxc9IBrAFBVV95cUxQN2FaUWJQbjdBUEpqWGdkbm1XRmJoY0JxeVhKcXN3OGJCMGpxcE9pM0lNNW5QcVNURUhBSkZCSndybzJxYVR5dE1tQVF1MHdQZVVMMEVwRXFRbm1mRFVYcG9LMWVqeGRCTWZ6bVdNRHB1czhMSG1FaVo5UEE1WGFrS3ZCeEZjSmswQ0RLMHBFQ3VvcF94Y2lFd0VVR0YxRUhsdExCaDd0dldwMnRz?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://techcrunch.com",
-      "title": "TechCrunch"
+      "href": "https://wccftech.com",
+      "title": "Wccftech"
     }
   },
   {
-    "title": "New Diablo 4 patch notes stamp out 'infinite goblin' War Plans exploit - PCGamesN",
-    "description": "New Diablo 4 patch notes stamp out 'infinite goblin' War Plans exploit  PCGamesNSpieler erlegt 2.401 Loot Goblins auf einen Schlag, Diablo 4 verkraftet so viel Beute aber nicht  Mein-MMOSlaying 2,401 treasure goblins is too many treasure goblins for Diablo 4: Lord of Hatred to handle, says bloodthirsty player who lost all their loot  PC GamerDiablo 4 Lord of Hatred player finds \"theoretically infinite\" treasure goblin hack to spawn so much loot that the game can't keep up  GamesRadar+",
-    "published date": "Sun, 24 May 2026 12:08:14 GMT",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4ta1FoT054Tmc5ZHNhbGJMRjlmVkIxb3ZEZ1I3N3ZvdXE2QkFVTXA5T3luTWxvWENMVGprbVpmZFlUd0N2NXdnZzJVVHdUaVhwUFpoRUFwWEhSSFhRZm5sdEpxdktDWi1fcGMtTWIxcDVTQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Brigandine: Abyss demo now available for PC - Gematsu",
+    "description": "Brigandine: Abyss demo now available for PC  GematsuBrigandine Abyss demo is now available on PC Steam, Limited Edition pre-orders now live on PS5 and Switch 2  RPG SiteBRIGANDINE ABYSS Hands-On Preview The Return Of A SRPG Powerhouse  The OuterhavenBrigandine: Abyss PC Demo Released  RPGamerBRIGANDINE ABYSS PC Demo Now Available  GamerBraves",
+    "published date": "Mon, 25 May 2026 00:24:08 GMT",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tUlBYOGowX1pWYlpYMWx4eGJEQnJXc2xJR0pRZXRjSlJuZWNIVjd5dUpqamt3Rk5YQXJSLURBUVI4LWhGbmtZMlVsaFU0T0RWTWpuRExkRk5vcDZWVkZLUlN3WlRfNVhjbTJBZjl1cVdrUkFlZTNTWGJDR04wUTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.pcgamesn.com",
-      "title": "PCGamesN"
+      "href": "https://www.gematsu.com",
+      "title": "Gematsu"
     }
   },
   {
-    "title": "The 5 Best Protein-Rich Canned Foods, According to Dietitians - EatingWell",
-    "description": "The 5 Best Protein-Rich Canned Foods, According to Dietitians  EatingWell",
-    "published date": "Sun, 24 May 2026 20:11:17 GMT",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nS0I0OW9RS0hmM2Q3M2Jrbi1RT1dZUjZOck9zRDFPY1U4Q185NkNLdjdWcE9TSndsNmwweUs5MVUxdk1MZThRUlBDMTg1UFFUcG1DU0hGdDZLRVNNcGpVb1UzX2xtQ3ZBdkFVNlU4Um5peURN?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "iOS 27 could give Google Cast native integration, like AirPlay, thanks to the EU - 9to5Google",
+    "description": "iOS 27 could give Google Cast native integration, like AirPlay, thanks to the EU  9to5GoogleGoogle's 'Cast to TV' could join AirPlay on iPhones thanks to EU regulations  AppleInsideriOS 27 could offer native integration with Google Cast and other streaming protocols  9to5MacApple's walled garden just lost another brick, courtesy of Europe  PhoneArenaApple's iOS 27 to feature Google Cast, AI health features: Report | iOS 27 is expected to launch next month | Inshorts  Inshorts",
+    "published date": "Mon, 25 May 2026 16:10:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUHRQaUt4Vm5rak1SMnloenliWjA1Tl82X3FkMERNX09odzVULTRYNXRlQTJmLVctSVVhNWkzOVRtWkNTZnNmQXlkOWFvcUNYRmlFa2JrOUl6R1BzdUp3STg1bVdORjdrOVBUalBweGpBQmo3bHZqNXgzQjVfZ2t4WTFlUi1mSzBYR0ZMaktVQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.eatingwell.com",
-      "title": "EatingWell"
+      "href": "https://9to5google.com",
+      "title": "9to5Google"
     }
   },
   {
-    "title": "Choose Your Heavily Depreciated Fighter: $43k AMG GT53 With An Inline-6 Or $69k AMG GT63 With A V8 - Jalopnik",
-    "description": "Choose Your Heavily Depreciated Fighter: $43k AMG GT53 With An Inline-6 Or $69k AMG GT63 With A V8  Jalopnik",
-    "published date": "Sun, 24 May 2026 19:25:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPekNhSHFBTnJILWI1WUdGVEdCcWNaWTMyT2JDazUzTktPZXU0T3JlZDFiZUhxQ3FRUmFUYTJ3aE1jakZQT2c2aFE4ZDluNDBJS29pMmFTemlJSExVQ2dGMjBYdHQzZ2Qyc1pkMEN2TmRZbUZkb056bVhoYXpqdUVkd19fRDlQN2ljTFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "There's One Forza Horizon 6 Player Terrorizing The Entire Community Right Now, And Even Their Drivatar Is A Menace - TheGamer",
+    "description": "There's One Forza Horizon 6 Player Terrorizing The Entire Community Right Now, And Even Their Drivatar Is A Menace  TheGamerForza Horizon 6 has its own community villain in the form of a driver who's griefing everyone across Japan  Yahoo TechForza Horizon 6 AI Drivatar Called Out For Driving Like A Lunatic  KotakuAll players of Forza Horizon 6 have a common arch-nemesis: a driver who trolls players all over Japan  Mein-MMOForza Horizon 6 AI Driver “bowie knife99” Becomes Most Toxic NPC and Sparks Community Backlash  EGW.News",
+    "published date": "Sun, 24 May 2026 16:00:25 GMT",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yd28tQWYzLXZKVXNkci10TjNISS1qb3diWnNNWXpfbGUyU0RIdVBQWExmb2YzVkVhSk9ENWJLR1FNbU9QQkhUcGtXaHM5U2RIeEVvN2RTeWJoYW1vLTVJemxzXzY1bF9TX01XakZBTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.jalopnik.com",
-      "title": "Jalopnik"
+      "href": "https://www.thegamer.com",
+      "title": "TheGamer"
     }
   },
   {
-    "title": "New Holographic 3D Printing Method Is 70x More Efficient - SciTechDaily",
-    "description": "New Holographic 3D Printing Method Is 70x More Efficient  SciTechDailySee more headlines & perspectives on Google News",
-    "published date": "Sun, 24 May 2026 11:38:51 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRnpuZmVDNDVtTXdEOG5hSHZGYjdxNnlIekl4bG1yU0M3WUxmRFEtVkk2ZnctLUJjbnJza0FmeS1mSXJPRDlHVTFaYnRscVVEWTNvSkozUWFtcXQ1Znc1WnRGYXVvS3JEWWRmRFlpdFIyallBQ2VIMFJVXzJUZm1ubmtaNllaclhhX0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Famitsu review scores – May 24, 2026 – Yoshi and the Mysterious Book and more - Nintendo Everything",
+    "description": "Famitsu review scores – May 24, 2026 – Yoshi and the Mysterious Book and more  Nintendo EverythingTravel Through the Looking Glass in Yoshi and the Mysterious Book  The New York TimesCrack open Yoshi’s next adventure!  nintendo.comYoshi and the Mysterious Book Review: Don’t judge this by its cover | VGC  Video Games ChronicleDiscoveries - Yoshi and the Mysterious Book Guide  IGN",
+    "published date": "Sun, 24 May 2026 12:02:19 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRXdINF9mbUo1d3ZUaXl2TF9DTUctUWRQVXdyVGFyWnZhNUhqcTJCQmI4QjhwZXd4ZGVZNWM5Wkp1SzZRY0JaMmFyM2dnQjcxVTVNZkJPYXFRMVBxUjB3OXd2b09KTHk2UThzeXZDX1RKaUtaLVFzTHp2WV8xY1BOWWhwN0ZnODVHamtBTmVPVW50aW8yTHJTYlRJUnNjamxwdnhDdUJhaw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://scitechdaily.com",
-      "title": "SciTechDaily"
+      "href": "https://nintendoeverything.com",
+      "title": "Nintendo Everything"
     }
   },
   {
-    "title": "13 Google Wallet Features (Besides Credit Cards) That Are Seriously Overlooked - bgr.com",
-    "description": "13 Google Wallet Features (Besides Credit Cards) That Are Seriously Overlooked  bgr.comGoogle Wallet redesign launches as Google Pay lets you verify desktop purchases on Android  9to5GoogleGoogle Wallet can replace 5 apps you probably still have installed  How-To GeekGoogle Wallet is about to make airport chaos way less stressful  Android PoliceGoogle Wallet Adds Frequent Flyer Sign-Ups and Auto Linked Passes for Travel  gHacks",
-    "published date": "Sun, 24 May 2026 16:02:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWmVaYks2TGI5dDdMdnVCWkd3ZmZzWlp0QTFBV0pEamFrc0ZTQ1F4a1hwU2dpbExVLXROajN3b3FFRURkVUVGR24weFNoazhJakJhOVEzOUlFN1hPU29ackJ3WE1fSkowdlRlczFKVHdNZlNBZE8tek1IcDFvVkVLNlhhWTJfbGpHb3ZB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "New iOS 27 Rumors Include Revamped AirPods Settings Menu and More - MacRumors",
+    "description": "New iOS 27 Rumors Include Revamped AirPods Settings Menu and More  MacRumorsApple's worst AI feature to get a 'big boost' with upgraded Apple Foundation Models  AppleInsiderReport: iOS 27 to revamp the AirPods settings UI  9to5MacApple Is Reportedly Making AirPods Less Frustrating to Control  gizmodo.com6 leaked iOS 27 features I can’t wait to try  Cult of Mac",
+    "published date": "Sun, 24 May 2026 20:02:41 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xVVpfQWM3OVozc1hJM2t3X3BtRmRZTnF5UkZ1bDFMOG1BdDN4T01Xc1N2djZyMmZZellzRG0ybTFtWmtPczY5bkRuMXR5SGJYTkdLSXJBenpJRUpDcDhtZFZoT0EyYWdTdGVuSFpCYlNTT1ZVRndxc2Nn?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.bgr.com",
-      "title": "bgr.com"
+      "href": "https://www.macrumors.com",
+      "title": "MacRumors"
+    }
+  },
+  {
+    "title": "Now It's Raised the Price, PlayStation Wants Your Thoughts on PS Plus - Push Square",
+    "description": "Now It's Raised the Price, PlayStation Wants Your Thoughts on PS Plus  Push SquareSony Announces PlayStation Plus Price Increases 'Due to Ongoing Market Conditions'  IGNPlayStation Plus to raise monthly subscription fee  BBCIt's Gotten a Lot More Expensive to Be a Gamer  Business InsiderAfter PlayStation Plus price increase, Sony surveys angry gamers about its value  Notebookcheck",
+    "published date": "Mon, 25 May 2026 14:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX1ZvYnBYblFPLXpqWU9JVUZCZHlwb1JtU3V4Q3lhLTRaeGxnYm4xTnVUNUk0NTBldEcxZDRvQ2YybjhLa3I3NnYzRERUVE5fem9TQmlkb0Q2bFpsenpqYWstSVl2SVFvbXBHT3lScDU2Z2hCS21VRzlSZ2lTaW52UGlSVFZ1em9VbHNCSnpfNzlPWlNMWGhkT3JnS1hMNDdnZkNfVEhTRkViZU0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.pushsquare.com",
+      "title": "Push Square"
+    }
+  },
+  {
+    "title": "Saturday pre-orders – Shake the battlefield with new tanks - Warhammer Community",
+    "description": "Saturday pre-orders – Shake the battlefield with new tanks  Warhammer CommunityHorus Heresy: The Falchion and Spartan Prometheus Up Close  Bell of Lost SoulsIconic tanks from the Horus Heresy revealed in this week's Warhammer 40k preview  wargamer.comSunday Preview – Mighty war machines in the Age of Darkness  Warhammer CommunityGames Workshop Pre-Orders: Time to Give Tanks  Bell of Lost Souls",
+    "published date": "Mon, 25 May 2026 17:18:06 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSURzSFdWY2VUaF9WNVl3V01FZEw4U3BZYWR3eGlCUGVDZTNWX1NtRHNvZ2tVWUpqWlo1QjhhRDQwNjUzMXdNSVBBNUZrMkpvajBYWVFheXU2V3U1MmFMVkJEYVEzWURBX2RvbmNRTDF2OWNOTkVzRzVyRGxHWEV1Y3IxTkJwdXVOYU9jQU95eFBxblR1U1NhYXZQZjZfcGpYUkRFeFYwUUM1UHhNNE5uQTBHTTJtekp4?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.warhammer-community.com",
+      "title": "Warhammer Community"
+    }
+  },
+  {
+    "title": "This $82 USB cable hides a Wi-Fi microcontroller inside its connector - TechSpot",
+    "description": "This $82 USB cable hides a Wi-Fi microcontroller inside its connector  TechSpotWi-Fi controlled hacking USB cable stealthily packs in a microcontroller, microSD storage, and more — cable executes remote payload execution, keystroke injection, and more, but is 'built for makers, developers, enthusiasts, and cybersecurity learners'  Tom's HardwareThis “normal” USB cable secretly wants to be a hacking tool  Digital TrendsHacknect: A Wireless Automation Platform Inside a USB Cable  Hackster.ioHacknect – A wireless hacking USB cable with a built-in microSD card slot (Crowdfunding)  CNX Software",
+    "published date": "Sun, 24 May 2026 19:18:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX3pGd2hyVmZhNVNxMThYWDNWVjRwV0lwckd3aWpVSFYzMDFhLVNuX2hlQVFLS0xhN1pod09ValZIaVk0RVNSU3N4RVdGRjd0S0Rpb3NsR0RoYlZnX09kdjRkSzBJS0xVMEhzVF8xcXI4THp3TW5sQkkxS0lYdG9jRUl3cjlRSVppamtGdzh2UWw0a2M?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.techspot.com",
+      "title": "TechSpot"
+    }
+  },
+  {
+    "title": "Let Out of PS3 Jail, Here's an Hour of Metal Gear Solid 4's New PS5 Version - Push Square",
+    "description": "Let Out of PS3 Jail, Here's an Hour of Metal Gear Solid 4's New PS5 Version  Push SquareMetal Gear Solid 4’s iPod Returns in Master Collection Vol. 2, 50+ Minutes of Gameplay Revealed  GamingBoltMetal Gear Solid 4 arrives on modern platforms August 27  Daily BeirutMetal Gear Solid 4 Remaster New Footage Shows Why It's The GOAT  GAMINGbibleMetal Gear Solid's Official Return Leaves Gamers Floored  ScreenRant",
+    "published date": "Mon, 25 May 2026 12:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYU53aF9SQ3pLcVdaUXg2R1VYNVRNLU1pTlA4VnJhdW5GRjFibHI4V3FJMzV6MXZvQy1FU2U0Rk44bTFuQ2psRmpaR2tmWmI0UHVtTm92XzFRQVVzVWVsWGRlQk50NU1BUVZOZDlGdElZalMyS3I1b3gtTFp5UW04M2JYUGwxdVZQWjRWdGZ6enJuNjRYVmhVYzRUZmt2ZEpWNHVRWDZ1SGJXd2h2cGlqWkt3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.pushsquare.com",
+      "title": "Push Square"
+    }
+  },
+  {
+    "title": "The Best On-Demand Streaming Services in 2026, Ranked by Experts - Money Talks News",
+    "description": "The Best On-Demand Streaming Services in 2026, Ranked by Experts  Money Talks NewsNot Fire TV Stick Or Roku: This 4K Streaming Device Is Consumer Reports' Top Choice  SlashGearTop Media Streaming Devices in 2026: Stream Without Limits  Analytics Insight",
+    "published date": "Mon, 25 May 2026 11:07:43 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcDhBLTBsTVhBbXlGSmg5N2tWY0JHNTBLUkw4bWR6cXVRMTJTeE0taUxLUkFjckdqZmVTV21VYjE5THNadW5IQ0hGSElqUkpiS3VlbGd4ZFozdVc5VFNMSVpxSFJNRG5yVHZfcnBLeG5iaERIUms5NmdMblA3cWk2WGx4LXVkTGxyZU1YYUNaeEhIY2FY?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.moneytalksnews.com",
+      "title": "Money Talks News"
+    }
+  },
+  {
+    "title": "No, that probably wasn’t Pixel 11’s ‘Glow’ at I/O – ‘Pixel Ultra meeting’ anyone? - 9to5Google",
+    "description": "No, that probably wasn’t Pixel 11’s ‘Glow’ at I/O – ‘Pixel Ultra meeting’ anyone?  9to5GoogleGoogle Pixel 11 Pro: Bold Glowing Redesign  TechgenyzWait a minute: users wonder if Google teased the Pixel 11's glow at I/O  Android CentralAndroid Circuit: Pixel 11 Specs, Acer’s New Android Tablet, Xiaomi 17 Max Confirmed  ForbesGoogle Pixel 11 Pro Fold leaks: Launch timeline, India price, camera, display and other details we know  digit.in",
+    "published date": "Mon, 25 May 2026 03:20:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sMzRXckZrVFZZN1F2ZnI4VW1mRlhTNkVHVmQzTUt5UV8zUmZBdDU3YnE4Mm5tTGdPSktJdHBST0RNbzdnZF84RVFya2R5eGNOQkpXbE56OERuQlJNQks3Zmo5WDRWOG8?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://9to5google.com",
+      "title": "9to5Google"
+    }
+  },
+  {
+    "title": "What Apple’s New AI Glasses Mean for the Future of Wearables - Geeky Gadgets",
+    "description": "What Apple’s New AI Glasses Mean for the Future of Wearables  Geeky GadgetsEverything You Need to Know About Apple Glass: Apple’s Ambitious Response to Meta Ray-Ban  UC TodayApple Reveals 4 Frame Styles In 2026 Tests, Why 2027 Now Matters  Glass Almanac",
+    "published date": "Mon, 25 May 2026 09:03:26 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Kay1CUW9UMWx1UllERFZlLXVrWkdTVFhtMHVsMVBXSVotMDB4cXBlZzQ2cjZMVFp6a21GdmtVS0pxMDVhZjRnQnBaNW1yTlRKX0laWjJlWTBxNW5YZkxoTUstMl83QUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.geeky-gadgets.com",
+      "title": "Geeky Gadgets"
+    }
+  },
+  {
+    "title": "Adorable ASCII Aquarium Lives On Your Desk - Hackaday",
+    "description": "Adorable ASCII Aquarium Lives On Your Desk  Hackaday",
+    "published date": "Sun, 24 May 2026 17:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRTF4aG5xXzY2X2lFYzRVeE9ZMEdzekY1MEQ5WEoyd1R3SHYyRkZhX1RSc1NKWUl4ZFJXYkRCcHlobWpkVHc0dE1wdkJ3aGRrY3RJM1pKdXNzTUhwWW9LVzY0cG5lWGxTYzhVQTkzdWZLX2hQY21SdjlNX2hNY0JPYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://hackaday.com",
+      "title": "Hackaday"
+    }
+  },
+  {
+    "title": "Laravel Lang packages hijacked to deploy credential-stealing malware - BleepingComputer",
+    "description": "Laravel Lang packages hijacked to deploy credential-stealing malware  BleepingComputerSupply Chain Attack Targets Laravel-Lang Packages with Credential Stealer  Aikido SecurityLaravel-Lang Supply Chain Attack: Every Tag Across Multiple Composer Packages Rewritten to Steal CI Secrets  StepSecurityLaravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer  The Hacker NewsLaravel Lang Supply Chain Advisory  Snyk",
+    "published date": "Sat, 23 May 2026 20:48:23 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOWcwQU5qMnRwZmhHYnI3LS1IemdKZDBhYm9BUlpTQ2dHdDRhbHRCUnh5b1BFSjA1VG5vQVhTS1YtV2FWd1BjSFp0SFAwOUxzSHhhWjZUSmdTLVRjanVMX2tjeFpoOFFfdVBVZWJlakVwRlp6bGxZZkRZUTNuTUpVdWFoWkFRQzI2akl0Y0pBbXljc0hsUWp3QWNNc2dtRXBfNTA5bXkwT3VvZ0dsYlRMRjlIZFY3U2fSAbwBQVVfeXFMTTVmRmRKTGFxamVBTTVzRXU0QS1aRDRHTkVMcjBVUmtQSy10TFJYRjFzMlhvX0hJZFpleVZXY1hIRFZrSW50QTFva29Mb2lHMm5FN2h1bC1jUjVGNWJMaVg2b2p4bF9lRW5zSjkxRlVIdkpfZzF6X0ptUTlqNGhOdlIxQzE0QjJqaDc5bnIzR1Y4ZlFQWFdXOHJnUmpTbElFU2ttWVlDcTNXN3c4UXBJV2JJdUZFLUtacDRQSlg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bleepingcomputer.com",
+      "title": "BleepingComputer"
+    }
+  },
+  {
+    "title": "Where is the new Google Home? - Android Police",
+    "description": "Where is the new Google Home?  Android Police",
+    "published date": "Sun, 24 May 2026 12:15:52 GMT",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTURQa3pxSUFNczBJaXZWaUp2RzdRMFlxVE9mZmRNMk5aZGFHZ2lLRGdVQ2ZnU0tNblNzd2JRTHFyU2g3VFdTckxBaFFjYXo2cVhJM2x4NjBFVU9JcDc4eW5JTV82Rm5EYzU4SEp6MHRVblJLbGltellVekdSMDN1NDVZelZROENzV2xWUHJuSktfa3ZYOWdTNmd4c21WRmZo?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.androidpolice.com",
+      "title": "Android Police"
+    }
+  },
+  {
+    "title": "PlayStation 6’s Zen 6 CPU Will Likely Deliver Full-Speed PlayStation 3 Emulation, As Cell Architecture Continues To Cause Challenges - Wccftech",
+    "description": "PlayStation 6’s Zen 6 CPU Will Likely Deliver Full-Speed PlayStation 3 Emulation, As Cell Architecture Continues To Cause Challenges  WccftechPS3 Emulation On PS5 Tested: Killzone, MotorStorm, GTA4 and Many, Many More  Digital FoundryRPCS3 PS3 emulator test on Linux-hacked PS5 shows why Sony ports so few games  NotebookcheckDigital Foundry turns PS5 into PS3 emulation console through Linux and RPCS3  VideoCardz.comPlayStation 6 May Feature Backward Compatibility with PlayStation 3  GameGPU",
+    "published date": "Mon, 25 May 2026 10:10:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8talhueEFmNktoWnVtWDRjdTE4QXcxTHF4OGpBbkUtRXhlbWFBWGdPQ3dPMml5UHhsMXZKZW14YVFIYXR6b25PRTdMRjFBMVdVNFE4NGlpa2NMNWhFVURnZ2dHekR5X0psUzhXbzRlV0ZEQVJnTTZNdDFiMNIBgAFBVV95cUxNMElsNU8xMHdFeVhGV2l3YmdQdmg0eDVQeXYtVGgxbGdieGhlZ0tQWG5KZGFNaDFIUEdDZ0ZSYkhxTXhBSXZOanE4em1xNmlneW43dVE2VVhCTDVxZW4tMExmR1J6TlhIV3pqa2kwRUJvZDBYcFhsaEFuY1lERVBrTg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://wccftech.com",
+      "title": "Wccftech"
+    }
+  },
+  {
+    "title": "Apple’s Watch and Health Efforts Need Reboot to Rival New Wearables - Bloomberg.com",
+    "description": "Apple’s Watch and Health Efforts Need Reboot to Rival New Wearables  Bloomberg.comReport: watchOS 27 to improve heart-rate tracking; AI health coach may not debut at launch  9to5MacwatchOS 27 Will Add These New Features to Your Apple Watch  MacRumorsHeart rate tracking improvements are about all that's expected in watchOS 27  AppleInsiderInternal turbulence at Apple could make the Apple Watch feel all but abandoned this year  PhoneArena",
+    "published date": "Sun, 24 May 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcnJOdHdlcHo1ZGg3Y3hFajJoUEx3WHJuUW01Vi00WmE2clhCcWtVal9qNWlkc21aYVladTJvakc2Q0ZDV2ZhV1Z3OU1kRU96UnBzdmRxMFJ5MDRQYllZVnZUNnF1eERYeHd2SEE5ekxBd2hnUDBqOVc0VmhCYVdoSmN5d2dkWUg5aFk2YlRZeWFpZVp0dVREZHNFN2ttR0JmZ0NhUzhCN3RyYUpYOWZ2M2p1aTk5c251MHdVQ0xjblV4UDIyYzRaeV83Q2E2WXJsWkxPUA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bloomberg.com",
+      "title": "Bloomberg.com"
+    }
+  },
+  {
+    "title": "Quantum Batteries Could Run For Years Off Of A Single One-Minute Charge - SlashGear",
+    "description": "Quantum Batteries Could Run For Years Off Of A Single One-Minute Charge  SlashGear",
+    "published date": "Sun, 24 May 2026 09:45:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNallOcGQxRVZrRHFPTHhSNDR4am1jMVNEdVJlc29GWTJZR3h2bWhMa3BrZWl0OVZWWkU0Y2ZEd2RuaW1IRXJvdWNQWWlkSnFieTFkTEFtZ2M3SmlmUGFVYnVUR2xCRXpYSUxUc0lDWkswekJKb3U0WHBScGRwNGFOMmlLNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.slashgear.com",
+      "title": "SlashGear"
+    }
+  },
+  {
+    "title": "\"The Wii U Was On Life Support\" - Reggie Restates The NES & SNES Classic's True Purpose - Nintendo Life",
+    "description": "\"The Wii U Was On Life Support\" - Reggie Restates The NES & SNES Classic's True Purpose  Nintendo LifeSee more headlines & perspectives on Google News",
+    "published date": "Mon, 25 May 2026 10:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR2tULUtCNkVpbG84U1YxTnB0djJ2TnVQOWtPcTZRdXJ3anlHenpuWnJVekFUb2ctUE5UalZPcXlxY3Bqam1fM2ozTWVrb0VqeWF4YmcwRTc4VjlDVVo1cXJRMTNYUERsM2c1cGRYYWNmQ0NiT05YWWVOel9XQmlOWDk4bXQ4aHFvXy1jLW9nUFVNNXJ3SUZoUFdhOE04aml6YzN3RjNlWjFtcDZ1ZFNNbERMb1J1cTQtUW1DdVR1UlA0UFZl?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nintendolife.com",
+      "title": "Nintendo Life"
+    }
+  },
+  {
+    "title": "Inside the World's Biggest Bet on Fusion Energy - CNET",
+    "description": "Inside the World's Biggest Bet on Fusion Energy  CNETBuilding the Sun on NHK World - Japan HD: full details and when it's on  TVGuide.co.ukThe ITER project gathered 10 million components manufactured in 35 countries to create an \"artificial star\" in France that will heat plasma to 150 million degrees Celsius, a temperature ten times higher than that of the Sun's core, and attempt to reproduce for th  CPG Click Petróleo e GásInside ITER and the Future of Fusion Energy  mashable.com",
+    "published date": "Sun, 24 May 2026 12:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ3ZWdloyVG1oQlpjX3gtOG1LUy1GdjBmelMzR2k1Ukp4ck5rOEJqVUFod2RLQURsMHRoeFVpOEcwaTNMbnA0MlNGeWJrR3JvTjQzc2V2ck5vTjhOUGZQMFA0S2twRG93dm9XdGJHS3hSTlNxVm9XSUFaU1g1R0VuYWg0RVNZX2JjampVaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cnet.com",
+      "title": "CNET"
+    }
+  },
+  {
+    "title": "Round Up: 12 Switch 1 & 2* Games We Played At BitSummit 2026 - Here's What We Thought - Nintendo Life",
+    "description": "Round Up: 12 Switch 1 & 2* Games We Played At BitSummit 2026 - Here's What We Thought  Nintendo LifeBitSummit Day 2 Report: A charming puzzler from an ex-Grasshopper dev and a nod to Mega Man Battle Network  Video Games ChronicleFrom 200 to 60,000... What is the secret to 'BitSummit's' success chosen by Director Murakami?  Inven GlobalJapan: Nintendo Indie World announces its 17 game line up for BitSummit  My Nintendo NewsA Worldwide Lineup of Indies Comes to BitSummit PUNCH!  Games Press",
+    "published date": "Mon, 25 May 2026 12:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaUZ4cUwwY1BPTzA5MHFQLUxlTnFDOF9oZ3FDVEVoNThvZDEwUXVWeG9tMUJsQWpCR1VJaHZRZHNNeWJlZmppUzdPb1Jub2tBUHZwbmQzNFV2V2tCQXZmVDVvS0FHYWQ2LTlhaDFpMndYdG9hOEEwRTBWcGZZQ1JuUTJPVktHOW5Uc2o4cmxyUTF0WDlIYmNfcURkZ2dsZ3k5OXk4RXJpZWo1em1IZ1ExVGlFSUl2NGFILWJHbg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nintendolife.com",
+      "title": "Nintendo Life"
+    }
+  },
+  {
+    "title": "This wearable $2,000 AI exoskeleton wants to turn your legs into hybrid hardware - TechSpot",
+    "description": "This wearable $2,000 AI exoskeleton wants to turn your legs into hybrid hardware  TechSpotE-Hiking Is Here. You Can Tell by My 1,000-Watt Hips.  WSJCan Using the Hypershell Exoskeleton on a Bike Replace an E-Bike? I Tested It to Find Out  CNETI Tried the Newest Exoskeleton for Hikers. It Could Help Millions Enjoy the Trail.  Outside MagazineHypershell unveils X Series exoskeletons with a huge AI and speed injection  Wareable",
+    "published date": "Sun, 24 May 2026 14:46:40 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbDdYVThOZXdIcDkzd09ySV93LWRjU1JyR3RHMDU0LVFZX1VLMks3WkZqbnEyRk5wSElSZnZxaXpPQzdpdUFqai1vMGM4eEVRWElGQ1dXV0dzYWdJM3RjRkhVYjFpRmFrMWNYUFZOWXlpT2lKRUFzU0hBMExaRTlOamo1QlBLaElVNGJZNzZNOUItekIteVFrVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.techspot.com",
+      "title": "TechSpot"
     }
   },
   {
@@ -640,33 +580,33 @@
     }
   },
   {
-    "title": "Not just a fun hobby: Board games can help build connections and reduce stress - Phys.org",
-    "description": "Not just a fun hobby: Board games can help build connections and reduce stress  Phys.org",
-    "published date": "Sun, 24 May 2026 18:00:04 GMT",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GZ0YwekdqZ3drdnRxNUZsd1ZXR2JLYm44R0swTHhpX2x2bkNQRksxZ1Jucld2LTN1RTJZb3NKVnU3ZEVEZnFfNmxOYmVrRlpRMDhCMUxXT1VRY1YwVi1WUXhPbWNIczRIcGVCMkRXc3o?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out - TechCrunch",
+    "description": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out  TechCrunchSee more headlines & perspectives on Google News",
+    "published date": "Sun, 24 May 2026 15:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLUhvdVZVei13MzZZVU14cmNjLTVjMTRPSE1VWThNb01KSkd2enhIaS1weXpuTHVVNlZvYVZXeUpCZWlfZV9WRDBMWjlKSGJLVThoMWM0RXI3eFNYOC1wYUtNOHpjM09WTFowdzRjaHlDNnRZRE92bFlYLWxTcWc5TU9aVWx4Z1h0VDY0ODF2TnFnSEhIdVd0OUFWVUNoYVc0bldUSGlZOUpsWmFNSDFJ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://phys.org",
-      "title": "Phys.org"
+      "href": "https://techcrunch.com",
+      "title": "TechCrunch"
     }
   },
   {
-    "title": "Here's How Much A 2021 BMW M4 Has Depreciated In 5 Years - Jalopnik",
-    "description": "Here's How Much A 2021 BMW M4 Has Depreciated In 5 Years  Jalopnik",
-    "published date": "Sun, 24 May 2026 14:25:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NNmRCZUhwYnExSWdSVV8xRFdNZmduN3l6NGtGRnZWbHJyUzNOVVpKWngyUFM5WElieHJ5LUNUd1JENk9uUVJfRHJpdW5YQUEtd1prLUxzV2t6UXNoVWxxcWpnbmZqWXlxTk9nTTYtMjZMeTg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "New Holographic 3D Printing Method Is 70x More Efficient - SciTechDaily",
+    "description": "New Holographic 3D Printing Method Is 70x More Efficient  SciTechDailySee more headlines & perspectives on Google News",
+    "published date": "Sun, 24 May 2026 11:38:51 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRnpuZmVDNDVtTXdEOG5hSHZGYjdxNnlIekl4bG1yU0M3WUxmRFEtVkk2ZnctLUJjbnJza0FmeS1mSXJPRDlHVTFaYnRscVVEWTNvSkozUWFtcXQ1Znc1WnRGYXVvS3JEWWRmRFlpdFIyallBQ2VIMFJVXzJUZm1ubmtaNllaclhhX0E?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.jalopnik.com",
-      "title": "Jalopnik"
+      "href": "https://scitechdaily.com",
+      "title": "SciTechDaily"
     }
   },
   {
-    "title": "Assassin's Creed Black Flag Resynced - Everything We Know About the Remake of Edward Kenway's Pirate Adventure - Wccftech",
-    "description": "Assassin's Creed Black Flag Resynced - Everything We Know About the Remake of Edward Kenway's Pirate Adventure  WccftechAssassin's Creed Black Flag Resynced Will Feature 8 New Endgame Missions That Pit Edward Kenway Against A Historical Pirate Hunter  Game InformerWhy Ubisoft Returned to Black Flag: ‘There’s Great Value With the Classic Assassin’s Creed Experience’  IGNAssassin's Creed Black Flag Resynced creative director says his top three favorite elements of the remake are the fight system, the new missions, and the new end game chapters — 'We have received a lot of positive reactions to the story'  TechRadarAssassin's Creed Black Flag Resynced's \"open-world spirit of freedom\" is defined by one mysterious church  GamesRadar+",
-    "published date": "Sun, 24 May 2026 13:28:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVEVKSGtCNWs4S05XYjRpelVVN0lIaHJtcE1wbFJuZWtfLWhzUDh6WUc3Ri1yTGdWOEVvaDdMaFJvOG4zSUVSQmFFQ3RGa1gtbzM3eTdZTE8wQ2ZkVzdTa2d2NXlfZWtJeXdUcjZSY0RqYnJ2ZEg3MGlMTlpMeHA4VFhmWWZ3cTg5VnhpYjhiZlptcHp2bWpsVg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "The 5 Best Protein-Rich Canned Foods, According to Dietitians - EatingWell",
+    "description": "The 5 Best Protein-Rich Canned Foods, According to Dietitians  EatingWell",
+    "published date": "Sun, 24 May 2026 20:11:17 GMT",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nS0I0OW9RS0hmM2Q3M2Jrbi1RT1dZUjZOck9zRDFPY1U4Q185NkNLdjdWcE9TSndsNmwweUs5MVUxdk1MZThRUlBDMTg1UFFUcG1DU0hGdDZLRVNNcGpVb1UzX2xtQ3ZBdkFVNlU4Um5peURN?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://wccftech.com",
-      "title": "Wccftech"
+      "href": "https://www.eatingwell.com",
+      "title": "EatingWell"
     }
   },
   {
@@ -680,23 +620,83 @@
     }
   },
   {
-    "title": "PS3 Emulation On PS5 Tested: Killzone, MotorStorm, GTA4 and Many, Many More - Digital Foundry",
-    "description": "PS3 Emulation On PS5 Tested: Killzone, MotorStorm, GTA4 and Many, Many More  Digital FoundryPlayStation 6’s Zen 6 CPU Will Likely Deliver Full-Speed PlayStation 3 Emulation, As Cell Architecture Continues To Cause Challenges  WccftechDigital Foundry turns PS5 into PS3 emulation console through Linux and RPCS3  VideoCardz.comPS3 Emulation On Base PS5 Shows Mixed Results, CPU Hinders Performance In Some Games  Tech4GamersRPCS3 PS3 emulator test on Linux-hacked PS5 shows why Sony ports so few games  Notebookcheck",
-    "published date": "Sun, 24 May 2026 15:44:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOREhCeHBRcHRVcG5JYTdQR3NJenRrQXVpOHBxcm9mcG40Y1JVTmg2cmFpSWhINU1pdG5GcWhvcl9fV2dCYVR2Y3htWkZVallreGFyR2w5TlpIc3dVRU11eTQ5ZmZXSk1CX0tFNUdaWXgyM3NCcXdtUEZ0THdpYUlBbFE3UThaaVpvOGpBMFJkZmsxTEgxTHh2aTIzd283S3J6TjRBMC1IUDh0b2lvb3g0YVY3LUZ2dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Choose Your Heavily Depreciated Fighter: $43k AMG GT53 With An Inline-6 Or $69k AMG GT63 With A V8 - Jalopnik",
+    "description": "Choose Your Heavily Depreciated Fighter: $43k AMG GT53 With An Inline-6 Or $69k AMG GT63 With A V8  Jalopnik",
+    "published date": "Sun, 24 May 2026 19:25:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPekNhSHFBTnJILWI1WUdGVEdCcWNaWTMyT2JDazUzTktPZXU0T3JlZDFiZUhxQ3FRUmFUYTJ3aE1jakZQT2c2aFE4ZDluNDBJS29pMmFTemlJSExVQ2dGMjBYdHQzZ2Qyc1pkMEN2TmRZbUZkb056bVhoYXpqdUVkd19fRDlQN2ljTFE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.digitalfoundry.net",
-      "title": "Digital Foundry"
+      "href": "https://www.jalopnik.com",
+      "title": "Jalopnik"
+    }
+  },
+  {
+    "title": "Play Promising PS5 Exclusive Games for Free Before Launch - PlayStation LifeStyle",
+    "description": "Play Promising PS5 Exclusive Games for Free Before Launch  PlayStation LifeStylePlayStation Quietly Drops Free Game, No PlayStation Plus Needed  ScreenRantPS Store Drops Fun Free PS5, PS4 Game With Trophies  YahooThis Free PlayStation Game Gives You a Quick and Easy Platinum  eTeknixLatest Free PlayStation Game Teased As 'One Of The Best' You'll Ever Play  GAMINGbible",
+    "published date": "Mon, 25 May 2026 12:02:30 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWm5Oal9VNjNMNXo1azVhSFJoV3Fnb3VERy1RZDIycnlRWUlUc1Z5TF90aE9BdWNNTGpjSjBVOGdrUUNsbTdHWm15Vjg0MW50TDRPc0VNc0ZucVl5WTgybzRzdnA4VURaRDhaNmVVVzVrZWpHMWhCalNVVVZEek5HZHh0RlJZNVoxOHJqSlItWXlZbVJsN29xY0xjSW3SAaIBQVVfeXFMTjFRN3VZcjBBYjZ1M0dkSmVMdDdHQjFpcHM5U01ORkxlZTZXZXkwT1dMTlBBRVpPX09fX19IbjlfZ3E4MWFFeEJEVUVvdExIbmRmN2I5MjF5aGZRYXppX1B1cXAxY2RnUHh4WXVwTVdFaUVkaHNqWWgtcXM0ckl4SjFrX1ljOU1tYjN4OWQyWlpza0M2UmRDUWZrS0ZFYnhuX1p3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.playstationlifestyle.net",
+      "title": "PlayStation LifeStyle"
+    }
+  },
+  {
+    "title": "Not just a fun hobby: Board games can help build connections and reduce stress - Phys.org",
+    "description": "Not just a fun hobby: Board games can help build connections and reduce stress  Phys.org",
+    "published date": "Sun, 24 May 2026 18:00:04 GMT",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GZ0YwekdqZ3drdnRxNUZsd1ZXR2JLYm44R0swTHhpX2x2bkNQRksxZ1Jucld2LTN1RTJZb3NKVnU3ZEVEZnFfNmxOYmVrRlpRMDhCMUxXT1VRY1YwVi1WUXhPbWNIczRIcGVCMkRXc3o?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://phys.org",
+      "title": "Phys.org"
+    }
+  },
+  {
+    "title": "Windows Secure Boot certificates start expiring June 24 - Notebookcheck",
+    "description": "Windows Secure Boot certificates start expiring June 24  NotebookcheckWindows 11’s new SecureBoot folder isn’t malware. Here’s what it does  PCWorld‘Reboot Your PC’—Microsoft Changes ‘Most Windows Devices’ In June  ForbesMicrosoft confirms Windows 11 May update is failing with error 0x800f0922  Windows Central'This update brings underlying changes to help improve explorer.exe reliability': Windows 11 is getting fixes for flaky desktop and taskbar behavior  Yahoo Tech",
+    "published date": "Sun, 24 May 2026 09:29:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWjMzMkpHQVBCYi1lRGhOaVhMbU1yZF9pMUNlZ1JNR216NHF4RFFvVTc5QVlJdmpCQnNlb0xIcUJPZHVBMmI1elVfVkF6OTFLbmlna0l0aVUzMEpiVlZmX3hsWmI3QUxGU0dWa05CaXYzSkRSallRNkpnWDdoaE40ak94VFFDZlNIVk8wRjRTM0VkaXFMTmROY2F1MU53M1VTVUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.notebookcheck.net",
+      "title": "Notebookcheck"
+    }
+  },
+  {
+    "title": "Assassin's Creed Black Flag Resynced - Everything We Know About the Remake of Edward Kenway's Pirate Adventure - Wccftech",
+    "description": "Assassin's Creed Black Flag Resynced - Everything We Know About the Remake of Edward Kenway's Pirate Adventure  WccftechAssassin's Creed Black Flag Resynced Will Feature 8 New Endgame Missions That Pit Edward Kenway Against A Historical Pirate Hunter  Game InformerWhy Ubisoft Returned to Black Flag: ‘There’s Great Value With the Classic Assassin’s Creed Experience’  IGNAssassin's Creed Black Flag Resynced creative director says his top three favorite elements of the remake are the fight system, the new missions, and the new end game chapters — 'We have received a lot of positive reactions to the story'  TechRadarAssassin's Creed Black Flag Resynced's \"open-world spirit of freedom\" is defined by one mysterious church  GamesRadar+",
+    "published date": "Sun, 24 May 2026 13:28:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVEVKSGtCNWs4S05XYjRpelVVN0lIaHJtcE1wbFJuZWtfLWhzUDh6WUc3Ri1yTGdWOEVvaDdMaFJvOG4zSUVSQmFFQ3RGa1gtbzM3eTdZTE8wQ2ZkVzdTa2d2NXlfZWtJeXdUcjZSY0RqYnJ2ZEg3MGlMTlpMeHA4VFhmWWZ3cTg5VnhpYjhiZlptcHp2bWpsVg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://wccftech.com",
+      "title": "Wccftech"
     }
   },
   {
     "title": "I waited years for Googlebooks — but I wish I hadn't - Android Authority",
-    "description": "I waited years for Googlebooks — but I wish I hadn't  Android AuthorityFrom our archives: The 2016 Chrome and Android‑apps story that foreshadowed Googlebooks  Windows CentralGooglebooks Are Chromebooks That Want to Be MacBooks  GizmodoI finally understand why Google ditched the Chromebook  MakeUseOfQualcomm Confirmed Snapdragon X Is Officially Coming to Googlebook  Memeburn",
+    "description": "I waited years for Googlebooks — but I wish I hadn't  Android AuthorityFrom our archives: The 2016 Chrome and Android‑apps story that foreshadowed Googlebooks  Windows CentralGooglebooks Are Chromebooks That Want to Be MacBooks  gizmodo.comQualcomm Confirmed Snapdragon X Is Officially Coming to Googlebook  MemeburnI finally understand why Google ditched the Chromebook  MakeUseOf",
     "published date": "Sun, 24 May 2026 09:31:54 GMT",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSEo0SXlFWUotUk40QlpndlhFa1lGUDZxZ3hIbTNrSUFYdUNici12UmJKREFkclBpVHRSdE0tRC04ODNFYThmX3JUM25wYzZuaDFqZDFMa1NnRHROYzlOZWtxZHdjcEJCRF9FeXlDREl0anZ1d29MRU81TDJZSjYtU1FDX3NCdTZiWHdj?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.androidauthority.com",
       "title": "Android Authority"
+    }
+  },
+  {
+    "title": "Here's How Much A 2021 BMW M4 Has Depreciated In 5 Years - Jalopnik",
+    "description": "Here's How Much A 2021 BMW M4 Has Depreciated In 5 Years  Jalopnik",
+    "published date": "Sun, 24 May 2026 14:25:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NNmRCZUhwYnExSWdSVV8xRFdNZmduN3l6NGtGRnZWbHJyUzNOVVpKWngyUFM5WElieHJ5LUNUd1JENk9uUVJfRHJpdW5YQUEtd1prLUxzV2t6UXNoVWxxcWpnbmZqWXlxTk9nTTYtMjZMeTg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.jalopnik.com",
+      "title": "Jalopnik"
+    }
+  },
+  {
+    "title": "13 Google Wallet Features (Besides Credit Cards) That Are Seriously Overlooked - bgr.com",
+    "description": "13 Google Wallet Features (Besides Credit Cards) That Are Seriously Overlooked  bgr.comGoogle Wallet redesign launches as Google Pay lets you verify desktop purchases on Android  9to5GoogleGoogle Wallet can replace 5 apps you probably still have installed  How-To GeekGoogle Wallet is about to make airport chaos way less stressful  Android PoliceGoogle Wallet Adds Frequent Flyer Sign-Ups and Auto Linked Passes for Travel  gHacks",
+    "published date": "Sun, 24 May 2026 16:02:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWmVaYks2TGI5dDdMdnVCWkd3ZmZzWlp0QTFBV0pEamFrc0ZTQ1F4a1hwU2dpbExVLXROajN3b3FFRURkVUVGR24weFNoazhJakJhOVEzOUlFN1hPU29ackJ3WE1fSkowdlRlczFKVHdNZlNBZE8tek1IcDFvVkVLNlhhWTJfbGpHb3ZB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bgr.com",
+      "title": "bgr.com"
     }
   }
 ]
