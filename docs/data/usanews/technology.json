@@ -1,97 +1,77 @@
 [
   {
-    "title": "Apple plays catch-up at WWDC - TechCrunch",
-    "description": "Apple plays catch-up at WWDC  TechCrunchTech stocks today: Apple stock falls after a long-awaited AI Siri update  Yahoo FinanceApple partnering with Google and Nvidia for most advanced AI model  CNBCHey, Siri: Apple just announced a long-awaited AI update  NPREverything you need to know about Apple's 2026 WWDC keynote announcements: A new Siri, iOS EQ controls, and more  Popular Science",
-    "published date": "Mon, 08 Jun 2026 21:15:42 GMT",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqelNsTEZPVnE2bXdhbDh6Smd4SGdJQko2T3NiRkZadjdNNUhDOENjUzU4THh1SHFhZ0thTjlRMlEtMGlUNmxIU053bjVMZTJkTEZLanpRM1kwdDl5ZjlGMThWemlORFlMaGRGay1GOVc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Everything Apple Announced at WWDC 2026 - WIRED",
+    "description": "Everything Apple Announced at WWDC 2026  WIREDApple Reveals New A.I.-Powered Version of Its Siri Digital Assistant  The New York TimesWhy Apple’s slow-and-steady AI bet is starting to look pretty smart  TechCrunchEverything Announced At Apple's WWDC 2026 Keynote  EngadgetTech stocks today: Apple stock falls after a long-awaited AI Siri update  Yahoo Finance",
+    "published date": "Mon, 08 Jun 2026 20:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlci0wWW9FQUhsY1d0dDRuUm9EcmhYN1NKdFlTRTNsdF9zMTBWek84S0VIYkpvLXVrelN0NHhmZ09JUHVzZWluQTk5aVhQaUgzb3g1WGQ1S1pBWUhLMzlxN2VLd2FLTDBuVGNBdzBJZzFDb3g2dWs4?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://techcrunch.com",
-      "title": "TechCrunch"
+      "href": "https://www.wired.com",
+      "title": "WIRED"
     }
   },
   {
-    "title": "Due to DMA, Siri AI delayed in EU for iOS 27 and iPadOS 27 - Apple",
-    "description": "Due to DMA, Siri AI delayed in EU for iOS 27 and iPadOS 27  AppleApple Delays Siri AI for iPhone Users in the EU, Says Regulators Refusing to Engage  Bloomberg.comThe new Siri won’t be available on iPhones in the EU, due to Digital Markets Act  9to5MacSiri AI For iPhones And iPads Will Be Delayed Indefinitely In The EU  EngadgetApple is 'deeply disappointed' with E.U. setback  MarketWatch",
-    "published date": "Mon, 08 Jun 2026 18:20:13 GMT",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS1BpTlY3QUNEczZDZU1fUk5lOGE2dXcyTW1DLWMydGh0RzJRZEhTOHI0SmdRVDk0ZDdOS3VObGRGZXI2UHVYU1hNSm1FNFFJNEJUN1pySDV1YUJHMVRZLThmN21NTjkxdnJHUEVGOW1JY1A0M282MHB2UEM5ODVKWHRiU3JGLUlTRjFGZkk1ZUN1NnpYMUViT0w2MTcyUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.apple.com",
-      "title": "Apple"
-    }
-  },
-  {
-    "title": "iOS 27 and iPadOS 27 don’t drop support for any iPhones—and just a few iPads - Ars Technica",
-    "description": "iOS 27 and iPadOS 27 don’t drop support for any iPhones—and just a few iPads  Ars TechnicaThese 29 iPhones are getting iOS 27: Is yours on the list?  MashableApple Didn't Really Say What's Coming in iOS 27, So I Guess I Will  CNETiOS 27 Tidbits: Share a Phone Number on Two iPhones, Independent Alarm Volume, Faster AirPlay and More  MacRumorsOwners of Older iPhones Just Got Some Good News  Business Insider",
-    "published date": "Mon, 08 Jun 2026 20:55:58 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZXRlMFdXME43Nmd5M3B6d3h6Qkh1bVMxQ0NyUmZoT1pLeDh6UXEzUFRnanEycG1TdktKS1JPTEd6V1ZpWmh1WENhRWIxYlpnTDBsemdvcGdUaFZJWjJXZGs2dVBNX2RvQWwxQkFzWFZQMHR4TW1ycWN0allFaVc3T2VYSm5CWXlfbnhNejRja0R4Z0tFczZwbTM5T3ZHUVRzVTh6Mi1FUUppS0NvYzN5VnRLeXZyYnM?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://arstechnica.com",
-      "title": "Ars Technica"
-    }
-  },
-  {
-    "title": "Apple to Bring Custom EQ to AirPods - MacRumors",
-    "description": "Apple to Bring Custom EQ to AirPods  MacRumorsiOS 27 revamps AirPods settings in a big way, here’s the new design  9to5MacAirPods are getting a custom EQ.  The VergeApple's AirPods Are Finally Getting Custom Equalizer Settings  CNETAirPods finally gain custom EQ feature in iOS 26  AppleInsider",
-    "published date": "Mon, 08 Jun 2026 17:29:27 GMT",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5oS04zR1dnNWx2dDJNWWMxcXRCNWh6N0tyYzlEUXlpZnQ5YVBydFhoLXpGd0d3RGVhVkVCZkdKTHZJaWNTc04wV0hvZlBZQms5eFEtMUFuN2xOaDN4X1FObTZya0NXLW9HREdHa2ExS19ubkJKY3pENGdObUgyUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "iOS 27 Tidbits: Share a Phone Number on Two iPhones, Independent Alarm Volume, Faster AirPlay and More - MacRumors",
+    "description": "iOS 27 Tidbits: Share a Phone Number on Two iPhones, Independent Alarm Volume, Faster AirPlay and More  MacRumorsApple Didn't Really Say What's Coming in iOS 27, So I Guess I Will  CNETGood News, Owners of Old iPhones  Business InsiderHow to download iOS 27, iPad OS 27, and macOS 27 Golden Gate developer betas right now  Mashable5 things I already love from the iOS 27 beta  The Verge",
+    "published date": "Mon, 08 Jun 2026 22:23:03 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rTFBtTDZLYXRwWU9GUjBvVmtOa19CaEEzaDZwa2xaVEZiM1JFdTYzR2Z1Ym9vVUp1OGJyUTJ6RWlGcEhpSkdJbF9LNXlacFRtT3dLZkdlOXlPbk1rOVFnc2pB?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.macrumors.com",
       "title": "MacRumors"
     }
   },
   {
-    "title": "Apple drops support for a long list of Apple Watches and iPads with latest OS updates - The Verge",
-    "description": "Apple drops support for a long list of Apple Watches and iPads with latest OS updates  The VergewatchOS 27 for Apple Watch unveiled with these features  9to5MacApple announces watchOS 27 updates: Siri AI, dynamic app grid  MashablewatchOS 27 Gets A Siri Upgrade And Perimenopause Features  EngadgetConfirmed: watchOS 27 Does in Fact Support Apple Watch Series 9  Gizmodo",
-    "published date": "Mon, 08 Jun 2026 19:45:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTzMyQnZFbDBiVE9nMVpYVmd0cHY5QWZpSW1SLTZwc0tIa3A4S3Vhb19VcmRnTWVQTUtDcm4yaUdWQzBMTGZyWUk0bjY0c0xFZW9UcVRlYnZZcVd3TUNMQUNZV2RUWTZNV3RZV0JJSnBNMENOTHVFMVRiRHBZaVQxWjVKa2VLMnU3U2FiQlg4VkJ0NzQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "macOS 27 requires Apple Silicon, as Apple draws down the Intel Mac era - Ars Technica",
+    "description": "macOS 27 requires Apple Silicon, as Apple draws down the Intel Mac era  Ars TechnicaApple announces macOS 27 Golden Gate at WWDC: New Siri AI tools, Liquid Glass tweaks  MashableApple announces macOS 27 Golden Gate with Siri AI and revamped Liquid Glass controls  The VergeSunday Reboot: Intel support is on its last legs this WWDC  AppleInsiderDownload the official macOS 27 Golden Gate wallpapers here  9to5Mac",
+    "published date": "Mon, 08 Jun 2026 21:03:56 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZXFudmN2aVBBWGlHbXUzY3RIUjFvajlwNkhPOEI5WllHOGt0MXZKQVVFOTlrR201T3ZkYmFkSXZoVEZKRndBVTljMkpDU1pjazc1ZFM1RFdidGRfZmVhdFpBOVQyYldVZnRMTjdlOFczWFZONXZZUmRyS2l2SXlRb2hkckpHSHEwVWxhekd5SGZ3Y19ZamRLeVBucnZWWEtneDNCbUQ5eC1fUDh0dTk0?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.theverge.com",
-      "title": "The Verge"
+      "href": "https://arstechnica.com",
+      "title": "Ars Technica"
     }
   },
   {
-    "title": "Apple announces macOS 27 Golden Gate at WWDC: New Siri AI tools, Liquid Glass tweaks - Mashable",
-    "description": "Apple announces macOS 27 Golden Gate at WWDC: New Siri AI tools, Liquid Glass tweaks  MashablemacOS 27 requires Apple Silicon, as Apple draws down the Intel Mac era  Ars TechnicamacOS Golden Gate: Here’s the list of Macs compatible with the update  9to5MacMacOS 27 Golden Gate: All the Macs Compatible With the New OS  CNETThe Expected and Promised End of the Intel Mac Has Arrived  PetaPixel",
-    "published date": "Mon, 08 Jun 2026 21:45:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uRFFXaHI3WThySmJJSTBvMVl1emtoMDVuRVRHV2lxemphU3ZuUlZyRU14cWZpMF8wY3VoRmhKbnAxRmNXVTBoeS01LTJHQ1lpZlBtRmw5cXh5S04zTjYtQy1QdmlUSmc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://mashable.com",
-      "title": "Mashable"
-    }
-  },
-  {
-    "title": "Apple announces tvOS 27 with smart downloads, new Podcasts app, more - 9to5Mac",
-    "description": "Apple announces tvOS 27 with smart downloads, new Podcasts app, more  9to5MactvOS 27 drops support for two Apple TV models  9to5MactvOS 27, where art thou?  The VergetvOS 27 sneaks out with redesigned Podcasts app & AI subtitle generation  AppleInsiderApple TVs Will Get tvOS 27 Later This Year  Gizmodo",
-    "published date": "Mon, 08 Jun 2026 18:35:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRkdGOWVkUE9qRlU5X1ZjZmdhay1FRXhnbkpHbmpkTTB0YnZCWkVsVVR2Q0F4QUs3QjcxREJmRlNZX2VUUmdkQ0tGTVFHN1hYYmlHSldPLUxKSHMxZEYwbS1idVljWE1uaXR1dlV1Z2dfbHctSmkzcXRQMFJPaEYtblBqMkFVa1oyWnlRVFBFMkJMUEc0MTE0RHpoVEZ2RlU?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://9to5mac.com",
-      "title": "9to5Mac"
-    }
-  },
-  {
-    "title": "Apple is tweaking its controversial Liquid Glass design - TechCrunch",
-    "description": "Apple is tweaking its controversial Liquid Glass design  TechCrunchiOS 27 has new app icon designs for many iPhone apps  9to5MacWWDC 2026: Apple upgrades Liquid Glass. Here's what's new.  MashableApple WWDC 2026 live updates — Siri AI, Apple Intelligence, iOS 27 and all the biggest announcements  Tom's GuideApple Is About to Fix Your iPhone’s Most Frustrating New Feature  Gear Patrol",
-    "published date": "Mon, 08 Jun 2026 17:24:33 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUWxTVWhMbWNIa3pyVFlTdUd2SndoTTA1SllDbHZzazNHYldmWWM0MGtKMVhGc3F4Wk9FTlp5X3h5SElRWWpLaGVaSnFKQUxpZVZodE1fdWREYXBreWhNTy1jUG1DYmMxTFQ3QkNESzdmS3hIUDRtNFMzUVpPaVE4eVA2Z0dwSmFTYmJQVU44TGY5ZTQz?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Apple puts parents back in control of kids’ iPhone use - TechCrunch",
+    "description": "Apple puts parents back in control of kids’ iPhone use  TechCrunchApple makes trust and safety push for the iPhone via iOS 27  Yahoo FinanceApple previews new child safety features  AppleApple’s Screen Time updates are too little, too late  The VergeApple introduces new Child Account features at WWDC  Mashable",
+    "published date": "Mon, 08 Jun 2026 18:07:32 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaFE2d2ZHODFVbHV2Q2Q4YlJFam5Pd0h4S0ZIcEZYeUhUYjZzOF91UENrR0MwT01aSm1mWkpIcDBFRTdOeXRSbWE0cjBFME1IQWE1eG9rV3pPTHdaR3JlbmlIckoxTG1SQXcxTTJUNXdFR2xsdUw1eXRnMVNROHgxNkZYQUZDbHpqQ1pQQ1IzWWNEUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://techcrunch.com",
       "title": "TechCrunch"
     }
   },
   {
-    "title": "Google AI Plus gets price drop to $4.99 and storage bump - 9to5Google",
-    "description": "Google AI Plus gets price drop to $4.99 and storage bump  9to5GoogleGoogle Cuts The Price Of Its AI Plus Plan And Doubles The Storage  EngadgetGoogle AI Plus Getting Price Drop and Double Storage Upgrade  Droid LifeI ditched ChatGPT and Claude for this one subscription, and I'm not looking back  Android PoliceGoogle's most affordable AI plan just got much more tempting  Android Authority",
-    "published date": "Mon, 08 Jun 2026 17:21:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5USmFyNGFhc0JGcGVMN0lJZVE1eDQ1QVZpSU10dXpycUpKNlRsdHd3QW00UmphZW52SEtPUDYxN1Z4UE9CUUxnZVd5RE5ibkZ1ay15ck9OdUppMnR1UkZWOHpYQU5qZ3d0MDhFbQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Apple announces watchOS 27, now with Siri AI - The Verge",
+    "description": "Apple announces watchOS 27, now with Siri AI  The VergeApple confirms watchOS 27 will run on Apple Watch Series 9  9to5MacApple drops support for a long list of Apple Watches with latest OS updates  The VergeApple announces watchOS 27 updates: Siri AI, dynamic app grid  MashableApple just made about a million Apple Watches obsolete  Macworld",
+    "published date": "Mon, 08 Jun 2026 19:34:10 GMT",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hWjljMndxSlNSQ2tlTlF4czAxRnV2LTBLdTFRcmJNUk0zdEtJTFFyWlJBQUgxS1h3RlpYOEpzRjd6N2VxakxPdHMyQkE2X21DMkJJMFE1S2dyS0hQTHpULWl1bENXcUt4S29zZ09pdk8wbWNiVEdSaA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://9to5google.com",
-      "title": "9to5Google"
+      "href": "https://www.theverge.com",
+      "title": "The Verge"
+    }
+  },
+  {
+    "title": "'It's very aesthetically pleasing.' Prada and Axiom just revealed the stylish cooling suit Artemis astronauts will wear under their spacesuits on the moon - Space",
+    "description": "'It's very aesthetically pleasing.' Prada and Axiom just revealed the stylish cooling suit Artemis astronauts will wear under their spacesuits on the moon  SpaceNASA to wear Prada as luxury group pushes into space industry  Yahoo FinanceAxiom and Prada advance design of spacesuit  SpaceNewsThe Astronauts Wear Prada  Vanity FairNASA's Artemis IV Astronauts Are Wearing Prada and Axiom Space to the Moon  Hypebeast",
+    "published date": "Mon, 08 Jun 2026 12:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOVUJzWlZYM1pyLThVMUoxWkJNc1psUFN6WkJYZWhWaW1CbDhpSFpid01jZFhPdHE3QVNnbGVlOTVJX3NldXlBMzJtLWZTdHhIMDJFSFAycEVSU0V0eGExbl9oWThNcnVKQlZVMEt2dE96dm5sNHRNLWxvaF8zV19hbXlHY3Bsb3BPdmsySEFBY2x1Qm1YcnBGclpfcUcyVThFSm1KdzF1ZlVMUHYzM1o0NXBGR0g4ak5oR1gtZUpIbFVqdXVNdzJVZXppLTRtYnM2MV8tSHQyODFHYlhqVm4wWUZxZXdwT21MeUlpX0x6SkRWZmVsbDQ2X3lKdHlKR1ZrSkZtcmZlaHdOUDg1T2doU3cyNE9MLVFNM2lkelBYbmg3amJBY1FvQ1RsUlpPVFg2?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.space.com",
+      "title": "Space"
+    }
+  },
+  {
+    "title": "Whoops! Xbox Accidentally Uploads Gears of War PS5 Trailer - Push Square",
+    "description": "Whoops! Xbox Accidentally Uploads Gears of War PS5 Trailer  Push SquareXBOX Games Showcase 2026 Recap: The Return of Exclusives, World Premieres, and Anniversary Hardware  XBOX WireGears Of War E-Day Arrives October 6 As An Xbox And PC Exclusive  EngadgetHere's Everything Announced During The 2026 Summer Xbox Games Showcase  Game InformerGears of War: E-Day Seems To Be Nostalgia Done Right  IGN",
+    "published date": "Mon, 08 Jun 2026 23:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVUlYZzBhMmNwT2FrWmFVSDRGa190ekplRmc0WlU0Zk5mSlNOQkVOR0Q4X3BleTB4Vk1POXBSMGJxOTVoWUFFbzVDUGFwS0x0U0tXbnpvai1WMC04ek5fRU4yOGNESU5rRGZWZG9QbDFCalJzdXY4SklmZkhVaUg5NFNDUHhrWGhMSE5pUVhmdGdvejBvNVZScFZ3OUwyQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.pushsquare.com",
+      "title": "Push Square"
     }
   },
   {
     "title": "Crazy Taxi World Tour Will Offer More Freedom, Bite-Sized Missions And Fishing With A Car - Engadget",
-    "description": "Crazy Taxi World Tour Will Offer More Freedom, Bite-Sized Missions And Fishing With A Car  EngadgetSega Confirms And Responds To Generative AI Content In New Crazy Taxi Game  Game InformerCrazy Taxi: World Tour Lead Says Generative AI Will Continue To Be A ‘Hot Topic,’ But They’re Using It Anyway  KotakuGoodbye Pizza Hut, hello Five Guys? Here’s some of the new real-life shops we’ve spotted in Crazy Taxi World Tour  Video Games ChronicleSega's beloved arcade racer makes a major comeback with some bold choices  Polygon.com",
+    "description": "Crazy Taxi World Tour Will Offer More Freedom, Bite-Sized Missions And Fishing With A Car  EngadgetSega Confirms And Responds To Generative AI Content In New Crazy Taxi Game  Game InformerCrazy Taxi: World Tour Lead Says Generative AI Will Continue To Be A ‘Hot Topic,’ But They’re Using It Anyway  KotakuVague AI Disclosures Aren’t Helping Anyone  AftermathGoodbye Pizza Hut, hello Five Guys? Here’s some of the new real-life shops we’ve spotted in Crazy Taxi World Tour  Video Games Chronicle",
     "published date": "Mon, 08 Jun 2026 14:00:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBnS3JkeGw3VlNCUElhVFFVXzU4QW5aNlJkN2NGVmdnSHR2azhHU2ZtU0FFcHJxUVlCWVNqbnB0VVE2MGI4MDRBNkpVTlFudzV3YkFOYXpKdTVGTktuRGVVVW9abVRWV1hsS3p3RnB6X2xzbzM4?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -100,33 +80,23 @@
     }
   },
   {
-    "title": "Gears Of War: E-Day Launches As A Console Exclusive On Xbox Series X/S And PC This October - Game Informer",
-    "description": "Gears Of War: E-Day Launches As A Console Exclusive On Xbox Series X/S And PC This October  Game InformerXBOX Games Showcase 2026 Recap: The Return of Exclusives, World Premieres, and Anniversary Hardware  XBOX WireGears of War: E-Day Seems To Be Nostalgia Done Right  IGNHere's Everything Announced During The 2026 Summer Xbox Games Showcase  Game InformerXbox Games Showcase 2026: All the news and trailers  The Verge",
-    "published date": "Sun, 07 Jun 2026 19:59:49 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNelVHMnZEWXc2ZmpMdmdXN1hYQm0taFVVN0llem10YThXWUN2Zkc0TWRpQ2d5R0IyQUlxOEM1QWRaSnN4YXRveUNRV2NOYkFoSTJnT1JVekR0Nm4yWkktN2ExWHVvSC1TVjRoZGZ2bkRPX2duMHJHUWtzRmtvRnBJa0pRc29GOU9GdXZCVXZ5NWdxakw5cVUxZU9ZSm03YnJDc0tNSVd4Q2NSRUxyQ3BKWGsxcGNCWVotdkZrd0sxRWJXdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Apple Announces tvOS 27 With These New Features - MacRumors",
+    "description": "Apple Announces tvOS 27 With These New Features  MacRumorstvOS 27, where art thou?  The VergetvOS 27 beta 1 available now for Apple TV 4K  9to5MactvOS 27 sneaks out with redesigned Podcasts app & AI subtitle generation  AppleInsiderApple TVs Will Get tvOS 27 Later This Year  Gizmodo",
+    "published date": "Mon, 08 Jun 2026 21:00:45 GMT",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43VG1iY0JDZUFSMlRTNFFCWHdvc1pXaDZNdWpValZqeWozVC11cC1hOG5WRDVaLVhRc2FxT0pPSHk3NjVqTVJUbmV5Um1jZnVtazNfaGhkYWdHMEN6LXFMTEJzdjk1a0dZYmlRRnhR?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://gameinformer.com",
-      "title": "Game Informer"
+      "href": "https://www.macrumors.com",
+      "title": "MacRumors"
     }
   },
   {
     "title": "Halo: Campaign Evolved - Creating New Cosmetics for Master Chief That Honor the Halo Legacy - XBOX Wire",
-    "description": "Halo: Campaign Evolved - Creating New Cosmetics for Master Chief That Honor the Halo Legacy  XBOX WireGet Another Look At Halo: Campaign Evolved In New Cinematic Story Trailer  Game InformerOfficial Halo: Campaign Evolved Cinematic Story Trailer Marked 'Captured on PS5 Pro' — So What Happened?  IGNHalo Campaign Evolved, Gears of War E-Day and Fable are all getting Collector’s Editions with statues  Video Games ChronicleHalo: Campaign Evolved arrives July 28th  The Verge",
+    "description": "Halo: Campaign Evolved - Creating New Cosmetics for Master Chief That Honor the Halo Legacy  XBOX WireOfficial Halo: Campaign Evolved Cinematic Story Trailer Marked 'Captured on PS5 Pro' — So What Happened?  IGNHalo: Campaign Evolved Gets July 2026 Release Date For Xbox, PC & PS5  Pure XboxHalo: Campaign Evolved arrives July 28th  The VergeHalo: Campaign Evolved Demands RTX 4080 and 32GB RAM for 4K@60 at Ultra Preset, as UE5 Remake Drops Slipspace Engine  Wccftech",
     "published date": "Mon, 08 Jun 2026 16:02:18 GMT",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTU5KNzdtSzBRdktzZHVBb3FBY1NEN2hvS2lmdlF2Y0g2VmxCR0tBWnJLQ1lfeHVfX3lmOVRJcXpzRU1sZzV5NC1FTC1zRWRCNjhiN0RDYlVYbzhEVFQyQXFyWnFnd3A2YWt4QS1ONHRwZ3RKNlBRQ0NFT2tVbXdIRTBXV1pPcEFIMFBoNXE4X1VpWVFQX2lhZGRQSXFZSWs?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://news.xbox.com",
       "title": "XBOX Wire"
-    }
-  },
-  {
-    "title": "'It's very aesthetically pleasing.' Prada and Axiom just revealed the stylish cooling suit Artemis astronauts will wear under their spacesuits on the moon - Space",
-    "description": "'It's very aesthetically pleasing.' Prada and Axiom just revealed the stylish cooling suit Artemis astronauts will wear under their spacesuits on the moon  SpaceNASA to wear Prada as luxury group pushes into space industry  Yahoo FinanceAxiom and Prada advance design of spacesuit  SpaceNewsThe Astronauts Wear Prada  Vanity FairNASA astronauts could soon wear Prada as luxury label unveils new gear for Artemis IV  Fox Business",
-    "published date": "Mon, 08 Jun 2026 12:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOVUJzWlZYM1pyLThVMUoxWkJNc1psUFN6WkJYZWhWaW1CbDhpSFpid01jZFhPdHE3QVNnbGVlOTVJX3NldXlBMzJtLWZTdHhIMDJFSFAycEVSU0V0eGExbl9oWThNcnVKQlZVMEt2dE96dm5sNHRNLWxvaF8zV19hbXlHY3Bsb3BPdmsySEFBY2x1Qm1YcnBGclpfcUcyVThFSm1KdzF1ZlVMUHYzM1o0NXBGR0g4ak5oR1gtZUpIbFVqdXVNdzJVZXppLTRtYnM2MV8tSHQyODFHYlhqVm4wWUZxZXdwT21MeUlpX0x6SkRWZmVsbDQ2X3lKdHlKR1ZrSkZtcmZlaHdOUDg1T2doU3cyNE9MLVFNM2lkelBYbmg3amJBY1FvQ1RsUlpPVFg2?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.space.com",
-      "title": "Space"
     }
   },
   {
@@ -140,43 +110,13 @@
     }
   },
   {
-    "title": "Nintendo Direct Announced For Tomorrow, 9th June 2026 - Nintendo Life",
-    "description": "Nintendo Direct Announced For Tomorrow, 9th June 2026  Nintendo LifeNintendo Direct 6.9.2026 + Nintendo Treehouse: Live | June 2026  NintendoNintendo’s next Direct showcase is on June 9th  The VergeNintendo Direct announced for June 9  Nintendo EverythingSummer Game Fest 2026 Nintendo Direct Airs Tomorrow  Siliconera",
-    "published date": "Mon, 08 Jun 2026 13:50:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd1lvZlJmVEl4U05JaWRwLUJnRUhjeHJ1ZmVCeUJlblo0NlRrOTVrUTBGSTVNcFp4STlSeFRLR094Q2IwN3JQeW5TY2hkZjNnTXhZZ0xZcWg5VlZvT2NNOG5XYzZ0LTN5VVBiem1vUmRHZlN2ajVuU21pTFRZNGk2d0RNaEV3Ylc0a3lsdnRSNEJvUG56aGRDNjJR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "The 13 Biggest Reveals During All Of Summer Game Fest 2026 - Kotaku",
+    "description": "The 13 Biggest Reveals During All Of Summer Game Fest 2026  KotakuThe 7 biggest storylines from Summer Game Fest 2026  The VergeSummer Game Fest 2026 highlights: 16 games coming to PS5  PlayStation.BlogHere's Everything Announced During The Summer Game Fest 2026 Showcase  Game InformerThe biggest games that skipped Summer Game Fest this year  Polygon.com",
+    "published date": "Mon, 08 Jun 2026 20:48:04 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcjFrZmZrMEtZMWVwdTY4ME1GR3ZVVnNfR3FVQjNlMFpBZmFwTTdXTXd0RVBSMVFRZHBWcjJkT3dtN2hwVHp0UXdENTlza0Fwb0tqSW1QQUxFUXM4a21GcDlHYWZnSVprV3h2eTBfeDlOempUTGprcjdtRUlaakhZRk8wMk8xRDc3RFNXVzRyYjMzZ2ExSWhrZXlIOFlwbXE5YTNnWnJpMA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.nintendolife.com",
-      "title": "Nintendo Life"
-    }
-  },
-  {
-    "title": "Persona 6™ Announced at The XBOX Games Showcase 2026 - Games Press",
-    "description": "Persona 6™ Announced at The XBOX Games Showcase 2026  Games PressPersona 6 Video Game Officially Announced  CrunchyrollPersona 6 Revealed At Xbox Games Showcase – Atlus Confirms P6 Leaks Were Real  vice.comPersona 6 Is Coming With Graveyard Visuals And A Toxic Green Color Scheme  EngadgetSega Issues DMCA Takedowns to Scrub Persona 6 Images From the Internet, as Fans Expect Imminent Announcement  IGN",
-    "published date": "Sun, 07 Jun 2026 22:06:07 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaU4zaEtMS1ZuanZFYXFrd3V1UjUtcWZDSFJpQUxmbnpaaXpxZ1NseFA4YjBrUnVsc0dNaE5vWkY2OERnaXlPaHFxUkZ0MVo2REIzSnB3dmo1MGRBRVlueGNRQUc0UXBzT0VhWFBUM05YdVcwdktNcW1kb2Z2N0QyRXViWTc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.gamespress.com",
-      "title": "Games Press"
-    }
-  },
-  {
-    "title": "I tried the Surface Laptop Ultra at Computex, and it's clear: Microsoft means business - ZDNET",
-    "description": "I tried the Surface Laptop Ultra at Computex, and it's clear: Microsoft means business  ZDNETIntroducing a powerful new chapter for Windows PCs, accelerated by NVIDIA RTX Spark  Windows BlogNvidia's AI PC push banks on unproven demand beyond niche users  ReutersBuild Personal AI Agents on Windows PCs with New Tools from Microsoft and NVIDIA | NVIDIA Technical Blog  NVIDIA DeveloperNvidia jumps into PCs with new Arm-based chip debuting in laptops from Microsoft, Dell, HP  CNBC",
-    "published date": "Mon, 08 Jun 2026 02:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wcVBBUHNCczE0cEt4MW5raE4za0swS2ZuWWtrUFFwdGlJa292MWVVbWFSTXNnTnBPczFlM1FYLVFGWkNtMHVvVFg0QklWSGxZSmhYRjVCTWxGZ0ZwVzBhWE8xZVZYYjFyVWZ3OFdSWVdRZHBRVDdfWHpsWms?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.zdnet.com",
-      "title": "ZDNET"
-    }
-  },
-  {
-    "title": "Best Look at Foldable iPhone Design Revealed, May Only Come in White - MacRumors",
-    "description": "Best Look at Foldable iPhone Design Revealed, May Only Come in White  MacRumorsApple's Foldable iPhone Ultra: Release Date, Price, and Leaks  CNETPhoto of the iPhone Fold (in white/silver) shared by Ice Universe - GSMArena.com news  GSMArena.comTouch ID coming to iPhone Ultra this fall, here’s why  9to5MacFirst 'Confirmed' iPhone Ultra Color Allegedly Revealed in Leaked Image  MacRumors",
-    "published date": "Sun, 07 Jun 2026 10:28:04 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNmtoM0FZZkx4ZmlLWG5TQWlZU1NIcV9wdzVvZTlLc2RvWWtBbk1sZVJTRVlKamFIMjFQODNlNmxTYnItaFRrZ3d3bG5QWFBmZ2dVRlY5dzR4UmR2c2dWN3hhbFhsalNXbTZzTEFwckhDTkw2aFNkQ0lrbFhVelJJVjE3TjR2THk5VWhsQWQwZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.macrumors.com",
-      "title": "MacRumors"
+      "href": "https://kotaku.com",
+      "title": "Kotaku"
     }
   }
 ]
