@@ -6,12 +6,10 @@
     "celebrities": "https://raw.githubusercontent.com/faroukdubai2/fetch_news/main/docs/data/canadanews/celebrities.json",
     "entertainment": "https://raw.githubusercontent.com/faroukdubai2/fetch_news/main/docs/data/canadanews/entertainment.json",
     "health": "https://raw.githubusercontent.com/faroukdubai2/fetch_news/main/docs/data/canadanews/health.json",
-    "nation": "https://raw.githubusercontent.com/faroukdubai2/fetch_news/main/docs/data/canadanews/nation.json",
     "politics": "https://raw.githubusercontent.com/faroukdubai2/fetch_news/main/docs/data/canadanews/politics.json",
     "science": "https://raw.githubusercontent.com/faroukdubai2/fetch_news/main/docs/data/canadanews/science.json",
     "sports": "https://raw.githubusercontent.com/faroukdubai2/fetch_news/main/docs/data/canadanews/sports.json",
     "technology": "https://raw.githubusercontent.com/faroukdubai2/fetch_news/main/docs/data/canadanews/technology.json",
-    "top": "https://raw.githubusercontent.com/faroukdubai2/fetch_news/main/docs/data/canadanews/top.json",
-    "world": "https://raw.githubusercontent.com/faroukdubai2/fetch_news/main/docs/data/canadanews/world.json"
+    "top": "https://raw.githubusercontent.com/faroukdubai2/fetch_news/main/docs/data/canadanews/top.json"
   }
 }
