@@ -1,15 +1,5 @@
 [
   {
-    "title": "The world’s deadliest animal isn’t what you think - Your South Shore",
-    "description": "The world’s deadliest animal isn’t what you think  Your South ShoreThe world has a mosquito problem. Here's how scientists are trying to solve it  CBCThe war on mosquitoes  Yahoo News CanadaA world without mosquitoes? It's not as great an idea as it may seem  Forest Preserve District of Will County",
-    "published date": "Thu, 11 Jun 2026 17:15:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yX05HdHdfUFI0WS1FbUlyR0RLR2ZqMl80RmN1akxXZzF2SE1xT0dVajRnU29Vd3NRN3h3M2puT3UtaDhtSG5KUFp6MWg3WnZucjA4X0ZhdUZWbldhaDBvQ2hkZmJRU0s4RjdsMlh5WHRGVTRGTDZUNXhFSEU3d28?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://yoursouthshore.ca",
-      "title": "Your South Shore"
-    }
-  },
-  {
     "title": "Researcher finds 13 ticks in one hour as Canada deals with early cases - CP24",
     "description": "Researcher finds 13 ticks in one hour as Canada deals with early cases  CP24Like it or not, the ticks are advancing and Canadians will have to adapt  CBCInvasion of the ticks: Watch their remarkably fast spread across Canada  National PostTick season is longer than ever. Here’s how to protect your dogs and cats  CBC",
     "published date": "Fri, 12 Jun 2026 18:48:33 GMT",
@@ -20,8 +10,18 @@
     }
   },
   {
+    "title": "First Alberta Kicking PancreAS 5K run shines new light on pancreatic cancer - Calgary Journal",
+    "description": "First Alberta Kicking PancreAS 5K run shines new light on pancreatic cancer  Calgary Journal",
+    "published date": "Sat, 13 Jun 2026 17:22:40 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdWNCSHZBSUhqUWRnYlFLYkN1OWQyVkRZWFdPMW03QnhyaG1XRmtGQ0N4WGRLNmlGdTE1T1pvZ21rMTVqaU9NQ29rSEZ0OGlKc1RmN3laMVJGaF9HWGlMdDJfSXhXdXpQdWw1YVdwMXc0UUpMazV2NTZOeDVIX0V0eVNWMzJOMzdUZTdOLVlqUHZ5cnIya1c0d1V4eXp5dTJLSHdpNVpfZndGdzV4c1FvNVdyRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://calgaryjournal.ca",
+      "title": "Calgary Journal"
+    }
+  },
+  {
     "title": "As World Cup boosts infection risk, Toronto and Vancouver aren't sitting on the sidelines | RCI - Radio-Canada",
-    "description": "As World Cup boosts infection risk, Toronto and Vancouver aren't sitting on the sidelines | RCI  Radio-CanadaFIFA World Cup begins today. Here’s how Toronto healthcare workers prepared - National  Global NewsInfectious disease threats test public health as World Cup kicks off  AxiosAre Toronto’s hospitals ready for an emergency during the FIFA World Cup? Some doctors have ‘major concerns’  St. Catharines StandardOpinion | As a fan, I'm excited for the World Cup. As a doctor, I'm worried.  MS NOW",
+    "description": "As World Cup boosts infection risk, Toronto and Vancouver aren't sitting on the sidelines | RCI  Radio-CanadaAs World Cup boosts infection risk, Toronto and Vancouver aren't sitting on the sidelines  CBCFIFA World Cup begins today. Here’s how Toronto healthcare workers prepared - National  Global NewsThe summer may be defined by more than soccer  The Boston GlobeHealth sleuths are watching for disease threats during the World Cup  CP24",
     "published date": "Fri, 12 Jun 2026 17:11:06 GMT",
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZEdVUHZMOG5DZW0yYXlSQnBTdkNxN3NNT0lVck5DdU82LXQtV1VZUE9ibk9fNG9aRzlLWThvaUlxWDJ1WS1UdmpOeFFYdXU1QmRDSjU3WFhsNXQ3M182Znl3OGJKZnBjOTJoWEVRWnNoLTVQVWdRTjlzYU1sUVQwQ2xYNEt2NnMzWUNUSzdSUF9QbkU3MHBJWHNBbTk0QjVMXzhIdnc2bXE2TzY3T2k0R3dyNENKdWRfUEQ1empQUlB0RGtKZ2tWZzc5SmN0ZFRq?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -37,6 +37,16 @@
     "publisher": {
       "href": "https://www.cbc.ca",
       "title": "CBC"
+    }
+  },
+  {
+    "title": "The strongest influence on children’s brains may not be what many expect, study suggests - CTV News",
+    "description": "The strongest influence on children’s brains may not be what many expect, study suggests  CTV NewsSocioeconomic factors are becoming 'biologically embedded' in children's brains  NPRSocioeconomic Status Leaves Deep Imprints on Developing Brains  Neuroscience NewsChildren’s zip codes change their brains, new study finds  Scientific AmericanIQ’s link to brain structure, function in children may be a mirage  The Transmitter",
+    "published date": "Sat, 13 Jun 2026 09:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNFhUcWw5cEpFdHpoWXl2d1dhMFhHdF82UkZDaEtzYmxobU5jdUtLeWVqRzd6eUR5WnFvcTVvUC1HYjFDbmhIc3g3U3pRLV9iMEFMbDVDbWJrcURhYTQ1R2FIaGx2Xy1UV29ER2RpQWZsUW1VbFJSV2F5cmoteFVXZTFNTU9LbHR5eFNiSXA3US1PMVRUVHJlUWhwNGxIOWZxTFpGaExEV1FHeUpNcE9lMEVSaXJSY0s2dEU4VE5VajB5QUNuTGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ctvnews.ca",
+      "title": "CTV News"
     }
   },
   {
@@ -80,33 +90,23 @@
     }
   },
   {
-    "title": "Mobile mammography service to visit Diamond Valley, Alta - CTV News",
-    "description": "Mobile mammography service to visit Diamond Valley, Alta  CTV News",
-    "published date": "Thu, 11 Jun 2026 18:05:37 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZFRZVnI5WWNhLWgzSjNBWklWUzkxUndNT3FIVndTS2JjcVJtN21CN280OGxkSXQ3S2ltanY4TlFlTk9QOHhPNjVCQWlOQlYyeDQ1VW5wR0h0NlhpcTB5T0ZYa1ZneGxzS3VSaVhDZHluSEV4VXhvX0RfdFdPUWw5Q3NfYmt6TEFabE0wR3hFcC1MS3JaREpPZEdjbw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ctvnews.ca",
-      "title": "CTV News"
-    }
-  },
-  {
-    "title": "Exercise decreases among people taking GLP-1 medication - Endocrine Society",
-    "description": "Exercise decreases among people taking GLP-1 medication  Endocrine SocietyThe 20-minute Ozempic workout — the 5 crucial strength exercises  The TimesOzempic Users Are Skimping Out on Exercise, Study Finds  Gizmodo",
-    "published date": "Sat, 13 Jun 2026 16:35:10 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd1kyQUdEMEQzbDZud1J5MmNrN1lBaW5yRjZuYnZzdFEtNWhiazFUclU0dzZmT2diNzc0QzM3bFcxRUpMYXhieWgzVmNXRzNhZFVVQTV3a0NjUlE5RUZ1MU9uaG5yUWNUYkNGSWZjZlNRM3h0U01ncGJMNHZ5WkVvTWtKRDVVVFlSTEpWcTVIazhtYU1vYkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.endocrine.org",
-      "title": "Endocrine Society"
-    }
-  },
-  {
     "title": "Feature: In DR Congo displacement camp, Ebola warnings meet dry taps, crowded shelters - Xinhua",
-    "description": "Feature: In DR Congo displacement camp, Ebola warnings meet dry taps, crowded shelters  XinhuaA cracked coffin, a funeral and the hunt for Ebola's patient zero  ReutersAlarm as Ebola spreads into new areas of DR Congo  Al JazeeraFear and Denial in Central Africa Make Ebola a Tough Fix  Bloomberg.comEbola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda  World Health Organization (WHO)",
+    "description": "Feature: In DR Congo displacement camp, Ebola warnings meet dry taps, crowded shelters  XinhuaEbola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda  World Health Organization (WHO)A cracked coffin, a funeral and the hunt for Ebola's patient zero  ReutersAlarm as Ebola spreads into new areas of DR Congo  Al JazeeraFear and Denial in Central Africa Make Ebola a Tough Fix  Bloomberg.com",
     "published date": "Sat, 13 Jun 2026 08:52:15 GMT",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xc1hKSkljMm5TbVMyWU9TeGpGMTJuZUZQYmF6REsxeUsyNnNtQzlzeWZEc25QR00xSkF1UDgxbWU4MFJrY3h5NnR2UGFVMmhKLVNRbk0zUnBsYkxUeVh2MGhXR25CS3JUamQzQXFnWGQ0aTZzSE5nV01mMUE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://english.news.cn",
       "title": "Xinhua"
+    }
+  },
+  {
+    "title": "Exercise decreases among people taking GLP-1 medication - Endocrine Society",
+    "description": "Exercise decreases among people taking GLP-1 medication  Endocrine SocietyOzempic, Wegovy: Why People Using GLP-1s Are Less Likely to Exercise  HealthlineThe 20-minute Ozempic workout — the 5 crucial strength exercises  The TimesOzempic Users Are Skimping Out on Exercise, Study Finds  Gizmodo",
+    "published date": "Sat, 13 Jun 2026 16:35:10 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd1kyQUdEMEQzbDZud1J5MmNrN1lBaW5yRjZuYnZzdFEtNWhiazFUclU0dzZmT2diNzc0QzM3bFcxRUpMYXhieWgzVmNXRzNhZFVVQTV3a0NjUlE5RUZ1MU9uaG5yUWNUYkNGSWZjZlNRM3h0U01ncGJMNHZ5WkVvTWtKRDVVVFlSTEpWcTVIazhtYU1vYkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.endocrine.org",
+      "title": "Endocrine Society"
     }
   },
   {
@@ -140,6 +140,16 @@
     }
   },
   {
+    "title": "Many women with breast cancer not getting genetic test to see if chemotherapy is needed - NL Times",
+    "description": "Many women with breast cancer not getting genetic test to see if chemotherapy is needed  NL TimesMany women with breast cancer could avoid chemotherapy – what you need to know about the genetic test  Daily NationProsigna Scores, Ovarian Suppression, and Chemotherapy Omission: Iain MacPherson, PhD  The American Journal of Managed Care® (AJMC®)Test which spares breast cancer sufferers chemo not used enough  DutchNews.nlOPTIMA Supports Therapy De-escalation in High-Risk Breast Cancer  Medscape",
+    "published date": "Fri, 12 Jun 2026 07:03:50 GMT",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMWZOd2Y4dXVpLTNxWU9ydURsNFBuZUhHNlg1ejNVT3VrV1R0RHM5NVJCbEJpem9oanRoNnNJdmdPOWJ2QzVoWnhCX2JOSVM4T1Z3QmFVenBPRVpPZXp5WU9JdXFSRHhsYzNoNUsxemllQVNUeTZqM2VobWxEOE8tMjlxSHVhV011VUYtdUhkNW5BaXVYNW43eDd1bGhEcUVS?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://nltimes.nl",
+      "title": "NL Times"
+    }
+  },
+  {
     "title": "With the hot, humid weather, an annoying buzz descends upon Ottawa-Gatineau - Yahoo News Canada",
     "description": "With the hot, humid weather, an annoying buzz descends upon Ottawa-Gatineau  Yahoo News CanadaSee more headlines & perspectives on Google News",
     "published date": "Fri, 12 Jun 2026 08:00:00 GMT",
@@ -157,6 +167,16 @@
     "publisher": {
       "href": "https://news.westernu.ca",
       "title": "Western University"
+    }
+  },
+  {
+    "title": "U of S researcher grows ‘mini-brains’ to tackle childhood disease - MooseJawToday.com",
+    "description": "U of S researcher grows ‘mini-brains’ to tackle childhood disease  MooseJawToday.com",
+    "published date": "Thu, 11 Jun 2026 20:04:47 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZmRLOG8yQXJqeEh4eXNMV1FYT2RHOUN4N3J5UFBHYzdqSExvMzNKbTR6VVVUSnc4ckxFaTJEVUt0dk1QVVB4NTEwRlBqbzR6OXk3anE4UU83VEJmNnJhZ01mbDRlWUF4TWdUa0dFV3RjNTZWZmVCVnF2ejVUU3F0QlhfUE1KXzZLX0ZUSnRLNnV1STJoQ2FQQW9iTFlZV3V3S0MtbkhfQU5namdPMG5qS0QxenJlQVUycVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.moosejawtoday.com",
+      "title": "MooseJawToday.com"
     }
   },
   {
@@ -180,36 +200,6 @@
     }
   },
   {
-    "title": "U of S researcher grows ‘mini-brains’ to tackle childhood disease - SaskToday.ca",
-    "description": "U of S researcher grows ‘mini-brains’ to tackle childhood disease  SaskToday.ca",
-    "published date": "Thu, 11 Jun 2026 20:02:23 GMT",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSTl6UXVGX2w3M1g5aUVMUlJsRDFNSGZmR1BVMFFWVGtWQS00VnFoZ0FqTE9KdzBuSjZLOGc1cUVlbFB0MWdWS2JiajdpTFdmMUxlS3U3Um1tbldsb0hnclhiZ0pRT0FUUDYwN3FGMkhiaDZjdUdJZkRGdG40MzUwanlZamVPWFVud2t3MEZfSDRzNDMxR25oTGRWVzNXQ29nSHlld0ZHN0lPUEdIVDl5bkxwT2JGSEl0cE8zVDhrclNubmFlUTBn?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.sasktoday.ca",
-      "title": "SaskToday.ca"
-    }
-  },
-  {
-    "title": "Deep Dive: When Hitting the LDL Target Isn't Enough - Medscape",
-    "description": "Deep Dive: When Hitting the LDL Target Isn't Enough  Medscape",
-    "published date": "Thu, 11 Jun 2026 17:03:31 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSHgzcmh6bUxCMGZkYTVMRkN2R1FXUktrTThDVi1aWEZnQ0lwcXh2OEE5eDJsaWV6YnlQMUtlZ0J2UnJ4aHpYeHVSQU9JeERjSHhKSzBRb3pNS25XcVpUY2VyR2JjTVFOV3NNcUpBcG5kVHNmdWVYVHZQLVY4Q21nZno4eWNfNEhW?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.medscape.com",
-      "title": "Medscape"
-    }
-  },
-  {
-    "title": "Many women with breast cancer not getting genetic test to see if chemotherapy is needed - NL Times",
-    "description": "Many women with breast cancer not getting genetic test to see if chemotherapy is needed  NL Times",
-    "published date": "Fri, 12 Jun 2026 07:03:50 GMT",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMWZOd2Y4dXVpLTNxWU9ydURsNFBuZUhHNlg1ejNVT3VrV1R0RHM5NVJCbEJpem9oanRoNnNJdmdPOWJ2QzVoWnhCX2JOSVM4T1Z3QmFVenBPRVpPZXp5WU9JdXFSRHhsYzNoNUsxemllQVNUeTZqM2VobWxEOE8tMjlxSHVhV011VUYtdUhkNW5BaXVYNW43eDd1bGhEcUVS?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://nltimes.nl",
-      "title": "NL Times"
-    }
-  },
-  {
     "title": "Harvesting immature Chinook is shrinking salmon and reducing future returns, new research finds - Canadian Geographic",
     "description": "Harvesting immature Chinook is shrinking salmon and reducing future returns, new research finds  Canadian Geographic",
     "published date": "Fri, 12 Jun 2026 02:58:44 GMT",
@@ -217,16 +207,6 @@
     "publisher": {
       "href": "https://www.canadiangeographic.ca",
       "title": "Canadian Geographic"
-    }
-  },
-  {
-    "title": "Pushy AI chatbots risk putting patients off screening appointments - healthcare-in-europe.com",
-    "description": "Pushy AI chatbots risk putting patients off screening appointments  healthcare-in-europe.com",
-    "published date": "Sat, 13 Jun 2026 06:02:21 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRkRBd2dlM2pSRHkwTGcwVlhPR0pKakU0VHczX3ZlX0tYYU5pOTdBYUhkUms0a1BLQUQwTzliRTBGdnNWU0RrMldUOUdzZGNYOTNFMHJqTVJ0WkVXOHA2YldsT1AxYnBMdnVqSW9rNFlMTE90aWRZZzdzS2xRQnJlckltME5DQmM0dG1kcnZB?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://healthcare-in-europe.com",
-      "title": "healthcare-in-europe.com"
     }
   },
   {
@@ -250,13 +230,23 @@
     }
   },
   {
-    "title": "Scientists Reveal the Hidden Way Caffeine Sabotages Sleep - SciTechDaily",
-    "description": "Scientists Reveal the Hidden Way Caffeine Sabotages Sleep  SciTechDailySleeping 8 Hours? This Eating Habit Secretly Drains Your Brain Every Day  Futura, le média qui explore le mondeThis is the best time for your last caffeinated drink of the day  Yahoo News CanadaColumn | Love coffee? Have the last cup at this time for a better night’s sleep.  The Washington Post",
-    "published date": "Sat, 13 Jun 2026 15:31:23 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSDZaNHBIdWwyLVVLd1ViQ2xVRWtqc1NpbVZBMkN3bHBTOEUzNmVOOTNJbEVIcGlqSElIZEthUk9FUU1NV194VUZ4Rk9yb0xoTUFrcUZKekFpNU96emE3YjhiMmY0SFB6ZkpEb3FtdFh4Y2xJNVBCUFlrQTM3RldqQVBhNnRZck92aXZJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Pushy AI chatbots risk putting patients off screening appointments - healthcare-in-europe.com",
+    "description": "Pushy AI chatbots risk putting patients off screening appointments  healthcare-in-europe.com",
+    "published date": "Sat, 13 Jun 2026 06:02:21 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRkRBd2dlM2pSRHkwTGcwVlhPR0pKakU0VHczX3ZlX0tYYU5pOTdBYUhkUms0a1BLQUQwTzliRTBGdnNWU0RrMldUOUdzZGNYOTNFMHJqTVJ0WkVXOHA2YldsT1AxYnBMdnVqSW9rNFlMTE90aWRZZzdzS2xRQnJlckltME5DQmM0dG1kcnZB?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://scitechdaily.com",
-      "title": "SciTechDaily"
+      "href": "https://healthcare-in-europe.com",
+      "title": "healthcare-in-europe.com"
+    }
+  },
+  {
+    "title": "Best protection from West Nile virus is avoiding mosquito bites - CTV News",
+    "description": "Best protection from West Nile virus is avoiding mosquito bites  CTV NewsSudbury Health unit says West Nile risk is low, but concerning  Sudbury NewsSudbury-area residents advised to protect themselves from West Nile virus  Sudbury Star",
+    "published date": "Fri, 12 Jun 2026 22:03:25 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNajVuS191b2xKZVVBZEloSHc3SHpiQVlRSUFTclFIZ2FNQURXM3FqUVo3ZXRjVTd5Vy1QTkEzQk0zOWN2LUNVV2FTNTNRUTFna1JjM3QzcmdvTzJLYnMxMWVMRFNlbUw5UFpzMmxQbGlhVTE3UHhiQXpCck1sRzEzSDR1REF3dm5kcEdGWW1JR0xRc3hoWmFTUVFXYW5KanVlTVluTTFBREFzM0lGU1RJTGZR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ctvnews.ca",
+      "title": "CTV News"
     }
   },
   {
@@ -270,13 +260,13 @@
     }
   },
   {
-    "title": "Best protection from West Nile virus is avoiding mosquito bites - CTV News",
-    "description": "Best protection from West Nile virus is avoiding mosquito bites  CTV NewsSudbury Health unit says West Nile risk is low, but concerning  Sudbury NewsSudbury-area residents advised to protect themselves from West Nile virus  Sudbury Star",
-    "published date": "Fri, 12 Jun 2026 22:03:25 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNajVuS191b2xKZVVBZEloSHc3SHpiQVlRSUFTclFIZ2FNQURXM3FqUVo3ZXRjVTd5Vy1QTkEzQk0zOWN2LUNVV2FTNTNRUTFna1JjM3QzcmdvTzJLYnMxMWVMRFNlbUw5UFpzMmxQbGlhVTE3UHhiQXpCck1sRzEzSDR1REF3dm5kcEdGWW1JR0xRc3hoWmFTUVFXYW5KanVlTVluTTFBREFzM0lGU1RJTGZR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Scientists Reveal the Hidden Way Caffeine Sabotages Sleep - SciTechDaily",
+    "description": "Scientists Reveal the Hidden Way Caffeine Sabotages Sleep  SciTechDailySleeping 8 Hours? This Eating Habit Secretly Drains Your Brain Every Day  Futura, le média qui explore le mondeThis is the best time for your last caffeinated drink of the day  Yahoo News CanadaColumn | Love coffee? Have the last cup at this time for a better night’s sleep.  The Washington Post",
+    "published date": "Sat, 13 Jun 2026 15:31:23 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSDZaNHBIdWwyLVVLd1ViQ2xVRWtqc1NpbVZBMkN3bHBTOEUzNmVOOTNJbEVIcGlqSElIZEthUk9FUU1NV194VUZ4Rk9yb0xoTUFrcUZKekFpNU96emE3YjhiMmY0SFB6ZkpEb3FtdFh4Y2xJNVBCUFlrQTM3RldqQVBhNnRZck92aXZJ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.ctvnews.ca",
-      "title": "CTV News"
+      "href": "https://scitechdaily.com",
+      "title": "SciTechDaily"
     }
   },
   {
@@ -310,23 +300,13 @@
     }
   },
   {
-    "title": "Neurological Effects of Ebola Persist Years After Infection - Medscape",
-    "description": "Neurological Effects of Ebola Persist Years After Infection  MedscapeVision impairment and eye diseases continue to be concerns for Ebola survivors  Emory NewsEbola's Brain Effects Persist More Than 7 Years After Infection  MedPage Today",
-    "published date": "Thu, 11 Jun 2026 20:19:33 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUWlrRTRTZnJINlYtOXBqMno5S2xVTlRkZlJBbkFwZGtwTklZa1l4V1cweHRvWlNoOG1fTFg5blhwam94OGk1SWRQcnFJRGhqbXFxT24yUjdDMzVRNkplZ0UtM3ZvcmE0c2lpQl9RN0NpYWE3MnNKY2VIQVBYalIxMUpnaHpYb3NYN1N0RUNxblFvVXJRTkhuZU9yLU1EM0t2OXJFNFdlNjhRUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "The Health Risks of Alcohol Ramp Up with Just 1 Drink Per Day, New Study Says - EatingWell",
+    "description": "The Health Risks of Alcohol Ramp Up with Just 1 Drink Per Day, New Study Says  EatingWellHealth Risks of Alcohol Accelerate After One Drink a Day, Study Finds  The New York TimesNightly glass of wine may not be as harmless as many people think, study suggests  Fox NewsCasual drinker? You still have a 1 in 25 risk of dying, study says  USA TodayStudy Reportedly Suppressed by Trump Administration Finds That Even Moderate Alcohol Use Is Harmful  Yahoo News Canada",
+    "published date": "Fri, 12 Jun 2026 22:02:59 GMT",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vNm93RmpMbVJnNGRCdXFSRUNQRFl2amxQTHdYQnRYbElnTWpMOHhvVDJwYU5aTTNuQmZ4OVEyNzU3WlZWOUJaMmRvWUp6MlJ6TnpfVlZCTzhyOHB5SUtFQ25ZY0YwZDNJSVE3Ql9xck5CT3Z1Z3ZOa2xPQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.medscape.com",
-      "title": "Medscape"
-    }
-  },
-  {
-    "title": "Hepatitis A Outbreak in Canada Leaves 4 Dead, 142 Hospitalized; CDC Issues Travel Notice as Many Americans Traveling to Canada Remain Unvaccinated. - Medical Daily",
-    "description": "Hepatitis A Outbreak in Canada Leaves 4 Dead, 142 Hospitalized; CDC Issues Travel Notice as Many Americans Traveling to Canada Remain Unvaccinated.  Medical Daily",
-    "published date": "Sat, 13 Jun 2026 02:56:53 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbnkyZWpxYUwtRWlkR01oajRfYkpqNTBnUWNRbU1lcXFQLTFXRDZmU0t4SUhVdFlBemlySVFQUWVwT0ZEdzdwbENMb2N1MlRrLWhnM3NRVno3NVl5VlZyLTZrSnhBUm5QVnpwMGRneFZjR0pKTzE0c052SnF5bGNFSWxkSGdkYzlmNDBMNFV4X1VVbi0tZ3Z6T3EwRktCNjZXVzdZSg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.medicaldaily.com",
-      "title": "Medical Daily"
+      "href": "https://www.eatingwell.com",
+      "title": "EatingWell"
     }
   },
   {
@@ -340,13 +320,23 @@
     }
   },
   {
-    "title": "The Health Risks of Alcohol Ramp Up with Just 1 Drink Per Day, New Study Says - EatingWell",
-    "description": "The Health Risks of Alcohol Ramp Up with Just 1 Drink Per Day, New Study Says  EatingWellHealth Risks of Alcohol Accelerate After One Drink a Day, Study Finds  The New York TimesNightly glass of wine may not be as harmless as many people think, study suggests  Fox NewsCasual drinker? You still have a 1 in 25 risk of dying, study says  USA TodayStudy Reportedly Suppressed by Trump Administration Finds That Even Moderate Alcohol Use Is Harmful  Yahoo News Canada",
-    "published date": "Fri, 12 Jun 2026 22:02:59 GMT",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vNm93RmpMbVJnNGRCdXFSRUNQRFl2amxQTHdYQnRYbElnTWpMOHhvVDJwYU5aTTNuQmZ4OVEyNzU3WlZWOUJaMmRvWUp6MlJ6TnpfVlZCTzhyOHB5SUtFQ25ZY0YwZDNJSVE3Ql9xck5CT3Z1Z3ZOa2xPQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Hepatitis A Outbreak in Canada Leaves 4 Dead, 142 Hospitalized; CDC Issues Travel Notice as Many Americans Traveling to Canada Remain Unvaccinated. - Medical Daily",
+    "description": "Hepatitis A Outbreak in Canada Leaves 4 Dead, 142 Hospitalized; CDC Issues Travel Notice as Many Americans Traveling to Canada Remain Unvaccinated.  Medical Daily",
+    "published date": "Sat, 13 Jun 2026 02:56:53 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbnkyZWpxYUwtRWlkR01oajRfYkpqNTBnUWNRbU1lcXFQLTFXRDZmU0t4SUhVdFlBemlySVFQUWVwT0ZEdzdwbENMb2N1MlRrLWhnM3NRVno3NVl5VlZyLTZrSnhBUm5QVnpwMGRneFZjR0pKTzE0c052SnF5bGNFSWxkSGdkYzlmNDBMNFV4X1VVbi0tZ3Z6T3EwRktCNjZXVzdZSg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.eatingwell.com",
-      "title": "EatingWell"
+      "href": "https://www.medicaldaily.com",
+      "title": "Medical Daily"
+    }
+  },
+  {
+    "title": "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection - ScienceAlert",
+    "description": "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection  ScienceAlertBrushing your teeth in hospital could reduce the chance of catching pneumonia  The ConversationA Simple Step With Big Impact: Oral Care Cuts Hospital Acquired Pneumonia Risk  Anesthesiology News",
+    "published date": "Sat, 13 Jun 2026 14:03:29 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNEItQVktM09QdWo5YjN5bWFIZVl5WHhLb1RDVEd4SDVmbVdnd1ZuYjZ1UU5Ub3RSdmJQYkl0bzZaZGc1SUc4Y3JzamxPOFBWZFdybW9XN3BRUWNDbjd0eklldTFPTWVhUjVFLTR1b25heVB6QVpyRjkwME9JNTkwYm1ySGpvYzR6Zk53NHhvZGUtTnYxVTlMWDJhUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.sciencealert.com",
+      "title": "ScienceAlert"
     }
   },
   {
@@ -360,13 +350,23 @@
     }
   },
   {
-    "title": "Stopping Neurodegeneration in Place with Vaccines - Inside Precision Medicine",
-    "description": "Stopping Neurodegeneration in Place with Vaccines  Inside Precision MedicineThe professor who thinks the shingles vaccine is the key to dementia prevention  The Telegraph",
-    "published date": "Thu, 11 Jun 2026 18:24:36 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaWVmSGJ2VEhEZ0tPSldCaFhvWTZVM0o1alVRdW5Qdnd6bEZWdzJnMVJnMFh5RW13X2VDMTVxUHgybnVPQ0dhbHpDNE1jQkxFRktnRE9WamlZRDE2N2pjVG9tblpBQ0hWaW56VXNLaFY5b2xad0k5aXU4RnBNcjNLUjBFTHNkaUtXdlFITjFGLW1fSVJfS3JwY21IaVc3M0dJNGM4dXk4NmszUTcxbUpEeVUzTHVGamc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "New Antibiotic Found in Dirt Targets Superbugs in a Way ‘Never Been Seen Before’ - Gizmodo",
+    "description": "New Antibiotic Found in Dirt Targets Superbugs in a Way ‘Never Been Seen Before’  GizmodoScientists Discover Antibiotic With Unique Mechanism  Technology Networks",
+    "published date": "Thu, 11 Jun 2026 19:35:49 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQblVlY3pLdlBVVUp1MWJYcU1veEVRQWwwaG1vZkR5MG1qOXV6c2NUR2tTWHhETUFaNlppNHBGXy1McDFfRmpXX1hZNzBZRmdVa2xwYjNLUXVJVHJhWmlsOFhXanJoWGsxeDdBamhLSGJnYjlpdVdqX0hPNU1HVEZCTVdjVHh0OVB0aGRYekZIRnQ1ODFtSF82RnA2V0QwSUxpaHcyeEFvbUQ1Wm5i?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.insideprecisionmedicine.com",
-      "title": "Inside Precision Medicine"
+      "href": "https://gizmodo.com",
+      "title": "Gizmodo"
+    }
+  },
+  {
+    "title": "'This might be the point of no return': Experts on the current measles outbreak and where we go from here - Live Science",
+    "description": "'This might be the point of no return': Experts on the current measles outbreak and where we go from here  Live ScienceUS measles cases pass 2,000 this year as outbreak nears worst in decades  The GuardianMeasles cases are dramatically outpacing 2025's. See latest US numbers  USA TodayWhat ProPublica Found in the Genetic Code of America’s Measles Outbreaks  ProPublica",
+    "published date": "Sat, 13 Jun 2026 12:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNSFdkWTl0TjR3dzZMRy1ocDdadVVkM2VRTWlRNkxjT3VTUlViUUQzbEVEd3VobUZfbmNzMmI4TEY5d3lxbXBlZERrSWE4Uk8wazFWNjhkUVVGdkUyWVVxM2dPUnBYYTJ5N1lmYzk1QlFfVmNTanlVLVVLRGNiUlFQUXctSWFuNGR5R1psT1pjSlBuT0xjUHJ2ams5ZDMxU2FsZEhWVjY3NTZQM1BTLU03bUVHX2lmU0k0UDZNXzV0NU44SDlTQjh2WkNtWVRnV1pmTDFhUzU4N3g3aTVFWDZlRXlZZjRFTXdPblBPblpvRFMwTjdSdkhF?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.livescience.com",
+      "title": "Live Science"
     }
   },
   {
@@ -380,13 +380,13 @@
     }
   },
   {
-    "title": "'This might be the point of no return': Experts on the current measles outbreak and where we go from here - Live Science",
-    "description": "'This might be the point of no return': Experts on the current measles outbreak and where we go from here  Live ScienceUS measles cases pass 2,000 this year as outbreak nears worst in decades  The GuardianMeasles cases are dramatically outpacing 2025's. See latest US numbers  USA TodayWhat ProPublica Found in the Genetic Code of America’s Measles Outbreaks  ProPublica",
-    "published date": "Sat, 13 Jun 2026 12:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNSFdkWTl0TjR3dzZMRy1ocDdadVVkM2VRTWlRNkxjT3VTUlViUUQzbEVEd3VobUZfbmNzMmI4TEY5d3lxbXBlZERrSWE4Uk8wazFWNjhkUVVGdkUyWVVxM2dPUnBYYTJ5N1lmYzk1QlFfVmNTanlVLVVLRGNiUlFQUXctSWFuNGR5R1psT1pjSlBuT0xjUHJ2ams5ZDMxU2FsZEhWVjY3NTZQM1BTLU03bUVHX2lmU0k0UDZNXzV0NU44SDlTQjh2WkNtWVRnV1pmTDFhUzU4N3g3aTVFWDZlRXlZZjRFTXdPblBPblpvRFMwTjdSdkhF?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "How Healthy Gut Microbiota Can Give CAR T-Cell Recipients a Leg Up - The American Journal of Managed Care® (AJMC®)",
+    "description": "How Healthy Gut Microbiota Can Give CAR T-Cell Recipients a Leg Up  The American Journal of Managed Care® (AJMC®)A healthier gut may be key to cancer care  CTV News",
+    "published date": "Fri, 12 Jun 2026 08:17:43 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdGtzYlptTW83MkQtYXdKWmhtdmJvNjF1Tkd6VGFscUV6LXFmcUJoNm1KRFVOa0pZOUFyOEJIVDM1VEszcGF3WXdIUW1UaUVnRFE4X0ZrOXpaemVWSWgwQ3ZMTWg1QWJXZ2xldVVQa19DTFAzYzlhRTBvMmtabTRORDhnRTROaEstQ1d6LUNNTUlFck1ITHhj?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.livescience.com",
-      "title": "Live Science"
+      "href": "https://www.ajmc.com",
+      "title": "The American Journal of Managed Care® (AJMC®)"
     }
   },
   {
@@ -430,6 +430,16 @@
     }
   },
   {
+    "title": "Neuroscientists discover previously unknown cognitive benefits of reading physical books - psypost.org",
+    "description": "Neuroscientists discover previously unknown cognitive benefits of reading physical books  psypost.org",
+    "published date": "Sat, 13 Jun 2026 10:28:28 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ2hmSGVlSUIwUjB3Mno2SUtxa2JLWFRoNTljTDlZY1pvQU5hQl81SlUtM1FoeVFMWDE0UnV0enVqcDV1OXhjMkZRcmJMZVFBSkRvZ3JLX3JjWExPTWxtRnF6NUhPNXBBNnk5OTZCUzNUbmwzSmRITHlGVldvMldUUFdaRTRVdkFpUmJ4WDREejJlS2FyWGp5a0lSMVF3YkZWWXNWaWh2RXlIVjA0a2RoNjJfUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.psypost.org",
+      "title": "psypost.org"
+    }
+  },
+  {
     "title": "Treating pancreatic tumours may have revealed cancer’s master switch - The Economist",
     "description": "Treating pancreatic tumours may have revealed cancer’s master switch  The EconomistIn Fight Against Pancreatic Cancer, Daraxonrasib Is Rare Sign Of Hope  ForbesThe Guardian view on cancer treatments: new hope for patients now and in the future | Editorial  The Guardian",
     "published date": "Fri, 12 Jun 2026 16:43:29 GMT",
@@ -437,16 +447,6 @@
     "publisher": {
       "href": "https://www.economist.com",
       "title": "The Economist"
-    }
-  },
-  {
-    "title": "Neuroscientists discover previously unknown cognitive benefits of reading physical books - PsyPost",
-    "description": "Neuroscientists discover previously unknown cognitive benefits of reading physical books  PsyPost",
-    "published date": "Sat, 13 Jun 2026 10:28:28 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ2hmSGVlSUIwUjB3Mno2SUtxa2JLWFRoNTljTDlZY1pvQU5hQl81SlUtM1FoeVFMWDE0UnV0enVqcDV1OXhjMkZRcmJMZVFBSkRvZ3JLX3JjWExPTWxtRnF6NUhPNXBBNnk5OTZCUzNUbmwzSmRITHlGVldvMldUUFdaRTRVdkFpUmJ4WDREejJlS2FyWGp5a0lSMVF3YkZWWXNWaWh2RXlIVjA0a2RoNjJfUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.psypost.org",
-      "title": "PsyPost"
     }
   },
   {
@@ -540,6 +540,16 @@
     }
   },
   {
+    "title": "Ancient DNA shared with Neanderthals may explain human language - ScienceDaily",
+    "description": "Ancient DNA shared with Neanderthals may explain human language  ScienceDaily",
+    "published date": "Fri, 12 Jun 2026 05:15:06 GMT",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpNDJmM2ZLTjNTMGtXeXYyYTBhMXRRSGwwczNsb0loWkY1UEY1VVB0Vm4yNWoydFpHMGx6TGdXQTFtVjkySHNONW14WFNzaEZPWktFYmlOOWFqaFB2T1hMdXo2NGtrS1lVQVFwUmM0RQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.sciencedaily.com",
+      "title": "ScienceDaily"
+    }
+  },
+  {
     "title": "Scientists found the strength training sweet spot for a longer life - ScienceDaily",
     "description": "Scientists found the strength training sweet spot for a longer life  ScienceDailyTo Delay Death, Research Suggests Strength Training Just 1.5 Hours Each Week  Outside MagazineScientists Reveal The Optimal Amount of Strength Training For a Longer Life  ScienceAlert",
     "published date": "Fri, 12 Jun 2026 04:48:06 GMT",
@@ -560,16 +570,6 @@
     }
   },
   {
-    "title": "Depression isn’t just in the head: Scientists find altered genetic activity in white blood cells - PsyPost",
-    "description": "Depression isn’t just in the head: Scientists find altered genetic activity in white blood cells  PsyPost",
-    "published date": "Fri, 12 Jun 2026 02:23:27 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa2MwMXh5c2w1RV9PU3kycVhpZ1VXM2o1cXBBcUlrTE1sRUxZLUlWWmRkNEh3azIzdzVwUnNWQndETjdxVmM5X3NyRHA2Rk14TUF3M0NJSTlobXF2UF9VUHFSWVJIU3lKU1kwUXFsX29xd2o2MTdoVjQ1U0NycHV2XzN2SGo2SU50YmYyOHBUTEdmUjB5cnFDSHZNeU9jYVR4S285Zk1EUzNuSjY4dDhOcjlJcnVIWjhfM3VZ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.psypost.org",
-      "title": "PsyPost"
-    }
-  },
-  {
     "title": "Doctor shares 5 daily habits that can lower elevated liver enzymes and protect from fatty liver disease | Health - Hindustan Times",
     "description": "Doctor shares 5 daily habits that can lower elevated liver enzymes and protect from fatty liver disease | Health  Hindustan TimesGlobal Fatty Liver Day 2026 builds on WHO Momentum to Drive Urgent Action on Steatotic (fatty) Liver Disease  GlobeNewswire",
     "published date": "Fri, 12 Jun 2026 15:45:40 GMT",
@@ -577,6 +577,26 @@
     "publisher": {
       "href": "https://www.hindustantimes.com",
       "title": "Hindustan Times"
+    }
+  },
+  {
+    "title": "Depression isn’t just in the head: Scientists find altered genetic activity in white blood cells - psypost.org",
+    "description": "Depression isn’t just in the head: Scientists find altered genetic activity in white blood cells  psypost.org",
+    "published date": "Fri, 12 Jun 2026 02:23:27 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa2MwMXh5c2w1RV9PU3kycVhpZ1VXM2o1cXBBcUlrTE1sRUxZLUlWWmRkNEh3azIzdzVwUnNWQndETjdxVmM5X3NyRHA2Rk14TUF3M0NJSTlobXF2UF9VUHFSWVJIU3lKU1kwUXFsX29xd2o2MTdoVjQ1U0NycHV2XzN2SGo2SU50YmYyOHBUTEdmUjB5cnFDSHZNeU9jYVR4S285Zk1EUzNuSjY4dDhOcjlJcnVIWjhfM3VZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.psypost.org",
+      "title": "psypost.org"
+    }
+  },
+  {
+    "title": "These patients' hearts stopped a dozen times a day. An innovative procedure has transformed their lives. - Live Science",
+    "description": "These patients' hearts stopped a dozen times a day. An innovative procedure has transformed their lives.  Live Science",
+    "published date": "Fri, 12 Jun 2026 10:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOck13anhEU0drOV9GWTktQ3l1Qk9FbW1SN2VCdl9vM21URWViUWxVM29vZktHRTctOUVrV2pEbzA5T3pabEkyR1M4VERyRUxmQUdtN2JkZGp4bFVjMi02NnQ2R2p4NlBSUEp5UWdhdGQ0djJ0aklhSzZDNnU1LUItUXFaUkRQOTdpeGNyR3d0N0xKaG5xd3dLdVNKTFRhRWptZmpxZHZkY0R6WnR1c3UybXZib0FtT29pNkM2WEhDMFAyQ2t6UGtYV0JkTjlCQVh1SVlpMnZiRF8zR1hGRmttUzczUXk5OGlsN3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.livescience.com",
+      "title": "Live Science"
     }
   },
   {
@@ -600,26 +620,6 @@
     }
   },
   {
-    "title": "These patients' hearts stopped a dozen times a day. An innovative procedure has transformed their lives. - Live Science",
-    "description": "These patients' hearts stopped a dozen times a day. An innovative procedure has transformed their lives.  Live Science",
-    "published date": "Fri, 12 Jun 2026 10:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOck13anhEU0drOV9GWTktQ3l1Qk9FbW1SN2VCdl9vM21URWViUWxVM29vZktHRTctOUVrV2pEbzA5T3pabEkyR1M4VERyRUxmQUdtN2JkZGp4bFVjMi02NnQ2R2p4NlBSUEp5UWdhdGQ0djJ0aklhSzZDNnU1LUItUXFaUkRQOTdpeGNyR3d0N0xKaG5xd3dLdVNKTFRhRWptZmpxZHZkY0R6WnR1c3UybXZib0FtT29pNkM2WEhDMFAyQ2t6UGtYV0JkTjlCQVh1SVlpMnZiRF8zR1hGRmttUzczUXk5OGlsN3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.livescience.com",
-      "title": "Live Science"
-    }
-  },
-  {
-    "title": "Socioeconomic Status Leaves Deep Imprints on Developing Brains - Neuroscience News",
-    "description": "Socioeconomic Status Leaves Deep Imprints on Developing Brains  Neuroscience NewsSocioeconomic factors are becoming 'biologically embedded' in children's brains  NPRChildren’s zip codes change their brains, new study finds  Scientific AmericanIQ’s link to brain structure, function in children may be a mirage  The Transmitter",
-    "published date": "Thu, 11 Jun 2026 18:37:48 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVlNITEEwQmVxdWF4Nk5WdklHcmtQbDlRSzVrdjdWWENSTDFpVWM4WkFoYjBiMmNFb3NjQU0zWWtuNHpVazkzLWtsQ1BLS25FMTZuQ29uZG1Vd2ZPNmJRZTI3Rk5DLXYwVHRzRUFFQ0Y2MXpXaVJDY3BKY1AxZFJXMjdYMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://neurosciencenews.com",
-      "title": "Neuroscience News"
-    }
-  },
-  {
     "title": "I’m a doctor — cut down on these foods if you have high blood pressure - Daily Express",
     "description": "I’m a doctor — cut down on these foods if you have high blood pressure  Daily Express",
     "published date": "Fri, 12 Jun 2026 11:00:00 GMT",
@@ -637,16 +637,6 @@
     "publisher": {
       "href": "https://www.healthdigest.com",
       "title": "Health Digest"
-    }
-  },
-  {
-    "title": "Mind-blowing simulation shows extreme impact that fasting for 36 hours has on your body - UNILAD",
-    "description": "Mind-blowing simulation shows extreme impact that fasting for 36 hours has on your body  UNILADIntermittent fasting triggers surprising changes in the brain boosting memory and mental sharpness: Study  TheHealthSite",
-    "published date": "Thu, 11 Jun 2026 18:37:12 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZXEwUm1IR2NWNmE0RTNrQnhpLTZVWUdmVjAwN25wZXdWZV9SVFBwX3AzWUZhOFVfNndGOVZ6TWJ4ejRMRDAxTlNhTU9Na05jcVRxTWpVR0xoLVB2WFp3TFZtM19hUE4zT2pvaThtblEwVWItRmFyNTA4NHVKZmw0Q2JRUmg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.unilad.com",
-      "title": "UNILAD"
     }
   },
   {
