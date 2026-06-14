@@ -60,16 +60,6 @@
     }
   },
   {
-    "title": "قرار نهائي من محمد صلاح للانتقال إلى الدوري السعودي - صحيفة الوئام",
-    "description": "قرار نهائي من محمد صلاح للانتقال إلى الدوري السعودي  صحيفة الوئام",
-    "published date": "Mon, 08 Jun 2026 20:08:28 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxON1ZpRDcwckRvWjkxcHdIZHBRNF8ycl93OWYtNGI5YmFqcGFnT05RajA2c2s3SEw0SW45ZFUtdnk1SEJvRTNfRTZubHVneTNHUURITDFqMlZ4MWVHX2E2MzRwRDBKbGpMdy10R0xDMnJDSlFscWdnVzdTUUNkU2tzcHB1bEszbWRmWVBGODE4dkYtRkZXWG1MUGNSUm16MDdEUGpPRXdFVERzOVVWRW41OGdRczZOMGdFb2VEbVNUTVY3Y2R1T0hMWUtJWHR0Zm0tUlJWQlpPSjFYSnRFWlFQR1N1S3l0dlVVUEQ2cENoYjJfN1pjeVpfNTFQb3RnVVlpYUZ1YllYUjVlMUtBUlBZTTJleFhqRDBOSHhDMi1WT3d4MG4xbkU0Z3BuVG04RFlZVHhRU21HbHMweGNrWmNIZl8zMXVYVDFYQ0ZRdVJBMTk2dGg4eXQ5eDR6Q0I?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.alweeam.com.sa",
-      "title": "صحيفة الوئام"
-    }
-  },
-  {
     "title": "رابطة الدوري السعودي للمحترفين تطلق المرحلة الثانية من برنامج الاستقطاب - صحيفة عاجل",
     "description": "رابطة الدوري السعودي للمحترفين تطلق المرحلة الثانية من برنامج الاستقطاب  صحيفة عاجل",
     "published date": "Wed, 06 May 2026 07:00:00 GMT",
@@ -87,6 +77,16 @@
     "publisher": {
       "href": "https://aawsat.com",
       "title": "الشرق الأوسط"
+    }
+  },
+  {
+    "title": "قرار نهائي من محمد صلاح للانتقال إلى الدوري السعودي - صحيفة الوئام",
+    "description": "قرار نهائي من محمد صلاح للانتقال إلى الدوري السعودي  صحيفة الوئام",
+    "published date": "Mon, 08 Jun 2026 20:08:28 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxON1ZpRDcwckRvWjkxcHdIZHBRNF8ycl93OWYtNGI5YmFqcGFnT05RajA2c2s3SEw0SW45ZFUtdnk1SEJvRTNfRTZubHVneTNHUURITDFqMlZ4MWVHX2E2MzRwRDBKbGpMdy10R0xDMnJDSlFscWdnVzdTUUNkU2tzcHB1bEszbWRmWVBGODE4dkYtRkZXWG1MUGNSUm16MDdEUGpPRXdFVERzOVVWRW41OGdRczZOMGdFb2VEbVNUTVY3Y2R1T0hMWUtJWHR0Zm0tUlJWQlpPSjFYSnRFWlFQR1N1S3l0dlVVUEQ2cENoYjJfN1pjeVpfNTFQb3RnVVlpYUZ1YllYUjVlMUtBUlBZTTJleFhqRDBOSHhDMi1WT3d4MG4xbkU0Z3BuVG04RFlZVHhRU21HbHMweGNrWmNIZl8zMXVYVDFYQ0ZRdVJBMTk2dGg4eXQ5eDR6Q0I?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.alweeam.com.sa",
+      "title": "صحيفة الوئام"
     }
   },
   {
@@ -200,16 +200,6 @@
     }
   },
   {
-    "title": "الصاعدون والهابطون في الدوري السعودي للمحترفين.. الدرعية يحقق إنجازا تاريخيا - اليوم السابع",
-    "description": "الصاعدون والهابطون في الدوري السعودي للمحترفين.. الدرعية يحقق إنجازا تاريخيا  اليوم السابع",
-    "published date": "Sun, 24 May 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi7gRBVV95cUxPZXIzclh6M0lOaUZMZ0dROFhmWVQtUGVtdEFFdnd4b3VDVDJKc1p5d2R3RE16M29xYmUxYXBfWmt1X3dtS3pJS3hhbVFxaHJtRE5MNTJxSzQ4NmowN2pEcmRld2c3eGFjMU1EMkNVNGVuWkRVVlFVUzAwcXdnckU5dzI0M3JoYmRTakdpYVZIYzNqWGFUMHVLV2NVeFg5VS1FSnF6blBvM0RVd2Y1TVFfVG8yT1M3WUthcjI0UUpXcFlXT3VaaXg5RlE0OXFVLVZ6UnpIcGt1SmJJSEJPblRpMy04NktsWllhNmVQc3ZTVklRUXB6WFZUNVJMYlBUS2Fsam83cUxHUWlKc2dobndUVXZkNDJxeTJhdVkxVXZsNTBLSERMSjVmVlNuek9qTWtLT1o2YTZQSVhELUN5S3p3RjgwcmtqaW1uQm1RanFLclpFdi16d1VvV242WDJTd1dDUy1kczRMZkE0ZGFOQTMtMGFkNHFjTjROT29Dbm1pNTdVaVBtSllYeXZTak9DM1hBS09vMjNRQXVDZ3VoWUJadVB1M2g5LXp3VkpPRkMzcXJtRXJvM051Sk8yMHVYZW5OTzIwMGFKdFM0YnRJc3VvMkZtY1ZUNHdINTc3dDZfdHh2REJpMUQycXdkTThod0ZKUWpid1VEV1hjajV4R0R4NEN1clFiRFltZHVYTzk2LWhpXzJVNGFVUGRvbmlQWGdnQUQyWXFIOTdpcnl3WnY2UVg0YzFsYkx2NnNYdlpTc2gwZkREaG9qLXBnOXpYaVk1UnJ4Yk8yZXJPZkpBaGh0TkJBWnRjWV9zaWtlQmpn0gHoBEFVX3lxTE80YkExNmw1eUlpVkVLR3NWcjJsS3lqdG9NalJmTktMWmV4UGhxRDRTLTU4bDU0N0U5WDdfMGVsRTJ5Y0ZqSnNlWFNCLXZzY0hzVWVtcm9wd0dGYlJ5SlhsOGVtVzBlVHVEbUplN0I0eEVMbGlNeTluX0dDZF8xdUNnTi1Wa3pwWm9aUXJWbFExMW9xbzJOSl9DSmc0RVl5SUNaQTEwSF9OamQ2MmhMZnd1cHVxN2Z0a1puWktWRmdZd3BVbW5aOW11UUpqbDhLbE5zWUF1NFhhYWl0TEw1aTlQQlg2LVd6V3czdlh4WklEN3hFczU1X0FSbkxWRllQWUxMZmlkWV9Wd2pLT3FyT2VQZmlfd1VrR2dEOHRUcUdjdTkxSnNYZ3REUklUbGkzaUdSUlRwZ3hsTFJHNVlldFVvcFBnbXR1UngzQllUT1JQbzg1OU96Mks2NkVfUElXbDhGTXJseGNTYnlLcmlZLWNiWnRXS1Fsd0g1TWdObzN0Ym4zOGQyWms1VzEtRHFtdDRvYktCeXJ1Z0gyOE1pSTlQS2EyLWIzak1Ma0FjeHlLOXFJX19FLXNjLUsybEFRZ1Vzcnh4bG44U2RWVUVRc2c1V3ZNTlVRcmZzVWMtNnNwUVRIbm1WU0ZvUGNuSmRRZlJ1WUl1NDJmMS15RXR1Nk9hU0NnSzlDM0xoaTEtNW9zNDJHc1hLQkVQWFRCaVhBbGxWczVqZGdUSm13cWZGdUE1QjFQZUpmTXNUXzlWMFViMDhSZm0tTHNpdDRydVRxRm80MlpWN0duRHlVQXpKenVxS1ljZTVpZGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.youm7.com",
-      "title": "اليوم السابع"
-    }
-  },
-  {
     "title": "فيديو: ليس النصر.. من يتصدر الدوري السعودي بدون الأخطاء التحكيمية؟ - Kooora",
     "description": "فيديو: ليس النصر.. من يتصدر الدوري السعودي بدون الأخطاء التحكيمية؟  Kooora",
     "published date": "Thu, 09 Apr 2026 07:00:00 GMT",
@@ -217,6 +207,16 @@
     "publisher": {
       "href": "https://www.kooora.com",
       "title": "Kooora"
+    }
+  },
+  {
+    "title": "الصاعدون والهابطون في الدوري السعودي للمحترفين.. الدرعية يحقق إنجازا تاريخيا - اليوم السابع",
+    "description": "الصاعدون والهابطون في الدوري السعودي للمحترفين.. الدرعية يحقق إنجازا تاريخيا  اليوم السابع",
+    "published date": "Sun, 24 May 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi7gRBVV95cUxPZXIzclh6M0lOaUZMZ0dROFhmWVQtUGVtdEFFdnd4b3VDVDJKc1p5d2R3RE16M29xYmUxYXBfWmt1X3dtS3pJS3hhbVFxaHJtRE5MNTJxSzQ4NmowN2pEcmRld2c3eGFjMU1EMkNVNGVuWkRVVlFVUzAwcXdnckU5dzI0M3JoYmRTakdpYVZIYzNqWGFUMHVLV2NVeFg5VS1FSnF6blBvM0RVd2Y1TVFfVG8yT1M3WUthcjI0UUpXcFlXT3VaaXg5RlE0OXFVLVZ6UnpIcGt1SmJJSEJPblRpMy04NktsWllhNmVQc3ZTVklRUXB6WFZUNVJMYlBUS2Fsam83cUxHUWlKc2dobndUVXZkNDJxeTJhdVkxVXZsNTBLSERMSjVmVlNuek9qTWtLT1o2YTZQSVhELUN5S3p3RjgwcmtqaW1uQm1RanFLclpFdi16d1VvV242WDJTd1dDUy1kczRMZkE0ZGFOQTMtMGFkNHFjTjROT29Dbm1pNTdVaVBtSllYeXZTak9DM1hBS09vMjNRQXVDZ3VoWUJadVB1M2g5LXp3VkpPRkMzcXJtRXJvM051Sk8yMHVYZW5OTzIwMGFKdFM0YnRJc3VvMkZtY1ZUNHdINTc3dDZfdHh2REJpMUQycXdkTThod0ZKUWpid1VEV1hjajV4R0R4NEN1clFiRFltZHVYTzk2LWhpXzJVNGFVUGRvbmlQWGdnQUQyWXFIOTdpcnl3WnY2UVg0YzFsYkx2NnNYdlpTc2gwZkREaG9qLXBnOXpYaVk1UnJ4Yk8yZXJPZkpBaGh0TkJBWnRjWV9zaWtlQmpn0gHoBEFVX3lxTE80YkExNmw1eUlpVkVLR3NWcjJsS3lqdG9NalJmTktMWmV4UGhxRDRTLTU4bDU0N0U5WDdfMGVsRTJ5Y0ZqSnNlWFNCLXZzY0hzVWVtcm9wd0dGYlJ5SlhsOGVtVzBlVHVEbUplN0I0eEVMbGlNeTluX0dDZF8xdUNnTi1Wa3pwWm9aUXJWbFExMW9xbzJOSl9DSmc0RVl5SUNaQTEwSF9OamQ2MmhMZnd1cHVxN2Z0a1puWktWRmdZd3BVbW5aOW11UUpqbDhLbE5zWUF1NFhhYWl0TEw1aTlQQlg2LVd6V3czdlh4WklEN3hFczU1X0FSbkxWRllQWUxMZmlkWV9Wd2pLT3FyT2VQZmlfd1VrR2dEOHRUcUdjdTkxSnNYZ3REUklUbGkzaUdSUlRwZ3hsTFJHNVlldFVvcFBnbXR1UngzQllUT1JQbzg1OU96Mks2NkVfUElXbDhGTXJseGNTYnlLcmlZLWNiWnRXS1Fsd0g1TWdObzN0Ym4zOGQyWms1VzEtRHFtdDRvYktCeXJ1Z0gyOE1pSTlQS2EyLWIzak1Ma0FjeHlLOXFJX19FLXNjLUsybEFRZ1Vzcnh4bG44U2RWVUVRc2c1V3ZNTlVRcmZzVWMtNnNwUVRIbm1WU0ZvUGNuSmRRZlJ1WUl1NDJmMS15RXR1Nk9hU0NnSzlDM0xoaTEtNW9zNDJHc1hLQkVQWFRCaVhBbGxWczVqZGdUSm13cWZGdUE1QjFQZUpmTXNUXzlWMFViMDhSZm0tTHNpdDRydVRxRm80MlpWN0duRHlVQXpKenVxS1ljZTVpZGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.youm7.com",
+      "title": "اليوم السابع"
     }
   },
   {
@@ -290,13 +290,13 @@
     }
   },
   {
-    "title": "تفاصيل انتقال حمدالله إلى التعاون السعودي - المصري اليوم",
-    "description": "تفاصيل انتقال حمدالله إلى التعاون السعودي  المصري اليوم",
-    "published date": "Fri, 12 Jun 2026 11:19:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnczFqRk5FV2JJRTlxcXplTlRlYjFHQkVhMDVhOW5TUG9ZUWpxdHVvdy1FTW5qMlAzV3AxLTdrNXc2dDQydEZaT2dMaHJxQVp5RlhfT3l2ak9xVjROQ0lj0gFjQVVfeXFMUDQ3WV8yQndEY3o1dFRhSGFseDg5aVBLU2dBajM5NVNNWkdSbGZoc3N3T2ZUamw3dEFaaFdRZWRNcXN1eXg4Um9QMFVuR1JLREJnaHhMZW1Zc0tHMWdEYU5nLXhz?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "كيفية شراء تذاكر الدوري السعودي للمحترفين 2025/26: الأسعار والمباريات والفرق والمزيد - Goal.com",
+    "description": "كيفية شراء تذاكر الدوري السعودي للمحترفين 2025/26: الأسعار والمباريات والفرق والمزيد  Goal.com",
+    "published date": "Fri, 06 Mar 2026 08:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirwVBVV95cUxQcVd5RVBtZ2JTZDQ5cjh3MUZ6WFVpT1lZMkJDWk1lVHdONjNZcWd2LUt5anZIRWdoM0w2RWRxTldWRk4tbVJBZE5mZGpwR1BYNEtaSW5LelFoeGVLRHVyY2RVbGNnWWFkelhVTExLbkF3WjdKOWhKOTVjTmRxaVpLNmoyLVRLV2F4b2FBRVl1ZnNzY1ZCM0pqQkNGeHEzZGN4b1RZeEIwcmFzWG5WZTc3R1luWF9VdXhPRzZ2bTBrUDhadnJjYWFjYnhjUThTYUJ1ZEhlU2pib2NsblN1eXVtSVhrQUNUNk5TOHczTmRVc3VJMkZEdk9aU1NnV1UtMzZpWlRudnl2eUl2STdrX0FvUjA3V2dJZUJfcW50Q2FxeEdDMXZuS3FNNHFhcDdHYk1oYkhvUVdnUmFJZDZ0SUcyeEpiMmtOX28yRm84ZUswZW9HdnpDNVAzX2NOcmVyQXA1N3dZVGtpNkwtV3dOYnFLLTBWZGFnLXJmTGtkbUpKVjBfVEhNdVQ5WmN5ZXQ1VHJtYVE4TGpzTTFQa0duVlNUSFRONDc3SWt2aW95MlQtRGpacXA3QUJmQlJSQTVleFl5ZVo1bnBXQkVtMEVDRXhZcjYwV3JwTzVQOEgtbERvZDlzcWlNeEdxckN6QnRZZFVnMjhtWFdCYjItS0QtM0tjeVJBQ3VoQmRtNFBCMFdVaWJuallkY2xUaGhsZUMtbFhCLWtBbW5XOTI2WnVydHF3b0xiVE5HbVdtSTVZMW16QmI3dVZfQUxuZVdsX2d3el8zQUhaX2l3N3Zya1ZYR1MxUTlXVjhHNm5iOFFJWmtubnlfZkx5NmRicUcxWUNJM1ZPYVVXV1dSN2tFLWRPbDZiWTZBY3BkckFYMVExeW9ncGJCOVRYcHZZbnk4bjZURm8?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.almasryalyoum.com",
-      "title": "المصري اليوم"
+      "href": "https://www.goal.com",
+      "title": "Goal.com"
     }
   },
   {
@@ -310,13 +310,13 @@
     }
   },
   {
-    "title": "كيفية شراء تذاكر الدوري السعودي للمحترفين 2025/26: الأسعار والمباريات والفرق والمزيد - Goal.com",
-    "description": "كيفية شراء تذاكر الدوري السعودي للمحترفين 2025/26: الأسعار والمباريات والفرق والمزيد  Goal.com",
-    "published date": "Fri, 06 Mar 2026 08:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirwVBVV95cUxQcVd5RVBtZ2JTZDQ5cjh3MUZ6WFVpT1lZMkJDWk1lVHdONjNZcWd2LUt5anZIRWdoM0w2RWRxTldWRk4tbVJBZE5mZGpwR1BYNEtaSW5LelFoeGVLRHVyY2RVbGNnWWFkelhVTExLbkF3WjdKOWhKOTVjTmRxaVpLNmoyLVRLV2F4b2FBRVl1ZnNzY1ZCM0pqQkNGeHEzZGN4b1RZeEIwcmFzWG5WZTc3R1luWF9VdXhPRzZ2bTBrUDhadnJjYWFjYnhjUThTYUJ1ZEhlU2pib2NsblN1eXVtSVhrQUNUNk5TOHczTmRVc3VJMkZEdk9aU1NnV1UtMzZpWlRudnl2eUl2STdrX0FvUjA3V2dJZUJfcW50Q2FxeEdDMXZuS3FNNHFhcDdHYk1oYkhvUVdnUmFJZDZ0SUcyeEpiMmtOX28yRm84ZUswZW9HdnpDNVAzX2NOcmVyQXA1N3dZVGtpNkwtV3dOYnFLLTBWZGFnLXJmTGtkbUpKVjBfVEhNdVQ5WmN5ZXQ1VHJtYVE4TGpzTTFQa0duVlNUSFRONDc3SWt2aW95MlQtRGpacXA3QUJmQlJSQTVleFl5ZVo1bnBXQkVtMEVDRXhZcjYwV3JwTzVQOEgtbERvZDlzcWlNeEdxckN6QnRZZFVnMjhtWFdCYjItS0QtM0tjeVJBQ3VoQmRtNFBCMFdVaWJuallkY2xUaGhsZUMtbFhCLWtBbW5XOTI2WnVydHF3b0xiVE5HbVdtSTVZMW16QmI3dVZfQUxuZVdsX2d3el8zQUhaX2l3N3Zya1ZYR1MxUTlXVjhHNm5iOFFJWmtubnlfZkx5NmRicUcxWUNJM1ZPYVVXV1dSN2tFLWRPbDZiWTZBY3BkckFYMVExeW9ncGJCOVRYcHZZbnk4bjZURm8?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "تفاصيل انتقال حمدالله إلى التعاون السعودي - المصري اليوم",
+    "description": "تفاصيل انتقال حمدالله إلى التعاون السعودي  المصري اليوم",
+    "published date": "Fri, 12 Jun 2026 11:19:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnczFqRk5FV2JJRTlxcXplTlRlYjFHQkVhMDVhOW5TUG9ZUWpxdHVvdy1FTW5qMlAzV3AxLTdrNXc2dDQydEZaT2dMaHJxQVp5RlhfT3l2ak9xVjROQ0lj0gFjQVVfeXFMUDQ3WV8yQndEY3o1dFRhSGFseDg5aVBLU2dBajM5NVNNWkdSbGZoc3N3T2ZUamw3dEFaaFdRZWRNcXN1eXg4Um9QMFVuR1JLREJnaHhMZW1Zc0tHMWdEYU5nLXhz?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.goal.com",
-      "title": "Goal.com"
+      "href": "https://www.almasryalyoum.com",
+      "title": "المصري اليوم"
     }
   },
   {
@@ -490,16 +490,6 @@
     }
   },
   {
-    "title": "ترتيب هداف الدوري السعودي بعد هدفي رونالدو أمام ضمك - بطولات",
-    "description": "ترتيب هداف الدوري السعودي بعد هدفي رونالدو أمام ضمك  بطولات",
-    "published date": "Thu, 21 May 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBjRnZIelU4eDNUREtqeGZfbkpVZW1qNGgyQjZZUW5UejlmNDRqLXpETF92Tmd4TXYyLW1NamxmZm9HNEp1b3l2V0Fn0gFPQVVfeXFMT1JMUG9MaW9HRHcwQ1Q2bklXbXFDS0hSYmNLaEhhWlhEUlJLYi1oWGp0UWtLWjJuNmExZHpJYVRNbWduUVY0dUlHdlZQT1lKbw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.btolat.com",
-      "title": "بطولات"
-    }
-  },
-  {
     "title": "بعد الهاتريك ضد الخلود.. ترتيب بنزيما في جدول هدافي الدوري السعودي - إرم نيوز",
     "description": "بعد الهاتريك ضد الخلود.. ترتيب بنزيما في جدول هدافي الدوري السعودي  إرم نيوز",
     "published date": "Wed, 08 Apr 2026 07:00:00 GMT",
@@ -507,6 +497,16 @@
     "publisher": {
       "href": "https://www.eremnews.com",
       "title": "إرم نيوز"
+    }
+  },
+  {
+    "title": "ترتيب هداف الدوري السعودي بعد هدفي رونالدو أمام ضمك - بطولات",
+    "description": "ترتيب هداف الدوري السعودي بعد هدفي رونالدو أمام ضمك  بطولات",
+    "published date": "Thu, 21 May 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBjRnZIelU4eDNUREtqeGZfbkpVZW1qNGgyQjZZUW5UejlmNDRqLXpETF92Tmd4TXYyLW1NamxmZm9HNEp1b3l2V0Fn0gFPQVVfeXFMT1JMUG9MaW9HRHcwQ1Q2bklXbXFDS0hSYmNLaEhhWlhEUlJLYi1oWGp0UWtLWjJuNmExZHpJYVRNbWduUVY0dUlHdlZQT1lKbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.btolat.com",
+      "title": "بطولات"
     }
   },
   {
