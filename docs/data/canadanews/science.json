@@ -1,15 +1,5 @@
 [
   {
-    "title": "Remembering Professor Jeremy Schofield - University of Toronto",
-    "description": "Remembering Professor Jeremy Schofield  University of Toronto",
-    "published date": "Mon, 22 Jun 2026 18:32:18 GMT",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hOGRNV3RJMFAwTVVKTjJEYzBKcUZFQmxMdjZwRnNEOFJtUEctdDZCR3lnUlZ1Y012d1gzQWxneEZ2VllpSmp1UXV0S3N5dm9McXljWTRsU2oyNGVzal83YUoxRy1nQUJ4cVZlRjBadVI3NXlyZVdsdHd6T3U4RlU?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.artsci.utoronto.ca",
-      "title": "University of Toronto"
-    }
-  },
-  {
     "title": "NASA technical briefing: on-orbit repairs to Canadarm2 - canada.ca",
     "description": "NASA technical briefing: on-orbit repairs to Canadarm2  canada.caMedia Advisory - NASA technical briefing: on-orbit repairs to Canadarm2  Yahoo! Finance Canada",
     "published date": "Mon, 22 Jun 2026 19:01:56 GMT",
@@ -17,6 +7,16 @@
     "publisher": {
       "href": "https://www.canada.ca",
       "title": "canada.ca"
+    }
+  },
+  {
+    "title": "Remembering Professor Jeremy Schofield - University of Toronto",
+    "description": "Remembering Professor Jeremy Schofield  University of Toronto",
+    "published date": "Mon, 22 Jun 2026 18:32:18 GMT",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hOGRNV3RJMFAwTVVKTjJEYzBKcUZFQmxMdjZwRnNEOFJtUEctdDZCR3lnUlZ1Y012d1gzQWxneEZ2VllpSmp1UXV0S3N5dm9McXljWTRsU2oyNGVzal83YUoxRy1nQUJ4cVZlRjBadVI3NXlyZVdsdHd6T3U4RlU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.artsci.utoronto.ca",
+      "title": "University of Toronto"
     }
   },
   {
@@ -30,8 +30,8 @@
     }
   },
   {
-    "title": "Western CFMM imaging discovery hits 30 years - Western University",
-    "description": "Western CFMM imaging discovery hits 30 years  Western University",
+    "title": "Western’s Centre for Functional and Metabolic Mapping marks 30 years of imaging discovery - Western University",
+    "description": "Western’s Centre for Functional and Metabolic Mapping marks 30 years of imaging discovery  Western University",
     "published date": "Mon, 22 Jun 2026 14:42:15 GMT",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRHZKZGJlR01YU0ZyY1dHZ0JXMWYwSmJnTnhhVmNVWHdFUzVCZWVBNXYyaUhLNV8xd05yYlVoX3l6aWNFOWpHMlQtaXNrTDN0Tk1FS2VBVlFmV1NSbjJVT2tRLW5HVHNNeWNFaVdObmJqY1o4TWcwN1hoRjk0anlXQnUxOEd5MW5BNTVPWkJiOTVudlBVZGp5U0c4SWdJdWE3c0xtVUthekNoNVJuNmdwNXZqdzVwSzRPaE9aemFkRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -40,23 +40,33 @@
     }
   },
   {
-    "title": "Remember that star that was supposed to explode in 2024? It didn't, but it could still happen soon - CBC",
-    "description": "Remember that star that was supposed to explode in 2024? It didn't, but it could still happen soon  CBC",
+    "title": "Remember that star that was supposed to explode in 2024? It didn't, but it could still happen soon - cbc.ca",
+    "description": "Remember that star that was supposed to explode in 2024? It didn't, but it could still happen soon  cbc.ca",
     "published date": "Mon, 22 Jun 2026 08:00:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SRUxlRmRoTk9YeEJUTVFpcGh3Rzk1WlFoMEV3QzBjRWF4aFdmV0VNTVNueFN6bjFRYkJ5VEJibkRvSU9SSG9VMEhRMUF4OXA1dzhhS1lmbGlKcVdudW5hM3B4eTc0ak8xdm91Vw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.cbc.ca",
-      "title": "CBC"
+      "title": "cbc.ca"
     }
   },
   {
-    "title": "Are Asteroid-Mass Black Holes Hiding in the Cosmic Gamma-Ray Glow? - Universe Today",
-    "description": "Are Asteroid-Mass Black Holes Hiding in the Cosmic Gamma-Ray Glow?  Universe TodaySee more headlines & perspectives on Google News",
-    "published date": "Mon, 22 Jun 2026 14:52:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZnhuTDFpRGE4VkNKRkJvcmlxUF9jQk43bk1RcVpkNWhVZEp1cVppZURobHJ2c0k0LUZnSVM2QjBpdWtsZXRmdkxYRzNRQ1NzajVqRkd6TExRM3o5THlMcEFZem5OOUgyNDBCLXVGZFBIdTFMMDlEXzcxVmtHaVhYVWNQZVdkcW9FeWhBNmRrckFCR0paNHRUMVlSclh0c0FxZC1ZWENTVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "A Quasar at Cosmic Dawn Flickers into View - Universe Today",
+    "description": "A Quasar at Cosmic Dawn Flickers into View  Universe Today",
+    "published date": "Mon, 22 Jun 2026 20:26:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbk5CWGhRbnRUeHMxeThZS29VSUZHRVh1NUczcDVKNnRUMmowZmhyNUtvT091akI0WGVPdnNkV0NaVmI2elpMNVUyOUtUaWFFaTJQQ2dfLTBicFJLSWozSF80Ylg5a0c0LU5qdXJyT2Q1NEp5b0lnVmI3WldXSnN5cWV1dG8wQjg5?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.universetoday.com",
       "title": "Universe Today"
+    }
+  },
+  {
+    "title": "Are asteroid-mass black holes hiding in the cosmic gamma-ray glow? - Phys.org",
+    "description": "Are asteroid-mass black holes hiding in the cosmic gamma-ray glow?  Phys.orgAstrophysicists discover primordial black hole ‘winking’ at us from space  Futura, le média qui explore le monde",
+    "published date": "Mon, 22 Jun 2026 20:40:07 GMT",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hRWFGZlAtcmlYeGNBVU8xM0gzV3FwUncySlBfR0VLNXdoVDRtS0xnVmJtWkdsS1JJcEpDSFNHeFY0M1JpOTJFOVBoU0pPRWJkNzVSWVZvdzI2TTBBRDhsNXczQmlGajRSSkhMQ2xrd0wyNHBNRnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://phys.org",
+      "title": "Phys.org"
     }
   },
   {
@@ -90,6 +100,16 @@
     }
   },
   {
+    "title": "Another Early Universe Surprise from the JWST: A Mature Galaxy Cluster - Universe Today",
+    "description": "Another Early Universe Surprise from the JWST: A Mature Galaxy Cluster  Universe TodayNew JWST images of abnormally well-developed galaxy cluster open up the 'cosmic noon' frontier  Phys.orgJames Webb Space Telescope finds most distant galaxy cluster with gravitational lensing  eciks.org",
+    "published date": "Mon, 22 Jun 2026 19:19:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQWE5d1JIcWRvYnk1aHZTWk82dHFmSHpoQlZCcVVWcm0wc2FGelJENG1NSHFMc210dHdTRGhZVkZPRlpUVUJTcmJNaTJ6VDV3WHdnSFZmR1c4a3R1NzhZMGlhWTRwU0VQaEFJODl2U1ZhcU5qZlJsWkdPTE4wTmlnUEZONTc4Tzd6blJMSDJpUGFCN3dDemFYbFVab2hFbFhzTFdzVnBnRFRFemhY?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.universetoday.com",
+      "title": "Universe Today"
+    }
+  },
+  {
     "title": "Strawberry Moon will soon light up the night sky. When to look up - USA Today",
     "description": "Strawberry Moon will soon light up the night sky. When to look up  USA TodayLook up: Full 'Strawberry Moon' to illuminate Metro Vancouver skies  North Shore News",
     "published date": "Mon, 22 Jun 2026 10:10:21 GMT",
@@ -100,13 +120,13 @@
     }
   },
   {
-    "title": "Webb spots the birth of a giant galaxy and a supermassive black hole - Phys.org",
-    "description": "Webb spots the birth of a giant galaxy and a supermassive black hole  Phys.orgNew JWST images of abnormally well-developed galaxy cluster open up the 'cosmic noon' frontier  Phys.orgJames Webb Space Telescope finds most distant galaxy cluster with gravitational lensing  eciks.org",
-    "published date": "Mon, 22 Jun 2026 18:00:03 GMT",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5SdXlNQjVWRkZFdHRwTnJMRGpFUXVvVVBzR2JoR0FRZXBNbDVKcmRZaGl4NGQtSV9vQldnYmMyZ0RnanVlQTJ0cEdCVjNnYjFNVGZEOVFhZUs1OS15N190Qjk5bzM3MURGc3dNcl9QLXppSFJCOTN5V3Yxaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Best meteor shower of year visible over Ontario skies next month - INsauga",
+    "description": "Best meteor shower of year visible over Ontario skies next month  INsaugaA bright Perseid meteor appears in the northern sky during the Perseid meteor shower on Aug.12, 2021.  Arizona Daily Sun",
+    "published date": "Sun, 21 Jun 2026 19:42:47 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZThCcVlFeTBKaFdqVGY1VnZXbXZ2WFJWbVhQekdtTXZ5V293ZFhtX0h2OHVCTmxHd3BPZkJBRVlHMDF6VWptel9TV2NDY2xjZHFibURxT2dEcFB4cTJXdHlxMWJkYXVIY3pBSnE3cEt5TzZ4UlJaUmxael9TSEhXNTdVU05QNnNqQVdsX3RIUFdXSkU?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://phys.org",
-      "title": "Phys.org"
+      "href": "https://www.insauga.com",
+      "title": "INsauga"
     }
   },
   {
@@ -117,16 +137,6 @@
     "publisher": {
       "href": "https://www.skyatnightmagazine.com",
       "title": "BBC Sky at Night Magazine"
-    }
-  },
-  {
-    "title": "Best meteor shower of year visible over Ontario skies next month - INsauga",
-    "description": "Best meteor shower of year visible over Ontario skies next month  INsaugaA bright Perseid meteor appears in the northern sky during the Perseid meteor shower on Aug.12, 2021.  Arizona Daily Sun",
-    "published date": "Sun, 21 Jun 2026 19:42:47 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZThCcVlFeTBKaFdqVGY1VnZXbXZ2WFJWbVhQekdtTXZ5V293ZFhtX0h2OHVCTmxHd3BPZkJBRVlHMDF6VWptel9TV2NDY2xjZHFibURxT2dEcFB4cTJXdHlxMWJkYXVIY3pBSnE3cEt5TzZ4UlJaUmxael9TSEhXNTdVU05QNnNqQVdsX3RIUFdXSkU?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.insauga.com",
-      "title": "INsauga"
     }
   },
   {
@@ -150,26 +160,6 @@
     }
   },
   {
-    "title": "Industrial fisheries discarded 80,000 metric tons of fish from 1950 to 2022, study finds - Phys.org",
-    "description": "Industrial fisheries discarded 80,000 metric tons of fish from 1950 to 2022, study finds  Phys.org",
-    "published date": "Mon, 22 Jun 2026 15:30:02 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWDVLVms2ZlhLbjlTQUhIbU16UWFuZ0EzLWVWelU5OGxwSUhyVjlIVlpTVDVqaEZOYkVQM2l6dHlaVTZXZGQzN0NEYU1GM1lFdFB6Z00zZHF1d0dtTWNEZjEwS19WbmtqOWJscDd3cUJzaDM5dW9wSk1KZmhtTEpxWnVtZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://phys.org",
-      "title": "Phys.org"
-    }
-  },
-  {
-    "title": "The Sun may not engulf Earth after all, scientists say - Kenora Miner & News",
-    "description": "The Sun may not engulf Earth after all, scientists say  Kenora Miner & NewsSee more headlines & perspectives on Google News",
-    "published date": "Sun, 21 Jun 2026 12:29:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObWRoTGdGd1pyRndxSWV1Qm90a1F1amU2THdOMlFxc2htcVJFaXhONkdSUDNtMkdacVgyejMtX0RyZ0pDM2EyTk5PSDZ0Qkt1bTYzaTFXcGZLLVZtcFlOQ2pScVp5NlVPWUp3LUdsWVVwWWFPZWpPaTFqc1U1ZFltS1c3RHcxa2o4R29RYXIxLVhvOGN5aGtWaHhtMnpVaGNLZ1JYUzNqZWdzVnVEVXc4MmZDZ09MSHVTSFBMTmdxTFp4V3haY3h0LUxKTXBXYVlYdHFVOTNCbkRaS3M?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.kenoraminerandnews.com",
-      "title": "Kenora Miner & News"
-    }
-  },
-  {
     "title": "The Sky Today on Sunday, June 21: A summertime lineup - Astronomy Magazine",
     "description": "The Sky Today on Sunday, June 21: A summertime lineup  Astronomy MagazineThis Week's Sky at a Glance, June 19 – 28  Sky & Telescope",
     "published date": "Sun, 21 Jun 2026 08:00:31 GMT",
@@ -187,6 +177,26 @@
     "publisher": {
       "href": "https://phys.org",
       "title": "Phys.org"
+    }
+  },
+  {
+    "title": "Industrial fisheries discarded 80,000 metric tons of fish from 1950 to 2022, study finds - Phys.org",
+    "description": "Industrial fisheries discarded 80,000 metric tons of fish from 1950 to 2022, study finds  Phys.org",
+    "published date": "Mon, 22 Jun 2026 15:30:02 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWDVLVms2ZlhLbjlTQUhIbU16UWFuZ0EzLWVWelU5OGxwSUhyVjlIVlpTVDVqaEZOYkVQM2l6dHlaVTZXZGQzN0NEYU1GM1lFdFB6Z00zZHF1d0dtTWNEZjEwS19WbmtqOWJscDd3cUJzaDM5dW9wSk1KZmhtTEpxWnVtZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://phys.org",
+      "title": "Phys.org"
+    }
+  },
+  {
+    "title": "The Sun may not engulf Earth after all, scientists say - Kenora Miner & News",
+    "description": "The Sun may not engulf Earth after all, scientists say  Kenora Miner & NewsSee more headlines & perspectives on Google News",
+    "published date": "Sun, 21 Jun 2026 12:29:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObWRoTGdGd1pyRndxSWV1Qm90a1F1amU2THdOMlFxc2htcVJFaXhONkdSUDNtMkdacVgyejMtX0RyZ0pDM2EyTk5PSDZ0Qkt1bTYzaTFXcGZLLVZtcFlOQ2pScVp5NlVPWUp3LUdsWVVwWWFPZWpPaTFqc1U1ZFltS1c3RHcxa2o4R29RYXIxLVhvOGN5aGtWaHhtMnpVaGNLZ1JYUzNqZWdzVnVEVXc4MmZDZ09MSHVTSFBMTmdxTFp4V3haY3h0LUxKTXBXYVlYdHFVOTNCbkRaS3M?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.kenoraminerandnews.com",
+      "title": "Kenora Miner & News"
     }
   },
   {
@@ -240,13 +250,23 @@
     }
   },
   {
-    "title": "High-severity fires burn 30 times more acreage than 40 years ago, researchers find - Phys.org",
-    "description": "High-severity fires burn 30 times more acreage than 40 years ago, researchers find  Phys.orgThe Deadliest Kind of Wildfire Now Dominates California’s Forests  Gizmodo",
-    "published date": "Mon, 22 Jun 2026 19:00:12 GMT",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqRDBqeWMyQnY4OVFKRWppc0xIVnBoSHV5Ml92TUNRRFdpLXNrb1RPTTNXRDhZQXA5cWRPZVU5N01lNXVWZ1ctLTRHaUV3cXRYcmJadzJrUGVVV2pnSTUwRXI1OUJ0NExIOWU5VEt1UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "New Study Warns Arctic Permafrost Could Become a Major Carbon Source Earlier Than Expected - High North News",
+    "description": "New Study Warns Arctic Permafrost Could Become a Major Carbon Source Earlier Than Expected  High North NewsHidden geological process offsets carbon emissions from thawing permafrost  ScienceDailyThawing Permafrost Not Only Emits CO2, It Absorbs it Too, Shows Landmark Study  Good News Network",
+    "published date": "Mon, 22 Jun 2026 09:45:28 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd0VzRWpPSnNnTk8wSFlSOXdwZ0hQUW1BU25ZblBUSzF3ZUNiM2lVWkRxSWNaaWp0b2ZVREJmYzYyQl9ibWpNUzJVZ21WQ1VDT3UzMkpXSDZnbVpkWHE2UTNVV2M0d2lDbks0X093NFMyUWwyWmctc2FrcEFmNGVlVEphRENVVzVzTlpCVFRhT2NfNTFGYzZTdmQ1aEpmX1FuWXRramtfUmxzUTc0WHJjRlJiSTRwUDVlRzBDamNNT25Bb3EzMFpFSUhkVWJKLXJH?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://phys.org",
-      "title": "Phys.org"
+      "href": "https://en.highnorthnews.com",
+      "title": "High North News"
+    }
+  },
+  {
+    "title": "Researchers Detail Costs Of Simulating Quantum Systems With New Framework - Quantum Zeitgeist",
+    "description": "Researchers Detail Costs Of Simulating Quantum Systems With New Framework  Quantum Zeitgeist",
+    "published date": "Mon, 22 Jun 2026 22:57:34 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ3hVNGYzZmpSMUtzdDNrOXdzV2pRTXZ3MUVkNDZodHpXbDQ5SkJfRGdIbFJiWkpQUDh0RlBab3lNY1ZJV1Nibjl5STd3NldENDRIbG00MTVBa0NPWjdKUVJzZFZocFdxUURsd2ZiWEdmNmdtZUJYajVQaU9UVkc2b1BlcEYzYzd4WWsycw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://quantumzeitgeist.com",
+      "title": "Quantum Zeitgeist"
     }
   },
   {
@@ -254,6 +274,26 @@
     "description": "Astronomers map a magnetic 'skeleton' funneling gas into a stellar nursery  Phys.org",
     "published date": "Mon, 22 Jun 2026 20:20:09 GMT",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdnU3UDYydHgwaWZZMHdGWmN0LXVoMDY1dzYyNkpaVnh2WUw1OUY1dVVDdHI5QUk5bWJFNVRjczJjWEwyUmdEV3BQdGNUUUhaLVU4SHhvR21kNlV4dWRKd2o2SVFWaF9NLVhtM1h2bmNoRGpQaWU5c2tyVVRxbnR0bjJVbVM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://phys.org",
+      "title": "Phys.org"
+    }
+  },
+  {
+    "title": "Modeling nuclear fusion at lightning speed - Phys.org",
+    "description": "Modeling nuclear fusion at lightning speed  Phys.orgThanks to AI, a Chinese startup has figured out the priciest fusion energy bottleneck  Digital Trends",
+    "published date": "Mon, 22 Jun 2026 19:40:06 GMT",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90dFZGWGNkaWJlN2s0N1VIMERxZncxQm5aQlJmaThzU2RXUnMzQkJZZjY1YTFZSHFpN3h5Yk1Oc0d0NEx2c09xQjhQOUhrZVlIazVGQWQ0SmhiR1hDbE9UTHkzdXhuRWxvLTVJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://phys.org",
+      "title": "Phys.org"
+    }
+  },
+  {
+    "title": "Chaotic polymer vibrations may unlock stronger, flexible thermal insulators - Phys.org",
+    "description": "Chaotic polymer vibrations may unlock stronger, flexible thermal insulators  Phys.org",
+    "published date": "Mon, 22 Jun 2026 22:30:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaEZoWnpUVkdWelRJbjllRXp6cW1kV1ZoNUF3VjlxY2dSSlVPMnJGUldNUE9tUnB6ckU5d2h5MV9MU2FYMEpiMXd5OGRxakdSNXdQS2hqR251SktYUlJJMGVmakR4bHZ3Y0tyYmRYWHkxeERyTFNZTHQxY1RBd1FZX0thb1V1UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://phys.org",
       "title": "Phys.org"
@@ -270,18 +310,8 @@
     }
   },
   {
-    "title": "Interstellar comet may be oldest object seen in our solar system, scientists say - The Guardian",
-    "description": "Interstellar comet may be oldest object seen in our solar system, scientists say  The GuardianNASA’s Webb Finds Clues to Ancient, Distant Origin of Comet 3I/ATLAS  NASA Science (.gov)Interstellar Comet 3I/ATLAS is almost as old as the universe itself  Scientific AmericanThe Chemistry of Interstellar Comet 3I/ATLAS Is Unlike Anything We've Ever Seen  ScienceAlert",
-    "published date": "Mon, 22 Jun 2026 16:55:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONHdKczl4cVRncW1tRlNUVmkzY2s1LW9nSmhYVVJyWFhfUkM1VVVpVXE3eUJQT2JHSFB5Mm5hVHZQWWJGeFpEcUR0d0VKeENoLVYzd3d4cVJndmpJcVJXbldoTk1wLTZUQkxvVExZLVZTN0E4T3JhdVB5WmNGeHRnM1gyZmFnXzdLTHI2bmE2NmE3RzBVOWVzSUNGbEdZbGJXczc4REpTNnhxTEdsX2JkcFB1bVZ6enVMTUhYZEVkNEtyenN6ZFE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theguardian.com",
-      "title": "The Guardian"
-    }
-  },
-  {
     "title": "This ball of stars named Terzan 5 may be one of the Milky Way's original building blocks - Space",
-    "description": "This ball of stars named Terzan 5 may be one of the Milky Way's original building blocks  SpaceThe Webb Telescope Has Captured Its First 'Bulge Fossil Fragment'  EngadgetWebb and Hubble reveal the history of a relic of Milky Way's formation  Phys.org",
+    "description": "This ball of stars named Terzan 5 may be one of the Milky Way's original building blocks  SpaceNASA Webb, Hubble Reveal History of Relic of Milky Way’s Formation  NASA Science (.gov)The Webb Telescope Has Captured Its First 'Bulge Fossil Fragment'  Engadget",
     "published date": "Mon, 22 Jun 2026 21:00:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSy1YQW5peF9SM3pfUS1tT2sxSFl1LTR0clY5RWRjSk1jak9hOHhYSEE5VFRvbTJMajhyM2NudjNoSGN3elVnTUgtZ3o0c2J1UDVkdGFmVlJLTUxTUnN0YVAyQi1wbl81TnU2NXBPV2hpMUdBVjFkVEFGSngyZTJXMmpVWmg0emJqYWt5ZHFFLWZURGxzNm5LSGpqOXhRTUJObkpLcWdzaFRmbVRJRUNrMXZLLW1YSnRwOU12N0paQnpUVzg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -290,23 +320,13 @@
     }
   },
   {
-    "title": "New Study Warns Arctic Permafrost Could Become a Major Carbon Source Earlier Than Expected - High North News",
-    "description": "New Study Warns Arctic Permafrost Could Become a Major Carbon Source Earlier Than Expected  High North NewsHidden geological process offsets carbon emissions from thawing permafrost  ScienceDailyThawing Permafrost Not Only Emits CO2, It Absorbs it Too, Shows Landmark Study  Good News Network",
-    "published date": "Mon, 22 Jun 2026 09:45:28 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd0VzRWpPSnNnTk8wSFlSOXdwZ0hQUW1BU25ZblBUSzF3ZUNiM2lVWkRxSWNaaWp0b2ZVREJmYzYyQl9ibWpNUzJVZ21WQ1VDT3UzMkpXSDZnbVpkWHE2UTNVV2M0d2lDbks0X093NFMyUWwyWmctc2FrcEFmNGVlVEphRENVVzVzTlpCVFRhT2NfNTFGYzZTdmQ1aEpmX1FuWXRramtfUmxzUTc0WHJjRlJiSTRwUDVlRzBDamNNT25Bb3EzMFpFSUhkVWJKLXJH?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Interstellar comet may be oldest object seen in our solar system, scientists say - The Guardian",
+    "description": "Interstellar comet may be oldest object seen in our solar system, scientists say  The GuardianInterstellar Comet 3I/ATLAS is almost as old as the universe itself  Scientific AmericanNASA’s Webb Finds Clues to Ancient, Distant Origin of Comet 3I/ATLAS  NASA Science (.gov)12 billion years old, this interstellar comet is older than our Solar System  The ConversationWas Methane a Signature of Life in 3I/ATLAS?  Avi Loeb – Medium",
+    "published date": "Mon, 22 Jun 2026 16:55:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONHdKczl4cVRncW1tRlNUVmkzY2s1LW9nSmhYVVJyWFhfUkM1VVVpVXE3eUJQT2JHSFB5Mm5hVHZQWWJGeFpEcUR0d0VKeENoLVYzd3d4cVJndmpJcVJXbldoTk1wLTZUQkxvVExZLVZTN0E4T3JhdVB5WmNGeHRnM1gyZmFnXzdLTHI2bmE2NmE3RzBVOWVzSUNGbEdZbGJXczc4REpTNnhxTEdsX2JkcFB1bVZ6enVMTUhYZEVkNEtyenN6ZFE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://en.highnorthnews.com",
-      "title": "High North News"
-    }
-  },
-  {
-    "title": "A quantum mechanics approach to artificial intelligence can improve cancer outcomes - The University of Utah",
-    "description": "A quantum mechanics approach to artificial intelligence can improve cancer outcomes  The University of Utah",
-    "published date": "Mon, 22 Jun 2026 21:23:16 GMT",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa19HNWgycExpMXQ5OU1sM29mVlBHMFpLbk05eWZmYTllbnFrMlo3STY0eFFXdW1acTNYRWdkM2hxQmFpa2lsa01kczlCQnphQTlHZkdCeHMxVFNVNl9hVWhldmEwZU56RlNCWGFEN0xGWDlSbHpFT3dUMkdPaHl3YkljNk9YQWdnWjVreldSdmJKUWNLS3llcEE2M20yMWQ0NmgxbERWSkptcGxmLXFyYjVYZDNaZEVoMGtobWdnSmU1bmJrQUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://attheu.utah.edu",
-      "title": "The University of Utah"
+      "href": "https://www.theguardian.com",
+      "title": "The Guardian"
     }
   },
   {
@@ -314,6 +334,86 @@
     "description": "Room-temperature device synchronizes distant laser spots into single coherent 'supermode'  Phys.org",
     "published date": "Mon, 22 Jun 2026 21:10:01 GMT",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT2RCel83cU9LeEhoZTFDdHJJUjhiN3puM09GVndTdlZ0ZmRmZmRQWHJTc19CZ2hiclNMZEY4X2twMVdlRWh4aEN1MmRaUzlHZjhYWl9ucjgteUl2bEUyeEJ5d1ZJZHByWk9ONDRlaklGQ3A1Ymt5QW03Q0hDUXlORVVPNVpoUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://phys.org",
+      "title": "Phys.org"
+    }
+  },
+  {
+    "title": "NASA Safety Panel Praises Space Station For Air Leak Actions - Aviation Week",
+    "description": "NASA Safety Panel Praises Space Station For Air Leak Actions  Aviation WeekNASA Almost Evacuated The ISS Because Russia Wanted To Drill The Hull And Use A Saw To Fix A Leak  JalopnikRussia appears set to finally address long-term, serious space station cracks  Ars TechnicaWhat Happens If Russia Shuts The Door On Their Leaky ISS Module?  HackadayTension Flared on Space Station as Russia Threatened to Drill and Saw Into Wall, Prompting NASA Astronauts to Take Shelter  Futurism",
+    "published date": "Mon, 22 Jun 2026 23:11:11 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQy1iUVJEZVJxMVBKVjItYUlrblRKWTRRckwzSGVPdnNFNnp6cFlFblEzTmRUZnVid28tZ2xWaGdsT2RGSkxWUHNhXzJsVEFHZ2E0bHZQa01RMU1VaVBpa2d2dWtjUjRUUjk4YWpZZk1weWs3aW1SX3k3QUNUdWZWZk5FRjhtd3RWd2laYTZDdTIwYkhsbmYwRjdRbHk0Z2JNMUU2VUF6TkY?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://aviationweek.com",
+      "title": "Aviation Week"
+    }
+  },
+  {
+    "title": "NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure - HPCwire",
+    "description": "NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure  HPCwire",
+    "published date": "Mon, 22 Jun 2026 23:01:25 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNVhJckNpeldETTBRMGswNUlKX1ZvWG5qdUpYVVBkMUxzLXJReVB3LVlmSmh1bEpQcFBmSklZVjhNdFVDMll2RXBfcmc1N05tRlB4VE96clRFUzVsLXktb0s3MlBMRklES3VLUUJDLVRSTzBhNzlJazBQaVFsNUpYUWZyRjZkbUdTbXVrOG5faG9sd3BvbHpUWVg5M3I0a01SSndfVkhPbmRXYTJnMHRhTEpyaEhNMDMwNk41UEotXzZPZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.hpcwire.com",
+      "title": "HPCwire"
+    }
+  },
+  {
+    "title": "EU risks a crisis if it fails to halt pollinator loss, researchers warn - Phys.org",
+    "description": "EU risks a crisis if it fails to halt pollinator loss, researchers warn  Phys.org",
+    "published date": "Mon, 22 Jun 2026 22:40:03 GMT",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KUTM1MF9VVE8zb0ZTVFpOSkVrN2paendtVnhpZXluT18wdlVrY1d0VmNxT0x5aEdKUFZYVjJra2s0eUY2Vmx2ajFUY2tjNHZSVldjN0N6YVpCOXdrdWJjN1J0V0hTalNodjU1X01HTFFoeTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://phys.org",
+      "title": "Phys.org"
+    }
+  },
+  {
+    "title": "Thermal Transitions Reveal Singularities And Changes In Quantum Systems - Quantum Zeitgeist",
+    "description": "Thermal Transitions Reveal Singularities And Changes In Quantum Systems  Quantum Zeitgeist",
+    "published date": "Mon, 22 Jun 2026 22:07:34 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYnF2UFA5d2VaWVBBUnVnc2xieHJpaVh2eGJuNkdRMjRhMW1EUUZMVG9EYk5IRGZ1dDU4T3diLW43SHZBQi1LOTlXcjZfOHRnbWpkSFVBb3hwZG9pOTNQYTZqU0FHc3N1a2hKUkY1ZGFSOVhZZHVWNXF1bU0xYTZMeklLR08yWnUzbE1ITUhPSEN0ank2aVdVdXdB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://quantumzeitgeist.com",
+      "title": "Quantum Zeitgeist"
+    }
+  },
+  {
+    "title": "NASA's Roman Space Telescope arrives in Florida ahead of SpaceX Falcon Heavy launch this summer - Space",
+    "description": "NASA's Roman Space Telescope arrives in Florida ahead of SpaceX Falcon Heavy launch this summer  SpaceNASA’s Nancy Grace Roman Space Telescope arrives in Florida  Spaceflight Now1,000 times faster than Hubble: Up close with the NASA space telescope meant to unlock the cosmos  NBC NewsExperience the Launch of NASA’s Roman Space Telescope  NASA (.gov)",
+    "published date": "Mon, 22 Jun 2026 20:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPLU00M0d5NEJLTExDeXl4Zkg0TWFrSTV4RHF1Vk1ONXE3RTlGUDJYNnVLY1MtZTlRQkwzNHZmMWZES1otS19xbUItOGg5ZFpmSlVKTWJWZjhXOWFhUHNpeXAxYkNsTmJPR0d0Q3VTeHZBMFdkck9tQXdwZEs1UWVET2l4dkZCWk1KSm5fbmRyZFRHU3VlTVFMQzhFNmpOYkVEUDdOMHN2YURaMUt6TnJLZXNPa1dhVTB6WWlra01iNHpxSFpzLXluMU82SldXY2NEYmx2Tm4wZlF3dGItR09LZEQyNE4wUTJzU3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.space.com",
+      "title": "Space"
+    }
+  },
+  {
+    "title": "SpaceX tests new vehicle, Swift gets a lift - Astronomy Magazine",
+    "description": "SpaceX tests new vehicle, Swift gets a lift  Astronomy MagazineStarfall Demo Mission  SpaceXSpaceX launching its 1st 'Starfall' reentry capsule early on June 23: Watch it live  SpaceHow to Watch SpaceX Launch Its Secretive Starfall Capsule  GizmodoSpaceX is launching a secret spacecraft that could change how things are made in space  Teslarati",
+    "published date": "Mon, 22 Jun 2026 20:12:28 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTUxnZXBFSEFmWWwtc0VzSXZ3TnRsMzVkM3MtbWpNN21WR2pZSEljQWtqNm92X0RYcHByUGFvZzFXT2xySjdCQ0EwMEp3LTVtS0FYLUR6OUU0V0ZoNkxTbVA0VEZ4NUxpdmxGZkhVUkFzQ2NGVGcwWF9KV0tmSmpzUDMzWjdOUVlvZkcxVERRd3RHbVMxd1RkWktfVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.astronomy.com",
+      "title": "Astronomy Magazine"
+    }
+  },
+  {
+    "title": "Artificial light Is keeping reef fish awake, and the effects may ripple across coral reefs - EurekAlert!",
+    "description": "Artificial light Is keeping reef fish awake, and the effects may ripple across coral reefs  EurekAlert!",
+    "published date": "Mon, 22 Jun 2026 20:31:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82S01SbTNHS1R4d1hjcmRsa1cwUWdtS1JUWnRJMkJxazRQbnlobGFDMGN4SmpYVko3NGIzSGZOMFBpLWk0S0N3M3J5U3RSVjRoNFJmM0dSckpZemFv?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.eurekalert.org",
+      "title": "EurekAlert!"
+    }
+  },
+  {
+    "title": "How solar wind forecasting will help define heliosphere's boundaries - Phys.org",
+    "description": "How solar wind forecasting will help define heliosphere's boundaries  Phys.org",
+    "published date": "Mon, 22 Jun 2026 22:10:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uZVVGTjhGZXZCdnpSQU5nd1pXUzhqRVRQanctRXFsNEtfMWtBNkxMaUZKaE90WmtHMTJGYW8waWltWmlEaU43dy1uUFBLMHI5TUMyY2Y0TjloQ2VLRGx4S2JtbFhkbURTcURIa0dXSHU?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://phys.org",
       "title": "Phys.org"
@@ -330,23 +430,13 @@
     }
   },
   {
-    "title": "NASA's Roman Space Telescope arrives in Florida ahead of SpaceX Falcon Heavy launch this summer - Space",
-    "description": "NASA's Roman Space Telescope arrives in Florida ahead of SpaceX Falcon Heavy launch this summer  SpaceNASA’s Nancy Grace Roman Space Telescope arrives in Florida  Spaceflight Now1,000 times faster than Hubble: Up close with the NASA space telescope meant to unlock the cosmos  NBC NewsExperience the Launch of NASA’s Roman Space Telescope  NASA (.gov)",
-    "published date": "Mon, 22 Jun 2026 20:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPLU00M0d5NEJLTExDeXl4Zkg0TWFrSTV4RHF1Vk1ONXE3RTlGUDJYNnVLY1MtZTlRQkwzNHZmMWZES1otS19xbUItOGg5ZFpmSlVKTWJWZjhXOWFhUHNpeXAxYkNsTmJPR0d0Q3VTeHZBMFdkck9tQXdwZEs1UWVET2l4dkZCWk1KSm5fbmRyZFRHU3VlTVFMQzhFNmpOYkVEUDdOMHN2YURaMUt6TnJLZXNPa1dhVTB6WWlra01iNHpxSFpzLXluMU82SldXY2NEYmx2Tm4wZlF3dGItR09LZEQyNE4wUTJzU3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "A quantum mechanics approach to artificial intelligence can improve cancer outcomes - The University of Utah",
+    "description": "A quantum mechanics approach to artificial intelligence can improve cancer outcomes  The University of Utah",
+    "published date": "Mon, 22 Jun 2026 21:23:16 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa19HNWgycExpMXQ5OU1sM29mVlBHMFpLbk05eWZmYTllbnFrMlo3STY0eFFXdW1acTNYRWdkM2hxQmFpa2lsa01kczlCQnphQTlHZkdCeHMxVFNVNl9hVWhldmEwZU56RlNCWGFEN0xGWDlSbHpFT3dUMkdPaHl3YkljNk9YQWdnWjVreldSdmJKUWNLS3llcEE2M20yMWQ0NmgxbERWSkptcGxmLXFyYjVYZDNaZEVoMGtobWdnSmU1bmJrQUE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.space.com",
-      "title": "Space"
-    }
-  },
-  {
-    "title": "Artificial light Is keeping reef fish awake, and the effects may ripple across coral reefs - EurekAlert!",
-    "description": "Artificial light Is keeping reef fish awake, and the effects may ripple across coral reefs  EurekAlert!",
-    "published date": "Mon, 22 Jun 2026 20:31:01 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82S01SbTNHS1R4d1hjcmRsa1cwUWdtS1JUWnRJMkJxazRQbnlobGFDMGN4SmpYVko3NGIzSGZOMFBpLWk0S0N3M3J5U3RSVjRoNFJmM0dSckpZemFv?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.eurekalert.org",
-      "title": "EurekAlert!"
+      "href": "https://attheu.utah.edu",
+      "title": "The University of Utah"
     }
   },
   {
@@ -360,13 +450,23 @@
     }
   },
   {
-    "title": "Webb Telescope captures 'sparkling' stars being born in new image - upi.com",
-    "description": "Webb Telescope captures 'sparkling' stars being born in new image  upi.comJames Webb telescope finds a cosmic cloud of creation buried in the Sword of Orion — Space photo of the week  Live ScienceStages of Star Formation  NASA (.gov)",
-    "published date": "Mon, 22 Jun 2026 19:18:28 GMT",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZQjZfTC11N1EyUmlkTURBR2ZrNy1rUUVnamFIRFU5ZGdhUDdkd0pRT0F2MkhuN0NsZVA3d2lYN1VycEpzc0E0UzF5ZTJaUTFrSUVoTVZpSkpyYlkzYkdUTHNIQjI2OURzWFp2V19EdHpqMlg3VG5TUFJkc0bSAYIBQVVfeXFMTlBKd3NPSFltVWotNE42MEloN0Y0QVF2ZEs0V2t0WjVoTzdGbG0wZWpCOHQzREVtbThLX3FKUDZzVV9mRnpLVmpwYVZmanRmeld4Rlh6Ty1TbHlSb09OLVBNQ3JwRndfaTVaclBCTjU5YnBrZnBKbDJFNFRDYmdGOWRGdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "How cyanobacteria developed photosynthetic membranes over the course of evolution - Phys.org",
+    "description": "How cyanobacteria developed photosynthetic membranes over the course of evolution  Phys.org",
+    "published date": "Mon, 22 Jun 2026 21:50:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV0JpckNWeWo0UlRKbVpCX2tUX1lNRzl6UHIxbzRXUHVfbWRMWUpyYWNlbFhRdmNOemFDNm1YVUJBaktPTHhmMlJCd0d6VVRUTXRMa0R4ck1Xd0d1LWpzQ3prNDQ0aFRITDJPNDF0bGx4TXlwM2lrX1hQZjF4R3JPaGstR2hlNkNWTzhR?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.upi.com",
-      "title": "upi.com"
+      "href": "https://phys.org",
+      "title": "Phys.org"
+    }
+  },
+  {
+    "title": "James Webb Space Telescope captures the star-forming clouds of Orion A - Space",
+    "description": "James Webb Space Telescope captures the star-forming clouds of Orion A  SpaceJames Webb telescope finds a cosmic cloud of creation buried in the Sword of Orion — Space photo of the week  Live ScienceWebb Telescope captures 'sparkling' stars being born in new image  upi.comStages of Star Formation  NASA (.gov)",
+    "published date": "Mon, 22 Jun 2026 14:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPOWN5em5LNWFrNWl6YzdtWUVELXdlLWNUbnM2dVRncmY2RnVBSGNOalhHeDFWSndMTjBnT1ZkZUdxOHhObHBkVXV4d1lTckRTcUdENHk3YWx4cWhoM01NbFpwcjVwT0tKZUxLWUMtU3JRWlF2NmtCZGx4V1hic1ZjRVFwRXNhYTQyTDdOcXNsTXJjVUlyVTNJMzBoV1ByZlVUWkFPNU1HcnR1YlJ6VlBkUi1LZHVfdHlacFItMTRmS3MxRnJtX29nZ2FHZ1dGcEkxUnF0QU80ZGVHVllYdk9aR2RZVVRTTFJoc3cyaUhuZ2hPbGJOVGVCem9MYUZQRW1ZMU5vN29xYmZ5MUVzRUI1WllQcEdlSlU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.space.com",
+      "title": "Space"
     }
   },
   {
@@ -380,30 +480,10 @@
     }
   },
   {
-    "title": "SpaceX tests new vehicle, Swift gets a lift - Astronomy Magazine",
-    "description": "SpaceX tests new vehicle, Swift gets a lift  Astronomy MagazineStarfall Demo Mission  SpaceXHow to Watch SpaceX Launch Its Secretive Starfall Capsule  GizmodoSpaceX is launching a secret spacecraft that could change how things are made in space  Teslarati",
-    "published date": "Mon, 22 Jun 2026 20:12:28 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTUxnZXBFSEFmWWwtc0VzSXZ3TnRsMzVkM3MtbWpNN21WR2pZSEljQWtqNm92X0RYcHByUGFvZzFXT2xySjdCQ0EwMEp3LTVtS0FYLUR6OUU0V0ZoNkxTbVA0VEZ4NUxpdmxGZkhVUkFzQ2NGVGcwWF9KV0tmSmpzUDMzWjdOUVlvZkcxVERRd3RHbVMxd1RkWktfVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.astronomy.com",
-      "title": "Astronomy Magazine"
-    }
-  },
-  {
     "title": "Behavioral flexibility in foraging habits may help animals survive - Phys.org",
     "description": "Behavioral flexibility in foraging habits may help animals survive  Phys.orgHow Habits Help Animals Thrive and Survive  Bioengineer.org",
     "published date": "Mon, 22 Jun 2026 20:20:07 GMT",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTkFJbi1uWXZ1SWQwMzVvQ0NIWUVqTUpZb3k3WUNxZjhHcEMxN1EzNlZkNlZPWmhlazVfQU5pWDVVSDNUNVJmUnNCcXIxVW1Jam9IakhDWURBUFNsOU9YQjZVczlUSDhyYVlaQzJEQTU2QTRvbXZyRFE5cHdlMmtqbUZqMlZyZ0ND?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://phys.org",
-      "title": "Phys.org"
-    }
-  },
-  {
-    "title": "How cyanobacteria developed photosynthetic membranes over the course of evolution - Phys.org",
-    "description": "How cyanobacteria developed photosynthetic membranes over the course of evolution  Phys.org",
-    "published date": "Mon, 22 Jun 2026 21:50:01 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV0JpckNWeWo0UlRKbVpCX2tUX1lNRzl6UHIxbzRXUHVfbWRMWUpyYWNlbFhRdmNOemFDNm1YVUJBaktPTHhmMlJCd0d6VVRUTXRMa0R4ck1Xd0d1LWpzQ3prNDQ0aFRITDJPNDF0bGx4TXlwM2lrX1hQZjF4R3JPaGstR2hlNkNWTzhR?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://phys.org",
       "title": "Phys.org"
@@ -450,8 +530,28 @@
     }
   },
   {
+    "title": "A Source of Mysterious Repeating Radio Signals From Space Has Been Identified - WIRED",
+    "description": "A Source of Mysterious Repeating Radio Signals From Space Has Been Identified  WIREDWeird signals keep reaching Earth from across the Galaxy – and we may finally have the key to reading them  BBC Science Focus Magazine",
+    "published date": "Mon, 22 Jun 2026 22:15:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRUxKTGNTWjRoZUF0TFlER2VvM3JGQ3pmNURKWlExSlV0bC1PR0RWSlFNOThuNnY5ZkZpVXdJSi1Da2hzSDhYZ0t5ZWk1N2dBbmpDeUlldTFpZHdCQ1VONkwzYk5TZHA3SmhabDU2TVljeGZGNWNJZ3huYkFiRjA4STdsNUhTWEkxdlRzVEprQW94ZDNzT0U3bEhkSWFiYzZfbUhwVlpMUHV6dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.wired.com",
+      "title": "WIRED"
+    }
+  },
+  {
+    "title": "Newly described Australian ballista spider builds a spring-loaded snare to catch a single ant species - EurekAlert!",
+    "description": "Newly described Australian ballista spider builds a spring-loaded snare to catch a single ant species  EurekAlert!See more headlines & perspectives on Google News",
+    "published date": "Mon, 22 Jun 2026 18:13:26 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WeTlUZDZWTUtQNVJzUHZiMUVSWURJdG9ObkFrenU0eWJYSzYyd1Rzb3dVcG1hWi0ySE4wRWFBYVlMVXRrdVp2U2tpYnBla1pmd2RFa3phTXBudVJf?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.eurekalert.org",
+      "title": "EurekAlert!"
+    }
+  },
+  {
     "title": "NASA To Study Space Weather Impact On Earth’s Atmosphere - Aviation Week",
-    "description": "NASA To Study Space Weather Impact On Earth’s Atmosphere  Aviation WeekNASA uses the DAPHNE Mission to improve space weather forecasting  Open Access GovernmentNASA Mission to Study Space Weather Impacts of Earth’s Atmosphere  NASA (.gov)NASA selects mission to study space weather interaction with Earth’s atmosphere  SpaceNews",
+    "description": "NASA To Study Space Weather Impact On Earth’s Atmosphere  Aviation WeekNASA uses the DAPHNE Mission to improve space weather forecasting  Open Access GovernmentNASA selects mission to study space weather interaction with Earth’s atmosphere  SpaceNewsNASA Mission to Study Space Weather Impacts of Earth’s Atmosphere  NASA (.gov)",
     "published date": "Mon, 22 Jun 2026 17:50:13 GMT",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaXF1Z1Z3YVRSOGd5bF9OdXN3YUdiMWx5UHo4TGw4SWplbmk3MTRoUzFpSWE3MTFyZ0VQci02WDJDWjd1VEFsdmVRUWJWZUFpamlNaGwxU096S1BLUFBEOUZlbUc4T0NsbHpNS2kxYy01OWVOVHgzSUFyTF9HMDk1ZUNuWHUyaVpiR3d6YW5mWExTeGpWWnJ4YjNXdTZSczg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -461,7 +561,7 @@
   },
   {
     "title": "Ancient mud drilled from Antarctic ice holds clues to future sea-level rise - Phys.org",
-    "description": "Ancient mud drilled from Antarctic ice holds clues to future sea-level rise  Phys.orgAntarctica is offering 30 to 50 years' worth of warning on sea level rise, models suggest  Phys.orgEmergent decadal predictability in Antarctic contribution to sea-level rise  Nature",
+    "description": "Ancient mud drilled from Antarctic ice holds clues to future sea-level rise  Phys.orgScientists say the West Antarctic Ice Sheet could collapse with very little additional warming and the four metres of sea level rise that would follow cannot be stopped once it begins  Space DailyAntarctica is offering 30 to 50 years' worth of warning on sea level rise, models suggest  Phys.orgEmergent decadal predictability in Antarctic contribution to sea-level rise  Nature",
     "published date": "Mon, 22 Jun 2026 15:20:01 GMT",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hdG53MnBhOVZ5R1N5UE1DeFRDMlZoak13T2RKUXRRck1WVEl0dFctNXhmbDRRcXlYbExwUmtqZG15TGV2aXM1eVV2LW1WZXRKblZBbkktN2RZM25OWHJJazdUQXNObFR3Z2ZpOThFTDB1MW5SQmhN?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -470,8 +570,18 @@
     }
   },
   {
+    "title": "How thousands of sperm squeeze into a space 10 times smaller without getting tangled - EL PAÍS English",
+    "description": "How thousands of sperm squeeze into a space 10 times smaller without getting tangled  EL PAÍS EnglishFruit fly sperm is enormous  Popular ScienceHow thousands of nature's longest sperm squeeze into a tiny fruit fly  Phys.org",
+    "published date": "Mon, 22 Jun 2026 18:22:59 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeVJ0Nkc5b3RncFZPSVNkeVVqSFp5emZ1Ri14eUd3eVBLd1RvOWNxdDFEYnNud3JIVlN2TU04VFREa3c0SXFiTXJZX2xaVHUzT1VyOVRSWHdWaFFRbEZKZ1UxMXZVRWczd0xSaVpMamRwU0JOSlhIcmoxMm95dWlGOWQ0TmNzWjAtY1RXMS14anVZUkJscTFBZ0NKei1oY2FfV2UtaHBIMWFGYVZKNlZRSnloRlowaXJYOFZtRUx0TnJLR0hUcmNuSFl2NEljeGNEOTFGRVhpTdIB6wFBVV95cUxPV1BYVVJkd0tkd1J3Y3RPNnNUU2dsX0dsaW55SnUzZ3dDWU5LWkRLSW0xNW84RHRtTC12aWI0U3BKZnR6SXdPUE41dHFpYUNXT3FZa0JhbWFQQzdOeUdmS1dXTWdPRll1anBKX3FnbXNUSGNFMk9KTEFQb3R4enk5TzJJeXJSVHdiMjZiQWcyVWhWLUJhVmNWZ2R2WUh0RHdWdWJoLUZ2LUQwemtWelZQWkdoS1U2U1Q1YlhQSE00anRROVliS2JsYW9QLS1SMGRUbnRpTHFRa0VaajJvRk9iS0ZmdVA1VzdsLXZv?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://english.elpais.com",
+      "title": "EL PAÍS English"
+    }
+  },
+  {
     "title": "Scientists Discover Exotic Salt Clouds on Cold \"Pink Planet\" - Labroots",
-    "description": "Scientists Discover Exotic Salt Clouds on Cold \"Pink Planet\"  Labroots\"Pink Planet\" is surrounded by salty clouds, researchers using Webb telescope find  CBS NewsJames Webb Space Telescope finds a salty surprise on famous 'Pink Planet'  SpaceFamous ‘Pink Planet’ harbors a salty surprise  Northwestern Now News",
+    "description": "Scientists Discover Exotic Salt Clouds on Cold \"Pink Planet\"  Labroots\"Pink Planet\" is surrounded by salty clouds, researchers using Webb telescope find  CBS NewsFor a decade the Pink Planet was too faint for any ground telescope to study — and when James Webb finally caught its spectrum, the best fit to the light was an atmosphere hazed with salt clouds  Space DailyJames Webb Space Telescope finds a salty surprise on famous 'Pink Planet'  SpaceFamous ‘Pink Planet’ harbors a salty surprise  Northwestern Now News",
     "published date": "Mon, 22 Jun 2026 17:35:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdXBMbzdyRHlYM1c0SGFjWFZQdzdITW9vclNLTXZtcmJFbngtS2NiLXQ2SXVPRGNNdTM0TE13Mm1yTlEyOGE3V2RfcGtvU0ZhWmJLOG9UcVNMdENsX000NHBCM0lhWGxHVWxWSEg2MlJ4eUg3WTRGX2xoZVZkd0VUcFVzTzBHc0tYclVIN1JRUGx1VEJRUmdnLTVQbXJfTFgydEpZdXRR0gGrAUFVX3lxTE1PVER5dHJESm0wOHEzNGc1OFVuaWQ2a29PT083dFF4b2FsZUYzRTRVcGpLLXVvbDF0NWJ1WlhHbHVLOFJKR2gwZEd5aUdlek5TNWIyaWl6b0c1MXprUlo2OG9nZjJLNTlGU0VGRGx1eWNJa2tVZU5lSG9LYmQtQ2JCUW81bG0wYVItLTZSTGcyNGY4OHBqREotLTV0TzVvSEpUZUh6aVJPTFliVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -490,23 +600,13 @@
     }
   },
   {
-    "title": "How thousands of sperm squeeze into a space 10 times smaller without getting tangled - EL PAÍS English",
-    "description": "How thousands of sperm squeeze into a space 10 times smaller without getting tangled  EL PAÍS EnglishFruit fly sperm is enormous  Popular ScienceHow thousands of nature's longest sperm squeeze into a tiny fruit fly  Phys.org",
-    "published date": "Mon, 22 Jun 2026 18:22:59 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeVJ0Nkc5b3RncFZPSVNkeVVqSFp5emZ1Ri14eUd3eVBLd1RvOWNxdDFEYnNud3JIVlN2TU04VFREa3c0SXFiTXJZX2xaVHUzT1VyOVRSWHdWaFFRbEZKZ1UxMXZVRWczd0xSaVpMamRwU0JOSlhIcmoxMm95dWlGOWQ0TmNzWjAtY1RXMS14anVZUkJscTFBZ0NKei1oY2FfV2UtaHBIMWFGYVZKNlZRSnloRlowaXJYOFZtRUx0TnJLR0hUcmNuSFl2NEljeGNEOTFGRVhpTdIB6wFBVV95cUxPV1BYVVJkd0tkd1J3Y3RPNnNUU2dsX0dsaW55SnUzZ3dDWU5LWkRLSW0xNW84RHRtTC12aWI0U3BKZnR6SXdPUE41dHFpYUNXT3FZa0JhbWFQQzdOeUdmS1dXTWdPRll1anBKX3FnbXNUSGNFMk9KTEFQb3R4enk5TzJJeXJSVHdiMjZiQWcyVWhWLUJhVmNWZ2R2WUh0RHdWdWJoLUZ2LUQwemtWelZQWkdoS1U2U1Q1YlhQSE00anRROVliS2JsYW9QLS1SMGRUbnRpTHFRa0VaajJvRk9iS0ZmdVA1VzdsLXZv?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Seaweed-based ingredient can help turn dirt into 3D-printed walls - University of Colorado Boulder",
+    "description": "Seaweed-based ingredient can help turn dirt into 3D-printed walls  University of Colorado Boulder",
+    "published date": "Mon, 22 Jun 2026 20:46:57 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY2hBa1ZrcFotOVJYNWloT1ZLazdQamkzNG1WVDhpX1FNQm5RMnBIVHU2ZkZjTkM5QXJVVjZUVVU0cnZwTHBlQ0JxNVpCRmtBZC02UFdGZUdrRjRLZTM4bnlBX180enllWXhuRzNZbklvME1hcjlfSUgxcTR0NEFIYVF0ZU0ySjFraGpZYlByVXZCaVJlcWZUUk9RSmJCRElDS29uVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://english.elpais.com",
-      "title": "EL PAÍS English"
-    }
-  },
-  {
-    "title": "Our sun is destined to 'kick and spit' its way across the solar system when it dies - Space",
-    "description": "Our sun is destined to 'kick and spit' its way across the solar system when it dies  Space",
-    "published date": "Mon, 22 Jun 2026 14:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWHRzQ3hpc1dfakFWV0xXS1BEN1REMUV1NVlpSi1qanZaV3FqcHdEZEw4TWl3dmhOY1FQc3dFbmtEZC11UEtiZVFYLVoxWHlBQ3BjX0ZHTU93SlhJQk1MNGM4NGstWG4yNjQ5QkM0ZmZtdk1Cbjc3TlhLSVFYY25EQW5pWWE5QnA1QmhyZk5SWmZQbGEtSHBWQmhLNjRtdkVvVFFnbE1GWkFoY3Z2emZtMlhtREdVT1FF?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.space.com",
-      "title": "Space"
+      "href": "https://www.colorado.edu",
+      "title": "University of Colorado Boulder"
     }
   },
   {
@@ -520,23 +620,13 @@
     }
   },
   {
-    "title": "Reheating unlocks more power from LNG cold energy | Newswise - Newswise",
-    "description": "Reheating unlocks more power from LNG cold energy | Newswise  Newswise",
-    "published date": "Mon, 22 Jun 2026 16:50:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS19uaEJyd3EwbzhMdnVFSE9NVGxXN0ltbThDV2c1cldkbEJrMlpYemNRcTRkUi1GSjdkZG0xa2dreDdES1BZZXdVdlh3cGtRWjloNnd3aWlvMFFUS2lwSng1c3hjMTFmcnQ5ZEtpWWFpMGR6VnAwVmpYVE1mRGJibl83TktrX2dkUnNz0gGLAUFVX3lxTFBLX25oQnJ3cTBvOEx2dUVIT01UbFc3SW1tOENXZzVyV2RsQmsyWlh6Y1FxNGRSLUZKN2RkbTFrZ2t4N0RLUFlld1V2WHdwa1FaOWg2d3dpaW8wUVRLaXBKeDVzeGMxMWZydDlkS2lZYWkwZHpWcDBWalhUTWZEYmJuXzdOS2tfZ2RSc3M?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Our sun is destined to 'kick and spit' its way across the solar system when it dies - Space",
+    "description": "Our sun is destined to 'kick and spit' its way across the solar system when it dies  Space",
+    "published date": "Mon, 22 Jun 2026 14:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWHRzQ3hpc1dfakFWV0xXS1BEN1REMUV1NVlpSi1qanZaV3FqcHdEZEw4TWl3dmhOY1FQc3dFbmtEZC11UEtiZVFYLVoxWHlBQ3BjX0ZHTU93SlhJQk1MNGM4NGstWG4yNjQ5QkM0ZmZtdk1Cbjc3TlhLSVFYY25EQW5pWWE5QnA1QmhyZk5SWmZQbGEtSHBWQmhLNjRtdkVvVFFnbE1GWkFoY3Z2emZtMlhtREdVT1FF?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.newswise.com",
-      "title": "Newswise"
-    }
-  },
-  {
-    "title": "Seaweed-based ingredient can help turn dirt into 3D-printed walls - University of Colorado Boulder",
-    "description": "Seaweed-based ingredient can help turn dirt into 3D-printed walls  University of Colorado Boulder",
-    "published date": "Mon, 22 Jun 2026 20:46:57 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY2hBa1ZrcFotOVJYNWloT1ZLazdQamkzNG1WVDhpX1FNQm5RMnBIVHU2ZkZjTkM5QXJVVjZUVVU0cnZwTHBlQ0JxNVpCRmtBZC02UFdGZUdrRjRLZTM4bnlBX180enllWXhuRzNZbklvME1hcjlfSUgxcTR0NEFIYVF0ZU0ySjFraGpZYlByVXZCaVJlcWZUUk9RSmJCRElDS29uVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.colorado.edu",
-      "title": "University of Colorado Boulder"
+      "href": "https://www.space.com",
+      "title": "Space"
     }
   },
   {
@@ -560,16 +650,6 @@
     }
   },
   {
-    "title": "Future astronauts could walk across rocks from deep inside the Moon - ScienceDaily",
-    "description": "Future astronauts could walk across rocks from deep inside the Moon  ScienceDailyArtemis missions target South Pole–Aitken basin on the moon  EarthSky",
-    "published date": "Mon, 22 Jun 2026 12:40:29 GMT",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80MGdUWFJkeGNUWmJ2OUxUb0J0VHNCdWhBaVl1bFphaDZmdno2c0FjU1lUazZtZXdtRjJwVTl5SjNKVEJ5Vzl1c2xJaWdkYXFvWkZvMlJzRldIU2o2TjltTUN6U1cxSWg3bnViaEgzcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.sciencedaily.com",
-      "title": "ScienceDaily"
-    }
-  },
-  {
     "title": "Can a robot rabbit toy that uses AI help combat loneliness? - OC Today-Dispatch",
     "description": "Can a robot rabbit toy that uses AI help combat loneliness?  OC Today-Dispatch",
     "published date": "Mon, 22 Jun 2026 14:17:05 GMT",
@@ -590,6 +670,16 @@
     }
   },
   {
+    "title": "Future astronauts could walk across rocks from deep inside the Moon - ScienceDaily",
+    "description": "Future astronauts could walk across rocks from deep inside the Moon  ScienceDailyArtemis missions target South Pole–Aitken basin on the moon  EarthSky",
+    "published date": "Mon, 22 Jun 2026 12:40:29 GMT",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80MGdUWFJkeGNUWmJ2OUxUb0J0VHNCdWhBaVl1bFphaDZmdno2c0FjU1lUazZtZXdtRjJwVTl5SjNKVEJ5Vzl1c2xJaWdkYXFvWkZvMlJzRldIU2o2TjltTUN6U1cxSWg3bnViaEgzcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.sciencedaily.com",
+      "title": "ScienceDaily"
+    }
+  },
+  {
     "title": "Fungi Could Facilitate Growing Food on the Moon and Mars using Local Resources - MycoStories",
     "description": "Fungi Could Facilitate Growing Food on the Moon and Mars using Local Resources  MycoStories",
     "published date": "Mon, 22 Jun 2026 16:16:46 GMT",
@@ -600,76 +690,6 @@
     }
   },
   {
-    "title": "Bow-and-arrow-shaped radio galaxy discovered by citizen scientist - Phys.org",
-    "description": "Bow-and-arrow-shaped radio galaxy discovered by citizen scientist  Phys.org",
-    "published date": "Mon, 22 Jun 2026 14:20:07 GMT",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94aGNGRjROTVl4Njg0VmgwZmRZRGRna3l5NVdhRWZQeEhxM3pCc2lzLVhPRGF2cThVdTlJbjN0M1JESS11SlBidXJkZjNQZGlkNkFaeVNPT2UzWlNqbVRuOHRjWTVmZnNSYVQwX3NuWnZWR25WMTJlTW9vcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://phys.org",
-      "title": "Phys.org"
-    }
-  },
-  {
-    "title": "Secret to Heliconius Butterflies’ Longevity May Be Hidden in Pollen - Sci.News",
-    "description": "Secret to Heliconius Butterflies’ Longevity May Be Hidden in Pollen  Sci.NewsSee more headlines & perspectives on Google News",
-    "published date": "Mon, 22 Jun 2026 19:12:07 GMT",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mek5LTnFrdHplX1NxZkRUS2JtWkxwYUR1Q05QMnVoT2ROeWdoeWlZTjZfMDdlZGtTZzhnN2pRV3ZyT3RoNVZqcXlZd05jZ3dNZmUta1NENXpNSk5OODdaQmRJaXBYeVBOTlcxbW1mWHByLU1wSXhlX3JjNXg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.sci.news",
-      "title": "Sci.News"
-    }
-  },
-  {
-    "title": "Cryo-EM imaging reveals how a molecular gate lets bulky proteins pass cell membranes intact - Phys.org",
-    "description": "Cryo-EM imaging reveals how a molecular gate lets bulky proteins pass cell membranes intact  Phys.org",
-    "published date": "Mon, 22 Jun 2026 15:00:03 GMT",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1VUEFHYzEwUl9ISWpqMmhSNnBOYmdDX0w0eDF4RFltS3lWXzlNZWJiTXRPVURjUXJNNFRJUVpOc3BOa3lMMzViV0M5dUN0SmtjbGJWbmRSdmMwbnM2WE40aTJ3SUUtWjhWTXd0c1RRYkViejBNVVJF?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://phys.org",
-      "title": "Phys.org"
-    }
-  },
-  {
-    "title": "Breast Milk Fatty Acid Shapes Immune Development in Mice - Genetic Engineering and Biotechnology News",
-    "description": "Breast Milk Fatty Acid Shapes Immune Development in Mice  Genetic Engineering and Biotechnology NewsBreast milk nutrient boosts long-term immune system development  News-Medical",
-    "published date": "Mon, 22 Jun 2026 13:48:46 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMVVnQzZBSXVxMEF5VzVVSFNKekU5YXd6emtwWEhsOUhKemQ1V0wzRVhhUHozTlpjN1dWYTNVOWVVZFB2U3dZNVlzQm5wUFBWcE56LVhOeHZ1cXZZYXhYX2NYYndYLXhRMnhTMC03bGs1TkFoWUlLV1pORUtuU2hxMEZaZHFJMm9UYkhZTlBWdTZmc0tlOFMxRmk5bXZMak41cG1xX21hSTJkVVAwcDVNRWlaVG0?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.genengnews.com",
-      "title": "Genetic Engineering and Biotechnology News"
-    }
-  },
-  {
-    "title": "Advanced Gas Chromatography Methods for Detecting PFAS Contamination in Soil - Chromatography Online",
-    "description": "Advanced Gas Chromatography Methods for Detecting PFAS Contamination in Soil  Chromatography Online",
-    "published date": "Mon, 22 Jun 2026 15:38:44 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY21aRGxOa2d5Vk9QRTV1LVpKRUpkc2lJVnNfN2J3Tm0zV1VUeDVFY081X1dPaklKRmVzdmY4cmdWZ3JIRkhlZXdVX094UklldFN3Vmt3WjFIYzFXRHJMTmxMOXlzNi1aTVl3V3VWNXFRVVA0VXNDVkdxM1c4VlQ0dm8zcTNXZlhxS0NhX1hsNF9BVGdHbUtVWXgzRU1nbm5ldGliV2VJa0ptdFliY2lQeA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.chromatographyonline.com",
-      "title": "Chromatography Online"
-    }
-  },
-  {
-    "title": "Scientists Introduce A Parallel CSEU Protocol For Unitary Channel Estimatio - Quantum Zeitgeist",
-    "description": "Scientists Introduce A Parallel CSEU Protocol For Unitary Channel Estimatio  Quantum Zeitgeist",
-    "published date": "Mon, 22 Jun 2026 15:07:34 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM3dBY19sNW9Gd2FXdENSOVZQd2pDNW1ZbHJhbnl6TWoxQThjd0NiSWROVlB2Y1pRTjM2MW82S0RhaWcxeUVPWEFkdHZXNWs4ckozaFpWMHBDcld1Q3NaZE1jdVpjSUVtcG10MWpXa1JHeFdwN3pnZkJ6c0lpWmtFLTE3NFJNTUlTQlE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://quantumzeitgeist.com",
-      "title": "Quantum Zeitgeist"
-    }
-  },
-  {
-    "title": "Webb Sees Jupiter-Size Exoplanet Being Roasted by Its Star - Sci.News",
-    "description": "Webb Sees Jupiter-Size Exoplanet Being Roasted by Its Star  Sci.NewsNASA’s Webb Catches Exoplanet Getting Roasted  NASA Science (.gov)Extreme Hot Jupiter Being Roasted by Its Sun Pops Up in Webb Telescope Data  autoevolution",
-    "published date": "Mon, 22 Jun 2026 15:07:06 GMT",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlTnk0dm9YTmZ6cGRsVmJvdWQwdHF6QXowcTZFcUg1aXZ4YVBWZlVpT0Z4SEl3NXN1YVJSLV9uYTgycHdPeFR6b25EYUhOOWh5YXlkZUlObmUxX2xjSXh0emNhb1VGRVFYU0VsQ09BSXZGLVFP?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.sci.news",
-      "title": "Sci.News"
-    }
-  },
-  {
     "title": "First Confirmed Black-winged Kite Nesting Documented in Saudi Arabia’s King Abdulaziz Reserve - Asharq Al-Awsat English",
     "description": "First Confirmed Black-winged Kite Nesting Documented in Saudi Arabia’s King Abdulaziz Reserve  Asharq Al-Awsat English",
     "published date": "Mon, 22 Jun 2026 17:02:19 GMT",
@@ -677,26 +697,6 @@
     "publisher": {
       "href": "https://english.aawsat.com",
       "title": "Asharq Al-Awsat English"
-    }
-  },
-  {
-    "title": "Intracellular Mechanisms Promote Tumor Survival During Hypoxia - Northwestern University",
-    "description": "Intracellular Mechanisms Promote Tumor Survival During Hypoxia  Northwestern University",
-    "published date": "Mon, 22 Jun 2026 14:37:39 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV24tci1kUURGVFlNNGhMWVE2NUg2aUQ0WkU2YmJZdXJCaHNIaUJSMnpHLXQ2dGFfMTdybTIxN1diUEEtSFpTUzVnX2tCd0tUeXRJZ1BCQ3J1Sy0xNlVDTUFpN3k5R245bXFZMGg5d3FOQ2N2UXZNMHR0STVjX1I4OS1LaUtQLWtaRktWODkza3RIOFZ4R2JMbTRPTWlaUnl6akVvbGJwbnMxWkxoMlNVZUFzSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://news.feinberg.northwestern.edu",
-      "title": "Northwestern University"
-    }
-  },
-  {
-    "title": "Superconducting temperature record set at ordinary pressures | Newswise - Newswise",
-    "description": "Superconducting temperature record set at ordinary pressures | Newswise  Newswise",
-    "published date": "Mon, 22 Jun 2026 14:35:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOXN0amZrSmp3b3BmeXdxZFh4SDc4emhtWlRVRk53MVJ2Ym9sTDdMUUUtWXVFT0hhS292WEVoMl8yN0ZfRkUxaXpSVllRaUhPUXJXLW53YnpmeEhoSXJUczlBTnYzU2dPTDhodVVVeTdtMHhMTXRVVGp1bVZQQ25OV1JCM2toV0V4WHNlcTlONm9jaC04LWxvVnhR0gGaAUFVX3lxTE85c3RqZmtKandvcGZ5d3FkWHhINzh6aG1aVFVGTncxUnZib2xMN0xRRS1ZdUVPSGFLb3ZYRWgyXzI3Rl9GRTFpelJWWVFpSE9RclctbndiemZ4SGhJclRzOUFOdjNTZ09MOGh1VVV5N20weExNdFVUanVtVlBDbk5XUkIza2hXRXhYc2VxOU42b2NoLTgtbG9WeFE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.newswise.com",
-      "title": "Newswise"
     }
   }
 ]
