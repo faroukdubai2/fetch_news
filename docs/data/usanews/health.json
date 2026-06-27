@@ -1,7 +1,7 @@
 [
   {
     "title": "US CDC raises Ebola outbreak response to highest level - Reuters",
-    "description": "US CDC raises Ebola outbreak response to highest level  ReutersCongo Ebola Crisis: Contact Tracing Is Dangerously Behind, Officials Warn  The New York TimesEbola Outbreak, DRC and Region, Situation Report #8, June 24, 2026  ReliefWebAs Ebola cases hit 1,000, almost 3 million children and adolescents face rising risks in eastern DR Congo  UnicefWhereabouts of nearly 300 people with Ebola unknown in DR Congo  The Guardian",
+    "description": "US CDC raises Ebola outbreak response to highest level  ReutersCongo Ebola Crisis: Contact Tracing Is Dangerously Behind, Officials Warn  The New York TimesGrowing DRC Ebola outbreak has already spread to Uganda with high risk of reaching South Sudan  Medical XpressAs Ebola cases hit 1,000, almost 3 million children and adolescents face rising risks in eastern DR Congo  UnicefWhereabouts of nearly 300 people with Ebola unknown in DR Congo  The Guardian",
     "published date": "Fri, 26 Jun 2026 18:34:33 GMT",
     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSmVlNlBOc2NRalkzTTJQMFUyMFlfVm45UXVjUk96YVdBdlZNTURvczhsbWhPSVd5ZVF1TjlBdGVmQUlWVVhmWXJOLW9wOTNhV25vZzRwMVl1WmVYWk9CNXRMSjJpdnl2VDNocVlqUDNIdTRKMjRscERyNlREN1YxTmhOT3cxSlFBZElZOThEUEdVT1g4bWppV0lxM2Y0U0VNVGg5OF83SmpCNWJha2hDOEZ0VExWOTRpTHJPbWFZWF9OcV9kdWZhZHhMbDlZdnBkQ0Z6bVowWlV4LTg4bXBqMQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -40,6 +40,16 @@
     }
   },
   {
+    "title": "New blood test detects 90% of aggressive prostate cancer cases, beating current screenings - Fox News",
+    "description": "New blood test detects 90% of aggressive prostate cancer cases, beating current screenings  Fox NewsStockholm3 Detected More Significant Prostate Cancers Than PSA  ConexiantProstate cancer blood test detects twice as many cases  The TelegraphBlood-based testing could improve prostate cancer screening with MRI  AuntMinnieAdam B. Weiner: Can Stockholm3 Outperform PSA for Prostate Cancer Screening?  Oncodaily",
+    "published date": "Sat, 27 Jun 2026 13:00:46 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMXpyQUFzVG14NHI5ZVVzd2k1YklaVllVZl9KNG9jcTBtb1BlZ0U5NGt4ZWF1bHo3NmpDY1FGNlZncVdqeG5HeW5QOXhZVDA0QVBiNEwwUG5aOTZBbkZvWGlwbFVkSUxpckxEX0c3NjhhS2JRSkRZOWNnNkRyVGk5Mk9hWWw0SkgtczQ0Y3B1OGNVVTZCS243OXk2d29VRGtWejlSZXlxWDlLQWtoRUdCYlc5eGw4cXPSAbwBQVVfeXFMTnVZdzVSVG45dzJ4cWU5aG8xUU5ZZUVSU1dSN3UyNnRwUTNDUGtMTW1NWjlGYlF5WENNN0N5ZGw1MkludXh6R2RFd3BQSjFpVlF0elpGazF2b2gycjZ4TW11TWVnTDQwYkZDcEpPZGRTMkxFLW0zdE1DbGlRNjkwaHYxaEltcExRVjc1YzJKVmRqbzhsOExBQndqNjRHY2t4UVlBT3FjS1I1dm1hZDljRzVSWHB4UGNVVGNNdEU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.foxnews.com",
+      "title": "Fox News"
+    }
+  },
+  {
     "title": "Doctors warn of severe adult measles cases as Lancaster County outbreak grows - LancasterOnline",
     "description": "Doctors warn of severe adult measles cases as Lancaster County outbreak grows  LancasterOnlineMeasles detected in two more counties in Pennsylvania as health department recommends early vaccination  Inquirer.comPennsylvania’s Health Secretary unveils plan to combat measles outbreaks  ABC27Measles cases over 70 in Lancaster-Lebanon, health officials urge vaccinations  local21news.comState health officials monitor measles spread in Pennsylvania  WFMZ.com",
     "published date": "Fri, 26 Jun 2026 19:00:00 GMT",
@@ -47,16 +57,6 @@
     "publisher": {
       "href": "https://lancasteronline.com",
       "title": "LancasterOnline"
-    }
-  },
-  {
-    "title": "New blood test detects 90% of aggressive prostate cancer cases, beating current screenings - Fox News",
-    "description": "New blood test detects 90% of aggressive prostate cancer cases, beating current screenings  Fox NewsStockholm3 Detected More Significant Prostate Cancers Than PSA  ConexiantBlood-based testing could improve prostate cancer screening with MRI  AuntMinnieAdam B. Weiner: Can Stockholm3 Outperform PSA for Prostate Cancer Screening?  OncodailyProstate cancer blood test detects twice as many cases  The Telegraph",
-    "published date": "Sat, 27 Jun 2026 13:00:46 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMXpyQUFzVG14NHI5ZVVzd2k1YklaVllVZl9KNG9jcTBtb1BlZ0U5NGt4ZWF1bHo3NmpDY1FGNlZncVdqeG5HeW5QOXhZVDA0QVBiNEwwUG5aOTZBbkZvWGlwbFVkSUxpckxEX0c3NjhhS2JRSkRZOWNnNkRyVGk5Mk9hWWw0SkgtczQ0Y3B1OGNVVTZCS243OXk2d29VRGtWejlSZXlxWDlLQWtoRUdCYlc5eGw4cXPSAbwBQVVfeXFMTnVZdzVSVG45dzJ4cWU5aG8xUU5ZZUVSU1dSN3UyNnRwUTNDUGtMTW1NWjlGYlF5WENNN0N5ZGw1MkludXh6R2RFd3BQSjFpVlF0elpGazF2b2gycjZ4TW11TWVnTDQwYkZDcEpPZGRTMkxFLW0zdE1DbGlRNjkwaHYxaEltcExRVjc1YzJKVmRqbzhsOExBQndqNjRHY2t4UVlBT3FjS1I1dm1hZDljRzVSWHB4UGNVVGNNdEU?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.foxnews.com",
-      "title": "Fox News"
     }
   },
   {
@@ -100,16 +100,6 @@
     }
   },
   {
-    "title": "RI man contracts rare tick-borne ‘Powassan’ virus - WPRI.com",
-    "description": "RI man contracts rare tick-borne ‘Powassan’ virus  WPRI.comRhode Island man diagnosed with Powassan disease  WJARRIDOH Confirms Case of Rare Tick-Borne Viral Infection (Powassan),…  Go Local ProvMaine CDC confirms first case of Powassan virus this year  Maine PublicRI man recovering after being diagnosed with rare tick-borne Powassan virus  NBC Boston",
-    "published date": "Sat, 27 Jun 2026 00:44:26 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQmc1blpCX1l2NVE3M0Q5Z0pVeTZrUUN0dUJRc25mdUxEUGFxUFhsYmhLVUVuclhBWVczZjhnM3FqSFlOWHJ0TzRyeHlnc2hTaUpia1ZZSGVfSzlONGxHTUM4TEN1ekpxMkxvbThlSUptV282a3c2RnRqZ29UQmpYT3RR0gGHAUFVX3lxTE5RX1ZHQUJVZmx3eF9Da0QweWY1cjNSeVFlN09VcHhSQWU5OUdBT3ZNeUlEa3lyUkU5YlRBeEpLeHZ0M21QbXRNeXUtTElpcXV1VHU4aTMtTW1WNzZ5ellsUW9tbFZDUXhQOXBiYmpzeHdzek5oUTBKRnpJa0FGcXc4QVcwdmlLTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.wpri.com",
-      "title": "WPRI.com"
-    }
-  },
-  {
     "title": "A cardiologist said 3 foods that seem healthy could be harming your heart - Business Insider",
     "description": "A cardiologist said 3 foods that seem healthy could be harming your heart  Business InsiderThe ‘Healthy’ Breakfast Staple That’s Silently Raising Your Blood Pressure, According to Cardiologists  Parade",
     "published date": "Sat, 27 Jun 2026 09:36:12 GMT",
@@ -120,13 +110,13 @@
     }
   },
   {
-    "title": "Medical Journal Retracts Study Claiming Cancer Therapy Is More Effective When Given in the Morning - The New York Times",
-    "description": "Medical Journal Retracts Study Claiming Cancer Therapy Is More Effective When Given in the Morning  The New York TimesWeekend reads: A tsunami of misleading medical studies; retraction calls cancer therapy timing into question; a closer look at Max Planck’s retractions  Retraction WatchNature retracts provocative PD-1 study that tied lung cancer survival to treatment timing  Fierce PharmaRetraction of high-profile paper on cancer drug timing could hand ammo to China hawks  Endpoints NewsHigh-profile retraction tests confidence in China-led studies  BioWorld News",
-    "published date": "Thu, 25 Jun 2026 19:29:29 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZWlvTVBYbW1lc3hiZ2diM0x3QXNwTWVOT2MtbDFZczJIMjdTSEpCdlFxT1l3QlRrQjFseXlyVF9BM3dnSDN2dDBrX1RrcVBlX0VmakJmcWp6V0lLdnR6Mzd2Qk4waDN0X3JLZTduQ01vdmdrbUdJTmFiSWowQzJKY1kzNTEyZWk3RkxuLUg5REJiS3JxbFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "RI man contracts rare tick-borne ‘Powassan’ virus - WPRI.com",
+    "description": "RI man contracts rare tick-borne ‘Powassan’ virus  WPRI.comRhode Island man diagnosed with Powassan disease  WJARRIDOH Confirms Case of Rare Tick-Borne Viral Infection (Powassan),…  Go Local ProvMaine CDC confirms first case of Powassan virus this year  Maine PublicRI man recovering after being diagnosed with rare tick-borne Powassan virus  NBC Boston",
+    "published date": "Sat, 27 Jun 2026 00:44:26 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQmc1blpCX1l2NVE3M0Q5Z0pVeTZrUUN0dUJRc25mdUxEUGFxUFhsYmhLVUVuclhBWVczZjhnM3FqSFlOWHJ0TzRyeHlnc2hTaUpia1ZZSGVfSzlONGxHTUM4TEN1ekpxMkxvbThlSUptV282a3c2RnRqZ29UQmpYT3RR0gGHAUFVX3lxTE5RX1ZHQUJVZmx3eF9Da0QweWY1cjNSeVFlN09VcHhSQWU5OUdBT3ZNeUlEa3lyUkU5YlRBeEpLeHZ0M21QbXRNeXUtTElpcXV1VHU4aTMtTW1WNzZ5ellsUW9tbFZDUXhQOXBiYmpzeHdzek5oUTBKRnpJa0FGcXc4QVcwdmlLTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.nytimes.com",
-      "title": "The New York Times"
+      "href": "https://www.wpri.com",
+      "title": "WPRI.com"
     }
   },
   {
@@ -150,6 +140,16 @@
     }
   },
   {
+    "title": "What went right this week: the good news that matters - Positive News",
+    "description": "What went right this week: the good news that matters  Positive NewsDouglas Flora: Cervical Cancer Deaths are Preventable With HPV Vaccination  Oncodaily",
+    "published date": "Fri, 26 Jun 2026 05:09:45 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fM0NqZW80UGRvd21PenBHUmRRa21LcU00T08zZnZROHRfdFBBYmV2OEtsb0FRWXJUb3FWZjZ1c0JpWnFldUNvejdQOVVBbDd1cjRDU2hKaUFNZzZFLTNwV0lMMjFGcDBEOGR6T181YzQ1eUluQ1NScDBnT2RXdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.positive.news",
+      "title": "Positive News"
+    }
+  },
+  {
     "title": "US starts vaccine effort for Ebola Bundibugyo as outbreak spreads - Reuters",
     "description": "US starts vaccine effort for Ebola Bundibugyo as outbreak spreads  ReutersU.S. provides experimental Ebola treatment for outbreak in Congo, bringing trials closer  NBC NewsWHO announces 2 trials of experimental drugs in Ebola outbreak  CIDRAPMapp, Gilead antivirals to be deployed in DRC Ebola trial: WHO chief  Fierce BiotechWashington sends experimental treatment and tests to Africa to contain the \"Bundibugyo Ebola\" outbreak  صوت الإمارات",
     "published date": "Fri, 26 Jun 2026 22:09:43 GMT",
@@ -157,16 +157,6 @@
     "publisher": {
       "href": "https://www.reuters.com",
       "title": "Reuters"
-    }
-  },
-  {
-    "title": "Girl, 11, boards plane with mystery symptoms—man beside her changes everything - Newsweek",
-    "description": "Girl, 11, boards plane with mystery symptoms—man beside her changes everything  Newsweek",
-    "published date": "Sat, 27 Jun 2026 11:15:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTW9hejJVczNTbWFSeGFQUlNrSWRGUGZibFdIZnNSa1hhMjkxbHdBdFdSLWJ2SDBSSUpzNUZtcGdfZGxMTHlveFV4dFItNUNvejNBSHBaWlNLQjFkMG94eEgtb3pjUUJEQmMtUHdmbmZaMHpnejRxM1dnS29ZTWlnUXhhQVktcHBUNGU5cTBtclpQQ1U1YXEtUFREa3dmOUh2b09nSTdwZDFYQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.newsweek.com",
-      "title": "Newsweek"
     }
   },
   {
@@ -180,13 +170,43 @@
     }
   },
   {
-    "title": "Exclusive | Mom gets groundbreaking mastectomy from a $2M robot named Carol - New York Post",
-    "description": "Exclusive | Mom gets groundbreaking mastectomy from a $2M robot named Carol  New York PostMoraga mom is U.S. pioneer to undergo breakthrough robotic breast cancer surgery  KTVUAtlantic City, NJ Area Hospital First In Tri-States To Offer This  WPG Talk Radio 95.5 FMAtlantiCare offers robotic nipple-sparing mastectomy with minimally invasive approach  ROI-NJMom gets groundbreaking mastectomy from a $2M robot named Carol — and went to the beach with a tiny scar weeks later  AOL.com",
-    "published date": "Fri, 26 Jun 2026 17:26:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQanM0VFFReFVqSXA5T19oaGJvQXBxY1pteUpTUVNueG5EQlRrUTBrcmgta0R4VjJrTG9mQTdnSmpuUUJWY0dBTjhJTE11ZkoxcklRR0tPaW0wenktZHhlQmZSSTdNNjI5SXVIR1FpbnlRd3YzLWpQemdTd0tFMW5TeXk0akdMRXg3emh3eTV6azNxb1I5ZmJXc1p2NGlpdmFtbFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "It’s now illegal in California, so why is this drug still available all over the Bay Area? - San Francisco Chronicle",
+    "description": "It’s now illegal in California, so why is this drug still available all over the Bay Area?  San Francisco ChronicleOklahoma officials warn of rising synthetic kratom overdoses after mother’s son dies  News 9Gas station drug kratom increasingly linked to Oklahoma deaths  KOSUKratom is a legal $13 ‘natural’ high that’s led to addiction and 91 deaths: ‘Soccer moms are on it’  New York PostMy mum was found dead after swapping anxiety meds for ‘natural supplement’ – I’m warning others it’s not safe  the-sun.com",
+    "published date": "Fri, 26 Jun 2026 11:05:51 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdnBiZGJQcFZuOGFEcjZ2VF9Eeml3RnR0RlY4TWZrYzNiMkRuWGhCOURIUWVfWXV6QXRRQV9KdlpTWTByQjdPajNVN2Yyb3p4MGVZWWVfZGxnUDMzVUIyYV9qMWxNRDR1UVVmbWlmdGo4Ym9JX1IxY1dzS1dMem9kU3pQTmh1MWpZWnVnNXFB?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://nypost.com",
-      "title": "New York Post"
+      "href": "https://www.sfchronicle.com",
+      "title": "San Francisco Chronicle"
+    }
+  },
+  {
+    "title": "Mom gets groundbreaking mastectomy from a $2M robot named Carol — and went to the beach with a tiny scar weeks later - Yahoo",
+    "description": "Mom gets groundbreaking mastectomy from a $2M robot named Carol — and went to the beach with a tiny scar weeks later  YahooSee more headlines & perspectives on Google News",
+    "published date": "Fri, 26 Jun 2026 17:26:35 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeDkyYVl3T2JvN0pPNi02SjB1dkI5R1JjMHdYMHJCZFk4R1FHVkx3dTl1U00ySDFTNW1MMnlzOHMzcWloeUpYNDVlcHlUWDJFRnplTXVzUEdGQ1dyZ3huTk5HTkdSUDJUMWctTXJYb1cxUjRWR3pvRnBGb05tZGYwS19YVzM5WVpNZlNnV3lEYThMcDBNYXJya0E1UEM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.yahoo.com",
+      "title": "Yahoo"
+    }
+  },
+  {
+    "title": "The Race to Build the Next Generation of Weight Loss Pills Is Heating Up - Gizmodo",
+    "description": "The Race to Build the Next Generation of Weight Loss Pills Is Heating Up  GizmodoNew oral GLP-1 drug delivers up to 12% weight loss in 36 weeks  Medical XpressBeyond Injections: The Rise of Oral GLP-1 Therapy  Pharmacy TimesNew Trial Shows Oral GLP-1 Aleniglipron May Be the Future  Men's FitnessOral Orforglipron for Obesity Management  Drug Topics",
+    "published date": "Fri, 26 Jun 2026 20:15:28 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSHhEV1NCYV8yeElMdmdmQ1JtOEJRb01PN0NuUktuSjNJUW1wT19XUHlJTy11UWZPMjdWcUU3aTVNb1ltd01pdFR5czl5ZXdmcjJDTjRLbjB5VFlnZGVLaTVXdnE4SGVzRjJjakg1NWJ5R293QjhfTUE3MGdCT1h5ZU1PS3FnM1lpT1NRTEdyUUpOS1ZxMW05dXRYOUZXRXZDeEJLNF9B?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://gizmodo.com",
+      "title": "Gizmodo"
+    }
+  },
+  {
+    "title": "Girl, 11, boards plane with mystery symptoms—man beside her changes everything - Newsweek",
+    "description": "Girl, 11, boards plane with mystery symptoms—man beside her changes everything  Newsweek",
+    "published date": "Sat, 27 Jun 2026 11:15:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTW9hejJVczNTbWFSeGFQUlNrSWRGUGZibFdIZnNSa1hhMjkxbHdBdFdSLWJ2SDBSSUpzNUZtcGdfZGxMTHlveFV4dFItNUNvejNBSHBaWlNLQjFkMG94eEgtb3pjUUJEQmMtUHdmbmZaMHpnejRxM1dnS29ZTWlnUXhhQVktcHBUNGU5cTBtclpQQ1U1YXEtUFREa3dmOUh2b09nSTdwZDFYQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.newsweek.com",
+      "title": "Newsweek"
     }
   },
   {
@@ -210,36 +230,6 @@
     }
   },
   {
-    "title": "A chef-turned nutrition scientist eats 30g of fiber a day. She shared her go-to breakfast, lunch, and dinner. - Business Insider",
-    "description": "A chef-turned nutrition scientist eats 30g of fiber a day. She shared her go-to breakfast, lunch, and dinner.  Business Insider‘Fibremaxxing with avocado and beans’: Try this gastroenterologist-approved recipe to hit your daily fibre goals  Hindustan TimesWhy You Need To Eat Fibre Daily  NDTVTanya Zuckerbrot on Fiber as a Superpower for Lifelong Health  Future of Personal Health -Why fiber is important – and how to get enough  UCLA Health",
-    "published date": "Sat, 27 Jun 2026 09:52:28 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOakZoMk1OSndkck5heXVTVFdZWlFkdTM5YzZNN0M0am1QWnU1UUNLUHF1clA4NUg3bEFrUWdVV0VhdE5OUVRxMTdKVG1RMGRJMXFYSl8wWG1HZTNlV0w2cEhKU2ctWUlDbkN3NlNxOHBCX1NaallxOTI4STJ1QXdadjI3bnp6T2thLUZmWUFoanV4cldVVWg5TnJoVUtxNEZISWw0?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.businessinsider.com",
-      "title": "Business Insider"
-    }
-  },
-  {
-    "title": "How drugs like Ozempic are messing with people’s smell and taste - New York Post",
-    "description": "How drugs like Ozempic are messing with people’s smell and taste  New York PostStrange Side Effect Found Among Ozempic Users—and It Has to Do With Smell and Taste  GizmodoGLP-1 Drugs Linked to Smell and Taste Changes: What Patients Need to Know  DevdiscourseTaste, Smell Disturbances Seen in GLP-1 Users  MedPage TodayGLP-1s linked to smell and taste impairment in diabetes patients  CTV News",
-    "published date": "Thu, 25 Jun 2026 20:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV2FhZ2J6dmdPZklVVmJuS2Z5RG4yTHBfQ0NRVHlfaDZfdjMwaWJ6Rm1rM3VXalNNX1ZneDhMSVl5ZWtYR2VtWElyUkxwaExFNVBTZ29DdVh2UW0yR01qaF9JcXV5dHhyTmwtWmYwR0djVFFlbjVNTl9kd1RaNjIwUFNuVHFXeW9iRmt5U0x3?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://nypost.com",
-      "title": "New York Post"
-    }
-  },
-  {
-    "title": "7-Day No-Sugar Mediterranean Diet Meal Plan for Beginners, Created by a Dietitian - EatingWell",
-    "description": "7-Day No-Sugar Mediterranean Diet Meal Plan for Beginners, Created by a Dietitian  EatingWell",
-    "published date": "Sat, 27 Jun 2026 10:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmxSbkR0NWxSUWtZd1BMVlRwSXJtd2dwZjJEV0tENHVhWlRYd1g3NzNQSTFocXBGX0c3Y1VWTXRkMFBMaTVKX1hJNTBqRWkxMzZ0NmZXRGp2US1aZDNELVRaQ2VaUjkwbDVRc0Q1Mk15MGpHajRlampqMzFhNzFLNFVJU1BDU2NRUU9QVE1wX0F2bTlvYnV1Vg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.eatingwell.com",
-      "title": "EatingWell"
-    }
-  },
-  {
     "title": "Doctors suspected man had brain cancer. He actually had worms. - Ars Technica",
     "description": "Doctors suspected man had brain cancer. He actually had worms.  Ars Technica",
     "published date": "Fri, 26 Jun 2026 21:43:57 GMT",
@@ -260,23 +250,23 @@
     }
   },
   {
-    "title": "The Most Common Warning Signs Of Rectal Cancer - HuffPost",
-    "description": "The Most Common Warning Signs Of Rectal Cancer  HuffPost",
-    "published date": "Sat, 27 Jun 2026 11:00:18 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYlU3UC1pYXVkN1l3UkloY3Z6UWhlUENhczZxUURaVU9PSHExN3RmNkR5Y21IYkdtdFM2b2toMzlPSDdmcUc4MzZEMHl3N2RpZ3ZRWmprSjlJbWNxRG1qRkxnV3hUaV9WZ1JodEl1RkQ3N3FOU0FjNEFlTW9uSUJ6dDBPUmhpa0l1YU1yNktoNjhJMnMyUE9HME96aG9JaFQ4UTFmQ1pkUTJsaXpBT0530gG0AUFVX3lxTE9nUEYwZXFiMzAxMENPT0hRbHVfRUxXU2gydld1WHY1S2F6bHNtWUFwanFDRS1XOGpsYktGUXpTNUJxMkxOM3lHWUhVM09NWU00TFpYaUNFRnZBMEE5c25FT05iMUJIWmUzSWlNTC05TzFSd3h2Q0ZlU1FYb0NqS2ZGNnlkSzVUVHoxaHZidUJrVklPNlVUM19HSXhnMGY5MlREWmxqZEk1U0ZCM2FtRFVfQ1hmSw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "7-Day No-Sugar Mediterranean Diet Meal Plan for Beginners, Created by a Dietitian - EatingWell",
+    "description": "7-Day No-Sugar Mediterranean Diet Meal Plan for Beginners, Created by a Dietitian  EatingWell",
+    "published date": "Sat, 27 Jun 2026 10:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmxSbkR0NWxSUWtZd1BMVlRwSXJtd2dwZjJEV0tENHVhWlRYd1g3NzNQSTFocXBGX0c3Y1VWTXRkMFBMaTVKX1hJNTBqRWkxMzZ0NmZXRGp2US1aZDNELVRaQ2VaUjkwbDVRc0Q1Mk15MGpHajRlampqMzFhNzFLNFVJU1BDU2NRUU9QVE1wX0F2bTlvYnV1Vg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.huffpost.com",
-      "title": "HuffPost"
+      "href": "https://www.eatingwell.com",
+      "title": "EatingWell"
     }
   },
   {
-    "title": "Alzheimer's: Anti-inflammatory diet may help reduce risk by up to 29% - Medical News Today",
-    "description": "Alzheimer's: Anti-inflammatory diet may help reduce risk by up to 29%  Medical News TodayDementia Risk Lower With Anti-Inflammatory Diet Even With Alzheimer's Biomarkers  MedPage TodayWhich diet — and exact foods — are great for preventing dementia: study  New York PostA healthy diet may still make a difference for people at higher risk of dementia  The ConversationThe Best Diet For Brain Health Is Probably Not What You Think  ScienceAlert",
-    "published date": "Fri, 26 Jun 2026 17:17:14 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLXBaY1c2RUduUlhnbWNlSmNCZ2s1Wlc4WkZaX1lHNW5oUHdPV192QWJET3JodzhDMTNzTEN5SERlenU5MDRZMGx2UV9RM3ZOSmFKN3YxdXFzT2t4U3l0bXFQV3JJREtFbGZVbnlfR1h0a3JuOFRMTmpkaEZ1MXhRdjJVZmdIUWllenYyUVduZ0lRQmFiRDhxVzRCNEdreTVYVHJ4X3pNVUJJdUE1YjctVUUxbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Fish Oil vs. Cod Liver Oil Supplements: Which Is Better for Heart Health? - EatingWell",
+    "description": "Fish Oil vs. Cod Liver Oil Supplements: Which Is Better for Heart Health?  EatingWell",
+    "published date": "Sat, 27 Jun 2026 13:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZTA5SzNTR3BzWTN1QVVmakVnNktVeEQwbG9NZjJnOGdPZmw5MjA0NWdqQklaWVE1MzIzNWFqX0dtZHlZVk1jcV9TeWpnZjNSSDJoYXJYb05QUHl3Zkw0SWc0bUFISHdqM0RCTzgyUWd3amZjT2R6MW84TjR2aE5wMkRRTXc4ZzhPY3d3X2t3?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.medicalnewstoday.com",
-      "title": "Medical News Today"
+      "href": "https://www.eatingwell.com",
+      "title": "EatingWell"
     }
   },
   {
@@ -290,6 +280,16 @@
     }
   },
   {
+    "title": "Alzheimer's: Anti-inflammatory diet may help reduce risk by up to 29% - Medical News Today",
+    "description": "Alzheimer's: Anti-inflammatory diet may help reduce risk by up to 29%  Medical News TodayDementia Risk Lower With Anti-Inflammatory Diet Even With Alzheimer's Biomarkers  MedPage TodayWhich diet — and exact foods — are great for preventing dementia: study  New York PostA healthy diet may still make a difference for people at higher risk of dementia  The ConversationThe Best Diet For Brain Health Is Probably Not What You Think  ScienceAlert",
+    "published date": "Fri, 26 Jun 2026 17:17:14 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLXBaY1c2RUduUlhnbWNlSmNCZ2s1Wlc4WkZaX1lHNW5oUHdPV192QWJET3JodzhDMTNzTEN5SERlenU5MDRZMGx2UV9RM3ZOSmFKN3YxdXFzT2t4U3l0bXFQV3JJREtFbGZVbnlfR1h0a3JuOFRMTmpkaEZ1MXhRdjJVZmdIUWllenYyUVduZ0lRQmFiRDhxVzRCNEdreTVYVHJ4X3pNVUJJdUE1YjctVUUxbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.medicalnewstoday.com",
+      "title": "Medical News Today"
+    }
+  },
+  {
     "title": "Long-Term Iron Accumulation Strips Neurons of Disease Resilience - Neuroscience News",
     "description": "Long-Term Iron Accumulation Strips Neurons of Disease Resilience  Neuroscience NewsIron accumulation in the brain may contribute to neurodegeneration  Medical XpressKashmiri Scientist Discovers ‘Chronoferroptosis’ A Cellular State Linked to Alzheimer’s, Parkinson’s  Kashmir LifeIron In The Brain May Secretly Disable Neurons Long Before They Die, Study Finds  StudyFindsNew Research Reveals How Excess Iron Lowers Brain Cell Defences  Rediff",
     "published date": "Thu, 25 Jun 2026 21:31:26 GMT",
@@ -297,6 +297,16 @@
     "publisher": {
       "href": "https://neurosciencenews.com",
       "title": "Neuroscience News"
+    }
+  },
+  {
+    "title": "The Most Common Warning Signs Of Rectal Cancer - HuffPost",
+    "description": "The Most Common Warning Signs Of Rectal Cancer  HuffPost",
+    "published date": "Sat, 27 Jun 2026 11:00:18 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYlU3UC1pYXVkN1l3UkloY3Z6UWhlUENhczZxUURaVU9PSHExN3RmNkR5Y21IYkdtdFM2b2toMzlPSDdmcUc4MzZEMHl3N2RpZ3ZRWmprSjlJbWNxRG1qRkxnV3hUaV9WZ1JodEl1RkQ3N3FOU0FjNEFlTW9uSUJ6dDBPUmhpa0l1YU1yNktoNjhJMnMyUE9HME96aG9JaFQ4UTFmQ1pkUTJsaXpBT0530gG0AUFVX3lxTE9nUEYwZXFiMzAxMENPT0hRbHVfRUxXU2gydld1WHY1S2F6bHNtWUFwanFDRS1XOGpsYktGUXpTNUJxMkxOM3lHWUhVM09NWU00TFpYaUNFRnZBMEE5c25FT05iMUJIWmUzSWlNTC05TzFSd3h2Q0ZlU1FYb0NqS2ZGNnlkSzVUVHoxaHZidUJrVklPNlVUM19HSXhnMGY5MlREWmxqZEk1U0ZCM2FtRFVfQ1hmSw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.huffpost.com",
+      "title": "HuffPost"
     }
   },
   {
@@ -310,23 +320,13 @@
     }
   },
   {
-    "title": "The Race to Build the Next Generation of Weight Loss Pills Is Heating Up - Gizmodo",
-    "description": "The Race to Build the Next Generation of Weight Loss Pills Is Heating Up  GizmodoNew oral GLP-1 drug delivers up to 12% weight loss in 36 weeks  Medical XpressEli Lilly and Company (LLY) CEO on How GLP-1s Will Reshape America  Yahoo FinanceOral Orforglipron for Obesity Management  Drug TopicsBeyond Injections: The Rise of Oral GLP-1 Therapy  Pharmacy Times",
-    "published date": "Fri, 26 Jun 2026 20:15:28 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSHhEV1NCYV8yeElMdmdmQ1JtOEJRb01PN0NuUktuSjNJUW1wT19XUHlJTy11UWZPMjdWcUU3aTVNb1ltd01pdFR5czl5ZXdmcjJDTjRLbjB5VFlnZGVLaTVXdnE4SGVzRjJjakg1NWJ5R293QjhfTUE3MGdCT1h5ZU1PS3FnM1lpT1NRTEdyUUpOS1ZxMW05dXRYOUZXRXZDeEJLNF9B?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "You Don’t Actually Need to Get 10,000 Steps per Day. Here’s How Much You Should Walk, According to Experts - AOL.com",
+    "description": "You Don’t Actually Need to Get 10,000 Steps per Day. Here’s How Much You Should Walk, According to Experts  AOL.comI Ditched My 10k Step Count Goal and Tried Intuitive Walking  Marie Claire UKIs 10,000 Steps a Day Actually Based on Science? Here’s What the Research Says  Men's FitnessStudy Reveals Optimal Number of Daily Steps to Offset Sitting Down  ScienceAlertThe number of steps per day needed to neutralize the harm of sedentary work has been named  Baku.ws",
+    "published date": "Fri, 26 Jun 2026 00:18:54 GMT",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qVnpxVGVTZlVseUVwd1V4MkI3R25kYzlERXphbFU0NVMwa2RpcTZRVFZZR1VtYVJjX2g4Y0EzSlBiWExvY2xvM0ZKSEVucEdUVWNkMURCVEdlZnJROHNka3gwRGd0WTVvQTNOaW5hQjJEQ2M?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://gizmodo.com",
-      "title": "Gizmodo"
-    }
-  },
-  {
-    "title": "The Bay Area towns hit hardest by a highly-contagious diarrheal illness - SFGATE",
-    "description": "The Bay Area towns hit hardest by a highly-contagious diarrheal illness  SFGATE",
-    "published date": "Fri, 26 Jun 2026 21:47:52 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNTNoZEJnOTJEbU02UFFMTG9qaTFOekZ6NmhHQXo0RDI3YjJ5TGtqdmpkU2t3TFpmOFh6V2lDbVQ3UEI3dDV6V1NnYzdhZFBMUnlVbi10Z2t1NmxwWlZ3Yl93TjJpbWNabS1veVJELXNSMXd1SE9VN0k2Mnozb293dGNMRDh5X0U?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.sfgate.com",
-      "title": "SFGATE"
+      "href": "https://www.aol.com",
+      "title": "AOL.com"
     }
   },
   {
@@ -340,23 +340,23 @@
     }
   },
   {
-    "title": "You Don’t Actually Need to Get 10,000 Steps per Day. Here’s How Much You Should Walk, According to Experts - AOL.com",
-    "description": "You Don’t Actually Need to Get 10,000 Steps per Day. Here’s How Much You Should Walk, According to Experts  AOL.comI Ditched My 10k Step Count Goal and Tried Intuitive Walking  Marie Claire UKIs 10,000 Steps a Day Actually Based on Science? Here’s What the Research Says  Men's FitnessStudy Reveals Optimal Number of Daily Steps to Offset Sitting Down  ScienceAlertThe number of steps per day needed to neutralize the harm of sedentary work has been named  Baku.ws",
-    "published date": "Fri, 26 Jun 2026 00:18:54 GMT",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qVnpxVGVTZlVseUVwd1V4MkI3R25kYzlERXphbFU0NVMwa2RpcTZRVFZZR1VtYVJjX2g4Y0EzSlBiWExvY2xvM0ZKSEVucEdUVWNkMURCVEdlZnJROHNka3gwRGd0WTVvQTNOaW5hQjJEQ2M?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "A chef-turned nutrition scientist eats 30g of fiber a day. She shared her go-to breakfast, lunch, and dinner. - Business Insider",
+    "description": "A chef-turned nutrition scientist eats 30g of fiber a day. She shared her go-to breakfast, lunch, and dinner.  Business Insider‘Fibremaxxing with avocado and beans’: Try this gastroenterologist-approved recipe to hit your daily fibre goals  Hindustan TimesWhy You Need To Eat Fibre Daily  NDTVTanya Zuckerbrot on Fiber as a Superpower for Lifelong Health  Future of Personal Health -Why fiber is important – and how to get enough  UCLA Health",
+    "published date": "Sat, 27 Jun 2026 09:52:28 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOakZoMk1OSndkck5heXVTVFdZWlFkdTM5YzZNN0M0am1QWnU1UUNLUHF1clA4NUg3bEFrUWdVV0VhdE5OUVRxMTdKVG1RMGRJMXFYSl8wWG1HZTNlV0w2cEhKU2ctWUlDbkN3NlNxOHBCX1NaallxOTI4STJ1QXdadjI3bnp6T2thLUZmWUFoanV4cldVVWg5TnJoVUtxNEZISWw0?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.aol.com",
-      "title": "AOL.com"
+      "href": "https://www.businessinsider.com",
+      "title": "Business Insider"
     }
   },
   {
-    "title": "What went right this week: the good news that matters - Positive News",
-    "description": "What went right this week: the good news that matters  Positive NewsDeaths from this cancer can now be virtually eliminated  National GeographicYoung women now have 'close to zero' risk of cervical cancer death after HPV jab  BBCHPV jabs cut risk of dying from cervical cancer before 30 to almost zero  The GuardianDouglas Flora: Cervical Cancer Deaths are Preventable With HPV Vaccination  Oncodaily",
-    "published date": "Fri, 26 Jun 2026 05:09:45 GMT",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fM0NqZW80UGRvd21PenBHUmRRa21LcU00T08zZnZROHRfdFBBYmV2OEtsb0FRWXJUb3FWZjZ1c0JpWnFldUNvejdQOVVBbDd1cjRDU2hKaUFNZzZFLTNwV0lMMjFGcDBEOGR6T181YzQ1eUluQ1NScDBnT2RXdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "The Bay Area towns hit hardest by a highly-contagious diarrheal illness - Yahoo",
+    "description": "The Bay Area towns hit hardest by a highly-contagious diarrheal illness  Yahoo",
+    "published date": "Fri, 26 Jun 2026 22:42:53 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbS04UF9kUGpVeXR6T2NxUWRmY2YwZzlKSWxWaFlrTTI1YWF2UVp4c1pPZmVqR2NBZTlEMjFYRFE2MUQ4dHJ0bmU5eFFlNjhzZ1piOGx0ektBMUxFd3hxR2ZUcXBESC1aRnVLekJxNHhPUk9EcnRzOGVhU3Vfb1hFd1EwT2pZUDM4YmNjekt3?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.positive.news",
-      "title": "Positive News"
+      "href": "https://www.yahoo.com",
+      "title": "Yahoo"
     }
   },
   {
@@ -441,8 +441,8 @@
   },
   {
     "title": "This disease is more expensive than cancer and heart disease combined. And it’s only going to get worse. - MarketWatch",
-    "description": "This disease is more expensive than cancer and heart disease combined. And it’s only going to get worse.  MarketWatchDementia will cost the US $818 billion in 2026  McKnight's Senior LivingHidden costs push United States dementia toll to historic high  News-MedicalUSC Study Puts 2026 Dementia Cost at $818 Billion  Pasadena NowCost of care for dementia patients reaches $818B  Audacy",
-    "published date": "Fri, 26 Jun 2026 17:54:00 GMT",
+    "description": "This disease is more expensive than cancer and heart disease combined. And it’s only going to get worse.  MarketWatchDementia costs America $818 billion a year, and families pay most of the price  Earth.comUSC Study Puts 2026 Dementia Cost at $818 Billion  Pasadena NowCost of care for dementia patients reaches $818B  AudacyDementia will cost the US $818 billion in 2026  McKnight's Senior Living",
+    "published date": "Sat, 27 Jun 2026 19:30:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdHlIbVphVGE0Vm1ydkdDSFRQNThHS0lxeVdocUhPd010QkxwR0VsNUZnV1NweWVwa2dQU0ZBTkNKNW1RWXROYnp5OW51RG1Oc2gxQ2sxbDdURlhhT0RqSVVCQ3VrdHRYbGtKcnNRR1dxU09xZ2ttSFlncGdVTzhfWGp2VVRpYm5wb0piQ25ySjYxMmczZXhKNVprMmVQSkUxazNsNVM2eFhXSVBlTDkwQXRraklNem43d0JGY3BKbjdJRUZaSGh3YXRfZFhZS1ZUNEo5RHNYRl9SeHJS?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.marketwatch.com",
@@ -480,13 +480,13 @@
     }
   },
   {
-    "title": "Kristen Bell Shared the High-Protein Snack She Recommends to All Her Friends - EatingWell",
-    "description": "Kristen Bell Shared the High-Protein Snack She Recommends to All Her Friends  EatingWell",
-    "published date": "Thu, 25 Jun 2026 19:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kLXB6STJHQTlUd2pGeW1qUlE3dmQ3VXFEaFlzWk1uLVRidDZweUtkU3A1UzVhM3ViRVpUM0RDLWZUalRuTVlkcEVpaXZpeWhRQm1PQ2QtUkMzb1hMZVpvR2N3S05Jb3BSajNxLVlfQlVGdEQtbUVFa3hITlpfTU0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Hospital Opens Roof Garden Where Critical Care Patients Can Enjoy the Outdoors for Hours With Full Care - Good News Network",
+    "description": "Hospital Opens Roof Garden Where Critical Care Patients Can Enjoy the Outdoors for Hours With Full Care  Good News NetworkCan sunshine aid recovery? Why hospitals once used sunlight as therapy  India TodaySun Therapy: Healing ICU Patients with Sunlight? UK Hospital’s Unique Approach Explained!  Asianet Newsable'Visionary project' takes critical care outdoors  Healthcare Management MagazineUK Hospital Opens Rooftop Critical Care Garden With 60 Beds: Is This The Future Of Healthcare?  PSU Connect",
+    "published date": "Sat, 27 Jun 2026 11:00:13 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa0RxWWlKeHhzNnprQXdhemMxQUwyOXRlNk1Eem50b0tYejlwZDNMRWE1R3d0anRfdk1lWGFoeExYZ3dKQmdCdk1BYkVRVFlyNjhhb21qRjA2ZGExWVhjUF9CMnh0cTlaS2w5U0M1Ny1DUEVXaks3SXFiTERWVV9sN2JJMWc1QTRwT1B6dG1GbVZfQjVmdU0zbVJwMll4NHgteHpvcXFJSXI1WktYa3dXeFpueGtUU3Nu?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.eatingwell.com",
-      "title": "EatingWell"
+      "href": "https://www.goodnewsnetwork.org",
+      "title": "Good News Network"
     }
   },
   {
@@ -520,16 +520,6 @@
     }
   },
   {
-    "title": "An 80-year-old woman with advanced Alzheimer's regained speech and mobility after taking psilocybin - PsyPost",
-    "description": "An 80-year-old woman with advanced Alzheimer's regained speech and mobility after taking psilocybin  PsyPostWoman with Alzheimer's starts conversing again after taking psilocybin  New ScientistA Research Hypothesis, Not A Treatment Recommendation: Marcos Lago on the Viral Psilocybin for Alzheimer's Case Report  Psychedelic AlphaWoman with Alzheimer’s shows improvements after taking magic mushrooms in single-person study  CP24Severe Alzheimer’s: what happened after a dose of psilocybin surprised researchers  Futura, le média qui explore le monde",
-    "published date": "Fri, 26 Jun 2026 10:17:37 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVkV2eVVEcWpRYS1kMlFsOG55ODN4V1ZpaHVOLTZqUXJIeUhHMXBUY0FacVFNV3VNeUdIYXhyZkd2TnRWU1lhWVJDMDNFblRubHd6Y2hldVFPcDVLNTc4MDZIRHBVbE9fVGVRWFVtMFVsSWhuZk54blUxQ2x4VWVVV1piVmg4RVdiUlpYRlVkaVlaaFpyU2MxYlhBb3d4VEZPcmtvcHB5cXk3aFdPVFhwQUJMeDlvd3d2WkxOSEdEMzU?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.psypost.org",
-      "title": "PsyPost"
-    }
-  },
-  {
     "title": "How some men could benefit from estrogen patches — yes, the ones women use in menopause - New York Post",
     "description": "How some men could benefit from estrogen patches — yes, the ones women use in menopause  New York Post",
     "published date": "Fri, 26 Jun 2026 20:00:00 GMT",
@@ -542,11 +532,21 @@
   {
     "title": "Kids Figuring It Out - Cup of Jo",
     "description": "Kids Figuring It Out  Cup of Jo",
-    "published date": "Fri, 26 Jun 2026 20:00:00 GMT",
+    "published date": "Fri, 26 Jun 2026 14:05:06 GMT",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyek9BaUN6dEpxLTZKdGQwSG1RVFZiYWJuV0tDaDRXZ1RzYTJhRTBVNWwxNjA5VGdYRm1ZYk5pcklhRmlrMWEzMkxMNGY2R1dERVVyUnpLREhpZzlybVR1a1k5bmlWNUZKQU5ZWGt1c0I?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://cupofjo.com",
       "title": "Cup of Jo"
+    }
+  },
+  {
+    "title": "New deer hunting rules aim to slow the spread of chronic wasting disease in North Carolina - WCTI",
+    "description": "New deer hunting rules aim to slow the spread of chronic wasting disease in North Carolina  WCTI",
+    "published date": "Fri, 26 Jun 2026 07:41:41 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRUJzd2dtZURBUExJbG55OUxjUGlXYTZXQ1RWRGxCdTkzeFNDV2hSajBZcEdEejBRTmxwUjVhMS1EaVBVX3hHb3MzZHBSWS03Z0RRMjAtYy1oTG9WRXl6a2VzTC1Sd3ZPZERlTUxLNFFwNkdVcEFsbnFDZUVNcGUxU1l6T3JkdTMzcUVNbWVYdnpxa1lmX0U2eGlRZmhJWjFGVVY0MDM5MXVzWmVJS3hWWlVVd09vNDhHY3J1Vw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://wcti12.com",
+      "title": "WCTI"
     }
   },
   {
@@ -560,13 +560,13 @@
     }
   },
   {
-    "title": "New deer hunting rules aim to slow the spread of chronic wasting disease in North Carolina - WCTI",
-    "description": "New deer hunting rules aim to slow the spread of chronic wasting disease in North Carolina  WCTI",
-    "published date": "Fri, 26 Jun 2026 07:41:41 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRUJzd2dtZURBUExJbG55OUxjUGlXYTZXQ1RWRGxCdTkzeFNDV2hSajBZcEdEejBRTmxwUjVhMS1EaVBVX3hHb3MzZHBSWS03Z0RRMjAtYy1oTG9WRXl6a2VzTC1Sd3ZPZERlTUxLNFFwNkdVcEFsbnFDZUVNcGUxU1l6T3JkdTMzcUVNbWVYdnpxa1lmX0U2eGlRZmhJWjFGVVY0MDM5MXVzWmVJS3hWWlVVd09vNDhHY3J1Vw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "An 80-year-old woman with advanced Alzheimer's regained speech and mobility after taking psilocybin - PsyPost",
+    "description": "An 80-year-old woman with advanced Alzheimer's regained speech and mobility after taking psilocybin  PsyPostWoman with Alzheimer's starts conversing again after taking psilocybin  New ScientistWoman with Alzheimer’s shows improvements after taking magic mushrooms in single-person study  CTV NewsA Research Hypothesis, Not A Treatment Recommendation: Marcos Lago on the Viral Psilocybin for Alzheimer's Case Report  Psychedelic AlphaSevere Alzheimer’s: what happened after a dose of psilocybin surprised researchers  Futura, le média qui explore le monde",
+    "published date": "Fri, 26 Jun 2026 10:17:37 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVkV2eVVEcWpRYS1kMlFsOG55ODN4V1ZpaHVOLTZqUXJIeUhHMXBUY0FacVFNV3VNeUdIYXhyZkd2TnRWU1lhWVJDMDNFblRubHd6Y2hldVFPcDVLNTc4MDZIRHBVbE9fVGVRWFVtMFVsSWhuZk54blUxQ2x4VWVVV1piVmg4RVdiUlpYRlVkaVlaaFpyU2MxYlhBb3d4VEZPcmtvcHB5cXk3aFdPVFhwQUJMeDlvd3d2WkxOSEdEMzU?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://wcti12.com",
-      "title": "WCTI"
+      "href": "https://www.psypost.org",
+      "title": "PsyPost"
     }
   },
   {
@@ -601,7 +601,7 @@
   },
   {
     "title": "We Asked a Dietitian What to Eat for Muscle Growth—One Food Stood Out - Verywell Health",
-    "description": "We Asked a Dietitian What to Eat for Muscle Growth—One Food Stood Out  Verywell HealthGreek Yogurt Vs. Cottage Cheese: Dietitians Reveal Which Is Better for Protein  PreventionGreek Yogurt Vs. Cottage Cheese: Which Is Best for Blood Sugar Management? Dietitians Explain  AOL.com",
+    "description": "We Asked a Dietitian What to Eat for Muscle Growth—One Food Stood Out  Verywell Health",
     "published date": "Fri, 26 Jun 2026 12:40:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pTGttMEVwQTVkOWZjSEpTZDBBcC1zOWw5TVplZWt6dFMzeXVzbWRadFc0Y1FTajJTUzlTenctUEc4UDEydm9pSzFDZGtybTJfZ2ZBdUU5anJiWjJqRm01ZGNFTGIxMVVrNlo5QUxLMFdlOFdXN1E?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -611,12 +611,22 @@
   },
   {
     "title": "5 Carbs People with Heart Disease Should Be Eating, According to Dietitians - EatingWell",
-    "description": "5 Carbs People with Heart Disease Should Be Eating, According to Dietitians  EatingWellSee more headlines & perspectives on Google News",
+    "description": "5 Carbs People with Heart Disease Should Be Eating, According to Dietitians  EatingWellSteps for a lifetime of heart-healthy eating  Bowie News -The Best Foods for Heart Health, According to Cardiologists  PreventionWhat’s Good for Your Gut Is Good for Your Heart  Future of Personal Health -What to Eat to Protect Your Heart? 10 Foods Recommended by Nutrition Experts  وكالة صدى نيوز",
     "published date": "Fri, 26 Jun 2026 07:00:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNnVKNHFoWTNxUUV3akI2aGhHVTR2Ym5CcUxLcmVNXzF5ZWdUR25XSDVNLU9UUEJCZ0xnUGZoRm12OXhZYi0xQ3htZEYtUWFONjl3QV8xWXd5dHRtUHBKbEtXN0hvUTBQMUNBbnZZU0NfdXJKeXRsODlmZDBqRkxrX1pmdXU?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.eatingwell.com",
       "title": "EatingWell"
+    }
+  },
+  {
+    "title": "\"Be A Bi**h Or Get An Autoimmune Disease\": Why Some Women Are Asking Each Other To Stop Being 'Nice' - NDTV",
+    "description": "\"Be A Bi**h Or Get An Autoimmune Disease\": Why Some Women Are Asking Each Other To Stop Being 'Nice'  NDTVThe Hidden Health Costs of Being the “Good Girl”  The Sunday Paper",
+    "published date": "Fri, 26 Jun 2026 07:24:28 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTDdQTlBRLTBnbGJpQzJydnBvTjlLcUJVVEFnbWZpYXRlRGpLV0Jjc2QtUmQ1NEF5UFNYQUVFcm9IWUN0aGFlZkZiRWRJajV5VmM5ZUoyWVo1bUlZU1FhdVpKckxyUnlTRUlqNEw3NGhqeXh5RnBhakRzOTg3SThpVHFhOE16R3dpVGZYUzItYWx3VmNyc0Jvb2pUdVM1SUhmT3ZyUS01djNsdEttV1FGelRDa3RkaXZTZGNyaVFYZ1pXMkxkQ2F6T9IB0AFBVV95cUxNeGlneVFiZkE4M1BaRkVhSUc2bVl4el9EblJNaDQxUTRrcWVrQ19KUFNkTFFEN29lVmtxQ0VGdDAwa2xTcWpvUHFNdzJBdmdIdGFHRmVycnllZVRqa1YzNzdTQzhCNUR5SWoxTS1uMkRibGVqRnpHSTZBalh3cGhkbmxVelp6NTBVdVhjQl83UVN3bFhnU09kLWxzSkFwMXJJLU0xYnhHelIzWkNyUld2WUxYem84WlVZWF9iZnVoX0FNcmw0M3c5MDlLQmlITzBp?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ndtv.com",
+      "title": "NDTV"
     }
   },
   {
@@ -630,13 +640,13 @@
     }
   },
   {
-    "title": "These Seafood Toxins Survive Cooking—and They’re Fueling Foodborne Outbreaks - Gizmodo",
-    "description": "These Seafood Toxins Survive Cooking—and They’re Fueling Foodborne Outbreaks  Gizmodo",
-    "published date": "Fri, 26 Jun 2026 16:35:43 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQakNoYTIwLXdWOWpERkVUT3RmSFRNbXk4N1N4MVMxMzdpTFI5SmFnaDUxcWRaYkhpWkpEMkJjWVRqc1V1WEQxb1RXVHduNnJrS2NaTDlxUWU4RVRFMWRPQTlVcUVoOTJnLUdFSVVDRFAxZWtkQi1SN3k5OWo0WW45ZERKdHFYeWhFLThuS0xTQUMwVHU5OU9obFE1ZERZNm1Bd0MxTWhGX0h1UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Parasite Affecting 1 in 3 People Is a Serious Risk to Human Health, Scientists Warn - ScienceAlert",
+    "description": "Parasite Affecting 1 in 3 People Is a Serious Risk to Human Health, Scientists Warn  ScienceAlertUrgent warning as disease carried by cats linked to blindness and pregnancy issues  7NEWSGlobal push to recognise threat of toxoplasmosis  EurekAlert!The 7 vague symptoms of 'overlooked' parasite that risks blinding and miscarriage - as 1 in 3 'unknowingly' infected  The SunToxoplasmosis: What Cat Owners Need to Know | WEHOonline  WEHOonline.com",
+    "published date": "Fri, 26 Jun 2026 05:19:47 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQnFNRW94emMyazBXNkRxMW1TS2hxd1p6WThDVl81SXF6ZzFHc0NjNU1Qa2ZsdmtIZmRFbGJ2S3M3MkgtdVV5dGs3ZHl4WFllMjNDd2NkNVNNbEtpUzktQ2Z6Qzh2TGU4NW5iYXV0OGZ6LXBvVEZUeFFGVlRMYnFUVktoaVlYU2ZGTk9hcUw1aWw2aG5Fd2o0Smh3c01SRzJON0FodC1vY3JOZ3NUc0NJNw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://gizmodo.com",
-      "title": "Gizmodo"
+      "href": "https://www.sciencealert.com",
+      "title": "ScienceAlert"
     }
   },
   {
@@ -650,20 +660,30 @@
     }
   },
   {
-    "title": "Low Testosterone Is Linked to a Higher Risk of Cancer, Study Finds - ScienceAlert",
-    "description": "Low Testosterone Is Linked to a Higher Risk of Cancer, Study Finds  ScienceAlertLow testosterone linked to cancer risk in men  Medical XpressMen with low testosterone more likely to die from cancer  The West Australian",
-    "published date": "Fri, 26 Jun 2026 13:04:49 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVFk5ZWJRNGRhZ3duRlZ0TmRzQ1JEaGhpUFBhd1Yycm5ZSkwxWTVKamFZN2NmM0J1c3d3SkZfUU96YUZTQkxBcWtJQm10LXRoaWFabGFWWWxlSlVVeVlScVA0UDdSVVcyVXdpelBGR1hUTENpTDgtc3NmdHkyQVJQUjdDWldPenQwYUtBbVdHdC1WRUFCVkFTMnpn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "These Seafood Toxins Survive Cooking—and They’re Fueling Foodborne Outbreaks - Gizmodo",
+    "description": "These Seafood Toxins Survive Cooking—and They’re Fueling Foodborne Outbreaks  Gizmodo",
+    "published date": "Fri, 26 Jun 2026 16:35:43 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQakNoYTIwLXdWOWpERkVUT3RmSFRNbXk4N1N4MVMxMzdpTFI5SmFnaDUxcWRaYkhpWkpEMkJjWVRqc1V1WEQxb1RXVHduNnJrS2NaTDlxUWU4RVRFMWRPQTlVcUVoOTJnLUdFSVVDRFAxZWtkQi1SN3k5OWo0WW45ZERKdHFYeWhFLThuS0xTQUMwVHU5OU9obFE1ZERZNm1Bd0MxTWhGX0h1UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://gizmodo.com",
+      "title": "Gizmodo"
+    }
+  },
+  {
+    "title": "Stress Can Physically Alter Your Blood's Structure, Study Reveals - ScienceAlert",
+    "description": "Stress Can Physically Alter Your Blood's Structure, Study Reveals  ScienceAlertHealthwatch: How stress can impact your health  WSLSChronic stress does not stay in the mind, and seven body systems can start showing the pressure before people connect the dots  OkDiarioRewire Your Body’s Stress Response in as Little as 5 Minutes a Day  Woman's WorldUnder Pressure: Stress can impact every facet of health, so coping strategies are vital  Newsbug.info",
+    "published date": "Fri, 26 Jun 2026 11:04:48 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPelJLd0RpMTJJZEJYNGhVSVhNZkV6QnJJTUF1dDZXWk1UdzdraWJNT3FERllfVVZHQlhCNDE4SloxOGkzNGdxVVdLcDZkRFpFTko5VVFUNEJVYkxDaGdDZ0RkU0NrRW80a2dYbDg3eGZkamY0SjhpRkVkdFc5Tks1cFJTRlEzSG1nb3BQNVpSMWFGcUNDcGIw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.sciencealert.com",
       "title": "ScienceAlert"
     }
   },
   {
-    "title": "Stress Can Physically Alter Your Blood's Structure, Study Reveals - ScienceAlert",
-    "description": "Stress Can Physically Alter Your Blood's Structure, Study Reveals  ScienceAlertHealthwatch: How stress can impact your health  WSLSChronic stress does not stay in the mind, and seven body systems can start showing the pressure before people connect the dots  OkDiarioCan Chronic Stress Shrink Your Brain? Expert Weighs In  OnlymyhealthRewire Your Body’s Stress Response in as Little as 5 Minutes a Day  Woman's World",
-    "published date": "Fri, 26 Jun 2026 11:04:48 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPelJLd0RpMTJJZEJYNGhVSVhNZkV6QnJJTUF1dDZXWk1UdzdraWJNT3FERllfVVZHQlhCNDE4SloxOGkzNGdxVVdLcDZkRFpFTko5VVFUNEJVYkxDaGdDZ0RkU0NrRW80a2dYbDg3eGZkamY0SjhpRkVkdFc5Tks1cFJTRlEzSG1nb3BQNVpSMWFGcUNDcGIw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Low Testosterone Is Linked to a Higher Risk of Cancer, Study Finds - ScienceAlert",
+    "description": "Low Testosterone Is Linked to a Higher Risk of Cancer, Study Finds  ScienceAlertLow testosterone linked to cancer risk in men  Medical XpressMen with low testosterone more likely to die from cancer  The West Australian",
+    "published date": "Fri, 26 Jun 2026 13:04:49 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVFk5ZWJRNGRhZ3duRlZ0TmRzQ1JEaGhpUFBhd1Yycm5ZSkwxWTVKamFZN2NmM0J1c3d3SkZfUU96YUZTQkxBcWtJQm10LXRoaWFabGFWWWxlSlVVeVlScVA0UDdSVVcyVXdpelBGR1hUTENpTDgtc3NmdHkyQVJQUjdDWldPenQwYUtBbVdHdC1WRUFCVkFTMnpn?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.sciencealert.com",
       "title": "ScienceAlert"
@@ -677,26 +697,6 @@
     "publisher": {
       "href": "https://phys.org",
       "title": "Phys.org"
-    }
-  },
-  {
-    "title": "Parasite Affecting 1 in 3 People Is a Serious Risk to Human Health, Scientists Warn - ScienceAlert",
-    "description": "Parasite Affecting 1 in 3 People Is a Serious Risk to Human Health, Scientists Warn  ScienceAlertThis Cat Parasite Infects Billions of People. Scientists Say We’ve Been Underestimating It  GizmodoExperts urge neglected tropical disease status for ocular toxoplasmosis  News-MedicalScientists Warn WHO: Cat-Linked Parasite Infects One-Third of Global Population, Poses Risks to Vision, Pregnancy, and Neurological Health  CPG Click Petróleo e GásToxoplasmosis: The Global NTD Push  Scientific Frontline",
-    "published date": "Fri, 26 Jun 2026 05:19:47 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQnFNRW94emMyazBXNkRxMW1TS2hxd1p6WThDVl81SXF6ZzFHc0NjNU1Qa2ZsdmtIZmRFbGJ2S3M3MkgtdVV5dGs3ZHl4WFllMjNDd2NkNVNNbEtpUzktQ2Z6Qzh2TGU4NW5iYXV0OGZ6LXBvVEZUeFFGVlRMYnFUVktoaVlYU2ZGTk9hcUw1aWw2aG5Fd2o0Smh3c01SRzJON0FodC1vY3JOZ3NUc0NJNw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.sciencealert.com",
-      "title": "ScienceAlert"
-    }
-  },
-  {
-    "title": "We Asked 4 Dietitians Which Foods They Eat Every Day for Better Cholesterol - Verywell Health",
-    "description": "We Asked 4 Dietitians Which Foods They Eat Every Day for Better Cholesterol  Verywell Health",
-    "published date": "Fri, 26 Jun 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTThGOVVXSXVQTG5VMDFsN3JndEpoQ1U4dUExbVYzOC1JZ19NU0E3a3lRZnE0VFpzSHRmUVh5NHFORVRIR3B6T0w4SGNoU3ZhM0VJRW1GLTZhcXVkT0ZTMUZlR0gwN1JZQ0tLZTJQU2p3dUc0WDFSalJyZk85N2dnZjFNZWhLSGRpVXJyS0MyQXdBZEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.verywellhealth.com",
-      "title": "Verywell Health"
     }
   }
 ]
