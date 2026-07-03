@@ -1,15 +1,5 @@
 [
   {
-    "title": "SwiftUI Adds New Document Protocol, Improves Performance, and More - infoq.com",
-    "description": "SwiftUI Adds New Document Protocol, Improves Performance, and More  infoq.com",
-    "published date": "Thu, 02 Jul 2026 16:00:12 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxM3V1T0JjZVRYZGVvWmFJaDVIRVQ5WVBndEZyVXZmMmIwQkd6bGY0cERWWmJfRnRXSjh6X3VaUG1QZ2JaaEZ1Y3RNbzFIdHdqXzdZdWxWUXozZE5DeTdR?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.infoq.com",
-      "title": "infoq.com"
-    }
-  },
-  {
     "title": "Sinner’s Banquet - Alberta Views",
     "description": "Sinner’s Banquet  Alberta Views",
     "published date": "Wed, 01 Jul 2026 07:00:00 GMT",
@@ -20,13 +10,23 @@
     }
   },
   {
-    "title": "Vancouver 'RoboCop' is 1st Canadian ALS patient to receive Elon Musk's Neuralink brain implant - Yahoo News Canada",
-    "description": "Vancouver 'RoboCop' is 1st Canadian ALS patient to receive Elon Musk's Neuralink brain implant  Yahoo News Canada",
-    "published date": "Thu, 02 Jul 2026 11:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPam8xNE04dFpsQjJIR0tUYXhlWTFteVZsOTFBTGFURFFHQkJ5anRZMFpUd0QwYzUxSTE0X3k1QzlJTnByQ1ZkS0Q3U1JpOU1WcWZvbzloXzJNdUE4LUZKM1l1bWtTcjBXcmNuVERhaHVFMXhXclI2bVBHQWFWUHRvcA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Sony to end releasing PlayStation games on disc, earning ire from gamers despite market shift to digital - CBC",
+    "description": "Sony to end releasing PlayStation games on disc, earning ire from gamers despite market shift to digital  CBCAn update on PlayStation Store for PS3 and PS Vita  PlayStation.BlogPlayStation’s Physical Media-Free Future Isn’t Just Concerning, It’s Offensive  IGNSony to end PlayStation game discs in 2028 shift to digital  MSNSony’s PlayStation Disc Decision Is Its Biggest Scandal In 20 Years  Forbes",
+    "published date": "Thu, 02 Jul 2026 23:42:05 GMT",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdFMxN2NRUk91Y3RZUFJXbHdSbHl4eXFEaExCWklYU0YzNXhFc1I5LXR4X2hHVmphdWR3MUdxVk9mS09FMEhNck82NmcyMGx5Mm9jM3lnREt6N2RmNU4zaFVvWGhrRkE1WGUxc0ludWFtV01teE1ZNWhtMkpVWTZCYzhzU0o5amN1amllMkQtSG1tQ0Q3NzlmcTlBS09JQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://ca.news.yahoo.com",
-      "title": "Yahoo News Canada"
+      "href": "https://www.cbc.ca",
+      "title": "CBC"
+    }
+  },
+  {
+    "title": "SwiftUI Adds New Document Protocol, Improves Performance, and More - infoq.com",
+    "description": "SwiftUI Adds New Document Protocol, Improves Performance, and More  infoq.com",
+    "published date": "Thu, 02 Jul 2026 16:00:12 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxM3V1T0JjZVRYZGVvWmFJaDVIRVQ5WVBndEZyVXZmMmIwQkd6bGY0cERWWmJfRnRXSjh6X3VaUG1QZ2JaaEZ1Y3RNbzFIdHdqXzdZdWxWUXozZE5DeTdR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.infoq.com",
+      "title": "infoq.com"
     }
   },
   {
@@ -40,16 +40,6 @@
     }
   },
   {
-    "title": "Sony to end releasing PlayStation games on disc, earning ire from gamers despite market shift to digital - CBC",
-    "description": "Sony to end releasing PlayStation games on disc, earning ire from gamers despite market shift to digital  CBCAn update on PlayStation Store for PS3 and PS Vita  PlayStation.BlogSony to end PlayStation game discs in 2028 shift to digital  MSNSony says it will stop releasing PlayStation games on discs  CTV NewsSony’s PlayStation Disc Decision Is Its Biggest Scandal In 20 Years  Forbes",
-    "published date": "Thu, 02 Jul 2026 22:35:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdFMxN2NRUk91Y3RZUFJXbHdSbHl4eXFEaExCWklYU0YzNXhFc1I5LXR4X2hHVmphdWR3MUdxVk9mS09FMEhNck82NmcyMGx5Mm9jM3lnREt6N2RmNU4zaFVvWGhrRkE1WGUxc0ludWFtV01teE1ZNWhtMkpVWTZCYzhzU0o5amN1amllMkQtSG1tQ0Q3NzlmcTlBS09JQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cbc.ca",
-      "title": "CBC"
-    }
-  },
-  {
     "title": "Apple Extends Private Cloud Compute to Google Cloud for the First Time - infoq.com",
     "description": "Apple Extends Private Cloud Compute to Google Cloud for the First Time  infoq.com",
     "published date": "Thu, 02 Jul 2026 10:04:01 GMT",
@@ -57,16 +47,6 @@
     "publisher": {
       "href": "https://www.infoq.com",
       "title": "infoq.com"
-    }
-  },
-  {
-    "title": "Top ‘Suicide Squad’ Developers Say the Flop Made Them Not Want to Make Games Anymore - Bloomberg.com",
-    "description": "Top ‘Suicide Squad’ Developers Say the Flop Made Them Not Want to Make Games Anymore  Bloomberg.comSuicide Squad Devs Explain How The Flop Burned Them Out  Kotaku",
-    "published date": "Thu, 02 Jul 2026 19:00:34 GMT",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaTJKVzM3MXE4SVhLZi1OTllmbm9lWlhJQnpfX212WU9yUExxVXQ1SGpubGpnckVoeUxPSFJsUjZEVXg0RkhCQlJjZ1BzV0tCa1p6bm9TTFFyQUl2bzdvcXBlRm9Gb19OV0RUVDYtNVRvaU15bkhSMEhjNjBhUTFpbi1acXA0c2ZrYTEteHMyclEtUExPUTBheC1ZYmR3ZFhnRC1DSUxhUFZHOEhrR2VrQ1hVNENxVFU3cnAwQndyMzhFLVdWemFObG9QZkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.bloomberg.com",
-      "title": "Bloomberg.com"
     }
   },
   {
@@ -120,18 +100,18 @@
     }
   },
   {
-    "title": "T-Mobile is finally shutting down its 2G network, here's when - GSMArena.com news - GSMArena.com",
-    "description": "T-Mobile is finally shutting down its 2G network, here's when - GSMArena.com news  GSMArena.comT-Mobile is about to eliminate a major vulnerability from its network  Android Authority",
-    "published date": "Thu, 02 Jul 2026 05:10:02 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUkk2UHF5WHBnZnU5TmRiblVOaU1EdnFyNlNoSkd2ZThlTEhTb3RJSXJLLWZLdzBzN0VvVzI1UW04b1ZNbklIM09XckhZQkJBaGpkNlVFSV9nbW1teTVIVDRFNVlWZEM1MlRtZ1VHQkRaa0dlYzlkZkE0STJYdzQ1eEVsU3pUMGJTMTR5N3VEUUNDSlF6RGt0enM0VWhGZDDSAZsBQVVfeXFMTzk3UUh1SjQ5NmFWcGlVMEpDdzgzY0w5M190YUI1X1BJMFA3UlJGVUFXR3NyNUFDSGk2REs3YlluY0hSVHFVblNKR3UzVVBJdFhFd2FiczFLdkJ2QmJmaC1QMWd1d01rSGVqbWxWcmUxaVBoUmVEVEp3V0c5bExxSFhRVENPQXg1VXJaWE9DaGZ4Q1ktQXRkdW5zU0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Galaxy S27 Report Reveals Samsung's New Display Upgrade - Forbes",
+    "description": "Galaxy S27 Report Reveals Samsung's New Display Upgrade  ForbesReport: all four Samsung Galaxy S27 models will have the Privacy Display feature - GSMArena.com news  GSMArena.comGalaxy S27 Pro and Ultra leak hints at a big shake-up for the selfie camera  Android Authority",
+    "published date": "Thu, 02 Jul 2026 15:18:44 GMT",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObnZCVndaV0JWbU95bVB3ZW5BUy15T3dJdkF2NEsxM2thYjA1OVRBd1hBZ3RhM0l6Y204ajNMdnVKdnR1Yk5YUWxabEJZVFZrMXdoaWp0V09fVGZJUXAxSDhtOFF3aVVfNWFyd25YeGhTQ0Zyczg1R3dzY2hYM29lb0lsOEVWQXNONTg0RkJ5VVkwLTlmTHhvUnJOYW9EUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.gsmarena.com",
-      "title": "GSMArena.com"
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
     }
   },
   {
     "title": "Samsung Galaxy Z Fold 8 Rumor Roundup: Wider and Ultra Phones May Be Coming - cnet.com",
-    "description": "Samsung Galaxy Z Fold 8 Rumor Roundup: Wider and Ultra Phones May Be Coming  cnet.comSamsung Teases Wide-As-Hell New Foldable  EngadgetGalaxy Z Fold 8 Wide Latest: New Images Show Samsung’s Updated Phone  Yahoo News CanadaSamsung Teaser Hints at How It's (Literally) Reshaping Its Foldable Phones  cnet.comSamsung officially starts teasing its wide-screen Galaxy Z Fold8 - GSMArena.com news  GSMArena.com",
+    "description": "Samsung Galaxy Z Fold 8 Rumor Roundup: Wider and Ultra Phones May Be Coming  cnet.comExclusive: First look at the Samsung Galaxy Z Fold 8, Z Flip 8, and Z Fold 8 Ultra  Android HeadlinesSamsung Teases Wide-As-Hell New Foldable  EngadgetSamsung officially starts teasing its wide-screen Galaxy Z Fold8 - GSMArena.com news  GSMArena.comGalaxy Z Fold 8 Wide Latest: New Images Show Samsung’s Updated Phone  Yahoo News Canada",
     "published date": "Thu, 02 Jul 2026 13:01:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMFJucEhLR0pqT2g4N3FSZEpkQWpuZzROYXFzanRfcTJjTFlSZ0ZDdnQwazRxUzBaNVY3UmRWTVBnUzZQVzFncWY4MEZsVkdqcURianZJazlsUDJjOWNQT1pfZ1lzOFpERGlWSUN1c1JBSUhyWFZLV01oQVFwUDJJQ0dnTUFkMnRVYVlXVU0xOHgwQWJWdGpiQ2Z3YW1COFF6LU9YNGJXN0FPN0lv?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -150,23 +130,13 @@
     }
   },
   {
-    "title": "Northern Lights Could Dazzle During Fourth of July Week—Here's Where to Look - marthastewart.com",
-    "description": "Northern Lights Could Dazzle During Fourth of July Week—Here's Where to Look  marthastewart.comNorthern Lights Forecast: Aurora Possible In 19 States From Wednesday  ForbesNorthern lights could dazzle to start July 4 weekend  The HillNorthern lights are forecast to be visible in most parts of Canada tonight  NarcityHow to Watch the Northern Lights from 19 States Tonight  People.com",
-    "published date": "Wed, 01 Jul 2026 14:31:19 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOU1NhbGc4ZmUzYU54Z2p4R1M2R3J6SUhHQnVoVGtreFVUcXhRREVZeHlZWlh3RHdNTTF4TnNtaEc3d2JET3ZfRXFLQjFBcGVsNk5EMHZmNzhrd091SXNGUVZEc3AzaUVhTm56ZkFuUDRmVlFtZ2pPVXkyOFh6WGpEWElnbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "The end of an era for the BMW 3 Series - The Globe and Mail",
+    "description": "The end of an era for the BMW 3 Series  The Globe and MailA thrilling drive: Inside the BMW M340i xDrive 50 Jahre Edition experience  Toronto Star",
+    "published date": "Thu, 02 Jul 2026 09:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZkRxUDdTdnBseXpGbE1ERXJSalBLaDdCZC1tTkgyMkR5U1c0OG5faDNMMG05NjBRR0g1a0tpdkVSUGJVVzQ4dkhRT1Vtb1NWaWxQZV92U2Zqb2Zic3A0anBTUkpDdUdLMFlNd2dGOUpRaEk5TEZIeVc2OUhORm8taFJEQWc0aE50NkVObjB0bkdVclB2R3VkVA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.marthastewart.com",
-      "title": "marthastewart.com"
-    }
-  },
-  {
-    "title": "2K co-founder Christoph Hartmann joins Ubisoft to lead Creative House 2, which focuses on Tom Clancy titles - Video Games Chronicle",
-    "description": "2K co-founder Christoph Hartmann joins Ubisoft to lead Creative House 2, which focuses on Tom Clancy titles  Video Games ChronicleUbisoft appoints former 2K and Amazon exec Christoph Hartmann to lead Creative House 2, overseeing Splinter Cell, The Division and Ghost Recon  GamesIndustry.bizUbisoft Announces Leadership for Creative House 2  Ubisoft",
-    "published date": "Wed, 01 Jul 2026 15:57:33 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOVVPaWhZaUJEWk9BazFpOUpkRnlSQnVQVnczQ1M4MEdibXZpNHZycXRJOUE0VGxqM1l2SDIyRlNuVTN5U3lVNlZlankwODBWZTFZUmtGWXlJMkk2S3ZOOEVMRjhKUzJHNUd1YUVlLWRmcmtYcW9vc09ENXpSLWRiSklvQWtVZUQ2VGxtMkhxeEItc2xKT0Nfdk5neFZ4MEdQOWV2V2tWWklidU1KeWcxcFdzcFVTVERSOHE5OG5KNXdScUhKdWxwaEsxSEJtOWRRRFdlVDNyUVM1WlJUeDVlR3Jn?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.videogameschronicle.com",
-      "title": "Video Games Chronicle"
+      "href": "https://www.theglobeandmail.com",
+      "title": "The Globe and Mail"
     }
   },
   {
@@ -187,6 +157,46 @@
     "publisher": {
       "href": "https://www.forbes.com",
       "title": "Forbes"
+    }
+  },
+  {
+    "title": "Intel's major driver update for Windows 11 delivers performance boost, ships with Microsoft's quality promise - Windows Latest",
+    "description": "Intel's major driver update for Windows 11 delivers performance boost, ships with Microsoft's quality promise  Windows Latest",
+    "published date": "Thu, 02 Jul 2026 02:40:42 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVGMzZFdJUzA2aWo3a2hqTUh5U2RjZ2U5ejhyRHFlMy10MVdKTWRVdWZVYWlweHpGNXZzSS1zMlhiQWsxOVBEbU9KeENmZHpOQ05sNUxZZm9UeDE0bE9uMzV2ZGt2NVhySXlqQjhISkpTU0ZCZUVqQ2NpUkt1ZHlORGVOZ21YWENDVGxqdkp2cE91YW1OSTI3b244aUkxdW9KQjBYQmhXS2hGbE5mNWxBb0NjcWpURVE5V3VCQ1FudGExNzFQZTN0M0RxNFhsalBpaklnVm90MVJ4T2hoU2t3M05R?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.windowslatest.com",
+      "title": "Windows Latest"
+    }
+  },
+  {
+    "title": "Windows 11’s new Start menu released to all ahead of next big update - Windows Latest",
+    "description": "Windows 11’s new Start menu released to all ahead of next big update  Windows LatestWindows 11 Gets New Taskbar Settings, Other Improvements In Latest Build  HotHardware",
+    "published date": "Wed, 01 Jul 2026 16:59:47 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaHo5TGVTYlc1eGo0c0ZFTFo1ZUthOGNXZG5DOWYwNHpZY2tCcDl0Y2R2UE1PbWZCUTVNeVZvamg2VGc5SWQxd19KamFIdE1iNnkzQVZIczByTUVxbkk0WUpoclhQa2h3U0swaDA3NHdYQlVtb3VLNmMwY1JWYUQ4amdrWTlLSkV4SF9uaFp6MjVqMXBwOWNGWFlKVmlNYzNHVVVZOFltUW5OUUFaWXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.windowslatest.com",
+      "title": "Windows Latest"
+    }
+  },
+  {
+    "title": "The Best Summer Watches: Mike’s Five Picks From Rolex, Synchron, Victorinox, TAG Heuer, And Hamilton - Fratello Watches",
+    "description": "The Best Summer Watches: Mike’s Five Picks From Rolex, Synchron, Victorinox, TAG Heuer, And Hamilton  Fratello Watches",
+    "published date": "Thu, 02 Jul 2026 05:05:36 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpdzI1dUJKcEh0Y1d3ZEw3eEpmelJFamF1NnV2Wmt3U2FNaVdxMkFuWUxEUVBfdFRBeWFsRXA2TW4xQ250Q3ZEVVQ0NkwxNldwUVpNTm8xdDFoTFI4U1Y2ek12UUl5TUs3akxndWJScVlxZ3hndTJsZ0pCcDJ0UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.fratellowatches.com",
+      "title": "Fratello Watches"
+    }
+  },
+  {
+    "title": "Uninstalling an app on Windows rarely removes everything — here's how to really do it - MakeUseOf",
+    "description": "Uninstalling an app on Windows rarely removes everything — here's how to really do it  MakeUseOf",
+    "published date": "Wed, 01 Jul 2026 16:00:18 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOWFQUDc3OW5HMmtrUmEwXzFQLTFQV19XdW9MUi1SOUZ4aVFQUDhRZXgyYzlGOEp2WTgxaEE3U1BrOG9YbGtMY0RUN0REVlo2cHEzZFU3TGY2UXpHeGZqV1dIdHZtTFlzNG9wZ1hJWXRSU3JhZTYwRF9ndllfRWRaU0NzRlRha01VVEtjYkZUd2RKNlFU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.makeuseof.com",
+      "title": "MakeUseOf"
     }
   }
 ]
