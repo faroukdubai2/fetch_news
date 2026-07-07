@@ -1,15 +1,5 @@
 [
   {
-    "title": "13 لاعبًا يمثلون منتخباتهم الوطنية في المونديال - الموقع الرسمي لنادي الهلال السعودي",
-    "description": "13 لاعبًا يمثلون منتخباتهم الوطنية في المونديال  الموقع الرسمي لنادي الهلال السعودي",
-    "published date": "Wed, 10 Jun 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYUtfVEdqQmtHdXBVVkhBcVRLakhpMGs2SUNPZXowUUlpejNERDVpLXVGVEotNTVHM0laRlBqcC1INUtxMEVuZjZyMVRpVW85NFBmcVZOeTN5bmUxVzl1b3dLc2ZxaXlTSTJ6OGxfc3NFT3Jfamg5R2JIdnQ5MmxvNElIeXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://alhilal.com",
-      "title": "الموقع الرسمي لنادي الهلال السعودي"
-    }
-  },
-  {
     "title": "بعد تعادل الهلال والنصر.. هذا ما يحتاجه كل فريق لحسم لقب الدوري - CNN Arabic",
     "description": "بعد تعادل الهلال والنصر.. هذا ما يحتاجه كل فريق لحسم لقب الدوري  CNN Arabic",
     "published date": "Tue, 12 May 2026 07:00:00 GMT",
@@ -17,6 +7,16 @@
     "publisher": {
       "href": "https://arabic.cnn.com",
       "title": "CNN Arabic"
+    }
+  },
+  {
+    "title": "13 لاعبًا يمثلون منتخباتهم الوطنية في المونديال - الموقع الرسمي لنادي الهلال السعودي",
+    "description": "13 لاعبًا يمثلون منتخباتهم الوطنية في المونديال  الموقع الرسمي لنادي الهلال السعودي",
+    "published date": "Wed, 10 Jun 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYUtfVEdqQmtHdXBVVkhBcVRLakhpMGs2SUNPZXowUUlpejNERDVpLXVGVEotNTVHM0laRlBqcC1INUtxMEVuZjZyMVRpVW85NFBmcVZOeTN5bmUxVzl1b3dLc2ZxaXlTSTJ6OGxfc3NFT3Jfamg5R2JIdnQ5MmxvNElIeXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://alhilal.com",
+      "title": "الموقع الرسمي لنادي الهلال السعودي"
     }
   },
   {
@@ -50,16 +50,6 @@
     }
   },
   {
-    "title": "الهلال لا يستسلم.. رافينيا يرد على العرض السعودي بشرط مفاجئ - جريدة الرياض",
-    "description": "الهلال لا يستسلم.. رافينيا يرد على العرض السعودي بشرط مفاجئ  جريدة الرياض",
-    "published date": "Wed, 17 Jun 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE55UXN2QXVfQTNwWmx1TnhteGRjRXBzcktVS01LaWdnNDZPcG9EQXI2dC1FUnY4QmNYX3ZPNDJXVmVkZ3B0Tmc0?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.alriyadh.com",
-      "title": "جريدة الرياض"
-    }
-  },
-  {
     "title": "فيديو: انتهى عصر المعجزات.. الهلال يهزم الفيحاء ويخسر الدوري السعودي مجددًا - Kooora",
     "description": "فيديو: انتهى عصر المعجزات.. الهلال يهزم الفيحاء ويخسر الدوري السعودي مجددًا  Kooora",
     "published date": "Thu, 21 May 2026 07:00:00 GMT",
@@ -70,9 +60,19 @@
     }
   },
   {
+    "title": "الهلال لا يستسلم.. رافينيا يرد على العرض السعودي بشرط مفاجئ - جريدة الرياض",
+    "description": "الهلال لا يستسلم.. رافينيا يرد على العرض السعودي بشرط مفاجئ  جريدة الرياض",
+    "published date": "Wed, 17 Jun 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE55UXN2QXVfQTNwWmx1TnhteGRjRXBzcktVS01LaWdnNDZPcG9EQXI2dC1FUnY4QmNYX3ZPNDJXVmVkZ3B0Tmc0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.alriyadh.com",
+      "title": "جريدة الرياض"
+    }
+  },
+  {
     "title": "كيف يحسم الهلال لقب الدوري السعودي بعد تعادله أمام النصر؟ - annahar.com",
     "description": "كيف يحسم الهلال لقب الدوري السعودي بعد تعادله أمام النصر؟  annahar.com",
-    "published date": "Tue, 12 May 2026 07:00:00 GMT",
+    "published date": "Tue, 12 May 2026 20:39:22 GMT",
     "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxQTWlJTUtyWmQ5V0EwRklVVHpSRnpHZV9FbEdCb3E4Z0xYdG05d1ZxbE9pMUVNRnBRVHFtY2J5UFBtOXB1bFNRMm1OaW50QW9VaXdyM29hR3VvM01NRVZkaEp2ZWFobzF3Nk5RWHFOaEVnSTdnLXhyaU93azByd0ZfckUyZV9iOE4yRVNXbVhhQUYzS0JUUXZRb25RNFBhX1hMcnFFLXpvUXY1NDQzVEdfUllETHREQ2NzbjN0RWJLdUc0dkZNbDhudXZnazdSdDNvZmhyeU02TlpKUWkwdV9xS1BZUDFWUGEyWG1DSjllUjZ5M3Q5RmhQSDRuSVlwWTlUVWo5WDV1aC1lWXBBcVVVd3BRU243a09MUlMzeE0tZ0pycjBKbmpTYTc4WW5abldZVnJOTFZRXzV6RTI4aFgwWW9tODNYbFVJVXl1a0hOSWlkbFdzQWd6YWh3TUpDcWc0VDlzdUM0emJtam83NVVzcU1OU2V3RENtTUVKcV9LXzJVbzVvaGl1Z0gtVGFpWmNvTmJHdDFhcXRxWHVKTkNfYVAtVGN1azdlNHRDY1hYR0xjOW53NmlybUtJcDJ6Y3Y1ZlNmX2dIdHBwZEU5WWIyZk9MRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.annahar.com",
@@ -700,6 +700,16 @@
     }
   },
   {
+    "title": "موعد مباراة الهلال والنصر في الكلاسيكو السعودي والقناة الناقلة - Masrawy",
+    "description": "موعد مباراة الهلال والنصر في الكلاسيكو السعودي والقناة الناقلة  Masrawy",
+    "published date": "Tue, 12 May 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiswRBVV95cUxNNEE5Q0lwOElKMmpiLUdIYkZmMHZxVzNYVktlbllaWGVsbmdkd09hN2J4N19QTkxOZFNMTG00T3RZLXBZek1TY185aEp2UGd3ZEpzakdyeWs2bGd1STZUU1BJSWFKQ0lNMjBKckdHV21Pc0UyOFlBVlhSZFNreVVPcGZiekMxSkx0ekJUQ04tbV81Z0dGaDRvbHJBSktDRmEySGNuS2Z0dkR5UzFzLTcxdVRsWTRpUnNVdVVXOV9JLWpaMk1uTl8wa1Q2YUY0ZjBNenJ6cEZabTcxZ3FtRFZQZ28wcGFVN0NZNXllS2xUTzJOVml3cGpfSXFZMmZlMzN4elVCSmFER0ZSbVlMUThBRVdoSTgwdmxObmFscG9DVnNJTkl0Qi1rSUs1MmVRaU9UdWVWSmFQUXdaSHczNlMzby15MHhndEt4eS1UdXQxQzlGZWJyNDNpV0x3bm1PdDh6cTVKbFZOZ25aWnY1eTFjbl8wRlQzSFJuejVldEZ5M3RRT09jUU9MVkVxT0FjVTJ4Ylo3MWFDYVlhUUdxdWMweEpTSGxlSUt0d3cweWJxUHpTNW52ZFI3TEprbmlvYVJtYkk3Z3NQVlN3STNUV2RsOU1nc2pIaUJ5SGtRc3B3TkpQbC1FVXFhSUhjMVJ4VlB4U3hLV1JlVHRnY3V1QVJRTjVwd3daRlJ0bk5CXzczRGhSelpDU05aTXRpNjJubTk5MlJEMFYwa2pwaDVkYVhMT2RmWdIBuARBVV95cUxNcDkzM0s4V240WjRmd20wRDYta2o1enM2R2FCZkd1aUdrTV95ZWJ1dHJmWU4wOUNCbG03ejZYaWRBaHRRYjlzQS12a2d3OVpYdmhlVUNZY3hxWnZsX1pGcnl3VmFhV1REd1BwQjJNQlJkVEEwT1diT0NuN19XS0ZmbHBOc0NIRS1zdzV1bUNreVl1Wk5zR0xkcDZPaU41czl6R1RNeDlFcVdvdUUxcnZ3TDlRZkJiVFFNN1ZiZ1ZHRVFYT0xnTzhnc1czT3JjbnlrdjNheHIwM29sX0ZVVVBPX19iMEVvdUQyS1YyRUdnVjY2azhqVkR3eHQteTBKZ24yakxsS2hEVDNuWm5sX1VFd1Bpb08zSTdzeGFDNHN3TGduVkdLNnF6X0JtLUlPUEpaVVBOdmpBM19EVi1ZeC13cTZ6UkNxb1FmSVd2RG9STlRLclNSNjN3cEw4aHVMaUV3WkdHYU5VVTNlSmVBaEs4SGhKT0NBZ3Y1OWlpNmlDdXdtQ05JRmVaSVRLZS1BWURGYS1TcldNQ2pxdFBaenZzU1UtaUk3TmJmZnZkWEdPaW4xR3hwZl9lMWwzUEJHOTNaVDVBSE1mOTNsVl9pbnJHcExNczZmVTlMZ2RWNXBCZXhCRVlKZkZmOVpnU1dzcm42UXdpWDM3MnF5aGtLaUk0eXlpMUhnaFJDbEdZVnF5ZkU3Zi1QcDdjV19kd2oxaTEzUWR3Si1HS3RpTl9QT29QX0h0eXNBMXlF?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.masrawy.com",
+      "title": "Masrawy"
+    }
+  },
+  {
     "title": "ما القنوات الناقلة لمباراة الهلال والخلود في دوري روشن السعودي 2025-2026؟ وكيف تشاهدها عبر الإنترنت؟ - Goal.com",
     "description": "ما القنوات الناقلة لمباراة الهلال والخلود في دوري روشن السعودي 2025-2026؟ وكيف تشاهدها عبر الإنترنت؟  Goal.com",
     "published date": "Wed, 08 Apr 2026 07:00:00 GMT",
@@ -717,6 +727,16 @@
     "publisher": {
       "href": "https://www.kooora.com",
       "title": "Kooora"
+    }
+  },
+  {
+    "title": "موعد مباراة الهلال والخلود والقنوات الناقلة في نهائي كأس الملك السعودي.. والمعلق - المصري اليوم",
+    "description": "موعد مباراة الهلال والخلود والقنوات الناقلة في نهائي كأس الملك السعودي.. والمعلق  المصري اليوم",
+    "published date": "Thu, 07 May 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kOS1CQU5obXlqS283eGc5c2hpMjJvdS1DYVZiRF9GRU5INXdIUURJR0d3bWthU3R5Q2VRcWxuZVdwdmJuYmRvbEtDdkZSSGgxZ1FVZEl5a0tYQmZ1U1M40gFjQVVfeXFMTUQtbUdkNi12VFlQalVkams0WmRaSmFheWhaSTFWLVZkZU1Cc1dzTU92cjFXWUQycHpzcmI5WmhBcjJUbDJ5bW1EUDlVR04xdGpVazVCNXB3M0FMZVpjYVpyVWNv?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.almasryalyoum.com",
+      "title": "المصري اليوم"
     }
   },
   {
@@ -747,16 +767,6 @@
     "publisher": {
       "href": "https://www.kooora.com",
       "title": "Kooora"
-    }
-  },
-  {
-    "title": "الهلال فى مهمة تقليص الفارق مع النصر أمام الخليج بالدوري السعودي - اليوم السابع",
-    "description": "الهلال فى مهمة تقليص الفارق مع النصر أمام الخليج بالدوري السعودي  اليوم السابع",
-    "published date": "Tue, 05 May 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxQM3cwZ2VuQUY5MG5oR0Z6RUQwd1VtM2ViWGJOYjJtOHJVZFRpYndUTkFRYzFOSVhSZGxIdFJpV0NBRUN6SWhmUFVuMlFtYlROMFp0bWF2d2xxNmpjbHlfTjdoMU50UmJMY1VmeXlia0ttQktWTWJqWEVFUHg5STZCTUFnLVZoVXJnWFlNOWptS0daZ2JZczE3b0pRcWd0N0ZvcUNYT19ZRENRMnZuZVgwM2xEOHh6a1Z1d1g3OGpNX04zbzNxTEg4NlBWRWF5RGIyNGE0VUV2cWhvN3pvLS1NQUpsY3Y2QlQzb2RhbGx5ZXFyZGVmNUV1OWVPWEtRZHhvRk00MEN0UG80eHRaLWtSa01sVkFIVG5JQzVJWVNucjZrcGQxQ0tQZUFUVFdTVlBaZnpONEhKQ2duWlFIc1VwX2VYcE50VjhTR29wN0lRQ3VsNzNPQmlrZmk4TFF5S0k2MkJaeW5QamQ3TmV5M25XME9BbVFfVUxEWGY0RGRIMzdyN25iLVhaNDNfcnFFUlNUZzhENWlwRExubkNnSUFRb2plYnNUTDZEeW9vajBFNEU3ZGxnOXhFMHZFS0RBaHNtSy1rTGNTUmlCVW9vYkw2UnlHSEFpV2FTXzRiNdIB1wNBVV95cUxQMUQ1MzJZTlp5b0pSTjB4TER4RER3d1VySVp6U1BHVDg4XzdlR3YxeHkybkRIZlBnZnNidTJLX1VSaWJham1Qb2d2M0RpUlJhT1dVcWpoTWtsN2FLX1hHemNZZEtaZ0NNWnZOT19tX2phWXBEaGlINlpDMXQ3MEpOeldDM0VWZnp4UDl6TGJSS0lJdGQwM1hlTU9DUFBENlYzaUxPYkR1WTQxeWJDT2FESkQxUFlXRXVvNTNiOVpZdmNKR3lnRWt1S2xvNmUwQmhHTm5VSFRRTVpuYVZMLWE3R2oxTVg2dm5KQUJVcC1GTDFPamxuZHRRNWdnMTk1dnZuV2ZlQ2ZUQ1IySkM2d3R0ckxfaWZBS09LclRVZERPQ2ZON3lxWW05VXBFSkh6eFVGd2ZtY3J1Zm9JaE5lY0UyY1dLTGl3eG5FbFluMlN1Y3ZLNjVLb1A0SnUtMG9xNmpIc0EzYkUtRjJjRTB2Z3pYUXNicXJoS0Z4VW1WanM4QjdyOGFkV3Z1QlZySU9BY0hRSFpDbGJuZ2NiMEFlZV85MU9BUktUdl9BN0xlTTZkeVBGVVA1RTFab3dvRW91R0g2bnFhYUJBRXZaYmJWdGJhUW82WTgxU1k?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.youm7.com",
-      "title": "اليوم السابع"
     }
   },
   {
@@ -810,13 +820,13 @@
     }
   },
   {
-    "title": "كريم بنزيما ينتقل إلى الهلال السعودى حتى يونيو 2027 - اليوم السابع",
-    "description": "كريم بنزيما ينتقل إلى الهلال السعودى حتى يونيو 2027  اليوم السابع",
-    "published date": "Mon, 02 Feb 2026 08:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxQcjZCdFFmQXR6akZ3YmhJcmRqZHRmVkhBSmo3WDBGQ3BYeFhfc2ZJQWQxU0xnZTRlTC1HZjNHSTlaaDNoR0c0Zk9pM0FMa0R0VTJfcjRwRlpuWi0tMm1DNXY3eTBMOTlQcmFEWUc5enFwZE52VkZKR2duaWFFOEhxMjhiRUVfTHdVVGpPZl9yNHNoaGRRT0RoOTl6YlRycVg0MTRXWUlkUGlPZkVoa3ZwWF9UVWg2WTloTERsVmsxMkhjYk1BaENKU1hIdUo3TjZta0hjS1hkR215RVFhQThyVGtSM1VlanRjRXdPYS13dFBadU90Q19nNTZGSnhWeDZlX3JuZ1htem1xZ2RiQ2VRbHB0RVgzYWNWbzAtTWRmbDEwZHJsRk9iMXl6LVppMzBOMXRBWWluN19IdEZLRlRNQVhzYjAzemoxX1R3eGlnb1g0NE1nZWtCbTRJSFBGNHRYNFV2M1Q5OVdPYzhQNUhua0MxWkZzU1l0SklibTREUjhVMUVKVzVKUTZfbVhtTXV6V2wtNDBwdUYxYnNPRHNFR9IBmwNBVV95cUxPbF9PZU8tc2Jpald4UGRkNE94VTZtZm1WekJ0T0hZV3dPb3lnenJLbXlmcjFQYkQ3blkyTGctblNqNzRILUdnMC1nOGVVM0VTb1Iza2hvSVp0NGdXQkI3aTFJMG5nVEd1LXhabHM2bUtiQ3JTVEFHakx5Skc2aWx2M256aW1uN1ppSUJvb2tuemhlRFlKNnZIZTA5RndhRVFuVlFLUlVuUXpBSVZ4aVhRam5QR1k5T0ZRMjZfSDZzTER6VWJ5VkREaDhtMENlMzFJLWQzaERMekFnWGFVUHRsbnE4ck5tSzIxU1B6bzFSMnBRYTlDRVhkOFZmaUpKWXNOUUwwcEN5ekRybWlIeE85bUFmWGM5LVUzSVRBaXFVUGw0RlF5Q0xtZXg1eGlMVHlFdGlYUUsyTEd1SVRiT2VfODNPN2JweDlFTmFLS291M0tRVDFXSXJudERnNk51N1BDMUY1UU9DRjQyUVcxYUsxS1BDZWdBUkF5dVlaeTYtS1cxR2NYLS02bHI3ZTlyU1VHYlowbzFnMTBtU1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "مباراة النصر والهلال في الدوري السعودي.. الموعد والقناة الناقلة - يلاكورة",
+    "description": "مباراة النصر والهلال في الدوري السعودي.. الموعد والقناة الناقلة  يلاكورة",
+    "published date": "Tue, 12 May 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxNNXJ3THdNSjZmVHZXNE1mMHdCWWtpZ2ptaDVncXV6UlNDeHVEOGVUNHhKVjR2QjBjcFc1VzY1cEhMRjJiS1daczF2YjJDSkM0eklLS05hc1czT2x5UGNad2M4UWFzTzFTeG4xTzBQQU9hSG1Cbl9sZHZMdTV1LTZ1R25XOGpLUEEtb2o2Qy1PQXBhWjIyYlhnN24tOHdaSnRpMlBRa3M5WEhTV2c3OUlMUklialVuTVU3aXg4R19NSHlaTUdLV1BhaS1ILVZ0YUpDX3g5VU5aUVVaQXV5NXRmd1pJeWFGZFoweElTV3NnMUNEZC1ybDUtYXJ2NjFLeVczVy1UV1lTMHcxRmpLY2Rya0g2MXpjYXB2emVmQlV5MlNQQnNOZDN4TWxFNjM0d0dTWVE3QUdMRXAzZ1JOWWsxQkxCVWkyaXR4clpHZllCRm9TWFNKYUNvcE1VZG9vOXNlUnhVZEl0Q2JtMW1FbmtqcTB1eE9WbDFEOHBWQXJVVExyUy0xQlFkREFzSTloUldYVWdLcWtYd3FnS3lrU1pGel9Uc2JVeVp0bEFvbUpXMnNJU0ROWENPemVZTnlTQTYtUWdJdTNkSXZwTk9iZndIRW96UVMwZjJ1cUp5Z19TWlFFVzQzcjdlcTd6TWxJVFRjZmhheXdteW5iNy10dnh6ei1NMHJIdmZVUHFPM0lLSjVWNmdndm5V0gGcBEFVX3lxTFBpWXdUQkhGeVUwS1ZEaWdzZHU1QXJxTktLSGE4Wmt4cGdTN1hoMkRtdG8tWm5HMWtELWtDenJxWkRwUmNhNG5BRzA5ZXR1YnBEcm82aGFJNHpnVE1id2RfMWVFd1pNc2Q0NDF3WlRXalp4ejlRc3NMUEh4WjNMQ1pBd2tRNnlVWVFfWG9QamNlcHZkZWlhd29aRHNKYm54eDVzV3hObjE0clV5NkVJZjRMYjNaaXhiRjdkOXlTZmZwdlNkU0kwX01TcWJtUy1wNW9tOFNLel9OeW8tVDFYTWxHMHh1aDE2bHgzb0VEcHhLWWR6ZDJDWDRZaUxKaG1zeEhXWjQzUmVBQmNMaWFMS01jUkRIZlU4OTNMbDhpX0tXMDVVMWZ3NkEzZElIU2NDVi1LQ3VxY1FSNlNGREcwY2JibkRaZ0J1amh6a0FwWjJCZ1BCTnRLN0ZFREdBbkU0LTNQcGJPSXhRa1Nvek94enpUdEc4MzkzMUZFS2Zjbi10ODJDLTJjSWxCcWxQM1R5Z1prYUVMRW9WQy1Ka1Jla1IxZE03Mk12enZ5b0JHM2dkRHotemVjaHRKMUcyR2Mwb3l4a2swbkdPZzczQWFmbERFelhmeHNDVWxxZ0JSR1pmU3RMakFxVldSaHFtaDVnNUVBTnZfZEo1MWhpcjBSRUF2ZXlTSzhjcno0M0VZUktQUkdWTWhqNjY5SDJoZg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.youm7.com",
-      "title": "اليوم السابع"
+      "href": "https://www.yallakora.com",
+      "title": "يلاكورة"
     }
   },
   {
@@ -830,6 +840,16 @@
     }
   },
   {
+    "title": "كريم بنزيما ينتقل إلى الهلال السعودى حتى يونيو 2027 - اليوم السابع",
+    "description": "كريم بنزيما ينتقل إلى الهلال السعودى حتى يونيو 2027  اليوم السابع",
+    "published date": "Mon, 02 Feb 2026 08:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxQcjZCdFFmQXR6akZ3YmhJcmRqZHRmVkhBSmo3WDBGQ3BYeFhfc2ZJQWQxU0xnZTRlTC1HZjNHSTlaaDNoR0c0Zk9pM0FMa0R0VTJfcjRwRlpuWi0tMm1DNXY3eTBMOTlQcmFEWUc5enFwZE52VkZKR2duaWFFOEhxMjhiRUVfTHdVVGpPZl9yNHNoaGRRT0RoOTl6YlRycVg0MTRXWUlkUGlPZkVoa3ZwWF9UVWg2WTloTERsVmsxMkhjYk1BaENKU1hIdUo3TjZta0hjS1hkR215RVFhQThyVGtSM1VlanRjRXdPYS13dFBadU90Q19nNTZGSnhWeDZlX3JuZ1htem1xZ2RiQ2VRbHB0RVgzYWNWbzAtTWRmbDEwZHJsRk9iMXl6LVppMzBOMXRBWWluN19IdEZLRlRNQVhzYjAzemoxX1R3eGlnb1g0NE1nZWtCbTRJSFBGNHRYNFV2M1Q5OVdPYzhQNUhua0MxWkZzU1l0SklibTREUjhVMUVKVzVKUTZfbVhtTXV6V2wtNDBwdUYxYnNPRHNFR9IBmwNBVV95cUxPbF9PZU8tc2Jpald4UGRkNE94VTZtZm1WekJ0T0hZV3dPb3lnenJLbXlmcjFQYkQ3blkyTGctblNqNzRILUdnMC1nOGVVM0VTb1Iza2hvSVp0NGdXQkI3aTFJMG5nVEd1LXhabHM2bUtiQ3JTVEFHakx5Skc2aWx2M256aW1uN1ppSUJvb2tuemhlRFlKNnZIZTA5RndhRVFuVlFLUlVuUXpBSVZ4aVhRam5QR1k5T0ZRMjZfSDZzTER6VWJ5VkREaDhtMENlMzFJLWQzaERMekFnWGFVUHRsbnE4ck5tSzIxU1B6bzFSMnBRYTlDRVhkOFZmaUpKWXNOUUwwcEN5ekRybWlIeE85bUFmWGM5LVUzSVRBaXFVUGw0RlF5Q0xtZXg1eGlMVHlFdGlYUUsyTEd1SVRiT2VfODNPN2JweDlFTmFLS291M0tRVDFXSXJudERnNk51N1BDMUY1UU9DRjQyUVcxYUsxS1BDZWdBUkF5dVlaeTYtS1cxR2NYLS02bHI3ZTlyU1VHYlowbzFnMTBtU1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.youm7.com",
+      "title": "اليوم السابع"
+    }
+  },
+  {
     "title": "مشاهدة مباراة النصر والهلال في الدوري السعودي.. الموعد والقناة الناقلة - صحيفة الخليج",
     "description": "مشاهدة مباراة النصر والهلال في الدوري السعودي.. الموعد والقناة الناقلة  صحيفة الخليج",
     "published date": "Tue, 12 May 2026 07:00:00 GMT",
@@ -837,16 +857,6 @@
     "publisher": {
       "href": "https://www.alkhaleej.ae",
       "title": "صحيفة الخليج"
-    }
-  },
-  {
-    "title": "مباراة النصر والهلال في الدوري السعودي.. الموعد والقناة الناقلة - يلاكورة",
-    "description": "مباراة النصر والهلال في الدوري السعودي.. الموعد والقناة الناقلة  يلاكورة",
-    "published date": "Tue, 12 May 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxNNXJ3THdNSjZmVHZXNE1mMHdCWWtpZ2ptaDVncXV6UlNDeHVEOGVUNHhKVjR2QjBjcFc1VzY1cEhMRjJiS1daczF2YjJDSkM0eklLS05hc1czT2x5UGNad2M4UWFzTzFTeG4xTzBQQU9hSG1Cbl9sZHZMdTV1LTZ1R25XOGpLUEEtb2o2Qy1PQXBhWjIyYlhnN24tOHdaSnRpMlBRa3M5WEhTV2c3OUlMUklialVuTVU3aXg4R19NSHlaTUdLV1BhaS1ILVZ0YUpDX3g5VU5aUVVaQXV5NXRmd1pJeWFGZFoweElTV3NnMUNEZC1ybDUtYXJ2NjFLeVczVy1UV1lTMHcxRmpLY2Rya0g2MXpjYXB2emVmQlV5MlNQQnNOZDN4TWxFNjM0d0dTWVE3QUdMRXAzZ1JOWWsxQkxCVWkyaXR4clpHZllCRm9TWFNKYUNvcE1VZG9vOXNlUnhVZEl0Q2JtMW1FbmtqcTB1eE9WbDFEOHBWQXJVVExyUy0xQlFkREFzSTloUldYVWdLcWtYd3FnS3lrU1pGel9Uc2JVeVp0bEFvbUpXMnNJU0ROWENPemVZTnlTQTYtUWdJdTNkSXZwTk9iZndIRW96UVMwZjJ1cUp5Z19TWlFFVzQzcjdlcTd6TWxJVFRjZmhheXdteW5iNy10dnh6ei1NMHJIdmZVUHFPM0lLSjVWNmdndm5V0gGcBEFVX3lxTFBpWXdUQkhGeVUwS1ZEaWdzZHU1QXJxTktLSGE4Wmt4cGdTN1hoMkRtdG8tWm5HMWtELWtDenJxWkRwUmNhNG5BRzA5ZXR1YnBEcm82aGFJNHpnVE1id2RfMWVFd1pNc2Q0NDF3WlRXalp4ejlRc3NMUEh4WjNMQ1pBd2tRNnlVWVFfWG9QamNlcHZkZWlhd29aRHNKYm54eDVzV3hObjE0clV5NkVJZjRMYjNaaXhiRjdkOXlTZmZwdlNkU0kwX01TcWJtUy1wNW9tOFNLel9OeW8tVDFYTWxHMHh1aDE2bHgzb0VEcHhLWWR6ZDJDWDRZaUxKaG1zeEhXWjQzUmVBQmNMaWFMS01jUkRIZlU4OTNMbDhpX0tXMDVVMWZ3NkEzZElIU2NDVi1LQ3VxY1FSNlNGREcwY2JibkRaZ0J1amh6a0FwWjJCZ1BCTnRLN0ZFREdBbkU0LTNQcGJPSXhRa1Nvek94enpUdEc4MzkzMUZFS2Zjbi10ODJDLTJjSWxCcWxQM1R5Z1prYUVMRW9WQy1Ka1Jla1IxZE03Mk12enZ5b0JHM2dkRHotemVjaHRKMUcyR2Mwb3l4a2swbkdPZzczQWFmbERFelhmeHNDVWxxZ0JSR1pmU3RMakFxVldSaHFtaDVnNUVBTnZfZEo1MWhpcjBSRUF2ZXlTSzhjcno0M0VZUktQUkdWTWhqNjY5SDJoZg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.yallakora.com",
-      "title": "يلاكورة"
     }
   },
   {
@@ -927,16 +937,6 @@
     "publisher": {
       "href": "https://www.goal.com",
       "title": "Goal.com"
-    }
-  },
-  {
-    "title": "موعد مباراة الهلال والنصر في الكلاسيكو السعودي والقناة الناقلة - Masrawy",
-    "description": "موعد مباراة الهلال والنصر في الكلاسيكو السعودي والقناة الناقلة  Masrawy",
-    "published date": "Tue, 12 May 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiswRBVV95cUxNNEE5Q0lwOElKMmpiLUdIYkZmMHZxVzNYVktlbllaWGVsbmdkd09hN2J4N19QTkxOZFNMTG00T3RZLXBZek1TY185aEp2UGd3ZEpzakdyeWs2bGd1STZUU1BJSWFKQ0lNMjBKckdHV21Pc0UyOFlBVlhSZFNreVVPcGZiekMxSkx0ekJUQ04tbV81Z0dGaDRvbHJBSktDRmEySGNuS2Z0dkR5UzFzLTcxdVRsWTRpUnNVdVVXOV9JLWpaMk1uTl8wa1Q2YUY0ZjBNenJ6cEZabTcxZ3FtRFZQZ28wcGFVN0NZNXllS2xUTzJOVml3cGpfSXFZMmZlMzN4elVCSmFER0ZSbVlMUThBRVdoSTgwdmxObmFscG9DVnNJTkl0Qi1rSUs1MmVRaU9UdWVWSmFQUXdaSHczNlMzby15MHhndEt4eS1UdXQxQzlGZWJyNDNpV0x3bm1PdDh6cTVKbFZOZ25aWnY1eTFjbl8wRlQzSFJuejVldEZ5M3RRT09jUU9MVkVxT0FjVTJ4Ylo3MWFDYVlhUUdxdWMweEpTSGxlSUt0d3cweWJxUHpTNW52ZFI3TEprbmlvYVJtYkk3Z3NQVlN3STNUV2RsOU1nc2pIaUJ5SGtRc3B3TkpQbC1FVXFhSUhjMVJ4VlB4U3hLV1JlVHRnY3V1QVJRTjVwd3daRlJ0bk5CXzczRGhSelpDU05aTXRpNjJubTk5MlJEMFYwa2pwaDVkYVhMT2RmWdIBuARBVV95cUxNcDkzM0s4V240WjRmd20wRDYta2o1enM2R2FCZkd1aUdrTV95ZWJ1dHJmWU4wOUNCbG03ejZYaWRBaHRRYjlzQS12a2d3OVpYdmhlVUNZY3hxWnZsX1pGcnl3VmFhV1REd1BwQjJNQlJkVEEwT1diT0NuN19XS0ZmbHBOc0NIRS1zdzV1bUNreVl1Wk5zR0xkcDZPaU41czl6R1RNeDlFcVdvdUUxcnZ3TDlRZkJiVFFNN1ZiZ1ZHRVFYT0xnTzhnc1czT3JjbnlrdjNheHIwM29sX0ZVVVBPX19iMEVvdUQyS1YyRUdnVjY2azhqVkR3eHQteTBKZ24yakxsS2hEVDNuWm5sX1VFd1Bpb08zSTdzeGFDNHN3TGduVkdLNnF6X0JtLUlPUEpaVVBOdmpBM19EVi1ZeC13cTZ6UkNxb1FmSVd2RG9STlRLclNSNjN3cEw4aHVMaUV3WkdHYU5VVTNlSmVBaEs4SGhKT0NBZ3Y1OWlpNmlDdXdtQ05JRmVaSVRLZS1BWURGYS1TcldNQ2pxdFBaenZzU1UtaUk3TmJmZnZkWEdPaW4xR3hwZl9lMWwzUEJHOTNaVDVBSE1mOTNsVl9pbnJHcExNczZmVTlMZ2RWNXBCZXhCRVlKZkZmOVpnU1dzcm42UXdpWDM3MnF5aGtLaUk0eXlpMUhnaFJDbEdZVnF5ZkU3Zi1QcDdjV19kd2oxaTEzUWR3Si1HS3RpTl9QT29QX0h0eXNBMXlF?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.masrawy.com",
-      "title": "Masrawy"
     }
   },
   {
