@@ -1,15 +1,5 @@
 [
   {
-    "title": "New Mexico health officials warn the public about bats as rabies concerns rise - CP24",
-    "description": "New Mexico health officials warn the public about bats as rabies concerns rise  CP24",
-    "published date": "Tue, 07 Jul 2026 19:52:38 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVHpLczVGa0JKRlJqa3hwNHRmelVPVUFZYjNtZnVJbDlTVk15YXhLQVVOLUlnZERmUjd5eWhYRXhHTEptaUU0dW5Fd083WXVadnl3Uy05VzhkQ3BaUUpwOW0wQVFMNUY3MnBSV0ZjSEdsdFhGYnF1Vy1waWpDVHF5cVh3WmEwMGxweDNyYTV3NFBlVE1SaXZ4dGxYN2haT3NacEZvRHV1d3BPZElwZzJ0MXZJMW9RQ1lHNTVjN28xYw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cp24.com",
-      "title": "CP24"
-    }
-  },
-  {
     "title": "Biohacker Bryan Johnson says he has incurable disease: ‘My stomach is eating itself’ - Global News",
     "description": "Biohacker Bryan Johnson says he has incurable disease: ‘My stomach is eating itself’  Global NewsBryan Johnson’s quest to beat aging hits a new obstacle  Crain's Chicago Business‘Don’t Die’ biohacker Bryan Johnson opens up about diagnosis  The IndependentLongevity guru Bryan Johnson reveals he has an incurable disease  AFRBryan Johnson diagnosed with incurable autoimmune gastritis  MSN",
     "published date": "Tue, 07 Jul 2026 20:06:57 GMT",
@@ -17,6 +7,16 @@
     "publisher": {
       "href": "https://globalnews.ca",
       "title": "Global News"
+    }
+  },
+  {
+    "title": "New Mexico health officials warn the public about bats as rabies concerns rise - CP24",
+    "description": "New Mexico health officials warn the public about bats as rabies concerns rise  CP24",
+    "published date": "Tue, 07 Jul 2026 19:52:38 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVHpLczVGa0JKRlJqa3hwNHRmelVPVUFZYjNtZnVJbDlTVk15YXhLQVVOLUlnZERmUjd5eWhYRXhHTEptaUU0dW5Fd083WXVadnl3Uy05VzhkQ3BaUUpwOW0wQVFMNUY3MnBSV0ZjSEdsdFhGYnF1Vy1waWpDVHF5cVh3WmEwMGxweDNyYTV3NFBlVE1SaXZ4dGxYN2haT3NacEZvRHV1d3BPZElwZzJ0MXZJMW9RQ1lHNTVjN28xYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cp24.com",
+      "title": "CP24"
     }
   },
   {
@@ -41,12 +41,22 @@
   },
   {
     "title": "Ticks increasing in prevalence in Saskatchewan as experts urge prevention - DiscoverWeyburn",
-    "description": "Ticks increasing in prevalence in Saskatchewan as experts urge prevention  DiscoverWeyburnLyme disease is on the rise. Here's how to prevent it and what to do if you get bitten  National PostHow to de-bug your outdoors this summer without harming yourself, your pets, or wildlife  The Globe and MailCanada is facing a very real threat of ticks  CityNews MontrealLyme disease on the rise in Canada, but still likely underdiagnosed. Here’s how to protect yourself from ticks this summer.  CP24",
+    "description": "Ticks increasing in prevalence in Saskatchewan as experts urge prevention  DiscoverWeyburnLyme disease is on the rise. Here's how to prevent it and what to do if you get bitten  National PostHow to de-bug your outdoors this summer without harming yourself, your pets, or wildlife  The Globe and MailCanada is facing a very real threat of ticks  CityNews MontrealTicks in Canada on the rise  CP24",
     "published date": "Tue, 07 Jul 2026 11:01:58 GMT",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSU1YMUdxYlBFOEFMam4yODdYRHlJaTBHOFRKRVVrVXJBVTlrVXlKTE5jRm9yXzRpQ1IyLVBic3hsNnM5MVNqcEliTTF5RGYwcG1rcURfN3I5bjJVdlIyejAxRFRsYTh0SHVDS19oaEZNVF9haDBvY3hOOHFaVmdYZU9ZTlRBZnVQa1d2MUJjbEpyaG9FS0VpMndBa3hPSnUzZzhWNzIzZjgwRFAwU3ZzS3FWNDM?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.discoverweyburn.com",
       "title": "DiscoverWeyburn"
+    }
+  },
+  {
+    "title": "What to know about cyclospora, the gut-churning parasite causing illness in several U.S. states, and how to avoid it - CTV News",
+    "description": "What to know about cyclospora, the gut-churning parasite causing illness in several U.S. states, and how to avoid it  CTV NewsWhat to know about cyclospora, the gut-churning parasite causing illness in several states, and how to avoid it  CNNClusters of Severe Stomach Illness Reported Across the U.S.  The New York TimesMultiple US states see alarming increase in cases of parasitic illness that causes ‘explosive’ diarrhea  The GuardianCases of 'explosive’ diarrhea illness top 1K. See states with the most  USA Today",
+    "published date": "Tue, 07 Jul 2026 19:53:19 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVzRzdFhCbHhMSDVhMjZEeG1GM0YwMEs5WlVuZGpXRHJ3ZW1ydzMxVDZwRFIwQ0xTNmk1WEs5TFItbEJvNVhNVDdwZVJLeVI1a2w4WXRTUkk1MXNPNndzb3JLdW5fMTRiVE9jc2MyNjBqcTlGOFZsMmpFX2lVLXl6SF9uYWxYMTVfc19SVmxCcTZzNXZWazdJbDc0Y3BZbWJucTdOejVYSThROWZMM0lsSTRuZjIySUtqaU9BUjFQLUdVR1V6NUtGT182elVybENaQkdheXFRNi15UTJsb0ZkMEhaMEQ2QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ctvnews.ca",
+      "title": "CTV News"
     }
   },
   {
@@ -57,16 +67,6 @@
     "publisher": {
       "href": "https://www.cbc.ca",
       "title": "CBC"
-    }
-  },
-  {
-    "title": "What to know about cyclospora, the gut-churning parasite causing illness in several U.S. states, and how to avoid it - CTV News",
-    "description": "What to know about cyclospora, the gut-churning parasite causing illness in several U.S. states, and how to avoid it  CTV NewsClusters of Severe Stomach Illness Reported Across the U.S.  The New York TimesWhat to know about cyclospora, the gut-churning parasite causing illness in several states, and how to avoid it  CNNMultiple US states see alarming increase in cases of parasitic illness that causes ‘explosive’ diarrhea  The GuardianCyclosporiasis cases climb in US. What to know about symptoms, prevention  USA Today",
-    "published date": "Tue, 07 Jul 2026 19:53:19 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVzRzdFhCbHhMSDVhMjZEeG1GM0YwMEs5WlVuZGpXRHJ3ZW1ydzMxVDZwRFIwQ0xTNmk1WEs5TFItbEJvNVhNVDdwZVJLeVI1a2w4WXRTUkk1MXNPNndzb3JLdW5fMTRiVE9jc2MyNjBqcTlGOFZsMmpFX2lVLXl6SF9uYWxYMTVfc19SVmxCcTZzNXZWazdJbDc0Y3BZbWJucTdOejVYSThROWZMM0lsSTRuZjIySUtqaU9BUjFQLUdVR1V6NUtGT182elVybENaQkdheXFRNi15UTJsb0ZkMEhaMEQ2QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ctvnews.ca",
-      "title": "CTV News"
     }
   },
   {
@@ -110,16 +110,6 @@
     }
   },
   {
-    "title": "Inferring multicellular interactions in tumors from standard pathology slides - Phys.org",
-    "description": "Inferring multicellular interactions in tumors from standard pathology slides  Phys.org",
-    "published date": "Tue, 07 Jul 2026 15:40:01 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTWt5djhYNXVQNVVWRW9ZX0lPMXhNVGZNTUFIYWRhT19vRHN5STYzb1lZY3FDd0p4VlhoSzJiZzVFSzNfQUVVeEtWRGtCcGFhUTh5Zzg2bElNU0g1QVpyM1g0cTFDRHhYaGRSSEMwVVpSQmttMlpZVkp5QVlyYzFBSHJ2Qkx4cGduYUhFSU8wWEQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://phys.org",
-      "title": "Phys.org"
-    }
-  },
-  {
     "title": "Chinese Study Shows Prediction Model May Help Identify Children at Highest Risk of Developing Myopia - Eyewire+",
     "description": "Chinese Study Shows Prediction Model May Help Identify Children at Highest Risk of Developing Myopia  Eyewire+",
     "published date": "Mon, 06 Jul 2026 13:37:14 GMT",
@@ -142,7 +132,7 @@
   {
     "title": "Study Links Several Progestogen Contraceptives to Rare Meningioma Risk, Reinforcing Individualized Patient Counseling - Pharmacy Times – Pharmacy Practice News and Expert Insights",
     "description": "Study Links Several Progestogen Contraceptives to Rare Meningioma Risk, Reinforcing Individualized Patient Counseling  Pharmacy Times – Pharmacy Practice News and Expert InsightsStudy ties some birth control to brain tumours, but risks ‘rare’: experts  Global NewsNot all birth controls are equal, some are linked to higher risk of brain tumors, study finds  Medical Xpress",
-    "published date": "Tue, 07 Jul 2026 18:56:15 GMT",
+    "published date": "Tue, 07 Jul 2026 18:59:59 GMT",
     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZjBsUXBXeEtRaDM1cDdLU2dYTDNaaExnWUFIMjB3T3AxZ1p0c3M5bGZZc0JqaEdzNWtuTXlxeVQwMGFra3Nia2RFTXJyYnBnYzdFbHlzdGFTYzdNQ3g2NTJ1TzBCNVI4eEs2cWNJVmJFVWNQMGc1UFc4OWxKMGdLYVFEYWNOb0FfNVJFWEtNOF9DZWRkRWg2bERyTHowTlB1VUJTa1FXamk5Q1I2cndZR1hNRjB6Z2sySUR3UlJJUHBPSlg1bU1NUXM4aWdLd216VHdtT0FMT1E0dXd1bll3VmpIVGp0Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.pharmacytimes.com",
@@ -150,13 +140,13 @@
     }
   },
   {
-    "title": "Unmasked: The autistic women authoring a better future - ca.style.yahoo.com",
-    "description": "Unmasked: The autistic women authoring a better future  ca.style.yahoo.com",
-    "published date": "Tue, 07 Jul 2026 05:04:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSWNxU2w5VDQweEpROHl5VWl2MlF0Tkpha0JzWVpaMElVemgxTWhqcVBOdVR3MWdrS2t2a3VicnBVZDJZVFNtYzZvQXE5RGR4ckczYzlRME1jLTlhTWVWOXhOTzlvUHE3NXlZcUlPZ3FkUGx1LXFud3VhZlJmUVNBNmRNUVFaVFdlOGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Inferring multicellular interactions in tumors from standard pathology slides - Phys.org",
+    "description": "Inferring multicellular interactions in tumors from standard pathology slides  Phys.org",
+    "published date": "Tue, 07 Jul 2026 15:40:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTWt5djhYNXVQNVVWRW9ZX0lPMXhNVGZNTUFIYWRhT19vRHN5STYzb1lZY3FDd0p4VlhoSzJiZzVFSzNfQUVVeEtWRGtCcGFhUTh5Zzg2bElNU0g1QVpyM1g0cTFDRHhYaGRSSEMwVVpSQmttMlpZVkp5QVlyYzFBSHJ2Qkx4cGduYUhFSU8wWEQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://ca.style.yahoo.com",
-      "title": "ca.style.yahoo.com"
+      "href": "https://phys.org",
+      "title": "Phys.org"
     }
   },
   {
@@ -170,6 +160,16 @@
     }
   },
   {
+    "title": "Hepatitis A vaccine eligibility expanded ahead of Indigenous Summer Games - PortageOnline",
+    "description": "Hepatitis A vaccine eligibility expanded ahead of Indigenous Summer Games  PortageOnline",
+    "published date": "Mon, 06 Jul 2026 20:53:41 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNUhPZUNPNHItdlBiRWQ5SUhMQ0Q1Ulc1TFlUSHVUcTZWaE1sU2FMbzJHWklXNDFZS3BJNU9KX29NVEk0TjVZNFdsVXI3Tzk0cVV3akViOWppSE1LOWExSUtndS1tUVY0SGtSOG1tR3d4aE9GR2VJejFOcEQtaFY3a0gtUGZjSWNHZmNuR2FpXzBpQUxwLUhyVXp5MHVuLTAzYmxvb2FKbnNBRnBo?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://portageonline.com",
+      "title": "PortageOnline"
+    }
+  },
+  {
     "title": "Mammography unit wrapping up west route in Kerrobert - WestCentralOnline",
     "description": "Mammography unit wrapping up west route in Kerrobert  WestCentralOnlineDoctors, advocates want more awareness for breast cancer screening  CTV NewsSaskatchewan expands breast screening program to include women 40 and older  DiscoverHumboldtSask. mammograms for women 40+ applauded by Cancer Society  650 CKOMSaskatchewan expands breast screening to women 40 and older  DiscoverMooseJaw",
     "published date": "Tue, 07 Jul 2026 12:02:38 GMT",
@@ -180,13 +180,13 @@
     }
   },
   {
-    "title": "Hepatitis A vaccine eligibility expanded ahead of Indigenous Summer Games - PortageOnline",
-    "description": "Hepatitis A vaccine eligibility expanded ahead of Indigenous Summer Games  PortageOnline",
-    "published date": "Mon, 06 Jul 2026 20:53:41 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNUhPZUNPNHItdlBiRWQ5SUhMQ0Q1Ulc1TFlUSHVUcTZWaE1sU2FMbzJHWklXNDFZS3BJNU9KX29NVEk0TjVZNFdsVXI3Tzk0cVV3akViOWppSE1LOWExSUtndS1tUVY0SGtSOG1tR3d4aE9GR2VJejFOcEQtaFY3a0gtUGZjSWNHZmNuR2FpXzBpQUxwLUhyVXp5MHVuLTAzYmxvb2FKbnNBRnBo?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Unmasked: The autistic women authoring a better future - ca.style.yahoo.com",
+    "description": "Unmasked: The autistic women authoring a better future  ca.style.yahoo.com",
+    "published date": "Tue, 07 Jul 2026 05:04:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSWNxU2w5VDQweEpROHl5VWl2MlF0Tkpha0JzWVpaMElVemgxTWhqcVBOdVR3MWdrS2t2a3VicnBVZDJZVFNtYzZvQXE5RGR4ckczYzlRME1jLTlhTWVWOXhOTzlvUHE3NXlZcUlPZ3FkUGx1LXFud3VhZlJmUVNBNmRNUVFaVFdlOGc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://portageonline.com",
-      "title": "PortageOnline"
+      "href": "https://ca.style.yahoo.com",
+      "title": "ca.style.yahoo.com"
     }
   },
   {
@@ -200,23 +200,13 @@
     }
   },
   {
-    "title": "Lancet Review Confirms mRNA Vaccines Are Safe and Effective - fundsforNGOs News",
-    "description": "Lancet Review Confirms mRNA Vaccines Are Safe and Effective  fundsforNGOs NewsBillions of doses later: Global review confirms mRNA vaccines are safe, effective and full of promise  UBC NewsmRNA vaccines proved safe and effective during COVID, review says. Cancer could be next  CBCBillions of mRNA vaccine doses’ review underpins their effectiveness  EuronewsComprehensive review affirms that COVID mRNA vaccines are safe, effective  CIDRAP",
-    "published date": "Tue, 07 Jul 2026 09:05:04 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTXBqaTBmV2lUUHRDbmdlT1ZQTXlkeF93RThjU1RWM0VkZHRtYmR4MVR2Q29rc3JPQ0szTXFfZW9LNjlPbWd0Q0k2UU5haGo0M2RuYU9pT19xTmxGSWdJeHlEUzRtbDQ0ZkZ6LXdENTBWNFRBdnpmaVkyMktvQUxTQ1Jfa205VWVtckFaaGNqajRYRUJkbFp2RUpVbnJSMERsSVIw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "‘Trust, access, and equity’: After billions of doses worldwide, yet another review of COVID vaccine confirms its safety and effectiveness - Genetic Literacy Project",
+    "description": "‘Trust, access, and equity’: After billions of doses worldwide, yet another review of COVID vaccine confirms its safety and effectiveness  Genetic Literacy ProjectBillions of doses later: Global review confirms mRNA vaccines are safe, effective and full of promise  UBC NewsmRNA vaccines proved safe and effective during COVID, review says. Cancer could be next  CBCBillions of mRNA vaccine doses’ review underpins their effectiveness  EuronewsComprehensive review affirms that COVID mRNA vaccines are safe, effective  CIDRAP",
+    "published date": "Mon, 06 Jul 2026 04:05:22 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNMnVydTNnTW9uMXl5TzgwenRsUmpJVWQ2QmtXdTFvWm5HeF9fQXEza0JXd25fWW12RzFHZVVKa2dETjVyMTJwRUpIVEg0OXh0NVMySDRfMnF5a3JHSjhpZEY1a0Z2QUtQQUtLQmhYaVhoaFAyVjZsemtubW1OekwzU05iVF94YlZpX19YRzlxR0ZZSU5hRVhOUG5MV2dXOG9xX1NFZEtKcW9hZS1TR3FBVVM0c2lnSFV5ZUgwdFNSZi10ZFBPbm9fNjdCcG40WG9qRzZ0WWN3YzFOb1FTUzFTMTlLNlEwcjZIUFlWdDR0SWxIOHRaV2dBRUlTbmpWSnB0b3hmbkNkcDFkdw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://news.fundsforngos.org",
-      "title": "fundsforNGOs News"
-    }
-  },
-  {
-    "title": "The myth of the 'lizard brain' and the real trade-off inside your mind - Medical Xpress",
-    "description": "The myth of the 'lizard brain' and the real trade-off inside your mind  Medical Xpress",
-    "published date": "Mon, 06 Jul 2026 18:00:01 GMT",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5la1FZX2VObU42UXE5ajYyTk45dlQ5MkN1a3VHNFIwdFdPcG1LbWgtSFd2aXdiQW1mOE55UFpCWDRxdzhRQW8wYkYyU1JfVUpJdEV2Ymlzc01GWEtxMmVpWlNsTk5kY0VmaUVYSUhfRlpjaHRwOFMyU0hhQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://medicalxpress.com",
-      "title": "Medical Xpress"
+      "href": "https://geneticliteracyproject.org",
+      "title": "Genetic Literacy Project"
     }
   },
   {
@@ -230,23 +220,13 @@
     }
   },
   {
-    "title": "Longer Persistence Seen With Upadacitinib vs TNFi in Rheumatoid Arthritis - Medical Professionals Reference",
-    "description": "Longer Persistence Seen With Upadacitinib vs TNFi in Rheumatoid Arthritis  Medical Professionals Reference",
-    "published date": "Tue, 07 Jul 2026 04:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORXlYWVlKbTZ4dzlEcl9GQjEzX3pDZHQyQnY2N3NtbkFyMFMzQ29IcGZEM2RTS0hoZDF4M2hsak1LV1pPNVNZMVJoQlBwTzVzMzROM3EwVkdyOGtUNjB0cHR4b2NQNUM2eVB1cVVYOElQR21FYUtnS1RpZGNOUkQyNzFaMkVPdUVqOEJhamsyR3dtMjE1WTJGai1EYWZRY2lSanc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "An anti-inflammatory diet may lower dementia risk, even in people with early signs of Alzheimer’s - CP24",
+    "description": "An anti-inflammatory diet may lower dementia risk, even in people with early signs of Alzheimer’s  CP24See more headlines & perspectives on Google News",
+    "published date": "Mon, 06 Jul 2026 16:02:51 GMT",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTS1adHEtSTQyaWFHNGFVc1NhS3Z5ckIyMVlUckpESGhGNDNIOVhyNVl6MThQWVMwdVdSOXFTSmVWVWxCUVVXa1BZcW9ScDJqSGxQRks2RURWMFVTTERlS2RYQ3BWeWlZcTZWMjRGVTBoaXpic2hFOXJXYVE1MDlMdHRhT3hpVDhTLXdpZ01ybFAxVHhPSTZTeEZyS1lKRmI5ZmpPUDVRTmJ3UHR6dmhjTUFLekVWeG84LVJkUjhGc0FKWEQ3SDBjOW1iMHJJZw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.empr.com",
-      "title": "Medical Professionals Reference"
-    }
-  },
-  {
-    "title": "Strength training: The secret weapon for women’s heart health - CTV News",
-    "description": "Strength training: The secret weapon for women’s heart health  CTV News",
-    "published date": "Tue, 07 Jul 2026 18:14:48 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQmhrQmdPczBGNU1fbGFFaG1lRzBFc2QyREFmRmNETllWV2tJc1dpNWRKWVRDX0VZMGh0NWxwbXplV09SaVZaQy1uWFJoNFFaaGd4dnBubnJTZDFncU5FTHdvYmZVNHNfNGVkREgteFNIc1ZPc05jMDNZMVNZZDU0S1NZWmc0d0ZKR0YzZnE0dTVyQWNUUFpndVFIT0tXNlU?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ctvnews.ca",
-      "title": "CTV News"
+      "href": "https://www.cp24.com",
+      "title": "CP24"
     }
   },
   {
@@ -260,23 +240,23 @@
     }
   },
   {
-    "title": "An anti-inflammatory diet may lower dementia risk, even in people with early signs of Alzheimer’s - CP24",
-    "description": "An anti-inflammatory diet may lower dementia risk, even in people with early signs of Alzheimer’s  CP24See more headlines & perspectives on Google News",
-    "published date": "Mon, 06 Jul 2026 16:02:51 GMT",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTS1adHEtSTQyaWFHNGFVc1NhS3Z5ckIyMVlUckpESGhGNDNIOVhyNVl6MThQWVMwdVdSOXFTSmVWVWxCUVVXa1BZcW9ScDJqSGxQRks2RURWMFVTTERlS2RYQ3BWeWlZcTZWMjRGVTBoaXpic2hFOXJXYVE1MDlMdHRhT3hpVDhTLXdpZ01ybFAxVHhPSTZTeEZyS1lKRmI5ZmpPUDVRTmJ3UHR6dmhjTUFLekVWeG84LVJkUjhGc0FKWEQ3SDBjOW1iMHJJZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Strength training: The secret weapon for women’s heart health - CTV News",
+    "description": "Strength training: The secret weapon for women’s heart health  CTV News",
+    "published date": "Tue, 07 Jul 2026 18:14:48 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQmhrQmdPczBGNU1fbGFFaG1lRzBFc2QyREFmRmNETllWV2tJc1dpNWRKWVRDX0VZMGh0NWxwbXplV09SaVZaQy1uWFJoNFFaaGd4dnBubnJTZDFncU5FTHdvYmZVNHNfNGVkREgteFNIc1ZPc05jMDNZMVNZZDU0S1NZWmc0d0ZKR0YzZnE0dTVyQWNUUFpndVFIT0tXNlU?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.cp24.com",
-      "title": "CP24"
+      "href": "https://www.ctvnews.ca",
+      "title": "CTV News"
     }
   },
   {
-    "title": "Child Dies of Rabies After Bat Encounter - Microbioz India",
-    "description": "Child Dies of Rabies After Bat Encounter  Microbioz IndiaCanadian boy, 11, dies of rabies after waking to bat on his face  BBCCanadian boy, 11, died from rabies after waking up with bat on his mouth  CNN11-year-old boy dies of rabies in Canada after waking to find bat on his face in the middle of the night  NBC NewsNew details revealed about Ontario child’s 2024 rabies death  CP24",
-    "published date": "Mon, 06 Jul 2026 08:43:06 GMT",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Fa2NGRDF2XzQxQzZWcEFlUFlxajY0TVJqTlQzMG5JRTlGc3doaXJlc1d0TW8xeGJoQWRSVTJHcFNSQlJGT0VPVjBvalFMRTBXNFZGUnNFQjZ3anRmQkFZYXQwczJtQUFub3hIcmtlYzlPbnVjOVM0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Longer Persistence Seen With Upadacitinib vs TNFi in Rheumatoid Arthritis - Medical Professionals Reference",
+    "description": "Longer Persistence Seen With Upadacitinib vs TNFi in Rheumatoid Arthritis  Medical Professionals Reference",
+    "published date": "Tue, 07 Jul 2026 04:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORXlYWVlKbTZ4dzlEcl9GQjEzX3pDZHQyQnY2N3NtbkFyMFMzQ29IcGZEM2RTS0hoZDF4M2hsak1LV1pPNVNZMVJoQlBwTzVzMzROM3EwVkdyOGtUNjB0cHR4b2NQNUM2eVB1cVVYOElQR21FYUtnS1RpZGNOUkQyNzFaMkVPdUVqOEJhamsyR3dtMjE1WTJGai1EYWZRY2lSanc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://microbiozindia.com",
-      "title": "Microbioz India"
+      "href": "https://www.empr.com",
+      "title": "Medical Professionals Reference"
     }
   },
   {
@@ -291,22 +271,12 @@
   },
   {
     "title": "Ebola continues to spread in DRC, death toll passes 500: WHO - Xinhua",
-    "description": "Ebola continues to spread in DRC, death toll passes 500: WHO  XinhuaDeath toll from DR Congo Ebola outbreak passes 500 as healthcare workers threaten strike  France 24Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda  World Health Organization (WHO)Ebola outbreak in Congo still spreading, WHO says  ReutersEbola death toll in DR Congo surpasses 500  Al Jazeera",
+    "description": "Ebola continues to spread in DRC, death toll passes 500: WHO  XinhuaCongo Ebola outbreak death toll surpasses 500 as frontline workers threaten strike  Yahoo News CanadaEbola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda  World Health Organization (WHO)Ebola continues to spread in DRC as death toll passes 500, WHO warns  UN NewsEbola outbreak in Congo still spreading, WHO says  Reuters",
     "published date": "Tue, 07 Jul 2026 19:33:15 GMT",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMZHRQZGpydHBFd2k4dkZnWWZwODRyWWVMVVlpbTF5Ujc5bHd6U1lEVDJKUXU2NEs0ZjBHU2V5TlpHWUVNUDhpYmloaWxscDhaNmpfTmZibkMtODFoVTk0QzNNblk4bEdfUVoxX01ZRVlPTXJ6Zm51a214XzM?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://english.news.cn",
       "title": "Xinhua"
-    }
-  },
-  {
-    "title": "The test that finds the hearing loss doctors cannot detect - Innovation News Network",
-    "description": "The test that finds the hearing loss doctors cannot detect  Innovation News Network",
-    "published date": "Mon, 06 Jul 2026 13:01:33 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUU5ZcUtwM0I3amNwRzBjWng3SFNsSzFFTm9GUFo4UFpPRk9tS3lvV2dUSmxkdVNMaVZfZjRob3VUei1ZaXVERWQwLUlOUGpYTE5YOGZqczFrcm5hekpwNDBkWUxzTEFRd2c0dWxQN250QkVqMzJXTEhyS3UxVzNscmlSQVlfRGZXVFotRHpadEZFN21BdEFOSzNNUlBlNjlEZ2JaU0N3?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.innovationnewsnetwork.com",
-      "title": "Innovation News Network"
     }
   },
   {
@@ -317,16 +287,6 @@
     "publisher": {
       "href": "https://medicalxpress.com",
       "title": "Medical Xpress"
-    }
-  },
-  {
-    "title": "Medicine can treat obesity, but can’t agree on what obesity is - The Economist",
-    "description": "Medicine can treat obesity, but can’t agree on what obesity is  The EconomistDoctors are finally starting to agree on when obesity is a disease  National Geographic",
-    "published date": "Tue, 07 Jul 2026 09:39:48 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMnFkb3hDT2tOam1xb3Bac1FzMUpWNWczeFMwQ1hYY3NJSVRUcVJxVjN0SHlsRVc1NHdBWDRZc25pV2czd3J5VlJ3M0NxaC1CaDlZbDBNUzBOak9makxqOWI1WVpib20xb2FOZzhVbzNDWjY3cUdmdFFvQ1VCRXJSd3NvNmR3UG1KVmxrSWx4bUlnaE1pdEFhbUJZQjUzRW9pUXZYenhtd3o3SXk5ZFFQSg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.economist.com",
-      "title": "The Economist"
     }
   },
   {
@@ -347,6 +307,16 @@
     "publisher": {
       "href": "https://medicalxpress.com",
       "title": "Medical Xpress"
+    }
+  },
+  {
+    "title": "Medicine can treat obesity, but can’t agree on what obesity is - The Economist",
+    "description": "Medicine can treat obesity, but can’t agree on what obesity is  The EconomistDoctors are finally starting to agree on when obesity is a disease  National Geographic",
+    "published date": "Tue, 07 Jul 2026 09:39:48 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMnFkb3hDT2tOam1xb3Bac1FzMUpWNWczeFMwQ1hYY3NJSVRUcVJxVjN0SHlsRVc1NHdBWDRZc25pV2czd3J5VlJ3M0NxaC1CaDlZbDBNUzBOak9makxqOWI1WVpib20xb2FOZzhVbzNDWjY3cUdmdFFvQ1VCRXJSd3NvNmR3UG1KVmxrSWx4bUlnaE1pdEFhbUJZQjUzRW9pUXZYenhtd3o3SXk5ZFFQSg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.economist.com",
+      "title": "The Economist"
     }
   },
   {
@@ -410,6 +380,26 @@
     }
   },
   {
+    "title": "Tattoo ink doesn’t just stay in the skin — a PNAS mouse study found pigments can reach nearby lymph nodes soon after contact, damage macrophages, and keep inflammation active for at least two months - Space Daily",
+    "description": "Tattoo ink doesn’t just stay in the skin — a PNAS mouse study found pigments can reach nearby lymph nodes soon after contact, damage macrophages, and keep inflammation active for at least two months  Space DailyTattoos Affect Your Immune System in Ways Scientists Are Just Beginning to Understand  ScienceAlert",
+    "published date": "Tue, 07 Jul 2026 15:45:31 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQbHpKOF9NS1hqTDMxN1c1cS1Ea0M2REYxQUIzQXB4ancxNFN6UUJrUlM2a2FYS2lIS2hheUlZemE1M2NNVjlKcmIzYXFMZ3Z1ZzZGUGUyQUNPVURXRE9pZzI2b3BNTTVtX1B1TEVOcHNGNjZScnVTdXFmUHJWXzFfRzRrRDQwNnhSZDNNNEFSb043bGRmOEYyN3ZoRnFoUXpQaVJZSzNpTzBTT3VwMmdNTGNlXzdrU3dsRmFiRktWaUE3cEFXTjNiM2xVUGx0M2JodnJMVjduQlRsVXRCN25Icjd5V0diSi1QQXVFMV9aTVM4eXQtRXI3V1VMaDExQTRxVGhhUmJoT3E1MjM0TUlFWmFpQWo1ci16MTdYajlyQVJiRDV6eUotZEpBUE5UQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://spacedaily.com",
+      "title": "Space Daily"
+    }
+  },
+  {
+    "title": "4 Habits That Are Quietly Impacting Inflammation - EatingWell",
+    "description": "4 Habits That Are Quietly Impacting Inflammation  EatingWell",
+    "published date": "Mon, 06 Jul 2026 23:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWUREMU5CRU9wSTh1Z2JyNHoxZldSRURCTVZHRmE3UzRzV1F6ZmNyc2lOVlVlT2gwZExESzdvMmMwWUpGOWIxSUNlaWdSN2xvemxOYlR0SDdXYl9pUEMtRm8wU0ZDWjVHN1dqN091VkdtWFdadHhOZDZCSVJ0M2xXQw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.eatingwell.com",
+      "title": "EatingWell"
+    }
+  },
+  {
     "title": "Early sexual initiation accelerates physical aging, large genetic study finds - PsyPost",
     "description": "Early sexual initiation accelerates physical aging, large genetic study finds  PsyPost",
     "published date": "Tue, 07 Jul 2026 16:17:40 GMT",
@@ -430,6 +420,36 @@
     }
   },
   {
+    "title": "Mediterranean Diet Boosts Psychological Well-Being Over Age 50 - Neuroscience News",
+    "description": "Mediterranean Diet Boosts Psychological Well-Being Over Age 50  Neuroscience NewsMediterranean diet is associated with better psychological well-being, study suggests  Medical XpressMediterranean diet linked to happier, healthier aging  Earth.com",
+    "published date": "Mon, 06 Jul 2026 19:12:55 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLTNoYnJSMlp3WEFIelJJT3oxRXVjMV9qVjBSNWhFaVYxZm5iSnJ4dnJMZW16MXA0QmdKUGlBSnJEMERFT3lyZlFrTUJOQzJxQkRKMVlXN3pNeXEzVnZMQnN4Vm1XWDlsMk9NbTBlWDZqUE9TcFdnR0lnQ0pYYzVwYmVEMlhwQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://neurosciencenews.com",
+      "title": "Neuroscience News"
+    }
+  },
+  {
+    "title": "Diagnostic dilemma: Huge mass in woman's stomach was likely caused by Ozempic-style drug — and dissolved with diet soda - Live Science",
+    "description": "Diagnostic dilemma: Huge mass in woman's stomach was likely caused by Ozempic-style drug — and dissolved with diet soda  Live Science",
+    "published date": "Mon, 06 Jul 2026 16:10:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTGYxdHZ6dTdGVUhyRTdpZFptQlhjYmRHeFAzWWpRbVphM2o2WDViOFI0MFo3WFhjR1lYYlduUVA3TGl0Z3FLdFVmckxWeXpqN3BPTmdsU3RwOHZqR3FYVTJUSFJJTXUwSV9vT0hDYnZDZXkxWDBUSHBLQ3NtMGFQRF9OVlAtY1p6UThJXzlkMTFuelRpa011b3ZRX3BUNXdQNFpyOTRqQWl6RHFmME02Z0NRUnZtc3l0dFRDYVNzYjI0bGJVN2UyWUZDQXVjUi0zYWFYS0ROenowMGdkVzgzaFJySmU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.livescience.com",
+      "title": "Live Science"
+    }
+  },
+  {
+    "title": "Is testosterone replacement a fix for the blahs of aging? - NBC News",
+    "description": "Is testosterone replacement a fix for the blahs of aging?  NBC NewsTrump Easing Testosterone Restrictions Sparks Health Warnings Over Radical Plan To Pump Up Men's Declining Hormone Levels  International Business Times UK",
+    "published date": "Mon, 06 Jul 2026 10:00:41 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVjBueE5YLXhRUDNwNi1FMXFtbUcxQWFPQWVMT2xQQ1FUaDQ5NUJFdGlFNkREYUtReVRwQWR3ZVNIVVhoMGFmd2xBS21yUUNSTmxIZGRJTWR0UE5kLThWanNvQnZtNVN1QVZEOEdPSWpMRkZWNHhJRGVDeUtGSVhBQUxDNWdacjc5ZlRhRG5PVzgtRkc5akIyM2dYNUFvSFBBVWVxNg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nbcnews.com",
+      "title": "NBC News"
+    }
+  },
+  {
     "title": "2 Teas with Surprising Gut-Health Benefits, According to a New Study - EatingWell",
     "description": "2 Teas with Surprising Gut-Health Benefits, According to a New Study  EatingWell",
     "published date": "Mon, 06 Jul 2026 22:56:36 GMT",
@@ -440,10 +460,30 @@
     }
   },
   {
+    "title": "Why U.S. measles outbreaks have grown harder to extinguish - The Washington Post",
+    "description": "Why U.S. measles outbreaks have grown harder to extinguish  The Washington PostHighly contagious disease on track for worst US outbreak in 35 years doctor warns  Irish Star‘World’s most contagious disease’ on track for highest US cases in 35 years — doc warns: ‘We are allowing it to spread’  New York Post",
+    "published date": "Mon, 06 Jul 2026 16:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdnRWTW5ZU3dmUTZNNWppTnFDTFk5b2tQUmltdEZLYVkwME1yUkJ4QWN2aWhBZGVyUzBzQVNMblI4NzlJNl9raWdUcUtpVmk4SnRxRlo2THZiOHhRQlVpVkZ4cnVNS1NmdXQ5YkNxQlBHVmRua3U0aGt5MzdNNkNWMk4yREMwQnU0NWtXRjZVWHJkS2Q4OTdKLW92enJmQmV2ejd6X25B?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.washingtonpost.com",
+      "title": "The Washington Post"
+    }
+  },
+  {
     "title": "Dad and daughter saved by the same heart surgeon - BBC",
     "description": "Dad and daughter saved by the same heart surgeon  BBC",
     "published date": "Mon, 06 Jul 2026 05:07:57 GMT",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yd19DUVBvSEhqQlAwQXRJS0JJNlRzUnBMYlFfRjFrdkJYVWRuWFNtVjk1NjVtcW1xYS15SFVaQTJZUWdmYi1zR19MUk50WnNmRVo4VUNUUnZPdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bbc.com",
+      "title": "BBC"
+    }
+  },
+  {
+    "title": "Wegovy weight loss pill now available in UK - here's what you need to know - BBC",
+    "description": "Wegovy weight loss pill now available in UK - here's what you need to know  BBCWegovy weight-loss pill goes on sale on UK high street and online pharmacies  The Guardian",
+    "published date": "Mon, 06 Jul 2026 11:09:54 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhY3FSdEl0ZWNtUFNPZUNfaHVHWllfRU1Ib3c2bjJ3S2xDXzZSZkZXYktpb2k3U1F6aDh0QXltdVpYZ2RpcWdLbTRPcUN0RmdDSUhtWVFYVGdrdw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.bbc.com",
       "title": "BBC"
