@@ -2,7 +2,7 @@
   {
     "title": "مواعيد الجولات 30–33 وجدولة المباريات المؤجلة - spl.com.sa",
     "description": "مواعيد الجولات 30–33 وجدولة المباريات المؤجلة  spl.com.sa",
-    "published date": "Mon, 06 Jul 2026 09:49:00 GMT",
+    "published date": "Wed, 08 Jul 2026 05:55:40 GMT",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VMUxYUlNlbTEyZUpRYmFfSlltdXhGSXRvUzd2ZDVRYjJOekRrUXYyOWRteVgyZFRhV3hSVWhMTnJHeDFPMUVrczhxMnRRMktDcExyWTJmUUo1aVpDdVJqUE5oRXp3WTIyYzM5SVdSZHdYX3RKQ2x6SEJVeVBhUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.spl.com.sa",
@@ -60,16 +60,6 @@
     }
   },
   {
-    "title": "دوري روشن السادس عالمياً في مونديال 2026 بـ 48 لاعباً - صحيفة سبق الإلكترونية",
-    "description": "دوري روشن السادس عالمياً في مونديال 2026 بـ 48 لاعباً  صحيفة سبق الإلكترونية",
-    "published date": "Fri, 12 Jun 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9UYXZmR3NmOWpYd3dzRmdhM1dxVDNkQldzazhKcHBFRnVpLUJ5VHVYalhWeDQ0cktBZWQ1ek54UUJZTVRQTS1j?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://sabq.org",
-      "title": "صحيفة سبق الإلكترونية"
-    }
-  },
-  {
     "title": "4 أسباب وراء حسم النصر لقب الدوري السعودي وتفوقه على الهلال - الجزيرة نت",
     "description": "4 أسباب وراء حسم النصر لقب الدوري السعودي وتفوقه على الهلال  الجزيرة نت",
     "published date": "Fri, 22 May 2026 07:00:00 GMT",
@@ -77,6 +67,16 @@
     "publisher": {
       "href": "https://www.aljazeera.net",
       "title": "الجزيرة نت"
+    }
+  },
+  {
+    "title": "دوري روشن السادس عالمياً في مونديال 2026 بـ 48 لاعباً - صحيفة سبق الإلكترونية",
+    "description": "دوري روشن السادس عالمياً في مونديال 2026 بـ 48 لاعباً  صحيفة سبق الإلكترونية",
+    "published date": "Fri, 12 Jun 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9UYXZmR3NmOWpYd3dzRmdhM1dxVDNkQldzazhKcHBFRnVpLUJ5VHVYalhWeDQ0cktBZWQ1ek54UUJZTVRQTS1j?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://sabq.org",
+      "title": "صحيفة سبق الإلكترونية"
     }
   },
   {
@@ -300,16 +300,6 @@
     }
   },
   {
-    "title": "بنزيما يشعل أزمة كبرى.. الاتحاد يطالب رابطة الدوري السعودي بنصف مليار! - Kooora",
-    "description": "بنزيما يشعل أزمة كبرى.. الاتحاد يطالب رابطة الدوري السعودي بنصف مليار!  Kooora",
-    "published date": "Tue, 19 May 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikAVBVV95cUxNWjFOdGh0M1RsYzU3dTZDN2lxTmFUWkJPYkZ0a19zRzFFdmo0Mk1Ob0JBUGJ4aE1JbmRwTUVnX3ZmZk5Db0xwU1UzVmR3b2dPUlFyMmVYbk1WRmx3QU1kdVlDZ1h3QmlReGVhbUVSQWY3bm9WM0xTelVweGdoQTMzNlI3Ul9iNlFvQVVYdTlNSHFqb2NlR1ZmdWFOak1faU5rQnNGQ2ZueXpldkFBUmJTbUxhLXFhNW1OVkhDSHNjcVdpT2xYeW5aUjRkR1VwbVd6dHpiRHQzMlItdEpBRlpzeFctMENRWWIySmVnYnlnY1lFa2dpSi1xNWRKc012dUp6dWI1SDh1RDFuQjBBZVBLYy16WEJlMDVjXzloMTRUV3JTY1JZZFhsRnd3T2ZkZXdtcS16VS1pRndZRzc0TTg3R0lMWmEyd0l3NUw4dWlGZ1k4NXE2aERXN0ZKd3NBc2Z3d0FXWDVxTWZBNGVZMFI4Z042cTJFUzlXTmhWcU1EaWQ4TWt1TXUxRmNHRG9QMlo2Y3BDc1FuUERpcGZlV2NNUDFuSlJkSnBkR3k5ekdCTFVvNHc2Q1JwWkdtSXg5TE4tenZjSDlkRnBsc21WdVpBWjlZRk5oN1d0TDZHXzlHZGV4ZHYwTXFrcVFnVnpiSXBxV0hJbmYwS19Qbkg4Nk5VZHI1ZC1KTlNwUndud3lNX0lyZUN5U0ZjVjFKMDJyZGNzeU5pOUhxQk0xTDRvakFWRGVfV0lmVW8xWDZfS3d6SmlGQU0wMmtmMWxGbzlaSTVMTUVlQzNBOEZHUjN5R3VNcHQwOFNqUG5aWDRkV2c0REFjUFQybmpxM2hyaS1oeTRCUHdGeDVkRzRsSFU5Z0UxZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.kooora.com",
-      "title": "Kooora"
-    }
-  },
-  {
     "title": "تأجيل مباريات الجولة العاشرة من دوري روشن السعودي - spl.com.sa",
     "description": "تأجيل مباريات الجولة العاشرة من دوري روشن السعودي  spl.com.sa",
     "published date": "Wed, 10 Dec 2025 08:00:00 GMT",
@@ -320,13 +310,23 @@
     }
   },
   {
-    "title": "الهلال حاضر دائمًا.. قصة 4 ألقاب بالدوري السعودي حُسمت في الجولة الأخيرة - Kooora",
-    "description": "الهلال حاضر دائمًا.. قصة 4 ألقاب بالدوري السعودي حُسمت في الجولة الأخيرة  Kooora",
-    "published date": "Sat, 16 May 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuwVBVV95cUxOa0l1NzJxTzZ4OWlkdFp5WnVaeUM1UjBkakZRLXNCY2MzMm02MjdVaERsY2ZBTWxuODBrNmRBNnZzQmNaMVNnUGs0YlF0aDc5ZVhkQzZzN2JORHJnVUVYLXhMaWtuakFHU0ZTSFFnM2NQOXBZU1lOSnljWGY5NkdDR3Q4MVAxNGhhbXFQakQ0OGNqQlZQRGJ2QlM5WXhWV0s1RmlJU21hSFAwSDd4MmxpNk5mYjRkNDhhcjl3eGtjekYxd3hmSFl5QXFwRWUtV3lGdThkaTY3TE5jNkJ0dUNxN2t1cFMxYk5ERkx4VkZuY0JoZFJjTWRPbF81bGVvdmNNMFdqcmFwYTdja3hTOVEzRmFybjF4RmVMblVoczktWG53ZEk0bWRTLVY5UUdSeGJxNm1UaUJSWEJreURKRlo5M0pGTFBRa1k5eUdnMEt1dkk1WXhkaGxycnBVbWFOdTRoQmVoTnpYb1FGVzd2M1dveTd6NlFCQzJjQlEyMjZsLUF1UkpZd1dYcTRPR1J0VW1aNnhfWjJ6RVBrZjFKTWpJa1hCR0FoUjBGMEpWVjFsM0p2cnpPNjhmMU00aUlGWkdnS2wzaFNlMnR1OHZuc0ZkZzhRZ0FMVFhSbW5ocF9XMWNudm91ejQ3NjFva0d5VWVLZmN3NDcwVzZVek5SZUN1cDJiaTI4alN5SnRETFg5S2p5OWNJcjkyWDFucmNhWHZGZmRZb2hibEY5d1hFVlB6Tm5Xb19uMFNCYnFtZHNRY1QzY3NNNlZ6Nk5Rc3ExQmFHR1U2WXk3VWN4NXlWTWRyT1dEc25TbmwxM3Zvcm9QdmFzWlg1Q0FUTHBhbWxabHJzUzBueXVFZnkwaGM0UnNiNk10M2QxdnRNaXlfcVJSaXJWRHM2bDhWNnVvREN2ZFFtX2lGRkVNdjB1Y2s?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "بنزيما يشعل أزمة كبرى.. الاتحاد يطالب رابطة الدوري السعودي بنصف مليار! - Kooora",
+    "description": "بنزيما يشعل أزمة كبرى.. الاتحاد يطالب رابطة الدوري السعودي بنصف مليار!  Kooora",
+    "published date": "Tue, 19 May 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikAVBVV95cUxNWjFOdGh0M1RsYzU3dTZDN2lxTmFUWkJPYkZ0a19zRzFFdmo0Mk1Ob0JBUGJ4aE1JbmRwTUVnX3ZmZk5Db0xwU1UzVmR3b2dPUlFyMmVYbk1WRmx3QU1kdVlDZ1h3QmlReGVhbUVSQWY3bm9WM0xTelVweGdoQTMzNlI3Ul9iNlFvQVVYdTlNSHFqb2NlR1ZmdWFOak1faU5rQnNGQ2ZueXpldkFBUmJTbUxhLXFhNW1OVkhDSHNjcVdpT2xYeW5aUjRkR1VwbVd6dHpiRHQzMlItdEpBRlpzeFctMENRWWIySmVnYnlnY1lFa2dpSi1xNWRKc012dUp6dWI1SDh1RDFuQjBBZVBLYy16WEJlMDVjXzloMTRUV3JTY1JZZFhsRnd3T2ZkZXdtcS16VS1pRndZRzc0TTg3R0lMWmEyd0l3NUw4dWlGZ1k4NXE2aERXN0ZKd3NBc2Z3d0FXWDVxTWZBNGVZMFI4Z042cTJFUzlXTmhWcU1EaWQ4TWt1TXUxRmNHRG9QMlo2Y3BDc1FuUERpcGZlV2NNUDFuSlJkSnBkR3k5ekdCTFVvNHc2Q1JwWkdtSXg5TE4tenZjSDlkRnBsc21WdVpBWjlZRk5oN1d0TDZHXzlHZGV4ZHYwTXFrcVFnVnpiSXBxV0hJbmYwS19Qbkg4Nk5VZHI1ZC1KTlNwUndud3lNX0lyZUN5U0ZjVjFKMDJyZGNzeU5pOUhxQk0xTDRvakFWRGVfV0lmVW8xWDZfS3d6SmlGQU0wMmtmMWxGbzlaSTVMTUVlQzNBOEZHUjN5R3VNcHQwOFNqUG5aWDRkV2c0REFjUFQybmpxM2hyaS1oeTRCUHdGeDVkRzRsSFU5Z0UxZw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.kooora.com",
       "title": "Kooora"
+    }
+  },
+  {
+    "title": "«الحسم المؤجل» يُصوب أنظار العالم نحو الدوري السعودي - الشرق الأوسط",
+    "description": "«الحسم المؤجل» يُصوب أنظار العالم نحو الدوري السعودي  الشرق الأوسط",
+    "published date": "Thu, 14 May 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitgRBVV95cUxOUmlyZk5ONV83MFFiRGNWZGY2MkRqNkdjVng2REcwVGtQcElIWjRNZEoyYWtYNlZLRkpSNGZLa0NmSkVrZVJoMmowbUNQMmZGU3RFR1RrOTAwb0xKRDdFdEVtMHl4Q3lwYmNsMXJNWXhyal9IbXRiUGhOLUdSckZ2RzcwT0lVWW9WTDA0SklzOUV5OXprNUV5OXMxbzNYRUFHVjJtTGQwbHVWTjF5VmJmczY4eWNCYk8wN190RXdzdFlwQWM4OWNUemdTWndPT29qNlJxcWVtS2pIVERHZmNITGJ6LVFxWmZ4c2owV3daU2I5S2FyYm13Sk5lWnpQN1JDMllmdkJrWEhXaEdmY2Ywd0pTMW9URHl1SGJ5bWxkRjBpY2plY0cySXJYcGJMQno4Z3NUaEFFR1Fsb2g0d2ZxWkpRY2Z3VTd1Y2pnNXcxVTZEWjdjaE1WWGNRTU5XNWFfd1NyajlWZWJtdDV6enFPTVJBOVBfTmRYVUVUeTlEdGtTVi1UR0N1TXN2ZzVtYXg3c05UaXJMTzZtZS1kVkNKdFVfVE9HZFlRX2RQUVFUNG92MTVXbENWdDBfNWZmT1QtQWg5ZnZxNTRCSUVpampNRjN1Ny1tY3QxRDBKLVhkTjQ2aWpJZ3R0clozbTRlcmk1WkJOa3R5TWF3TklSQi0zY2k4T1VKbVBNRDJTQU9YUF9CZ1NVaVlsci04S2l1WjB0bjRycEcwS1YtUU9GMTkyLTBmVndqQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://aawsat.com",
+      "title": "الشرق الأوسط"
     }
   },
   {
@@ -360,6 +360,16 @@
     }
   },
   {
+    "title": "14 نجماً من دوري روشن السعودي يتنافسون في كأس أمم أفريقيا 2025 - spl.com.sa",
+    "description": "14 نجماً من دوري روشن السعودي يتنافسون في كأس أمم أفريقيا 2025  spl.com.sa",
+    "published date": "Sun, 21 Dec 2025 08:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUlU0RFJJa2E4UkdkN1h0VE4ycFlTMDR6bXBScktMc3VPVEpsU2tpMUtrQl9mUWdMbkpKUFM0UTdoT3lKVzBKSFJoRV9abldwbXhrcV9tYUFIeWs3UTdMOFFONWFack5VTkF5SkE5Ti13VkZXRlJIWURSZDN1NDNyQw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.spl.com.sa",
+      "title": "spl.com.sa"
+    }
+  },
+  {
     "title": "الصراع يشتعل والحسم يتأجل.. ترتيب الدوري السعودي بعد تعادل النصر والهلال - يلاكورة",
     "description": "الصراع يشتعل والحسم يتأجل.. ترتيب الدوري السعودي بعد تعادل النصر والهلال  يلاكورة",
     "published date": "Tue, 12 May 2026 07:00:00 GMT",
@@ -380,16 +390,6 @@
     }
   },
   {
-    "title": "14 نجماً من دوري روشن السعودي يتنافسون في كأس أمم أفريقيا 2025 - spl.com.sa",
-    "description": "14 نجماً من دوري روشن السعودي يتنافسون في كأس أمم أفريقيا 2025  spl.com.sa",
-    "published date": "Sun, 21 Dec 2025 08:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUlU0RFJJa2E4UkdkN1h0VE4ycFlTMDR6bXBScktMc3VPVEpsU2tpMUtrQl9mUWdMbkpKUFM0UTdoT3lKVzBKSFJoRV9abldwbXhrcV9tYUFIeWs3UTdMOFFONWFack5VTkF5SkE5Ti13VkZXRlJIWURSZDN1NDNyQw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.spl.com.sa",
-      "title": "spl.com.sa"
-    }
-  },
-  {
     "title": "الدوري السعودي يعلن عن المرشحين لجائزة أفضل لاعب - 365Scores",
     "description": "الدوري السعودي يعلن عن المرشحين لجائزة أفضل لاعب  365Scores",
     "published date": "Sun, 17 May 2026 07:00:00 GMT",
@@ -397,16 +397,6 @@
     "publisher": {
       "href": "https://www.365scores.com",
       "title": "365Scores"
-    }
-  },
-  {
-    "title": "غرينوود لاعب مارسليا ينتظر عرضا رسميا من الدوري السعودي - صحيفة الوئام",
-    "description": "غرينوود لاعب مارسليا ينتظر عرضا رسميا من الدوري السعودي  صحيفة الوئام",
-    "published date": "Thu, 02 Jul 2026 02:48:51 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNN1NLelFfNXN0RGFraXFNNE1KWXNEMkQ4RWZ6VllCVWtObDZWdFVPblVOSlRMWW8zTjdjSGNTeXF1bEwxc0kxck9lVTljV05yem9pOTlLQ1dJM2RHRExOdFZYRHh3a0l1TTdLeG5zNVV3dUFUdzNYd3BUbzhkTGpyc1YyZXR6c1ppZmRYb1lvWmtLa3lIOVZsRnd2cjRIaHVxLWdtZE1vLWhlZWR1U0twdmlsXzRjTFVma1p4YW82cFBvaFplMjJSNTRJdi1JT2NrbTVoVkhILVBlSUU1d3NnWDVBMFJXZ3VJdmVQTWFIcmxGWHg0U2s0NWdxSGJzNUdNSFdreENrTXpKLUE1Q3JaQTM1SHpURmIzNDhYN2VtRXFsWGdVQUE4NTQ4ZkhzeFZqN2dabGZxR3VqVG5LLUF2QlZOcWZOT2VUSlc3WGZycWZLSXJDRDY1dlln?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.alweeam.com.sa",
-      "title": "صحيفة الوئام"
     }
   },
   {
@@ -430,6 +420,16 @@
     }
   },
   {
+    "title": "الهلال حاضر دائمًا.. قصة 4 ألقاب بالدوري السعودي حُسمت في الجولة الأخيرة - Kooora",
+    "description": "الهلال حاضر دائمًا.. قصة 4 ألقاب بالدوري السعودي حُسمت في الجولة الأخيرة  Kooora",
+    "published date": "Sat, 16 May 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuwVBVV95cUxOa0l1NzJxTzZ4OWlkdFp5WnVaeUM1UjBkakZRLXNCY2MzMm02MjdVaERsY2ZBTWxuODBrNmRBNnZzQmNaMVNnUGs0YlF0aDc5ZVhkQzZzN2JORHJnVUVYLXhMaWtuakFHU0ZTSFFnM2NQOXBZU1lOSnljWGY5NkdDR3Q4MVAxNGhhbXFQakQ0OGNqQlZQRGJ2QlM5WXhWV0s1RmlJU21hSFAwSDd4MmxpNk5mYjRkNDhhcjl3eGtjekYxd3hmSFl5QXFwRWUtV3lGdThkaTY3TE5jNkJ0dUNxN2t1cFMxYk5ERkx4VkZuY0JoZFJjTWRPbF81bGVvdmNNMFdqcmFwYTdja3hTOVEzRmFybjF4RmVMblVoczktWG53ZEk0bWRTLVY5UUdSeGJxNm1UaUJSWEJreURKRlo5M0pGTFBRa1k5eUdnMEt1dkk1WXhkaGxycnBVbWFOdTRoQmVoTnpYb1FGVzd2M1dveTd6NlFCQzJjQlEyMjZsLUF1UkpZd1dYcTRPR1J0VW1aNnhfWjJ6RVBrZjFKTWpJa1hCR0FoUjBGMEpWVjFsM0p2cnpPNjhmMU00aUlGWkdnS2wzaFNlMnR1OHZuc0ZkZzhRZ0FMVFhSbW5ocF9XMWNudm91ejQ3NjFva0d5VWVLZmN3NDcwVzZVek5SZUN1cDJiaTI4alN5SnRETFg5S2p5OWNJcjkyWDFucmNhWHZGZmRZb2hibEY5d1hFVlB6Tm5Xb19uMFNCYnFtZHNRY1QzY3NNNlZ6Nk5Rc3ExQmFHR1U2WXk3VWN4NXlWTWRyT1dEc25TbmwxM3Zvcm9QdmFzWlg1Q0FUTHBhbWxabHJzUzBueXVFZnkwaGM0UnNiNk10M2QxdnRNaXlfcVJSaXJWRHM2bDhWNnVvREN2ZFFtX2lGRkVNdjB1Y2s?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.kooora.com",
+      "title": "Kooora"
+    }
+  },
+  {
     "title": "جميع أندية دوري روشن تحصل على الرخصة المحلية والآسيوية للموسم 2026-2027 بنسبة اجتياز كاملة - spl.com.sa",
     "description": "جميع أندية دوري روشن تحصل على الرخصة المحلية والآسيوية للموسم 2026-2027 بنسبة اجتياز كاملة  spl.com.sa",
     "published date": "Thu, 14 May 2026 15:16:27 GMT",
@@ -440,13 +440,13 @@
     }
   },
   {
-    "title": "«الحسم المؤجل» يُصوب أنظار العالم نحو الدوري السعودي - الشرق الأوسط",
-    "description": "«الحسم المؤجل» يُصوب أنظار العالم نحو الدوري السعودي  الشرق الأوسط",
-    "published date": "Thu, 14 May 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitgRBVV95cUxOUmlyZk5ONV83MFFiRGNWZGY2MkRqNkdjVng2REcwVGtQcElIWjRNZEoyYWtYNlZLRkpSNGZLa0NmSkVrZVJoMmowbUNQMmZGU3RFR1RrOTAwb0xKRDdFdEVtMHl4Q3lwYmNsMXJNWXhyal9IbXRiUGhOLUdSckZ2RzcwT0lVWW9WTDA0SklzOUV5OXprNUV5OXMxbzNYRUFHVjJtTGQwbHVWTjF5VmJmczY4eWNCYk8wN190RXdzdFlwQWM4OWNUemdTWndPT29qNlJxcWVtS2pIVERHZmNITGJ6LVFxWmZ4c2owV3daU2I5S2FyYm13Sk5lWnpQN1JDMllmdkJrWEhXaEdmY2Ywd0pTMW9URHl1SGJ5bWxkRjBpY2plY0cySXJYcGJMQno4Z3NUaEFFR1Fsb2g0d2ZxWkpRY2Z3VTd1Y2pnNXcxVTZEWjdjaE1WWGNRTU5XNWFfd1NyajlWZWJtdDV6enFPTVJBOVBfTmRYVUVUeTlEdGtTVi1UR0N1TXN2ZzVtYXg3c05UaXJMTzZtZS1kVkNKdFVfVE9HZFlRX2RQUVFUNG92MTVXbENWdDBfNWZmT1QtQWg5ZnZxNTRCSUVpampNRjN1Ny1tY3QxRDBKLVhkTjQ2aWpJZ3R0clozbTRlcmk1WkJOa3R5TWF3TklSQi0zY2k4T1VKbVBNRDJTQU9YUF9CZ1NVaVlsci04S2l1WjB0bjRycEcwS1YtUU9GMTkyLTBmVndqQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "غرينوود لاعب مارسليا ينتظر عرضا رسميا من الدوري السعودي - صحيفة الوئام",
+    "description": "غرينوود لاعب مارسليا ينتظر عرضا رسميا من الدوري السعودي  صحيفة الوئام",
+    "published date": "Thu, 02 Jul 2026 02:48:51 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNN1NLelFfNXN0RGFraXFNNE1KWXNEMkQ4RWZ6VllCVWtObDZWdFVPblVOSlRMWW8zTjdjSGNTeXF1bEwxc0kxck9lVTljV05yem9pOTlLQ1dJM2RHRExOdFZYRHh3a0l1TTdLeG5zNVV3dUFUdzNYd3BUbzhkTGpyc1YyZXR6c1ppZmRYb1lvWmtLa3lIOVZsRnd2cjRIaHVxLWdtZE1vLWhlZWR1U0twdmlsXzRjTFVma1p4YW82cFBvaFplMjJSNTRJdi1JT2NrbTVoVkhILVBlSUU1d3NnWDVBMFJXZ3VJdmVQTWFIcmxGWHg0U2s0NWdxSGJzNUdNSFdreENrTXpKLUE1Q3JaQTM1SHpURmIzNDhYN2VtRXFsWGdVQUE4NTQ4ZkhzeFZqN2dabGZxR3VqVG5LLUF2QlZOcWZOT2VUSlc3WGZycWZLSXJDRDY1dlln?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://aawsat.com",
-      "title": "الشرق الأوسط"
+      "href": "https://www.alweeam.com.sa",
+      "title": "صحيفة الوئام"
     }
   },
   {
@@ -480,30 +480,10 @@
     }
   },
   {
-    "title": "فيديو: انتهى عصر المعجزات.. الهلال يهزم الفيحاء ويخسر الدوري السعودي مجددًا - Kooora",
-    "description": "فيديو: انتهى عصر المعجزات.. الهلال يهزم الفيحاء ويخسر الدوري السعودي مجددًا  Kooora",
-    "published date": "Thu, 21 May 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiwAVBVV95cUxQdHVzZXp2MXljZUNKNlJXVWpsNTJhU3V1U21aT3d1MFV4R2NOdzVibWJwejlOMl9QNW5DOXVTOWxKNnFNd1J1Ti1ydy1kNEVvUWtLT1NKRXhpenlYVHpXaTZyU2hlWmNCN3JQdmhhWDl3cFlYRXI0aGFjOTF4eGdDdGR1dVk5ekMybG5oTlNyTmZYWXg1VGZueHNibWRkY29PZUwyMDZTT2oyWTh0YWVMOHJsREZiWDFSejFQYVFjX0E2eUZFbk1KUDRTRkJrSGRXUFJrMi12dG8xUmRjMzl6UGVzX2E2cWN1U1l5cTZxaDMwak1HUzRMTjFXY3VaTHBmY0dPUUpGNTJtRzN5MEVLTTBnNFJ1VHhVWVk4QzhnQkliOEdrVUF3SzNIYmlGXzRNZ21naTVPRXphLVpNZ1V6Qm5PSFdSV2E3cUxObFNFTFhsWmVZNU5JdllPZFQtZ1N0a2NYOGxvYi1ic3pxemJvZjBnT2tzSUdMUkFIOFVJdlJlazlyd2hHQkt5X2N3UTNlV1dQeC1zVXBVdWdUTG9ycmx5ZVNzTmNSR1NBOF8wTkFXb2FmUDA4NHprcC02X1cxYlpsR2gzYWxBQjBiRnVvT0FjTXJBaGJ3RkhuVzlLNTloczlIM0laZE1Bb1FPWW91UHRsdHBEREpGWk5xSnFOeW9ucHJaOXhFSmZsTVZUNE5hQ3VPQ2I1ZUw0V1JXeVhSQzV3a2d1WGZpNWJoWlpwekpiU28xQ2p3andpY1prb1N2RXRCYVd1SFRpZUNrbngtYnZXVm1GV3lzSG0wU1ExUnh0bUVRZ3hjVzMzT0FhY1kxOFlTYld5TUhzU3BiSzdPZi00VTg2YzJSRF92NlRmUnRuZk8teExhVld3OFROV2c4VDZ3eGxOU0pJdjVJZ0Z3Q2tuRHFoVHVJQTAzVnFaVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.kooora.com",
-      "title": "Kooora"
-    }
-  },
-  {
     "title": "هل يكسر النصر لعنته؟ مفارقة درامية تشعل مواجهة حسم الدوري السعودي - Kooora",
     "description": "هل يكسر النصر لعنته؟ مفارقة درامية تشعل مواجهة حسم الدوري السعودي  Kooora",
     "published date": "Wed, 20 May 2026 07:00:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMi7wRBVV95cUxPeXBRT004OVlUTDVleW5qLUNIN2hKZGR6V2VfalFmcVFaSTNBbkhBc0hMang2RGhtV3QzTEN6ZDByd1pMX053Zi1rSUZoU2ZIWE04X3d1SlMzVW15Vml2azA0bC1QalFReUR3bG1pdWtuNld1amRObFU5M3JSY0hLM0xibVlZWF9hSWxQcmNUclQ2WnN4ajVzZW1ueXZ4bWx3RWE2eTZYM19XWVp2X2Fwa09vODFYZ0tZczVrSTlpLTZmS1dna3gyMG9tRjhPanRhWlRwT2JNQXkycU9YelBkVk5ObFFLZktIQW5XcndzcEhPTEZlbUpSeHUtaWZ5eGpaNFREUTgtYlRCZHlvbWZIVUlJdGJsQnVIaV83eXd1RncxSzJRWjcyV0hJanpaVGhMQW5PU2g2eWxENlpGa1NsVUdBRFNBTTFTZF9UWmtGMWk3STZMaXlTa0RTR21RWm41STM2TVVJM2l1N1U2clBkV2tFMTF0SndGS2tqTEY0c2VyV3VaYTM5SjBLTVpwbVBvUTRIM1ZVUEtKVl9YQ25WeHNwcVlaUjNaSnFqRjUxa2VzbGRZQzFqQWF2amFNWlhWNnRYX1lfZWFEWXBGRzF3aGZEb2RKdnBaajRkeUhmZzBwdmtWSHEtdFcyLTk5aFdQMnlpNF9kZW40dE1iT1BKWHp4ZlVqMjRSUTBsbXNOdm5hQTdpUEVLZkJsQjJvS18tYTNsWWdnMlEzVnN2eXEwSUxsTjlJTUxENFJHUVVRVjBoRkRDTWRkWElTZFIyOWJrWG5CbmYwT0ROVjI3NTRtdDJ6cW1tamNLZm55ZGFLaw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.kooora.com",
-      "title": "Kooora"
-    }
-  },
-  {
-    "title": "مواجهات مباشرة أم فارق أهداف.. ماذا يحدث إذا تساوى النصر والهلال؟ - Kooora",
-    "description": "مواجهات مباشرة أم فارق أهداف.. ماذا يحدث إذا تساوى النصر والهلال؟  Kooora",
-    "published date": "Wed, 13 May 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi-ARBVV95cUxObkpjcEhPaDYySVREN2lVUllYOE9ZcmZNYmxTZEFZWDdjd294Y3NDOXR2Q1FHc0ktU3ZDUWpkelNRaDBfaG9Dcm9uaWstTXRrcDVaNnNlWUdOS3JhYmhJVmRjYWlmTi0tWTk1aDlqaUY3c2xwZU9VX1dKejlXVjZmM2hRZXJZUGhkR0JxcU55dlctaks3aDR0YlJuM0ZTWDhscGZEWWJsSHpNZXBNclRlNzl3VnVTRVExekVKMzRfaHZfNWZqY1dGUEQ2MFFwVi1qUkc5cXpFaDFkMzE4TmxkdERhcFdyRzhsWGoydk5pbUo4M013d0pEMGxMSjBFQ3JYaFN1VFRpb0Q1N1kyWlRvLVhJN1Q4c0FQY1ZoU0w4bGVQU3k5OW13RjFiSzh0cDYwLUpuelJkZndIV3hYaWd2NkxWYzkzQ01EZVl4MV9USHNtNnJKZ3hYa3FhdUNXR003VldJM25pUUNLcFdjczN6VGY1TlZJRUxuMGx2V2ExZ1VsRDVFb3M4Z3k0bmlGallGbERiazl6NzhPODNaMTI5WDkzOUdMLUt5YmQyUG50SW5tTHB2MDhlQVhEai0wZWp5bDhTYlZCejVFc1g3OGMzdFBvZTVxV2owZjVRSWxpbVlnWW02bDFiZV9Rc1RoUmZrYmJ5eWRsSGN3S2hEdEotRkJPXzN1anF0QURKNjAxUDQ5LUxVcEhVbkhZWGdKUWh1SzdKU1NOT0FiSkxycjJRMUtYbWVOMlBQS29TY2tsb0FnV2xabTJNSDltY0dIX3hPeUVlaE5ieTJNTUlveTcwZm9zcGhZUGlRZmFkcU1QOV96c1QxWXZ5OQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.kooora.com",
       "title": "Kooora"
@@ -520,6 +500,26 @@
     }
   },
   {
+    "title": "فيديو: انتهى عصر المعجزات.. الهلال يهزم الفيحاء ويخسر الدوري السعودي مجددًا - Kooora",
+    "description": "فيديو: انتهى عصر المعجزات.. الهلال يهزم الفيحاء ويخسر الدوري السعودي مجددًا  Kooora",
+    "published date": "Thu, 21 May 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwAVBVV95cUxQdHVzZXp2MXljZUNKNlJXVWpsNTJhU3V1U21aT3d1MFV4R2NOdzVibWJwejlOMl9QNW5DOXVTOWxKNnFNd1J1Ti1ydy1kNEVvUWtLT1NKRXhpenlYVHpXaTZyU2hlWmNCN3JQdmhhWDl3cFlYRXI0aGFjOTF4eGdDdGR1dVk5ekMybG5oTlNyTmZYWXg1VGZueHNibWRkY29PZUwyMDZTT2oyWTh0YWVMOHJsREZiWDFSejFQYVFjX0E2eUZFbk1KUDRTRkJrSGRXUFJrMi12dG8xUmRjMzl6UGVzX2E2cWN1U1l5cTZxaDMwak1HUzRMTjFXY3VaTHBmY0dPUUpGNTJtRzN5MEVLTTBnNFJ1VHhVWVk4QzhnQkliOEdrVUF3SzNIYmlGXzRNZ21naTVPRXphLVpNZ1V6Qm5PSFdSV2E3cUxObFNFTFhsWmVZNU5JdllPZFQtZ1N0a2NYOGxvYi1ic3pxemJvZjBnT2tzSUdMUkFIOFVJdlJlazlyd2hHQkt5X2N3UTNlV1dQeC1zVXBVdWdUTG9ycmx5ZVNzTmNSR1NBOF8wTkFXb2FmUDA4NHprcC02X1cxYlpsR2gzYWxBQjBiRnVvT0FjTXJBaGJ3RkhuVzlLNTloczlIM0laZE1Bb1FPWW91UHRsdHBEREpGWk5xSnFOeW9ucHJaOXhFSmZsTVZUNE5hQ3VPQ2I1ZUw0V1JXeVhSQzV3a2d1WGZpNWJoWlpwekpiU28xQ2p3andpY1prb1N2RXRCYVd1SFRpZUNrbngtYnZXVm1GV3lzSG0wU1ExUnh0bUVRZ3hjVzMzT0FhY1kxOFlTYld5TUhzU3BiSzdPZi00VTg2YzJSRF92NlRmUnRuZk8teExhVld3OFROV2c4VDZ3eGxOU0pJdjVJZ0Z3Q2tuRHFoVHVJQTAzVnFaVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.kooora.com",
+      "title": "Kooora"
+    }
+  },
+  {
+    "title": "مواجهات مباشرة أم فارق أهداف.. ماذا يحدث إذا تساوى النصر والهلال؟ - Kooora",
+    "description": "مواجهات مباشرة أم فارق أهداف.. ماذا يحدث إذا تساوى النصر والهلال؟  Kooora",
+    "published date": "Wed, 13 May 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi-ARBVV95cUxObkpjcEhPaDYySVREN2lVUllYOE9ZcmZNYmxTZEFZWDdjd294Y3NDOXR2Q1FHc0ktU3ZDUWpkelNRaDBfaG9Dcm9uaWstTXRrcDVaNnNlWUdOS3JhYmhJVmRjYWlmTi0tWTk1aDlqaUY3c2xwZU9VX1dKejlXVjZmM2hRZXJZUGhkR0JxcU55dlctaks3aDR0YlJuM0ZTWDhscGZEWWJsSHpNZXBNclRlNzl3VnVTRVExekVKMzRfaHZfNWZqY1dGUEQ2MFFwVi1qUkc5cXpFaDFkMzE4TmxkdERhcFdyRzhsWGoydk5pbUo4M013d0pEMGxMSjBFQ3JYaFN1VFRpb0Q1N1kyWlRvLVhJN1Q4c0FQY1ZoU0w4bGVQU3k5OW13RjFiSzh0cDYwLUpuelJkZndIV3hYaWd2NkxWYzkzQ01EZVl4MV9USHNtNnJKZ3hYa3FhdUNXR003VldJM25pUUNLcFdjczN6VGY1TlZJRUxuMGx2V2ExZ1VsRDVFb3M4Z3k0bmlGallGbERiazl6NzhPODNaMTI5WDkzOUdMLUt5YmQyUG50SW5tTHB2MDhlQVhEai0wZWp5bDhTYlZCejVFc1g3OGMzdFBvZTVxV2owZjVRSWxpbVlnWW02bDFiZV9Rc1RoUmZrYmJ5eWRsSGN3S2hEdEotRkJPXzN1anF0QURKNjAxUDQ5LUxVcEhVbkhZWGdKUWh1SzdKU1NOT0FiSkxycjJRMUtYbWVOMlBQS29TY2tsb0FnV2xabTJNSDltY0dIX3hPeUVlaE5ieTJNTUlveTcwZm9zcGhZUGlRZmFkcU1QOV96c1QxWXZ5OQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.kooora.com",
+      "title": "Kooora"
+    }
+  },
+  {
     "title": "ترتيب الدوري السعودي.. النصر يتمسك بالصدارة وصراع الهبوط يشتعل - يلاكورة",
     "description": "ترتيب الدوري السعودي.. النصر يتمسك بالصدارة وصراع الهبوط يشتعل  يلاكورة",
     "published date": "Fri, 15 May 2026 07:00:00 GMT",
@@ -530,16 +530,6 @@
     }
   },
   {
-    "title": "النصر يبحث عن حسم لقب الدوري السعودي أمام ضمك الليلة - اليوم السابع",
-    "description": "النصر يبحث عن حسم لقب الدوري السعودي أمام ضمك الليلة  اليوم السابع",
-    "published date": "Thu, 21 May 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxQbE1wOWV2c3lTUlk0N2tSSl9RclMzOExPS3I4c1BCZnlrX2VQY3ZWYWMtb21wTFhobEFaMnA4MFpTa2R2WC1ud3BLQTY1RDBNY1ZkbUt2NGQyX3NFU0J1MWNqWXd6Umg4M1FySTlwWWx1SHhBNFVHZVM2X00wclBSNTRQbldvZnByRW1kWVJjWExxMEZBWC1sZ2pneFBjRktTZGlvWk9IWEJ4X2pHSEVOSmtsb0JkeC1WdXhpZGFxX1AwdkgxSi1oRkNmdHVPbV91WVpId29ZRVBObFJKbER5bVpXM1Jsa1hQd1R4aU5IaEtCMzNXZWtaUWhPX21hV0pDdU9DTDdNRko1eTg2RlE5VWNZeG9nWkVwYzA2d2R4N3lLc1czWFZVRFl4SFNiRHlMdnM1dG5ESnVEdkZvQ3RlNEZ5YVlQa3llTkJ0cXE0S3dIbFBEZllkTmlKa1pWd3hqQkNwQ2Vva0xFLXc1UGFiRFA4Mk9rVEFlREZqSnR3cjVOSmFKSEF3d3dub1h5dGxyOVZObXRQYWpsSEhpejhrWnAzNnVUcFhQTlRiY0gtdzdkUFQxeFVXQ2tubnk5Z9IBuANBVV95cUxQMXFZT09CTjcwLWZxcDVWdkt6VTlXQTY4Vi1xU1ZEN3FPOWRWUmU2UnJWblA2VUpDdVU5MEV2VGx0MEdiVUgzUHBqV3dISDB3QjdHVHliNWdaUnRoU2FVdUQ1OWpOeHIwZWFBdG9faE5jWFFXeGZlZDM1RmdHazZYTVN6OFFUWkFrVVYxUjBVZVM1LWZ1N3pRRmpFdm94SldRWXE5enRHMVlPVUE1YUpVM2tZVXB2cllXeXdNRUdwSkt4VFhtai1MOGhlZlE5U0RGMWpXWEdENFNWU290YjdWdndtTk5SNzI5SDR0cW5mMnBSRXVocUxUWWplaXlJWGxPd0RuZ1A1NFJ4RGFaNFNPd09GWGtkc0V3TTAzVWVlRXZKSHR6TlViRWV2XzlRVnhxazNuZXBEMEhyRzl3dktlRXRUajFGOHZsNnpmM3VOcXNXUnZEQW16ZDJZcjdBcXhpWjg3Vy1ISndjNGlzMUFhQU9MM2kzQ0pEeFRXR09HajY4VTFrTHZzNHVPcFdNOThqcnl4WEdlX3FhN3pjNmZtdjJuOEJkc3pCa244VTlDNmFFNEZfdl9PVA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.youm7.com",
-      "title": "اليوم السابع"
-    }
-  },
-  {
     "title": "الدوري السعودي الممتاز لكرة قدم الصالات - الاتحاد السعودي لكرة القدم",
     "description": "الدوري السعودي الممتاز لكرة قدم الصالات  الاتحاد السعودي لكرة القدم",
     "published date": "Tue, 23 Sep 2025 22:42:12 GMT",
@@ -547,6 +537,16 @@
     "publisher": {
       "href": "https://www.saff.com.sa",
       "title": "الاتحاد السعودي لكرة القدم"
+    }
+  },
+  {
+    "title": "مواجهات قوية وتأجيل 3 مباريات.. قراءة في \"الجولة 28\" بدوري روشن - أخبار 24",
+    "description": "مواجهات قوية وتأجيل 3 مباريات.. قراءة في \"الجولة 28\" بدوري روشن  أخبار 24",
+    "published date": "Mon, 06 Apr 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitARBVV95cUxQZkpkZ295U0pMY0hxNzZ3YmhwN2VicE9oc0lhSmJOT2dteE5uV0I3LWptb2Jsc1A4ZUtoazlGRzI1WnhvMW5ONUtFZWlWNXdEOWItdjNXMTl4bi1lNEVBTlo1WjNBQXhwMVVpSWxQcHlKY1I0cGlhSnNZMXFGb2tBSm5CMnhuTTM3ZlNZTTdIUllpZGd0RFl4U0NnX2xPTkN2NmFTWHN3UUJNQWVWeUdVTHVzWjgxdDBrZzdRVHk1UkdsZkFDeHo1VVBmMmxUbk5wM3laOHRDUUNPYkgxM0RoT25SeVpfTU5XYkc3SHlaU1pHVVNNTXRXSlM2REh3cG1jMnRQUzBwMzlZTi1BUmZoX3dEdE1ldDZzdm1JV2hZSUpGVmVpOWRHT1VmV1FJaFUyZlFuWGpqUUM3QjJBZGZBeGloZy1EV3hrZmNEcWdzX3U0dGtRbXY3MXcyWDRoanpOcG5jajZJYldkMWd1TU5BTFNLd0hpRGVwQkk1Ti1DS25heFBSQzB2RUxIelNYMjZ2UXJ2NHQyMnFBNWFjeGF1ZmgyYkRMTzhFVFVPODFaZUJyNDhVWmF3dk1TdTdjdnk0X05JYTBGMGcyaFZ2b3lTSnQyQlRRWG5oQnVEUFJOQlhQTGRmSXk0RXRVV0RFczlUVVNmSDg4ZkNjWFBUWmszUFgzLXlETEU3YUFhaUVobXo4bGx3Mk5tNTI4dmQtOTk5S0pqRlFmQ3BNZFV5V1VRTExNSUg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.akhbaar24.com",
+      "title": "أخبار 24"
     }
   },
   {
@@ -570,6 +570,16 @@
     }
   },
   {
+    "title": "النصر يبحث عن حسم لقب الدوري السعودي أمام ضمك الليلة - اليوم السابع",
+    "description": "النصر يبحث عن حسم لقب الدوري السعودي أمام ضمك الليلة  اليوم السابع",
+    "published date": "Thu, 21 May 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxQbE1wOWV2c3lTUlk0N2tSSl9RclMzOExPS3I4c1BCZnlrX2VQY3ZWYWMtb21wTFhobEFaMnA4MFpTa2R2WC1ud3BLQTY1RDBNY1ZkbUt2NGQyX3NFU0J1MWNqWXd6Umg4M1FySTlwWWx1SHhBNFVHZVM2X00wclBSNTRQbldvZnByRW1kWVJjWExxMEZBWC1sZ2pneFBjRktTZGlvWk9IWEJ4X2pHSEVOSmtsb0JkeC1WdXhpZGFxX1AwdkgxSi1oRkNmdHVPbV91WVpId29ZRVBObFJKbER5bVpXM1Jsa1hQd1R4aU5IaEtCMzNXZWtaUWhPX21hV0pDdU9DTDdNRko1eTg2RlE5VWNZeG9nWkVwYzA2d2R4N3lLc1czWFZVRFl4SFNiRHlMdnM1dG5ESnVEdkZvQ3RlNEZ5YVlQa3llTkJ0cXE0S3dIbFBEZllkTmlKa1pWd3hqQkNwQ2Vva0xFLXc1UGFiRFA4Mk9rVEFlREZqSnR3cjVOSmFKSEF3d3dub1h5dGxyOVZObXRQYWpsSEhpejhrWnAzNnVUcFhQTlRiY0gtdzdkUFQxeFVXQ2tubnk5Z9IBuANBVV95cUxQMXFZT09CTjcwLWZxcDVWdkt6VTlXQTY4Vi1xU1ZEN3FPOWRWUmU2UnJWblA2VUpDdVU5MEV2VGx0MEdiVUgzUHBqV3dISDB3QjdHVHliNWdaUnRoU2FVdUQ1OWpOeHIwZWFBdG9faE5jWFFXeGZlZDM1RmdHazZYTVN6OFFUWkFrVVYxUjBVZVM1LWZ1N3pRRmpFdm94SldRWXE5enRHMVlPVUE1YUpVM2tZVXB2cllXeXdNRUdwSkt4VFhtai1MOGhlZlE5U0RGMWpXWEdENFNWU290YjdWdndtTk5SNzI5SDR0cW5mMnBSRXVocUxUWWplaXlJWGxPd0RuZ1A1NFJ4RGFaNFNPd09GWGtkc0V3TTAzVWVlRXZKSHR6TlViRWV2XzlRVnhxazNuZXBEMEhyRzl3dktlRXRUajFGOHZsNnpmM3VOcXNXUnZEQW16ZDJZcjdBcXhpWjg3Vy1ISndjNGlzMUFhQU9MM2kzQ0pEeFRXR09HajY4VTFrTHZzNHVPcFdNOThqcnl4WEdlX3FhN3pjNmZtdjJuOEJkc3pCa244VTlDNmFFNEZfdl9PVA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.youm7.com",
+      "title": "اليوم السابع"
+    }
+  },
+  {
     "title": "رونالدو يقود النصر لسحق ضمك برباعية والتتويج بلقب الدورى السعودى 2026 - اليوم السابع",
     "description": "رونالدو يقود النصر لسحق ضمك برباعية والتتويج بلقب الدورى السعودى 2026  اليوم السابع",
     "published date": "Thu, 21 May 2026 07:00:00 GMT",
@@ -577,16 +587,6 @@
     "publisher": {
       "href": "https://www.youm7.com",
       "title": "اليوم السابع"
-    }
-  },
-  {
-    "title": "مواجهات قوية وتأجيل 3 مباريات.. قراءة في \"الجولة 28\" بدوري روشن - أخبار 24",
-    "description": "مواجهات قوية وتأجيل 3 مباريات.. قراءة في \"الجولة 28\" بدوري روشن  أخبار 24",
-    "published date": "Mon, 06 Apr 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitARBVV95cUxQZkpkZ295U0pMY0hxNzZ3YmhwN2VicE9oc0lhSmJOT2dteE5uV0I3LWptb2Jsc1A4ZUtoazlGRzI1WnhvMW5ONUtFZWlWNXdEOWItdjNXMTl4bi1lNEVBTlo1WjNBQXhwMVVpSWxQcHlKY1I0cGlhSnNZMXFGb2tBSm5CMnhuTTM3ZlNZTTdIUllpZGd0RFl4U0NnX2xPTkN2NmFTWHN3UUJNQWVWeUdVTHVzWjgxdDBrZzdRVHk1UkdsZkFDeHo1VVBmMmxUbk5wM3laOHRDUUNPYkgxM0RoT25SeVpfTU5XYkc3SHlaU1pHVVNNTXRXSlM2REh3cG1jMnRQUzBwMzlZTi1BUmZoX3dEdE1ldDZzdm1JV2hZSUpGVmVpOWRHT1VmV1FJaFUyZlFuWGpqUUM3QjJBZGZBeGloZy1EV3hrZmNEcWdzX3U0dGtRbXY3MXcyWDRoanpOcG5jajZJYldkMWd1TU5BTFNLd0hpRGVwQkk1Ti1DS25heFBSQzB2RUxIelNYMjZ2UXJ2NHQyMnFBNWFjeGF1ZmgyYkRMTzhFVFVPODFaZUJyNDhVWmF3dk1TdTdjdnk0X05JYTBGMGcyaFZ2b3lTSnQyQlRRWG5oQnVEUFJOQlhQTGRmSXk0RXRVV0RFczlUVVNmSDg4ZkNjWFBUWmszUFgzLXlETEU3YUFhaUVobXo4bGx3Mk5tNTI4dmQtOTk5S0pqRlFmQ3BNZFV5V1VRTExNSUg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.akhbaar24.com",
-      "title": "أخبار 24"
     }
   },
   {
@@ -680,16 +680,6 @@
     }
   },
   {
-    "title": "ما هي صفقات أندية الدوري السعودي في سوق الانتقالات الصيفية 2026؟ - Goal.com",
-    "description": "ما هي صفقات أندية الدوري السعودي في سوق الانتقالات الصيفية 2026؟  Goal.com",
-    "published date": "Thu, 11 Jun 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitwRBVV95cUxOVTdTVm1SdnFiQzdQVEhuWGlnOUJNOW02RUdYSzhEVHV0TDlSQlQ3NkJYZ2NmZWZSUkE1bzJNWTFQWkpJY0M2NDI1WkhaZEZEaDl3bll2RVJkRUdxUjl5UzBqQkoxNGtxS3pXdjFhTTE5RFdIRHVsRnA2dzU2X1dKTnUya1VhVjZIdGdhcEw1ZHhYYVRTNDN5LVBsUTdpV3FhSFFlZG5IVTJ4TG43d0FJa3ZUV093OEwyN3RDVENFQVdDX1pwWVI2S3hHUkNZb0paTXktQkl3R0R1TXNRNkxzcENOZXpadGFIYW1RVjZNc3djTlZGZU5jUW82WVBETTZ1ZENYZERxMnJRdGRRejViMVBmeWhXM09DREw2R21uOHgzWHNHNEVKMF84VTNFd2VPWFdGWlJCaGRJVzMyQ1lVZTlrVHcwZ2hOWkFUNEJURk95NXhyZkR0bi14V0ZVWmR3WXg2UDBfNjFfWDVqSkpkdHljY1JueEV4T3N5cVFUQ3BLNFRZVFlpQUp4a203M2pqRTlJY3gxUnNzY0FHODJQV3BXeW1zNk52QXdYRjBYTjhIN2NuQ1pFNjVrYkZHb2NTV00yZHdPNW1xN0ZMcl9aMi1vOURGR2ppS0VRTV9SYmhmVE85Rk1KSS1scHRpU2QzS0M3UUxvOXBsS3VqVXdWWmVHUngyY3ZGRjZDdWZhMnVOYnQtNmRGeUdjTGs4TzdmaTk1UzN2S1ktLTlrM1EtVU02c1FnWmc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.goal.com",
-      "title": "Goal.com"
-    }
-  },
-  {
     "title": "سجل أبطال الدوري السعودي بعد تتويج النصر - alyaum",
     "description": "سجل أبطال الدوري السعودي بعد تتويج النصر  alyaum",
     "published date": "Thu, 21 May 2026 07:00:00 GMT",
@@ -702,7 +692,7 @@
   {
     "title": "ترتيب دوري روشن السعودي بعد فوز القادسية على النصر - annahar.com",
     "description": "ترتيب دوري روشن السعودي بعد فوز القادسية على النصر  annahar.com",
-    "published date": "Sun, 03 May 2026 07:00:00 GMT",
+    "published date": "Sun, 03 May 2026 20:30:21 GMT",
     "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxQS1JRZXd1M044RmtZNnBVWmpnQndnTkE4amMxOWVZd1RzcFQ3SWtTMTRuZGN5TWFFYWJ1eGVqbllpa1BYMEk2WmZoM2EtRjRGQWNqc0tTeElGTGpkTUhFRHZ3R1RyVTN2UVpYaFA5MVRrek5XWkNIX1ZwZGk0T0FzRmlTQldvdWxpYkxPTklHNHliY1RJT0NKaG5VRkk3SjhiZ0FNMlQ1ZHdaaHdodWVKZVUwWEdhLXVTVzI2T0lWbGxoZTF6VkhwUGhfaGVTaVBBb3FFV3hlQ1lwX0VDMmxIZzRHbmhJOWpjYmc0dFdHQ2J1ZDJjSlRnUnlHdUlmczE3NWE2cWNWWkFKdTVRdGVUNThJeF9MMFR0eHRsVWtDYTVKUzdRVXhRRlczNXB4ZjJENlNwS3E4bnJrY055cEJjcll2MWFpVng2SkJCel9heXBWZVRfemxSLVplT1RHMFl5X29feU5DUGQ0M2I4ZUc4d2dVQURKbUl5c3c5MWJmRGNGODJmbWNBbnhpaDR6VmNHQW9qM2ZtcXJjUW9WekM0TWZIb1lFYjFLWUE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.annahar.com",
@@ -760,13 +750,13 @@
     }
   },
   {
-    "title": "رابطة الدوري السعودي تعلن تأجيل مباراة الخلود والقادسية بسبب إلغاء رحلة طيران - يلاكورة",
-    "description": "رابطة الدوري السعودي تعلن تأجيل مباراة الخلود والقادسية بسبب إلغاء رحلة طيران  يلاكورة",
-    "published date": "Thu, 05 Mar 2026 08:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigwVBVV95cUxORTVqam9lVDdFeTFBZWd5SFhfTGZwSEV0MUN3QlNIMGs1TkpCeVRBSEw1NlJ4TE83aUVfdEpnTTJqSkVTOHJfQ3oxdkR6YVZ5TU42WWc1UDJpR3NCRGVZM0E5ZTdEcTJYdFlTNkI0UEdVTUhnaWJ2S05fLWtGVjVBa3RYcW4tUVl4VlBLZk9ZMC1kSlgxY1luM3FmcUVmT05iTE96TGJ4NEFzaTNsWGoyOHhzbW5VU2JaazFTN3lCLUt5bVNMN1VaRmNTMXRaZzNWLV9HVzBpMjk3NG1LX0RjU0Z1dGxlQU02WXB1V0JwcHZKV2FFUmpOY2ZvNGZTTk9vNVRlOXNQYWFERVZMT3ZVaVV2d1ZZRGVKTFJkSEtNZU5wZVJKZ1hhN0NVV2dYQjVJa2NLZlUxVE5YM290TkxmbnVCRDgwOVdpMjBhS0s0ZmlBOUZ5Ujg5Smdmbi1SRXowMEVIckVaSUd3OGFnWFBILTdocGxEUGVaRWpiVDJlc25YN0dvbHQyQmJRS2pxVVVWZFpBTnlValloSUkyUl9CM2NTOUdXWkpkWFV4NnpvSFFEQmItS2ppZUk0dGdGVzBZTVU5WlFSZVJhMUltTGUtMF92VFVSYXZmUXRGLWF0MmlzMkJRc3NBaEwwNUs0dzB5T2t6VVBXbC1oQjlkQXRoVEg0WTh1NjI3U2c0RTF3c3U3YkdYYjhIZmlQeFZPQ3NSTXNBSDBPcTloYjItWFoyOFBud1dTX00tcThfR2lfX3NWb2Y4NTNTVG9tYVZEa01TczhWTWxYcTdKcGJiLS01bU5GN2VmcVFmLTRkTHN6WnNJRXl5ajNaQzR5aU5lMmpONk1B0gGIBUFVX3lxTE1veG1XVTJURUJEUGNfeE9yZHNEU1VLTFJ4anZyWG80OG5vUHVUZXhqRWtZdWtjY2ozTG9oUWFSNmFlaDB0MDVXb211RGVmTGQ1Wmt1M2t2T3A3VlY2SDJ5TVc0UW1CZ1hWYUZvTzlRQzlvRkUtNWM0M01jTTdCcldVV1hUc2lZa3Q0Z3h2V1pKTlZMaFlMTHlyMU1HTUhNVmdSTUZUMTdnTDdVbmdBZ0syNEJjTl9vWjREUWppamV1RlJab0t0VHNoNjNtRk1pMVkxUWNWWGQ2STdvVUJVTnVfNW5FOVhoMDktdl9fakJtT1NncmJpdjJ6WEJBYmVxaTBRelZSUkV3SjlqbElzSkREcE4wWUFqUzFmelZDeVJkc0VlVUFZaGtvMVpRVDNudGZZaHBkbkdIRTJ2N0tqVklPNGI1SjlRd2FMQmRtTzRfQTdxYmFDY25MWW5NLUlENGRyWVA1QmhvZnlMTGRzWTVJWkdUVVlmOVJrVktDZl9SVmI1NURSYzdrZG0xamswUlZ3endLLTllTTB4TFY5c2I0QmFvSXhWTlhOWEtIZGI1YXFPaGxIZWtfc2NNdTczMFBPWDNKdmxvWHNOUXBXMnNLX0pmOVl2ZEFxaVBqOWFrcVhNVU44Q3NHckRjWWx2VGkxQ1pZT0M5WXhZOWRSWDhnVmV3Uy11UDFBRFNRYkdvSnpqc1A1ZnBtaWRaM3VmdGw2endXRFkzaU9SU0d6ZnYzaFY1QmYtN1ZrRHdQbHRJOU0yV3pOXzVCSWY1VXkwaXhRdy1aSXhZRnJ6NHNjTFY5cnh5eUNWNzZFX2tWR01acGJ1aVV4QVBWWXdKdkd4RHlfV0R1bEk4LQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "ترتيب هدافي الدوري السعودي بعد هدف كريستيانو رونالدو أمام الأهلي - إرم نيوز",
+    "description": "ترتيب هدافي الدوري السعودي بعد هدف كريستيانو رونالدو أمام الأهلي  إرم نيوز",
+    "published date": "Wed, 29 Apr 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGX2tIVDlUSzh3enVhSjV6TEVtejRTeHAyc25GQkRYMUVsaW0xOGx2Y1JaazZidkxPT3pIemdSOVQ5blBYT3N1aExyNHJOckR3?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.yallakora.com",
-      "title": "يلاكورة"
+      "href": "https://www.eremnews.com",
+      "title": "إرم نيوز"
     }
   },
   {
@@ -777,16 +767,6 @@
     "publisher": {
       "href": "https://www.yallakora.com",
       "title": "يلاكورة"
-    }
-  },
-  {
-    "title": "ترتيب هدافي الدوري السعودي بعد هدف كريستيانو رونالدو أمام الأهلي - إرم نيوز",
-    "description": "ترتيب هدافي الدوري السعودي بعد هدف كريستيانو رونالدو أمام الأهلي  إرم نيوز",
-    "published date": "Wed, 29 Apr 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGX2tIVDlUSzh3enVhSjV6TEVtejRTeHAyc25GQkRYMUVsaW0xOGx2Y1JaazZidkxPT3pIemdSOVQ5blBYT3N1aExyNHJOckR3?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.eremnews.com",
-      "title": "إرم نيوز"
     }
   },
   {
@@ -810,20 +790,20 @@
     }
   },
   {
-    "title": "روزنامة مزدحمة.. رابطة روشن تكشف مواعيد موسم 2026-2027 - Kooora",
-    "description": "روزنامة مزدحمة.. رابطة روشن تكشف مواعيد موسم 2026-2027  Kooora",
-    "published date": "Mon, 01 Jun 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxONGp5RC1QSXptajNhd2NOTkR3OGM2dEphNkVlQ1FJY3RGZWluNTNCeVctaGZQWkhtMXpXbHdCSEFzT0w2bFBvVE1WcXRjXzRiTW42UC1wVHZJREJIU2xqWEdLYk9JUm1EVUJDWjVUWFRHdlVMSFZFS09hUHFqU01CdlQ3czNwSjYwUFZtV2hYdlh0SzZXTVltcTFZNWpLUHVtcHRVTG1EU211NWp5d0RDQkZxZnF5NGN5NXdMNUd4eHhOZGtCMnEtMU9pQXpTQXNmaWdFb1pzdzFoT1V5d2duaE1wMjJDX3RsX2FibnFXZDh0TUROSjJMV3VaUXAzbWo5cjMyUjR0T3g0Z0d2MDdIbDNnR2VhOFdWR3Z1QWsxcjdVRGo2OHZRQXh0X0JUZ2Ytb0gtYjRQNUZZRHo3dmVVRjRsaGdsUGF2V1RPN2NHWUtaTC00X1B2RGJPUGluaTY5aHJ1Q1o5X1dpeXJSQXVOOEs3Z3M4RE9TYzhJWWVsdDJETjVHdGlNLWRTTFpPbHFZcU9nTm9qYzVyRVVfTXFjMENNSVpOTWxIT2ZwZ1FISTdydVpfSXVlWGFXWVUwVWF5M0d3MmotcnBhdk9uaHVfbEZwWDRwdEE4Q2RHaDVuak9FLU9JY2trZQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "جيسوس يجيب.. هل يتوقف الدوري السعودي بسبب الحرب؟ - Kooora",
+    "description": "جيسوس يجيب.. هل يتوقف الدوري السعودي بسبب الحرب؟  Kooora",
+    "published date": "Wed, 04 Mar 2026 08:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxNM0RlMlN6TjZramFTZFdZOWlHR1RDZUNCSElWeW5RSlEtYnIyOFNnaDdqLUVnQ05CQllZNThSTUxzWVd1NkZ1d0VFYlJPRklWSDV1ZXd2RVBVbDNhSkdFSHNrN1doNkN5SFNwTEJXYlh0NU00NVU2bjZyYUt1dlhPWFZObFFBYm5aWnZ4SXpucWRqcmpBWVRXNlNDV0NiWlhpYnRUY0MwMXh3MnFDZWNFZ2dXZkM4eE5mUGpXeDB2RHAzdWNFd3pIbDZUbTN2NDNfY29vdmx1LWNJd1l6cGpMS1ZMZzBreHJqWVBQZS1MaDhvUU1LT1hHTkZZZVQ5S1VHdnlaNzVoc2FFUjk5ckt5SC1zWnJaTndtYWNIbjJZWDZDUUhWeW1kaE9oMlRpMDJUY05ZOTF3bXJZWExySFZkUEVGOExaWk5VMFZUWEZiR3U0eWd1cEdlak9vZFhtTGlHVWpFdmFSQlFTX0phZTJQNmlKX0hPbWpYZDB3VnlVOTdMRHZuV2dFNFZUdEpZT2F4cW9BLV9FT1BBU013bXl0Sno5dlA0amF2VGZETzNoMjhzd1lsYXJDS0FEUS1kZGM2Ml95c2dVM1J5YjUxY2RyWXNnd184ZHpqaEozT0N4N1ktYzNYRmJ3eVBSSFk?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.kooora.com",
       "title": "Kooora"
     }
   },
   {
-    "title": "جيسوس يجيب.. هل يتوقف الدوري السعودي بسبب الحرب؟ - Kooora",
-    "description": "جيسوس يجيب.. هل يتوقف الدوري السعودي بسبب الحرب؟  Kooora",
-    "published date": "Wed, 04 Mar 2026 08:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxNM0RlMlN6TjZramFTZFdZOWlHR1RDZUNCSElWeW5RSlEtYnIyOFNnaDdqLUVnQ05CQllZNThSTUxzWVd1NkZ1d0VFYlJPRklWSDV1ZXd2RVBVbDNhSkdFSHNrN1doNkN5SFNwTEJXYlh0NU00NVU2bjZyYUt1dlhPWFZObFFBYm5aWnZ4SXpucWRqcmpBWVRXNlNDV0NiWlhpYnRUY0MwMXh3MnFDZWNFZ2dXZkM4eE5mUGpXeDB2RHAzdWNFd3pIbDZUbTN2NDNfY29vdmx1LWNJd1l6cGpMS1ZMZzBreHJqWVBQZS1MaDhvUU1LT1hHTkZZZVQ5S1VHdnlaNzVoc2FFUjk5ckt5SC1zWnJaTndtYWNIbjJZWDZDUUhWeW1kaE9oMlRpMDJUY05ZOTF3bXJZWExySFZkUEVGOExaWk5VMFZUWEZiR3U0eWd1cEdlak9vZFhtTGlHVWpFdmFSQlFTX0phZTJQNmlKX0hPbWpYZDB3VnlVOTdMRHZuV2dFNFZUdEpZT2F4cW9BLV9FT1BBU013bXl0Sno5dlA0amF2VGZETzNoMjhzd1lsYXJDS0FEUS1kZGM2Ml95c2dVM1J5YjUxY2RyWXNnd184ZHpqaEozT0N4N1ktYzNYRmJ3eVBSSFk?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "روزنامة مزدحمة.. رابطة روشن تكشف مواعيد موسم 2026-2027 - Kooora",
+    "description": "روزنامة مزدحمة.. رابطة روشن تكشف مواعيد موسم 2026-2027  Kooora",
+    "published date": "Mon, 01 Jun 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxONGp5RC1QSXptajNhd2NOTkR3OGM2dEphNkVlQ1FJY3RGZWluNTNCeVctaGZQWkhtMXpXbHdCSEFzT0w2bFBvVE1WcXRjXzRiTW42UC1wVHZJREJIU2xqWEdLYk9JUm1EVUJDWjVUWFRHdlVMSFZFS09hUHFqU01CdlQ3czNwSjYwUFZtV2hYdlh0SzZXTVltcTFZNWpLUHVtcHRVTG1EU211NWp5d0RDQkZxZnF5NGN5NXdMNUd4eHhOZGtCMnEtMU9pQXpTQXNmaWdFb1pzdzFoT1V5d2duaE1wMjJDX3RsX2FibnFXZDh0TUROSjJMV3VaUXAzbWo5cjMyUjR0T3g0Z0d2MDdIbDNnR2VhOFdWR3Z1QWsxcjdVRGo2OHZRQXh0X0JUZ2Ytb0gtYjRQNUZZRHo3dmVVRjRsaGdsUGF2V1RPN2NHWUtaTC00X1B2RGJPUGluaTY5aHJ1Q1o5X1dpeXJSQXVOOEs3Z3M4RE9TYzhJWWVsdDJETjVHdGlNLWRTTFpPbHFZcU9nTm9qYzVyRVVfTXFjMENNSVpOTWxIT2ZwZ1FISTdydVpfSXVlWGFXWVUwVWF5M0d3MmotcnBhdk9uaHVfbEZwWDRwdEE4Q2RHaDVuak9FLU9JY2trZQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.kooora.com",
       "title": "Kooora"
@@ -840,16 +820,6 @@
     }
   },
   {
-    "title": "رسميًّا.. قائمة أندية دوري روشن السعودي للموسم المقبل كاملة - إرم نيوز",
-    "description": "رسميًّا.. قائمة أندية دوري روشن السعودي للموسم المقبل كاملة  إرم نيوز",
-    "published date": "Sat, 23 May 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJcTBwLWRnWmF3VzVHMFlvT3p4a0s4cVFKZ1cxQnlpbTI3LXFHNFo4R0NtVUYyblhKVVJTLUpJLXFhcVY4TnhRZTA5cEgtcXdT?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.eremnews.com",
-      "title": "إرم نيوز"
-    }
-  },
-  {
     "title": "من أجل رباعي آسيا.. الرابطة تجري تعديلات بالجملة على مباريات دوري روشن - Kooora",
     "description": "من أجل رباعي آسيا.. الرابطة تجري تعديلات بالجملة على مباريات دوري روشن  Kooora",
     "published date": "Sun, 29 Mar 2026 07:00:00 GMT",
@@ -857,6 +827,16 @@
     "publisher": {
       "href": "https://www.kooora.com",
       "title": "Kooora"
+    }
+  },
+  {
+    "title": "رسميًّا.. قائمة أندية دوري روشن السعودي للموسم المقبل كاملة - إرم نيوز",
+    "description": "رسميًّا.. قائمة أندية دوري روشن السعودي للموسم المقبل كاملة  إرم نيوز",
+    "published date": "Sat, 23 May 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJcTBwLWRnWmF3VzVHMFlvT3p4a0s4cVFKZ1cxQnlpbTI3LXFHNFo4R0NtVUYyblhKVVJTLUpJLXFhcVY4TnhRZTA5cEgtcXdT?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.eremnews.com",
+      "title": "إرم نيوز"
     }
   },
   {
@@ -887,6 +867,16 @@
     "publisher": {
       "href": "https://www.alkhaleej.ae",
       "title": "صحيفة الخليج"
+    }
+  },
+  {
+    "title": "دوري البراعم تحت14 - الاتحاد السعودي لكرة القدم",
+    "description": "دوري البراعم تحت14  الاتحاد السعودي لكرة القدم",
+    "published date": "Wed, 19 Nov 2025 22:10:02 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZSmxHWFRFNTRpcE1UNDI2WU9qemx3LU9aYkJBQ3R3RjdpRWpsMUhyN0pUWVpHNzdObjNaRHJZYjlaWUpsLU5KMTlsNHloa1U3eEx6LWd5NjRDN3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.saff.com.sa",
+      "title": "الاتحاد السعودي لكرة القدم"
     }
   },
   {
@@ -950,6 +940,16 @@
     }
   },
   {
+    "title": "رابطة الدوري السعودي تحذر رونالدو: قرارات المسابقة لا تخضع لإرادة أي لاعب - الشرق الأوسط",
+    "description": "رابطة الدوري السعودي تحذر رونالدو: قرارات المسابقة لا تخضع لإرادة أي لاعب  الشرق الأوسط",
+    "published date": "Thu, 05 Feb 2026 08:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqgVBVV95cUxQTkViWlpydktwejZuVzdSVm1CYmpBOG5WR2FudnVBVm1ONkpiSExMU2ZSbWNSdEY0WnRsY3Y2Rk5GN2Fad0V0eGV5cGZIcTNGTUpfbDZHT1JSR2YtcldDWlBtcnpoMGR1ZnpTcExHR2Vhb0djOUdNR2hZMGVGU2Vjc2tRek5yRGV6dnhhVG1NUTdrWlYxZllmOXU1NldHZGFBX0ZiSm52aGxYd1FfZElObTBya1I2ekQxOFZaTkhhS2puenBVSm1uZXVPOTlDODJ4SHhoWkJNdkV6Mk5ueUpqTW9mb1c3WDJQenVqbnZvT0tuSzJHOFVjd2N4RS1qQmNOdDBlb2xzeDVERUttSDctWUFUMGF1RXBQZnNoUW1ocmZmVmdhTmFua0VfY1huS0JpQTFFNFJ1Nm9QVHFFck9ESGhDQlFMRUhLcHBhNS1tQUJVdkVSV1V4SjhGVlN6UXFGTXlNSVBFeENVSVluMFQ5OUxMY1JVcGprNDJzMUJpUFVvNEN2ZTZfSVVURFBwM0NQeTIzcjlSZjRYTFVWTGFpMmRzdFZvaVhHZVE2bHNXbVRGQVYzai1QMW5jSnFfZmdQNjh6aEs1dlhod1BkNHEwR1VLNTRFZk10MWZiaC0zOXY1cXJYMHd2MzU4TjlNMWJKR19zS1ZWOUUtbVBYUFByTGE0Z2J0ZFV2QWo1N3JGV09VZU5MQk5SZHFYbkl1bzFzd3M5dkdxV0RiSVFTbnJYa2dtYVhoalBTYXdwcDc1clRQYXp3VUJwTHdQU2tSWEZNcFZpSTczR2dCU1laM2M3cjc4ZHJxbS1hTjh1d0dwak1idUljdjg0UlQ5Zk5fZHZLSUowVDVaM21CTkxYLVFYMG1ZaVMzQ0doMkVldFRLR0dud1Yya2I5eENR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://aawsat.com",
+      "title": "الشرق الأوسط"
+    }
+  },
+  {
     "title": "النصر السعودي على موعد مع التاريخ في نهائي دوري أبطال آسيا الثاني - اندبندنت عربية",
     "description": "النصر السعودي على موعد مع التاريخ في نهائي دوري أبطال آسيا الثاني  اندبندنت عربية",
     "published date": "Sat, 16 May 2026 07:00:00 GMT",
@@ -960,13 +960,13 @@
     }
   },
   {
-    "title": "رابطة الدوري السعودي تحذر رونالدو: قرارات المسابقة لا تخضع لإرادة أي لاعب - الشرق الأوسط",
-    "description": "رابطة الدوري السعودي تحذر رونالدو: قرارات المسابقة لا تخضع لإرادة أي لاعب  الشرق الأوسط",
-    "published date": "Thu, 05 Feb 2026 08:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqgVBVV95cUxQTkViWlpydktwejZuVzdSVm1CYmpBOG5WR2FudnVBVm1ONkpiSExMU2ZSbWNSdEY0WnRsY3Y2Rk5GN2Fad0V0eGV5cGZIcTNGTUpfbDZHT1JSR2YtcldDWlBtcnpoMGR1ZnpTcExHR2Vhb0djOUdNR2hZMGVGU2Vjc2tRek5yRGV6dnhhVG1NUTdrWlYxZllmOXU1NldHZGFBX0ZiSm52aGxYd1FfZElObTBya1I2ekQxOFZaTkhhS2puenBVSm1uZXVPOTlDODJ4SHhoWkJNdkV6Mk5ueUpqTW9mb1c3WDJQenVqbnZvT0tuSzJHOFVjd2N4RS1qQmNOdDBlb2xzeDVERUttSDctWUFUMGF1RXBQZnNoUW1ocmZmVmdhTmFua0VfY1huS0JpQTFFNFJ1Nm9QVHFFck9ESGhDQlFMRUhLcHBhNS1tQUJVdkVSV1V4SjhGVlN6UXFGTXlNSVBFeENVSVluMFQ5OUxMY1JVcGprNDJzMUJpUFVvNEN2ZTZfSVVURFBwM0NQeTIzcjlSZjRYTFVWTGFpMmRzdFZvaVhHZVE2bHNXbVRGQVYzai1QMW5jSnFfZmdQNjh6aEs1dlhod1BkNHEwR1VLNTRFZk10MWZiaC0zOXY1cXJYMHd2MzU4TjlNMWJKR19zS1ZWOUUtbVBYUFByTGE0Z2J0ZFV2QWo1N3JGV09VZU5MQk5SZHFYbkl1bzFzd3M5dkdxV0RiSVFTbnJYa2dtYVhoalBTYXdwcDc1clRQYXp3VUJwTHdQU2tSWEZNcFZpSTczR2dCU1laM2M3cjc4ZHJxbS1hTjh1d0dwak1idUljdjg0UlQ5Zk5fZHZLSUowVDVaM21CTkxYLVFYMG1ZaVMzQ0doMkVldFRLR0dud1Yya2I5eENR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "الروزنامة - الاتحاد السعودي لكرة القدم",
+    "description": "الروزنامة  الاتحاد السعودي لكرة القدم",
+    "published date": "Fri, 02 Jan 2026 08:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqRlYtTlZ0TTR2a3g1V0FVaHQ3ZjZiY0RqMDFYdjlmRURnYzZIdGozRlY5bld3OWdJRjlQQmNaNW4xTmNibTVVTHBzSzl4azhraDBKUVk4NFBIMTktdnNvUl9OU1g2amIwWUx6WE9n?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://aawsat.com",
-      "title": "الشرق الأوسط"
+      "href": "https://www.saff.com.sa",
+      "title": "الاتحاد السعودي لكرة القدم"
     }
   },
   {
@@ -980,13 +980,13 @@
     }
   },
   {
-    "title": "الروزنامة - الاتحاد السعودي لكرة القدم",
-    "description": "الروزنامة  الاتحاد السعودي لكرة القدم",
-    "published date": "Fri, 02 Jan 2026 08:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqRlYtTlZ0TTR2a3g1V0FVaHQ3ZjZiY0RqMDFYdjlmRURnYzZIdGozRlY5bld3OWdJRjlQQmNaNW4xTmNibTVVTHBzSzl4azhraDBKUVk4NFBIMTktdnNvUl9OU1g2amIwWUx6WE9n?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "امتحان نفسي أصعب من الهلال.. هل يجتاز النصر كابوس نيوكاسل؟ - Kooora",
+    "description": "امتحان نفسي أصعب من الهلال.. هل يجتاز النصر كابوس نيوكاسل؟  Kooora",
+    "published date": "Tue, 12 May 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixwRBVV95cUxPckx5a0psLVpxbXc5bFZXaTB1N1Fub3ZEcE94N3IzV3lyNGpUUTludkhHdktTUWctN19XaGR1WmFKb3NBaVFXUDgwQ1puUXNSYXZvMGVEOFRHSlBTT3dra3lqMm9MRk1wd1NtSG9uR0RlM1o4dzljZGM0SGd0U0doNUQwM1lfdEliWFhjaVpIOTJBZkVaRXNtNzNtcFFJRmVwaTM4TU1Tck1WNmdENzBwUnN4aG5vMkxjclJqMV9reDVBOERnbjNPX3prRkpTZUc3V3RpMG9VOURqb295VU9aa3MyMjN6VXFuUUg5TlFOM3VBOFVJX0JLWU84RXJtTmxXTWZJbE9HUXBCVG9ycThlYkdTa01fVFRzTldtSF9sc0w5d0NPLUxEZDV3WGYwT1pwbUNCM3NBZ1NVNC1uNDFXdWxCMUltQVNqQ3Y3TWVNYVhXaFd5bDJNc2tTREEtQWdqcXNoeFdVM0RjVTQ5MmV3U1MwVmlUbGU0XzVwYXNiT3hUNXJHUzZhZmswUTRfZThxdm13djZGcGlOWHlVTE00UndpNG04MGlLZERzeDNxZnFEZHUwdWh2eXdMZVdLT2Y4SERGazd4djJtTWRkRi1zbGp6SXpadDlkel80WmlWZ0I3R0JfeGtJTXZ5NlZnR2FONTVPbXdXSHEzVHUtcDc1dXlrRWoxMWVIQXBZSGVWVzdTdUt1NGxjTXNlS3FidWhIckg0V2RhNE4zUkM5NHp0ZW43dkJ6MEpOeWYteEhfcklodFkyd2dj?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.saff.com.sa",
-      "title": "الاتحاد السعودي لكرة القدم"
+      "href": "https://www.kooora.com",
+      "title": "Kooora"
     }
   }
 ]
