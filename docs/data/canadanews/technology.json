@@ -1,15 +1,5 @@
 [
   {
-    "title": "Google Photos Brings Back 'Auto Trim,' The Video Feature That Quietly Vanished - Forbes",
-    "description": "Google Photos Brings Back 'Auto Trim,' The Video Feature That Quietly Vanished  ForbesGoogle Photos' latest UI experiment has one job: getting CapCut on your phone  Android AuthorityGoogle Photos could bring back a handy video editing tool under a new name  Android Authority",
-    "published date": "Sat, 11 Jul 2026 19:33:14 GMT",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbm9YamhhYzRaNHAwZjdYVXpCUC1lMzQwRFEwb0RvMEQxcDY0ZVp2V2NxRTZFUzJXaGw0NF9oVVYtMFVYaXkxWkhvN3o3dTlCY3BaT3gwM2Ywd3E2X3E1VjFYTEhNVTV2eEhKaUdLVjVpODdjaHpTLXNkZDBXbzQtak85cmFGVFRRblJUMVJfcGFpQ0x4S3h6WWlXVGdnUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.forbes.com",
-      "title": "Forbes"
-    }
-  },
-  {
     "title": "WordPress 7.0 Ships with AI Foundations in Core, a Modernized Admin, and New Design Tools - infoq.com",
     "description": "WordPress 7.0 Ships with AI Foundations in Core, a Modernized Admin, and New Design Tools  infoq.com",
     "published date": "Fri, 10 Jul 2026 06:30:40 GMT",
@@ -17,6 +7,16 @@
     "publisher": {
       "href": "https://www.infoq.com",
       "title": "infoq.com"
+    }
+  },
+  {
+    "title": "Google Photos Brings Back 'Auto Trim,' The Video Feature That Quietly Vanished - Forbes",
+    "description": "Google Photos Brings Back 'Auto Trim,' The Video Feature That Quietly Vanished  ForbesGoogle Photos' latest UI experiment has one job: getting CapCut on your phone  Android AuthorityGoogle Photos could bring back a handy video editing tool under a new name  Android Authority",
+    "published date": "Sat, 11 Jul 2026 13:56:16 GMT",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbm9YamhhYzRaNHAwZjdYVXpCUC1lMzQwRFEwb0RvMEQxcDY0ZVp2V2NxRTZFUzJXaGw0NF9oVVYtMFVYaXkxWkhvN3o3dTlCY3BaT3gwM2Ywd3E2X3E1VjFYTEhNVTV2eEhKaUdLVjVpODdjaHpTLXNkZDBXbzQtak85cmFGVFRRblJUMVJfcGFpQ0x4S3h6WWlXVGdnUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
     }
   },
   {
@@ -90,16 +90,6 @@
     }
   },
   {
-    "title": "Node.js 26 Enables Temporal API - i-programmer.info",
-    "description": "Node.js 26 Enables Temporal API  i-programmer.info",
-    "published date": "Fri, 10 Jul 2026 09:10:28 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa280V3dtU3RPUFRXREdmclE2OGJRSVBzVU5seVF1ckI1Qmo0b1BxTjhXb1dXQmZrdnBCdEdlWWZKMGZCQjY0V0h0UTA0X0NPTldEb1pVTHNjSmoxN09FdllDZ3BVaU9OT3h6ZTk4MVNSQVVib0RLdjY4QmdpR1NoSndQSXQ1OEpYZHk2NUllWFRRTXdzUmc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.i-programmer.info",
-      "title": "i-programmer.info"
-    }
-  },
-  {
     "title": "I wish someone told me about these 5 Android Auto settings before I bought my new car - Android Authority",
     "description": "I wish someone told me about these 5 Android Auto settings before I bought my new car  Android AuthorityThese overlooked Android Auto features save me more time than any navigation shortcut  Android Police",
     "published date": "Sat, 11 Jul 2026 10:30:00 GMT",
@@ -110,8 +100,18 @@
     }
   },
   {
+    "title": "Node.js 26 Enables Temporal API - i-programmer.info",
+    "description": "Node.js 26 Enables Temporal API  i-programmer.info",
+    "published date": "Fri, 10 Jul 2026 09:10:28 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa280V3dtU3RPUFRXREdmclE2OGJRSVBzVU5seVF1ckI1Qmo0b1BxTjhXb1dXQmZrdnBCdEdlWWZKMGZCQjY0V0h0UTA0X0NPTldEb1pVTHNjSmoxN09FdllDZ3BVaU9OT3h6ZTk4MVNSQVVib0RLdjY4QmdpR1NoSndQSXQ1OEpYZHk2NUllWFRRTXdzUmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.i-programmer.info",
+      "title": "i-programmer.info"
+    }
+  },
+  {
     "title": "Whatever you do, don't buy a foldable phone right now - Android Authority",
-    "description": "Whatever you do, don't buy a foldable phone right now  Android AuthoritySamsung says these 3 breakthroughs changed foldable phones forever  SamMobile",
+    "description": "Whatever you do, don't buy a foldable phone right now  Android Authority6 reasons Samsung says foldable phones are worth buying  Sammy Fans",
     "published date": "Fri, 10 Jul 2026 09:00:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRzl5TkFULU1kc3h4a3l1N0Y0N2pMUGtQVElRZ3pQOXZEMm9aTW5KUUFwczFZZ0dsWkFpQzBhYUY5Q0hsZGd4TFZ1Y3JtaENZVEEwdTNzVVlYdUhuVE5QbE5vNTdIVm4waU9vbW1xNENERm5qUEo2WExTbkxUZnd4WXItWEVpSUZJQ2xlU09B?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -140,13 +140,13 @@
     }
   },
   {
-    "title": "Android Circuit: Galaxy Z Fold8 Launch Dates, New York’s Pixel 11 Event, Google’s Backup Change - Forbes",
-    "description": "Android Circuit: Galaxy Z Fold8 Launch Dates, New York’s Pixel 11 Event, Google’s Backup Change  ForbesSamsung Galaxy Z Fold 8 Ultra: Everything we know so far  MashableSamsung Galaxy Z Fold 8 Leak Shows Usable Closed-Phone Design  Gadget HacksSamsung Galaxy Z Fold8 and Galaxy Z Fold8 Ultra's US pricing leaks - GSMArena.com news  GSMArena.comSamsung shares first official glimpse at wide Galaxy Z Fold 8, with Spider-Man’s help  9to5Google",
-    "published date": "Sat, 11 Jul 2026 01:14:43 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWlRBZEgyZDlvMU54MVFFMFI5MDkzQUVBSEpHaEtOLXJrai1IeF85VmtMUjFFS2w4aUVVakZyX05Vc1hkQmI5QmYxSnJ1WFEtRDRzbFp5RFFLTWJITkgtbzdpTWZBdkNxREZCZ3dfSnM0cjVUTlJTZ0lrZXdqX2F0UjF5S1JEM3JJMjJiOXFieW1LcU1ELXlBUFh3QmloZFo1bzdta3pMdDBUUGptOG5sUWNZOFpGbVI1X2d4OF9oLXhmcjEzcHpnWFJBWmxsaUx5aXhDZmlMd204b19LU2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "I spent a week using the Trump phone — it sucks - The Verge",
+    "description": "I spent a week using the Trump phone — it sucks  The VergeExperts tear apart Trump's 'awful' new scam as 'deeply unserious'  AlternetI finally got my Trump phone  The Verge",
+    "published date": "Fri, 10 Jul 2026 14:20:12 GMT",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMWEk0djBDcUdYRWpxMUZiMmtaMk1kdWota3p1N3JHekdTa1pmUU9CSVVRc2dVRE9HLTRuejNtYU9DdGUwQnE2Wnd5NzVHU1VmM2l0YU53a09SVHBiM0JMYmZmaUlMZ0pILWI0eng4VmVxNWs?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.forbes.com",
-      "title": "Forbes"
+      "href": "https://www.theverge.com",
+      "title": "The Verge"
     }
   },
   {
@@ -160,6 +160,16 @@
     }
   },
   {
+    "title": "Android Circuit: Galaxy Z Fold8 Launch Dates, New York’s Pixel 11 Event, Google’s Backup Change - Forbes",
+    "description": "Android Circuit: Galaxy Z Fold8 Launch Dates, New York’s Pixel 11 Event, Google’s Backup Change  ForbesSamsung Galaxy Z Fold 8 Ultra: Everything we know so far  MashableSamsung Galaxy Z Fold 8 Leak Shows Usable Closed-Phone Design  Gadget HacksSamsung Galaxy Z Fold8 and Galaxy Z Fold8 Ultra's US pricing leaks - GSMArena.com news  GSMArena.comSamsung shares first official glimpse at wide Galaxy Z Fold 8, with Spider-Man’s help  9to5Google",
+    "published date": "Sat, 11 Jul 2026 01:14:43 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWlRBZEgyZDlvMU54MVFFMFI5MDkzQUVBSEpHaEtOLXJrai1IeF85VmtMUjFFS2w4aUVVakZyX05Vc1hkQmI5QmYxSnJ1WFEtRDRzbFp5RFFLTWJITkgtbzdpTWZBdkNxREZCZ3dfSnM0cjVUTlJTZ0lrZXdqX2F0UjF5S1JEM3JJMjJiOXFieW1LcU1ELXlBUFh3QmloZFo1bzdta3pMdDBUUGptOG5sUWNZOFpGbVI1X2d4OF9oLXhmcjEzcHpnWFJBWmxsaUx5aXhDZmlMd204b19LU2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
+    }
+  },
+  {
     "title": "Sneak a Peek at Cards from the Pokémon TCG: Mega Evolution—Pitch Black Expansion - Pokemon.com",
     "description": "Sneak a Peek at Cards from the Pokémon TCG: Mega Evolution—Pitch Black Expansion  Pokemon.com\"Pitch Black\" Set Guide: Full Set List, Product Lineup, Store Promos, and More!  PokeBeachPokémon TCG: Mega Evolution—Pitch Black Product Showcase  Pokemon.comDelve into the Darkness of Mega Evolution—Pitch Black with Promo Cards  Pokemon.com",
     "published date": "Fri, 10 Jul 2026 16:09:13 GMT",
@@ -167,16 +177,6 @@
     "publisher": {
       "href": "https://www.pokemon.com",
       "title": "Pokemon.com"
-    }
-  },
-  {
-    "title": "This new, ridiculously thin magnetic power bank fits the Pixel 10 perfectly [Gallery] - 9to5Google",
-    "description": "This new, ridiculously thin magnetic power bank fits the Pixel 10 perfectly [Gallery]  9to5GoogleOnly 6.9mm thick: New Baseus ultrathin magnetic power bank launches with 22.5W charging  Notebookcheck",
-    "published date": "Fri, 10 Jul 2026 13:05:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VS3ZlNlRmX0NHMmN3TTBIRHloMW91bTZGdi1GcmhNZXhVdENHdVZNSWhvQ0IydXBiNmN0Z19xNEJqaEo4Tk9ZVnVrUEpKS21rRUJLSUYyTTg1MVkydDBVd09LUURGdnlNbzhuWWxlVFpMaU13Rms0dUNvRjB3NEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://9to5google.com",
-      "title": "9to5Google"
     }
   },
   {
@@ -220,26 +220,6 @@
     }
   },
   {
-    "title": "I've used Pixel phones for years. Why the upcoming Pixel 11 has me seriously worried - Android Authority",
-    "description": "I've used Pixel phones for years. Why the upcoming Pixel 11 has me seriously worried  Android AuthorityPixel 11 Release Date: Google Copies Samsung’s New Price Plan  ForbesGoogle announces August 12 event for Pixel 11 and Pixel Watch 5  9to5GoogleGoogle's Pixel 11 Pro Fold Gets Major Approval  Droid LifeGoogle Confirms August Pixel Event to Reveal New Generation  iPhone in Canada",
-    "published date": "Fri, 10 Jul 2026 10:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13Y2tJOFk2UWd2NENhTmd5WTlXOEVpUFZQMXNZUG5LLVpfc1ZudGdibGFuVzFjeWpTbzV1Mmg5Ym5jb0pqS1lBczdFMmZfQmRZRzREZUNBSm5kZlhPRmtyaFVIQm5fbXdReXVWQklDMFhwLXlyeTNhUXVNT3RVdDA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.androidauthority.com",
-      "title": "Android Authority"
-    }
-  },
-  {
-    "title": "Saturday Pre-orders – New starter sets for Warhammer newcomers - Warhammer Community",
-    "description": "Saturday Pre-orders – New starter sets for Warhammer newcomers  Warhammer CommunityBoard games coming to America, Germany, and Australia  Warhammer CommunityTwo Warhammer champions show their favourite ways to expand Space Marine starter sets  Warhammer CommunitySunday Preview – New Warhammer 40,000 starter sets are coming  Warhammer Community",
-    "published date": "Sat, 11 Jul 2026 16:56:25 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM2xrQjEwcnozOVRaWEM5bmJaaWhQM1dydlBKbTJnMDlQOU1hWVdTNl95eW9MMnRaZTVYd3o2VmE3Y3VISkFUOWNXVXYtLU9LQWJCTEI4TFlPTWlBUVhfaVhHVGMxNW1heEVSMnlMMjV3dDRsUThlNUZETXhmMUQ1TkNmdkNNSEVPSWlTdWFGdlZwT0RQbVZZZG13ZzNOc3VoZnh2VDhBQnJRRDZVUjJiT0FOcGFaR0pFYXhUS3F3?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.warhammer-community.com",
-      "title": "Warhammer Community"
-    }
-  },
-  {
     "title": "Security News This Week: AI Found a Root Bug in Linux That Everyone Missed for 15 Years - WIRED",
     "description": "Security News This Week: AI Found a Root Bug in Linux That Everyone Missed for 15 Years  WIRED15-Year-Old Linux Kernel GhostLock Flaw Lets Local Users Gain Root  Linuxiac",
     "published date": "Sat, 11 Jul 2026 10:30:00 GMT",
@@ -247,6 +227,16 @@
     "publisher": {
       "href": "https://www.wired.com",
       "title": "WIRED"
+    }
+  },
+  {
+    "title": "SANDISK Phone Drive for iPhone is a great solution to low storage - 9to5Mac",
+    "description": "SANDISK Phone Drive for iPhone is a great solution to low storage  9to5Mac",
+    "published date": "Sat, 11 Jul 2026 16:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNW41Tng3TnBmY3pKMjVqY1plTlRmTGJ2QWNkaUQ0eG5XOHg4WHNfYnlpRzJpLWhMb0FvTTJZUVp4eXI3MXRfcHQ2QV9WNnVZdGZwRlo5M1BmR3g1VzBPb01OaDZFOXJlMFlPeDRXcUlwSDlxal9GYUxuUllVbGRCNzFyZWVzZE1icUVGOEp2SXNZdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://9to5mac.com",
+      "title": "9to5Mac"
     }
   },
   {
@@ -260,13 +250,13 @@
     }
   },
   {
-    "title": "Is the Assassin's Creed Black Flag remake worth the 13 year wait? - BBC",
-    "description": "Is the Assassin's Creed Black Flag remake worth the 13 year wait?  BBCUbisoft Defends AC Black Flag Resynced's New Microtransactions  KotakuAssassin's Creed: Black Flag Resynced - Combat System Breakdown  UbisoftAssassin's Creed Black Flag Resynced: 50 GPU Benchmark  TechSpotThe Animus Hub – How to Get the Most out of Assassin’s Creed Black Flag Resynced  Ubisoft",
-    "published date": "Sat, 11 Jul 2026 00:08:51 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lNHVGeWRYeEVkRlJDSXBUcEYtY2JfS19lY0dUM3lzZ3hlWWdOc25rMEF4U2FjY09uMUx5TU5yUllmZUg4SWdvcTdsUlcydmdkc0hMaGdfaTcwdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Ryse: Son of Rome Had Plans To Be Xbox’s Assassin’s Creed - IGN",
+    "description": "Ryse: Son of Rome Had Plans To Be Xbox’s Assassin’s Creed  IGN",
+    "published date": "Sat, 11 Jul 2026 16:00:23 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNEMzb3NzNE03LUhuaVAxcFNGZGFUeE1LTzRwWlNueVhfbm5SaENwOEhET21JU0JWbV9CY04wZ3dTdzBZODFpOGxDcGNSbzZsWjJ0NklraVdQbmltamRULU5ISDc2Y1RwNDlSdXJZa295Y2J3NDROYndjcWVMZGhLY3VBT3RxalBYQmxr?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.bbc.com",
-      "title": "BBC"
+      "href": "https://www.ign.com",
+      "title": "IGN"
     }
   },
   {
@@ -290,26 +280,6 @@
     }
   },
   {
-    "title": "Ryse: Son of Rome Had Plans To Be Xbox’s Assassin’s Creed - IGN",
-    "description": "Ryse: Son of Rome Had Plans To Be Xbox’s Assassin’s Creed  IGN",
-    "published date": "Sat, 11 Jul 2026 16:00:23 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNEMzb3NzNE03LUhuaVAxcFNGZGFUeE1LTzRwWlNueVhfbm5SaENwOEhET21JU0JWbV9CY04wZ3dTdzBZODFpOGxDcGNSbzZsWjJ0NklraVdQbmltamRULU5ISDc2Y1RwNDlSdXJZa295Y2J3NDROYndjcWVMZGhLY3VBT3RxalBYQmxr?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ign.com",
-      "title": "IGN"
-    }
-  },
-  {
-    "title": "My Fitbit Air test revealed the flaws of calorie counting with a health tracker - here's why - ZDNET",
-    "description": "My Fitbit Air test revealed the flaws of calorie counting with a health tracker - here's why  ZDNETHere's what it's like to use the affordable Fitbit Air that has no screen and looks like a regular bracelet  Business Insider",
-    "published date": "Sat, 11 Jul 2026 12:52:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRVV0b0NCN2lCd05SeDJvbTIwbENFRldsRmluVmJaMWRtcFpHRjR3T3BjMGp2c21ORXk5OVNIMGF3WGt1bWd0Vk0wckxHUTdRQTEydzZodE1NZDZVc0w4Z3puR1VqZS1vUDc5d1JuYWZYSFlLMVZrRmRRa2xDMnBmOEg5WXpmM1lMVjF3OUhfeEYzbzk2?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.zdnet.com",
-      "title": "ZDNET"
-    }
-  },
-  {
     "title": "Pokemon Company document shows wanting to increase price from $60, encouraging people to buy both versions - Nintendo Everything",
     "description": "Pokemon Company document shows wanting to increase price from $60, encouraging people to buy both versions  Nintendo Everything",
     "published date": "Sat, 11 Jul 2026 13:08:49 GMT",
@@ -317,6 +287,16 @@
     "publisher": {
       "href": "https://nintendoeverything.com",
       "title": "Nintendo Everything"
+    }
+  },
+  {
+    "title": "Is the Assassin's Creed Black Flag remake worth the 13 year wait? - BBC",
+    "description": "Is the Assassin's Creed Black Flag remake worth the 13 year wait?  BBCUbisoft Defends AC Black Flag Resynced's New Microtransactions  KotakuAssassin's Creed: Black Flag Resynced - Combat System Breakdown  UbisoftAssassin's Creed Black Flag Resynced: 50 GPU Benchmark  TechSpotThe Animus Hub – How to Get the Most out of Assassin’s Creed Black Flag Resynced  Ubisoft",
+    "published date": "Sat, 11 Jul 2026 00:08:51 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lNHVGeWRYeEVkRlJDSXBUcEYtY2JfS19lY0dUM3lzZ3hlWWdOc25rMEF4U2FjY09uMUx5TU5yUllmZUg4SWdvcTdsUlcydmdkc0hMaGdfaTcwdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bbc.com",
+      "title": "BBC"
     }
   },
   {
@@ -350,23 +330,13 @@
     }
   },
   {
-    "title": "In-Depth: The Urban Jürgensen UJ-1 Tourbillon, a Pocket Watch Masterpiece Reborn for the Wrist - Monochrome Watches",
-    "description": "In-Depth: The Urban Jürgensen UJ-1 Tourbillon, a Pocket Watch Masterpiece Reborn for the Wrist  Monochrome Watches",
-    "published date": "Fri, 10 Jul 2026 16:30:20 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRjhjNkVZaGw2c3Y2WmJKMzdaYkU5WVZNa1dKa0FGX0dJUlgxai14Rmw3NHNVWkNCNm9mamJSUUNFeUlVN3VtbjdHd0oxVmFYZGNzUXJ0VzhqeG1OUUNQcW9VU0htRnJfTFdNN2k4NmFWQUhwaS1JNS1pVHNha1RtR3lkZlNITUU0Z1NEdGdjSjZVRmtVZ2oxSGpGLXF3X1Q2OG1zNDlOTXE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "My battery anxiety is gone thanks to one Samsung routine - MakeUseOf",
+    "description": "My battery anxiety is gone thanks to one Samsung routine  MakeUseOf",
+    "published date": "Sat, 11 Jul 2026 14:00:18 GMT",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDZkk1S0QxS0NVeURpVDRqRU9PV3htMmd2MGUzV0I2aFpUX2hjcUhCWk52b1pRbTRBcEdOOFlHMVpoQ0dZeDItOE1tbl9tVGJVOUNxajQ2Skw1aHFaa0ttNXloY2RGcnJzWHptdmdEbmxZcVU5Z0E?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://monochrome-watches.com",
-      "title": "Monochrome Watches"
-    }
-  },
-  {
-    "title": "iOS 27: What's New With the Mail App - MacRumors",
-    "description": "iOS 27: What's New With the Mail App  MacRumors9 new features Apple added to iPhones  Popular ScienceiOS 27 Release Date: Latest Schedule Confirms iPhone’s July Public Beta  ForbesWhat’s New in iOS 27 Beta 3: Here are All the Changes  iPhone in CanadawatchOS 27 adds three new Health upgrades for Apple Watch  9to5Mac",
-    "published date": "Fri, 10 Jul 2026 22:26:09 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3bGRkcE1TWjVYalMwMEhKVmJNWVpiSVU1OUIyVmlXc1NsZmFMYnVKTFVLMm10V3kzNEUtWTM0UmVOQnN5TlZtc1ZyY2JMV214Y2lBaDlXMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.macrumors.com",
-      "title": "MacRumors"
+      "href": "https://www.makeuseof.com",
+      "title": "MakeUseOf"
     }
   },
   {
@@ -380,13 +350,13 @@
     }
   },
   {
-    "title": "OpenAI Just Declared ChatGPT as You Know It Dead - inc.com",
-    "description": "OpenAI Just Declared ChatGPT as You Know It Dead  inc.comOpenAI is shutting down its Atlas web browser  MashableOpenAI is shutting down Atlas, but its AI browser ambitions are still growing  TechCrunchOpenAI's Browser Isn't Dead, It Just Moved To The ChatGPT App  EngadgetOpenAI's Atlas browser doesn't make it to its first birthday  The Register",
-    "published date": "Sat, 11 Jul 2026 09:26:36 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTUhrV0tPUWdaalhDc2tMal9MWlR3SFlQdHdUZUMxaWszYTN4ZFlBMDdhZzJHa1JPVlRlbml2S3RmMHA1NnFFV3Z1WTBLR0YzMHhLRVY2U0lrdUVfLWdIRFdBWTJ5cG5Nb2xiRnQyZFFOQl9pME5rckl3RXplUnYzeGxyLS05eHFsZ3lxUGg1dzJRQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "In-Depth: The Urban Jürgensen UJ-1 Tourbillon, a Pocket Watch Masterpiece Reborn for the Wrist - Monochrome Watches",
+    "description": "In-Depth: The Urban Jürgensen UJ-1 Tourbillon, a Pocket Watch Masterpiece Reborn for the Wrist  Monochrome Watches",
+    "published date": "Fri, 10 Jul 2026 16:30:20 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRjhjNkVZaGw2c3Y2WmJKMzdaYkU5WVZNa1dKa0FGX0dJUlgxai14Rmw3NHNVWkNCNm9mamJSUUNFeUlVN3VtbjdHd0oxVmFYZGNzUXJ0VzhqeG1OUUNQcW9VU0htRnJfTFdNN2k4NmFWQUhwaS1JNS1pVHNha1RtR3lkZlNITUU0Z1NEdGdjSjZVRmtVZ2oxSGpGLXF3X1Q2OG1zNDlOTXE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.inc.com",
-      "title": "inc.com"
+      "href": "https://monochrome-watches.com",
+      "title": "Monochrome Watches"
     }
   },
   {
@@ -397,6 +367,26 @@
     "publisher": {
       "href": "https://kotaku.com",
       "title": "Kotaku"
+    }
+  },
+  {
+    "title": "My phone doesn't go anywhere without this $10 accessory; it's better than a headphone jack - Android Police",
+    "description": "My phone doesn't go anywhere without this $10 accessory; it's better than a headphone jack  Android Police",
+    "published date": "Sat, 11 Jul 2026 17:00:11 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTjF4dUJQbTMwOXZJMTdoTl9jUjZyenowRGhhcHlvNnRRcGR3ZkZEVzhQYW8xVWxVS2lFbnZUYzFnZWFhc0VZR19EU1pwb29PYzZURlZUMksyU3JHLXpndExHOG1VVWdmUnhKZHhDY0FSWVVnY0x5Sm5rUzZGX1JsdjBreXFyWUlsNUNwVg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.androidpolice.com",
+      "title": "Android Police"
+    }
+  },
+  {
+    "title": "New Details On What Was Cut From Ghost Recon Project OVR - Insider Gaming",
+    "description": "New Details On What Was Cut From Ghost Recon Project OVR  Insider Gaming",
+    "published date": "Sat, 11 Jul 2026 15:53:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQXhWV0xKYURZZWl2N1ZMWFZfRkJ0NTZPZVI3SHIzZFZjZ1Z4SWt6eWRMTFpIX0xpQUhHbXJhXzZCYzNIVVlEWVRPZmxicHotekNtUXJGV19VcGlyR1dYdDJZT0h5Um1zUnZ2VnhnR3JaT0xtbTA3NG9TVWVpZ3VTYk9R?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://insider-gaming.com",
+      "title": "Insider Gaming"
     }
   },
   {
@@ -430,6 +420,16 @@
     }
   },
   {
+    "title": "The upcoming Googlebook is a quiet confession that Chromebooks never truly worked - Android Police",
+    "description": "The upcoming Googlebook is a quiet confession that Chromebooks never truly worked  Android Police",
+    "published date": "Sat, 11 Jul 2026 16:15:10 GMT",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyX19CZzY4NUxmUml2aFhiNWFkcldHWjdvdWFxNURfc3c3VC1SdGM0X1VmX0xJaEVUcXg1ZGZpV3M5bnFMR1g4a0RDRFNzOTBsb1VaNDdhS3Y1dnJyWHZrWE5mZWxMcU1Id2dUb3FB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.androidpolice.com",
+      "title": "Android Police"
+    }
+  },
+  {
     "title": "Honda’s New Small, Affordable Retro Moto Is Super Rider-Friendly Too - Gear Patrol",
     "description": "Honda’s New Small, Affordable Retro Moto Is Super Rider-Friendly Too  Gear Patrol",
     "published date": "Fri, 10 Jul 2026 18:39:29 GMT",
@@ -441,7 +441,7 @@
   },
   {
     "title": "Fallout 5, The Elder Scrolls 6, Blade, and More: As Xbox Layoffs Hit Hard, What's Going on at Bethesda? - IGN",
-    "description": "Fallout 5, The Elder Scrolls 6, Blade, and More: As Xbox Layoffs Hit Hard, What's Going on at Bethesda?  IGN\"They want us to accept this as a done deal and quietly disappear\" – Bethesda union members organise protest in response to Xbox layoffs  GamesIndustry.bizXbox Layoffs Will Have a 'Substantial and Cascading Effect' on The Elder Scrolls 6  IGNBethesda HR Forced Staff To Remove Small Memorial To Laid-Off Colleagues  KotakuBethesda pivots to \"franchise-centric\" planning model amid Xbox restructure  GamesIndustry.biz",
+    "description": "Fallout 5, The Elder Scrolls 6, Blade, and More: As Xbox Layoffs Hit Hard, What's Going on at Bethesda?  IGN\"They want us to accept this as a done deal and quietly disappear\" – Bethesda union members organise protest in response to Xbox layoffs  GamesIndustry.bizXbox Layoffs Will Have a 'Substantial and Cascading Effect' on The Elder Scrolls 6  IGNBethesda pivots to \"franchise-centric\" planning model amid Xbox restructure  GamesIndustry.bizBethesda HR Forced Staff To Remove Small Memorial To Laid-Off Colleagues  Kotaku",
     "published date": "Fri, 10 Jul 2026 22:16:51 GMT",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVGxmZmQ3bFJLRUNURUhLb3BaNVBQQ1lOOVZMY1dtTmsxNmxfX1dqeDNVNXp6MFRwVzZpS1dwWThoWUNlQlF3WXhUb0E2RVN1eU5KTEF0RWtBZDdMNHpVUFNjNFRmZUNGeFZYZHQ0THlKVTlOYU5RVUxYbC1iemVqMXlicm9hMUV6eW5SdFVYUFl6eUI2WTF6czBydDVMTjhqaE5lSW5zMjNpamJ2c1ZqdHVsOFBYZHhtNGZwZnQwYUxvVVU?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -470,13 +470,13 @@
     }
   },
   {
-    "title": "Just 12 days after launch, this compact camera storms to No.1 in Japan - Digital Camera World",
-    "description": "Just 12 days after launch, this compact camera storms to No.1 in Japan  Digital Camera World",
-    "published date": "Fri, 10 Jul 2026 10:38:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNMXFkNV9kcmttQWJQdm9UV1JoNWdRaGJ3cjFJZlp5Qnd2U0FkMmd1ZVNCNGs2Nk5Kc3hXOU9Gem93a25fcldFaUdPRU82TWlEWW5tVk5JZGdDM0ROazd5bkphenBYWTdnemFvcUpDS3VoSV80RElqTGdCTE80djE1ZzFBY1pmTUFONmN3akNmVE8xYkRkenJLQzYtUUxucUliaUNDeDBoa0p2Q1YtbG15UklIalNCQlJrODVDZUFIdDNCeUFyUC11TlRWUzZnbldoY1AwVnVzdzNsU1BwdkwzMjlPdllDQnh0a1ZMU09iM3kxR1B2WjRETkt5VkVLLUZCdFdNZ2RTWXpxcVVtSkxZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Xbox Is Teasing Something Big For Next Week Amid Disc-To-Digital Rumors - GameSpot",
+    "description": "Xbox Is Teasing Something Big For Next Week Amid Disc-To-Digital Rumors  GameSpotMajor Xbox announcement coming next week  NotebookcheckXbox may introduce Positron disc-to-digital system to Insiders next week  VideoCardz.com",
+    "published date": "Fri, 10 Jul 2026 15:47:48 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX2VPV2lNTHRpX1hwWG1qN3NKQ2xnYjVnZlJjUVA0UHU4R05xSG9Nd09PbF9UVHoxbFU4Q0xxMmhiblp5a0RrVWlfWWs4Y3VsalBTel9LNGpCbnZCWktmTlJnZ3ZlaTZpaTFnZjM1c2tWNnlMbXZMMzg3bWpad2xZdzVncHZrMUVBeGhPckRoUkxzQXc3Y0VrYXJkblV1MWxYdXNIbXlzV0J2dw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.digitalcameraworld.com",
-      "title": "Digital Camera World"
+      "href": "https://www.gamespot.com",
+      "title": "GameSpot"
     }
   },
   {
@@ -490,23 +490,43 @@
     }
   },
   {
-    "title": "WHOOP Data Reveals What GLP-1 Drugs Do to Your Heart - Man of Many",
-    "description": "WHOOP Data Reveals What GLP-1 Drugs Do to Your Heart  Man of Many",
-    "published date": "Fri, 10 Jul 2026 05:35:16 GMT",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sZk54bGtSXzF3bDFGN2dhbjRlTmlndzlPeE83MG55ejBDaFlrNG8zQ0dCZ3lwTjF4T3dLb2IzLXl0UFNUZ3JJU1ctVXZjM0NqeGZCY0p1ZG1CSXRqYWdiYlhncjFLZEMzTnE2ZHZOLVg0UEplZlNCbEc1cnR2a0U?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Just 12 days after launch, this compact camera storms to No.1 in Japan - Digital Camera World",
+    "description": "Just 12 days after launch, this compact camera storms to No.1 in Japan  Digital Camera World",
+    "published date": "Fri, 10 Jul 2026 10:38:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNMXFkNV9kcmttQWJQdm9UV1JoNWdRaGJ3cjFJZlp5Qnd2U0FkMmd1ZVNCNGs2Nk5Kc3hXOU9Gem93a25fcldFaUdPRU82TWlEWW5tVk5JZGdDM0ROazd5bkphenBYWTdnemFvcUpDS3VoSV80RElqTGdCTE80djE1ZzFBY1pmTUFONmN3akNmVE8xYkRkenJLQzYtUUxucUliaUNDeDBoa0p2Q1YtbG15UklIalNCQlJrODVDZUFIdDNCeUFyUC11TlRWUzZnbldoY1AwVnVzdzNsU1BwdkwzMjlPdllDQnh0a1ZMU09iM3kxR1B2WjRETkt5VkVLLUZCdFdNZ2RTWXpxcVVtSkxZ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://manofmany.com",
-      "title": "Man of Many"
+      "href": "https://www.digitalcameraworld.com",
+      "title": "Digital Camera World"
     }
   },
   {
-    "title": "Why a 45-Second Sniper Mission Remains One of the Most Important Moments in Gaming History - IGN",
-    "description": "Why a 45-Second Sniper Mission Remains One of the Most Important Moments in Gaming History  IGN",
-    "published date": "Fri, 10 Jul 2026 15:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QU2lqZ21rM0ZCc1g0aUJIVi1pZS1KNVFMdXo0WldpV0trX3ZPelc3OEFrTW14ZW5BVU83bTA2elh0eGRJRzdfX1JxVHhhYTZCaTd1SFNhTThFeDRPemlBdFZfN01mRnFFd1dnaVF1bVFZMjV0bXh3Yw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Steam Deck beta update adds 59.94 FPS Remote Play limit, here’s why - VideoCardz.com",
+    "description": "Steam Deck beta update adds 59.94 FPS Remote Play limit, here’s why  VideoCardz.comLatest Steam Deck beta update fixes incorrect UI scaling, adds FPS limit for Remote Play, and more  NotebookcheckValve updates SteamOS to improve your WiFi download speeds, and it's available on Steam Deck with a couple of caveats  Eurogamer.net",
+    "published date": "Fri, 10 Jul 2026 14:16:12 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSzAzQ2JjeWhNOG5BcW5UaFdRZVhQWlNrVHNOeXBUUmlyYWtiX3ZEODJlTEZvdkIzNGxhVnB4QjF1bVRCRUhOZURpV1hxX1ltZy1nanIyVmhXQm82MEttbkFOOUZQT1ZwVmtOYmQ3dDVHb01ab2NjNTRVMmNPX3AtS0g1OHJzMXRNZFdGS0k1TXZNNG9aaGR5TQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.ign.com",
-      "title": "IGN"
+      "href": "https://videocardz.com",
+      "title": "VideoCardz.com"
+    }
+  },
+  {
+    "title": "5 Google Pixel Settings That Actually Speed Up Your Phone - bgr.com",
+    "description": "5 Google Pixel Settings That Actually Speed Up Your Phone  bgr.com",
+    "published date": "Sat, 11 Jul 2026 09:17:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSnBlY01SUkw0REZ6aWlrRlVVQW9ZWU5LSms4VjhTb0JYcmJ6S0ZDQUdGRDcwTWxieE80X3dzYy0ySHFVb0tPRkEzeTVvUFp0LUdYOGxBcUdQT1V3Yi16VDdnTk5ZeVJfVURhNVA5MlktNXFLaGtnZ0xHTVEwSWdCNnkza09BZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bgr.com",
+      "title": "bgr.com"
+    }
+  },
+  {
+    "title": "Which High-Resolution Full-Frame Camera Has the Best Sensor? - PetaPixel",
+    "description": "Which High-Resolution Full-Frame Camera Has the Best Sensor?  PetaPixel",
+    "published date": "Sat, 11 Jul 2026 14:01:34 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPXzY3dnJhNFJQWEpuQ0kwbnF5YS1xZDVVbTMwaGJiWWZpb2puSGFxSHBpaHk2WXZodG5SNDRIVWoxYjJaVERxU0VkeUJrRkhDZVctY0N5eWtLOGhhX3RmTmNsRHNRM3V4ZHpWZEpBSFVjYVloSGJrMTRzSHp1dVB1QjJzQWVWaDZCNXNlUzJmM25LOThGRHN2Qg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://petapixel.com",
+      "title": "PetaPixel"
     }
   },
   {
@@ -520,10 +540,30 @@
     }
   },
   {
+    "title": "I found 5 ChatGPT 'Apps' everyone over 50 should install first - Tom's Guide",
+    "description": "I found 5 ChatGPT 'Apps' everyone over 50 should install first  Tom's Guide",
+    "published date": "Sat, 11 Jul 2026 04:15:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZnppLXZrck1jVzR6WndPQ2lKVzlnWmo5aGtpck1ILTVUVzd3ZVZEdF80V0ZKX2ltVXRtVGs0RXI1c1pRMXZwTzJMc1ZLV055VkhSMnZWWDlpYVVnLUI5NTB3QzJRVDZ3MU1vTXFCTGdzcWhZanJaZ2FyNVdWdEh5eUpUZXRjTC1WQlE2MXhxb3RUVzR3RWJzcGI2U3VNUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.tomsguide.com",
+      "title": "Tom's Guide"
+    }
+  },
+  {
     "title": "'This Is a Deeply Odd State of Affairs' — Tech Experts Slam Activision's 'Low Effort' Call of Duty: Black Ops PS5 Port - IGN",
     "description": "'This Is a Deeply Odd State of Affairs' — Tech Experts Slam Activision's 'Low Effort' Call of Duty: Black Ops PS5 Port  IGNSee more headlines & perspectives on Google News",
     "published date": "Fri, 10 Jul 2026 13:02:31 GMT",
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNUQ4N0kzYlZLNEdic1MzdzBMS3pwdF9NNGlUek1WMmtIOXU0RDE2eHFPXzd1NVpxbFdnWm9OblRPV2FJLVZ0ZnJoblZ3eU1jTXFJVU1KT1BQLUZOZTFjbzdab1FzbDV5a0ZYRUJESjFSZWk4VXM4dWZfdWt4NnBzYjJGYk5fR2VfdkpTMTlYYzI5WkpiQjJuQi1PTWg5bklPNFg3ZVBuME9IOThaMVc5d1ltNkJONklNaV8waWNXZUkwTVNTdVozMzloSTg4N1hhRWVZLVRR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ign.com",
+      "title": "IGN"
+    }
+  },
+  {
+    "title": "Why a 45-Second Sniper Mission Remains One of the Most Important Moments in Gaming History - IGN",
+    "description": "Why a 45-Second Sniper Mission Remains One of the Most Important Moments in Gaming History  IGN",
+    "published date": "Fri, 10 Jul 2026 15:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QU2lqZ21rM0ZCc1g0aUJIVi1pZS1KNVFMdXo0WldpV0trX3ZPelc3OEFrTW14ZW5BVU83bTA2elh0eGRJRzdfX1JxVHhhYTZCaTd1SFNhTThFeDRPemlBdFZfN01mRnFFd1dnaVF1bVFZMjV0bXh3Yw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.ign.com",
       "title": "IGN"
@@ -540,38 +580,18 @@
     }
   },
   {
-    "title": "Microsoft admits Windows 11 has a GDID tracker with no off switch, first documented publicly in an FBI hacker complaint - Windows Latest",
-    "description": "Microsoft admits Windows 11 has a GDID tracker with no off switch, first documented publicly in an FBI hacker complaint  Windows LatestA hacker’s arrest just revealed how Microsoft can track your Windows device  Yahoo News CanadaA Hacker's Arrest Reveals Microsoft Can Track Users Via a Windows Device ID  PCMagWindows 11 identifier code used to track Scattered Spider perp after Microsoft shared info with FBI — 19-year-old US-Estonian hacker arrested over alleged ties to infamous extortion group  Tom's HardwareWindows is watching: Anti-piracy tool fingers Scattered Spider suspect  The Register",
-    "published date": "Fri, 10 Jul 2026 00:40:54 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM3RSTXZhb1d5cmZEVlVNOFpUNXcyRFdqRFQyZ3NNcVFXb1lncWNsVkc0TGhKUWZQU2NNU0JtWFpMZTh3cjZPWm5vNE1yNE0zbVRvVmk2Qjl3TmdrTHlSdkhmbWhSdlNfcGhMSnRuVDJCcmFvYW5tVDdNdUdTRTk5SUNtZVFhVVNpOXFHdzd1alFiVkIwNzVialhqdU1WTGxLVk9NMVpYUnhBXy12N3E2ZG02Y3FhbmRHV0lfRjV5bVlpckZBYlZjRGpoRTN5M1RJYkROT0JvYmg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "WHOOP Data Reveals What GLP-1 Drugs Do to Your Heart - Man of Many",
+    "description": "WHOOP Data Reveals What GLP-1 Drugs Do to Your Heart  Man of Many",
+    "published date": "Fri, 10 Jul 2026 05:35:16 GMT",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sZk54bGtSXzF3bDFGN2dhbjRlTmlndzlPeE83MG55ejBDaFlrNG8zQ0dCZ3lwTjF4T3dLb2IzLXl0UFNUZ3JJU1ctVXZjM0NqeGZCY0p1ZG1CSXRqYWdiYlhncjFLZEMzTnE2ZHZOLVg0UEplZlNCbEc1cnR2a0U?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.windowslatest.com",
-      "title": "Windows Latest"
-    }
-  },
-  {
-    "title": "Which High-Resolution Full-Frame Camera Has the Best Sensor? - PetaPixel",
-    "description": "Which High-Resolution Full-Frame Camera Has the Best Sensor?  PetaPixel",
-    "published date": "Sat, 11 Jul 2026 14:01:34 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPXzY3dnJhNFJQWEpuQ0kwbnF5YS1xZDVVbTMwaGJiWWZpb2puSGFxSHBpaHk2WXZodG5SNDRIVWoxYjJaVERxU0VkeUJrRkhDZVctY0N5eWtLOGhhX3RmTmNsRHNRM3V4ZHpWZEpBSFVjYVloSGJrMTRzSHp1dVB1QjJzQWVWaDZCNXNlUzJmM25LOThGRHN2Qg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://petapixel.com",
-      "title": "PetaPixel"
-    }
-  },
-  {
-    "title": "I found 5 ChatGPT 'Apps' everyone over 50 should install first - Tom's Guide",
-    "description": "I found 5 ChatGPT 'Apps' everyone over 50 should install first  Tom's Guide",
-    "published date": "Sat, 11 Jul 2026 04:15:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZnppLXZrck1jVzR6WndPQ2lKVzlnWmo5aGtpck1ILTVUVzd3ZVZEdF80V0ZKX2ltVXRtVGs0RXI1c1pRMXZwTzJMc1ZLV055VkhSMnZWWDlpYVVnLUI5NTB3QzJRVDZ3MU1vTXFCTGdzcWhZanJaZ2FyNVdWdEh5eUpUZXRjTC1WQlE2MXhxb3RUVzR3RWJzcGI2U3VNUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.tomsguide.com",
-      "title": "Tom's Guide"
+      "href": "https://manofmany.com",
+      "title": "Man of Many"
     }
   },
   {
     "title": "The 7 best games to play like Avowed - Polygon.com",
-    "description": "The 7 best games to play like Avowed  Polygon.comMicrosoft’s Xbox to Shift Obsidian Studio to New ‘Fallout’ Video Game  Bloomberg.comObsidian Reportedly Set to Lose a Quarter of Its Staff Amid Xbox Layoffs  IGNMicrosoft Reportedly Cancels Avowed Sequel As Obsidian Focuses On A Fallout Game  EngadgetObsidian is reportedly making a new Fallout game headed by Josh Sawyer after Microsoft pulled the plug on an Avowed sequel  PC Gamer",
+    "description": "The 7 best games to play like Avowed  Polygon.comMicrosoft’s Xbox to Shift Obsidian Studio to New ‘Fallout’ Video Game  Bloomberg.comObsidian Reportedly Set to Lose a Quarter of Its Staff Amid Xbox Layoffs  IGNXbox just killed its shot at making the next Baldur's Gate 3  Polygon.comObsidian is reportedly making a new Fallout game headed by Josh Sawyer after Microsoft pulled the plug on an Avowed sequel  PC Gamer",
     "published date": "Sat, 11 Jul 2026 14:31:21 GMT",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TZ0JyNVp6LVgyY0FmcGJBRUROd0pzTzJIWXRHZXcyMGFndGtNRHVWVXFPRTJobExObDFibWZBU0ZaRUdVVVR5d0ZSLXZWS2R0eVZFSjU2MVp1UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -580,13 +600,23 @@
     }
   },
   {
-    "title": "A New Experiential Gallery Just Might Change Your Mind About AI Art - WIRED",
-    "description": "A New Experiential Gallery Just Might Change Your Mind About AI Art  WIRED",
-    "published date": "Fri, 10 Jul 2026 10:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMERXSEJGcVJpSjJlY0VuOXpCV05QQ29wR0p3YXlZTlJyUDBvRExBUmVIaXJnNGgzRjZmQk1DTWxtdlpucXdSbjNTRDhZZi0yTnhob09GZlpVZkRoQ0JtQzYzLU1OeXFfR1hLMXk1S3RCakxuU0d0NWh1bU5ncndwSTRHSFlSbWRXUjhDQjBJenQxc1BJdXk3X1VJVmE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "My favorite Gemini alternative isn't ChatGPT or Copilot; it's way more productive - Android Police",
+    "description": "My favorite Gemini alternative isn't ChatGPT or Copilot; it's way more productive  Android Police",
+    "published date": "Sat, 11 Jul 2026 15:15:10 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR3YzQmtpOEFZZXdGZ0dmaVdyeUVzQmFwQ2diUWl6OFIyeEtRWTZBaFNvU0ZOQTB4ZDBJZlJwN1NkQUhXaGk4Sk1kcFhvc3BIaVRsaGk1UTJKN254SGxuMzh1UEZZcnR5Sk15STZxeWo2R3M2d1UtRDJMNXZUc1ZEeWVlSVJxWHFaRUJzWGJPclYwTkdqd1BLMXdmbk9ERWVLZWN0YXZQdWI3STNIdVBN?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.wired.com",
-      "title": "WIRED"
+      "href": "https://www.androidpolice.com",
+      "title": "Android Police"
+    }
+  },
+  {
+    "title": "Microsoft admits Windows 11 has a GDID tracker with no off switch, first documented publicly in an FBI hacker complaint - Windows Latest",
+    "description": "Microsoft admits Windows 11 has a GDID tracker with no off switch, first documented publicly in an FBI hacker complaint  Windows LatestA hacker’s arrest just revealed how Microsoft can track your Windows device  Yahoo News CanadaA Hacker's Arrest Reveals Microsoft Can Track Users Via a Windows Device ID  PCMagWindows 11 identifier code used to track Scattered Spider perp after Microsoft shared info with FBI — 19-year-old US-Estonian hacker arrested over alleged ties to infamous extortion group  Tom's HardwareWindows is watching: Anti-piracy tool fingers Scattered Spider suspect  The Register",
+    "published date": "Fri, 10 Jul 2026 00:40:54 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM3RSTXZhb1d5cmZEVlVNOFpUNXcyRFdqRFQyZ3NNcVFXb1lncWNsVkc0TGhKUWZQU2NNU0JtWFpMZTh3cjZPWm5vNE1yNE0zbVRvVmk2Qjl3TmdrTHlSdkhmbWhSdlNfcGhMSnRuVDJCcmFvYW5tVDdNdUdTRTk5SUNtZVFhVVNpOXFHdzd1alFiVkIwNzVialhqdU1WTGxLVk9NMVpYUnhBXy12N3E2ZG02Y3FhbmRHV0lfRjV5bVlpckZBYlZjRGpoRTN5M1RJYkROT0JvYmg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.windowslatest.com",
+      "title": "Windows Latest"
     }
   },
   {
@@ -607,16 +637,6 @@
     "publisher": {
       "href": "https://www.windowslatest.com",
       "title": "Windows Latest"
-    }
-  },
-  {
-    "title": "I finally found a way to watch videos on Android Auto; it changed my waiting game - Android Police",
-    "description": "I finally found a way to watch videos on Android Auto; it changed my waiting game  Android Police",
-    "published date": "Fri, 10 Jul 2026 11:00:31 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQW5BS3dTbHNoc2VKS2FGeUJkM0dyT1c3VnBYQTlzNW9xeEphUjZEbTdqd0xocnl6UUZwLVNQRVg0d3NrMl9hM0tWYWVXZWp6RFc0TnlLcjFfYjlleFFZNUstWExlVnYtMGJfOWI3Z1VMV25aTEdwTjRWTWpGRW5xSld6cXJyTFB0MzJocDJNRzRmNFRaalZuNm9XUHlHNEp1dlE0RUUtQWJwUktJaFB5NFhWVDQ1TXM?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.androidpolice.com",
-      "title": "Android Police"
     }
   },
   {
