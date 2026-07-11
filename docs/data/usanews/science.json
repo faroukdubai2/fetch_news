@@ -21,7 +21,7 @@
   },
   {
     "title": "F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry - The New York Times",
-    "description": "F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry  The New York TimesFCC approves first Reflect Orbital satellite  SpaceNewsFCC Approves Reflect Orbital's Space Mirror Satellite That Astronomers Hate  PCMagIn 2026, the FCC authorized radio operations for Reflect Orbital’s first 18-metre space mirror, a single demonstration for a proposed 50,000-satellite system that one astronomy model says could raise the natural night-sky background by 200% to 300%  Space DailyFCC Approves Extremely Controversial Space Mirror Satellite That Could \"Flash Blind\" Drivers And Ruin Astronomy  IFLScience",
+    "description": "F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry  The New York TimesFCC approves first Reflect Orbital satellite  SpaceNewsFCC Approves Reflect Orbital's Space Mirror Satellite That Astronomers Hate  PCMagThe U.S. just approved a giant space mirror to test ‘sunlight on demand.’ Low Earth orbit is getting weird  The ConversationIn 2026, the FCC authorized radio operations for Reflect Orbital’s first 18-metre space mirror, a single demonstration for a proposed 50,000-satellite system that one astronomy model says could raise the natural night-sky background by 200% to 300%  Space Daily",
     "published date": "Fri, 10 Jul 2026 22:21:47 GMT",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9EVS1xUmVGeThKMk9ZVnk2eThfX0dTNkwxNy15WjlXVUNRZG10cUZ6ajBSeXR4cEx5TndvNmlVUmxSR0sxOERJRUs5aHN2dFB6R0d5M1BRT3lFLXVOVnI0TDZOdUY3aUM4VHRwZFBYdTd3UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -50,6 +50,16 @@
     }
   },
   {
+    "title": "Scientists' plan to halt rare El Niño heatwave may trigger something unstoppable - The Mirror US",
+    "description": "Scientists' plan to halt rare El Niño heatwave may trigger something unstoppable  The Mirror USAnother Super El Niño is brewing. Scientists are looking at a controversial solution to squash them  CNNSeeding clouds with seawater could prevent a super El Niño  New ScientistCan geoengineering blunt El Niño’s fury?  Science NewsGeoengineering the Super El Niño: Study Looks at Cloud Brightening to Ease the Pain  The Inertia",
+    "published date": "Thu, 09 Jul 2026 16:42:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JWFFhRjNVcnF0QlN2WkRPT2xPSGxLZkRGUVQ2M0hRSkxtcklLckxZT1VJcmNVNmtBOU42UDhUamN2dzEwX2NjcmFNeU9DT1JudlhoWENVdW9keUxLcDdNVEpaZTdUU3p4cm9rQXNuaWxYeVNTUlc1MmdoV0TSAYIBQVVfeXFMT20yTVNwenhUSTBKZ3J6emViYUt1V3hQdE9CYy0xaXpfX2daX3FOb2REX01IZ0I1ZTVLdV8xZUh5TXpDTVFaMHMyVVo4OWlMMWh5Wlg0dktoR05wRHRxWHpZVGd1aUU5QTlmdXBmRmNMN2p4YVhGbmxKRkR0SWw5UFZadw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.themirror.com",
+      "title": "The Mirror US"
+    }
+  },
+  {
     "title": "Fossils reveal the earliest animal with a head was also the oldest known ‘righty’ - CNN",
     "description": "Fossils reveal the earliest animal with a head was also the oldest known ‘righty’  CNNThese Fossils May Be the Earliest Evidence of Handedness in Animals  The New York TimesWorld’s first right-hander could be this 550 million-year-old worm  Popular ScienceEarliest evidence of behavioural handedness in the Ediacaran motile bilaterian Spriggina floundersi | Scientific Reports  NatureEdiacaran Sea Creature May Hold Earliest Evidence of Right-Handedness  Sci.News",
     "published date": "Thu, 09 Jul 2026 23:27:22 GMT",
@@ -57,16 +67,6 @@
     "publisher": {
       "href": "https://www.cnn.com",
       "title": "CNN"
-    }
-  },
-  {
-    "title": "Scientists' plan to halt rare El Niño heatwave may trigger something unstoppable - The Mirror US",
-    "description": "Scientists' plan to halt rare El Niño heatwave may trigger something unstoppable  The Mirror USAnother Super El Niño is brewing. Scientists are looking at a controversial solution to squash them  CNNCan geoengineering blunt El Niño’s fury?  Science NewsSeeding clouds with seawater could prevent a super El Niño  New ScientistA popular climate fix could accidentally trigger massive changes to global weather  ScienceDaily",
-    "published date": "Thu, 09 Jul 2026 16:42:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JWFFhRjNVcnF0QlN2WkRPT2xPSGxLZkRGUVQ2M0hRSkxtcklLckxZT1VJcmNVNmtBOU42UDhUamN2dzEwX2NjcmFNeU9DT1JudlhoWENVdW9keUxLcDdNVEpaZTdUU3p4cm9rQXNuaWxYeVNTUlc1MmdoV0TSAYIBQVVfeXFMT20yTVNwenhUSTBKZ3J6emViYUt1V3hQdE9CYy0xaXpfX2daX3FOb2REX01IZ0I1ZTVLdV8xZUh5TXpDTVFaMHMyVVo4OWlMMWh5Wlg0dktoR05wRHRxWHpZVGd1aUU5QTlmdXBmRmNMN2p4YVhGbmxKRkR0SWw5UFZadw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.themirror.com",
-      "title": "The Mirror US"
     }
   },
   {
@@ -100,18 +100,8 @@
     }
   },
   {
-    "title": "Scientists have discovered the oldest quasar ever seen, and it shines with the light of a trillion suns - Space",
-    "description": "Scientists have discovered the oldest quasar ever seen, and it shines with the light of a trillion suns  SpaceEuclid telescope spots oldest quasars ever discovered, adding to \"perplexing\" space mystery  CBS NewsEuclid telescope discovers the 2 most ancient monster black holes in the universe — each brighter than a trillion suns  Live ScienceEuclid discovers the most ancient quasars in the universe  Phys.orgAncient quasars add to a ‘major unsolved problem’ in astrophysics  WTVB",
-    "published date": "Thu, 09 Jul 2026 21:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTDh1Sm9YNTlLNHlHZElVcm82Q2YycEFtWnFDQ0tWRlNpZGxLUE12blgzY0NNOWEwNE9kMzdCNFAyNHRnQkZKdGt6UjZqWWhGVlI0UlFqeG5WVEFNMi1BNGV5XzBTeXJIS3AtbllOdkFKYTN6WG1DNk1NQnFSR3o0QWxzdnZaWU5LVy04WlVJUFJxdFBHYXZqQ0libGp6VVZkZmFvUFhvamxDMDlnUWtObVFtVnhMeGxaTG1EX2FYcDhkbzZDRzgwamNsUFBHd0hoLUJzZUFTOW83NUZtRGdV?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.space.com",
-      "title": "Space"
-    }
-  },
-  {
     "title": "NASA taps SpaceX to launch the telescope that could unlock new worlds - Teslarati",
-    "description": "NASA taps SpaceX to launch the telescope that could unlock new worlds  TeslaratiNASA’s Roman Launch Preparations Proceed  NASA Science (.gov)NASA's Roman Space Telescope prepares for launch | Space photo of the day for July 8, 2026  SpaceFive Weeks Before Liftoff, a Pasadena Scientist Previews NASA’s Next Great Telescope  Pasadena NowNASA’s Roman Space Telescope prepares for launch  WFTV",
+    "description": "NASA taps SpaceX to launch the telescope that could unlock new worlds  TeslaratiNASA’s Roman Launch Preparations Proceed  NASA Science (.gov)NASA's Roman Space Telescope prepares for launch | Space photo of the day for July 8, 2026  SpaceFive Weeks Before Liftoff, a Pasadena Scientist Previews NASA’s Next Great Telescope  Pasadena NowNASA's Nancy Grace Roman Space Telescope, due to launch in August 2026, is expected to discover around 100,000 exoplanets in a single mission — more than every telescope in the history of astronomy combined  Space Daily",
     "published date": "Fri, 10 Jul 2026 06:05:45 GMT",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRlFCUEN2ME1wSE9pc1ZpNUZsLTM3VzRJVXZMcV9KdnhheXlycWgxaTEtcjFVRldPbjVXYXI3UHBvNVJiRDZ3TlU4Z0RmU2JncFpYZU96QWZ3UnExMDIwZDZnMWxITUlSWmxjLUJTd3FUcWh2ZUM1M3diY1poeHN2QWhWZm1XdW5aQmxIcDVIaVhJeEUwY2k2T0NOai0?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -141,7 +131,7 @@
   },
   {
     "title": "A Chinese Spacecraft Captures First Image of Quasi-Moon - The New York Times",
-    "description": "A Chinese Spacecraft Captures First Image of Quasi-Moon  The New York TimesChina releases 1st photo of Earth's elusive 'quasi-moon' Kamo'oalewa  SpaceTianwen-2 arrives at asteroid Kamo’oalewa, first image revealed  SpaceNewsSecretive Chinese probe snaps first photo of Earth's mysterious 'quasi-moon' — and it may pose a big problem  Live ScienceChinese spacecraft Tianwen-2 beams back first image of Earth’s “mini moon”  Scientific American",
+    "description": "A Chinese Spacecraft Captures First Image of Quasi-Moon  The New York TimesChina’s Tianwen-2 Space Probe Has Rendezvoused With Earth’s Quasi-Moon  WIREDChina releases 1st photo of Earth's elusive 'quasi-moon' Kamo'oalewa  SpaceTianwen-2 arrives at asteroid Kamo’oalewa, first image revealed  SpaceNewsChinese spacecraft Tianwen-2 beams back first image of Earth’s “mini moon”  Scientific American",
     "published date": "Thu, 09 Jul 2026 15:10:06 GMT",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1pRmY1QXN2TFZuUkNfWWVyd1pYdTVLcTBoX2doV0lselVOaTdJSERlS2hNbU9LdHFRa3B3dFhBR3pRam9uRjZsal9oRHZfS3NONDBURkIxZnEydHFVQ3N4LTgyampkWEF6Z2wydmVoLWVBUFB5UUh6by1B?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -150,13 +140,13 @@
     }
   },
   {
-    "title": "A Human Habitat at The Bottom of The Ocean Is Now Operational. Take a Look Inside - ScienceAlert",
-    "description": "A Human Habitat at The Bottom of The Ocean Is Now Operational. Take a Look Inside  ScienceAlertDEEP installs subsea habitat in Florida Keys for long-duration research  WorkBoatDEEP begins first trial of Vanguard undersea habitat at 17 metres with four crew  디지털투데이Human habitats built on the ocean floor will soon become operational. What is the meaning of living on the ocean floor?  GIGAZINENew subsea habitat deployed off the Florida Keys embarks on several missions  Keys Weekly Newspapers",
-    "published date": "Thu, 09 Jul 2026 20:02:22 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbnVsU1lTR3dGb2RsVjhHREl6cTNpMEpQWGFLdnRsVGs2Tktyd0NuNHNhZWE4cXdodmx6Wk12NEpmVjVaRU56VDB1dWZCYTUyWnR2ZGYzOWQxWFpKM05DQlE2Wldzc3hWeXV1VlNZUmRYQ0t0RzdaaE5pRHA5ekxBWnJPaGFQckgwQkpLUzZoS3JRVk5hbDZOTk9MSzIzUkJfNGNDaXFSWUpuZGR4bU9xRXdR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Darwin's 150‑year‑old hillside steps mystery may have a new answer from virtual grazing animals - Phys.org",
+    "description": "Darwin's 150‑year‑old hillside steps mystery may have a new answer from virtual grazing animals  Phys.org",
+    "published date": "Fri, 10 Jul 2026 11:30:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPc0pRZGdVaTgtQm5WNl80bjZiYWxieDJHdGM0aTdtczZFLTVKOEhiNXZ6YnJEcHBOaGdzOGRhZUthNWFBMlE3Q2E1ai1QWUVYVFlFVl90NXh4WHI2TWdMMmVwMDhDa2EzYWpRcGMtR3U2bnM3ZWowdEl5dThxcklZbDgwcw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.sciencealert.com",
-      "title": "ScienceAlert"
+      "href": "https://phys.org",
+      "title": "Phys.org"
     }
   },
   {
@@ -180,6 +170,16 @@
     }
   },
   {
+    "title": "A Human Habitat at The Bottom of The Ocean Is Now Operational. Take a Look Inside - ScienceAlert",
+    "description": "A Human Habitat at The Bottom of The Ocean Is Now Operational. Take a Look Inside  ScienceAlertDEEP installs subsea habitat in Florida Keys for long-duration research  WorkBoatDEEP begins first trial of Vanguard undersea habitat at 17 metres with four crew  디지털투데이Human habitats built on the ocean floor will soon become operational. What is the meaning of living on the ocean floor?  GIGAZINENew subsea habitat deployed off the Florida Keys embarks on several missions  Keys Weekly Newspapers",
+    "published date": "Thu, 09 Jul 2026 20:02:22 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbnVsU1lTR3dGb2RsVjhHREl6cTNpMEpQWGFLdnRsVGs2Tktyd0NuNHNhZWE4cXdodmx6Wk12NEpmVjVaRU56VDB1dWZCYTUyWnR2ZGYzOWQxWFpKM05DQlE2Wldzc3hWeXV1VlNZUmRYQ0t0RzdaaE5pRHA5ekxBWnJPaGFQckgwQkpLUzZoS3JRVk5hbDZOTk9MSzIzUkJfNGNDaXFSWUpuZGR4bU9xRXdR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.sciencealert.com",
+      "title": "ScienceAlert"
+    }
+  },
+  {
     "title": "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture. - Quanta Magazine",
     "description": "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture.  Quanta Magazine",
     "published date": "Fri, 10 Jul 2026 14:54:36 GMT",
@@ -187,66 +187,6 @@
     "publisher": {
       "href": "https://www.quantamagazine.org",
       "title": "Quanta Magazine"
-    }
-  },
-  {
-    "title": "When a deep-sea robot ventured down into the Atlantic's Doldrums, it found something massive no one expected – leaving scientists stunned - BBC Wildlife Magazine",
-    "description": "When a deep-sea robot ventured down into the Atlantic's Doldrums, it found something massive no one expected – leaving scientists stunned  BBC Wildlife MagazineScientists Travel to Unexplored Area of Atlantic Ocean and Photograph Bizarre Deep-Sea Creatures  PetaPixelScientists film alien-like spookfish in the wild for the first time ever  Digital Camera WorldSee the Odd-Looking Barreleye Fish in Its Natural Habitat for the First Time  Nautilus | SciencePacific barreleye fish: The deep-sea species with a transparent head and rotating green eyes  The Times of India",
-    "published date": "Fri, 10 Jul 2026 20:54:43 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUzVTTnRvQkpVY1BXVXNuc3MwOFgwd2tYU1YyREtOVk9GTzNRVlAyVk9yeUhUNC0wdHcyMVZEcHYzMmNjT1dUNnZqTjhhZHdLMkVhTEpUdVRmVnZJcU9zNUh2eXFEc2VBSkdaVnFBU0RPT0lfejZvbmZBaFlMcXlOVGU0NTBaTGgycUF2OUE1eWxmVE42anc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.discoverwildlife.com",
-      "title": "BBC Wildlife Magazine"
-    }
-  },
-  {
-    "title": "A Plan to Stop Solar Storms From Sending Us Back to the Stone Age - WSJ",
-    "description": "A Plan to Stop Solar Storms From Sending Us Back to the Stone Age  WSJScientists discover new method of defense against solar storms to help protect Earth  FOX WeatherHow to Protect Earth From a Massive Solar Storm  WSJScientists propose launching a giant 'airbag' into space to protect us from solar superstorms — and experts say it's 'quite feasible'  Live ScienceQuiz of the week: how do scientists hope to protect Earth from dangerous solar storms?  Physics World",
-    "published date": "Fri, 10 Jul 2026 12:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVXRQeDNmdzNkYUNoakIxQmEyWVNXbXlENkt1ZU15NUtOc1E5cXN0TXI4X1gzMFdCaUdsLVRsMDRlNGpVX2padVdrX1JJalJwZENuWlo3bXBBNGNJM3FpSXdYalNkWlVlSWdnODJFUy02QWpWOEF4bzlWalA5YTdKS2J4ZVlINkRoZFE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.wsj.com",
-      "title": "WSJ"
-    }
-  },
-  {
-    "title": "Titan has rivers, rainfall, lakes and a slow hydrological cycle exactly like Earth's, except that every drop of it is liquid methane and the rock the rivers run over is water ice - Space Daily",
-    "description": "Titan has rivers, rainfall, lakes and a slow hydrological cycle exactly like Earth's, except that every drop of it is liquid methane and the rock the rivers run over is water ice  Space Daily",
-    "published date": "Fri, 10 Jul 2026 13:30:30 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPQVJKNjl4YXgxZmNrQkw0M1dNVHhDSXdXQ2pSZ21WM0thNXVmUmprTmYxT1pkQVZpSDlLel84STFEck0xWndpc0JBNlk4YUhPVFdmRmU5YV9BSWUwUnRSLW4wYVZJLVBHUmphS3B0SUIzRlRrbnhBTXZFa2RPSWd2bVpGZmxPVHIzeXNpVFZ4ZFZiNVZFSk42ZGdwTVNqU216TFF0MXVUQ3VFUHpHSUlKY2c1cERZZTc1Z19qd1kza2RSTHRDenB0NEFUZjZSVFVnamhfZ01mTVFhVG13bGJrRmloSWpXUEd3THROS0tqWGM1dlVaRXVOWmVaSFFFdkFfdzJnc1ZyQ29LM1F4a3pkazBkVkk5S1RrMmExMFFUc1Yza0lIU2dR?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://spacedaily.com",
-      "title": "Space Daily"
-    }
-  },
-  {
-    "title": "Image: Curiosity rover sees Martian sulfur up close - Phys.org",
-    "description": "Image: Curiosity rover sees Martian sulfur up close  Phys.orgSee more headlines & perspectives on Google News",
-    "published date": "Thu, 09 Jul 2026 18:32:20 GMT",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9aYU9ab1NrRW9fTmFQcko1b0x2dC1ybXZSd2VycGtDSWlMTFY0anRkT0h0SFlCZkM5TlVVaGl4RVJJWFpnM0xzX291VG5hNEdqNUxQTFhWNmNxbVdoQTZ3dU1tWFhrZy1NdGpSVFJjZE9FeTVvZU15RVFnMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://phys.org",
-      "title": "Phys.org"
-    }
-  },
-  {
-    "title": "Scientists Say a Critical Ocean Current System May Already Be Past the Point of No Return - Gizmodo",
-    "description": "Scientists Say a Critical Ocean Current System May Already Be Past the Point of No Return  GizmodoCollapse of Atlantic Currents May Already Be ‘Locked In’  Yale E360Collapse of AMOC ocean current may already be locked in  New ScientistWe’re in a heatwave, so why is a ‘cold blob’ in the Atlantic causing so much concern?  The IndependentWeakening Atlantic Current May Intensify California Storms  Labroots",
-    "published date": "Thu, 09 Jul 2026 17:30:56 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSVRnNlhkZEt5X0N5VTd5bUZZTjJaNlQ3Y2d2U2prY1dqM3QxZmU1X1R6U1BUaUtNaGphSXJhSjFDV01vbUlJTnhzVGlzakRTVnJmZFl2a2pFdTlMcDV6dHZPTWN6WjVyMkVvaFYwMlVndUxFbUw3XzlleTcydGNkclNnd2FVbVpFdDczenB0RkVWZHdYUE1KZzhRX3JDNmUtV0h5Ri1KSmxleURVOEV3QWJ3TDcwTF9jWnN2Zg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://gizmodo.com",
-      "title": "Gizmodo"
-    }
-  },
-  {
-    "title": "NASA’s New Horizons Wakes Up From Hibernation Beyond Pluto, More Than 10 Billion Kilometers from Earth - ZME Science",
-    "description": "NASA’s New Horizons Wakes Up From Hibernation Beyond Pluto, More Than 10 Billion Kilometers from Earth  ZME ScienceNASA’s New Horizons Spacecraft Wakes from Hibernation in Good Health  NASA Science (.gov)NASA's New Horizons probe just woke up from hibernation 6 billion miles away beyond Pluto. What's it doing out there?  SpaceNASA's New Horizons spacecraft reaches 6 billion miles from Earth  MashableNASA’s Pluto Probe Is Finally Approaching a Major Boundary of Deep Space  Gizmodo",
-    "published date": "Fri, 10 Jul 2026 12:42:35 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FdjYxQ2lHanJsRWJncHgzend4SXZVTXBsaHhjUmRINTZET0doNkFJeGJjVkFPM2RMTFNzeDUzaERsZjVtQnlRYW1PZVFNandwb1RON2JWUEhMVzlyZ0hoSVRhM3NHZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.zmescience.com",
-      "title": "ZME Science"
     }
   },
   {
@@ -260,13 +200,63 @@
     }
   },
   {
-    "title": "Dirty 'button' unearthed by metal detectorist turns out to be a rare 900-year-old coin from Norway's last Viking king, Magnus Barefoot - Live Science",
-    "description": "Dirty 'button' unearthed by metal detectorist turns out to be a rare 900-year-old coin from Norway's last Viking king, Magnus Barefoot  Live ScienceDirty 'button' unearthed by metal detectorist turns out to be a rare 900-year-old coin from Norway's last V...  YahooRare coin from Norway’s last Viking king mistaken for old button  Popular ScienceDetectorist found a 900-year-old silver coin  CPG Click Oil and GasA metal detectorist found what looked like an old button in Norway. Months later, it was identified as an extremely rare coin  MSN",
-    "published date": "Thu, 09 Jul 2026 21:19:16 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPem45akc3NGhQMDRaNWNUQS1XSDRmVUx0RXRiTk9sN3FjUG9wX0NFT0UyckVVT0VHYTl4QVdTekdacDZKbnFmRmwyRGRyZVpPU01OcktJNUhVdl9WWW03MDQyOVlzaEwwNDZhdFljdUczOFRXdGRJX2N1X0ctLWxkdEhzUzlrakNhRF9aTS1YQkY5WnNPVXBodjg1WURJSGdtbFlOT2Q3eTkteHdGczk2R3FKVUdmbG1CeHE1cGlOLS1MZ0I3Wmt3SV8ySjRtMUxLZVpDalJMcjZiUjAtNXpjQ19qVFBwZWd5STk0RFFKdE9jTHdHbDViUEJDS3UxaU5lN0d2ZDNUY2xfdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "When a deep-sea robot ventured down into the Atlantic's Doldrums, it found something massive no one expected – leaving scientists stunned - BBC Wildlife Magazine",
+    "description": "When a deep-sea robot ventured down into the Atlantic's Doldrums, it found something massive no one expected – leaving scientists stunned  BBC Wildlife MagazineScientists Travel to Unexplored Area of Atlantic Ocean and Photograph Bizarre Deep-Sea Creatures  PetaPixelScientists film alien-like spookfish in the wild for the first time ever  Digital Camera WorldSee the Odd-Looking Barreleye Fish in Its Natural Habitat for the First Time  Nautilus | SciencePacific barreleye fish: The deep-sea species with a transparent head and rotating green eyes  The Times of India",
+    "published date": "Fri, 10 Jul 2026 20:54:43 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUzVTTnRvQkpVY1BXVXNuc3MwOFgwd2tYU1YyREtOVk9GTzNRVlAyVk9yeUhUNC0wdHcyMVZEcHYzMmNjT1dUNnZqTjhhZHdLMkVhTEpUdVRmVnZJcU9zNUh2eXFEc2VBSkdaVnFBU0RPT0lfejZvbmZBaFlMcXlOVGU0NTBaTGgycUF2OUE1eWxmVE42anc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.livescience.com",
-      "title": "Live Science"
+      "href": "https://www.discoverwildlife.com",
+      "title": "BBC Wildlife Magazine"
+    }
+  },
+  {
+    "title": "A ravenous black hole in our backyard could be our window into the ancient universe - Space",
+    "description": "A ravenous black hole in our backyard could be our window into the ancient universe  SpaceSee more headlines & perspectives on Google News",
+    "published date": "Fri, 10 Jul 2026 21:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQTlrdHFjU09sX3poeUFmaGZVRjZxS0hoLTV2SnBqaXVJOThmUGJ0bk9QQVFjTV9IaEpna3dRXzgxZWdPSHBzOXdaYm4tRVpFYjJkS1JMQXB6dW1zNVBtbUI2ZHNkUkdCUnl4TG5YTVR0dk9DMXhhdm8yanY5QUNxc05nRFlTanNvc1JnUnV6MTE4YmtxRGV6ZzZMU2p3WHRJOGxERTJLSmRoN1VmTG1XWlhTcDFWTk9hNTZReTVmNktoUUpWcmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.space.com",
+      "title": "Space"
+    }
+  },
+  {
+    "title": "NASA’s New Horizons Wakes Up From Hibernation Beyond Pluto, More Than 10 Billion Kilometers from Earth - ZME Science",
+    "description": "NASA’s New Horizons Wakes Up From Hibernation Beyond Pluto, More Than 10 Billion Kilometers from Earth  ZME ScienceNASA’s New Horizons Spacecraft Wakes from Hibernation in Good Health  NASA Science (.gov)NASA's New Horizons probe just woke up from hibernation 6 billion miles away beyond Pluto. What's it doing out there?  SpaceNASA's New Horizons spacecraft reaches 6 billion miles from Earth  MashableNASA’s Pluto Probe Is Finally Approaching a Major Boundary of Deep Space  Gizmodo",
+    "published date": "Fri, 10 Jul 2026 12:42:35 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FdjYxQ2lHanJsRWJncHgzend4SXZVTXBsaHhjUmRINTZET0doNkFJeGJjVkFPM2RMTFNzeDUzaERsZjVtQnlRYW1PZVFNandwb1RON2JWUEhMVzlyZ0hoSVRhM3NHZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.zmescience.com",
+      "title": "ZME Science"
+    }
+  },
+  {
+    "title": "Scientists Say a Critical Ocean Current System May Already Be Past the Point of No Return - Gizmodo",
+    "description": "Scientists Say a Critical Ocean Current System May Already Be Past the Point of No Return  GizmodoCollapse of AMOC ocean current may already be locked in  New ScientistCollapse of Atlantic Currents May Already Be ‘Locked In’  Yale E360We’re in the middle of a heatwave, so why is the ‘cold blob’ in the North Atlantic causing so much concern?  The IndependentWeakening Atlantic Current May Intensify California Storms  Labroots",
+    "published date": "Thu, 09 Jul 2026 17:30:56 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSVRnNlhkZEt5X0N5VTd5bUZZTjJaNlQ3Y2d2U2prY1dqM3QxZmU1X1R6U1BUaUtNaGphSXJhSjFDV01vbUlJTnhzVGlzakRTVnJmZFl2a2pFdTlMcDV6dHZPTWN6WjVyMkVvaFYwMlVndUxFbUw3XzlleTcydGNkclNnd2FVbVpFdDczenB0RkVWZHdYUE1KZzhRX3JDNmUtV0h5Ri1KSmxleURVOEV3QWJ3TDcwTF9jWnN2Zg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://gizmodo.com",
+      "title": "Gizmodo"
+    }
+  },
+  {
+    "title": "Image: Curiosity rover sees Martian sulfur up close - Phys.org",
+    "description": "Image: Curiosity rover sees Martian sulfur up close  Phys.orgSee more headlines & perspectives on Google News",
+    "published date": "Thu, 09 Jul 2026 18:32:20 GMT",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9aYU9ab1NrRW9fTmFQcko1b0x2dC1ybXZSd2VycGtDSWlMTFY0anRkT0h0SFlCZkM5TlVVaGl4RVJJWFpnM0xzX291VG5hNEdqNUxQTFhWNmNxbVdoQTZ3dU1tWFhrZy1NdGpSVFJjZE9FeTVvZU15RVFnMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://phys.org",
+      "title": "Phys.org"
+    }
+  },
+  {
+    "title": "Titan has rivers, rainfall, lakes and a slow hydrological cycle exactly like Earth's, except that every drop of it is liquid methane and the rock the rivers run over is water ice - Space Daily",
+    "description": "Titan has rivers, rainfall, lakes and a slow hydrological cycle exactly like Earth's, except that every drop of it is liquid methane and the rock the rivers run over is water ice  Space Daily",
+    "published date": "Fri, 10 Jul 2026 13:30:30 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPQVJKNjl4YXgxZmNrQkw0M1dNVHhDSXdXQ2pSZ21WM0thNXVmUmprTmYxT1pkQVZpSDlLel84STFEck0xWndpc0JBNlk4YUhPVFdmRmU5YV9BSWUwUnRSLW4wYVZJLVBHUmphS3B0SUIzRlRrbnhBTXZFa2RPSWd2bVpGZmxPVHIzeXNpVFZ4ZFZiNVZFSk42ZGdwTVNqU216TFF0MXVUQ3VFUHpHSUlKY2c1cERZZTc1Z19qd1kza2RSTHRDenB0NEFUZjZSVFVnamhfZ01mTVFhVG13bGJrRmloSWpXUEd3THROS0tqWGM1dlVaRXVOWmVaSFFFdkFfdzJnc1ZyQ29LM1F4a3pkazBkVkk5S1RrMmExMFFUc1Yza0lIU2dR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://spacedaily.com",
+      "title": "Space Daily"
     }
   },
   {
@@ -280,6 +270,16 @@
     }
   },
   {
+    "title": "Dirty 'button' unearthed by metal detectorist turns out to be a rare 900-year-old coin from Norway's last Viking king, Magnus Barefoot - Live Science",
+    "description": "Dirty 'button' unearthed by metal detectorist turns out to be a rare 900-year-old coin from Norway's last Viking king, Magnus Barefoot  Live ScienceDirty 'button' unearthed by metal detectorist turns out to be a rare 900-year-old coin from Norway's last V...  YahooRare coin from Norway’s last Viking king mistaken for old button  Popular ScienceDetectorist found a 900-year-old silver coin  CPG Click Oil and GasA metal detectorist found what looked like an old button in Norway. Months later, it was identified as an extremely rare coin  MSN",
+    "published date": "Thu, 09 Jul 2026 21:19:16 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPem45akc3NGhQMDRaNWNUQS1XSDRmVUx0RXRiTk9sN3FjUG9wX0NFT0UyckVVT0VHYTl4QVdTekdacDZKbnFmRmwyRGRyZVpPU01OcktJNUhVdl9WWW03MDQyOVlzaEwwNDZhdFljdUczOFRXdGRJX2N1X0ctLWxkdEhzUzlrakNhRF9aTS1YQkY5WnNPVXBodjg1WURJSGdtbFlOT2Q3eTkteHdGczk2R3FKVUdmbG1CeHE1cGlOLS1MZ0I3Wmt3SV8ySjRtMUxLZVpDalJMcjZiUjAtNXpjQ19qVFBwZWd5STk0RFFKdE9jTHdHbDViUEJDS3UxaU5lN0d2ZDNUY2xfdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.livescience.com",
+      "title": "Live Science"
+    }
+  },
+  {
     "title": "Scientists discover molecular mechanism behind anesthesia-induced unconsciousness - News-Medical",
     "description": "Scientists discover molecular mechanism behind anesthesia-induced unconsciousness  News-Medical",
     "published date": "Thu, 09 Jul 2026 18:10:00 GMT",
@@ -287,6 +287,36 @@
     "publisher": {
       "href": "https://www.news-medical.net",
       "title": "News-Medical"
+    }
+  },
+  {
+    "title": "'Mitch' protein that could change the future of weight loss and fat burning - New York Post",
+    "description": "'Mitch' protein that could change the future of weight loss and fat burning  New York PostStudy identifies key mechanism regulating how cells use fat to generate energy  Phys.orgScientists discover a protein switch that burns fat and blocks new fat cells  ScienceDailyTurning Off One Protein Made Mice Immune to Obesity. Scientists Just Tested It on Human Cells  ScienceAlertScientists find the 'off switch' that could stop your body from storing fat  theweek.in",
+    "published date": "Fri, 10 Jul 2026 12:29:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTTdpZFRrS2w0Ml9OR2k0UVZlOVZwNGFiOVpWRGV2Qm84NVF0LTFHdG5GbWZ4SEE3OXhxQjZ4TXJsNzQ4by1YbUF6SVF6V3RCN1loT1Z6Y2l3dFY5eEhZc29uT0U1QVl6M3MxUkpZaEpGOVlVa2dWeXQtbzV6VjN0UkVQWDVoYjZlREdyaTFXQVpZYUxleTdYbEs4aFZ3N2d5WTdmTlNXOGw0UU8tRWZBYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://nypost.com",
+      "title": "New York Post"
+    }
+  },
+  {
+    "title": "An orbiting disco ball gave Einstein’s theory its most precise test yet - Ars Technica",
+    "description": "An orbiting disco ball gave Einstein’s theory its most precise test yet  Ars TechnicaScientists just confirmed Einstein’s greatest theory—again  Scientific AmericanLARES-2 satellite measures frame-dragging effect around the Earth  NatureLARES-2 Satellite Data Confirms Earth’s Frame-Dragging Effect  geneonline.comLARES-2 Satellite Confirms Earth’s Frame-Dragging Phenomenon  Bioengineer.org",
+    "published date": "Fri, 10 Jul 2026 16:11:35 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMkRxYk1ibTFwOVpwTE9YNVFJU3JFQXRjTGtVRHNnNVRMOVdLeDRud0NsRFR5Vnh3T293Z3Z6ZTlGb05samJuc3ppSXhPYzRUTW1kbTg0RnBlOFh0LUE1RHpSYTFWQVBqWTVQSk9CcXlNUkc3X1RWOFpKTF9UZDVZM291T1ZTUjdGTkxVUUE5RVdIZ0RZczJuMXExek1qbHVCOTdoZzgzTVNrdkl4U3g3bA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://arstechnica.com",
+      "title": "Ars Technica"
+    }
+  },
+  {
+    "title": "Week in wildlife: a froggy lunch, a surf-loving penguin and an ambitious treehopper - The Guardian",
+    "description": "Week in wildlife: a froggy lunch, a surf-loving penguin and an ambitious treehopper  The Guardian",
+    "published date": "Fri, 10 Jul 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbFBSeGJzLU5YYlc5Sjkzdk9CaW1NZ0J3QVlBRTdUUkw3cVRYbWdJLVBtSUUybWdkZ2I4anRlMkltS3Nob3hjMUJwZzFkYlBPdTlCUXdwUkI5LVVKOUJlczkxekVkVG54Q3JQMEFURDdDVHJXR0JJUHdZU3lFRG1NMEhnRExtOFBKNlBBOTRmT3lCQVpXWWZOOE5XdFVoRXFhaUpyNlRmanRJMGtrZV9pQUVTc2t5RFB4SEtoLWxyUHc3T21sMXVXSmhVRGVzcWs3bnNVbTJ2N2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theguardian.com",
+      "title": "The Guardian"
     }
   },
   {
@@ -310,46 +340,6 @@
     }
   },
   {
-    "title": "An orbiting disco ball gave Einstein’s theory its most precise test yet - Ars Technica",
-    "description": "An orbiting disco ball gave Einstein’s theory its most precise test yet  Ars TechnicaScientists just confirmed Einstein’s greatest theory—again  Scientific AmericanLARES-2 satellite measures frame-dragging effect around the Earth  NatureLARES-2 Satellite Data Confirms Earth’s Frame-Dragging Effect  geneonline.comLARES-2 Satellite Confirms Earth’s Frame-Dragging Phenomenon  Bioengineer.org",
-    "published date": "Fri, 10 Jul 2026 16:11:35 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMkRxYk1ibTFwOVpwTE9YNVFJU3JFQXRjTGtVRHNnNVRMOVdLeDRud0NsRFR5Vnh3T293Z3Z6ZTlGb05samJuc3ppSXhPYzRUTW1kbTg0RnBlOFh0LUE1RHpSYTFWQVBqWTVQSk9CcXlNUkc3X1RWOFpKTF9UZDVZM291T1ZTUjdGTkxVUUE5RVdIZ0RZczJuMXExek1qbHVCOTdoZzgzTVNrdkl4U3g3bA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://arstechnica.com",
-      "title": "Ars Technica"
-    }
-  },
-  {
-    "title": "'Mitch' protein that could change the future of weight loss and fat burning - New York Post",
-    "description": "'Mitch' protein that could change the future of weight loss and fat burning  New York PostStudy identifies key mechanism regulating how cells use fat to generate energy  Phys.orgScientists discover a protein switch that burns fat and blocks new fat cells  ScienceDailyTurning Off One Protein Made Mice Immune to Obesity. Scientists Just Tested It on Human Cells  ScienceAlertScientists find the 'off switch' that could stop your body from storing fat  theweek.in",
-    "published date": "Fri, 10 Jul 2026 12:29:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTTdpZFRrS2w0Ml9OR2k0UVZlOVZwNGFiOVpWRGV2Qm84NVF0LTFHdG5GbWZ4SEE3OXhxQjZ4TXJsNzQ4by1YbUF6SVF6V3RCN1loT1Z6Y2l3dFY5eEhZc29uT0U1QVl6M3MxUkpZaEpGOVlVa2dWeXQtbzV6VjN0UkVQWDVoYjZlREdyaTFXQVpZYUxleTdYbEs4aFZ3N2d5WTdmTlNXOGw0UU8tRWZBYw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://nypost.com",
-      "title": "New York Post"
-    }
-  },
-  {
-    "title": "Week in wildlife: a froggy lunch, a surf-loving penguin and an ambitious treehopper - The Guardian",
-    "description": "Week in wildlife: a froggy lunch, a surf-loving penguin and an ambitious treehopper  The Guardian",
-    "published date": "Fri, 10 Jul 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbFBSeGJzLU5YYlc5Sjkzdk9CaW1NZ0J3QVlBRTdUUkw3cVRYbWdJLVBtSUUybWdkZ2I4anRlMkltS3Nob3hjMUJwZzFkYlBPdTlCUXdwUkI5LVVKOUJlczkxekVkVG54Q3JQMEFURDdDVHJXR0JJUHdZU3lFRG1NMEhnRExtOFBKNlBBOTRmT3lCQVpXWWZOOE5XdFVoRXFhaUpyNlRmanRJMGtrZV9pQUVTc2t5RFB4SEtoLWxyUHc3T21sMXVXSmhVRGVzcWs3bnNVbTJ2N2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theguardian.com",
-      "title": "The Guardian"
-    }
-  },
-  {
-    "title": "A ravenous black hole in our backyard could be our window into the ancient universe - Space",
-    "description": "A ravenous black hole in our backyard could be our window into the ancient universe  SpaceSee more headlines & perspectives on Google News",
-    "published date": "Fri, 10 Jul 2026 21:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQTlrdHFjU09sX3poeUFmaGZVRjZxS0hoLTV2SnBqaXVJOThmUGJ0bk9QQVFjTV9IaEpna3dRXzgxZWdPSHBzOXdaYm4tRVpFYjJkS1JMQXB6dW1zNVBtbUI2ZHNkUkdCUnl4TG5YTVR0dk9DMXhhdm8yanY5QUNxc05nRFlTanNvc1JnUnV6MTE4YmtxRGV6ZzZMU2p3WHRJOGxERTJLSmRoN1VmTG1XWlhTcDFWTk9hNTZReTVmNktoUUpWcmc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.space.com",
-      "title": "Space"
-    }
-  },
-  {
     "title": "Why Americans Cannot Ignore August’s Total Solar Eclipse - Forbes",
     "description": "Why Americans Cannot Ignore August’s Total Solar Eclipse  ForbesThis summer the UK is getting one of the best solar eclipses we've had for years. Here's how to see it  BBC Sky at Night MagazineEurope's first total solar eclipse in almost 30 years: What you need to know  Sky News10 best Spanish cities to see the total solar eclipse 2026  SpaceWhat to know about the total solar eclipse due in August  Phys.org",
     "published date": "Fri, 10 Jul 2026 06:00:00 GMT",
@@ -367,6 +357,36 @@
     "publisher": {
       "href": "https://scitechdaily.com",
       "title": "SciTechDaily"
+    }
+  },
+  {
+    "title": "A Plan to Stop Solar Storms From Sending Us Back to the Stone Age - WSJ",
+    "description": "A Plan to Stop Solar Storms From Sending Us Back to the Stone Age  WSJScientists discover new method of defense against solar storms to help protect Earth  FOX WeatherScientists Propose ‘StormWall’ To Stop A $2.4 Trillion Solar Storm  ForbesScientists float bizarre solution to protect us from solar storms — shooting a giant ‘airbag’ into space  New York PostScientists propose new method to shield Earth from extreme solar storms  ctif.org",
+    "published date": "Fri, 10 Jul 2026 12:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVXRQeDNmdzNkYUNoakIxQmEyWVNXbXlENkt1ZU15NUtOc1E5cXN0TXI4X1gzMFdCaUdsLVRsMDRlNGpVX2padVdrX1JJalJwZENuWlo3bXBBNGNJM3FpSXdYalNkWlVlSWdnODJFUy02QWpWOEF4bzlWalA5YTdKS2J4ZVlINkRoZFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.wsj.com",
+      "title": "WSJ"
+    }
+  },
+  {
+    "title": "Physicists created a tiny universe where time emerged without a clock - ScienceDaily",
+    "description": "Physicists created a tiny universe where time emerged without a clock  ScienceDaily'Time was speeding up, slowing down, or even stopping': Physicist demonstrates a key theory of time by buil...  YahooPhysicists Watched Time Invent Itself Inside a Cloud of 24,000 Ultracold Atoms  TechEBlog -Scientists create a 'mini universe' that tells time without any clock | Scientists refer to this as 'entropic time' | Inshorts  InshortsWhat if time isn't real? Physicists built a tiny quantum universe with 24,000 ultracold atoms and found a shocking truth: Time could create itself  The Times of India",
+    "published date": "Thu, 09 Jul 2026 23:48:38 GMT",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hUFB0eVdkc1NGTG4xZkl2UE12UWU3Y3EyWGxnVEtTTEdLa0kybUVVVFVhVW5fNzlYWk41SHJfX1RBb0VCMEVTcXFMWHMwNEVqdGdsUFpqN2RQWXFBSHNueWtILTRBUWQtMnA2Z1JLbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.sciencedaily.com",
+      "title": "ScienceDaily"
+    }
+  },
+  {
+    "title": "We tend to assume life needs a star to begin, but a 2025 study found that some moons carried into deep space by planets expelled during supernova explosions could preserve subsurface oceans for billions of years — heated not by sunlight, but by the repeat - Space Daily",
+    "description": "We tend to assume life needs a star to begin, but a 2025 study found that some moons carried into deep space by planets expelled during supernova explosions could preserve subsurface oceans for billions of years — heated not by sunlight, but by the repeat  Space DailyAstronomers believe the Milky Way may contain billions, perhaps even trillions, of rogue planets drifting without close stars — and a 2026 study found one 9,800 light-years away that was likely born in a planetary system before being thrown into the dark  Space Daily",
+    "published date": "Sat, 11 Jul 2026 01:30:06 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPMXZ5c25fYktlU3VRd1pySF9XWkRfT1F1NVhyV0xqQ0xMUjRlNGIxb0NVY3NKNlowTDRqcTlEQ3BMU2dvS0lPa3U3MkFHSzc0UGFHVzFfYklmQktZSE9UMWY0QWhTSTZsM2t4MEVXTlA5WGVnZGtBdEVHSXBPZ0QwLXY3ZFRQMFA5Nlc5bGRqYmVRNnBzUk9ONmxpU0h0MUdwd0tmeVdVY2EwUUhuMjllczdva2dJczR6MWNpWjZSbnpiU0JkNE90YjMzZWhCbGdjQ0ViY1prbWRHMnJUdk5QYThMWEtIQWZlYWtFTFlqNl9VdUJqRFlPYXVVYTlkUnpHcFJReV9ra2hfMkZNWFZaWHhCZDl2TGx2MHVacWhQXzJocXRzeXZFbzlDbDBLRjMwalQzd3Vzc3VtR0REdEtmQVV1VTYzMjQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://spacedaily.com",
+      "title": "Space Daily"
     }
   },
   {
@@ -390,16 +410,6 @@
     }
   },
   {
-    "title": "An exoplanet 124 light-years away may harbour a global ocean beneath a hydrogen-rich atmosphere. Webb has produced two tentative hints of dimethyl sulfide—a gas produced mainly by marine microorganisms on Earth—but independent analyses dispute - Space Daily",
-    "description": "An exoplanet 124 light-years away may harbour a global ocean beneath a hydrogen-rich atmosphere. Webb has produced two tentative hints of dimethyl sulfide—a gas produced mainly by marine microorganisms on Earth—but independent analyses dispute  Space DailyScientists have found 99.7% chance of life in this planet and no, it's not Mars  The Times of India",
-    "published date": "Fri, 10 Jul 2026 21:30:56 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQSTlQVnlxaTBmTzdSX1lIWUNtYjRPSlBWdTU4QS1fM2sxcENLZE0tVkh3Vk1vNXV4enY4M3BMcnRONGpVNV82T3dnYXBqdlROQ2VuSFpXMDYxQklBeTM3ekx5Z2cyakFWOGZFbWd6TU9yYzM4ZWYyejVvMk5MbU9EUmJxRDQzNTdhVnQ2RV84NjBPdkJoVzhiS1VYN1lpOXR5S3JoRXl4M1ZoMUF6VHJNS0E3RVduZHVqVjdBb1gyRHN6S3ZvZ2RRUXhwMU1oaGd4Njh6enJISl81ZWF3dW16TGM4RmxZMkh3aUl5VHY4Mmx1M0JqdmZ3NmJxQUYxQlFqazEta19PWVVDTnlFdm1UV3RLbU4tNGZpUEVkQVpWRUpnTGZWaHc4Ri1lZFpOSjVmMWpHM29RdS1wRDdnY1E?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://spacedaily.com",
-      "title": "Space Daily"
-    }
-  },
-  {
     "title": "This Fossil Might Be the Earliest Known Case of Face-Stabbing in Human History - Gizmodo",
     "description": "This Fossil Might Be the Earliest Known Case of Face-Stabbing in Human History  GizmodoRoughly 100,000 Years Ago, This Man Got Stabbed in the Face—and Survived. He's Likely One of the First Known Victims of an Attack With a Sharp Weapon  Smithsonian Magazine90,000-year-old Homo sapiens jaw wound points to possible violence in early human groups  Archaeology News Online MagazineHuman in Israel Smashed in the Face With a Rock 100,000 Years Ago  Haaretz100,000 years ago, one of the earliest Homo sapiens outside Africa was stabbed in the face, analysis finds  Live Science",
     "published date": "Fri, 10 Jul 2026 15:55:12 GMT",
@@ -410,40 +420,10 @@
     }
   },
   {
-    "title": "This Kind of Obsessive Attraction Isn’t Love. But It Has a Name. - The New York Times",
-    "description": "This Kind of Obsessive Attraction Isn’t Love. But It Has a Name.  The New York Times",
-    "published date": "Thu, 09 Jul 2026 09:00:44 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObXNKeV96MGNjQUZvbFBBRVlrU3FIY3JJVE1ra1pjSTdEd1RjOWcxanlDbmV4eHNZRE1JeWlhdzB6aTlOelc3MnhfTGh2a0h2YUFhd21NTGNZSE94RE9OUkdGM0lfM0RDSHo5aGUyekE3S0FZU1M5Wkg1UmVlQzF4ZA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.nytimes.com",
-      "title": "The New York Times"
-    }
-  },
-  {
-    "title": "Physicists created a tiny universe where time emerged without a clock - ScienceDaily",
-    "description": "Physicists created a tiny universe where time emerged without a clock  ScienceDaily'Time was speeding up, slowing down, or even stopping': Physicist demonstrates a key theory of time by buil...  YahooPhysicists Watched Time Invent Itself Inside a Cloud of 24,000 Ultracold Atoms  TechEBlog -Scientists create a 'mini universe' that tells time without any clock | Scientists refer to this as 'entropic time' | Inshorts  InshortsWhat if time isn't real? Physicists built a tiny quantum universe with 24,000 ultracold atoms and found a shocking truth: Time could create itself  The Times of India",
-    "published date": "Thu, 09 Jul 2026 23:48:38 GMT",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hUFB0eVdkc1NGTG4xZkl2UE12UWU3Y3EyWGxnVEtTTEdLa0kybUVVVFVhVW5fNzlYWk41SHJfX1RBb0VCMEVTcXFMWHMwNEVqdGdsUFpqN2RQWXFBSHNueWtILTRBUWQtMnA2Z1JLbw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.sciencedaily.com",
-      "title": "ScienceDaily"
-    }
-  },
-  {
-    "title": "Astronomers believe the Milky Way may contain billions, perhaps even trillions, of rogue planets drifting without close stars — and a 2026 study found one 9,800 light-years away that was likely born in a planetary system before being thrown into the dark - Space Daily",
-    "description": "Astronomers believe the Milky Way may contain billions, perhaps even trillions, of rogue planets drifting without close stars — and a 2026 study found one 9,800 light-years away that was likely born in a planetary system before being thrown into the dark  Space DailyWe tend to assume life needs a star to begin, but a 2025 study found that some moons carried into deep space by planets expelled during supernova explosions could preserve subsurface oceans for billions of years — heated not by sunlight, but by the repeat  Space Daily",
-    "published date": "Fri, 10 Jul 2026 10:15:48 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPeUhIS29WN2pkdUFjdVBOQjNCVk16bDFmcnAxdE1pNlVWeUNLTUxPT05Hd3JzdFp0dlhPa3VFLUFveThCdlF4SnA3cVVnWXh5RnBEaTdIWUx0Z2hNWmpnc0pCVUlST3lidkFEaEdObTRTU0hYV00xZVJad0FFTXh2RTJNamZTRU52VVRQT250akRGaGZmckRSV2hVang1RHBPeGVodmpxbWxhaUttNkJDRnNvQlhZRGR2QmlBMTRNd1hvVDAyVzBYNGZJU0VPUTFwZjFSRVpab1laQVVwWlVBcTBySGQzV3ZiSFBtWTQ5RGVBZ0QyeXFhNW1rVHZGSGdrVVQyc3d1NVZmRXJSX2xqbmd3eHI1cVJSbXZmTFpWYXY0Mnd1a0dtX2hqWnRLMm5EakRPbUdpUmw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://spacedaily.com",
-      "title": "Space Daily"
-    }
-  },
-  {
-    "title": "In June 2026, the James Webb telescope read the dawn and dusk skies of WASP-121b separately and found one side hotter and stripped of water, the other cooler and possibly cloudy, on a world where it can rain liquid rock - Space Daily",
-    "description": "In June 2026, the James Webb telescope read the dawn and dusk skies of WASP-121b separately and found one side hotter and stripped of water, the other cooler and possibly cloudy, on a world where it can rain liquid rock  Space Daily",
-    "published date": "Fri, 10 Jul 2026 17:00:03 GMT",
-    "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPbVV2VkVrd3RVQUEzSDUxMlJqdVJpb1ZSYnBHV0ZxMFhxTnVpa19DMkJaVlhfQlpZREJBeENKN2p3U0tTUUhNNzc1bGRNNm1WWHdueHpMcjRNN1IwRm85d0dIVjBBSEZaUlpqczN6M3hPbmN3NTJmbDh3M0VuX0NkQ1NHWDFwdjlwRUQ4cmJIV1h6dEc3R3RqUENXNk1TMnRBUnBNZ0lPOUVEaHdjWVJyejlRVzF4eGw3LVpOZ2I2QjRFSlNSdVlwTVplZVNYeU5QRWhBOTNRUklDSzVUaE4wU1ZKQ0xkbFhUaG1ZbHRZdF9HYmlHTENDSXhWMzhWUDdfbi1RZG11Vml3WFdrSl94Nm5NdTN6MTRKRVFkN1VfaXZGN19KSTVjU0VyYlNvMlNHMEFuRXZSY1lkbmV1TEZSbExEVzZIZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "An exoplanet 124 light-years away may harbour a global ocean beneath a hydrogen-rich atmosphere. Webb has produced two tentative hints of dimethyl sulfide—a gas produced mainly by marine microorganisms on Earth—but independent analyses dispute - Space Daily",
+    "description": "An exoplanet 124 light-years away may harbour a global ocean beneath a hydrogen-rich atmosphere. Webb has produced two tentative hints of dimethyl sulfide—a gas produced mainly by marine microorganisms on Earth—but independent analyses dispute  Space DailyScientists have found 99.7% chance of life in this planet and no, it's not Mars  The Times of India",
+    "published date": "Fri, 10 Jul 2026 21:30:56 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQSTlQVnlxaTBmTzdSX1lIWUNtYjRPSlBWdTU4QS1fM2sxcENLZE0tVkh3Vk1vNXV4enY4M3BMcnRONGpVNV82T3dnYXBqdlROQ2VuSFpXMDYxQklBeTM3ekx5Z2cyakFWOGZFbWd6TU9yYzM4ZWYyejVvMk5MbU9EUmJxRDQzNTdhVnQ2RV84NjBPdkJoVzhiS1VYN1lpOXR5S3JoRXl4M1ZoMUF6VHJNS0E3RVduZHVqVjdBb1gyRHN6S3ZvZ2RRUXhwMU1oaGd4Njh6enJISl81ZWF3dW16TGM4RmxZMkh3aUl5VHY4Mmx1M0JqdmZ3NmJxQUYxQlFqazEta19PWVVDTnlFdm1UV3RLbU4tNGZpUEVkQVpWRUpnTGZWaHc4Ri1lZFpOSjVmMWpHM29RdS1wRDdnY1E?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://spacedaily.com",
       "title": "Space Daily"
@@ -460,16 +440,6 @@
     }
   },
   {
-    "title": "The nuclear option: Scientists reveal how atomic blasts could save Earth from asteroids - FOX Weather",
-    "description": "The nuclear option: Scientists reveal how atomic blasts could save Earth from asteroids  FOX WeatherChinese scientists find the best way to nuke an asteroid on its way to impact Earth  SpaceScientists Say We Should Nuke Dangerous Asteroids—Just Not the Way You Think  GizmodoChina sets 2027 launch for first asteroid deflection test  MSNSpace shield for Earth: China develops anti-asteroid system  Radar.am",
-    "published date": "Thu, 09 Jul 2026 17:17:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNalhZT1NCT2NHU0hjVXpTcWpHcVlwYTFWVXB2R01PbUY2TU5GcWM5VWlIZEpSMXpiQXpwM0dnbkFMRzBMc185U1lfR09qcmExNF9jbkRDVlpTUHd2VURZT2p0WFVyTFh6MmdpVGJkSThFX1lNLWxhOUVCUFY4c1dxT3QxMWFfczNuWF9rUVlqd1FmYi10ZkNwTUpkenlrYnRp0gGmAUFVX3lxTE1tZncxMFNGSXNvek9xZjZXY1o4OTV5ekVUU2UzT1FuN2IzX18tMUl2WmFoSF9jTTBTME05UXhrUG1BY000MXlieUp4ek1XTkg4a2R5enJMT1ZYNUhzT2FTTl9SZ0NsdF9qamw3dFp2V2NqdGpLNzZhN2M2MXFUSmc2ekRwaUx4Y3U4REdvUG5NN0pQMC1Gc3QwTWh2RHFIRE44ZE9GRVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.foxweather.com",
-      "title": "FOX Weather"
-    }
-  },
-  {
     "title": "Scientists say coldest 'stars' in Milky Way could actually be giant alien technology harvesting energy th - The Times of India",
     "description": "Scientists say coldest 'stars' in Milky Way could actually be giant alien technology harvesting energy th  The Times of IndiaThe galaxy’s coldest “stars” may actually be alien megastructures  ScienceDailyAre Milky Way’s coldest stars actually alien megastructures? New study explores  The News InternationalAre Coldest Milky Way Stars Actually Alien Megastructures?  businesstimes-bd.comGalaxy's coldest stars could actually be alien megastructures: Study  The Business Standard",
     "published date": "Fri, 10 Jul 2026 19:00:00 GMT",
@@ -480,20 +450,20 @@
     }
   },
   {
-    "title": "Bacteria turn dissolved uranium into stable compound in 130 days, study finds - Phys.org",
-    "description": "Bacteria turn dissolved uranium into stable compound in 130 days, study finds  Phys.org",
-    "published date": "Fri, 10 Jul 2026 12:20:10 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQakl6aEJoUW5xNElhaHlUdU52d0V0QmJROG1tWVhBdC1LVXBRbkZBODJ4cWhLVnp3RlVnb0xxUF9HNDRUVnByNDduRjAyZ1d3VWJJdFVFUktnalN6SHVaV1BjUjBNeXNRTkZZRWQtMHVheEZacFd4OXQwMTFlSURKeVFXVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "The nuclear option: Scientists reveal how atomic blasts could save Earth from asteroids - FOX Weather",
+    "description": "The nuclear option: Scientists reveal how atomic blasts could save Earth from asteroids  FOX WeatherChinese scientists find the best way to nuke an asteroid on its way to impact Earth  SpaceScientists Say We Should Nuke Dangerous Asteroids—Just Not the Way You Think  GizmodoChina sets 2027 launch for first asteroid deflection test  MSNSpace shield for Earth: China develops anti-asteroid system  Radar.am",
+    "published date": "Thu, 09 Jul 2026 17:17:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNalhZT1NCT2NHU0hjVXpTcWpHcVlwYTFWVXB2R01PbUY2TU5GcWM5VWlIZEpSMXpiQXpwM0dnbkFMRzBMc185U1lfR09qcmExNF9jbkRDVlpTUHd2VURZT2p0WFVyTFh6MmdpVGJkSThFX1lNLWxhOUVCUFY4c1dxT3QxMWFfczNuWF9rUVlqd1FmYi10ZkNwTUpkenlrYnRp0gGmAUFVX3lxTE1tZncxMFNGSXNvek9xZjZXY1o4OTV5ekVUU2UzT1FuN2IzX18tMUl2WmFoSF9jTTBTME05UXhrUG1BY000MXlieUp4ek1XTkg4a2R5enJMT1ZYNUhzT2FTTl9SZ0NsdF9qamw3dFp2V2NqdGpLNzZhN2M2MXFUSmc2ekRwaUx4Y3U4REdvUG5NN0pQMC1Gc3QwTWh2RHFIRE44ZE9GRVE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://phys.org",
-      "title": "Phys.org"
+      "href": "https://www.foxweather.com",
+      "title": "FOX Weather"
     }
   },
   {
-    "title": "We assumed water had to be delivered to planets by comets or asteroids — but a 2025 Nature study found that sub-Neptunes, the most common type of planet in the galaxy, can forge their own oceans by reacting hydrogen atmospheres with molten rock deep - Space Daily",
-    "description": "We assumed water had to be delivered to planets by comets or asteroids — but a 2025 Nature study found that sub-Neptunes, the most common type of planet in the galaxy, can forge their own oceans by reacting hydrogen atmospheres with molten rock deep  Space Daily",
-    "published date": "Fri, 10 Jul 2026 15:30:13 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQXzNwU05Db2hMeE13c2J2a2xFVm9qN1ZRVEhRYXdENEk0N3hiLXpQRUdHTXJNenI0ZDFDaUdJNndsdWJxTDB5c0tKQU5nN3pjejJRZ0hJdUw3MHJyRW9hNmhXbzdpR1Z0bktSY0JwY0l2WjVDVlNQdzVVNFhEanRCaGVaYUJmVFRFa0VTLXJaTlhUajlwVHJuWTIzMjNLZkpuTzJTWmxTMEpSdzNrbUpZRDY4bDR6cEdTVDFBOVBRcmtISXVxUkhMYUZwb2ZKSFJXR0ctbG9ST2NpZW84ZE9MR0JoVFhrWGRTYV9NZmFhcVI4WU5sX3k1Tk9kT0lJNmMyY2lZa3g3cWVBei1CQVEzMERUNkJ2dmNxZ0hnUlkzQ2RHSlVmM2gzQTIzSnVIMzFJN0VORk1LbG81UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "In June 2026, the James Webb telescope read the dawn and dusk skies of WASP-121b separately and found one side hotter and stripped of water, the other cooler and possibly cloudy, on a world where it can rain liquid rock - Space Daily",
+    "description": "In June 2026, the James Webb telescope read the dawn and dusk skies of WASP-121b separately and found one side hotter and stripped of water, the other cooler and possibly cloudy, on a world where it can rain liquid rock  Space Daily",
+    "published date": "Fri, 10 Jul 2026 17:00:03 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPbVV2VkVrd3RVQUEzSDUxMlJqdVJpb1ZSYnBHV0ZxMFhxTnVpa19DMkJaVlhfQlpZREJBeENKN2p3U0tTUUhNNzc1bGRNNm1WWHdueHpMcjRNN1IwRm85d0dIVjBBSEZaUlpqczN6M3hPbmN3NTJmbDh3M0VuX0NkQ1NHWDFwdjlwRUQ4cmJIV1h6dEc3R3RqUENXNk1TMnRBUnBNZ0lPOUVEaHdjWVJyejlRVzF4eGw3LVpOZ2I2QjRFSlNSdVlwTVplZVNYeU5QRWhBOTNRUklDSzVUaE4wU1ZKQ0xkbFhUaG1ZbHRZdF9HYmlHTENDSXhWMzhWUDdfbi1RZG11Vml3WFdrSl94Nm5NdTN6MTRKRVFkN1VfaXZGN19KSTVjU0VyYlNvMlNHMEFuRXZSY1lkbmV1TEZSbExEVzZIZw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://spacedaily.com",
       "title": "Space Daily"
@@ -510,6 +480,26 @@
     }
   },
   {
+    "title": "We assumed water had to be delivered to planets by comets or asteroids — but a 2025 Nature study found that sub-Neptunes, the most common type of planet in the galaxy, can forge their own oceans by reacting hydrogen atmospheres with molten rock deep - Space Daily",
+    "description": "We assumed water had to be delivered to planets by comets or asteroids — but a 2025 Nature study found that sub-Neptunes, the most common type of planet in the galaxy, can forge their own oceans by reacting hydrogen atmospheres with molten rock deep  Space Daily",
+    "published date": "Fri, 10 Jul 2026 15:30:13 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQXzNwU05Db2hMeE13c2J2a2xFVm9qN1ZRVEhRYXdENEk0N3hiLXpQRUdHTXJNenI0ZDFDaUdJNndsdWJxTDB5c0tKQU5nN3pjejJRZ0hJdUw3MHJyRW9hNmhXbzdpR1Z0bktSY0JwY0l2WjVDVlNQdzVVNFhEanRCaGVaYUJmVFRFa0VTLXJaTlhUajlwVHJuWTIzMjNLZkpuTzJTWmxTMEpSdzNrbUpZRDY4bDR6cEdTVDFBOVBRcmtISXVxUkhMYUZwb2ZKSFJXR0ctbG9ST2NpZW84ZE9MR0JoVFhrWGRTYV9NZmFhcVI4WU5sX3k1Tk9kT0lJNmMyY2lZa3g3cWVBei1CQVEzMERUNkJ2dmNxZ0hnUlkzQ2RHSlVmM2gzQTIzSnVIMzFJN0VORk1LbG81UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://spacedaily.com",
+      "title": "Space Daily"
+    }
+  },
+  {
+    "title": "Bacteria turn dissolved uranium into stable compound in 130 days, study finds - Phys.org",
+    "description": "Bacteria turn dissolved uranium into stable compound in 130 days, study finds  Phys.org",
+    "published date": "Fri, 10 Jul 2026 12:20:10 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQakl6aEJoUW5xNElhaHlUdU52d0V0QmJROG1tWVhBdC1LVXBRbkZBODJ4cWhLVnp3RlVnb0xxUF9HNDRUVnByNDduRjAyZ1d3VWJJdFVFUktnalN6SHVaV1BjUjBNeXNRTkZZRWQtMHVheEZacFd4OXQwMTFlSURKeVFXVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://phys.org",
+      "title": "Phys.org"
+    }
+  },
+  {
     "title": "Scientists Discover an Alarming Trend Climate Models Are Missing - SciTechDaily",
     "description": "Scientists Discover an Alarming Trend Climate Models Are Missing  SciTechDaily",
     "published date": "Fri, 10 Jul 2026 11:20:37 GMT",
@@ -520,13 +510,13 @@
     }
   },
   {
-    "title": "Darwin's 150‑year‑old hillside steps mystery may have a new answer from virtual grazing animals - Phys.org",
-    "description": "Darwin's 150‑year‑old hillside steps mystery may have a new answer from virtual grazing animals  Phys.org",
-    "published date": "Fri, 10 Jul 2026 11:30:01 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPc0pRZGdVaTgtQm5WNl80bjZiYWxieDJHdGM0aTdtczZFLTVKOEhiNXZ6YnJEcHBOaGdzOGRhZUthNWFBMlE3Q2E1ai1QWUVYVFlFVl90NXh4WHI2TWdMMmVwMDhDa2EzYWpRcGMtR3U2bnM3ZWowdEl5dThxcklZbDgwcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "'Astronomers have to revise estimates': The Milky Way may be larger, heavier and more lopsided than we realized - Live Science",
+    "description": "'Astronomers have to revise estimates': The Milky Way may be larger, heavier and more lopsided than we realized  Live ScienceNASA’s Chandra Examines Milky Way at Arms’ Length  NASA Science (.gov)Our Milky Way galaxy might be larger than we thought  SpaceThe Milky Way's Arms Reach Out Further Than we Thought  Universe TodayXMM-Newton helps revise distance to outer spiral arms  European Space Agency",
+    "published date": "Thu, 09 Jul 2026 16:55:21 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZVBCRzQyWU1YZmFvanQwcEUxZ1Y1NUdiTXFKTm9BQjA4clk5dzQ4N0JtYmlPbDBEQVRCQ2ZjWjVSZjZwR0RuS2lhbjJRR1JrSG9VWnhTNE56dWVHVl9yc3hLNjQ2WS1tMWk2WlBodmtRdXo1dzM1NU1vc2pOMWg4M1JGT0dqZ2k0ZmZHQlVrM3llVDBvX2FWYkppSVdxR1poZzBUVllaNktMNW9UVi1zOThrUGtFMFFxUnd6REtiZ283THRrbUR5RFZpMEs4N1IwUDVYNlQwaVdkYkRXR0VSVlRoWnE3dw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://phys.org",
-      "title": "Phys.org"
+      "href": "https://www.livescience.com",
+      "title": "Live Science"
     }
   },
   {
@@ -547,16 +537,6 @@
     "publisher": {
       "href": "https://www.space.com",
       "title": "Space"
-    }
-  },
-  {
-    "title": "'Astronomers have to revise estimates': The Milky Way may be larger, heavier and more lopsided than we realized - Live Science",
-    "description": "'Astronomers have to revise estimates': The Milky Way may be larger, heavier and more lopsided than we realized  Live ScienceNASA’s Chandra Examines Milky Way at Arms’ Length  NASA Science (.gov)Our Milky Way galaxy might be larger than we thought  SpaceThe Milky Way's Arms Reach Out Further Than we Thought  Universe TodayXMM-Newton helps revise distance to outer spiral arms  European Space Agency",
-    "published date": "Thu, 09 Jul 2026 16:55:21 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZVBCRzQyWU1YZmFvanQwcEUxZ1Y1NUdiTXFKTm9BQjA4clk5dzQ4N0JtYmlPbDBEQVRCQ2ZjWjVSZjZwR0RuS2lhbjJRR1JrSG9VWnhTNE56dWVHVl9yc3hLNjQ2WS1tMWk2WlBodmtRdXo1dzM1NU1vc2pOMWg4M1JGT0dqZ2k0ZmZHQlVrM3llVDBvX2FWYkppSVdxR1poZzBUVllaNktMNW9UVi1zOThrUGtFMFFxUnd6REtiZ283THRrbUR5RFZpMEs4N1IwUDVYNlQwaVdkYkRXR0VSVlRoWnE3dw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.livescience.com",
-      "title": "Live Science"
     }
   },
   {
@@ -587,6 +567,16 @@
     "publisher": {
       "href": "https://www.space.com",
       "title": "Space"
+    }
+  },
+  {
+    "title": "Don’t Miss a Comet Sighting and a Great View of the Milky Way This Month—Here’s When to Look Up - marthastewart.com",
+    "description": "Don’t Miss a Comet Sighting and a Great View of the Milky Way This Month—Here’s When to Look Up  marthastewart.comComet 10P/Tempel 2 in 2026: When and How to See It  Star WalkA Comet The Size Of The Dinosaur-Killing Asteroid Is About To Pass Near Earth  IFLScience",
+    "published date": "Thu, 09 Jul 2026 18:05:22 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZHZydWJ6WHoxaENDclFjVWl4OGg5UENvU2k0WFR4QzV1TmlGRGg0bnQwS1hkQzlsOVl3enpmZGo2V1VBMjdnWXFQZFB2RTlpRFFJSUdyTmR3VWZ1ZVlXRUZuWmRXZkRRVzJHdi1YU1o0c2sySThTU1JXQWRHampzVmtGTm5EZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.marthastewart.com",
+      "title": "marthastewart.com"
     }
   },
   {
@@ -647,6 +637,16 @@
     "publisher": {
       "href": "https://www.nature.com",
       "title": "Nature"
+    }
+  },
+  {
+    "title": "Tiny Triassic Reptile Sheds Light on Early Lizard Evolution - Sci.News",
+    "description": "Tiny Triassic Reptile Sheds Light on Early Lizard Evolution  Sci.News",
+    "published date": "Fri, 10 Jul 2026 21:47:21 GMT",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDcE1nN3JEaEpiMloza1ZiOUtrZmViRnU0SFdXQVpSZ2l4QVI3SEhldHhGOEhWY0hEbFdtUzFOZ0tNa1hyTFlNblVTTTBjRDd6enpubjZ0ZmVGR2pOa1ZDLWlYWkxrZlVnYi1hYm5fMm9ZZ1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.sci.news",
+      "title": "Sci.News"
     }
   },
   {
