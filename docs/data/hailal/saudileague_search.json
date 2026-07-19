@@ -350,16 +350,6 @@
     }
   },
   {
-    "title": "تريزيجيه يقترب من الدوري السعودي.. وكهربا الهداف المصري التاريخي - وكالة خبر للأنباء",
-    "description": "تريزيجيه يقترب من الدوري السعودي.. وكهربا الهداف المصري التاريخي  وكالة خبر للأنباء",
-    "published date": "Thu, 16 Jul 2026 08:21:05 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5MS0pXQ09LTmFiaWtabm9wemtkMmFkQTlSZ2t5bF9lVXpNdnRudkZJdHZRQ2lVMnhicHhZajJzV29hZWo5MGoxQ09fLXJFeUlCaVhFT2hxaw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.khabaragency.net",
-      "title": "وكالة خبر للأنباء"
-    }
-  },
-  {
     "title": "الخليج يفاجئ جماهير الأهلي قبل جولة الختام في الدوري السعودي - Kooora",
     "description": "الخليج يفاجئ جماهير الأهلي قبل جولة الختام في الدوري السعودي  Kooora",
     "published date": "Mon, 18 May 2026 07:00:00 GMT",
@@ -367,6 +357,16 @@
     "publisher": {
       "href": "https://www.kooora.com",
       "title": "Kooora"
+    }
+  },
+  {
+    "title": "تريزيجيه يقترب من الدوري السعودي.. وكهربا الهداف المصري التاريخي - وكالة خبر للأنباء",
+    "description": "تريزيجيه يقترب من الدوري السعودي.. وكهربا الهداف المصري التاريخي  وكالة خبر للأنباء",
+    "published date": "Thu, 16 Jul 2026 08:21:05 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5MS0pXQ09LTmFiaWtabm9wemtkMmFkQTlSZ2t5bF9lVXpNdnRudkZJdHZRQ2lVMnhicHhZajJzV29hZWo5MGoxQ09fLXJFeUlCaVhFT2hxaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.khabaragency.net",
+      "title": "وكالة خبر للأنباء"
     }
   },
   {
@@ -770,16 +770,6 @@
     }
   },
   {
-    "title": "اللقب المحلي الأول لـ رونالدو.. النصر يتوج بطلًا للدوري السعودي برباعية في ضمك - يلاكورة",
-    "description": "اللقب المحلي الأول لـ رونالدو.. النصر يتوج بطلًا للدوري السعودي برباعية في ضمك  يلاكورة",
-    "published date": "Thu, 21 May 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi7gRBVV95cUxOM0RrdkVicS1HampBOE44cWZydF9MUXYxWEZpMlVWVFk4cFRiWjZCOFQzcGxxN2xqWE1jLTdYUGxnSDNQdnhjYUwyLWx4UklFUFpXbE4zRUVkVEc5LUxvN0lyQzlCX1RoT2dyQUViMmFhTjlpVUtNQVFpM3JKZ2tIOVRBczhsa0wwMjB4Z3RjOEc4amtERTdiLTRWNHo2WTdVcURwcUZKc2RZTmtPVnRVUC11MXNjQkpoM2pKRzJpY21haXpHS2RNb1duTFg0UjRCeUROWmxzdW5maUdMejA4TWpzUTdWQS10N1FiR09Ya1ZfZFVaLUxKZmU0M1VrcWxIZlJMXzVlWjZIaHlIR2oyblRlQUQ0X2FleFlGYkNzdC15SUNfWk5IZ0FRMjZXR0U1V0Fuc1I4bG4yeHdnU09QRVNLMnpXNmJwNHJvYnBvWVA3VHg3cElSRWdYNEpVdldMbGd1amNRRTlTd010bTdHN2JlOHJzakRycVVEem5WdllIOEVNNFhpNUI1NEdHU3lyUGw0NDMzd2c3RkpVVER5aEJkSmlrVUJ1cDVTOW1rbDdVMmlYYXYtN2VBaXFtczB0Rjg0SWtOMl9mcFNrZFpfVkMxVG1zMm10bWViU0otcC1lYTJvWEtkaXZtTDBLUWRvSlRhSkMxaE5QZnR3dXhGb016bGM1TF92VC1ldUtkSGE1S0NPaklEdTRWR0ljb0FyODFkdnFQMkcyTUFzZEkwV2ZOM3YzSHozLW9STFdoTUNYUFpiRHlaTHBwaUZGZmJTZWZESGJ3aktHZFByRUdMaERzYzNqNW5GUlFjQmZR0gHzBEFVX3lxTE5DOFhCQnJqOFFFZi1CYm02VXlfc3had2p5dWNxc1R4ampOSmU3b2JaLVVWakJMYVBXRXlaeVFGbldUMzRicEk0OGgzQ0NCUHpzbXh2R2d3eGN0V2h1WXItWmRGcGx4ZlY5ZUlIbWxOOFVndWV1N1NVTlplZ2tlYUJVOHpLTHFtRkNHVTdxU3dENkNmQnRqUlZndklGUklFZm45VGJTWk5DTUNZQlp3X0NGakxWZFhyY0pGM2gwOFFrUUlva1c2MkxQWWkxTXpPUXFvTHJuQ3BMUGx2SUJuX3dPUExvY0RLbGZFQS04S2FlN3Bya0RRWFc1cFRYRkhLdVN6LXBQLWxlajRQdDg3cmI4NU81YzFqYWdDLVliRTM3ZzlXVlVQSUdtNkU1YzhjNW1oT0ZVOTI5RVhkLTg4YTBBWERzZFZhYlZ0VEMtLWFUWmFNUXo0LXJoV2JOc2d2QWx0NDdCbnlTSlZoa1UxdXdlU19nLWEzTnUtR1N0VDdWNXJjanBCMTlPUndaQlB2RGcwSFN4cUF5YzVtQTZpTXNWU3BWcktsVGNsRlBFZzlTUVhKZnNwZmY3c2E5c0syWVlleDktVk9fYXdlZmJBY3psVEU3Z1AwZHdmdGNjTU5hY0s2Ql92Z0xxeDNibENGYmUwM0tzQ210OERpelEtWnhpcElKaGoxUmxBZUJIQnVzOUVpNWxxTU5lNDQxZDJEQ19HSWh3V214Zkd5ZjhEMFk0eU0zYW1tb3c2Wi1TOGZOcmIwZ1h0OUg4WkZpN0UzSDdTdEg4WHp5b2JZWmdQNkU2VWxwTWI0aVQ0VS1hNGM0cWR0bw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.yallakora.com",
-      "title": "يلاكورة"
-    }
-  },
-  {
     "title": "ترتيب هدافي الدوري السعودي بعد هدف كريستيانو رونالدو أمام الأهلي - إرم نيوز",
     "description": "ترتيب هدافي الدوري السعودي بعد هدف كريستيانو رونالدو أمام الأهلي  إرم نيوز",
     "published date": "Wed, 29 Apr 2026 07:00:00 GMT",
@@ -787,6 +777,16 @@
     "publisher": {
       "href": "https://www.eremnews.com",
       "title": "إرم نيوز"
+    }
+  },
+  {
+    "title": "اللقب المحلي الأول لـ رونالدو.. النصر يتوج بطلًا للدوري السعودي برباعية في ضمك - يلاكورة",
+    "description": "اللقب المحلي الأول لـ رونالدو.. النصر يتوج بطلًا للدوري السعودي برباعية في ضمك  يلاكورة",
+    "published date": "Thu, 21 May 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi7gRBVV95cUxOM0RrdkVicS1HampBOE44cWZydF9MUXYxWEZpMlVWVFk4cFRiWjZCOFQzcGxxN2xqWE1jLTdYUGxnSDNQdnhjYUwyLWx4UklFUFpXbE4zRUVkVEc5LUxvN0lyQzlCX1RoT2dyQUViMmFhTjlpVUtNQVFpM3JKZ2tIOVRBczhsa0wwMjB4Z3RjOEc4amtERTdiLTRWNHo2WTdVcURwcUZKc2RZTmtPVnRVUC11MXNjQkpoM2pKRzJpY21haXpHS2RNb1duTFg0UjRCeUROWmxzdW5maUdMejA4TWpzUTdWQS10N1FiR09Ya1ZfZFVaLUxKZmU0M1VrcWxIZlJMXzVlWjZIaHlIR2oyblRlQUQ0X2FleFlGYkNzdC15SUNfWk5IZ0FRMjZXR0U1V0Fuc1I4bG4yeHdnU09QRVNLMnpXNmJwNHJvYnBvWVA3VHg3cElSRWdYNEpVdldMbGd1amNRRTlTd010bTdHN2JlOHJzakRycVVEem5WdllIOEVNNFhpNUI1NEdHU3lyUGw0NDMzd2c3RkpVVER5aEJkSmlrVUJ1cDVTOW1rbDdVMmlYYXYtN2VBaXFtczB0Rjg0SWtOMl9mcFNrZFpfVkMxVG1zMm10bWViU0otcC1lYTJvWEtkaXZtTDBLUWRvSlRhSkMxaE5QZnR3dXhGb016bGM1TF92VC1ldUtkSGE1S0NPaklEdTRWR0ljb0FyODFkdnFQMkcyTUFzZEkwV2ZOM3YzSHozLW9STFdoTUNYUFpiRHlaTHBwaUZGZmJTZWZESGJ3aktHZFByRUdMaERzYzNqNW5GUlFjQmZR0gHzBEFVX3lxTE5DOFhCQnJqOFFFZi1CYm02VXlfc3had2p5dWNxc1R4ampOSmU3b2JaLVVWakJMYVBXRXlaeVFGbldUMzRicEk0OGgzQ0NCUHpzbXh2R2d3eGN0V2h1WXItWmRGcGx4ZlY5ZUlIbWxOOFVndWV1N1NVTlplZ2tlYUJVOHpLTHFtRkNHVTdxU3dENkNmQnRqUlZndklGUklFZm45VGJTWk5DTUNZQlp3X0NGakxWZFhyY0pGM2gwOFFrUUlva1c2MkxQWWkxTXpPUXFvTHJuQ3BMUGx2SUJuX3dPUExvY0RLbGZFQS04S2FlN3Bya0RRWFc1cFRYRkhLdVN6LXBQLWxlajRQdDg3cmI4NU81YzFqYWdDLVliRTM3ZzlXVlVQSUdtNkU1YzhjNW1oT0ZVOTI5RVhkLTg4YTBBWERzZFZhYlZ0VEMtLWFUWmFNUXo0LXJoV2JOc2d2QWx0NDdCbnlTSlZoa1UxdXdlU19nLWEzTnUtR1N0VDdWNXJjanBCMTlPUndaQlB2RGcwSFN4cUF5YzVtQTZpTXNWU3BWcktsVGNsRlBFZzlTUVhKZnNwZmY3c2E5c0syWVlleDktVk9fYXdlZmJBY3psVEU3Z1AwZHdmdGNjTU5hY0s2Ql92Z0xxeDNibENGYmUwM0tzQ210OERpelEtWnhpcElKaGoxUmxBZUJIQnVzOUVpNWxxTU5lNDQxZDJEQ19HSWh3V214Zkd5ZjhEMFk0eU0zYW1tb3c2Wi1TOGZOcmIwZ1h0OUg4WkZpN0UzSDdTdEg4WHp5b2JZWmdQNkU2VWxwTWI0aVQ0VS1hNGM0cWR0bw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.yallakora.com",
+      "title": "يلاكورة"
     }
   },
   {
@@ -840,16 +840,6 @@
     }
   },
   {
-    "title": "صراع الهبوط يتجدد في الدوري السعودي - صحيفة الخليج",
-    "description": "صراع الهبوط يتجدد في الدوري السعودي  صحيفة الخليج",
-    "published date": "Fri, 15 May 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxOS0hFQldsaTFxcmRId3F5NUJiZTFHQlFsZzZZVHpYNTRxUFd5eWh6ZWNPNEhiQkZIQ0YwMV9zZXF0eXZWUU52ejVWcHItYXMwcjliTEtON3VKcUxtLUR6VHlpOXR1X2lVYm9POWFkeWZsSzdNR2lWNG9mYi1UZ2dkVU9rWDhIWDhaaHRvMGJhMGl0ZmVkVUdFNnhaZGZYUDZPcnNXQy03QTNad19qU1ZMX3FpU1VLbl84c1J3aDJMcTRPdUsxMjhmNThVaDlLWVJrSWhuRWdIdk9CX3pPN2FUdWxnbk1RUTdzU3VxYjdNcThBcWZIVF9nTGZZbmdxSkY4U0I1Mjkxd2xmb1RIVUpzNjJSSC0xNmZsY2ZBUUZDNmhoZGs4Y3A1Y3RTdlBUSFJxOWhBTUhWbTBUekczVTA2bHkwYmRub045OWRvbnQ5V1dfMEt1aGhadExWVmhnMkd6NlpJd2dvSXVvTUx2dG5famhJVEoyVTQ1UGJnVGdsWF92dG9JSDhLeDF1LWxVbVRueTZYY2FKQWFrTTFmQXhieGd1QVVuVzJfZ1AwbHRGSklwN2xyWVBDWlZoaElhUEXSAcQDQVVfeXFMTWQzdE5hU2twVDhHN0NfRk5Ec1Z6STdmN1QzOUFDa2h4eFJCNFAyMmRqRnRyTllDOWloazhVaXgtWF9wTkR2bGNHdkNaUms3ZGNhdGdBenh1dlZjMzA4dkNxcE9jRVE2S1RtNEJRX3ZVYXhSMGdEdVBmai1UY2VyUlIzaF85eU9ac3JQc0tkMzZVQ2phRzIxNlpfTFJFYU9PYmdwR1VyU2tBTzh5ZWVxbFVSOGwxUHpIMEVaOXFxeWJmXzkySklQcEV2YXdWdnhBa3pSRk95d19DM25TeXhRRUVkUGFaN0h1T3BfN2d3eHp3RkF6MVFfUFJnX0dDbFRXNENUOUZ6MnhRZ2F0em9rUWd5amgweXhXQ0dkYmlfdlFsTzItMFZvMVphYzJzdlhsYlNlbzBBNDEwRGhRb09qZEpjZ3FBQWRFNnVfM1BsLW5CdTlCZXdzemdBelNlcm8tcU03enEzWElKNzlkT20yVzJoOHpDY200SExCamJjSlJfSGV2dmd6ejYyU3haOHBRblFrTFpmSUh3S191UG1tZzAwQnFkZmh6V0tJWWZseGZsbEtxei12LVJQRDBRcDVra29HVFg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.alkhaleej.ae",
-      "title": "صحيفة الخليج"
-    }
-  },
-  {
     "title": "رابطة الدوري السعودي تعلن تأجيل مباراة الخلود والقادسية بسبب إلغاء رحلة طيران - يلاكورة",
     "description": "رابطة الدوري السعودي تعلن تأجيل مباراة الخلود والقادسية بسبب إلغاء رحلة طيران  يلاكورة",
     "published date": "Thu, 05 Mar 2026 08:00:00 GMT",
@@ -857,6 +847,16 @@
     "publisher": {
       "href": "https://www.yallakora.com",
       "title": "يلاكورة"
+    }
+  },
+  {
+    "title": "صراع الهبوط يتجدد في الدوري السعودي - صحيفة الخليج",
+    "description": "صراع الهبوط يتجدد في الدوري السعودي  صحيفة الخليج",
+    "published date": "Fri, 15 May 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxOS0hFQldsaTFxcmRId3F5NUJiZTFHQlFsZzZZVHpYNTRxUFd5eWh6ZWNPNEhiQkZIQ0YwMV9zZXF0eXZWUU52ejVWcHItYXMwcjliTEtON3VKcUxtLUR6VHlpOXR1X2lVYm9POWFkeWZsSzdNR2lWNG9mYi1UZ2dkVU9rWDhIWDhaaHRvMGJhMGl0ZmVkVUdFNnhaZGZYUDZPcnNXQy03QTNad19qU1ZMX3FpU1VLbl84c1J3aDJMcTRPdUsxMjhmNThVaDlLWVJrSWhuRWdIdk9CX3pPN2FUdWxnbk1RUTdzU3VxYjdNcThBcWZIVF9nTGZZbmdxSkY4U0I1Mjkxd2xmb1RIVUpzNjJSSC0xNmZsY2ZBUUZDNmhoZGs4Y3A1Y3RTdlBUSFJxOWhBTUhWbTBUekczVTA2bHkwYmRub045OWRvbnQ5V1dfMEt1aGhadExWVmhnMkd6NlpJd2dvSXVvTUx2dG5famhJVEoyVTQ1UGJnVGdsWF92dG9JSDhLeDF1LWxVbVRueTZYY2FKQWFrTTFmQXhieGd1QVVuVzJfZ1AwbHRGSklwN2xyWVBDWlZoaElhUEXSAcQDQVVfeXFMTWQzdE5hU2twVDhHN0NfRk5Ec1Z6STdmN1QzOUFDa2h4eFJCNFAyMmRqRnRyTllDOWloazhVaXgtWF9wTkR2bGNHdkNaUms3ZGNhdGdBenh1dlZjMzA4dkNxcE9jRVE2S1RtNEJRX3ZVYXhSMGdEdVBmai1UY2VyUlIzaF85eU9ac3JQc0tkMzZVQ2phRzIxNlpfTFJFYU9PYmdwR1VyU2tBTzh5ZWVxbFVSOGwxUHpIMEVaOXFxeWJmXzkySklQcEV2YXdWdnhBa3pSRk95d19DM25TeXhRRUVkUGFaN0h1T3BfN2d3eHp3RkF6MVFfUFJnX0dDbFRXNENUOUZ6MnhRZ2F0em9rUWd5amgweXhXQ0dkYmlfdlFsTzItMFZvMVphYzJzdlhsYlNlbzBBNDEwRGhRb09qZEpjZ3FBQWRFNnVfM1BsLW5CdTlCZXdzemdBelNlcm8tcU03enEzWElKNzlkT20yVzJoOHpDY200SExCamJjSlJfSGV2dmd6ejYyU3haOHBRblFrTFpmSUh3S191UG1tZzAwQnFkZmh6V0tJWWZseGZsbEtxei12LVJQRDBRcDVra29HVFg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.alkhaleej.ae",
+      "title": "صحيفة الخليج"
     }
   },
   {
@@ -980,13 +980,13 @@
     }
   },
   {
-    "title": "تقرير مباراة النصر والهلال - Kooora",
-    "description": "تقرير مباراة النصر والهلال  Kooora",
-    "published date": "Tue, 12 May 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilwVBVV95cUxOZmROMkpMUzVkc1BLNkc5RVBGbTZpeTB1MTZNREhuazkzSy14aDBGek02Y2Vtc3lDYzBVa2lFTl9FMzBvRDVQZ19mX1cyLVBZclpVOGxMWmpLOUpXOU55VS1JTUhEWnBVcnBLUjN5Tlk3dlJ1YWgyemkySGwyWl93LUVaS2laY2trdTI3STFyOGg5dHJ1VURyNjJwQWFjeWFSOXFMdmNDMlM1NXZxMGY0QWxRSkJBMzluR0hXeHNzMTdhbXZQRm9zcl9IbC12NGxpNnZNZGNaeGtmV00zSXdFLU1WSXVBTnplYWhCcy1PekFQMndrVGhNbi1JRXZTaDBNUEJiZ3JNLWgtNXZ3MlIwb1NZQ0x6UjRyMi1VZ0VxSk94RWFhNlIzemZYTk1vcm5tSUMzQm1ub3FhSVNpa2p3cVFYeElzcWs1ZTU2VE51S2lZd2pmTzFqOWNUSFRMS0tuNmNYRUxMcjBZS01FR2hBTmFIc2sxMG1PQnhUZU1UeGdtTFNSMU5jd1ZBWWIzTEtYSzBqbC1MUHJMVGFoRDVUVVlYRm40dUg5TUtISzhTSXRhQmN6dDU5eGZUNWNLVWw4cWxPbGVReHRXTHhFZ3RwME1aSy1CenA3RllFbUtHNHk0cDlhN2xvZjRaZ0VUcFNRWUhxRURWNDI1TUl2ZnMzWWxMWjBzZkQ2eGNnNGVVcEMtSnppQ2FzcVdwdExSc0xNUXIycWtBYmk3MmF4NWpZcHU1VDBiRXI4WElsak9ZS0VjMXFseFBldFFxZm9wRENwVTNoSFptdlBsdk1ldm9PZ1hZUkdramVkUW5TRnFGV1QyWkxzRGktSTVDZW8zV1dfLXB4QTlDVkdZZWRTeWxlc05OOExqM28?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "الروزنامة - الاتحاد السعودي لكرة القدم",
+    "description": "الروزنامة  الاتحاد السعودي لكرة القدم",
+    "published date": "Fri, 02 Jan 2026 08:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqRlYtTlZ0TTR2a3g1V0FVaHQ3ZjZiY0RqMDFYdjlmRURnYzZIdGozRlY5bld3OWdJRjlQQmNaNW4xTmNibTVVTHBzSzl4azhraDBKUVk4NFBIMTktdnNvUl9OU1g2amIwWUx6WE9n?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.kooora.com",
-      "title": "Kooora"
+      "href": "https://www.saff.com.sa",
+      "title": "الاتحاد السعودي لكرة القدم"
     }
   }
 ]
