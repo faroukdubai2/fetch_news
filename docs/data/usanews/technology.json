@@ -1,1 +1,692 @@
-[]
+[
+  {
+    "title": "iPhone 18 Pro: New display upgrades are coming in two ways - 9to5Mac",
+    "description": "iPhone 18 Pro: New display upgrades are coming in two ways  9to5MaciPhone 18 Pro Release Date: Apple’s 15-Year Event Timeline Signals Exact Date  ForbesiPhone 18 Rumor Check: 20 Claims Ranked by Likelihood  MacRumorsiPhone 18 Pro Max Leak Points to Sony IMX905 Camera Sensor, Variable Aperture  TechRepublicApple’s September Is Huge: 8 New Products Might Be Coming | by Faizan Saghir | Mac O’Clock | Jul, 2026  Medium",
+    "published date": "Tue, 21 Jul 2026 14:04:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLUZxd25uNWRZQjlhY3hpenRUV2JRUEZIay1iMzE3MnIzVXI3LVFzS1VBMThkQzNIMFdiMk5hOFhMQkxsSzVKaFd6RjllU3JtZGlNYWFrdUE1Q1dUcmdPbkZiNm9HUTJyQlB5a3NIYjB4X1RWR01XS1Uwb2tqWlZEQnJBRGY0RnlydHBkT0dJN1NBMzg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://9to5mac.com",
+      "title": "9to5Mac"
+    }
+  },
+  {
+    "title": "iOS 26.6 Prepares Your iPhone for iOS 27 - MacRumors",
+    "description": "iOS 26.6 Prepares Your iPhone for iOS 27  MacRumorsiOS 26.6: New features, release date, more  9to5MacApple Seeds macOS Tahoe 26.6 Release Candidate  MacRumorsmacOS 26.6 RC Is Now Available: Here’s How to Update Your Mac  The Mac ObserverApple Seeds watchOS 26.6 RC, tvOS 26.6 RC, and visionOS 26.6 RC [Download]  iClarified",
+    "published date": "Tue, 21 Jul 2026 13:19:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44UVdoczJ6Z1FMcy1FUDZNZ3BfRVhEbURYLUQzVVZBNkZlMWo5bUcyam44VlAyQ1FFNUdxczZVbzNPTFdMOE9uN0FhcjFRaEI3SjMtNVhmWVo3R3NvQVY4ZXFOZmg0RVJnYWJrUFlMbXQ1SnFp?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.macrumors.com",
+      "title": "MacRumors"
+    }
+  },
+  {
+    "title": "Garmin’s new screen-free fitness tracker doesn’t require a subscription - The Verge",
+    "description": "Garmin’s new screen-free fitness tracker doesn’t require a subscription  The VergeGarmin Debuts $200 Screenless Fitness Band in Challenge to Whoop  Bloomberg.comGarmin Cirqa pricing just got leaked by Garmin’s own website, suggesting the Fitbit Air rival is almost here  TechRadarGarmin CIRQA Product Images Surface in Four Colors, Launch Almost Certainly Tomorrow  Garmin RumorsGarmin Cirqa Is Here: 10 Top Facts About Garmin’s Screen-Free Tracker  Forbes",
+    "published date": "Tue, 21 Jul 2026 13:33:43 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMEtfejh4QlVzaE1QYjhaeTJyelI4MVlqWnMxNUQ4SXRxNjhmVmRLaFRhM3pYcmgxb0dQa1l1bE04OVM1cEtoQndDNkxUaklpemFIc0kxWFNfLWhKN0ZmRkRpWVR0YzdxV2Y4V1Fqd1FkZVFDV1FnTmdhd3QzYVptay1IZlp3LTRvMzRyNWZybw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theverge.com",
+      "title": "The Verge"
+    }
+  },
+  {
+    "title": "iOS 27 beta 4 adds a useful Apple TV app feature, here’s how it works - 9to5Mac",
+    "description": "iOS 27 beta 4 adds a useful Apple TV app feature, here’s how it works  9to5MacHere’s what’s new with iOS 27 beta 4  9to5MacI tested iOS 26 Siri against iOS 27 Siri AI in my car - and it wasn't even close  ZDNETApple Quietly Hid A Big Change Coming For CarPlay With iOS 27  EngadgetSiri AI is already changing how I use my iPhone  The Verge",
+    "published date": "Tue, 21 Jul 2026 00:25:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaV9ob3JqX0l5eEZVaU5mYXNyNWkwbjhWLUNhSTlRUVNfbVpQeWtwRFkyYWlhQmdvSWg0ZnE0ZGluMVdGUlJxZ1ZuRm8tR2lDbzBra3BSNjY0MHRjYm5odEFVNk5lNXllNV9kbGZvb2dqODNhal9ZYmowdEphekhGanZNYlpfUDlSYUotZFVKTi0wZl9jaFE4RkNmcnJCTndP?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://9to5mac.com",
+      "title": "9to5Mac"
+    }
+  },
+  {
+    "title": "Valve suggests memory crisis is \"still getting worse,\" admitting, \"we're limited by memory capacity, for sure\" - GamesIndustry.biz",
+    "description": "Valve suggests memory crisis is \"still getting worse,\" admitting, \"we're limited by memory capacity, for sure\"  GamesIndustry.bizValve Doubles Down on Steam Machine Pricing Pessimism  TechPowerUpToday's RAM and SSD Prices Are 'Lagging' and Will Continue to Climb, Valve Warns  extremetech.comThese 4 DIY Builds Blow Away Valve's Steam Machine, and One Saves You $150  PCMagValve confirms if Half-Life 3 will be a Steam Machine exclusive  TweakTown",
+    "published date": "Mon, 20 Jul 2026 19:31:49 GMT",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOHFYOENEcUdkQmF4d0hZQ3NSS3pLUVRRNld1d0lkOF9rbDdBRUdtdHBNOHhTVEREMWEyLV9kdThyMVBNaDN0eWplbnhfaDBoT2NWTEdESjJvdGRwR2hxMTkzZjIyci0wVWgyWUw4UnpXLVc4T2JyQW1YNG9FZ2U5QnE3ei1QYkNoQ3NDcUFtWEpGOWtYTi05bGwtOW5fTFdwa1BxbWdiNEpxcWlXWElvM19UOEZ3eHh3ZDd6cEtRV0EyNEhJY0ppOVdjQUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.gamesindustry.biz",
+      "title": "GamesIndustry.biz"
+    }
+  },
+  {
+    "title": "Google gets Pixel testers started with Android 17 QPR2 Beta 1 - Android Authority",
+    "description": "Google gets Pixel testers started with Android 17 QPR2 Beta 1  Android AuthorityGoogle Confirms End of Life Status for Pixel 6 and Pixel 6 Pro  Droid LifeGoogle's latest Android 17 beta fixes Bluetooth headaches and Gemini crashes  Android CentralGoogle releases Android 17 QPR2 Beta 1 for Pixel  9to5GoogleIt's the beginning of the end for the Pixel 6 and Pixel 6 Pro  Android Authority",
+    "published date": "Mon, 20 Jul 2026 18:35:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hR09obERiVUUzVTVMUThpZFBnRml0MDlNNmppNE9YcnhSSTJrc0hOMUtPRDQtRENQeTIya1lJZDBTd3l3dDV4NmhUQllrd1pzdGZwQW00NGRTZ3BhcVVFeE5tdm5jaEJLNGJXRzlBWFB5Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.androidauthority.com",
+      "title": "Android Authority"
+    }
+  },
+  {
+    "title": "Samsung Is Under Serious Pressure. Here’s Why It Needs to Nail Its Next Z Fold Phone - CNET",
+    "description": "Samsung Is Under Serious Pressure. Here’s Why It Needs to Nail Its Next Z Fold Phone  CNETSamsung can’t afford to play it safe with Apple’s first foldable looming  The VergePhablets are making a comeback, and they fix everything wrong with modern smartphones  How-To GeekWhy Samsung’s passport-style foldable phone matters for the smartphone industry  The Indian ExpressSamsung lost the latest global foldable battle, and it wasn't even close  PhoneArena",
+    "published date": "Mon, 20 Jul 2026 22:34:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQmxDbVhneE1OeWpubU5VNTZqYTQ4WjZwSWoyZHZoZm8xWDdINHlmVTRVMDVYVkN3QUY5eEF3TXpwNF91R2JWZ1d6bm5NSmdDRXZ5dE1POHRfT2VTc2JUNnpoSjJ2a1dXR0g3SURuQTVmRkgwU0NCM3VZYWZrNUpBTE53c3ptbThqZlRaUm0yYjNYNm91RnNjMkJtR05MWVk?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cnet.com",
+      "title": "CNET"
+    }
+  },
+  {
+    "title": "Nintendo keeps making shooters more friendly and approachable - The Verge",
+    "description": "Nintendo keeps making shooters more friendly and approachable  The VergeAsk the Developer Vol. 22: Splatoon Raiders — Part 1  NintendoSplatoon Raiders review – Nintendo’s inky shooter fades to grey  The GuardianSplatoon Raiders Review - A Fresh Take  Game Informer‘Splatoon Raiders’ Isn’t What the Switch 2 Needs Right Now  Gizmodo",
+    "published date": "Tue, 21 Jul 2026 13:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRTN3ZFBCWFV1eW1vYmdPQk1LRE11Szl4b01hVHF0b3V6a1RQNmFTWjJLbnF4aVJsajNhQ2VjZ1diTW5tN3V4c3Z1aDAwc083NnN6VmJIclJuU2xOZEo5ZnJIaDVFZkZJaS1Oc2Z6OHA2UnlOTEdtWTJwc204R2xjT3N2UEkzaThDckZRdmhYZzM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theverge.com",
+      "title": "The Verge"
+    }
+  },
+  {
+    "title": "Google Photos toggle lets you switch between classic search & Ask Photos - 9to5Google",
+    "description": "Google Photos toggle lets you switch between classic search & Ask Photos  9to5GoogleGoogle Photos could soon let you edit photo details with AI by just asking for it  Android AuthorityGoogle Photos finally gives users an escape from bad AI search results  PCQuestGoogle Photos Officially Rolls Out Ask Photos Toggle for Android and iOS  jetstream.blogGoogle Photos adds a one-tap fix for bad Ask Photos results  Android Police",
+    "published date": "Mon, 20 Jul 2026 22:16:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5aOElzOElsNzFjem00aVdjaGFpeGpUN2xSQUtsMTYxeTZRUl92a2Q0aXZ2LWJIaWlmUlI3dTZIdi10VnhIVXl0Ymx5cHZLY042WkcwOGc4Q21nQVpnOF9WMHpDUFBQSy1VUmxKX2Q0R3hXLW5jSnRxb053?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://9to5google.com",
+      "title": "9to5Google"
+    }
+  },
+  {
+    "title": "Snapseed Camera adds geotags & saving originals on Android - 9to5Google",
+    "description": "Snapseed Camera adds geotags & saving originals on Android  9to5GoogleSnapseed finally gains these long-overdue features for its camera interface  Android AuthorityGoogle Just Made Snapseed a Serious RAW Photo Editor With This New Update  Android HeadlinesSnapseed Camera now lets Android users save original photos and add geotags  Digital TrendsSnapseed Camera Can Now Save Your Originals on Android  Android Headlines",
+    "published date": "Mon, 20 Jul 2026 21:16:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WT3VMVFNYak5WM1ZKQm00TlJqODV6TlJLbFkxRHl3S3JfalduZUgyRXJwdWE1OWNnNXBuSVNSMWRlTGVhb0xlTGdPT3IxRzNOQmk2djZxU0JGN24tWi1jOGJqc2Y3bHBm?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://9to5google.com",
+      "title": "9to5Google"
+    }
+  },
+  {
+    "title": "Apple Testing 7-Inch Display for Largest 20th Anniversary iPhone Model - MacRumors",
+    "description": "Apple Testing 7-Inch Display for Largest 20th Anniversary iPhone Model  MacRumorsLargest ever iPhone screen arriving next year, suggests leaker  9to5MaciPhone 20 'Glasswing': Every Design Rumour for Apple's 20th Anniversary Phone  WiFi PlanetApple could be prepping for a glassier iPhone 20  Trusted ReviewsApple’s 20th anniversary iPhone could bring the largest screen ever  Macworld",
+    "published date": "Tue, 21 Jul 2026 09:08:23 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NMG92Uml4d1N0UE9WUTFOMmk4MGpoNFRmcjI3cFNid0JLc3lMVWFEUmF1U0RjdUIyY25tUmQ2VGU3b1BqN21zYXhzZWdBbmQwdHJYNmU0d0VORDItZkpHaDA3T1lHU2JESWNrX0swMXlSVVdkU3Zlc3pR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.macrumors.com",
+      "title": "MacRumors"
+    }
+  },
+  {
+    "title": "The New Mercedes-Maybach GLS Debuts With More Power, Better Style - Motor1.com",
+    "description": "The New Mercedes-Maybach GLS Debuts With More Power, Better Style  Motor1.comView Exterior Photos of the 2027 Mercedes-Maybach GLS680  Car and Driver2027 Mercedes-Maybach GLS Is Truly the S-Class of SUVs  EdmundsMercedes reveals ultra-luxe SUV and U.S. studio for custom vehicles  Detroit Free PressThe 2027 Mercedes-Maybach GLS680 Brings the Brightwork to Win Over the Well-Off  Road & Track",
+    "published date": "Tue, 21 Jul 2026 13:20:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOem0tcXQ5NTNNSjBtbnQ2VThqRU5CNHFTbEpKMmxHTnE3SWFYdkdydUhTVDVzcWUzamVVMnVNQmI3Yy1PcnNIQzVmVWVWWXJHV054S3J3TUxoeGluWk5xVGttWXhkZGtPVmJqQXB6NlV3LXVMTkFvSVlROUQ1N3JISUx1MWVxSFJ5LUpnLWNCWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.motor1.com",
+      "title": "Motor1.com"
+    }
+  },
+  {
+    "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning - The Hacker News",
+    "description": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning  The Hacker NewsCloudflare WAF protects WordPress applications from two high-severity vulnerabilities  The Cloudflare BlogHackers are exploiting recently patched WordPress bugs, putting millions of websites at risk  TechCrunch⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More  The Hacker News'WP2Shell' Opens Millions of WordPress Sites to Remote Takeover  Dark Reading",
+    "published date": "Tue, 21 Jul 2026 08:59:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUFNJVDlTZGxJTWQ0d0VJV29mLVdzTGhmcFJZWmdaVWdyUy1uaWRSanZHSDZfU2t4dlI2RzdMUlM2YTRvMW5tZnUwSFdicU9RZElyOEtPejNITlh1MGFhcDVLU1ljWTIybHoyZEVXMGZQb1ZrUVprTjJjaDVRMnk2dGlB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://thehackernews.com",
+      "title": "The Hacker News"
+    }
+  },
+  {
+    "title": "NVIDIA Shows DLSS 5 Progress and Technical Details at SIGGRAPH 2026 - TechPowerUp",
+    "description": "NVIDIA Shows DLSS 5 Progress and Technical Details at SIGGRAPH 2026  TechPowerUpAt SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI  NVIDIA BlogDLSS 5: Three AI models, single-GPU operation and full control  PCGHNvidia just showed off more DLSS 5 to explain how it preserves artistic intent with controls for developers  PC GuideNVIDIA Brings Local AI Agents To Its Most Powerful Workstation PC, The DGX Station, With The NVIDIA Agent Toolkit & Omniverse  Wccftech",
+    "published date": "Tue, 21 Jul 2026 07:27:36 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb256bm5jc3g5LWE2MzNCM1JpUlR4YXNkbnBwTXNzaFFMRDhaWUhjYzhkV2Y4NUxqNTBOdmZnRkY1eXowVmMzcTRZVkRzZVExWGpzWkRScDZpdHFkQ3BPbnhrV1lQMFF0dG5ud1hST2FtRS1iZmpoZHhYUWtxcnR6Q1BkcURXZ0duZl9wTF8yR0MxR0hFLWllakJWUmxpR2RMYTJ6WdIBqgFBVV95cUxNV3c2NG1UdEJlZEw1ejhiU0ZoSmtNeVEybHhILXg3TElQelVJRDI3S1JYT1c2ZkFEbUw3S3pFbzc1Mzc3UnZDX3NMWm9EeGZEbHp2SndDbUowSGZHaHREUzNkR1o1YkIxODhNTUFycGZqX0lWUTFnOTJZNmw1NGg1R2pyb29NQk9kLUZBZFlaekZQcFRkMmRHTDFrVjBUbjZzSXR1RW56SkZUdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.techpowerup.com",
+      "title": "TechPowerUp"
+    }
+  },
+  {
+    "title": "Despite outrage at Sony's shift towards a discless future, only seven PlayStation games have managed more than 100,000 physical sales in the US this year - Eurogamer.net",
+    "description": "Despite outrage at Sony's shift towards a discless future, only seven PlayStation games have managed more than 100,000 physical sales in the US this year  Eurogamer.netEx-Valve Writer Says Consumers Pushed PlayStation To Kill the Disc  TechPowerUpThe future of physical games is not looking great  The VergeNew Numbers Present Sony’s Case For Abandoning PlayStation Discs  ForbesU.S. PlayStation Sales Data Hammers Home the Dominance of Digital as Sony Moves Forward With Plan to End Discs  IGN",
+    "published date": "Tue, 21 Jul 2026 08:54:54 GMT",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9uUVlwMjB5RFZBaFU2eE9FbVNGaVJfeFVpTkJZU0pHWnU1R2RnU3c3X3NhQ29FSWl1YkczYVh0UHowZ0s4aTZES1RSUkNxVjZ1ejZ2bTJTNEU2R1hDN2RmdlJ4eU9OOVNDVF9zNjV0N0drOXM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.eurogamer.net",
+      "title": "Eurogamer.net"
+    }
+  },
+  {
+    "title": "The Witcher 3's Big New Expansion Makes Its Debut at Gamescom Opening Night Live - Push Square",
+    "description": "The Witcher 3's Big New Expansion Makes Its Debut at Gamescom Opening Night Live  Push SquareThe Witcher 3: Wild Hunt — Songs of the Past Reveal Date Confirmed  IGNCD Projekt Red Confirms New Witcher 3: Songs of the Past Footage for Gamescom  VICENew Witcher 3 DLC 'Songs of the Past' confirmed, a prelude to The Witcher 4  TweakTownWitcher 3's 'Songs of the Past' DLC is set to debut at Gamescom 2026's opening night  Windows Central",
+    "published date": "Tue, 21 Jul 2026 11:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdFFoNTJzR2htN0N0YVFIVzJFWlhiN3RDdjRwTzdlZVREUFU3WlhmbzBMdEljcU8tZUNTUURBZjVER1lPaEdoTV9ZeUpzUFFWUk5CRU82UHh2YWNNekJWLVV0ZW9xLXYydHlqTGRndmJ2U2FvOGhpdFRNVTB0V0I0WGJkcGN2ZDRsWHB6d2FncUZtR003b1d5OFRFY0pHc3NGTDJCZXduS0o2RVowSUdkSFVzTE1OSjlTX3Ew?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.pushsquare.com",
+      "title": "Push Square"
+    }
+  },
+  {
+    "title": "Coming to XBOX Game Pass: Halo: Campaign Evolved, Beast of Reincarnation, and More - XBOX Wire",
+    "description": "Coming to XBOX Game Pass: Halo: Campaign Evolved, Beast of Reincarnation, and More  XBOX WireThese Seven Games Are Coming To Xbox Game Pass (July 22 - August 4)  Pure XboxXbox Announces Game Pass July 2026 Wave 2 Lineup, Includes 4 Day-One Launches  IGNXbox Game Pass reveals its second wave of titles coming in July  Polygon.comXbox lists its next seven Game Pass titles, including Halo: Campaign Evolved and Beast of Reincarnation  Video Games Chronicle",
+    "published date": "Tue, 21 Jul 2026 13:08:33 GMT",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hclNiMUZPVWVHRlRlaHJWRFJfbXhzdUN3dWhUOGF0eTc1a2VXOFhZaXB3WmpuZDFWWnlicXZNU2lRZXBYV1Q4ek1vTW40MjgyU2FFcDNvV3BmS2RKNkl3bl9oTHBfTmhEa0l0N2xmNzN1R05QYnBNdDY1NA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://news.xbox.com",
+      "title": "XBOX Wire"
+    }
+  },
+  {
+    "title": "Nintendo says it has no legal duty to pass its U.S. tariff refunds on to consumers - Game File | Stephen Totilo",
+    "description": "Nintendo says it has no legal duty to pass its U.S. tariff refunds on to consumers  Game File | Stephen TotiloSee more headlines & perspectives on Google News",
+    "published date": "Tue, 21 Jul 2026 04:07:16 GMT",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VeWNwZ25pSkwzaTRPTWJlWFYyd2ZCS3RsaGRHcGNITmVnMHgxUDlXc0dYSFhiY2YzYzM0cnAwdDc2M1ltX3d1ZF85UHFzR0Q4VThDQkRjTHFacmhYMVJuRG5OTlZGeXRtcnNFVA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.gamefile.news",
+      "title": "Game File | Stephen Totilo"
+    }
+  },
+  {
+    "title": "Order of the Sinking Star adds PS5 version - Gematsu",
+    "description": "Order of the Sinking Star adds PS5 version  GematsuOrder of the Sinking Star is coming to PS5, hands-on report  PlayStation.BlogOrder of the Sinking Star Launches in 2026 for Switch 2, PS5, and PC  VGChartzThe Witness Dev's Next Game, Order of the Sinking Star, Revealed for PS5  Push Square",
+    "published date": "Tue, 21 Jul 2026 13:03:42 GMT",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ETmE3QS1YTkRNems5dzVhLWpmbENzV0dIdlEyQUtMckFkZ1NHamhhejZKSDJBWXBpVmJXaDhINFQ0b1BWVFg1MHJUX1lGQmpSYnJ6dF8zLUdpU0Zjd09IOGdEU3pKMjVqa1FXZTdNS0VkWVptU2kzbFQ5R3MteXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.gematsu.com",
+      "title": "Gematsu"
+    }
+  },
+  {
+    "title": "An 8-Seat Mazda Is Faster And Lighter Than A 420-HP Dodge Charger R/T - Carscoops",
+    "description": "An 8-Seat Mazda Is Faster And Lighter Than A 420-HP Dodge Charger R/T  CarscoopsSee more headlines & perspectives on Google News",
+    "published date": "Mon, 20 Jul 2026 13:09:34 GMT",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4MXpZTHdZZy1fMjlmeWN4NnpkUlJTSVFWV09icW0zZDRaVmNneDJzZnpyZ1FBMzF6OEhhaTdoeFdsVnRMVjBLSXJ5cGFBbzlZOTVmWnNmeHNEV2xLQ1FPb2xMMHBHbXExTW5SQVB5SVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.carscoops.com",
+      "title": "Carscoops"
+    }
+  },
+  {
+    "title": "Popular travel tech find hits its lowest price of the year - WPBF",
+    "description": "Popular travel tech find hits its lowest price of the year  WPBFAmazon Deals of the Day: Find Your Essentials With AirTags 2, Now Back to All-Time Low  CNETNever lose your keys again: Apple’s AirTag 2 bundle is just $89  MacworldApple AirTags are back down to their lowest price ever  MashableApple Quietly Drops AirTag 2 4-Pack to Its Lowest Price, With Each Tracker Cheaper Than Buying the 1-Pack  Gizmodo",
+    "published date": "Tue, 21 Jul 2026 00:37:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN2pNeU1aT0dhQ2gwNkstbHpwODdnU2ZBc0NJQ19yLVI4b0Q4Um02VGtYdDNHdUlxcXZEdVBLMXZXUHRXQWxwekdfQWd6bm4wX19OX24zWWtodXEzSGpOS3o2V1JyMmNTWXU1RTZLQmdHc1RkdjRkaVpQMGNoeWkwYzF3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.wpbf.com",
+      "title": "WPBF"
+    }
+  },
+  {
+    "title": "‘Vibecoded’ Apps Are Flooding the App Store. Is That Good for Apple? - The New York Times",
+    "description": "‘Vibecoded’ Apps Are Flooding the App Store. Is That Good for Apple?  The New York TimesReport: App Store added nearly as many new apps in H1 2026 as in all of 2025  9to5MacThe number of new apps released in the App Store grew 30% to about 600,000 last year  MacTech.comAI Flooded Apple’s App Store. The Downloads Never Came.  Business Model AnalystApp Store New App Releases in First Half Already Near Full-Year 2025 Levels as AI 'Vibe Coding' Accelerates Development Boom  finance.biggo.com",
+    "published date": "Mon, 20 Jul 2026 14:02:31 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMDZPbTVOX19kVWZjN190S3ZkekFBTFNLTU5Xd2c3OGEyZkF1Z2x0YVVCZmJTTDh6bmhMRmY3MGFrUDg2S0g2Rk9pSkRPYzVMQW5yS1ZvN2ZEZzFTWFNRQWphWU45bUlKci0tZ044U1FaVVVmUG8wVHE1c0dBTFkxUlNWTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nytimes.com",
+      "title": "The New York Times"
+    }
+  },
+  {
+    "title": "Modern Warfare 4: Open Beta, NEXT, Fanatics Fest, & Serialized Camo - Blizzard News",
+    "description": "Modern Warfare 4: Open Beta, NEXT, Fanatics Fest, & Serialized Camo  Blizzard NewsModern Warfare 4: Open Beta Dates, Call of Duty: NEXT, Fanatics Fest Recap, and Serialized Weapon Camo Pre-Order Bonus  Call of Duty® | Best-Selling Video Game FranchiseEverything to know about Modern Warfare 4’s ever-changing Kill Block Multiplayer mode  PlayStation.BlogCall of Duty: Modern Warfare 4 announces open beta for Nintendo Switch 2  Nintendo EverythingCall of Duty: Modern Warfare 4 Beta Dates Confirmed  IGN",
+    "published date": "Mon, 20 Jul 2026 16:52:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSjdTZ29vYnR3YVRVQ1lsY25UOFQzTmdsaW9Hcjg3SnMzNldZanZiTE13dEpiaWtESVcyUlNkMHE4empOWjI5T1M1bXJPUjQzNGxWZjVvSWl6cEpEbFRkMGxoTnE5UG1MUXpkbGtucVBERmc1NlBZZXhBTkRMeVZSMWl4MXNxWjZzemZxd09Tc0IxN3ptQkM1ZkI5djU3aGxDd3BIUWUtRDF1Wk1MdXVn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://news.blizzard.com",
+      "title": "Blizzard News"
+    }
+  },
+  {
+    "title": "Final Fantasy 10 gets first Nintendo Switch 2 gameplay - Nintendo Everything",
+    "description": "Final Fantasy 10 gets first Nintendo Switch 2 gameplay  Nintendo Everything25 years later, the 'Final Fantasy X' opening song still rocks  MashableGTA Trilogy creators respond to criticism five years later  ixbt.gamesWithout this 25-year-old Final Fantasy game, the franchise would look a lot different today  Polygon.comSquare Enix shares new Final Fantasy IV and Final Fantasy X tidbits in anniversary interview  GoNintendo",
+    "published date": "Tue, 21 Jul 2026 12:33:26 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU3dDQTVmTk81LU9QbGY3Tng0aW56NUVnTWFzVHJJOXB4b1liODh2YVlHOWdzRktKbUwyMFA1OWExeEhRR2hXRkR2dExHcGlSNmVDVjhrZnhYX1h0Slhka3VMR0szQmQtMTFlRE9aUkNQVy1mcExsVV9aaFNLNFUxMlJRcFlsaGhNX21DSEJXUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://nintendoeverything.com",
+      "title": "Nintendo Everything"
+    }
+  },
+  {
+    "title": "The next major moment for Marathon arrives today with a new update and the debut of its PvE mode, Vault Breaker - Eurogamer.net",
+    "description": "The next major moment for Marathon arrives today with a new update and the debut of its PvE mode, Vault Breaker  Eurogamer.netMarathon Mid-Season 2 Update Preview  Bungie.net‘Marathon’ PvE Mode Is Live, But Temper Your Expectations  ForbesMarathon’s mid-season update adds a temporary PvE roguelike mode and several balance tweaks  Massively OverpoweredMarathon Down for Maintenance on July 21, Update 1.1.5 Roll Out  MP1st",
+    "published date": "Tue, 21 Jul 2026 10:45:16 GMT",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zZTA5YTVnVVo4RFQ5VFN4TFNNVXB5NzlQeGFVdDZhaG03UGE5cWFWUkFqLTBiSEFHRENudDAyTktZZkhnaTV0OEJHTF9aTlU5LTJyVVd5anRlZ2Y2SFJHZ1BkYVVIbHVGamJ0WFJXblA1cXBqWWt2c210NGtfSW8?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.eurogamer.net",
+      "title": "Eurogamer.net"
+    }
+  },
+  {
+    "title": "SpaceX suffers rare, last-second Falcon 9 rocket launch abort - Spaceflight Now",
+    "description": "SpaceX suffers rare, last-second Falcon 9 rocket launch abort  Spaceflight NowStarlink Group 17-39, Explained in 4 Points  BASENOR - Tesla AccessoriesFalcon 9 Auto-Abort at Vandenberg Marks SpaceX’s Second Engine Anomaly This Week  Tech TimesFalcon 9 abort at liftoff marks rare second anomaly in week  MSNFalcon 9 Fills Starlink’s V3 Gap as Starship Abort Delays Gigabit Debut  Tech Times",
+    "published date": "Mon, 20 Jul 2026 16:12:41 GMT",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ1lkN2NLZmVmUGozOVFsLWRWNWY5S1B3U1hTd1JDOE9FdUQtTkpEYzZNREI3REpFbjF2UnJzNjBrRDQ5cEV2SVlybTF5VnpmSmlBcG9UaTRiQ2R6TGNVOUpqRGpmV3lDdGV5b3gtbjlMb1F1dXZXWEtPbzlPRUVrLUNRTURzdDdXR0o0S2txN2JDVXZQNWRuQWVUcnRjbEJrREpiRFFGUjVXNGJPb0NJajA2MWtJVC15bkpBRHdsTVhwc2FLTWpiRU1fVlBQbUU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://spaceflightnow.com",
+      "title": "Spaceflight Now"
+    }
+  },
+  {
+    "title": "A Device Hidden in Cars Across the US Leaves Them Vulnerable to Hacking and Paralysis. Patch It Now - WIRED",
+    "description": "A Device Hidden in Cars Across the US Leaves Them Vulnerable to Hacking and Paralysis. Patch It Now  WIREDI Stole a Car By Hacking This Hidden Device  Yahoo Tech2 Million Cars with Anti-Theft Systems Installed by Dealers are at Higher Risk of Theft  UC San Diego TodayMillions of US Cars Vulnerable to Remote Hacking via Hidden Alarms  The Tech Buzz",
+    "published date": "Tue, 21 Jul 2026 10:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOM21QRkptazFWaXQ4MzZrMGFFYjdhRk9pbUdpaHhmXzhaZWlhSTNqNnlDc2NLMGZoaGZHZ0w1N1U5LXFZNVU5bDFUcWFKN2VLaEVJMGI4Q0NzZGlheEFsRUxqbVBYbnFhSkgxZFJNT1JRU3BSVzlJUmhVTUFTekRJdkhYdk5adWVfcWZ3SE4zeVY5T2RXRVRLd0tkM0xUbkFvcUdhbncwOFY1djVzYTlCd0hwSi1mY1k3UXVxU3lMa0lRWjdfSkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.wired.com",
+      "title": "WIRED"
+    }
+  },
+  {
+    "title": "Xbox Game Pass was a good idea in theory, former Forza Horizon 5 director says, but \"the reality is not enough people have subscribed\" - Eurogamer.net",
+    "description": "Xbox Game Pass was a good idea in theory, former Forza Horizon 5 director says, but \"the reality is not enough people have subscribed\"  Eurogamer.netWhy Xbox pushed ahead with Game Pass even though studio heads \"detest\" it  Windows CentralEx-Forza Horizon Director Traces a Line From the Failure of 'Well-Meaning' Game Pass to the Current Xbox Layoffs  IGNEx-Forza Horizon Director Defends Game Pass And Sarah Bond  KotakuThe Elder Scrolls 6 May Skip Xbox Game Pass Day One Launch  Geeky Gadgets",
+    "published date": "Tue, 21 Jul 2026 13:59:47 GMT",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJRGVmM192WXVzdmI1ZlE4cnhnMm91bzJsbldWdl82em85N3ZxYXV3eUg1dmpVVmpUMmZ4TnlYWXFMQVFDSnlTZjhZRzRyR0xHX2lrWG1CRnFJdGk0WmlzSG1RR2RXUGVIWmpxT2tGMktob1B2dzJfUUUtNWFzLU0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.eurogamer.net",
+      "title": "Eurogamer.net"
+    }
+  },
+  {
+    "title": "The surprising benefits of red light - The Economist",
+    "description": "The surprising benefits of red light  The Economist8 best LED face masks for firmer, smoother-looking skin, tested by a beauty expert  AOL.co.uk6 things patients should know about red light therapy  American Medical Association | AMAWhy Every Morning Routine TikTok Has Red Light Panels  British VogueWe spent a year testing the best red light masks. We found 5 we love and 2 to avoid.  Mashable",
+    "published date": "Mon, 20 Jul 2026 17:45:10 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVnlLVnR0UFdDc3RxVG16UXVCa19Jenh2U1ZuYUhnVFZMdEh1OVpFbXd5X04zSHZOQTRITHl1SmVScUk1dHpLUERwRmJYdzc5N2JVWHkwa2RhelNmRGVXbEgyUk5wdnFZaUNJN3lkYnowdU9UNFRBeldGX1dqZ3g0amVaUnhqTmUxSTcxWnVfU3oySVR6TWFTM3BtdDM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.economist.com",
+      "title": "The Economist"
+    }
+  },
+  {
+    "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation - TechCrunch",
+    "description": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation  TechCrunchWooly Mammoth startup Colossal seeking at least $20B valuation  AxiosColossal Biosciences is reportedly valued at up to $30B but hasn't brought back a single extinct animal yet. So what are investors buying? — TFN  Tech Funding NewsColossal Biosciences seeks 20 to 30 billion valuation in new funding round  Межа. Новини України.Colossal Biosciences discussing new funding at $20B or more valuation: report (IBB:NASDAQ)  Seeking Alpha",
+    "published date": "Mon, 20 Jul 2026 23:39:35 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYTNrZ01vMG1WZW05N1Nsb21oUkd0b0pvVkFWUGFwdHBaY0toNC1JZS0zR2Z3WGZ2dE85MTNZYVpHRUdtLXhzVERya2ZsR1FCWlZKLXZnUlB5STVzak1FVzlqMHNTY3JRaHNyei1JYXVabVB0OUp3aVhqVzVRNnBmMlg4bEVaVHNNVmRVTkRraHppVmZyQXdWU0dtMHlsQkkxTFh2a29DclNFOHhxR1RXVVVCS1k1eG50?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://techcrunch.com",
+      "title": "TechCrunch"
+    }
+  },
+  {
+    "title": "Introducing: Breitling Top Time B01 Chronograph 41 Tribute To Aston Martin DB5 - Hodinkee",
+    "description": "Introducing: Breitling Top Time B01 Chronograph 41 Tribute To Aston Martin DB5  HodinkeeTime and Speed, Reunited: Breitling and Aston Martin present Top Time Tribute to iconic DB5  Aston Martin MediaBreitling's New Watch Nods to James Bond's Most Underrated Timepiece  GQBreitling's 3 New Watches Are a Tribute to James Bond's Iconic Aston Martin DB5  EsquireBreitling Launches A Top Time Trio Paying Tribute To The Aston Martin DB5  Fratello Watches",
+    "published date": "Mon, 20 Jul 2026 17:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcWNnRFJWRVBUSWtfTXRER1p3MG56S2h2cFl6eVdaOU1WOUNPRk5idkpGTFFmSHljM0VSMUZVakJYVHRreFBXMHNTN29RQ3ZGcHF6RzZMdjZpd3BIekRmazlIcEVjbkJvUXJjN29od1dGTnBHUUdGc3ZIOHdpMmJOUElzcXY4VkZSVjFScTh2ckQ3QUVSM3U2QUgxUVpNckFD?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.hodinkee.com",
+      "title": "Hodinkee"
+    }
+  },
+  {
+    "title": "Necrons return to Kronus in a new Dawn of War IV trailer - Warhammer Community",
+    "description": "Necrons return to Kronus in a new Dawn of War IV trailer  Warhammer CommunityWarhammer 40k Dawn Of War IV — The Necrons Arise on Kronus In New Preview  Bell of Lost SoulsThe Necrons set themselves up as the grand antagonists of Warhammer 40,000: Dawn of War IV in new trailer  Gamereactor UKWarhammer 40,000: Dawn of War 4 Shows Off Necrons in New Cinematic Trailer  GamingBolt“IT SHALL BE OURS AGAIN” THE NECRONS RETURN TO KRONUS IN NEW DAWN OF WAR IV CGI  Games Press",
+    "published date": "Mon, 20 Jul 2026 16:02:13 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVFAzZzkxWGd0X1RBYWUyTkVmekNwNTN6TVpIYmNNNnluUU9hYW5wUTdQcmlGTDczM0M3ZWF5bVdTLXNiMlROa0I0M3EwS1NOay10Nnk4YzVPSko2UHBfVmdSQUpRUDB2ZU9sLUpUUl9NUWdPV2FsMGZ3aGQxVXFBWG5zUnpzOXQ3amxsbmJneS1Xc2R2dHExUEhZb1JBdk9GampUU19YR2JxT0gtTGQ4aG85VlRSelU3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.warhammer-community.com",
+      "title": "Warhammer Community"
+    }
+  },
+  {
+    "title": "The latest and biggest Galaxy Watch Ultra 2 image leak comes two days before launch - 9to5Google",
+    "description": "The latest and biggest Galaxy Watch Ultra 2 image leak comes two days before launch  9to5GoogleSamsung Galaxy Watch Ultra 2 leaks, see the sleek new wearable  MashableSamsung’s Smartwatch Momentum Is Slipping. Here's How Galaxy Unpacked Can Fix It  PCMagSamsung Galaxy Watch Ultra 2 Leak Teases Thinner, Brighter Flagship Smartwatch  EngadgetHere’s another look at Samsung’s upcoming Galaxy watches.  The Verge",
+    "published date": "Mon, 20 Jul 2026 15:22:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUTlhNU1yZWhHT3BVX0lvczBjb2hEYkVKUVd1aGRsVkJnTVlia0FhOUttVFp1MVNUME1iZThKdml5MjJMNDhmVFVpdXVDNGdzRUZSM004QXpmcTNNYXhIUk5XSEVJV0pGQTFaN3Z2aEF4LWZ6c19iMEtIMjY3R2tSc3pzVlNsQVk?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://9to5google.com",
+      "title": "9to5Google"
+    }
+  },
+  {
+    "title": "Wreckreation 2 announced for PS5, Xbox Series, and PC - Gematsu",
+    "description": "Wreckreation 2 announced for PS5, Xbox Series, and PC  GematsuWreckreation 2 Wants to Recapture the Magic of Burnout Once and for All  The Drive\"It's win it or bin it stuff\": Top Gear's first play of Wreckreation 2  Top GearWreckreation 2 could be the Burnout Paradise successor we've been waiting for  Traxion.GGDespite publisher cutoff and studio closure, Burnout veterans are keeping the dream alive with Wreckreation 2  Polygon.com",
+    "published date": "Tue, 21 Jul 2026 13:41:49 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU2ZvblBkZTRSbFF6aklNUEJva1VsTDQ1WWxoWXliWFRmT3p6M1EzT09hRm43WUFjOTJaUHhLVXBLYWZhS0NjbDZHZXl5ekN3UVdWVWxEZmNfYTdpaUU1SWc1ZUxMVllQZ1B3T0k5Z1BkMkQxRm9FMzFTSDd2T2N6aHp6Rjl6MkZUa3Vj?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.gematsu.com",
+      "title": "Gematsu"
+    }
+  },
+  {
+    "title": "The new, wide Galaxy Z Fold 8 revealed by BTS member J-Hope - Mashable",
+    "description": "The new, wide Galaxy Z Fold 8 revealed by BTS member J-Hope  MashableSamsung Galaxy Unpacked Live: Z Fold 8, Z Flip 8 Expected  CNETMassive leak reveals everything you want to know about the Galaxy Z Fold 8 and Fold 8 Ultra  Android AuthoritySamsung Introduces Flex Titanium Technology To Advance Foldable Displays  Samsung Global NewsroomSamsung’s Galaxy Z Fold 8 Leaks With Wider Display Ahead of Launch  TechRepublic",
+    "published date": "Tue, 21 Jul 2026 01:30:51 GMT",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZMlA4SjZ6ejJVcktOaXZmcnVHaGJSbGFpUU1QNnc2M0k4bndmSmJWeFgxdU1jUEhPWEY4VXFLYUQ0bTJHenRFUWJHYUZfYTd1UzRwSGpjWkxMdEk0NFl3NjE1NmZUSmRUSHZWUzNTeVVpaU80VlFR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://mashable.com",
+      "title": "Mashable"
+    }
+  },
+  {
+    "title": "Pokémon TCG Pitch Black ETBs and Booster Sets Are Back in Stock at Amazon - IGN",
+    "description": "Pokémon TCG Pitch Black ETBs and Booster Sets Are Back in Stock at Amazon  IGNCheck Out the Top Five Cards from Mega Evolution—Pitch Black  Pokemon.comPokemon TCG: The Best Pitch Black Cards  SiliconeraPokémon fans across New Jersey get hyped up for new card release  News12 | WestchesterMega Darkrai ex and Mega Zeraora ex Debut in Pokémon TCG: Mega Evolution—Pitch Black Expansion  THE MAGIC RAIN",
+    "published date": "Tue, 21 Jul 2026 10:14:55 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUU1VQnFaa0RRWHZvZVRFRHhtMTFxdTRiMTdidzRnVmZqVmNrZGRsVkNwSmFDS1BKWm1jWGtTMmFPaTJ2dkZEdjE0UWJ4NS1qRjlZWjRiR0oyUUFmRWJLUHd2Tjlad3J3cDFnSDhfVFFjXzViY0hSSVE3MTd3aVJFNFhSVUhLVFluR3p5c2xFS1c?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ign.com",
+      "title": "IGN"
+    }
+  },
+  {
+    "title": "LG’s monitors come with an unwanted addition for Windows: McAfee pop-up ads - The Verge",
+    "description": "LG’s monitors come with an unwanted addition for Windows: McAfee pop-up ads  The VergeLG monitors are using Windows 11 feature to serve adware  The RegisterLG monitors covertly install unwanted app that acts like adware, shilling McAfee subscriptions  CybernewsLG monitors are silently installing spyware on Windows 11 PCs without user consent  TweakTownLG Monitors Fill PCs With Adware, and It’s Not Just Recent Displays  Gizmodo",
+    "published date": "Mon, 20 Jul 2026 16:14:58 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTVZaZUlHM3d2X3F2clFrOVdPS1ZIeXVBckJPbVVUWGJpMFpoMngwNkQ5cTdkS1NpWjJlNDRCdllKNVViUjFGNmYzam5Nc2c3bHl3Zlptbkt5UkZrNDlMVmNvZlJCQ055X25vNVlaRkdWZl9MZHl4RENDMk9zWjFiMQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theverge.com",
+      "title": "The Verge"
+    }
+  },
+  {
+    "title": "‘I was a functioning alcoholic’: Cliff Bleszinski opens up about addiction, recovery, and his hope to return to games - Video Games Chronicle",
+    "description": "‘I was a functioning alcoholic’: Cliff Bleszinski opens up about addiction, recovery, and his hope to return to games  Video Games ChronicleCliff Bleszinski Knows What Went Wrong  80 LevelCliff Bleszinski Reveals Struggle With Alcoholism, Plots Return to Video Game Development  IGNCliff Bleszinski Blames Personal Ego And Alcohol Issues For Boss Key’s Failure  KotakuCliff Bleszinski's comeback started at Radio City Music Hall  Substack",
+    "published date": "Mon, 20 Jul 2026 12:08:42 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPM1N3cmxSRUxHLUhmTy1GVFBkeVJHOTRLdjJMQXZJNlNWMU5sT1NGU3JsRGdNWUx5Sy1JTHVsWWVOTzR1QWY5elNPYVVicktCRGEtRDRrMVZ1dTNFN0pkWlVZczlYWXdmeG9kMUc2T3AyUE02UWhyRDEwSEszT1NaZnJWdlMxV3JfYm1kZkZjaUUxcV9RdjZ5d2dMbUxiTF8yZ3F5ZC12Zk1hQ0xZQXJJaWNRbUstVmQ3dkFiNlBPUU5VcTlhZGFYNzBkYm5IX0k5YjJGcklNdldSUDJ6Rm41T2JOamlZVTVfeGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.videogameschronicle.com",
+      "title": "Video Games Chronicle"
+    }
+  },
+  {
+    "title": "The Baddest Bad Moon is coming to Warhammer 40,000 AND Total War - Warhammer Community",
+    "description": "The Baddest Bad Moon is coming to Warhammer 40,000 AND Total War  Warhammer CommunityOrc Warboss Nazdreg Ug Urdgrub to Get New Miniature in Warhammer 40,000  ixbt.gamesWarhammer 40k: Bad Moon Rising — The Return of Nazdreg  Bell of Lost SoulsWarhammer 40k brings another beloved Ork character back with a vengeance, as a Big Yellow Mini  wargamer.com",
+    "published date": "Mon, 20 Jul 2026 15:01:42 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS1dtdnIwS0txMXBoczNGdFBOYVphU2tuT2hjbHhMek40a2JnX3FubC1yYzJSRUpLQWs1SVRGWTFfcU55MmZUWG9JNlh1d29kWHFZQTBuVmd5d3ZWMGxZRV9ZVVNPcWJpc3oyX3R1MnN0a0F0LUM2LTcyNFFYbldCTFh4aTJxay1TeUVocWpWUkVuWUNFc1YzczI1Qm5rQmg3MkNLWDFDNFpvUkxRRWNwb2ljQmhUUElYNnd2OWJpNVlKQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.warhammer-community.com",
+      "title": "Warhammer Community"
+    }
+  },
+  {
+    "title": "Windows 11 Is So Poorly Optimized That Microsoft’s Latest $900 Laptop Reportedly Can’t Use It Without Freezing - Kotaku",
+    "description": "Windows 11 Is So Poorly Optimized That Microsoft’s Latest $900 Laptop Reportedly Can’t Use It Without Freezing  KotakuEven Microsoft couldn’t make Windows 11 work well on 8GB of RAM  The VergeWindows 11 bloat proves too much for Microsoft's new 8GB Surface Laptop  TechSpotWindows 11's High Storage and Memory Demands: Necessary for Functionality or Unneeded Bloat?  HackerNoonMicrosoft itself accidentally proves Windows 11 minimum system requirements make no sense  Neowin",
+    "published date": "Tue, 21 Jul 2026 14:00:59 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONWNZSUR5cTh5VEZDT1JSdmUxNWg3N2g2YW9waHQzTHVjNzJuQ2l5Y084VmlhUzhVeXIweU5wUGkwWkdDUjRzbzIwYXgxRXIwZndwQVJJV1dORjVXcHFVb1NxY1VVOU1MNEhNTTFmdEZoQUtQM2xDYmNRTHh5QlQ0RnhYbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://kotaku.com",
+      "title": "Kotaku"
+    }
+  },
+  {
+    "title": "Microsoft Releases New Windows 11 Security Update Fix For Dell Users - Forbes",
+    "description": "Microsoft Releases New Windows 11 Security Update Fix For Dell Users  ForbesMicrosoft rushes out Windows fix for Dell's hot and bothered PCs  The RegisterWindows 11 KB5121767 update released to address major reliability issues on certain Dell PCs  Windows CentralMicrosoft fixes the Windows 11 bug slowing down some Dell PCs  PCWorldWindows KB5121767 OOB update fixes shutdowns on some Dell PCs  BleepingComputer",
+    "published date": "Tue, 21 Jul 2026 10:46:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRml3OWFwOEtWbjFMTGZ2THkyT1JFcnN1V3ltdFl0YzlFZjBnNGc3RllmTGRabWhzcjZWbVhlYzVfU3lVcmpucVpfanRUZzhfaWMxcWZBX2V6NTNBMm83TmhVbl9lT09yMjdSRV9JS1VwcTlXQUYyQWFxc1Ywb1hXTXBSSW8yc25ZMEV3LXN0RDJILXVGeVFrM1NjekNIcXk5Uk90VERKSGpzMTJicUxpMUlXNVYzRUozLWRIMnBB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
+    }
+  },
+  {
+    "title": "Sales Data Paints a Very Grim Picture for Physical PS5 Games in the USA - Push Square",
+    "description": "Sales Data Paints a Very Grim Picture for Physical PS5 Games in the USA  Push SquareSee more headlines & perspectives on Google News",
+    "published date": "Mon, 20 Jul 2026 23:15:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVTRYeUUxTEw0Q1p4dGd2MkxuRExDRmNubjQ0bC1DVG5MOGFCT1RYOVY0WVFuazBGd1BlOUI0Z05nUXJyWXhTWUkzdWt3OXRrOWZEaTRzXzBoSXVHWEN3V2VLNlpXUjF5TWtUU29pWjRrSnh4SUJPQjNJV255blFfNHRseTRXa1BTOXFMX3NtblI1dURYSWtaNXZvM2w5bUE3ZFhzcEwyd1oxdWsxeHRKZg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.pushsquare.com",
+      "title": "Push Square"
+    }
+  },
+  {
+    "title": "Woot Has the Nintendo Switch 2 Mario Kart World Gaming Console Bundle for Just $439 - IGN",
+    "description": "Woot Has the Nintendo Switch 2 Mario Kart World Gaming Console Bundle for Just $439  IGNThis Amazon Deal Might Be Your Last Chance to Save on a Nintendo Switch 2 Before the Price Hike  IGNNintendo Switch 2 prices dip near $455 on Amazon, then could jump fast, deal trackers warn  infos-it.frScore Nintendo Switch 2 consoles as low as $399 today ahead of upcoming price hike  9to5ToysNintendo Switch 2 with Mario Kart World is $60 off in Woot’s anniversary sale  geekspin",
+    "published date": "Tue, 21 Jul 2026 10:21:34 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNVdMbUp3Y04wRXZqbkM5VGdrVGYzQk5OeDhOUkZmYVlrQlJtazVnOTRIMUNNVUJJbXVWdi1aRmtjb2RNdm5uUkljWnlNdm5NbzJHczM1eGYybnNZUmJQT1hPakFweW9XYjh2VlBQYXF1bGVhRzd6X3IyWWtMZ3RuVXJESjV6MTM4T0dVajFJZVJteEFfUUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ign.com",
+      "title": "IGN"
+    }
+  },
+  {
+    "title": "An artificial 'Saturn's ring' of satellites could soon fill the sky, astronomers warn - Space",
+    "description": "An artificial 'Saturn's ring' of satellites could soon fill the sky, astronomers warn  SpaceUngoverned orbital data centres are “reckless”, say scientists  DPA MagazineWhy AI’s environmental footprint won’t disappear into orbit  The ConversationWhat is the environmental impact of satellites in orbit?  Environment America'Catastrophic': Million-satellite 'ring' around Earth could be crippling for observational astronomy  starlust.org",
+    "published date": "Mon, 20 Jul 2026 10:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPODFlOXlSNnpwdG1GaGFMT3NMS1Z5UEdZTXhIeWJwUzI2OVZTdFdvakZCT3ZHT2R1V0VlQkVXMlBxODBMNTNLQ1BjbUpKc2VhOXppZ2Q4cVFnRDBGQUJicDF3N1JjRDVqZVFkRXpVTDB4cWFhVGpaZHpacVRJT3RybHR4TkoyTGhmTjUxX1laTldsdnJUM01QTHVwVVBhWGZURDFqNlJFNmRULU12QXp2WFRCWnhiWE5TSEhOczJEWmkwYW5DTTc4RjNVOUs?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.space.com",
+      "title": "Space"
+    }
+  },
+  {
+    "title": "Fallout New Vegas Director: RPGs Can't Let Players Control Everything - Kotaku",
+    "description": "Fallout New Vegas Director: RPGs Can't Let Players Control Everything  Kotaku",
+    "published date": "Mon, 20 Jul 2026 22:46:19 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSUQyLWFDNFN4UjROWk5Wak5WaGdpVmtGdjN0Z0tvcDN3VDdEdU8xX1Z5aE81VGR2MHN3VjBhTUlaTXJhMVQzWGREME1wbEpFUFVBSHk4cFVFNHotcU15S0FBTExiLS1Bb3F5OXNJRDlOVThHQmdMT0JxeTZJTUQwZUhSeHRjWGpIMUF5QWJGOVE4dmRfcXdqQXAtQ2R6bFh6OF9udU9HM2NiMV9RRFZkTXJxcUxhalE1Vjc3UDVJOXF5aEhoMTdsSUZBM0NqekxPd1VxRzMxOXc1OEk?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://kotaku.com",
+      "title": "Kotaku"
+    }
+  },
+  {
+    "title": "Where Elon Musk's Tesla Roadster is now after it was launched into space and caused amateur astronomer to panic - supercarblondie.com",
+    "description": "Where Elon Musk's Tesla Roadster is now after it was launched into space and caused amateur astronomer to panic  supercarblondie.com",
+    "published date": "Mon, 20 Jul 2026 10:13:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSk9tTjNYUTY2TkdSX3h1TnhzQm5fMFFPaDdlU29vOUw3MlR4U1FFLTRQMk14UUExZ3RZVERBek00d09IR1R5THlEQ20xSnRGamJlbUNXQy1hT01odk1nY0lRUmJKNDgyZjdsai03QTYtMldBVW5BOTg2SDd6cktLZA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://supercarblondie.com",
+      "title": "supercarblondie.com"
+    }
+  },
+  {
+    "title": "Android Auto finally exits the slow lane, adds Google Maps speedometer - Android Police",
+    "description": "Android Auto finally exits the slow lane, adds Google Maps speedometer  Android PoliceAndroid Auto finally starts rolling out a speedometer in Google Maps  9to5GoogleI tried Google Maps' new 3D Immersive View for Android Auto, and it fixed my biggest navigation problems  ZDNETPigs Started Flying: Google Maps Gets a Speedometer on Android Auto  autoevolutionA huge visual upgrade for Google Maps is rolling out on Android Auto  Android Police",
+    "published date": "Mon, 20 Jul 2026 16:26:42 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR2RHcl9WcmpScXp5OGdwTGppRFVsSEZjV2E5VkYzeDRRWHY3Qkc4UkhYN0ZQSU5DTTB4dzlJMGFpWkgyckZ4Tl9tU2l3WS12UVBOVDFxbnM3QXpVZDc0eDlZVUc0QjUtbHo5SkdmMXY5M05LRHlsTnhIYU1QUk1ZeG03MDI0WnFTVUU5T3NzaWFPSm5STlR4VDdRLVFuc2luYXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.androidpolice.com",
+      "title": "Android Police"
+    }
+  },
+  {
+    "title": "Donkey Kong Arcade LEGO Set Official Images Surface, Already In-Store - nintendolife.com",
+    "description": "Donkey Kong Arcade LEGO Set Official Images Surface, Already In-Store  nintendolife.comLEGO Donkey Kong Arcade set gets proper reveal with first official images, full details  Nintendo EverythingThis Classic Returns as a Retro Lego Set  Yahoo News UKLego Donkey Kong Arcade Set Built Early Before Official Reveal  games.ggUK retailer Argos gives us our first full look at Lego’s Donkey Kong Arcade set  GameSpew",
+    "published date": "Tue, 21 Jul 2026 02:45:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUmNtbUh1czJIMDdrSU1SZHREMDQxcDR2aExSVVU1dUpKVU1vdHJ6NUxrbm5PaG1NX0Rrd0tISHZpZGwzendDcEFiMkRBdkxLNHU1U0VVdThpUWhjZG41UXFjNTJwNEhrZUZvdkVRUWdXNGM0SThqNnViSGlVbVlGOFZTeWRuNElmZVMyTkpsX0FKd3NoQXpfenNVamEwVjNyTE5TdDJPQjctMWdpcmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "http://www.nintendolife.com",
+      "title": "nintendolife.com"
+    }
+  },
+  {
+    "title": "Invisible Drones: A New Flying Robot Spins So Fast It Hides In Plain Sight - IFLScience",
+    "description": "Invisible Drones: A New Flying Robot Spins So Fast It Hides In Plain Sight  IFLScienceNew spinning drone hides in plain sight  Northwestern Now NewsStealth drone spins so fast that it disappears  New ScientistHow a Spinning Drone Exploits Your Eyes to Become Nearly Invisible  IEEE SpectrumAlmost invisible: The spinning ‘ghost drone’ that tricks the human eye  Ynetnews",
+    "published date": "Tue, 21 Jul 2026 00:01:44 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSkRhTjhaazlyX0llZzZYZEUwRElkQWxhZjBFeGIzd08teGtYQzNxMU1KcHVTOEFnTktfT042SHpKVFdrb1dfT3BPei1BUnBLZWRxQXNkUFl4S3FSY2gxR2N1SWxnSGZfMEgzUnRETlpoaElwTEhLcnpHYUFOUi1JR3lMcUtWZUlxWExwaVk0VklsdEpISXZSVElha2V4VUpPTGVuU1lQaHppUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.iflscience.com",
+      "title": "IFLScience"
+    }
+  },
+  {
+    "title": "Kodak EC35 is a dirt-cheap point-and-shoot film camera - The Verge",
+    "description": "Kodak EC35 is a dirt-cheap point-and-shoot film camera  The VergeKodak’s New Point-And-Shoot Is a Real Disposable Replacement  GizmodoThe Kodak EC35 35mm Film Camera Brings Back the Iconic Slide Cover  PetaPixelThe Kodak EC35 Is A Pocketable, Beginner-Friendly 35mm Film Camera  EngadgetKodak’s New 35mm Film Camera Is Absurdly Affordable  Gear Patrol",
+    "published date": "Sun, 19 Jul 2026 19:26:06 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQTR5azJtQUtwZjlvcWRDVHN2Y25yVkxsSEhNcWJZWmpjbzgwdEhILV9UTWlkR3R4NUMwRWVKRTFUdW5LV3VWRmZvcDcwZGhidTVvSThGSE9xVmdfRUFZWEpJWHRRWUItV0JBRVVGcHd6bGZqMTNab3pSdGVTNXM1YjR2Y0k?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theverge.com",
+      "title": "The Verge"
+    }
+  },
+  {
+    "title": "Kingdom Hearts Missing-Link Leak Has Fans Wishing Square Enix Hadn't Canceled Its Mobile Spinoff - IGN",
+    "description": "Kingdom Hearts Missing-Link Leak Has Fans Wishing Square Enix Hadn't Canceled Its Mobile Spinoff  IGNCancelled Kingdom Hearts Missing-Link Footage Reportedly Leaks, and It’s Really Bizarre  VICEThe Intro To The Cancelled Kingdom Hearts Mobile Game Just Leaked  Press Start AustraliaCanceled Kingdom Hearts spin-off's intro apparently leaks online and not even veteran fans understand what'...  Yahoo TechKingdom Hearts Missing-Link’s Leaked Cinematic May Have Clues For KH4  Kotaku",
+    "published date": "Mon, 20 Jul 2026 23:43:49 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNREpwdnV2WlVYWkcwZFB2QmptNUJoaDJjbTl4a2hVY0RKN3lJYUVaZHBwNWtFdWFpQ3U4N3FsbkZpZExELUpQbTV4MV9NVkgzLVk0TE5UNk9xM0VCSWhYNXZEVnFRY0FUV1NYTHJPR2VlUm45dXBXNjJXVFI5cVFTWW42bE1aSmthMW8xckIwd0JaYk02TktsMVNsU1RzNnRXM1hNUWNDRGpkQkp6QlRLSm1TMUY2ZUVCS2FNM0pjNlpoQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ign.com",
+      "title": "IGN"
+    }
+  },
+  {
+    "title": "\"Professional lurker\" Todd Howard reappears on internet forums following Bethesda's Fallout and Elder Scrolls announcements to thank fans for their support - Eurogamer.net",
+    "description": "\"Professional lurker\" Todd Howard reappears on internet forums following Bethesda's Fallout and Elder Scrolls announcements to thank fans for their support  Eurogamer.netA NOTE FROM BETHESDA GAME STUDIOS  Bethesda.netBethesda Announces New ‘Fallout’ Roadmap Following Xbox Reset  Bloomberg.comFallout 3 Prequel Is Coming... But to Most Hated Game of Series  80 LevelBethesda Confirms ‘Fallout 3’ and ‘New Vegas’ Remasters Alongside ‘Fallout 5’ and an Unannounced Obsidian Project  Hypebeast",
+    "published date": "Mon, 20 Jul 2026 12:29:02 GMT",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iYWM0d1RoRFU1MTVMLV9sN2tfMThMMUZnNVctNm9xS3FPWndQTmczMnZGN2dFN2hMQ3NfNTlMdERVdUM5bVk0dHRGNXg0cFBoTnhCdHR5Wm1vOXVZOGtBZlhNM2VTR1IzZnp0dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.eurogamer.net",
+      "title": "Eurogamer.net"
+    }
+  },
+  {
+    "title": "Apple's Latest Price Increases Go Beyond Macs and iPads - MacRumors",
+    "description": "Apple's Latest Price Increases Go Beyond Macs and iPads  MacRumorsApple Music hikes subscription prices citing ‘rising licensing costs’  Music Business WorldwideApple Is Raising Prices on Music and One Bundle Subscriptions  CNETApple Music is getting a price hike  The VergeApple just made its biggest services more expensive, and the upcoming iPhone 18 could follow  PhoneArena",
+    "published date": "Sun, 19 Jul 2026 15:50:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XRGJPdGVraTNBandiYWJNNnlQYjQ1Nm5OdUVUdXBNWWVFUWVBTHhDSDNxX1ZRRi1MNS0tVEpHa2Z3RlFrNm1oUGJPN2pXTlB5dFAyNW9RZnpYNkFjcUpkSTl3SFNiODl0dlRoVFNyOGxkM0t4Wmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.macrumors.com",
+      "title": "MacRumors"
+    }
+  },
+  {
+    "title": "iOS 27 beta 4 mentions new iPhone model with multi-battery feature - 9to5Mac",
+    "description": "iOS 27 beta 4 mentions new iPhone model with multi-battery feature  9to5MaciOS 27 beta code reveals Apple’s dual-battery iPhone plans  MacworldiOS 27 Might Have Just Confirmed Apple’s First Foldable iPhone  LifehackeriPhone Ultra gets a direct nod from Apple  PhoneArenaPlurality in iOS 27 beta code may be red herring, not iPhone Fold hints  AppleInsider",
+    "published date": "Mon, 20 Jul 2026 18:43:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZVZKUXp0SVFyYW5FbTdSU25MMEVfcmZkdTV1NFdwMUJJSW9jV2FGTEFhZ2JNOVRRTjYyd2x5MDA5ZkV0bGZ4WkgtZ3pFTUM0V2FkamNWT3FBSjRDaDN5R1JzbDdvSDFWRFBYbHdpV0R2NENHLXJPdEdpWmhuYjMtZHZ0Si1mQ1daWldrenMwWWdVOXBXdXlBVzljLXFnbzA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://9to5mac.com",
+      "title": "9to5Mac"
+    }
+  },
+  {
+    "title": "'ClickLock' Malware Coerces Mac Users Into Giving Up Passwords - MacRumors",
+    "description": "'ClickLock' Malware Coerces Mac Users Into Giving Up Passwords  MacRumorsCrashStealer Mac malware steals passwords and wallets  Fox NewsClickLock Stealer: Paste Once, Lose Everything  Group-IBClickLock malware makes Macs unusable until victims surrender their passwords  AppleInsiderNew ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password  The Hacker News",
+    "published date": "Mon, 20 Jul 2026 13:17:14 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMVRUeGJtazdGTDEwSUdaMEdSMVQwdnZZaUxoV0hJUFFERHEycFVwa1JFX0pmRlE4cTRfM1AxWjRFOFNiSVV6bVFwVkJNWGZDQ1ZlMnZqcG0wSUhEZloyaWtmTC1saXFYMXlmNG1SMnNEWFR2RWNEUFczMGp5R2U4NTkwbTNXdTQtTHNZNXhn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.macrumors.com",
+      "title": "MacRumors"
+    }
+  },
+  {
+    "title": "Xbox Is Dismantling Its Future To Rebuild a Past It Can Never Recapture - IGN",
+    "description": "Xbox Is Dismantling Its Future To Rebuild a Past It Can Never Recapture  IGN",
+    "published date": "Mon, 20 Jul 2026 14:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYmNka3lFSEpWZE9XZlIzR1JmcjdiMWdUNW5NY3c5dXVKZS16RERIMHh4UFdRZjVJcG0yZHhYNW1xQm9wU19jSGhYWDh1cHpwVDhLQ0x3Y1ZjZDRXbmtwMlRvM1FzeGxWYXdoY1lMcUJFN0VYcGRYZWtGY3Z2Ymp3amRROXE3UEpMT1BuV3ZJU2NuVTVCbTdOWTU3anR6bFNYM0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ign.com",
+      "title": "IGN"
+    }
+  },
+  {
+    "title": "The Pixel 11 Pro showed up on one of Google’s websites - 9to5Google",
+    "description": "The Pixel 11 Pro showed up on one of Google’s websites  9to5GoogleHere’s an Official Pixel 11 Pro From Google  Droid LifeMore deleted Pixel 11 Amazon listings reveal full US pricing and specs  Android AuthorityThis Year’s Budget Pixel Might Be Less of a Cop-Out  GizmodoGoogle Pixel 11 Pro XL vs. Pixel 10 Pro XL: A glowing upgrade  Android Central",
+    "published date": "Mon, 20 Jul 2026 18:40:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaHg2V3ZlS0FwazRwZnNzSE51RzV3V2RwRmlrcGlfTzhsZ3h2T3JJVFNQREpBRldUNmR2Tm1vbmxxMldaSnpjU1NrQkE2bXMzemVfQTQxQWY2cjlFeFZSUjNOYVBLUi0xNU1GNnFaMFZfS2VsZUs2V2NMSGV0b1Yzcld4SExiLW04UVR3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://9to5google.com",
+      "title": "9to5Google"
+    }
+  },
+  {
+    "title": "A $33,700 Tiny Home That Finally Gets the Floor Plan Right - Yanko Design",
+    "description": "A $33,700 Tiny Home That Finally Gets the Floor Plan Right  Yanko Design",
+    "published date": "Mon, 20 Jul 2026 23:30:31 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcVNUMUlrTmRLQjZvVndMRVJEaDY0bmFaWHVIdUV3bzd1aUFyVzg3ZkstNjBvYXZBdDZISG51bW8yTjRwOEVoaFZKOF9ad3Z6a3FzRUxtaUk5aGRRM241dkdtSHQ0Q1h0OGtDc2VXS2U0NDNyT1ZPQjUxQnlJZWV0X3RaVVdrQmNJZ2NuN1hwYVVLZVNCM0tMMk5PbzPSAaIBQVVfeXFMTksyNmh4YlZsX2NvTEZYS1V6b0VhWlFGUjlGLVJIVU5xSllLVW1oRE5wRzNDc05OaDRhODNpenQyZXh0VF9namdzNm15UDRDSDZaVV9OdkZURTFraHAyYnpRdUFIS2pXUnZETDRZWWZrRVlwVlpIZ3hyaXFMbTdrUWpIM2hyM01VYk5FOUlhNENYTjZ2TVBWZlZXTlFhN1U4SkJB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.yankodesign.com",
+      "title": "Yanko Design"
+    }
+  },
+  {
+    "title": "Amazon just broke one of Apple Wallet’s best recent features - 9to5Mac",
+    "description": "Amazon just broke one of Apple Wallet’s best recent features  9to5Mac",
+    "published date": "Mon, 20 Jul 2026 14:03:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ0ZPNzdRNUFDSnd3Vk9PbGVlZ2JJeDRBTXhtWndtRG4tendLNTZCUUdxU01FZmRGS2ZQb3laV0ttX3ZTVHJYbmNRYUtIY2lqLWgyZF91dnV0WDZJM0dRUWp1dFlsT09SUkpQdUF3eEI3WDNsV1VFLXVVZDBLeFh2UlhkSWdlZmNVX01Zbzl6STlzbjlxSVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://9to5mac.com",
+      "title": "9to5Mac"
+    }
+  },
+  {
+    "title": "RAMageddon Is Hammering Retro Handheld Makers Like Evercade - Kotaku",
+    "description": "RAMageddon Is Hammering Retro Handheld Makers Like Evercade  Kotaku",
+    "published date": "Mon, 20 Jul 2026 13:27:51 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeWRnNUh4dXRRd2N0Y044QnJVRTNsYkdKZWs3S09mY3BrSmd2Y0NaUVhtNUpyeDlPcmtOdFlvd0ZmTUpFX2pjdjBhSHVEVVpzWmctemY4UjZjVjQ2cHM4dnUwbFJiYzNDam1Mc1NQNUVkOWxyRWtwSE1ZcDdRWUtFbDBsZHBsclpFTnU3WV9OYkpTVFpobWd1Q2dtbjBTZTVucC14bEVONHpJVHFpdDhKNTR0amhwdm1ad2dHZDd1ZWhUVE14aV9sMjFGaEprenZNQ1hQdnREYjdBY2tPVUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://kotaku.com",
+      "title": "Kotaku"
+    }
+  },
+  {
+    "title": "LG’s glossy OLED gaming monitor is rare to find under $400 - The Verge",
+    "description": "LG’s glossy OLED gaming monitor is rare to find under $400  The VergeROG Swift OLED PG27UCWM & PG32UCWM Now Available | ASUS  ASUS PressroomGo big with the 45-inch LG Ultragear curved gaming monitor, now on sale for $654 off at Amazon  MashableAsus’ top-end 4K QD-OLED gaming monitor is $400 off  The VergeBring Your Games to Life for Less With the Philips Evnia QD OLED  CNET",
+    "published date": "Mon, 20 Jul 2026 16:34:24 GMT",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTDk0Q0VtcFV3bWQ4Q0pYWmpaWEtXdXpUaWRHQ1pRNDBRS3BYSTNKdWU1NmhwYjU5MUtlcFlFcDJwTW4tUzBSUHIwOEF0T19VcDBJWVNfN0ZjY0hPSWwzQzRuSU4xUjQzYWhkZVhkVlhhXzRlMi1mU3h2RndVaEQzUDQ0Zi1aY1BmM0F0UFNpTGNqT3lYZUJfYXprYVRUUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theverge.com",
+      "title": "The Verge"
+    }
+  },
+  {
+    "title": "The Oura Ring 5 is still the best smart ring you can buy, but is it worth the upgrade? Here’s what you need to know - NBC News",
+    "description": "The Oura Ring 5 is still the best smart ring you can buy, but is it worth the upgrade? Here’s what you need to know  NBC News",
+    "published date": "Mon, 20 Jul 2026 12:30:42 GMT",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1nV0FfRm5SOUV5YURjQ1hHeUZ2WWpXc0N6TzlRallLaWxWUmhiRElPQ0NlVHMzQUNfNzhtNktZcjNWUEhPWm9FRExkMnNtY2JGUDROdFY5d1hfYkpCTHVaTXQ4cjh6Wk1FYVZtcXpYOHZiQW0wcDF5Qw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nbcnews.com",
+      "title": "NBC News"
+    }
+  },
+  {
+    "title": "Rocket launch costs have dropped 96% since 1960. How low can they go? - Space",
+    "description": "Rocket launch costs have dropped 96% since 1960. How low can they go?  SpaceRocket Launch Costs Have Fallen 96% Since 1960. They Aren’t Done Yet.  SingularityHubIn July 2026, Cambridge economist Alessio Terzi and colleagues published the largest launch-cost dataset ever assembled — 4,400 rockets flown since 1960 — and projected that the price of putting a kilogram into orbit will fall from $3,868 last year to $273 by  Space DailyTransport of payload into space: SpaceX as the East India Company of our time  heise onlineNew Study Expects Space Cargo Launch Costs to Fall by 50 Percent by 2030  Mobility Engineering Technology",
+    "published date": "Mon, 20 Jul 2026 13:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUTNjX3NWZjZMT0ZKR2dYbUtPLU1mWFlZLWVZUFRWTWZOV0E5eW9VT19yWDNwX1h5dWtYamZhNU14LUFtN3RwOUhId19BSWxFM3kxMUxRVHgzaVVBQzBXbkRMb0pNUl9BUEZmQ0QzVkdFTExBNDhvT09KWmZ1b1BYZTVhYTBxeW5ZUzFPcTVmUVp3elV1c1JEblRMT0RTUjdFVnFhZWU0cXhYTl9uS2NwaVNNT2h2TGZ5dWNPXzV6c3ZHWDl1aEZvdHAyTmRMYjQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.space.com",
+      "title": "Space"
+    }
+  },
+  {
+    "title": "Quantum entanglement without transport: Leaky qubits offer route around noisy channels - Phys.org",
+    "description": "Quantum entanglement without transport: Leaky qubits offer route around noisy channels  Phys.orgSee more headlines & perspectives on Google News",
+    "published date": "Sun, 19 Jul 2026 18:20:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXSU1vV29OMXVOSG54Mi1TY21XU1pMMDBadkY3Qm5GM29XN1dNNWJEYjU0cW5vUEZqcFk0TjREc2FJMmJQU3Y0anU1VDhpQk9EeElfVm82aHRIak5NN3FZRFl6WUtrQ3d0dmdGZFNoVVluSVJLQ1VOQWtFQ1U3TFk?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://phys.org",
+      "title": "Phys.org"
+    }
+  },
+  {
+    "title": "UK Charts: Star Fox Barely Holds Onto The Top 10 As Assassin's Creed Maintains Smooth Sailing - nintendolife.com",
+    "description": "UK Charts: Star Fox Barely Holds Onto The Top 10 As Assassin's Creed Maintains Smooth Sailing  nintendolife.comIs the Assassin's Creed Black Flag remake worth the 13 year wait?  BBCAssassin's Creed Black Flag Resynced Performance Benchmark Review - 35 GPUs Tested  TechPowerUpAC Black Flag Resynced Title Update 1.0.4 - Patch Notes  UbisoftAssassin's Creed Black Flag Resynced sells over 3 million copies, New Game+ is coming  TweakTown",
+    "published date": "Mon, 20 Jul 2026 15:45:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQa3BmNjVQV3YzdTV5UWlOSjFJTC1ZYnhNYkJFZTJpMFA3dW12VDFjd3JVdU92Z2FTWnBHNHNPT094dFpNNnRDZkJZek1Lc2I0MTFIYjhXZGJDMHhNOU5BOFN3MDZxbDB0ZFpOc1lENlpicnViWXp0eUI0Sl80RTVQa0NlMkpielV5c2J3YS1Ed1c3MlBEVGVqNjZCRnRTZUJnXzZxbXJGRUhBQ2hjOVJySEJDTVA1aU0xQjNrN2hENlR4WWJicTZwbG9qQWE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "http://www.nintendolife.com",
+      "title": "nintendolife.com"
+    }
+  },
+  {
+    "title": "4 More PS Plus Extra, Premium Games Available to Download Now - Push Square",
+    "description": "4 More PS Plus Extra, Premium Games Available to Download Now  Push SquarePlayStation Plus Game Catalog for July – Avatar: Frontiers of Pandora, Rise of the Ronin, Firefighting Simulator: Ignite and more  PlayStation.BlogPS Plus July 2026 Games Are Packed With Zombies, Aliens and Nostalgia  CNETPlayStation Plus Extra, Premium July 2026 Games Rolling Out Now  PlayStation LifeStylePower Rangers Officially Return In A Major Way On July 28  OpenCritic",
+    "published date": "Tue, 21 Jul 2026 09:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTVJUN0FsMHd1WjBralVxdVBLbWxyT3lNbHd0ZUpnM2FLb2pYWjVLaXhURmZBWWNyQ19ZMmFPTW55eXlXRFJ4ODhTQ2o5Rl9qMVRlZ0Q2VFZ1Mnc3MFZuUGVoTUgwWHBUcnBsbmlicTRJMG44YzBvWnpaZGN5NDkzSEhWVGVlMFBpS2VKdHMzMS12Qi1abklwcUVtb0dHb2h5RlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.pushsquare.com",
+      "title": "Push Square"
+    }
+  },
+  {
+    "title": "Prinny Party: Going Overboard is a new party game featuring Disgaea characters coming to consoles and PC - RPG Site",
+    "description": "Prinny Party: Going Overboard is a new party game featuring Disgaea characters coming to consoles and PC  RPG SitePrinny Party lands in the West with minigames and multiplayer chaos  Foro3DPrinny Sugoroku Game Being Localized as Prinny Party  SiliconeraPrinny Party: Going Overboard Launches in Japan This November, Western Release Planned  CrunchyrollNippon Ichi's Disgaea-Infused Board Game, 'Prinny Board Battle'  Inven Global",
+    "published date": "Mon, 20 Jul 2026 11:57:08 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVGZ1UG5UakxBLUpTeXpkZFBLLVNZZTQxUDI5OWR5S3JxM21UWDFmRzh4MndrUnJxNHZTV1A3Y05fTzBsLVVwSzBmbzVBdnhuM2QxeHZfUEplSnR1RHJ2V3c4enVLYlhNUjZpaEozSFVjSFAyY0hFalFMWDFhNHVRTEQ4MFNib3YzY2N1YXVoa0gzYWZDM3F3eGJTX0hZQlNDM01rT2FlNnJmRk0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.rpgsite.net",
+      "title": "RPG Site"
+    }
+  },
+  {
+    "title": "Samsung is about to prove it’s still one of the most exciting Android brands around - Android Authority",
+    "description": "Samsung is about to prove it’s still one of the most exciting Android brands around  Android AuthorityMcKenna’s Test Live Blog 80 shortcodes  CNETPurple 'Galaxy Unpacked' Adorns London Landmark as Foldable Reveal Nears  Seoul Economic DailySamsung confirms millions of Galaxy phones will become outdated this week  Daily ExpressGalaxy Unpacked July 2026  Samsung Global Newsroom",
+    "published date": "Mon, 20 Jul 2026 10:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLWRsdFJROE9xNGxEVHVGcWllbWpERzNSZldCdjlLMmEtaFVLQ3NNeEM5Q0hrVmhlTVUtM0x0NW03OHNQMTJNNi1iV1VaWW1wb2RpT24zRlNqZ0VnVnlZMHk5SkZ0SXVtU1AzU2toRklrQjgwektRSmpxdDRrMU5MNDJaNWZBclZwd2ZjR3BEQ1FkVWtFYTBZTA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.androidauthority.com",
+      "title": "Android Authority"
+    }
+  },
+  {
+    "title": "OnePlus leaving the US is a terrifying sign for the future of Android - Android Authority",
+    "description": "OnePlus leaving the US is a terrifying sign for the future of Android  Android AuthorityOnePlus confirms shutdown in the US and Europe, ending months of speculation  Ars TechnicaIt’s Official: OnePlus Is Dead. Long Live Oppo  CNETOnePlus Exit Means Fewer Options in a Market Mired by Lack of Choice  PetaPixelOnePlus, Once Popular with Tech Fans, to Pull Out of US and Europe  Bloomberg.com",
+    "published date": "Mon, 20 Jul 2026 09:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU0hQUUZCN3luTnVEdmptdHFmSndpMG1LQlQ3UjFMV0gyWHU2Vi1nOU1mZFRtdmVKbnhYeGhodlJEbG9oSXM3X056MmZ2bmVkTGs3R21Bc0d5a2VHTHU2VndtYWEzT25jS3FGSi1ScHR6Q1JlTlkzVjdIaFBubzFYNzd0NnRzRlF0U19UUjBycw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.androidauthority.com",
+      "title": "Android Authority"
+    }
+  }
+]
