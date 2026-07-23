@@ -1,15 +1,5 @@
 [
   {
-    "title": "«صفقة مجانية».. أهلى جدة يقترب من ضم نجم الهلال - المصري اليوم",
-    "description": "«صفقة مجانية».. أهلى جدة يقترب من ضم نجم الهلال  المصري اليوم",
-    "published date": "Thu, 23 Jul 2026 12:32:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNUWxITUd0ZktNSU5BMXBMNTRMV0RLUlNsM3BvazJIWEJ1M2tWTTRuckxXYjd5UXpZZkNHc2Y4OE5ELVZhY0JOYm1nbHNvOEwwQUxFZU1nSUU4RTYzLUlZ0gFjQVVfeXFMTUZDakk0M2RPbC1WVUstbENJRVFFZmVXeGpYaXoyNUQ4eWxBeUJ0TDd4cXFQX05yQWMxRkgwSGU3Y1dJVHcyN0tDZm5vRkVkc2tvNWVaVEFURm0yeGZwYU85TlhB?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.almasryalyoum.com",
-      "title": "المصري اليوم"
-    }
-  },
-  {
     "title": "محمد العويس.. كيف أعاد كأس العالم 2026 بريق حارس الهلال السعودي؟ - اليوم السابع",
     "description": "محمد العويس.. كيف أعاد كأس العالم 2026 بريق حارس الهلال السعودي؟  اليوم السابع",
     "published date": "Sun, 19 Jul 2026 16:13:00 GMT",
@@ -17,6 +7,16 @@
     "publisher": {
       "href": "https://www.youm7.com",
       "title": "اليوم السابع"
+    }
+  },
+  {
+    "title": "«صفقة مجانية».. أهلى جدة يقترب من ضم نجم الهلال - المصري اليوم",
+    "description": "«صفقة مجانية».. أهلى جدة يقترب من ضم نجم الهلال  المصري اليوم",
+    "published date": "Thu, 23 Jul 2026 12:32:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNUWxITUd0ZktNSU5BMXBMNTRMV0RLUlNsM3BvazJIWEJ1M2tWTTRuckxXYjd5UXpZZkNHc2Y4OE5ELVZhY0JOYm1nbHNvOEwwQUxFZU1nSUU4RTYzLUlZ0gFjQVVfeXFMTUZDakk0M2RPbC1WVUstbENJRVFFZmVXeGpYaXoyNUQ4eWxBeUJ0TDd4cXFQX05yQWMxRkgwSGU3Y1dJVHcyN0tDZm5vRkVkc2tvNWVaVEFURm0yeGZwYU85TlhB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.almasryalyoum.com",
+      "title": "المصري اليوم"
     }
   },
   {
@@ -260,16 +260,6 @@
     }
   },
   {
-    "title": "صراغ إماراتي برازيلي لضم مالكوم من الهلال - المصري اليوم",
-    "description": "صراغ إماراتي برازيلي لضم مالكوم من الهلال  المصري اليوم",
-    "published date": "Sat, 18 Jul 2026 00:12:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84S09KcThHQVFFYVhVa0g2T0tyVDZtTGVGR1ZXTTZUWEhlVGppeVRmODZKelQycXhnYlB0WTVSMUNxblJqcW9rVjRiVmNOejcxV0lyR1RpMGIxOGVBSm1J0gFjQVVfeXFMUEEwdzhXWVcxWVJ2N0cydlRMY2VjMDlybXpMdHIySmo1SGI1VkJrOG1nLUlYMXZhYmVvR3hFYVZzcXVhQ2NyU0NWeVc4UXQ5ek5BZkFvVUlrclI3Mno2NXptSkZr?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.almasryalyoum.com",
-      "title": "المصري اليوم"
-    }
-  },
-  {
     "title": "الهلال السعودى يطير إلى النمسا استعدادا للموسم الجديد - المصري اليوم",
     "description": "الهلال السعودى يطير إلى النمسا استعدادا للموسم الجديد  المصري اليوم",
     "published date": "Wed, 15 Jul 2026 08:52:00 GMT",
@@ -297,6 +287,16 @@
     "publisher": {
       "href": "https://arabic.cnn.com",
       "title": "CNN Arabic"
+    }
+  },
+  {
+    "title": "صراغ إماراتي برازيلي لضم مالكوم من الهلال - المصري اليوم",
+    "description": "صراغ إماراتي برازيلي لضم مالكوم من الهلال  المصري اليوم",
+    "published date": "Sat, 18 Jul 2026 00:12:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84S09KcThHQVFFYVhVa0g2T0tyVDZtTGVGR1ZXTTZUWEhlVGppeVRmODZKelQycXhnYlB0WTVSMUNxblJqcW9rVjRiVmNOejcxV0lyR1RpMGIxOGVBSm1J0gFjQVVfeXFMUEEwdzhXWVcxWVJ2N0cydlRMY2VjMDlybXpMdHIySmo1SGI1VkJrOG1nLUlYMXZhYmVvR3hFYVZzcXVhQ2NyU0NWeVc4UXQ5ek5BZkFvVUlrclI3Mno2NXptSkZr?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.almasryalyoum.com",
+      "title": "المصري اليوم"
     }
   },
   {
@@ -380,16 +380,6 @@
     }
   },
   {
-    "title": "محمد صلاح يُهدد انتقال رافينيا إلى الهلال السعودي - 365Scores",
-    "description": "محمد صلاح يُهدد انتقال رافينيا إلى الهلال السعودي  365Scores",
-    "published date": "Thu, 25 Jun 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNSy1MYS1Kc0c5RXBLdmNsSHZyRXNzaEVTNGRCbFdQZF85R3RCYzR1UldYNHZIRUd2RDRHNk1BYktxR1oyZS1rYlJrcmg5TkhOTFg2bWlpSUh6cFZWZXprT05kTWJMV0RyLV9fWHBSaHlXV09ZdmE3cFJoRXl3eUdBVk9DLTFtcWNrQ244dkFKSTNyYkhSdmRYbHFUZ0VIYjNTWnJpRDVJbmY4WUxsY0hkSXN0WnVtQWRQTExMZ0IwQTZac09EOENQS18wbHpNR2xCc0xrVlhYZmZqZWMtbTU3ekVTbjJWcWxaZndHUnZhdUxzQ0dXLWRZS0JqbTNndXFlRVpuc29YLXA4TWxkaUhFTEdfdkYtSGFmZXRnWUJ1M0h6Y0ZPY052TW5SYU9vRFkwR2FxSkp3cXVuekR2RXNDMDJfT0dRZTMyR1U5LUx6TV9ySTNyZUdab1EyVTVYOWM?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.365scores.com",
-      "title": "365Scores"
-    }
-  },
-  {
     "title": "بأمر من الوليد بن طلال.. تغيير آلية نقل دوري روشن في الموسم الجديد! - Kooora",
     "description": "بأمر من الوليد بن طلال.. تغيير آلية نقل دوري روشن في الموسم الجديد!  Kooora",
     "published date": "Sun, 03 May 2026 07:00:00 GMT",
@@ -397,6 +387,16 @@
     "publisher": {
       "href": "https://www.kooora.com",
       "title": "Kooora"
+    }
+  },
+  {
+    "title": "محمد صلاح يُهدد انتقال رافينيا إلى الهلال السعودي - 365Scores",
+    "description": "محمد صلاح يُهدد انتقال رافينيا إلى الهلال السعودي  365Scores",
+    "published date": "Thu, 25 Jun 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNSy1MYS1Kc0c5RXBLdmNsSHZyRXNzaEVTNGRCbFdQZF85R3RCYzR1UldYNHZIRUd2RDRHNk1BYktxR1oyZS1rYlJrcmg5TkhOTFg2bWlpSUh6cFZWZXprT05kTWJMV0RyLV9fWHBSaHlXV09ZdmE3cFJoRXl3eUdBVk9DLTFtcWNrQ244dkFKSTNyYkhSdmRYbHFUZ0VIYjNTWnJpRDVJbmY4WUxsY0hkSXN0WnVtQWRQTExMZ0IwQTZac09EOENQS18wbHpNR2xCc0xrVlhYZmZqZWMtbTU3ekVTbjJWcWxaZndHUnZhdUxzQ0dXLWRZS0JqbTNndXFlRVpuc29YLXA4TWxkaUhFTEdfdkYtSGFmZXRnWUJ1M0h6Y0ZPY052TW5SYU9vRFkwR2FxSkp3cXVuekR2RXNDMDJfT0dRZTMyR1U5LUx6TV9ySTNyZUdab1EyVTVYOWM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.365scores.com",
+      "title": "365Scores"
     }
   },
   {
@@ -550,20 +550,20 @@
     }
   },
   {
-    "title": "البعض يحتفل وآخرون ينددون .. بيان \"سامي الجابر رئيسًا للاتحاد السعودي\" يثير الجدل وأسطورة الهلال يعلق - Goal.com",
-    "description": "البعض يحتفل وآخرون ينددون .. بيان \"سامي الجابر رئيسًا للاتحاد السعودي\" يثير الجدل وأسطورة الهلال يعلق  Goal.com",
-    "published date": "Thu, 02 Jul 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikgRBVV95cUxQZjV4eF9OVkJ2Y1lQdXBaR3kxa1dMc1RXWVMzWXhtdFVCYi10TGVSLUtEbjRzX3lDZ2RTZ1MtRkEyWENjc2Q5MzJ4X2RYLW8ya1ZyZmNzeUtDaHVhN0xSUUx0aE5PT1o2d0RFQVZRNjM5RzJNcWVCTHctb3BuTEJubG1aaDBfdDNXRFV2VVVJelNZaHhWYThwSjBQMjdyby1mVlRXM0JrcHlLNi1QQWswWFRZX2RPSUVKQ0lfQjF6dGFzdlp1TmN5TTNTNURfMHVNQVFBRlB4dXg4S0FvdWljaDdUZGcxcEdfTmFlQlQwRnBxeEVadTl5MUVhOE9rVzZVVWtmVHd0QU9FX1ZZd2tucDNZVURiRmNUUEZXcnp3aTljSFZwSU5UNTN2ZlFLM1hzdXd6QmdfeGJZQUNXUzdIR2V4R1I5N2NReFlpMlJqME1YQlpFZ0tGMERxSUdwa3lfYmlsdUhZdHVKcHJ2X3hmT2IyNEh4bGRjeDgyZzBFSzB5TjJXaTJUSmVoQ0xIZzVOYmJDR0FxRHYtajZrT1pDa1RlbzMzUk5XSVQ5OWhpZW9nWUJubk1fM01IZWFHTnh2QjEyQ0tSNUVXbjJWei1lMnYxRFdJR3RLWTVWRDNyV01EcGtWVDJqX1V5ajA4b3Q0dXA5R0VYN1BhLXp5VXU0VWhYaXhzOUxYRW80ZDZ2WFhUZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "ما القنوات الناقلة لديربي الرياض بين النصر والهلال في دوري روشن السعودي 2025-2026؟ وكيف تشاهدها عبر الإنترنت؟ - Goal.com",
+    "description": "ما القنوات الناقلة لديربي الرياض بين النصر والهلال في دوري روشن السعودي 2025-2026؟ وكيف تشاهدها عبر الإنترنت؟  Goal.com",
+    "published date": "Tue, 12 May 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivgZBVV95cUxQZ0NRc0swSHd2c0dRM0dJNkdNVzdidDBDWW9BQTNmQ1ljSlpXMm5iRWhMWUI5RWRWOUNxWUVhWDJjTWFtTzdJRWpRaTQwZjYzdi1Jb2pmZmxsNHUxclRpdEcyNWNmSGJIMzdnSDFTUHBUR1BIdXhwbHUyYnZBVl9fTGwwUHczbGgzbEhOQnNHeW43eEo4RHAxVUFIOUJuWnhuVmUwUGFVN2NGWmJSM3FTNHFjREhjNVRrMFNLS3ZFTHlGanU4VFF6OVQ0U2o0Z0lqRUFJTkp1c1lQYkMxODBfZ1hxUVZLemVIRVVZSHBlcmZ3NmEyMjlLVmVpUDVsZHN5Zzc4eHBGVGRWWklIU00tMVZxRHRZcTBGa0FPRF9NbmR2RWR6UkRGYUFxajFIZDZaYzhxR0VrOXlBYmplM0VUeXVuTF9SMHRqQ2QyVXFsU0RKUjQ2M0NhMzNxdUlUa3UwN25QVzJqcEZlajMtYnRLTkt4ZXNqdmJEcFRHMHU4Ui1IRWhCQThRWFZpRnFJSEZVb2ZnX1BhNFlWajQ0TmpjazMtSmRMdGNneU0yWENreUU0eUtUQnloRF9qYTU2RGljZl9oUlVaTDAyYmhjV3RxR1V0cW9HLXBlMGFBRnMtY1R6WVZfSU91cWJEdjhUVENsRXF6RkxCQ3JLX3RDQ0gyME42RGVhVVc5XzNLWE5tM0VBTHBHbTJxU0xCZEg3V2kyV0h4REw5Z0RWR3M5d2JpV0dNMWVQUEFUV0NRc1NXT3ZyRThjV08za1JmNkdYVUVydmdGMkRCVWVmQW9DM1h1WEkya21BZDRCb2pHLW9qY3RUMTJJaGN5MmM0SlB4YlMtcUIyVkJQRENQVHFVdXFYdnkwT1ZMNFRMOGQ2MlVwdUtiRm42V2xWSHBrQzZjbkExaUxVNllNOV9GQnhTNEZJLXEyaE9HWVJoQkF4ZkFaRkctendWN2hscUJYUXNFNVA1S0xDdE9fRFhsakNIblBJUlR2UE56cHNpbk1SbV92R3gzek1iRG9TdGNkc1BpY3N1blFNYkVhcWxUay1nWnM4Znl4NWZZSGMyRHc1Yk9ZaUtCU0l1RG9sWklDRVhRUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.goal.com",
       "title": "Goal.com"
     }
   },
   {
-    "title": "ما القنوات الناقلة لديربي الرياض بين النصر والهلال في دوري روشن السعودي 2025-2026؟ وكيف تشاهدها عبر الإنترنت؟ - Goal.com",
-    "description": "ما القنوات الناقلة لديربي الرياض بين النصر والهلال في دوري روشن السعودي 2025-2026؟ وكيف تشاهدها عبر الإنترنت؟  Goal.com",
-    "published date": "Tue, 12 May 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivgZBVV95cUxQZ0NRc0swSHd2c0dRM0dJNkdNVzdidDBDWW9BQTNmQ1ljSlpXMm5iRWhMWUI5RWRWOUNxWUVhWDJjTWFtTzdJRWpRaTQwZjYzdi1Jb2pmZmxsNHUxclRpdEcyNWNmSGJIMzdnSDFTUHBUR1BIdXhwbHUyYnZBVl9fTGwwUHczbGgzbEhOQnNHeW43eEo4RHAxVUFIOUJuWnhuVmUwUGFVN2NGWmJSM3FTNHFjREhjNVRrMFNLS3ZFTHlGanU4VFF6OVQ0U2o0Z0lqRUFJTkp1c1lQYkMxODBfZ1hxUVZLemVIRVVZSHBlcmZ3NmEyMjlLVmVpUDVsZHN5Zzc4eHBGVGRWWklIU00tMVZxRHRZcTBGa0FPRF9NbmR2RWR6UkRGYUFxajFIZDZaYzhxR0VrOXlBYmplM0VUeXVuTF9SMHRqQ2QyVXFsU0RKUjQ2M0NhMzNxdUlUa3UwN25QVzJqcEZlajMtYnRLTkt4ZXNqdmJEcFRHMHU4Ui1IRWhCQThRWFZpRnFJSEZVb2ZnX1BhNFlWajQ0TmpjazMtSmRMdGNneU0yWENreUU0eUtUQnloRF9qYTU2RGljZl9oUlVaTDAyYmhjV3RxR1V0cW9HLXBlMGFBRnMtY1R6WVZfSU91cWJEdjhUVENsRXF6RkxCQ3JLX3RDQ0gyME42RGVhVVc5XzNLWE5tM0VBTHBHbTJxU0xCZEg3V2kyV0h4REw5Z0RWR3M5d2JpV0dNMWVQUEFUV0NRc1NXT3ZyRThjV08za1JmNkdYVUVydmdGMkRCVWVmQW9DM1h1WEkya21BZDRCb2pHLW9qY3RUMTJJaGN5MmM0SlB4YlMtcUIyVkJQRENQVHFVdXFYdnkwT1ZMNFRMOGQ2MlVwdUtiRm42V2xWSHBrQzZjbkExaUxVNllNOV9GQnhTNEZJLXEyaE9HWVJoQkF4ZkFaRkctendWN2hscUJYUXNFNVA1S0xDdE9fRFhsakNIblBJUlR2UE56cHNpbk1SbV92R3gzek1iRG9TdGNkc1BpY3N1blFNYkVhcWxUay1nWnM4Znl4NWZZSGMyRHc1Yk9ZaUtCU0l1RG9sWklDRVhRUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "البعض يحتفل وآخرون ينددون .. بيان \"سامي الجابر رئيسًا للاتحاد السعودي\" يثير الجدل وأسطورة الهلال يعلق - Goal.com",
+    "description": "البعض يحتفل وآخرون ينددون .. بيان \"سامي الجابر رئيسًا للاتحاد السعودي\" يثير الجدل وأسطورة الهلال يعلق  Goal.com",
+    "published date": "Thu, 02 Jul 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikgRBVV95cUxQZjV4eF9OVkJ2Y1lQdXBaR3kxa1dMc1RXWVMzWXhtdFVCYi10TGVSLUtEbjRzX3lDZ2RTZ1MtRkEyWENjc2Q5MzJ4X2RYLW8ya1ZyZmNzeUtDaHVhN0xSUUx0aE5PT1o2d0RFQVZRNjM5RzJNcWVCTHctb3BuTEJubG1aaDBfdDNXRFV2VVVJelNZaHhWYThwSjBQMjdyby1mVlRXM0JrcHlLNi1QQWswWFRZX2RPSUVKQ0lfQjF6dGFzdlp1TmN5TTNTNURfMHVNQVFBRlB4dXg4S0FvdWljaDdUZGcxcEdfTmFlQlQwRnBxeEVadTl5MUVhOE9rVzZVVWtmVHd0QU9FX1ZZd2tucDNZVURiRmNUUEZXcnp3aTljSFZwSU5UNTN2ZlFLM1hzdXd6QmdfeGJZQUNXUzdIR2V4R1I5N2NReFlpMlJqME1YQlpFZ0tGMERxSUdwa3lfYmlsdUhZdHVKcHJ2X3hmT2IyNEh4bGRjeDgyZzBFSzB5TjJXaTJUSmVoQ0xIZzVOYmJDR0FxRHYtajZrT1pDa1RlbzMzUk5XSVQ5OWhpZW9nWUJubk1fM01IZWFHTnh2QjEyQ0tSNUVXbjJWei1lMnYxRFdJR3RLWTVWRDNyV01EcGtWVDJqX1V5ajA4b3Q0dXA5R0VYN1BhLXp5VXU0VWhYaXhzOUxYRW80ZDZ2WFhUZw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.goal.com",
       "title": "Goal.com"
