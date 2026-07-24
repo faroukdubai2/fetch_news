@@ -2,7 +2,7 @@
   {
     "title": "رابطة الدوري السعودي للمحترفين تحدد موعد إعلان الفائزين بجوائزها - spl.com.sa",
     "description": "رابطة الدوري السعودي للمحترفين تحدد موعد إعلان الفائزين بجوائزها  spl.com.sa",
-    "published date": "Thu, 23 Jul 2026 08:00:00 GMT",
+    "published date": "Thu, 23 Jul 2026 21:00:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdnkwbzJfM0xqSlRTaXVFeXFTVGNwQl9pY3Q3MjRodGdDUjB0RkI5V3Y4TVB4d0g1T0Ixdkl6N21tMTktS1VDOGxNRl9xcHNWLW9MUjRPcEpYQ3NIT3ExaElhdjVSMFNqLVhsS25fMXN4OXBZbXNaVXRzdjZnWnRrOXJNMXJ3anBLY251dTBJRE90Xy1VbkR4M2dmNFA3NjgzU05lbldZeE1mY2ROQ3luZlpZUGV3SE53OGJsQ2dkTl8?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.spl.com.sa",
@@ -120,16 +120,6 @@
     }
   },
   {
-    "title": "مواعيد الجولات 30–33 وجدولة المباريات المؤجلة - spl.com.sa",
-    "description": "مواعيد الجولات 30–33 وجدولة المباريات المؤجلة  spl.com.sa",
-    "published date": "Wed, 22 Jul 2026 15:12:41 GMT",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VMUxYUlNlbTEyZUpRYmFfSlltdXhGSXRvUzd2ZDVRYjJOekRrUXYyOWRteVgyZFRhV3hSVWhMTnJHeDFPMUVrczhxMnRRMktDcExyWTJmUUo1aVpDdVJqUE5oRXp3WTIyYzM5SVdSZHdYX3RKQ2x6SEJVeVBhUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.spl.com.sa",
-      "title": "spl.com.sa"
-    }
-  },
-  {
     "title": "الدوري السعودي الممتاز لكرة قدم الصالات تحت 20 - الاتحاد السعودي لكرة القدم",
     "description": "الدوري السعودي الممتاز لكرة قدم الصالات تحت 20  الاتحاد السعودي لكرة القدم",
     "published date": "Sat, 03 Jan 2026 14:25:31 GMT",
@@ -137,6 +127,16 @@
     "publisher": {
       "href": "https://www.saff.com.sa",
       "title": "الاتحاد السعودي لكرة القدم"
+    }
+  },
+  {
+    "title": "مواعيد الجولات 30–33 وجدولة المباريات المؤجلة - spl.com.sa",
+    "description": "مواعيد الجولات 30–33 وجدولة المباريات المؤجلة  spl.com.sa",
+    "published date": "Wed, 22 Jul 2026 15:12:41 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VMUxYUlNlbTEyZUpRYmFfSlltdXhGSXRvUzd2ZDVRYjJOekRrUXYyOWRteVgyZFRhV3hSVWhMTnJHeDFPMUVrczhxMnRRMktDcExyWTJmUUo1aVpDdVJqUE5oRXp3WTIyYzM5SVdSZHdYX3RKQ2x6SEJVeVBhUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.spl.com.sa",
+      "title": "spl.com.sa"
     }
   },
   {
@@ -320,16 +320,6 @@
     }
   },
   {
-    "title": "الهلال يحسم الجدل بشأن كريم بنزيما.. حقيقة تحويله إلى القائمة الآسيوية - الهيئة الوطنية للإعلام",
-    "description": "الهلال يحسم الجدل بشأن كريم بنزيما.. حقيقة تحويله إلى القائمة الآسيوية  الهيئة الوطنية للإعلام",
-    "published date": "Thu, 23 Jul 2026 21:29:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiugRBVV95cUxQUkd3SG5rQ1ZjWXdwMUlhZlhLSlRJNmJoSHF6TTlOS20xUHp0bUJDZHJiOEdoNnBmUU5Ga29Qa01sYWw2ckRudDVuZTBLUnplM1dmV3Q4M2tmY1U4dTdWU1dodXRSVVFIbktfakx3TVNSRVdMMnF0U0RIN240NVlsNUR2VVF6dmV0ZVo3alRNT0g5SFNxQ3FhcjMxcTdHMm14Z2lUM3JQS1pFaHBpNGNnNmU3d2xzUFBHWTZGVzZBdjlkVFpnUmFfVVV3Wm5DNkM1ME1lbkRYQnNac0hFaEllNEQ3MnlSd1RqUHl1YUowM3FtNnkzZ3FDS2ZSSGluYWZibWlEbkhFUEJENzdGM2RtZmd5aGFYYW9BSEtROGJ1aGFnUzc0ZlZWOVJWOGp1SkVuQjdqMHFOTTJsZzJIMi1Na1VheXVZdlNJRkg0SWFzZUNfLUpmVVRXbWcyNk5XTUxpbGRHTDBMNG5lVHl3WkxuVDc2d3JVbG5mQmNyMTdENWNQcUN3TnN5R2xrazRKQlBOeDVLNUp2R2szckdrRGRxbktzcUt4bENrejlLRERxdDROZi1QN0FFVGlNMlRsX1labEs0aW51U0NmbVgtZDRibDVrTTZtUnEwQlF4RGJTMTlWVVZ0bnlZdjc5UGtzaVlEa0RZVWhYaUJqU09CZk93bGkzb04weVVvZ0w1TjljNU0wOUNEck9ZOFpRazdhUWRqeG02VjFVcEJlYVNEM1lzMnZremo3a2lfM2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.maspero.eg",
-      "title": "الهيئة الوطنية للإعلام"
-    }
-  },
-  {
     "title": "بعد تعادل الهلال والنصر.. هذا ما يحتاجه كل فريق لحسم لقب الدوري - CNN Arabic",
     "description": "بعد تعادل الهلال والنصر.. هذا ما يحتاجه كل فريق لحسم لقب الدوري  CNN Arabic",
     "published date": "Tue, 12 May 2026 07:00:00 GMT",
@@ -410,6 +400,16 @@
     }
   },
   {
+    "title": "الهلال يحسم الجدل بشأن كريم بنزيما.. حقيقة تحويله إلى القائمة الآسيوية - الهيئة الوطنية للإعلام",
+    "description": "الهلال يحسم الجدل بشأن كريم بنزيما.. حقيقة تحويله إلى القائمة الآسيوية  الهيئة الوطنية للإعلام",
+    "published date": "Thu, 23 Jul 2026 21:29:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiugRBVV95cUxQUkd3SG5rQ1ZjWXdwMUlhZlhLSlRJNmJoSHF6TTlOS20xUHp0bUJDZHJiOEdoNnBmUU5Ga29Qa01sYWw2ckRudDVuZTBLUnplM1dmV3Q4M2tmY1U4dTdWU1dodXRSVVFIbktfakx3TVNSRVdMMnF0U0RIN240NVlsNUR2VVF6dmV0ZVo3alRNT0g5SFNxQ3FhcjMxcTdHMm14Z2lUM3JQS1pFaHBpNGNnNmU3d2xzUFBHWTZGVzZBdjlkVFpnUmFfVVV3Wm5DNkM1ME1lbkRYQnNac0hFaEllNEQ3MnlSd1RqUHl1YUowM3FtNnkzZ3FDS2ZSSGluYWZibWlEbkhFUEJENzdGM2RtZmd5aGFYYW9BSEtROGJ1aGFnUzc0ZlZWOVJWOGp1SkVuQjdqMHFOTTJsZzJIMi1Na1VheXVZdlNJRkg0SWFzZUNfLUpmVVRXbWcyNk5XTUxpbGRHTDBMNG5lVHl3WkxuVDc2d3JVbG5mQmNyMTdENWNQcUN3TnN5R2xrazRKQlBOeDVLNUp2R2szckdrRGRxbktzcUt4bENrejlLRERxdDROZi1QN0FFVGlNMlRsX1labEs0aW51U0NmbVgtZDRibDVrTTZtUnEwQlF4RGJTMTlWVVZ0bnlZdjc5UGtzaVlEa0RZVWhYaUJqU09CZk93bGkzb04weVVvZ0w1TjljNU0wOUNEck9ZOFpRazdhUWRqeG02VjFVcEJlYVNEM1lzMnZremo3a2lfM2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.maspero.eg",
+      "title": "الهيئة الوطنية للإعلام"
+    }
+  },
+  {
     "title": "الدوري السعودي يعلن عن المرشحين لجائزة أفضل لاعب - 365Scores",
     "description": "الدوري السعودي يعلن عن المرشحين لجائزة أفضل لاعب  365Scores",
     "published date": "Sun, 17 May 2026 07:00:00 GMT",
@@ -440,16 +440,6 @@
     }
   },
   {
-    "title": "مواجهات قوية وتأجيل 3 مباريات.. قراءة في \"الجولة 28\" بدوري روشن - أخبار 24",
-    "description": "مواجهات قوية وتأجيل 3 مباريات.. قراءة في \"الجولة 28\" بدوري روشن  أخبار 24",
-    "published date": "Mon, 06 Apr 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi4gRBVV95cUxQdVBsYUNwRXBHblhvMjNHQkdlcWdmT21VemhiWnV2RzQ1RnV4V013TlVFS01DUnJNZGttNzJoNG9lMGI0WnhocU5MQkVzQmsxMjZjdlpVUmhrdnBKaTFDWnJ0LXNjOWt4dGRYZFM1X01xdUlSbkpQNEhlMld6M2dvRksyNUNyRmJMdFJSdEM5X09kXzlIWXNOVGtYQVJMYTdUR1BJNmJPUlJDcjRwX1VqdEZlOUZNNEhUaEo2ZWk2OWlqT0taVUZKenkxMHFTRTJWTUdlNU9zWDc2WHBrRlVsNUlqU3Fwa3BxamxSSzlrYzlDOEVvbEFuTC1oX0xrQk5xTWUxYmU1RkVYUk9TdHJpckZuMmZLVzlldDlyRFF2bGxBUTkzXzZtRE1oY0IwSU5wWTh2bVk2VnUtVThZY2kwRDMxa2lRVURxRWFIWlIzNDNYN3FvaDJobUZKaXFLaTRrVEV1RWdwQ1NfLXN1M05yMTJ6RTl2TlZkQVg1OWZROUFjbk1BS1N5XzBTQlA5OVhYcUFJZzkwRk9BSlRWbHlWNTRaUjFpT0tJMmppWnBiODc4SnBQOFRQQkhhbW5DVXFxdE5pNlJqbXoyblFjMFlkT0Izb3FlMU1sb3hWYmVuNVBJeHQtb2Z2QzhfaWJRajNuSFRfc0ZTUVpKRDlmeXA0LXMwMFFYUFJFWjdaTE5wLTVabnNEM1U3V0FWYlhmaG1LYy05YjNGMV9NNXJLeHlkVDJpVUdaV3JDdWZnTWdtZ0c4cFZZVThxVExxZ0FrTDl4VWdkWDVGRGV4S2c5a2tGUmZB?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.akhbaar24.com",
-      "title": "أخبار 24"
-    }
-  },
-  {
     "title": "الدوري السعودي: الهلال لتعزيز آمال اللقب بنقاط نيوم - الشرق الأوسط",
     "description": "الدوري السعودي: الهلال لتعزيز آمال اللقب بنقاط نيوم  الشرق الأوسط",
     "published date": "Fri, 15 May 2026 07:00:00 GMT",
@@ -467,16 +457,6 @@
     "publisher": {
       "href": "https://www.alyaum.com",
       "title": "alyaum"
-    }
-  },
-  {
-    "title": "الدوري السعودي يحتل المركز الـخامس في كأس العالم بمشاركة 49 لاعبا - الاقتصادية",
-    "description": "الدوري السعودي يحتل المركز الـخامس في كأس العالم بمشاركة 49 لاعبا  الاقتصادية",
-    "published date": "Wed, 10 Jun 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqwRBVV95cUxNTktpUEY3U21Db1lla2xsajNFNXltYzJEdTZqZVh4dVJjZWNoVTUyWlVCUTFZckNMZ1dGWFBJUUVLbndBbEllSVgzd3V0cGcxMVB2Z1BaY1RUTkFhV2FacERTRVJvc1UzWEVFdlF5Nm9SWnlWdzdXQjJLdWQzMXVXRDhIb0tKTmZCSkp5T2xEMEZZNkY3SXRDQ2xvWHZOa285UmN6eWhJZkg1cVBVMjRzQkZmR05QYUhEUmxNeS1wZ0dNaEdVNFJjTkRnYjhxLUtrdnZvMHFRMkhUcGhLOWs2b2xCOEZrZFhfbjJ3b3FnV281Qi00aEJ0YTA2RldPTWcyODlOQkIwdm1KTElSNW0ySGQ3VjlYRFhXUVl2U1BqYm8tSmpMQm5kWjZ4bzl0aWl5dnhtY1JUd1BKWlowdXF6aVVDNFVHVTd2X3dtX2M0dkdaZ1BlQ3pERVFkbl9sY3g2UlE0N193TjFjRW10SkxTRzlLTXJNcEl5Xy1JZ1c2ZU9xRjlfWjFFN1NWWEpPRC05dHRzdGh4c1ZWaWRjY2tfQzRDSTh1T29YX1FUS1dYbUdySGo0NF9OZ1NHS3Zxd1JtMU1jeHY5UlBQc196YzBLOVhHMEhjcy02RzZ1dGFvdm03UHcxXzN2Uk9zZ0pHRUJ6MTgwb2gtZVhqb1Z5TVB1ZC1TbTkyS2hxMFJJQklnLXhtVU5pd2UwQXFjTVFBZjFHaUlEVXg3Y3VtVFU?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.aleqt.com",
-      "title": "الاقتصادية"
     }
   },
   {
@@ -500,13 +480,13 @@
     }
   },
   {
-    "title": "3 نجوم من الأهلى على أعتاب الدورى السعودى بالموسم المقبل.. تريزيجيه الأقرب - اليوم السابع",
-    "description": "3 نجوم من الأهلى على أعتاب الدورى السعودى بالموسم المقبل.. تريزيجيه الأقرب  اليوم السابع",
-    "published date": "Mon, 29 Jun 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxNcEoteDFVUzA1Umw3Q2kyRWZ6MzNYcXRLMWlmLVVtOUgxRGlEdFFyZ05oanBEX1IxalhJblhjcWptb0RNZzh5dHNYaDJsSGVmNHpLVGFCSmRlbEhxWFdPWDJPZVlrQXdBakN2emY2MTRucDRIc3A5WnNVOHAzZlg2TFNDMkl4YmVwWUNXNFEtTnNxWnVtbzFNWjU3b3d4RDVjc3FpMjZNVWZBWGdBcVd5QjlsODhEYVF0eFBybzFDWTBER2YxZ2hCRENLcmNWNmFQaERjQnVYSnczZ2paeHJqSWQ4TnR4T2R6R1ljc2hOT3VhNlNQcE52RHBBeVg4X3pfdVlPUGI1bE04Y0tvWHVUdGVQNG9jeURWd3Zlam90aW5fMkFyUlZQQ3FyRnlWWW1ZYVh4Ql9BNmxoOFlFMnNCLUs1X2JPTWFqUkJqdmk3YmJqcTlVUDNHY2RpRmpEYlFSSE9MSGJnd2xWSTVrVzdZZ2lXMkdEYzg2Zjk1dmpsZ0diU2lERUl2blBaSHI2MTd2aDA2d19CUjQ5bS04ajBhUlJvdU1fTUpNckNoRU02LWRJNUY2V1ZxNEg5MUVaYTJuellhLXRlejJNMWU2akJ1TlJsSW9WdTjSAdIDQVVfeXFMTWRCZ3Z3eUpTQ1UxWEU0WUR3NFFnbjFnNTNUdVR4S3RUZU14UmtiUXV3Q043VTFhNnpuQ2lsNVdBNTE1TXc5VC1mM3VFd3AtdVBrZUJfNTE3X05KUkp5d0l4RkEtSy01ZGk4emFLOThaRjB0bzNTTWxEY3RuZndBRHlSSVl6R3FuYmNGbGtTMnhrUlo2aHhkWUZ5TDFJY211R2JZZFpZTGhhWkZ4Mkk0aFNYYlpmQUQtd0FMQzhyajRjUjAtajJ5dUMyV1Q4ODNkYllwMDdSSDU4SUx6SU1WeFExZnVOTm9acDVuSk9SNzVxRTlKZ3dpTHJDV2R4SWlTcmNUOURwcDBVZkhOYU9hcktpZVRCTTNTSmRnR2xHUVlCX1Y1Q3dZMjQtdXhFUEhmRE1BTmpTNktTVWNkZTFvaTVrbHI5SWNEd3VhNW5WMEYxS2hDZndsdjcxckRJazVBNGhUOXZzVEJzZkVyUG5iVG5ibEpVZGR1OWdrY1BuNEx5Y241YWJ4cm5yYU1xWlJmam1WaVJybWUyYTlKU1ZmRzU2Z1BleFRvcEZhRF9ZYnZxaEtUSHhsX3ZFcXlBZTFWS0lqbHhzems3RnVRdFdYTF9hdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "الدوري السعودي يحتل المركز الـخامس في كأس العالم بمشاركة 49 لاعبا - الاقتصادية",
+    "description": "الدوري السعودي يحتل المركز الـخامس في كأس العالم بمشاركة 49 لاعبا  الاقتصادية",
+    "published date": "Wed, 10 Jun 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqwRBVV95cUxNTktpUEY3U21Db1lla2xsajNFNXltYzJEdTZqZVh4dVJjZWNoVTUyWlVCUTFZckNMZ1dGWFBJUUVLbndBbEllSVgzd3V0cGcxMVB2Z1BaY1RUTkFhV2FacERTRVJvc1UzWEVFdlF5Nm9SWnlWdzdXQjJLdWQzMXVXRDhIb0tKTmZCSkp5T2xEMEZZNkY3SXRDQ2xvWHZOa285UmN6eWhJZkg1cVBVMjRzQkZmR05QYUhEUmxNeS1wZ0dNaEdVNFJjTkRnYjhxLUtrdnZvMHFRMkhUcGhLOWs2b2xCOEZrZFhfbjJ3b3FnV281Qi00aEJ0YTA2RldPTWcyODlOQkIwdm1KTElSNW0ySGQ3VjlYRFhXUVl2U1BqYm8tSmpMQm5kWjZ4bzl0aWl5dnhtY1JUd1BKWlowdXF6aVVDNFVHVTd2X3dtX2M0dkdaZ1BlQ3pERVFkbl9sY3g2UlE0N193TjFjRW10SkxTRzlLTXJNcEl5Xy1JZ1c2ZU9xRjlfWjFFN1NWWEpPRC05dHRzdGh4c1ZWaWRjY2tfQzRDSTh1T29YX1FUS1dYbUdySGo0NF9OZ1NHS3Zxd1JtMU1jeHY5UlBQc196YzBLOVhHMEhjcy02RzZ1dGFvdm03UHcxXzN2Uk9zZ0pHRUJ6MTgwb2gtZVhqb1Z5TVB1ZC1TbTkyS2hxMFJJQklnLXhtVU5pd2UwQXFjTVFBZjFHaUlEVXg3Y3VtVFU?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.youm7.com",
-      "title": "اليوم السابع"
+      "href": "https://www.aleqt.com",
+      "title": "الاقتصادية"
     }
   },
   {
@@ -514,6 +494,16 @@
     "description": "ترتيب الدوري السعودي.. النصر على بُعد خطوة من حسم اللقب رسميًا أمام ضمك  اليوم السابع",
     "published date": "Tue, 12 May 2026 07:00:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxObDlxdzItSklLZjVpd0Nna3JJbEFSRGM2X1VFNl9nU050b012WC1zWUxXRFhrMVpwcFowOHRMSm9EcEdOOUw1ZDJTMU5UUjVMVnI1emVXQ194ZjRQckhkb2p1MUt4S0NnZnRvOU1lYzlVbGRCYXFuajNQNXJqZ25Lb19XTzZHZUVPQ1BHS2xLZHNybFNLLTY3bFE2MGlDcEhBZFlVeVpUdnJsU1M1cUhDaU5WYjA0WGZPV0UzdXZyLTAySnZEUHhKRk5aX3doMTgxTnU2TjVxbUh3ZXpPV0Q1SVB4ZUU1ay1zalNEdDhzbWdaVTY0TVZLRU9zTnJWd3JTcUMxUHM2OFUzZm5qbHF2dkJoNFVNcUdDbEFqMmg0N0RVVjJMblR2eENmclhpNW5sN2tiRlJnbVFOdlZSTDhKZFB3elVKcDNuUWdnMl9iSXZhczg5TkhYanNTd3Rub0hMb1EyTkY0ODFfLTBxN1FPc01QQnBvNlc2RC01d3lSRDBCYjJ4UWd3d1JOM1NaY1p4LVIwaFA4TGNfMm1MZVlLMVBhZFZ6cVFFWFlEMnpGdEppS09mdDh1d0p2emNhYk5YSzBjeGF30gHAA0FVX3lxTE8xYTFpM1hyUGZfLTQ5WGp2Q1M0MTM4OHd0dmxwR0YtSDIwelVtZXQyeWxxY0paeVpUVHB5Rkg0dkM1TU9wRG1meU5pcE5WQ2Y2dGttT0dHTG80SHBlQklCYTNyM0NCeVJ6OUZqaHZqTkp5aHlnMEQ5aVc4d2tPdnNQT2lLN21xRVBncGNRWHhZRDZzY3RuVjdFQXlYQzVtRFk2eWh3RzNDc2p2Ujg5dXVEckdjMHNiamdzenFvUGpISXpqVGtLcUdqNWRPV3FmbVh5MDRIUkU2TU4ycGc2SVljcVJLZXhEOWVzM3hTUklZVTUzSTROSmFhWklER2c3ZTNwckZ3Q0RoUFctZ3FyVGtRVjRZQVJTLVZ5NDBiNVBHV3JIbHVvMUJ1b1ZNNWI0djRRRHZSbnJQZWNvbGJCSlpjbXlpbDAtUFZVaW5wM1VfT2pMbXE3TUp5WGxJWjNuT1Y2dGJaRHlLZ05oV29NSmNIZ3J4MUdGWWlpcXNoVFVSeW1DTGNSdWF2eEgzN0tOa1dyZVdicUtINXhFQjB0N1hxdndTSlRWMEJ3cDRKeVBXYTZ6bVlmbzhQN0dDUWd4WE0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.youm7.com",
+      "title": "اليوم السابع"
+    }
+  },
+  {
+    "title": "3 نجوم من الأهلى على أعتاب الدورى السعودى بالموسم المقبل.. تريزيجيه الأقرب - اليوم السابع",
+    "description": "3 نجوم من الأهلى على أعتاب الدورى السعودى بالموسم المقبل.. تريزيجيه الأقرب  اليوم السابع",
+    "published date": "Mon, 29 Jun 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxNcEoteDFVUzA1Umw3Q2kyRWZ6MzNYcXRLMWlmLVVtOUgxRGlEdFFyZ05oanBEX1IxalhJblhjcWptb0RNZzh5dHNYaDJsSGVmNHpLVGFCSmRlbEhxWFdPWDJPZVlrQXdBakN2emY2MTRucDRIc3A5WnNVOHAzZlg2TFNDMkl4YmVwWUNXNFEtTnNxWnVtbzFNWjU3b3d4RDVjc3FpMjZNVWZBWGdBcVd5QjlsODhEYVF0eFBybzFDWTBER2YxZ2hCRENLcmNWNmFQaERjQnVYSnczZ2paeHJqSWQ4TnR4T2R6R1ljc2hOT3VhNlNQcE52RHBBeVg4X3pfdVlPUGI1bE04Y0tvWHVUdGVQNG9jeURWd3Zlam90aW5fMkFyUlZQQ3FyRnlWWW1ZYVh4Ql9BNmxoOFlFMnNCLUs1X2JPTWFqUkJqdmk3YmJqcTlVUDNHY2RpRmpEYlFSSE9MSGJnd2xWSTVrVzdZZ2lXMkdEYzg2Zjk1dmpsZ0diU2lERUl2blBaSHI2MTd2aDA2d19CUjQ5bS04ajBhUlJvdU1fTUpNckNoRU02LWRJNUY2V1ZxNEg5MUVaYTJuellhLXRlejJNMWU2akJ1TlJsSW9WdTjSAdIDQVVfeXFMTWRCZ3Z3eUpTQ1UxWEU0WUR3NFFnbjFnNTNUdVR4S3RUZU14UmtiUXV3Q043VTFhNnpuQ2lsNVdBNTE1TXc5VC1mM3VFd3AtdVBrZUJfNTE3X05KUkp5d0l4RkEtSy01ZGk4emFLOThaRjB0bzNTTWxEY3RuZndBRHlSSVl6R3FuYmNGbGtTMnhrUlo2aHhkWUZ5TDFJY211R2JZZFpZTGhhWkZ4Mkk0aFNYYlpmQUQtd0FMQzhyajRjUjAtajJ5dUMyV1Q4ODNkYllwMDdSSDU4SUx6SU1WeFExZnVOTm9acDVuSk9SNzVxRTlKZ3dpTHJDV2R4SWlTcmNUOURwcDBVZkhOYU9hcktpZVRCTTNTSmRnR2xHUVlCX1Y1Q3dZMjQtdXhFUEhmRE1BTmpTNktTVWNkZTFvaTVrbHI5SWNEd3VhNW5WMEYxS2hDZndsdjcxckRJazVBNGhUOXZzVEJzZkVyUG5iVG5ibEpVZGR1OWdrY1BuNEx5Y241YWJ4cm5yYU1xWlJmam1WaVJybWUyYTlKU1ZmRzU2Z1BleFRvcEZhRF9ZYnZxaEtUSHhsX3ZFcXlBZTFWS0lqbHhzems3RnVRdFdYTF9hdw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.youm7.com",
       "title": "اليوم السابع"
@@ -537,6 +527,16 @@
     "publisher": {
       "href": "https://www.goal.com",
       "title": "Goal.com"
+    }
+  },
+  {
+    "title": "مواجهات قوية وتأجيل 3 مباريات.. قراءة في \"الجولة 28\" بدوري روشن - أخبار 24",
+    "description": "مواجهات قوية وتأجيل 3 مباريات.. قراءة في \"الجولة 28\" بدوري روشن  أخبار 24",
+    "published date": "Mon, 06 Apr 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi4gRBVV95cUxQdVBsYUNwRXBHblhvMjNHQkdlcWdmT21VemhiWnV2RzQ1RnV4V013TlVFS01DUnJNZGttNzJoNG9lMGI0WnhocU5MQkVzQmsxMjZjdlpVUmhrdnBKaTFDWnJ0LXNjOWt4dGRYZFM1X01xdUlSbkpQNEhlMld6M2dvRksyNUNyRmJMdFJSdEM5X09kXzlIWXNOVGtYQVJMYTdUR1BJNmJPUlJDcjRwX1VqdEZlOUZNNEhUaEo2ZWk2OWlqT0taVUZKenkxMHFTRTJWTUdlNU9zWDc2WHBrRlVsNUlqU3Fwa3BxamxSSzlrYzlDOEVvbEFuTC1oX0xrQk5xTWUxYmU1RkVYUk9TdHJpckZuMmZLVzlldDlyRFF2bGxBUTkzXzZtRE1oY0IwSU5wWTh2bVk2VnUtVThZY2kwRDMxa2lRVURxRWFIWlIzNDNYN3FvaDJobUZKaXFLaTRrVEV1RWdwQ1NfLXN1M05yMTJ6RTl2TlZkQVg1OWZROUFjbk1BS1N5XzBTQlA5OVhYcUFJZzkwRk9BSlRWbHlWNTRaUjFpT0tJMmppWnBiODc4SnBQOFRQQkhhbW5DVXFxdE5pNlJqbXoyblFjMFlkT0Izb3FlMU1sb3hWYmVuNVBJeHQtb2Z2QzhfaWJRajNuSFRfc0ZTUVpKRDlmeXA0LXMwMFFYUFJFWjdaTE5wLTVabnNEM1U3V0FWYlhmaG1LYy05YjNGMV9NNXJLeHlkVDJpVUdaV3JDdWZnTWdtZ0c4cFZZVThxVExxZ0FrTDl4VWdkWDVGRGV4S2c5a2tGUmZB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.akhbaar24.com",
+      "title": "أخبار 24"
     }
   },
   {
@@ -580,16 +580,6 @@
     }
   },
   {
-    "title": "صفقة تريزيجيه.. كهربا أفضل هداف مصرى فى تاريخ الدورى السعودى.. إنفوجراف - اليوم السابع",
-    "description": "صفقة تريزيجيه.. كهربا أفضل هداف مصرى فى تاريخ الدورى السعودى.. إنفوجراف  اليوم السابع",
-    "published date": "Thu, 16 Jul 2026 07:57:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxQTkhSOWhUR1JHZGNzckNQYWliOTV2U0VJRmg5ZEQxN0NRRHkxdW1Id1BVQ0dCNzR1VWp5WXFaR3B1MUd1ZVo2YXVud3RmUEFnUERIcnN1MGlhZXBkcTBiNmpZdy0yTkprV005UkpHZWNYSU8weDBZZzF3NGp5UEFPWXlrSWNhZkF0MEdUd096UmgxT2hSdElqMEtJNlhVMTVKVU1RMWVWUEpsZzZUdEsxZndZc3RuSXNVVWtHc2I3VldXc0IyNjY2VU53SDdEYVNHN2wweVFNdjdaM3lTQk9jbFNGLURnRHg2UFdhLVVpb0QySjB0M1A1azVzMTdoenNoOUVFYjE4SEl2WlVsekVpM2dXTV9WNjFFOXZMbHZ5eHdlbWJSRGRvaTd5RlBkVjFtNzZRSEtPNF80NFNCajNKLUUtLV9DdkV5NjQ0WUNQcHg4YkIwQlJ1bWRhUlFkTmVJMUp6RFdEbFVDWEx1UzNsaF9iTERrYmZ5UGc5Mm9DNDB4NHhXTFhRaVcxYWZKb240b3lma0RNZi1xSXZZS0g0cmRzbXhyUWM0OElvMUhuanp2Q256X2FGTWVEcjBCWEtubEtFMGxPZGZ4NU9CSVR6SVlIWm1CLURRdGg5QWhESkNwbl9QdEtha2g1U194d9IB6ANBVV95cUxNY1lEejZ5MEdFcUtwZzBMOXpKelIwa19jeUc3c2poeWFFbUdNNkNGSGtGNEotbTh5bVUtWUF1NVNhdG1JVVVpUF9JVHFpRXF4cmdST2dCUVdnbG5QQWR5VHVSQkliMHBDOVlaU18xVWFsOHhOYkNTOHF2UmE4SWkyS1p1RFB0OGRyaXc3LTc3dDhDZzhBSlJOR2daS01GS3RxbzVlcXp3d0pWSXBybUc0UTdyTEdsalJCc09TTFp4MUtkbDBIWTNGeVRJbS1MQXppN1BJUHBnY0llc2dMcDExVDlFcVhPc2lNdjhrcTZaNC1uVEoxWEpmMXlpWWJQcnNQNDduTDNUUUR6R1VfbVVzQ21XRjJBcHR6R2VrNy1ZQzBsUlJ2T2ZDRzNkYnFsRlduRE1DT1ZiNXVrU2s0TDdnU3p6RzBicXBIdWZkR0dfZjRXYjN0UjV6bGZfaUE0TDBrZmJaOHFLT2pWV255cVA4QXlzajBITmVYd2kwaExyeVhabnI4UHFfdVo0dlIxQjRiNGoyV2ZvR1JWcDdpanNQVW5LdEhHSkE0UHU0N0F1TDE5b1Jlb2U2bVc3SC1NZGNueENqeTFfSTIxNkg1QmtaOTNYVU5RdkhCQjFwOFV2UWlMSHM1TnU0cQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.youm7.com",
-      "title": "اليوم السابع"
-    }
-  },
-  {
     "title": "هل يكسر النصر لعنته؟ مفارقة درامية تشعل مواجهة حسم الدوري السعودي - Kooora",
     "description": "هل يكسر النصر لعنته؟ مفارقة درامية تشعل مواجهة حسم الدوري السعودي  Kooora",
     "published date": "Wed, 20 May 2026 07:00:00 GMT",
@@ -597,6 +587,16 @@
     "publisher": {
       "href": "https://www.kooora.com",
       "title": "Kooora"
+    }
+  },
+  {
+    "title": "صفقة تريزيجيه.. كهربا أفضل هداف مصرى فى تاريخ الدورى السعودى.. إنفوجراف - اليوم السابع",
+    "description": "صفقة تريزيجيه.. كهربا أفضل هداف مصرى فى تاريخ الدورى السعودى.. إنفوجراف  اليوم السابع",
+    "published date": "Thu, 16 Jul 2026 07:57:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxQTkhSOWhUR1JHZGNzckNQYWliOTV2U0VJRmg5ZEQxN0NRRHkxdW1Id1BVQ0dCNzR1VWp5WXFaR3B1MUd1ZVo2YXVud3RmUEFnUERIcnN1MGlhZXBkcTBiNmpZdy0yTkprV005UkpHZWNYSU8weDBZZzF3NGp5UEFPWXlrSWNhZkF0MEdUd096UmgxT2hSdElqMEtJNlhVMTVKVU1RMWVWUEpsZzZUdEsxZndZc3RuSXNVVWtHc2I3VldXc0IyNjY2VU53SDdEYVNHN2wweVFNdjdaM3lTQk9jbFNGLURnRHg2UFdhLVVpb0QySjB0M1A1azVzMTdoenNoOUVFYjE4SEl2WlVsekVpM2dXTV9WNjFFOXZMbHZ5eHdlbWJSRGRvaTd5RlBkVjFtNzZRSEtPNF80NFNCajNKLUUtLV9DdkV5NjQ0WUNQcHg4YkIwQlJ1bWRhUlFkTmVJMUp6RFdEbFVDWEx1UzNsaF9iTERrYmZ5UGc5Mm9DNDB4NHhXTFhRaVcxYWZKb240b3lma0RNZi1xSXZZS0g0cmRzbXhyUWM0OElvMUhuanp2Q256X2FGTWVEcjBCWEtubEtFMGxPZGZ4NU9CSVR6SVlIWm1CLURRdGg5QWhESkNwbl9QdEtha2g1U194d9IB6ANBVV95cUxNY1lEejZ5MEdFcUtwZzBMOXpKelIwa19jeUc3c2poeWFFbUdNNkNGSGtGNEotbTh5bVUtWUF1NVNhdG1JVVVpUF9JVHFpRXF4cmdST2dCUVdnbG5QQWR5VHVSQkliMHBDOVlaU18xVWFsOHhOYkNTOHF2UmE4SWkyS1p1RFB0OGRyaXc3LTc3dDhDZzhBSlJOR2daS01GS3RxbzVlcXp3d0pWSXBybUc0UTdyTEdsalJCc09TTFp4MUtkbDBIWTNGeVRJbS1MQXppN1BJUHBnY0llc2dMcDExVDlFcVhPc2lNdjhrcTZaNC1uVEoxWEpmMXlpWWJQcnNQNDduTDNUUUR6R1VfbVVzQ21XRjJBcHR6R2VrNy1ZQzBsUlJ2T2ZDRzNkYnFsRlduRE1DT1ZiNXVrU2s0TDdnU3p6RzBicXBIdWZkR0dfZjRXYjN0UjV6bGZfaUE0TDBrZmJaOHFLT2pWV255cVA4QXlzajBITmVYd2kwaExyeVhabnI4UHFfdVo0dlIxQjRiNGoyV2ZvR1JWcDdpanNQVW5LdEhHSkE0UHU0N0F1TDE5b1Jlb2U2bVc3SC1NZGNueENqeTFfSTIxNkg1QmtaOTNYVU5RdkhCQjFwOFV2UWlMSHM1TnU0cQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.youm7.com",
+      "title": "اليوم السابع"
     }
   },
   {
@@ -720,6 +720,16 @@
     }
   },
   {
+    "title": "\"صراع النصر والهلال\".. ترتيب الدوري السعودي قبل المشهد الختامي - يلاكورة",
+    "description": "\"صراع النصر والهلال\".. ترتيب الدوري السعودي قبل المشهد الختامي  يلاكورة",
+    "published date": "Thu, 21 May 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxONmRlc1BOeUxyd2ZtNjRtUWg1ZGlENFY0bWtzWDJGM2NEaC0xcmlGM3ktMloxQzJhQmNHVHZWTmxtLVVVUDlpZUVWckd6N19QV3J0QkhkT1VYaTdXZnJzU0J1S1RoSm5rUjdRNWVUN082bXp4TVB4QmFfOE9aMUpobGQycW9saWp2QThiRUdsbWlURnBpQlZsdkVEUXpoY3FESGNWSnpINWhHSnVURGRYVUF2bDZoTGI2Z0lqcHhzc0g4aVNNSk5RaVdMMnRvX3A4NFhhajJCQ1d4azhnUjJxV0xRVWZIV05WUVJaa3k1cnZ1ZXZxcnVuQ3dwaW1NeU1HQ0hvSnlqWHRkeTg4akNZTmdzQ0o3VUQ0TXFFelczU2VYaVlFcmFacF85V1ExZ0FUT2RoOWo4SDQ1OWlNVklILTltd0dUYjBpS0h3VFo1V3E0TTB5MXJCMUNVRlRUb2EyV0E2dkxZU1d1aWJsVVVoNFpKb2lYdjgxanpqR3N4UGZmS0ZLbHJiRnNTbGdQOWFrX3BJcVdDOWNIZmxselhUazQ2NW1LSmkyUHJrU2k5MEJQXzlOTEh4dFlZbUE4LUtVTXl0X2t3NEk4bmFHd3RmTVp0M19UQUZMcXUtSktMZm1UeTdraEU5YmIwc0pnOWpUZnk0UkNMSzBJQkV1bXEzUNIBhgRBVV95cUxNVVg5T1ZaWTc1TDlfTmthWTNFRy1IZExJVWtjRmJ1WjB2eVZaVjR0WG9tbHJuYXp4WTZZZThEdXV5MDJ1RFRsZ2VZXzgzU3BzYzdpaXFrdGNjZDU2dFJmcGhma2NsMTFQMVZvUHBBUTZSVmUxdWluQjdLdWN2emlxNFhZZVE2UnlualNtMGZLWEs2aXUwNnlCeDVGWkZkNllUbU55WFgtY01ud3J6bUh5OG1wOTFfRE1PNThvWVAtbGtWRHctdGRHRkhYUXlLR29UQ1NZcHBad2Y1MEFrdXlWOWtSbXBwX0l3V0dUQjBOdk0yR05hVy10SkVWUjlDUnQwbjhWSkNxdFV0Z0JjbllQaXdWNmlNbHVFenZKV3pzNnJXWFNhRmtDMEhld2hYdnp5dTVJcGZCSG5EMEN0M3hqX0dzblNUNlJ5M21GWjJOWHZYTmpqVXZHYTVpMFNTc2JOeVJQLWpUdWJzMFBTZVRmR2NSakRIMWZfc3MzVWNqY2s1ZjVFQVRDV2JBbERFaFZvZWhOa3JQUjhYalZDekFXeDVWcllkNkZlT3VfQTktOGtjZ1B6cXE0cXpmY2kwZm5abmpCczM4WjJVX2s1VzdJSW15Nm00cDFhZ0loNGNhdy1CNmkxcHhkWk41aXh0VnNfTGNuS0FfbjlVWDd3VDVmSGlaZUhCUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.yallakora.com",
+      "title": "يلاكورة"
+    }
+  },
+  {
     "title": "حسابات البقاء والهبوط في روشن.. الخطر يطول 9 أندية - alyaum",
     "description": "حسابات البقاء والهبوط في روشن.. الخطر يطول 9 أندية  alyaum",
     "published date": "Tue, 28 Apr 2026 07:00:00 GMT",
@@ -734,16 +744,6 @@
     "description": "اللقب المحلي الأول لـ رونالدو.. النصر يتوج بطلًا للدوري السعودي برباعية في ضمك  يلاكورة",
     "published date": "Thu, 21 May 2026 07:00:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMi7gRBVV95cUxOM0RrdkVicS1HampBOE44cWZydF9MUXYxWEZpMlVWVFk4cFRiWjZCOFQzcGxxN2xqWE1jLTdYUGxnSDNQdnhjYUwyLWx4UklFUFpXbE4zRUVkVEc5LUxvN0lyQzlCX1RoT2dyQUViMmFhTjlpVUtNQVFpM3JKZ2tIOVRBczhsa0wwMjB4Z3RjOEc4amtERTdiLTRWNHo2WTdVcURwcUZKc2RZTmtPVnRVUC11MXNjQkpoM2pKRzJpY21haXpHS2RNb1duTFg0UjRCeUROWmxzdW5maUdMejA4TWpzUTdWQS10N1FiR09Ya1ZfZFVaLUxKZmU0M1VrcWxIZlJMXzVlWjZIaHlIR2oyblRlQUQ0X2FleFlGYkNzdC15SUNfWk5IZ0FRMjZXR0U1V0Fuc1I4bG4yeHdnU09QRVNLMnpXNmJwNHJvYnBvWVA3VHg3cElSRWdYNEpVdldMbGd1amNRRTlTd010bTdHN2JlOHJzakRycVVEem5WdllIOEVNNFhpNUI1NEdHU3lyUGw0NDMzd2c3RkpVVER5aEJkSmlrVUJ1cDVTOW1rbDdVMmlYYXYtN2VBaXFtczB0Rjg0SWtOMl9mcFNrZFpfVkMxVG1zMm10bWViU0otcC1lYTJvWEtkaXZtTDBLUWRvSlRhSkMxaE5QZnR3dXhGb016bGM1TF92VC1ldUtkSGE1S0NPaklEdTRWR0ljb0FyODFkdnFQMkcyTUFzZEkwV2ZOM3YzSHozLW9STFdoTUNYUFpiRHlaTHBwaUZGZmJTZWZESGJ3aktHZFByRUdMaERzYzNqNW5GUlFjQmZR0gHzBEFVX3lxTE5DOFhCQnJqOFFFZi1CYm02VXlfc3had2p5dWNxc1R4ampOSmU3b2JaLVVWakJMYVBXRXlaeVFGbldUMzRicEk0OGgzQ0NCUHpzbXh2R2d3eGN0V2h1WXItWmRGcGx4ZlY5ZUlIbWxOOFVndWV1N1NVTlplZ2tlYUJVOHpLTHFtRkNHVTdxU3dENkNmQnRqUlZndklGUklFZm45VGJTWk5DTUNZQlp3X0NGakxWZFhyY0pGM2gwOFFrUUlva1c2MkxQWWkxTXpPUXFvTHJuQ3BMUGx2SUJuX3dPUExvY0RLbGZFQS04S2FlN3Bya0RRWFc1cFRYRkhLdVN6LXBQLWxlajRQdDg3cmI4NU81YzFqYWdDLVliRTM3ZzlXVlVQSUdtNkU1YzhjNW1oT0ZVOTI5RVhkLTg4YTBBWERzZFZhYlZ0VEMtLWFUWmFNUXo0LXJoV2JOc2d2QWx0NDdCbnlTSlZoa1UxdXdlU19nLWEzTnUtR1N0VDdWNXJjanBCMTlPUndaQlB2RGcwSFN4cUF5YzVtQTZpTXNWU3BWcktsVGNsRlBFZzlTUVhKZnNwZmY3c2E5c0syWVlleDktVk9fYXdlZmJBY3psVEU3Z1AwZHdmdGNjTU5hY0s2Ql92Z0xxeDNibENGYmUwM0tzQ210OERpelEtWnhpcElKaGoxUmxBZUJIQnVzOUVpNWxxTU5lNDQxZDJEQ19HSWh3V214Zkd5ZjhEMFk0eU0zYW1tb3c2Wi1TOGZOcmIwZ1h0OUg4WkZpN0UzSDdTdEg4WHp5b2JZWmdQNkU2VWxwTWI0aVQ0VS1hNGM0cWR0bw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.yallakora.com",
-      "title": "يلاكورة"
-    }
-  },
-  {
-    "title": "\"صراع النصر والهلال\".. ترتيب الدوري السعودي قبل المشهد الختامي - يلاكورة",
-    "description": "\"صراع النصر والهلال\".. ترتيب الدوري السعودي قبل المشهد الختامي  يلاكورة",
-    "published date": "Thu, 21 May 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxONmRlc1BOeUxyd2ZtNjRtUWg1ZGlENFY0bWtzWDJGM2NEaC0xcmlGM3ktMloxQzJhQmNHVHZWTmxtLVVVUDlpZUVWckd6N19QV3J0QkhkT1VYaTdXZnJzU0J1S1RoSm5rUjdRNWVUN082bXp4TVB4QmFfOE9aMUpobGQycW9saWp2QThiRUdsbWlURnBpQlZsdkVEUXpoY3FESGNWSnpINWhHSnVURGRYVUF2bDZoTGI2Z0lqcHhzc0g4aVNNSk5RaVdMMnRvX3A4NFhhajJCQ1d4azhnUjJxV0xRVWZIV05WUVJaa3k1cnZ1ZXZxcnVuQ3dwaW1NeU1HQ0hvSnlqWHRkeTg4akNZTmdzQ0o3VUQ0TXFFelczU2VYaVlFcmFacF85V1ExZ0FUT2RoOWo4SDQ1OWlNVklILTltd0dUYjBpS0h3VFo1V3E0TTB5MXJCMUNVRlRUb2EyV0E2dkxZU1d1aWJsVVVoNFpKb2lYdjgxanpqR3N4UGZmS0ZLbHJiRnNTbGdQOWFrX3BJcVdDOWNIZmxselhUazQ2NW1LSmkyUHJrU2k5MEJQXzlOTEh4dFlZbUE4LUtVTXl0X2t3NEk4bmFHd3RmTVp0M19UQUZMcXUtSktMZm1UeTdraEU5YmIwc0pnOWpUZnk0UkNMSzBJQkV1bXEzUNIBhgRBVV95cUxNVVg5T1ZaWTc1TDlfTmthWTNFRy1IZExJVWtjRmJ1WjB2eVZaVjR0WG9tbHJuYXp4WTZZZThEdXV5MDJ1RFRsZ2VZXzgzU3BzYzdpaXFrdGNjZDU2dFJmcGhma2NsMTFQMVZvUHBBUTZSVmUxdWluQjdLdWN2emlxNFhZZVE2UnlualNtMGZLWEs2aXUwNnlCeDVGWkZkNllUbU55WFgtY01ud3J6bUh5OG1wOTFfRE1PNThvWVAtbGtWRHctdGRHRkhYUXlLR29UQ1NZcHBad2Y1MEFrdXlWOWtSbXBwX0l3V0dUQjBOdk0yR05hVy10SkVWUjlDUnQwbjhWSkNxdFV0Z0JjbllQaXdWNmlNbHVFenZKV3pzNnJXWFNhRmtDMEhld2hYdnp5dTVJcGZCSG5EMEN0M3hqX0dzblNUNlJ5M21GWjJOWHZYTmpqVXZHYTVpMFNTc2JOeVJQLWpUdWJzMFBTZVRmR2NSakRIMWZfc3MzVWNqY2s1ZjVFQVRDV2JBbERFaFZvZWhOa3JQUjhYalZDekFXeDVWcllkNkZlT3VfQTktOGtjZ1B6cXE0cXpmY2kwZm5abmpCczM4WjJVX2s1VzdJSW15Nm00cDFhZ0loNGNhdy1CNmkxcHhkWk41aXh0VnNfTGNuS0FfbjlVWDd3VDVmSGlaZUhCUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.yallakora.com",
       "title": "يلاكورة"
@@ -800,13 +800,13 @@
     }
   },
   {
-    "title": "رابطة الدوري السعودي تعلن تأجيل مباراة الخلود والقادسية بسبب إلغاء رحلة طيران - يلاكورة",
-    "description": "رابطة الدوري السعودي تعلن تأجيل مباراة الخلود والقادسية بسبب إلغاء رحلة طيران  يلاكورة",
-    "published date": "Thu, 05 Mar 2026 08:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigwVBVV95cUxORTVqam9lVDdFeTFBZWd5SFhfTGZwSEV0MUN3QlNIMGs1TkpCeVRBSEw1NlJ4TE83aUVfdEpnTTJqSkVTOHJfQ3oxdkR6YVZ5TU42WWc1UDJpR3NCRGVZM0E5ZTdEcTJYdFlTNkI0UEdVTUhnaWJ2S05fLWtGVjVBa3RYcW4tUVl4VlBLZk9ZMC1kSlgxY1luM3FmcUVmT05iTE96TGJ4NEFzaTNsWGoyOHhzbW5VU2JaazFTN3lCLUt5bVNMN1VaRmNTMXRaZzNWLV9HVzBpMjk3NG1LX0RjU0Z1dGxlQU02WXB1V0JwcHZKV2FFUmpOY2ZvNGZTTk9vNVRlOXNQYWFERVZMT3ZVaVV2d1ZZRGVKTFJkSEtNZU5wZVJKZ1hhN0NVV2dYQjVJa2NLZlUxVE5YM290TkxmbnVCRDgwOVdpMjBhS0s0ZmlBOUZ5Ujg5Smdmbi1SRXowMEVIckVaSUd3OGFnWFBILTdocGxEUGVaRWpiVDJlc25YN0dvbHQyQmJRS2pxVVVWZFpBTnlValloSUkyUl9CM2NTOUdXWkpkWFV4NnpvSFFEQmItS2ppZUk0dGdGVzBZTVU5WlFSZVJhMUltTGUtMF92VFVSYXZmUXRGLWF0MmlzMkJRc3NBaEwwNUs0dzB5T2t6VVBXbC1oQjlkQXRoVEg0WTh1NjI3U2c0RTF3c3U3YkdYYjhIZmlQeFZPQ3NSTXNBSDBPcTloYjItWFoyOFBud1dTX00tcThfR2lfX3NWb2Y4NTNTVG9tYVZEa01TczhWTWxYcTdKcGJiLS01bU5GN2VmcVFmLTRkTHN6WnNJRXl5ajNaQzR5aU5lMmpONk1B0gGIBUFVX3lxTE1veG1XVTJURUJEUGNfeE9yZHNEU1VLTFJ4anZyWG80OG5vUHVUZXhqRWtZdWtjY2ozTG9oUWFSNmFlaDB0MDVXb211RGVmTGQ1Wmt1M2t2T3A3VlY2SDJ5TVc0UW1CZ1hWYUZvTzlRQzlvRkUtNWM0M01jTTdCcldVV1hUc2lZa3Q0Z3h2V1pKTlZMaFlMTHlyMU1HTUhNVmdSTUZUMTdnTDdVbmdBZ0syNEJjTl9vWjREUWppamV1RlJab0t0VHNoNjNtRk1pMVkxUWNWWGQ2STdvVUJVTnVfNW5FOVhoMDktdl9fakJtT1NncmJpdjJ6WEJBYmVxaTBRelZSUkV3SjlqbElzSkREcE4wWUFqUzFmelZDeVJkc0VlVUFZaGtvMVpRVDNudGZZaHBkbkdIRTJ2N0tqVklPNGI1SjlRd2FMQmRtTzRfQTdxYmFDY25MWW5NLUlENGRyWVA1QmhvZnlMTGRzWTVJWkdUVVlmOVJrVktDZl9SVmI1NURSYzdrZG0xamswUlZ3endLLTllTTB4TFY5c2I0QmFvSXhWTlhOWEtIZGI1YXFPaGxIZWtfc2NNdTczMFBPWDNKdmxvWHNOUXBXMnNLX0pmOVl2ZEFxaVBqOWFrcVhNVU44Q3NHckRjWWx2VGkxQ1pZT0M5WXhZOWRSWDhnVmV3Uy11UDFBRFNRYkdvSnpqc1A1ZnBtaWRaM3VmdGw2endXRFkzaU9SU0d6ZnYzaFY1QmYtN1ZrRHdQbHRJOU0yV3pOXzVCSWY1VXkwaXhRdy1aSXhZRnJ6NHNjTFY5cnh5eUNWNzZFX2tWR01acGJ1aVV4QVBWWXdKdkd4RHlfV0R1bEk4LQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "الشباب يوقع مع الأسمري والناشري لتعزيز خط الوسط - alsaudi.news",
+    "description": "الشباب يوقع مع الأسمري والناشري لتعزيز خط الوسط  alsaudi.news",
+    "published date": "Thu, 23 Jul 2026 21:05:54 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rd0VNajVpNzkzeEFqS213QUctaFhrY05oOVdHODVDeTRjU29tUHVpQjU4UGVuVFk4NWJsUmc4dTRMekxLYk5RQ0NiSzZSVS1q?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.yallakora.com",
-      "title": "يلاكورة"
+      "href": "https://alsaudi.news",
+      "title": "alsaudi.news"
     }
   },
   {
@@ -830,13 +830,13 @@
     }
   },
   {
-    "title": "الهلال يؤجل حسم لقب الدوري السعودي للجولة الأخيرة بفوزه على نيوم - Reuters",
-    "description": "الهلال يؤجل حسم لقب الدوري السعودي للجولة الأخيرة بفوزه على نيوم  Reuters",
-    "published date": "Sat, 16 May 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBSVmdaLUZUVDBwVmlRNGNFNU1ia3VPNUI4SFZpcVVyYjFnTGMtT3ZwXzVmNHdsNWR6anZQc1UxOHRfaEZSX1VKSEF5a0hvdkd5VmNKbFIxTUVleE1PMVFiaXVGbXRjRE05dVc5S0hkRVRSQWdZUVZUaWh5dFQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "رابطة الدوري السعودي تعلن تأجيل مباراة الخلود والقادسية بسبب إلغاء رحلة طيران - يلاكورة",
+    "description": "رابطة الدوري السعودي تعلن تأجيل مباراة الخلود والقادسية بسبب إلغاء رحلة طيران  يلاكورة",
+    "published date": "Thu, 05 Mar 2026 08:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigwVBVV95cUxORTVqam9lVDdFeTFBZWd5SFhfTGZwSEV0MUN3QlNIMGs1TkpCeVRBSEw1NlJ4TE83aUVfdEpnTTJqSkVTOHJfQ3oxdkR6YVZ5TU42WWc1UDJpR3NCRGVZM0E5ZTdEcTJYdFlTNkI0UEdVTUhnaWJ2S05fLWtGVjVBa3RYcW4tUVl4VlBLZk9ZMC1kSlgxY1luM3FmcUVmT05iTE96TGJ4NEFzaTNsWGoyOHhzbW5VU2JaazFTN3lCLUt5bVNMN1VaRmNTMXRaZzNWLV9HVzBpMjk3NG1LX0RjU0Z1dGxlQU02WXB1V0JwcHZKV2FFUmpOY2ZvNGZTTk9vNVRlOXNQYWFERVZMT3ZVaVV2d1ZZRGVKTFJkSEtNZU5wZVJKZ1hhN0NVV2dYQjVJa2NLZlUxVE5YM290TkxmbnVCRDgwOVdpMjBhS0s0ZmlBOUZ5Ujg5Smdmbi1SRXowMEVIckVaSUd3OGFnWFBILTdocGxEUGVaRWpiVDJlc25YN0dvbHQyQmJRS2pxVVVWZFpBTnlValloSUkyUl9CM2NTOUdXWkpkWFV4NnpvSFFEQmItS2ppZUk0dGdGVzBZTVU5WlFSZVJhMUltTGUtMF92VFVSYXZmUXRGLWF0MmlzMkJRc3NBaEwwNUs0dzB5T2t6VVBXbC1oQjlkQXRoVEg0WTh1NjI3U2c0RTF3c3U3YkdYYjhIZmlQeFZPQ3NSTXNBSDBPcTloYjItWFoyOFBud1dTX00tcThfR2lfX3NWb2Y4NTNTVG9tYVZEa01TczhWTWxYcTdKcGJiLS01bU5GN2VmcVFmLTRkTHN6WnNJRXl5ajNaQzR5aU5lMmpONk1B0gGIBUFVX3lxTE1veG1XVTJURUJEUGNfeE9yZHNEU1VLTFJ4anZyWG80OG5vUHVUZXhqRWtZdWtjY2ozTG9oUWFSNmFlaDB0MDVXb211RGVmTGQ1Wmt1M2t2T3A3VlY2SDJ5TVc0UW1CZ1hWYUZvTzlRQzlvRkUtNWM0M01jTTdCcldVV1hUc2lZa3Q0Z3h2V1pKTlZMaFlMTHlyMU1HTUhNVmdSTUZUMTdnTDdVbmdBZ0syNEJjTl9vWjREUWppamV1RlJab0t0VHNoNjNtRk1pMVkxUWNWWGQ2STdvVUJVTnVfNW5FOVhoMDktdl9fakJtT1NncmJpdjJ6WEJBYmVxaTBRelZSUkV3SjlqbElzSkREcE4wWUFqUzFmelZDeVJkc0VlVUFZaGtvMVpRVDNudGZZaHBkbkdIRTJ2N0tqVklPNGI1SjlRd2FMQmRtTzRfQTdxYmFDY25MWW5NLUlENGRyWVA1QmhvZnlMTGRzWTVJWkdUVVlmOVJrVktDZl9SVmI1NURSYzdrZG0xamswUlZ3endLLTllTTB4TFY5c2I0QmFvSXhWTlhOWEtIZGI1YXFPaGxIZWtfc2NNdTczMFBPWDNKdmxvWHNOUXBXMnNLX0pmOVl2ZEFxaVBqOWFrcVhNVU44Q3NHckRjWWx2VGkxQ1pZT0M5WXhZOWRSWDhnVmV3Uy11UDFBRFNRYkdvSnpqc1A1ZnBtaWRaM3VmdGw2endXRFkzaU9SU0d6ZnYzaFY1QmYtN1ZrRHdQbHRJOU0yV3pOXzVCSWY1VXkwaXhRdy1aSXhZRnJ6NHNjTFY5cnh5eUNWNzZFX2tWR01acGJ1aVV4QVBWWXdKdkd4RHlfV0R1bEk4LQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.reuters.com",
-      "title": "Reuters"
+      "href": "https://www.yallakora.com",
+      "title": "يلاكورة"
     }
   },
   {
@@ -897,6 +897,16 @@
     "publisher": {
       "href": "https://www.youm7.com",
       "title": "اليوم السابع"
+    }
+  },
+  {
+    "title": "الهلال يؤجل حسم لقب الدوري السعودي للجولة الأخيرة بفوزه على نيوم - Reuters",
+    "description": "الهلال يؤجل حسم لقب الدوري السعودي للجولة الأخيرة بفوزه على نيوم  Reuters",
+    "published date": "Sat, 16 May 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBSVmdaLUZUVDBwVmlRNGNFNU1ia3VPNUI4SFZpcVVyYjFnTGMtT3ZwXzVmNHdsNWR6anZQc1UxOHRfaEZSX1VKSEF5a0hvdkd5VmNKbFIxTUVleE1PMVFiaXVGbXRjRE05dVc5S0hkRVRSQWdZUVZUaWh5dFQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.reuters.com",
+      "title": "Reuters"
     }
   },
   {
@@ -977,16 +987,6 @@
     "publisher": {
       "href": "https://al-ain.com",
       "title": "العين الإخبارية"
-    }
-  },
-  {
-    "title": "ترتيب هدافي الدوري السعودي بعد هدفي رونالدو وهاتريك كينونيس - إرم نيوز",
-    "description": "ترتيب هدافي الدوري السعودي بعد هدفي رونالدو وهاتريك كينونيس  إرم نيوز",
-    "published date": "Thu, 21 May 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSaXVwdGdGN1hpSFBKNWQ5MFF4VXV1dmRJTFlRbnVpNUZVbU9RbUlOM2VsTHRBeG9PREF3VXlpTGpKUWhRVlRSWC1iNmxLTG9L?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.eremnews.com",
-      "title": "إرم نيوز"
     }
   }
 ]
