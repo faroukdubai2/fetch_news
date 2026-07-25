@@ -20,16 +20,6 @@
     }
   },
   {
-    "title": "SpaceX launches Falcon 9 from Vandenberg Space Force Base - KSBY News",
-    "description": "SpaceX launches Falcon 9 from Vandenberg Space Force Base  KSBY NewsSpaceX Falcon 9 launches Starlink satellites from West Coast  Spaceflight NowSpaceX Falcon 9 rocket sends Starlink satellites to orbit a day after rare launch abort  space.comWill the next Vandenberg rocket launch be seen in Arizona? What to know  azcentral.com and The Arizona RepublicReport: Gen3 Starlink satellites – a Starship-level upgrade?  SDxCentral",
-    "published date": "Fri, 24 Jul 2026 21:40:46 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSmtna1VxYzBTTXZBd0VuS1BhT3EtSWZ6N29MRHNudy11S3FhVWxrbUtKdzFCaDlKR2pOaDNkRm9yTV9YZE1vMXZVeVlDUU1DVFlPbzJibTQwczdmbi0xeXEzMVpMSnV2QkRUMWl1aUZuUDNldXFhZXNfTEZJT3BjeFJHbmhKLUJfRU1yU0Jvdmw3Y3ItVmFJSXZNd2RENndXMU5XTlotN3VtM0IzcGpoVktGUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ksby.com",
-      "title": "KSBY News"
-    }
-  },
-  {
     "title": "Astronomers may have detected an exomoon - Boing Boing",
     "description": "Astronomers may have detected an exomoon  Boing BoingPlanetary-mass exosatellite detected around the substellar companion of a star  NatureExoplanet or Exomoon? New Contender Elicits Skepticism  Sky & TelescopeAstronomers Discover the First Known Moon Outside our Solar System—and What a Moon it Is  Time MagazineStrange Milky Way planetary system leaves scientists puzzled  Reuters",
     "published date": "Fri, 24 Jul 2026 17:46:42 GMT",
@@ -41,7 +31,7 @@
   },
   {
     "title": "This is the world’s most advanced robotic servicing satellite—that we know about - Ars Technica",
-    "description": "This is the world’s most advanced robotic servicing satellite—that we know about  Ars TechnicaRobotic Servicing Mission Launches with NASA Support  NASA (.gov)SpaceX launches Northrop mission to extend the life of aging satellites  SpaceNewsSpaceX launches novel geosynchronous robotic servicing satellite on decade-long mission  Spaceflight NowCould This New Northrop Spacecraft Use Its Robotic Arms To Attack Enemy Satellites?  TWZ",
+    "description": "This is the world’s most advanced robotic servicing satellite—that we know about  Ars TechnicaSpaceX launches novel geosynchronous robotic servicing satellite on decade-long mission  Spaceflight NowCould This New Northrop Spacecraft Use Its Robotic Arms To Attack Enemy Satellites?  TWZRobotic Servicing Mission Launches with NASA Support  NASA (.gov)SpaceX launches Northrop mission to extend the life of aging satellites  SpaceNews",
     "published date": "Fri, 24 Jul 2026 15:23:06 GMT",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZktuVEtFMzdyTk1pYkxPX0JkUTdRMENoVHJaeTNVWkJBcFhJTmFlOGRmVFVwQllkNnk5M3Nadk5mMHFBOFZnRU9DeFY2eUdUbTJRcXhNZFpMeF9SVVlDRHl2dExRb05CZ043Wk5zWi05aU92MVZTcktmSjhDMFNOZkJpUnFVRGNOUWtSeEJsQkhTUm9vYVlISVJWSzJ1cmpYNTJfZFFEekFTV2pHRTJidWtIM3lhWTlHQmc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -70,6 +60,16 @@
     }
   },
   {
+    "title": "Full Moon July 2026: ‘Buck Moon’ Sets Up A Total Eclipse Of The Sun - Forbes",
+    "description": "Full Moon July 2026: ‘Buck Moon’ Sets Up A Total Eclipse Of The Sun  ForbesWhen to see a full ‘buck’ moon + the Perseids meteor shower from Kentucky  Lexington Herald LeaderWhen is the next full moon? How to see July's 'Buck Moon' in SC  Greenville Online“Buck” moon kayak trip to Saugatuck Harbor planned for Wednesday  Westport JournalCelebrate the Buck Moon  chronicleonline.com",
+    "published date": "Fri, 24 Jul 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWmRTRmdTRlVxTHlsalI2YmdsS3dXVlE1LTZhQUJZeThFNkRYVGpSa3JlTzA5WkdVWGtnTEpYWGJJUENvNlZhRWpaUVU5akJSNGUzTHl2ZTIwWkJsNTE4dU9uSENmSUxrWHgtb0lwVUxkOVdVNS12blBBWVZBblZ4M1ZCOS1DNHgzNmZKdkNTWVhjNjRqYTBJaDRadVhXOGoyeGpLNlY4UlhNZGUzVUFNZF8tLXN6V3RvcVhXYVNNNjU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
+    }
+  },
+  {
     "title": "Researchers explore one of Africa’s deepest lakes – and found an unexpected creature lurking in its depths - BBC Wildlife Magazine",
     "description": "Researchers explore one of Africa’s deepest lakes – and found an unexpected creature lurking in its depths  BBC Wildlife MagazineWhy don’t insects live in the ocean?  YahooInsects survive 1,213 feet of pressure under water, defying physics  Popular ScienceIn One of Africa’s Deepest Lakes, Scientists Have Found a Species No One Expected Swimming at Incredible Depths  The DebriefInsect ‘submariners’ don’t implode at depth, leaving oceanic mystery unsolved  The University of British Columbia",
     "published date": "Fri, 24 Jul 2026 11:14:55 GMT",
@@ -84,16 +84,6 @@
     "description": "Algorithms create foundry-ready photonic circuits  Phys.orgAlgorithm-Designed Photonic Circuits Beyond Human Intuition  Harvard UniversityDesigning Electro-Optical Chips  Semiconductor EngineeringSemiconductor metrology is the key to the future of photonics  Data Center Dynamics",
     "published date": "Fri, 24 Jul 2026 17:40:08 GMT",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY3Nid2FfMjBSNmJ3UXRRZFZKYndxa2NwQmJvbW5PeW9uWERBMFJlcTVSTG9CR0dLNlFTeDRuWkhDMzJWZTdVeTd6R1BBYUEyR0NDQmdXbEVuakFfWWVCZklFS2wtZ2tJRXZuOExfOHlwZ3NZbnNxTWlxamJsMU5FSlc5OA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://phys.org",
-      "title": "Phys.org"
-    }
-  },
-  {
-    "title": "NASA's new space telescope will tackle some of the universe's biggest mysteries - Phys.org",
-    "description": "NASA's new space telescope will tackle some of the universe's biggest mysteries  Phys.orgNasa’s new space telescope will tackle some of the universe’s biggest mysteries  The ConversationNASA to Host Media Briefing on Roman Telescope, Launching Next Month  NASA (.gov)Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own  MIT Technology ReviewNASA's Roman Space Telescope could reveal black holes ripping up stars. It's set to launch Aug. 30  space.com",
-    "published date": "Thu, 23 Jul 2026 20:20:06 GMT",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1keEpHS3VEVUV1QV9FaGh1RUVvUmZYQllVX1NOUlFLVVBzbHUtbGlPR0dlYUxsV0tFNXkySVBwZC12dWtqeTN5NjVuQlQxYlBtMTlkMEI5cDR5T3dnYWdKMUpmSHp1Yy1UMlpJTWdrcEc1eFFuQldFbUd3Yw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://phys.org",
       "title": "Phys.org"
@@ -120,13 +110,23 @@
     }
   },
   {
-    "title": "Full Moon July 2026: ‘Buck Moon’ Sets Up A Total Eclipse Of The Sun - Forbes",
-    "description": "Full Moon July 2026: ‘Buck Moon’ Sets Up A Total Eclipse Of The Sun  ForbesWhen is the next full moon? How to see July's 'Buck Moon' in SC  Greenville Online“Buck” moon kayak trip to Saugatuck Harbor planned for Wednesday  Westport JournalJuly's full moon coming to Michigan skies. When to look up  Detroit Free PressCelebrate the Buck Moon  chronicleonline.com",
-    "published date": "Fri, 24 Jul 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWmRTRmdTRlVxTHlsalI2YmdsS3dXVlE1LTZhQUJZeThFNkRYVGpSa3JlTzA5WkdVWGtnTEpYWGJJUENvNlZhRWpaUVU5akJSNGUzTHl2ZTIwWkJsNTE4dU9uSENmSUxrWHgtb0lwVUxkOVdVNS12blBBWVZBblZ4M1ZCOS1DNHgzNmZKdkNTWVhjNjRqYTBJaDRadVhXOGoyeGpLNlY4UlhNZGUzVUFNZF8tLXN6V3RvcVhXYVNNNjU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Andean leaf-eared mouse adapts to an unrivalled high life - Reuters",
+    "description": "Andean leaf-eared mouse adapts to an unrivalled high life  ReutersSee more headlines & perspectives on Google News",
+    "published date": "Fri, 24 Jul 2026 15:49:44 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc3I0QWJhZFVtR0dWdVc0VEoxV0wxTXMwX1V5bkw3c0licVM4TDlpVUJLTmp6U1VhRG9fSmhoYmphTDJWVUZ0NVlLN0dYUjVOQWN1ZlhJMmQzR2VJRWFodnVFUEJHVlcwZ0FpTHNMY3FGNWNjTk10RnFUUFJWNmRHUE9jXzdJeWF3MjI1aGNQTEN5bFdGOEl4Snc2UUFFZHc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.forbes.com",
-      "title": "Forbes"
+      "href": "https://www.reuters.com",
+      "title": "Reuters"
+    }
+  },
+  {
+    "title": "Somewhere in the Milky Way tonight, drifting through the darkness between the stars, there are roughly 20 planets for every sun that burns — trillions of worlds, most thought to be ejected from the solar systems where they were born and now wandering the gal - Space Daily",
+    "description": "Somewhere in the Milky Way tonight, drifting through the darkness between the stars, there are roughly 20 planets for every sun that burns — trillions of worlds, most thought to be ejected from the solar systems where they were born and now wandering the gal  Space Daily",
+    "published date": "Fri, 24 Jul 2026 09:15:07 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPNXFrTGItdnRnTUN3c2NPN3Y1bENSajh0QWxkTnNNSFFfb2M5WTU5NEtHTnZWdlY2bFl1bnhDVFkyYjZPeENhR3owR21VcUotbW5BbDlfR3JlSjVNODBqTlExUy1EWTVaeFBjajBPdEd4NFEzXzJ6MlpJcW16ODdraXBhd2xTWWpocVNZX1VGai0xQmxFQjlHVXdRdHpsVl80eVFpMU1EZFNqajRvT3l4SVQtVGxseFF6ZTVKTEUtTDVDbTJzZHhTbGYzRVlFRHBhRlJtWk16eWhSTzVsZ2RyaXVGQnZwYnVOb3ExYmFYeXlUaktIUi1sMTdEZkstNEpMUWhJeTFrS3NQMF9NbkotNDVUdlV1RGdCaTBzdEtURjNRNFFMNVZscXBDWnhUWlZWYTNTaXkwX2Y?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://spacedaily.com",
+      "title": "Space Daily"
     }
   },
   {
@@ -140,23 +140,13 @@
     }
   },
   {
-    "title": "One of NASA’s Most Important Deep Space Observatories Hit by Spanish Wildfires - WIRED",
-    "description": "One of NASA’s Most Important Deep Space Observatories Hit by Spanish Wildfires  WIREDWildfire forces evacuation of NASA’s Deep Space Network complex in Spain  Ars TechnicaCritical NASA Deep Space ground station in Spain evacuated due to wildfires  Spaceflight NowFire Threatens Madrid DSN Complex  NASA WatchOne of NASA’s crucial links to deep space is at risk of burning down  New Scientist",
-    "published date": "Fri, 24 Jul 2026 22:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qcmFFeFdITTByYXlsY2d6ZWtEYjFZU2c1YktXaUt0N29pUzhKZkJLNWN2WVlvcXk4MjRJM3gyNmFaSWxyWDBSY0djQzNaMThtNUhDd204U0FNck04OTkxbDZIS0pQZTd5Q0lnNUp5UTJyZllYcnFPa1FvYURRU1U?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Rare blue optical transient points to possible new class of cosmic explosion - Phys.org",
+    "description": "Rare blue optical transient points to possible new class of cosmic explosion  Phys.org",
+    "published date": "Sat, 25 Jul 2026 12:40:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NZEpoQUpPT1B5YkpaY0NUQVp3VkZaenFqYTJIb2pzMW9aMFBlcW00UHAxSW1wUkQxcXUtQ25Bbm5DRW9YUEtoN0doRlJqUXBUbC11TU5QLVc5eU83aFNrWmlMaEFacVU5dXNITnVKdUVrbWFib3Zv?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.wired.com",
-      "title": "WIRED"
-    }
-  },
-  {
-    "title": "Andean leaf-eared mouse adapts to an unrivalled high life - Reuters",
-    "description": "Andean leaf-eared mouse adapts to an unrivalled high life  ReutersSee more headlines & perspectives on Google News",
-    "published date": "Fri, 24 Jul 2026 15:49:44 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc3I0QWJhZFVtR0dWdVc0VEoxV0wxTXMwX1V5bkw3c0licVM4TDlpVUJLTmp6U1VhRG9fSmhoYmphTDJWVUZ0NVlLN0dYUjVOQWN1ZlhJMmQzR2VJRWFodnVFUEJHVlcwZ0FpTHNMY3FGNWNjTk10RnFUUFJWNmRHUE9jXzdJeWF3MjI1aGNQTEN5bFdGOEl4Snc2UUFFZHc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.reuters.com",
-      "title": "Reuters"
+      "href": "https://phys.org",
+      "title": "Phys.org"
     }
   },
   {
@@ -181,7 +171,7 @@
   },
   {
     "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer - Ars Technica",
-    "description": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer  Ars TechnicaPrecise DNA base editing using AlphaFold3-based contact modelling  NatureNobel Laureate Jennifer Doudna enters AI protein design arena  Fierce BiotechScientists Are Designing CRISPR Gene Editors With AI  SingularityHubAI‑designed gene‑editing enzymes expand the CRISPR toolbox  Phys.org",
+    "description": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer  Ars TechnicaPrecise DNA base editing using AlphaFold3-based contact modelling  NatureNobel Laureate Jennifer Doudna enters AI protein design arena  Fierce BiotechAI‑designed gene‑editing enzymes expand the CRISPR toolbox  Phys.orgScientists Are Designing CRISPR Gene Editors With AI  SingularityHub",
     "published date": "Fri, 24 Jul 2026 17:31:26 GMT",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdWgwSHowSUxHZER1N1EwNVA5ZndOWDNWUWZ1V3h4WldhQUdBRnFIOXJoOEtPN192dlQ3R1YydnI1MW05MHJmNGNueWJtbTBOVVFzZzZUcUJSRzN6c042WWY4ZjdEVkc3YW93dXNoOEpHaG1qb0JnNUw0OTBFQnphZkFqdEl4ZzI0VFdndTBZczdaTTNEUGgwSG83ZzBjaHM2MXNoY0ljT3UwbHI1MjF0WEI5cnRIMFk?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -220,6 +210,16 @@
     }
   },
   {
+    "title": "Science word of the day: Lithics - Live Science",
+    "description": "Science word of the day: Lithics  Live Science",
+    "published date": "Sat, 25 Jul 2026 08:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QYzZHLTcwMlg0QzQ0SGY1Sl9aaHRpS3pTZDItYlV4Y3VXczUtMU1Sbi1LZjF2TERvU0dzN0lHSWdidXZYOVZhSUkyWE1xZHowNk92TWxIb0UzU0JvdmFoMlVyOTZ2SW53SHlwc2xoS1ZGNkFSTVJtdVhVaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.livescience.com",
+      "title": "Live Science"
+    }
+  },
+  {
     "title": "Quantum Zeno effect could freeze computations as qubit systems scale up - Phys.org",
     "description": "Quantum Zeno effect could freeze computations as qubit systems scale up  Phys.org",
     "published date": "Fri, 24 Jul 2026 16:40:06 GMT",
@@ -230,33 +230,23 @@
     }
   },
   {
+    "title": "The easiest way to learn the summer night sky starts with these 3 stars - space.com",
+    "description": "The easiest way to learn the summer night sky starts with these 3 stars  space.com",
+    "published date": "Fri, 24 Jul 2026 13:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM21ZZmQyNGktYm53VkFlTTJ1YWYwTFBRRVUzcnpuVVNib2lPc2dCN0Fac2J6c1JyYjlsU2E0LVlWVHR0dVJ6TFVFUVh5eHdlRDc0aGJuYWxUZW5HQ3dTaXA1RjJrMGpXaUc2OGlLUkpaWEl0bEZLR25SczRkRUVrQWdUam1qT1d4OGJjbHg1QmZwUTFha0d6REszZktqNmp2NTBxdlJfYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.space.com",
+      "title": "space.com"
+    }
+  },
+  {
     "title": "12-foot great white shark ‘Ernst’ tracked near Montauk — and Atlantic’s largest ever could be right behind her - New York Post",
-    "description": "12-foot great white shark ‘Ernst’ tracked near Montauk — and Atlantic’s largest ever could be right behind her  New York PostHow to Track Contender, the 1,700-Pound Great White Shark Heading to Cape Cod  A-Z Animals‘Contender’, the near-prehistoric ocean beast, resurfaces after months missing in the Atlantic  Diario ASMassive, Record-Breaking Great White Shark Detected Near U.S. Vacation Hotspot  YahooLargest male great white shark ever spotted near popular vacation spot  AL.com",
+    "description": "12-foot great white shark ‘Ernst’ tracked near Montauk — and Atlantic’s largest ever could be right behind her  New York PostHow to Track Contender, the 1,700-Pound Great White Shark Heading to Cape Cod  A-Z Animals‘Contender’, the near-prehistoric ocean beast, resurfaces after months missing in the Atlantic  Diario ASMassive, Record-Breaking Great White Shark Detected Near U.S. Vacation Hotspot  YahooGreat white shark weighing over 450 kilograms reappears off the coast of Canada  Gazeta Express",
     "published date": "Fri, 24 Jul 2026 11:00:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObDhjWEIwU0dya0x1ZXlnQlFuSWRZQmZDU2pNcFFlbDhvXzkyZlFZSGsyR1RkOERIVmI1ZDQwTmpoNE1ZZ1ozMXpkN3Q0S0JzU2ZEblZMTG13dm1RWlo5RE9fYXNlN3NGT0NBZ0tIeGZjWGt5SUhLSy1YYWNXTFRFcnRHeV9CSDBjTGJjcGVla0dwUUlXQ1FSZFhBVFI5ZDJmQV9McHNMTkJhVkc1dVZXUk9yRE5LUkdibFhES1pDOEMwdEpDRGFiY25KY3RqM3N4WEtWYkRn?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://nypost.com",
       "title": "New York Post"
-    }
-  },
-  {
-    "title": "Four dead stars have been confirmed within 65 light-years of Earth, hidden for decades in the glare of the brighter red dwarfs they orbit - Space Daily",
-    "description": "Four dead stars have been confirmed within 65 light-years of Earth, hidden for decades in the glare of the brighter red dwarfs they orbit  Space DailyFour white dwarfs found hiding in Earth’s cosmic backyard  yourweather.co.uk🔭 Four hidden white dwarfs discovered near the Sun  Techno-ScienceScientists discover a giant celestial graveyard near Earth  Metro.co.ukFour hidden dead stars found in Earth's backyard  The News International",
-    "published date": "Sat, 25 Jul 2026 06:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxObk05Y0dvZVhLM2ZLWklxVWI2WWFTeVppTTNUZzJlTUM1bFpQcUdnajdNYWRENFdJS1BkM1E1cE5aYUxMRmJ6WktNbG05Mmx0U1VCSlJjakNVdTZrV0FnWWMxaDMxb2RyZFhkYTZraS1yVlNDc1REY2s5bFdGTjUwM2RSZHdsMjI0Q3N5NlZMN245UFJDSVpjVWM5dkpOU3kxSmdMejN2d1prTTVick1PaWNvanpMcnVYNFM5MXFFSF9UX09OV1JST2RRSmRjaEJfbFpYUHdYWTJja1ZfcUk1NERncDk3U2VQRFZlbG5qVHJxV2Jz?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://spacedaily.com",
-      "title": "Space Daily"
-    }
-  },
-  {
-    "title": "Engineers observe quantum heat waves at room temperature - Phys.org",
-    "description": "Engineers observe quantum heat waves at room temperature  Phys.orgPhonon focusing at room temperature  NatureUCLA engineers observe quantum heat waves at room temperature  Open Access Government",
-    "published date": "Thu, 23 Jul 2026 21:30:01 GMT",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmQ3ZFLUM5bkNIMDEzSHcwMTM4U3VHUjBxeDFIRVdGSGFmcERnOURBQ3RGNXVuTUxBX1dkZlJkZTlTLW5HOEtyS3Q5cnoyNm5LUFB1ek1vZVNfbkt3U19SMWM5azlqaktRMUdN?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://phys.org",
-      "title": "Phys.org"
     }
   },
   {
@@ -270,13 +260,33 @@
     }
   },
   {
+    "title": "Engineers observe quantum heat waves at room temperature - Phys.org",
+    "description": "Engineers observe quantum heat waves at room temperature  Phys.orgPhonon focusing at room temperature  NatureUCLA engineers observe quantum heat waves at room temperature  Open Access Government",
+    "published date": "Thu, 23 Jul 2026 21:30:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmQ3ZFLUM5bkNIMDEzSHcwMTM4U3VHUjBxeDFIRVdGSGFmcERnOURBQ3RGNXVuTUxBX1dkZlJkZTlTLW5HOEtyS3Q5cnoyNm5LUFB1ek1vZVNfbkt3U19SMWM5azlqaktRMUdN?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://phys.org",
+      "title": "Phys.org"
+    }
+  },
+  {
     "title": "Amateur astronomer discovers 390-million-year-old meteorite impact crater in Quebec - ABC News - Breaking News, Latest News and Videos",
-    "description": "Amateur astronomer discovers 390-million-year-old meteorite impact crater in Quebec  ABC News - Breaking News, Latest News and VideosGiant pit discovered by hiker on Google Maps confirmed to be 390 million-year-old meteor impact crater  Live ScienceA Camper’s Google Maps Hunch Revealed a 390-Million-Year-Old Meteorite Crater  ZME ScienceWhile Mapping a Camping Trip, Man Spots Previously Unknown 390-Million-Year-Old Meteorite Impact Crater in Quebec  Discover MagazineA massive crater was spotted on Google Earth. It could be a scar from an ancient meteorite impact  space.com",
+    "description": "Amateur astronomer discovers 390-million-year-old meteorite impact crater in Quebec  ABC News - Breaking News, Latest News and VideosAn Amateur Astronomer Using Google Maps Spotted a Strange Indentation. It Turned Out to Be a Meteorite Crater From 390 Million Years Ago  Smithsonian MagazineGiant pit discovered by hiker on Google Maps confirmed to be 390 million-year-old meteor impact crater  Live ScienceWhile Mapping a Camping Trip, Man Spots Previously Unknown 390-Million-Year-Old Meteorite Impact Crater in Quebec  Discover MagazineA massive crater was spotted on Google Earth. It could be a scar from an ancient meteorite impact  space.com",
     "published date": "Sat, 25 Jul 2026 02:41:11 GMT",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT3IzWFZGRU9DVk9OSzZRSG1SZWJEX09CSTUzSzBXc3JDX2g4c0VPcE1wV0xOb3VRaUJsajZ6dXFrV2xhRjlmaFJCeHdUQk5jMHpUOVVzdmFUblhqTVdRUkNfaFRUVi1nOElfSGJJb1UxT0tvd09WWDlrb1RjTGpRTzJUWWJmc010dmUwUWJ3NjJzUllGV1ZMRzhiTjk2ODNLT1VoWVM5QjdKeWRZUEFQYUJHMUZUUdIBuwFBVV95cUxQaUlrWU5pNXFtX2xKd0U2eGg0SEVMU0JHcUNGVFBVblhUQ3VIUE85MEQ5U2F2NTBlNG1jWjk3QVBUMzFiaGU5ZE53QktmcUZsSDIzWlpkbzNuZmNsenZMOVlGUDl2blZ3VEJjcEVySktHNU1EUVdFcnZBS280aGNTOTRzaGstM2MyeXVRY3UxdFZlbUp6U1hqanl2R2pCZWZQMXotOEt4ZkUyT0FsRURpRzNvXzVleWVZb21j?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://abcnews.com",
       "title": "ABC News - Breaking News, Latest News and Videos"
+    }
+  },
+  {
+    "title": "Four dead stars have been confirmed within 65 light-years of Earth, hidden for decades in the glare of the brighter red dwarfs they orbit - Space Daily",
+    "description": "Four dead stars have been confirmed within 65 light-years of Earth, hidden for decades in the glare of the brighter red dwarfs they orbit  Space DailyFour white dwarfs found hiding in Earth’s cosmic backyard  yourweather.co.uk🔭 Four hidden white dwarfs discovered near the Sun  Techno-ScienceScientists discover a giant celestial graveyard near Earth  Metro.co.ukFour hidden dead stars found in Earth's backyard  The News International",
+    "published date": "Sat, 25 Jul 2026 06:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxObk05Y0dvZVhLM2ZLWklxVWI2WWFTeVppTTNUZzJlTUM1bFpQcUdnajdNYWRENFdJS1BkM1E1cE5aYUxMRmJ6WktNbG05Mmx0U1VCSlJjakNVdTZrV0FnWWMxaDMxb2RyZFhkYTZraS1yVlNDc1REY2s5bFdGTjUwM2RSZHdsMjI0Q3N5NlZMN245UFJDSVpjVWM5dkpOU3kxSmdMejN2d1prTTVick1PaWNvanpMcnVYNFM5MXFFSF9UX09OV1JST2RRSmRjaEJfbFpYUHdYWTJja1ZfcUk1NERncDk3U2VQRFZlbG5qVHJxV2Jz?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://spacedaily.com",
+      "title": "Space Daily"
     }
   },
   {
@@ -310,20 +320,20 @@
     }
   },
   {
-    "title": "In 1991, a single subatomic particle struck Earth carrying the kinetic energy of a fast-bowled cricket ball — tens of millions of times more than any human accelerator can give one proton — and physicists still cannot explain what launched it - Space Daily",
-    "description": "In 1991, a single subatomic particle struck Earth carrying the kinetic energy of a fast-bowled cricket ball — tens of millions of times more than any human accelerator can give one proton — and physicists still cannot explain what launched it  Space Daily",
-    "published date": "Sat, 25 Jul 2026 03:30:46 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQSjVZVUUyOFFLWVdFM21fZk1LM2RvUk1QNnRFR0I3a0tTM3RvVG15XzFacF9wemhGMmhJVHVsMmlkNnl5ckNJdDdUdFRlODZzVEk4Q24tWFd6WFZRUzFIQzVYVG80TjJ5bEVCNzlOS2l0M3RTNmdlS2Z2TVBmakdMUEJsaEtHc21yeDV1b1ZMMV8wYjV6UHk4TjZGX3VxODI1LXJCTE9OcWV3LWdwNGRwWWRPejRkRE82Y3B1blZfT01nVDROeVdxVUtiYXBweDNXZmlsME1fWnFEY0NoVXdENlpoLVJDVXFEVmFETk42YXJQZHJtRC0xWFNjYmE1eXZ4Y3FvZUNONmlRWWsxMDctMDJhem1LdFBzR1FjZXlmMlNRZmQxNnpzSXk5S3FGdld1LWQwdA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "As Mars’s atmosphere thinned and its surface became cold, dry and irradiated billions of years ago, any surviving microbial life may have found its last refuge underground. Yet the environments most capable of sheltering life could lie metres—or kilometres—b - Space Daily",
+    "description": "As Mars’s atmosphere thinned and its surface became cold, dry and irradiated billions of years ago, any surviving microbial life may have found its last refuge underground. Yet the environments most capable of sheltering life could lie metres—or kilometres—b  Space DailySomewhere in the dried bed of an ancient Martian river, the Perseverance rover has been drilling into rocks for more than four years — and last June, NASA scientists announced that two of them contain the same complex carbon-based molecules that form th  Space DailyNASA's Perseverance rover finds the strongest evidence yet of ancient life on Mars  Earth.comRivers of magma once bubbled beneath crust of Mars, research suggests  The GuardianChina could be first to bring samples back from Mars  The Globe and Mail",
+    "published date": "Fri, 24 Jul 2026 17:30:26 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPQzhoaGpqbW1yWWZLTmhnMWdJWTRLckN3THRJaWp6bXJHS2pEemNPekMxZ2FGUzlNYWw3UDFlamZucmh1NEFONlJuRDJPd2xNUHJtX3N0SVRVZ0hiUWl3RFlOWF9hX0I4ODRUaVUtUTlmN2d5U0Q5d0oyWUo5b0xNQUtrYlJUS3NwellBZlFaZ24ySGNkckQwQ0pfSWFmZEdwVjNuOGVYU3kzdVUtbHhTbktqdkRGWDhuR2lUR1FGZk5Mb0JqVi1zM1Q2SV9KbW5DMWQyUjRBUU9ZRGlXblJneWpVVlBibXNUNlVGaWtqT1JsS01tLTl4enVHcFFFRHRlLTF6N3lFQjQ4SV9yaWdqbmFwZ1h1YVNqdHVqM0RkNHMwdTlSUk1zd2xBeU5OZFQ2b25jQXp3NA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://spacedaily.com",
       "title": "Space Daily"
     }
   },
   {
-    "title": "As Mars’s atmosphere thinned and its surface became cold, dry and irradiated billions of years ago, any surviving microbial life may have found its last refuge underground. Yet the environments most capable of sheltering life could lie metres—or kilometres—b - Space Daily",
-    "description": "As Mars’s atmosphere thinned and its surface became cold, dry and irradiated billions of years ago, any surviving microbial life may have found its last refuge underground. Yet the environments most capable of sheltering life could lie metres—or kilometres—b  Space DailySomewhere in the dried bed of an ancient Martian river, the Perseverance rover has been drilling into rocks for more than four years — and last June, NASA scientists announced that two of them contain the same complex carbon-based molecules that form th  Space DailyNASA's Perseverance rover finds the strongest evidence yet of ancient life on Mars  Earth.comRivers of magma once bubbled beneath crust of Mars, research suggests  The GuardianChina could be first to bring samples back from Mars  The Globe and Mail",
-    "published date": "Fri, 24 Jul 2026 17:30:26 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPQzhoaGpqbW1yWWZLTmhnMWdJWTRLckN3THRJaWp6bXJHS2pEemNPekMxZ2FGUzlNYWw3UDFlamZucmh1NEFONlJuRDJPd2xNUHJtX3N0SVRVZ0hiUWl3RFlOWF9hX0I4ODRUaVUtUTlmN2d5U0Q5d0oyWUo5b0xNQUtrYlJUS3NwellBZlFaZ24ySGNkckQwQ0pfSWFmZEdwVjNuOGVYU3kzdVUtbHhTbktqdkRGWDhuR2lUR1FGZk5Mb0JqVi1zM1Q2SV9KbW5DMWQyUjRBUU9ZRGlXblJneWpVVlBibXNUNlVGaWtqT1JsS01tLTl4enVHcFFFRHRlLTF6N3lFQjQ4SV9yaWdqbmFwZ1h1YVNqdHVqM0RkNHMwdTlSUk1zd2xBeU5OZFQ2b25jQXp3NA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "In 1991, a single subatomic particle struck Earth carrying the kinetic energy of a fast-bowled cricket ball — tens of millions of times more than any human accelerator can give one proton — and physicists still cannot explain what launched it - Space Daily",
+    "description": "In 1991, a single subatomic particle struck Earth carrying the kinetic energy of a fast-bowled cricket ball — tens of millions of times more than any human accelerator can give one proton — and physicists still cannot explain what launched it  Space Daily",
+    "published date": "Sat, 25 Jul 2026 03:30:46 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQSjVZVUUyOFFLWVdFM21fZk1LM2RvUk1QNnRFR0I3a0tTM3RvVG15XzFacF9wemhGMmhJVHVsMmlkNnl5ckNJdDdUdFRlODZzVEk4Q24tWFd6WFZRUzFIQzVYVG80TjJ5bEVCNzlOS2l0M3RTNmdlS2Z2TVBmakdMUEJsaEtHc21yeDV1b1ZMMV8wYjV6UHk4TjZGX3VxODI1LXJCTE9OcWV3LWdwNGRwWWRPejRkRE82Y3B1blZfT01nVDROeVdxVUtiYXBweDNXZmlsME1fWnFEY0NoVXdENlpoLVJDVXFEVmFETk42YXJQZHJtRC0xWFNjYmE1eXZ4Y3FvZUNONmlRWWsxMDctMDJhem1LdFBzR1FjZXlmMlNRZmQxNnpzSXk5S3FGdld1LWQwdA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://spacedaily.com",
       "title": "Space Daily"
@@ -350,16 +360,6 @@
     }
   },
   {
-    "title": "Astronomers catch massive galaxy assembling piece by piece 1.2 billion years after Big Bang - Phys.org",
-    "description": "Astronomers catch massive galaxy assembling piece by piece 1.2 billion years after Big Bang  Phys.org",
-    "published date": "Fri, 24 Jul 2026 12:40:02 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNEF5Sm90OUtzNXJuRFZRR3NKZy0zYlJjcjJsNjdTbkFLdWZwa0paUnRxZHlpWlRIdDI4TDRGMHgxSm5Oc0JXRkdlYTdKUTFHTlZiOE5NSnZLdHdjdmVEaUR6eElreDRiQUtxMmVpSHJUeHVxTVFhOTh1amNOTjl3RA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://phys.org",
-      "title": "Phys.org"
-    }
-  },
-  {
     "title": "Scientists may have finally solved the mystery of the sun's missing silver - space.com",
     "description": "Scientists may have finally solved the mystery of the sun's missing silver  space.comScientists discover the Sun contains 55% more silver than expected  ScienceDailyAstronomers fix a key error in measuring the Sun's silver  Earth.comAstronomers Found the Sun’s Missing Silver Hiding in Plain Sight  GizmodoThe Case of the Sun's Missing Silver  Universe Today",
     "published date": "Thu, 23 Jul 2026 20:00:00 GMT",
@@ -370,13 +370,13 @@
     }
   },
   {
-    "title": "Somewhere in the Milky Way tonight, drifting through the darkness between the stars, there are roughly 20 planets for every sun that burns — trillions of worlds, most thought to be ejected from the solar systems where they were born and now wandering the gal - Space Daily",
-    "description": "Somewhere in the Milky Way tonight, drifting through the darkness between the stars, there are roughly 20 planets for every sun that burns — trillions of worlds, most thought to be ejected from the solar systems where they were born and now wandering the gal  Space Daily",
-    "published date": "Fri, 24 Jul 2026 09:15:07 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPNXFrTGItdnRnTUN3c2NPN3Y1bENSajh0QWxkTnNNSFFfb2M5WTU5NEtHTnZWdlY2bFl1bnhDVFkyYjZPeENhR3owR21VcUotbW5BbDlfR3JlSjVNODBqTlExUy1EWTVaeFBjajBPdEd4NFEzXzJ6MlpJcW16ODdraXBhd2xTWWpocVNZX1VGai0xQmxFQjlHVXdRdHpsVl80eVFpMU1EZFNqajRvT3l4SVQtVGxseFF6ZTVKTEUtTDVDbTJzZHhTbGYzRVlFRHBhRlJtWk16eWhSTzVsZ2RyaXVGQnZwYnVOb3ExYmFYeXlUaktIUi1sMTdEZkstNEpMUWhJeTFrS3NQMF9NbkotNDVUdlV1RGdCaTBzdEtURjNRNFFMNVZscXBDWnhUWlZWYTNTaXkwX2Y?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Astronomers catch massive galaxy assembling piece by piece 1.2 billion years after Big Bang - Phys.org",
+    "description": "Astronomers catch massive galaxy assembling piece by piece 1.2 billion years after Big Bang  Phys.org",
+    "published date": "Fri, 24 Jul 2026 12:40:02 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNEF5Sm90OUtzNXJuRFZRR3NKZy0zYlJjcjJsNjdTbkFLdWZwa0paUnRxZHlpWlRIdDI4TDRGMHgxSm5Oc0JXRkdlYTdKUTFHTlZiOE5NSnZLdHdjdmVEaUR6eElreDRiQUtxMmVpSHJUeHVxTVFhOTh1amNOTjl3RA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://spacedaily.com",
-      "title": "Space Daily"
+      "href": "https://phys.org",
+      "title": "Phys.org"
     }
   },
   {
@@ -390,16 +390,6 @@
     }
   },
   {
-    "title": "Hubble and Webb uncover Omega Centauri’s first stellar-mass black hole after 23 years of observations - The Watchers - Watching the world evolve and transform",
-    "description": "Hubble and Webb uncover Omega Centauri’s first stellar-mass black hole after 23 years of observations  The Watchers - Watching the world evolve and transformHubble Discovers the First \"Missing\" Black Hole in this Famous Star Cluster  Universe TodayHubble Finds First Black Hole in Omega Centauri via 20-Year Star Wobble  Tech Times",
-    "published date": "Fri, 24 Jul 2026 17:17:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRUFOekdIVGpYeHpsMFVseGFXLUgtS2hkbHdmVjVXYnBITkdhN1RGaFF1NkZ0aXdmam55NThKWUZTa2R6dEZjbVpTOWQ5VW84cUgtbkppZGFoeW9SS0pvb2VCazluR1ptNlItVGJOd1FTSWF4ekg0X1lhcEVsTmloMHQxOWE4OXVUY0NTZTdkaXFSRWcyQlV3bHdOYWdGLURZMmlaWTlBb1FYR2xuXy1jNVVZRFNObG9KSkVaWG0wdnFPM3ZiYTdPT2JsNklyUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://watchers.news",
-      "title": "The Watchers - Watching the world evolve and transform"
-    }
-  },
-  {
     "title": "T. Rex Babies Were No Bigger Than House Cats—But Already Deadly - Gizmodo",
     "description": "T. Rex Babies Were No Bigger Than House Cats—But Already Deadly  Gizmodo",
     "published date": "Fri, 24 Jul 2026 12:42:53 GMT",
@@ -407,6 +397,16 @@
     "publisher": {
       "href": "https://gizmodo.com",
       "title": "Gizmodo"
+    }
+  },
+  {
+    "title": "Hubble and Webb uncover Omega Centauri’s first stellar-mass black hole after 23 years of observations - The Watchers - Watching the world evolve and transform",
+    "description": "Hubble and Webb uncover Omega Centauri’s first stellar-mass black hole after 23 years of observations  The Watchers - Watching the world evolve and transformHubble Discovers the First \"Missing\" Black Hole in this Famous Star Cluster  Universe TodayHubble Finds First Black Hole in Omega Centauri via 20-Year Star Wobble  Tech Times",
+    "published date": "Fri, 24 Jul 2026 17:17:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRUFOekdIVGpYeHpsMFVseGFXLUgtS2hkbHdmVjVXYnBITkdhN1RGaFF1NkZ0aXdmam55NThKWUZTa2R6dEZjbVpTOWQ5VW84cUgtbkppZGFoeW9SS0pvb2VCazluR1ptNlItVGJOd1FTSWF4ekg0X1lhcEVsTmloMHQxOWE4OXVUY0NTZTdkaXFSRWcyQlV3bHdOYWdGLURZMmlaWTlBb1FYR2xuXy1jNVVZRFNObG9KSkVaWG0wdnFPM3ZiYTdPT2JsNklyUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://watchers.news",
+      "title": "The Watchers - Watching the world evolve and transform"
     }
   },
   {
@@ -420,13 +420,13 @@
     }
   },
   {
-    "title": "NASA telescope uncovers hidden planet using revolutionary method after years of cosmic hide-and-seek - FOX Weather",
-    "description": "NASA telescope uncovers hidden planet using revolutionary method after years of cosmic hide-and-seek  FOX WeatherNASA's Webb telescope wasn't looking for a new planet around Beta Pictoris — it was studying a known one — and found a giant world, Beta Pictoris d, lurking 63 light-years away inside a debris disk that had blocked every conventional search for more than a  Space DailyJames Webb Telescope Discovers Hidden Giant Planet in Famous Star System  SciTechDailyJWST Found Beta Pictoris d by Reading Its Atmosphere, Not Photographing It  Tech TimesNASA’s Webb telescope detects a third giant planet orbiting Beta Pictoris  The Brighter Side of News",
-    "published date": "Thu, 23 Jul 2026 22:56:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdXhrMXdDYzlPRVFLVjZseVhSaFlJb3ZZcUphQjBOQjdKTU8wTDFiZmpwY0Rqdk1zeVB5d1YtOERnTzJmSnBDei15SGlNdFlqY2JxdFl6cFNWSEhVclBIQVJjNDd6S19WWDFMYjdCV2Q5ZHlEeW1nSkJielAyQzFrMXFJRGVxWTA5MmtN0gGQAUFVX3lxTE1sUWh4TXV5Yk5QNUpQNUhIWHl3REkwbFpPWm5GeHdUdlEyd0xyelBRNFlJcEw1SHFmWjhsX0lJX0U2ZnNXMzdFVkJCODZpaEVnd2FTU0pqSFBtYXhYRE1zY1BzTFdsdVlEendJcDdmUUpPUWR6djFmTTUtLWRIVzhOOGViQWNIRUZpWDAtRzJldQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Vulcan Centaur swapped out again: NASA goes with SpaceX Falcon Heavy rocket for launch of space weather mission - space.com",
+    "description": "Vulcan Centaur swapped out again: NASA goes with SpaceX Falcon Heavy rocket for launch of space weather mission  space.com",
+    "published date": "Thu, 23 Jul 2026 21:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVXkwRHhBVXpVNTMzSXZYNDZ5bE42U3pySzlvMVlDUjVrdVd0amhXb2xERU1SNldRbHJkQm5WMlR4TVZRMms4dHhvR1pUSWwtN25qMGFod2RJTGJDbFh6OUJUc0hEN2JKVFI5QTVqbTktdGVsTTFaZ01DckRTVFNKblNwY0V5LU14NDZ5c1dTcUFQdjNIQ0lGU2Y0VUxGNlUyd3I1cGZWQ2pDZjNWVjNlVGY4ZnZub3ByRlFELXlxM1VRcnM2Y3dUT0VETU9qcWRtRWxQc1lDN3NPWklidEdRMVBmbkVFaWJNN1prNXliV1g?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.foxweather.com",
-      "title": "FOX Weather"
+      "href": "https://www.space.com",
+      "title": "space.com"
     }
   },
   {
@@ -450,16 +450,6 @@
     }
   },
   {
-    "title": "Vulcan Centaur swapped out again: NASA goes with SpaceX Falcon Heavy rocket for launch of space weather mission - space.com",
-    "description": "Vulcan Centaur swapped out again: NASA goes with SpaceX Falcon Heavy rocket for launch of space weather mission  space.com",
-    "published date": "Thu, 23 Jul 2026 21:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVXkwRHhBVXpVNTMzSXZYNDZ5bE42U3pySzlvMVlDUjVrdVd0amhXb2xERU1SNldRbHJkQm5WMlR4TVZRMms4dHhvR1pUSWwtN25qMGFod2RJTGJDbFh6OUJUc0hEN2JKVFI5QTVqbTktdGVsTTFaZ01DckRTVFNKblNwY0V5LU14NDZ5c1dTcUFQdjNIQ0lGU2Y0VUxGNlUyd3I1cGZWQ2pDZjNWVjNlVGY4ZnZub3ByRlFELXlxM1VRcnM2Y3dUT0VETU9qcWRtRWxQc1lDN3NPWklidEdRMVBmbkVFaWJNN1prNXliV1g?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.space.com",
-      "title": "space.com"
-    }
-  },
-  {
     "title": "Quantum dots reveal hidden light waves on metal surfaces - Phys.org",
     "description": "Quantum dots reveal hidden light waves on metal surfaces  Phys.org",
     "published date": "Fri, 24 Jul 2026 18:40:07 GMT",
@@ -470,16 +460,6 @@
     }
   },
   {
-    "title": "The universe is 13.8 billion years old. Webb is finding galaxies that look like they've been quietly forming stars for billions of years inside a cosmos that was, at the time of observation, only a few hundred million years old - Space Daily",
-    "description": "The universe is 13.8 billion years old. Webb is finding galaxies that look like they've been quietly forming stars for billions of years inside a cosmos that was, at the time of observation, only a few hundred million years old  Space DailyJames Webb Space Telescope discovers the secrets of cosmic 'factories' that filled the early universe with stardust  space.comJWST Catches Metal-Poor Galaxy Forging Iron Dust Earlier Than Models Allow  Tech TimesWebb telescope reveals a surprisingly mature galaxy in the early Universe  Earth.comUnlocking the Secrets of Early Universe Galaxy Evolution  JO24",
-    "published date": "Fri, 24 Jul 2026 23:00:25 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CMFNVRWtPckpUSU1rQW5vUTZacXJrOXZsclFteGVrd1hjaDg0aFhZNmNkaGhaQjlLYVF5anMtZlhtRENOZWhCWldXSFRoM3hvTDFIamM2bFVhUHQxc0dPazI0YTM3QUdQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://spacedaily.com",
-      "title": "Space Daily"
-    }
-  },
-  {
     "title": "Mathematician Offers New Solution to a Fundamental Cosmic Paradox - SciTechDaily",
     "description": "Mathematician Offers New Solution to a Fundamental Cosmic Paradox  SciTechDailyHow Gravity from Entropy theory connects the second law of thermodynamics with the emergence of cosmic structure  Phys.orgNew quantum gravity theory links entropy, dark energy, and life  ScienceDailyNew Gravity Theory Suggests How Cosmic Order Emerges Despite Rising Entropy  The DebriefGfE Theory Shows Total Universe Entropy Increases Over Time  Quantum Zeitgeist",
     "published date": "Sat, 25 Jul 2026 00:11:49 GMT",
@@ -487,6 +467,16 @@
     "publisher": {
       "href": "https://scitechdaily.com",
       "title": "SciTechDaily"
+    }
+  },
+  {
+    "title": "The universe is 13.8 billion years old. Webb is finding galaxies that look like they've been quietly forming stars for billions of years inside a cosmos that was, at the time of observation, only a few hundred million years old - Space Daily",
+    "description": "The universe is 13.8 billion years old. Webb is finding galaxies that look like they've been quietly forming stars for billions of years inside a cosmos that was, at the time of observation, only a few hundred million years old  Space DailyJames Webb Space Telescope discovers the secrets of cosmic 'factories' that filled the early universe with stardust  space.comJWST Catches Metal-Poor Galaxy Forging Iron Dust Earlier Than Models Allow  Tech TimesWebb telescope reveals a surprisingly mature galaxy in the early Universe  Earth.comUnlocking the Secrets of Early Universe Galaxy Evolution  JO24",
+    "published date": "Fri, 24 Jul 2026 23:00:25 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CMFNVRWtPckpUSU1rQW5vUTZacXJrOXZsclFteGVrd1hjaDg0aFhZNmNkaGhaQjlLYVF5anMtZlhtRENOZWhCWldXSFRoM3hvTDFIamM2bFVhUHQxc0dPazI0YTM3QUdQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://spacedaily.com",
+      "title": "Space Daily"
     }
   },
   {
@@ -557,6 +547,16 @@
     "publisher": {
       "href": "https://www.sciencealert.com",
       "title": "ScienceAlert"
+    }
+  },
+  {
+    "title": "Two scientists are planning to venture into one of the most dangerous environments in the solar system an - The Times of India",
+    "description": "Two scientists are planning to venture into one of the most dangerous environments in the solar system an  The Times of IndiaPRAXIS: Planetary Rings Autonomous EXploration with In-situ Sampling  NASA (.gov)Two scientists want to touch Saturn's rings. NASA thinks their plan could work  MSN",
+    "published date": "Sat, 25 Jul 2026 10:33:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOdU1MUkRNMTlrTWVNNThVVlI4NjFsZ1JrN296blc1ZG9tTFI2TXdrNHFiQy01Q2RkNWdDZTlPS1pLZWhRMFpuSFlueWY4TDFVdnlHNndZWk5iMi05c2Y3UGRTaElPWW5uUUI2eUVtZF9RV2g0enJLUzRKcnQ4TDN5NXcxUTVwQXJ6Q0Nma1NsMG9YMXBiTGhVS0RzLXZZemhrUFVCbmk5MGVNdkRzNTlVZmdwY3Rjc09QOGdqbTZIQ09OSmVnSHlVTTZ6bmYtQkp4WDljZ0ZHSWlxQUlHeWdaVVc2eXowUFRuM2p0aGlSeDZFc0hPNmpZaVE2Q1ZVZUN2S09fVHduRFBNRkVnTmFETkpKQV9WcnpSTjFHMHJqbDNLNU9zUnhpSVZCc0h6SjBqeVVSQnhCRjBXUjE3U2fSAcMCQVVfeXFMTWhUdDVUY0xNNE82NUJuaHQtRC1SeUdEbnp2bVB2MWkyWjBINFBNNTdzM3paclVBOWYzcjJWbU1FdFJHbmdlZUZCU1J2M09keEZSNHVFMldSQW1lVE1iTV92UlBoWVRGcTc4djJhRlJGSnFxcEZOX3MyUHNFUjF0TXNYQl9SSkh5SmhhakNTa1NScGFhcUtWSDlra2NEbkpCQW1JOU10R0RiLURqY21UQlZ0WDlPbUpEYURsV2RLTDBOSTJoNnQ2X3NNb3prdVd3YXdfNzlra2xZems5ZWRXc3ZuV0NCbHdrU3oxdzJyaUY2T0N6SGN3c3dqcGY3YW9wZmI5TDk4cDVtMmN5QzVuLTZ1Z3VIYzZvekJ5ampoVTEzRVBQdTA3ODlNTUdmZW1sdy1Ub1dXZnViekc3ZFI0NV84M0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://timesofindia.indiatimes.com",
+      "title": "The Times of India"
     }
   },
   {
