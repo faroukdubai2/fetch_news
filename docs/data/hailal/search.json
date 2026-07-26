@@ -80,16 +80,6 @@
     }
   },
   {
-    "title": "الهلال لا يستسلم.. رافينيا يرد على العرض السعودي بشرط مفاجئ - جريدة الرياض",
-    "description": "الهلال لا يستسلم.. رافينيا يرد على العرض السعودي بشرط مفاجئ  جريدة الرياض",
-    "published date": "Wed, 17 Jun 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE55UXN2QXVfQTNwWmx1TnhteGRjRXBzcktVS01LaWdnNDZPcG9EQXI2dC1FUnY4QmNYX3ZPNDJXVmVkZ3B0Tmc0?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.alriyadh.com",
-      "title": "جريدة الرياض"
-    }
-  },
-  {
     "title": "فيديو: انتهى عصر المعجزات.. الهلال يهزم الفيحاء ويخسر الدوري السعودي مجددًا - Kooora",
     "description": "فيديو: انتهى عصر المعجزات.. الهلال يهزم الفيحاء ويخسر الدوري السعودي مجددًا  Kooora",
     "published date": "Thu, 21 May 2026 07:00:00 GMT",
@@ -97,6 +87,16 @@
     "publisher": {
       "href": "https://www.kooora.com",
       "title": "Kooora"
+    }
+  },
+  {
+    "title": "الهلال لا يستسلم.. رافينيا يرد على العرض السعودي بشرط مفاجئ - جريدة الرياض",
+    "description": "الهلال لا يستسلم.. رافينيا يرد على العرض السعودي بشرط مفاجئ  جريدة الرياض",
+    "published date": "Wed, 17 Jun 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE55UXN2QXVfQTNwWmx1TnhteGRjRXBzcktVS01LaWdnNDZPcG9EQXI2dC1FUnY4QmNYX3ZPNDJXVmVkZ3B0Tmc0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.alriyadh.com",
+      "title": "جريدة الرياض"
     }
   },
   {
@@ -410,13 +410,13 @@
     }
   },
   {
-    "title": "بنفيكا يستهدف استعادة خدمات نجم الهلال السعودي - المصري اليوم",
-    "description": "بنفيكا يستهدف استعادة خدمات نجم الهلال السعودي  المصري اليوم",
-    "published date": "Wed, 01 Jul 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40cDQ3SlpZV3JsYWxqRkpSVkkzTVhRd2JoSXhNU1Roa3FGV2pFUk9keHNSdlYyckZqTHdIb0RPclNYTS1QMmV4QzlSTnZBMV8zTnpDTzg3VmhjdFg4ZHJJ0gFjQVVfeXFMTWdyb3lQN2ZWY09vU0NqS2RjYmUyc29CV1lTcXdvejJrbnRqc2xMREhtQTkySFJHUzBCQ1NveERKMHhHaXAwcDlUcWJadzlYeHNpb1lUeDliWkhUcUxPSUloOGRn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "بأمر من الوليد بن طلال.. تغيير آلية نقل دوري روشن في الموسم الجديد! - Kooora",
+    "description": "بأمر من الوليد بن طلال.. تغيير آلية نقل دوري روشن في الموسم الجديد!  Kooora",
+    "published date": "Sun, 03 May 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi8wRBVV95cUxNU1V4U2pVdmdYUE5wdnJ4dHJXVi1iOUYzV2p4MXViRVF6S0JFYWtybEEtVWg5VWlJRjU0eVlmUGlraXhYRkM2d0N1T1RaUkVIZ2JoZzFRejBsNUJPeUF4eHJ3blNZVS1CdHF0UkItZG9PbXRoQ2dkWlVvZFB0RUVTRHNpVUNsb0otMVdtRWpwOEJ6Z1R4Zmc2MGQwMTI5NXkxSHAxd1dKS0ZuOUt4TlZaWXJqd3lkOHRQQ3pQMlJQQ20wX3l5TVJVblZKUlJhYlhMd3hXTG93a3J1UHlrSUhJWnRPS09XczNiTnhxdEVJdzhhOHZOcmc2Y3VfQ1VjVEU3MnVXNUsyaW5ISzQ2MzhuaFk5ckJoY242Tl9IeUF2NFVSNlQyd0hoanhRc2tGc19EZnpIeFV4OWN1LXN0MmVQMTlKSDFwN2FBcjE3cEhXeTJVeWphOWY4Wmx6ZGNzYmY0ZnFoNDRzQ3FRbEdrenZZRW5qYnE1MF9pamtiMXpiakFLdm5GLUJFQmY5bldFajB6dGs4bXAtZTFOZlZnbkRWY01kY1VUeE9FWDc4eVdtODNzSzd4aFdoYWk0MlhYVVdCOFdCd1diRWVtSTBxR0xGRHd3M054WHdIZGVVOGdlTlZNTmpHSXF2bF92emNhMXJKT282eEhUbkFkVS1kNUYtNWhxTDFaNl8waFhfUFlKNFB3OVVpREt5WnpWbVVDSHJyR3ZXRTEyTHlQRTluX244ejB4TFVDa2FVZGlIMnNvWlhsZElNcTNuX2tZY1dDaW9TRzc4SlBSaGIzVGV5WkJGTFowWEJpYzVSU295cUFMb2lRNzQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.almasryalyoum.com",
-      "title": "المصري اليوم"
+      "href": "https://www.kooora.com",
+      "title": "Kooora"
     }
   },
   {
@@ -430,13 +430,13 @@
     }
   },
   {
-    "title": "بأمر من الوليد بن طلال.. تغيير آلية نقل دوري روشن في الموسم الجديد! - Kooora",
-    "description": "بأمر من الوليد بن طلال.. تغيير آلية نقل دوري روشن في الموسم الجديد!  Kooora",
-    "published date": "Sun, 03 May 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi8wRBVV95cUxNU1V4U2pVdmdYUE5wdnJ4dHJXVi1iOUYzV2p4MXViRVF6S0JFYWtybEEtVWg5VWlJRjU0eVlmUGlraXhYRkM2d0N1T1RaUkVIZ2JoZzFRejBsNUJPeUF4eHJ3blNZVS1CdHF0UkItZG9PbXRoQ2dkWlVvZFB0RUVTRHNpVUNsb0otMVdtRWpwOEJ6Z1R4Zmc2MGQwMTI5NXkxSHAxd1dKS0ZuOUt4TlZaWXJqd3lkOHRQQ3pQMlJQQ20wX3l5TVJVblZKUlJhYlhMd3hXTG93a3J1UHlrSUhJWnRPS09XczNiTnhxdEVJdzhhOHZOcmc2Y3VfQ1VjVEU3MnVXNUsyaW5ISzQ2MzhuaFk5ckJoY242Tl9IeUF2NFVSNlQyd0hoanhRc2tGc19EZnpIeFV4OWN1LXN0MmVQMTlKSDFwN2FBcjE3cEhXeTJVeWphOWY4Wmx6ZGNzYmY0ZnFoNDRzQ3FRbEdrenZZRW5qYnE1MF9pamtiMXpiakFLdm5GLUJFQmY5bldFajB6dGs4bXAtZTFOZlZnbkRWY01kY1VUeE9FWDc4eVdtODNzSzd4aFdoYWk0MlhYVVdCOFdCd1diRWVtSTBxR0xGRHd3M054WHdIZGVVOGdlTlZNTmpHSXF2bF92emNhMXJKT282eEhUbkFkVS1kNUYtNWhxTDFaNl8waFhfUFlKNFB3OVVpREt5WnpWbVVDSHJyR3ZXRTEyTHlQRTluX244ejB4TFVDa2FVZGlIMnNvWlhsZElNcTNuX2tZY1dDaW9TRzc4SlBSaGIzVGV5WkJGTFowWEJpYzVSU295cUFMb2lRNzQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "بنفيكا يستهدف استعادة خدمات نجم الهلال السعودي - المصري اليوم",
+    "description": "بنفيكا يستهدف استعادة خدمات نجم الهلال السعودي  المصري اليوم",
+    "published date": "Wed, 01 Jul 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40cDQ3SlpZV3JsYWxqRkpSVkkzTVhRd2JoSXhNU1Roa3FGV2pFUk9keHNSdlYyckZqTHdIb0RPclNYTS1QMmV4QzlSTnZBMV8zTnpDTzg3VmhjdFg4ZHJJ0gFjQVVfeXFMTWdyb3lQN2ZWY09vU0NqS2RjYmUyc29CV1lTcXdvejJrbnRqc2xMREhtQTkySFJHUzBCQ1NveERKMHhHaXAwcDlUcWJadzlYeHNpb1lUeDliWkhUcUxPSUloOGRn?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.kooora.com",
-      "title": "Kooora"
+      "href": "https://www.almasryalyoum.com",
+      "title": "المصري اليوم"
     }
   },
   {
@@ -567,6 +567,16 @@
     "publisher": {
       "href": "https://www.kooora.com",
       "title": "Kooora"
+    }
+  },
+  {
+    "title": "ما القنوات الناقلة لديربي الرياض بين النصر والهلال في دوري روشن السعودي 2025-2026؟ وكيف تشاهدها عبر الإنترنت؟ - Goal.com",
+    "description": "ما القنوات الناقلة لديربي الرياض بين النصر والهلال في دوري روشن السعودي 2025-2026؟ وكيف تشاهدها عبر الإنترنت؟  Goal.com",
+    "published date": "Tue, 12 May 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivgZBVV95cUxQZ0NRc0swSHd2c0dRM0dJNkdNVzdidDBDWW9BQTNmQ1ljSlpXMm5iRWhMWUI5RWRWOUNxWUVhWDJjTWFtTzdJRWpRaTQwZjYzdi1Jb2pmZmxsNHUxclRpdEcyNWNmSGJIMzdnSDFTUHBUR1BIdXhwbHUyYnZBVl9fTGwwUHczbGgzbEhOQnNHeW43eEo4RHAxVUFIOUJuWnhuVmUwUGFVN2NGWmJSM3FTNHFjREhjNVRrMFNLS3ZFTHlGanU4VFF6OVQ0U2o0Z0lqRUFJTkp1c1lQYkMxODBfZ1hxUVZLemVIRVVZSHBlcmZ3NmEyMjlLVmVpUDVsZHN5Zzc4eHBGVGRWWklIU00tMVZxRHRZcTBGa0FPRF9NbmR2RWR6UkRGYUFxajFIZDZaYzhxR0VrOXlBYmplM0VUeXVuTF9SMHRqQ2QyVXFsU0RKUjQ2M0NhMzNxdUlUa3UwN25QVzJqcEZlajMtYnRLTkt4ZXNqdmJEcFRHMHU4Ui1IRWhCQThRWFZpRnFJSEZVb2ZnX1BhNFlWajQ0TmpjazMtSmRMdGNneU0yWENreUU0eUtUQnloRF9qYTU2RGljZl9oUlVaTDAyYmhjV3RxR1V0cW9HLXBlMGFBRnMtY1R6WVZfSU91cWJEdjhUVENsRXF6RkxCQ3JLX3RDQ0gyME42RGVhVVc5XzNLWE5tM0VBTHBHbTJxU0xCZEg3V2kyV0h4REw5Z0RWR3M5d2JpV0dNMWVQUEFUV0NRc1NXT3ZyRThjV08za1JmNkdYVUVydmdGMkRCVWVmQW9DM1h1WEkya21BZDRCb2pHLW9qY3RUMTJJaGN5MmM0SlB4YlMtcUIyVkJQRENQVHFVdXFYdnkwT1ZMNFRMOGQ2MlVwdUtiRm42V2xWSHBrQzZjbkExaUxVNllNOV9GQnhTNEZJLXEyaE9HWVJoQkF4ZkFaRkctendWN2hscUJYUXNFNVA1S0xDdE9fRFhsakNIblBJUlR2UE56cHNpbk1SbV92R3gzek1iRG9TdGNkc1BpY3N1blFNYkVhcWxUay1nWnM4Znl4NWZZSGMyRHc1Yk9ZaUtCU0l1RG9sWklDRVhRUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.goal.com",
+      "title": "Goal.com"
     }
   },
   {
@@ -740,26 +750,6 @@
     }
   },
   {
-    "title": "ما القنوات الناقلة لمباراة الأهلي والهلال في نصف نهائي كأس الملك السعودي 2025-2026؟ وكيف تشاهدها عبر الإنترنت؟ - Kooora",
-    "description": "ما القنوات الناقلة لمباراة الأهلي والهلال في نصف نهائي كأس الملك السعودي 2025-2026؟ وكيف تشاهدها عبر الإنترنت؟  Kooora",
-    "published date": "Tue, 17 Mar 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiwdBVV95cUxQU0hZblJnZnJyTTZQR0E0NU5IN1pQMko4dWRXcXYxejc5T2dCc19zUHI1elVPSEh1WmRZb004Sk1IbnVFY1pEck9JdFgwcTN2QTlCVWxkendyc1NaTDZDYWlWeGFqbzFKNWFRdmxHendJd182dy1XNDhsd3Q0NjBHUk5vZ2dmcF9UeVhyWURwaGZjenpOdEhXR2FVeWN6TlhFS1A1Nzg1LVFhXzRyb1prZnMxcnk4Z3hDcVhEaDJXcFNWOWVlMm1lZjQyQVRYVU9SUEpnNFlPdWk0VEZSZkpnVS1KX0tXTWdoNGU4RmdTU2I0OVMtNGJJR2JmZWZMa3AzODQza1Y3VWRJdTBnSW1WbjMyRDV0R3drUjRuWEpNcndadjdEeVJnSTRZT0tya21rRmFYMmg3dVZra0ExNnFDQ2dETUdFaVdTcFRXaWMtOU9FajBWN1ptZlEzalhXZUI2Y0FtQlNGcEM0cEFyNExzQ19qLWpOSmdjSW9rYU9uZnhwanNqYWs2dGVpc0czc0EtbTJJR1N5bHJ2Zmx5ZVEyNzdZdnJWT0w2QVZXOTExU2VzTmVZeVNBNkRrOFJBM2NpTmRuUnNISzNDY3pNUk85YjVmZGptc1RNcUh4OHNsWEM3UTlkanhsWUZzQUY0NktfM3RBS242WUd5Si1SYS1aRTRXeXZ3bG9ubWFMU2JSTmxtNTAzLTNwY2FCR0Z5Sjc0RTZfMFJua01GZl9GeGtkVmtRNEJPdTJob0w4NXlqSEFmd29IU3lfU1cxMkg0X18wcF9sbWtqbFdfN0lsaU0wcUlkbTh2bHRyQmlhZmMzZmJ3VVNZTDBnR0l6VUpCWHB0S1ZneG1UNmgybUZwV2U5ZUZKRDBJZ3BXeFlNRlhoTTEtREZ1OW1SRWFYX1V1OW1ocHdRckdVNjl0dERERGpsMTl4aktDX2ZpU1ZqajRaTlJZNjNHak1UVHdrUElQZmt2WVU1UWZTd3hZd3VOSGxKN3VWbHlKS2NtNEpQSHVocF9iZjAxcGRvWDdjQ01XXzV5UkVPZkVyOXZJZzBzVkczZFNWNnBWSm1fODh2YnRGUnBvclllekg1c2ZTc3dFUE1mUXA1MmN4LTRKNEJ6S2wzdnVEa180b1lNdHZkSktOX2RyRzlkVGMzVDMwcmxSZXRGT0xwcDV6YlZWRjZpc25MZ25MN2RKMFpMTVBV?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.kooora.com",
-      "title": "Kooora"
-    }
-  },
-  {
-    "title": "\"للمرة الـ10\".. الهلال يتوج بلقب كأس خادم الحرمين بعد الفوز على الخلود - Masrawy",
-    "description": "\"للمرة الـ10\".. الهلال يتوج بلقب كأس خادم الحرمين بعد الفوز على الخلود  Masrawy",
-    "published date": "Sat, 09 May 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisgRBVV95cUxOTFk5dkhKaTcyMVJfc3J6SVVxSjBPRmRqaVBOS1pGajdRWmRGVlR3MDN2aDZfT0ZKbUJUNDl3ckdJQjlUY3NxRVEyTFpfUkhZdHpWbXNwRWRqc3N2RDhSdDlERENoVTZXWFI4T0ZjMldGVDVkbjJ4VFAwWEhFaEdrOEFZT3IxZzY4Vk04ckN6VnZiT1c5dTctRG9YRkoxMEZUejg3NGZDc2YzMXpzbGdWeEUxVVN0VnRIV3JrVUlSZ2JSVlhZV0g1RE9kMVZIci1tZlpndmtiWmt0aEV3NVllVlVvb0d5bkxYQUQ3WFRndmxSOWZsUndnWHhONTk2T0VlbzA0TzhoMk9OY3pPaG5ldUdyOTNGUjlONExyUE1oQWpFMFpoUmpkZXBCYlJVdmlnTGxYV3RnNmxSMmtJenZELUlHbGVhR1hMNElmcXZYLWVCaGZ4Nnp0LUZYaWl2NkNqczFKcXh1VVRHWjRaZjVtT1RvSG42dEV1TTEyUDdRVDBVNWpLZHJBdW9kS3BVekYtSmpjN0NCMUxXcEFra0thSFcxZmtOSFNJa0VFX2VfMmRhdXdBazF0V0tqOURPbFZtQnB0aFpORzZiQnB0bGZMY0tPTk5CdWt2MjBJMWJHX0VlNU9Pd3JVY1pRN2tBRl94amt6cDZ6SWw1LTVxSUh5YlJtT29VNHFxMDNrUUdWRV9pWXdlckQ2eHYtNHNIRmpyOS1wb1A3ekpyOGtCcENpRm9n0gG3BEFVX3lxTE5sdGRBLUFuMVRqUEh2c2s0cmxWcUFrWEJ4MW0zMXUyVXIzMnVZZjR0ZDF3a1J1Vl9pcGxHOUVOVmdLNU9RRUoyRVdseFlURHFXd1k2Yng4NU93Z21VUE9ZVy1EdUFRcUZLd3p5VVJRZENVRlhhVDNwbGRCT2NqME45ME9FbVRoSFZXanBGR2ZBa3pLZ0VpZnNTNHVwd2oyNmh3LVZQamdSdF9xS0hwSUhQd1JDc0tvMm1JeHFDU2ZGUkhRNHh2bzR1Ty1FRjFXYm1ZNFowekVhQjhVOXRYRXJDUDdKYklhNmktQ3VMc2s3ZEk1eEkyUHN0M0VWdUtKVmprbFVQbzltWWVoS09UYkUtX3A4dXFISHM0RFZUOU9vSkk5dUt1UGVSc05XbG96Y242bzcwaWxPRmZhRmxTakhCb055VUNKMEE3eEx3OEVCeUotWjNsR2JiQnVDU1JXUmxmTjRVb0xtSWpvTlk3Qkt0YkNGdUZkM29EbWpLVUM4OEVsUDRiMlUxNTc3TUFuSDAyUTdNdndjTEt1UmJybWR6RzBKdnY4R29iRDNtMVpVRGstNFNSaFVoQzdEZENRcGl3bFNRSks5VXNvQ2s0WVFEd1VnTUJmbnFEa3EyNHdhVjA0dzJ4c2EzRXE0ZnpaMFBRemFDVWlKc0hYck1zWUcxM0FqaU1wUHliMVRWaUlpUS0wcnp5NVlsb25xeC1NUWpxTWM5VjR4LWtTWkZFYlo5QjViWFJjNA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.masrawy.com",
-      "title": "Masrawy"
-    }
-  },
-  {
     "title": "ما القنوات الناقلة لمباراة الهلال والخلود في دوري روشن السعودي 2025-2026؟ وكيف تشاهدها عبر الإنترنت؟ - Goal.com",
     "description": "ما القنوات الناقلة لمباراة الهلال والخلود في دوري روشن السعودي 2025-2026؟ وكيف تشاهدها عبر الإنترنت؟  Goal.com",
     "published date": "Wed, 08 Apr 2026 07:00:00 GMT",
@@ -767,6 +757,16 @@
     "publisher": {
       "href": "https://www.goal.com",
       "title": "Goal.com"
+    }
+  },
+  {
+    "title": "ما القنوات الناقلة لمباراة الأهلي والهلال في نصف نهائي كأس الملك السعودي 2025-2026؟ وكيف تشاهدها عبر الإنترنت؟ - Kooora",
+    "description": "ما القنوات الناقلة لمباراة الأهلي والهلال في نصف نهائي كأس الملك السعودي 2025-2026؟ وكيف تشاهدها عبر الإنترنت؟  Kooora",
+    "published date": "Tue, 17 Mar 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiwdBVV95cUxQU0hZblJnZnJyTTZQR0E0NU5IN1pQMko4dWRXcXYxejc5T2dCc19zUHI1elVPSEh1WmRZb004Sk1IbnVFY1pEck9JdFgwcTN2QTlCVWxkendyc1NaTDZDYWlWeGFqbzFKNWFRdmxHendJd182dy1XNDhsd3Q0NjBHUk5vZ2dmcF9UeVhyWURwaGZjenpOdEhXR2FVeWN6TlhFS1A1Nzg1LVFhXzRyb1prZnMxcnk4Z3hDcVhEaDJXcFNWOWVlMm1lZjQyQVRYVU9SUEpnNFlPdWk0VEZSZkpnVS1KX0tXTWdoNGU4RmdTU2I0OVMtNGJJR2JmZWZMa3AzODQza1Y3VWRJdTBnSW1WbjMyRDV0R3drUjRuWEpNcndadjdEeVJnSTRZT0tya21rRmFYMmg3dVZra0ExNnFDQ2dETUdFaVdTcFRXaWMtOU9FajBWN1ptZlEzalhXZUI2Y0FtQlNGcEM0cEFyNExzQ19qLWpOSmdjSW9rYU9uZnhwanNqYWs2dGVpc0czc0EtbTJJR1N5bHJ2Zmx5ZVEyNzdZdnJWT0w2QVZXOTExU2VzTmVZeVNBNkRrOFJBM2NpTmRuUnNISzNDY3pNUk85YjVmZGptc1RNcUh4OHNsWEM3UTlkanhsWUZzQUY0NktfM3RBS242WUd5Si1SYS1aRTRXeXZ3bG9ubWFMU2JSTmxtNTAzLTNwY2FCR0Z5Sjc0RTZfMFJua01GZl9GeGtkVmtRNEJPdTJob0w4NXlqSEFmd29IU3lfU1cxMkg0X18wcF9sbWtqbFdfN0lsaU0wcUlkbTh2bHRyQmlhZmMzZmJ3VVNZTDBnR0l6VUpCWHB0S1ZneG1UNmgybUZwV2U5ZUZKRDBJZ3BXeFlNRlhoTTEtREZ1OW1SRWFYX1V1OW1ocHdRckdVNjl0dERERGpsMTl4aktDX2ZpU1ZqajRaTlJZNjNHak1UVHdrUElQZmt2WVU1UWZTd3hZd3VOSGxKN3VWbHlKS2NtNEpQSHVocF9iZjAxcGRvWDdjQ01XXzV5UkVPZkVyOXZJZzBzVkczZFNWNnBWSm1fODh2YnRGUnBvclllekg1c2ZTc3dFUE1mUXA1MmN4LTRKNEJ6S2wzdnVEa180b1lNdHZkSktOX2RyRzlkVGMzVDMwcmxSZXRGT0xwcDV6YlZWRjZpc25MZ25MN2RKMFpMTVBV?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.kooora.com",
+      "title": "Kooora"
     }
   },
   {
@@ -800,13 +800,23 @@
     }
   },
   {
-    "title": "راتب خيالي.. الهلال السعودي يغري محمد صلاح بعرض ملياري - العين الإخبارية",
-    "description": "راتب خيالي.. الهلال السعودي يغري محمد صلاح بعرض ملياري  العين الإخبارية",
-    "published date": "Mon, 29 Jun 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBudnMzbmJmNFJaVHdfRm9lVUJQNnBlU3VHc0hGMUZTR283VXFlTExuSnZSZndBRE5lTFlLRWUzT210NTBYUVlTNlpoWW1YOUowRHpRd25JbmpENGpFZUlSSlVwSng?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "\"للمرة الـ10\".. الهلال يتوج بلقب كأس خادم الحرمين بعد الفوز على الخلود - Masrawy",
+    "description": "\"للمرة الـ10\".. الهلال يتوج بلقب كأس خادم الحرمين بعد الفوز على الخلود  Masrawy",
+    "published date": "Sat, 09 May 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisgRBVV95cUxOTFk5dkhKaTcyMVJfc3J6SVVxSjBPRmRqaVBOS1pGajdRWmRGVlR3MDN2aDZfT0ZKbUJUNDl3ckdJQjlUY3NxRVEyTFpfUkhZdHpWbXNwRWRqc3N2RDhSdDlERENoVTZXWFI4T0ZjMldGVDVkbjJ4VFAwWEhFaEdrOEFZT3IxZzY4Vk04ckN6VnZiT1c5dTctRG9YRkoxMEZUejg3NGZDc2YzMXpzbGdWeEUxVVN0VnRIV3JrVUlSZ2JSVlhZV0g1RE9kMVZIci1tZlpndmtiWmt0aEV3NVllVlVvb0d5bkxYQUQ3WFRndmxSOWZsUndnWHhONTk2T0VlbzA0TzhoMk9OY3pPaG5ldUdyOTNGUjlONExyUE1oQWpFMFpoUmpkZXBCYlJVdmlnTGxYV3RnNmxSMmtJenZELUlHbGVhR1hMNElmcXZYLWVCaGZ4Nnp0LUZYaWl2NkNqczFKcXh1VVRHWjRaZjVtT1RvSG42dEV1TTEyUDdRVDBVNWpLZHJBdW9kS3BVekYtSmpjN0NCMUxXcEFra0thSFcxZmtOSFNJa0VFX2VfMmRhdXdBazF0V0tqOURPbFZtQnB0aFpORzZiQnB0bGZMY0tPTk5CdWt2MjBJMWJHX0VlNU9Pd3JVY1pRN2tBRl94amt6cDZ6SWw1LTVxSUh5YlJtT29VNHFxMDNrUUdWRV9pWXdlckQ2eHYtNHNIRmpyOS1wb1A3ekpyOGtCcENpRm9n0gG3BEFVX3lxTE5sdGRBLUFuMVRqUEh2c2s0cmxWcUFrWEJ4MW0zMXUyVXIzMnVZZjR0ZDF3a1J1Vl9pcGxHOUVOVmdLNU9RRUoyRVdseFlURHFXd1k2Yng4NU93Z21VUE9ZVy1EdUFRcUZLd3p5VVJRZENVRlhhVDNwbGRCT2NqME45ME9FbVRoSFZXanBGR2ZBa3pLZ0VpZnNTNHVwd2oyNmh3LVZQamdSdF9xS0hwSUhQd1JDc0tvMm1JeHFDU2ZGUkhRNHh2bzR1Ty1FRjFXYm1ZNFowekVhQjhVOXRYRXJDUDdKYklhNmktQ3VMc2s3ZEk1eEkyUHN0M0VWdUtKVmprbFVQbzltWWVoS09UYkUtX3A4dXFISHM0RFZUOU9vSkk5dUt1UGVSc05XbG96Y242bzcwaWxPRmZhRmxTakhCb055VUNKMEE3eEx3OEVCeUotWjNsR2JiQnVDU1JXUmxmTjRVb0xtSWpvTlk3Qkt0YkNGdUZkM29EbWpLVUM4OEVsUDRiMlUxNTc3TUFuSDAyUTdNdndjTEt1UmJybWR6RzBKdnY4R29iRDNtMVpVRGstNFNSaFVoQzdEZENRcGl3bFNRSks5VXNvQ2s0WVFEd1VnTUJmbnFEa3EyNHdhVjA0dzJ4c2EzRXE0ZnpaMFBRemFDVWlKc0hYck1zWUcxM0FqaU1wUHliMVRWaUlpUS0wcnp5NVlsb25xeC1NUWpxTWM5VjR4LWtTWkZFYlo5QjViWFJjNA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://al-ain.com",
-      "title": "العين الإخبارية"
+      "href": "https://www.masrawy.com",
+      "title": "Masrawy"
+    }
+  },
+  {
+    "title": "من هو محمد قادر ميتي لاعب الهلال المنتظر؟.. موهبة فرنسية تثير إعجاب أوروبا وتخطف أنظار السعودية - alyaum",
+    "description": "من هو محمد قادر ميتي لاعب الهلال المنتظر؟.. موهبة فرنسية تثير إعجاب أوروبا وتخطف أنظار السعودية  alyaum",
+    "published date": "Sat, 31 Jan 2026 08:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi8gZBVV95cUxOZGExYnJYdTVXa2d6MVZYamdxa2ZndDBubUdWUmJxS2tCT0ZYcExRR19WR0tVU2JMZE9fakNyRHltOFAzWFlwTy1GNXY1Tk9KelhKdm11RElweGZWNHFKek5rdUN4RmZLdF94SGVOUnZGOVZpZ3VwclNkVUIxY1dIUFJRd3J6QlJtUEgxLWMwaFEzU21MbHZyYzhEd1lDNzlrdi1ubXo3Mm56cm9lWjhvczNldTZtWXVOdEozbGlCWnBKMW91bXpvcTRWeU1XcUJ5LVpfcG96cTZQMXlWcWo5RUQ3SXBMb3dCa3JOLUtkX194aU5wZzhGQVVSLVdqWVpBVFA5OE40b25MUjJtTVpwWXh2Y3pFdWFsdldfa0M5NHhVWE5fOHYxZ0c3YWpVUk02T1FoSDhXVFoxanMwdzAydkoyTV9mTGJmM2NIbWZER0hMY2F1RUlDZVNCbERyMURBR0lIRGhEMDVxbjRDaEZzN2lIWmRIQnUxTEhtdXBVV3c1dno0S1RkNm9rQW9qLTQtVmpDVVRibURxc0NYdjVtQmlzUkRTbzF3S3VSV3VOZUxBdjN3V2dYandJXzEzLXVnaGJmVjc2eHBwNVhMQTFobmVBMUtaT1poUkswR2RXTVRHN3k0Zm9qdC1WNWtGY2w5bC02ODdpanYtbE1wd2Rid09Xb3VPNjIzTzdYUjV1NkhpbzFxWGRNSjBSQy01T0kwNkR5c2N0RzJGdTRpSXpfS0JJQlEwcXUyTGVTSDEwQTlmbHFfMTkzcGZlQlJVVDlodmNKQTNDbGM5dldZbjJBUlJ1ZGtpTHd2M1pYdE5DLW9DUEJTeFNSc05Yd1V1SjlLQTJ3V3ItUDNtLWhKR3FFWndHOTlteVlFRTl1MTI3Y2hDb1BzeGI0enRqNE9FSlJ3MTl2cHJoaFVXM2hPc1ZiTjU2N0dqR1dlMjJSQUIyNkRhN25nbHZOa2dDUjB5dkxUWGtjWWNfd19yQ3VFbmx5U0tmM3FUZlJDdTNZS1dOQnJwTnhRNWhEN1Z5cjF0NnJIS0Z2MFRuQ2VGNmVjSWNwOUtJRUtBdi1CbU9hczM3OUJYNndQbkVwZzJYNUdqdExVX2pYcEp0NUcxcnBlbllEU3BEaURlblM2OUxGOU12WkhsN2xOSktnT3NTbFJOWVc4eXfSAVNBVV95cUxQeVdyLTByb0tmZlU0Uk53enVJOWFtVUY4ZUI5djBwYXl4dldXWUgzM2xFSUVvT2FUM0RELXZvekVNYVp3SkZfVkpkLVNtV2owYjQ3Yw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.alyaum.com",
+      "title": "alyaum"
     }
   },
   {
@@ -830,13 +840,13 @@
     }
   },
   {
-    "title": "من هو محمد قادر ميتي لاعب الهلال المنتظر؟.. موهبة فرنسية تثير إعجاب أوروبا وتخطف أنظار السعودية - alyaum",
-    "description": "من هو محمد قادر ميتي لاعب الهلال المنتظر؟.. موهبة فرنسية تثير إعجاب أوروبا وتخطف أنظار السعودية  alyaum",
-    "published date": "Sat, 31 Jan 2026 08:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi8gZBVV95cUxOZGExYnJYdTVXa2d6MVZYamdxa2ZndDBubUdWUmJxS2tCT0ZYcExRR19WR0tVU2JMZE9fakNyRHltOFAzWFlwTy1GNXY1Tk9KelhKdm11RElweGZWNHFKek5rdUN4RmZLdF94SGVOUnZGOVZpZ3VwclNkVUIxY1dIUFJRd3J6QlJtUEgxLWMwaFEzU21MbHZyYzhEd1lDNzlrdi1ubXo3Mm56cm9lWjhvczNldTZtWXVOdEozbGlCWnBKMW91bXpvcTRWeU1XcUJ5LVpfcG96cTZQMXlWcWo5RUQ3SXBMb3dCa3JOLUtkX194aU5wZzhGQVVSLVdqWVpBVFA5OE40b25MUjJtTVpwWXh2Y3pFdWFsdldfa0M5NHhVWE5fOHYxZ0c3YWpVUk02T1FoSDhXVFoxanMwdzAydkoyTV9mTGJmM2NIbWZER0hMY2F1RUlDZVNCbERyMURBR0lIRGhEMDVxbjRDaEZzN2lIWmRIQnUxTEhtdXBVV3c1dno0S1RkNm9rQW9qLTQtVmpDVVRibURxc0NYdjVtQmlzUkRTbzF3S3VSV3VOZUxBdjN3V2dYandJXzEzLXVnaGJmVjc2eHBwNVhMQTFobmVBMUtaT1poUkswR2RXTVRHN3k0Zm9qdC1WNWtGY2w5bC02ODdpanYtbE1wd2Rid09Xb3VPNjIzTzdYUjV1NkhpbzFxWGRNSjBSQy01T0kwNkR5c2N0RzJGdTRpSXpfS0JJQlEwcXUyTGVTSDEwQTlmbHFfMTkzcGZlQlJVVDlodmNKQTNDbGM5dldZbjJBUlJ1ZGtpTHd2M1pYdE5DLW9DUEJTeFNSc05Yd1V1SjlLQTJ3V3ItUDNtLWhKR3FFWndHOTlteVlFRTl1MTI3Y2hDb1BzeGI0enRqNE9FSlJ3MTl2cHJoaFVXM2hPc1ZiTjU2N0dqR1dlMjJSQUIyNkRhN25nbHZOa2dDUjB5dkxUWGtjWWNfd19yQ3VFbmx5U0tmM3FUZlJDdTNZS1dOQnJwTnhRNWhEN1Z5cjF0NnJIS0Z2MFRuQ2VGNmVjSWNwOUtJRUtBdi1CbU9hczM3OUJYNndQbkVwZzJYNUdqdExVX2pYcEp0NUcxcnBlbllEU3BEaURlblM2OUxGOU12WkhsN2xOSktnT3NTbFJOWVc4eXfSAVNBVV95cUxQeVdyLTByb0tmZlU0Uk53enVJOWFtVUY4ZUI5djBwYXl4dldXWUgzM2xFSUVvT2FUM0RELXZvekVNYVp3SkZfVkpkLVNtV2owYjQ3Yw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "راتب خيالي.. الهلال السعودي يغري محمد صلاح بعرض ملياري - العين الإخبارية",
+    "description": "راتب خيالي.. الهلال السعودي يغري محمد صلاح بعرض ملياري  العين الإخبارية",
+    "published date": "Mon, 29 Jun 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBudnMzbmJmNFJaVHdfRm9lVUJQNnBlU3VHc0hGMUZTR283VXFlTExuSnZSZndBRE5lTFlLRWUzT210NTBYUVlTNlpoWW1YOUowRHpRd25JbmpENGpFZUlSSlVwSng?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.alyaum.com",
-      "title": "alyaum"
+      "href": "https://al-ain.com",
+      "title": "العين الإخبارية"
     }
   },
   {
@@ -890,6 +900,16 @@
     }
   },
   {
+    "title": "الهلال السعودى يعلن ضم بابلو مارى مدافع فيورنتينا رسميًا - اليوم السابع",
+    "description": "الهلال السعودى يعلن ضم بابلو مارى مدافع فيورنتينا رسميًا  اليوم السابع",
+    "published date": "Sun, 11 Jan 2026 08:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxNeklhQmVFeDllRWgxY18yYW9nSU5WZGk4UUN4YVo0TEY2MGpLTEVYWGI3d2h2MlFtclRqMGFxMGpBUEZKdzFHQTdnbVdXVkQ0VjNHTXVGT3ZCeXJJd01sLXY2Y1l3WEQydGUwWDEtaC15N3BuZUlWUklxMml1eUVtVGJFZkx4R3U2REFwOWVUOUpSdjQwakM0X2tDZGJ2ejUzSFAyczY4VzJscDUyc1A1R290XzJvemtaQ2RsTkpqUjUwY1RyNkRzWEVWd0phMHE3SW1qV2tUSGRTendOVm8xazdPMkhRTE9KWXVtX2Y1NlZjd21NYjRBQVF0c0lqUmplNnhTRnNDaGt4YnhsY2xkX0ZjZUpfa2JObU54UFp4S195bDNSbGxtVG9Ga3JsM2hpMXZtOVo1NDJiUDB0eGl6eFl4cU84cXg3NVJXcnc0SHBuc1UtRnlyQVlncnBHS1QwYjVla2dsVUNqOHlfNFZ3bmRUdFBwbF9oOHN3QnhEeWZsSncxZWZsZVRCQ2pJMWcwMUhVX1RfLUFPVFhsNUlJdWJJWHVZTG1NZ2xneWR6ZFpoY0RpVDZlbnFqdFU0Tk1oaEU4VUxMTENsY2lrem1WcG8tcHhHbE1Lb3lTU013aDF4VGtq0gHfA0FVX3lxTE5NTmFjdkdrcDhpVXdodEJjRFlrUkdQUG8yamhmV3Zybk9yRVFybExpblBaVWVBc2tIY2F5QlZWcmlSeDY2alhZVEJ6a3VoVnk5N214RkpZejg4aDk5dWNzeWNOZ0syeHhyeHFCR1I1VkJYRkp3Qnd5RlQtMkpXX2htQUdiV1RRT1diUU8xMlljSnVoN0xNUmxDVmh5bXplLTI1dFRlNUxucC0zNGlaOVprZGEyNTNEVTdSQXpqNXdBY09ldFVJUko1eGdBY05ZNU9lWXl3ZEs3RFltNEFVWVZRVVZJeFRUdDhzUWhtRzctamtfWnJrb2gtQzZCSndIZkduQ0prNkxGZlNjbXVUWE5uRHBkdnBURDFBUWpGTW5pTE1vbDMzVWhpTE1PNVZxY2JYTTNBUkhEa2tzLVJEeGJva2k0LU1EeWh2WFhMX0NRX0hCYVhZZ01VbEtvelRqcW1LSTdVcUR5MS1nV2FTckdOTFhnTEVoT1RxZjJuWk1zc1ViVUZBOHBxWFVzWmtRWmdSemhUTWpreWp4RUtqam5IODZvYnllbzJHTllXVkI0OWtFWlNJdVJIMlVaTGUyT0pFVGp3UHpYQVdwYUl0ZHlVT2ZOWXZzQVdxX2ZzcVdR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.youm7.com",
+      "title": "اليوم السابع"
+    }
+  },
+  {
     "title": "مشاهدة مباراة النصر والهلال في الدوري السعودي.. الموعد والقناة الناقلة - صحيفة الخليج",
     "description": "مشاهدة مباراة النصر والهلال في الدوري السعودي.. الموعد والقناة الناقلة  صحيفة الخليج",
     "published date": "Tue, 12 May 2026 07:00:00 GMT",
@@ -907,16 +927,6 @@
     "publisher": {
       "href": "https://www.eremnews.com",
       "title": "إرم نيوز"
-    }
-  },
-  {
-    "title": "الهلال السعودى يعلن ضم بابلو مارى مدافع فيورنتينا رسميًا - اليوم السابع",
-    "description": "الهلال السعودى يعلن ضم بابلو مارى مدافع فيورنتينا رسميًا  اليوم السابع",
-    "published date": "Sun, 11 Jan 2026 08:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxNeklhQmVFeDllRWgxY18yYW9nSU5WZGk4UUN4YVo0TEY2MGpLTEVYWGI3d2h2MlFtclRqMGFxMGpBUEZKdzFHQTdnbVdXVkQ0VjNHTXVGT3ZCeXJJd01sLXY2Y1l3WEQydGUwWDEtaC15N3BuZUlWUklxMml1eUVtVGJFZkx4R3U2REFwOWVUOUpSdjQwakM0X2tDZGJ2ejUzSFAyczY4VzJscDUyc1A1R290XzJvemtaQ2RsTkpqUjUwY1RyNkRzWEVWd0phMHE3SW1qV2tUSGRTendOVm8xazdPMkhRTE9KWXVtX2Y1NlZjd21NYjRBQVF0c0lqUmplNnhTRnNDaGt4YnhsY2xkX0ZjZUpfa2JObU54UFp4S195bDNSbGxtVG9Ga3JsM2hpMXZtOVo1NDJiUDB0eGl6eFl4cU84cXg3NVJXcnc0SHBuc1UtRnlyQVlncnBHS1QwYjVla2dsVUNqOHlfNFZ3bmRUdFBwbF9oOHN3QnhEeWZsSncxZWZsZVRCQ2pJMWcwMUhVX1RfLUFPVFhsNUlJdWJJWHVZTG1NZ2xneWR6ZFpoY0RpVDZlbnFqdFU0Tk1oaEU4VUxMTENsY2lrem1WcG8tcHhHbE1Lb3lTU013aDF4VGtq0gHfA0FVX3lxTE5NTmFjdkdrcDhpVXdodEJjRFlrUkdQUG8yamhmV3Zybk9yRVFybExpblBaVWVBc2tIY2F5QlZWcmlSeDY2alhZVEJ6a3VoVnk5N214RkpZejg4aDk5dWNzeWNOZ0syeHhyeHFCR1I1VkJYRkp3Qnd5RlQtMkpXX2htQUdiV1RRT1diUU8xMlljSnVoN0xNUmxDVmh5bXplLTI1dFRlNUxucC0zNGlaOVprZGEyNTNEVTdSQXpqNXdBY09ldFVJUko1eGdBY05ZNU9lWXl3ZEs3RFltNEFVWVZRVVZJeFRUdDhzUWhtRzctamtfWnJrb2gtQzZCSndIZkduQ0prNkxGZlNjbXVUWE5uRHBkdnBURDFBUWpGTW5pTE1vbDMzVWhpTE1PNVZxY2JYTTNBUkhEa2tzLVJEeGJva2k0LU1EeWh2WFhMX0NRX0hCYVhZZ01VbEtvelRqcW1LSTdVcUR5MS1nV2FTckdOTFhnTEVoT1RxZjJuWk1zc1ViVUZBOHBxWFVzWmtRWmdSemhUTWpreWp4RUtqam5IODZvYnllbzJHTllXVkI0OWtFWlNJdVJIMlVaTGUyT0pFVGp3UHpYQVdwYUl0ZHlVT2ZOWXZzQVdxX2ZzcVdR?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.youm7.com",
-      "title": "اليوم السابع"
     }
   },
   {
@@ -977,16 +987,6 @@
     "publisher": {
       "href": "https://www.eremnews.com",
       "title": "إرم نيوز"
-    }
-  },
-  {
-    "title": "قصة أزمة ضربت النصر قبل دقائق من ديربي الهلال - Kooora",
-    "description": "قصة أزمة ضربت النصر قبل دقائق من ديربي الهلال  Kooora",
-    "published date": "Tue, 12 May 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxNeDFfYVNaQUpNc2Z4TTB0eDBDOWg5RGkyRl9XV2U4MjMyS20xRExGVy1rMjlGU2s3cVZEMmJkUUZPQUFoM2ZaQ0g2OFM5eEJRMnE2aGxrWmZEOHNnQ0VORk95YkVOVzVraTZNMEhRQXg2UFJ4bEd6WmowNUtNdzdKdUxIRWhzXzZzbUY5d3lJcWwyY2tNZTRFUzdzZE5SdGo1U2ZwbjJWMkVma25DOTh6b2tpem1UUUw2bUpERGdSWGNyVU9oemhNeTBCOUtPVEZlSXJvdDFfdUlMLWNFa1FpMElIdWowN05mWnlod2trektEdHBkTGg5endNWHNWOFRiUmhSVlBBSElXTnlwRHdJbTl6S2Z6Um1ib0liLVZHTGdab1EySlg3dlZIMGU0bW1kZGRkYm0zRnJZZGZxSlNLYTVSM2xzRkQtalg3YWp2MlotQS1aUWFsamhaLXZHVXR2Q0p1U0Rid2lfcm1penN4SHFUcGZCOTU2N0VmdnpnRDZSYUdEajhZVDBlTjY2OGI1R09ablk0TzBwQTBodDRqSDQ3LVltdE1uN3UxVlBfSjZTVkd5QkJBOFgxOF9SeENSbXFPMzdnelEyQ05aVFVlNktNRWUwOERXNVg2NEVmLXRGVWVKMnVKNkNSQXp5NTVOMjYyUg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.kooora.com",
-      "title": "Kooora"
     }
   }
 ]
