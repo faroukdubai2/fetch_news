@@ -60,16 +60,6 @@
     }
   },
   {
-    "title": "ما هي صفقات أندية الدوري السعودي في سوق الانتقالات الصيفية 2026؟ - Goal.com",
-    "description": "ما هي صفقات أندية الدوري السعودي في سوق الانتقالات الصيفية 2026؟  Goal.com",
-    "published date": "Thu, 16 Jul 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitwRBVV95cUxOVTdTVm1SdnFiQzdQVEhuWGlnOUJNOW02RUdYSzhEVHV0TDlSQlQ3NkJYZ2NmZWZSUkE1bzJNWTFQWkpJY0M2NDI1WkhaZEZEaDl3bll2RVJkRUdxUjl5UzBqQkoxNGtxS3pXdjFhTTE5RFdIRHVsRnA2dzU2X1dKTnUya1VhVjZIdGdhcEw1ZHhYYVRTNDN5LVBsUTdpV3FhSFFlZG5IVTJ4TG43d0FJa3ZUV093OEwyN3RDVENFQVdDX1pwWVI2S3hHUkNZb0paTXktQkl3R0R1TXNRNkxzcENOZXpadGFIYW1RVjZNc3djTlZGZU5jUW82WVBETTZ1ZENYZERxMnJRdGRRejViMVBmeWhXM09DREw2R21uOHgzWHNHNEVKMF84VTNFd2VPWFdGWlJCaGRJVzMyQ1lVZTlrVHcwZ2hOWkFUNEJURk95NXhyZkR0bi14V0ZVWmR3WXg2UDBfNjFfWDVqSkpkdHljY1JueEV4T3N5cVFUQ3BLNFRZVFlpQUp4a203M2pqRTlJY3gxUnNzY0FHODJQV3BXeW1zNk52QXdYRjBYTjhIN2NuQ1pFNjVrYkZHb2NTV00yZHdPNW1xN0ZMcl9aMi1vOURGR2ppS0VRTV9SYmhmVE85Rk1KSS1scHRpU2QzS0M3UUxvOXBsS3VqVXdWWmVHUngyY3ZGRjZDdWZhMnVOYnQtNmRGeUdjTGs4TzdmaTk1UzN2S1ktLTlrM1EtVU02c1FnWmc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.goal.com",
-      "title": "Goal.com"
-    }
-  },
-  {
     "title": "من رونالدو إلى توني ومحرز.. 24 نجما من الدوري السعودي يغزون مونديال 2026 - الجزيرة نت",
     "description": "من رونالدو إلى توني ومحرز.. 24 نجما من الدوري السعودي يغزون مونديال 2026  الجزيرة نت",
     "published date": "Thu, 04 Jun 2026 07:00:00 GMT",
@@ -77,6 +67,16 @@
     "publisher": {
       "href": "https://www.aljazeera.net",
       "title": "الجزيرة نت"
+    }
+  },
+  {
+    "title": "ما هي صفقات أندية الدوري السعودي في سوق الانتقالات الصيفية 2026؟ - Goal.com",
+    "description": "ما هي صفقات أندية الدوري السعودي في سوق الانتقالات الصيفية 2026؟  Goal.com",
+    "published date": "Thu, 16 Jul 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitwRBVV95cUxOVTdTVm1SdnFiQzdQVEhuWGlnOUJNOW02RUdYSzhEVHV0TDlSQlQ3NkJYZ2NmZWZSUkE1bzJNWTFQWkpJY0M2NDI1WkhaZEZEaDl3bll2RVJkRUdxUjl5UzBqQkoxNGtxS3pXdjFhTTE5RFdIRHVsRnA2dzU2X1dKTnUya1VhVjZIdGdhcEw1ZHhYYVRTNDN5LVBsUTdpV3FhSFFlZG5IVTJ4TG43d0FJa3ZUV093OEwyN3RDVENFQVdDX1pwWVI2S3hHUkNZb0paTXktQkl3R0R1TXNRNkxzcENOZXpadGFIYW1RVjZNc3djTlZGZU5jUW82WVBETTZ1ZENYZERxMnJRdGRRejViMVBmeWhXM09DREw2R21uOHgzWHNHNEVKMF84VTNFd2VPWFdGWlJCaGRJVzMyQ1lVZTlrVHcwZ2hOWkFUNEJURk95NXhyZkR0bi14V0ZVWmR3WXg2UDBfNjFfWDVqSkpkdHljY1JueEV4T3N5cVFUQ3BLNFRZVFlpQUp4a203M2pqRTlJY3gxUnNzY0FHODJQV3BXeW1zNk52QXdYRjBYTjhIN2NuQ1pFNjVrYkZHb2NTV00yZHdPNW1xN0ZMcl9aMi1vOURGR2ppS0VRTV9SYmhmVE85Rk1KSS1scHRpU2QzS0M3UUxvOXBsS3VqVXdWWmVHUngyY3ZGRjZDdWZhMnVOYnQtNmRGeUdjTGs4TzdmaTk1UzN2S1ktLTlrM1EtVU02c1FnWmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.goal.com",
+      "title": "Goal.com"
     }
   },
   {
@@ -347,16 +347,6 @@
     "publisher": {
       "href": "https://www.kooora.com",
       "title": "Kooora"
-    }
-  },
-  {
-    "title": "تأجيل مباريات الجولة العاشرة من دوري روشن السعودي - spl.com.sa",
-    "description": "تأجيل مباريات الجولة العاشرة من دوري روشن السعودي  spl.com.sa",
-    "published date": "Wed, 10 Dec 2025 08:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84bTlIaUFmbDEwZXNkaHhCQ190akQ2RW1ucno0RWN2ZHMwS25EaTJuSFlOMmNtTzFxU3FHZ2txWGpVV1ZsdVBNUFp3WmlpT24tbDZlbmJSMTE5TWdWQm5JZExMS3VLVXJpLXZMZklGQmc5UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.spl.com.sa",
-      "title": "spl.com.sa"
     }
   },
   {
@@ -680,16 +670,6 @@
     }
   },
   {
-    "title": "صراع البقاء يشتعل بين ضمك والرياض في الجولة الأخيرة من دوري روشن - alyaum",
-    "description": "صراع البقاء يشتعل بين ضمك والرياض في الجولة الأخيرة من دوري روشن  alyaum",
-    "published date": "Mon, 18 May 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirAVBVV95cUxNMUZNd2s3LTVkQmVJc2oycl90Z1FRUlJpVEhydjhaR09Uc2xocWh3MnhPZXpVYkVTeTMtTk1CWm95QkFWNEktZzF5SnM5NWMxeXhycmUxNUVoR0MzTXZnWmpYNjFYcy1GVEswVjM0YWVsVDRrYS1UTU9vM244Z3JEUGI4eTJMcWhQOElYNUtMaktmbmpfbmtRM0ZuTWkxMEg4RTdlZTVLM0VuWnhyQVE4TzRKRVAwRDlqYkdobGxma19jZmMxaW9VSmFlNkdNQURnZ1R3OFEwY3UtT3dpY1YzZEQtbmJ3UjctTmI2dGlfeC00b3ZKQ0dub0J6d2xzN0ZCUHVhQjdnc0dQQnlYN2hiWUxLUUxtN2cyaUpBSzFDU2thcnN3M2VVaFY3djJOb2w1NWNFd2R0RHdyNHZOUGVMZF90YXVIaHZzU2I5eXlMSU5TNmFUb05JbTZRRS1GSUZFVTBKaXZuM25qa3RsajJidHpPNmJmWkVWSUVNeEVGbUtGZlNvVGpENXFuOFpWa05jR1N2MDgyemVEOTBESi0ydWhnMWR2bjkxUHdOOU9vdi1hajRoX29kbHpiVGw3ajNJRjl4b0xOMTNUTENvOFBZRVR2a3BXdUNfYjMyaDZXRUVfczhNZXlrbHhJejFQS3ZMWmpYbWNQSldVWGg5aUJEbllrQ0hCOGpDX0hlOTc0anJkMDVNWW5CczBxMm1tMEJLZkhQcjdFTnBUN1hBVV84Z0hQX2ZBUGluOC1ZMVYxTUlmcDNmbXBib1hiU084YXFscXoycFBxTF9GYWFXcC1wcDlCdVR0ZmlERG82YkNtS2NlV0haVHJJRmRJMEJCaEwxenhEdk5QMVpHOUhlX3hfZ210ZUlBWGU3cTFFRnlsMW4yV1dzczZCM3hYZEfSAVNBVV95cUxPYlJPYm1JWU1EeXVpT2x1ZU5fU01FajBmNWktNnNHZmQwaW9TRnFaMWZaT2lKd2Q3bUFXZjdlbVplX19HMHdZNVpFQ3lNRjN1TWJTYw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.alyaum.com",
-      "title": "alyaum"
-    }
-  },
-  {
     "title": "بنمو إيرادات فاق 350%.. السعودية تطلق مرحلة جديدة لاستقطاب نجوم العالم - الجزيرة نت",
     "description": "بنمو إيرادات فاق 350%.. السعودية تطلق مرحلة جديدة لاستقطاب نجوم العالم  الجزيرة نت",
     "published date": "Wed, 06 May 2026 07:00:00 GMT",
@@ -697,6 +677,16 @@
     "publisher": {
       "href": "https://www.aljazeera.net",
       "title": "الجزيرة نت"
+    }
+  },
+  {
+    "title": "صراع البقاء يشتعل بين ضمك والرياض في الجولة الأخيرة من دوري روشن - alyaum",
+    "description": "صراع البقاء يشتعل بين ضمك والرياض في الجولة الأخيرة من دوري روشن  alyaum",
+    "published date": "Mon, 18 May 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirAVBVV95cUxNMUZNd2s3LTVkQmVJc2oycl90Z1FRUlJpVEhydjhaR09Uc2xocWh3MnhPZXpVYkVTeTMtTk1CWm95QkFWNEktZzF5SnM5NWMxeXhycmUxNUVoR0MzTXZnWmpYNjFYcy1GVEswVjM0YWVsVDRrYS1UTU9vM244Z3JEUGI4eTJMcWhQOElYNUtMaktmbmpfbmtRM0ZuTWkxMEg4RTdlZTVLM0VuWnhyQVE4TzRKRVAwRDlqYkdobGxma19jZmMxaW9VSmFlNkdNQURnZ1R3OFEwY3UtT3dpY1YzZEQtbmJ3UjctTmI2dGlfeC00b3ZKQ0dub0J6d2xzN0ZCUHVhQjdnc0dQQnlYN2hiWUxLUUxtN2cyaUpBSzFDU2thcnN3M2VVaFY3djJOb2w1NWNFd2R0RHdyNHZOUGVMZF90YXVIaHZzU2I5eXlMSU5TNmFUb05JbTZRRS1GSUZFVTBKaXZuM25qa3RsajJidHpPNmJmWkVWSUVNeEVGbUtGZlNvVGpENXFuOFpWa05jR1N2MDgyemVEOTBESi0ydWhnMWR2bjkxUHdOOU9vdi1hajRoX29kbHpiVGw3ajNJRjl4b0xOMTNUTENvOFBZRVR2a3BXdUNfYjMyaDZXRUVfczhNZXlrbHhJejFQS3ZMWmpYbWNQSldVWGg5aUJEbllrQ0hCOGpDX0hlOTc0anJkMDVNWW5CczBxMm1tMEJLZkhQcjdFTnBUN1hBVV84Z0hQX2ZBUGluOC1ZMVYxTUlmcDNmbXBib1hiU084YXFscXoycFBxTF9GYWFXcC1wcDlCdVR0ZmlERG82YkNtS2NlV0haVHJJRmRJMEJCaEwxenhEdk5QMVpHOUhlX3hfZ210ZUlBWGU3cTFFRnlsMW4yV1dzczZCM3hYZEfSAVNBVV95cUxPYlJPYm1JWU1EeXVpT2x1ZU5fU01FajBmNWktNnNHZmQwaW9TRnFaMWZaT2lKd2Q3bUFXZjdlbVplX19HMHdZNVpFQ3lNRjN1TWJTYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.alyaum.com",
+      "title": "alyaum"
     }
   },
   {
@@ -727,16 +717,6 @@
     "publisher": {
       "href": "https://www.youm7.com",
       "title": "اليوم السابع"
-    }
-  },
-  {
-    "title": "الهلال يجهز عرضًا قياسيًا لضم لويس دياز من بايرن ميونخ - الهيئة الوطنية للإعلام",
-    "description": "الهلال يجهز عرضًا قياسيًا لضم لويس دياز من بايرن ميونخ  الهيئة الوطنية للإعلام",
-    "published date": "Sat, 25 Jul 2026 22:57:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxQZC1QUmVmVnRId2hxNm5fYkE1d3BRbHVSNExaVkdPbWdYQnFheVFCTGhKWFNTNWJnc29TVnZFclNNWGd1bmptYXBfdU1ISTN2QVRIM2ZtTl9sZFFJQ2dkZXZraG5jSmZZRUVLcWh6NGlqY2U4X0YwRG5BRWhHR3lIY2o2b0hMV3owUjhFVU84S0tLU09nUDlGMjJqQTJGOERSeGNpdENObElfSGlxeXJxazhlcEhIV0JxZVNNSUhTcmxWVXlJNFk2NV9SZ19DdDV5U0VDQlJ2SkpCR2VTOE1XSUhnbmUzT0xkREFPLXRYaUlkemlLZ19OMTFxbTFMcmhpZVVETmZpeC1LeHUzdnJXbVNvcEZlMFhRbHY5XzhPZ1QyUk5DX2U2Ul9wVW1LY1lpSjZ4cVpNazRsYnBTX3NMdDZGOERsUDhfUDVEajlCbjFwalRZaXJ6c2xmTVpMcGd2QmdYU09xTlJNMmUtRDU4YmtaRnFlREJ5Y2hSTWJXX2xnQi02U0VwZ3o2bVhONEkyU2hHTUJIc0w2Mmh0Y21INF93XzlTcVZ4RjYwWUhiUUhjeW9nWU5pbDFqbU9zSE9ia0FPSjVWaWpKd1hMMXpV?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.maspero.eg",
-      "title": "الهيئة الوطنية للإعلام"
     }
   },
   {
@@ -810,6 +790,16 @@
     }
   },
   {
+    "title": "الروزنامة - الاتحاد السعودي لكرة القدم",
+    "description": "الروزنامة  الاتحاد السعودي لكرة القدم",
+    "published date": "Fri, 02 Jan 2026 08:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqRlYtTlZ0TTR2a3g1V0FVaHQ3ZjZiY0RqMDFYdjlmRURnYzZIdGozRlY5bld3OWdJRjlQQmNaNW4xTmNibTVVTHBzSzl4azhraDBKUVk4NFBIMTktdnNvUl9OU1g2amIwWUx6WE9n?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.saff.com.sa",
+      "title": "الاتحاد السعودي لكرة القدم"
+    }
+  },
+  {
     "title": "صراع الهبوط يتجدد في الدوري السعودي - صحيفة الخليج",
     "description": "صراع الهبوط يتجدد في الدوري السعودي  صحيفة الخليج",
     "published date": "Fri, 15 May 2026 07:00:00 GMT",
@@ -840,16 +830,6 @@
     }
   },
   {
-    "title": "الروزنامة - الاتحاد السعودي لكرة القدم",
-    "description": "الروزنامة  الاتحاد السعودي لكرة القدم",
-    "published date": "Fri, 02 Jan 2026 08:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqRlYtTlZ0TTR2a3g1V0FVaHQ3ZjZiY0RqMDFYdjlmRURnYzZIdGozRlY5bld3OWdJRjlQQmNaNW4xTmNibTVVTHBzSzl4azhraDBKUVk4NFBIMTktdnNvUl9OU1g2amIwWUx6WE9n?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.saff.com.sa",
-      "title": "الاتحاد السعودي لكرة القدم"
-    }
-  },
-  {
     "title": "الكشف عن موعد انطلاق الدوري السعودي الموسم الجديد 2026/2027 - المصري اليوم",
     "description": "الكشف عن موعد انطلاق الدوري السعودي الموسم الجديد 2026/2027  المصري اليوم",
     "published date": "Mon, 01 Jun 2026 07:00:00 GMT",
@@ -870,16 +850,6 @@
     }
   },
   {
-    "title": "ديربي الحسم.. النصر والهلال في مواجهة ترسم ملامح بطل الدوري السعودي - صحيفة الخليج",
-    "description": "ديربي الحسم.. النصر والهلال في مواجهة ترسم ملامح بطل الدوري السعودي  صحيفة الخليج",
-    "published date": "Tue, 12 May 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijgVBVV95cUxNRUxHUU5BejJiWV9CbW1xNmZGeE0wV1d0aUpVYXVDZ01OOFhFMTJtZU1IM25UXzc2UndXMzVNQVFudlFwdmVDVDRoaFAwajdRcldBUEFoRE5ObDJSNmlGWmhqUlZZbFNFWWw2UUp5enVkRDBxYzd4YzROb2Zpc0JtZk9Pb0s5bEEwUEVON1hGRnVYa3pFeFUtVHFnQjFWYU9xSDJxa2daWjh0cGxFVlpmWDBPV0t0QUlsTHMzbVlYSnByQlRQWEw4Rm1HN3I0NVNFYkNBdFdUZGdRNWRYa0xTOTRHU2IzdzVsTWN5YV9Ja3VKQ2t4ZzhWUWhjdnYzVkotLUQyTGFaamE3eExvRjlZZXctaU43Q2NmYkl3T1dwYVVYdDZZbVd4SkNvdThkNFA0Y05mQjc2VmU0LXU4RktGQloyTHd4d3A4Y2xfWndZbWYwaUNORWw0Q0RXZldMLTBVbE55OVJBUkdYbG1JZnJkbno2TnNMcUVpQ2lHTHR6ZGRBeEJjX1ZtTVVRcTRjcF9UU1Z4N0VtY0F5UDV6Wmd6N1JkdUtyOHdkU0VVT0ZEZHVPNDV3Yk11TXVkTFJTVUFvcy03cHUwVEFuMDZoMzVJT25RN1pCZC1JZXRfbjhmU0lZd195LUdwanhXWDFUaEpxcXhjQktZNngtTExuXzVsa1dqWVpjNE56UkM5WkZQb3Vrb3FLTmUyOGVMYU9ZWXpQUUJmZHd6QVNEYnNGRTdFdXctS0lQal9aVFZ5TmtoMVAzY01oRlBWRHFMaDV3YTlrOUZJYjl5SlVrUVRNVVRtM0xLSVVLQllRWHZWYnZvczV4V2NRWUEzV1ZhQ3ZObHZpUXhfaTU0VmZLcUNMNmfSAZMFQVVfeXFMTWVmdGtTNmZzX1lsWlZQVnJWaVBLRmltaUtRLTJKZmtoWmZNdFVsLXhZQUV6cWRtMTZzZjhYS2RSNHNWWXk2WEZFTW53NzBySWZrLUNydjBUYmlKZTkzRjl1dk1GeXdjWlJETDFRRGFIYXhIc0lnVFJIbVh5ZXZESlRnajFkUmtUY1F1UHZ3T3RSU3BwNWZDMEloRm9laUZMYlhNTFdmOE9YbUtlbGQtclBoa0VSY2xfa1lMUEw3TkJEY2MyMEhYa1JMZXJqNlpxZ2RHeDlwcXk2eF9vYnh5R3pQY2NMczdTQm4wWGJVVF9EWHEwTmZlb3hkTWFJNnJkaXVaWDZpNlZCX2U5dGZzWUd1Szhtbko5V1d6cU9CTXhIVTUzVXZhdWJFdU1IZGlqMFhRRHVhd0JPV3A2VEpZMk9melBYWkVzYkVfZWVmazg2eEoxU2Z6MEZyRjJWeG5OR0hWeDFQcnpjNmRxSnZVMmZtR19pR3A0eTJuWWhEcE52Z0dPNDFtQ05Qd0hzS1Q2ZW5MVkF2Qjg4bU1fSXBDVlVWRkg5Mm1DX3NBSm9QWFZEWTZsT3p2bXFOeUlERjNiQjRNbExzc2ZkcUN0ZjVxMXFjbXpsRUlLNDBQQWFjVmM1SWFDVWo0eXlLQ05Kdk1RMF9IYVZUdF9iR0xyNkRPQm9kUENqQTQtbTRrRHhRVXc4XzZJdm5DQXlTWlJPaDc0dWdDMC1qeERGeGZRNnpRRklXNkEwckExVjQ1Z25EV1N1US1QbXBJSHoxVFplT0FfbllqRGtrOEt3NFFVamJOd3lDQ1NCY0tDbTEzRjgxa1dteDNlajVNTG83UVBXSU5ZcmFUWl9Ma3hYR25LVnZiUHk5V1E?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.alkhaleej.ae",
-      "title": "صحيفة الخليج"
-    }
-  },
-  {
     "title": "كريستيانو رونالدو يلحق بالحضري وعبد الغني في قائمة تاريخية بالدوري السعودي - الجزيرة نت",
     "description": "كريستيانو رونالدو يلحق بالحضري وعبد الغني في قائمة تاريخية بالدوري السعودي  الجزيرة نت",
     "published date": "Sun, 15 Feb 2026 08:00:00 GMT",
@@ -887,6 +857,16 @@
     "publisher": {
       "href": "https://www.aljazeera.net",
       "title": "الجزيرة نت"
+    }
+  },
+  {
+    "title": "ديربي الحسم.. النصر والهلال في مواجهة ترسم ملامح بطل الدوري السعودي - صحيفة الخليج",
+    "description": "ديربي الحسم.. النصر والهلال في مواجهة ترسم ملامح بطل الدوري السعودي  صحيفة الخليج",
+    "published date": "Tue, 12 May 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijgVBVV95cUxNRUxHUU5BejJiWV9CbW1xNmZGeE0wV1d0aUpVYXVDZ01OOFhFMTJtZU1IM25UXzc2UndXMzVNQVFudlFwdmVDVDRoaFAwajdRcldBUEFoRE5ObDJSNmlGWmhqUlZZbFNFWWw2UUp5enVkRDBxYzd4YzROb2Zpc0JtZk9Pb0s5bEEwUEVON1hGRnVYa3pFeFUtVHFnQjFWYU9xSDJxa2daWjh0cGxFVlpmWDBPV0t0QUlsTHMzbVlYSnByQlRQWEw4Rm1HN3I0NVNFYkNBdFdUZGdRNWRYa0xTOTRHU2IzdzVsTWN5YV9Ja3VKQ2t4ZzhWUWhjdnYzVkotLUQyTGFaamE3eExvRjlZZXctaU43Q2NmYkl3T1dwYVVYdDZZbVd4SkNvdThkNFA0Y05mQjc2VmU0LXU4RktGQloyTHd4d3A4Y2xfWndZbWYwaUNORWw0Q0RXZldMLTBVbE55OVJBUkdYbG1JZnJkbno2TnNMcUVpQ2lHTHR6ZGRBeEJjX1ZtTVVRcTRjcF9UU1Z4N0VtY0F5UDV6Wmd6N1JkdUtyOHdkU0VVT0ZEZHVPNDV3Yk11TXVkTFJTVUFvcy03cHUwVEFuMDZoMzVJT25RN1pCZC1JZXRfbjhmU0lZd195LUdwanhXWDFUaEpxcXhjQktZNngtTExuXzVsa1dqWVpjNE56UkM5WkZQb3Vrb3FLTmUyOGVMYU9ZWXpQUUJmZHd6QVNEYnNGRTdFdXctS0lQal9aVFZ5TmtoMVAzY01oRlBWRHFMaDV3YTlrOUZJYjl5SlVrUVRNVVRtM0xLSVVLQllRWHZWYnZvczV4V2NRWUEzV1ZhQ3ZObHZpUXhfaTU0VmZLcUNMNmfSAZMFQVVfeXFMTWVmdGtTNmZzX1lsWlZQVnJWaVBLRmltaUtRLTJKZmtoWmZNdFVsLXhZQUV6cWRtMTZzZjhYS2RSNHNWWXk2WEZFTW53NzBySWZrLUNydjBUYmlKZTkzRjl1dk1GeXdjWlJETDFRRGFIYXhIc0lnVFJIbVh5ZXZESlRnajFkUmtUY1F1UHZ3T3RSU3BwNWZDMEloRm9laUZMYlhNTFdmOE9YbUtlbGQtclBoa0VSY2xfa1lMUEw3TkJEY2MyMEhYa1JMZXJqNlpxZ2RHeDlwcXk2eF9vYnh5R3pQY2NMczdTQm4wWGJVVF9EWHEwTmZlb3hkTWFJNnJkaXVaWDZpNlZCX2U5dGZzWUd1Szhtbko5V1d6cU9CTXhIVTUzVXZhdWJFdU1IZGlqMFhRRHVhd0JPV3A2VEpZMk9melBYWkVzYkVfZWVmazg2eEoxU2Z6MEZyRjJWeG5OR0hWeDFQcnpjNmRxSnZVMmZtR19pR3A0eTJuWWhEcE52Z0dPNDFtQ05Qd0hzS1Q2ZW5MVkF2Qjg4bU1fSXBDVlVWRkg5Mm1DX3NBSm9QWFZEWTZsT3p2bXFOeUlERjNiQjRNbExzc2ZkcUN0ZjVxMXFjbXpsRUlLNDBQQWFjVmM1SWFDVWo0eXlLQ05Kdk1RMF9IYVZUdF9iR0xyNkRPQm9kUENqQTQtbTRrRHhRVXc4XzZJdm5DQXlTWlJPaDc0dWdDMC1qeERGeGZRNnpRRklXNkEwckExVjQ1Z25EV1N1US1QbXBJSHoxVFplT0FfbllqRGtrOEt3NFFVamJOd3lDQ1NCY0tDbTEzRjgxa1dteDNlajVNTG83UVBXSU5ZcmFUWl9Ma3hYR25LVnZiUHk5V1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.alkhaleej.ae",
+      "title": "صحيفة الخليج"
     }
   },
   {
@@ -920,16 +900,6 @@
     }
   },
   {
-    "title": "صفقة تريزيجيه.. كهربا أفضل هداف مصرى فى تاريخ الدورى السعودى.. إنفوجراف - اليوم السابع",
-    "description": "صفقة تريزيجيه.. كهربا أفضل هداف مصرى فى تاريخ الدورى السعودى.. إنفوجراف  اليوم السابع",
-    "published date": "Thu, 16 Jul 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxQTkhSOWhUR1JHZGNzckNQYWliOTV2U0VJRmg5ZEQxN0NRRHkxdW1Id1BVQ0dCNzR1VWp5WXFaR3B1MUd1ZVo2YXVud3RmUEFnUERIcnN1MGlhZXBkcTBiNmpZdy0yTkprV005UkpHZWNYSU8weDBZZzF3NGp5UEFPWXlrSWNhZkF0MEdUd096UmgxT2hSdElqMEtJNlhVMTVKVU1RMWVWUEpsZzZUdEsxZndZc3RuSXNVVWtHc2I3VldXc0IyNjY2VU53SDdEYVNHN2wweVFNdjdaM3lTQk9jbFNGLURnRHg2UFdhLVVpb0QySjB0M1A1azVzMTdoenNoOUVFYjE4SEl2WlVsekVpM2dXTV9WNjFFOXZMbHZ5eHdlbWJSRGRvaTd5RlBkVjFtNzZRSEtPNF80NFNCajNKLUUtLV9DdkV5NjQ0WUNQcHg4YkIwQlJ1bWRhUlFkTmVJMUp6RFdEbFVDWEx1UzNsaF9iTERrYmZ5UGc5Mm9DNDB4NHhXTFhRaVcxYWZKb240b3lma0RNZi1xSXZZS0g0cmRzbXhyUWM0OElvMUhuanp2Q256X2FGTWVEcjBCWEtubEtFMGxPZGZ4NU9CSVR6SVlIWm1CLURRdGg5QWhESkNwbl9QdEtha2g1U194d9IB6ANBVV95cUxNY1lEejZ5MEdFcUtwZzBMOXpKelIwa19jeUc3c2poeWFFbUdNNkNGSGtGNEotbTh5bVUtWUF1NVNhdG1JVVVpUF9JVHFpRXF4cmdST2dCUVdnbG5QQWR5VHVSQkliMHBDOVlaU18xVWFsOHhOYkNTOHF2UmE4SWkyS1p1RFB0OGRyaXc3LTc3dDhDZzhBSlJOR2daS01GS3RxbzVlcXp3d0pWSXBybUc0UTdyTEdsalJCc09TTFp4MUtkbDBIWTNGeVRJbS1MQXppN1BJUHBnY0llc2dMcDExVDlFcVhPc2lNdjhrcTZaNC1uVEoxWEpmMXlpWWJQcnNQNDduTDNUUUR6R1VfbVVzQ21XRjJBcHR6R2VrNy1ZQzBsUlJ2T2ZDRzNkYnFsRlduRE1DT1ZiNXVrU2s0TDdnU3p6RzBicXBIdWZkR0dfZjRXYjN0UjV6bGZfaUE0TDBrZmJaOHFLT2pWV255cVA4QXlzajBITmVYd2kwaExyeVhabnI4UHFfdVo0dlIxQjRiNGoyV2ZvR1JWcDdpanNQVW5LdEhHSkE0UHU0N0F1TDE5b1Jlb2U2bVc3SC1NZGNueENqeTFfSTIxNkg1QmtaOTNYVU5RdkhCQjFwOFV2UWlMSHM1TnU0cQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.youm7.com",
-      "title": "اليوم السابع"
-    }
-  },
-  {
     "title": "من يفوز بدوري روشن السعودي 2025-2026؟ جدول مباريات النصر والأهلي والهلال المتبقية؟ | السعودية Goal.com - Goal.com",
     "description": "من يفوز بدوري روشن السعودي 2025-2026؟ جدول مباريات النصر والأهلي والهلال المتبقية؟ | السعودية Goal.com  Goal.com",
     "published date": "Fri, 22 May 2026 07:00:00 GMT",
@@ -937,6 +907,16 @@
     "publisher": {
       "href": "https://www.goal.com",
       "title": "Goal.com"
+    }
+  },
+  {
+    "title": "صفقة تريزيجيه.. كهربا أفضل هداف مصرى فى تاريخ الدورى السعودى.. إنفوجراف - اليوم السابع",
+    "description": "صفقة تريزيجيه.. كهربا أفضل هداف مصرى فى تاريخ الدورى السعودى.. إنفوجراف  اليوم السابع",
+    "published date": "Thu, 16 Jul 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxQTkhSOWhUR1JHZGNzckNQYWliOTV2U0VJRmg5ZEQxN0NRRHkxdW1Id1BVQ0dCNzR1VWp5WXFaR3B1MUd1ZVo2YXVud3RmUEFnUERIcnN1MGlhZXBkcTBiNmpZdy0yTkprV005UkpHZWNYSU8weDBZZzF3NGp5UEFPWXlrSWNhZkF0MEdUd096UmgxT2hSdElqMEtJNlhVMTVKVU1RMWVWUEpsZzZUdEsxZndZc3RuSXNVVWtHc2I3VldXc0IyNjY2VU53SDdEYVNHN2wweVFNdjdaM3lTQk9jbFNGLURnRHg2UFdhLVVpb0QySjB0M1A1azVzMTdoenNoOUVFYjE4SEl2WlVsekVpM2dXTV9WNjFFOXZMbHZ5eHdlbWJSRGRvaTd5RlBkVjFtNzZRSEtPNF80NFNCajNKLUUtLV9DdkV5NjQ0WUNQcHg4YkIwQlJ1bWRhUlFkTmVJMUp6RFdEbFVDWEx1UzNsaF9iTERrYmZ5UGc5Mm9DNDB4NHhXTFhRaVcxYWZKb240b3lma0RNZi1xSXZZS0g0cmRzbXhyUWM0OElvMUhuanp2Q256X2FGTWVEcjBCWEtubEtFMGxPZGZ4NU9CSVR6SVlIWm1CLURRdGg5QWhESkNwbl9QdEtha2g1U194d9IB6ANBVV95cUxNY1lEejZ5MEdFcUtwZzBMOXpKelIwa19jeUc3c2poeWFFbUdNNkNGSGtGNEotbTh5bVUtWUF1NVNhdG1JVVVpUF9JVHFpRXF4cmdST2dCUVdnbG5QQWR5VHVSQkliMHBDOVlaU18xVWFsOHhOYkNTOHF2UmE4SWkyS1p1RFB0OGRyaXc3LTc3dDhDZzhBSlJOR2daS01GS3RxbzVlcXp3d0pWSXBybUc0UTdyTEdsalJCc09TTFp4MUtkbDBIWTNGeVRJbS1MQXppN1BJUHBnY0llc2dMcDExVDlFcVhPc2lNdjhrcTZaNC1uVEoxWEpmMXlpWWJQcnNQNDduTDNUUUR6R1VfbVVzQ21XRjJBcHR6R2VrNy1ZQzBsUlJ2T2ZDRzNkYnFsRlduRE1DT1ZiNXVrU2s0TDdnU3p6RzBicXBIdWZkR0dfZjRXYjN0UjV6bGZfaUE0TDBrZmJaOHFLT2pWV255cVA4QXlzajBITmVYd2kwaExyeVhabnI4UHFfdVo0dlIxQjRiNGoyV2ZvR1JWcDdpanNQVW5LdEhHSkE0UHU0N0F1TDE5b1Jlb2U2bVc3SC1NZGNueENqeTFfSTIxNkg1QmtaOTNYVU5RdkhCQjFwOFV2UWlMSHM1TnU0cQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.youm7.com",
+      "title": "اليوم السابع"
     }
   },
   {
@@ -987,6 +967,26 @@
     "publisher": {
       "href": "https://www.kooora.com",
       "title": "Kooora"
+    }
+  },
+  {
+    "title": "جيسوس يجيب.. هل يتوقف الدوري السعودي بسبب الحرب؟ - Kooora",
+    "description": "جيسوس يجيب.. هل يتوقف الدوري السعودي بسبب الحرب؟  Kooora",
+    "published date": "Wed, 04 Mar 2026 08:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxNM0RlMlN6TjZramFTZFdZOWlHR1RDZUNCSElWeW5RSlEtYnIyOFNnaDdqLUVnQ05CQllZNThSTUxzWVd1NkZ1d0VFYlJPRklWSDV1ZXd2RVBVbDNhSkdFSHNrN1doNkN5SFNwTEJXYlh0NU00NVU2bjZyYUt1dlhPWFZObFFBYm5aWnZ4SXpucWRqcmpBWVRXNlNDV0NiWlhpYnRUY0MwMXh3MnFDZWNFZ2dXZkM4eE5mUGpXeDB2RHAzdWNFd3pIbDZUbTN2NDNfY29vdmx1LWNJd1l6cGpMS1ZMZzBreHJqWVBQZS1MaDhvUU1LT1hHTkZZZVQ5S1VHdnlaNzVoc2FFUjk5ckt5SC1zWnJaTndtYWNIbjJZWDZDUUhWeW1kaE9oMlRpMDJUY05ZOTF3bXJZWExySFZkUEVGOExaWk5VMFZUWEZiR3U0eWd1cEdlak9vZFhtTGlHVWpFdmFSQlFTX0phZTJQNmlKX0hPbWpYZDB3VnlVOTdMRHZuV2dFNFZUdEpZT2F4cW9BLV9FT1BBU013bXl0Sno5dlA0amF2VGZETzNoMjhzd1lsYXJDS0FEUS1kZGM2Ml95c2dVM1J5YjUxY2RyWXNnd184ZHpqaEozT0N4N1ktYzNYRmJ3eVBSSFk?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.kooora.com",
+      "title": "Kooora"
+    }
+  },
+  {
+    "title": "الهلال يجهز عرضًا قياسيًا لضم لويس دياز من بايرن ميونخ - الهيئة الوطنية للإعلام",
+    "description": "الهلال يجهز عرضًا قياسيًا لضم لويس دياز من بايرن ميونخ  الهيئة الوطنية للإعلام",
+    "published date": "Sat, 25 Jul 2026 22:57:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxQZC1QUmVmVnRId2hxNm5fYkE1d3BRbHVSNExaVkdPbWdYQnFheVFCTGhKWFNTNWJnc29TVnZFclNNWGd1bmptYXBfdU1ISTN2QVRIM2ZtTl9sZFFJQ2dkZXZraG5jSmZZRUVLcWh6NGlqY2U4X0YwRG5BRWhHR3lIY2o2b0hMV3owUjhFVU84S0tLU09nUDlGMjJqQTJGOERSeGNpdENObElfSGlxeXJxazhlcEhIV0JxZVNNSUhTcmxWVXlJNFk2NV9SZ19DdDV5U0VDQlJ2SkpCR2VTOE1XSUhnbmUzT0xkREFPLXRYaUlkemlLZ19OMTFxbTFMcmhpZVVETmZpeC1LeHUzdnJXbVNvcEZlMFhRbHY5XzhPZ1QyUk5DX2U2Ul9wVW1LY1lpSjZ4cVpNazRsYnBTX3NMdDZGOERsUDhfUDVEajlCbjFwalRZaXJ6c2xmTVpMcGd2QmdYU09xTlJNMmUtRDU4YmtaRnFlREJ5Y2hSTWJXX2xnQi02U0VwZ3o2bVhONEkyU2hHTUJIc0w2Mmh0Y21INF93XzlTcVZ4RjYwWUhiUUhjeW9nWU5pbDFqbU9zSE9ia0FPSjVWaWpKd1hMMXpV?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.maspero.eg",
+      "title": "الهيئة الوطنية للإعلام"
     }
   }
 ]
