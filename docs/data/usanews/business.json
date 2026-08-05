@@ -1,47 +1,37 @@
 [
   {
-    "title": "SpaceX Stock Dives. Analysts React To Earnings Beat, Shift Price Targets. - Investor's Business Daily",
-    "description": "SpaceX Stock Dives. Analysts React To Earnings Beat, Shift Price Targets.  Investor's Business DailySpaceX stock falls 7% after AI spending surge rattles investors  CNBCWhy SpaceX stock is falling despite strong revenue growth  CBS NewsSpaceX posts loss of $541 million in first report since record-setting IPO  The Washington PostSpaceX’s AI Splurge Puts Damper on Debut Earnings After IPO  Bloomberg.com",
-    "published date": "Wed, 05 Aug 2026 15:19:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdDZ5ZGNEdW5BOC0zYkxWVVh0Q1lmcHRkN19FT2JWaEw0ZVlOUnNXMDlQNFVPQndFd0lPX2ZpbzJueGNDNE81THJQZV9pV2RVN1BlMGdUcXI4bUJZN0M0ekZ6TnRpZFFQOGxYbmlzbTdLNVJkSGVkWmpsSjNIR1cxc01SbUJuNm51ck00aUJxZlFqWkpQQVAzclUtaDhhVm9tQmVvY3lQX0EyM000TTJmRGVzVGJ1TjdLZEduVVVoTFZuNzlv?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.investors.com",
-      "title": "Investor's Business Daily"
-    }
-  },
-  {
-    "title": "Google DeepMind CEO Demis Hassabis is stepping down - Axios",
-    "description": "Google DeepMind CEO Demis Hassabis is stepping down  AxiosGoogle stock drops amid DeepMind leadership shake-up  Yahoo FinanceFour Top Google A.I. Researchers Form New Start-Up  The New York TimesGoogle Overhauls AI Leadership as Longtime Chief Scientist Joins Wave of Exits  WSJ4 of Google’s Top AI Brains Are Leaving—and Launching Their Own AI Startup  WIRED",
-    "published date": "Wed, 05 Aug 2026 16:04:35 GMT",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1OaExwUzJFX0xDWmVYTWJ0ZlBxcHB0Nm96cUZfcTY2dFNqZi13aF84QXh3c3VFLTdvRTNwLW1RVU9jZ0Y0ZjdWSlRXZnRoaUJiLU9udl9fQTBkX2JMemN4ZURpbEo3RXJndW10X3hsWWtydFB0?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.axios.com",
-      "title": "Axios"
-    }
-  },
-  {
-    "title": "Saudi wealth fund and Jared Kushner's Affinity finalize $55 billion EA Sports deal - CNBC",
-    "description": "Saudi wealth fund and Jared Kushner's Affinity finalize $55 billion EA Sports deal  CNBCOur Next Chapter  Electronic Arts Home PageVideo game giant Electronic Arts closes $55 billion go-private sale of its business  apnews.comSaudi-led group completes $55bn purchase of gaming giant EA  BBCElectronic Arts Has Been Fully Acquired By Trio Of Investor Groups And Is Now Private  gameinformer.com",
-    "published date": "Wed, 05 Aug 2026 12:08:58 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTkIwQzZPdTFHc0JZdEhGYXJNV2x6UF9LdDlvaXZRcGtuLXpIU3JoVS1BZEhhVnJUQ2pPS3NkUWdYcUdZQm5DLXo2MGYtVGVZeHdUVGR2YVZCLVdvZWI4R2lCOVUyRFR6R2R1VXNNWXg1bVA0UmFXYXlIeGp6Zk8xOGttS2pQUTVvTlFF0gGQAUFVX3lxTE5pOW90Sko4VmwxZUR6cThXNV9TWkswaGgwcFJ1ZVdBRmlMMXpZOVl3U0hCSVRSVmlsenFDRUdEc3NRa2puMERCYXFXUm5ndV9FR00xdzk2cDBXN1NYSFY0X0N5QXlDUUNfaDZxMElZN19NQWRkUlBtRW1BUkl3WXU4dnpkeThJelY3dEZIOWtFTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Google's AI reshuffle: Chief scientist Jeff Dean exits and Demis Hassabis steps down as DeepMind CEO - CNBC",
+    "description": "Google's AI reshuffle: Chief scientist Jeff Dean exits and Demis Hassabis steps down as DeepMind CEO  CNBCGoogle’s stock drops after Nobel-winning AI executive steps aside  The Washington PostGoogle's AI shakeup: DeepMind's Hassabis steps aside, senior scientists depart  Ars TechnicaGoogle stock drops amid DeepMind leadership shake-up  finance.yahoo.comFour Top Google A.I. Researchers Form New Start-Up  The New York Times",
+    "published date": "Wed, 05 Aug 2026 16:03:12 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVkhiNlh6LVJaNmJiWXYwZm11TFRwS3JVWWVVVkRHdzlWeGhkSk04WXhnQ1R2QjhJNmU5VXdsd3FJSG81cGVlQTlJUUdIYThaSnczYU1XbE84N09ucXRPVXBhbnlkamtWV3JhVUpUZ2NMMDE2RkJhWG1pdXlSRzljSTA0eXhRdHEybUpvOEZXcGJWQzJKWndPREFCZlBXNGZqVWfSAacBQVVfeXFMTmpLM184R3JUZkd3THZNMVEwalh2LURjVDFwMFlSSEt3eVMtV2VCVVhpTF9aSjhiT0twYVFaZi15TW9yXzFEMGpIdjIwMWZTaFJKVjZmeFB5dG43dUlhX0QwYUQzbzVvdnFnX0pfaU4yYzA4OFFZM205LVd5WDNMejBWbWdHVnA2MHVIYW5JZHdZZFQzZDdqWFZpazV2LUxpS0Z2UlFWRUU?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.cnbc.com",
       "title": "CNBC"
     }
   },
   {
-    "title": "Palantir Stock Massive Jump Wipes Out $3 Billion in Short-Seller Gains - Yahoo Finance",
-    "description": "Palantir Stock Massive Jump Wipes Out $3 Billion in Short-Seller Gains  Yahoo FinancePalantir stock jumps nearly 30% after 'otherworldly' quarter as US commercial business booms  Yahoo FinancePalantir's Sovereign AI Is Exactly What Bursts The AI Bubble  Seeking AlphaPalantir stock skyrockets 29%, narrowly missing its best day ever after 'otherworldly' results  CNBCTech giant Palantir posts ‘otherworldly’ growth despite criticism over Gaza  Al Jazeera",
-    "published date": "Wed, 05 Aug 2026 12:36:53 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONVJoWDVVODdkS0VBTUx6THVmVkx5MkFXdDFERDNyY195VVVpUTZQTXU1UWlNMkJmQVRST2FlZXdUTTRwbm5HRzBfSkpxUVJRTUlYNXR6TVVsZnB2ZDFmMzBrOFZwcTBTSC00azdxemVRa3l3VnE0SlRsVHZEamdDNTA5UktGazFQR1ZYcFNpRFZlMmItUGNEQkZqQzhrWnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "SpaceX shares sink after first earnings report reveals huge AI spending plans - BBC",
+    "description": "SpaceX shares sink after first earnings report reveals huge AI spending plans  BBCSpaceX stock falls 7% after AI spending surge rattles investors  CNBCWhy SpaceX stock is falling despite strong revenue growth  CBS NewsElon Musk Has Lost the Midas Touch as AI Spending Booms  Barron'sSpaceX's stock falls after earnings. Here's the rundown from the first report.  MarketWatch",
+    "published date": "Wed, 05 Aug 2026 14:04:43 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wbjR2NmVoNEx2eWFOWDhUWm9CbnYxZDktb3ZpVXRPdFRSUDRqZUZtOXhLeTloSGhuQ3VLR1dqdFpUSndpcEtrT0xRSUtRczAtOTRJV3R2djBIZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bbc.com",
+      "title": "BBC"
+    }
+  },
+  {
+    "title": "'This was not an exceptional result': Why AMD stock tanked 5% after earnings - finance.yahoo.com",
+    "description": "'This was not an exceptional result': Why AMD stock tanked 5% after earnings  finance.yahoo.comAMD's revenue climbs 50% and data center sales doubled, but the stock is down  CNBC'This was not an exceptional result': Why AMD stock tanked 10% after earnings  finance.yahoo.comAMD's AI-powered revenue forecast fails to wow investors  ReutersAMD: Patience Is A Virtue, But Valuation Matters (Downgrade)  Seeking Alpha",
+    "published date": "Wed, 05 Aug 2026 17:25:11 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRnpDbmF1ZzlBRXRNaV94ODZreVE3VE0zRUkzWk1PMV9xblR6NmJ5aGwwYlFoTGU5NVRZY0cyclRWMDFRc1IzNnM1UHdqeW1FQjBqVHVmeXRObE9FTE56UjJUVGtSaFdCZ3VvRlQyalQxeEdoTTNOckhTYnJOYlBBNWVyUzFvbUtNazctYmdid3ZBUGpWNEJycVNkR29UajVMRkM4YjZiaEhFb2JRaDlWa05SN0xBYnR4aDF5UW5mLTZJZmYxYXgyUA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://finance.yahoo.com",
-      "title": "Yahoo Finance"
+      "title": "finance.yahoo.com"
     }
   },
   {
     "title": "Theme Parks and ‘Toy Story 5’ Boost Disney Results - WSJ",
-    "description": "Theme Parks and ‘Toy Story 5’ Boost Disney Results  WSJDisney Theme Parks Report Strong Results, While Comcast’s Universal Parks Dip  The New York TimesDisney tops earnings estimates as parks and streaming offer a boost  CNBCDisney's 'Toy Story 5' fuels streaming business and merchandise sales for June quarter  ReutersDisney Q3 FY26 Earnings: Commentary from CEO Josh D’Amaro  The Walt Disney Company",
+    "description": "Theme Parks and ‘Toy Story 5’ Boost Disney Results  WSJDisney’s Strong Parks Results Contrast With Universal’s Gloomy Outlook  The New York TimesDisney Q3 FY26 Earnings: Commentary from CEO Josh D’Amaro  The Walt Disney CompanyDisney Q3 2026 earnings beat on parks and streaming strength  qz.comDisney's 'Toy Story 5' fuels streaming business and merchandise sales for June quarter  Reuters",
     "published date": "Wed, 05 Aug 2026 14:16:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYnBwZ0Rjc2ZNTWJWcXlzLW9GT0sxTFJscmhPZmRpQWpWX0JINTctRERlZS1YNFQwaFRDVUk3Smh2aDhYUmwzWWVxWlp3eXVESTlxRlpKeVMtS2tiOFVWOGMwNW9uem1IaERRbERNTGs0NUxjT2M4dkpyUS1zYlBSTjRVaVlXNnM?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -50,198 +40,8 @@
     }
   },
   {
-    "title": "Michael Burry warned of a 1987-style crash — and kept his AI shorts open - qz.com",
-    "description": "Michael Burry warned of a 1987-style crash — and kept his AI shorts open  qz.comMichael Burry bets against rally: 'We are near a major top, and possible a 1987-type fall'  CNBCMichael Burry warns of 1987-style crash even as S&P 500 hits new high  Seeking AlphaMichael Burry warns of 1987-style crash, holds Nvidia shorts  Yahoo FinanceYou Hit Micron’s Bear Thesis Every Time ChatGPT Says ‘Start a New Chat.’ Burry’s MU Short Might Be Onto the Same Thing.  Barchart.com",
-    "published date": "Wed, 05 Aug 2026 11:40:53 GMT",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12dWZZcmVUOUtDUFdFenl5bUJQODFqX3dSeVBPS0FvNVBReXVWbnlDWUp6UnBCSVdvS1hwUXdyUHBZMW03TGkzVE5UTHRQaHdPdGYwSGJWUXhjS1ZLb045RmpWbUhCSlFOQVNodmZETVNZNHJBZ3kyODRsOA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://qz.com",
-      "title": "qz.com"
-    }
-  },
-  {
-    "title": "Salad and Go is closing all locations in Arizona on Aug. 5 - KJZZ",
-    "description": "Salad and Go is closing all locations in Arizona on Aug. 5  KJZZSalad And Go closing all locations permanently after bankruptcy filing  AZ FamilySalad and Go files for bankruptcy, closes all locations permanently  USA TodayAM Roundup: Salad and Go closure, Extreme heat, Hobbs to pick runningmate  ABC15 ArizonaSalad and Go files for bankruptcy, will permanently close all locations  KTAR News 92.3 FM",
-    "published date": "Wed, 05 Aug 2026 04:18:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbm9vajdDSzNmNEJYUWRaNXI4ZERUcjRXcFRCYnZaQ0M4a3QzM183T3paaVlyb1JUWUx1S3M0WC1GcU9TdUhod3F2UXQzYWlBRkJNUjhwT21ERjBwQkp1SDZzQWVIQWlKc2ZGVlUzbmNlMnotWGpJd1kyNHVtZ3RneXN0U0lQcy04bHY1eWJ2ZW1VRmg1b3BVcGdzRWNSZXM?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.kjzz.org",
-      "title": "KJZZ"
-    }
-  },
-  {
-    "title": "Oil Price Rally Boosts Glencore's First-Half Profit - Crude Oil Prices Today | OilPrice.com",
-    "description": "Oil Price Rally Boosts Glencore's First-Half Profit  Crude Oil Prices Today | OilPrice.comGlencore's Australia listing taps mining-friendly capital for copper, M&A ambitions  ReutersGlencore Profit Jumps on Trading Boom and Record Copper  Bloomberg.comGlencore plans secondary listing in Australia  Financial TimesGlencore Targets Secondary Listing in Australia  WSJ",
-    "published date": "Wed, 05 Aug 2026 11:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWlptXzVweHBxeExyS3NmeVd4dDBUeDFqS0VocVN5bnp0bkhINnkzU0w1dWZYdWRPVmpnRlhWNnVaaC1xNVVSUnNHMl90R3h1ZHlTQ0ltbmhDZ2hXekZSZFA2WFhwT1lzVFdBQVNzWW5UNEVnQkJzbjlZQWpaQnh6anNUeDhiTzBUWTVJcnNVaTA4MHRKTl9QNTI1bFRLQVYwa21HZG51dE1DQdIBrwFBVV95cUxORlhwZUFaVTZ3dFNXcmtRRUM0c0RhdElvM1NXN1NYd21NQ1RzUzFQLUVaNXN1dTNlRFVDa3EwZXpPcUNTa19pZ0lSUnJhYy16aDBvRnQzcTJxZEtVVmtGUXFkS2hiVUt1WkVCTmJFWFB2MVdGclJYQnQ4UV9Pc0M0eXNRcDZXU1pnV3pLSG9PWnpGV3o0S2hXemVhM3RxMERCLWpCLWZnTS1IdlJwYTJz?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://oilprice.com",
-      "title": "Crude Oil Prices Today | OilPrice.com"
-    }
-  },
-  {
-    "title": "Micron Stock Rises After Musk Flags Surging Memory Prices - Barron's",
-    "description": "Micron Stock Rises After Musk Flags Surging Memory Prices  Barron'sMU, SNDK, SKHY Stocks In Focus: Elon Musk Says Memory Demand Is Growing ‘200% A Year, Maybe Higher,’ Calls It A ‘Limiting Factor’  Yahoo FinanceIs Micron Stock Going Higher? You Need To Hear What Elon Musk Just Said  The Motley FoolElon Musk addresses memory-chip stock concerns with one simple observation  MarketWatchTop 20 by Trading Volume | Micron surges 7%, market cap reclaims the $1 trillion mark; Palantir jumps 29% after earnings; SpaceX partners with NVIDIA to co-design satellite computing payloads  富途牛牛",
-    "published date": "Wed, 05 Aug 2026 11:47:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5R3hGWmJqd3J6LTlpNmNGMVpTNFc0TEQ5OWU0UHNHVTU4UXlsQi0zX0hZN1UxNTRMSmV1d1h6UmVqMkxSTG1IcjhKNEJQNTVFTlVaWHdzSXNaTXh4MFlFSl9ZeGNNUFhQZUxSV1kxMGowX2NhU0YxMHNjR21vdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.barrons.com",
-      "title": "Barron's"
-    }
-  },
-  {
-    "title": "Rising temperatures could keep more flights from taking off on time - apnews.com",
-    "description": "Rising temperatures could keep more flights from taking off on time  apnews.comSee more headlines & perspectives on Google News",
-    "published date": "Wed, 05 Aug 2026 10:44:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcjl0ekxrZUwxVXc1NDR0YTdQUEJSUF9tZHc5S1YwbFdYaGZ1VTVtMndpR3lDS194eTdyVjBZM3o3RmZXVGNOSGxuRDhkdExwMUYyeG45S2V5U00tNXBMampVbVh3aXlYc2lmMDItZUJWemNMRGMxeWJqN01meTVCU3VqczJBXy1WTEx2SHRobVZLb0FHLU1VX1ZqLWdRZGs?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://apnews.com",
-      "title": "apnews.com"
-    }
-  },
-  {
-    "title": "Stock Market Today: Dow jumps 500 points, S&P 500 heads for another record; Nasdaq's gains pared as SpaceX and AMD shares drop after earnings - MarketWatch",
-    "description": "Stock Market Today: Dow jumps 500 points, S&P 500 heads for another record; Nasdaq's gains pared as SpaceX and AMD shares drop after earnings  MarketWatchNasdaq and S&P 500 Reverse Gains, Alphabet Stock Sinks  Barron'sStock Market Midday, Aug. 5: Eli Lilly Pops and AMD Drops in Mixed Morning Markets  The Motley FoolUS OPEN: Bulls are once again putting their faith in Trump's shifting, but “temporarily” positive remarks  XTB.comUS Markets Open: Dow Rises Despite Slow Hiring and Climbing Costs, Weak Market Breadth  TechStock²",
-    "published date": "Wed, 05 Aug 2026 16:12:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSXhIT1E2YnR5cUVEeFZ6Wl9FOFVUMnFkOUlPSzY1UU9sR1lUQmlPQUFuTEp5LUNrSVliN0d6dEVlMS0zbldYNFBaSWt6VUxzSV9lOGJ4NGVwSURfLWJhSU1BMER6NXRodURTYm9fRFlyM3ZCSlVKenVmR2FzX2hNSDBaY3NPQ2pvT0tVN2ZFNC16R0V0SlVpWUIyV29ZQU44ZWZZRWtMOTloeWtVMVdoTC1lZF93T1lQeFhMRFFmWS1wNUtxR2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.marketwatch.com",
-      "title": "MarketWatch"
-    }
-  },
-  {
-    "title": "They bought homes at the peak of Austin's housing boom. Now they're taking devastating losses. - Business Insider",
-    "description": "They bought homes at the peak of Austin's housing boom. Now they're taking devastating losses.  Business Insider",
-    "published date": "Wed, 05 Aug 2026 14:29:54 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcTV3dVc1WTJIblBMd05PYTdBYmVFQmRIeDJKUUY2R05ZWXVCVFZYVnJGMFdnVThnRGtXU0JJNWU3VGJQbzdrWDFNSm9CMUVlQ05pY0hOYUNkdm4taEZ4eWQ4bE55YlBvcEJBTGFZbWxEcmZucDcwREtjWUtTa291T2hGUnFhTmZEZlFTdVhnTGwxaTI0MHBCelJEUGpxaEJsdEhxTnpzanY?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.businessinsider.com",
-      "title": "Business Insider"
-    }
-  },
-  {
-    "title": "Cyclosporiasis outbreak has expanded to six more states - NBC News",
-    "description": "Cyclosporiasis outbreak has expanded to six more states  NBC NewsC.D.C. Expands Cyclospora Outbreak to More States  The New York TimesMichigan cyclosporiasis case count jumps by 715 cases, total now over 12,000  CBS NewsMichigan reports first two deaths linked to cyclospora outbreak  BBCTwo People Have Died in the Cyclospora Outbreak  Time Magazine",
-    "published date": "Wed, 05 Aug 2026 12:59:09 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYWNpcTBMT3YzZUZXaDBrUXpzdl9BektPNVdUZkdpT1pMTVRTZUdybkoxQlVrTjYxbEhPVlNoR3h2SUtOYl9HTW5vQWFlN3F1Q3ZIS2VTdVJUeUxJTWZUR1MyS083T1Y2cWViWWh5VTlHM2JxTG94WFZGWDZhT3V6bjdTVnZTT3JFUVFydHNWTG5yWEJGWkwzQld5RS1QcC1kdE5KbEpheGk5QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.nbcnews.com",
-      "title": "NBC News"
-    }
-  },
-  {
-    "title": "Circle Revenue Misses Estimates as Crypto Markets Mired in Rout - Yahoo Finance",
-    "description": "Circle Revenue Misses Estimates as Crypto Markets Mired in Rout  Yahoo FinanceCircle Internet Stock Rises on Earnings as Profit Overcomes Crypto Slump  Barron'sCircle Reports Second Quarter 2026 Results  Circle Internet FinancialCircle shares fall as revenue miss overshadows quarterly profit beat  ReutersStablecoin Company Circle Swings to Profit  WSJ",
-    "published date": "Wed, 05 Aug 2026 10:10:53 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNFg1YzVLeTR0MTBlcV9YMGdmZUIwUlJEZUdLb2xGV1hZM0xzeElyM1dDRE9xcWNZbnhwbFBmYV9ULUFYOFNWTXFCTjg0aGg2dlROa21EWFAtM29mVTdqc05LN2JzM0E4NnNMUm9FZ0U3YWRUVTVxejFVcl9iakVzQkxNTFBHUlZFRl9pZ25MOE9oNVlkYlRHS19OdHkzMGVKdW1SZEx3?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://finance.yahoo.com",
-      "title": "Yahoo Finance"
-    }
-  },
-  {
-    "title": "Chris Wallace: States Are Playing Politics With the Law to Block Paramount’s Warner Bros. Deal - The Hollywood Reporter",
-    "description": "Chris Wallace: States Are Playing Politics With the Law to Block Paramount’s Warner Bros. Deal  The Hollywood ReporterOpinion | David Ellison: In Defense of the Paramount-Warner Deal  The New York TimesParamount–Warner Bros. Discovery judge sets March 2027 trial date for antitrust fight  CNNParamount chief executive David Ellison breaks silence on Warner Bros mega merger  BBCWhy Paramount might win its case and still run out of time to acquire Warner Bros. Discovery  Fortune",
-    "published date": "Wed, 05 Aug 2026 13:44:24 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdzI1eGduSmlGZkdXX09YbUFMYWJpZ3Y1OXZzY3hMbXN3TDJZNjFiX1ZmV1FYdUtiOUQ2bF9jd3E5LXpHSDd5VU4yVGp4YjZ4VXFoRVBnNEszY3kwT2VPOVlmNFN3amhQTDZpRWJEYXlndEhKSUVYNjQwbi1jSkRFZXJSeVNDN3UyQndQU01qSkwtT0x0djZSdndHMU8zeTJLbEI3ZkhiVkhVeklMVXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.hollywoodreporter.com",
-      "title": "The Hollywood Reporter"
-    }
-  },
-  {
-    "title": "US AI leaders are using Chinese open models for cybersecurity. Here’s why - South China Morning Post",
-    "description": "US AI leaders are using Chinese open models for cybersecurity. Here’s why  South China Morning PostHow China gets better bang for its buck than America in AI  The EconomistFighting Hubris in AI Strategy: A Layer-by-Layer Dissection of AI Tech Stack Competition  Rhodium GroupThese American Startups Are Making China's AI Smarter  ForbesOpen-weight AI models are catching up to the frontier. The safety gap remains.  TechCrunch",
-    "published date": "Tue, 04 Aug 2026 16:08:31 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZy14SEtwN2wwUDZ3ZUNuODZsN1UxVG1Bb3JEU25UUjh3TURoUXlFendtNnFzVEdLNUU1NXlpVFRDNGdpdWlVSFFYZm1PXzRhM1ZYNlY4QzFvM0ZuNjQ3SWVzMWdYQ2FwTnM5VW5CY2ZqLXFZb2pxcU5wa3I4bkJVclZudFRFUTdjVlZwMzVmUmVUcmt1TnNGRmt2bDE3T0t6enZFWmtNQUZVa2EwQVNQcml2TWdEWDBnQzB6Y2VFSTRYS3hVeDBUWHRn0gHKAUFVX3lxTE91M05qUXN1Zkl1TnY2U2lEOExTSHBRRVpKRlV3UERRMEh3eVowZnVhVEJvWHZPT055LUstQURVS2t6SXhRelZmd0labVVQSmdpSi15QWVZZzFIbVRkdkJzV0ZmbTRNaEo4bEU2NVRDcENDY1d5N3BpVHlmYzhlZ01LcFFvS0c3R0o5MFZVbVBFcXdZeUpjN2JkMjRBS2ZFaUhZMTZXRFdMTzlzdnlfUXlub3dlRFZJSGlhUjRjZGZkVGd4cEFtU3dhUFE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.scmp.com",
-      "title": "South China Morning Post"
-    }
-  },
-  {
-    "title": "Anthropic's Mythos created fake identities to fool humans in new cyber incident - CNBC",
-    "description": "Anthropic's Mythos created fake identities to fool humans in new cyber incident  CNBCIncident Report: unsanctioned agent behaviour during cyber testing  The AI Security Institute (AISI)Anthropic, OpenAI models used fake identities to plant malicious code  KOMOAI agents fake identities, target real people in new security incident  CNNAnthropic AI used fake profiles to target people in hack then hid the evidence  BBC",
-    "published date": "Wed, 05 Aug 2026 10:18:07 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYTVjbmhKRm95NTQ5dmVSWndiUnplUUZ4X3Q4bHcxbkZHc004bzBKMUlqcDFUUUNhejN2Y1hObTZycUhWdUdwM0NBZmtjbEdocDhXVlJaelFRNENrcTEzaTdzZVdLRmRUMHpKOFg2MEtjZXhGRGRBTVdkeEsyUG9WVkl1bXfSAYoBQVVfeXFMTkp3M3ZIQTlLV1B2dGtvMWlFQ055RlJlLVhmWjNTOXlYZmh3a0pBSHh2a2pxUklwZ2xKYWx2aXJwUjZNaEl2WFFyRzJsTnlxbFdzTUVmOWFNYlY3SG9zRlRvWjc4STB2enhDdzNSaWlMdk5BTTg4SE5pUnJGRFpWcUJtSWEwd1o0d3VB?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cnbc.com",
-      "title": "CNBC"
-    }
-  },
-  {
-    "title": "Why Nvidia Stock Is the Big Winner From SpaceX Earnings - Barron's",
-    "description": "Why Nvidia Stock Is the Big Winner From SpaceX Earnings  Barron'sLisa Su brushes off Musk's Nvidia commitment as AMD stock sinks after earnings  CNBCNvidia stock rises after Musk says SpaceX will exclusively use company's chips  Yahoo FinanceAMD Shares Fall 8% as Elon Musk Commits to Nvidia Chips for SpaceX  WSJNvidia’s stock is basking in the glow of a high-profile endorsement  MarketWatch",
-    "published date": "Wed, 05 Aug 2026 14:02:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX3ZnVDlaLVBCaHVPWU1BZnBjN0VEUnRtX0ZwaUEyYkVuOEdzamFxd0h5UHlQQVJiSV9GdThYYUk2S1pqeWw3dVlQWnhqQlNVNEFoTGJTVk9SRXRicFRyUURvbTdoRTc2RGRaSV9vYUJWNHI4MDM1cFhqeFBKZ0sxQkln?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.barrons.com",
-      "title": "Barron's"
-    }
-  },
-  {
-    "title": "S&P 500, Dow at record highs on Mideast deal hopes; SpaceX, AMD drag - Reuters",
-    "description": "S&P 500, Dow at record highs on Mideast deal hopes; SpaceX, AMD drag  ReutersS&P 500 gives up gain as 4-day rally loses momentum; Dow boosted by Nvidia: Live updates  CNBCStocks waver on Wall Street and hover around records as oil prices hold steady  Anchorage Daily NewsStock Market Today: Dow Rally Continues; SpaceX Slides After Earnings — Live Updates  WSJStock market today: Dow, S&P 500 climb as Trump says Hormuz deal is close, Nasdaq gives up gains  Yahoo Finance",
-    "published date": "Wed, 05 Aug 2026 13:58:05 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdklHVUNCN0JQTDlLR0piZnVyYXRkNkU1akFlU3dWWFRoQTUyVUFxTXVtbnU2V3pTY2QwZ3pXRUw3eTFZeG1IbDAzM0Q5eEJPd0VSRldTckFHb1dBYXUtQ2tocm44b2p1SE5EbGhCNUJyMG9SX0RhZTlRZjFFbURfWmhPbnN2YmNSTlF3NFFZbG5yNmFzWTNiZFBOTlFfOWp1cmZIMkxicE50d2tJWkVXOVZQRmFxc21qN01jaDR6RQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.reuters.com",
-      "title": "Reuters"
-    }
-  },
-  {
-    "title": "Disney Execs On Exploring FAST Channels, Content Spending, Cutting Costs - Deadline",
-    "description": "Disney Execs On Exploring FAST Channels, Content Spending, Cutting Costs  DeadlineDisney Looking to Launch Free Streaming Channels as CEO Josh D’Amaro Doubles Down on the Streaming Biz  VarietyAfter jacking up prices, Disney+ and Netflix consider offering free alternatives  Ars TechnicaDisney says it’s ‘exploring’ adding a free tier to Disney Plus  The VergeDisney Is “Exploring” Launching Its Own FAST Offering  The Hollywood Reporter",
-    "published date": "Wed, 05 Aug 2026 15:04:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZG8wX2ZlWG5JSGJId1JtVTZsM2F6V2RvNDk5ZVNXNm5aQU5qV1A0TjJBZUs2OGVKYnYyNzVZbktVV09kRkl5SjZHVEtRZXhwUHhIQnpiZkZnU3FSVFA2NnpIa1VwQ2l5aDBITk1wX2ZYN180VXczdTdwaVVMd0NwZ2pfalRoLWV4eFBwbTIxYkRFbU5Ib2I4MW9BV3cycC1sYlE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://deadline.com",
-      "title": "Deadline"
-    }
-  },
-  {
-    "title": "Private sector added 44,000 jobs in July, below expectations, ADP says - foxbusiness.com",
-    "description": "Private sector added 44,000 jobs in July, below expectations, ADP says  foxbusiness.comPrivate companies added just 44,000 workers in July, below expectations, ADP reports  CNBCEmployers are hiring less but paying more  AxiosUS Companies Added 44,000 Jobs in July, ADP Data Show  Bloomberg.comADP National Employment Report: Private Sector Employment Increased by 44,000 Jobs in July; Annual Pay was Up 4.4%  PR Newswire",
-    "published date": "Wed, 05 Aug 2026 13:03:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdDczRHotX1ZaNWhfVW9TU0lZX3N0LTZ3eVoxOVlkck9vTW1WTmVqVHByZTJZcEMtV0ZLX3FDcWxJYXM1czNReGRCbzNoYzJIOGg3aHQybEsteEVMdXBQYkJndmN4YUFmSDFUZVJMeERwNzNyNVFGQ2ZPbzJ3ak1KRC1vNm05X1M3aU5zalh4dXdTRU52WmoxaDd4VjZhWk1lcEHSAacBQVVfeXFMT3RoUnh6WEVidVVpWG8yS3J4R0RnZFZacWtVNV9oaHJSZDh0ZGJQdDI2b1lSczRKTUhWSU1mcW1TMk1lODBPVi1yZUlybElXQUdXSnZHX05XRGNxVzNhaGo3QzRNWGN2Q0NRUzgtbkx5WGxLVGdLbERFc3BvSzBZZFYzRGtxR1F4dVcyUFRObzA0cVpEelp2OEZpYlhieVF4SnU2bjRJSXM?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.foxbusiness.com",
-      "title": "foxbusiness.com"
-    }
-  },
-  {
-    "title": "What Leopold Aschenbrenner can learn from Warren Buffett after his $45 billion AI fund imploded - Business Insider",
-    "description": "What Leopold Aschenbrenner can learn from Warren Buffett after his $45 billion AI fund imploded  Business InsiderSituational Awareness hedge fund meltdown was a warning shot for leveraged markets, BofA CEO says  CNBCCitadel’s Purchase of Situational’s Stocks at Discount Is Already Paying Off  WSJInvestors in Situational Awareness deserved to lose their shirts  The EconomistInside the Meltdown of a Wunderkind’s A.I. Hedge Fund  The New York Times",
-    "published date": "Wed, 05 Aug 2026 12:23:01 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMkJZaGszamg2dVZLREFtYm5pWl9OMk5ieHJSRW91THYxV3hDSmR6TnJFQkl2VTU5NVFlU204eWs1ZnI4NFdjSnlKM2hLdGlsX0NYWU15ZTNYN0lnUVhEOUhpX1dnekp6VnZZOVRCRlFFT05nZ0duN1pOTTktdWIydWJBRm9LVkNoNXpvMjFWREhpNk0zWU1nVUphUWd0dEFVeGt5SnZ1Q3lKY2trVllSaUpDOExxbDc4MGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.businessinsider.com",
-      "title": "Business Insider"
-    }
-  },
-  {
-    "title": "Lilly reports second-quarter 2026 financial results, raises full-year guidance, and highlights continued growth and pipeline progress - Eli Lilly and Company",
-    "description": "Lilly reports second-quarter 2026 financial results, raises full-year guidance, and highlights continued growth and pipeline progress  Eli Lilly and CompanyEli Lilly easily tops quarterly estimates, raises outlook as Zepbound and Mounjaro sales surge  CNBCLilly's Mounjaro, Zepbound sales surge, widening lead over Novo Nordisk  ReutersEli Lilly Posts Higher Revenue on Continued GLP-1 Demand  WSJEli Lilly Stock: The One Question in Otherwise Perfect Earnings and What It Means for Shares  Barron's",
-    "published date": "Wed, 05 Aug 2026 10:45:45 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdUNBZmcyVlNrWHFPWGY4c1FCM25xR3dhV19kbG9ZamRJcG0tOEV3SzE3eW0zTjliT182OXNtNDl1YXJKRUxGbkIxM1JpVkEyZjF4dzFEX3hXcjN2d0lGSnkwVDJyZF94aU82Nkx1TFNmNEFJT1hKV2MzVDVBWU1DNlRETV9BbGxZNHhJbmVCYmVBQmpkMnFpaXRIdWNYZk9peHJqLXFoRVZmanZRZkJWdnhNOFNEM3pubTRTZ1dSZGU3OVk?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://investor.lilly.com",
-      "title": "Eli Lilly and Company"
-    }
-  },
-  {
-    "title": "Google is in talks for a $1.5 billion-plus deal with AI coding agent startup Mechanize - Business Insider",
-    "description": "Google is in talks for a $1.5 billion-plus deal with AI coding agent startup Mechanize  Business InsiderSee more headlines & perspectives on Google News",
-    "published date": "Wed, 05 Aug 2026 12:14:09 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaldnQnR0ZzRCS1ZqUnY0RWZ1TkdkZzBkNzlRSm9WQjJJZW9OU1BmeEIwRTN3V3o0bW1qNmdiVlNra1lMYVRObzBaQkpnUy05b0FpSXFTM25JekFkRDZ3b0p0dmF0R3U0SlI1Qk1wWmdzajJVdGJSX1Z5aFI0UEpMLTVuMW4ySmh2b0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.businessinsider.com",
-      "title": "Business Insider"
-    }
-  },
-  {
     "title": "Buc-ee’s sues convenience store over beaver logo, alleges trademark infringement - Click2Houston",
-    "description": "Buc-ee’s sues convenience store over beaver logo, alleges trademark infringement  Click2HoustonBuc-ee's files trademark lawsuit against family-owned Ohio mini mart  10TVLocal city to consider resolution affirming Beaver as historic community symbol  WHIO TVBuc-ee’s sues Ohio mini-mart over beaver logo branding, alleging trademark infringement  foxbusiness.comAmid Buc-ee’s lawsuit, Beavercreek moves to protect beaver as official symbol  Dayton Daily News",
+    "description": "Buc-ee’s sues convenience store over beaver logo, alleges trademark infringement  Click2HoustonMini mart sued by Buc-ee's receives support with merch  USA TodayBuc-ee’s sues Ohio mini-mart over beaver logo branding, alleging trademark infringement  Fox BusinessLocal city to consider resolution affirming Beaver as historic community symbol  WHIO TV‘Clearly unfair’ and ‘not very neighborly’: Area lawmakers react to Buc-ee’s lawsuit against Beavercreek shop  Dayton Daily News",
     "published date": "Wed, 05 Aug 2026 11:11:39 GMT",
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ2M2ZW1Cajd6aEtjWUc4LVVnMi13ekk4Ty1YbEh1RmhBRFdKY2tFLUNza1BGbVMzVXZTQXliU29mYUpQbTNKS19QcFhLRXh6RWtTRW1vay04UHo3bjFHS0hZWS1FZ29fYnQ3UkhXdFZxZmNBMF9PNFR3a3diN3pyb0VUSFpkOHRYSWZkVzlVejhyenlpMEpQVUp3Rk5Zb0hIZFRtU3FEWGpyckpZZ2NxSjFnbDI4djQ2Zy1GRzVndlZhU1BEMDNnbFhZRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -250,8 +50,218 @@
     }
   },
   {
+    "title": "Electronic Arts completes $55bn acquisition; CEO announces senior leadership changes - gamesindustry.biz",
+    "description": "Electronic Arts completes $55bn acquisition; CEO announces senior leadership changes  gamesindustry.bizOur Next Chapter  Electronic Arts Home PageSaudi wealth fund and Jared Kushner's Affinity finalize $55 billion EA Sports deal  CNBCSaudi-led group completes $55bn purchase of gaming giant EA  BBCElectronic Arts Has Been Fully Acquired By Trio Of Investor Groups And Is Now Private  Game Informer",
+    "published date": "Wed, 05 Aug 2026 08:07:24 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOUxJZ2cwamJrM1JDcVNiejZ0WFJvZGdxVGJmUDd6UEVsUUwtb2pQZlZsV0w5NkVBZUJjZ3psRHdMWTc4QXlvWllSYXljTHZPNGlXMklpZVUwQklBYzk3OFdvSF9fOE94YkFhU2xkNzF0WEtwXzltY3Z1emwwMmxSSU1IVURzZjBKOF9zajR1OTZMNVRmcVh0MkdvbG13YS1iNzlSN3g4MGdxYXg3NmlEZjhn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.gamesindustry.biz",
+      "title": "gamesindustry.biz"
+    }
+  },
+  {
+    "title": "Flutter chief steps down as gambling group cuts guidance - Financial Times",
+    "description": "Flutter chief steps down as gambling group cuts guidance  Financial TimesFlutter shares plummet on earnings miss and another key leadership change  CNBCFanDuel Parent Company to See Change in Leadership  BloodHorseFlutter CEO to Step Down as U.S. Sports-Betting Business Falters; Profit Outlook Cut  WSJFlutter Stock Falls After Earnings Miss Expectations, CEO Steps Down  Barron's",
+    "published date": "Wed, 05 Aug 2026 11:42:02 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTEZNdm9saWpueV9xVTNtOC1QNGtGT0F3X0FwVVdiRWlPRkNac0gwaFBIdmNSaFNpbE5Wd3RWN01SUWhvWEJSR3Vza1c3OWpFMVJYNkxTUXpKOGVBN0NPMDZiREtncTJCcDNneUg5UEN3aG9rS0VnbllvVmpRWGRSc05kcmU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ft.com",
+      "title": "Financial Times"
+    }
+  },
+  {
+    "title": "Court filings: Dutch Bros to buy Salad And Go locations in Arizona, Nevada - AZ Family",
+    "description": "Court filings: Dutch Bros to buy Salad And Go locations in Arizona, Nevada  AZ FamilySalad and Go files for bankruptcy, will permanently close all locations  KTAR News 92.3 FMAM Roundup: Salad and Go closure, Extreme heat, Hobbs to pick runningmate  ABC15 ArizonaHeat, storm chances to persist for the Valley  FOX 10 PhoenixSalad and Go abruptly shuttering all restaurants. 'A painful day'  azcentral.com and The Arizona Republic",
+    "published date": "Wed, 05 Aug 2026 18:07:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWVhjMXFqdlZzN1NxZWZ4SE5jSDk1MDdDLXAxTENMRFBwN2lkLXo5ZWxETFhudzI5VzFsUWRNQ2pWRElfN3k3X1lVaWl6ZG9uaW85ZkdMalJ5bDNvYUM0WURZckZhRkJZUDM0YVpOZk4xNVo3WWUwX1hVZnhjQ2Yxa2tuWmJwTy0tQ25DaEJvOVpMV29UV1cyWVp3Um5lcXpH?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.azfamily.com",
+      "title": "AZ Family"
+    }
+  },
+  {
+    "title": "Palantir Stock Massive Jump Wipes Out $3 Billion in Short-Seller Gains - finance.yahoo.com",
+    "description": "Palantir Stock Massive Jump Wipes Out $3 Billion in Short-Seller Gains  finance.yahoo.comPalantir stock jumps after 'otherworldly' quarter as US commercial business booms  finance.yahoo.comPalantir stock skyrockets 29%, narrowly missing its best day ever after 'otherworldly' results  CNBCPalantir's Sovereign AI Is Exactly What Bursts The AI Bubble  Seeking AlphaTech giant Palantir posts ‘otherworldly’ growth despite criticism over Gaza  Al Jazeera",
+    "published date": "Wed, 05 Aug 2026 12:36:53 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONVJoWDVVODdkS0VBTUx6THVmVkx5MkFXdDFERDNyY195VVVpUTZQTXU1UWlNMkJmQVRST2FlZXdUTTRwbm5HRzBfSkpxUVJRTUlYNXR6TVVsZnB2ZDFmMzBrOFZwcTBTSC00azdxemVRa3l3VnE0SlRsVHZEamdDNTA5UktGazFQR1ZYcFNpRFZlMmItUGNEQkZqQzhrWnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://finance.yahoo.com",
+      "title": "finance.yahoo.com"
+    }
+  },
+  {
+    "title": "Micron Stock Rises After Musk Flags Surging Memory Prices - Barron's",
+    "description": "Micron Stock Rises After Musk Flags Surging Memory Prices  Barron'sIs Micron Stock Going Higher? You Need To Hear What Elon Musk Just Said  finance.yahoo.comElon Musk Just Explained Why Memory Could Be the Next AI Winner.  The Motley FoolMU, SNDK, SKHY Stocks In Focus: Elon Musk Says Memory Demand Is Growing ‘200% A Year, Maybe Higher,’ Calls It A ‘Limiting Factor’  StocktwitsElon Musk addresses memory-chip stock concerns with one simple observation  MarketWatch",
+    "published date": "Wed, 05 Aug 2026 17:51:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5R3hGWmJqd3J6LTlpNmNGMVpTNFc0TEQ5OWU0UHNHVTU4UXlsQi0zX0hZN1UxNTRMSmV1d1h6UmVqMkxSTG1IcjhKNEJQNTVFTlVaWHdzSXNaTXh4MFlFSl9ZeGNNUFhQZUxSV1kxMGowX2NhU0YxMHNjR21vdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.barrons.com",
+      "title": "Barron's"
+    }
+  },
+  {
+    "title": "Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis - TechCrunch",
+    "description": "Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis  TechCrunchLucid begins 'operational reset' as CEO says EV maker will delay midsize vehicle  CNBCLucid Motors just delayed its affordable EV. Now what?  TechCrunchLucid Sales Top Estimates. The Stock Is Down.  Barron'sLucid Pumps Brakes on Cosmos Midsize SUV Launch Amid Cost-Cutting Campaign: TDS  The Drive",
+    "published date": "Tue, 04 Aug 2026 22:24:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQWlEUzZfQ04yaHJTYk51RVNiZkpMdUwzUHFrMXZxdEs4QzVFeFpsV1ZRRV9SQUFjUWVQOV9jV1F3U05QZTF0bGl0LVRacGRwbDhEcFFoSS1ZUzVNRV8zVlkxWlJLdlJuM1dPa3I5TWJ3WTFUbXNvMldFTGwzakZZUnJfX1A4YVJXVXV5T2NKeHplTGZodE9QLUM1S053c2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://techcrunch.com",
+      "title": "TechCrunch"
+    }
+  },
+  {
+    "title": "Tanger CEO says World Cup drove up traffic, sales this summer - CNBC",
+    "description": "Tanger CEO says World Cup drove up traffic, sales this summer  CNBC",
+    "published date": "Wed, 05 Aug 2026 15:48:39 GMT",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51R2NjdV9wY2xvYlhpS3FuZW1mZUhsZzc4Yks4NFIwc2JfNkc0dmkwcHJnOTJWQmpObE9ROC1fbUNKbmJfeFlqZk9iUG96aGlERl84UXFVbnBQdGZHQkZpWm9DMTFBeWkzcWg5TWJvMU1SQ0Q0Y1JHVFp3a9IBgAFBVV95cUxOdHUxbUUxbHRoc2pFeTJCdVVFUk9EVEFBM0dVWXBPd3BaZmF4U1VZeExDZ1U3ZDBYWC1vYmdUVUJrUWtraXZuLUZtSk9UcC1LTFNXckZDSnJkTUM3TFZWdkRMeExMQlJsSjdoOC1RSGwxVllJR0JTNlR6MVdRVjlMeQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cnbc.com",
+      "title": "CNBC"
+    }
+  },
+  {
+    "title": "Michael Burry warns of 1987-style crash, holds Nvidia shorts - qz.com",
+    "description": "Michael Burry warns of 1987-style crash, holds Nvidia shorts  qz.comSee more headlines & perspectives on Google News",
+    "published date": "Wed, 05 Aug 2026 11:40:53 GMT",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12dWZZcmVUOUtDUFdFenl5bUJQODFqX3dSeVBPS0FvNVBReXVWbnlDWUp6UnBCSVdvS1hwUXdyUHBZMW03TGkzVE5UTHRQaHdPdGYwSGJWUXhjS1ZLb045RmpWbUhCSlFOQVNodmZETVNZNHJBZ3kyODRsOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://qz.com",
+      "title": "qz.com"
+    }
+  },
+  {
+    "title": "Cyclosporiasis outbreak has expanded to six more states - NBC News",
+    "description": "Cyclosporiasis outbreak has expanded to six more states  NBC NewsC.D.C. Expands Cyclospora Outbreak to More States  The New York TimesWho is most at risk from cyclosporiasis? What to know after Michigan deaths  Dallas NewsMichigan reports first two deaths linked to cyclospora outbreak  BBCIowa joins CDC's list of states in largest cyclosporiasis outbreak  desmoinesregister.com",
+    "published date": "Wed, 05 Aug 2026 12:59:09 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYWNpcTBMT3YzZUZXaDBrUXpzdl9BektPNVdUZkdpT1pMTVRTZUdybkoxQlVrTjYxbEhPVlNoR3h2SUtOYl9HTW5vQWFlN3F1Q3ZIS2VTdVJUeUxJTWZUR1MyS083T1Y2cWViWWh5VTlHM2JxTG94WFZGWDZhT3V6bjdTVnZTT3JFUVFydHNWTG5yWEJGWkwzQld5RS1QcC1kdE5KbEpheGk5QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nbcnews.com",
+      "title": "NBC News"
+    }
+  },
+  {
+    "title": "Stock Market Today: Dow rises 400 points, but S&P 500's gains are erased and Nasdaq turns red as chip sector pulls back; SpaceX, AMD shares fall after earnings - MarketWatch",
+    "description": "Stock Market Today: Dow rises 400 points, but S&P 500's gains are erased and Nasdaq turns red as chip sector pulls back; SpaceX, AMD shares fall after earnings  MarketWatchStock Market Today: Dow Opens Higher; SpaceX Stock Slides After Earnings — Live Updates  WSJNasdaq and S&P 500 Reverse Gains, Alphabet Stock Sinks  Barron'sStock Market Midday, Aug. 5: Eli Lilly Pops and AMD Drops in Mixed Morning Markets  The Motley FoolUS Markets Open: Dow Rises Despite Slow Hiring and Climbing Costs, Weak Market Breadth  TechStock²",
+    "published date": "Wed, 05 Aug 2026 18:28:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSXhIT1E2YnR5cUVEeFZ6Wl9FOFVUMnFkOUlPSzY1UU9sR1lUQmlPQUFuTEp5LUNrSVliN0d6dEVlMS0zbldYNFBaSWt6VUxzSV9lOGJ4NGVwSURfLWJhSU1BMER6NXRodURTYm9fRFlyM3ZCSlVKenVmR2FzX2hNSDBaY3NPQ2pvT0tVN2ZFNC16R0V0SlVpWUIyV29ZQU44ZWZZRWtMOTloeWtVMVdoTC1lZF93T1lQeFhMRFFmWS1wNUtxR2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.marketwatch.com",
+      "title": "MarketWatch"
+    }
+  },
+  {
+    "title": "What Is David Ellison’s Breaking Point? - Variety",
+    "description": "What Is David Ellison’s Breaking Point?  VarietyOpinion | David Ellison: In Defense of the Paramount-Warner Deal  The New York TimesWhat David Ellison Is Really Up to  The Hollywood ReporterLife in WarnerMount Purgatory  puck.newsParamount–Warner Bros. Discovery judge sets March 2027 trial date for antitrust fight  finance.yahoo.com",
+    "published date": "Wed, 05 Aug 2026 17:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSHF2WlN3R3ZoaWhqU1dXakp6dDg0UDk2QnhiZUhUNE1RaXhibGJZM1ZCMjNzdUR3U0xHVEpQZFhYc0RtRERybnozQV9fVnFBUllPWDdRSHQ1c2xON3B1MWFlWTNxc3hCczItZG9ybkM1d2pNaE9rams0YmZidkJGSUVIMUhZZy1FYU1lSHRDN3lfa196bXRLZVduZUVKZW9EQkFJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://variety.com",
+      "title": "Variety"
+    }
+  },
+  {
+    "title": "Major Hedge Funds Targeted in Wave of Attempted Cyberattacks - Bloomberg.com",
+    "description": "Major Hedge Funds Targeted in Wave of Attempted Cyberattacks  Bloomberg.comMajor Wall Street firms targeted in attempted cyberattacks, sources say  ReutersAI-Powered ‘Vishing’ Attacks Reportedly Targeted Top Hedge Funds  GizmodoWall Street's Biggest Hedge Funds Targeted by Hackers in AI Voice Scam  BenzingaCyberattackers Target Major Wall Street Hedge Funds as Firms Strengthen Defenses  Межа. Новини України.",
+    "published date": "Wed, 05 Aug 2026 15:40:44 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZUphcnkwZjllSzFSbHptUzRHcG9oeHpMeXpnWFdJcXFQU2lXMk51VVNwaXlWLWpnZjNpWXktYXJ1QThkWnVIUnI5TUNkcGVpRzcwQlNTZ2JBR2VSajhaMnVRS20wVXduMng1SE1UbUVzU1FIOXlLZFdTTm14eVhYemlDbkVweURfaDVqZHZpVU9LWTBSNzEyekF1VUQ3VldkU09USlUzRmdkd0g5V01rdA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bloomberg.com",
+      "title": "Bloomberg.com"
+    }
+  },
+  {
+    "title": "After jacking up prices, Disney+ and Netflix consider offering free alternatives - Ars Technica",
+    "description": "After jacking up prices, Disney+ and Netflix consider offering free alternatives  Ars TechnicaDisney weighs free, ad-supported streaming, says it has sold out Super Bowl ad spots  CNBCDisney says it’s ‘exploring’ adding a free tier to Disney Plus  The VergeDisney Looking to Launch Free Streaming Channels as CEO Josh D’Amaro Doubles Down on the Streaming Biz  VarietyDisney Is “Exploring” Launching Its Own FAST Offering  The Hollywood Reporter",
+    "published date": "Wed, 05 Aug 2026 17:12:39 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLTRpUlRYRTdqNno4eW1IODdqZy04UmRMVXJMN0k4SlZiekpmOU1qNVFPRW1xQW1BZkxxSnJNdjBfaXJabVhRUlJ6TGtFS3IxSlVBMTd0bmVhVUhpdDdoZnVZTUVTVzdEUUdKTzlkZjBYRThzV2FxM09lWEZPNFgzc2tkTEYtMFEyUXpUT2JvQ0twWmVFU3p2cmxjWW1zQWd3b3FjSS1rU0lpWFVwUGFnYkRVVUtQYUppbVJn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://arstechnica.com",
+      "title": "Ars Technica"
+    }
+  },
+  {
+    "title": "Anthropic's Mythos created fake identities to fool humans in new cyber incident - CNBC",
+    "description": "Anthropic's Mythos created fake identities to fool humans in new cyber incident  CNBCThird-party cyber evaluations involving OpenAI models  OpenAIAI models have been going rogue in tests – how worried should we be?  The GuardianAI agents fake identities, target real people in new security incident  CNNAnthropic AI used fake profiles to target people in hack then hid the evidence  BBC",
+    "published date": "Wed, 05 Aug 2026 10:18:07 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYTVjbmhKRm95NTQ5dmVSWndiUnplUUZ4X3Q4bHcxbkZHc004bzBKMUlqcDFUUUNhejN2Y1hObTZycUhWdUdwM0NBZmtjbEdocDhXVlJaelFRNENrcTEzaTdzZVdLRmRUMHpKOFg2MEtjZXhGRGRBTVdkeEsyUG9WVkl1bXfSAYoBQVVfeXFMTkp3M3ZIQTlLV1B2dGtvMWlFQ055RlJlLVhmWjNTOXlYZmh3a0pBSHh2a2pxUklwZ2xKYWx2aXJwUjZNaEl2WFFyRzJsTnlxbFdzTUVmOWFNYlY3SG9zRlRvWjc4STB2enhDdzNSaWlMdk5BTTg4SE5pUnJGRFpWcUJtSWEwd1o0d3VB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cnbc.com",
+      "title": "CNBC"
+    }
+  },
+  {
+    "title": "During a Day of Rancor, Senators Find Common Ground: No One Likes Surveillance Pricing - Gizmodo",
+    "description": "During a Day of Rancor, Senators Find Common Ground: No One Likes Surveillance Pricing  GizmodoTech: Hawley floats surveillance pricing bill  Punchbowl NewsI Know What You Bought Last Summer  Security BoulevardNRF defends data-driven pricing and loyalty programs  Chain Drug ReviewStates begin banning ‘surveillance pricing’ that uses personal data to charge more  Route Fifty",
+    "published date": "Wed, 05 Aug 2026 13:40:53 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHlnMEtDcUV6cFpyaUxUVzl6Z291VUstd3hZeko0amt6OGVsMXQxX3hyazI0N3hMbGRyY0xtMEYzd0VxNk11OE41RllwSGVia3hsQ1pSZlFFeDk4QkVlbHM0SjBvVkM3RlRveTdiR3RtNTZnMkI2R3JTNWQ4MDJ2S1hQRzRxVXpmVERSVG16eml6TmdDUjlNU0hObHpQWk51Z1pWQU82Vi1faFVzNzRkaHA3UzNXZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://gizmodo.com",
+      "title": "Gizmodo"
+    }
+  },
+  {
+    "title": "Remember when the US Treasury caused that major yen rally in ’98? - Financial Times",
+    "description": "Remember when the US Treasury caused that major yen rally in ’98?  Financial TimesBreakingviews - Weak Fed and yen is Bessent's perfect pair trade  ReutersWhat Japan Just Taught Us About Trusting a Fiat Currency  USFundsUS-Japan joint yen-support: A temporary relief  news.cgtn.com",
+    "published date": "Wed, 05 Aug 2026 11:39:11 GMT",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xaGdQSU8wSkhHOFdKQ21nUzc1bVo5SFE5UlhfdVFqODA5RzV1bnZLQ3hYUTRIRnhIdlhSVU9IYmpLSmNVeW5sRDRJSWtHMkE4cjRabHUyQVZsUmU0WV94YW9XN2QtcU1PQXRkamRQcno?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ft.com",
+      "title": "Financial Times"
+    }
+  },
+  {
+    "title": "Rising temperatures could keep more flights from taking off on time - AP News",
+    "description": "Rising temperatures could keep more flights from taking off on time  AP NewsSee more headlines & perspectives on Google News",
+    "published date": "Wed, 05 Aug 2026 10:44:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcjl0ekxrZUwxVXc1NDR0YTdQUEJSUF9tZHc5S1YwbFdYaGZ1VTVtMndpR3lDS194eTdyVjBZM3o3RmZXVGNOSGxuRDhkdExwMUYyeG45S2V5U00tNXBMampVbVh3aXlYc2lmMDItZUJWemNMRGMxeWJqN01meTVCU3VqczJBXy1WTEx2SHRobVZLb0FHLU1VX1ZqLWdRZGs?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://apnews.com",
+      "title": "AP News"
+    }
+  },
+  {
+    "title": "Private sector added 44,000 jobs in July, below expectations, ADP says - Fox Business",
+    "description": "Private sector added 44,000 jobs in July, below expectations, ADP says  Fox BusinessPrivate companies added just 44,000 workers in July, below expectations, ADP reports  CNBCEmployers are hiring less but paying more  AxiosADP National Employment Report: Private Sector Employment Increased by 44,000 Jobs in July; Annual Pay was Up 4.4%  PR NewswireGold prices push above $4,200 as ADP says 44k jobs created in July  KITCO",
+    "published date": "Wed, 05 Aug 2026 13:03:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdDczRHotX1ZaNWhfVW9TU0lZX3N0LTZ3eVoxOVlkck9vTW1WTmVqVHByZTJZcEMtV0ZLX3FDcWxJYXM1czNReGRCbzNoYzJIOGg3aHQybEsteEVMdXBQYkJndmN4YUFmSDFUZVJMeERwNzNyNVFGQ2ZPbzJ3ak1KRC1vNm05X1M3aU5zalh4dXdTRU52WmoxaDd4VjZhWk1lcEHSAacBQVVfeXFMT3RoUnh6WEVidVVpWG8yS3J4R0RnZFZacWtVNV9oaHJSZDh0ZGJQdDI2b1lSczRKTUhWSU1mcW1TMk1lODBPVi1yZUlybElXQUdXSnZHX05XRGNxVzNhaGo3QzRNWGN2Q0NRUzgtbkx5WGxLVGdLbERFc3BvSzBZZFYzRGtxR1F4dVcyUFRObzA0cVpEelp2OEZpYlhieVF4SnU2bjRJSXM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.foxbusiness.com",
+      "title": "Fox Business"
+    }
+  },
+  {
+    "title": "China’s AI Blitz Creates ‘Death Zone’ for Rival US Model Makers - Bloomberg.com",
+    "description": "China’s AI Blitz Creates ‘Death Zone’ for Rival US Model Makers  Bloomberg.comThese American Startups Are Making China's AI Smarter  ForbesHow China gets better bang for its buck than America in AI  The EconomistFighting Hubris in AI Strategy: A Layer-by-Layer Dissection of AI Tech Stack Competition  Rhodium GroupOpen-weight AI models are catching up to the frontier. The safety gap remains.  TechCrunch",
+    "published date": "Tue, 04 Aug 2026 04:38:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYTNSMlpYc01vYXl0SENzTVVTYThoYjA1ZDlkOGtyb1djUlBfV3MxbTR6MjZXUGc4bmN5anFzRXF1UXZNMlhEeFRidDN0ejg0MnoyM3dwSlR6bTNOUy15dG9JTm9semZVYXI5QkNaUlRhNXNtaXEyQmVLYldKdHpjeVRLTEVoU1FudTdZcWZaX09aUC1wQlpxLXhxc1kwQVNGYTJpVnZESjBxYVZBQXdXQjNn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bloomberg.com",
+      "title": "Bloomberg.com"
+    }
+  },
+  {
+    "title": "CVS Stock Slides On 2027 Outlook Despite Hearty Earnings Beat - Investor's Business Daily",
+    "description": "CVS Stock Slides On 2027 Outlook Despite Hearty Earnings Beat  Investor's Business DailyCVS blows past estimates, hikes guidance as insurance unit continues to improve  CNBCCVS Health Q2 2026 earnings beat, Eli Lilly weight loss drug deal  qz.comCVS Stock Down On Early Warnings About 2027  WSJCVS profit outlook overshadows strong quarter, shares fall  Reuters",
+    "published date": "Wed, 05 Aug 2026 14:37:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoQkhvaTlPOTU3MEFUbGZ6WGlKb1NMWFAwWDdjdFB4Y1ZQcEotWlhsaGw1SkN3UTAxV3JyMDh2c0lab3R5LUg0WTBLWkR0NEZMQktSSWczVDNFYml1MEhpTHJ1TQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.investors.com",
+      "title": "Investor's Business Daily"
+    }
+  },
+  {
+    "title": "Shopify Soars As Q2 Operating Profit, Revenue Beat - Investor's Business Daily",
+    "description": "Shopify Soars As Q2 Operating Profit, Revenue Beat  Investor's Business DailyShopify Signals Revenue Acceleration as AI Tools, Merchant Growth Drive Results  WSJShopify shares soar as forecast shows AI is boosting business, not disrupting  ReutersShopify (NASDAQ:SHOP) Beats Expectations in Strong Q2 CY2026, Stock Jumps 25.1%  finance.yahoo.comShopify Earnings Flip the Script on AI Fears  Barron's",
+    "published date": "Wed, 05 Aug 2026 18:08:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOTRnWi04ZXRxWXY4QjI3cTNsYWdYcUtLS1NQTG42cmZSUkg3b01GX1dpYWY4cURVQ2pwNlByVjVvNjgtZkhOX0FQcXpCdXVZT0xseDNpUzNEa21FWkxrZ0NyOTdoSUhvbmxwU25tVk5uWmNUQ0t5N29mOWU2Zlp2R1F6RDJmYmhpaXFSYU13?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.investors.com",
+      "title": "Investor's Business Daily"
+    }
+  },
+  {
     "title": "Fed's Kashkari says 'now is the time to start slowly moving' rates up - CNBC",
-    "description": "Fed's Kashkari says 'now is the time to start slowly moving' rates up  CNBCInflation Problem Isn’t Only About Energy, Fed’s Schmid Says  WSJFed's Schmid calls for tighter monetary policy to tamp down on 'too high' inflation  ReutersKashkari Says Fed Should Raise Rates Now to Bring Down Inflation  Bloomberg.comKansas City Fed's Schmid favors higher rates to bring down inflation  Yahoo Finance",
+    "description": "Fed's Kashkari says 'now is the time to start slowly moving' rates up  CNBCFed's Schmid calls for tighter monetary policy to tamp down on 'too high' inflation  ReutersKashkari Says Fed Should Raise Rates Now to Tame Inflation  Bloomberg.comStatement on My FOMC Dissent  minneapolisfed.orgFed’s Kashkari: It’s Time to ‘Start Slowly Moving’ Rates Higher  WSJ",
     "published date": "Wed, 05 Aug 2026 12:11:17 GMT",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb2NnLVpFYmpQbFRfQjJaNllvRG1tOVdaeXhPNUE5THA1aTJOV0Q5UlhXaHdRRFY5bU5QejlaLS1VUkJsMVNTcUEwNFVNR1R1Z25idlh3SWQyY0xDSmJQY1pRcmNGdnhTV1pzQlNSLWgyWGRzWXRQNWRSWWZueHp1a0NNZjViYVhFUlRsMUxYSkMyNS1JQTdUMl8xdnV0aEtsVDNjMnlR0gGrAUFVX3lxTFBoNkUtbVZKNDFBTVR3SDVwdkhldExFNW9GdkdzLUhCbHZ0QXR3NHRCMnVTZ1VyaGJQcWtQU2d4S2JDX2U3d242RThzWUR4TmVBWldsZzI2dTdEQl9hQ3E3YXBpVzgzUnQ0T0dDMmpJMWpRcFVVQWNqQXNTVXRzYWprdWRETW5QcEZyMklyRnRqbWlWcDQ0RlNpc3NoZzduQ3haRlJjaHJNV2djTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -260,63 +270,73 @@
     }
   },
   {
-    "title": "Why Uber Stock Is Sliding After Earnings Report, Robotaxi Update - Investor's Business Daily",
-    "description": "Why Uber Stock Is Sliding After Earnings Report, Robotaxi Update  Investor's Business DailyUber stock sinks 7% after weak guidance despite revenue growth  CNBCUber stock drops as bookings guidance disappoints; CEO bets on robotaxi push to grow overall business  Yahoo FinanceUber Technologies Reports Moderating Growth, Issues Soft Forecast  WSJUber’s Ride-Sharing Business Is Booming. Why the Stock Market Couldn’t Care Less.  Barron's",
-    "published date": "Wed, 05 Aug 2026 15:59:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZWw4R09rT0ZFYTBrcWhDM1JNY3d6WWpXVW5tYV9UcGFaSEdpWnZnbHdSSjVYRDlsYTI4X2hkbFpqaHFsVlVlS19pWi1TQy1fQ25ab2lQZzFUMWVtQjhzVVhtNzFTblBicHF3WXdMS1lnTFlnZUplRkFja200bm4tQlR0LWNDQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.investors.com",
-      "title": "Investor's Business Daily"
-    }
-  },
-  {
-    "title": "Shopify Soars As Q2 Operating Profit, Revenue Top Expectations - Investor's Business Daily",
-    "description": "Shopify Soars As Q2 Operating Profit, Revenue Top Expectations  Investor's Business DailyShopify Signals Revenue Acceleration as AI Tools, Merchant Growth Drive Results  WSJShopify shares soar as forecast shows AI is boosting business, not disrupting  ReutersShopify Earnings Flip the Script on AI Fears  Barron'sWhy Shopify Stock Skyrocketed Today  The Motley Fool",
-    "published date": "Wed, 05 Aug 2026 12:08:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOTRnWi04ZXRxWXY4QjI3cTNsYWdYcUtLS1NQTG42cmZSUkg3b01GX1dpYWY4cURVQ2pwNlByVjVvNjgtZkhOX0FQcXpCdXVZT0xseDNpUzNEa21FWkxrZ0NyOTdoSUhvbmxwU25tVk5uWmNUQ0t5N29mOWU2Zlp2R1F6RDJmYmhpaXFSYU13?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.investors.com",
-      "title": "Investor's Business Daily"
-    }
-  },
-  {
-    "title": "Australian airline Jetstar will charge passengers to use the overhead lockers for their bags - apnews.com",
-    "description": "Australian airline Jetstar will charge passengers to use the overhead lockers for their bags  apnews.comJetstar: Mixed reactions in Australia as airline introduces fees for overhead carry-on luggage  BBCJetstar to charge fees to put carry-on luggage in overhead lockers  The GuardianJetstar to scrap free 7kg carry-on for new overhead luggage fees  ABC News & Headlines – Australian Broadcasting CorporationMajor travel insurance flaw in Jetstar's new $25 carry-on rule: 'Really peculiar'  Yahoo Lifestyle Australia",
-    "published date": "Wed, 05 Aug 2026 09:46:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNc25XRF94ZjRZY1Z0TFQ3ZTBUZ1d2VFRmbVhhQU40b1draFJ3dzUxQXg3UGozREpGRUJNemRoeWhwdmhXNUZybnZfcEtwdy1kYWpvMHMxck5GR284RDJQRG1lOUEzYWIySkFSbmVwUVdkcDJuUXhiVHl3TlhjUlRaSUY0VzZvWEpFUTNnV2NCNWctbmRqaWxmUkR0SG9VZXJvWE1SUjRHaTBoWU9TV1k5TF8yZnNwSHJXTGlMYg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://apnews.com",
-      "title": "apnews.com"
-    }
-  },
-  {
-    "title": "'This was not an exceptional result': Why AMD stock tanked 5% after earnings - Yahoo Finance",
-    "description": "'This was not an exceptional result': Why AMD stock tanked 5% after earnings  Yahoo FinanceSee more headlines & perspectives on Google News",
-    "published date": "Wed, 05 Aug 2026 13:58:10 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRnpDbmF1ZzlBRXRNaV94ODZreVE3VE0zRUkzWk1PMV9xblR6NmJ5aGwwYlFoTGU5NVRZY0cyclRWMDFRc1IzNnM1UHdqeW1FQjBqVHVmeXRObE9FTE56UjJUVGtSaFdCZ3VvRlQyalQxeEdoTTNOckhTYnJOYlBBNWVyUzFvbUtNazctYmdid3ZBUGpWNEJycVNkR29UajVMRkM4YjZiaEhFb2JRaDlWa05SN0xBYnR4aDF5UW5mLTZJZmYxYXgyUA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Corporate America got billions of dollars in tariff refunds. Where’s your cut? - finance.yahoo.com",
+    "description": "Corporate America got billions of dollars in tariff refunds. Where’s your cut?  finance.yahoo.comSee more headlines & perspectives on Google News",
+    "published date": "Wed, 05 Aug 2026 09:00:25 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU3pZVmN6ZFBQYWEyeC1WODdrLWRFeGJfb0hVZnJpeDdfbGpraEhLZkRSSnpDUHFOS2F2alBUTTFPU2VkU2E5YjNUTFpEeXpPQUFJQ3JPUDlNR3JrdGtkU1N4NGV3RDJudmc1c3VYbE5YNzdmUnRCWXlmcTlGamdPRVhZNGxRV3RxZXl5d2ZoSjdncjZLdGhBXzVKVGpVUGMteGgtakZ3?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://finance.yahoo.com",
-      "title": "Yahoo Finance"
+      "title": "finance.yahoo.com"
     }
   },
   {
-    "title": "Micron Bear-Case Earnings Could Still Be 8x Higher Than 2018 - Micron Technology (NASDAQ:MU) - Benzinga",
-    "description": "Micron Bear-Case Earnings Could Still Be 8x Higher Than 2018 - Micron Technology (NASDAQ:MU)  BenzingaWhere Will Micron Stock Be in 2030?  Yahoo FinanceMicron's Pullback May Be The Market's Biggest Mistake (Rating Upgrade) (NASDAQ:MU)  Seeking AlphaMicron Technology Stock Is Falling Wednesday: What's Going On?  Benzinga1 Japanese Company Just Waved a Red Flag for Micron Stock. How to Play It Here.  Barchart.com",
-    "published date": "Tue, 04 Aug 2026 14:52:14 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWnZfaE5JUUU2ZVdRdEFwMVVJYjQ4MVlRMUtoNzN5WnFBcW9JTV9YSU9xZTV0U1gwUlJDTDA0N1cxMDhCcEhOQm1XeEEzZGc5N2FnUWhQUTVpUFBXN3pvNWVZWEVlRlhqTEZhaVJwSjlkZS1PRlM4YWc3NXpXRWRYNTFuLUM3RDBoNVF0VFQ0MHhWeVFXdGJGZzRn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Uber stock sinks 7% after weak guidance despite revenue growth - CNBC",
+    "description": "Uber stock sinks 7% after weak guidance despite revenue growth  CNBCUber stock drops as bookings guidance disappoints; CEO bets on robotaxi push to grow overall business  finance.yahoo.comUber Technologies Reports Moderating Growth, Issues Soft Forecast  WSJUber doubles down on robotaxi plans, shares fall on weak profit forecast  ReutersUber Announces Results for Second Quarter 2026  Business Wire",
+    "published date": "Wed, 05 Aug 2026 11:06:28 GMT",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE92REFDeW1weGZBZkFQUlhyTHZrZ1o1T3RNU2FDa3d6dWRhb2ZtdUVlRWoyTU9tYXVwekZ2cVFEOTlhdFAwaWFlaFVFa0ZqVUxUWUNjSXd6NHR4R09UTzBsellQdVU3MW54RktwaWlEZ01td9IBd0FVX3lxTFA5V0d1Y3BIYWFZaEg4V0N6MHBKWjlhR3FLQVp5TU5aeEFmZGFwT3h6VC1UNkU2SWVyZXA5OEJhLWRXRlV2cFRXVl9ybU5fMjJNS2ZWX1pQRDIwVzdFNFNESThwSWZ0UV9FQjU4OW5EemlPakZyWk5R?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.benzinga.com",
-      "title": "Benzinga"
+      "href": "https://www.cnbc.com",
+      "title": "CNBC"
     }
   },
   {
-    "title": "Corporate America got billions of dollars in tariff refunds. Where’s your cut? - CNN",
-    "description": "Corporate America got billions of dollars in tariff refunds. Where’s your cut?  CNNTrump admin refunds $100 billion in 'liberation day' tariffs  CNBCUS refunds $100bn of Donald Trump’s ‘liberation day’ tariffs  The GuardianTrump administration refunds $100bn in ‘liberation day’ tariffs  Financial TimesTrump administration has refunded $100 billion in scrapped IEEPA tariffs  qz.com",
-    "published date": "Wed, 05 Aug 2026 09:00:25 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaWdWSGppQ09PYkFVVlpBMUh5bFVCV2lVM2RKM0xVZzBfTDUtVG90YlNpUWJvS3gwLWl0QzdvSlVocWdGdWMyTVUtX0FOejY4UVJ5cWhmZHRiSGtNS0tyam9VM19FYThybF9Fc2tyN2NuZV95Yk5zZlMtZjhLbGViVWU0b2h0Sm95RVQ0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Oil prices ease on Hormuz reopening hopes - Reuters",
+    "description": "Oil prices ease on Hormuz reopening hopes  ReutersOil prices little changed on negotiations to manage ship traffic in Strait of Hormuz  CNBCOil prices settle 5% lower after claims of progress in US-Iran talks  ReutersOil Holds Two-Day Drop on Signs of Progress Toward Hormuz Deal  Bloomberg.comTrump has been able to keep oil prices low. But that power may not last forever.  Politico",
+    "published date": "Wed, 05 Aug 2026 01:26:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDd2cFJ5Z2dsbTliajVMY1o5eVQ3Q3djdGVaYXA2aVhJQUROSVk5NmVjSkUydkw0YUItOGI1VFl1Wl9uZVY2SWhZLVZZY2hFTTFyaEoxM0otRWQ0Vzk4bjdEV18yYkhQS05GUzQ5dHdsY0wwemg4cG53dnZkVmx0M1pMdzl2cDk2MDBlZlN3ZVY0RVMxU2JNcE5Ta2Nrd3l4OVpvTnlIY0hscHRpOUozRVpDUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.cnn.com",
-      "title": "CNN"
+      "href": "https://www.reuters.com",
+      "title": "Reuters"
+    }
+  },
+  {
+    "title": "Airline will charge passengers to use overhead compartments for bags - WGN-TV",
+    "description": "Airline will charge passengers to use overhead compartments for bags  WGN-TVJetstar: Mixed reactions in Australia as airline introduces fees for overhead carry-on luggage  BBCJetstar to charge fees to put carry-on luggage in overhead lockers  The GuardianJetstar to scrap free 7kg carry-on for new overhead luggage fees  ABC News & Headlines – Australian Broadcasting CorporationAustralia's Jetstar to charge for carry-on bags in overhead lockers  Reuters",
+    "published date": "Wed, 05 Aug 2026 14:15:06 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU1FuekdwOUlBLTlydkNGV0FtN2tfcVZ3dGVFVmJBaFhxc05CdGI2YU5xVGZtOFk0dk9sMkdNNzk4OGZVeHdRUEQ4b3YwMldDRkJaMXhWNWxXdHlTUkVUdDA1djBBWjVmM2RFa1Y3VVJjOWsySktHaFk2eWZXZDJLTS1tVXpTaVVpN0lnVVlJRU02Rmk3VV9v0gGcAUFVX3lxTE1hVDNlR2VmVzRQMmZzZmpXY0xIZ091ZUtQRVBpWDFyNXBURkRjeVo2dlgyN2JiNHBhaGxfclJhWTRlZnRsUG14QjNuWXloWi0xb09zT2hLajVVZXpDR0JYVm1SUjIwVGcySG5NQ3lNNkRFYVUtZnpQXzJ5RWFzYlhZRVhhNE1wVzhvX0NmM3M3b0M0NUJnSEg1S1VBeQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://wgntv.com",
+      "title": "WGN-TV"
+    }
+  },
+  {
+    "title": "Why Nvidia Stock Is the Big Winner From SpaceX Earnings - Barron's",
+    "description": "Why Nvidia Stock Is the Big Winner From SpaceX Earnings  Barron'sLisa Su brushes off Musk's Nvidia commitment as AMD stock sinks after earnings  CNBCNvidia stock rises after Musk says SpaceX will exclusively use company's chips  finance.yahoo.comAMD Shares Fall 8% as Elon Musk Commits to Nvidia Chips for SpaceX  WSJAI and Chip Stocks Drop After Musk's Nvidia Bombshell  Barron's",
+    "published date": "Wed, 05 Aug 2026 14:02:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX3ZnVDlaLVBCaHVPWU1BZnBjN0VEUnRtX0ZwaUEyYkVuOEdzamFxd0h5UHlQQVJiSV9GdThYYUk2S1pqeWw3dVlQWnhqQlNVNEFoTGJTVk9SRXRicFRyUURvbTdoRTc2RGRaSV9vYUJWNHI4MDM1cFhqeFBKZ0sxQkln?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.barrons.com",
+      "title": "Barron's"
+    }
+  },
+  {
+    "title": "China launches global tax hunt going back decades - Financial Times",
+    "description": "China launches global tax hunt going back decades  Financial TimesChina's super-rich 'in shock' and hunting for cash as Beijing issues surprise tax on offshore trusts  CNBCPrudential shares tumble on report China will tax offshore insurance returns  ReutersHow China’s new offshore trust tax rules could shake billionaires’ fortunes  South China Morning PostPrudential, HSBC and Stan Chart tumble as China closes offshore tax loophole  Yahoo Finance UK",
+    "published date": "Wed, 05 Aug 2026 04:00:22 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYUgtMFBqdTdOR0lsNWVLOFhVU2E0V0FWeG9NVmRUUW11dG81VHVfVjVLUm5naGZmVVRUb3NxM1Q5ZFBOLXdIS2t0OXVlb05iS1IzOUUxUkZiZDk2OUZPbnB6YmEyOUxXVkZfdXZGemFJcS04VURQU1Zkd3hzTFdWRktNSFU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ft.com",
+      "title": "Financial Times"
+    }
+  },
+  {
+    "title": "White House AI vetting plan to exempt lower-cost ‘open’ models - Politico",
+    "description": "White House AI vetting plan to exempt lower-cost ‘open’ models  PoliticoTrump White House Readies AI Framework to Review Security Risks  The New York TimesWhite House AI Guidelines Exempt U.S. Open Models From Government Review  WSJWhite House finalizes artificial intelligence oversight framework  PoliticoWhite House meets with AI companies about ‘voluntary’ rules after forcing models offline  NBC News",
+    "published date": "Tue, 04 Aug 2026 23:40:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQS1FYUZPYVdVdDlxdWdUcU5xNmV5S1l0MVpGRmJjOHJiSHl1SmdvTDN6UTROcmh5MjJtdE5VTnRjM0JScGVYeUdPaW56cnEycFR5VGx1R0x6Q0VZREFQaDVyOUVoT09KRkxvLUJqb0c3T1R4dWxNUko0SldIT0tON2VlY2dOeEhSNVQtWFNta1FlYzNwLVIzNS1mbUlOT0pqRU5pdVVLLWtkbGNJSWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.politico.com",
+      "title": "Politico"
     }
   },
   {
@@ -330,13 +350,23 @@
     }
   },
   {
-    "title": "Scott Bessent Draws on Hedge Fund Instincts to Help Rescue Yen - Bloomberg.com",
-    "description": "Scott Bessent Draws on Hedge Fund Instincts to Help Rescue Yen  Bloomberg.comA Currency Trader at Heart, Bessent Bets on Japan’s Yen  The New York TimesCarry Trade Is Powering On as Investors Sidestep Yen’s Gains  Bloomberg.comOpinion | Can the U.S. Treasury Save the Yen?  WSJThe Dollar Boomerang Threat: Washington’s Motivations to Support the Yen  Council on Foreign Relations",
-    "published date": "Wed, 05 Aug 2026 00:27:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ0JieHNfTDA3Mk1JOG9kUnlYU3lzNEZPdy1vWmE4dUFJN1h3V3E3RF9qcHJFeXZyNjdyYmEwNTBtTzk1b3ZVcG5VbThNOWRxa2ZVYmRQdFh0cDFnMEZpcHV4d3Z5Y0dELTUxMlFaS0RDcWVxZjVOLW85cjBuQWtEUS1HWXNHNTRJOWE4RTFqU3FQVm9Md21hb2NyOGI3bng2RmN1N3JUcFYwcDBMVlBHMXRHeW9HMzR2UGJfVE5fRnltaTl6QThQZUpB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Bank of America doubles down on Micron stock price for 2026 - thestreet.com",
+    "description": "Bank of America doubles down on Micron stock price for 2026  thestreet.comWhere Will Micron Stock Be in 2030?  finance.yahoo.comMicron's Pullback May Be The Market's Biggest Mistake (Rating Upgrade) (NASDAQ:MU)  Seeking AlphaMicron Technology Stock Is Falling Wednesday: What's Going On?  Benzinga1 Japanese Company Just Waved a Red Flag for Micron Stock. How to Play It Here.  Barchart.com",
+    "published date": "Wed, 05 Aug 2026 11:17:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZm9oYlRaS0hCVEZ6RzZEOTRURkY5aEV1eXhMUFE4SFhDQXFrVklSZzZ6dnlEUkVmNzIxdWx5Mkg2NV93OGhLam9sSE9RekQxc1ZPWjVTWTVpUWJ2ZG5OUXB4c05rNFl6TUVtUWNXa19fNEdiOUh6SzhaTlRIQ3RCZk5sY1RnX0lZRnlKNDF2bmx5MVhnSk80NFV4aXRud2dza01nMlMxZVZQM2R0VlFLWG5xdjVsVzA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.bloomberg.com",
-      "title": "Bloomberg.com"
+      "href": "https://www.thestreet.com",
+      "title": "thestreet.com"
+    }
+  },
+  {
+    "title": "SpaceX is coming for T-Mobile, AT&T and Verizon - The Verge",
+    "description": "SpaceX is coming for T-Mobile, AT&T and Verizon  The VergeSpaceX says it’s coming for AT&T, Verizon, and T-Mobile customers  Yahoo! Finance CanadaSpaceX Shouldn’t Risk Its Credibility on Mobile Phone Service  Bloomberg.comSpaceX's mobile ambitions jolt US telecom market, analysts debate threat  ReutersSpaceX claims Starlink Mobile will rival AT&T, Verizon, T-Mobile US  Mobile World Live",
+    "published date": "Wed, 05 Aug 2026 06:50:19 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY1lEZjl1RmFPWXd1UVlpQk1iQUtjU0FaVEU5OGxFcENqb0FtQUhKM3NudE9UbjNzQlVYeHVyWHFNVlpySmFoTzQ3TVpCMFBQYzIyTThNQ0NlQlVIa0pBWHJoclU2Q2pUd2ZWX2s1VHpqRjgyd3Z3V0hwbFktZ19sWkhCZ2JaSW9vb0Rz?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theverge.com",
+      "title": "The Verge"
     }
   },
   {
@@ -350,68 +380,8 @@
     }
   },
   {
-    "title": "SpaceX is coming for T-Mobile, AT&T and Verizon - The Verge",
-    "description": "SpaceX is coming for T-Mobile, AT&T and Verizon  The VergeSpaceX says it’s coming for AT&T, Verizon, and T-Mobile customers  Yahoo! Finance CanadaMusk's mobile network moonshot is in danger of a crash landing  Light ReadingSpaceX's mobile ambitions jolt US telecom market, analysts debate threat  ReutersSpaceX plans terrestrial mobile network to rival AT&T, Verizon, T-Mobile  qz.com",
-    "published date": "Wed, 05 Aug 2026 06:50:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY1lEZjl1RmFPWXd1UVlpQk1iQUtjU0FaVEU5OGxFcENqb0FtQUhKM3NudE9UbjNzQlVYeHVyWHFNVlpySmFoTzQ3TVpCMFBQYzIyTThNQ0NlQlVIa0pBWHJoclU2Q2pUd2ZWX2s1VHpqRjgyd3Z3V0hwbFktZ19sWkhCZ2JaSW9vb0Rz?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theverge.com",
-      "title": "The Verge"
-    }
-  },
-  {
-    "title": "The Federal Reserve goes Wacko - Financial Times",
-    "description": "The Federal Reserve goes Wacko  Financial TimesWarsh Wanted ‘Regime Change.’ A Reset Might Need to Come First.  The New York TimesWhat will Kevin Warsh do if America’s economy breaks?  The EconomistKevin Warsh Has Some Explaining to Do  Bloomberg.comThe New Fed Chair Needs to Prove His Independence from Donald Trump  The New Yorker",
-    "published date": "Tue, 04 Aug 2026 11:30:01 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUkFWYmN6RWRoU1pHc2dkTmxONHd1VUVYYy1OQUxXTG9Zc3gyZWVXMUVpQW1fUDFjT2dnR1V1WGlDNHc1ejkwTVA3UHFsRlZ1ajhoaWg0OThUM3JtMkg5M29iQ2J4RS1NU3NkWlQxekRvZjBHU3hzeGNiQlpzM3lNX3FUMEc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ft.com",
-      "title": "Financial Times"
-    }
-  },
-  {
-    "title": "Chipotle removes jalapeños amid US salmonella outbreak investigation - The Guardian",
-    "description": "Chipotle removes jalapeños amid US salmonella outbreak investigation  The GuardianChipotle pulls jalapeños from some restaurants as health officials investigate salmonella outbreak  CNNSalmonella outbreak linked to jalapeños reported in Minnesota  kare11.comOfficials Probe Salmonella Cases Tied to Jalapeño Peppers Served at Chipotle  WSJChipotle jalapenos investigated as possible source of salmonella outbreak  Good Morning America",
-    "published date": "Tue, 04 Aug 2026 23:26:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWlVXaUpLX2hSdzdJV0xiYnVteUJ0WFhyUk91bTNxUUJydENrb1RRQXlfekN0ZHAwSFJtanhqb3A1c3dDb0NxYUNWV1FNajh5dVhtT0RDVWZ0WktmbXNRVUJ4LV9TTUZ0S2ZxR3ViaUJfS3UybURfUDAzRkpUVVpSeWpkaTFzMFloQnFzOTJhYWcweUFvTHc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theguardian.com",
-      "title": "The Guardian"
-    }
-  },
-  {
-    "title": "'No discussions' over AstraZeneca-Bristol Myers deal, senior source says - Reuters",
-    "description": "'No discussions' over AstraZeneca-Bristol Myers deal, senior source says  ReutersAstraZeneca investors balk at prospect of $400 billion Bristol Myers pharma deal  Reuters‘No discussions’ ongoing for AstraZeneca-Bristol Myers merger: Reuters  fiercepharma.comIs there a pharma mega-merger in the making?  STATAstraZeneca-Bristol Myers: Brace for a Biotech M&A Boom  Barron's",
-    "published date": "Wed, 05 Aug 2026 13:55:08 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMFpOMDBiVmpKVlBJazhKdEJ2RWhjLUlpNUl4Nm04OVF4TnUtSzhETjhYS0NJN2NtWDRDMFlBMHlRWm9OOVduTFBqWmZJbzFxbVRSajM2NFhmYkxaSE1xOVZQN004Wi1QRDMwNzhsMVdNbHZ3Qk42Vm50andHUWdVY0hITGFKQ2xMTTBqT3RYM2VQMGhTWTJfczdHeE5PY0djdFVpMGtnRlNoQUtXN2RvUg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.reuters.com",
-      "title": "Reuters"
-    }
-  },
-  {
-    "title": "Bankers Are Betting on Supersize Bonuses This Year With Profits Surging - WSJ",
-    "description": "Bankers Are Betting on Supersize Bonuses This Year With Profits Surging  WSJWall Street is set for a bonus boom. Big banks have the edge.  Yahoo FinanceAs bank bonuses soar, PE’s biggest firms play catch-up  PitchBookWall Street Investment Bankers’ Bonuses to Climb as Deals Surge  Bloomberg.comWall Street bonuses are poised to rise  Axios",
-    "published date": "Wed, 05 Aug 2026 10:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS0d6RE9XN1A0VVpRN3VMNFJDRWRZSGRqWlkxNGx4NFBsNmxSOEFJWGJRSnQzY20tSmRtU1FsNThsZl9GMWx1Q3FkVlg3clZnOEc1ODJFOHVkVHl1OTZDWjBQMTFuTjZCbXdGeW94ejgxTW11RW5aUFVvcE5iRFZfSFg3aUsxZE9RQXU3M2dxR3c4RE1pd2dpbmdyYnFRSlEzY3JiNUc1dDBMQ1JPUnN5cWh1Z19SaUZ3ckE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.wsj.com",
-      "title": "WSJ"
-    }
-  },
-  {
-    "title": "Oil prices ease on Hormuz reopening hopes, despite Houthi threats - Reuters",
-    "description": "Oil prices ease on Hormuz reopening hopes, despite Houthi threats  ReutersOil Holds Two-Day Drop on Signs of Progress Toward Hormuz Deal  Bloomberg.comTrump has been able to keep oil prices low. But that power may not last forever.  PoliticoOil prices tumble after Bessent says Strait of Hormuz deal may come this week  CNBCOil Markets Price In an Iran Deal That Does Not Exist Yet  Crude Oil Prices Today | OilPrice.com",
-    "published date": "Wed, 05 Aug 2026 01:26:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDd2cFJ5Z2dsbTliajVMY1o5eVQ3Q3djdGVaYXA2aVhJQUROSVk5NmVjSkUydkw0YUItOGI1VFl1Wl9uZVY2SWhZLVZZY2hFTTFyaEoxM0otRWQ0Vzk4bjdEV18yYkhQS05GUzQ5dHdsY0wwemg4cG53dnZkVmx0M1pMdzl2cDk2MDBlZlN3ZVY0RVMxU2JNcE5Ta2Nrd3l4OVpvTnlIY0hscHRpOUozRVpDUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.reuters.com",
-      "title": "Reuters"
-    }
-  },
-  {
     "title": "These are the 5 best hospitals in the Kansas City area, new ranking says - Kansas City Star",
-    "description": "These are the 5 best hospitals in the Kansas City area, new ranking says  Kansas City StarThe Mount Sinai Hospital Ranked Among Top in the Nation by U.S. News & World Report®  Mount SinaiUniversity of Chicago Medical Center recognized nationally for advancing community health and specialty care  uchicagomedicine.orgMayo Clinic in Phoenix tops Arizona hospitals for 14th straight year  ABC15 ArizonaAscension St. Vincent Earns Top Recognitions in U.S. News & World Report’s Best Hospitals Ratings  Healthcare | Ascension",
+    "description": "These are the 5 best hospitals in the Kansas City area, new ranking says  Kansas City StarSuburban hospitals rank tops in Illinois; Northwestern Memorial, Rush among best in nation  Daily HeraldNorthwestern Memorial Hospital Earns U.S. News Honor Roll Recognition for 15th Consecutive Year  Northwestern Medicine NewsroomNew rankings show DC region has deep bench of top hospitals  WTOPLong Island hospitals NYU Langone, Northwell receive top marks in national 'Best Hospitals' rankings  Newsday",
     "published date": "Tue, 04 Aug 2026 14:09:46 GMT",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xcTdubl9PVndLekxHUUJTN3E4UHZvN3J2S1dJN1ZZQzVIaU1SaF94SDVlUmlDU2tNdGRRcWtTRTZUNnVURENkMDVIdGhUYXQzdGFraTBHYTB4UjJkSHE1dmJmenJ5OWVtaGlN0gFrQVVfeXFMTlJVR1FTWWRNWldaaTRPUFlhU3ZrdjloaGswNjJITWZSWjBINjNxOFFSSjBmMUNEMzJNLTB4THo0bTFOM0NmSm5SVlR2T2E0UUZVQlIzU2NSVlhKUE9LOTlscElNSEpWX1BWTlk?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -420,8 +390,38 @@
     }
   },
   {
-    "title": "Novo Nordisk Stock Bounces Back After Surprise Earnings Report - Barron's",
-    "description": "Novo Nordisk Stock Bounces Back After Surprise Earnings Report  Barron'sNovo Nordisk CEO Remains Open to Bolt-On Acquisitions, But Rules out Transformative Deals  WSJEli Lilly and Novo Nordisk raise profit outlook as weight-loss drug demand soars  Financial TimesNovo Nordisk Before Q2 Earnings: How Should Investors Play the Stock?  Yahoo FinanceNovo CEO looks to speed up R&D as share drop shows gap with Lilly  Reuters",
+    "title": "Chipotle pulls jalapeños as salmonella outbreak sickens over 100 - USA Today",
+    "description": "Chipotle pulls jalapeños as salmonella outbreak sickens over 100  USA TodayChipotle pulls jalapeños from some restaurants as health officials investigate salmonella outbreak  CNNSalmonella outbreak linked to jalapeños reported in Minnesota  kare11.comOfficials Probe Salmonella Cases Tied to Jalapeño Peppers Served at Chipotle  WSJChipotle jalapenos investigated as possible source of salmonella outbreak  Good Morning America",
+    "published date": "Tue, 04 Aug 2026 22:02:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdDcyNzZmZGFhQnloOXZURmFDN1BiT2RXdG9rWEZZRTRrS0diU3VsYkQtSlhSQ092N1cxQ2l6Y1h1TVZSd3cyMC1Ka245dVNvNldYWnZUVGdNQmE0YzNBQzRlbTFVYTE1Z2U2VXNieHRGcGxBSy1NSUlYcGctZWpJRWNnWjc2YnpqeW9DcV9LdHQ2Q0EyTzlYSzBMRC1DYkdDS1NRVjNxS3Bud1g3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.usatoday.com",
+      "title": "USA Today"
+    }
+  },
+  {
+    "title": "Confirmed cyclosporiasis cases in New Hampshire more than double - WMUR",
+    "description": "Confirmed cyclosporiasis cases in New Hampshire more than double  WMURCyclospora cases spike in Mass. after recalled lettuce was distributed to local restaurants, health officials say  The Boston GlobeMass. sees rise in cyclosporiasis amid US spike  WCVBNH confirms 69 cases of cyclosporiasis, 3 hospitalizations  New Hampshire Public Radio104 cyclospora cases reported in Massachusetts in July, some apparently linked to lettuce  CBS News",
+    "published date": "Tue, 04 Aug 2026 21:02:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUFRfU0dkOXhvdi1DN1ltdE5TQkpYN3lhelFNYTdCN3BuclhKT3otU3dpZEdlazRxd180UTdCbmR6Q1FSMDl4WUFsbkw5NXdrbThESEhUTnVIeVVWZU1VRW5ZbmRqaU13bEc3dC1IUDZTZ283S3NQaHlubVZiSnFwaFJ0MA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.wmur.com",
+      "title": "WMUR"
+    }
+  },
+  {
+    "title": "Mortgage rates hit their highest level in over a year, causing demand to drop below year-ago levels - CNBC",
+    "description": "Mortgage rates hit their highest level in over a year, causing demand to drop below year-ago levels  CNBCAmerica In Focus: US economy expands at sluggish pace, mortgage rate hit the highest level in a year  AP NewsMortgage Rates Today, August 5, 2026: 30-Year Refinance Rate Rises by 1 Basis Point  Norada Real Estate InvestmentsMortgage rates rise to 1-year high  Fox BusinessMortgage Rates Lowest in Over 2 Weeks  Mortgage News Daily",
+    "published date": "Wed, 05 Aug 2026 11:00:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOVVXN0VFckE2NGlEbC1oWFJnc1J5WjVrTzc1Z0ZhaEFnZlk4QlhBelVSNGx2azlBZGZZRUJiLWdGdXpXT1Bqb0U1X0JxdDU0UTR1LS1ZWldzeC05Mmg2bmNuY3huRmdmMWpBVmdXMnVYa1JkWXkyMUJFQjN5YjhtYXI0SmlyLWlPbzRpbTR5b25HMnNJ0gGaAUFVX3lxTE9udXhnQnZGT0ZjUXF4anBXMEU5UmthbjVUU3VEWHVnRXNZYTFzU2NCMFp4anNxb19JNjBrRmUyTWpuXzY3UTg5SnpUV2NuNndFeHVrNWk5eloyX0ljNGFZNnViMWF2WG50TTNIZnA5eE1PY3ZmamZzNE5TTmJaVDk2Q2YzZzlfS2hvNVdKaGtjcHVWVWlqcjFPdkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cnbc.com",
+      "title": "CNBC"
+    }
+  },
+  {
+    "title": "Novo Nordisk Is Exiting a ‘Rough Patch,’ CFO Says. Earnings Prove It. - Barron's",
+    "description": "Novo Nordisk Is Exiting a ‘Rough Patch,’ CFO Says. Earnings Prove It.  Barron'sNovo Nordisk CEO defends economics of Wegovy pill as lower prices weigh on sales; shares fall 5%  CNBCNovo Nordisk CEO Remains Open to Bolt-On Acquisitions, But Rules out Transformative Deals  WSJNovo CEO looks to speed up R&D as share drop shows gap with Lilly  ReutersEli Lilly and Novo Nordisk raise profit outlook as weight-loss drug demand soars  Financial Times",
     "published date": "Wed, 05 Aug 2026 12:32:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdjBXa1FBbkN2QTAtNk40M2o2WS1EeXBGYlp6c2t3TDRycFFEVFAxc2ZVMmdfemstbVlTRTU0RlZWaXpzb2VPWVh3M01jdjdiX25RNlhLdGRrREpZOHg0OVVIYkZ0aFlFZW5rbFppQnRTRlFtVks3TjVSalBPQjVfVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -440,63 +440,13 @@
     }
   },
   {
-    "title": "Mortgage rates hit their highest level in over a year, causing demand to drop below year-ago levels - CNBC",
-    "description": "Mortgage rates hit their highest level in over a year, causing demand to drop below year-ago levels  CNBCMortgage Rates Today, August 5, 2026: 30-Year Refinance Rate Rises by 1 Basis Point  Norada Real Estate InvestmentsMortgage Rates Jump to a One-Year High  WSJAmerica In Focus: US economy expands at sluggish pace, mortgage rate hit the highest level in a year  apnews.comMortgage applications fall as rates spike  Axios",
-    "published date": "Wed, 05 Aug 2026 11:00:01 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOVVXN0VFckE2NGlEbC1oWFJnc1J5WjVrTzc1Z0ZhaEFnZlk4QlhBelVSNGx2azlBZGZZRUJiLWdGdXpXT1Bqb0U1X0JxdDU0UTR1LS1ZWldzeC05Mmg2bmNuY3huRmdmMWpBVmdXMnVYa1JkWXkyMUJFQjN5YjhtYXI0SmlyLWlPbzRpbTR5b25HMnNJ0gGaAUFVX3lxTE9udXhnQnZGT0ZjUXF4anBXMEU5UmthbjVUU3VEWHVnRXNZYTFzU2NCMFp4anNxb19JNjBrRmUyTWpuXzY3UTg5SnpUV2NuNndFeHVrNWk5eloyX0ljNGFZNnViMWF2WG50TTNIZnA5eE1PY3ZmamZzNE5TTmJaVDk2Q2YzZzlfS2hvNVdKaGtjcHVWVWlqcjFPdkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "In Lawsuit, NJ Accuses Amazon of Suppressing Pay for Delivery Drivers - The New York Times",
+    "description": "In Lawsuit, NJ Accuses Amazon of Suppressing Pay for Delivery Drivers  The New York TimesNew Jersey Sues Amazon, Alleging Delivery Network Illegally Suppresses Wages  WSJVideo New Jersey sues Amazon  ABC News - Breaking News, Latest News and VideosN.J. attorney general sues Amazon over delivery driver network she says is bad for workers  Inquirer.comNew Jersey sues Amazon on antitrust grounds, alleging it unlawfully wielded its power over delivery contractors  CNBC",
+    "published date": "Tue, 04 Aug 2026 18:32:54 GMT",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tUTBMZC1nWHJ0YVJUS2Zhc3haQmU1QjhqdG9VTzl3eVlPUjJWb1RnTUU5R0o5OEcwTzNlaXJmYUF2TFRNSi0wVVdvWXZEbEtTQXRDV29mZWo4RHJINFNUV2Nnc0VUS0kxZmMyUVlCb0gzdzJFM3pN?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.cnbc.com",
-      "title": "CNBC"
-    }
-  },
-  {
-    "title": "Confirmed cyclosporiasis cases in New Hampshire more than double - WMUR",
-    "description": "Confirmed cyclosporiasis cases in New Hampshire more than double  WMURCases of cyclosporaisis spike in Mass. after recalled lettuce was distributed to local restaurants, health officials say  bostonglobe.comNH confirms 69 cases of cyclosporiasis, 3 hospitalizations  New Hampshire Public RadioMass. sees rise in cyclosporiasis amid US spike  WCVBKeene hospital reports more cyclosporiasis cases  The Keene Sentinel",
-    "published date": "Tue, 04 Aug 2026 21:02:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUFRfU0dkOXhvdi1DN1ltdE5TQkpYN3lhelFNYTdCN3BuclhKT3otU3dpZEdlazRxd180UTdCbmR6Q1FSMDl4WUFsbkw5NXdrbThESEhUTnVIeVVWZU1VRW5ZbmRqaU13bEc3dC1IUDZTZ283S3NQaHlubVZiSnFwaFJ0MA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.wmur.com",
-      "title": "WMUR"
-    }
-  },
-  {
-    "title": "The Key Economic Warning Sign That Could Upend the Midterms - News of the United States - NOTUS",
-    "description": "The Key Economic Warning Sign That Could Upend the Midterms  News of the United States - NOTUSUS economy is overstimulated — and bond markets fear it  ReutersMarkets Brief: Why Bonds Did the Twist and the Mag 7 Did a Split  MorningstarTraders in the world’s most important financial market are bracing for a wild stretch ahead  MarketWatchDon’t Be Fooled by Monday’s Pullback, Treasury Yields Are Headed Higher  TheStreet Pro",
-    "published date": "Wed, 05 Aug 2026 13:52:30 GMT",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zRkpBQWJOM0dmQWY1U1VEa1hGcDRKNVQtVFhMYkJEQ3pNZU1WSjRVX2RoS051UF84V202VGF1MzBYRkhGMVd4NElVbWxqdnJkcTRkdkdobDVRVC1sSlBvbHR2THNxbm5JSEg0?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.notus.org",
-      "title": "News of the United States - NOTUS"
-    }
-  },
-  {
-    "title": "Apple says more ex-employees may have taken confidential data to OpenAI - TechCrunch",
-    "description": "Apple says more ex-employees may have taken confidential data to OpenAI  TechCrunchOpenAI Calls Apple’s Trade-Secret Suit ‘Careless’ and ‘Oddly Personal’  WSJOpenAI Fires Back At Apple Over Trade Secret Lawsuit  yahoo.comApple seeks preliminary injunction against OpenAI in trade secrets case  ReutersHow an Apple iCloud Policy Fueled Employee Leaks Ahead of OpenAI Suit  The Information",
-    "published date": "Tue, 04 Aug 2026 14:03:01 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSW5ZX3FkYWNobjZ5NzRLV0Q4RUpUTWVhWFJPekhtZ1BZXzBvV01OMzFhNEQwX0NKZzVHZVNHRURuZ2UzTTdDSlJ2QTVySU43bndzQjh5b3VLUjBiS041UHc4N3V6WXdOd2hVSGhEc2hFTWszWDduWk1XUF9YXzZGYXNQNkJJVlFXQUFnQlZ0ZmQ3NTlQWU0ybFREUW1zZnkzN01MdnJEOC00Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://techcrunch.com",
-      "title": "TechCrunch"
-    }
-  },
-  {
-    "title": "Lucid to delay affordable EV launch amid 'operational reset' - Reuters",
-    "description": "Lucid to delay affordable EV launch amid 'operational reset'  ReutersLucid stock plunges as EV maker begins 'operational reset,' delays midsize vehicle  CNBCLucid Sales Top Estimates. The Stock Is Down.  Barron'sLucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis  TechCrunchUS cannot ‘stay isolated’ from Chinese EV competition, warns Lucid CEO  Financial Times",
-    "published date": "Tue, 04 Aug 2026 20:08:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMDg5cmt6UmF4MFNfQ01MekV2MVNyRXhlWXpkZklGbFJmekpGWjdzRUY3eklQRjVxZnJiNFd1X2pfNnpmNzhWa1drLW5aUDBRZ0QzNTVqTW5oRlFWNW5qbWlzcVBUNkY1Q0hXUldid3cyZmlsUVE0dWhVUkhfU21ocXZsUjh5YUdzTDdoUFpZTUtKczZzQXIzRmpyRE82a3hIYkhoU0ZNU1lXVmF1YzhtQ2JKWXpER01MQUxsWXF3?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.reuters.com",
-      "title": "Reuters"
-    }
-  },
-  {
-    "title": "Clarity Act May Get A Pre-Recess Vote; ARK Makes Crypto Buys - Investor's Business Daily",
-    "description": "Clarity Act May Get A Pre-Recess Vote; ARK Makes Crypto Buys  Investor's Business DailyCrypto’s Landmark CLARITY Bill Is Running Out Of Time  ForbesVault: Democrats say Clarity’s cloture vote is doomed  Punchbowl NewsThune Says Crypto Bill Will Likely Get Initial Vote Pre-Recess  news.bgov.comCrypto 'will be fine' even if Clarity fails to pass this week, Bitwise CIO Matt Hougan says  The Block",
-    "published date": "Tue, 04 Aug 2026 14:32:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUFR1dHpXTFRsNHJNX0JQR3dJMFVsOXFKbHBmNXFmZGUzZndNV1FpUGFyNDFOMXpMUUpBZnZhUExVMEFjVF94akM5cFhQa1h6RnE0VGZjQ1Y0OW1sWDUteVBuNGttSkxMdW1ub1RUQloyNTFSY2o3M1hOX3JxX3RJd014MnB2UGtQNnJCRy1nZ2VuOE9yVmZRdk9WR0trS1hUYmd5UlN5TGVlTmNvQXN5U2s1dHEwZFlU?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.investors.com",
-      "title": "Investor's Business Daily"
+      "href": "https://www.nytimes.com",
+      "title": "The New York Times"
     }
   },
   {
@@ -510,36 +460,6 @@
     }
   },
   {
-    "title": "Paramount Q2 Profit Dips, With Streaming Boost Offset by TV Declines - Variety",
-    "description": "Paramount Q2 Profit Dips, With Streaming Boost Offset by TV Declines  VarietyParamount Profit Surges as Skydance Merger Cost Cuts Pay Off  Bloomberg.comParamount’s Streaming Growth Continues Amid Legal Challenges to Warner Deal  WSJParamount “Fully Expects” WBD Merger To Close As It Reports Q2 Streaming Gains, Linear Challenges  DeadlineParamount Skydance raises full-year profit guidance, remains 'confident' about WBD merger  CNBC",
-    "published date": "Tue, 04 Aug 2026 20:03:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYktZeEpiT3JiNThLS3pvbm11OEdGdEJ2eERieU5XNmcxcWcwQWlLZnNUbDRqOGpuck9lajZ4M25hUGx5Z2E2SHZ5cjc4LXRUTHZ1d2o4SHlQdjV6RG1JU3dKc3Q4QUVSUWttc2FndTJQU1lvc2kwRGdiamdjMHRNQ2NVRzdiUXlKcmFCS05Ld1A0MDlnaHIzbw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://variety.com",
-      "title": "Variety"
-    }
-  },
-  {
-    "title": "McDonald's says US sales slowed after value deal push fell short - foxbusiness.com",
-    "description": "McDonald's says US sales slowed after value deal push fell short  foxbusiness.comMcDonald’s sales in the US are slowing after deal fatigue  CNNMcDonald’s Aims to Improve Service and Food, and Chose a New U.S. Boss to Help  WSJMcDonald's posts strong second quarter profit, names new leader for US market  ABC News - Breaking News, Latest News and VideosMcDonald's names company veteran Skye Anderson as its U.S. president as growth in its largest market slows  CNBC",
-    "published date": "Tue, 04 Aug 2026 21:20:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSW5JTkFYN0VicTB3emozQS1FRG5kMXdzSHBBY29Tb2VsdTBUYUhjYUlCQmRRSXFzSktWVUZ2YzlUSk9uWHd2dVdwRzFheXU1X2NBRHpDRnRaOUd0QnRhc1EzeXZlZGl2bFYtdHU3eWJpWVNacm51TThOTldKRTFlUzItVzVndURPWjFBdDcyaTlySXhfR0loOWVLZHZ0WlRR?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.foxbusiness.com",
-      "title": "foxbusiness.com"
-    }
-  },
-  {
-    "title": "In Lawsuit, NJ Accuses Amazon of Suppressing Pay for Delivery Drivers - The New York Times",
-    "description": "In Lawsuit, NJ Accuses Amazon of Suppressing Pay for Delivery Drivers  The New York TimesNew Jersey Sues Amazon, Alleging Delivery Network Illegally Suppresses Wages  WSJNew Jersey sues Amazon on antitrust grounds, alleging it unlawfully wielded its power over delivery contractors  CNBCN.J. attorney general sues Amazon over delivery driver network she says is bad for workers  Inquirer.comNew Jersey sues Amazon over treatment of delivery drivers  New Jersey Globe",
-    "published date": "Tue, 04 Aug 2026 18:32:54 GMT",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tUTBMZC1nWHJ0YVJUS2Zhc3haQmU1QjhqdG9VTzl3eVlPUjJWb1RnTUU5R0o5OEcwTzNlaXJmYUF2TFRNSi0wVVdvWXZEbEtTQXRDV29mZWo4RHJINFNUV2Nnc0VUS0kxZmMyUVlCb0gzdzJFM3pN?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.nytimes.com",
-      "title": "The New York Times"
-    }
-  },
-  {
     "title": "Disney Closes $1.2 Billion Deal To Sell A+E Global Media Stake To Hearst - Deadline",
     "description": "Disney Closes $1.2 Billion Deal To Sell A+E Global Media Stake To Hearst  DeadlineDisney to Sell Its Stake in A+E Global Media to Hearst for About $1.2 Billion  WSJDisney selling A+E stake for $1.2 billion  AxiosHearst Clinches Deal to Buy Out A+E Global Media Stake From Disney for $1.2 Billion  VarietyDisney exits A+E as media conglomerate Hearst gains full ownership in $1.2 billion deal  Reuters",
     "published date": "Tue, 04 Aug 2026 20:30:00 GMT",
@@ -550,13 +470,103 @@
     }
   },
   {
-    "title": "Banks to offload $15bn of debt for Anthropic data centre backed by Google - Financial Times",
-    "description": "Banks to offload $15bn of debt for Anthropic data centre backed by Google  Financial TimesBlackstone pitches $36 billion debt deal for Anthropic AI chips  Yahoo FinanceMorgan Stanley-led banks to offload $15B debt tied to Google-backed Anthropic data center - report  Seeking AlphaBlackstone Has Pitched Mega Debt Package for Anthropic Chip Deal  Bloomberg.comExclusive | Banks in Talks to Lend $15 Billion for Anthropic Data Center Backed by Google  WSJ",
-    "published date": "Wed, 05 Aug 2026 04:00:29 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYjBQTzA3UUUybzRWRFJHRFJVQUdseXFPTzFqcUktOVRvc19iMzVHSEYxRzNKRUhKWEdPQWRzaDl4QXdIUm1vS0dpQkxyTG41ZWJEc2VGN0tTdk14UHY4Wkt3LVZjV2FYY3Zpdnp2TldZRUMxc1ZEbFczUjJucHdxSGk2aEc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "They bought homes at the peak of Austin's housing boom. Now they're taking devastating losses. - Business Insider",
+    "description": "They bought homes at the peak of Austin's housing boom. Now they're taking devastating losses.  Business Insider",
+    "published date": "Wed, 05 Aug 2026 14:29:54 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcTV3dVc1WTJIblBMd05PYTdBYmVFQmRIeDJKUUY2R05ZWXVCVFZYVnJGMFdnVThnRGtXU0JJNWU3VGJQbzdrWDFNSm9CMUVlQ05pY0hOYUNkdm4taEZ4eWQ4bE55YlBvcEJBTGFZbWxEcmZucDcwREtjWUtTa291T2hGUnFhTmZEZlFTdVhnTGwxaTI0MHBCelJEUGpxaEJsdEhxTnpzanY?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.ft.com",
-      "title": "Financial Times"
+      "href": "https://www.businessinsider.com",
+      "title": "Business Insider"
+    }
+  },
+  {
+    "title": "Paramount Q2 Profit Dips, With Streaming Boost Offset by TV Declines - Variety",
+    "description": "Paramount Q2 Profit Dips, With Streaming Boost Offset by TV Declines  VarietyParamount Profit Surges as Skydance Merger Cost Cuts Pay Off  Bloomberg.comParamount’s Streaming Growth Continues Amid Legal Challenges to Warner Deal  WSJParamount “Fully Expects” WBD Merger To Close As It Reports Q2 Streaming Gains, Linear Challenges  DeadlineParamount Skydance raises full-year profit guidance, remains 'confident' about WBD merger  CNBC",
+    "published date": "Tue, 04 Aug 2026 20:03:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYktZeEpiT3JiNThLS3pvbm11OEdGdEJ2eERieU5XNmcxcWcwQWlLZnNUbDRqOGpuck9lajZ4M25hUGx5Z2E2SHZ5cjc4LXRUTHZ1d2o4SHlQdjV6RG1JU3dKc3Q4QUVSUWttc2FndTJQU1lvc2kwRGdiamdjMHRNQ2NVRzdiUXlKcmFCS05Ld1A0MDlnaHIzbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://variety.com",
+      "title": "Variety"
+    }
+  },
+  {
+    "title": "McDonald's says US sales slowed after value deal push fell short - Fox Business",
+    "description": "McDonald's says US sales slowed after value deal push fell short  Fox BusinessMcDonald’s sales in the US are slowing after deal fatigue  CNNMcDonald’s Aims to Improve Service and Food, and Chose a New U.S. Boss to Help  WSJMcDonald's names company veteran Skye Anderson as its U.S. president as growth in its largest market slows  CNBCMcDonald’s posts strong second quarter profit, names new leader for US market  AP News",
+    "published date": "Tue, 04 Aug 2026 21:20:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSW5JTkFYN0VicTB3emozQS1FRG5kMXdzSHBBY29Tb2VsdTBUYUhjYUlCQmRRSXFzSktWVUZ2YzlUSk9uWHd2dVdwRzFheXU1X2NBRHpDRnRaOUd0QnRhc1EzeXZlZGl2bFYtdHU3eWJpWVNacm51TThOTldKRTFlUzItVzVndURPWjFBdDcyaTlySXhfR0loOWVLZHZ0WlRR0gGmAUFVX3lxTE9mRnpQQmo0bzZJdmdySTk0NFZPczBmRk16Z3FvcGo1V2pIU3ctc1V3YmJyUXlDM0pqb1BkOVo4RnJ5d3B1amhxcWlYNGk1Y3A0YUppX2pWTmxVMkh2b3Z0bE9pV3NxSnc3UHFTOEtNNlFtMk1oMFlZYzhJeGxtN2RnZTZhZERJSm1YbGFrZDk1NnIwM2JnZ1ZFVnFIR2dHTU10U1NEM3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.foxbusiness.com",
+      "title": "Fox Business"
+    }
+  },
+  {
+    "title": "Spotify Execs Bet People Will Pay for AI Music - Gizmodo",
+    "description": "Spotify Execs Bet People Will Pay for AI Music  GizmodoSpotify Climbs to 300 Million Premium Subscribers  WSJSpotify Reports Second Quarter 2026 Earnings  SpotifySpotify's higher spending on marketing, AI features to hit profit  ReutersSpotify profits hit by heavy spending as fears build over streaming growth  Financial Times",
+    "published date": "Tue, 04 Aug 2026 20:55:53 GMT",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ3I3RzhDYmw2QlhILU5fX0tKTmdxTG5kbW5FWE1oLXJWNzVfdUk4ZzFrNk1zYVZHZ0VxV2NJUUZwNThEZ1NBb2dLWUg1NlBrMkI5WFlBSVFMeEVPNWsxTkhsU0xZTno3eTlLUDBzOWl3MjdzY0ZCd0tTdEpjcnhla05JbFNVa2RsOWNXc25QbGRsQlNoalA1OC1vZGI4QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://gizmodo.com",
+      "title": "Gizmodo"
+    }
+  },
+  {
+    "title": "Clarity Act May Get A Pre-Recess Vote; ARK Makes Crypto Buys - Investor's Business Daily",
+    "description": "Clarity Act May Get A Pre-Recess Vote; ARK Makes Crypto Buys  Investor's Business DailyVault: Clarity talks in overdrive as cloture slips  Punchbowl NewsCrypto’s Landmark CLARITY Bill Is Running Out Of Time  ForbesThune Says Crypto Bill Will Likely Get Initial Vote Pre-Recess  news.bgov.comCrypto 'will be fine' even if Clarity fails to pass this week, Bitwise CIO Matt Hougan says  The Block",
+    "published date": "Tue, 04 Aug 2026 14:32:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUFR1dHpXTFRsNHJNX0JQR3dJMFVsOXFKbHBmNXFmZGUzZndNV1FpUGFyNDFOMXpMUUpBZnZhUExVMEFjVF94akM5cFhQa1h6RnE0VGZjQ1Y0OW1sWDUteVBuNGttSkxMdW1ub1RUQloyNTFSY2o3M1hOX3JxX3RJd014MnB2UGtQNnJCRy1nZ2VuOE9yVmZRdk9WR0trS1hUYmd5UlN5TGVlTmNvQXN5U2s1dHEwZFlU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.investors.com",
+      "title": "Investor's Business Daily"
+    }
+  },
+  {
+    "title": "Austin Police says officers will seize, send suspected delta 8, THCa products to labs for testing - KXAN Austin",
+    "description": "Austin Police says officers will seize, send suspected delta 8, THCa products to labs for testing  KXAN AustinFollowing ban, Texas hemp reps sue state for violating commerce protections  The Texas Tribune‘Gift to the cartels’ Talarico renews warning over Texas THC ban  USA TodayWhat THC can and can’t you legally buy in Texas?  statesman.comTexas hemp THC rules change: What consumers, veterans and retailers need to know  Click2Houston",
+    "published date": "Tue, 04 Aug 2026 13:28:56 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa29VZk5ybTFmel9GdEl4NjVtbjVmMUZORGkyMzk0OGJnYTNWV3RDM1huNGdpb1VUQnZBUnNSSkNnZE5mXzJpeXl5OEVvQkJMRmltaEZVWGpaQmZ4TUVpQUtYM0JPMEJCaWtjYV9IUFRXXzlPSlRVRi1RdnZzUmFyTThodEtHcjhQeWhEM24wM1BvSDdMTVNwbXQzbzBKSFcxbDdwTWh6OXZYSW15dTVBUTBvWEhvOTJLVzgtcU40dXFtREJ4aEE00gHMAUFVX3lxTE9BdFhQUm1JRy1YSXoxcl9nTkRMZkcwUFFpWUNLTnpzdDNILU9GcExBR3RVTDFjaFZGajEtai1hclF3LUJERGQ3TWxHcE1zbHF3UlYzZFFZOEhHOUxBMmJQMDZxZHluNktMZlAzVk1Dcl9USWxEaFhxZDRua0dsNFprRXZnYXY5T0ZRWjhyZTBmOG13eVFqN25DNVY5V0ZZQjYyNzZ6VUpfbVdsRk5oRG9IaTdIbmdTT18tZzdOeWNqWGd3bVU3dldLLUVtZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.kxan.com",
+      "title": "KXAN Austin"
+    }
+  },
+  {
+    "title": "Ken Griffin's Citadel posts best month in years after scooping up Situational Awareness stocks - CNBC",
+    "description": "Ken Griffin's Citadel posts best month in years after scooping up Situational Awareness stocks  CNBCSituational Awareness hedge fund meltdown was a warning shot for leveraged markets, BofA CEO says  CNBCInvestors in Situational Awareness deserved to lose their shirts  The EconomistCitadel’s Purchase of Situational’s Stocks at Discount Is Already Paying Off  WSJInside the Meltdown of a Wunderkind’s A.I. Hedge Fund  The New York Times",
+    "published date": "Wed, 05 Aug 2026 11:11:10 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSDNJX0FxWW5Cc254VWl6UWlaR2J6QXhfbkhVVnZrZEpPaFVYT3pCZVpnZ1lKNXlWY3pfZmw0TWU0MHpZNVk1MHZmLUlxTjROanFyOFZ4UVk3Q3dsMUhIOUR2UmFQQWhYX1d5ZWtGTHN6dnZlVzB1bHVsRjYxU0N0U0Z4bFE2SUFELV8wZEZKTlphX0RLUzBXLWhkUVJ2MDU5X0dfTmdRZlNlMlFkWlFlNWRvZkJLQWVpZkZOdUphcV9yXzBWa0xUUFZB0gHPAUFVX3lxTE5kOVZybVEzdjRyLVh5ME1MTmFhRTd4ZHAxMFhtcllES0p4cE0yWEM0SkRkb2tuYmVFVUZBWmtocGU4MHA3ZldKS0ttMVRFWm01ZkhzZGZZNHRFcG1ib3RaUmk4ZXppVE5YYzB1R3E0ckxoYS1jcHA1ZmRwaVFVTDJzVWV6UDdaX3ZWMlRIUzZId0FrbERyalRLNWp6OTNtUmtqU1U3UFgwOFVwN1drX3d3Y1dIcmZ5aHVtc1h1WXlYdG9JdTRhb3FjbC1VX1V0TQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cnbc.com",
+      "title": "CNBC"
+    }
+  },
+  {
+    "title": "‘This is insider trading by definition’: Trump offers $100,000 per month subscription to Wall Street - Fortune",
+    "description": "‘This is insider trading by definition’: Trump offers $100,000 per month subscription to Wall Street  FortunePaid early access to Trump's posts raises insider trading questions  pbs.orgNew bill would stop Trump Media from selling speedy access to president’s posts  NBC NewsWall Street finds new edge behind Trump's presidential paywall  AxiosTrump Tests the Definition of 'Insider Trading'  The Atlantic",
+    "published date": "Tue, 04 Aug 2026 16:07:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaFlPSmNpc3ZfS1owaktfVTVPZ0QxYWxnTGlQNmNvS2lvZl9HTldPZGcyQ2hoSUJrbjFkaHJPanVjY2x0RlFqREdUWG5XMGJFUXJVU25Gb0ZNSWJ1Q0ZxU2h4RHBxOWp2eEcyWWxKTm5Iam1fc2xrWm5ESVlybHJuOXpzY1ZNZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://fortune.com",
+      "title": "Fortune"
+    }
+  },
+  {
+    "title": "Circle Internet Stock Rises on Earnings as Profit Overcomes Crypto Slump - Barron's",
+    "description": "Circle Internet Stock Rises on Earnings as Profit Overcomes Crypto Slump  Barron'sCircle Reports Second Quarter 2026 Results  Circle Internet FinancialCircle shares fall as revenue miss overshadows quarterly profit beat  ReutersCircle Earnings: Revenue Misses Estimates as Crypto Markets Mired in Rout  Bloomberg.comCircle stock jumps as Q2 earnings beat estimates, USDC prospect seemingly intact (CRCL:NYSE)  Seeking Alpha",
+    "published date": "Wed, 05 Aug 2026 10:54:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WLVFKYjI3LS1Mc1JKbmI2NzhkQUhGYkxXMFVTcHpwNFJ4QXp6azQtMkwzM2lSTWNXZGhqUmx0QkE2NzQ3Qm41RVp3OEd4QUdmY0VYTDEtaEM1QjI4bUFsN3J1M2VOR2lmNGZubTR6YnlJWGNZVy1PNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.barrons.com",
+      "title": "Barron's"
+    }
+  },
+  {
+    "title": "Stocks rise on Wall Street and add to their records as oil prices hold steady - AP News",
+    "description": "Stocks rise on Wall Street and add to their records as oil prices hold steady  AP NewsS&P 500 gives up gain as 4-day rally loses momentum; Dow boosted by Nvidia: Live updates  CNBCStocks waver on Wall Street and hover around records as oil prices hold steady  adn.comStock market today: Dow, S&P 500 climb as Trump says Hormuz deal is close, Nasdaq gives up gains  finance.yahoo.comMideast deal hopes lift Dow, S&P to records; SpaceX, AMD drag Nasdaq  Reuters",
+    "published date": "Wed, 05 Aug 2026 17:19:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcmdoRG9weElIVW5jZmNVT2Fzbzd1Vl92d1lkWU81cU1sajY2STVFeWZicFBhdTlLdUx5dHJoX09yc0ZZdEZHeVk0cjN3dGRabjA5SHU5VTFkQmRGNTU2eVRicFozQVRhWTY3cVRxY3JkUWM2MWYxNlNoTGM3NTZZWHB2MTlhR0xTcUtfdC15dmh1VlNuaWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://apnews.com",
+      "title": "AP News"
     }
   },
   {
@@ -567,86 +577,6 @@
     "publisher": {
       "href": "https://www.wsj.com",
       "title": "WSJ"
-    }
-  },
-  {
-    "title": "OpenAI to pay $3.2 million to settle DOJ allegations it favored foreign workers over Americans - foxbusiness.com",
-    "description": "OpenAI to pay $3.2 million to settle DOJ allegations it favored foreign workers over Americans  foxbusiness.comOpenAI pays $3.2 million in US probe over hiring foreign workers  ReutersOpenAI to Pay $3.2 Million to Settle Claims It Discriminated Against U.S. Workers  WSJOpenAI pays $3.2m to settle claims it discriminated against US workers  The GuardianOpenAI to pay $3.2M to settle DOJ worker discrimination case  Axios",
-    "published date": "Wed, 05 Aug 2026 01:44:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOUlaQVh5QlR5VzNFU0VLRjhzZklNWkVwWTRTNi1FMWw5RGxTVHdtbzRheDBYTjZ5aHAwbVhRMFZjTHVRT3lBMmVNcUtqMnZaaTRnV1B6Y2dONXU1eWJpSi16NmdyZWlVa3k3QmdJc2RDM0g0X0ozM2tacWJ2a3BFU0Zkd1pDM2dOXzl6akFpT1FPSEViZ3Z4blRUc2g0eG1CN1B4ZW5yTzgwV0Ztc0pjTHg1RnRub2RWT3VISEtnV2jSAcYBQVVfeXFMUGE1cXd3MmY4dU85X3lzcnNLTE4wc0Y2MVRrOWhTRHp4b1FVSlZBTTJJSGxZcllmdGpBUmtmLWlYME9kR2dFMHIyMURqVS1XaGRGeDFLS280UFRKREFOTG16YlRlbC1fNnBzM0hhYmoyODh6RnRFQzJTZDlwRTU1QURreURGXzFjUWxmQVBKRHNtaHo5M1JUM0I5dlZtcEhNSDBpT01mb3VuaE9EYXhvNHRueDZodWtFeFFzc0pwZ0NnenpGbEdR?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.foxbusiness.com",
-      "title": "foxbusiness.com"
-    }
-  },
-  {
-    "title": "Spotify Execs Bet People Will Pay for AI Music. Stock Price Plunges - Gizmodo",
-    "description": "Spotify Execs Bet People Will Pay for AI Music. Stock Price Plunges  GizmodoSpotify Climbs to 300 Million Premium Subscribers  WSJSpotify Reports Second Quarter 2026 Earnings  SpotifySpotify's higher spending on marketing, AI features to hit profit  ReutersSpotify profits hit by heavy spending as fears build over streaming growth  Financial Times",
-    "published date": "Tue, 04 Aug 2026 20:55:53 GMT",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ3I3RzhDYmw2QlhILU5fX0tKTmdxTG5kbW5FWE1oLXJWNzVfdUk4ZzFrNk1zYVZHZ0VxV2NJUUZwNThEZ1NBb2dLWUg1NlBrMkI5WFlBSVFMeEVPNWsxTkhsU0xZTno3eTlLUDBzOWl3MjdzY0ZCd0tTdEpjcnhla05JbFNVa2RsOWNXc25QbGRsQlNoalA1OC1vZGI4QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://gizmodo.com",
-      "title": "Gizmodo"
-    }
-  },
-  {
-    "title": "Austin Police says officers will seize, send suspected delta 8, THCa products to labs for testing - KXAN Austin",
-    "description": "Austin Police says officers will seize, send suspected delta 8, THCa products to labs for testing  KXAN AustinFollowing ban, Texas hemp reps sue state for violating commerce protections  The Texas Tribune‘Gift to the cartels’ Talarico renews warning over Texas THC ban  USA TodayWhat THC can and can’t you legally buy in Texas?  Austin American-StatesmanTexas ban on several THC products emerges as potential wedge issue in Senate race  Houston Public Media",
-    "published date": "Tue, 04 Aug 2026 13:28:56 GMT",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa29VZk5ybTFmel9GdEl4NjVtbjVmMUZORGkyMzk0OGJnYTNWV3RDM1huNGdpb1VUQnZBUnNSSkNnZE5mXzJpeXl5OEVvQkJMRmltaEZVWGpaQmZ4TUVpQUtYM0JPMEJCaWtjYV9IUFRXXzlPSlRVRi1RdnZzUmFyTThodEtHcjhQeWhEM24wM1BvSDdMTVNwbXQzbzBKSFcxbDdwTWh6OXZYSW15dTVBUTBvWEhvOTJLVzgtcU40dXFtREJ4aEE00gHMAUFVX3lxTE9BdFhQUm1JRy1YSXoxcl9nTkRMZkcwUFFpWUNLTnpzdDNILU9GcExBR3RVTDFjaFZGajEtai1hclF3LUJERGQ3TWxHcE1zbHF3UlYzZFFZOEhHOUxBMmJQMDZxZHluNktMZlAzVk1Dcl9USWxEaFhxZDRua0dsNFprRXZnYXY5T0ZRWjhyZTBmOG13eVFqN25DNVY5V0ZZQjYyNzZ6VUpfbVdsRk5oRG9IaTdIbmdTT18tZzdOeWNqWGd3bVU3dldLLUVtZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.kxan.com",
-      "title": "KXAN Austin"
-    }
-  },
-  {
-    "title": "Trump’s FTC Is Threatening to Punish Big Tech for “Woke AI” - Truthout",
-    "description": "Trump’s FTC Is Threatening to Punish Big Tech for “Woke AI”  TruthoutEFF Joins Call for FTC to Drop Its Disastrous AI Policy Proposal  Electronic Frontier FoundationPublic Comment re: Federal Trade Commission Request for Public Comment on Its Policy Statement Addressing AI Accuracy  Cato InstituteAmerica First Legal Backs the FTC’s Proposal to Apply Longstanding Consumer Protection Laws to AI Companies Engaged in Deceptive, Biased Models  America First LegalFTC Should Protect Consumers. Not Shield AI Companies from State Oversight, CMDG Says  Open Markets Institute",
-    "published date": "Tue, 04 Aug 2026 20:58:35 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPb05qbUVJUDB3bUppTUlRRldTWXVBVEZBbXZZVndoTWpqblQ1TG5BZk14LTd0SkdjeHpmMlRFWnRaVEtJZko3YzVaRTN5ZWF1SUx0Vk5JcXhSREREdXNpX2lKMlFjVm83cmc2UWF2SXJkTl84MHMyNk1QZ2dVMXhFTURVRFVlZFVReUFZZWFwVEo?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://truthout.org",
-      "title": "Truthout"
-    }
-  },
-  {
-    "title": "Mamdani Is Shunning New York Business Leaders Who Are Used to Calling the Shots - WSJ",
-    "description": "Mamdani Is Shunning New York Business Leaders Who Are Used to Calling the Shots  WSJ'Socialism is a disaster': Bill Ackman says Zohran Mamdani's bad left-wing housing policy is worsening New York's affordability crisis  FortuneMamdani Dismisses Business Leaders Advising NYC’s Mayor’s Fund  Bloomberg.comMamdani dismisses business leaders advising major NYC philanthropic fund  Crain's New York BusinessSocialist Mamdani launches new war on NYC business leaders -- kicking them off mayor's fund that backs city programs  New York Post",
-    "published date": "Wed, 05 Aug 2026 01:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX3hxS1ZMNkRuR1JDbXZPVWpGT3djaVhSandBOU9uTWVrZEVSYVBNYzRLWXJFdUFOUjF6c2tkZzVjcDBoNzg2UmNha1FJdkt1cXI3eDA3aEhYcnNMdDdSbGxjVEdMQlc0NXFoZG1PR3dlTjRrYms0RWhzb2xYYk5YNE03QXd3N3JpYm4yU2Jpd3dRRWlfUWFFWXZmSlRhMnZKbC1BM1ZOd19YamtwbDJiUGwzY19zVEk?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.wsj.com",
-      "title": "WSJ"
-    }
-  },
-  {
-    "title": "‘This is insider trading by definition’: Trump offers $100,000 per month subscription to Wall Street - Fortune",
-    "description": "‘This is insider trading by definition’: Trump offers $100,000 per month subscription to Wall Street  FortuneTrump Tests the Definition of 'Insider Trading'  The AtlanticPaid early access to Trump's posts raises insider trading questions  PBSNew bill would stop Trump Media from selling speedy access to president’s posts  NBC NewsWall Street finds new edge behind Trump's presidential paywall  Axios",
-    "published date": "Tue, 04 Aug 2026 16:07:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaFlPSmNpc3ZfS1owaktfVTVPZ0QxYWxnTGlQNmNvS2lvZl9HTldPZGcyQ2hoSUJrbjFkaHJPanVjY2x0RlFqREdUWG5XMGJFUXJVU25Gb0ZNSWJ1Q0ZxU2h4RHBxOWp2eEcyWWxKTm5Iam1fc2xrWm5ESVlybHJuOXpzY1ZNZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://fortune.com",
-      "title": "Fortune"
-    }
-  },
-  {
-    "title": "Caterpillar stock pops on record quarterly revenue - Yahoo Finance",
-    "description": "Caterpillar stock pops on record quarterly revenue  Yahoo FinanceCaterpillar Stock Soars as Earnings Smash Estimates. Power and Energy Are Booming.  Barron'sCaterpillar lifts 2026 sales growth target on strong data center demand after quarterly profit beat  CNBCCaterpillar Reports Second-Quarter 2026 Results  CaterpillarCaterpillar Earnings: ‘No One Is Slowing Down’  Morningstar",
-    "published date": "Tue, 04 Aug 2026 14:33:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUVRacnc5MlUwaTVOWUhNSDhuWjA5SW9jVTE1M3J2N1lCTndSRTlrNU8yMW5WbWFsTXRCaGwzZVVaVEpqdk5wNnNtUTJFTzZkV2lGNWN1Q1NaTzdNNFZjakdTMDhwOTNjZXNkc2owclBzZGRZdGwtaW43c2lYSGJJSDZXSzU2MnBucy1XSVUxSUVnVmlpcmZ5cDFFWFFQWWtZS0FhamNIRGkzeUUzcjQySDQ3M3U?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://finance.yahoo.com",
-      "title": "Yahoo Finance"
-    }
-  },
-  {
-    "title": "SpaceX is barely Space and mostly X - The Verge",
-    "description": "SpaceX is barely Space and mostly X  The VergeSpaceX Has Already Lost AI Race  Yahoo FinanceLive Updates: SpaceX Sees Steady Capital Spending Next Two Quarters  Bloomberg.comWe Just Got Our First Real Look At How Small X's Ad Business Is  EngadgetSpaceX: I Was Too Conservative On The AI Segment  Seeking Alpha",
-    "published date": "Wed, 05 Aug 2026 16:35:56 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONW82T1lNeXNaZnV0TGlZMVMyMUhNU3FqZ2JBV0ZPOVBnbFZqLWZ3VU1hOXF1dDB5eVFITzd0bkE1T2lpVDdIbDdweERzWE5lUmtEbU40UTM1YTd1SDRDSGdSVEMxaDdVRzRfLWxpY2R3NklFekJDY2tZSWpmaFpGY05hZ3dSUUlTZkJidHB0Ynk?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theverge.com",
-      "title": "The Verge"
     }
   }
 ]
