@@ -1,15 +1,5 @@
 [
   {
-    "title": "Hacker targets ‘Grand Theft Auto VI’ in apparent leak - NBC News",
-    "description": "Hacker targets ‘Grand Theft Auto VI’ in apparent leak  NBC News[UPDATE] GTA 6 Suffers Third Day of Leaks, Latest Video Suggests Leakers Have Access to a Build of the Game  IGNGTA 6 leaks: Map and gameplay potentially revealed  MashableCatastrophic GTA VI leak is a full working build — notorious hacker CyberLeek taunts Rockstar Games by spraying the word 'leek' onto a wall in-game with bullets  Tom's HardwareGTA 6 Leaker \"Will Not Stop\" Until Take-Two Apologize and \"Do Better\"  80 Level",
-    "published date": "Thu, 20 Aug 2026 22:50:44 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOGM4NDZEM2JZMmdGNkgxaHN4MzNOeW9WalNyU3EtdzNUeUZKWDdYWk4wMWNNekxWOWtodEh3X210dWFCbDBuODkxR0FnUDE4eUdaUktzLUpzc09zWFNQMXVXZjlabHEyYWs1Mk0zaGJpQWc1MHRXX3NGbU5QOEpZZDhKSzhFYkpqUnA0ODNJX3NWV1BkbmczSGlXVHJ5c3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.nbcnews.com",
-      "title": "NBC News"
-    }
-  },
-  {
     "title": "Google releases Pixel 11 series factory images - 9to5Google",
     "description": "Google releases Pixel 11 series factory images  9to5GoogleGoogle’s Pixel 11 Comes With Plenty of A.I. Does Anyone Want That?  The New York TimesGoogle Pixel 11 series review: Is the magic fading?  Ars TechnicaPixel 11 Pro vs iPhone 17 Pro: What $1,099 Gets You  TechRepublicThe Pixel 11 Pro is a great phone, no thanks to its flashiest new features  The Verge",
     "published date": "Thu, 20 Aug 2026 18:14:00 GMT",
@@ -20,33 +10,83 @@
     }
   },
   {
-    "title": "ChatGPT can now send texts for you with new Apple Messages plug-in - TechCrunch",
-    "description": "ChatGPT can now send texts for you with new Apple Messages plug-in  TechCrunchChatGPT Can Now Control iMessage, Potentially Raising Apple Privacy Concerns  Yahoo FinanceChatGPT Can Now Read and Send iMessages on Mac  MacRumorsOpenAI Connects ChatGPT to Apple Messages for Automated Chat Management  Межа. Новини України.OpenAI Rolls Out Deeper Integration With Apple’s Macs: ChatGPT Can Now Read, Draft And Send IMessages  Stocktwits",
-    "published date": "Thu, 20 Aug 2026 22:09:51 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT0xTb2FDbkVPSXdPNDRzZGVIa1pKYXRnNHJqX2ZkemVKUFpHbEtFcWt6bV9hYkVUY29adHdRS2RQLThKa2c3bGc3NzJOWkNfb25FOU1UdlVnRDFCRUhZUUJjZEFUNUw3bllZdXZyVHJjMXVwOFFrcTctX2dtbjFncVVwY09kdXpsWHpyUGp5c3RZRjN6Y0ZTOHRNaXZVS2V3WkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Genki’s new customizable controller has a big screen and adjustable buttons - The Verge",
+    "description": "Genki’s new customizable controller has a big screen and adjustable buttons  The VergeGenki has shoved a screen and a custom OS into its upcoming pro controller  PC Gamer\"The most ambitious product we've ever built\" - Genki is crowdfunding a Steam Controller killer with TMR sticks, an on-board display with its own OS, an 8K polling rate, and mouse and keyboard functionality  GamesRadar+Genki Manta has a touchscreen, TMR sticks, 8K polling, and TriStage triggers; live now on Kickstarter  NotebookcheckGenki Manta Goes Live on Kickstarter  Retro Handhelds",
+    "published date": "Fri, 21 Aug 2026 02:00:49 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeEdJNXhpRGdwXzY0Si1Nbl80NUZ3WFd5VENReEtpYXlEZ2ljR3E5SFJzaGRveV9GMURNWDJiVGc5RTR3a1F0a255SkwxbjlRcmhRTnpub3lnNWpvS0pjMmdjT2lCWm1JZXFaR2dMbDcwM0RlUVdCaTRLbUk4X2t1TGpldmdPeUx5blk2ZUVKNTU2MFUwN0Ew?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theverge.com",
+      "title": "The Verge"
+    }
+  },
+  {
+    "title": "Hacker targets ‘Grand Theft Auto VI’ in apparent leak - NBC News",
+    "description": "Hacker targets ‘Grand Theft Auto VI’ in apparent leak  NBC News[UPDATE] GTA 6 Suffers Third Day of Leaks, Latest Video Suggests Leakers Have Access to a Build of the Game  IGNGTA Leaker May Have Build of Game, Take-Two Loses $2 Billion in Value  Men's JournalGTA 6 leaks: Map and gameplay potentially revealed  MashableCatastrophic GTA VI leak is a full working build — notorious hacker CyberLeek taunts Rockstar Games by spraying the word 'leek' onto a wall in-game with bullets  Tom's Hardware",
+    "published date": "Thu, 20 Aug 2026 22:50:44 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOGM4NDZEM2JZMmdGNkgxaHN4MzNOeW9WalNyU3EtdzNUeUZKWDdYWk4wMWNNekxWOWtodEh3X210dWFCbDBuODkxR0FnUDE4eUdaUktzLUpzc09zWFNQMXVXZjlabHEyYWs1Mk0zaGJpQWc1MHRXX3NGbU5QOEpZZDhKSzhFYkpqUnA0ODNJX3NWV1BkbmczSGlXVHJ5c3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nbcnews.com",
+      "title": "NBC News"
+    }
+  },
+  {
+    "title": "Sony just announced it’s launching a new smartphone next week - PhoneArena",
+    "description": "Sony just announced it’s launching a new smartphone next week  PhoneArenaSony Xperia 10 VIII runs Geekbench - GSMArena.com news  GSMArena.comSony Xperia 10 VIII Leak Reveals Stubborn Design and Old-School Features  TechgenyzXperia 10 VIII incoming? Sony schedules a new Xperia announcement  Android AuthoritySony is highly likely to launch the Xperia 10 VIII on August 25  Android Headlines",
+    "published date": "Thu, 20 Aug 2026 21:50:13 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdll0cVdpb2U0N3d0NnV2eU1VaTlobGF0cW5Kel9ic0JkYnZUOEdBQTVxUVJ3LUtDcUlNaV9DMXFxMTd2RllyelFqY3BhMU1aelAyZ0JWMWpZano5TGFaVkN2Zms4VFNiaF9qT0JrNjI0ejFaSjRPMnduTzF5amhZcmtPQ2YwZWNtMWxjWmhLZ2ZUN0NoR0luODgxUFhUVG5mZjBR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.phonearena.com",
+      "title": "PhoneArena"
+    }
+  },
+  {
+    "title": "Google gives publishers a new way to fight AI-driven traffic losses - TechCrunch",
+    "description": "Google gives publishers a new way to fight AI-driven traffic losses  TechCrunchPersonalize the content you see on Search, Discover, and News  blog.googleGoogle Expands Personalization Across Search, Discover & News  Search Engine JournalGoogle Discover is getting an AI chatbot-tuned feed  The VergeGoogle Now Allows You To Add Your Favorite New Sources To Search  Engadget",
+    "published date": "Thu, 20 Aug 2026 19:18:21 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM2xHek5kS3JrV2xmZXFjSTJFenhmM0xjM1VXUnVzSHVfb1MtUXZXSkxEaHBlWmN3ZDVMMUNwQkMyeWNkMEZJN1ZITXVUcElrMkpBcGtNLTVfbzFHZVh3enNIR0R0YkRmR09XVzByOEVVdTBrc3hnZFdqMnFsZUpWbWdpQzRVeUlMb1BzVFZ4d3lXcmN5T0pEa3ZqNlBLdEJBMlVodw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://techcrunch.com",
       "title": "TechCrunch"
     }
   },
   {
-    "title": "Fortnite Admin Panel Lobby Hack Codes List - Nintendo Life",
-    "description": "Fortnite Admin Panel Lobby Hack Codes List  Nintendo LifeFortnite servers down: Game goes offline and servers stop working for major update  Yahoo Finance UKAll Admin Panel Lobby Hack Codes For Free Rewards  IGNSonic the Hedgehog to Headline Fortnite’s ‘Override’ Season (Gaming News Roundup)  VarietyFortnite's Upcoming Season Includes Crossovers With Iconic Games  Game Informer",
-    "published date": "Thu, 20 Aug 2026 15:44:35 GMT",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RUmVPSE8wNk9iZHdBXzhjVUtBUkdFMG0zdko3cGRLNXdLY2hJOEtXalBmd3M1QlhBQVd5UHdUQ1FQZGYyUWh5d1FPbXN1NV9XOWRtSE93b2t3SXE4dmVQSHlpR1JpeXgzRzRiVm1nZGZfNllGSlBiWlZrNjZDUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "ChatGPT Can Now Control iMessage, Potentially Raising Apple Privacy Concerns - Bloomberg.com",
+    "description": "ChatGPT Can Now Control iMessage, Potentially Raising Apple Privacy Concerns  Bloomberg.comSee more headlines & perspectives on Google News",
+    "published date": "Thu, 20 Aug 2026 20:56:33 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZmJTdG02MFkyLUt3TWZGSFBTSG5hMm96SEo0Z3dwRWlILXg4SVBxVFhHODNEZVltR0c2LUwtWnNqSkR4LU1LSmpPZVgtVnpqZU5kbmhuX29BOUM1bWREbk56RlhVa1RGdDZ3NnRQbTdNVjExVmE3akxJQTd5RExsUmxqclIzbjFVZ1Z3enBzV19HVXNBdjFJV0JtWTNQa3hRX3BSM01rR0F4WUN3UWZCQzJ6OFRvek9RTGV1TGlPZjRmVEVJ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.nintendolife.com",
-      "title": "Nintendo Life"
+      "href": "https://www.bloomberg.com",
+      "title": "Bloomberg.com"
     }
   },
   {
-    "title": "The Big Call of Duty: Modern Warfare 4 Interview — Infinity Ward on the Beta, Matchmaking, and Much More - IGN",
-    "description": "The Big Call of Duty: Modern Warfare 4 Interview — Infinity Ward on the Beta, Matchmaking, and Much More  IGNCall of Duty: Modern Warfare 4 Beta Patch Notes  Call of Duty® | Best-Selling Video Game FranchiseCall Of Duty’s Matchmaking System For Modern Warfare 4 Is A Hot Topic  GameSpotCall of Duty: Modern Warfare 4 multiplayer trailer  Nintendo EverythingGet Ready: How to Secure Your Call of Duty: Modern Warfare 4 Beta Access  PCMag",
-    "published date": "Thu, 20 Aug 2026 17:00:36 GMT",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc0ZKeDVnTklaVXhOb3JOcEk2VjNCZzRTQlppanQ4ZHhsZHdMWGhzVmp5SE1COXBIdkIxZWV1NVFKMXd3ZHREZVRiV2lwbVl6MUJlSlBQNV9RZTNkbF9ERVB3aGd4LXdVSUw4ejNWNzBDeVhkTEVyRHE2VjRYTHBSY1R0aWdab1Y3VUkxZDltVTV6NzRCcF9aazMxM2lXZV9mR1N6Z0FrVHVyV1RTRmtiZXgtQXhMQU9UNnhzS0Izay01Y2w2Y0ZR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "iPhone 18 Pro: Pre-Orders and Release Date - MacRumors",
+    "description": "iPhone 18 Pro: Pre-Orders and Release Date  MacRumorsThe latest iPhone 18 news, leaks, and rumors: Release date, price increases, and colors  MashableApple to launch new iPhone 18 lineup in September: All the leaks including the rumored A20 Pro chip, price and everything else we know so far  Yahoo TechiPhone 18 Pro: Six new features are coming next month  9to5MaciPhone 18 Pro Max Rumored to Get Exclusive Camera Upgrade  MacRumors",
+    "published date": "Thu, 20 Aug 2026 15:00:42 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVm1INUNmLUE1RzRyaHc2YXp0Tkx6QmVyNmkteE5sd0lvZVYwd0VvV3dfUUtwQkQzNDVJWE53dkFueDg1NDNYMlhEMlBmU0JWTzNFNm5iUkVxX1prd0tsV2dpa3hGLV9ndTluOVhGR2Y4OXFXWFZudC1wVVpzVHhzcnprak1vdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.macrumors.com",
+      "title": "MacRumors"
+    }
+  },
+  {
+    "title": "All Admin Panel Lobby Hack Codes For Free Rewards - IGN",
+    "description": "All Admin Panel Lobby Hack Codes For Free Rewards  IGNFortnite servers down: Game goes offline and servers stop working for major update  Yahoo Finance UKSonic the Hedgehog to Headline Fortnite’s ‘Override’ Season (Gaming News Roundup)  VarietyFortnite's Upcoming Season Includes Crossovers With Iconic Games  Game Informer'Fortnite' Chapter 7, Season 4 Start-Time, Battle Pass And More  Forbes",
+    "published date": "Fri, 21 Aug 2026 02:26:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMURtSDhFYWQ5MWZTUHJhU0RTcWtYWFdUZExpR21UckticHBzeXhrX0M0N25KdUhNVHpnaWVKV2IxRVh3TXM4X0hkWTRxcWNzcEVCUGlEckdrdDJRT1ZtX1lGZ1cwSEhOMThKOHp2RjlGcl9JdGo4QndYLTRTazJLWDJRclVOMXZMWWMtWA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.ign.com",
       "title": "IGN"
+    }
+  },
+  {
+    "title": "Video: Call Of Duty: Modern Warfare 4 Drops Official Multiplayer Trailer - Nintendo Life",
+    "description": "Video: Call Of Duty: Modern Warfare 4 Drops Official Multiplayer Trailer  Nintendo LifeCall of Duty: NEXT and Modern Warfare 4 Beta: Early Intel, PC Specs, Pre-loading, and More  Call of Duty® | Best-Selling Video Game FranchiseThe Big Call of Duty: Modern Warfare 4 Interview — Infinity Ward on the Beta, Matchmaking, and Much More  IGNModern Warfare 4 Beta Matchmaking Will Use 'New System'  Insider GamingCall of Duty: Modern Warfare 4 multiplayer trailer  Nintendo Everything",
+    "published date": "Thu, 20 Aug 2026 00:45:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTW1QYXF5TUhMTjVuZTJWTmhHeVl4ZHZRZTVSYUl6S2VqZVVySldhU3NFaEQxTFQ2NWczcndScDUwYTBuTFJwd0lpNVlzb0J6XzZ6ajJ1ZzRZSFJLdUVNOHJCRlNscDMyTXFSYjkzX2g5T1pWVjJYTmI4V0d5aXA1MW16MG9NaWUyb0FwbEVJWUFoUnFhckdSWk1nQnlTRklhUHZITHNZOTNMWUJOZ3pKLUl3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nintendolife.com",
+      "title": "Nintendo Life"
     }
   },
   {
@@ -60,26 +100,6 @@
     }
   },
   {
-    "title": "Sennheiser’s new Momentum 5 earbuds feature easily replaceable batteries - The Verge",
-    "description": "Sennheiser’s new Momentum 5 earbuds feature easily replaceable batteries  The VergeSennheiser Momentum True Wireless 5 Look Like Serious Earbud Contenders  CNETSennheiser Just Gave Hi-Fi Fans a New Genuine AirPod Rival  Gear PatrolThe New Sennheiser Earbuds Bring A Much Needed Change To Battery Life  bgr.comSennheiser Unveils the Momentum True Wireless 5 Earbuds with User Replaceable Batteries  TechPowerUp",
-    "published date": "Thu, 20 Aug 2026 10:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNUR6aFNxSExzUzJSb1l2ZUtRMHpDSHdCN1Y5T29wZXNBU2hEOWpVaDFvZVRrbmxVOWtMQTVSTjF3UG03WXRBVm1MZm9wU0p4OFJyUHQ5ZVZ0VUpuUkZGbUtfNE5hRThzWVRhMlFwSGV2cV9MU2F5Szc4S0ZQaEh1M25tVnhJbVg1SDR1S0lvbDJiaTNnVlptQVd5ZGRsZ19WcnZQdQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theverge.com",
-      "title": "The Verge"
-    }
-  },
-  {
-    "title": "The latest iPhone 18 news, leaks, and rumors: Release date, price increases, and colors - Mashable",
-    "description": "The latest iPhone 18 news, leaks, and rumors: Release date, price increases, and colors  MashableApple iPhone 18 Pro Event: Predicted September Keynote Schedule  ForbesiPhone 18 Pro: Six new features are coming next month  9to5Mac3 big reasons I'd buy iPhone 18 Pro Max over iPhone 18 Pro this year  Tom's GuideiPhone 18 Pro: Pre-Orders and Release Date  MacRumors",
-    "published date": "Thu, 20 Aug 2026 16:35:32 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNUpjTVpGYzdmb2dPeFNZdm9fNF81SWpzbWRJX3NreEw3QkYzdDA5b2o1XzlVeDBaWWNqcW0td0pZTmVIZzRsYlo4Q283djRyRUxHY0ZSaEJueU9VZ3VqZVlPb2lDakQ2S3BNUDFDek5KUGtnOE51Q2t5YXR0UlpYV3N5TUZkWVdHZzR5OWJ6TQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://mashable.com",
-      "title": "Mashable"
-    }
-  },
-  {
     "title": "Riot Is Already Killing Its 2XKO Fighting Game Less Than A Year After Launching - Kotaku",
     "description": "Riot Is Already Killing Its 2XKO Fighting Game Less Than A Year After Launching  Kotaku2XKO Active Development Will End in December 2026  riotgames.comRiot fighting game 2XKO is officially ending development  Video Games ChronicleRiot Stops 2XKO Development After Dwindling Player Base and Dev Layoffs  TechPowerUpRiot Games Will Cease Active Development For League Of Legends Fighting Game 2XKO In December  Game Informer",
     "published date": "Thu, 20 Aug 2026 19:20:24 GMT",
@@ -90,23 +110,13 @@
     }
   },
   {
-    "title": "The Duskbloods Gameplay Has Leaked Ahead Of Network Test - Nintendo Life",
-    "description": "The Duskbloods Gameplay Has Leaked Ahead Of Network Test  Nintendo LifeThe Duskbloods: the best of FromSoftware fights in a frantic multiplayer battleground  The GuardianFromSoftware's Miyazaki Interview – 'The Duskbloods Is a Game I Want to See Exist'  IGNThe Duskbloods Preview: A Hands-On Breakdown Of From Software’s  Game InformerWe played The Duskbloods, the Switch 2’s wildest new exclusive  The Verge",
-    "published date": "Thu, 20 Aug 2026 10:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVmNDSS1oMzJDSmM5QmNyWG5Ub18zQVNibkFQYmtLYWliRjZSQ3o3NGlLTERwWk8wbUE3MTBoNmNqWEgyZ24tcVU1dk9oQnd5R04xQXpacjREU2h0SEZRUU5GOF84dXNfOE5adjBiSFQzVjVZM0otUDU3MVdsYU1MN1U4S1gzYmtPSGFVUkM1UFJQMjF5ZXlrSHFHUkg5bTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "\"The release date is inaccurate\" - No, The Duskbloods isn't releasing on 24th September, according to Nintendo - Eurogamer",
+    "description": "\"The release date is inaccurate\" - No, The Duskbloods isn't releasing on 24th September, according to Nintendo  EurogamerThe Duskbloods: the best of FromSoftware fights in a frantic multiplayer battleground  The GuardianFromSoftware's Miyazaki Interview – 'The Duskbloods Is a Game I Want to See Exist'  IGNThe Duskbloods Preview: A Hands-On Breakdown Of From Software’s  Game InformerWe played The Duskbloods, the Switch 2’s wildest new exclusive  The Verge",
+    "published date": "Thu, 20 Aug 2026 15:30:08 GMT",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BbTJzN1VScmR6OXcybk9ERTRwTFlGbUEySDNORnN6WlNHeHFuUnUxN0NJMDlSWFU0YlBHZnJvMFM4MmJ2Z2lYd2F2VmJzTndwdzVSbzd6eTI3RHdSSllEYmJreDFaeWpSSUowMzFLZ1FHSDRoVkh4dA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.nintendolife.com",
-      "title": "Nintendo Life"
-    }
-  },
-  {
-    "title": "Samsung confirms August 27 event for the ‘newest addition to the Galaxy S26 family’ - 9to5Google",
-    "description": "Samsung confirms August 27 event for the ‘newest addition to the Galaxy S26 family’  9to5Google[Invitation] Galaxy Event August 2026  samsung.comSamsung Galaxy Event Set for Aug. 27, Galaxy S26 FE Expected  PCMagSamsung Galaxy S26 FE's battery life could be longer than the Galaxy S25 FE  SamMobileExclusive: Samsung Galaxy S26 FE Design, Specs & Features Across 26 Images  Android Headlines",
-    "published date": "Thu, 20 Aug 2026 02:45:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12NDBHaVhjZ1NmTVQ5eGpneGRNWlJ0Y3VMbEVtbUdERFpQcnBPbTBHWUZpSGtQQWFqVmt3ajEwNmt5VXUwcGhiNDFwWnFRZE5uZGdObFBvU05nNHVYU3FHd0NTZXN0VjUzREZ1dDh0dVZqSlVqZWJ3ajZvM3V3QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://9to5google.com",
-      "title": "9to5Google"
+      "href": "https://www.eurogamer.net",
+      "title": "Eurogamer"
     }
   },
   {
@@ -120,13 +130,13 @@
     }
   },
   {
-    "title": "AEW reportedly took $30 million loss on Fight Forever video game, more details - F4W/WON",
-    "description": "AEW reportedly took $30 million loss on Fight Forever video game, more details  F4W/WONAEW lost an insane amount of money on the Fight Forever video game  Cageside SeatsAEW reportedly took huge loss in the millions on Fight Forever video game  Wrestleview.com",
-    "published date": "Fri, 21 Aug 2026 02:50:26 GMT",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rVkhwMGpBWHhidnFXeWRuWEJFNkp2dnlIOFEtZC1lNVk4b0UxNzRWY1pOQ0plNVRsMXRTdnlYZFc2QUNubHVOOEdpOWk1Rk5wUjdRTEY0dU5ZUld2d0JVTEVjR21hdGh6MlY3aTA0VFV5SHRfOFlXQmJwQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Samsung confirms August 27 event for the ‘newest addition to the Galaxy S26 family’ - 9to5Google",
+    "description": "Samsung confirms August 27 event for the ‘newest addition to the Galaxy S26 family’  9to5Google[Invitation] Galaxy Event August 2026  samsung.comExclusive: Samsung Galaxy S26 FE Design, Specs & Features Across 26 Images  Android HeadlinesSamsung Galaxy Event Set for Aug. 27, Galaxy S26 FE Expected  PCMagSamsung Galaxy S26 FE's battery life could be longer than the Galaxy S25 FE  SamMobile",
+    "published date": "Thu, 20 Aug 2026 02:45:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12NDBHaVhjZ1NmTVQ5eGpneGRNWlJ0Y3VMbEVtbUdERFpQcnBPbTBHWUZpSGtQQWFqVmt3ajEwNmt5VXUwcGhiNDFwWnFRZE5uZGdObFBvU05nNHVYU3FHd0NTZXN0VjUzREZ1dDh0dVZqSlVqZWJ3ajZvM3V3QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.f4wonline.com",
-      "title": "F4W/WON"
+      "href": "https://9to5google.com",
+      "title": "9to5Google"
     }
   },
   {
@@ -140,18 +150,38 @@
     }
   },
   {
-    "title": "What beats seeing eclipses from space? Try the northern and southern lights - AP News",
-    "description": "What beats seeing eclipses from space? Try the northern and southern lights  AP NewsSee more headlines & perspectives on Google News",
-    "published date": "Wed, 19 Aug 2026 18:14:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX29oTXA0MjM3QzU0b3lCZ2JhWjV5bXl6N0hFaUsxbjJoZGVsVzZrVDlYVDdhLVBlQndnSmNHTHo3M3VsVnBXbl9vRDh4WjRzeHJxX0NIQW5QWGxCWnU2V1VmaDJTUWl4RXZvWW1pZEtQaF93WVpmZ05aMkJlaHNxNVhkT2RmSmNjbDcyUXAteHV4SkMtWktSWkZ2cVF0dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Mattel Brick Shop Announces 1:1-Scale, 3,509-Piece Original Xbox, Complete With Scenes from 3 Games - IGN",
+    "description": "Mattel Brick Shop Announces 1:1-Scale, 3,509-Piece Original Xbox, Complete With Scenes from 3 Games  IGNMattel Brick Shop™ Celebrates 25 Years of Microsoft's Iconic XBOX Game Console with New Premium Building Set  Mattel CorporateMattel Brick Shop Unveils Lifesize Original Xbox With 3,509 Pieces & Five Key Features  Pure XboxBrick Shop, Mattel’s Lego equivalent, is launching a 3,509-piece recreation of the original Xbox  Video Games ChronicleMattel Is Releasing A Full-Scale Building Brick Set Of The Original Xbox  Engadget",
+    "published date": "Wed, 19 Aug 2026 17:58:58 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORFFoNW0wZENIOTNobjlxUHVseERSYUloaG8tUUF3X0lNeldCX0J3dk1LZFZ3cUwwRFNZREpYbFJLQl9rTm1PZ2l1QUlQZG5QQzVvVUVCUjNOWE4yVmRwcmdfNVhWYllJbWZQdVZremtMZkZaZDFfUlhCZUlUQnRVM2xxZ0lOMVl0S1QwdmxvazJxS2ptVllhVk5HeWdsR2tSbFAxMFIwSVpsclMtZjNMSzROOHZtUHVyV0FibQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://apnews.com",
-      "title": "AP News"
+      "href": "https://www.ign.com",
+      "title": "IGN"
+    }
+  },
+  {
+    "title": "This app makes the Pixel 11’s HiLight feature actually useful - The Verge",
+    "description": "This app makes the Pixel 11’s HiLight feature actually useful  The VergeSomeone already figured out how to fully control Pixel 11 Pro's 'HiLight' and make it useful [Gallery]  9to5GoogleThis App Will Make You Want to Use the Pixel 11 Pro's 'HiLight' Feature  LifehackerSomeone already fixed the Pixel 11's most disappointing feature  How-To GeekGoogle wants you to use its phones less - but I'm skeptical  Yahoo Tech",
+    "published date": "Thu, 20 Aug 2026 15:30:34 GMT",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSV9xUDVkQjNFSUpzQ0hHaV9MOS1TbUpXTFlwcldELS1kWWRVU0FaRzVfZmtDSEdpUGRlSUEzNEc0cDBFakpTRFFJUWlYNTVNcXFxbXBuQ3VELUhub2hjelIwRXFWNEVhYk9sQS1YZ3Iyc1pnWW14TENOcjZlZDZ5eklYSmd1VmsxTFVfbjZKNnc2SERDT1RudzBqZVRwdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theverge.com",
+      "title": "The Verge"
+    }
+  },
+  {
+    "title": "AEW reportedly took $30 million loss on Fight Forever video game, more details - F4W/WON",
+    "description": "AEW reportedly took $30 million loss on Fight Forever video game, more details  F4W/WONAEW lost an insane amount of money on the Fight Forever video game  Cageside SeatsREPORT: Details About AEW’s Video Game Future  FightfulAEW reportedly took huge loss in the millions on Fight Forever video game  Wrestleview.com",
+    "published date": "Fri, 21 Aug 2026 02:50:26 GMT",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rVkhwMGpBWHhidnFXeWRuWEJFNkp2dnlIOFEtZC1lNVk4b0UxNzRWY1pOQ0plNVRsMXRTdnlYZFc2QUNubHVOOEdpOWk1Rk5wUjdRTEY0dU5ZUld2d0JVTEVjR21hdGh6MlY3aTA0VFV5SHRfOFlXQmJwQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.f4wonline.com",
+      "title": "F4W/WON"
     }
   },
   {
     "title": "Minecraft Dungeons II Gameplay Trailer - Minecraft",
-    "description": "Minecraft Dungeons II Gameplay Trailer  MinecraftNintendo Pre-Order Updates: Minecraft Dungeons 2 Joins September Lineup  A 90s KidEverything You Need to Know About Minecraft Dungeons 2  GameTyrantMinecraft Dungeons 2 Gameplay Trailer Confirms New Dimension  VICEMinecraft Dungeons 2 gets new gameplay trailer  Nintendo Everything",
+    "description": "Minecraft Dungeons II Gameplay Trailer  MinecraftNintendo Pre-Order Updates: Minecraft Dungeons 2 Joins September Lineup  A 90s KidMinecraft Dungeons 2 Drops New Trailer Showcasing The Sift And Its Dangers  GamingBoltEverything You Need to Know About Minecraft Dungeons 2  GameTyrantMinecraft Dungeons 2 Gameplay Trailer Confirms New Dimension  VICE",
     "published date": "Thu, 20 Aug 2026 15:05:10 GMT",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdGdmOVg5endtLUJSRmZqT1hRU1dUTUE2clBYNHF3cjFBUTNjclZYdmJZUmRfUXlWMnl0WnZFRXY2Mnd6QlRteE9FWWh4UklHZ2ZjOUdSMjFicHRURU9naXdRcHhrRjFveU1FRjVMVG8zREotZzg5MkI0cDc3Zi00RWhDRWo?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -170,23 +200,23 @@
     }
   },
   {
-    "title": "Someone already figured out how to fully control Pixel 11 Pro's 'HiLight' and make it useful [Gallery] - 9to5Google",
-    "description": "Someone already figured out how to fully control Pixel 11 Pro's 'HiLight' and make it useful [Gallery]  9to5GoogleThis App Will Make You Want to Use the Pixel 11 Pro's 'HiLight' Feature  LifehackerSomeone already fixed the Pixel 11's most disappointing feature  How-To GeekGoogle wants you to use its phones less - but I'm skeptical  Yahoo TechThe Pixel 11 Pro's HiLight feature is finally useful, thanks to this open-source app  Android Police",
-    "published date": "Thu, 20 Aug 2026 16:05:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeDZvN29SYzFvNnk0ckxlRmRuVVJ4QXBfbkNzaFRvaDEyc29TU25zdU15VzFUNVozeE5uT3NxR09sNk5hUEU1bk9kaldMT1BSbVI1R3Ayc2I1RjFxTWhwdGtLM0ZOQzVva3JMdDF6dU5KZ0F4QkxhX1dPWTN5a1NjUmNBcktBQlNoQW40T05hTkVwMWg4?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://9to5google.com",
-      "title": "9to5Google"
-    }
-  },
-  {
-    "title": "Mattel Brick Shop Announces 1:1-Scale, 3,509-Piece Original Xbox, Complete With Scenes from 3 Games - IGN",
-    "description": "Mattel Brick Shop Announces 1:1-Scale, 3,509-Piece Original Xbox, Complete With Scenes from 3 Games  IGNMattel Brick Shop™ Celebrates 25 Years of Microsoft's Iconic XBOX Game Console with New Premium Building Set  Mattel CorporateMattel Brick Shop Unveils Lifesize Original Xbox With 3,509 Pieces & Five Key Features  Pure XboxBrick Shop, Mattel’s Lego equivalent, is launching a 3,509-piece recreation of the original Xbox  Video Games ChronicleMattel Is Releasing A Full-Scale Building Brick Set Of The Original Xbox  Engadget",
-    "published date": "Wed, 19 Aug 2026 17:58:58 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORFFoNW0wZENIOTNobjlxUHVseERSYUloaG8tUUF3X0lNeldCX0J3dk1LZFZ3cUwwRFNZREpYbFJLQl9rTm1PZ2l1QUlQZG5QQzVvVUVCUjNOWE4yVmRwcmdfNVhWYllJbWZQdVZremtMZkZaZDFfUlhCZUlUQnRVM2xxZ0lOMVl0S1QwdmxvazJxS2ptVllhVk5HeWdsR2tSbFAxMFIwSVpsclMtZjNMSzROOHZtUHVyV0FibQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Arc Raiders Gets Unlikely Subway Crossover — Buy a Meal for Exclusive Outfits - IGN",
+    "description": "Arc Raiders Gets Unlikely Subway Crossover — Buy a Meal for Exclusive Outfits  IGNARC Raiders x Subway: Exclusive Subterranean outfit  ARC RaidersArc Raiders' Fast Food Promo Skins Let You Wear a Sandwich in the Apocalypse  Polygon.comand Embark Studios Announce Exclusive Gaming Partnership for ARC Raiders Ahead of Frozen Trail Release  Subway NewsroomArc Raiders Crossover Is Not What You Expect, I Guarantee It  Yahoo Tech",
+    "published date": "Thu, 20 Aug 2026 13:00:46 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQndDUTdIUGFBZWgxRVZYeTRqeFVvWF9qVDJtNXpMb1VFYzRDOVlWdDI5Y2Z2Rkxta0JYUHRLbU1ISko0cXN4SjJEMjNMMWtsNzl4bzR0UVJBTEdUczhRTDltOXpQVWhfOFFybjFVQUd4RzFpMm9MemZlVEpRVkUyNXVwUGZhaWc4MWplYVluVzRyVUMwMWs1TGxTQ29BWkxWMWdvT1lDMA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.ign.com",
       "title": "IGN"
+    }
+  },
+  {
+    "title": "Available for XBOX Insiders: Home Improvements, Local Save Game Management, and Profile Badges - XBOX Wire",
+    "description": "Available for XBOX Insiders: Home Improvements, Local Save Game Management, and Profile Badges  XBOX WireXbox Insiders are getting a wave of new Xbox Series X|S dashboard features today, here's what's new  Windows CentralLatest Xbox Console Updates Include Extremely Belated Profile Badge if You Bought an Xbox One Back in 2013  IGNFive New Console Features Begin Rolling Out Today For Xbox Insiders (August 19)  Pure XboxNext Xbox system update will give users more control of their dashboard and local game saves  Gamereactor UK",
+    "published date": "Wed, 19 Aug 2026 16:02:25 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVlpIMnN2ZGxBV1FCTWtDQ0xDaDR1Q2xtQjMxN0hLeGpmRERRNDBGT2hEUGFZbWpuTmVzYjhGYm1rbFk5LUtNckFzQ0FHdDEwejBaR0VyM1Y3d0NjUjJGMHJpaWtJUklscDBDMVFjYkptZXJ4N1E2TUg4Q295QkN4MjhhbUdsN3dqaHBmWXR30gGTAUFVX3lxTE9jVVBBYUJNWVNibWtHN0xucmljclFQSFBOTnVLcVZxS1lLc3VvNG5YYmhBZm1JSFlQOUw3Y1lVYjZtZVdoWkJGSzV5U1RUb2pWSUxUa3hKZXNmSGJHZlF2Y2lUYjdNVzJRbEdPV01KdUVpX0Zqdkhvd3l3UU9fOWVWTVdqbm9Sb3ZSazY4TVpGdXZsbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://news.xbox.com",
+      "title": "XBOX Wire"
     }
   },
   {
@@ -200,16 +230,6 @@
     }
   },
   {
-    "title": "Available for XBOX Insiders: Home Improvements, Local Save Game Management, and Profile Badges - XBOX Wire",
-    "description": "Available for XBOX Insiders: Home Improvements, Local Save Game Management, and Profile Badges  XBOX WireXbox Insiders are getting a wave of new Xbox Series X|S dashboard features today, here's what's new  Windows CentralFive New Console Features Begin Rolling Out Today For Xbox Insiders (August 19)  Pure XboxNext Xbox system update will give users more control of their dashboard and local game saves  Gamereactor UKLatest Xbox Console Updates Include Extremely Belated Profile Badge if You Bought an Xbox One Back in 2013  IGN",
-    "published date": "Wed, 19 Aug 2026 16:02:25 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVlpIMnN2ZGxBV1FCTWtDQ0xDaDR1Q2xtQjMxN0hLeGpmRERRNDBGT2hEUGFZbWpuTmVzYjhGYm1rbFk5LUtNckFzQ0FHdDEwejBaR0VyM1Y3d0NjUjJGMHJpaWtJUklscDBDMVFjYkptZXJ4N1E2TUg4Q295QkN4MjhhbUdsN3dqaHBmWXR30gGTAUFVX3lxTE9jVVBBYUJNWVNibWtHN0xucmljclFQSFBOTnVLcVZxS1lLc3VvNG5YYmhBZm1JSFlQOUw3Y1lVYjZtZVdoWkJGSzV5U1RUb2pWSUxUa3hKZXNmSGJHZlF2Y2lUYjdNVzJRbEdPV01KdUVpX0Zqdkhvd3l3UU9fOWVWTVdqbm9Sb3ZSazY4TVpGdXZsbw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://news.xbox.com",
-      "title": "XBOX Wire"
-    }
-  },
-  {
     "title": "Gran Turismo 7 Update 1.71 Arrives With Major Physics Changes & Fanatec FullForce Support - GTPlanet",
     "description": "Gran Turismo 7 Update 1.71 Arrives With Major Physics Changes & Fanatec FullForce Support  GTPlanetThe Gran Turismo 7 August Update: Four New Cars and Three Race Events!  gran-turismo.comGran Turismo 7 Online Time Trial: 6 Seven  GTPlanetGran Turismo 7 adds 10 new engine swaps, including kei car Caterham and V8 Chaser options  Traxion.GGA field guide to Gran Turismo 7’s 1.71 update, out today  PlayStation.Blog",
     "published date": "Thu, 20 Aug 2026 11:12:14 GMT",
@@ -220,13 +240,23 @@
     }
   },
   {
-    "title": "The Duskbloods' Characters Look Like A Bunch Of Total Doofuses - Kotaku",
-    "description": "The Duskbloods' Characters Look Like A Bunch Of Total Doofuses  Kotaku",
-    "published date": "Thu, 20 Aug 2026 17:15:35 GMT",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fZEo1Rmlpd2huaUJDZlN5TThoMVZOWEE2S2ZCd0FpYVMzNzRtUGNBX0c5WE1qNW5waWhRZEhiOGE3ZmdrRGlfbUJEWGdqUExSOUgxaGVKbVNlYnpBcnBleEZOWGVNcmZuTVZSVm5PLXhDZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Money Spent On South Of Midnight Now Supports Its Developers, Not Microsoft - Aftermath",
+    "description": "Money Spent On South Of Midnight Now Supports Its Developers, Not Microsoft  AftermathCompulsion Games pulls off management buyout and separates from Xbox | exclusive  GamesBeat‘We would rather eat rocks and drink gasoline than be split up’: Compulsion Games has completed its buyout from Xbox  Video Games ChronicleSouth of Midnight Developer Compulsion Games Now Gets Your Money, Not Xbox, if You Buy the Game on Steam  IGNCompulsion Games Officially Independent Again  VGChartz",
+    "published date": "Thu, 20 Aug 2026 20:24:39 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcGZ1NzlPNm9UR05hRkNFOGF4UFd0ZlhVVEcxRHFkNk05UUdpcHNBRjhQVmJuQ1NKa1MwTE5uVTJ4SGxJeFNaaTVPQTA5b29MeVhPSWNCekgzTDBQNDNqVVZtUzFfb0pFX3hPM1VGc0dnTTF6TEhfc2FUSUUxT29FMA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://kotaku.com",
-      "title": "Kotaku"
+      "href": "https://aftermath.site",
+      "title": "Aftermath"
+    }
+  },
+  {
+    "title": "25 Things From The 2000s That Millennials Got To Experience, But Gen Z'ers Will Never Understand - BuzzFeed",
+    "description": "25 Things From The 2000s That Millennials Got To Experience, But Gen Z'ers Will Never Understand  BuzzFeed",
+    "published date": "Thu, 20 Aug 2026 23:01:02 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSGUzeDlzMlllUWtOd1JQMVVyRnZ0RFQ3a0JuRGNIYURlNkctdm9meTZrZm9yYUJoZng5bWdUWGEzMVFWYWhXTFh6N05yZkRrQlo3Q1NGcjd5QVR3X3JUdTJweTFJTkJQVko0WmYzVi1COFlucXBOX1FxMVRuNnVjUzVmT1A?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.buzzfeed.com",
+      "title": "BuzzFeed"
     }
   },
   {
@@ -240,23 +270,23 @@
     }
   },
   {
-    "title": "Meta AI’s new Mac app wants you to talk to your apps - TechCrunch",
-    "description": "Meta AI’s new Mac app wants you to talk to your apps  TechCrunchMeta adds AI-powered assistant for SMB owners  Social Media TodayMeta AI Now Has A Dedicated Desktop App For Mac  EngadgetMeta's new Mac app takes aim at creators, small businesses  AxiosMeta AI is now available as a more capable desktop app for Mac  9to5Mac",
-    "published date": "Thu, 20 Aug 2026 12:11:57 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdDhQTEJnN2VjR2haXzQ5UUY3TEt4TDlmVHJBb1dCWnh2TGtBWjlURVBETXNpUTJqRHRHZ01yN1hfa1ZINVBDWWo1SWpJSk13T1RwRnBTUUZUWEx0MlBVOWh4NUFKZWU0N2tzcTRIVU1mYzNZQXlzS212eF8wTTZ3dmxpZV8xVHI0T2h4clVncw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "The Duskbloods' Characters Look Like A Bunch Of Total Doofuses - Kotaku",
+    "description": "The Duskbloods' Characters Look Like A Bunch Of Total Doofuses  Kotaku",
+    "published date": "Thu, 20 Aug 2026 17:15:35 GMT",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fZEo1Rmlpd2huaUJDZlN5TThoMVZOWEE2S2ZCd0FpYVMzNzRtUGNBX0c5WE1qNW5waWhRZEhiOGE3ZmdrRGlfbUJEWGdqUExSOUgxaGVKbVNlYnpBcnBleEZOWGVNcmZuTVZSVm5PLXhDZw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://techcrunch.com",
-      "title": "TechCrunch"
+      "href": "https://kotaku.com",
+      "title": "Kotaku"
     }
   },
   {
-    "title": "‘We would rather eat rocks and drink gasoline than be split up’: Compulsion Games has completed its buyout from Xbox - Video Games Chronicle",
-    "description": "‘We would rather eat rocks and drink gasoline than be split up’: Compulsion Games has completed its buyout from Xbox  Video Games ChronicleCompulsion Games pulls off management buyout and separates from Xbox | exclusive  GamesBeatMoney Spent On South Of Midnight Now Supports Its Developers, Not Microsoft  AftermathSouth of Midnight Developer Compulsion Games Now Gets Your Money, Not Xbox, if You Buy the Game on Steam  IGNCompulsion Games Officially Independent Again  VGChartz",
-    "published date": "Thu, 20 Aug 2026 16:27:09 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZTBwTldHdDRfMGZnUUoxcjVSQnUtN1ZZLTY0b09TYWNnU0tIeG5BNTcxN0VuQzZpQVJMdFVCSjJCQmpjc3pkX0sxMHFLcHFHUDhSbHB1YU5HZ2NGejZxZ0MzeEZmbGVmUHFrNVEtZjRWOG5PZEtYTTFRVlpQY3ZKN1RybUFkdWdxRklTNTI1MlN2OFhkWU5BdDU4OW54MFJYSk0xZFRUOGZLVVhhdnNGUHZITEo5Y2VrX3pSX05WSVlyVTVVeWY3Ulp2UUJtZEZXSDN6MVRRdjlMZXk2ZS1GdVM1b0NxUEJCNkdF?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Apple’s Camera-Equipped AI AirPods Remain on Track for 2027 Despite Video Leak - Bloomberg.com",
+    "description": "Apple’s Camera-Equipped AI AirPods Remain on Track for 2027 Despite Video Leak  Bloomberg.commacOS Tahoe 26.7 is Full of References to Unreleased Apple Products  MacRumorsAirPods with cameras not coming till 2027, won't take photos  AppleInsiderApple’s big Home product overhaul leaked in new report  9to5MacUpcoming Apple products revealed in the macOS 26.7 release candidate  Macworld",
+    "published date": "Wed, 19 Aug 2026 23:05:35 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSVVraUU4YnVxbnhZVXBveHhSdVp5MHZJVXBub0NDN2dwUFg0eGs0eWR1Ri1wMHRaMzI3UTFiZFJWU3NHb3lOZVNrX2FVaURGTFBrUlA4TmozVlZKbEt5WXFQc19kN0NjZXFYWFdWT1VUQzE4cVluXzJhaGNmM05mUERIckFRc0RhbkxCd3o1dnd3WkItdHhUY3pVeWt2c0R0dE1OYWdCbzJaaU9kRWRrVXl6cDF3YmNTVy04WV9GTnR4NWdtTHozSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.videogameschronicle.com",
-      "title": "Video Games Chronicle"
+      "href": "https://www.bloomberg.com",
+      "title": "Bloomberg.com"
     }
   },
   {
@@ -270,16 +300,6 @@
     }
   },
   {
-    "title": "Arc Raiders Gets Unlikely Subway Crossover — Buy a Meal for Exclusive Outfits - IGN",
-    "description": "Arc Raiders Gets Unlikely Subway Crossover — Buy a Meal for Exclusive Outfits  IGNARC Raiders x Subway: Exclusive Subterranean outfit  ARC RaidersArc Raiders' Fast Food Promo Skins Let You Wear a Sandwich in the Apocalypse  Polygon.comArc Raiders Crossover Is Not What You Expect, I Guarantee It  GameSpotSubway offers ARC Raiders fans a chance to earn new outfits for the upcoming Frozen Trail adventure  Nation’s Restaurant News",
-    "published date": "Thu, 20 Aug 2026 13:00:46 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQndDUTdIUGFBZWgxRVZYeTRqeFVvWF9qVDJtNXpMb1VFYzRDOVlWdDI5Y2Z2Rkxta0JYUHRLbU1ISko0cXN4SjJEMjNMMWtsNzl4bzR0UVJBTEdUczhRTDltOXpQVWhfOFFybjFVQUd4RzFpMm9MemZlVEpRVkUyNXVwUGZhaWc4MWplYVluVzRyVUMwMWs1TGxTQ29BWkxWMWdvT1lDMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ign.com",
-      "title": "IGN"
-    }
-  },
-  {
     "title": "US physical game sales drop to lowest monthly total since 1995 | US Monthly Charts - GamesIndustry.biz",
     "description": "US physical game sales drop to lowest monthly total since 1995 | US Monthly Charts  GamesIndustry.bizSwitch 2 Leads US Console Sales Slump in Worst July Since Covid  Bloomberg.comNobody’s Buying New Physical Games On Xbox In The U.S.  KotakuGaming Consoles Are Getting Wrecked by High Prices  GizmodoXbox Reportedly Makes Up Less Than 5% Of US Physical Sales In 2026  Pure Xbox",
     "published date": "Thu, 20 Aug 2026 15:20:49 GMT",
@@ -287,16 +307,6 @@
     "publisher": {
       "href": "https://www.gamesindustry.biz",
       "title": "GamesIndustry.biz"
-    }
-  },
-  {
-    "title": "Apple’s Camera-Equipped AI AirPods Remain on Track for 2027 Despite Video Leak - Bloomberg.com",
-    "description": "Apple’s Camera-Equipped AI AirPods Remain on Track for 2027 Despite Video Leak  Bloomberg.commacOS Tahoe 26.7 is Full of References to Unreleased Apple Products  MacRumorsAirPods with cameras not coming till 2027, won't take photos  AppleInsiderApple’s big Home product overhaul leaked in new report  9to5MacApple Accidentally Leaked More Than 10 New Products in macOS Update  MacRumors",
-    "published date": "Wed, 19 Aug 2026 23:05:35 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSVVraUU4YnVxbnhZVXBveHhSdVp5MHZJVXBub0NDN2dwUFg0eGs0eWR1Ri1wMHRaMzI3UTFiZFJWU3NHb3lOZVNrX2FVaURGTFBrUlA4TmozVlZKbEt5WXFQc19kN0NjZXFYWFdWT1VUQzE4cVluXzJhaGNmM05mUERIckFRc0RhbkxCd3o1dnd3WkItdHhUY3pVeWt2c0R0dE1OYWdCbzJaaU9kRWRrVXl6cDF3YmNTVy04WV9GTnR4NWdtTHozSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.bloomberg.com",
-      "title": "Bloomberg.com"
     }
   },
   {
@@ -310,13 +320,13 @@
     }
   },
   {
-    "title": "The 27\" Samsung OLED Gaming Monitor Drops to $265 for Select Customers Only, But You Can Game the System - IGN",
-    "description": "The 27\" Samsung OLED Gaming Monitor Drops to $265 for Select Customers Only, But You Can Game the System  IGNBest gaming monitor deal: Score over 40% off the Samsung Odyssey G5 at Amazon  MashableAmazon Clears Out Samsung's 24-Inch Curved Monitor at Its Black Friday Price, and It's Only August  GizmodoSamsung Launches ‘Back To School’ Deals On Many Of Its 2026 Gaming And Productivity Monitors  ForbesJaw-dropping Samsung Odyssey Neo G9 57-inch curved monitor sees hefty price cut of $650  Neowin",
-    "published date": "Thu, 20 Aug 2026 17:35:30 GMT",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43cGltUXA0aTN2TmVUSTcxNTc1V0xlS3RRTkJJMnI5aGh5ZnNCT3NjTS1wZEw1S21VX3FVVWhIV1V1LXdRY0JPcmpZTGhZeUlvMm1WTFVwMTFCV1hHdy1kdVQ5RnhNVUNxX3lGR2l6RURmdGZWTXhiajl0a0xkQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Sennheiser’s new Momentum 5 earbuds feature easily replaceable batteries - The Verge",
+    "description": "Sennheiser’s new Momentum 5 earbuds feature easily replaceable batteries  The VergeSennheiser Momentum True Wireless 5 Look Like Serious Earbud Contenders  CNETSennheiser Just Gave Hi-Fi Fans a New Genuine AirPod Rival  Gear PatrolThe New Sennheiser Earbuds Bring A Much Needed Change To Battery Life  bgr.comSennheiser Unveils the Momentum True Wireless 5 Earbuds with User Replaceable Batteries  TechPowerUp",
+    "published date": "Thu, 20 Aug 2026 10:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNUR6aFNxSExzUzJSb1l2ZUtRMHpDSHdCN1Y5T29wZXNBU2hEOWpVaDFvZVRrbmxVOWtMQTVSTjF3UG03WXRBVm1MZm9wU0p4OFJyUHQ5ZVZ0VUpuUkZGbUtfNE5hRThzWVRhMlFwSGV2cV9MU2F5Szc4S0ZQaEh1M25tVnhJbVg1SDR1S0lvbDJiaTNnVlptQVd5ZGRsZ19WcnZQdQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.ign.com",
-      "title": "IGN"
+      "href": "https://www.theverge.com",
+      "title": "The Verge"
     }
   },
   {
@@ -327,6 +337,16 @@
     "publisher": {
       "href": "https://www.purexbox.com",
       "title": "Pure Xbox"
+    }
+  },
+  {
+    "title": "The 27\" Samsung OLED Gaming Monitor Drops to $265 for Select Customers Only, But You Can Game the System - IGN",
+    "description": "The 27\" Samsung OLED Gaming Monitor Drops to $265 for Select Customers Only, But You Can Game the System  IGNThe Samsung 32-inch Odyssey G5 gaming monitor has never been cheaper — save $150 at Amazon  MashableAmazon Clears Out Samsung's 24-Inch Curved Monitor at Its Black Friday Price, and It's Only August  GizmodoSamsung Launches ‘Back To School’ Deals On Many Of Its 2026 Gaming And Productivity Monitors  ForbesJaw-dropping Samsung Odyssey Neo G9 57-inch curved monitor sees hefty price cut of $650  Neowin",
+    "published date": "Thu, 20 Aug 2026 17:35:30 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43cGltUXA0aTN2TmVUSTcxNTc1V0xlS3RRTkJJMnI5aGh5ZnNCT3NjTS1wZEw1S21VX3FVVWhIV1V1LXdRY0JPcmpZTGhZeUlvMm1WTFVwMTFCV1hHdy1kdVQ5RnhNVUNxX3lGR2l6RURmdGZWTXhiajl0a0xkQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ign.com",
+      "title": "IGN"
     }
   },
   {
@@ -350,16 +370,6 @@
     }
   },
   {
-    "title": "Geoff Keighley clarifies how trailers are selected for Gamescom Opening Night Live - GamesIndustry.biz",
-    "description": "Geoff Keighley clarifies how trailers are selected for Gamescom Opening Night Live  GamesIndustry.biz",
-    "published date": "Thu, 20 Aug 2026 19:19:08 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNmg5TGNVOGcwTG1uNWp3Qlo3Vm5MY2ZnME9yOFRXRTZaR1JUcC1ZTTZKUlV5M0hESjlfdlV2VEs2cFpLc1plcTNNVUpBdVRBTWZndDQtZzdNQkNzd0FuV3h1R1RuaC1VQTZSYlJpWTkyRWRHbnd3NHRXaHdrQlhoRmJhLXV6UDR5azh1dzlFZFRjTDhCTW5vT3VDVHlmekRGR2wwZ1dEUTYwdlZod0VmR093?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.gamesindustry.biz",
-      "title": "GamesIndustry.biz"
-    }
-  },
-  {
     "title": "Google built a camera-based tool to estimate body fat more accurately than wearables - Android Authority",
     "description": "Google built a camera-based tool to estimate body fat more accurately than wearables  Android AuthoritySeeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery  Google ResearchGoogle: Your Phone Could Soon Read Your Body Fat From a Photo  PhandroidGoogle Is Testing an AI That Can Estimate Body Fat From Photos  SammyGuruGoogle Develops AI Tool To Estimate Body Fat Using Smartphone Selfies  Dataconomy",
     "published date": "Wed, 19 Aug 2026 20:30:00 GMT",
@@ -370,13 +380,23 @@
     }
   },
   {
-    "title": "Europe cancels planned upgrades for Ariane 6 rocket - Ars Technica",
-    "description": "Europe cancels planned upgrades for Ariane 6 rocket  Ars Technica",
-    "published date": "Thu, 20 Aug 2026 21:40:52 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcDZjMWUwTGNmU0NlTV9jN25PZFdPamdaQTBZdXp6UDhqYTc1SjZHYmtPTklXUDBhZzhHTVBCS0hUM1B0LXZOdEM2ZS0xbVk2QTlFb1pkZE5fTXRUem5pUm1OblNaZjROQ1ZZVG54YWxLRmJKNnlsZ0s1SjhKOEdiX3dHVDR6ZkRxM1VjYnVmVFliR1Ri?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Geoff Keighley clarifies how trailers are selected for Gamescom Opening Night Live - GamesIndustry.biz",
+    "description": "Geoff Keighley clarifies how trailers are selected for Gamescom Opening Night Live  GamesIndustry.biz",
+    "published date": "Thu, 20 Aug 2026 19:19:08 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNmg5TGNVOGcwTG1uNWp3Qlo3Vm5MY2ZnME9yOFRXRTZaR1JUcC1ZTTZKUlV5M0hESjlfdlV2VEs2cFpLc1plcTNNVUpBdVRBTWZndDQtZzdNQkNzd0FuV3h1R1RuaC1VQTZSYlJpWTkyRWRHbnd3NHRXaHdrQlhoRmJhLXV6UDR5azh1dzlFZFRjTDhCTW5vT3VDVHlmekRGR2wwZ1dEUTYwdlZod0VmR093?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://arstechnica.com",
-      "title": "Ars Technica"
+      "href": "https://www.gamesindustry.biz",
+      "title": "GamesIndustry.biz"
+    }
+  },
+  {
+    "title": "Dark Cherry and More: Every iPhone 18 Pro and iPhone Ultra Color Rumor - MacRumors",
+    "description": "Dark Cherry and More: Every iPhone 18 Pro and iPhone Ultra Color Rumor  MacRumorsOtterbox and Astropad think iPhone 17 Pro cases will fit iPhone 18 Pro  9to5MacI leaked the iPhone 18 Pro colors. Here’s the one you should buy  MacworldApple iPhone 18 Pro Design Is Identical In Size To iPhone 17 Pro, Case-Maker Says  ForbesTechWoven is back. Leaked photos of luxury covers for iPhone 18 Pro reveals their colors  Letem světem Applem",
+    "published date": "Fri, 21 Aug 2026 00:32:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fbnVkYXY1Nm1jWHBTTmNjcWhEVFVlWWU0c2o5c1VvalBjT1pHRERGUWVsMHF3VWZzYkpyNDllZDJLdVJXcjc5NlFMMFF1UVFVQ2dOUERCZnBhejhZVG9hV3Z6NzJGeGZiRkNR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.macrumors.com",
+      "title": "MacRumors"
     }
   },
   {
@@ -400,28 +420,8 @@
     }
   },
   {
-    "title": "STALKER 2 Patch 2.0 Performance Benchmarks Surface Online - DSOGaming",
-    "description": "STALKER 2 Patch 2.0 Performance Benchmarks Surface Online  DSOGamingS.T.A.L.K.E.R. 2: Cost of Hope expansion released  Українська правдаRyzen 7 9800X3D received over 30% increase in FPS in S.T.A.L.K.E.R. 2 after patch 2.0  GameGPUGaming Review Roundup: S.T.A.L.K.E.R 2: Cost of Hope, Nioh 3 Hell Rising, The Sinking City 2  GameTyrantShould You Pick Duty or Freedom in STALKER 2: Cost of Hope? Mavka vs. Zulu, Explained  Insider Gaming",
-    "published date": "Wed, 19 Aug 2026 14:33:08 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMWRVWHY0VUZNU2hDR0prWGE0WkVwbW5vY0dUYnA1bE92OXNON2VLdDdhUDd3ejRBSVo3SGRCbDFuYVU5QXM1SE8zcnFDd0pMMWRXNThiVFBPVHlmc0gyZFhfbW9Ea0FfemdSV0NfemJIRFFXV3lWbHFMeGw5dVFLYkU2QXA0SGxiYjJTT3hXcldLdkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.dsogaming.com",
-      "title": "DSOGaming"
-    }
-  },
-  {
-    "title": "Black Myth: Wukong's Follow-Up, Zhong Kui, Looks Absolutely Stunning in New Gameplay - Push Square",
-    "description": "Black Myth: Wukong's Follow-Up, Zhong Kui, Looks Absolutely Stunning in New Gameplay  Push SquareBlack Myth: Zhong Kui Gets 15 Minutes of New Gameplay  VGChartz15-Minute Black Myth: Zhong Kui Gameplay Trailer Is Packed With Impressive Details  IGNShowa American Story  GamesIndustry.bizMost Popular 2024 PlayStation 5 RPG Drops Stunning Sequel Gameplay Trailer  Yahoo Tech",
-    "published date": "Thu, 20 Aug 2026 09:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZW9KVWlCTEUzQkN2dDBmbXliQmIwaVdQSlliWEtLUkhZSmdTZFhXUDBETk8yZ3dGc0VFMTRhdTZHdkh2M2w2SEs3dU5DVmc0d2dSbm9VNzVhOHR2aElvaXdSSG5ONGQwTHh5MHV1RHdpMW9mZVp2VUhucEJ5Rl8xd3BDRkxZQWRpZTRkRk5OaWEtUEpsNFh0dzVvUGRMMVdNY2ZXTXFTdlFSMTJFWmoyb3ZRaVNxUFpXcThEdg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.pushsquare.com",
-      "title": "Push Square"
-    }
-  },
-  {
     "title": "NVIDIA GeForce NOW adds official Firefox support, up to 1440p 120 FPS - VideoCardz.com",
-    "description": "NVIDIA GeForce NOW adds official Firefox support, up to 1440p 120 FPS  VideoCardz.comBring the Fire: Play Games on GeForce NOW With New Firefox Browser Support  NVIDIA BlogNVIDIA GeForce NOW on Firefox for Windows  blog.mozilla.orgFirefox Users on Windows Can Play GeForce Now Games In-Browser  extremetech.comGeForce Now adds Firefox support five years after Chrome, now live  9to5Google",
+    "description": "NVIDIA GeForce NOW adds official Firefox support, up to 1440p 120 FPS  VideoCardz.comBring the Fire: Play Games on GeForce NOW With New Firefox Browser Support  NVIDIA BlogNVIDIA GeForce NOW on Firefox for Windows  blog.mozilla.orgGeForce Now adds Firefox support five years after Chrome, now live  9to5GoogleFirefox Users on Windows Can Play GeForce Now Games In-Browser  extremetech.com",
     "published date": "Wed, 19 Aug 2026 11:19:49 GMT",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdUpOR3hjbkV2SEM5Y2xfMklpREQ0TTRnQ185bG42aVhyVlJZU3JnSTNWUFFZN1FBTm1BVUJVZVhTTHhkOV9vd3RXS0ZQZnhnZHQxUFRUcDQyS25ncUk1N1YyeXl2TVJWTzk0MC10aklzQzkyNEM4eFdVUUVBaWRQZ294dEI3YldmQi1rVUdXdGFrY3JpaHZmTER0bzY?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -430,13 +430,23 @@
     }
   },
   {
-    "title": "Report: Live-service removed from Horizon Hunters Gathering following negative player feedback - GamesIndustry.biz",
-    "description": "Report: Live-service removed from Horizon Hunters Gathering following negative player feedback  GamesIndustry.bizPlayStation Reboots ‘Horizon Hunters Gathering’ as Live-Service Strategy Struggles  Bloomberg.comSony Has Another Pending PlayStation Live-Service Fumble On Its Hands  ForbesPlayStation Is Reportedly Overhauling Live-Service Horizon  Game InformerReport: Sony Rebooting Live-Service Horizon After Bad Player Tests  Kotaku",
-    "published date": "Wed, 19 Aug 2026 13:55:38 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONHBsMUpPUlZTbUg1SkwwWkp2ZG9WNUpvZG50dEhhOF9UOHBVcjVlUjhfSkR1d1U4YmdMOGstaDFBRzF2Z3VDVF9qcFZWenZwVjFYVWJGdGF0YVhURkxha3BwS3RZbHN6aWF0VnY5RFp2U1FqakZZenRmYXh6aUFnN0phS1U5Q09JZTJNS2NnV1dIaDNFV0g5V3hYZDlfT04tSlgzS013VC1aNmFlV1FGZFE1YW02WGRZVVNoZ3hfRVg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Europe cancels planned upgrades for Ariane 6 rocket - Ars Technica",
+    "description": "Europe cancels planned upgrades for Ariane 6 rocket  Ars Technica",
+    "published date": "Thu, 20 Aug 2026 21:40:52 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcDZjMWUwTGNmU0NlTV9jN25PZFdPamdaQTBZdXp6UDhqYTc1SjZHYmtPTklXUDBhZzhHTVBCS0hUM1B0LXZOdEM2ZS0xbVk2QTlFb1pkZE5fTXRUem5pUm1OblNaZjROQ1ZZVG54YWxLRmJKNnlsZ0s1SjhKOEdiX3dHVDR6ZkRxM1VjYnVmVFliR1Ri?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.gamesindustry.biz",
-      "title": "GamesIndustry.biz"
+      "href": "https://arstechnica.com",
+      "title": "Ars Technica"
+    }
+  },
+  {
+    "title": "Black Myth: Wukong's Follow-Up, Zhong Kui, Looks Absolutely Stunning in New Gameplay - Push Square",
+    "description": "Black Myth: Wukong's Follow-Up, Zhong Kui, Looks Absolutely Stunning in New Gameplay  Push Square15-Minute Black Myth: Zhong Kui Gameplay Trailer Is Packed With Impressive Details  IGNShowa American Story  GamesIndustry.bizBlack Myth Wukong sequel gets a 15-minute gameplay trailer  NeowinBlack Myth: Zhong Kui Gets 15 Minutes of New Gameplay  VGChartz",
+    "published date": "Thu, 20 Aug 2026 09:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZW9KVWlCTEUzQkN2dDBmbXliQmIwaVdQSlliWEtLUkhZSmdTZFhXUDBETk8yZ3dGc0VFMTRhdTZHdkh2M2w2SEs3dU5DVmc0d2dSbm9VNzVhOHR2aElvaXdSSG5ONGQwTHh5MHV1RHdpMW9mZVp2VUhucEJ5Rl8xd3BDRkxZQWRpZTRkRk5OaWEtUEpsNFh0dzVvUGRMMVdNY2ZXTXFTdlFSMTJFWmoyb3ZRaVNxUFpXcThEdg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.pushsquare.com",
+      "title": "Push Square"
     }
   },
   {
@@ -451,12 +461,22 @@
   },
   {
     "title": "LG’s new OLED breakthrough can boost display lifespans - The Verge",
-    "description": "LG’s new OLED breakthrough can boost display lifespans  The VergeLG Display Unveils FLiPP, Next-Generation OLED Technology  TechPowerUpLG's New OLED Manufacturing Tech Can Make Panels Bigger And Brighter  EngadgetOLED Screens Are Finally Defeating the One Thing Holding Them Back  GizmodoThe Galaxy Z Fold 9 might be the first to solve the worst visual flaw on foldable phones  PhoneArena",
+    "description": "LG’s new OLED breakthrough can boost display lifespans  The VergeLG's New OLED Manufacturing Tech Can Make Panels Bigger And Brighter  EngadgetLG Display Unveils FLiPP, Next-Generation OLED Technology  TechPowerUpThe Galaxy Z Fold 9 might be the first to solve the worst visual flaw on foldable phones  PhoneArenaOLED Screens Are Finally Defeating the One Thing Holding Them Back  Gizmodo",
     "published date": "Thu, 20 Aug 2026 09:11:26 GMT",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYWdLOXptWTNZTUFNNTVDdXJKWG1IUW5UTXMzckM5dWVxR0lCR2l2NlJrVl9Fa0l4V1BRek1WdDVoLVFGSlUwUEVWYmI2TzZHRXZxd2w0UHBNbldmMk04Tkpra24tZWh1a3R5UXMzYnlYVXZDVnNuQmEyVkYwYk9jag?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.theverge.com",
       "title": "The Verge"
+    }
+  },
+  {
+    "title": "PlayStation Reboots ‘Horizon Hunters Gathering’ as Live-Service Strategy Struggles - Bloomberg.com",
+    "description": "PlayStation Reboots ‘Horizon Hunters Gathering’ as Live-Service Strategy Struggles  Bloomberg.comSony Has Another Pending PlayStation Live-Service Fumble On Its Hands  ForbesPlayStation Is Reportedly Overhauling Live-Service Horizon  Game InformerReport: Sony Rebooting Live-Service Horizon After Bad Player Tests  KotakuHorizon 3 Only Has a 'Tiny Team' Working on It at Guerrilla, Reportedly Still Years Away  IGN",
+    "published date": "Wed, 19 Aug 2026 12:24:54 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWVZGcl9hU09sMnQyU0toaVQzZVcwNTAzQnZUVWNnMmQ3UlJJUjlrcjYxZlQwdDNOYWtYODBiTXh1dDNXbzBNdExFSzBRT3BtZ25XVEg3N2NBTHViU1JKRklBbTNBY1MyaHBVczRfei1DQmw3UDd2Y2llTGtkSmpxN0VXMGYtWHdRNkxjUHpEWVhrX2dRYzNKRkFRX01UbzNDbWlSNnVsUlJUeGUzSmdPSUtZOWdGNWI0cTJkLXRfUmZ6RGo5REJBek5Tdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bloomberg.com",
+      "title": "Bloomberg.com"
     }
   },
   {
@@ -470,6 +490,16 @@
     }
   },
   {
+    "title": "iPhone Ultra trade-offs: The biggest things you’re not getting versus iPhone 18 Pro - Tom's Guide",
+    "description": "iPhone Ultra trade-offs: The biggest things you’re not getting versus iPhone 18 Pro  Tom's GuideNo iPhone Ultra next month? Best news I've heard in a long time!  PhoneArenaiPhone Fold Price: What You Get For That Extra $500  ForbesNew iPhone Ultra leaks cover release timing, availability, and name  9to5MacWall Street is starting to warm to Apple’s $2,199 foldable gamble  thestreet.com",
+    "published date": "Wed, 19 Aug 2026 07:15:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQXNsdndvWlFobDA5dDU5ZGRycTZHaHYtQWF2QWpHUzllY1F2VUgzSHZtVmJDRm0yRi00b0xFRXFudzJfVmRBV1RlcVJJaHBubEpKTUN6Yk42MlJRejBsbEZGNDJxN1pyYkNlREltTGdZRGZfbjAzaFVYSU4zSXRNR09RUi1ISy1yS0VjNnM2WWYyUHhyblVkeW0wUHhlMkJwVXpxckhHMUplOWhMS2xaanJVcTRqelB0RWxzSnp5MA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.tomsguide.com",
+      "title": "Tom's Guide"
+    }
+  },
+  {
     "title": "In Big Walk, players just walk and talk – and find joy along the way: ‘Some stories we’ve heard are punch-in-the-gut beautiful’ - The Guardian",
     "description": "In Big Walk, players just walk and talk – and find joy along the way: ‘Some stories we’ve heard are punch-in-the-gut beautiful’  The GuardianBig Walk’s Ending Delivered A Gut Punch I Never Saw Coming  GameSpot2026’s Best Horror Game Isn’t Even A Horror Game  Yahoo TechBig Walk Isn’t “Friendslop,” It’s “Friendgourmet”  Gamer MattersUntitled Goose Game studio turns Victoria into a playground  ABC News & Headlines – Australian Broadcasting Corporation",
     "published date": "Wed, 19 Aug 2026 15:01:00 GMT",
@@ -480,13 +510,13 @@
     }
   },
   {
-    "title": "iPhone Ultra trade-offs: The biggest things you’re not getting versus iPhone 18 Pro - Tom's Guide",
-    "description": "iPhone Ultra trade-offs: The biggest things you’re not getting versus iPhone 18 Pro  Tom's GuideNew iPhone Ultra leaks cover release timing, availability, and name  9to5MaciPhone Fold Price: What You Get For That Extra $500  Forbes'iPhone Ultra' to 'Repeat' the iPhone X Story  MacRumorsAre People Really Expecting Apple's First Foldable iPhone Next Month? CNET Readers Chime In  CNET",
-    "published date": "Wed, 19 Aug 2026 07:15:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQXNsdndvWlFobDA5dDU5ZGRycTZHaHYtQWF2QWpHUzllY1F2VUgzSHZtVmJDRm0yRi00b0xFRXFudzJfVmRBV1RlcVJJaHBubEpKTUN6Yk42MlJRejBsbEZGNDJxN1pyYkNlREltTGdZRGZfbjAzaFVYSU4zSXRNR09RUi1ISy1yS0VjNnM2WWYyUHhyblVkeW0wUHhlMkJwVXpxckhHMUplOWhMS2xaanJVcTRqelB0RWxzSnp5MA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Free Play Days – Train Sim World 6, Icarus: Console Edition, and Lynked: Banner of the Spark - XBOX Wire",
+    "description": "Free Play Days – Train Sim World 6, Icarus: Console Edition, and Lynked: Banner of the Spark  XBOX WireFree Play Days: Try These Xbox Games For Free (August 20-23)  Pure XboxThe Gears of War: E-Day PC Beta Reveals Extreme Detail, Slightly Troubling Performance  Digital FoundryGears of War: E-Day Multiplayer Beta Opens To All, No More Room In Hell 2 and Hell Let Loose: Vietnam Launch This Week With DLSS 4.5  NVIDIAThree new games join Xbox Free Play Days for the weekend  Neowin",
+    "published date": "Thu, 20 Aug 2026 15:02:25 GMT",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEdTJGZzBrREdQMDZsWVZ1UmRWclpqSldLQnpMdFdFQzNjUjZHeXI2azZtVkdvZGRWbktNOGtEbkJVeFA5UC1iRDVPMzIyWDJub2djbkN2bmVwQkczaFVTZ2d1Umk3NmlPeTZSWU9wTHJ2OE3SAXhBVV95cUxOMTNLY3NNbm1jLXItN09tT1ZoQVhucVQyVGVwNXh5YWtFWDU1VlJaMFNNMEloaUdwTWJaUWF2b3Fja0NpbDQ1clBhZ3ZBeS1NQ0wtZVo3UkYzTlJ2di1yX0tUNml6azEyNENDOUkwcFNHajF1RTJ6U0E?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.tomsguide.com",
-      "title": "Tom's Guide"
+      "href": "https://news.xbox.com",
+      "title": "XBOX Wire"
     }
   },
   {
@@ -510,13 +540,13 @@
     }
   },
   {
-    "title": "Google’s Pixel Watch 5 is promising — but it isn’t finished - The Verge",
-    "description": "Google’s Pixel Watch 5 is promising — but it isn’t finished  The VergeGoogle’s Pixel Watch 5 Pumps Up Its Fitness Smarts  WIREDGoogle Pixel Watch 5 vs. Apple Watch Series 11: Which $400 Smartwatch Is Worthy of Your Wrist?  PCMagPixel Watch 5 vs Galaxy Watch9: Price, Battery, Features Compared  TechRepublicTrack subtle changes in your body with Health Guardian features on Pixel and Fitbit  blog.google",
-    "published date": "Wed, 19 Aug 2026 16:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMk1FWWRkS3BBVWpRdEVfampOSnB4OE5EYWQtbGlteWVFdEU1YmZWLVh3ejM1MzN6V25rNTB4NDg1a0x0Y0FONjRhTU1tb2lZc2ExWldBaWQ4YlQwX245U0d5emtVMTRWdEMtMzQwLUFLN2VxSVdLRkR5UWljbXp5WXdKV01BNE5tX01iaDBn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Google’s Pixel Watch 5 Pumps Up Its Fitness Smarts - WIRED",
+    "description": "Google’s Pixel Watch 5 Pumps Up Its Fitness Smarts  WIREDPixel Watch 5 vs Galaxy Watch9: Price, Battery, Features Compared  TechRepublicGoogle Pixel Watch 5 Hands-On: Most Accurate GPS Watch Ever?  DC RainmakerGoogle Pixel Watch 5 vs. Garmin Fenix 8 Pro: Which has more accurate GPS?  ZDNETTrack subtle changes in your body with Health Guardian features on Pixel and Fitbit  blog.google",
+    "published date": "Wed, 19 Aug 2026 16:34:24 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lWTFFbHlqTGNLdVM3cGlQRFpvRTg1M1JFZWVIUk9HM25XejhINERTeEZ5SkpMc1hrQnpYU2lFQmR1NUw4QUtudkQxZFJxM1JIZ0lyRERnOWVObF9CMlVz?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.theverge.com",
-      "title": "The Verge"
+      "href": "https://www.wired.com",
+      "title": "WIRED"
     }
   },
   {
@@ -524,16 +554,6 @@
     "description": "Google Pixel screen savers add new styles and iPhone-like switching [Gallery]  9to5GoogleIf You’re Getting the Google Pixel 11, Grab the Pixelsnap Charger for 50% Off, Too  CNETPixel 11 lineup adopts 25W Qi2 wireless charging across the board  Yahoo TechBest Google Pixel 11 Pro XL fast chargers  PhandroidPixel 11 adds new Screen Saver features, including a new style that's impossible to ignore  Android Authority",
     "published date": "Thu, 20 Aug 2026 18:40:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNHdaRnc0LWNEdFowSUliVW4zVlNacHdVaG5NVXV5RUxrR3prcTZWRVB3ZWdHM1NMUDBzOXhMeDJQaXBvNXp5bzBrUjROSU00aFlydF9vXzM4S2RELVg3TnRTRHRBZFRDNzhJZ0pIWldHUlIxZTNuZVVpMW1JWWdpeU9OUTA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://9to5google.com",
-      "title": "9to5Google"
-    }
-  },
-  {
-    "title": "Google rolling out new gradient AI ring for subscribers on Android, web - 9to5Google",
-    "description": "Google rolling out new gradient AI ring for subscribers on Android, web  9to5GoogleGoogle's rolling out an AI-themed visual tweak for paid accounts  Android AuthorityGoogle Brings New Account Photo Design to AI and Google One Subscribers  Gadgets 360",
-    "published date": "Wed, 19 Aug 2026 16:35:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5WTdFT2x5d1NHb1VuNktZM0lpbXVKWUFDdURsVUFVemdCVjdoV1dEZEZsQmJzRURPUEdvSGhFQWJTSVE3Vm5LTm9PcmxiRC1PMW5GVjhhUzdsNjVLa1RjcjhKOHZmdHJjVFE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://9to5google.com",
       "title": "9to5Google"
