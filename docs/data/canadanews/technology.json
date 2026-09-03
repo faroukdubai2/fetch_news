@@ -1,1 +1,702 @@
-[]
+[
+  {
+    "title": "pnpm 12 Rewrites Package Manager in Rust, Accelerating Installs While Preserving pnpm 11 Workflows - infoq.com",
+    "description": "pnpm 12 Rewrites Package Manager in Rust, Accelerating Installs While Preserving pnpm 11 Workflows  infoq.com",
+    "published date": "Thu, 03 Sep 2026 11:23:11 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuSXR2UzBTTHhPX3Y1dHJVVmljYzBpTUljYXQ2OFFjS3d3bk5fblVPSkRabTJYVGFLVjNQd0xXNHlCc193VHBIbVFIR2pzRzZSWVEybDB2RGt1WmhY?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.infoq.com",
+      "title": "infoq.com"
+    }
+  },
+  {
+    "title": "Everything Announced At The September 2026 PlayStation State Of Play - Game Informer",
+    "description": "Everything Announced At The September 2026 PlayStation State Of Play  Game InformerState of Play & State of Play Japan return on September 3  PlayStation.BlogState of Play September 2026 — All the Gameplay, Trailers, and Announcements  IGNEverything Announced During The PlayStation State Of Play Double Header  EngadgetEverything We Saw At PlayStation’s September State Of Play  kotaku.com",
+    "published date": "Thu, 03 Sep 2026 15:38:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYVRuZG1MM0kySjVEUk41VWFMZ0FWWmN6Q1ZqY2RsSG1wN3BFdnZ0VUNoUnpVVWVKSkFVd0VJUk9QYXl0eVBjZXRwbFd1al9nQXRtSFdnUGlsREREc0J4U01EUUVZTDhjR1AtMmdhMU1KbmQ3Vk1MRzdBVUd1d3RVdU04Q0ZwNUVxaFZmd0llM0NnX3VJRUwwZE10U3B5dXNvaWxZWTZEc3NJSXJxRTg2ZllNNk5TUWVqYVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://gameinformer.com",
+      "title": "Game Informer"
+    }
+  },
+  {
+    "title": "Grand Theft Auto 6 Is Getting a Pair of Limited Edition PS5 Controllers - IGN Nordic",
+    "description": "Grand Theft Auto 6 Is Getting a Pair of Limited Edition PS5 Controllers  IGN NordicSee more headlines & perspectives on Google News",
+    "published date": "Thu, 03 Sep 2026 14:20:10 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUG5VSXNYRHYzOXVodDFtaTJlZXVXNkxxanZEcTVvVUdWQTZaeHZzelpEZnhGLWFHR1dOR096UzdtS3JtTFNIRnB0WUd5TnpFdmpJYWlFSDgyRW9VZEJETmY4UlhaUG5aX21lcDJPYk1LSkFsYklLcHlEV3NBaW1KT0JlLVVwUWNMWTJQclk0YWgwTkxNX2xvSEpEZkltR3ZjMHZZYW9wN2pXckxHVGJDa2Utbmg4ajBQOVJhWktn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://nordic.ign.com",
+      "title": "IGN Nordic"
+    }
+  },
+  {
+    "title": "Senior township official retiring - The Spec",
+    "description": "Senior township official retiring  The Spec",
+    "published date": "Thu, 03 Sep 2026 17:34:37 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd1hGX0J4ZmFuRG9Tb1RxVWNJZ1BEWHd5QmlQNFVWcTdQdVdVTkVtZDlCVC10d254YXMyQkg4Y1d2N2JpWHRUeUlzRnhwcjVHN2lWajhUNUlJQ3J6QjRGSFc3YXhaZkI2Sy1iRVdhakotb1NDbUFsNDFGbnM5cVAzSEFvVjY0LXVxNXI4OWZ6TWlSSXhUbU5WRGlUR0ZkYlBHRlBGYkhONzFraFVIOUFrMFpzN3pJOXlVdEVv?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.thespec.com",
+      "title": "The Spec"
+    }
+  },
+  {
+    "title": "A bit of Hollywood comes to Uxbridge - The Record",
+    "description": "A bit of Hollywood comes to Uxbridge  The Record",
+    "published date": "Thu, 03 Sep 2026 17:31:33 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZVd6ZXEzTVBkODk4aFozQmgySVBjcG9LMVd5ZXEyekFXanRlMGh1cXJYanplQWxfb2VRMkE2eFRGR0lqcFU0Ym5TQTl0QWRRY184SmhvME9sRVFGT2plX0FtbUxJclVHUFZDQWducWY3bURUdWJhdnJBbS10MTloYnNOQnZFVE1wOVhpblpyZG5zS0t2Mm4yd0NtTktQWm5sSi1VTHV6al9BRzljaUhhZ1RBR2tGS1VrTVRkYkZQNjk1UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.therecord.com",
+      "title": "The Record"
+    }
+  },
+  {
+    "title": "When less is more: How to taper for every distance - Canadian Running Magazine",
+    "description": "When less is more: How to taper for every distance  Canadian Running Magazine",
+    "published date": "Thu, 03 Sep 2026 16:48:26 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNU4zZmluVk1CQ0JXM2VsRUFVSDdLMlZId05lOERUYWxWS2twSkVMQnBvNUlBSzhPcUFFekt3RDc5NTBCV0VQMGFzZzFOWGJGcHE1T3Y0WlhTY3hKX3B2Tll6ZzBSaDMwMGFKdzJLQV9sQy13eU1ETUNjYkRMUmRjMEVPS2ViZjdHVGZhRFNnU2hIQURYR0R6bm01cw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://runningmagazine.ca",
+      "title": "Canadian Running Magazine"
+    }
+  },
+  {
+    "title": "Samsung is on a roll - One UI 9 beta update coming to 10 more Galaxy devices - GSMArena.com news - GSMArena.com",
+    "description": "Samsung is on a roll - One UI 9 beta update coming to 10 more Galaxy devices - GSMArena.com news  GSMArena.comSamsung Galaxy S24 series owners surprisingly get One UI 9 beta update too - GSMArena.com news  GSMArena.comGalaxy S24 FE One UI 9.0 beta update goes live  SamMobile",
+    "published date": "Thu, 03 Sep 2026 11:02:02 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTzdReUUtUWVxXzNEZU5uTE82OWhwRWxFZlhDVU9LUEptZmdnRDNOcXIyR0xwOHFhYmpScjEyX29Ba0pJdkY4VkprckVwNk5Pc3pnU1pGV0pDb0ZYdWx0TVVqcC0tNUxNQzJhaWJ3NUMtTVkxR0c0Z0Nnd0ROUHQ1RHJRaWc3Um5vWFFQMHNDZ9IBiwFBVV95cUxONGZMXzZIX0NxV2FyZmJ3Rm13enIwakhETmN5Q01CbW03ZXhxV0ROX21hcFpCdVcwN1JEcnJXTFpYb25UY3hmTXY4UHNmSnBXM3BBblk0UE1wNkZaQnRTQ3JYdFdFVWZtZHdTUXdGLW44bVdrTFdORktYd05fbzBtNVpUY2oxTTh1QlNn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.gsmarena.com",
+      "title": "GSMArena.com"
+    }
+  },
+  {
+    "title": "Bruker Announces Major Advances in Detector Technology for Semiconductor, Thin Film, Energy Materials and Nanostructure Characterization - AZoM",
+    "description": "Bruker Announces Major Advances in Detector Technology for Semiconductor, Thin Film, Energy Materials and Nanostructure Characterization  AZoM",
+    "published date": "Wed, 02 Sep 2026 11:21:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZcm1Lamp2UVpBUlJ5M1hYbzI5cWRxX0FZSDlUMndNV3ExLUNkWlgyZHFfZmhBRDZKcWNNOE1reE04MWRhcTlxRFdDekp2dDJQS3VrUDZ3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.azom.com",
+      "title": "AZoM"
+    }
+  },
+  {
+    "title": "Microsoft to impose time limits on Xbox cloud gaming subscribers as costs continue to climb - CNBC",
+    "description": "Microsoft to impose time limits on Xbox cloud gaming subscribers as costs continue to climb  CNBCUpcoming Changes to XBOX Cloud Gaming  XBOX WireMicrosoft is introducing hourly limits on Xbox Cloud Gaming very soon  Windows CentralXbox Game Pass cloud gaming hour caps start in November  qz.comGame Pass streaming limits are coming: 15 hours a month, but you can pay for more  pcworld.com",
+    "published date": "Thu, 03 Sep 2026 17:00:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KNXpZOERfQmJsdnNOeGhfdC1HMy1pVGVkNG1KSEdPeVRTTHA0VGVBdXg5X0hoU2hCa2p2YUc3QlVsZU03NGJVQ0xzQWtJOTZUbFZudE9CZnJsVEh5VkhuZlZaMHJtQ0xNck50NnZvM0R3ODdCdnFlZVVOWklHa1HSAYQBQVVfeXFMUHJIMjJJaGo5c25zcDg1VDVFZVBteTh0UGp2a2xnR0hLYkdkQUZxZXZNZFdzRFVNM1VDeG5nRFkxQnJ3eWtnLUFvWktIVXRjclhZQnRSSldNQXA4c1VjLThDdVd4R0RSY1B0ZUU0OWtfRWZMTzctTHpjcDFqcG5Ra0ZwRGwx?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cnbc.com",
+      "title": "CNBC"
+    }
+  },
+  {
+    "title": "Huge ‘Crimson Desert’ DLC And Imminent Release Date Revealed - Forbes",
+    "description": "Huge ‘Crimson Desert’ DLC And Imminent Release Date Revealed  ForbesCrimson Desert's upcoming DLC decides it's The Sims now, I guess  PC Gamer",
+    "published date": "Thu, 03 Sep 2026 14:08:59 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMGJyelJXaXRqdWdJTm9obW8zTzNSQTBaQ01hOTNweE5TamF5bXZjRUJ0UG0zUWZSaExscnBLZWpvZm1qelh6UzlsTHVSdWphUllTcXpqUWVUdEtJM0MySlpLZFl6eE9IYzk2bVdBUHRLZ1VNYVVOQ3V4cG5EWU0xcHVCeGYySnlneXpXdmx4Ql8zQU1Qekp4R0lhMXZsMEVoNGFoMTRFenVvOUVPU1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
+    }
+  },
+  {
+    "title": "Aurzen Launches EAZZE E1 and E1R at IFA 2026, Bringing Smart Big-Screen Entertainment to Everyday Spaces - newswire.ca",
+    "description": "Aurzen Launches EAZZE E1 and E1R at IFA 2026, Bringing Smart Big-Screen Entertainment to Everyday Spaces  newswire.ca",
+    "published date": "Tue, 01 Sep 2026 15:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaWxJS0hISE5QWDBkdTFjLVM3ekRuODcwYlNwUXNRbTZaY2t5RmRvcjJiR2lLclFLOVNtdVRwQ0VfZEtJb21ZMkJvMFRnYXBoa3J2RDBZREVxZ0l0MTNOeG5SbEtKRzg3SUtVWm9Ndldfa1J2TnBKc0Z5T3poc3ZMczRWRHJtQ1RzdDk0SldidlI1R3JhUHR5bC1NV2lWVFV1VXRMVDFEWTRXenhDZFQ3dlRxQzNZclVRLWNrc09YQ0xFOWpnUDdVbXZ0YVk0ZUFBYXQ5TG92QzF4WnB3b3Y4OUJhaUgwTFFwQXFsZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.newswire.ca",
+      "title": "newswire.ca"
+    }
+  },
+  {
+    "title": "EarFun Unveils Flagship Wave Pro X Dual-Driver Qualcomm ANC Headphones - Forbes",
+    "description": "EarFun Unveils Flagship Wave Pro X Dual-Driver Qualcomm ANC Headphones  ForbesEarFun Wave Pro X review: dual-driver sound, adaptive ANC, and 90-hour battery life  RouteNoteEarFun Wave Pro X Headphones Review  Comics Gaming Magazine",
+    "published date": "Thu, 03 Sep 2026 10:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORzc5MXVHUmd2MDlFWXB4dnU4OUhhMzl5SWttU2tOQl9PZ1pKbUx1YzdiaE01Q0RaUEE3NlFjaTRDRnhGQlZDbHFQVDF6dS04MUZHNTM1X0NYY3VPOUY1Y016TFJOdFo1ZG9FOTlJNlQ3VzVHNEVEM1N2ZHBGTm5qcVlWeEV2dnY0RlZzTEVXQmtEa0VmeXRYMzRobXMyd0tkYjRCUkVvWTNmcEpVeWpHRkZaektoRElVdUVMbzhIX1I?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
+    }
+  },
+  {
+    "title": "Gundam: Rogue Orbit Game's Trailer Reveals March 2027 Release - Anime News Network",
+    "description": "Gundam: Rogue Orbit Game's Trailer Reveals March 2027 Release  Anime News NetworkGundam Rogue Orbit Game’s Release Date Set in New Trailer  crunchyroll.comGundam Rogue Orbit launches March 5, 2027  Gematsu",
+    "published date": "Thu, 03 Sep 2026 16:05:33 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdENSSHdic05VLWtyZW1TNjBaYVhFWGNrZkhJSklJbF9uYUhCenJLbFhvUTVtMFZSY25YWW9IU25jTkotZmJtRTZjdXJkYkZkYmNJeWZ6TF85Z014N2wzenRJN2ZENDhIYUFabVhvSE5fdy1aVm1wakgtNUc3TXc2WnB1VFR0V1lvZjF4RDV6TU5URW1FSVdGajRodmRoTDI3UEZubTBMQ2xkN2hCYXRmMUNOR3NPZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.animenewsnetwork.com",
+      "title": "Anime News Network"
+    }
+  },
+  {
+    "title": "Scott goes against the racing grain with new Addict Gravel bike, reducing stiffness and adding comfort instead - Cyclingnews",
+    "description": "Scott goes against the racing grain with new Addict Gravel bike, reducing stiffness and adding comfort instead  CyclingnewsScott's new Addict Gravel is built for gravel riders, not gravel racers  Escape CollectiveThe New Scott Addict Gravel Leans in to Modern Gravel Racing with Big Tires and Stable Geometry  Outside Magazine",
+    "published date": "Thu, 03 Sep 2026 14:08:24 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWnY0LXpOUWEyd2s2cHR1eVVEX0VGTDFwT3M5ZEVQdnV3bF9UR0phSUNfSGpNRWFyRUhfekdCV0J6VWY1TmVZYTBNRnhNakZGLUlVYjNNM3pYRk56aGxKMHdKTUU0UVEyMExBX21KS2pXTTZEaDZtOG9IdFh0bkl0bTB3dE50YnFJVWFtNDdSUk5kZXh0bFZBOVNHd1FLVUdZSlAxVEZ5eDVsaGJNZzcwREFCeUtRRXROeXYyUUhkMTFFXzlNOC1yVV91RFdWZm1MZWpLZG8wZUFjOHE3N3d4RzI0MTNidw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cyclingnews.com",
+      "title": "Cyclingnews"
+    }
+  },
+  {
+    "title": "Firm 'minimising disruption' during 5G rollout - Yahoo News Canada",
+    "description": "Firm 'minimising disruption' during 5G rollout  Yahoo News Canada",
+    "published date": "Thu, 03 Sep 2026 10:34:18 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObHJpUUIxbDAzaWo0MjN5WUtaVEJKYlNCVXlDeVBCTGJ1TkE5cllLRXBKWUY3Q2ZWMVBpNmY5TUlNR19NOGN4MDNLellIVDVoRzlUQ3NUNnJaVlM5YkRyMnBjek1ZVUYyVUxDUk5aVFo4dmFubnpPTHk5X2RITUVoSFU2MA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://ca.news.yahoo.com",
+      "title": "Yahoo News Canada"
+    }
+  },
+  {
+    "title": "MY HERO ACADEMIA: All's Justice welcomes Izuku Midoriya Overlay Full Style - Bandai Namco Europe",
+    "description": "MY HERO ACADEMIA: All's Justice welcomes Izuku Midoriya Overlay Full Style  Bandai Namco EuropeMy Hero Academia: All's Justice Game Adds DLC Character Izuku Midoriya Overlay Full Style  Anime News NetworkBandai Namco Is Bringing My Hero Academia: All's Justice To Switch 2  Nintendo Life",
+    "published date": "Thu, 03 Sep 2026 08:13:46 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSVRaTUVnaEh2dkJJeGxZR25MV2h1Q0luSUZVVnduQlJQbzJEd0hyM2Q0RXY1MHMzcFpsN201Rm1TcEhyQnIyaVM4M3pLV0lxMjlOMkxMWGxQd0pSN1FOd3U1LUJMQjNyQkRUdFYtaWtyZ2RyWmVHOWpsczNNQ2FGX1ZCRGhaQnJ5MjBDZGZPXzJnVlhhLW5HLXJXZEYzNHBHcjktQmpXNGx4QnFMOFp4aFNFaEU1RGoxbnRPbzdubGk?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://en.bandainamcoent.eu",
+      "title": "Bandai Namco Europe"
+    }
+  },
+  {
+    "title": "Iconic flip design meets unmistakable artistry: new motorola razr with Crystals by Swarovski® joins the Brilliant Collection - newswire.ca",
+    "description": "Iconic flip design meets unmistakable artistry: new motorola razr with Crystals by Swarovski® joins the Brilliant Collection  newswire.caSwarovski has bedazzled the Motorola Razr (again).  The Verge",
+    "published date": "Thu, 03 Sep 2026 16:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOY1BhQmJmSTByakx1Y2ZwVXA5cklWVGpKQm5kbVkwMGdPa2YtZVlBLUc5VUozS1EzaFNZZ05OQjg4bENsYnc5Wm1DaGlxOUhoUndfamNhdzBIVkkzZHJMa29GVlNCN1FaOGxhcjZvWUUwUl9LNXZwTUtfc3pjY3ptQ3pJZmlaMUlCeFprU1NfNTZ5ZWRyX0lfSVd2UWtYelhpTFB5dzkzWk14RWxodWxDekxwQXYzMXJyZnRGZ0lmVVBYdUZLTHNzMWM4T29xbkt1aU5rcm9VYlVELVZBanJwdko2cVhSSF95R0pyOXZVTl91cUlHU1NNUzR6NmNoQU9vQWFyVVFOZnU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.newswire.ca",
+      "title": "newswire.ca"
+    }
+  },
+  {
+    "title": "Motorola unveils Edge 70 Plus, Watch Ultra, Swarovski Razr 70 at IFA 2026 - GSMArena.com news - GSMArena.com",
+    "description": "Motorola unveils Edge 70 Plus, Watch Ultra, Swarovski Razr 70 at IFA 2026 - GSMArena.com news  GSMArena.comMotorola debuts the moto watch ultra at IFA 2026  newswire.camotorola debuts the motorola edge 70 plus, moto watch ultra and moto snap wireless charger at IFA 2026  Motorola News",
+    "published date": "Thu, 03 Sep 2026 16:17:03 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUGxETWxORkFIbGU4cXRjc0xCYlJscGhJMERRcEdLRFBReHFtX3Q4anJfYl92d0V5a0traEhuOE1ITFhLa1pIdUdXeXVZU1F5Ni11ajZUMjRHQ0lWZzRFeXA1UWxmMnI5WUtzVzZ3aG96X2VSNWM5MEl0MWlMY3p4cy16OGNuYVV0WDA2amxteU1HSkR5MmZQZDJ0QlZtcHFpbFdBTUZDMS1kY1dYMDJlWdIBrAFBVV95cUxNZHFWbEJmV092STcxRW16YlFXZ3dSemsxdGIyYnNXd3JHSnBOb3Q0TzlZWm9QZUJoWGF0dm5NckZNMFZaSS1ubXZ3NGhFX1M1b1l1WU16a3FLblNnNjBpems2ekc2RmR6cGxHbjBzWmFHUmJ1Q1p5UWNSTnpjZ3I0OXhpdE1ubGItUlQ5ekxaRGxfVmFKdks4QWZHcEl0bzJ4VnJrbldpRHFuSk43?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.gsmarena.com",
+      "title": "GSMArena.com"
+    }
+  },
+  {
+    "title": "Anker is combining its Eufy, Soundcore, and brands into two ‘Anker’ groups - 9to5Google",
+    "description": "Anker is combining its Eufy, Soundcore, and brands into two ‘Anker’ groups  9to5GoogleAnker’s MindBase Wants to Be the Smart Hub for Your Life  GizmodoAnker’s Eufy Strides Into IFA With a New AI Ecosystem and Devices to Match  CNETAnker’s new MindBase is an AI-powered brain for your smart home  The Verge",
+    "published date": "Thu, 03 Sep 2026 14:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5tS0tzeGtnVXdHYW5EQmQ0bDZCdHg5ZmlGeW1POVR5ZWdnOXpGcUJMVmRza0hzWjNyS1dZTFVNYlhyeWR1RHFubXdWT204d0ZNaWs3WVEydHkzcUZmTHhiQXU2UXdraGJwVXhINHdPRE9TcU9OdmkxNVhR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://9to5google.com",
+      "title": "9to5Google"
+    }
+  },
+  {
+    "title": "FINAL FANTASY VII REVELATION Releases April 8, 2027, on Physical and Digital — Experience the Thrilling Conclusion on All Platforms – Company Announcement - FT.com - Financial Times",
+    "description": "FINAL FANTASY VII REVELATION Releases April 8, 2027, on Physical and Digital — Experience the Thrilling Conclusion on All Platforms – Company Announcement - FT.com  Financial TimesFINAL FANTASY VII REVELATION RELEASES APRIL 8, 2027, ON PHYSICAL AND DIGITAL — EXPERIENCE THE THRILLING CONCLUSION ON ALL PLATFORMS  Square Enix Press HubFinal Fantasy 7 Revelation’s Long-Awaited Release Date Officially Confirmed  Polygon.comRelease Date Finally Revealed: 'Final Fantasy VII Revelation' Launches April 8, 2027  Inven Global",
+    "published date": "Thu, 03 Sep 2026 15:37:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNThpNHV0SWROVE44U1Z2S2VZaHBtR2dsdGVzQUFXd29xUDE2cWQ1S2p3RkZVS25DRlN0YkExTkFQRHpxZkxLTWlKQXFQX21QM0xDUFF4MGlOY1hlbzVnb2E3Yl8xREhpaUltbEZEemI3OXlra0t5OWM0MHFpclM0dnpEY05URVRXZEdSVEZlMFBvR2w3emhQWTU3bUhCUXRzZUNhZS13?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://markets.ft.com",
+      "title": "Financial Times"
+    }
+  },
+  {
+    "title": "Your Perception Of Time Is, In Fact, Warped - Noema Magazine",
+    "description": "Your Perception Of Time Is, In Fact, Warped  Noema MagazineJim Al-Khalili: Does time flow?  Princeton University Press",
+    "published date": "Thu, 03 Sep 2026 16:35:18 GMT",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WalFDMzFxLWc0dnBha1hJWmRZdUFLZGNkWUJNQlU0YXlyQlBDZW1LbmFqdnh6cEpNMGdEdi1nXzBOYU0zUUZUc2hYSHVkYkoybmRtS3I5Vm5PZ3JIQk1Ud0E3VU9mRWNfd05CcFpfUXV2Wm1fdHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.noemamag.com",
+      "title": "Noema Magazine"
+    }
+  },
+  {
+    "title": "Dreame A4 AWD Pro Series: The latest robot lawn mower from Dreame has AI-powered binocular vision. - Mashable",
+    "description": "Dreame A4 AWD Pro Series: The latest robot lawn mower from Dreame has AI-powered binocular vision.  MashableBrand-new all-wheel-drive robotic lawn mowers with an extendable trimmer arm for seamless edge cutting  Notebookcheck",
+    "published date": "Thu, 03 Sep 2026 16:24:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6eTRPNXFReFNmbVgxUTQxdm5nbk9YRTk0Z3hXOS1rQV9kdVRTTGJRMWIzbHp1Z2owNWJTcTF0cTk1LVhNb3dobTZHYk1vWXVRNWJHU3BpU0JFeWtfOE5fS2RTR0w?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://mashable.com",
+      "title": "Mashable"
+    }
+  },
+  {
+    "title": "Edifier Showcases New Audio At IFA And Celebrates 30 Years In Business - Forbes",
+    "description": "Edifier Showcases New Audio At IFA And Celebrates 30 Years In Business  Forbes",
+    "published date": "Thu, 03 Sep 2026 13:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWUlRV012U1R4VzRFeGVhVHFaTjZ2MVNOSFdSbTVIT2hXbHpob0ItcjVBbDROazRfZEd1azJMRGowc0RJbEdKVVkzaUw5dXRYSkJWNEYwSVFsdzdxa1JGSFdZTW1PellWa05Kbi1XandpYVNCTkFmMkR3TDZaMWp5R0RGdHR1NEV3NkNqSnIwOWhFNEdHdzZoWHkzLXE2OHk5U0ZQaFBwRFhsLW9tcEc0QThtS0xvT1JqcXpVS3haVnY?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
+    }
+  },
+  {
+    "title": "Pinarello’s new X Series endurance bike straddles the all-road category with provision for 40mm tyres and a focus on in-frame storage - Cycling Weekly",
+    "description": "Pinarello’s new X Series endurance bike straddles the all-road category with provision for 40mm tyres and a focus on in-frame storage  Cycling WeeklyThe Pinarello X Series: Premium and entry-level?  Canadian Cycling MagazineNew Pinarello X 2026 First Ride Review – Joyride?  GRAN FONDO Cycling Magazine",
+    "published date": "Thu, 03 Sep 2026 12:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQcWFQQ0ZwZ3JUdzk0UE14VTJ3RjVvYTRObTg5YXNKVGVWNHlabHVobXdhYzRianpidXl1WU9kWW9qay1uZmN3TlpnUjdWWkp3Q1hyWWNYMnhIeUI3TjR0cjN1ZnU3YmR6WjdHT1FFWS1GTHpYaWh4WUlrcS1Sa0xhdmFPeUIyOVNoX1Y5blFsWjBYSHpORldnZTlNNXpSZm5nYkNGZXRUd29rTUhSeTNpTDNGZ2xSSWpoSURWYjlSN0JMYXZ2aGFvXy03MjRzNmZWUnJkRE1ZMFNVZndMcXdGcFE1a2o1NElyMFprRFR4QXMxcVJCWkhOMzdYTEtYTmZl?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cyclingweekly.com",
+      "title": "Cycling Weekly"
+    }
+  },
+  {
+    "title": "NASCAR 26’s latest Dev Diary outlines paint booth and drafting improvements - Traxion.GG",
+    "description": "NASCAR 26’s latest Dev Diary outlines paint booth and drafting improvements  Traxion.GG",
+    "published date": "Thu, 03 Sep 2026 13:47:56 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQemc5NXdLSHFIcnljVFlaLTBibDhqbkJpTkFrRW1rbUh1YnhzQWVYald1U2ZqVGVRLXdYaVFiZnBmejZSUDA2R2hxYmFLVTRJclFSV0czblZ5NWhsckFhdGZDdVY1WUJfeW83NG1vVzFYZHdXb05PSF81MGViVTV2NHlITlZYNXFzSVdqVmY0Z1J3UzBVeXBUUU1B?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://traxion.gg",
+      "title": "Traxion.GG"
+    }
+  },
+  {
+    "title": "OpenAI Details GPT-Live’s Architecture for Continuous Stateful Voice Interaction - infoq.com",
+    "description": "OpenAI Details GPT-Live’s Architecture for Continuous Stateful Voice Interaction  infoq.com",
+    "published date": "Wed, 02 Sep 2026 12:23:34 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fWmk5ZXZjVHhveW1NamtqTVhiV3FjODI2OVVUNFVlaXdTc2YyVk1fdlN2cXdMZ2RhNzdMS2xicHhSdGljQ3AwMk1VYm1HY09PZEZ3RkZmczdRd1ByZGNZUA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.infoq.com",
+      "title": "infoq.com"
+    }
+  },
+  {
+    "title": "These Labor Day cycling deals drop some of our top-rated Garmin and Wahoo tech to their lowest prices of the year - Cyclingnews",
+    "description": "These Labor Day cycling deals drop some of our top-rated Garmin and Wahoo tech to their lowest prices of the year  Cyclingnews11 Great MTB Deals for Labor Day 2026  Pinkbike",
+    "published date": "Wed, 02 Sep 2026 16:05:37 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQc3d5bjB2bEp1T3lubEJELTN5dUozQklDdTJDWGhlc28tbnJval9FZmFkUGZrRnU2clNXdUFDOHM5VGdSYW1pMUk1cE9UYnJXZDlQbWVwVWYwUDQ5U25mZ21Bc2dQMmNLU2ZPdENERWJPUkRMWW03b0w3dlJpWVdycGxKM1I3Z1NGUGpMQVBraTNtS2dBRnRLdnhqM0NlX0d0azRUSGZYNGVGaEFnbldUTVFYa29CZlRtVzFXaGp3cGNSMENzY0VwU2JDc2Jrb0xKM2I1dzgzZHhDUW1WRVBNeEUwbzJjbVZaTnYxTTh5VG9fLXBPV1ozMEQySldtVkIzNFgtMnBsSVhra1RwUWJMWElpUlQySkJXWDBxT2t0eG11cWM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cyclingnews.com",
+      "title": "Cyclingnews"
+    }
+  },
+  {
+    "title": "LG ELECTRONICS CANADA ANNOUNCES PRICING AND AVAILABILITY FOR ITS LATEST ULTRAGEAR MONITORS, GALLERY TV AND STANBYME 2 MAX - newswire.ca",
+    "description": "LG ELECTRONICS CANADA ANNOUNCES PRICING AND AVAILABILITY FOR ITS LATEST ULTRAGEAR MONITORS, GALLERY TV AND STANBYME 2 MAX  newswire.ca",
+    "published date": "Tue, 01 Sep 2026 20:28:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNc0x0NHRuNHlIbE1QYnNCSk5NSjl1Uy1OV2ZPOUpoOUxJaVlPcllTTjVlSGY3bXlFZmF5WXhleFF0bGt3UGhSalI3emVLcF9OZ2kxV2lSN0psdVRrVXBfd1lZclJUbDd4NXdUR18wUEJyQ3NrMEpMREdQNWxoWHkwY2U4UVlXQ1ZYTlZUNUx4d0huRU11cW01NmFjWVM5cWM3Rjg1WXhTYlZ3SEM0dUNWUGhpakpxSUJZdG1Fb0dDckhNdDBGbW9EMTAzc1R6QlpJSUpzT3ltLV9Kbjh6SlVvNHlYM1RUM2htZVh3X0ZqVmI3WGtjb0F1LWIxdjhnbDQ0NmZv?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.newswire.ca",
+      "title": "newswire.ca"
+    }
+  },
+  {
+    "title": "Gran Turismo 7’s new ‘Spec IV’ update heralds return of the Autumn Ring and 12 new cars - Traxion.GG",
+    "description": "Gran Turismo 7’s new ‘Spec IV’ update heralds return of the Autumn Ring and 12 new cars  Traxion.GGGran Turismo 7 Spec IV: Autumn Ring, Sugo Circuit, 12 Cars, Shuffle Racing, and More  GTPlanet'Gran Turismo 7' Spec IV Update Brings Back Autumn Ring Track, Adds Iconic Race Cars Like The Citroën 2CV And Honda Stepwgn  JalopnikFree Spec IV Gets a Major Update with New Circuits, Cars, Modes, and More  gran-turismo.com",
+    "published date": "Thu, 03 Sep 2026 15:02:59 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQakNJeUhVYmc4R2d2SHdYUHpWbEdHTnJob0dXaFFxNVAwTjlTY0lNenZhV3pVOVNVeVNHbjg4ZjMybXl6STNvbTJLUHBfSjJNRVEtUlg1eHZfWTdhT0ZxNVRqRUg2Y3hIbVhzdUhabUxzSGFLa2ZZRUIxeHdoMXlGSlZxNzJFQzhpUHRsaTVIcV9DVkFHQ0ZHSXljeGdwS0xFVFlIZlVFUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://traxion.gg",
+      "title": "Traxion.GG"
+    }
+  },
+  {
+    "title": "The first no-strings discounts on the Samsung Galaxy Z Fold 8 Ultra have arrived, thanks to these Labor Day sales - Android Central",
+    "description": "The first no-strings discounts on the Samsung Galaxy Z Fold 8 Ultra have arrived, thanks to these Labor Day sales  Android CentralGalaxy Z Fold 8 owner shows corners of the inner display are flexing inward  gizmochina.com",
+    "published date": "Thu, 03 Sep 2026 15:52:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMFJwN2hpU2phVUIzVXRzdHhfOEV0U0htZnZVVV9xX3ozZ2ZQSXk5ZWdYeEJqaERwdkxXOGNrZkxQdjlFUVowRjJxRlhOa3BxU1V2cThFUC1GTnRKWThGbTI5RzhLZmZxZzRDNUhkeVdUMWY2S1dYclI0UThhYW5pN1dFenF0RUs3TE9LVWM5NGlYOEowUEFfcFFXay0waWZsTnpFMlJCR3VLTVAxZ201M21PRDFTSGF6SnNENVpCSnJLSW5vdEM3XzA2VVp1V0xDVTI5c2hiMWFxZGc3c3VpYVZmalhQVVE1eTh1Q0tBMmdsUmtacWNQTA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.androidcentral.com",
+      "title": "Android Central"
+    }
+  },
+  {
+    "title": "Why Sony Has Struggled For Decades - Yahoo! Finance Canada",
+    "description": "Why Sony Has Struggled For Decades  Yahoo! Finance Canada",
+    "published date": "Wed, 02 Sep 2026 23:53:07 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPT1JWS0dyMl9JNmhtRlE4ak42ZGcxWWJrYlVabGI1eFAtV0JNVnRzYzZFYnppNk1uZmJ0b2lVMTFlUjh6UjZLZGlWazByb0JSUkFLNkxHQzEtWWZrdEhyb2pCNG1WV29qLVI2TjBjdG84LVk4aWVORFFIeEEwVUl2cg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://ca.finance.yahoo.com",
+      "title": "Yahoo! Finance Canada"
+    }
+  },
+  {
+    "title": "Sask. Retro GameCon co-creator warns against digital-only games - 650 CKOM",
+    "description": "Sask. Retro GameCon co-creator warns against digital-only games  650 CKOMDigital-only gaming raises concerns about ownership, preservation: Retro GameCon co-creator  DiscoverMooseJawHideki Kamiya says game preservation matters more to him than whether games are physical or digital  Video Games Chronicle",
+    "published date": "Sun, 30 Aug 2026 15:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWk5zVV9xWno1T3d6ZWNRRGZnMWFucmh0cUc3R1hkWHcxZl9aZHNHN3ZqNUdFMk1yRXhod2QwZjdMS0tNM3dxOVI1c0Q4OVNuY3VHR1U4b0w5aUljVUZjakRyTnBNeUdURVd3ZFNMbF8xVFR2Wk5qVng4SG0xVmFGXzhNNzlsVkFiaHE0TTFtVXN6UFlUYVU3cjFfWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ckom.com",
+      "title": "650 CKOM"
+    }
+  },
+  {
+    "title": "Adobe Embeds 70+ Tools in Slack, Targeting Workflow-Native AI Spend - The Futurum Group",
+    "description": "Adobe Embeds 70+ Tools in Slack, Targeting Workflow-Native AI Spend  The Futurum Group",
+    "published date": "Thu, 03 Sep 2026 17:15:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbFMtaGN6cHFoNFVTNERaMHY3OW9NVGtsYVZlUEJxNTcyRTE5ZFJ1MDJVcHBVeDZxTnJ3N3lzUTZwb0ZpNlZhNEJoaU45TnkwR05LR3NrbWxkZmJJaWdRQ1N3Sk00QzZLcm8wTjBLd0l0UXZaMGlOWXRMVTRPN29XR3V5MTRUaDRSZ2FncWVQTTZTbWFwUFp3eGdRSW8yc3FNa0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://futurumgroup.com",
+      "title": "The Futurum Group"
+    }
+  },
+  {
+    "title": "Cheeky Comox Valley calendar makes a splash for men’s mental health - Victoria News",
+    "description": "Cheeky Comox Valley calendar makes a splash for men’s mental health  Victoria News",
+    "published date": "Thu, 03 Sep 2026 18:19:45 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMHJWdWU1aXdKQ1NzLVk1NC1Gc0VsQWVtVGd0YnF2UkgyUjN3ZHZQQkQwOGsyNFRFMmh3NWc0RG9adllJd2lkWUo5bC0tOUtGS296bDB0NnQ4Y25XM0dhT010V0gzX1VBc1F0Y080ZVBHUVBEaE40VjZDdUp0UUJzV3dBYzZ5MXJEaDhiTmVfTWs2THByTGdhMjBvZGhxZVU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://vicnews.com",
+      "title": "Victoria News"
+    }
+  },
+  {
+    "title": "iPhone Ultra's Very High Price and Features Revealed in New Report - MacRumors",
+    "description": "iPhone Ultra's Very High Price and Features Revealed in New Report  MacRumorsiPhone Ultra price rumors — here's how much you can expect to pay for Apple’s first foldable  Tom's GuideiPhone Fold Price: Apple Expert Warns Of Additional Costs  Forbes",
+    "published date": "Thu, 03 Sep 2026 14:33:54 GMT",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9uRWNSNEh3SUg0eVFyWWNWZXNSaE04Zzl1WFZTYzNXZ0Q2SVhsUTgyX2o3SGNUZU9JMkNMb0JnOHFCQ0lDVmVyS0YtWUg1TjM2VVFMTUctN29KeU9EZXpRYzRtelluSFlKWEVrVVlkZ0wtNkdnSTZxRUxtWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.macrumors.com",
+      "title": "MacRumors"
+    }
+  },
+  {
+    "title": "AI-assisted automation engineering supports PLC programmers - Electronic Products & Technology",
+    "description": "AI-assisted automation engineering supports PLC programmers  Electronic Products & Technology",
+    "published date": "Tue, 01 Sep 2026 11:00:50 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOXZONHB3WmFrV1RXS0c2TGJjLTVWb2I0YVp6TW5VLW95Y2hDRk5rT2NxZTJ4aGJOSzVMWXNrd25EaUZrMi10Y191Mk5SZ04wRlllQWxKYzcwQmZ0ckdzQ3NTbHlhQndpMkl3STFNa2lJTjVPanBHRjZHQXJ0VGNCQ3VuYVlWUTRzTC00eHdNUUhnUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ept.ca",
+      "title": "Electronic Products & Technology"
+    }
+  },
+  {
+    "title": "SOCAN Announces Completion of CMRRA Acquisition - Tolerance.ca",
+    "description": "SOCAN Announces Completion of CMRRA Acquisition  Tolerance.ca",
+    "published date": "Wed, 02 Sep 2026 02:59:43 GMT",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xbl90Z1JwZnVXd1pESW5iTl9JNDQ1d2V0Q0h1MTlGM2lPMV9vRC1OMzVfX1R3Y29VRTN1a01RY3puS1h2eUFLcDUwb0c1WElUYjEzbmJVNUk1LUdzYXNmT19ORjMxdTl1SWxsSXZQNUpGVmNsWTM4?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.tolerance.ca",
+      "title": "Tolerance.ca"
+    }
+  },
+  {
+    "title": "Review: A daily driver in disguise: Reborn Dodge Charger Scat Pack delivers muscle-car fury and highway comfort - The Globe and Mail",
+    "description": "Review: A daily driver in disguise: Reborn Dodge Charger Scat Pack delivers muscle-car fury and highway comfort  The Globe and MailMopar Backs Dodge Charger SIXPACK Launch In Mexico  MoparInsidersDodge Charger SIXPACK arrives in Mexico with Mopar backing  ClubAlfa.it",
+    "published date": "Mon, 31 Aug 2026 09:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX29HcGNXUFJNa0VxZGtPVGFWTHFmUnhRS19mTlRaWk8xWHBoUl90ZWZtSXN3RDdqMXhzcHd0S01JT3BmbDVKaHB4VVBjVGVpQXBUcnAwdTZCaktYMVpsQnYtYktMbWZTemVPSXlTby1DYzdUX2s5aWVxT2gzcFQ3aV9UOEdKaVF4c2hRUDcwYzA5RkZZT3ZrT2k1WHl5aFRWYTNWWjlGUmUwUy11d2xnWmlReU4zRnNBQ0tPdWV3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theglobeandmail.com",
+      "title": "The Globe and Mail"
+    }
+  },
+  {
+    "title": "Millions Of Android Phones Are Getting A Free Google Upgrade - sg.news.yahoo.com",
+    "description": "Millions Of Android Phones Are Getting A Free Google Upgrade  sg.news.yahoo.comSeptember Android Drop: Remember where you put things, ease motion sickness, and more  blog.googleNew Android Drop adds remembered items in Find Hub, makes anti-nausea dots official  Ars TechnicaSept. 2026 Android Drop: Find Hub ‘Remembered’ list, Motion Assist, & Keep in Google Messages  9to5GoogleThe tiny new features that make Android great  9to5Google",
+    "published date": "Wed, 02 Sep 2026 21:01:23 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOa295ZmZXc1F4OUh4b3V1Q3dyNHo2VW1XcFBTZjFIQjJZRHlXZ3NLN3JxYkpZZ3luZEl6Y3ZmQnhSVmI5c0gwbVRaY3o2T1BTeF9RdS1OM2hCM2VJQzA2WExUeGJtQ1lrNGV4bjBiLTIyZTNqdDVWMlhVVThLa3JEdVZFcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://sg.news.yahoo.com",
+      "title": "sg.news.yahoo.com"
+    }
+  },
+  {
+    "title": "Huawei WATCH GT 7 & WATCH 6 Series Arrive with Smarter Health and Fitness Features - androidheadlines.com",
+    "description": "Huawei WATCH GT 7 & WATCH 6 Series Arrive with Smarter Health and Fitness Features  androidheadlines.comHUAWEI WATCH 6 Pro  HUAWEI GlobalHuawei Watch GT 7 Pro in for review - GSMArena.com news  GSMArena.comHuawei’s Watch D3 Doubles as an Inflatable Blood Pressure Cuff  GizmodoHuawei Watch D3 Teases Next-Gen Wearable Blood Pressure Readings  Yahoo News Canada",
+    "published date": "Wed, 02 Sep 2026 19:19:05 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNUFNV2Vrd2VqUnVYM3JTQmtxSEFiVXYteDA0cUhIaGtfQUdlSVI0YUZoenZ1OG1KVFhlNHJKbTBLdU15NldMZEp6Ri1kLWltd3lDRm1XdGp3cnZ6aTl1bGthWlMyTndiNG9ySnE3cV9Cb1d0UXZ6d1NPRGdMOVZ6SEFyRUN3c3AwYXVKUHRR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.androidheadlines.com",
+      "title": "androidheadlines.com"
+    }
+  },
+  {
+    "title": "The return of Atari - Your South Shore",
+    "description": "The return of Atari  Your South ShoreSee more headlines & perspectives on Google News",
+    "published date": "Thu, 03 Sep 2026 17:15:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rRGYyRU9TQTJqUEFud0NiZHQ2bDQxdmNlN080YldmWFM2ZzBNcTZLTzNPeXU4Z28yVlEwQnRqTlc1X1hzU3pZdFladjNoeEluQXRkLV9ZRHRDQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://yoursouthshore.ca",
+      "title": "Your South Shore"
+    }
+  },
+  {
+    "title": "Lululemon just dropped a brand new tote bag that's perfect for travel — plus 20 other new arrivals, starting under $40 - Yahoo Lifestyle Canada",
+    "description": "Lululemon just dropped a brand new tote bag that's perfect for travel — plus 20 other new arrivals, starting under $40  Yahoo Lifestyle Canada",
+    "published date": "Wed, 02 Sep 2026 17:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNcUk4aVdBdlo5NjRoV1c4SVFqVTRHV2hlYzNGQzlyV2VoLXJheUNpWmptSUdHZllGX0EzMFdEdm1USnhVV0FKbVE5Umk4YWczS1ZSVllUYU12d0NuaGZWMURTc3lMYk9xam1QN1pBVzhIbmtaWWh2NmR3SEJXSWdSbHVSR3dnR1NMMU9rbWpfa0V6S2ozYTJjUWNsY0NHZmhiR2NqZXQtaE1jbFlWc0pFaFB2LW84VkdSb3pYNll6cFB4XzRTbHlDQk93dVV3c25CQWVOZmRYOWRaWlJRNnJMSVJPRzBRZGJYelpaYQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://ca.style.yahoo.com",
+      "title": "Yahoo Lifestyle Canada"
+    }
+  },
+  {
+    "title": "Video Review: 2026 BMW M2 CS Track Test | Reviews - driving.ca",
+    "description": "Video Review: 2026 BMW M2 CS Track Test | Reviews  driving.ca",
+    "published date": "Thu, 03 Sep 2026 16:40:21 GMT",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RbFNwZjhuOC11MlJsTFp6V19EcXFhRnRIYTN5ZUVRUXJLcjlDS3YwVkgwd0d3bUxMdkh6N3NCTk1rT1Qzbm1qUDBBQ3BwTDFEOHNsd1p0UFdTWEQ5cmM2M2FvZ19QOWk0ZGJ6QUh5eVQ2QlU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://driving.ca",
+      "title": "driving.ca"
+    }
+  },
+  {
+    "title": "Hypershell's full-leg Halo exoskeleton powers four joints in one system - wareable.com",
+    "description": "Hypershell's full-leg Halo exoskeleton powers four joints in one system  wareable.comHypershell Redefines Human Mobility with Halo, Flagship Full-Leg Exoskeleton Built for All-Terrain Mobility  bastillepost.com",
+    "published date": "Thu, 03 Sep 2026 15:04:22 GMT",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcXJoS2pfdTZ4MnNxNTNNZXBoMjNMZzVtMV85SnZUR2NKWEtTY3UyQV9ZNHExTHJxZE12dTg2X2l2LXZQOFo4SEhJQnIySzZHNENRR2t4VXpuLVdFZ3BWMXBRWklkYTkwUVowWWc4Mm9rcWVmY2NYdHdLVkVESThiZE8xOFl3NDhINFB5aEtRNGR3OGZNdDdXa0R2YXRhZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.wareable.com",
+      "title": "wareable.com"
+    }
+  },
+  {
+    "title": "GTA 6 reveal causes Xbox and PlayStation sales to jump by a third - The Game Business",
+    "description": "GTA 6 reveal causes Xbox and PlayStation sales to jump by a third  The Game Business‘GTA 6’ Extended Look Tops Netflix Charts With 31.1 Million Views in Four Days  VarietyThe GTA VI extended look has me wanting to play the game right this minute  DawnA Bunch Of Old GTA 6 Leaks Turned Out To Be True  kotaku.comWe Saw More of GTA 6, and Rockstar’s New Open World Feels Less Like a Game and More Like a Place  IGN",
+    "published date": "Thu, 03 Sep 2026 13:03:53 GMT",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uZW5CTUtPcmduS1JrNXhxS01iaUZzOVVJajdadkFLc25IRFhGSTVQRWJqcFBxb0VpaDV6TzFQZVpTV2hhejVLNjBLTTExSFNEOTV0NHFRdFJLVzNnUi0tbUlkV2RUd29maWZNdmwyQ3BWUDVPeXFsdm50WFZmT28?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.thegamebusiness.com",
+      "title": "The Game Business"
+    }
+  },
+  {
+    "title": "Google launches AI voice features in Gmail, Docs, and Keep - TechCrunch",
+    "description": "Google launches AI voice features in Gmail, Docs, and Keep  TechCrunchGoogle rolling out Gmail Live, Docs Live, and Keep Live  9to5GoogleGoogle now lets you chat with Gmail, Docs, and Keep  The Verge",
+    "published date": "Thu, 03 Sep 2026 16:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNWk4QndVTkxFUlZNc1c4VTlORUpkWmxYNF90bWV1TzR6SFVablFlX3lPVHpULUNqRmJjeGFVU2ozOW5TdjJBalpzM2FNMF94RG56TFhTSW1Ca1k5S1hxOXVZYXprVmhHbWJnaFRVS0YtcDBRSlVmSW1Ya2VSeHRFdHdTWW5ha3ZEMFNxbXc3cWNORU1BNXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://techcrunch.com",
+      "title": "TechCrunch"
+    }
+  },
+  {
+    "title": "Want to save some money on back-to-school shopping? Here’s what experts say to look for - CTV News",
+    "description": "Want to save some money on back-to-school shopping? Here’s what experts say to look for  CTV News",
+    "published date": "Wed, 02 Sep 2026 10:07:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ3ZvbHEyTTNlSmIwQ3hqeDFtNXFlTk1BcDVwaXNTZS1OallzallXT0piMFZlYkh5QkNXRzdsS1dvTVVndzdyRVlDOTJlMS1zcUJaQjBfQ0x5aW9XbTVEbzN6MHMyenlPcE1pVmZHdzF1aDFBN1ZSdXp4bkFFb3ZYcHRDM0ZOMU9FSDJOR3kwMHhwb1gtYXBWS3NnYU9XN1JhVGQ1UElpUXo4WHVNR3BicVlmay1pUXlsdEl3RGxjYWhHQkl1U0pJUE9QeENad1ZjSEFYemx4dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ctvnews.ca",
+      "title": "CTV News"
+    }
+  },
+  {
+    "title": "Fake Software Update Installs a Real Crypto Wallet – Rigged So It Can Never Open - IT Security Guru",
+    "description": "Fake Software Update Installs a Real Crypto Wallet – Rigged So It Can Never Open  IT Security GuruHackers Hide a Full Remote Access Trojan Inside a Real Exodus Crypto Wallet  CyberSecurityNewsMalicious Exodus Installer Steals Browser Credentials and Turns PCs Into SOCKS Proxies  cyberpress.org",
+    "published date": "Wed, 02 Sep 2026 10:52:46 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVEE1Q3hhU1NaQjhwREc3cGZiV2tJUHI0eENjUHVScTVLX0RrSTMxNHZvRy1qTm5UQml2azFUTkttS0J5eFRocTRGWDFwczRKX3RxTnNsS3BfYlBRazdtallYbkw3bzFvTFM4RTVhOGNQaUZrbWhUWnFMR3RGVmttbUY2ZHBTY3lHSHBDenpHVnJvTmljczVEa2xzazk4V1o3c3FTYnpyU2k2YnozdUk1SWVZOGJqS1VsOTQ4THJ3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.itsecurityguru.org",
+      "title": "IT Security Guru"
+    }
+  },
+  {
+    "title": "Gossamer Gear Aero Jet Travel Backpack Review (Tested) - Treeline Review",
+    "description": "Gossamer Gear Aero Jet Travel Backpack Review (Tested)  Treeline Review",
+    "published date": "Thu, 03 Sep 2026 18:05:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Ua0I5UVNYX3QwS0d3U1JaR1hncWdPS0RXTGxaNDBabllhbU9JV3RtaUdqNi1udi1weEJNY1lZRC16aFpBempnN2F1cjhSSUpnQWphZlRLYkFzWEJfQ0tIVjJtWDl2alk1NU9oRWxZVV9nc21ZUEVrb1UwUXE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.treelinereview.com",
+      "title": "Treeline Review"
+    }
+  },
+  {
+    "title": "‘I feel like I’m grieving’: staff on the devastating fallout of widespread layoffs at Xbox | Games - The Guardian",
+    "description": "‘I feel like I’m grieving’: staff on the devastating fallout of widespread layoffs at Xbox | Games  The GuardianBethesda Devs Thought ‘Skyrim’ and ‘Fallout’ Would Protect Them From Layoffs  Insider GamingBethesda developers thought Skyrim and Fallout would save them from massive layoffs.  GameGPU",
+    "published date": "Tue, 01 Sep 2026 12:45:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RbV9tRHNFcjd6MkVyeTl6TGdXY1hkeHJ5NGItMHJPeGRISVZ3X3FscXpFdmpsSHNoS2p0dFhuMkNKVkxCQzFfUmJ4QkJ6cURlY1RjSGtlS3phVHR2TXhhNzczRjRGZHNrbkxEV2h1QlhNWk1CcHJZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theguardian.com",
+      "title": "The Guardian"
+    }
+  },
+  {
+    "title": "'Ace Combat 8: Wings Of Theve' Shows Off New Multiplayer Modes, Deep Progression, Online Hub for Up to 100 Players And More - Trailer - Worthplaying",
+    "description": "'Ace Combat 8: Wings Of Theve' Shows Off New Multiplayer Modes, Deep Progression, Online Hub for Up to 100 Players And More - Trailer  Worthplaying",
+    "published date": "Tue, 01 Sep 2026 18:54:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNeTFXelVjcnkzOFF1UGJuTHVzbG5KT3VTTEJhOU1vTnQ5bUZWd2NxUkFsRUtObER6UE5BVnpKTEtydnlzRDF0cDdFWWRJZHBsRGVZSDZ3clZzTE96R3p5bXRXaFhUemhDakoxdWVqWG9TRlRPMmpFQWNDN3NwTDBpR09VQlJqXzdtSWpGakZ6UWhBV0JMc1QtMU8zLVJUQmZsZl83Vm1OWWkwYlhGREs4QjBIWmxYUXozWDdRRDlqVFJyenhPMzhrM2RkS3lOUVdYOFJIMmFFR2l5ZWZ6Zkx6aktCcDlTWmJPbmVyNmszeDl0eDVmS1Q0RFpiQ0ZmdVZVblRLeVAtUjVWNjdOVGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://worthplaying.com",
+      "title": "Worthplaying"
+    }
+  },
+  {
+    "title": "Xiaomi's New Passport-Style Foldable Looks Shorter And Wider Than The Galaxy Z Fold 8 - Engadget",
+    "description": "Xiaomi's New Passport-Style Foldable Looks Shorter And Wider Than The Galaxy Z Fold 8  EngadgetXiaomi 18 Fold launches next week with in-house XRing 03  tech-ish.comXiaomi 18 Fold gets its first official look ahead of September 7 launch - GSMArena.com news  GSMArena.comXiaomi 18 Fold set to debut CXMT's new LPDDR6 memory  NotebookcheckChina’s CXMT Is Getting Ready To Make History As LPDDR6 RAM Mass Production Scheduled To Happen In September; One Hint Reveals Limitations In Total Output  Wccftech",
+    "published date": "Thu, 03 Sep 2026 08:35:24 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSG9pWXRzZlBXZklSRXV3MUNiUWpKQ2tDbXNWYkFnWklXaEFHR01FTlg4V3dkR3BQMmRHNkx5Q2dDSE1lZGt2YkFma3J3TWI0SXZ2MHJhWkpGY0UzV2xfdlFZd1FEb0d3TS01OFE2UFZkaEhNMWhPMk9VN01TZmR1VkZOTlh3VTRvcVVPUFNBazFhSnplVGtORkhBellHd3FBaDg4cGhJX2taUmxyeGNNUmdqNUhoQ3pTdGRZaEd3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.engadget.com",
+      "title": "Engadget"
+    }
+  },
+  {
+    "title": "Google Says a Fix for the Pixel 11 Pro's Crackling Audio Is on Its Way - extremetech.com",
+    "description": "Google Says a Fix for the Pixel 11 Pro's Crackling Audio Is on Its Way  extremetech.comPixel 11 Pro Audio Bug Is Ruining Videos Owners Cannot Re-Shoot  Yahoo News Canada",
+    "published date": "Wed, 02 Sep 2026 16:25:45 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdmZkbTQ1eUtOdm9DQjQxejF3WDFJSlhLZkdxaUlLSjVsYWxLREJNaWpDb3RvRG9iQTNyU3hJXzNrTmlRVU1jWnZEUzhXRVh4clJDYkVBb0Vqd2ItRWQxay1LaFJGSU16dUpfMWlNRkpycG5mNTZWRUl2SkJOREJrazFXQUZ3ZURQTzczYzNqQ05XMWZ0VEczQkczcldKTHNRYk1RMXdZMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.extremetech.com",
+      "title": "extremetech.com"
+    }
+  },
+  {
+    "title": "Google’s next Pixel Fold reportedly adopting the same crease-less display as Apple - 9to5Google",
+    "description": "Google’s next Pixel Fold reportedly adopting the same crease-less display as Apple  9to5GoogleApple's iPhone Ultra Crease Fix Set for Android Foldables Next Year  MacRumors",
+    "published date": "Thu, 03 Sep 2026 00:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUnFRa09XcFQtaDZyd3lqVWtWLU1HbDRJYUNPV0l0Q2Iwc2IwRHRqeG5NYmNSRndsMWtUNTlCRXhmS3JsbFBhNEY3cGk0d1J1ZTM0eXBMVDBqS21RN0JmQk1VMHJHazdUMjJpMzVGZGR1YmtOV3NiT1daZHN0XzhMcmRrZEdjQmlVbkhSVjh2bw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://9to5google.com",
+      "title": "9to5Google"
+    }
+  },
+  {
+    "title": "Mac Studio Buyer's Guide: M5 Max vs. M5 Ultra - MacRumors",
+    "description": "Mac Studio Buyer's Guide: M5 Max vs. M5 Ultra  MacRumorsForget the Cloud: Apple's Latest Mac Upgrades Prove It's the Quiet AI Winner  The Globe and MailTwo new small, powerful Macs  The VergeTop Stories: Apple's 'Surprise and Shine' Event, Plus New Mac mini and Mac Studio  MacRumors",
+    "published date": "Wed, 02 Sep 2026 12:07:51 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ob1plcFhvMzFkUmp0RTVYaFVWNGlYanE1ZXBScEJHWG9lX2NGRjREeG9vTl85QmxxeUVlaXJ1enljMFMxaE9mMy1ER1YwSXEta04tWTlIUkdkQ19iR2VQRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.macrumors.com",
+      "title": "MacRumors"
+    }
+  },
+  {
+    "title": "Genome Duplication Is a Radical Evolutionary Gamble - Quanta Magazine",
+    "description": "Genome Duplication Is a Radical Evolutionary Gamble  Quanta Magazine",
+    "published date": "Wed, 02 Sep 2026 14:23:09 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaE5DMmI4NmNXcTVzYWVLQ2Fvb3BPM0tNejNrRTExZm5zNHZSWFFlWWV2QjVQd3gzUHJiYUZybWlaN1dteTZLNnZMcndCUWpSRE40ekZnRVpXckwxN3QzY2JyNWVrX0ozRmRzMGVYaW56STJMMUdna2Qtakphd0VSY2NhdXdzdjZwYXhPcldTZGN5U3EyY3lr?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.quantamagazine.org",
+      "title": "Quanta Magazine"
+    }
+  },
+  {
+    "title": "iPhone 18 Pro leaks suggest photographers are finally getting the feature they've been waiting for - Creative Bloq",
+    "description": "iPhone 18 Pro leaks suggest photographers are finally getting the feature they've been waiting for  Creative BloqiPhone 18 Pro pre-orders might start later than usual this year  MacworldApple says ‘surprise and shine’: Sept. 9 event sets the stage for Apple’s next big iPhone era  CP24Apple will launch six major new products next week, here’s what’s coming  9to5MaciPhone 18 Pro Launch Could Break Apple’s Usual Friday Pre-Order Routine  TechRepublic",
+    "published date": "Thu, 03 Sep 2026 10:50:02 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdWNNODJ0X1F0Q0N0LTFpQktIM2pqaGNTTjNyRWZFdkRJTGRDR1ZCdjBDNW1fUGR0ZEVrU2hzd3U4b0hueHZuR0dnNDBEd1JTTU91amprYURtaDJRV1B6cDNEdVBhamNXTTg4eTFHR2NROXRvbjN1TlRLVmtzREdXc3lUMHhUQUJ0YUJvZ3RSa3prNHJZTzZ5ZU9TZVY5YXVyUFlQUko1WmhpNmlUN1BGZEszaE1wejFMQmpweWZES00wMjJYa2laWE9WUnE1Y0NHOUx1YWxWN3A5RmY1UGdZbDR3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.creativebloq.com",
+      "title": "Creative Bloq"
+    }
+  },
+  {
+    "title": "Square Enix denies going private after report sends stock surging - gamesindustry.biz",
+    "description": "Square Enix denies going private after report sends stock surging  gamesindustry.biz",
+    "published date": "Wed, 02 Sep 2026 16:02:35 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUHloa3o1WlFQWEpPWW1SN2NPUXhzRl9zQl9KU2M1LV8xanhsR2hHOHpBTW5LMTA5czFuYjE2ZFFfbnFJX0NYbUhGSHc1RGM2YmlyMExHUU4waHV6MGNwOGVVbno2N05GRmJNWXJPNkw5OFpCcnYzVWRVQTJtcW5OdDB0NWRDSUFQRHFVRW56aHFfaG40MGhFWjNTYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.gamesindustry.biz",
+      "title": "gamesindustry.biz"
+    }
+  },
+  {
+    "title": "Nvidia sets October launch for RTX Spark AI PCs - Yahoo! Finance Canada",
+    "description": "Nvidia sets October launch for RTX Spark AI PCs  Yahoo! Finance CanadaASUS Unleashes Agentic Creativity with ProArt RTX Spark PCs at IFA 2026  newswire.caLenovo’s First RTX Spark Laptops Put the Stylus First  GizmodoNvidia RTX Spark is a Game Changer ⭐  Thurrott.comASUS brings RTX Spark to ProArt Laptops and Reveals a Compact AI Desktop at IFA  iphoneincanada.ca",
+    "published date": "Thu, 03 Sep 2026 17:32:33 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM0JyTE1pRnQ1UDkwWklHXzZoV0tSVVNuT1REY0ZfY2JtRG9LY0dULWhIZ3llWlJiMHRfYWx1TXBCcnJVOVRyRXRpb2VXemJwOWxTQThTWXVnclRMWXBhRnVjcUVMN3VYbTdKcjBDcUpzbk1vR2lJSW5ubDV2SmdnTkZMSkJ3QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://ca.finance.yahoo.com",
+      "title": "Yahoo! Finance Canada"
+    }
+  },
+  {
+    "title": "Noah Kahan Mounts A Comeback With Multiple Hits Returning To The Charts - Forbes",
+    "description": "Noah Kahan Mounts A Comeback With Multiple Hits Returning To The Charts  Forbes",
+    "published date": "Thu, 03 Sep 2026 16:30:51 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN1IyRXZKOHUtUG00ampOLS13NzA2clpyUFA5SEtkVE9jNzFHc25WYmhPNmVaalRDLW1IT3VBTlZid3czb1NOQTg0am9GSm5SR3pMVHpZeFh0UHF3enlfcWppSk41SmxrSFhyR2wxU29QYnZfV0ZYXzJqdGNTd2dWQ2Z1MmdqdEZHbFVxWnl1U3hiRUkzTlBlNWRnQzlWeFo1alU0dmJ6aUlwVFRQNEtwMzhrQjJQUllYU1FXeFFqdWNKZE0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
+    }
+  },
+  {
+    "title": "Hisense Unveils AI-Powered \"Companion Living\" at IFA 2026 - newswire.ca",
+    "description": "Hisense Unveils AI-Powered \"Companion Living\" at IFA 2026  newswire.ca",
+    "published date": "Thu, 03 Sep 2026 15:19:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd3Q5d3NLLThCRm5YcXdMT1JQdTBVTUh2YWZGV0tRZWVLYjAyelQzTlVaNUJuMm5WdEJRMzBDVWFEbTRWWmtlUElrNEJXSU9aZHJKWHl6V2pIeHJpVFV6ZnRiaDY3dURTeHZNa0JMN3I4S2RSM1JhU1UzRlNEdldHOU9ZS1BqdTNuU3ZFX0VIS1FvZjNVU09fUll3LVNDRzJhTjJ1bTVNWGhJTWd3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.newswire.ca",
+      "title": "newswire.ca"
+    }
+  },
+  {
+    "title": "ArcSpace to Demo On-Orbit Welding Tech in 2027 - European Spaceflight",
+    "description": "ArcSpace to Demo On-Orbit Welding Tech in 2027  European Spaceflight",
+    "published date": "Thu, 03 Sep 2026 06:13:32 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOWxMTTY3cXRwZDJEU0N0bzZRaGktWjRYUTd0dDYzNFd1cW9FeExUc0tVd2sxc2FwQ2pjYkhUeGttZ3JHV3NMRGNjdHFXcTJ6eUh3bkh6bl9vbHd4cEtEOG0wUDM1MV9aR2xlQ09MMTFJX045RjM3RDlpaFNJU195YjVlRXFfdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://europeanspaceflight.com",
+      "title": "European Spaceflight"
+    }
+  },
+  {
+    "title": "PlayStation State Of Play Hijacked By ‘Destiny 3,’ Physical Disc Demands - Forbes",
+    "description": "PlayStation State Of Play Hijacked By ‘Destiny 3,’ Physical Disc Demands  ForbesFans Flood PlayStation State Of Play Chat With Calls For Destiny 3 And ‘No Disc, No Buy’  kotaku.comIs The Claim That PlayStation May Reverse Its No-Disc Policy Legitimate?  ForbesSony’s Plan to End Physical Games Causes Tension at gamescom  mp1st.comPS5 Blackout Protest Officially Concludes, But Campaigners Encourage Indefinite Participation  Push Square",
+    "published date": "Thu, 03 Sep 2026 13:37:50 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVmlEVmFEWFh6aHVSLV9SY3R6aWp2MjdQekRzcEROTWdTTndDM2pXZW5aUHJhbWxpUjZ4R2I4QzlCTXFnTy13dHBDSjV1WGhHVExPQWNQc1JETGlON1F3bUs1aFVIajd0OERGWmJkaGNkZzdnckJIVVR3Y2t2VDU5X0drdzBNY0JfMEpaRGVUQ2FIQUEycXpKY2kxQUoySWJCTFU5WWxhcF9QNHRIdF84MXFGUV9aRkF6eDFnbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
+    }
+  },
+  {
+    "title": "TCL’s new Nxtpaper phone offers both e-reader and OLED - The Verge",
+    "description": "TCL’s new Nxtpaper phone offers both e-reader and OLED  The VergeTCL’s New Phones Can Convert E-books Into Audiobooks and Podcasts Using AI  Gizmodo",
+    "published date": "Thu, 03 Sep 2026 12:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZFcxNnp6SDBHZzdzVG5uM3h4ck8tOWdScmlQdXE0a014TkJiT3pSbFNkaXg4M0x2VUxWWDNSdkhFVnVocGZEMDI0bzZkUS1qTGhyeW9ESDhZNGdRVUlEZ05XMkRhQ0RDcHZLWXFyYUpnYTZpN0VJZVhORkpYWHRUQzBleWVVVmtPYnVoRjd4UWhkeTdW?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theverge.com",
+      "title": "The Verge"
+    }
+  },
+  {
+    "title": "Gamescom recap: Dawn of the Delta and Echoes of Kassandra - Anno Union",
+    "description": "Gamescom recap: Dawn of the Delta and Echoes of Kassandra  Anno Union",
+    "published date": "Thu, 03 Sep 2026 15:25:11 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUWVDM09PLV9Ob0dMWW90SVYybk1KcHJsOGlFblNSaHlkbFFjTFNGNWxVSUxmakgtTS11Y0JXRFpoZWZXMDh2T1NXMXVJUzV6MGZGNUo5b2RnZkxxMl8wcm9ka3VVLTZ5TFV3WWlpN3RfbFRWdDBjcEtzdXVya1hQOG5NUjNnS2NKcUNKdg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.anno-union.com",
+      "title": "Anno Union"
+    }
+  },
+  {
+    "title": "Sony and Microsoft say they’re not obligated to pass U.S. tariff refunds to consumers, echoing Nintendo - Game File | Stephen Totilo",
+    "description": "Sony and Microsoft say they’re not obligated to pass U.S. tariff refunds to consumers, echoing Nintendo  Game File | Stephen TotiloSony and Microsoft request dismissal of consumer lawsuits over tariff refunds  gamesindustry.bizPlayStation And Xbox Hit Back At Gamer Lawsuits Demanding Tariff Refunds: 'There Is Nothing Unjust About Plaintiff Purchasing An Xbox At An Advertised Price And Getting Exactly What He Paid For'  kotaku.com",
+    "published date": "Thu, 03 Sep 2026 00:20:19 GMT",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LTkxBb2tqTzlyM1UxcHJhTUxWd2pCSHdvMGhvcm1UekxzVlR2bHd3QlJ0X2c5TzgtRlJOX2xackRzVXpuRThQaWM3OW1ROTQwSEVlQUFpejlhXzBNcjdBWmdNZHlBeThXajZ6VzV3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.gamefile.news",
+      "title": "Game File | Stephen Totilo"
+    }
+  },
+  {
+    "title": "Rocket issues delay 1st-ever private mission to Venus: 'We are awaiting Neutron readiness' - Space",
+    "description": "Rocket issues delay 1st-ever private mission to Venus: 'We are awaiting Neutron readiness'  SpaceVenus life search mission tied to Neutron rocket  Zamin.uz",
+    "published date": "Thu, 03 Sep 2026 10:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR2NEU041bzJZWkNTMDAyU1QwYU1HUnVya25OdHNmQVhya2ZrTEpOZFpvRXNCdWQ0ei1ZdGtiVXpja2gtTHJMZmFZNmh5bExVeUJuX1pzT1JaSUh6aFFZQUhmcEFkX0VKZW03QmJhc3hMOTlXUE9UTXZJSjBFSFZUeU9jRmF3R2pBMU55cDFpYmF6aTRDTE1HYXFNaW9kYThSVkZXeHVGSTlqY1hGVFB6M2FCek9oWXltTTZ3ZTRlYTFXTWs?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.space.com",
+      "title": "Space"
+    }
+  },
+  {
+    "title": "AMD Ryzen 7 7800X3D Swells and Burns Again, This Time on an ASUS Crosshair X670E Hero - TechPowerUp",
+    "description": "AMD Ryzen 7 7800X3D Swells and Burns Again, This Time on an ASUS Crosshair X670E Hero  TechPowerUp",
+    "published date": "Thu, 03 Sep 2026 18:28:19 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbS1FRFc1ZDFKRG1FeUhEdllJZFd6dmFlMUwtbTg2TVY1QmFZeXZYYnItdklJWnVPLVM2Tld5MGVZT3FweUlvUEJOVWEtbUVYUjZXdFl3Z2xvV19OM1hkQlR2OUhpVjZlWTQ0ZHpfY0FGOHBMSWNldFNHN0JEMGsxZmgtX095WEZNd0wxdlpDMHRraDVOSjEwbWxHMnVDWEoyVlZZU3Etd3dqZzFzN1g0dWNKLVB3ZXVibmNZ0gHAAUFVX3lxTE01amNKUWpBemJra09XODZVMkhVU0NCV0p5cklNSG1lTnM4TWZkbk1zNDgzOEFKcUVKazE0aXRLa1UtbFFhSTBiTE1PVi1EdEMzaVJ6UHctT3ZFeXgyNnNhSVdzMnU0dm1VeU1qTXY5T21YekxjT2lZUk9jbnhSZmlfOHFoM3BGbWd5MVdhMUpXNE94RWtIakdiSEZvWWQwT3FPMDl3TkRLX2JKS1VCSWtmUXlOcjkwUTAwdmxiWlU0TA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.techpowerup.com",
+      "title": "TechPowerUp"
+    }
+  },
+  {
+    "title": "The 1971–73 Buick Riviera Makes a Bold Statement for Medium Dollars - Hagerty",
+    "description": "The 1971–73 Buick Riviera Makes a Bold Statement for Medium Dollars  Hagerty",
+    "published date": "Thu, 03 Sep 2026 16:06:19 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOU1helFDUEdXMmJXTDRORVIySUYwNTFCN093c0RmYlozSGZaZXctVGFRTUtaN00wdGdoM3hiZ28wZkU4amZ4X0poaHY1ZkY4WXZ5c3hsU2J1ZnNDMEZsWFZwOVo0VXpxcS00Zlo0NTVWdmNWRjRja3JGaU1lbzhLSFVyVGhnNDdZbU9NR2ZabVNickVxMWJRckFSODhPTTltbHBzQUpVTy0yNXpWeTdjeXdlb0F6NzRZZENpVHE2emxEUVNMSWV0NXFURFduUWRzamJKenF1YlpNZWk2SUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.hagerty.com",
+      "title": "Hagerty"
+    }
+  },
+  {
+    "title": "Belkin introduces its first longer-lasting semi-solid-state power banks - The Verge",
+    "description": "Belkin introduces its first longer-lasting semi-solid-state power banks  The VergeBelkin just released four Android Find Hub trackers; one is a full wallet  9to5GoogleBelkin says its new 'BoostSolid' Qi2 batteries last 3x longer than your other magnetic power banks  9to5Google",
+    "published date": "Thu, 03 Sep 2026 08:01:18 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVG9HUHFlM3E5RERPR3l5SFpkRk1rWnNGbDM0X2pydVBnM2lNS28zOHdvZ3EzUlc2SXRrN2d0UDhneEdOb1J6Z1VuWkNmRmVJdE1ZYWx3SEgzUUx2LTdCX28xNUpaSkxjZHlZQ1JQb19HdU5iYUE3dVRjVHZENzh6OUduNmFYSEJEM0FJR2hQbUlnYXU5dFVtV0M4dGM3UmRTT3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theverge.com",
+      "title": "The Verge"
+    }
+  }
+]
