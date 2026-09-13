@@ -1,25 +1,5 @@
 [
   {
-    "title": "Tiny fossils reveal big insights about ant ancestors - moosejawtoday.com",
-    "description": "Tiny fossils reveal big insights about ant ancestors  moosejawtoday.com",
-    "published date": "Sun, 13 Sep 2026 02:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRkljYl9KVzJrTy1FNnNPSlZWUVFsWkF2cXVjaFFPWWhPemNxVGtLNmRCU2ZibmtNS2hTcFNOeEI1bHJJQzVqZ1FubzVmbUJHemx2cmxQREFfTFloV3Q2N1VycXFKTy1XeHpMbHlEWVRqUUxvV0JHMU5fWkpIdFRVS2hfWVA0Y2RkYi1QRzlMbk1iaWFNZEZsV1U3RWRManQxNzdDOHJyeDZSem8?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.moosejawtoday.com",
-      "title": "moosejawtoday.com"
-    }
-  },
-  {
-    "title": "Cat attacks taking a toll on Vancouver Island wildlife, rescue group warns - CHEK News",
-    "description": "Cat attacks taking a toll on Vancouver Island wildlife, rescue group warns  CHEK News",
-    "published date": "Sat, 12 Sep 2026 20:30:15 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZl9GaDBXQnU3RmVXVThJSHFsdHJNSWZmR2NSRmhyRUpaOHZhVEE1SmtEQ29vQ1VIUkJxdXd6SUtJUmUzRFphcXNnWTNGQjR3UFV1S1lIc1dsM3hQTWtCdGtGYm8xWUN4MjJPRUlic1FBcVhJN0NjNzRDQ19HeEVpWDRrVDhjaGpYOGJkWk80VWN2ZmlyVThkSzRaUTRoazBESjNYNg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://cheknews.ca",
-      "title": "CHEK News"
-    }
-  },
-  {
     "title": "A new surface atlas of Phobos will help MMX mission collect its samples - Phys.org",
     "description": "A new surface atlas of Phobos will help MMX mission collect its samples  Phys.orgA New Surface Atlas of Phobos Will Help JAXA's MMX Mission Collect its Samples  Universe TodayJapan is launching a mission to bring back the first samples from a Martian moon  TechSpot",
     "published date": "Fri, 11 Sep 2026 13:20:04 GMT",
@@ -27,6 +7,16 @@
     "publisher": {
       "href": "https://phys.org",
       "title": "Phys.org"
+    }
+  },
+  {
+    "title": "Tiny fossils reveal big insights about ant ancestors - MooseJawToday.com",
+    "description": "Tiny fossils reveal big insights about ant ancestors  MooseJawToday.com",
+    "published date": "Sun, 13 Sep 2026 02:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRkljYl9KVzJrTy1FNnNPSlZWUVFsWkF2cXVjaFFPWWhPemNxVGtLNmRCU2ZibmtNS2hTcFNOeEI1bHJJQzVqZ1FubzVmbUJHemx2cmxQREFfTFloV3Q2N1VycXFKTy1XeHpMbHlEWVRqUUxvV0JHMU5fWkpIdFRVS2hfWVA0Y2RkYi1QRzlMbk1iaWFNZEZsV1U3RWRManQxNzdDOHJyeDZSem8?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.moosejawtoday.com",
+      "title": "MooseJawToday.com"
     }
   },
   {
@@ -60,23 +50,53 @@
     }
   },
   {
-    "title": "University of British Columbia - Study confirms permanent loss of Canada's last Arctic epishelf lake - Education News Canada",
-    "description": "University of British Columbia - Study confirms permanent loss of Canada's last Arctic epishelf lake  Education News Canada",
-    "published date": "Fri, 11 Sep 2026 04:10:46 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZ2xRUkdic3gtYTJ5Qld2YkZBRGtCSWs2RmgwMzRnaTRMdXFFV21uRWtQRy15cml5dlR1VzR6RENUNjZOZFdWSkFFRkR1WXBldERYOE92dzJESWNXLXNwZUhnd2pzOVFhOGVsTlpXLXkzMkhIanJKTmkwWWY1WkhQRTVleHd4Q3lMM0dqV0ZMX1drNllwTEViRktvQXQ2Zk01d2o5dWJlZXZqenZWZ040NUt5YlJrVDVSVnc2TkZlTnI4Q0pMblpuTFBGSHRqNUF4cnBYUzZxNUJjWlU5cF9BeXhlUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Cat attacks taking a toll on Vancouver Island wildlife, rescue group warns - CHEK News",
+    "description": "Cat attacks taking a toll on Vancouver Island wildlife, rescue group warns  CHEK News",
+    "published date": "Sat, 12 Sep 2026 20:30:15 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZl9GaDBXQnU3RmVXVThJSHFsdHJNSWZmR2NSRmhyRUpaOHZhVEE1SmtEQ29vQ1VIUkJxdXd6SUtJUmUzRFphcXNnWTNGQjR3UFV1S1lIc1dsM3hQTWtCdGtGYm8xWUN4MjJPRUlic1FBcVhJN0NjNzRDQ19HeEVpWDRrVDhjaGpYOGJkWk80VWN2ZmlyVThkSzRaUTRoazBESjNYNg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://educationnewscanada.com",
-      "title": "Education News Canada"
+      "href": "https://cheknews.ca",
+      "title": "CHEK News"
     }
   },
   {
-    "title": "Wildfires, permafrost thaw in Canada causing even more climate change, new study shows - Radio-Canada",
-    "description": "Wildfires, permafrost thaw in Canada causing even more climate change, new study shows  Radio-CanadaSee more headlines & perspectives on Google News",
-    "published date": "Fri, 11 Sep 2026 17:24:09 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYWItTUYxcnhmR21SNE5rSHFvNFFzVzdtczB6TkV4LU1DYUk4Z05WUnNDQ2VaWTBlVlNYaUF4RXd5dzJTUXJZSmhLalZtVGNiSkdTN2ZXOUlERnByMFB2VFQ2cElqMUExZlNSTUZlWXlVWEVLSTdQMHR0MDdyV0V3djlJSDBXVjBHOVdheGtBOVBTQXBJTUc1OXpwNzZ1TGdnSWVlZ29HVHo?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "September offers stargazers a look at distant galaxies and star clusters - DiscoverHumboldt",
+    "description": "September offers stargazers a look at distant galaxies and star clusters  DiscoverHumboldtAndromeda is visible from 2.5 million light-years because the light of hundreds of billions of stars blends together. But an Earth-like planet there would be roughly ten billion times fainter than its own star and separated from it by only about 1.3 microarcseconds  Space Daily",
+    "published date": "Sun, 13 Sep 2026 12:03:46 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSDJnZjdsTDRuRmt1M2x1NnpBSlg1UGtER3VTT2JMS3lSZ3dwcmJEUDlPUVZyYzBqSDNTb1NZZF93U1dzRHNOMzl1V0luclozRTlUVzREazg4MG1IWkxYRHFBSDFLNkVuUkdzY2N5ZUZBVFhCMWhka3JWaXNtX0NsWGkzSFNxNmhEN0RGeGpxVnJxMWRLamItMy1mRlVPbnRHS2xYZFMzRGhtTWcySGo0NDZlMTM?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://ici.radio-canada.ca",
-      "title": "Radio-Canada"
+      "href": "https://www.discoverhumboldt.com",
+      "title": "DiscoverHumboldt"
+    }
+  },
+  {
+    "title": "Canada's last epishelf lake is gone for good, study confirms - Phys.org",
+    "description": "Canada's last epishelf lake is gone for good, study confirms  Phys.org",
+    "published date": "Wed, 09 Sep 2026 17:00:06 GMT",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kanp0MVhDUjFBVWR5Tk9NVUJmU0RHVl8xTFZRT08tN3dLNnJBOHlJVDdHRlRINVJmR2NVYWtDaWhFVnlpdnFHWjYySnFseHZDUVhxYUZrcU9XQVRWNGUzdmI5aVlhVWcwX1NRUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://phys.org",
+      "title": "Phys.org"
+    }
+  },
+  {
+    "title": "Hidden climate feedbacks could amplify global warming by 30 percent - Earth.com",
+    "description": "Hidden climate feedbacks could amplify global warming by 30 percent  Earth.comWildfires, permafrost thaw in Canada causing even more climate change, new study shows  CBCClimate ‘feedback loops’ could worsen global warming by 30%, study finds  The GuardianUnaccounted climate feedback loops may amplify warming by 20–30% this century, but cutting emissions will reduce risks  Phys.org",
+    "published date": "Sat, 12 Sep 2026 15:57:50 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTkNVRi03aUNIYnFab2tjNkIxRTNHblZZTkdOUTVmQXVyZHhYczFYNFMzTGR1ODF3TnRMZ2xxTEttR2MwQy1fZllPdm1rMTFWdzRBaTUxYWNEQTdXa0JNRHU1bFZRcTU0UXltU3NSR3F4bHZjTXBlMm53Nm9tYlpEdmVTNl92UXJFb1N2TnRQNWNibXlKSW1DSi13eFVMLUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.earth.com",
+      "title": "Earth.com"
+    }
+  },
+  {
+    "title": "Scientists knew Mercury was shrinking. They didn't know the true extent. - Mashable SEA",
+    "description": "Scientists knew Mercury was shrinking. They didn't know the true extent.  Mashable SEAMercury Is Shrinking, and Faster Than We Thought  The New York TimesScientists are trying to figure out if Mercury is even smaller than expected  CNNHidden clues show Mercury shrank more than previously thought  Yahoo News CanadaMercury is shrinking much more than scientists realized  Mashable",
+    "published date": "Sat, 12 Sep 2026 16:08:54 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYnVYVWxWMDhTOW1kQUN6ajdRQm1iMno5VHdJSGpGaGdQeHZPYlRHSHp5WFpCYnUxNWc5YnBucjhjYUloUXdsRzdXajFyZ3BFQk9OclpfLTZndHRTYmNQTkRlY2Q3dnRub2Y5ZlJUZTlYcjQ2UndwTDJfaWlfT1JMazQ3Wkt0MzVrSHFwclZQWWpZQzIxRWlEMG5lX2NORVZkbElUR1ppRHBYZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://sea.mashable.com",
+      "title": "Mashable SEA"
     }
   },
   {
@@ -90,13 +110,13 @@
     }
   },
   {
-    "title": "Mercury shrinking much more than scientists previously thought - octodaydispatch.com",
-    "description": "Mercury shrinking much more than scientists previously thought  octodaydispatch.comScientists are trying to figure out if Mercury is even smaller than expected  CNNMercury Is Shrinking, and Faster Than We Thought  nytimes.comThis planet may be shrinking faster than scientists expected  CTV NewsHidden clues show Mercury shrank more than previously thought  Yahoo News Canada",
-    "published date": "Fri, 11 Sep 2026 16:19:25 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdU14LWRBeF9FRXNFalNSMWI4WGIzVy12bG52MHZRbk85M3VSNzdDMEtmeUQzSzZzVmNQYVVrZWVUbGY5aGVCOEwwMjZlakRZQ1FrYm1nMTdIQVBZTmUxYUYyajZWNlYyT1hUTUN2aWhBbXlMalpweVY3cWxfSmFHUFVST01tMFlnRlBnczk5UnJiVnpwclJLUXJRR2lMNnNJRVQ3anUxLW9uYXpZd1NTZ3BidWFrZDhUYVhhOU1zZ2ZCcXpNMklNdF80cDRULVRMXzN1YnVMQWplRmlCSzVMWUVpU3JCcnRmd1JFQm1DMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Some solar system objects may still ‘remember’ how they were born - Tech Explorist",
+    "description": "Some solar system objects may still ‘remember’ how they were born  Tech ExploristNASA’s Hubble, Webb Find Far-out Solar System Objects ‘Remember’ Past  NASA Science (.gov)",
+    "published date": "Sat, 12 Sep 2026 11:11:05 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPalZidzBILWV3N3ljWC1iTGlXSnBtaHhyYlhuY2lkcy1NOXNuZnF6UTYyM3QtM1gwNGdTZnN1bFo4SElVeFBKTmxOMEI2bWtEVGxZalpYd3dZY2RXMTVVTG10eVdJRXBfRUQzMk9lTjdjajNFRmRnSm1CN2VuNTI3NmNRaTRDQkhHUnZZ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.octodaydispatch.com",
-      "title": "octodaydispatch.com"
+      "href": "https://www.techexplorist.com",
+      "title": "Tech Explorist"
     }
   },
   {
@@ -110,13 +130,23 @@
     }
   },
   {
-    "title": "Some solar system objects may still ‘remember’ how they were born - techexplorist.com",
-    "description": "Some solar system objects may still ‘remember’ how they were born  techexplorist.comNASA’s Hubble, Webb Find Far-out Solar System Objects ‘Remember’ Past  NASA Science (.gov)",
-    "published date": "Sat, 12 Sep 2026 11:11:05 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPalZidzBILWV3N3ljWC1iTGlXSnBtaHhyYlhuY2lkcy1NOXNuZnF6UTYyM3QtM1gwNGdTZnN1bFo4SElVeFBKTmxOMEI2bWtEVGxZalpYd3dZY2RXMTVVTG10eVdJRXBfRUQzMk9lTjdjajNFRmRnSm1CN2VuNTI3NmNRaTRDQkhHUnZZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Rubin observatory peers deep into the famous COSMOS field - Phys.org",
+    "description": "Rubin observatory peers deep into the famous COSMOS field  Phys.org",
+    "published date": "Sat, 12 Sep 2026 12:00:08 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6V3F4OE9McnNLSU1WaW5wUGVPZWdna2FNSEh0VWozV20yOVpBTHh2TU0wdjI4MXVWcjJ6dC1qUTFwREtJUE5MYTFYTDNETjNrMHB4T2x2YVRMbmNzdUZCNmFnV3RodjRVOW1fOWVjQXlXZmJzMWFmbzRB?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.techexplorist.com",
-      "title": "techexplorist.com"
+      "href": "https://phys.org",
+      "title": "Phys.org"
+    }
+  },
+  {
+    "title": "What’s happening with the models of the Atlantic Meridional Overturning Circulation? - Columbia University",
+    "description": "What’s happening with the models of the Atlantic Meridional Overturning Circulation?  Columbia UniversityThe Atlantic Ocean Has a Hidden 'Heat Valve' That Controls Earth's Temperature – And It Could Be Closing  ScienceAlert'There are no easy answers here': New study forecasts a dire dip in food production if key Atlantic currents collapse  Live Science",
+    "published date": "Sun, 13 Sep 2026 13:41:44 GMT",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbjRoU2NUMFg0emlzTkFETjFmYzhkWmM1Q1lMa2MzR3VEdWZlQjBJWUpvanZ5Y18tS1NBX2p6SGxYakstT1dDOF9QSFI3dHp4cEdaa3BqTXpvcGt6bVZFUldQLXlkT2Z0SlM0SVZNWFRRX2R6ejdSVG1LWGhYQnF5Q0JJTlZOdkZnTk4wLU91RTJTZ0lvWEtsa2Yxay1EdF9FRVhNRGtLQjF0S3QzMDlRZVVTXzB2R0JZdnhUVTR3c1BEcFppcXBsSDR3WVhxUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://statmodeling.stat.columbia.edu",
+      "title": "Columbia University"
     }
   },
   {
@@ -130,28 +160,18 @@
     }
   },
   {
-    "title": "The Right Chemistry: Communication has taken flight since the days of carrier pigeons - Montreal Gazette",
-    "description": "The Right Chemistry: Communication has taken flight since the days of carrier pigeons  Montreal Gazette",
-    "published date": "Fri, 11 Sep 2026 15:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOTYtV0RDYkZPVGowWDNVa213VUF5QUhZSXVVd2l2MmhERjRDUHp1emdyMWI0MndydEVMbGRlaGVlWXJLMlRieWl0TU5yUlhreUFEUVRaVmNrZ1M4c3RPWUtNNGwyc01MU01ieWlWc3g5UXlKdHVLTUI1MFdNYkxLVmRzM29lVjRsM3pmVFJlWGtLUlFtTXhFbnFLbnRIVlRLMW5XTmdnbEk2Z1Q5SExyN3V1bEY2LVFFM1BCcEwwYmlBTlBoajFYSDBGcUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Five night sky events to look out for this autumn - Yahoo Lifestyle Canada",
+    "description": "Five night sky events to look out for this autumn  Yahoo Lifestyle CanadaSee more headlines & perspectives on Google News",
+    "published date": "Sat, 12 Sep 2026 23:53:13 GMT",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BREtYdjNyTUF0Ujcwc3p1d2JUalhDV3o0RVpOcFhTR2tRTlhmSjkxX1JGXzhQalE2SWphbm9kemZHR3EzWlR3Z0Vaa3dXZF95Y0RkRm1MNklXQzY3Y292dWpaWkYwel9rTW1FTlRGMV85d0hEc09R?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://montrealgazette.com",
-      "title": "Montreal Gazette"
-    }
-  },
-  {
-    "title": "China Postpones the Chang’e-7 Mission - Universe Today",
-    "description": "China Postpones the Chang’e-7 Mission  Universe TodayChina alters Chang’e-8 lunar south pole mission amid lunar program reorganization  SpaceNews",
-    "published date": "Tue, 08 Sep 2026 00:12:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeXlfZExuVW15RG9ZWldwOUJfSndleGF0MUpfelVRaHRBQ0FOd0lHelJnWEpvT19lbVNKT1FWTDdySHp0UG5pVHVXdnhmVFE4ZjkzZDFCdk5qMjJ0N25QbnFDeWJuNGtGazNhWlZoMGpfd0lyN2EwcE8xbDJ3X0RJVg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.universetoday.com",
-      "title": "Universe Today"
+      "href": "https://ca.style.yahoo.com",
+      "title": "Yahoo Lifestyle Canada"
     }
   },
   {
     "title": "Weekly ISS update: fourth spacewalk in a month wraps up - SpaceQ",
-    "description": "Weekly ISS update: fourth spacewalk in a month wraps up  SpaceQ",
+    "description": "Weekly ISS update: fourth spacewalk in a month wraps up  SpaceQ'Photo or it didn't happen' NASA astronaut shares pics from her spacewalk that show how amazing – and terrifying – space can be  skyatnightmagazine.com",
     "published date": "Sun, 06 Sep 2026 18:46:25 GMT",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pelVSNUw3MW54aUo4QnY3SXk0dWluRFNsRVBBMEpLaVNlYmRwbHcyb2tKWVNmMy12OW05MklNenktR2Q4TnppSnVWbUZyekluUVRwbUQ1MDVtdU9zWnA4dEwyS0ozS3EwS1ptVXIzRENRaGVveHk2RGl1cUJFdw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -170,26 +190,6 @@
     }
   },
   {
-    "title": "Andromeda is visible from 2.5 million light-years because the light of hundreds of billions of stars blends together. But an Earth-like planet there would be roughly ten billion times fainter than its own star and separated from it by only about 1.3 microarcseconds - Space Daily",
-    "description": "Andromeda is visible from 2.5 million light-years because the light of hundreds of billions of stars blends together. But an Earth-like planet there would be roughly ten billion times fainter than its own star and separated from it by only about 1.3 microarcseconds  Space Daily",
-    "published date": "Sat, 12 Sep 2026 22:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qMVc0cnFCNzFPbnFHc1lwMGptbWVmdkRzY1NWZUlvN2k3QW1nQ2ZydnJzcTg5VkVHaFBsYW1vVl91ZE5nOGQ5ZkNWaUFCdkpfVGRpZmpXRXg3WFNVaU5VV0sxT3hLZWotdFJMYndHZ2NkNm5z?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://spacedaily.com",
-      "title": "Space Daily"
-    }
-  },
-  {
-    "title": "Rubin observatory peers deep into the famous COSMOS field - Phys.org",
-    "description": "Rubin observatory peers deep into the famous COSMOS field  Phys.orgAn Early Discovery by Rubin Observatory!  Astrobites",
-    "published date": "Sat, 12 Sep 2026 12:00:08 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6V3F4OE9McnNLSU1WaW5wUGVPZWdna2FNSEh0VWozV20yOVpBTHh2TU0wdjI4MXVWcjJ6dC1qUTFwREtJUE5MYTFYTDNETjNrMHB4T2x2YVRMbmNzdUZCNmFnV3RodjRVOW1fOWVjQXlXZmJzMWFmbzRB?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://phys.org",
-      "title": "Phys.org"
-    }
-  },
-  {
     "title": "How big can the universe's first starbursts get? - Phys.org",
     "description": "How big can the universe's first starbursts get?  Phys.org",
     "published date": "Fri, 11 Sep 2026 23:20:01 GMT",
@@ -200,10 +200,10 @@
     }
   },
   {
-    "title": "Japan's Hayabusa2 achieves first-ever laser ranging experiment with an asteroid - Phys.org",
-    "description": "Japan's Hayabusa2 achieves first-ever laser ranging experiment with an asteroid  Phys.org",
-    "published date": "Sat, 12 Sep 2026 21:00:02 GMT",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE00LWNPcWpvakRRUldtSDRXN2lSWkM2Szl2SHI5clZPQUIzUEFuTWRCa0toLWR4b0V1M191blptVGRZZ1dtOWplTHpFbzF4N2tNN0hHeU1jcEpFc3VJbzhVYTU0QnpZcF9FczczS2x1WUs2cUoyMjBYYlVPdzEtZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "NASA's next great observatory could spot oceans on distant worlds - Phys.org",
+    "description": "NASA's next great observatory could spot oceans on distant worlds  Phys.orgSee more headlines & perspectives on Google News",
+    "published date": "Sun, 13 Sep 2026 13:00:04 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE55RklIdGJ4dWl0VUVyWnE5bFJqaUZsSFBtRGpMWGVhSzdtYnhIRUZPRkVRa1JCcDQ1ZGxrbHNpRjdLQlR0UGsteDJlVDVjelRkN18zX3lNRWVGUGkweGFLNEExRnpHX1dmMzIxM19PRzVKM25mSUVPWEVaMVA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://phys.org",
       "title": "Phys.org"
@@ -211,7 +211,7 @@
   },
   {
     "title": "Tiny backpacks reveal the secret, sometimes circuitous migrations of small songbirds - The Conversation",
-    "description": "Tiny backpacks reveal the secret, sometimes circuitous migrations of small songbirds  The ConversationGuest Column | I put a tiny backpack on a warbler. It revealed an epic migration.  The Washington Post",
+    "description": "Tiny backpacks reveal the secret, sometimes circuitous migrations of small songbirds  The Conversation",
     "published date": "Tue, 08 Sep 2026 12:38:27 GMT",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWEhTRHc5N2ZtNjg0YkFnT1AxcFJtcFNUVGJ6cmNiQUN5RHBGcEJVbk9Lb3JJcU5MT2F6THhwRUNhVm11Y3o2eTB1QjQ1TExJRXo2SzFDaDJVb25uMDR5MGFsMVFidmZIQVdkeG4wU21FNThpOXUtQ3Z6dE1WZnRXZTVwV2JWbnB4MmNDTE44Z1ZtTTRlQjlLdUdpNElYMW5SNnJFWGhRc1NFQnRrWDVlUm9zWWxtdlFIV2c?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -227,6 +227,26 @@
     "publisher": {
       "href": "https://www.thebrighterside.news",
       "title": "The Brighter Side of News"
+    }
+  },
+  {
+    "title": "Japan's Hayabusa2 achieves first-ever laser ranging experiment with an asteroid - Phys.org",
+    "description": "Japan's Hayabusa2 achieves first-ever laser ranging experiment with an asteroid  Phys.org",
+    "published date": "Sat, 12 Sep 2026 21:00:02 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE00LWNPcWpvakRRUldtSDRXN2lSWkM2Szl2SHI5clZPQUIzUEFuTWRCa0toLWR4b0V1M191blptVGRZZ1dtOWplTHpFbzF4N2tNN0hHeU1jcEpFc3VJbzhVYTU0QnpZcF9FczczS2x1WUs2cUoyMjBYYlVPdzEtZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://phys.org",
+      "title": "Phys.org"
+    }
+  },
+  {
+    "title": "Psychology says people who were never celebrated themselves often find it difficult to celebrate others, not because they want you to fail, but because your good news can reopen the old wound of nobody ever making a big deal of theirs - Silicon Canals",
+    "description": "Psychology says people who were never celebrated themselves often find it difficult to celebrate others, not because they want you to fail, but because your good news can reopen the old wound of nobody ever making a big deal of theirs  Silicon Canals",
+    "published date": "Sun, 13 Sep 2026 09:15:40 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNUGxnZ1lIZzZOLWVyQmNyemt1bEN2RGQ2c0FFZnlWano1S3BqZVJ6TFJkWjA0dFJFX0NIRDNOLU1CeGM5X3IzUEpObENURUxmWmdqWGxka0FlRFRfOUlqMWYydWtmZTFSendwc2hVZnl3MnhONE01LS1PUV8wX0xDNFdxMGJ0NHhDdUk3VmlIVEhMRk9NT0dESDhDZnFiZEFrVjJISjZ6c1Y3bFJWTzhWRnExSnMtU3M3TXFRY2NJWDY0amU0emMwUTlqbEk0VHhSUjBmWmhZX05JUHBBSGdwcWhqaHp1dVE0MXp3WFRCWHFUTXd2R2lhNEdVN0ROaUFsT0lqa3l5UTNUNVo2dHdOQTFPM0Vad2xrc1VMbVVLVmZUNGdXcXROZm1fMExZdFlpY0FQYXNnRmxiRGpaVmo2RVFPM1F3QVkzSEtr?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://siliconcanals.com",
+      "title": "Silicon Canals"
     }
   },
   {
@@ -247,16 +267,6 @@
     "publisher": {
       "href": "https://www.scmp.com",
       "title": "South China Morning Post"
-    }
-  },
-  {
-    "title": "The Atlantic Ocean Has a Hidden 'Heat Valve' That Controls Earth's Temperature – And It Could Be Closing - ScienceAlert",
-    "description": "The Atlantic Ocean Has a Hidden 'Heat Valve' That Controls Earth's Temperature – And It Could Be Closing  ScienceAlert'There are no easy answers here': New study forecasts a dire dip in food production if key Atlantic currents collapse  Live Science",
-    "published date": "Sat, 12 Sep 2026 08:02:30 GMT",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR3hWQTJWX0hvaV9oMUFIYUxDbUI3MjhLc0JqcUZZNVJ3LXJEWGs1RXpNT0tQeDZJLTlXOFRWdXpydThrTDM5T1ZUV1FEVWV3RWhXMUw4X3JRUDh1UHdxbGJ1MXZuQUhrSS0ydTY2eVZacFhiS19BTzJQMm9ybzZrZzVPYnFsN0g1V0NTTG5md2ZQVzZVbXdOT0FYTC01LUJPZDlYbnhnaTZKRUNwU19zcDJ6TXF4LXpLUjZOa0hVcElmLUsxVElN?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.sciencealert.com",
-      "title": "ScienceAlert"
     }
   },
   {
@@ -290,53 +300,123 @@
     }
   },
   {
-    "title": "LLMs can't do frontier science because they can't invent new language - IAI TV",
-    "description": "LLMs can't do frontier science because they can't invent new language  IAI TVAI That Knows When It Doesn’t Know: Language Models Enter the Lab as Uncertainty-Calibrated Discovery Engines  Bioengineer.org",
-    "published date": "Fri, 11 Sep 2026 10:06:55 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ29vNWRXcE5uMXRIbk1LNGJMdnlrM0FzN05nSmZWdWlVOWtiOHJFRkdNRXVTYWtIUkdVYWIxY04ycEoyeWxzX2IydFJUam1Yd1hxVW9GV2RoVkRHd19vZGJGUFBnSktJNmpfc0gwNG1ZMHJDeEppcERBMWk4Z2NjWnJ1UmlGVUxLbE5Ic3NHX2hqTldsalVuZTRORUZVMzJmZFZF?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "The Einstein test: what happens when AI tries to rediscover relativity? - Nature",
+    "description": "The Einstein test: what happens when AI tries to rediscover relativity?  NatureAI That Knows When It Doesn’t Know: Language Models Enter the Lab as Uncertainty-Calibrated Discovery Engines  bioengineer.org",
+    "published date": "Wed, 09 Sep 2026 14:19:32 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2c1BNaUt6RGFzb1JjRXl3VHI3NnY2cVVyMXZsOFd6SnJxanlCWHRsWWtlYktndldEa1V5V0pzRDRrang4ZHJ5RzZTS1JBZ2hxSTRTYmhKdENRNzRGN3BV?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://iai.tv",
-      "title": "IAI TV"
+      "href": "https://www.nature.com",
+      "title": "Nature"
     }
   },
   {
-    "title": "This Is the Biggest 2D Map of the Universe. Here’s How to Use It - CNET",
-    "description": "This Is the Biggest 2D Map of the Universe. Here’s How to Use It  CNETAstronomers Have Completed the Largest Map of Space. Yes, You Can Play With It  wired.comThe DESI legacy imaging survey releases the largest 2D map of the universe  Phys.org",
-    "published date": "Sat, 12 Sep 2026 01:49:12 GMT",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BRjJCTUxTT3F1dVlka21YNWZkb2tuS3JBcnpDSUlXRUg2UGcxUTBzZkJlNDNpZDkyTzBYYnVvV3E2QzRvQ1BpVU5CeFJwMHN4RGR4czZkUVNDMlFDaUlkNmpTMXJwVmpkdFVMMFpPRm1WSjJ0dC16bUI5VTBKbG8?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cnet.com",
-      "title": "CNET"
-    }
-  },
-  {
-    "title": "AGES OF ICE - KPBS",
-    "description": "AGES OF ICE  KPBSTravel the World with Ages of Ice  PBSAGES OF ICE to Premiere on PBS, Narrated by David Tennant  BroadwayWorld",
-    "published date": "Fri, 11 Sep 2026 22:46:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wNjh5a3lfT1pVNHh2el9ISU9IMG9FMTlQMG5VenM2cE93LXNkelZMbG1SNjQtRkQtT2ZLQ1ZWYkRYQkI1T210eVlPMkltb3ZfeWVvR2MwSm1XVUl5?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.kpbs.org",
-      "title": "KPBS"
-    }
-  },
-  {
-    "title": "Researchers Discover a Green Hydrogen 'Goldmine' Beneath Australia's Red Dirt - ScienceAlert",
-    "description": "Researchers Discover a Green Hydrogen 'Goldmine' Beneath Australia's Red Dirt  ScienceAlert",
-    "published date": "Sun, 13 Sep 2026 02:05:55 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY1lkR2tNd1AtMmw1S3p5VmZnOG5MbWU2SFJGejlQbk9kTVJoUnh1dzVUTEk3NzFKSEJ2MUtWdDBTRU1CUEtTU3VwVkswQnkxWHhwTDRVY3ZKRnJPT3dJRVAwdHJEUjktNEFpMjJHd2JWT2tvUXRCTGhSSnBZUFFrQ0VwRjl3cnJMbHdTcGdURVZXMFNnNnF1bnJWaGJHWGZkVjE3NjVn?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.sciencealert.com",
-      "title": "ScienceAlert"
-    }
-  },
-  {
-    "title": "Earth Is A Sitting Duck If Sun Unleashes Superstorm, Scientists Say - Forbes",
-    "description": "Earth Is A Sitting Duck If Sun Unleashes Superstorm, Scientists Say  ForbesUS study warns a 1-in-250-year solar storm could cut power to 5 million, cost $1.8 billion a day  The Cool DownSpace weather can cause both beautiful auroras and infrastructure challenges – 5 essential reads on protecting life and technology  The Conversation",
+    "title": "Earth Is A Sitting Duck If Sun Unleashes Superstorm, Scientists Say - forbes.com",
+    "description": "Earth Is A Sitting Duck If Sun Unleashes Superstorm, Scientists Say  forbes.comUS study warns a 1-in-250-year solar storm could cut power to 5 million, cost $1.8 billion a day  The Cool DownSpace weather can cause both beautiful auroras and infrastructure challenges – 5 essential reads on protecting life and technology  The Conversation",
     "published date": "Sun, 13 Sep 2026 06:00:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQck9JMVlGZHVBajY5bDBUamx6MmpqYjkwaTU5M28wOXcyaTRWWVFvUzFoak9oa201UjlmQmV0b0UyMUJMSEVOTVZvOHF1eXBnbWZxUFNjcExxdFRUTk1DRTM2elI0ZGFrbkVtMTdBNTA4U1NhRDN3bUczX1lmeDdMb29qVjNBQlV1ZEpxVk1nZFVoVUtGeTlTTzFnakVrd0gxTFZCaEVXUE9DbjNkeHdMTXR4YXRDRU91M19icE9NVUMtQWs?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.forbes.com",
-      "title": "Forbes"
+      "title": "forbes.com"
+    }
+  },
+  {
+    "title": "James Webb Space Telescope discovers the rings of tiny solar system body Chariklo are changing - Space",
+    "description": "James Webb Space Telescope discovers the rings of tiny solar system body Chariklo are changing  SpaceJWST Finds Chariklo’s Hidden Rings Are Changing Before Astronomers’ Eyes  The Daily Galaxy",
+    "published date": "Sun, 13 Sep 2026 13:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWVR3SnVXczlkREdKMF82WWhmbERnUDZxTXJoeWVPWXFXbEQtN1NMUTRNTUNCQmRxb0hOMGhnUHowS1NjcjViZlJQUDl3dlBYdDBrVFFvSFU1QjRER01yVWhQXzhTMXdTckp3amk4LVVzaUN2SWUtWVc0YUUwLURUTVlBbExON1dPLTlobnJhdTI4VmFSSnpVOHNpVk5LMjhQTllmTW9MRkFuSVlNSmR4YzhXUC1HVWJyank4RmtiYXIwejhaUWMtdzd0M2Q1cTI5YjlpQ3ZGcVJDTDhEdDhwenFDQWFaZGdt?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.space.com",
+      "title": "Space"
+    }
+  },
+  {
+    "title": "Global warming is breaking a 400-year climate link between two oceans - Science Daily",
+    "description": "Global warming is breaking a 400-year climate link between two oceans  Science Daily",
+    "published date": "Sun, 13 Sep 2026 12:19:52 GMT",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5acFRrRlFNVHoyYkNRRHZfZjBiRlRHak5YWEpoSVFQV3IwOGpPWFYyVmpEVUhtc0liU09jQkVOS21oZEVzWjg2VnhMUzlEMV9CeDgwejBDQ0cwZGoxSGNLbWhTUDdTemNUZWdvWW9mNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.sciencedaily.com",
+      "title": "Science Daily"
+    }
+  },
+  {
+    "title": "Researchers pinpoint key early-universe measurement with record precision - Phys.org",
+    "description": "Researchers pinpoint key early-universe measurement with record precision  Phys.orgGalactic Archaeology Study Confirms Element Formation Timeline After Big Bang  AZoQuantum",
+    "published date": "Sun, 13 Sep 2026 12:00:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvS1l4S0doQTdIUUd0VEhVU3p4Vm4xTHFtUE1RQm0wUmc2dDFFSXoyaG5tR25KVHV5ZHZuUDRhalBJX3R1c25wQXlzcWhWbGdnMnJ1V0RLeXZIMW9mTWxkeGFhWGlFU1Q5VFZiamVzT3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://phys.org",
+      "title": "Phys.org"
+    }
+  },
+  {
+    "title": "Cataract surgery will be needed in space, surgeon predicts - Phys.org",
+    "description": "Cataract surgery will be needed in space, surgeon predicts  Phys.org",
+    "published date": "Sun, 13 Sep 2026 13:20:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xdWRVeV9xNTVSZGIzRC1lWXZMNlRndDk5VkczMFljRFBiazFERHV1NTJuaWhUQXNUanNqVGVyMExkM2QwREZxeUN2cEZMOEZZS25GNEtBTEF0TjBHcEM1SnFrQWJaUkJXWXIyZ1JJVDVPZms?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://phys.org",
+      "title": "Phys.org"
+    }
+  },
+  {
+    "title": "Scientists are building a microscope powered by a quantum computer - Science Daily",
+    "description": "Scientists are building a microscope powered by a quantum computer  Science Daily",
+    "published date": "Sun, 13 Sep 2026 12:06:22 GMT",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkQ2pvaDdQSjhhR1ZncW5remtCVWdWUmVnTUdzT3UtMXdOU0hpVi00cW9jdGRXTlhaUzNpRk9kcFBOaENIREFxaTMzanlZZVhoUEtCd2ZGN04ybk5la1FCSmh5ek5EUTh1d0NRLVVwbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.sciencedaily.com",
+      "title": "Science Daily"
+    }
+  },
+  {
+    "title": "China’s FAST telescope maps neutral hydrogen, the cosmic gas for making stars - South China Morning Post",
+    "description": "China’s FAST telescope maps neutral hydrogen, the cosmic gas for making stars  South China Morning PostChina’s FAST puts together largest atlas of the universe’s gas bodies  Global TimesWorld's largest atlas of universe’s gas bodies compiled, could decode how galaxies form, evolve  Interesting Engineering",
+    "published date": "Sun, 13 Sep 2026 12:00:08 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRzBrYVFjUlFjNG1pWGxSazhaSGl1bkdUNHBHUGVHRkhLQjZLVlFGOWRFQU1DZmpsU1lXa0hhTjRUYzhUM3N4a09QQlE1VXNVT3FGT1hnYVphYXJUWW83Vm5IUE8yXzh3aG5TMkNNZ0UwZ3RwSGFXd1BlcVdRMzB2VElhU1NURElfNzdzWnlmWjdfUlJvUW54dTdPZkQyMWRCQ0pRZkM3WWlYakctR3V5NHUxcnJXZEVjQzBWZnBLV1jSAcABQVVfeXFMTVpQY1FkendQM3lDRkNVZG5jSGNfWjRFQzVReGZmTmoxUlhXbmxZRlhNQTZPaUpFRnVWTzFJYjJiUU5vMXUtT1NXaU5peURlY3NTUnZES1ZUUHVrMk0xMjl6TnNNRDROWnUyYklRaFZSLV9WaEVLTjAwVUtJQWlFU0cwWTE4QmJnMEJLX2RRZmVPOFVpdldWT3ZiYVI4MG03QllVQXJDMlk3blVzeHM2VVVqdGVjcFNXTkVuZkJ6dldJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.scmp.com",
+      "title": "South China Morning Post"
+    }
+  },
+  {
+    "title": "Physicists discover a hidden “curveball” in quantum light - Science Daily",
+    "description": "Physicists discover a hidden “curveball” in quantum light  Science Daily",
+    "published date": "Sun, 13 Sep 2026 11:23:31 GMT",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HWWNjRUpxcFEwQ3Z5V3FIcFFEbzhoaVdtOWZvVnFZVkUtN0Y5ZnhJeEo5ME4xMzAwdmY1Q3k4VWg5blJJdnh3TXFTNEhCRU9wRTFocVFSQVdXT3pNV1d1R19fbDduRlFtYi1rMDZSWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.sciencedaily.com",
+      "title": "Science Daily"
+    }
+  },
+  {
+    "title": "AI uncovers hidden Ozempic side effects across 400,000 Reddit posts - Science Daily",
+    "description": "AI uncovers hidden Ozempic side effects across 400,000 Reddit posts  Science Daily",
+    "published date": "Sun, 13 Sep 2026 10:48:26 GMT",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nUzVsUk9NODFTWUJ3NmJZT2plbzUtMDJnbm1LZWtORlNBZUY2S3NmZGZEaTBSbGpyQTJZNUhjVktUR1lrM184QmhZTXVIR1hCNzZQbnFYWl9WUV85a1RMMHlpQWpJZkFubnduMkxHOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.sciencedaily.com",
+      "title": "Science Daily"
+    }
+  },
+  {
+    "title": "With a Better Understanding of Physics, We Could Predict Volcanic Eruptions - wired.com",
+    "description": "With a Better Understanding of Physics, We Could Predict Volcanic Eruptions  wired.com",
+    "published date": "Sun, 13 Sep 2026 09:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FYjBIbThTaGJvdzhyaHl2X3JhbTNxRHlTU0FGYlBCc0sxTVdjbGFwczBZcmdmYi1jbllOU05GQnJUYmxoRTRRT3loUXF2XzhETHhwQUNfQlFYRTNNZ21yZlR2Y1dETnM1QlhVcWFQSVU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.wired.com",
+      "title": "wired.com"
+    }
+  },
+  {
+    "title": "Potentiation of curcumin-mediated antimicrobial photodynamic therapy by sub-inhibitory concentrations of essential oils - Nature",
+    "description": "Potentiation of curcumin-mediated antimicrobial photodynamic therapy by sub-inhibitory concentrations of essential oils  Nature",
+    "published date": "Sun, 13 Sep 2026 10:09:59 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHUWZGN3ZELUt5WklnVmdiQlVtTkJtakRwTERxNEhTWVQ1MFFBMWhzRjlQb28xZFZSZzdUOUNOLTlDSExEclNGOTVkQjVmNFlOMEpoc3o4SnJET1NVR1Iw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nature.com",
+      "title": "Nature"
     }
   },
   {
@@ -360,6 +440,16 @@
     }
   },
   {
+    "title": "Haunting Hubble 'bubble' image captures cosmic cycle of destruction and creation - Live Science",
+    "description": "Haunting Hubble 'bubble' image captures cosmic cycle of destruction and creation  Live ScienceN44 Superbubble, Hubble’s Monthly Image of a Star-Carved Void  TechEBlog -Superbubble in the Large Magellanic Cloud  NASA (.gov)",
+    "published date": "Sun, 13 Sep 2026 10:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT1ByZXZGc0dzMl9ZQnk3N2xueEFXejdGdDdzTmZ5THNsZ3h1TW5PRWRvbU5qMjhPaG5UbHFYOTM1RUJHSzNPMXY5d0Y3LUR1RGhCVWczSzVyM28ySHdIXy1Ucl9KTkhvR1FORlZ1d0NzRE9xRkZkM0xKRWM0SlBGVGc3WXZRamZ3V2JpWXdpQzM4Z2s2NzVFb1FFU2MxM3pCY21tc2dTUUxaQWc2TEpVRnB4YUJZX1RqeDRBRUI5WVVCTVBpYVJKdGJJb3M5TmdlV3BIalp3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.livescience.com",
+      "title": "Live Science"
+    }
+  },
+  {
     "title": "Scientists find water was fueling volcanoes 3 billion years ago - Science Daily",
     "description": "Scientists find water was fueling volcanoes 3 billion years ago  Science Daily",
     "published date": "Sun, 13 Sep 2026 03:16:18 GMT",
@@ -370,12 +460,32 @@
     }
   },
   {
-    "title": "A hidden compound in healthy foods may worsen IBD - Science Daily",
-    "description": "A hidden compound in healthy foods may worsen IBD  Science Daily",
-    "published date": "Sun, 13 Sep 2026 02:49:18 GMT",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XX0kzWnhqM1Z1NVlSbGl2NklWZHVIWmNxaGVaOUtUWDR4Vm1QMi1aWDl6M2p2dFNZSm9kM2kydmxDcnZZdTR2SkxiOTBTekh6TzFta0pFZFUzRHphY2JRbVZLWUgyQmVmSGdnM0VVTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "17 amazing photos taken from the International Space Station – lightning looks crazy from orbit! - skyatnightmagazine.com",
+    "description": "17 amazing photos taken from the International Space Station – lightning looks crazy from orbit!  skyatnightmagazine.com",
+    "published date": "Sun, 13 Sep 2026 11:40:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ3FsR09aMHlHS1NmQmtVZ09TTFFsYVg5WVVCRURhZ3hfSWVmZ0hXaHR0ajk2RlN5Mm5pTGx4NjRkdjl6M1UzczhQei1GLTdVbk5yYkpjckRHckR6VHQ1QmpiWHR3aGFnS2NZVHMybExCUDlSbllKX2tJZkhhRDFZNkROc3l0VkdZcEhMWGRnSVNYYVpRWk5rT2Zhd2g3Z3puVjBwVmx6UFQ5U2s?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.sciencedaily.com",
+      "href": "https://www.skyatnightmagazine.com",
+      "title": "skyatnightmagazine.com"
+    }
+  },
+  {
+    "title": "Researchers Discover a Green Hydrogen 'Goldmine' Beneath Australia's Red Dirt - ScienceAlert",
+    "description": "Researchers Discover a Green Hydrogen 'Goldmine' Beneath Australia's Red Dirt  ScienceAlert",
+    "published date": "Sun, 13 Sep 2026 02:05:55 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY1lkR2tNd1AtMmw1S3p5VmZnOG5MbWU2SFJGejlQbk9kTVJoUnh1dzVUTEk3NzFKSEJ2MUtWdDBTRU1CUEtTU3VwVkswQnkxWHhwTDRVY3ZKRnJPT3dJRVAwdHJEUjktNEFpMjJHd2JWT2tvUXRCTGhSSnBZUFFrQ0VwRjl3cnJMbHdTcGdURVZXMFNnNnF1bnJWaGJHWGZkVjE3NjVn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.sciencealert.com",
+      "title": "ScienceAlert"
+    }
+  },
+  {
+    "title": "Physicists can’t agree on how the Universe works - Science Daily",
+    "description": "Physicists can’t agree on how the Universe works  Science Daily",
+    "published date": "Sun, 13 Sep 2026 13:17:43 GMT",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mTzJpbC1HUnMyczZjUnBaa1Y3VHBIR2t0aGFrd1VpaGpuY3JmUkRZWmp4bWZ1bjh6Uk1ETmJ3WmpLUko3V0tqV21rY3hMbVMtSVNoZkNyR1A1b1Nya2Y5UXU5WFZRZ1IwR1Q2TVp3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "http://www.sciencedaily.com",
       "title": "Science Daily"
     }
   },
@@ -390,18 +500,8 @@
     }
   },
   {
-    "title": "Denisovan fossils in China reveal ancient ‘hunting paradise’ - South China Morning Post",
-    "description": "Denisovan fossils in China reveal ancient ‘hunting paradise’  South China Morning PostAncient proteins identify various Denisovan remains from Southwest China  NatureFossil remains unearthed in China offer new clues about how Denisovans lived  CNNResearchers Discover Rare Denisovan Bones in a Cave in China  National GeographicDenisovan tools from cave in China show how mysterious humans lived  New Scientist",
-    "published date": "Sun, 13 Sep 2026 02:00:10 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOejRYRmh5c040OXV0Tk1Hc2t3b21XdlcxcVJUandaamZVMU1XSS1iNXo4dGxCa1JYS1lGeXVVOXZFWVNDVHphM0VSQ050NUtpUEZNekktT3V1SnNEUGpkQ05LMUs2V3ppVkQ5WTVHODhGeDYyWi11OGtBTXdtYzA3eW94Z2RhVjNuYVl4eVRialRYLWVSTllRWFAySk95SUl4LTdSSlNVMzVXZTBpTUtUYdIBsAFBVV95cUxOSDBTVGJXNEhTN3BxTUdwb3lRNy1SRV9NdTU1SzhScThYcklkUmhyUzg0alc1bUpJcU1vY3RYR3o5b3A3TkJLZnZmNWxGclFHYnJLR05xa1FWdjhibXgtejcwZnVBLWVwT3g0SEM3NkxURDFHOFZzZnV4STFBODlxak1zOFZhRkZJUUhJNmhteVJtUjVFZjZTdXBVTHd5UjlaT2Z1RlBhT1lWbmhteVFuOA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.scmp.com",
-      "title": "South China Morning Post"
-    }
-  },
-  {
     "title": "The Sky Today on Sunday, September 13: Venus, the Moon, and Spica - Astronomy Magazine",
-    "description": "The Sky Today on Sunday, September 13: Venus, the Moon, and Spica  Astronomy MagazineThis Week's Sky at a Glance, September 11 – 20  skyandtelescope.org",
+    "description": "The Sky Today on Sunday, September 13: Venus, the Moon, and Spica  Astronomy MagazineThis Week's Sky at a Glance, September 11 – 20  Sky & Telescope",
     "published date": "Sun, 13 Sep 2026 08:00:09 GMT",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT0pTNTRMVV9nT0Y3OENaRXdVYWZXS1VoZG9SRi0wOExUeS1UZDBnbk03U01fWnJIYVp2YzJvTVNZMWxseVN0SzNuc0F2N2FwQXotamUzWGlncm5YeVpyczBDZk9JMDdISGhWa01vWVVTaVJxR25uU1RybnRwa0QzWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -417,6 +517,16 @@
     "publisher": {
       "href": "https://ca.news.yahoo.com",
       "title": "Yahoo News Canada"
+    }
+  },
+  {
+    "title": "Denisovan fossils in China reveal ancient ‘hunting paradise’ - South China Morning Post",
+    "description": "Denisovan fossils in China reveal ancient ‘hunting paradise’  South China Morning PostAncient proteins identify various Denisovan remains from Southwest China  NatureFossil remains unearthed in China offer new clues about how Denisovans lived  CNNDenisovans from southwestern China and their subsistence strategies  NatureResearchers Discover Rare Denisovan Bones in a Cave in China  National Geographic",
+    "published date": "Sun, 13 Sep 2026 02:00:10 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOejRYRmh5c040OXV0Tk1Hc2t3b21XdlcxcVJUandaamZVMU1XSS1iNXo4dGxCa1JYS1lGeXVVOXZFWVNDVHphM0VSQ050NUtpUEZNekktT3V1SnNEUGpkQ05LMUs2V3ppVkQ5WTVHODhGeDYyWi11OGtBTXdtYzA3eW94Z2RhVjNuYVl4eVRialRYLWVSTllRWFAySk95SUl4LTdSSlNVMzVXZTBpTUtUYdIBsAFBVV95cUxOSDBTVGJXNEhTN3BxTUdwb3lRNy1SRV9NdTU1SzhScThYcklkUmhyUzg0alc1bUpJcU1vY3RYR3o5b3A3TkJLZnZmNWxGclFHYnJLR05xa1FWdjhibXgtejcwZnVBLWVwT3g0SEM3NkxURDFHOFZzZnV4STFBODlxak1zOFZhRkZJUUhJNmhteVJtUjVFZjZTdXBVTHd5UjlaT2Z1RlBhT1lWbmhteVFuOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.scmp.com",
+      "title": "South China Morning Post"
     }
   },
   {
@@ -450,13 +560,13 @@
     }
   },
   {
-    "title": "Moon phase today: What the Moon will look like on September 13 - Mashable",
-    "description": "Moon phase today: What the Moon will look like on September 13  MashableMoon phase today: What the Moon will look like on September 12  Mashable",
-    "published date": "Sun, 13 Sep 2026 04:17:53 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fWDBUZE1LU0s2ZUVjN2NUbDdBd3RQXzJGb1lhOU8yYWlHRXNTZng5UUlnNHktZjBNNDRWTUVwT3pyczl5NzFHWTNxOWtEUHhvU1NrX24wZ3BFN0JxYU05dGJZNUZSVy15TWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "How AI BioDesign Will Harness Nature’s Principles for Drug Discovery - Technology Networks",
+    "description": "How AI BioDesign Will Harness Nature’s Principles for Drug Discovery  Technology NetworksResearchers chart new course for AI-powered biomedical discoveries  Phys.org",
+    "published date": "Sun, 13 Sep 2026 09:02:09 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaUFEM2tRd3JVQ1I1NEJnM21BRkc2QUt0VF9nMF8yYzE0dFNNY0tKODhKdEo3aTd6M2dzd2kyTnZOR3U0WlB2enVJb1pNMmluVXdxUS16UUZ2OVFTVTR2aklFUk9kQlF1eUNfUEpYSEVoTFFTS3BZRzZNUGc4d0ZOYVo2eEJoY0FZS2JpTmxHSHdFMzh6TDBEZXhIV3AxamRsMHZCQXNvRERwQWVJNjFLYlg4TXE0QzJxWmZOQWx3?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://mashable.com",
-      "title": "Mashable"
+      "href": "https://www.technologynetworks.com",
+      "title": "Technology Networks"
     }
   },
   {
@@ -470,13 +580,33 @@
     }
   },
   {
-    "title": "Physicists turn classical light into a quantum machine for information processing - Phys.org",
-    "description": "Physicists turn classical light into a quantum machine for information processing  Phys.org",
-    "published date": "Sat, 12 Sep 2026 14:00:01 GMT",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xV3lWdUVQR2JEUEUtbkFnM0R1STdRcXdzMldkbDhHRGZkYnZ1ckprcGg0TXN3UjMxNWlrU3AwMmVwa2xBZW13WE41SFNsbmVmRlAyX0RlWW04bnp4cDFwQlE2b2hzcll5V25ZRG45MFBBdHh4ZHlkZlNDaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "From 1974 to 1990 Kumamoto Prefecture sealed about 1.5 million cubic metres of Minamata Bay sediment above 25 ppm mercury under a 58-hectare landfill that cost 48 billion yen - Space Daily",
+    "description": "From 1974 to 1990 Kumamoto Prefecture sealed about 1.5 million cubic metres of Minamata Bay sediment above 25 ppm mercury under a 58-hectare landfill that cost 48 billion yen  Space Daily",
+    "published date": "Sun, 13 Sep 2026 03:39:09 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdDJDR1QweWlyWWZxMDZWcGFwQ1phMjd4cEpYRGZHMnA0cTBYOFluMTRBM1lpSnQ4Y1gybFllOFF3RXZxZkN3NHBQamxMVHc1amJzOENnRV9saTZuTXFwRF9ZamZuX2NJei0tV1lqVVhpMGpwT2tFcVE0RGsyQ29vZw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://phys.org",
-      "title": "Phys.org"
+      "href": "https://spacedaily.com",
+      "title": "Space Daily"
+    }
+  },
+  {
+    "title": "Moon phase today: What the Moon will look like on September 13 - Mashable",
+    "description": "Moon phase today: What the Moon will look like on September 13  MashableMoon phase today: What the Moon will look like on September 12  Mashable",
+    "published date": "Sun, 13 Sep 2026 04:17:53 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fWDBUZE1LU0s2ZUVjN2NUbDdBd3RQXzJGb1lhOU8yYWlHRXNTZng5UUlnNHktZjBNNDRWTUVwT3pyczl5NzFHWTNxOWtEUHhvU1NrX24wZ3BFN0JxYU05dGJZNUZSVy15TWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://mashable.com",
+      "title": "Mashable"
+    }
+  },
+  {
+    "title": "PARUS-T1: Satellite of the Day, 13 Sep 2026 - KeepTrack",
+    "description": "PARUS-T1: Satellite of the Day, 13 Sep 2026  KeepTrack",
+    "published date": "Sun, 13 Sep 2026 09:01:38 GMT",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DdEFvbTdyYWFnZ1hEYWVQelBhT0toemp5VmE4WVJNN2syeURFcmItSzQtOXVHYU1PNFRSRWR4U2NqTU9iaHdLbnIyS2x0NzBmR2VLVDJlUy1hdkpnenVWS3pnVFgzYTJBTmZKQg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://keeptrack.space",
+      "title": "KeepTrack"
     }
   },
   {
@@ -490,33 +620,33 @@
     }
   },
   {
-    "title": "From 1974 to 1990 Kumamoto Prefecture sealed about 1.5 million cubic metres of Minamata Bay sediment above 25 ppm mercury under a 58-hectare landfill that cost 48 billion yen - Space Daily",
-    "description": "From 1974 to 1990 Kumamoto Prefecture sealed about 1.5 million cubic metres of Minamata Bay sediment above 25 ppm mercury under a 58-hectare landfill that cost 48 billion yen  Space Daily",
-    "published date": "Sun, 13 Sep 2026 03:39:09 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdDJDR1QweWlyWWZxMDZWcGFwQ1phMjd4cEpYRGZHMnA0cTBYOFluMTRBM1lpSnQ4Y1gybFllOFF3RXZxZkN3NHBQamxMVHc1amJzOENnRV9saTZuTXFwRF9ZamZuX2NJei0tV1lqVVhpMGpwT2tFcVE0RGsyQ29vZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "My 19-year-old moved across the country with 4 days' notice. What he packed made it easier to let him go. - Business Insider",
+    "description": "My 19-year-old moved across the country with 4 days' notice. What he packed made it easier to let him go.  Business Insider",
+    "published date": "Sun, 13 Sep 2026 13:41:18 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONDFkTWVmR015dkk1eGVGaHlLQW1XQ3U4eXJIUU1ZY0tFb05JeG9yODJ6bVdtSFJQOXRGanhBSlQyTzNUVGF5YkhGak9fdVdDdmM3TDdWV2JlNmQycmtIWURNX2RLMHhVYk1sb0Z0dXJmeXpwaVVILU53QnhfMlVheHpWczh6ZTB0Q3Uxc3llaUlWWGVC?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.businessinsider.com",
+      "title": "Business Insider"
+    }
+  },
+  {
+    "title": "A molecular-hydrogen cloud only 300 light-years away spans roughly 40 full-Moon widths across our sky, yet astronomers did not identify it until 2025. Named Eos, it escaped conventional surveys because they search for molecular hydrogen indirectly through - Space Daily",
+    "description": "A molecular-hydrogen cloud only 300 light-years away spans roughly 40 full-Moon widths across our sky, yet astronomers did not identify it until 2025. Named Eos, it escaped conventional surveys because they search for molecular hydrogen indirectly through  Space Daily",
+    "published date": "Sun, 13 Sep 2026 00:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObFhGOWF5M3RjWU9fRFlQd01rQUtOWGVTSWlELUh2bjRTZ0g1ZHpSM3M5MndSY2VYaHh5d2hUc25aVlJUd3JQM18yVGlVR01jZ2lScDlkTHJGamFVcmxJZUFjXzlIcXpBM1lLYV9JQWFycTdaaHBnRFhRWnNxM19MV2FmbXU?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://spacedaily.com",
       "title": "Space Daily"
     }
   },
   {
-    "title": "Tiny cyanobacteria may be the secret heroes of ocean carbon sequestration - Phys.org",
-    "description": "Tiny cyanobacteria may be the secret heroes of ocean carbon sequestration  Phys.org",
-    "published date": "Sat, 12 Sep 2026 13:30:01 GMT",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5uV1Iya2RVaXdFclM0OUZ5eEpTdUtQbDhRSDZ6bHBvMGhmUXRVb09IRUg2bGJaX0NibGY5bkZIZHVEX0ZOY3JjRi1kZ2phUU1aY0pkMmkwNUg1N1pzSUoyeUNndi1FcktJdjN5TUhtSXh3MU9wMS01NmloaDh6Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Physicists turn classical light into a quantum machine for information processing - Phys.org",
+    "description": "Physicists turn classical light into a quantum machine for information processing  Phys.org",
+    "published date": "Sat, 12 Sep 2026 14:00:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xV3lWdUVQR2JEUEUtbkFnM0R1STdRcXdzMldkbDhHRGZkYnZ1ckprcGg0TXN3UjMxNWlrU3AwMmVwa2xBZW13WE41SFNsbmVmRlAyX0RlWW04bnp4cDFwQlE2b2hzcll5V25ZRG45MFBBdHh4ZHlkZlNDaw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://phys.org",
       "title": "Phys.org"
-    }
-  },
-  {
-    "title": "Scientists got diamond's melting point wrong by more than 1,000 degrees, crushing new laser experiment reveals - Live Science",
-    "description": "Scientists got diamond's melting point wrong by more than 1,000 degrees, crushing new laser experiment reveals  Live ScienceScientists refine diamond’s melting temperature under extreme pressure  UA.NEWS",
-    "published date": "Sat, 12 Sep 2026 14:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVE1XM2EzYy1UbVphV2Z6cXlRSjk5Vi1zUGN1dl90bDhYMEFETUJReUZ5ejFYRmhYR0tGcGg5YlpaQkhmVmhRWlFuOHFtaGU0REoxWngxOERITU55cGsta3dNQlhkZlBILXFSUlQxbXVqbXgxbktSekNxSjRqWFpxNWJyVXJfMjFxMWZ2WmhWUllQOWttWTd6bENnbDN1VlVvdFhMaURyaDcwTVlTWUVsUlBaYlBfV0lCZ1pmT1dsakRCNmVsZlhiV095Ti15R2E5Z2tFd29xRWJPLXBfSlRKR01tczBLMVZGak5Zcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.livescience.com",
-      "title": "Live Science"
     }
   },
   {
@@ -527,6 +657,16 @@
     "publisher": {
       "href": "https://ca.news.yahoo.com",
       "title": "Yahoo News Canada"
+    }
+  },
+  {
+    "title": "Tiny cyanobacteria may be the secret heroes of ocean carbon sequestration - Phys.org",
+    "description": "Tiny cyanobacteria may be the secret heroes of ocean carbon sequestration  Phys.org",
+    "published date": "Sat, 12 Sep 2026 13:30:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5uV1Iya2RVaXdFclM0OUZ5eEpTdUtQbDhRSDZ6bHBvMGhmUXRVb09IRUg2bGJaX0NibGY5bkZIZHVEX0ZOY3JjRi1kZ2phUU1aY0pkMmkwNUg1N1pzSUoyeUNndi1FcktJdjN5TUhtSXh3MU9wMS01NmloaDh6Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://phys.org",
+      "title": "Phys.org"
     }
   },
   {
@@ -550,16 +690,6 @@
     }
   },
   {
-    "title": "A molecular-hydrogen cloud only 300 light-years away spans roughly 40 full-Moon widths across our sky, yet astronomers did not identify it until 2025. Named Eos, it escaped conventional surveys because they search for molecular hydrogen indirectly through - Space Daily",
-    "description": "A molecular-hydrogen cloud only 300 light-years away spans roughly 40 full-Moon widths across our sky, yet astronomers did not identify it until 2025. Named Eos, it escaped conventional surveys because they search for molecular hydrogen indirectly through  Space Daily",
-    "published date": "Sun, 13 Sep 2026 00:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObFhGOWF5M3RjWU9fRFlQd01rQUtOWGVTSWlELUh2bjRTZ0g1ZHpSM3M5MndSY2VYaHh5d2hUc25aVlJUd3JQM18yVGlVR01jZ2lScDlkTHJGamFVcmxJZUFjXzlIcXpBM1lLYV9JQWFycTdaaHBnRFhRWnNxM19MV2FmbXU?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://spacedaily.com",
-      "title": "Space Daily"
-    }
-  },
-  {
     "title": "Perseid meteors meet mesmerizing star trails over Egypt's Western Desert - Space",
     "description": "Perseid meteors meet mesmerizing star trails over Egypt's Western Desert  Space",
     "published date": "Sat, 12 Sep 2026 12:00:00 GMT",
@@ -567,136 +697,6 @@
     "publisher": {
       "href": "https://www.space.com",
       "title": "Space"
-    }
-  },
-  {
-    "title": "Only 2% Of Humans Have Red Hair — An Evolutionary Biologist Explains Why - Forbes",
-    "description": "Only 2% Of Humans Have Red Hair — An Evolutionary Biologist Explains Why  Forbes",
-    "published date": "Sat, 12 Sep 2026 13:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYm84NzAyVm5XMW9HMWhOLTRTaEg2eVJoUkN2LS1xTEUzR3NXc2dPSXNxNzNaV1U3dmJqT3VJR09kQWhvWGduLWFYeXJLMFZoQnRPa19OREJ4OWh0SDk2ZVgwb3RGZ2FHNGQwcEl6d3NPZ2ctY3AzNTQ2bUl5S3E1Qm9rbTFJNGc5Ukl5MTVEdlZMUk1XVGQ0czh0RDlZLVVadzhTT1A4T2w5Y3ROVk5YVHVJY2k3RHRyNVh4Q3JMcUg3bHc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.forbes.com",
-      "title": "Forbes"
-    }
-  },
-  {
-    "title": "Researchers find a Wordle strategy that wins 99% of the time - Science Daily",
-    "description": "Researchers find a Wordle strategy that wins 99% of the time  Science Daily",
-    "published date": "Sat, 12 Sep 2026 13:38:09 GMT",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sbGFja0tIaUsyWU5qMjd5ZWM5emdvQV92SHNDdVNiQTNabEE2M1RmSjRUMHZqdWNlbmFMTUVMMGp3VExHM3E4dTNYcEZUdU1pMXlnUkNzVHdQdHJNNWVSSDdLazVvQjhvS0tWX3dB?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "http://www.sciencedaily.com",
-      "title": "Science Daily"
-    }
-  },
-  {
-    "title": "Shrinking sea ice during heat waves helps polar seas absorb more CO2, study finds - Yahoo News UK",
-    "description": "Shrinking sea ice during heat waves helps polar seas absorb more CO2, study finds  Yahoo News UK",
-    "published date": "Sun, 13 Sep 2026 00:35:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53QlVqdXBJOExBNzJfZjVZQnAxeG9EaEpqZWdxa29ZT3QxLTlBdmQ1R0U3QkJnc3dSSWxzalFCcDlsd2lhV0VmOGVDX2tiYTloTmxDRTZaSzRXQ2tyY0xjVGlQTkh4eEJ2R2Zmb3ZDMHctNFlLTG5PTXJn?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://uk.news.yahoo.com",
-      "title": "Yahoo News UK"
-    }
-  },
-  {
-    "title": "NASA, IBM launch new AI model for studying the moon - Space",
-    "description": "NASA, IBM launch new AI model for studying the moon  SpaceNASA, IBM Launch AI Foundation Model for Lunar Science  NASA Science (.gov)IBM, NASA launch AI model to help map ice, craters on Moon  Yahoo! Finance CanadaIBM and NASA Release Open-Source AI Model to Support Lunar Exploration  newswire.ca",
-    "published date": "Sat, 12 Sep 2026 10:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWVBaUVBqTU51Q0JpYnMwcjdCS2VIVFEwa0dldDdVLXpQTm5Nd2NtMkk3Z3pfMkFnUFRmQnM0bzU2TEZ4OVlYNEt5VEgybFZVaU9WT2NYN3NEM3h2ZlVQcTNJSlpVOXlUY3NtNnhMbHl4NzVSTGR4MURtQ192Rks5eXZEYldvcmRWWGoya0VNTkM?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.space.com",
-      "title": "Space"
-    }
-  },
-  {
-    "title": "A New Design For A Plasma Engine Fuels On Only Thin Air - Universe Today",
-    "description": "A New Design For A Plasma Engine Fuels On Only Thin Air  Universe Today",
-    "published date": "Sat, 12 Sep 2026 12:10:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT2h6a19PM0NFV3lLeEpSMVA4VG5lZ0VscUtnaDhLalltb2pJclhjQWhqUzVLZXVGNUxGRm9CdHV6LUlZNWVQc0diaDhpNkQ3cExtY1VReHVFaWFydl81aDdWbUM1S2N3NktBdExzOGJueENEbDlmR3dOYlc5SDNjZEtKZkdyalBhcjBJOFlDamRXZjRJS09VLXBR?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.universetoday.com",
-      "title": "Universe Today"
-    }
-  },
-  {
-    "title": "Unified framework shows thermoelectric performance depends on more than the material itself - Phys.org",
-    "description": "Unified framework shows thermoelectric performance depends on more than the material itself  Phys.org",
-    "published date": "Sat, 12 Sep 2026 19:30:02 GMT",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBObU8zSlk5djhfU0pWZ3VkWGRrZVBXdHZKbTJGOUltbXV5cnJic1FjUWFHOHdWRzlBUnAxYkIzWlpHMGlvM21CUEpqd2x4NFJXbFJDUElnVnZ4SElnOFZKU3k1XzFncTlzRXQ2N3R6Y2t3SEV6N3Vz?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://phys.org",
-      "title": "Phys.org"
-    }
-  },
-  {
-    "title": "Neurons may build their identity after birth, study finds - The Daily Star",
-    "description": "Neurons may build their identity after birth, study finds  The Daily StarNew brain atlas shows neurons don't inherit their identity—they build it in their first hours of life  Medical Xpress",
-    "published date": "Sat, 12 Sep 2026 13:26:18 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbVBrNXhGejFDR3BvbUphblZXeU1jZlBlamlQRjRwUVpzUGJrR3ZEUE0zaVI2NGtIbEZseGVOZTFsVEc1VG1SbEp0dmZPR0ZFbXk3SnRzUTZwWnRnbGlLOU9FakVmS3hSMlN1SGlia1k5dloyUFVNWDNMcWxnakREV2ZjQmdJUFdXZy02R1VtVHVaTG5CVVBFU3hYSnVzdVNUTnFyYTg3SVBndDhlblFGV2hIM3Q?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.thedailystar.net",
-      "title": "The Daily Star"
-    }
-  },
-  {
-    "title": "German biologists find 'Pac-Man' enzyme that breaks down bioplastics and antibiotics - Yahoo",
-    "description": "German biologists find 'Pac-Man' enzyme that breaks down bioplastics and antibiotics  YahooSee more headlines & perspectives on Google News",
-    "published date": "Sat, 12 Sep 2026 15:47:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc19hSEpXZXM5alN2NGE5RmwtVE9zWVVWckFYaEYtOFU1M0R2Slh5UGlreXVKMFBGMHJMZWY3WjdMaEdyNWg4QU1mQ0cwTmFEOUZPWVhzbEQwRERaenRKSUg0ZElMYTNmUTc4Z01ub1ZyTmUwVmc2Z3Zjd3hNMEVZMzBmdmY1OGxDdFVTN0o2R2RCSW1leWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.yahoo.com",
-      "title": "Yahoo"
-    }
-  },
-  {
-    "title": "Rocket Lab protests NASA award of Mars telecom orbiter contract - SpaceNews",
-    "description": "Rocket Lab protests NASA award of Mars telecom orbiter contract  SpaceNewsRocket Lab protests NASA's decision to award Blue Origin $700 million Mars orbiter contract  SpaceRocket Lab Protests Blue Origin Mars Contract, X Report 12 Sep 2026  KeepTrack",
-    "published date": "Sat, 12 Sep 2026 08:18:55 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb19KbERYQW1YWmVva2stR1d3blFQLTgtTGZ3TWhFNVJ6RHppR0tKNzB6ckxremxlZm5yRV9Na280UWJscnlYUWNNeV9qQU5wMzhMMkloby1adUZ0YS1jLWpNaDRLaDdJb1pnOFZEOENrdDFlYmtLenhHMFFVaFlvby12Z1hoTG9pQWdEUHpOWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://spacenews.com",
-      "title": "SpaceNews"
-    }
-  },
-  {
-    "title": "Physicists Just Turned The Entire Planet Into a Dark Matter Detector – And Strange Signals Kept Turning Up - ScienceAlert",
-    "description": "Physicists Just Turned The Entire Planet Into a Dark Matter Detector – And Strange Signals Kept Turning Up  ScienceAlertScientists Found a Potential Dark Matter Particle — What Happens Now?  skyandtelescope.org",
-    "published date": "Sat, 12 Sep 2026 20:00:53 GMT",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaDJNZ04xNHBXdGxKck9BMkpZbTNGRVhsWjZhS1QwTVlsYXI4WFN6SDZuTzVkQkt0MkxqWkVIZmtsN3ZBcHZlMjJseWlOLVNaMEJtc1BubGttaWVqd1lhdUdCbTlCdzJpbUJJS29nZVBHaUpaOXdkU21aRzRzci1SbDZIbV9xWXZaS1dpQ3E4dDRKNnNUemdxM2hCaDc1WTFwTTNYbXI2NjdrR2plVkVwT0dJUFozQ3RWWm5HdnJfb2d4cVRwVDhTelFUTnEzUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.sciencealert.com",
-      "title": "ScienceAlert"
-    }
-  },
-  {
-    "title": "The Sky Today on Saturday, September 12: Dione skims Saturn’s pole - Astronomy Magazine",
-    "description": "The Sky Today on Saturday, September 12: Dione skims Saturn’s pole  Astronomy Magazine",
-    "published date": "Sat, 12 Sep 2026 08:02:24 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaF9ZcXIwXzY4VzNvVy1rMmNVX3FPcHQ3TEd3WWptV0dRekY5M3BWdTlta2cxZzI2RTItUUhHT1l6ZWF2anp3b0EwVnJndzh5Z09HX3ZHUzhqUTJFa3JpdkhaWlNWTC1fQWxTMnZTMTlDcklycFJNem5QYjVpT2x2bnB1RQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.astronomy.com",
-      "title": "Astronomy Magazine"
-    }
-  },
-  {
-    "title": "An Iowa man built his six-inch parakeet a miniature submarine so the bird could join him underwater in the Bahamas — the homemade capsule used a paintball air tank, safety valves and an oxygen monitor and carried Bebe about three feet beneath the surfa - Space Daily",
-    "description": "An Iowa man built his six-inch parakeet a miniature submarine so the bird could join him underwater in the Bahamas — the homemade capsule used a paintball air tank, safety valves and an oxygen monitor and carried Bebe about three feet beneath the surfa  Space Daily",
-    "published date": "Sat, 12 Sep 2026 12:15:39 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOQjJDRWRkSGM4VlZpSzMxTmcteUdzWmJ2SGlTMGpoaVp3eWZLc3ZTM1pfUTJuRXRfN25KazUyUkRNQjRIbmFqakpqRVRXUldtTlUtUjlHVkRyRE5xdEp5Vl96Slp1MGJrdVktdkxDdTh5OGQ3d1hCS1VHUXd2VzFZbjl6M05sZ1JZSDJseC1VcExaUTU3NDNnU1lCd3VNYnF4T1RvS3dnMUVxSG8zNTRjbnlBeHJXd0FvTzlVTWF1TnRTRnJPYlYxN2kxVEE2cmxHNWRaZFRtOXZnTG5wcVVQWExKSmFxYUtpMjFhOXFfX3hzX0pjVlFrT1VnbkdqTms0Y0lQSnJYOEFuWUhuUzFtV2NoaFZLY0ZuYlJPT1VzNG43aW9YcFVKdjNoMVlXQV9YVzEwXy1FTW9PdWs?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://spacedaily.com",
-      "title": "Space Daily"
-    }
-  },
-  {
-    "title": "Gondwana May Finally Be Elevated To True Supercontinent Status. Turns Out, It Was Way Bigger Than Thought - iflscience.com",
-    "description": "Gondwana May Finally Be Elevated To True Supercontinent Status. Turns Out, It Was Way Bigger Than Thought  iflscience.comGondwana really was a supercontinent. And it helped kick-start life on Earth  The ConversationGondwana really was a supercontinent—and it may have helped kickstart life on Earth  Phys.org",
-    "published date": "Sat, 12 Sep 2026 11:43:42 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdTFzVDc1QTI1bHVybUVhN2VMRjI3NlpiOGNBdnctVGZRa2x2SFRuTERKNUZIWGo1aFlSZ1VoVkExNUNLMngtbE1jWklLelN4a1ZodnlXWVFraTFLVC1Bcm9wc0pkeXJBRGVWUjQxZi0ydXlvUWNwZks0V1dkejI2Um1xQ1hocUdwQjdfTmtzWVRaOG1WUHRMT3o5THZjcVBDSlBPTHhMN012bm5kSUJNLWdDSEFCanBpSHlYOHVwcVpVTlRGdUdmWHlTUGtkaGtLOFE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.iflscience.com",
-      "title": "iflscience.com"
     }
   }
 ]
