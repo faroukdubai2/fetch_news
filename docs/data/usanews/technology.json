@@ -1,57 +1,77 @@
 [
   {
-    "title": "Microsoft Launches $2,599 Surface Laptop Ultra to Take on MacBook Pro - MacRumors",
-    "description": "Microsoft Launches $2,599 Surface Laptop Ultra to Take on MacBook Pro  MacRumorsPre-order our most powerful Surface devices ever | Microsoft Devices Blog  Windows BlogMicrosoft debuts Nvidia-powered Surface Laptop Ultra, as it aims for AI market  Yahoo FinanceMicrosoft event debuts new AI-friendly hardware and Windows changes  Ars TechnicaHow Microsoft built its MacBook Pro competitor  The Verge",
-    "published date": "Thu, 08 Oct 2026 00:45:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMaW9Lc1l6c1J3cnRTV0VjSUxDd1p4MVpLUmVLM3paczM0TlAtT1JNY2hGNjExWE8zSS1paVdSLWpkNHMzMlpsVnFWcXBJM3RpUnZkVm1jUzV2by0wbVZrUVg0REtlM3owSG93eFUzb2VWSkZUTEZR?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.macrumors.com",
-      "title": "MacRumors"
-    }
-  },
-  {
-    "title": "Bringing local models and sandboxed tools to Windows and GitHub Copilot - Microsoft",
-    "description": "Bringing local models and sandboxed tools to Windows and GitHub Copilot  MicrosoftDiscover local models in GitHub Copilot CLI  The GitHub BlogDevelopers will soon be able to leverage local AI models in GitHub Copilot  NeowinLocal sandboxing for GitHub Copilot now generally available  The GitHub BlogMicrosoft to Integrate MAI Code 1.1 Flash into Windows 11 with 130 Billion Parameters  KuCoin",
-    "published date": "Thu, 08 Oct 2026 02:17:06 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVW05WkZFd2M3R2dUR3AxWW04b0lSQkU0MktkODhyWTJtejlnM1lGR21xcmJybHc2TnVsWDc2NDFpS0FoYTl3U3JjZWZZX0t4aUR2cndmMzlmMXhzS1ZXN3YwdWQzQm5QWlBqRkVYdTEtWU42TWx0Z0NhcGZsU2xpcmxBTDk?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://commandline.microsoft.com",
-      "title": "Microsoft"
-    }
-  },
-  {
-    "title": "Margaret Hamilton, Whose Software Guided the Apollo Missions, Has Died - The New York Times",
-    "description": "Margaret Hamilton, Whose Software Guided the Apollo Missions, Has Died  The New York TimesMargaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90  MIT NewsMargaret Hamilton, whose software helped land Apollo 11 on the moon, dies at 90  BBCMargaret Hamilton, whose software helped land Apollo astronauts on the moon, has died  CNNMargaret Hamilton, trailblazer whose software powered Apollo 11 moon landing, dies at 90  The Guardian",
-    "published date": "Thu, 08 Oct 2026 03:07:24 GMT",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jQTNDYkRUYklzTG5TaXpKQ0g1b0xRYy0ySG16djA2TFpOZWVSWEp1U0pqd1hxSVEyYUJtUWNPTTE1dGlQWUxUeHlZNjZUX0tLMGhMUnJQYkQwOEVONGhfR1lQQUxkNlZjZGZDOTg2VmRGSldHZThWc3RyT3NpUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.nytimes.com",
-      "title": "The New York Times"
-    }
-  },
-  {
-    "title": "Ring’s first smart lock can be charged by turning a dial when the battery unexpectedly dies - The Verge",
-    "description": "Ring’s first smart lock can be charged by turning a dial when the battery unexpectedly dies  The VergeRing ends smart lock anxiety with a lock you can recharge by hand  About AmazonAmazon Ring’s First Smart Lock Has a Clever Solution for Battery Anxiety  Bloomberg.comRing’s Debut Smart Lock Solves the Category’s Biggest Issue: Dead Battery Lockouts  CNETRing's Smart Lock Has A Hand Crank So It Works Even If The Power's Out  Engadget",
-    "published date": "Wed, 07 Oct 2026 14:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbHg4bGRVZTlJeHFCX2RXRkFuTjNBMi1RRFExQjJtUGUtd280R0MtOWxESVEtdGpzWGJrd0ttb2VXbU9GelMzNVVyY1lOOW5XMDBJVWJSakNHRjNiWlUtZHZ2WEdWVC1GMTRXcElOUHZhai1RQXR2VlE4dExsNHQ4bTBHeThReWtjdU9ZX3pGTGJaR3YxUzk1NFlvSW44R2dpaXNrcjc3ZW1McnpsMnRsUXltRTJPbmM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Everything announced at Microsoft’s Surface Laptop Ultra event - The Verge",
+    "description": "Everything announced at Microsoft’s Surface Laptop Ultra event  The VergeMSFT Stock On 4-Day Winning Streak: Microsoft Takes On Apple's Macs With Nvidia-Powered Surface Ultra, More On-Device AI  Yahoo FinanceBuilding Windows for hybrid intelligence  Windows BlogMicrosoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip  CNBCMicrosoft event debuts new AI-friendly hardware and Windows changes  Ars Technica",
+    "published date": "Thu, 08 Oct 2026 07:02:42 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdlIwbEtYYXBqS0pCck1ZLWFBQ1o4TFY5M2tqeUE2NjNzZllvU2ZXNDM0bXhPdGRVOTFtdjhYbU12ZHVZbTR3WFZsVDBFeFZpZ2hxMWMtOXBZR0dSa0dkN2JsWGVMRG1HcDYzdUVlUGFOeXgybTR3NXJTWHdIekh3X0FEaVUxV2ZhZW1aZmlqZjdHR3R2bVVyeW9CdFhpZ0JzQ3RNY3JB?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.theverge.com",
       "title": "The Verge"
     }
   },
   {
-    "title": "Huge Amazon Prime Big Deals Sports Tech Tracker! - DC Rainmaker",
-    "description": "Huge Amazon Prime Big Deals Sports Tech Tracker!  DC RainmakerAmazon Prime Day wraps up tonight – Shop the best running deals from Garmin, Shokz, Apple and more  Runner's WorldBest October Prime Day fitness tracker and smartwatch deals 2026: Shop Fitbit, Garmin, and more  MashableSave on Smartwatches, Smart Rings, and Wearables With These Prime Day Deals  WIREDI'm a smartwatch tester — here are the only 3 Garmins I'm looking for in the Amazon Prime Day sales  TechRadar",
-    "published date": "Tue, 06 Oct 2026 19:51:34 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPczRsR2pjS2VCX09EaXY1Z3dwcl9SMTViQWJsa2RtUy14YkdDckxiTWJkckhrUVIydnlya1ZwUGQ4OElTQ21MSnZQZS00UFdpYkc3UFZjSFB2N0lHbmhfX1VlMjJjWmhnYkRXX2lmNEg5UmpuWGNrVGhsbTBmaFhvQVdNTEdnT0Q2SUtaQ25R?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Gurman: OLED MacBook Pro Won't Be 'Significantly Thinner' - MacRumors",
+    "description": "Gurman: OLED MacBook Pro Won't Be 'Significantly Thinner'  MacRumorsApple’s ‘lighter’ touchscreen MacBook Pro might not be much thinner after all  MacworldApple MacBook Pro Release Schedule: What To Expect When  ForbesNew MacBook Pro redesign gets exciting launch timing update  9to5MacRedesigned MacBook Pro will reportedly include these three changes  9to5Mac",
+    "published date": "Thu, 08 Oct 2026 08:29:53 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBb3llVEFiWnBSX0puQ2JuQW8xQ041WjJzV0ZsLWUzZ0FMdHBBcUZCRm9TeF9VYV9WVTNvdVJMX3A0Q0tCOGxFenp4R3V4bHZQOTF3R29LcUVBTndSbWdfSVNSdkdKWl8taUR3TF9Sc0RybUFEcXljS1JR?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.dcrainmaker.com",
-      "title": "DC Rainmaker"
+      "href": "https://www.macrumors.com",
+      "title": "MacRumors"
+    }
+  },
+  {
+    "title": "New iPad Mini Rumored to Have 60Hz OLED Display Ahead of Launch - MacRumors",
+    "description": "New iPad Mini Rumored to Have 60Hz OLED Display Ahead of Launch  MacRumorsApple iPad Mini 8: release date, price, specs and everything you need to know  StuffLeaker doubles down on new iPad mini not having ProMotion  AppleInsiderLeaked OLED iPad Mini Details Surface, but Does It Finally Deserve the ‘Pro’ Name?  Geeky GadgetsDubious report claims the upcoming iPhone mini 8 WON’T have an OLED display  Apple World Today",
+    "published date": "Thu, 08 Oct 2026 09:15:54 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLVZpb2oyeUM4Q1NCNG5uaXhVLWlKZWhUT3ltYnVsVUFjWUZXWjdKQjJtME5zNi12SFBWTXQ5R1YtenpXR0I0TnViR2tjdlhfal9yZ2cwNm9jajYtb29GYVE5dFE3eHR3cHVkUGRFQ08wRnpmaTRybE5MZFotZ0lycVBnaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.macrumors.com",
+      "title": "MacRumors"
+    }
+  },
+  {
+    "title": "Moment Nasa scientist Margaret Hamilton receives presidential medal of honour - BBC",
+    "description": "Moment Nasa scientist Margaret Hamilton receives presidential medal of honour  BBCMargaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90  MIT NewsMargaret Hamilton, whose software helped land Apollo astronauts on the moon, has died  CNNMargaret Hamilton, Who Developed Software for First Moon Landing, Dies at 90  WSJMargaret Hamilton, pioneering computer scientist for Apollo program, dies at 90  CBS News",
+    "published date": "Thu, 08 Oct 2026 07:08:03 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85Mkh0ZlY0eTFMMkxPVUYwRW9jWldQbVo5SHdtUDMxdVlRcUpkejlZMkJDU09vbDBhcEhLWFhTRl9IWHhMRFdCdnNDalBfVkVXRUlMSmlDSmw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bbc.com",
+      "title": "BBC"
+    }
+  },
+  {
+    "title": "Red Magic 12 Pro+ full design revealed ahead of October 15 launch - Gizmochina",
+    "description": "Red Magic 12 Pro+ full design revealed ahead of October 15 launch  GizmochinaRedMagic 12 Pro+ design and color options revealed ahead of launch - GSMArena.com news  GSMArena.comRed Magic 12 Pro+ reservations open ahead of October 15 launch  GizmochinaRedMagic 12 Pro+ Reservations Are Now Open  Gizchina.comRed Magic 12 Pro+ Design: Flush Cameras and Transparent Backs  Nokiamob",
+    "published date": "Thu, 08 Oct 2026 04:33:10 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTGVZckpfYzJCT3l3QktRMFlDSmRZVC1UQjVULUpVUWtxbXB6X2ljNDhSdjYyLUc0T0h5WkdmRnRnTFNTTlhSSFBLUWJ5SFR4V25IZGlzUEdsdEhNZlpJWFNKU2tKdGlJcU5oMk9jSEtDVWhkWDBYd0ZPMEhkUktBaGo5VW8?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.gizmochina.com",
+      "title": "Gizmochina"
+    }
+  },
+  {
+    "title": "Amazon US Prime Deals: the Google Pixel 11 Pro is $250 off - GSMArena.com news - GSMArena.com",
+    "description": "Amazon US Prime Deals: the Google Pixel 11 Pro is $250 off - GSMArena.com news  GSMArena.comThe Pixel 11 Pro and Pro XL phones are $250 off  The VergeAt $599 During Prime Day, the Google Pixel 10 Is Still Worth the Upgrade  PCMagPut a Google Pixel 11 Smartphone in Your Pocket for Up to $300 Off This Prime Day  CNETAll of the best fall Prime Day deals: Pixel 11, Galaxy Z Fold 8, chargers, smart home, TVs, more  9to5Google",
+    "published date": "Wed, 07 Oct 2026 18:12:03 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYXZ0MXpla0pvTU1fejc1ZUF5UVJROU1zZVdESk15OVlFVVhOMmt3Z3kxMzdfbUFMZDA2T0NhM3o5N0M5cHcyQUFzX0ZMX2ZoNUZGdUQxanBuUjBEX1dxY0JCTlprcnVVcHVFMi14Um1qcmQxUzFCOFM2eTNycW1VZlFiVC1sS3hMV0N3LU9UZXVtaFEzbVd2YlZtZlXSAZgBQVVfeXFMT1VISDJsbHJxam9ZdDNYelNHQmFqZTNDaHAyOXBseWF5aFQ4Mzk5eFNVTzJiVlZTUHBQaG9EUEIyZjFpUnRnX2ZfT0Rsd2Y1TXluZzZIWmMtNVVUaVpqdy1aUE5VMjM4WV9FUzhnSVBDMHhMeHVjZ1RZQlZSZ1dHNmRjU0R6cjdzS0dzekZVODVtbUZFOTNkOC0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.gsmarena.com",
+      "title": "GSMArena.com"
+    }
+  },
+  {
+    "title": "Android Auto rolling out fix that stops auto-playing music when you start your car - 9to5Google",
+    "description": "Android Auto rolling out fix that stops auto-playing music when you start your car  9to5GoogleAndroid Auto can finally play YouTube, but I tried it and there’s a catch  MakeUseOfGoogle Announces Major Android Auto Media Update, and This Feature Is a Game Changer  autoevolutionAndroid Auto's signal bars are finally returning to dashboards  Android AuthorityHave you experienced disappearing icons in Android Auto? If so, there's now a fix — here’s how to solve it  TechRadar",
+    "published date": "Wed, 07 Oct 2026 12:15:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hblVqcXZQMS1SYTRSVS1nTXJJNlBqSjdyWnJZcU4tbEttak5ydlljUkJBTW5tSVpwTGM3MXBya3d4R3BGRVU1NVZLTkpCNmlDLWpFRmtFQlhHOWZKZUFoUm44R25JZzgxQzg4OGVicjFWc3paYnhPNlpka3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://9to5google.com",
+      "title": "9to5Google"
     }
   },
   {
     "title": "Google rolls out improved SynthID AI content detector, now available globally - Ars Technica",
-    "description": "Google rolls out improved SynthID AI content detector, now available globally  Ars TechnicaWe're making it easier to identify AI-generated content globally.  blog.googleGoogle’s new SynthID website can identify AI-generated media  TechCrunchGoogle Opens Its SynthID Watermark Detector To The Public  Search Engine JournalGoogle’s SynthID AI content detector expands globally, will work on Apple’s models ‘soon’  9to5Google",
+    "description": "Google rolls out improved SynthID AI content detector, now available globally  Ars TechnicaWe're making it easier to identify AI-generated content globally.  blog.googleGoogle’s new SynthID website can identify AI-generated media  TechCrunchGoogle Opens Its SynthID Watermark Detector To The Public  Search Engine JournalGoogle DeepMind Launches SynthID Platform for AI Content Verification  Konsulteer",
     "published date": "Wed, 07 Oct 2026 14:00:08 GMT",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOUNaZ0tjamJNRzhBckw1WkRWaG45VERTcE1WdEtpNU90VTMtRkNTamcxVnVEam00eVh3ODl6TVg4WlN5ck0wek1TZ3phRlNKOTIzM2t6UE5UZjJtTE1GM2dLRUxkUGRIdDRPWm04WmxWbWxsVTlGX3EyNzhjNzlYTklkejFVX0xxNGthLWU1bHVld3ljckVlTC1RTXhmMFhjREk0TWdGYUVNeW8zYXoxRENn?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -60,28 +80,38 @@
     }
   },
   {
-    "title": "Xreal's Aura Android XR Smartglasses Will Cost You At Least $1,279 - Engadget",
-    "description": "Xreal's Aura Android XR Smartglasses Will Cost You At Least $1,279  EngadgetGoogle’s Next Android XR Device Is Arriving Ahead of Meta’s VR Glasses, at a Similar Price  CNETAt $1,279, Google’s Xreal Aura will go head-to-head with Meta’s VR Glasses  The VergeI Put on Meta and Xreal’s XR Glasses. Face Computers Are Finally Getting Good  WIREDXreal Aura official pricing revealed: Priority Deposit remains active as we look to the holidays  Android Central",
-    "published date": "Wed, 07 Oct 2026 12:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObS1UZzNqT1FRczNuMUU4VnNXUFJFQWo4UjVNWDFKVUhubjhyV1JnU19wXzJQSGNXX3BTdlQwQko0WnVBT1pkMndCSnM1ZTJ0eDVqUnpCVloyY0NkczNOOGxpZzlDc2xWU0NOX0ZWMlhFd1Fpd0t4NFE3d3Y2ckZuUk9QNWhwTTlMSUZQd2dHVkFwY0NodlBqcXBKaGp1dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "The Galaxy Tab S12 is so good it makes Googlebook look dead on arrival - Android Police",
+    "description": "The Galaxy Tab S12 is so good it makes Googlebook look dead on arrival  Android PoliceSamsung Galaxy Tab S12 tablets go on sale in the USA and other regions  SamMobileSamsung Galaxy Tab S12 Ultra Vs Apple iPad Pro: Here's How They Stack Up  EngadgetSorry Samsung! The Galaxy Tab S12 Ultra is a $200 rip-off  PhoneArenaGalaxy Tab S12+ vs. M4 iPad Air: Samsung closes the software gap, but Apple still has a silicon edge  Digital Trends",
+    "published date": "Wed, 07 Oct 2026 15:00:10 GMT",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWVZDZDdRY1RoVmRnWXR3SUhhZTQ2emd3MzVzUnAtam93NVA3YmhxV1k2N3J4NGpjT01ZbElnSl9fOUdHUHkwOGJvaWVnVDdVZEJGcDVHRWs5ektUUVBIVzFGRjVnaXJVZGdISWdsd05qektFMnM0SlFpaEo2RTNiU0hpcmtzMDZDWjZyOHpCWmtyckFFRDFBUDhUbnFMUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.engadget.com",
-      "title": "Engadget"
+      "href": "https://www.androidpolice.com",
+      "title": "Android Police"
     }
   },
   {
-    "title": "The Best Xbox Amazon Prime Day Gaming Deals - Polygon.com",
-    "description": "The Best Xbox Amazon Prime Day Gaming Deals  Polygon.comI found the 20 best Prime Day laptop and computer deals based on 13 years of testing  CNNLoads of Video Games Are Discounted in Amazon's Prime Sale — Here's Our Top Picks Before The Sale Ends Today  IGNThese Prime Day Deals on Alienware and Asus Gaming PCs Are Outrageous  PCMagThis Retro Handheld Game Console Is a Great Last-Minute Deal for October Prime Day  Lifehacker",
-    "published date": "Wed, 07 Oct 2026 10:23:20 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWEthREY5VkpISzZQdXdIQmZwckJ4aXBpc3R1OUhLcnphZ3FydlV1MmZxTWs5bms3YlJRMTU1LWFpVThBVF9SalRHUk5qY2s2Nzk2QXYxelVUY0RiQWJ5NW9wSVl6ZDZHQUNYWW5Qd2FNTmhOQkRFQmNoLWUycTNHaQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Someone Rebuilt Free, Open-Source Versions of Photoshop, Premiere, and Lightroom Using AI - PetaPixel",
+    "description": "Someone Rebuilt Free, Open-Source Versions of Photoshop, Premiere, and Lightroom Using AI  PetaPixelSomeone Vibe Coded a Free Knockoff of Adobe Creative Suite  GizmodoSolo developer rebuilds Adobe Creative Suite in Rust using Claude, releases it free to all — targets 100% parity in one month despite piracy claims and safety warnings  Tom's HardwareArtCraft’s Adobe Suite copy was made with AI  Design WeekAI Makes \"Open-Source, Clean Room\" Implementations Of Adobe Photoshop & Premier In Rust  Phoronix",
+    "published date": "Wed, 07 Oct 2026 17:05:47 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSHB3bmYtR3Jyb3V6aGxXbjlxVmUxZzFHZ0t5ZHF5LUZoVlJZelI3a2RUYWp0YjlyZm9aWEJ5UWEyU01MeWMycmZ1M1M4ZkN2WGwyWHRMRVUwUjY1d09wMnM4SkktdVRoalNsUzBPQnJRaWRJT0ljUHN4ZUxLQzNuNjdUS0N1WEdRNkRPUnRILWIzU3Nwa1lOMS1QZFg0M2x0STA1czN6UEdaQlBqcnMtcE03YW1wX3pMZ0pQSw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.polygon.com",
-      "title": "Polygon.com"
+      "href": "https://petapixel.com",
+      "title": "PetaPixel"
+    }
+  },
+  {
+    "title": "Ring’s first smart lock can be charged by turning a dial when the battery unexpectedly dies - The Verge",
+    "description": "Ring’s first smart lock can be charged by turning a dial when the battery unexpectedly dies  The VergeRing ends smart lock anxiety with a lock you can recharge by hand  About AmazonAmazon Ring’s First Smart Lock Has a Clever Solution for Battery Anxiety  Bloomberg.comRing's Smart Lock Has A Hand Crank So It Works Even If The Power's Out  EngadgetRing’s Debut Smart Lock Solves the Category’s Biggest Issue: Dead Battery Lockouts  CNET",
+    "published date": "Wed, 07 Oct 2026 14:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbHg4bGRVZTlJeHFCX2RXRkFuTjNBMi1RRFExQjJtUGUtd280R0MtOWxESVEtdGpzWGJrd0ttb2VXbU9GelMzNVVyY1lOOW5XMDBJVWJSakNHRjNiWlUtZHZ2WEdWVC1GMTRXcElOUHZhai1RQXR2VlE4dExsNHQ4bTBHeThReWtjdU9ZX3pGTGJaR3YxUzk1NFlvSW44R2dpaXNrcjc3ZW1McnpsMnRsUXltRTJPbmM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theverge.com",
+      "title": "The Verge"
     }
   },
   {
     "title": "Get AirPods Pro 3 for $179, Apple Watch for $199, and More Before Prime Day Ends Today - MacRumors",
-    "description": "Get AirPods Pro 3 for $179, Apple Watch for $199, and More Before Prime Day Ends Today  MacRumorsThe Best October Prime Day Apple Deals on AirPods, MacBooks, and More  The New York TimesIt’s Your Last Chance to Save on Deeply Discounted Laptops Before Prime Day Ends  WIREDAmazon Prime Day Apple AirPod deals  CNNApple’s Latest AirPods Max Headphones Get Rare $120 Discount for Prime Day  Variety",
+    "description": "Get AirPods Pro 3 for $179, Apple Watch for $199, and More Before Prime Day Ends Today  MacRumorsThe Best October Prime Day Apple Deals on AirPods, MacBooks, and More  The New York TimesMy favorite Apple Prime Day deals are about to vanish | CNN Underscored  CNNIt’s Your Last Chance to Save on Deeply Discounted Laptops Before Prime Day Ends  WIREDThe best last-minute laptop and computer deals for Amazon Prime Big Deal Days  Popular Science",
     "published date": "Wed, 07 Oct 2026 22:17:40 GMT",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NMGltWFFyVEFPSC1TMGo2V1ZGenBKY0xZbVNOM0dzWU1nUmlWZjlDSk9XQm9NZmQ0Z2F3ejUzbTBETDQ4aGItN3RzeGU4NDJXQTFsT1JXbHh4Qlpwd3dmTlBGME0zMGYwdXFfZlgxdHA1STZ5aF9vbQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -90,18 +120,38 @@
     }
   },
   {
-    "title": "The Best Anker Prime Day Deals: Score Big on MagSafe Chargers and More - MacRumors",
-    "description": "The Best Anker Prime Day Deals: Score Big on MagSafe Chargers and More  MacRumorsI can’t live without a portable charger. Here are the heavily discounted models worth buying | CNN Underscored  CNNOne of the Most Efficient Power Stations We’ve Tested Is $350 Off for Prime Big Deal Days  Popular MechanicsAnker’s 100W universal charger is a great travel gadget for $64  The Verge4 Anker Accessories With Deep Discounts In October 2026  BGR",
-    "published date": "Wed, 07 Oct 2026 14:47:21 GMT",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oT0lIOTh1ei1RakhMdkJ6UDljN2Y5bUp3NHNDck1qcE1BRjc1aEhrTFVFSF9ISGp3MXJXNEJoMVBOY09ETW1ua0xjTEwzTVhYMEY5OTRTU0NUOS1nXzlRSjktWjFYTGdTUnZta19aenYzZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "We now have images of the smart home products that Apple and LG are reportedly cooking up - Engadget",
+    "description": "We now have images of the smart home products that Apple and LG are reportedly cooking up  EngadgetApple to Launch Doorbell, Lock, Thermostat Developed With LG  Bloomberg.comApple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell  TechCrunchNew Apple TV 4K launches next week with two major upgrades  9to5MacSources: Apple Planning Two Sets of Product Launches in October  MacRumors",
+    "published date": "Wed, 07 Oct 2026 15:42:39 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNG9ZS0NJOU1pOHdGZmlMOEVDUENlQlFSZF9pYW52cWJlSXlZSWtwYUg0VXNQUkFIbldKVm85Vy1xYnV3NlN6Qk5IUlNPTjlDQ2RULU1GVnY0eGVwNVBGaERNelpDeXc4cFpvaVgyZjdUdE9CRFhodzlEZmgtYTY5ekFtMENKYmhBdGdWbDQ2QUlaRU9TLVJ5bk50akx0NkhibmgyNzdyMUFaWlZxNnNlYTJELVpfTWlIei1zdWE0S3Q?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.macrumors.com",
-      "title": "MacRumors"
+      "href": "https://www.engadget.com",
+      "title": "Engadget"
+    }
+  },
+  {
+    "title": "New AI Can Figure Out What You’re Thinking About From a Brain Scan - Futurism",
+    "description": "New AI Can Figure Out What You’re Thinking About From a Brain Scan  FuturismFastest-Ever ‘Mind Reading’ AI Model Can Reconstruct Images From Your Brain  PetaPixelPsychic AI can read minds — and recreate our thoughts with frightening accuracy: ‘Sci-fi can come true’  New York PostMind-reading tech aims to make AI actually intelligent  New AtlasScientists Are Finally Learning How to Read AI's Mind  HackerNoon",
+    "published date": "Wed, 07 Oct 2026 15:13:10 GMT",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9CcE1lR1dvLWRsZTltT21Ra2Q0TmZZc1MyTVNuWTdVSnpIbTl6R2I5MDMyR3I2NngxQ2hHR3dfX1padDNmdDU5ZElNY0lxbFJqUmQ1Szh5Uk8zRnVrYXJpRmI3US15b1NhNDRxSnktdVhhSnlScjQ1eQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://futurism.com",
+      "title": "Futurism"
+    }
+  },
+  {
+    "title": "Massive GTA 6 Leak Reveals Story Spoilers, Car Chases, And Jason’s Dong - Kotaku",
+    "description": "Massive GTA 6 Leak Reveals Story Spoilers, Car Chases, And Jason’s Dong  KotakuFull-frontal nudity, dirt-biking, and a dev menu: GTA 6's infamous leaker is back with the most X-rated look at the game yet  Eurogamer.netTopless Lucia Features in New GTA 6 Gameplay Leak  Insider GamingGTA 6 before release: fake leaks, \"early access\", and other scams  KasperskyGTA 6 Leaker Returns and Continues to Confirm Game Is Awesome  VICE",
+    "published date": "Thu, 08 Oct 2026 11:29:21 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYUZLOHZ4ek5BNE9yTTZOYTcybXlUSkx2djM5OEp0MkFCZGlTdEwwT2lzZkVaMGh0RjJzQm9qTFo2UktTYkxzcnVLQmFGdlliZVJMQk9lc0gxemFvRFNOM3RMMW1YRU9hcXFHRXZvX2dsbzBmOFNWWUJJMHFKcTdIdUFkbFN5TmtoREVxc01hUWNCWEJQYXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://kotaku.com",
+      "title": "Kotaku"
     }
   },
   {
     "title": "The first Nvidia RTX Spark laptops cost up to $7,000 - The Verge",
-    "description": "The first Nvidia RTX Spark laptops cost up to $7,000  The VergeASUS ProArt RTX Spark AI PCs: Local Agentic AI | ASUS  ASUS PressroomNvidia RTX Spark laptop prices seemingly revealed by HP leak  MashableMSI Unveils Prestige N16 Flip AI+: An NVIDIA RTX Spark-Powered 2-in-1 Built for the Agentic AI Era  TechPowerUpPre-orders are live on Nvidia RTX Spark devices, secure the Surface Laptop Ultra or other RTX Spark laptops here — starting at $2,599; where to buy, pricing, and availability revealed on several models  Tom's Hardware",
+    "description": "The first Nvidia RTX Spark laptops cost up to $7,000  The VergeASUS ProArt RTX Spark AI PCs: Local Agentic AI | ASUS  ASUS PressroomDell Technologies Drives the Agentic AI Era with New Windows PCs and Workstations  Business WireNvidia RTX Spark laptop prices seemingly revealed by HP leak  MashableMSI Unveils Prestige N16 Flip AI+: An NVIDIA RTX Spark-Powered 2-in-1 Built for the Agentic AI Era  TechPowerUp",
     "published date": "Wed, 07 Oct 2026 19:05:52 GMT",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaFZoOTBRZVdoeGMteUNPemoyTmdZMDBjSjFyaVRyNXl4OE1nTzJHRElYeTRNY01IM0xCcjg4RGJxenVkaVZnSUFwT0l3OXVYejJYYW9STlJaNE9yQWVoWVZzSnNGa08zdjJ1Z2FRcGV2ck02UFZ2eUdhSGFpMlBOLXFYcGs3YWhraHNyTjk2V2tCMl9ObmZQTXNmWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -110,48 +160,18 @@
     }
   },
   {
-    "title": "Leaked images reveal Apple’s new Home smart lock, thermostat, more for LG - 9to5Mac",
-    "description": "Leaked images reveal Apple’s new Home smart lock, thermostat, more for LG  9to5MacApple to Launch Doorbell, Lock, Thermostat Developed With LG  Bloomberg.comApple and LG team up on new smart home gear, starting with a lock, doorbell, and thermostat  The VergeNew Apple TV 4K launches next week with two major upgrades  9to5MacApple, IBD Stock Of The Day, Set To Enter New Market  Investor's Business Daily",
-    "published date": "Wed, 07 Oct 2026 13:25:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOUp0YWE4blBXQUgwQWZSdmV3eGp2NVp0NG1sVlFtTnEzQTMtRFdwdjM3UDQ1VGNPMUpKOFdsZnI2NDNmdnN3Z1ZHZWZMYlZMUERzY1R5WGZ6TnZvbHZzSWtXT1l3SndxNGZBX1k5bTFldWlfNEN5SjdIVWxTcEptMm1XLW9VcXptZlpQbnZMUzZZR1pGczNCYWtsZmFjNk01cy1uQg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Round Up: The Reviews For Dragon's Dogma 2: Dark Arisen Are In - Nintendo Life",
+    "description": "Round Up: The Reviews For Dragon's Dogma 2: Dark Arisen Are In  Nintendo LifeDragon's Dogma 2: Dark Arisen Review  IGNDragon's Dogma 2: Dark Arisen (Switch 2) Review  Nintendo World ReportThis Week’s Japanese Game Releases: Dragon’s Dogma II: Dark Arisen, Kingdom Hearts Collection [I ~ III], more  GematsuCapcom Drops Surprise PS5 Pro Update for Its Hit 2024 RPG  AOL.com",
+    "published date": "Thu, 08 Oct 2026 05:25:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaUxENjFnQk1sQ3JyWFBRTlNhTzF4bUZFRlJ5ZVhzRkwtUVpZTHpLSEpvWU9RXzN1VWUxVEpuVzdrS2tLc2RBSWVZaUJHamNUWVFvX1FRME43Q0hpY1g5TERIOGVWbE5FT1hXcno1VVZMbkpWRnRFeXVIaktISkk3cWxrcTdYRzduTUNYc0ZNcFpkdnRMTk52d0dzVVlVZDhLMzRF?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://9to5mac.com",
-      "title": "9to5Mac"
-    }
-  },
-  {
-    "title": "Fastest-Ever ‘Mind Reading’ AI Model Can Reconstruct Images From Your Brain - PetaPixel",
-    "description": "Fastest-Ever ‘Mind Reading’ AI Model Can Reconstruct Images From Your Brain  PetaPixelAn AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan  MIT Technology ReviewPsychic AI can read minds — and recreate our thoughts with frightening accuracy: ‘Sci-fi can come true’  New York PostMind-reading tech aims to make AI actually intelligent  New AtlasNew AI Can Figure Out What You’re Thinking About From a Brain Scan  Futurism",
-    "published date": "Wed, 07 Oct 2026 11:36:30 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONFIzYmt4S0JxRmNhVU1oSFVqOGJyMGYyZGphT1NkMVRyV1ZnYnB2bUZQQm1scldnV2VNTVJfM0tzVUZxVFd2SGNNclpHRE1mNWM3MWlhemh5Szlla1V0UGVPSUdyaURIOWJBSFdCUnNaSlF5Qk9tZWxuamk4amxwOGxsdXdNZ2N1TFlHa3paVHVXNUlfMjZvSFozSnFScG1ta1NVLTBYbG51OFU?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://petapixel.com",
-      "title": "PetaPixel"
-    }
-  },
-  {
-    "title": "PS5 to Integrate Anime into Main Menu as Sony Tightens Ties with Crunchyroll - Push Square",
-    "description": "PS5 to Integrate Anime into Main Menu as Sony Tightens Ties with Crunchyroll  Push SquareSee more headlines & perspectives on Google News",
-    "published date": "Wed, 07 Oct 2026 23:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT0JTTDJzZ1hla2xYOW01b2VuNkR4dmJnZkNOUlNOR29NMTdkN3dhLW8wc3JwMlYtSU42UjRyNXdGWkdDNjVNekxyTU41Wk1TV01iaU1ZLUZrZlNnMEE1WTZyUlM2VEd6b1dXQkpocTYyLVROckdQLW5Ud0pGRzJ0TWtpSlNXNmlLSTVGcGV4bkZxN1pzeFl4ejhOY0YwbTg2YzlkQ0J4a2Q1WEdxMjNjd2x0N2ZWaXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.pushsquare.com",
-      "title": "Push Square"
-    }
-  },
-  {
-    "title": "57 Best Last-Minute Home and Tech October Prime Day Deals - The Cut",
-    "description": "57 Best Last-Minute Home and Tech October Prime Day Deals  The CutScore these great Apple, Bose and Sony headphone deals before it’s too late | CNN Underscored  CNNMy Top Apple, Anker, Shokz and Sony Earbuds Are Down to Their Lowest Prices for Prime Day  CNETBose’s Bestselling QuietComfort Headphones Are More Than Half Off for Amazon Prime Big Deals Day  VarietyOur favorite headphones and earbuds are cheaper during October Prime Day  The Verge",
-    "published date": "Wed, 07 Oct 2026 18:57:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN3l5T1BmUVhMT1dhS2twMGdzRHVWa2VLRkZUUllzWTZnaDZReWFuZHoxYkRRbUtPbDNrYklGWGxzUllFdHB3bmlaaW45dlNiX3pvd1F3RmQyTG56UW5RN1htX1gwVlFrQzVBeHNZT181bjZla3lJNVg5dVQ4bjFVZjVEekQ4YWxLLWFF?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.thecut.com",
-      "title": "The Cut"
+      "href": "https://www.nintendolife.com",
+      "title": "Nintendo Life"
     }
   },
   {
     "title": "Coming to XBOX Game Pass: Battlefield 6, Valor Mortis, Forever Ago, and More - XBOX Wire",
-    "description": "Coming to XBOX Game Pass: Battlefield 6, Valor Mortis, Forever Ago, and More  XBOX WireThese Nine Games Are Coming To Xbox Game Pass, Including Battlefield 6 (October 8-16)  Pure XboxThe Best-Selling Game Of 2025 Storms Onto Game Pass One Year Later  Kotaku‘Gears Of War: E-Day’ And 7 Other Titles Joining Xbox Game Pass In October 2026  AugustMan SingaporeXbox Game Pass October Wave 1 | Gears of War: E-Day, Forever Ago, Neon Abyss 2 and More  PlayDayOne",
+    "description": "Coming to XBOX Game Pass: Battlefield 6, Valor Mortis, Forever Ago, and More  XBOX Wire10 Xbox Games Are Out Today, Including A Trio Of Day One Game Pass Titles (October 8)  Pure XboxBattlefield 6 Set to Join Xbox Game Pass in October  Inven GlobalThe Best-Selling Game Of 2025 Storms Onto Game Pass One Year Later  KotakuXbox Game Pass Gets Battlefield 6 This Month, Days Before Modern Warfare 4 Launches  TechPowerUp",
     "published date": "Wed, 07 Oct 2026 16:17:03 GMT",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpNDFkdWJJS3pPRzFNOV9ydHhnNkhYdE1DcDNXM3IzaWxJWndueWZWUGNnTXlpZGVrUzg4czBjX1phRnl5MVVHTEVnX0ItZXF6OXVwOV9NTlBiaVhLMGNBaVNTR2NLY1lJdFhTUXJlMEVsZll5SkFWeldfanRyTjDSAYQBQVVfeXFMT05xNXlDTV9URWlCeS11NHgxZVE2d0JsY19sNmhsd2t0VDdXV2RNUjA3SVgxNGtMUTROTzdvWlBweENwRG9BZXF6V0M0ZlZWZWdyaFMzXzJ2NzhKc01GWWdnNmR2dnRiSWI3Y2Q0WjFPRkd1aDA3YnowUENUalJoZUE5RW5q?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -160,18 +180,68 @@
     }
   },
   {
-    "title": "Dragon's Dogma 2: Dark Arisen Review - RPG Site",
-    "description": "Dragon's Dogma 2: Dark Arisen Review  RPG SiteSee more headlines & perspectives on Google News",
-    "published date": "Wed, 07 Oct 2026 22:00:32 GMT",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5xZDgzU09SX0J3ZW1Pd3RhZzg1YUc4Q3NIeEVVVFE3eFZPbXd4LVpaRmFBOE5VOFFkeC1wMjRfVmItSmNhdTN2Q1F5NEF4alRNeGc3eWNGcmd3cGtkU3VVLXBIZVIzc0RMLUFiLVVsRGRuWXRBZmJ5Tlo0OA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Sonic Racing: CrossWorlds DLC ‘Avatar Legends Pack’ launches October 14 - Gematsu",
+    "description": "Sonic Racing: CrossWorlds DLC ‘Avatar Legends Pack’ launches October 14  GematsuSonic Racing: CrossWorlds \"Year One\" Edition Spotted Online  Nintendo LifeOne Year of Racing with Sonic: 'Sonic Racing: CrossWorlds' Starts Hatsune Miku 2nd Festa  Inven GlobalSonic Racing: CrossWorlds will receive a “huge update” bringing big changes  My Nintendo NewsListing for \"Sonic Racing: CrossWorlds Year One Edition\" spotted  GoNintendo",
+    "published date": "Wed, 07 Oct 2026 19:40:03 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRG9HQ3MyZG1WWGx3dzkzMDRRTnoxM1NnSXgtTDgyeDN5eWZSb1VfRmZBa3RIYmxkaGRKRlFHdWM4M0dNTDdDWThvYjZLU0wzbGlfOWx4b1JuLVhzWXRKN09TZzl2eXN6ZDF5ZVF5WURMZE1VeFh0eVhKN2lzSjN5blMyUGR0WmhSYVhjdmVHNS15bG9ReVZwQVFDRXFTUVF2Mnc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.rpgsite.net",
-      "title": "RPG Site"
+      "href": "https://www.gematsu.com",
+      "title": "Gematsu"
+    }
+  },
+  {
+    "title": "Wizards of the Coast Confirms Reprints for Popular MTG Warhammer 40K Commander Decks - IGN",
+    "description": "Wizards of the Coast Confirms Reprints for Popular MTG Warhammer 40K Commander Decks  IGN",
+    "published date": "Thu, 08 Oct 2026 11:20:46 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZnlTbndXZmhJVHFaUUEzQXZiblM1TlVRTGVta2dvMEdHMWlTQ3lCZXVLeTVMRUdKOXhrX3F5ZzYwT3VCaENVa2Jnb2hnbnhfNVUycjJQMjhvWE44OElaZ2IwOUp4WVB1dnhjektyT1czdWFockpRX2RIbzA5U1lOVGlTQmk5ZnNScnJlOVI2dnN1TUVtUWhfd25ieWU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ign.com",
+      "title": "IGN"
+    }
+  },
+  {
+    "title": "The Best Anker Prime Day Deals: Score Big on MagSafe Chargers and More - MacRumors",
+    "description": "The Best Anker Prime Day Deals: Score Big on MagSafe Chargers and More  MacRumorsThese 18 deals on our favorite portable chargers won’t last much longer | CNN Underscored  CNNOne of the Most Efficient Power Stations We’ve Tested Is $350 Off for Prime Big Deal Days  Popular Mechanics4 Anker Accessories With Deep Discounts In October 2026  BGRPrime Day Ends Tonight! Our Editors Found the Best Fall Prime Day Tech Deals Starting at $7  TODAY.com",
+    "published date": "Wed, 07 Oct 2026 14:47:21 GMT",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oT0lIOTh1ei1RakhMdkJ6UDljN2Y5bUp3NHNDck1qcE1BRjc1aEhrTFVFSF9ISGp3MXJXNEJoMVBOY09ETW1ua0xjTEwzTVhYMEY5OTRTU0NUOS1nXzlRSjktWjFYTGdTUnZta19aenYzZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.macrumors.com",
+      "title": "MacRumors"
+    }
+  },
+  {
+    "title": "57 Best Last-Minute Home and Tech October Prime Day Deals - The Cut",
+    "description": "57 Best Last-Minute Home and Tech October Prime Day Deals  The CutDon’t Miss the Best Amazon Prime Day Headphone Deals Before the Sale Ends  WIREDOur favorite headphones and earbuds are cheaper during October Prime Day  The VergeTop 55+ Prime Day Headphone Deals to Grab While You Can: Apple, Bose, Sony and More  CNETBose’s Bestselling QuietComfort Headphones Are More Than Half Off for Amazon Prime Big Deals Day  Variety",
+    "published date": "Wed, 07 Oct 2026 18:57:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN3l5T1BmUVhMT1dhS2twMGdzRHVWa2VLRkZUUllzWTZnaDZReWFuZHoxYkRRbUtPbDNrYklGWGxzUllFdHB3bmlaaW45dlNiX3pvd1F3RmQyTG56UW5RN1htX1gwVlFrQzVBeHNZT181bjZla3lJNVg5dVQ4bjFVZjVEekQ4YWxLLWFF?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.thecut.com",
+      "title": "The Cut"
+    }
+  },
+  {
+    "title": "Rockstar, Does GTA 6’s Jason Show Full Hog Or Not? - Kotaku",
+    "description": "Rockstar, Does GTA 6’s Jason Show Full Hog Or Not?  KotakuGTA 6: The Big Interview  IGNRockstar Reveals 35 New GTA 6 Features  VICEGTA 6 Map Size: How Big Is Leonida Compared to GTA 5?  ForbesWith sex in GTA 6, studio boss suggests Rockstar doesn't want another Hot Coffee moment  Yahoo Tech",
+    "published date": "Wed, 07 Oct 2026 21:10:48 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR2lhUjNMQ0I2NnlPOE95QUNHd1VYN1I4T1FfSGdrcGNkanBqNGdiNTlNWEJBQzdGbEgyRjl5a056bFhRdzRKT0lXcnhGS3J4bWZ6eXNxbk00Z2FJMUR0dmNEdE1ZNU9hellGcGJ0Z04tZ0Rxb0R1NDlRV2NwSjk0TmNqSHhmVVRKRVZN?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://kotaku.com",
+      "title": "Kotaku"
+    }
+  },
+  {
+    "title": "Google experiments with an AI-powered gaming platform - TechCrunch",
+    "description": "Google experiments with an AI-powered gaming platform  TechCrunchIntroducing Playground: Create and play custom games  blog.googleGoogle launches platform to create video games from text prompts  Financial TimesGoogle launches Playground for prompt-based game creation  Pocket Gamer.bizGoogle and Unity Partner on New AI Gaming Platform for the Next Era of Interactive Entertainment  Business Wire",
+    "published date": "Wed, 07 Oct 2026 14:36:23 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd19wOXlWcGQ4Wng0d3ZtS1hiTDZvanRPVHVkemgtUEQ0OXRGeTk0NVdBallhd01WV1ZpcVp5YmhZaUZrbkF0aVVBUVFkREcxSEJBNnZWMnhuY184U2Vfb1QwQW55bHhmNVZlRm9EX1dyQm5nVkpPUEZyMjIzMDdRRHZCV3l4Nm94NUdzMzZQbVZsdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://techcrunch.com",
+      "title": "TechCrunch"
     }
   },
   {
     "title": "Windows Search is becoming the fastest way to control your PC - Windows Central",
-    "description": "Windows Search is becoming the fastest way to control your PC  Windows CentralFrom searching to doing: Building a faster, more streamlined Windows Search  Windows BlogMicrosoft is giving Copilot more control over Windows and your files  The VergeMicrosoft Rebuilds Windows 11 Search, Adds Typed Commands and Inline Copilot  TechPowerUp“Nobody wants Copilot”: Microsoft pauses Copilot on Windows 11’s taskbar to “incorporate your feedback,\" as Microslop backlash continues  Windows Latest",
+    "description": "Windows Search is becoming the fastest way to control your PC  Windows CentralFrom searching to doing: Building a faster, more streamlined Windows Search  Windows BlogMicrosoft Rebuilds Windows 11 Search, Adds Typed Commands and Inline Copilot  TechPowerUpMicrosoft is redesigning Windows Search to act like an AI agent  NeowinMicrosoft is giving Copilot more control over Windows and your files  The Verge",
     "published date": "Wed, 07 Oct 2026 17:48:25 GMT",
     "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOOUlXLTdBeVowQlpOZDQwdmk3NzJJU2pSNjNoeUg0eS0teG9Yb3poMU85YkdXTDV0MDVZQnA1Z1JtU1BvbDl6NVRoWDM3SXQ5OGFXTHc5ZEJvUDJ3OGl5OWhnX2tLSlhsNjBLN1hpQUJYMmxsSlI4bTJFQjFaSGxSS1hFOXdJWXVsNTBRaTBsaXZXdWhudTlSOHNIN2IyTl9McnFpRzhNUnM5aWlsTDI3aEJQUUtOcDVpUXdmLW5VckFiNHIyZ3ZoSWhDYzBpNGNpQWVPQUxuV0tsNEpQWml4V3FzTm0tNjNDbWJLVkd2ak1rcHlBZFFOVG5vRGVhNWNxak5UbG5OaXV4UTVQTDdleFcydklVYUVM?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -180,73 +250,13 @@
     }
   },
   {
-    "title": "Pre-order Minecraft for Nintendo Switch™ 2 today! - Minecraft",
-    "description": "Pre-order Minecraft for Nintendo Switch™ 2 today!  MinecraftMinecraft details free limited time Nintendo Switch to Switch 2 upgrade  Nintendo EverythingMinecraft Switch 2 Pre-Orders Now Live, Free Digital Upgrade Path Confirmed As \"Limited Time Offer\"  Nintendo LifeMinecraft gets free Switch 2 upgrade for limited time, but only for digital owners  VooksMinecraft for Nintendo Switch 2 Will Be a Free Upgrade for Digital Owners  Final Weapon",
-    "published date": "Wed, 07 Oct 2026 19:07:33 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZzB5WHlicFlhTVg3WHBTOWRxSG94b0J2TkFkUUl3YzlVcU1jcENXOWoyUno0aXg2U2pfb0g0TDNPUTVYa1BEWFhUU2kxb1Q1REd0TWxETFpHdFRFNGhzTklLZTVvYVlTdmRwQ0JJOHVBY0VnT0VpWUtCamd2a1lRNldXQUdMSGZz?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Gears of War: E-Day Launches to Modest Reviews and 31,500 Peak Steam Players - TechPowerUp",
+    "description": "Gears of War: E-Day Launches to Modest Reviews and 31,500 Peak Steam Players  TechPowerUpXbox bets on Gears of War in battle of gaming giants  BBCGears of War: E-Day – Surviving the First Night of Emergence  XBOX WireGears of War: E-Day Review: A Grand Reemergence  Game InformerGears of War: E-Day PC graphics performance tested: 43 GPUs take us back to the start of an iconic saga  Tom's Hardware",
+    "published date": "Wed, 07 Oct 2026 23:55:45 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWDhKcV9jLVh0UHpveU5CVGE4dDJHRjYtZ2dEV1l3Q2p1Z0YzUVdSRnNWbTJTMkZtUm1ZUVZsdDc3Q185VTE2S0JNUzA4YVhEclRldldidnlmUFhSOTRVanZtXzdJMGNlSGlzeDdCcDRzdGVDNWlfYUZnRHRvMjBNeGJpUmpRTUFWaWFTNGY5SVA4dG1QekVMbVVGMUNTUDQ1akxhNkpSQy1aRHU4TWVJ0gG0AUFVX3lxTE5wbUdUV2ZMSm1rQ2tGb2otcEtPVFNheGdwRjZGZUNPb25MUXp3bkpIUEFRYTFka3M1RHJ6NnlQUnZ5MmJTa2Q4cHJ4cFBFNC0wcmcwLURqaWlpZENVcXNJN3VIdGdhazNOWDJHWTB6UjI2QWxfa094Znl0eXVjTW9jOXYxZTdEUDhsRUZfR0lNWDllcS10MXZxTDJGb0NfSEMwSTh0T05Jd3RidHl2X0tfU0FGWg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.minecraft.net",
-      "title": "Minecraft"
-    }
-  },
-  {
-    "title": "GTA 6: The Big Interview - IGN",
-    "description": "GTA 6: The Big Interview  IGNWith sex in GTA 6, studio boss suggests Rockstar doesn't want another Hot Coffee moment  Yahoo TechGTA 6’s Lucia Actress Addressed By Rockstar, Who Clears A High Bar  ForbesRockstar Reveals 35 New GTA 6 Features  VICENew Details Revealed For GTA 6’s Jason And Lucia, Including “Physical Intimacy”  GameSpot",
-    "published date": "Wed, 07 Oct 2026 12:37:39 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FRVJXM01GLTNDeXRjQzhpRFp4LVRXVGRpamtacjY4SW40MkxjUVIzcWU5RWxwM3RHWHZtX1l4dXNZZ0xRVl9sNzcyOUhQOGZwRFNnbktpeXlWeS14WFVtbnNR?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ign.com",
-      "title": "IGN"
-    }
-  },
-  {
-    "title": "Google, Unity Launch Platform to Create Video Games From Prompts - Bloomberg.com",
-    "description": "Google, Unity Launch Platform to Create Video Games From Prompts  Bloomberg.comIntroducing Playground: Create and play custom games  blog.googleGoogle launches platform to create video games from text prompts  Financial TimesGoogle and Unity Partner on New AI Gaming Platform for the Next Era of Interactive Entertainment  Business WireGoogle launches Playground for prompt-based game creation  Pocket Gamer.biz",
-    "published date": "Wed, 07 Oct 2026 14:22:36 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUmVoZXBuT2hEaGVvQTBCS0dVTVpxUER0UThPQ012VVZZdHhDZDRFMms5Vm5MNzdQZ3FobUpyTlZjb2R4cy1hVFRDaEhZOVl5QWFrcU5qSnVLS25feDR2UzFZYUkzYlZQQndFemVCTjZmV1NFOWVXWWI3UXFlRDk1TGtxcGd2eDlGWC1leHAzTHZOSnhUNk04V2FnQTh5ZVdNUjduRnQwNm9hQ1FvdksyVHNpeEk?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.bloomberg.com",
-      "title": "Bloomberg.com"
-    }
-  },
-  {
-    "title": "10 Hours With Jonathan Blow’s New Puzzle Game Order Of The Sinking Star - Kotaku",
-    "description": "10 Hours With Jonathan Blow’s New Puzzle Game Order Of The Sinking Star  KotakuOrder of the Sinking Star: Jonathan Blow on making ' the biggest puzzle game ever'  BBCOrder of the Sinking Star review  GamingTrendOrder Of The Sinking Star (Nintendo Switch 2) Review  CGMagazineOrder Of The Sinking Star Sometimes Has Too Much Of A Great Thing  GameSpot",
-    "published date": "Wed, 07 Oct 2026 13:00:49 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ2RiYXZUZElsUlpmREQ2RWlDaFV1ZU1fTWdQNDR2ZW83MHY1Q25iNmNKcUE3NHVxMUJNaDcwUnVxVFJ0bzBhVkJLZGxnM0x1LWc0NlNLNXI5a3k4NXpYS19BcUxpMjlINzg5UElwY1FMZWt0QmxlY2hKN2NBQUJCdHRZbUUzdm1tN0FIVWpxVllpcVBzZk1hZ2xwS3JLbDZPT2FnVjlPZG54a0J1?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://kotaku.com",
-      "title": "Kotaku"
-    }
-  },
-  {
-    "title": "Our favorite Amazon Prime Day TV deals are almost gone | CNN Underscored - CNN",
-    "description": "Our favorite Amazon Prime Day TV deals are almost gone | CNN Underscored  CNNBest Prime Day TV Deals: Top Picks From LG, Sony  CNETThis 75-Inch Hisense 'IMAX Enhanced' TV Is 50% Off Right Now for Prime Day  PCMagAt $2,000 off, this TV could be the best deal of Amazon Prime Day — but should you buy it?  Yahoo TechToday's biggest TV deal? $2,000 off a 100-inch Hisense TV (yes, really)  USA Today",
-    "published date": "Wed, 07 Oct 2026 17:53:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLXY2MHpMNXRuY2dkcHcybHdNLWRKUlFrYzRVdGxnSDYydHJMck81cmhsM3BQcF9KR2c3a0NFbDFsN21kRkEzbkdxNl9MQm9ZZFVsSFh5anNZTDA3U1FmMGZfVGo5WGU5TTh1eF9Sdnc0czg5STRFZ1F1azZ6aUdoWDhIQ0Y5X0lFTzNF?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cnn.com",
-      "title": "CNN"
-    }
-  },
-  {
-    "title": "Formula 1 on Apple TV is getting Dolby Atmos, starting this month - 9to5Mac",
-    "description": "Formula 1 on Apple TV is getting Dolby Atmos, starting this month  9to5MacSee more headlines & perspectives on Google News",
-    "published date": "Wed, 07 Oct 2026 03:05:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORDhVN2tZZ0J4aTUwN2Z3UXhLdko3NjhXeEFobS10UnVsZkVCcXMxb2RjYm9VV0xQM1p0UHBIRml0Qy16LTExb0FVdzRkeEdYRTU5UW55YjRoYWhLM004dWVJcnFPOXdnQi1pRmw1YkF4N2JDRkRfcnZiYmJEZnQyN2t4bG1iOGFral8wVHV6VlZvTzUtcEh0QmxKTmM?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://9to5mac.com",
-      "title": "9to5Mac"
-    }
-  },
-  {
-    "title": "Apple Reportedly Waiting on Samsung for Ultimate Bezel-Free iPhone Display - MacRumors",
-    "description": "Apple Reportedly Waiting on Samsung for Ultimate Bezel-Free iPhone Display  MacRumorsApple Wants A Bezel-Free iPhone With No Frame And No Buttons, Where Samsung’s In-Development ‘Full-Surround’ OLED Literally Becomes The Phone’s Sides  WccftechAnniversary iPhone 20 reportedly isn't what Apple really wants because of Samsung’s displays  PhoneArenaApple’s Latest iPhone Is a Pro Forma Upgrade  The New York SunApple Awaits Samsung’s Revolutionary Full-Surround OLED Display to Eliminate Bezels  freeyork",
-    "published date": "Wed, 07 Oct 2026 12:20:44 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSEFETWtySU5GOG9ISHNiWjc5SjdJQklHNmpKdm5hc0w3MnlMQVpZQkZvczI2Ykd6N0traGZNLVNLeGdRSHhud1VmUjRMSXI4b3B1YlZpR2RnTUdzUnNOc1NXUGw3ZUVFajM2emxaMDlyMjc2dmZWOHR1cGRudm9RWFZCdUhOMzNhMHBJeV8wcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.macrumors.com",
-      "title": "MacRumors"
+      "href": "https://www.techpowerup.com",
+      "title": "TechPowerUp"
     }
   },
   {
@@ -260,8 +270,18 @@
     }
   },
   {
+    "title": "PlayStation to Launch New Crunchyroll Anime Hub for PS5 - Variety",
+    "description": "PlayStation to Launch New Crunchyroll Anime Hub for PS5  VarietyPS5 to Integrate Anime into Main Menu as Sony Tightens Ties with Crunchyroll  Push SquarePS5 Crunchyroll Anime Hub Launches in Spring 2027  Insider GamingPlayStation 5 Getting Major UI Update Nobody Expected  AOL.comCrunchyroll Manga Announces International Expansion Across Hundreds of Titles  Crunchyroll",
+    "published date": "Wed, 07 Oct 2026 21:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeGFmeUh2ZmJYNlNJNnRPMEpNb1JHSm9RU1UyTWZSaEF2UkxuX3JwOG1rMGJTQVR4VHp0eWk1Y2tzQWxNZXN6c1JSSlB1RFhhY295QURFbW1sUnIzdXpuR0xudEMyRG5RRWQ2ZVg0NGVRZ3BDS2c4V2xNZzJCVkNLWWlMTXh1Uk1wWkQyUHc1S3Q0QlpO?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://variety.com",
+      "title": "Variety"
+    }
+  },
+  {
     "title": "'I'm not paying top dollar for a worse camera': readers debate the $2,000 iPhone Duo's trade-offs - Tom's Guide",
-    "description": "'I'm not paying top dollar for a worse camera': readers debate the $2,000 iPhone Duo's trade-offs  Tom's GuideApple’s Year Hinges on the Foldable iPhone Duo  Bloomberg.comApple Announces iPhone Duo Apps Can Now Be Submitted to App Store  MacRumorsThe Popular Apple Features You Won't Be Getting With The iPhone Duo  EngadgetApple commissions photographers for new ‘Shot on iPhone Duo’ campaign  9to5Mac",
+    "description": "'I'm not paying top dollar for a worse camera': readers debate the $2,000 iPhone Duo's trade-offs  Tom's GuideApple learned from Android's mistakes for the iPhone Duo launch  PhoneArenaApple’s Year Hinges on the Foldable iPhone Duo  Bloomberg.comApple Announces iPhone Duo Apps Can Now Be Submitted to App Store  MacRumorsThe Popular Apple Features You Won't Be Getting With The iPhone Duo  Engadget",
     "published date": "Wed, 07 Oct 2026 14:29:28 GMT",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTlFMdTlkUi1uVmRLenMxYnl3N1pMZldINHNRYXFFeU1CZ0EwcVIzZEVyNEstTkNUTHlIM1huZXR6SHdFd0tQOFBoQUhlUU9McHNXWjlNZ1JtU0IxYXlsclliN19XNFFPOGxxRk16MjhrQmltWkxiVllmWUVEWURVNDUtMlVLRXZnQi1fQkJlTTY1WTlYRjIxVkpfNHh6bFcwYjBic3IwYXRGQlF2a3ZpelBPeTZpU3pxUmpTMlpDNnI4WjJLeHlBeU0wSWVHQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -270,28 +290,48 @@
     }
   },
   {
-    "title": "Indie Selects for October 2026: Discover and Progress Through Unforgettable Worlds - XBOX Wire",
-    "description": "Indie Selects for October 2026: Discover and Progress Through Unforgettable Worlds  XBOX WireIndie Game Guide to October ’26  So Many GamesPhotography adventures, chaotic sheepherding and other new indie games worth checking out  Engadget5 Top Indie Games Dropping This October  Yahoo Tech",
-    "published date": "Wed, 07 Oct 2026 15:02:51 GMT",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PZnd0S3ZMVHV4VWtuSGZxLXFzdGNEYm9hcG1WWUFWNFZVYjhhRTFFT3B5eTJzMjB0U21tOGUxS3NKeGY3aDFqc1ZfSEFFR1RZcTNGWnJuM1NUYng4VmZlcm53NnZzY0tNQkY3TjRB0gFzQVVfeXFMTzdyLWJ1SzltQ3JRd3NVWUtPXzFjVmJVeDBnSkEwUEpOLXZYN0NhLVp3Q2JoS1M3d1gwWk84ZkxnUWdXb3I3UXRGOGNPaU92NEthNE1Eekt2UVI2dzZhSHJOdmdXYU5WOUZFRUd0TV9aeDU3aw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Formula 1 on Apple TV is getting Dolby Atmos, starting this month - 9to5Mac",
+    "description": "Formula 1 on Apple TV is getting Dolby Atmos, starting this month  9to5MacSee more headlines & perspectives on Google News",
+    "published date": "Wed, 07 Oct 2026 03:05:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORDhVN2tZZ0J4aTUwN2Z3UXhLdko3NjhXeEFobS10UnVsZkVCcXMxb2RjYm9VV0xQM1p0UHBIRml0Qy16LTExb0FVdzRkeEdYRTU5UW55YjRoYWhLM004dWVJcnFPOXdnQi1pRmw1YkF4N2JDRkRfcnZiYmJEZnQyN2t4bG1iOGFral8wVHV6VlZvTzUtcEh0QmxKTmM?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://news.xbox.com",
-      "title": "XBOX Wire"
+      "href": "https://9to5mac.com",
+      "title": "9to5Mac"
     }
   },
   {
-    "title": "Xbox Rejects ‘GTA 6’ PC Streaming And Exclusivity Report, Though Questions Remain - Forbes",
-    "description": "Xbox Rejects ‘GTA 6’ PC Streaming And Exclusivity Report, Though Questions Remain  ForbesXbox has secured GTA 6 streaming rights  The VergeXbox Cloud Gaming Is the Only Platform That Can Stream 'GTA VI' at Launch  HypebeastMSFT Stock Nears All-Time High: Xbox Moves To Secure Exclusive Rights To Stream Grand Theft Auto VI, Report Says  Yahoo FinanceGTA 6 Cloud Streaming Reportedly Exclusive to Xbox  TechPowerUp",
-    "published date": "Wed, 07 Oct 2026 14:18:12 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSkdUbVhGVTFyeHpEQVVRWklfZFd2TGhwT1FFdms5UFlsdHIwdkduOUFzVlRtMnJ5VnZ1TUZoUUNlVS02d1dkdGNVVmZab2lLN2R4bmNJalhUQmdZS2g4V3hMY2JhRTBjUExDNC1DMXFUcVlET0Z6Y3RnYlhCTzhZRVV4dXRIY0kzMzVsenc1RnRNNUlUQUpJNTVuSm5QM0F3ZzdjWUg0eEtwbVFxTzlOd2QtWXhZb0ZGV0NJZXhlMVJIdnZrSDNVVA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "PS5 Metroidvania Game Gets Perfect Reviews, New PlayStation GOTY Contender - PlayStation LifeStyle",
+    "description": "PS5 Metroidvania Game Gets Perfect Reviews, New PlayStation GOTY Contender  PlayStation LifeStyleSilver Pines review – a stylish, neo-noir detective drama  The GuardianSilver Pines Review — 'An enjoyable horror-thriller'  EmpireSilver Pines Review (PS5) - A Compelling, Paced Metroidvania More Focused On Exploration Than Survival Or Horror  PlayStation UniverseTwin Peaks Meets Resident Evil In New 10/10 GOTY Contender You Can Play Free Now  ScreenRant",
+    "published date": "Tue, 06 Oct 2026 19:54:11 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQklCMklNS3FjX2pnV2V0RGRJd0FlNk1ibVJ3UVBJNEdHS1hfZ1RWVVVWd21NQUN5aFQ2TlI2aDNLNkx1NlRCZXpjUVpHRTdsS3FDWm1HanZhQTdqc1VVanhFMVZTSkFNd3VDMDMyTzJaMkk0SlJlODRkYXM3ZS1zdTlsRWE1b1R2X1JHbWJwbE9HYlh0YUMyVW44SXNmd0ptSzl5NXQ0VERiY0XSAbABQVVfeXFMTkNWVUdrS1Q4MUMwUXJHSktCdnZqQ1VOcmpYcV9ya25penF6M3Nranp4UGF3X1VYODUzaE1rUWZ2YXFZNktiUDhhcXc3R05JeUtpNWJodHE5a2wyUUVsOXU5Uzg1X3ZSLWZBWXlQR2Vka1ltUnR6YzBWNVlaM2NMTlpGaGhSN0tGdUxOVWQ3bnJfRG5BaGZjdkxRMUxpeTBhTFgwdTc0Y01wLUlicnRQMHA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.forbes.com",
-      "title": "Forbes"
+      "href": "https://www.playstationlifestyle.net",
+      "title": "PlayStation LifeStyle"
+    }
+  },
+  {
+    "title": "The first A-series phone is now getting stable Android 17 with One UI 9 - Android Authority",
+    "description": "The first A-series phone is now getting stable Android 17 with One UI 9  Android AuthoritySamsung One UI 9 Rollout: These Galaxy Phones Are Getting Android 17  TechRepublicSamsung is on a One UI 9 updating spree all of a sudden  PhoneArenaOne UI 9 Release Date: Android 17 Update Lands On Galaxy S25 Today  ForbesSamsung starts rolling out Android 17 for Galaxy S24, Z Fold6 and Z Flip6  Techish Kenya",
+    "published date": "Wed, 07 Oct 2026 08:18:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNWVoSGFjNWtIRjhNaVVwZUdYTEFqTnpKSXZVTld5ckhwOVF5WUZid1JrZWxXLWI3NF95UnUwWHpDUllfaGx5aEJFTGtRSnZRLXFTQmhNeU9uVm5nZWFNYmNKWklJT0JOVGJNaWtibElMci1wX2d0aTU5TlcyalVYNlJkdlVCVm1DeDZn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.androidauthority.com",
+      "title": "Android Authority"
+    }
+  },
+  {
+    "title": "The Best Xbox Deals Available During October Prime Day Sales - IGN",
+    "description": "The Best Xbox Deals Available During October Prime Day Sales  IGNBest Amazon Prime Day 2026 tech deals you can still get — PC hardware deals on GPUs, CPUs, SSDs, and more  Tom's HardwarePlayStation Prime Day Discounts for PS5 Games, Consoles, and More — 10 Best Deals  IGNThese Prime Day Deals on Alienware and Asus Gaming PCs Are Outrageous  PCMagThis Retro Handheld Game Console Is a Great Last-Minute Deal for October Prime Day  Lifehacker",
+    "published date": "Wed, 07 Oct 2026 14:20:20 GMT",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11ckNBYlJVSDI1NWUyOEVaWXRELTFHYmRHUWViNnlnY3pNcGRnTGRRVWhpMXpiVVRrX1FGY1JyVVFfZmFPcDY4NUpOMGs0dHExeUFXZXpVdlQ5akRjV0VhTEZZNTM3XzNqb3JXbXk1aVRrbGpMNkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ign.com",
+      "title": "IGN"
     }
   },
   {
     "title": "Pokémon TCG Destined Rivals ETB In Stock for Prime Day — Best Deal at Amazon vs. TCGplayer - IGN",
-    "description": "Pokémon TCG Destined Rivals ETB In Stock for Prime Day — Best Deal at Amazon vs. TCGplayer  IGNPokémon TCG 30th Celebration Mini Tins are on sale for October Prime Day — grab all 10 for $45 off  MashableI Found 25+ Pokemon Deals in Amazon's October Prime Day Sale That Are Worth Any Fan's Time  IGNThe best October Prime Day deals on Pokémon: New price drops on the 30th Celebration expansion  MashableYour Next Game Night Isn't Complete Without These 40+ Prime Day Deals From Pokémon Cards to Catan and More  CNET",
+    "description": "Pokémon TCG Destined Rivals ETB In Stock for Prime Day — Best Deal at Amazon vs. TCGplayer  IGNPokémon TCG 30th Celebration Mini Tins are on sale for October Prime Day — grab all 10 for $45 off  MashableI Found 25+ Pokemon Deals in Amazon's October Prime Day Sale That Are Worth Any Fan's Time  IGNYour Next Game Night Isn't Complete Without These 40+ Prime Day Deals From Pokémon Cards to Catan and More  CNETThe Pokémon TCG 30th Celebration ETB is close to market price — shop for $159.99 at Amazon  Yahoo",
     "published date": "Wed, 07 Oct 2026 15:09:05 GMT",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQWljQnJJWmI3eUJMN1Y1ekMwUk5COE4wQlZsTjB2VmdCczZ3eVBrSHpCNlVKTlVPRS1wM29DVExKUzFqbHpTTGx6LVp0a3hzd3loZU5kb2xnNlBEcnREQUJfSUE5bEt6MklwZy1vVW9VMDlKSXFlSzN0VFY4NUY4YWQ1Q2xCM3dKdzRrdDN1clpNclh1aFhVbQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -300,33 +340,33 @@
     }
   },
   {
-    "title": "Pixel 11 series still not on Android 17 QPR1 with October update - 9to5Google",
-    "description": "Pixel 11 series still not on Android 17 QPR1 with October update  9to5GoogleAndroid 17 October update rolling out with three Pixel fixes  9to5GoogleAndroid 17 QPR3 Beta 1 gives us an early look at next year’s Pixel updates  Android CentralEverything Fixed in October Pixel Update  Droid LifeAndroid 17 QPR 3 Beta 1 overview: laying the groundwork for things to come  PhoneArena",
-    "published date": "Wed, 07 Oct 2026 17:35:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ITldYWEkzWHJSeGtWLWFDcXprNlRQbDBmaWE0cUxSdlBnNmVTRjhuNXJzYWs5TVV1LVhXVEs0ekYwWXp5WWZ3QnhtaXZvS0pXdHdNVTFFOXRaLU9XQVl2aUpkWjB6SnA1RUZzelBJMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details - The Hacker News",
+    "description": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details  The Hacker NewsCritical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products  The Hacker NewsAtlassian’s critical flaw turns eight enterprise products into one big security problem  CSO OnlineYou Won’t Hear About These, Even In Myths (Atlassian Jira, Confluence (and more) Pre-Auth Arbitrary File Read CVE-2026-21589)  watchTowr LabsAtlassian warns of critical file access flaw in its datacenter products  The Register",
+    "published date": "Wed, 07 Oct 2026 11:49:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50Y09KOUJHSEJVanI1X1loSjdXNXJLZDlDaUZha1dFWU9MVWZmM1U4aWJEb05oQkU1UGlxM2Z6a2F4N3IxNnFyN3d0dzJBWTNPN0RuWjVNdlkzWTVZNHlma0hjZXdFb0JyckFBMFNZWjlWLTBaZm5uZjZXaw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://9to5google.com",
-      "title": "9to5Google"
+      "href": "https://thehackernews.com",
+      "title": "The Hacker News"
     }
   },
   {
-    "title": "STAR WARS: Galactic Racer — Crashing with Consequence in Runs-Based Racing - XBOX Wire",
-    "description": "STAR WARS: Galactic Racer — Crashing with Consequence in Runs-Based Racing  XBOX WireStar Wars: Galactic Racer is my childhood podracing dream come true  The VergeHow Star Wars: Galactic Racer Solves One of Driving Games’ Biggest Problems  IGNYou Can Still Get Star Wars: Galactic Racer for Free on Amazon Luna With Prime. Here’s How to Play  CNET12 Star Wars: Galactic Racer Tips To Help You Avoid Crashing And Burning  Kotaku",
-    "published date": "Tue, 06 Oct 2026 16:02:48 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWDc1clBDNlJmT29CUHdOTnRpRzJ4dXlhYWpaSjZ4ZHRMOFBSMWUwN2FRY3c0VDdKQ3NPS0gzdVphTG81RFZreW93Q0I3YUxBN25iNlFUTXcyMkltYlA2cElfRHBhNm9pY2wzWVM4UGJfSzBTLU5Sbl8yN01kZFctb29pRG5GUFZhTDhsdVhzZDhSQjIt0gGaAUFVX3lxTFBDUkRXbU1tbEpJUWlqR1ZTZUh3c0lLMjlSeE1yajE1QmtlTk5jOHJEcnF1R2V4UXdKODJWMXY0dVNSM0NzNHNXNDFfSEc0NThxZEdXcGJETWExb1E2RWxYS09ZamlZLWlyX0Y3X08yNEZCN29pZFl2QmNPRmJFcGJCc0lPdGpmQWhzZzk2OVJ4bHgwdkpTSTVqcEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Pre-order Minecraft for Nintendo Switch™ 2 today! - Minecraft",
+    "description": "Pre-order Minecraft for Nintendo Switch™ 2 today!  MinecraftMinecraft details free limited time Nintendo Switch to Switch 2 upgrade  Nintendo EverythingMinecraft gets free Switch 2 upgrade for limited time, but only for digital owners  VooksThe Switch 2 edition of Minecraft is now available for pre-order ahead of its October 27 release  Instant Gaming NewsNintendo Isn't Granting All Minecraft Owners a Free Switch 2 Upgrade  Polygon.com",
+    "published date": "Wed, 07 Oct 2026 19:07:33 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZzB5WHlicFlhTVg3WHBTOWRxSG94b0J2TkFkUUl3YzlVcU1jcENXOWoyUno0aXg2U2pfb0g0TDNPUTVYa1BEWFhUU2kxb1Q1REd0TWxETFpHdFRFNGhzTklLZTVvYVlTdmRwQ0JJOHVBY0VnT0VpWUtCamd2a1lRNldXQUdMSGZz?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://news.xbox.com",
-      "title": "XBOX Wire"
+      "href": "https://www.minecraft.net",
+      "title": "Minecraft"
     }
   },
   {
-    "title": "PS5 Metroidvania Game Gets Perfect Reviews, New PlayStation GOTY Contender - PlayStation LifeStyle",
-    "description": "PS5 Metroidvania Game Gets Perfect Reviews, New PlayStation GOTY Contender  PlayStation LifeStyleSilver Pines review – a stylish, neo-noir detective drama  The GuardianSilver Pines Review (PS5) - A Compelling, Paced Metroidvania More Focused On Exploration Than Survival Or Horror  PlayStation Universe'Silver Pines' Review: A Stunning Dream-like 2D Survival Horror Game Inspired By 'Twin Peaks'  Bloody DisgustingTwin Peaks Meets Resident Evil In New 10/10 GOTY Contender You Can Play Free Now  ScreenRant",
-    "published date": "Tue, 06 Oct 2026 19:54:11 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQklCMklNS3FjX2pnV2V0RGRJd0FlNk1ibVJ3UVBJNEdHS1hfZ1RWVVVWd21NQUN5aFQ2TlI2aDNLNkx1NlRCZXpjUVpHRTdsS3FDWm1HanZhQTdqc1VVanhFMVZTSkFNd3VDMDMyTzJaMkk0SlJlODRkYXM3ZS1zdTlsRWE1b1R2X1JHbWJwbE9HYlh0YUMyVW44SXNmd0ptSzl5NXQ0VERiY0XSAbABQVVfeXFMTkNWVUdrS1Q4MUMwUXJHSktCdnZqQ1VOcmpYcV9ya25penF6M3Nranp4UGF3X1VYODUzaE1rUWZ2YXFZNktiUDhhcXc3R05JeUtpNWJodHE5a2wyUUVsOXU5Uzg1X3ZSLWZBWXlQR2Vka1ltUnR6YzBWNVlaM2NMTlpGaGhSN0tGdUxOVWQ3bnJfRG5BaGZjdkxRMUxpeTBhTFgwdTc0Y01wLUlicnRQMHA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "How Star Wars: Galactic Racer Solves One of Driving Games’ Biggest Problems - IGN",
+    "description": "How Star Wars: Galactic Racer Solves One of Driving Games’ Biggest Problems  IGNSTAR WARS: Galactic Racer — Crashing with Consequence in Runs-Based Racing  XBOX Wire‘Star Wars: Galactic Racer’ Debuts on Amazon Luna Day and Date With Wide Release (Gaming News Roundup)  VarietyStar Wars: Galactic Racer is my childhood podracing dream come true  The VergeReview: Star Wars: Galactic Racer - A Top-Flight Arcade Racing Game with Incredible Graphics Tech  Digital Foundry",
+    "published date": "Wed, 07 Oct 2026 14:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVVpUcFEzTzlqY0IxS3R6VjFxNjI4LXZ2WUtwbVREblgzY3doYUFmOVZpeTBkSEhZd3o1Rmp1R2JFazFtZTczVWhhVEhmNmVUTGhGTlRoU1VzVUhiUDdmVmtCN1hTOXJ4M29tUjFPdkprMHpvR2E1RFpJcnc3YnFNV1FSRkVWeHY1blpjMzhNSnlxbHhSVlhyT0hB?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.playstationlifestyle.net",
-      "title": "PlayStation LifeStyle"
+      "href": "https://www.ign.com",
+      "title": "IGN"
     }
   },
   {
@@ -340,48 +380,38 @@
     }
   },
   {
-    "title": "Mark Zuckerberg’s sister’s secret passion caught on camera at San Francisco tech week - New York Post",
-    "description": "Mark Zuckerberg’s sister’s secret passion caught on camera at San Francisco tech week  New York Post",
-    "published date": "Wed, 07 Oct 2026 18:55:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSDR5eEJVR19PdWJObFVldzl4Xzh1YzMyWm82MWxIdW1DRUdrVG1TWGV6NDFSOElFTFNjMjE5Ui03VEdBdlphSW1MNDZ4RHk3UXVaZm5rWHd5bVc3emt0RTAwZXJFdWFwVlpTY3hVNFBFaklJcVNrLWY3anpaRTZCcXBFOHN2QWVnNER3ZEQ2RmE4NXA1akZGbmVIMGE4RTRiYzhMajZ0aVlJNFM5eWRocg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Xbox Rejects ‘GTA 6’ PC Streaming And Exclusivity Report, Though Questions Remain - Forbes",
+    "description": "Xbox Rejects ‘GTA 6’ PC Streaming And Exclusivity Report, Though Questions Remain  ForbesXbox has secured GTA 6 streaming rights  The VergeXbox Cloud Gaming Is the Only Platform That Can Stream 'GTA VI' at Launch  HypebeastXbox Denies GTA 6 Cloud Streaming Rumors, But Stock Markets Remain Cautious  Yahoo FinanceGTA 6 Will Reportedly Be Playable on PC This November Through Xbox Deal  VICE",
+    "published date": "Wed, 07 Oct 2026 14:18:12 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSkdUbVhGVTFyeHpEQVVRWklfZFd2TGhwT1FFdms5UFlsdHIwdkduOUFzVlRtMnJ5VnZ1TUZoUUNlVS02d1dkdGNVVmZab2lLN2R4bmNJalhUQmdZS2g4V3hMY2JhRTBjUExDNC1DMXFUcVlET0Z6Y3RnYlhCTzhZRVV4dXRIY0kzMzVsenc1RnRNNUlUQUpJNTVuSm5QM0F3ZzdjWUg0eEtwbVFxTzlOd2QtWXhZb0ZGV0NJZXhlMVJIdnZrSDNVVA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://nypost.com",
-      "title": "New York Post"
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
     }
   },
   {
-    "title": "Xbox bets on Gears of War in battle of gaming giants - BBC",
-    "description": "Xbox bets on Gears of War in battle of gaming giants  BBCGears of War: E-Day Review: A Grand Reemergence  Game InformerGears of War: E-Day GPU Benchmark: 44 GPUs Tested  TechSpotGears of War: E-Day – Surviving the First Night of Emergence  XBOX WireE-Day’s 6-Year Journey Inside the Rapidly Changing Xbox Industry  The New York Times",
-    "published date": "Wed, 07 Oct 2026 10:43:24 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zLTZlVGpBZTRnWmZjekp0WmNDSmZ5cXZCY0U5UUEyUTIteGVMTXpES0ZxXzBORWt1MEgyRjA5YmdJNnEzVTBVaG1ncjY5Y3dDbC1zOXNET3pQclk?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Pixel 11 series still not on Android 17 QPR1 with October update - 9to5Google",
+    "description": "Pixel 11 series still not on Android 17 QPR1 with October update  9to5GoogleAndroid’s October 2026 Updates Patch 25 Vulnerabilities  SecurityWeekAndroid 17 October update rolling out with three Pixel fixes  9to5GoogleGoogle October Update Fixes Pixel Bugs as Pixel 6 Nears End of Support  TechRepublicEverything Fixed in October Pixel Update  Droid Life",
+    "published date": "Wed, 07 Oct 2026 17:35:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ITldYWEkzWHJSeGtWLWFDcXprNlRQbDBmaWE0cUxSdlBnNmVTRjhuNXJzYWs5TVV1LVhXVEs0ekYwWXp5WWZ3QnhtaXZvS0pXdHdNVTFFOXRaLU9XQVl2aUpkWjB6SnA1RUZzelBJMA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.bbc.com",
-      "title": "BBC"
+      "href": "https://9to5google.com",
+      "title": "9to5Google"
     }
   },
   {
-    "title": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details - The Hacker News",
-    "description": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details  The Hacker NewsYou Won’t Hear About These, Even In Myths (Atlassian Jira, Confluence (and more) Pre-Auth Arbitrary File Read CVE-2026-21589)  watchTowr LabsAtlassian’s critical flaw turns eight enterprise products into one big security problem  CSO OnlineAtlassian warns of critical file access flaw in its datacenter products  The RegisterCritical Atlassian vulnerability affects Jira, Confluence and other products  Australian Cyber Security Magazine",
-    "published date": "Wed, 07 Oct 2026 11:49:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50Y09KOUJHSEJVanI1X1loSjdXNXJLZDlDaUZha1dFWU9MVWZmM1U4aWJEb05oQkU1UGlxM2Z6a2F4N3IxNnFyN3d0dzJBWTNPN0RuWjVNdlkzWTVZNHlma0hjZXdFb0JyckFBMFNZWjlWLTBaZm5uZjZXaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Xbox Seasonal Savings Sale 2026 round-up – Bundles - TrueAchievements",
+    "description": "Xbox Seasonal Savings Sale 2026 round-up – Bundles  TrueAchievements",
+    "published date": "Thu, 08 Oct 2026 10:12:56 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tc3NTWGxwUVdwSmVNTkgwajBQcFBxLUNJa2FRdE5wMmRiR0ZMZ1dMUmpyWEVSM0pNd0N6MG1wSkd3OUswT3RxemtxdUlSODZxalNQb2V5NjVQTUNkQWtZN25vcEt4XzVTaHFOb3hMdHpvMGs2RXhkNmdGdnM?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://thehackernews.com",
-      "title": "The Hacker News"
-    }
-  },
-  {
-    "title": "The 10 Best Nintendo Prime Day Deals — Including Switch 2 Games, Consoles, and More - IGN",
-    "description": "The 10 Best Nintendo Prime Day Deals — Including Switch 2 Games, Consoles, and More  IGNSave $10 on preorders of Nintendo's remake of 'The Legend of Zelda: Ocarina of Time' on Prime Day  Mashable9 Of The Best RPGs on Switch 2 Are Currently On Sale  KotakuThe Best Nintendo Switch 2 Amazon Prime Day Gaming Deals  Polygon.comLast Chance to Grab the Nintendo Switch 2 and Mario Kart World Bundle While It’s Back in Stock This Prime Day  CNET",
-    "published date": "Wed, 07 Oct 2026 15:34:14 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbC05ZFZaeFJTb01MbkI5LVVVY2pRUDRISFd6VWd6RjQzQVQxek1ZV3JkQTN1TEFFSFY2T09teU1VbExoMXBTcVpZTXdPdWZxcFpoUVZ2Yl9WSEIxdS11WjRFWnhEdWM1NFRNd0dmVnRVd29KOGxNQmc4M3Z5VWVDZTJLeUZoRTBSNzVIQUprbndfV2JtLU4tcW96cUxXQi1fVm5CQW01U0hGZE9n?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ign.com",
-      "title": "IGN"
+      "href": "https://www.trueachievements.com",
+      "title": "TrueAchievements"
     }
   },
   {
     "title": "P.T. Native PC Port 1.0 Is Out Now With DLSS 4.5, Frame Generation, Ray Tracing, Mods, And More - Wccftech",
-    "description": "P.T. Native PC Port 1.0 Is Out Now With DLSS 4.5, Frame Generation, Ray Tracing, Mods, And More  Wccftech12 Years Later, Canceled Kojima Game 'P.T.' Makes A Comeback  Polygon.comHorror Hit \"P.T.\" Just Got a Fully Playable PC Port  MP1stFan Decompiles Hideo Kojima’s “P.T.” Into a Native, Modernized Rebuild  RUE MORGUEThe demo Konami deleted is being ported, not remade  www.killscreen.com",
+    "description": "P.T. Native PC Port 1.0 Is Out Now With DLSS 4.5, Frame Generation, Ray Tracing, Mods, And More  Wccftech12 Years Later, Canceled Kojima Game 'P.T.' Makes A Comeback  Polygon.comHorror Hit \"P.T.\" Just Got a Fully Playable PC Port  MP1stFan Decompiles Hideo Kojima’s “P.T.” Into a Native, Modernized Rebuild  RUE MORGUESomebody made a native PC port of the Silent Hills P.T. demo.  The Verge",
     "published date": "Wed, 07 Oct 2026 15:58:39 GMT",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTkU2SklqaWhzQXlDcmdOQU1iaHRvN0M5c05IeHgwN2U4YmlSOUM5b2lpRkp0SWZ4UC1wbzRiUGtMd2QxSTlveHNGU05oSURCYXVfWGRJV29wc0lTNkNreXdqVzRzNUhNOGpBcktlYTgzSnhibE1yYXY2SGNzMWhhWmd1MTNmTVlRYVNMZGQ2cHdYaTdyeU1zT19YeVUyd2lGeTY1a3U3OE9UN01TanlEVzZR0gG3AUFVX3lxTE9pOTVEM2tVMS1sUjRDQk5kN1F6bzBLMk10VTFmc0ZGZUFRTkhXdHRGQWF6RU81eEtFMjRLdGZHMTA0M2Z4U29ZTk02dVN3TkV2V21KVU5uSnl4U2hIRjRsQkFaWDBBWHFMa1BEaWJUa2NkazdYM2xQMWtjVm1lZUlwWGx1Y2FEWXdJLUwzVnVxSGFXbTlHMmZXcm5xYmJHd2duQ0VYejB5Z3ljSHpxbk5QYnFJQlp5QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -390,23 +420,53 @@
     }
   },
   {
-    "title": "The first A-series phone is now getting stable Android 17 with One UI 9 - Android Authority",
-    "description": "The first A-series phone is now getting stable Android 17 with One UI 9  Android AuthoritySamsung One UI 9 Rollout: These Galaxy Phones Are Getting Android 17  TechRepublicOne UI 9 Release Date: Android 17 Update Lands On Galaxy S25 Today  ForbesGalaxy Z Fold 7 One UI 9 Update US Rollout: What's New  Gadget HacksSamsung releases second One UI 9.0 beta update for Galaxy A54  SamMobile",
-    "published date": "Wed, 07 Oct 2026 08:18:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNWVoSGFjNWtIRjhNaVVwZUdYTEFqTnpKSXZVTld5ckhwOVF5WUZid1JrZWxXLWI3NF95UnUwWHpDUllfaGx5aEJFTGtRSnZRLXFTQmhNeU9uVm5nZWFNYmNKWklJT0JOVGJNaWtibElMci1wX2d0aTU5TlcyalVYNlJkdlVCVm1DeDZn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "10 Hours With Jonathan Blow’s New Puzzle Game Order Of The Sinking Star - Kotaku",
+    "description": "10 Hours With Jonathan Blow’s New Puzzle Game Order Of The Sinking Star  KotakuOrder of the Sinking Star: Jonathan Blow on making ' the biggest puzzle game ever'  BBCOrder of the Sinking Star review  GamingTrendOrder Of The Sinking Star (Nintendo Switch 2) Review  CGMagazineORDER OF THE SINKING STAR IS AVAILABLE NOW ON PC, NINTENDO SWITCH 2 & PLAYSTATION 5!  Analog Stick Gaming",
+    "published date": "Wed, 07 Oct 2026 13:00:49 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ2RiYXZUZElsUlpmREQ2RWlDaFV1ZU1fTWdQNDR2ZW83MHY1Q25iNmNKcUE3NHVxMUJNaDcwUnVxVFJ0bzBhVkJLZGxnM0x1LWc0NlNLNXI5a3k4NXpYS19BcUxpMjlINzg5UElwY1FMZWt0QmxlY2hKN2NBQUJCdHRZbUUzdm1tN0FIVWpxVllpcVBzZk1hZ2xwS3JLbDZPT2FnVjlPZG54a0J1?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.androidauthority.com",
-      "title": "Android Authority"
+      "href": "https://kotaku.com",
+      "title": "Kotaku"
     }
   },
   {
-    "title": "How To Help Stop Spam Calls On iPhone And Android - Engadget",
-    "description": "How To Help Stop Spam Calls On iPhone And Android  EngadgetMake unknown callers explain why they're calling  Fox NewsFCC releases new guides to block spam calls and texts  Fox 59Fraud Watch Wednesday: How to protect yourself from robocalls, scam texts  News On 6Call Screening has made a big difference to my iPhone experience  9to5Mac",
-    "published date": "Tue, 06 Oct 2026 23:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1XbDh3Y3pRWjE0NmVsYmk3VjFIRHdwSmZSbmRGenZCVlpYWFhvUkFfWW5vX3ltMjBfTnhLaGFJZjhzV0hUMXVTNXZrZ3FtQlVsSzkyTzRrbGdxX19WbW9nZUUxRjlIS2xGd2p4SXVnWWhNVDFpT3VMM1oxYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Indie Selects for October 2026: Discover and Progress Through Unforgettable Worlds - XBOX Wire",
+    "description": "Indie Selects for October 2026: Discover and Progress Through Unforgettable Worlds  XBOX WireIndie Game Guide to October ’26  So Many GamesPhotography adventures, chaotic sheepherding and other new indie games worth checking out  Engadget5 Top Indie Games Dropping This October  Yahoo Tech",
+    "published date": "Wed, 07 Oct 2026 15:02:51 GMT",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PZnd0S3ZMVHV4VWtuSGZxLXFzdGNEYm9hcG1WWUFWNFZVYjhhRTFFT3B5eTJzMjB0U21tOGUxS3NKeGY3aDFqc1ZfSEFFR1RZcTNGWnJuM1NUYng4VmZlcm53NnZzY0tNQkY3TjRB0gFzQVVfeXFMTzdyLWJ1SzltQ3JRd3NVWUtPXzFjVmJVeDBnSkEwUEpOLXZYN0NhLVp3Q2JoS1M3d1gwWk84ZkxnUWdXb3I3UXRGOGNPaU92NEthNE1Eekt2UVI2dzZhSHJOdmdXYU5WOUZFRUd0TV9aeDU3aw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.engadget.com",
-      "title": "Engadget"
+      "href": "https://news.xbox.com",
+      "title": "XBOX Wire"
+    }
+  },
+  {
+    "title": "Some furloughed Star Wars Zero Company developers are returning to work, studio says - Game File | Stephen Totilo",
+    "description": "Some furloughed Star Wars Zero Company developers are returning to work, studio says  Game File | Stephen TotiloStar Wars Zero Company developer Bit Reactor begins bringing furloughed staff back  GamesIndustry.bizStar Wars Zero Company studio brings back some furloughed devs  Game DeveloperBit Reactor CEO Welcomes Return of Some Furloughed Staff for 'Continued Support' of Star Wars Zero Company  IGNStar Wars Zero Company team teases DLC as it rehires staff  Metro.co.uk",
+    "published date": "Wed, 07 Oct 2026 17:03:57 GMT",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZeW9iR1VKQm5qVVlZLW54RkpnaVIwRFd1LU95cUtFREVaYXpUZzJEbFUyckhhMkNSWEhVLWdnWEduM2x4am1sMEQ3OWhjX0xfRWVlaUJ2ZmRUV0RxdVIzNEJBTG5nUFN6UXFPSzVwMFFselo4RVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.gamefile.news",
+      "title": "Game File | Stephen Totilo"
+    }
+  },
+  {
+    "title": "First-Party Nintendo Games and New Switch 2 Editions Are Getting Big Price Cuts in Amazon's October Prime Day Sale - IGN",
+    "description": "First-Party Nintendo Games and New Switch 2 Editions Are Getting Big Price Cuts in Amazon's October Prime Day Sale  IGNSave $10 on preorders of Nintendo's remake of 'The Legend of Zelda: Ocarina of Time' on Prime Day  MashableThe 10 Best Nintendo Prime Day Deals — Including Switch 2 Games, Consoles, and More  IGN9 Of The Best RPGs on Switch 2 Are Currently On Sale  KotakuThe Best Nintendo Switch 2 Amazon Prime Day Gaming Deals  Polygon.com",
+    "published date": "Tue, 06 Oct 2026 17:25:21 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd3pGLVhhVFVIVThITi1FbllhaUZiX25UX3h0VHFnMU5RLXcyZzNubG0yU2xuc3dXdTRWOXpfLXdDS2RsVzFTOXk5d21uNVZhWHc3V3kyalJGcE5xVURacFNmX0RyY294ZnpxMXRJS1ViTmVqeFlFMXJOTlZWN2N1MlRpUjB0dW00M1FrNEplY1ZXRHY5V0Nn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ign.com",
+      "title": "IGN"
+    }
+  },
+  {
+    "title": "Seiko’s New Affordable Chronograph Takes the “Panda” Moniker to Its Logical Conclusion - Gear Patrol",
+    "description": "Seiko’s New Affordable Chronograph Takes the “Panda” Moniker to Its Logical Conclusion  Gear PatrolSeiko Panda Watches Turn a Chronograph Nickname Into Literal Design  stupidDOPESeiko Just Made A £510 Panda Watch With Ears For Pushers And A Tail  EsquirePower To The Pandagraph: Seiko Brings The 2024 Hit Concept Watch Into Production  Fratello WatchesIntroducing: The Seiko Panda Watch That Stole The Show In 2024 Is Finally Here  Hodinkee",
+    "published date": "Tue, 06 Oct 2026 19:28:20 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yWUJNdWVjTEp2WndtQ1ZPX0tfLW03Qkp5Y2Z6XzdqOFpaSjFkRFpDaXZGbDkySl9ha0Nqc1NxcjlpVGdKSDZUYjRqTHkzbDlFR01uT2FieXRzblA5Rm16UXd3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.gearpatrol.com",
+      "title": "Gear Patrol"
     }
   },
   {
@@ -420,53 +480,43 @@
     }
   },
   {
-    "title": "Some furloughed Star Wars Zero Company developers are returning to work, studio says - Game File | Stephen Totilo",
-    "description": "Some furloughed Star Wars Zero Company developers are returning to work, studio says  Game File | Stephen TotiloStar Wars Zero Company developer Bit Reactor begins bringing furloughed staff back  GamesIndustry.bizStar Wars Zero Company studio brings back some furloughed devs  Game Developer'An Important Step Forward' — Some Staff at Star Wars Zero Company Developer Bit Reactor Return to Work After Massive Furloughs  IGNGood News: Some Of Star Wars Zero Company’s Devs Have Been Un-Furloughed  Aftermath",
-    "published date": "Wed, 07 Oct 2026 17:03:57 GMT",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZeW9iR1VKQm5qVVlZLW54RkpnaVIwRFd1LU95cUtFREVaYXpUZzJEbFUyckhhMkNSWEhVLWdnWEduM2x4am1sMEQ3OWhjX0xfRWVlaUJ2ZmRUV0RxdVIzNEJBTG5nUFN6UXFPSzVwMFFselo4RVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Mounting Evidence Says Sony Really Is 'Accepting Game Pitches' on Fan Fave Franchises - Push Square",
+    "description": "Mounting Evidence Says Sony Really Is 'Accepting Game Pitches' on Fan Fave Franchises  Push SquareSources: Ape Escape revival in the works from Sonic Mania team  Video Games ChronicleSony is bringing in third-party studios to create games for the PlayStation 6 launch lineup.  GameGPUPlayStation 6 Launch Lineup Set To Include Rebooted PS1 And PS2 Classics  OpenCriticRumors Suggest Sony May License PlayStation IPs to Third Parties  Geeky Gadgets",
+    "published date": "Wed, 07 Oct 2026 12:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa1ZGa2FzWVNuQkFJR3FtUy1DVWNONm9oSFNpbGx5RENoV0FnQ0F0bTNTU0xYbHFPWUdoT0dFWUIxaVVoc0hEQUNNVHlUYkQ4Q3ZTSExEUkZSVVA4MlJ6Q19XWVdmQkhFT0xPTDdqTXlhUHc0SGdaQV8wcHJVNXhBUlZVXzZEQ0tneWI0TGtFRkU5WmpXd0w4b051aGYxdUdIUlFQbWM3cVd0cGdlX3M0Vl9ZUy1GcHFmT1pOZzBMcUc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.gamefile.news",
-      "title": "Game File | Stephen Totilo"
+      "href": "https://www.pushsquare.com",
+      "title": "Push Square"
     }
   },
   {
-    "title": "Asha Sharma reportedly informs staff that Xbox has \"started to return to growth\" during internal town hall - GamesIndustry.biz",
-    "description": "Asha Sharma reportedly informs staff that Xbox has \"started to return to growth\" during internal town hall  GamesIndustry.bizEXCLUSIVE: Xbox CEO Asha Sharma speaks at internal town hall on the future  Windows CentralXbox Helix Will Be \"a Great Console First\" With Portable Play in Mind, Says CEO  TechPowerUpPrevious Game Pass Strategy Sent Xbox Into 'Freefall,' CEO Asha Sharma Reportedly Tells Staff  IGNXbox's CEO Says The Brutal Reset Is Already Working: 'After An All-Time Low, We've Started To Return To Growth'  Kotaku",
-    "published date": "Wed, 07 Oct 2026 10:59:12 GMT",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNemFxdzZDQkd5NUpNMG56QzNpdjJja1pCTU5EX01DYXgydWhtWkNtTzBkSFdJd2cya25iZ0l1UHR5R0FkSkE4X3k2eWFycm9UYXdLb29MYjA0MmtkR0NRVmhZQjRPRUNYeUVnWm14LU02ZGFWNTVKQk5Gb1Q4TlpVVElwa2R1RXZxdmdmQXRkNDdUQUJmMGxwTGpRcW1tX1lxcmVuQ052dWVTNFJEOTVDYWZiSWQ4RkM3cE4yXzBHMUU0SE1LRkJJOGFrMDlhbDQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "How To Help Stop Spam Calls On iPhone And Android - Engadget",
+    "description": "How To Help Stop Spam Calls On iPhone And Android  EngadgetMake unknown callers explain why they're calling  Fox NewsFCC releases new guides to block spam calls and texts  Fox 59I Was Getting 10 Spam Calls a Day. Here's How I Silenced Them for Good  PCMagCall Screening has made a big difference to my iPhone experience  9to5Mac",
+    "published date": "Tue, 06 Oct 2026 23:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1XbDh3Y3pRWjE0NmVsYmk3VjFIRHdwSmZSbmRGenZCVlpYWFhvUkFfWW5vX3ltMjBfTnhLaGFJZjhzV0hUMXVTNXZrZ3FtQlVsSzkyTzRrbGdxX19WbW9nZUUxRjlIS2xGd2p4SXVnWWhNVDFpT3VMM1oxYw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.gamesindustry.biz",
-      "title": "GamesIndustry.biz"
+      "href": "https://www.engadget.com",
+      "title": "Engadget"
     }
   },
   {
-    "title": "The 25+ best October Prime Day tech deals: Save up to $1,700 on Samsung, Apple, and Anker - Mashable",
-    "description": "The 25+ best October Prime Day tech deals: Save up to $1,700 on Samsung, Apple, and Anker  MashableAmazon US Prime Deals: the Samsung Galaxy S26 Ultra is 30% off - GSMArena.com news  GSMArena.comSamsung's best phones are back down to prices that'll make you buy  Android PolicePrime Day 1 deals: Z Fold 8/Ultra $400 off, Pixel 11 series $300 off, Pixel Watch 5 from $335, Surface Laptops, more  9to5GoogleThe Best Last-Minute Deals on Samsung Tech Before October Prime Day Ends  Lifehacker",
-    "published date": "Tue, 06 Oct 2026 07:01:57 GMT",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HZzRSYWdhTWp4dlgxemVLeDhSVjIxc3ZvS3FFd1MtMzQ1RmxvcFB5VGtPX0laSzFUQ0x6Vl91OXJNdW5vNWJaZU0zMGtFU2tYalhQblBpNnBnekNWel84S1dxTlN3VWRMc0xmdTBCWDBOQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Mark Zuckerberg’s sister’s secret passion caught on camera at San Francisco tech week - New York Post",
+    "description": "Mark Zuckerberg’s sister’s secret passion caught on camera at San Francisco tech week  New York Post",
+    "published date": "Wed, 07 Oct 2026 18:55:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSDR5eEJVR19PdWJObFVldzl4Xzh1YzMyWm82MWxIdW1DRUdrVG1TWGV6NDFSOElFTFNjMjE5Ui03VEdBdlphSW1MNDZ4RHk3UXVaZm5rWHd5bVc3emt0RTAwZXJFdWFwVlpTY3hVNFBFaklJcVNrLWY3anpaRTZCcXBFOHN2QWVnNER3ZEQ2RmE4NXA1akZGbmVIMGE4RTRiYzhMajZ0aVlJNFM5eWRocg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://mashable.com",
-      "title": "Mashable"
+      "href": "https://nypost.com",
+      "title": "New York Post"
     }
   },
   {
     "title": "Where Can You Buy A PS5 Pro For ‘GTA 6’? At GameStop, For $1,400 - Forbes",
-    "description": "Where Can You Buy A PS5 Pro For ‘GTA 6’? At GameStop, For $1,400  ForbesGameStop’s new PS5 Pro pricing could scare people away from gaming as a hobby forever  Yahoo TechLeaked GameStop Memo Calls $1,399.99 Used PS5 Pro Pricing \"Intentional\"  TechPowerUpThe Price Of A Used PlayStation 5 Pro Is Through The Roof  BGRGameStop and Third-Party Resellers Raise Used PS5 Pro Price to $1,400 — a $500 Markup on Sony's RRP  IGN",
+    "description": "Where Can You Buy A PS5 Pro For ‘GTA 6’? At GameStop, For $1,400  ForbesGameStop’s new PS5 Pro pricing could scare people away from gaming as a hobby forever  Yahoo TechThe Price Of A Used PlayStation 5 Pro Is Through The Roof  BGRLeaked GameStop Memo Calls $1,399.99 Used PS5 Pro Pricing \"Intentional\"  TechPowerUpGameStop and Third-Party Resellers Raise Used PS5 Pro Price to $1,400 — a $500 Markup on Sony's RRP  IGN",
     "published date": "Wed, 07 Oct 2026 14:48:04 GMT",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNm1jeTFPdGVkam9XVlhPZHRrWnNJdFhvRml4TElndncwSnl0d0M1VGxiZnhoVk9yS2tuWTZvWXhWc3YtQ1lUZFF3VldZaGZPdDRxMkd2MmU5VHpmSzFNX0NaVHRvM0lvSkItblRyTU5ncWh6R2NuN3g0d1M1X2RCTDdrNXJtZ1FsX2NkT3dJNTRJSnE4Z2NhTjV0QXdQWmVEaUNzdF9SLTliNXQzWHc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.forbes.com",
       "title": "Forbes"
-    }
-  },
-  {
-    "title": "Imperial Knights star in a new Black Library novel - Warhammer Community",
-    "description": "Imperial Knights star in a new Black Library novel  Warhammer Community",
-    "published date": "Wed, 07 Oct 2026 13:59:08 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZHp0aWxOYWFsaDhtOG52c2hoV0JjTzRZYzBBVzBuSGwtWXVoSVBLTVFOMndwUGdPRXlJNy00Y2ZBeFc1Sk94VWpxRXBOVGpRcGxlRmZ3VkJnSmhmRER0cFliWlVZRnYxNGhET0I1SkF6T01Pczl1dzFMMjEtSkY5ekt0WmduNXNzdG9lMWdwWVlia3NQUjNNcUV5ZWx0T3UtcmRHWEVqLWY5NTFNWjY4cA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.warhammer-community.com",
-      "title": "Warhammer Community"
     }
   },
   {
@@ -480,18 +530,8 @@
     }
   },
   {
-    "title": "Our first five impressions of Googlebooks — exciting but underbaked - The Verge",
-    "description": "Our first five impressions of Googlebooks — exciting but underbaked  The Verge5 Reasons Why Android Phone Users Will Want A Googlebook  BGRWe just benchmarked the first 5 Googlebooks — and Intel should be worried  Tom's GuideSwitcher 2026: Googlebook Regressions Make This Platform a Non-Starter ⭐  Thurrott.comThe Acer Googlebook 14 is a classy 2-in-1 laptop, but after living with one the software feels like a first attempt  Stuff",
-    "published date": "Tue, 06 Oct 2026 17:31:59 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQR0Zrc0NIZXhsLWhLX1pwZENoRFoybkRaRFRDMlhCUVlnbWRPekRZV2lPMDRkOTBidXEtR2dZQWttWmtCcWZZQTZMUEotRDFUamItN1dfRnpYVExtR1RjUWpXOXZSYmVza0cyOEw4M1ZzMUhHbFJMcTlvUDkwVVRsa1Y2ODdYRWR1eDVqU2ZZaFVBWDdUZkFFVmlFRWFnRnh4WC1RYW45X3ZqcUZ3?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theverge.com",
-      "title": "The Verge"
-    }
-  },
-  {
     "title": "More Mafia Games Seemingly Getting Native PS5 Ports, Likely 60fps - Push Square",
-    "description": "More Mafia Games Seemingly Getting Native PS5 Ports, Likely 60fps  Push SquareMafia 2 and Mafia 3 Could Be Set for PS5 and Xbox Series Upgrades After Definitive Editions Leak Online  IGNPlayStation 5 Ports of Fan-Favorite PS3, PS4 Action Adventure Games Leaked  AOL.comMore Mafia Games Appear to Be Getting Native PS5 Ports, Likely 60fps  Push SquareMafia 2 & 3 Definitive Edition Rated for PS5 and XBOX  Insider Gaming",
+    "description": "More Mafia Games Seemingly Getting Native PS5 Ports, Likely 60fps  Push SquareMore Mafia Games Appear to Be Getting Native PS5 Ports, Likely 60fps  Push SquarePlayStation 5 Ports of Fan-Favorite PS3, PS4 Action Adventure Games Leaked  AOL.com(UPD) Mafia II: Definitive Edition and Mafia III: Definitive Edition have both been listed for PS5 and Xbox Series  Instant Gaming NewsMafia 2 and Mafia 3 Rated by ESRB for PS5 and Xbox Series X/S  GamingBolt",
     "published date": "Wed, 07 Oct 2026 13:30:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORXJaem1BUXQzS1JUVEI0Y1Z1LTRBQXZocWdLdF92VDZ6ZFJQSFJJNHhnUUJpRldIb2d5VG05ZDF3YjRTZ3RHSk5Ydi1ENFpOQTl1S0F1cW9HTE9tOTdhSm92d2VHQ2FMd2NINFpFLWRKdFhreE5BeTJkS3lQdGZPVzAtcllnWnd1ZWpGRGh4MGp2ZkZKckNvY25nd3lWM3drY0Y0bkhQQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -500,8 +540,8 @@
     }
   },
   {
-    "title": "I Was Added to My Husband’s Family Group Chat. Then I Searched for My Name. It Was Brutal. - Slate",
-    "description": "I Was Added to My Husband’s Family Group Chat. Then I Searched for My Name. It Was Brutal.  Slate",
+    "title": "Help! I Was Added to My Husband’s Family Group Chat. Then I Searched for My Name. It Was Brutal. - Slate",
+    "description": "Help! I Was Added to My Husband’s Family Group Chat. Then I Searched for My Name. It Was Brutal.  Slate",
     "published date": "Wed, 07 Oct 2026 10:00:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWDc3M3BZeXZsMG5SWjFEX21rMWphakpVYkJwV084WkxpR0RybHRCSmtBQ3VJeUhEb0RqZlotMThRQ25RNnhOWnQzSTh5d0trUnh3NWhvc3IyYk8zVmU4YmNNcWpUN044aHJzcG1iMGdaWndJVDA0dDkzX1BTTUxwcjByeFRGUFU?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -510,23 +550,13 @@
     }
   },
   {
-    "title": "Sources: Ape Escape revival in the works from Sonic Mania team - Video Games Chronicle",
-    "description": "Sources: Ape Escape revival in the works from Sonic Mania team  Video Games ChronicleNew Ape Escape Reportedly in Development at Sonic Mania Team  IGNPlayStation bringing back Ape Escape with Sonic Mania devs, report says  Polygon.comMounting Evidence Says Sony Really Is 'Accepting Game Pitches' on Fan Fave Franchises  Push SquareSony is bringing in third-party studios to create games for the PlayStation 6 launch lineup.  GameGPU",
-    "published date": "Wed, 07 Oct 2026 08:58:50 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNenVaVFBOdHI2UjU0MVdscUtXSTQ4OEF1SWNYRnl1NllybWltU282SzY2S2VpcS0waHMxZ29zNXBucmtDb190MGtUaDhWSE8xNmFWS1JGeXdoYVdsY056ajZCNnd4Tm5IZkRDbW1FZHFaZmF1ZXZkVUdBcHJPOWVtVUFMbGpmRVVoVnBBQ1lNTmh6Z245dUhCTVJtSjJOVlE2UUVMb3lR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "New Custodes units for Horus Heresy: Designers’ notes for the Assault on Kol - Warhammer Community",
+    "description": "New Custodes units for Horus Heresy: Designers’ notes for the Assault on Kol  Warhammer Community",
+    "published date": "Wed, 07 Oct 2026 14:59:16 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNHRJdHRUOUFrdXdvVks5UVEyLUYyeGNoaGNkOEZ5bWNKZFlIcm5iSlpKLXUxeWx2SFJ0WnhmNkVWanZuX1l5bFlGN1BZMnU1bVZVX2RGREp3S1dHdnluZmU1V3ZaczE3N2FxX3VMVUJhQm5XYWZCYmFwOHBVbXNuS09DR1RBYXFaTzFqSTNaWkRJWGVZaTJmVV8yNFBzWDdNM2s3LWRyczdSd2JjeUdnQnlydE5SYlhLV0R0R2t3YS1lUEMzQWtnSVpVLVIxMFZQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.videogameschronicle.com",
-      "title": "Video Games Chronicle"
-    }
-  },
-  {
-    "title": "Google reveals how many popular Android apps run (or not) on Intel-based Googlebooks - Android Authority",
-    "description": "Google reveals how many popular Android apps run (or not) on Intel-based Googlebooks  Android AuthorityGoogle admits not every Android app runs great on Intel Googlebooks  The VergeGooglebook “Better Together” phone features don’t work with Samsung at launch  Ars TechnicaGoogle Acknowledges Day 1 Android App Performance Issues on New Laptops  CNETAndroid gaming on Googlebook is already hitting a frustratingly familiar roadblock  Chrome Unboxed",
-    "published date": "Wed, 07 Oct 2026 07:26:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ01UTDQtRHRzSGhFcG1iZTdDUjhUVGZXRzVqbmlfRGJlQTFaeDZWZVc1cXRIeXF4VmN6WU0wWjdyZTdEMVU4VW1JQjQ5aWlBYU1aaXhtY0lMTWRud3FfX2hnRk9aRTRGWjIwLVVlLWxvcTVXVklXTkJaVVlHOEljSjdn?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.androidauthority.com",
-      "title": "Android Authority"
+      "href": "https://www.warhammer-community.com",
+      "title": "Warhammer Community"
     }
   },
   {
@@ -537,16 +567,6 @@
     "publisher": {
       "href": "https://www.alienwarearena.com",
       "title": "Alienware Arena"
-    }
-  },
-  {
-    "title": "Gears Of War Boss Dodges Question About Future Layoffs, Promises Next Game Will Come Sooner - Kotaku",
-    "description": "Gears Of War Boss Dodges Question About Future Layoffs, Promises Next Game Will Come Sooner  KotakuAs Xbox swings the axe, Gears of War: E-Day developers fear they'll be laid off straight after launch - and right before they'd be due their bonuses  Eurogamer.netGears of War: E-Day Studio Boss Insists 'The Next Game Will Not Take Nearly as Long' to Make  IGNXbox Layoffs Hit 5,750 as Coalition Fears New Cuts [2026]  https://tech-insider.org/The Next Gears Of War Game Probably Won’t Need 7 Years To Cook  GameSpot",
-    "published date": "Wed, 07 Oct 2026 17:30:35 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPODhkQ0xReFpmX3JfTkZiX3JORXpPRElsWHpiRVhna1Z2c3c3RWk2SURxT21aWUlCcEZGSjdtOUg3SXRDeTdIdmdPM1pzb1hReFJGNWx6cHA2S3NuTnN3N0MyYnF4VG5FNTFHOVU1N091cHY5U0hNZ05TVmJndzVwYUZOZlBUVWNYcUdGeWx1MU9abUlIcUZkT1B1aURaOWNmX202NEgtWlVwTUpyUWxCbWhrSGotVXBKR211dXFZY2d0cWQ2emxRYllR?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://kotaku.com",
-      "title": "Kotaku"
     }
   },
   {
@@ -570,6 +590,16 @@
     }
   },
   {
+    "title": "Minecraft Dungeons 2 secures spot among top five Xbox Game Pass debuts of 2026 - TrueAchievements",
+    "description": "Minecraft Dungeons 2 secures spot among top five Xbox Game Pass debuts of 2026  TrueAchievementsThe music of Minecraft Dungeons II  MinecraftREVIEW: MINECRAFT Dungeons 2 Brings Dungeon Crawling to All Ages! | The Little Tators  CinelinxIs Minecraft Dungeons 2 cross platform? Crossplay and multiplayer explained  The Times of IndiaMinecraft Dungeons II has arrived  Nintendo",
+    "published date": "Wed, 07 Oct 2026 13:45:22 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM0ZoYk83V1hoY2RydUQwTUsyUk1tcmNsd3lDSVQ2Rm1LVE9zZ0lWbjZyTENQS05RbllfUl94TXJIOWRiTW9CTzNMNTV4WFJEQi0tZC1WWTAxZ19Zb2VLQ0NBVXl6MmYxN2FPSWFhZTdzeFo0ejlWaGdWNURhcUFtNmI3d19OUHR4cEZfNXJwSGtlT19kVGRZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.trueachievements.com",
+      "title": "TrueAchievements"
+    }
+  },
+  {
     "title": "Apple killed the Mac mini’s best hidden feature [Video] - 9to5Mac",
     "description": "Apple killed the Mac mini’s best hidden feature [Video]  9to5Mac",
     "published date": "Tue, 06 Oct 2026 18:44:00 GMT",
@@ -580,13 +610,33 @@
     }
   },
   {
-    "title": "CD Projekt Red outlines which Witcher 3 Remastered fixes are coming next, but there's still division about the changes - Eurogamer.net",
-    "description": "CD Projekt Red outlines which Witcher 3 Remastered fixes are coming next, but there's still division about the changes  Eurogamer.netFive Key Fixes Are Currently Being Worked On For The Witcher 3 Remastered  Pure XboxThe Witcher 3: Wild Hunt — Remastered PC Performance Analysis & Tuning Guide – How To Get The Best Experience On PC  WccftechBehold The Best New Witcher 3 Remastered Mod  Kotaku",
-    "published date": "Tue, 06 Oct 2026 11:01:33 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM0JvWVRVR1c0aXVlWUJjdEktUXowcEh4M2liZFdPQkRYR3dReVNzb3hSVGZxSVMyQXlHMXFXdVI0ZjF6QzhoeDQtbk1WaGViMnMtOGdSQllaclhXMWc4YldrRjdyUVYyRkRFSmVsVGJUOHh4dEQ0VFhkS29VRGp3d3lJSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "I tested the iPhone 18 Pro Max vs. iPhone 15 Pro Max side-by-side: Is it time to upgrade? - Tom's Guide",
+    "description": "I tested the iPhone 18 Pro Max vs. iPhone 15 Pro Max side-by-side: Is it time to upgrade?  Tom's GuideiPhone 18 Pro Cameras vs. Pixel 11 Pro: One of Them Is Definitely My Favorite  CNETI’m confident the Galaxy S27 Ultra will steal the spotlight for the 20th anniversary of the iPhone  PhoneArenaApple iPhone 18 Pro review: big changes for small differences  The GuardianSee for yourself the difference the wider aperture of the iPhone 18 Pro makes  9to5Mac",
+    "published date": "Wed, 07 Oct 2026 04:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNN0c2YXZnY3JLckM4NTQ5N1JvUTJIX3lpVVgzRHdKeWlBUnlvMGRqRzVqWW4zc01sWHFmR1lLdjVFZGx2cE4tT0JTM0RZR3ZSWnl0ZjR3ZjNDcGQ3cVMyVXJ2bHBHWDdRMWtiV0pkVl8wMnRMaVdKVlNub2hfRjl0SkhiUjBGTDRndGRvRmxaekRITkV1Sm5xSFBqZENlc3RYeXR3czBwRkFRVko1ZjN6ZzBibFRONWs1RlpsVXd1WXVaemc0a0E?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.eurogamer.net",
-      "title": "Eurogamer.net"
+      "href": "https://www.tomsguide.com",
+      "title": "Tom's Guide"
+    }
+  },
+  {
+    "title": "Samsung backtracks on SmartTag 3 Android support — still locked to Galaxy phones - Android Authority",
+    "description": "Samsung backtracks on SmartTag 3 Android support — still locked to Galaxy phones  Android AuthorityIt's nice that Galaxy SmartTag 3 welcomes iPhones, but I can't believe who Samsung left behind  PhoneArena5 Bluetooth trackers you should buy instead of the Samsung Galaxy SmartTag 3  Android PoliceSamsung Clarifies Galaxy SmartTag 3 Only Works With Galaxy Phones  SammyGuruSamsung U-turn confirms AirTag rival is useless on other Android phones  Tech Advisor",
+    "published date": "Wed, 07 Oct 2026 17:37:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON3NCY3Z6bXlhUFU5a3Bua1A3Sl9ITWNld1ZKUDFDQzRLbHBEdXZYaU4zdTU1ZWQtVWJxa21zdi0tSFJWRTZXaFdSS0dCMzFwTmpSaG5XZXhPMGJyVEM5LTNPTm1GM1dBR0xFQ3lvUlJtcFZtUl9BWHYzQ2Ywdk85bVVn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.androidauthority.com",
+      "title": "Android Authority"
+    }
+  },
+  {
+    "title": "Windows 11's latest Patch Tuesday update lands on October 13, and these are the biggest changes coming to your PC - Windows Central",
+    "description": "Windows 11's latest Patch Tuesday update lands on October 13, and these are the biggest changes coming to your PC  Windows CentralStill on Windows 11 24H2? You have one week to upgrade  PCWorldWindows 11 update reduces RAM usage  MashableMicrosoft Adds New Group Policy Settings in Windows 11 Version 26H2  Petri IT KnowledgebaseMicrosoft reveals what’s actually new in Windows 11 26H2, and how to verify it  Windows Latest",
+    "published date": "Wed, 07 Oct 2026 15:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQXZuYlhxNkZuUEhYNTd3RmFtU2N4T0taaG5KMkZXYkJDSk5HclpTS2Y4MHZIS25vclRYMWdVWGtNdDJCRWVoZWVqZUpYYkFOQkhmNkF3d3c3bnlQTDNfcDR3OVhGV0tRRkN4aG0wRFlOZFRoSmpkVVE2b1YzbDNoNmRra3pUSzJGb2lKbTBzdWtvQ3pxQ29YNzZFT3VIbWRQMmZtSzVBeHRYM0xGbFI4cXJtNnhULVJBdVJhRUh2WkFIcHRUTjlQVmp4SFFhT2Y1MEhlTmJURjNrVHhqNDdWajJ2VGh5UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.windowscentral.com",
+      "title": "Windows Central"
     }
   }
 ]
