@@ -1,48 +1,138 @@
 [
   {
-    "title": "Stock Market Today: Wall Street Revenues Power Profit at Goldman and JPMorgan - WSJ",
-    "description": "Stock Market Today: Wall Street Revenues Power Profit at Goldman and JPMorgan  WSJBank earnings takeaways: Here's how JPMorgan, Goldman, Wells Fargo and Citi performed in Q3  CNBCGoldman Sachs blows past Wall Street estimates, while JPMorgan earnings miss the mark  MarketWatchGoldman Jumps On Strong Earnings. But Big Bank Rivals Waver, Fall.  Investor's Business DailyWall Street’s record-breaking trading streak set to cool  Financial Times",
-    "published date": "Tue, 13 Oct 2026 15:45:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaVpoWEZHOUphdU52VGpZdTFMUUVseXlHQ21JR3RHUUl0QUFMZ25NX3F6cVpweTIya2VnV3F6Szk1TXkweW1LeWlQa1phQ0NLUEtTZHNiaEV5ak5BdEhJU1VESnVZVHhkTFhvSV91bDBBMHYzY0lUazBaejhIbEhabndB?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.wsj.com",
-      "title": "WSJ"
-    }
-  },
-  {
-    "title": "IMF raises its forecast for world growth this year but warns of risks from AI boom and debt - AP News",
-    "description": "IMF raises its forecast for world growth this year but warns of risks from AI boom and debt  AP NewsIMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen  CNBCThreat of AI share crash puts world financial stability at risk, says IMF  The GuardianIMF flags risks to global economy from AI market correction, war and debt  ReutersIMF Warns of Global Economic Setbacks as Shocks Test Resilience  WSJ",
-    "published date": "Tue, 13 Oct 2026 08:15:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMzZQN3BqRGdtMG5KMzFoQkx5V3BKcVdxcm1kNXVBXzRIYzJDVzRhdVF1eDl2ZWl2VkRncGc0dldHQVRjQ1pZQUFXWklGNlJOam8yUmVKNnVpdUJnUklDWlhra3ZVQ1NvS3M1enB1SEZiRmtDZGR3R0J3QlpObUJUVkNaSnRjRG55azN3VzBUaURBc1E?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://apnews.com",
-      "title": "AP News"
-    }
-  },
-  {
-    "title": "Cyberattack Hits Hundreds of Supermarket Refrigeration Systems in France - The New York Times",
-    "description": "Cyberattack Hits Hundreds of Supermarket Refrigeration Systems in France  The New York TimesCyberattack targeting refrigeration systems hits 700 supermarkets, French government says  AP NewsFrench supermarket fridges get hacked, heating to 122°F and sparking fires  CNBCInvestigators hunt French supermarket fridge hackers, no claim of responsibility  ReutersCyberattacks hit European supermarket chains and disrupt refrigeration systems  The Seattle Times",
-    "published date": "Tue, 13 Oct 2026 10:52:36 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzctNTJiM0xLZFk4dU9qNDZyWmhKX1RnU2VxVFdOdS1tVVF6SGV1ZkF2TXQ2Y1JkdWlmZ1V1bnN6cEF4YmVQM2hTYm1qMXkyQkNqQlFWdV9wdWdqS2wwTjB5VE51ZVZQRjFQeUFhYlZnUnBlTWp3Y2JfM3JfWXppZUlrUlFUMXQ4XzVPUFN5N0Zmb0RERDk3QnZNOUtGOVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.nytimes.com",
-      "title": "The New York Times"
-    }
-  },
-  {
-    "title": "Martin Shkreli violated lifetime pharma industry ban, FTC and states say in contempt claim - CNBC",
-    "description": "Martin Shkreli violated lifetime pharma industry ban, FTC and states say in contempt claim  CNBC​FTC and seven states seek contempt ruling against Shkreli over pharma ban  The GuardianFTC, States Ask Court to Hold ‘Pharma Bro’ Shkreli in Contempt for Trading Drug Stocks  WSJ‘Pharma Bro’ Martin Shkreli is in trouble with regulators again, this time for influencing biopharma stocks  MarketWatchFTC: ‘Pharma bro’ Shkreli violated lifetime industry ban, should be held in contempt  The Hill",
-    "published date": "Tue, 13 Oct 2026 13:00:23 GMT",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4weC1zdS1oUGpLaEw1bW16Qi1pRDhzYXh0ODhqZXdxanZfWWUxUV9uRlF1UXBnYkgzUU5aZVZNbjExX1l1TjlFWTBGT1RwOFk4T0RSNUtobGZLcGt2Q0RjNE0xMEpGN0hrVzlRbWZNMjlCUmo3U0p6V185SdIBgAFBVV95cUxPaUtVNFBRZTJDOFptWWFuZGNKeDdWYWRLc295SXpvOTB3UHlfUmlOaUluQWpUZXNYTmpfbDYwSmM1bGhjdnZqQWtrLTlZdURJN1M3cUE0SWQ1aEd1b0p1eDNINkhDQUtLN0ZQdlIwQ1J3aWtwcFN1cEdablpiY2Vqcg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room - CNBC",
+    "description": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room  CNBCOpenAI employee arrested by FBI after listening device was found at its office  The Washington PostSaudi man charged with planting 'sophisticated' recording device in OpenAI office  BBCOpenAI engineer arrested in bugging of executive conference room  The San Francisco StandardOpenAI employee arrested for allegedly hiding a ‘sophisticated recording device’ in its office | CNN Business  CNN",
+    "published date": "Tue, 13 Oct 2026 20:55:12 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNckJQNWJCVWJZSzdEUVRzWHZyZ2I0amJxTVVqX1ltcmZtSGxKWkRUVUdEWnp4Wm9HSUctWlFGNk9mOTQwVXBVd3A4SzQ0YXB3WHFfaE9YaE1mX3ZUZ1BpWWU2dDhIRXd1NENRaTAxdHdaRTFYNm5tVEZxWFQ4anpvdXo2anrSAYoBQVVfeXFMTzdwQXJjWlRmTlVDNXhWSzhsOTBHbjJpVENKRXVsUzhOR28zMjhIbGJxRFNtMTVxQVpqZlFscXhFMmx5eFhJcHRiLXJuSkhiQkZRV0tqSENqdE5TMXpxNy02c1pZb1UxNldGUkIzc3lLNTJaN1Q1QzNfVF9MX1N6bzc3dkRkNGQ0WU53?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.cnbc.com",
       "title": "CNBC"
     }
   },
   {
+    "title": "French supermarkets face millions in losses after cyberattack hits refrigerators nationwide - Fox News",
+    "description": "French supermarkets face millions in losses after cyberattack hits refrigerators nationwide  Fox NewsCyberattack Hits Hundreds of Supermarket Refrigeration Systems in France  The New York TimesFrench supermarket fridges get hacked, heating to 122°F and sparking fires  CNBCInvestigators hunt French supermarket fridge hackers, no claim of responsibility  ReutersSupermarket fridge hacking attacks due to lack of basic cybersecurity measures, expert says  France 24",
+    "published date": "Tue, 13 Oct 2026 17:54:04 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZXVyc25Na3BNSjJ2T3BQQ2VfcGFCS2Fsd042Rnh0MldobUJGVm10SktyUEktaGh0V21QdURYRDhWYVV2elpSZ2Y4VktHdTJFYUV5dEI4OG9MLWlrN0V2WVp4SGJsNUQ2OHJwSEtCUXBlTXlXZ3ZQN01QV185SXA1Um9vUUpGTEp1MjZkaHBBSVNmay14TEtuU05oVjN6UFBxWUp0cmxaNkd0djZrQ1NfcNIBtgFBVV95cUxPamJnNXh3WFpfTV9UVEh4LXlkZ2tlUHhjSzdNYnlacXR6YlhBV0xvNFRNZi03d3ZfMDAxQjVOamtSdEdHalFDdFFJLVN2T05WRkpyWHdvZGFhempUREN4QUx0RjVaMkpFZjhFUGd1RzFwODVaZW1MY1pIRE1ZOWc2UUR2MUl2cUZCRFZSMlVLeTFFNGh5eU8yRXAyUWVSU0FTMHJzbURZMkhSTHl3ZXN2VmtCUHRaZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.foxnews.com",
+      "title": "Fox News"
+    }
+  },
+  {
+    "title": "US hits Bank of America with $1.2 billion fine, saying it violated money laundering, sanctions laws - AP News",
+    "description": "US hits Bank of America with $1.2 billion fine, saying it violated money laundering, sanctions laws  AP NewsBank of America hit with $1.2 billion penalty over money laundering failures  Yahoo FinanceBank of America fined $1.2 billion by Treasury Department for anti-money laundering and sanctions laws violations  CNNBank of America ordered to pay historic $1.2 billion over alleged sanctions law violations  NBC NewsBank of America fined $1.2 billion by US government for failing to police suspicious activity  Reuters",
+    "published date": "Tue, 13 Oct 2026 20:45:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORERLcDUxeU5Mb2Y3UzRGMUcxVldIQ0hjNFpUdjNGX0pJUlBodGZFR1pfV21tTnRxX2dHMXlUY0o2NGUzNTF3bnFramYtMTV0TE5vZ18xVC1ybHBQMmNuY1ZCQnF2M1Q2R1U3c3J5TVo5M0ltX1NuUVJnQVMxRWtWdGtHdE5nUkZyUFZqellEc0pyVmpxbWM1bl9IVTE1RjRwbldN?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://apnews.com",
+      "title": "AP News"
+    }
+  },
+  {
+    "title": "Bank stocks rise on JPMorgan, Goldman earnings as chip stocks fall: AlphaCheck - Yahoo Finance",
+    "description": "Bank stocks rise on JPMorgan, Goldman earnings as chip stocks fall: AlphaCheck  Yahoo FinanceConsumers are feeling sour but they're spending anyway  AxiosBank earnings takeaways: Here's how JPMorgan, Goldman, Wells Fargo and Citi performed in Q3  CNBCRising Interest Rates Bite Some Wall St. Banks  The New York TimesWall Street plays down investor fears of faltering trading boom  Financial Times",
+    "published date": "Tue, 13 Oct 2026 13:55:41 GMT",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSVFPcUNCbld5MWpBNC16UUpjU1dWTDM4aWlJSi1JRFFDZTFYTU5sQTVER0h0MmZvdWdrNmZCM2hRbmxzNFBwS292TkpwZVJhdzlVY21wYkVNY1NVeGd5Uy1GS3FaRkoxOTBsVVh0anhrRjJjLWNMSmRfWVFtNTVvWEVPQjlFQTBwSDAxTnc2bUc4WUJxY0pya2lSRkh2SlpwQmJaNEhfRHAxWjl3MXJtaERrYjVOMEoxX2NtSUd6MG1TRzF3NHlQaURZWG1jdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://finance.yahoo.com",
+      "title": "Yahoo Finance"
+    }
+  },
+  {
+    "title": "AI bubble could burst and take global economy with it, IMF warns - The Register",
+    "description": "AI bubble could burst and take global economy with it, IMF warns  The RegisterThreat of AI share crash puts world financial stability at risk, says IMF  The GuardianIMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen  CNBCIMF Warns of Global Economic Setbacks as Shocks Test Resilience  WSJIMF flags risks to global economy from AI market correction, war and debt  Reuters",
+    "published date": "Tue, 13 Oct 2026 12:44:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYklGNnFOcXBKdWVZYWwtbDU5YXJxeVBRTDRGTjhnVjMwWElSMjRPQXpPbkh2MlRfclpQYUNhTDgtQnh2Vk9QWHdBWU5uX1hZajNSbGdrNGs4Y1h0Z3dZLWJLVmt2WWk1MVVpdWdsblp2dklMQ083NUFvQkYwZzBJRHc4RjM2R0o4V2gtZGFoQXk0dEV4SGhIUjRnMkpOZzVab3hkVTF0VGNQaEVNd3NVYktZZDRMUmlvaDA1aA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theregister.com",
+      "title": "The Register"
+    }
+  },
+  {
+    "title": "US grocer Albertsons pulls annual outlook, accelerates turnaround efforts - Reuters",
+    "description": "US grocer Albertsons pulls annual outlook, accelerates turnaround efforts  ReutersAlbertsons hastens cost-cutting drive as sales continue to flounder  Yahoo FinanceAlbertsons Pulls Full-Year Guidance, Plans Business Review  WSJAlbertsons suspends its fiscal 2026 forecast and launches a business review as profit falls  QuartzHow the former eBay and HP CEO plans to fix Albertsons  Fortune",
+    "published date": "Tue, 13 Oct 2026 15:46:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb0xhcFhSdW91SFViQlVNcTVhclpFS2cwUnhfbzZIY2VfVDVKOEVrU0tpWDdaRVBPeHIxMGRQTFllMVVWM0VDV2lQMXdaZGI4b2hRLWNPYTdzMFJReTc5ZW5tejlTcmVzZUgyNXk0dllCSnI1X1BycXU1MXlSTlZobWhDakhaT0J4ZUhkVWhhQkw0eEVpbFlyS2ZYbDNyYjZYS054MDViRkxkMS1WNmNlTWt4dmhwdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.reuters.com",
+      "title": "Reuters"
+    }
+  },
+  {
+    "title": "The Forces Driving Up Bond Yields Take a Troubling Turn - The New York Times",
+    "description": "The Forces Driving Up Bond Yields Take a Troubling Turn  The New York TimesUS Treasury yield peak still ahead as Fed likely to tighten again, PIMCO's Ivascyn says  ReutersTreasury yields are lower after reaching multiyear highs, traders weigh latest bond auction  CNBCWhy Economists Think Higher Bond Yields Are Here to Stay  WSJUS 10-year Treasury yield risks hitting 6% for first time since 2000, Pimco's Ivascyn tells FT  Yahoo Finance",
+    "published date": "Tue, 13 Oct 2026 18:56:28 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53cjBfUVVNUWNmQXNIWWNodVBLbnh6S1o4bGxSREdTQ2VmbnJlVzBOWnRzb3lnRUxDbEFUMHJFdmtjQmx6by1xNk1ncThTZGtadXVUeER1ZElLa1c0Zng2clpSbWVEVmlzdUtNR284ekdSdHVuWlRjS2poSjYtQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nytimes.com",
+      "title": "The New York Times"
+    }
+  },
+  {
+    "title": "CVS agrees to pay $315 million to settle Justice Department case over opioid prescriptions - AP News",
+    "description": "CVS agrees to pay $315 million to settle Justice Department case over opioid prescriptions  AP NewsCVS to pay $315M settlement over allegations of illegally filling opioid prescriptions  The HillCVS settles US Justice Department case over opioid prescriptions for $315 million  ReutersCVS Health Unit to Pay $315 Million to Resolve Illegal Opioid Prescription Claims  WSJCVS Agrees To $315 Million Settlement Over Opioid Prescriptions  Forbes",
+    "published date": "Tue, 13 Oct 2026 17:03:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMjhnc0NBenI1LTdQUm1CbWhMby1TRHB3NUF6Rm91Ni1RajAteVlPSWdHQWx1U1I4T0hSZy1IeVA3N0FYTW5NY2ZOa2J5c2RyX0loQnZEMGJ6RUJ3ZDlRMnM0bzVfeFh0QVhfSUU1Q3BTbnhuMjNRcG1ZZnlwYlZYWU9YakxPZHBhRUJZZVh6aXhFY0lk?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://apnews.com",
+      "title": "AP News"
+    }
+  },
+  {
+    "title": "Williams says Fed may not have to hike rates in 2027, at odds with traders - CNBC",
+    "description": "Williams says Fed may not have to hike rates in 2027, at odds with traders  CNBCStocks Bounce From Lows on Williams’ Rate Remarks: Markets Wrap  Bloomberg.comOne More U.S. Interest-Rate Increase May Be Appropriate, Fed’s Williams Says  WSJNY Fed’s Williams sees one more rate hike this year, disinflation ahead  Investing.comNY Fed's John Williams sees no rate hikes in 2027  Quartz",
+    "published date": "Tue, 13 Oct 2026 19:46:12 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5VSndIVE1JX2VXdmZyMWVSRmFUMS1Senp5cWt3c1hocHY2dVVfbkNkbVhHQnYyZXpmUGIwQWRaY19CZFQ2RWpDYkRKZjFPZ18zdTVXV0k0V1IyeWs0ejRTMjYyQVl5TmMxQXBObWVSQTlEUG5fY1ZCQnF30gF_QVVfeXFMT0dnRDVFSGJQejktSTNBdS1xeGdpSU0weXp0UlJLVms4Z0lxcUVfV254RnNiWi1mcDdXM0prWFp2aV8tT2NDN1pZZV83Qk83TkVqS0FzWHNsTlBLUkdmeC1PTmhlSmg5SGEtbXA4SXFRT0l1bjJZS0lKSHNCQlRaZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cnbc.com",
+      "title": "CNBC"
+    }
+  },
+  {
+    "title": "United ditches flight segments, raises bar for 1K in Premier status shakeup - The Points Guy",
+    "description": "United ditches flight segments, raises bar for 1K in Premier status shakeup  The Points GuyUnited Airlines is making it harder to reach its top frequent flyer status in 2027  CNBCI've flown United 43 times this year — why today's elite status changes are bad news for flyers like me  The Points GuyUnited Premier Status Changes for 2027: Just 1 Metric Now  Upgraded PointsUnited Makes MileagePlus Elite Status Harder To Earn: Is The Airline \"Winning,\" Or Just Overly Confident?  One Mile at a Time",
+    "published date": "Tue, 13 Oct 2026 17:59:09 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOa0VwOTZrVmN2eTd2M1dDVzdNZ0FVWXVKS1BTaTdyMW5nOG9QeDQ3SDZ5RzlZemFPN2hXY3FUbFhlTjZoeHlNNkEzZ1hwYWlkVGd2bG41dDhRUW12b3kxWjlpU2kyZlgzeVJ6YkdmVkVRTG1QZVZQM1RCZGJBaHFWTw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://thepointsguy.com",
+      "title": "The Points Guy"
+    }
+  },
+  {
+    "title": "Social Security chief Bisignano says program will 'be around for another 90 years' - Fox Business",
+    "description": "Social Security chief Bisignano says program will 'be around for another 90 years'  Fox BusinessSocial Security cost-of-living adjustment for 2027 may be above average. Some say it's not enough  CNBCHere’s how much extra money could be in your monthly Social Security check next year  MarketWatchSocial Security's Trump Bump-Fueled 2027 COLA Is About to Do Something That Hasn't Been Witnessed in 30 Years  Yahoo FinanceSocial Security’s 2027 COLA: What to know ahead of the announcement  NewsNation",
+    "published date": "Tue, 13 Oct 2026 21:02:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb21rZXd1RjBRSk12VXRQaEdLVGl5NmJ3RjBZSzcyLWJzYTNWaDJjTnVDQnJwN2lueWdUQXhaenNBYnZPYllCMVNiNWRLdjNsT2M3ZmJjVlUyaGF4MHBEUzlSTmRBYWR4T3ZlUWdLY0lmUlZCZEVHdGpPMlFXd0JBem5ab1JZSmlHNlB0ZlBQMWZFbUl2cGZZOHk1RnYwcXNybmxORjJoMzNBV3My0gGyAUFVX3lxTFBTbXNMSGJLcEd2QkNWOEpFekNXWFMzUmR1SXdEZmZ1QTFxLWdPUERnSkY4bDlXV2ZJakpOUnBfY3U0WEtfbDAzV1c2ckdiUjN5dXRhZEtORU4zZjNIWFJUMkV6anpfVDFrS3dtQVR4a2JNOFhZQjJSWXB3a0k0R1p0VlptRW5PeUtRbFROYTFBU1c4OXpIckpsUU5ONlNWcU12eGxOaWxXSHBrSXZ6YkZCYlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.foxbusiness.com",
+      "title": "Fox Business"
+    }
+  },
+  {
+    "title": "'The baby boomers have arrived': How Americans over 75 got richer than other age groups - Yahoo Finance",
+    "description": "'The baby boomers have arrived': How Americans over 75 got richer than other age groups  Yahoo FinanceAmericans' debt problems are flashing a warning not seen since the Great Recession  CNBCFed says household income, wealth, debt stress increased from 2022 to 2025  ReutersUS wealth and income are up, but credit card debt is too, Fed says  USA TodayA new Fed report reveals a financial warning sign many Americans are feeling  Cleveland.com",
+    "published date": "Tue, 13 Oct 2026 17:14:05 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTjd3NmpUa3pxcUNKTWhoWlZmY0JUeHdySlkxUHZiWWlmbDRWTERXTkQ5dkF6dkJXTW9JeHBpWXFlTGFBTkNiSHk3LU5WV3pxTkstRHA3OXlwUHJsNzJVTTlsNzEzbjFNekF0WVYyTnhsSEtXeHQ3eHk4WTVpQ1VYRGhFSFJsTjdiSU5OYWRoLTczMmhCbzZEM0JMSVY1UTBONVpuemV4ZVIxWlFTRXJrNVpHeFd5Y0R0djNYQ2ZGSHhUVy1XQnpaSUhHZUlkWjIyS3lNbERwQlc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://finance.yahoo.com",
+      "title": "Yahoo Finance"
+    }
+  },
+  {
+    "title": "Brutal session for chip stocks shows AI trade is turning - Reuters",
+    "description": "Brutal session for chip stocks shows AI trade is turning  ReutersThe AI trade is cracking. Here's how to profit  CNBCWorld stocks slip as AI spending worries hit chipmakers  ReutersEntegris, Intel, KLA Corporation, Lam Research, and Microchip Technology Shares Are Falling, What You Need To Know  Yahoo FinanceTech Stocks: Cracks Are Starting to Appear in the AI Trade  Bloomberg.com",
+    "published date": "Tue, 13 Oct 2026 18:04:55 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM1RJWWJHTmtIMnhaYWVyeFFpYV8wZndZMUFOVXM2NkpJdUNfRGlyQzdHeVcwMXkxcXkyWFFZQ3hXS3RpM0NqZUtNcmxNd3NkSGZETmlvTjRRYjJ3X3BXa0FEamh0NDExSTZieGRHam9BdFBiZXdOcTBSUXRPNlFEeTVKOEtkN3JiV25QUEsyekp0OTJRaU5nVA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.reuters.com",
+      "title": "Reuters"
+    }
+  },
+  {
     "title": "UnitedHealth Earnings Beat Wall Street Estimates. The Turnaround Continues. - Barron's",
-    "description": "UnitedHealth Earnings Beat Wall Street Estimates. The Turnaround Continues.  Barron'sUnitedHealth Group tops estimates, hikes profit outlook as insurer manages high medical costs  CNBCUnitedHealth Group stock jumps 5% on profit outlook raise  Yahoo FinanceUnitedHealth posts $4B profit in comeback from financial spiral  Star TribuneUnitedHealth raises profit forecast as turnaround efforts gather pace  Reuters",
-    "published date": "Tue, 13 Oct 2026 14:01:00 GMT",
+    "description": "UnitedHealth Earnings Beat Wall Street Estimates. The Turnaround Continues.  Barron'sUnitedHealth Group tops estimates, hikes profit outlook as insurer manages high medical costs  CNBCUnitedHealth Group stock trims gains on profit outlook increase  Yahoo FinanceOptum Health surge helps power UnitedHealth Group results  Modern HealthcareUnitedHealth posts $4B profit in comeback from financial spiral  Star Tribune",
+    "published date": "Tue, 13 Oct 2026 21:44:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQVdJazIyaUdZemJxSnVZcW5LcWV1TFhZbWZXRDF0ckd1OGU1Q1EwcXM5VjcyYVFNMmtSV3VNbjVFNjQtb0FwN1VEVTZOWFZZejMtTFpwbGkwREhhV0pmWXE5al9kQTBxbl9ZRlpOUnItU3pjTFJ1aFRldzNkcC0yX3BJYmFfZw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.barrons.com",
@@ -50,58 +140,218 @@
     }
   },
   {
-    "title": "Kroger to lay off 3,000 corporate employees over 3 years as it leans into artificial intelligence - ABC News - Breaking News, Latest News and Videos",
-    "description": "Kroger to lay off 3,000 corporate employees over 3 years as it leans into artificial intelligence  ABC News - Breaking News, Latest News and VideosKroger to cut 3K corporate jobs over the next 3 years  Grocery DiveKroger plans to eliminate 3,000 corporate roles, memo shows, as it expands AI use  ReutersKroger to lay off thousands of corporate employees over the next three years  The Business JournalsKroger plans to cut thousands of corporate jobs  WVXU",
-    "published date": "Tue, 13 Oct 2026 15:32:36 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTXFhM2tEUlFrZXBCZjNoT0VmY3lwQWdDS1prUkhQb1ZkNHJfQ3o1Z1dESnR2bTF0ZjNKMU9kRXFvYkhKbVpJWlV3U1ZwNXh5N0Q2TkRzN0RnMzFlLUtlaldiQ0VSREVGWk96cmhNNzR0dEd2S0xERFk0ei11RmMtcVlIbzZCNjBvdkltd2N5RXA5djZodFdfME5meXHSAaIBQVVfeXFMTjRYYWJHSFk4MWxad2FxanFuSzd3SGhaVHBzYzJQRWJPZ09wSkpnUUpqaDVoLTZpWnp3SEh2b0lEcy1LQjhoOEVuaHF5MFdUQTBYNTVpQnRXQmRXTjU2VTl6NFhnb0F1NmRLUDNSem5VenlabW11TXZ0QzdRVDlwbFFuTlB2bXZPNDR3Zmxmdm13NVhDSkozbUE4a3RpTk80ZFVR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "AI agent company Decagon is holding early M&A talks with ServiceNow, others - Business Insider",
+    "description": "AI agent company Decagon is holding early M&A talks with ServiceNow, others  Business InsiderSee more headlines & perspectives on Google News",
+    "published date": "Tue, 13 Oct 2026 16:36:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOGhsYzF4cmVvTjhWdjZLNW1JY1RFSVZBR1VxanlqcHBFZ2V0b2lTSGFtR1hIcWlVUnl6SjNQa2pJOHA1aThGN0F2alI3WkVsRVNEYVh3eGhIWU53NlZpbUtmbS1lZVB1dTVDSHFIYmVGOTZFaWVHQlk3cTBTTVczNmNNVTB2OVBBNTNCbFRzd0hpWnFPdEs4WEpmVnRnMEN0Ty1BTGpFUnRObHc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://abcnews.com",
-      "title": "ABC News - Breaking News, Latest News and Videos"
+      "href": "https://www.businessinsider.com",
+      "title": "Business Insider"
     }
   },
   {
-    "title": "OPEC Cuts Demand Growth Forecast Again as Gulf Supply Risks Mount - WSJ",
-    "description": "OPEC Cuts Demand Growth Forecast Again as Gulf Supply Risks Mount  WSJOPEC cuts 2026 oil demand growth forecast to 400,000 bpd, sees pent-up demand in 2027  ReutersOPEC raises 2027 oil demand forecast after war depletes stocks  QuartzOPEC: Primary energy demand to increase 23% by 2050  Breakingthenews.netOPEC Cuts Global Oil Demand Growth Forecast for 2026  www.marketscreener.com",
-    "published date": "Tue, 13 Oct 2026 12:32:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUEt1NmxaOWtwZ2RBbVh1Q01nZjU2TlZCR1gtRm5sOElDQXFOaVJuTWRQVkhKcGxwNG5KYkhITnJsamhoV1JxVDlxc3p6RlJNR0FCUEtoWm1NQlpNcHN5TXh0RFZJYkhqUFlVdnBXQm5IUFMzdzBqNHRNSk9BelFWbEkwOEJ3bVJLLTZLUjU3Slo3UXVUZjk2YkpySnN5Sl83LWN6Mzdka0MyZzBfTUEtVldmU0Q?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Kroger to lay off 3,000 corporate employees over 3 years as it leans into artificial intelligence - AP News",
+    "description": "Kroger to lay off 3,000 corporate employees over 3 years as it leans into artificial intelligence  AP NewsKroger plans to cut 3,000 corporate jobs as grocery giant expands AI use  Fox BusinessKroger to lay off 3,000 corporate employees as it leans into AI  KCRAKroger plans to eliminate 3,000 corporate roles, memo shows, as it expands AI use  ReutersKroger to lay off thousands of corporate employees over the next three years  The Business Journals",
+    "published date": "Tue, 13 Oct 2026 19:11:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSHNESldQb0tHcGc2ZkN4SmFybFNDd0lpYktkdXZNRXNtN0Z3RnFwQ3FCVC1uS29uNVA4WjlFNkM4cGxreUFER0ZSdGQ1RWwxSk1VS2lNV2dmU19DV3VsWWFBYkRlejNESmp4MmpyNnRlS2gzT1hLcXAtaldYN18wZy03Y2lZeDQxMWZWOWZfZ1IzUU1IT3c?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.wsj.com",
-      "title": "WSJ"
+      "href": "https://apnews.com",
+      "title": "AP News"
     }
   },
   {
-    "title": "Macron Dreamed of Reviving France, but His Term Is Ending in Crisis - The New York Times",
-    "description": "Macron Dreamed of Reviving France, but His Term Is Ending in Crisis  The New York TimesIn charts: How one of the world's biggest economies got trapped by debt  CNBCEurope’s Indebted Nations Are Starting to Blink at Market Wrath  Yahoo FinanceDefault May Be the Tail Risk Haunting French Bonds  WSJFrance’s Bond Turmoil Raises the Specter of Contagion in Europe  Bloomberg.com",
-    "published date": "Tue, 13 Oct 2026 15:57:51 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd195NWtKc05BcDF1Uk9MRnUybzZnS0ZodUpTR0RwZHRrWEVIckJfTmU5bUg5MkJ3RGVVbDZQNjhBbFBQc0M2RFphY2h2emlrLU9FQ3o1akQyaHNIUzVOTm1VYlhCY0ZYRXdQWC0wcE4zM3RfYV9tMWVLLUptZmNycA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.nytimes.com",
-      "title": "The New York Times"
-    }
-  },
-  {
-    "title": "Goldman Equity Traders Top Estimates as Fixed Income Falls Short - Bloomberg.com",
-    "description": "Goldman Equity Traders Top Estimates as Fixed Income Falls Short  Bloomberg.comUS bank results live: Equities boost helps Goldman overcome Wall Street’s fixed income woes  Financial TimesGoldman Sachs profits surge 29% as trading boom holds up better than expected  Yahoo FinanceGoldman Sachs beats quarterly profit estimates on equities strength  ReutersJPMorgan, Goldman shares adding more than 100 points to the Dow's price  MarketWatch",
-    "published date": "Tue, 13 Oct 2026 13:35:21 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQzRzMEpfTFlwMTltbUt2ejd2SGc4NWhZTm1NT09WSUdoQUhGb1VJR09WU05EeTNNVzRVdDdSUTlnX255NXp0MkVkemMzZEpSMzU0NmYzNWxaUThyaUJGeGRaTVVkeVFUNnlLNWdyb3UzU01HSVI3Qm1kbmtHNS16WG9DaUJfNm5VVTlpai05aWt3RDFuSlhreXJocV9YMElVTmVXMjhkUGNvUld2X1R5aEdqWWQxdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Bond Traders Hand Crown to Equities as US Banks Deliver Results - Bloomberg.com",
+    "description": "Bond Traders Hand Crown to Equities as US Banks Deliver Results  Bloomberg.comJPMorgan Posts Surprise Drop in Fixed-Income Trading Revenue  Bloomberg.comWall Street’s Equities Desks Surpass Bond Traders  Bloomberg.comFixed income fortunes vary across four of the biggest U.S. banks in Q3 (JPM:NYSE)  Seeking AlphaBond Traders Eclipsed by Equities in a Wall Street Reversal  Bloomberg.com",
+    "published date": "Tue, 13 Oct 2026 17:34:46 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObVphOE9oc0tKcV9uR05MLWlWQ01oUDFQMGI5NkgwdlBjdnBPclUwRWNkdmRwYVRWWDdhbnlUejNzVGl0X1JGeWRJQTl1UUNHUjdJQi1XX0dqMzFBYUM4T0hZMTg4R21lOVdaM1BWTF9UeVA4UGRkYkJqSkdUU0VWWXYyTGo1UGw2REdBV0pRSlBOSHRHVld3YmZGYnlZQktOd1BObEVGQ1paUExCc0l1TFZscw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.bloomberg.com",
       "title": "Bloomberg.com"
     }
   },
   {
-    "title": "Investors brave US Treasury rout to lock in highest yields in decades - Financial Times",
-    "description": "Investors brave US Treasury rout to lock in highest yields in decades  Financial TimesTreasury yields are lower after reaching multiyear highs, traders weigh latest bond auction  CNBCUS Treasury yields yet to peak as Fed may tighten further, PIMCO's Ivascyn says  ReutersUS 10-year Treasury yield risks hitting 6% for first time since 2000, Pimco's Ivascyn tells FT  Yahoo FinanceTreasury Yields Keep Hitting New Highs. Can Savers Still Cash In?  Investopedia",
-    "published date": "Tue, 13 Oct 2026 04:01:33 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNExsQXlqLUVZQ2M5WTBfRG5jMTFNMExsb2pDOXp2bkVKMHhQdTR3ZlhmeTBrVW9Ca1dXam1acVYxMFN5cFlCSzcxYmg1ZVZZNTZZNkpGV3lJWXFRTkViOGdFTWNJa2NlUFZIOGpRQnRsQmZXekxxR3BYM2NQTjlKTWlnRXQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "FTC: ‘Pharma bro’ Shkreli violated lifetime industry ban, should be held in contempt - The Hill",
+    "description": "FTC: ‘Pharma bro’ Shkreli violated lifetime industry ban, should be held in contempt  The HillMartin Shkreli Violated Lifetime Ban From Drug Industry, U.S. Says  The New York Times​FTC and seven states seek contempt ruling against Shkreli over pharma ban  The GuardianMartin Shkreli violated lifetime pharma industry ban, FTC and states say in contempt claim  CNBCFTC says ‘pharma bro’ Martin Shkreli repeatedly violated industry ban  Financial Times",
+    "published date": "Tue, 13 Oct 2026 17:05:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQk9kcy1YcU9sMUZ1aDFJWTl4QmUzZjBSUUwtVmMxSnJ1M1dfZU1YRDBBRndKR2tmSHRHRVdZbmhHbWlndmF0dlZBaHk2MDVTXzRtcXBZWFJVSk5CdHdtQVpDNDZhS09QVGVySnlhVU1uV2FVZ3V6VWJCcXFILVRWUFZIc2RFQdIBiwFBVV95cUxQd3R6UjdFcEhTa0tqUnlGVXVDeEJNb2lvUzlncjlZQ0s2Q2dyT1Y5Y3ZibWRHdnlZMUJvQWt6cnQ5cDFPdkQ4NXVsc2tmZXoyZEk4MHUzT2hqNkducjhqWTJZSmJnT2t2RXc1WE5kYUdKT243dHV2Z0RidktXbzAzcGdWcVVMT3I2R2x3?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.ft.com",
-      "title": "Financial Times"
+      "href": "https://thehill.com",
+      "title": "The Hill"
+    }
+  },
+  {
+    "title": "Character.ai files for bankruptcy following lawsuits alleging ties to teen suicides - CNN",
+    "description": "Character.ai files for bankruptcy following lawsuits alleging ties to teen suicides  CNNCharacter.AI files for bankruptcy, to sell some assets to Disney for $20 million  ReutersCharacter.AI owes Google and Big Law firms nearly $7M, court filings show  Business InsiderAI companion startup Character.ai files for Chapter 11 bankruptcy, citing costs and litigation  CNBCAn Update on Character.ai  character.ai blog",
+    "published date": "Tue, 13 Oct 2026 15:38:59 GMT",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1NWkxJaFJlTDJXRGlEckF0bi15dUJYM050czd3Xzh1Q2kyNmJ3UzYwQkh5TGo0bHR5dGliS0RDa3drRHpUT3BkZkFrLU4wQnlUS2JldGViQnN1QThaRW1Vd1M4RjNfWmFJSmpMU1BXZkZObFZZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cnn.com",
+      "title": "CNN"
+    }
+  },
+  {
+    "title": "Three things we've learnt about the UK economy from the IMF - BBC",
+    "description": "Three things we've learnt about the UK economy from the IMF  BBCIMF raises UK growth forecast as economist says Healey should ‘stay the course’  The GuardianIMF upgrades outlook for UK as AI drives growth spurt  Financial TimesUK growth forecast upgraded but higher energy prices to hit economy next year  BBCUK economy to grow more than expected - but households face sharper rise in inflation, IMF says  Sky News",
+    "published date": "Tue, 13 Oct 2026 11:58:43 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wLTAtODh5dzF5ZW54d0lHRlFKUi00YzVsWU1PUlBfa3A4ZHdmb2JVa1JOTEtqODBLVnJyeUR1ZFBqMUs0NGZERXFaVlY5UjBFX2JUQjYtQmF4V2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bbc.com",
+      "title": "BBC"
+    }
+  },
+  {
+    "title": "Johnson & Johnson stock falls despite strong earnings as investors focus on medtech unit - Yahoo Finance",
+    "description": "Johnson & Johnson stock falls despite strong earnings as investors focus on medtech unit  Yahoo FinanceJ&J posts weak medical device sales, shares fall  CNBCJ&J Leans Toward Ortho Spinoff as Medtech Sales Disappoint  Bloomberg.comJohnson &Johnson Stock Earnings: Can a Spinoff Fix Its Medtech Problem  Barron'sJ&J Is Leaning Toward Spinning Out Its Hips-And-Knees Business  WSJ",
+    "published date": "Tue, 13 Oct 2026 16:14:50 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSkZTQ0gzRndhUVMzeFdnb3Zjby00R0FuX0s2LUhhWERXSzd1dnlCSmt2Q3BYd2NMQVVOWmdacTBTT3N1dmVfVTF4WWhONWhNLVRHWVBhMkgzTmVQMjlFMmJBbk9SYl9lRVU0VVo2WXdPZE5YYjE0RDByM3N5cWdSdWM3dklfNUw2aHc3dngyR3VrNHg3a1g5SGMyMUNxN0t1U1JYTmlUak00N1NRbUl3YV82MWl0bFhYM0hwUFpUblVMTjRuQjI5UGxMbVYwV2dvZFJQTVJ6STRGLWRv?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://finance.yahoo.com",
+      "title": "Yahoo Finance"
+    }
+  },
+  {
+    "title": "The Paris Auto Show is full of interesting cars Americans can’t have - Ars Technica",
+    "description": "The Paris Auto Show is full of interesting cars Americans can’t have  Ars TechnicaEuropeans Have a Love-Hate Relationship With Chinese Cars  The New York TimesEurope's carmakers turn back time to rival Chinese EVs  ReutersHits from the Paris auto show  Automotive News6 Coolest Debuts at the 2026 Paris Motor Show  Edmunds",
+    "published date": "Tue, 13 Oct 2026 17:33:20 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObEFEamJpQ1FmanZUR0t4ZXhFUHhJTEZlbnpHZVc2X0drUXZnVnNDYTVDSldjVEs2bE94aGZqdk5ubXFjcUFCdW1kR1YzOUt6TnpTc3o5TjNJeWpXeFJ3MHZTOTJJaXJlZmc1UHRPTWd3TzhpNzFnbFJDRGN6aW5YM0V4OEYzenRCbGREMURRNm9lb09nb2NxVHdTc0pnUTUwWGRoMW1VN1RrUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://arstechnica.com",
+      "title": "Ars Technica"
+    }
+  },
+  {
+    "title": "2 new direct routes coming to Buffalo airport - WIVB News 4",
+    "description": "2 new direct routes coming to Buffalo airport  WIVB News 4Columbus airport adds nonstop route to popular South Carolina beach  NBC4 WCMH-TVBreeze Airways announces 11 new nonstop flights to MYR next year  WPDEBreeze to become largest airline at Myrtle Beach International Airport after new routes announced  WMBFA new discount airline brings nonstop flights from Buffalo to three Carolina cities  Buffalo News",
+    "published date": "Tue, 13 Oct 2026 15:17:08 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTFB3bGNPSmNvTHd6a250amkwVExrbmpZSml1RkRPa1Vuby1RY3o1S3dnVUxhcW96dVFDalRnN1ZtaUdob29sR3g1VDJBM3k1RHVhY3I5QTVZNFFGZlF3MXF4X28ydG92eWtRd0ZrSG11SXk2OV96Wi1UTnhIamVrSU1Oc0lyM0xVczhzbGdxZS1JWEhvRUpxNUtfeTk1WkNlWkJVSndwcElITFctSXfSAbMBQVVfeXFMT0M0MWswY0VTc3FGN1gwV0xoMGZidGZ1WUM5V3JHQ0c4a2hmaWpHZXBXV0owMXlMaVJYTWxyaXJiX2tkQ2FNN1FwdHhPN0lCbDZSMjlYVWJkZmNEUXF4NlFNY1ZCX1pTQWVKQXVPaEN0bDdKRGpWc3dGeU9hMWJ6ZGZnMndqSWllSDFENGN4ZWl4dkZ0QjZkR0E5OGxnUkNoWkEtOEFiS3lfTjVJYUlLNjFhSm8?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.wivb.com",
+      "title": "WIVB News 4"
+    }
+  },
+  {
+    "title": "U.S. Department of Energy Issues Power Grid Emergency Across 13 States - Eagle Country 99.3",
+    "description": "U.S. Department of Energy Issues Power Grid Emergency Across 13 States  Eagle Country 99.3PJM Issues Maximum Generation Alert for Oct. 13, Extends Capacity Advisory to Oct. 14  PJM Inside LinesPower grid emergency declared for mid-Atlantic, including Maryland  Baltimore SunMap Shows the 13 States Under Emergency Order to Prevent Blackouts  NewsweekGrid Emergency Declared for Maryland, Delaware and More  Eastern Shore Undercover",
+    "published date": "Tue, 13 Oct 2026 13:16:58 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWlJ4enNabUlINHdhbENJZmdicWZ3WWNvSV95Q3pfYzNBS3dRVVpMNnRtT2JEU1AyekEzRHI5SG80bG1EMW5pVG81dlp4STlzaVRYRm13aFBDZTZlRWw1N1RhYUhpZlFVVXBQRmhTczdRX1ZGTUhqVWU4VXVNd3BtSlUydHAtRllxblNnZmNXMS16WDJkOC1ZOGhod0I5NzFUSXFnM3JzSmZUVHVtU2luRFVGUy1XV3BaYlhacGVn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.eaglecountryonline.com",
+      "title": "Eagle Country 99.3"
+    }
+  },
+  {
+    "title": "JPMorgan profits rise as Jamie Dimon warns economic forces 'shift under the surface' - Yahoo Finance",
+    "description": "JPMorgan profits rise as Jamie Dimon warns economic forces 'shift under the surface'  Yahoo FinanceSee more headlines & perspectives on Google News",
+    "published date": "Tue, 13 Oct 2026 11:05:58 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbXM3aVhpdThKWTN1Z3FXa05XQm5KZDBDaHgzVU1Gam9ub2pfTmV2SC1ibXhjcFYzTlFxTTFGT0dPVHNkRUFxWGxZc3l5ZmNGa3dwRHdiNUZoMUlOdUFad0RaU2U3cmstSGpaSS0tdGtRUmVLcGVCanFyR3BHT192S2hyYl9xRUh6eGg4T2xQdzV3RS13R1pIb1hicGNfaXFDT2dZenkzTEhqcHpzeUJ5TDFBMFgzLS1Wd1VhdzNtZ0R6LXVLdFp4VWpHbllTdUZJZzFodE9n?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://finance.yahoo.com",
+      "title": "Yahoo Finance"
+    }
+  },
+  {
+    "title": "The latest inflation data is expected to show price increases are accelerating - CNBC",
+    "description": "The latest inflation data is expected to show price increases are accelerating  CNBCWhat’s fueling inflation? Fuel.  NBC NewsUS CPI to Show Overall Inflation Boosted by Higher Gasoline Prices  Bloomberg.comFed officials want to hold off a rate hike this month. Will this week’s inflation data let them?  MarketWatchUS Bond Traders Await CPI, Warsh For Insight on Fed’s Rate Path  Bloomberg.com",
+    "published date": "Tue, 13 Oct 2026 18:05:57 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNS0xHWG5UZnF5VlRIVTJ6Q3pNSUt1WFgtc01hWjRreTVQWjRUYlpCUk5zRmRLamdJLXFLa0tWV0hfTUNzeU8wOS1sTmMzNEZ2QTJ5NURHVEtyaURLRm9WOGpLZjB3STlQRVV6WVRCcGtMZmNlY0lrcWxOb2RaYTZlb1lac9IBiAFBVV95cUxQY29TZUc0ekhYX3FHWnkwb0tLc3lXa29ZX05rdGdnNDFDM1hMU3BHRGFTZTdNTVZkR2xjNUdCbTJpQ3JyTkVJRjZwNGJYSUxlV3pJUnRGc0tVVEExTjBVTlVrc1k1WXVscnpxR2JrWjY1X2d3TWZIWlQxemlVRVk1SUNvYXNlRHI5?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cnbc.com",
+      "title": "CNBC"
+    }
+  },
+  {
+    "title": "AI in your oven? Anthropic warns models ‘months away’ from self-replication on smart devices - The Guardian",
+    "description": "AI in your oven? Anthropic warns models ‘months away’ from self-replication on smart devices  The GuardianAI models may soon self-replicate across smart-home devices, Anthropic warns  ReutersAnthropic warns rogue AI agents may ‘self-replicate’ to hijack everyday devices  Financial TimesAnthropic warns AI models could soon replicate across home devices, become difficult to shut down  Fox NewsAnthropic warns AI could 'self-replicate' across smart home devices, become 'challenging' to shut down  Yahoo Finance",
+    "published date": "Tue, 13 Oct 2026 20:56:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRUxXc0hJVk5xRzdVTE5hQ2h2LWdnS21nUEZRVVFwX0dVZHJ5QUU1NUxmZUgydXVrRS1jSVNDRmtSVU1YYTh2RURQT0NQcEozdXdIb0FFM1RLakVTRXJFYTl4RU9kQXRPTUM5Vm1uVktaQ1NXaXp2Z3UySW5ZVktRTU5ZNGVocUszOTZV?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theguardian.com",
+      "title": "The Guardian"
+    }
+  },
+  {
+    "title": "Chip Stocks Tumble on A.I. Spending Fears and Rising Chinese Competition - The New York Times",
+    "description": "Chip Stocks Tumble on A.I. Spending Fears and Rising Chinese Competition  The New York TimesMicron, SK Hynix stocks tumble as chip sell-off deepens following South Korean market rout  Yahoo FinanceSouth Korea’s Kospi index sinks more than 7% on semiconductor share sell-off over AI boom worries  NBC NewsAsia Stocks Battered as Semiconductor Stocks Dive  WSJCracks Grow Across the AI Trade as Memory-Chip Stocks Tumble  Bloomberg.com",
+    "published date": "Tue, 13 Oct 2026 20:07:29 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSWJ0ZG5rRVhWSUQyclV5TE1zWHpBVmY1SDRRUkRMSUM5RThQVVpsakFsQmw5UG5CV04tMkFGVnhHNW4talZ2bHlxbDVrUGlweGxEcFhzWWwzX21fSTRYUi1PNS1pU1lVczFsOU1vRGF4R3BJUmppXzhfdmJTSThBRFZ3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nytimes.com",
+      "title": "The New York Times"
+    }
+  },
+  {
+    "title": "Food Lion, Stop & Shop and Hannaford websites face outages after cybersecurity issue - Fox Business",
+    "description": "Food Lion, Stop & Shop and Hannaford websites face outages after cybersecurity issue  Fox BusinessStop & Shop, Hannaford, Giant Food grocery sites offline after parent company experiences cyber incident  The Boston GlobeHannaford website, app down due to cybersecurity issue  WMURStop & Shop website, app go offline after network security issue, stores stay open  WCVBAhold Delhaize takes precautionary measures following cybersecurity incident  Ahold Delhaize",
+    "published date": "Tue, 13 Oct 2026 20:27:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTFMzeVVWdHY5dk5icjF3NUdwb2NZREZpbmNnVlhsYmNrcHhzZkFKT01RdlpkOGctcDZQMHFtbzltVU9ScjFwR2M3T3lOU0RCS21fLTdwY2t4amVQUXFLVHAxaGJWRVBseFdwdEM0cHJGUzFqRjJablNNc3dxOUhjQ2RvX2pCWXBrWFFzYUEyNGZzY3Y1OGxjY1MyNE9jSkgxM041cTFpRVNlcExXZTVLckxHZDB0UdIBuwFBVV95cUxPT3N3S3htT1pWUk5lTE9NMDZlTmZBRmpLeFFYU2V3a0MtMFo5YnhYQzZOdDlQandPb184ZEpidGlfQXNTZzkwWEJVWEhNSW9vaUFJcjgxaE1GUEZlUlNxc2otdTFEYk9pazM5WTRxZ2tYUGMxVUY2WXBNTVJ3LWxsWm1rSXpMSnZaQWVqY0FyMWxISlhMSlNNWGNtQ3FRdjMtLXBMZTAxVGFQSFRGcU10V1ZtUWRpdVVzX3E0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.foxbusiness.com",
+      "title": "Fox Business"
+    }
+  },
+  {
+    "title": "Delaware jury awards Qualcomm $2 in damages, finds Arm breached license agreement - Reuters",
+    "description": "Delaware jury awards Qualcomm $2 in damages, finds Arm breached license agreement  ReutersSee more headlines & perspectives on Google News",
+    "published date": "Tue, 13 Oct 2026 20:58:03 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ3B0dlZXT01OUXZmR2FEMXhoVWx5RnpzUk92dzNtR0dWSWZFZGkyTzlpQmc1VmNxc0N6VTBtTndzZUd0NzVYMGxIQUU3VEFaTUZnUnhVMmlpSWhjM1YxLWxKQWMxTFN2M0g1cTVKV20wWUc3LVMtZ0MzRXY1c1AxSTgzUjlQV21kb19uSmZndHdYVDVlQzZ2X2VjN210SWN0cWRZeDVkY1BaV21H?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.reuters.com",
+      "title": "Reuters"
+    }
+  },
+  {
+    "title": "RIP Hollywood Burbank Airport of yore, the last easy airport - SFGATE",
+    "description": "RIP Hollywood Burbank Airport of yore, the last easy airport  SFGATEBurbank airport’s new $1.3-billion terminal opens — bigger and sleeker than ever  Los Angeles TimesFirst look: Inside the new $1.3 billion Hollywood Burbank Airport replacement terminal  The Points Guy",
+    "published date": "Tue, 13 Oct 2026 11:36:40 GMT",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JdG9RY0tPc0hYOFJyX3JfTE93Rk8xcC1HWTlVOV83a2JYUDRkdWo5OGJqMjQxMjhzcTFHY1A4d29IcUV5azIwNHdjU1Q0M2VXOFBFd1JpWGpxdXRTcGZTNE1VblBTeXFmaW1rZ0pGR3doUXBzTkxCbmtBSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.sfgate.com",
+      "title": "SFGATE"
+    }
+  },
+  {
+    "title": "Dodgers owner Mark Walter’s legal troubles deepen with wave of new lawsuits - New York Post",
+    "description": "Dodgers owner Mark Walter’s legal troubles deepen with wave of new lawsuits  New York PostSee more headlines & perspectives on Google News",
+    "published date": "Tue, 13 Oct 2026 15:07:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMndSODVmdjNJUDIzbXRHUVlUYjdJNVVReE5Uay1nSHlVeS1abExiOU9LaWs4MjNselhQRnk0OWEwaEtySE5GQTJ0RExkSVRtX19SdWRtYXktWFA1UnVxTTVWWFBkeVBMOEc4Z1A0cFVQUWs0TTMwTUVuV1pDNFJmNUZEX2laV2NnV0pXSF9ZelJYblRMSUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://nypost.com",
+      "title": "New York Post"
+    }
+  },
+  {
+    "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay - Ars Technica",
+    "description": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay  Ars TechnicaGemini 4 Argon for Robotics  blog.googleGoogle launches flagship AI model Gemini 4 Argon for developers, businesses  ReutersGemini 4 Argon in GitHub Copilot  The GitHub BlogGemini 4 Argon: Built to solve your hardest problems  blog.google",
+    "published date": "Tue, 13 Oct 2026 16:00:02 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSzFEX2pUajNRcEcxb3I0al9vQ1NraVZ0Y0szVy1wTUdkY3haQ19KYmZtR2RiUW5BRE5tSVk4UHUxbDZyODI3VHpHaXFtWUlQUlJra2w4c3I5TGQ5OUs3cUhFQ1NJRzZmNDZpc2ctR19JZUdYMXJTWDBmdnh2alJ2VjNVYnNZNXNZSVVyMFlZb21kT2RMS0k5TmstNGZrUlRNZTdKZGk3X3BZU0ZaLThPMVVjU2J4MFF5amRR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://arstechnica.com",
+      "title": "Ars Technica"
+    }
+  },
+  {
+    "title": "Delta Air Lines will exit an entire Middle East market until March 2027 - TheStreet",
+    "description": "Delta Air Lines will exit an entire Middle East market until March 2027  TheStreetDelta delays debut of Saudi Arabia service until March after Riyadh airport attacks  CNBCDelta Delays Plans for Nonstop Service to Saudi Arabia  WSJDelta pushes back Atlanta-Riyadh service after Riyadh airport attacks  ReutersDelta Delays Nonstop Service to Saudi Arabia Amid Conflict  Bloomberg.com",
+    "published date": "Tue, 13 Oct 2026 16:48:04 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOamlNZE5WSm16ZmpYRU0ybUpzOGk5cFdESHA4b3dXLUYzVFVNaWwtZGJWYWdPdndjWkRBVU1zWVQ3Y0VIekxoTzlkSkg1Nl9jNkJLbjRaM0pPMmk3X0hYZ1pDVndXNTRBa3J4YWhOV0FoTEhqa0JfNUx1bUJEdjA5THEyc3dZSnJwdVE5LTVUZkY?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.thestreet.com",
+      "title": "TheStreet"
+    }
+  },
+  {
+    "title": "Bumble agrees to a $1.3B acquisition deal as online dating faces a reset - TechCrunch",
+    "description": "Bumble agrees to a $1.3B acquisition deal as online dating faces a reset  TechCrunchBumble bought for $1.3bn in 'bet on the future of humanity'  BBCWhy Is Bumble (BMBL) Stock Soaring Today  Yahoo FinanceBumble swipes right on $1.3 billion go-private deal amid online dating industry reset  ReutersBumble to Delist in $1.3 Billion Deal With Ithaca Holdings  Bloomberg.com",
+    "published date": "Tue, 13 Oct 2026 14:25:48 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdDZiWmRTVHluang0UmdETEN4MkF6NDBHV3VZUVZzc051RG9QRk9YQ1BWdmYzM3k5cGtsZzgtR000aUNld1VIeUpCRWFJTEpOTlVKb2hFdmpfRmlyNW9FdHlQWlJUa2cxZTJlUzdLa3g0bHJ3WW1keHROcU9sMmFkdlZ1Z3ExYW9GeTluLWdaemVGcUFidWNqNWVHVHEzblRCeTFHcHM3a2x4UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://techcrunch.com",
+      "title": "TechCrunch"
     }
   },
   {
     "title": "SpaceX stock slammed as AI memory trade crumbles in South Korea - Yahoo Finance",
-    "description": "SpaceX stock slammed as AI memory trade crumbles in South Korea  Yahoo FinanceMemory Stocks Extend Slide Following News of Design Breakthrough in China  InvestopediaMicron, Seagate, Western Digital sink as chip sell-off deepens  CNBCChina’s CXMT Claims Memory Breakthrough Ahead of Samsung, Hynix  Bloomberg.comMicron Stock Falls Again as Musk Issues Warning on Chinese Memory Chips  Barron's",
+    "description": "SpaceX stock slammed as AI memory trade crumbles in South Korea  Yahoo FinanceMicron sinks, other memory-linked names dip for a second day  CNBCChina Spooked Memory Stocks. Investors Picked Their Losers.  Yahoo FinanceChina’s CXMT makes progress in chip design pursued by Samsung, SK Hynix  South China Morning PostWhy Micron Stock (MU) Is Falling Today: Musk Flags China Chip Threat  Barron's",
     "published date": "Tue, 13 Oct 2026 15:53:56 GMT",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaXI5WHlmS3pxM0x4UjNHUUhsUjBPZkd3cS14RUg1N3M4RUxZYjM2TjRJWU9PdWk5cW1faS0yVE13MGZjd0xRMWJIOW1kQWRfNmJMeGpjM0d5NDZEZlZHLWlkeS1SU0d4R1BOY19EYV8tWTRLNFpGdjhEcDFZemE2dlRZa1ZRQ3BxVUlub1ZCQWFNX29ZT0ZNTXlSX2pSVWk2UjRSSm5KQzg5cmtLSjFVRlNFeUo4c1VIN25qTjN3Q1BjVU9aTUE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -110,178 +360,38 @@
     }
   },
   {
-    "title": "Stock Market Today: Dow falls 170 points despite strong Goldman Sachs earnings; chip selloff deepens - MarketWatch",
-    "description": "Stock Market Today: Dow falls 170 points despite strong Goldman Sachs earnings; chip selloff deepens  MarketWatchStocks fall after bank earnings deluge; chipmakers slide: Live updates  CNBCThe first big batch of US profit reports for the summer has Wall Street mixed  The Seattle TimesStocks dip on AI jitters, big banks kick off US earnings season  ReutersChip Selloff Rolls On as Big Bank Earnings Begin: Markets Wrap  Bloomberg.com",
-    "published date": "Tue, 13 Oct 2026 16:38:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNY3ZTbU1IQl9LWk1YdG8xYmIwd1Q3UEJXdlRRdnc3RWxRTThUX0g0Tm0xV0I3eFBOeFFBZHVCS2h6YVYya3pROGN3cWJiVWRmRGtPd0txc1pNaW5KeUp2ZlZrZ0FoanJZNjVJR2RXbmc5UklsT0RSNjNjaUdUV1dVdlNKelJVSHI5czh3U1RPbUpoVkpSTzUzQ3lweHQ1cWJxbWxOQ1FiS19fZzh3TkRZS3N3WFBmY3FxSE43cXJ6V240enc4NWV3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Stock Market Today: Stocks Slip Despite Solid Wall Street Results - WSJ",
+    "description": "Stock Market Today: Stocks Slip Despite Solid Wall Street Results  WSJS&P 500 closes near flat after big banks post earnings and memory chip stocks decline: Live updates  CNBCDow snaps 3-day win streak to end lower; chip selloff drags down S&P 500 and Nasdaq  MarketWatchNasdaq ends down as chipmakers fall and bank earnings roll in  ReutersStock market today: Dow, S&P 500, Nasdaq slip as chip stocks fall, earnings roll in  Yahoo Finance",
+    "published date": "Tue, 13 Oct 2026 21:45:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaVpoWEZHOUphdU52VGpZdTFMUUVseXlHQ21JR3RHUUl0QUFMZ25NX3F6cVpweTIya2VnV3F6Szk1TXkweW1LeWlQa1phQ0NLUEtTZHNiaEV5ak5BdEhJU1VESnVZVHhkTFhvSV91bDBBMHYzY0lUazBaejhIbEhabndB?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.marketwatch.com",
-      "title": "MarketWatch"
+      "href": "https://www.wsj.com",
+      "title": "WSJ"
     }
   },
   {
-    "title": "Pending sales drop to lowest level in 12 years - RealEstateNews.com",
-    "description": "Pending sales drop to lowest level in 12 years  RealEstateNews.comPending Home Sales Post Biggest Monthly Drop in More Than Three Years, Redfin Says  Yahoo FinanceUS Existing-Home Sales Edged Up Ahead of Mortgage-Rate Shock  Bloomberg.comUS home sales rose in September, but slowed from a year earlier as mortgage rates, prices rose  AP NewsGold price holding steady as U.S. existing home sales rise 1.5%  Kitco",
-    "published date": "Mon, 12 Oct 2026 19:30:46 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSmIzemhGbWljVlNmcTduMnN5TGJiNGNjYVoxamZ5Z285dXNOQUZHUGE3ZE5IdHVrZFhQRE1SOWprLUVfOHhkNnFuUHU3RW5KdjFpd0NFaS1zVDFkWTBjbWhzSXF3c2dZWWpGVThueS1LUTdIU3lVdkFQZGx0M2Q0WkFHY0hzYV9zSVhMUXhfWlVkQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "'The timing is notable': China lets Visa start preparing to clear bank card payments, weeks before a third Xi-Trump meeting - Fortune",
+    "description": "'The timing is notable': China lets Visa start preparing to clear bank card payments, weeks before a third Xi-Trump meeting  FortuneVisa gets Beijing's green light for bank card business after 40 years of working with China  CNBCVisa Wins Approval to Prepare for China Payments Business  WSJVisa gets approval for China card business ahead of Trump-Xi summit  Financial TimesVisa Receives Clearance to Bring Card Business to China  PYMNTS.com",
+    "published date": "Tue, 13 Oct 2026 14:16:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mamNmLWZPTUtXYk81S2o5eFJmaTRVdkJ5Q1lTaktmN3dfUEd6OVZ4ODlmR0pxa0pOSlBjY2RYQ2ZlRTljczFqMlNHdjdkWnRjQnJoQkVqTnRKUFlMYS12ajZXUnVFTjBVbHZTNmNUT2lGTXJzUE9yZ2ZTZFctZw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.realestatenews.com",
-      "title": "RealEstateNews.com"
+      "href": "https://fortune.com",
+      "title": "Fortune"
     }
   },
   {
-    "title": "Chip Stocks Tumble on A.I. Spending Fears and Rising Chinese Competition - The New York Times",
-    "description": "Chip Stocks Tumble on A.I. Spending Fears and Rising Chinese Competition  The New York TimesSee more headlines & perspectives on Google News",
-    "published date": "Tue, 13 Oct 2026 09:55:10 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSWJ0ZG5rRVhWSUQyclV5TE1zWHpBVmY1SDRRUkRMSUM5RThQVVpsakFsQmw5UG5CV04tMkFGVnhHNW4talZ2bHlxbDVrUGlweGxEcFhzWWwzX21fSTRYUi1PNS1pU1lVczFsOU1vRGF4R3BJUmppXzhfdmJTSThBRFZ3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "BioNTech’s mRNA cancer vaccine fails phase 3 test, significantly denting analysts’ confidence - Fierce Biotech",
+    "description": "BioNTech’s mRNA cancer vaccine fails phase 3 test, significantly denting analysts’ confidence  Fierce BiotechBioNTech stock falls after cancer trial misses key endpoint  Yahoo FinanceBioNTech's mRNA cancer therapy misses first goal in head and neck trial  ReutersTenumomeran/Raplemomeran Plus Pembrolizumab Misses PFS End Point in HPV16+ HNSCC  OncLiveBiontech SE Stock (BNTX) Closed Down by 7.13% on Oct 13: Drivers Behind the Movement  TradingKey",
+    "published date": "Tue, 13 Oct 2026 12:48:17 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaVZuRk1zMFhhQmhFQmZVak0zXzV5NjFfTGtWVGFaYnVJVk1EbG42eGFpaHp1eVNRam4zaHE0aDZ6eHhtcU5MRlBqVXRPc2dWdHdYS3pMOUlaUlBvRXhOcmZrNDExRllBWjZ3Nm1pRTRud3NETzFHOWlmWWc3NTM4YmhoMGcwTkJBYXB2MHNmR0poWWEyRklkWXdONDdZbXhTYXEzalJfRER1TmJ5d1I3M3BUdy02aTMxVWlPbS1PTW9haVpTWGFZ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.nytimes.com",
-      "title": "The New York Times"
-    }
-  },
-  {
-    "title": "Blackstone’s Gray, Fed’s Waller See Warning From France’s Stress - Bloomberg.com",
-    "description": "Blackstone’s Gray, Fed’s Waller See Warning From France’s Stress  Bloomberg.comBlackstone’s Gray Warns European Fiscal Strains Outweigh US Risk  Bloomberg.comBlackstone’s Gray warns European fiscal risks outweigh US woes - Bloomberg News  TradingView",
-    "published date": "Tue, 13 Oct 2026 12:04:26 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaUZOMU9RX0N4a2tKTDZSY2U3dTNEdFd2RHN5Ynd6RFdtVlQ3ajM5SmxLb3h4azBPZ3A4RnhvdW05MHh3UDV2cFN4MHFRbWJBSDBfdFZvaGlJTjFHaEc0MzFoSUdVWllXd2xCRHFlZUJBTDBPNU9oUV9aV0owYXJ6azc0Ujlqd2k0RWhyNEFHcUxuak92RVlEdUQ4SXJfTUtmV015NzN3X1NIckpFMG9LMmRLVHc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.bloomberg.com",
-      "title": "Bloomberg.com"
-    }
-  },
-  {
-    "title": "Starbucks says it is not buying Chipotle following deal speculation - Fox Business",
-    "description": "Starbucks says it is not buying Chipotle following deal speculation  Fox BusinessStarbucks has explored takeover of Chipotle in restaurant megadeal  Financial TimesStarbucks Says It’s Not Buying Chipotle, Dousing Deal Rumors  Bloomberg.comA Starbucks-Chipotle deal would be a high-stakes bet on Brian Niccol’s magic touch  Business InsiderWas a Starbucks buyout of Chipotle even possible?  Restaurant Dive",
-    "published date": "Mon, 12 Oct 2026 20:12:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR005RlYyc2ZRR0NITUlRbDJ2aEVSWWlqSDVKM0RqM054dTBiaEo4Y0ZMeXVRd0pJTWZFNjNSVXJQbmJCRHJCdFBHd3RQbEJDaEgxbEVVM25uX3IyNlU3VktLeHI2RUh1QUVaTGdzc0E2UmpIdmZUNzRwWlVPUDJEa2pRNmpiWUl5T1NfeWpJcFVORnBpVFVaV3oxZGzSAaIBQVVfeXFMTjQ2UU5zeGtJU2RkME5WRGNzTWEwTEJxem93SW9Hbk85T3F4alR3Ympud2l3emxYdElMbndwZDJHbG82b0tJb1ltSjZMMk43b3lZbVphNzYyMmU2NVc5RXlzazl1YzBtUWYxQUpia0dnNnNJVUE5Mlpid1cxLTdTbW8tMXpKUTB2emRvOUJjci1WTktJLVpxX1FTeTN0eEJkWXp3?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.foxbusiness.com",
-      "title": "Fox Business"
-    }
-  },
-  {
-    "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy - TechCrunch",
-    "description": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy  TechCrunchCharacter.AI files for bankruptcy, to sell some assets to Disney for $20 million  ReutersCharacter.ai Maker Files for Chapter 11 Bankruptcy  WSJAI companion startup Character.ai files for Chapter 11 bankruptcy, citing costs and litigation  CNBCCharacter.ai files for bankruptcy following lawsuits alleging ties to teen suicides | CNN Business  CNN",
-    "published date": "Tue, 13 Oct 2026 12:23:42 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTTc2Z2lUZjIzemFoczkxQWJZSXlzS1FRR2VUSEQtUVBsSXRsYXRRbEI1M3VBVWphc0R4eGdJY3VfSHR1eXN0QnZXa2dYeGlmOS1qcTUzeE1VdXB0YWY1cVIzV04tLS1FRlZhd0I0QTVGY3FMNGxTM1hBSllGQ1dsQU1KS1pLOW1UellyaUw1U182YWg1dU1fQThfLUQwWkwzRWotSlB0UmRSa1FIcjVHbWZTMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://techcrunch.com",
-      "title": "TechCrunch"
-    }
-  },
-  {
-    "title": "Google finally releases Gemini 4 Argon - The Verge",
-    "description": "Google finally releases Gemini 4 Argon  The VergeGemini 4 Argon: Built to solve your hardest problems  blog.googleGoogle launches flagship AI model Gemini 4 Argon for developers, businesses  ReutersGemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay  Ars TechnicaGemini app rolling out Gemini 4 Argon to AI Pro and AI Ultra  9to5Google",
-    "published date": "Tue, 13 Oct 2026 16:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOek9PSlphLTlDOW9VR3VFeXlQdG5NNlprQVcteFg2RFZiVEtSamRFZWFWeGhyNkdONHBrUFBsY3VBcEc5ekR3VTVmQzFNaWtFbWx2WWIySmVxRDRnVHgtX2RRd29BM0NhODhlaXlubUhLUk1kSUFwd2RjRFRDTmxqVGVPZ1ZCMFduT0tER0pWekZlMWdU?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theverge.com",
-      "title": "The Verge"
-    }
-  },
-  {
-    "title": "Bumble swipes right on $1.3 billion go-private deal amid online dating industry reset - Reuters",
-    "description": "Bumble swipes right on $1.3 billion go-private deal amid online dating industry reset  ReutersExclusive | Dating-App Company Bumble in Advanced Talks to Go Private at $1 Billion Valuation  WSJAustin-based Bumble closes deal to sell for $1.3B  Dallas NewsBumble shares soar after report dating firm in $1bn takeover talks  BBCBumble agrees to a $1.3B acquisition deal as online dating faces a reset  TechCrunch",
-    "published date": "Tue, 13 Oct 2026 16:17:02 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUWdqT0RjejJkVkRMa3B2MHFQSDJsRmgzOXZRalc5cGlqSWNlX0s5S3lyUjhobXB6VTFETGk3ZndzeHhwNFQwMGxUQ2pBOE03eUg1a05sWC1DRVBvRmJWSmpnaEJEUnJSSEdYY3RHSklEZFptcUZLWGF3VkRYSUQxRFFCRUxxRDg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.reuters.com",
-      "title": "Reuters"
-    }
-  },
-  {
-    "title": "Paul Tudor Jones says 2027 could be a really challenging year for the stock market - CNBC",
-    "description": "Paul Tudor Jones says 2027 could be a really challenging year for the stock market  CNBCPaul Tudor Jones is bullish on oil, says it could rally another $20-$25 because of Iran conflict  CNBC2027 has the ‘most negative flow picture’ for equities since 2002 – Paul Tudor Jones (SP500:)  Seeking AlphaBillionaire investor Paul Tudor Jones warns the US stock market is facing its most challenging year since 2002  Business InsiderPaul Tudor Jones Sees AI Spending, Debt Pushing Markets To Breaking Point: ‘60-40 We’re Down That Path’  TradingView",
-    "published date": "Tue, 13 Oct 2026 12:40:16 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOWJtYzA4SkFobVRHU0EzQ04tRmVrTkJ4NlVnSEx3djE3cVczaXdmcTFUUVNzbnJrWmRJeEF4NVlpT3lwNkFYOXNMRlVRY1ZFc0tLZmlkSXpnaXJ3TmdERUNwSGRmWlFtRlMwQkxvMmV1ck5aM2c1el9FMzFkUk5LcWhxM1JTQ3VCUmfSAY8BQVVfeXFMUHF6Q1lNTzFBMHB4dWcyZjlPYkYyR0hENE9jY2p1ZzNxNWQ5WUNEWGhFSTZCZWJuRDFoWjNXQl95Ukxxb0N1T1ZFZXNHUnVObll4RGxiN3ZjX09RMkJOdHpWaVhJS3cwZlZRSlY0aFBtVlJJZkYwb3F4cDdsckExZHRya1F6aVh0bXZfbWl6WGM?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cnbc.com",
-      "title": "CNBC"
-    }
-  },
-  {
-    "title": "'Brutal session' for chip stocks shows AI trade is turning - Reuters",
-    "description": "'Brutal session' for chip stocks shows AI trade is turning  ReutersThe AI trade is cracking. Here's how to profit  CNBCMorning Bid: Chips off the table  Yahoo FinanceAI fatigue is gripping the market and driving chip stocks toward their worst stretch in 16 months  MarketWatchTech Stocks: Cracks Are Starting to Appear in the AI Trade  Bloomberg.com",
-    "published date": "Tue, 13 Oct 2026 16:15:43 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM1RJWWJHTmtIMnhaYWVyeFFpYV8wZndZMUFOVXM2NkpJdUNfRGlyQzdHeVcwMXkxcXkyWFFZQ3hXS3RpM0NqZUtNcmxNd3NkSGZETmlvTjRRYjJ3X3BXa0FEamh0NDExSTZieGRHam9BdFBiZXdOcTBSUXRPNlFEeTVKOEtkN3JiV25QUEsyekp0OTJRaU5nVA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.reuters.com",
-      "title": "Reuters"
-    }
-  },
-  {
-    "title": "Anthropic warns rogue AI agents may ‘self-replicate’ to hijack ovens - Financial Times",
-    "description": "Anthropic warns rogue AI agents may ‘self-replicate’ to hijack ovens  Financial TimesAI models may soon self-replicate across smart-home devices, Anthropic warns  ReutersAnthropic says small AI models could soon be able to copy themselves onto everyday devices  Fortune\"AI worms\" may soon be able to self-replicate and infect smart devices, Anthropic says  CBS NewsAnthropic warns AI models could soon copy themselves across home devices  CNBC",
-    "published date": "Tue, 13 Oct 2026 10:11:23 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYVdrSG5aLUJNY3BCQ3F1SV9TQXMwV04wM3V1ZnNnYTFHQVRZTFJHMHduMllELUVFWHNZV0t5UnlrWm9hVEJSdVA0X3phRjNfVWp0UHJ6eGVjb1N3aUJERG45LUVYaVNrTk0wVzI5VHo0eHhNdEU0dmdkbk9HTEhwMExxeWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ft.com",
-      "title": "Financial Times"
-    }
-  },
-  {
-    "title": "Energy prices rise after Trump’s ‘energy ceasefire’ fails to move Russia or Ukraine - NBC News",
-    "description": "Energy prices rise after Trump’s ‘energy ceasefire’ fails to move Russia or Ukraine  NBC NewsOil prices ease as US-Russia diesel deal hopes offset Middle East attacks  ReutersOil prices fall as traders assess Russian diesel supply prospects and Saudi-Houthi conflict  CNBCIf the Strait of Hormuz is open, why are gas and diesel so expensive?  CNNOil rises as Saudi Arabia vows resonse to attacks  Yahoo Finance",
-    "published date": "Mon, 12 Oct 2026 21:42:27 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTGFrRDRZWWhPUnEtNVNhbnBFZFc4cS00MmhuZC1hZDJzc0dROWpwU18waGpMY1hRNWFGS19LZXNUc0ZhSUgwRDUyR0hnaHhHRkRZbXRXVlN0YUU2MzVTbVo1cVBESFgyQUdfQUs5d201TUJ6YW56NVB3aDVLazNnZUlLdHowVHpPLUI5MFk4Tk9yMkFR?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.nbcnews.com",
-      "title": "NBC News"
-    }
-  },
-  {
-    "title": "JPMorgan profit misses analyst estimates as Jamie Dimon warns economic forces 'shift under the surface' - Yahoo Finance",
-    "description": "JPMorgan profit misses analyst estimates as Jamie Dimon warns economic forces 'shift under the surface'  Yahoo FinanceJPMorgan's earnings miss, Delta delays Riyadh route, McDonald's chicken plans and more in Morning Squawk  CNBCJPMorgan Posts Surprise Drop in Fixed-Income Trading Revenue  Bloomberg.comJPMorgan profit misses estimates as fixed-income trading revenue disappoints  Investing.comJPMorgan posts rare profit miss as dealmaking, bond trading lose momentum  Reuters",
-    "published date": "Tue, 13 Oct 2026 15:42:56 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTmR0OXdsZUNtZTNkbFJURF92ZDlLcUMyYlgwOTlNM1haRUxaanEzUldWekt6VVVFQjRhQlByQ0tJdlBQZU5pYl9wUklrUktkUk5jamRtT3VtTVd6ZmxRZWpHMTFEM2huMHBxR1E0RzZNRmRrNzduQXdhR05oYW1wQllCa0cwcllwTGVhUVZKeU9xNGFwVnlsTFFyZ2dHYUY5OUtkTG5BOE9HWFh1NVNEc183UnZsQ1RuYWJiN2J6QUM4Y0tVLUpvcVp3MC02ZmhZaFRITVJwa002NEwxNmRyMzdvNWFvTnZ5S3Yxd2I4QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://finance.yahoo.com",
-      "title": "Yahoo Finance"
-    }
-  },
-  {
-    "title": "After $10.9B exit to AbbVie, Apogee execs join Paragon to scale its R&D, company creation engine - Endpoints News",
-    "description": "After $10.9B exit to AbbVie, Apogee execs join Paragon to scale its R&D, company creation engine  Endpoints NewsBiotech builder Paragon imports Apogee's top brass after AbbVie buyout  Fierce BiotechParagon Labs Expands Leadership Team with Former Apogee Executives; Velaris Therapeutics Acquired by Alaunos Therapeutics, Inc.  PR NewswireAlaunos Acquires Velaris and Secures Major Financing  TipRanksParagon Labs adds former Apogee executives to leadership team By Investing.com  Investing.com Canada",
-    "published date": "Tue, 13 Oct 2026 11:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYzVqanhESTZ6NnFTVV9HM3pyR0dxenlZb1g4S0tqMzVxbUVDbkQzclBGTmFqVC1Fb01iWWpRbTFfa1VsNTNjbEhFY0VoOWVKbHhBU3Y5WXotbmVkeFlEOVFjeWlGQXd3dFo3R0pmQkwxS3JLOFRFUjIxaVAtQ1RONFBKdm1xRmJuOW94WTRxY2hYQ0k?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://endpoints.news",
-      "title": "Endpoints News"
-    }
-  },
-  {
-    "title": "Europeans Have a Love-Hate Relationship With Chinese Cars - The New York Times",
-    "description": "Europeans Have a Love-Hate Relationship With Chinese Cars  The New York TimesVolkswagen, Stellantis show EV confidence, with lessons from China  ReutersHits from the Paris auto show  Automotive NewsEU Deal Hastens Need for BYD, Chery to Build Chinese Cars in Europe  Bloomberg.com6 Coolest Debuts at the 2026 Paris Motor Show  Edmunds",
-    "published date": "Mon, 12 Oct 2026 16:26:06 GMT",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHZFpIby1zSkRQcnBZcTBJb0thVWJCeGlVa3RGN1liZXE1VVJWVmJad0FDbFpncG1RRzU3NHNfSG5HVUQ4aTJ2OE1OOGVaT2xsU3FJaExLenc5Sk94RlVoUFlPblNQcjRQTGE0eURuZVJSa1lhSElZM1RtVmR5UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.nytimes.com",
-      "title": "The New York Times"
-    }
-  },
-  {
-    "title": "FERC rejects most of PJM’s large load interconnection plan - Utility Dive",
-    "description": "FERC rejects most of PJM’s large load interconnection plan  Utility DiveUS panel approves PJM's registry of data centers, rejects plan to curtail power to them  ReutersFERC rejects most of PJM's temporary curtailment plan to manage data centers (XLU:NYSEARCA)  Seeking AlphaDOE presses PJM on ratepayer protections from large load costs  Utility DiveWhy PJM’s Proposed Backstop Auction Is a Bad Idea  RTO Insider",
-    "published date": "Mon, 12 Oct 2026 15:54:45 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRFExeTdFSGU2b2UxbWt2UVVZR0RoXzJ3aDNqLXlheElJOEJiZTlrV1hVTnhjOGRKZ1dCOW5DeThQbW96YUduaFNfRFNoenN5S25icTF6U09OLUJ4RnE4Wi1hRjJrMGNQeFN3aWRiV20tU0o3SnYydm9SZGw0T2hueVFXSkoyTFlldEtqM3FzU2Q?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.utilitydive.com",
-      "title": "Utility Dive"
-    }
-  },
-  {
-    "title": "Social Security commissioner predicts program will last ‘for another 90 years’ - The Hill",
-    "description": "Social Security commissioner predicts program will last ‘for another 90 years’  The HillHere’s how much extra money could be in your monthly Social Security check next year  MarketWatchCOLA announcement: Social Security a day away from major benefits update  NJ.comSocial Security chief says program will last another 90 years  Spectrum NewsCost-of-living adjustment to be revealed in days. What forecasters say  Detroit Free Press",
-    "published date": "Mon, 12 Oct 2026 16:07:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU2traTFsNGZyZVc5clM2ZTBaOVBoRFJNRmhfUWt3S013TEZkdDJCakVOZS1EMHg2RzJEdUc4N19neWZoNldVdm1wdEdZcFhoNGYxT1J6SXpqRENRWTM0WFFYQnY4Z0VyRngxOW9xMGxtQ2FzRXc0QmQzU25uN0VpQjFJeEd5cms5bVJfdHlqa2EzUdIBlwFBVV95cUxOclVMYWFXRG9ab1BIRE5WVVo2ejZRQlNrMG1MUnEzNnJ3dFFLQWQ3LVJYRjF1VXhkQWNBcXJXNW9kZ2dSck5QaGMzcXVTNEIwXy0yVGFEbm1UcVZxQ1hTTG1ibEU2ZXBvWWkwcHhXYlgyZHdpZWhrbndZRzVJakg3RXQzVmpJdlF3YU43MTE4ZUZZUW1Rdk5J?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://thehill.com",
-      "title": "The Hill"
+      "href": "https://www.fiercebiotech.com",
+      "title": "Fierce Biotech"
     }
   },
   {
     "title": "Romance scammers are getting harder to catch. The consequences are costly. - NBC News",
-    "description": "Romance scammers are getting harder to catch. The consequences are costly.  NBC News‘She lost a lot of money. She almost lost her house’ — how an AI scammer tricked one woman into believing she was dating Jon Bon Jovi for a year  TechRadarRomance Scam: The Ultimate Guide  CybernewsPeople hoping to find love online urged to remain cautious after spate of romance scams  Yahoo News UKNat Geo journalist goes undercover to investigate romance scams in new documentary  ThePrint",
+    "description": "Romance scammers are getting harder to catch. The consequences are costly.  NBC News‘She lost a lot of money. She almost lost her house’ — how an AI scammer tricked one woman into believing she was dating Jon Bon Jovi for a year  TechRadarTinder hadn't updated most AI scam detection models in years, Senate report finds  MashablePeople hoping to find love online urged to remain cautious after spate of romance scams  Yahoo News UKJournalist goes undercover to investigate 'romance scams'  Central Oregon Daily",
     "published date": "Tue, 13 Oct 2026 14:27:17 GMT",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY0kyT1VfVnFPOW5iZEJlZWRIaDVpdW9XMmttRjByRHRSNWZWZDBrSVh1ZGRsRTdERGN4MzlvSjZSeFBLU19oNFU5ZUJoc2lNdm9vVVZyODd5NUpsek9EUHhXVzRhOTBQd1YzelZJak5BZnNtdWNKZDRZTkVXQXV3ZmdxYVpGZmJzRmd0SlF4V2pKTTZBaHRlUjA2R2RBbXlHV3BYdTNEUkZKakhPNTlRX3JDOA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -290,38 +400,8 @@
     }
   },
   {
-    "title": "These are the top breweries of 2026, per Great American Beer Festival awards - WGN-TV",
-    "description": "These are the top breweries of 2026, per Great American Beer Festival awards  WGN-TVOregon claimed 10% of all medals at America's biggest beer contest — see the full list of winners  OregonLive.comHere Are the Nation’s Best Beers and Ciders of 2026  Brewers AssociationThis Cheshire brewery just won 3 medals at a national beer contest  CT InsiderPair of Bellingham breweries score awards at Great American Beer Festival  My Bellingham Now",
-    "published date": "Mon, 12 Oct 2026 14:57:48 GMT",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTVZpZUVuNmxUbFBwWFMxa0JONXVtaERGRmIxNFd2TmNHLTJSaVp2QkttNTFzdkJIZG1UT0g4YXkxUG9ydEVZc1Qzb1BJRFIzTnRJVS1sOENGNjJ5WXh0NE5MU0owSVlEU0l1OVRzbUNRLVhzWWNfOGo2YmdnSDQzT2EtQ2FLR1A1alRmMXVuOXgtMEhOWXVHY3Z3WVBoNy0t0gGmAUFVX3lxTFB6UThuZW9DNEc2QWduLWloNkt1d2ZvRElNWkxXWnY1U2E4MWFRVGZtOXhKdnJpbXUxTWZVVDZTMFQ2aGF4NzFtUzMxVi1DRzdUVGFfbVkzWEhnUkFqZWlmbVZLRDVmVEVqcGwxb2VsQ2o2SWtqN1NHamhSQWZISlpXb05qeFJUd0NOajNWRkhsS2VvRWdHR0xjX1lVdm5lWGtmRUJkdnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://wgntv.com",
-      "title": "WGN-TV"
-    }
-  },
-  {
-    "title": "Are banks, the USPS and stock market open on Columbus Day? Here is what to know. - CBS News",
-    "description": "Are banks, the USPS and stock market open on Columbus Day? Here is what to know.  CBS NewsIs the Stock Market Open Today? Here Are the Trading Hours for Columbus Day.  Barron'sSchools, stock market and more: What's closed on Columbus Day, Indigenous Peoples Day  NBC 5 ChicagoThere’s no mail on Monday as USPS observes federal holiday  KTLAWhat's open and closed on Columbus Day 2026 in Connecticut?  CT Insider",
-    "published date": "Mon, 12 Oct 2026 13:08:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ0E5RlVGYU1zbUlHVEVCWTZRSjRWSmVtUVdrVUtEVmVpWHVwZERRU3JMOEFqQnM4RENoWTNFbVhVMGUwY09qTXZEZGFieXJRdE1tcnJMX0NyYXRrVnp4OEk5bVBWb3BMX2J2NEo5dldud181Uy1EOGRjTXNpYTFLMkQzb051MG9HSV9lNVlMZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cbsnews.com",
-      "title": "CBS News"
-    }
-  },
-  {
-    "title": "Bill Gates says some jobs should be reserved for humans - TheStreet",
-    "description": "Bill Gates says some jobs should be reserved for humans  TheStreetBill Gates: Technology is a world in need of governance  Vatican NewsBill Gates warns cyberattacks most imminent AI threat  France 24Bill Gates to OpenAI CEO Sam Altman, who says AI fears sound like \"bad science fiction\": All responsible AI leaders, including you, are telling the world...  The Times of IndiaBill Gates reveals most imminent threat from AI  The Independent",
-    "published date": "Mon, 12 Oct 2026 22:03:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMHJZWjdCaHE0N1pPdWNuVzVGYVNCN2NOTXA5R0R6YmJHSndUbE56RkxYZDNWMHFsSF84b2ZPN1FENTBJU0RsaGk1V3dMUEloV0Z1bnBhbVB0bm9Wekxfd1VwRFB0UlRRa1VPbHNzblZqTDFUa01kYVZuX3ZMWFFnYnZQR3lVT21XbFpTaHFuN0kwQmFpSmhV?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.thestreet.com",
-      "title": "TheStreet"
-    }
-  },
-  {
     "title": "Meta has reached AI ‘frontier,’ Zuckerberg says - Semafor",
-    "description": "Meta has reached AI ‘frontier,’ Zuckerberg says  SemaforMeta Unveils New Series of Advanced A.I. Models  The New York TimesIntroducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents  FacebookMark Zuckerberg says Meta has reached AI ‘frontier’  Financial TimesMeta debuts Muse Wonder AI model in latest test of users' willingness to pay  CNBC",
+    "description": "Meta has reached AI ‘frontier,’ Zuckerberg says  SemaforMeta Unveils New Series of Advanced A.I. Models  The New York TimesMeta stock rises on Muse Wonder AI model family launch  QuartzIntroducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents  FacebookMeta is betting the house on AI — CFO warns the stakes are 'really bad' if it flops  Yahoo Finance",
     "published date": "Mon, 12 Oct 2026 22:35:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTnNWZnV6WDBTOWtuYlZlQkxFbFA5WHBJMzF0SHNxelBmYTZlczRaVldOU3ZWdWMySkg4NE40YjBZTTdIdGNEV2ZST0RhVkdNYS15ZC1PQktZdHFpNkxQNjRRZUcwei0yLXpLVXdQTVRHVFlVWGU0cGp0amhNaWFGcUw4ZDBhbE1LME5mWnNLWFo?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -330,63 +410,133 @@
     }
   },
   {
-    "title": "Can you sue over targeted ads? 'Blockbuster' Supreme Court case to decide - USA Today",
-    "description": "Can you sue over targeted ads? 'Blockbuster' Supreme Court case to decide  USA TodayCourt to hear argument on how a video privacy law applies in the internet age  SCOTUSblogA New Supreme Court Case Tests the Limits of Judicial Deference to Federal Agencies  Reason MagazineSupreme Court to Consider Deference to Sentencing 'Commentary'  Law.comCan Agency Commentary Increase Your Prison Sentence?  New Civil Liberties Alliance",
-    "published date": "Tue, 13 Oct 2026 13:08:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb2U2YlBzWFF6d1dwbDNBNjZTNUNsRW5wOHJlYkF4ZUhHQlJoRkdtOHAzZ3h6NjlGOHcwcUt6TDFja2NqWEpaS29PSWVpbmtvTmJtT2xmMVlWUUVjbmluX1pnek9QVnd4OTV0Vnh0WUpkeUFtT01fcGI0WW9wMDJJQjJKSjVjY3A3bFF6MnZ4dzZUZFlOWWpzRWJkXzNtTnU3Z3hMSF9CTU1ROVdwYWJla21jVUxwc255V3RoTWV3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Mapping Africa’s energy wealth and 560 million who remain without power - Al Jazeera",
+    "description": "Mapping Africa’s energy wealth and 560 million who remain without power  Al JazeeraSee more headlines & perspectives on Google News",
+    "published date": "Tue, 13 Oct 2026 08:32:46 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOakZGem1WVVVSWUlxYTJueWlMbWZfUDFFanhMVFhlbzZPdEUwenc1cHVQb0xGWmtGZ2Z5cndrOTluTlhvb3JHV1hqcExUd3ZxUHhNR1dTX3dfbXdacnNTMmVlSUhUTlBEV2hPUmFsbFd3Q010NndVMENreXk2TVRCM3dOY2J5N0gwNUJiR2UwbkFjNENCOWR5cU9wTUFEaC1YX1dLOGVpdWNURWRNM1dxeDJR0gG3AUFVX3lxTE5Wb3BudXoxR1VfUDZ1aTZpTzhmSk14YWJ0OTY2dTg3LVF5TVl4WG40NnBBRnhBcWdMbGFkbjBvN3l3N0QzN09LeDlmX2otZHVQYTVrckw5Y3BOajZ1U2RGREV3VmJDOEY4MHB0SFpHWUdFWG5TbWRhRW1EQ20zbzBOMlJOVmlYX2FQZFVCaElTZjl4UVVwV0JhOFMyb0FCNHpOeXFKeTYwZXdmV0JhUW04Sk40T0lzNA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.usatoday.com",
-      "title": "USA Today"
+      "href": "https://www.aljazeera.com",
+      "title": "Al Jazeera"
     }
   },
   {
-    "title": "Hollywood Burbank Airport’s New Terminal Opens to Travelers Tuesday - Pasadena Now",
-    "description": "Hollywood Burbank Airport’s New Terminal Opens to Travelers Tuesday  Pasadena NowHollywood Burbank Airport opens new $1.3 billion terminal  KTLARIP Hollywood Burbank Airport of yore, the last easy airport  SFGATEFinal flights depart from Hollywood Burbank Airport ahead of new terminal's grand opening  CBS NewsNew Hollywood Burbank Airport terminal will open to passengers Tuesday  Los Angeles Daily News",
-    "published date": "Mon, 12 Oct 2026 13:27:26 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNnNncFVTUE1WU1NkUFhFZWd6MDFvRFl0RGxibGMyM0M0RHBKTTB6a0FCcDktOXNFLWlDQzBuai1tdXQ2M0xVdVBNRVRXY3pMVkhIRlB3MGFrZ0ZRbW1RNkl5TnJaT3FGeWtGVUZURDJIeklkOW54RzBtN3RhaS1sZlFObDc3MHd4WXBrcjFuTlRVcnozcHgwTGJzZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Mortgage Shock Sends US Pending Home Sales to Near 12-Year Low - Bloomberg.com",
+    "description": "Mortgage Shock Sends US Pending Home Sales to Near 12-Year Low  Bloomberg.comUS existing home sales rise in September; higher mortgage rates dim outlook  ReutersUS house sales drop to 12 year lows as borrowing costs spike  SemaforGold price holding steady as U.S. existing home sales rise 1.5%  KitcoHigher mortgage rates keep home sales stuck around year-to-date lows  Yahoo Finance",
+    "published date": "Mon, 12 Oct 2026 18:26:41 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMWU4cUM4ejRkaE5mZ19nREdJUjUxSlNUY2F3YVJteUJqUG5BNWVGSThSU2p6V3ROZmc3dktmVmd6enRTbUFVLUNzOW9JdXhrNzh6MV9WNjNHUUc1LWhTQ0tGV3Q5NVNlQmx2eDdNVTVPUXhNc1ZkV0FTTlEzRWNwTnd1d2NnM3FRdDB2VTE1VGhabE8tbHprM1ozU2t3Q0t6bjhKZjMtT0Z6bWNxWTJBbS1WQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://pasadenanow.com",
-      "title": "Pasadena Now"
+      "href": "https://www.bloomberg.com",
+      "title": "Bloomberg.com"
     }
   },
   {
-    "title": "Delta Delays Plans for Nonstop Service to Saudi Arabia - WSJ",
-    "description": "Delta Delays Plans for Nonstop Service to Saudi Arabia  WSJDelta delays debut of Saudi Arabia service until March after Riyadh airport attacks  CNBCDelta pushes back Atlanta-Riyadh service after Riyadh airport attacks  ReutersDelta Delays Nonstop Service to Saudi Arabia Amid Conflict  Bloomberg.comDelta Air Lines will exit entire market until March 2027  TheStreet",
-    "published date": "Mon, 12 Oct 2026 16:20:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcUpDNTlqWURTTW01eGNpZWZFOUNEWDFlcTVheDA3QUpyR3lxUkNyRG0wMnBqM2NOcFMxVkJuQW9qRDFLNlFYUWk1TUloVUpDUTEzTkFTOTNHWk1Ub0t3MjZORHdaaExPaXlZTjF1NTZOS2pWa2UyT1NoNG82cndzNVJ6ZnVUbDRILXR1T25oRVo3a3AtU016cXpuMXVwZ0pISWUw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "FERC rejects most of PJM’s large load interconnection plan - Utility Dive",
+    "description": "FERC rejects most of PJM’s large load interconnection plan  Utility DiveFederal energy regulators shoot down grid operator’s plan to cut power to data centers during shortfalls  The HillFeds reject parts of plan aimed at protecting Chicago electricity customers  FOX 32 ChicagoFERC rejects most of PJM's temporary curtailment plan to manage data centers (XLU:NYSEARCA)  Seeking AlphaUS panel approves PJM's registry of data centers, rejects plan to curtail power to them  Reuters",
+    "published date": "Mon, 12 Oct 2026 15:54:45 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRFExeTdFSGU2b2UxbWt2UVVZR0RoXzJ3aDNqLXlheElJOEJiZTlrV1hVTnhjOGRKZ1dCOW5DeThQbW96YUduaFNfRFNoenN5S25icTF6U09OLUJ4RnE4Wi1hRjJrMGNQeFN3aWRiV20tU0o3SnYydm9SZGw0T2hueVFXSkoyTFlldEtqM3FzU2Q?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.utilitydive.com",
+      "title": "Utility Dive"
+    }
+  },
+  {
+    "title": "After $10.9B exit to AbbVie, Apogee execs join Paragon to scale its R&D, company creation engine - Endpoints News",
+    "description": "After $10.9B exit to AbbVie, Apogee execs join Paragon to scale its R&D, company creation engine  Endpoints NewsBiotech builder Paragon imports Apogee's top brass after AbbVie buyout  Fierce BiotechParagon Labs Expands Leadership Team with Former Apogee Executives; Velaris Therapeutics Acquired by Alaunos Therapeutics, Inc.  PR NewswireThree Small-Caps Put Big Numbers On The Tape Tuesday  FinimizeAlaunos Therapeutics lands $350M private placement led by Fairmount  Dealroom",
+    "published date": "Tue, 13 Oct 2026 11:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYzVqanhESTZ6NnFTVV9HM3pyR0dxenlZb1g4S0tqMzVxbUVDbkQzclBGTmFqVC1Fb01iWWpRbTFfa1VsNTNjbEhFY0VoOWVKbHhBU3Y5WXotbmVkeFlEOVFjeWlGQXd3dFo3R0pmQkwxS3JLOFRFUjIxaVAtQ1RONFBKdm1xRmJuOW94WTRxY2hYQ0k?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://endpoints.news",
+      "title": "Endpoints News"
+    }
+  },
+  {
+    "title": "Oil Climbs as Fighting Flares in Middle East, Ukraine - WSJ",
+    "description": "Oil Climbs as Fighting Flares in Middle East, Ukraine  WSJS&P 500, Nasdaq Slip as Oil Rises on Russia Strikes in Ukraine  WSJUpdate: US Equity Indexes Mixed as Mega-Cap Tech Names Weighed, Strikes on Ukraine Energy Assets Weaken Energy-Ceasefire Claims  Yahoo FinanceExxon, Oil Giants Top Buy Points After Deadly Saudi Airport Attacks  Investor's Business DailyCOMMENTARY: Trading Day: Fog of war  Reuters",
+    "published date": "Mon, 12 Oct 2026 20:15:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2VNZDJQX0Z6SW1YbzFBdHlvYmtlVzdPZEcxRjRwWjVDZWJsRUNfdENWUWFjT29TVmdPSVVFc0JfVTQ2ZDZZUV9GTU05N3BBTWxwd0NOZE0zQlRzOFVyYWhoWWNyT3ZQejlzWGxQLVpiTXRPdjJKMk1lYXNMZTRkX19TMDJxZkpJU2xObzJ6SlpUbFdBNThySFhvMEs?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.wsj.com",
       "title": "WSJ"
     }
   },
   {
-    "title": "PJM Issues Maximum Generation Alert for Oct. 13, Extends Capacity Advisory to Oct. 14 - PJM Inside Lines",
-    "description": "PJM Issues Maximum Generation Alert for Oct. 13, Extends Capacity Advisory to Oct. 14  PJM Inside LinesCould Washington DC-area residents lose power during grid emergency?  USA TodayU.S. Department of Energy Issues Power Grid Emergency Across 13 States  Eagle Country 99.3DOE Authorizes Emergency Data Center Power  the Electrical Distributor magazineLargest US Grid Operator PJM Triggers ‘Maximum Gen Alert’ as DOE Issues Emergency Order to Maintain Reliability  TD World",
-    "published date": "Mon, 12 Oct 2026 15:30:04 GMT",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4eXhOZnNrTTJ2a2FyMU51TWtSeWNuUm5pdl9Ick51c2Z5aWRDUmRDOHp3SER5ZDlBSzhIZDRJWHRMTkVkYkNLQTNPV0FxTDA5Z0tWejVrcEM3dDV1UW44Z0Y2aGtYeE9KUFgyd3lmT1h3MVJIVVdJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Paul Tudor Jones says 2027 could be a really challenging year for the stock market - CNBC",
+    "description": "Paul Tudor Jones says 2027 could be a really challenging year for the stock market  CNBC2027 has the ‘most negative flow picture’ for equities since 2002 – Paul Tudor Jones (SP500:)  Seeking AlphaHedge-fund legend Paul Tudor Jones says the stock market faces a really challenging 2027. Here’s why.  MarketWatchPaul Tudor Jones Sees AI Spending, Debt Pushing Markets To Breaking Point: ‘60-40 We’re Down That Path’  TradingView2027 may see the worst US stock flows since 200...  Pluang",
+    "published date": "Tue, 13 Oct 2026 12:40:16 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOWJtYzA4SkFobVRHU0EzQ04tRmVrTkJ4NlVnSEx3djE3cVczaXdmcTFUUVNzbnJrWmRJeEF4NVlpT3lwNkFYOXNMRlVRY1ZFc0tLZmlkSXpnaXJ3TmdERUNwSGRmWlFtRlMwQkxvMmV1ck5aM2c1el9FMzFkUk5LcWhxM1JTQ3VCUmfSAY8BQVVfeXFMUHF6Q1lNTzFBMHB4dWcyZjlPYkYyR0hENE9jY2p1ZzNxNWQ5WUNEWGhFSTZCZWJuRDFoWjNXQl95Ukxxb0N1T1ZFZXNHUnVObll4RGxiN3ZjX09RMkJOdHpWaVhJS3cwZlZRSlY0aFBtVlJJZkYwb3F4cDdsckExZHRya1F6aVh0bXZfbWl6WGM?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://insidelines.pjm.com",
-      "title": "PJM Inside Lines"
+      "href": "https://www.cnbc.com",
+      "title": "CNBC"
     }
   },
   {
-    "title": "‘Security Issue’ Reported at Ahold Delhaize - Progressive Grocer",
-    "description": "‘Security Issue’ Reported at Ahold Delhaize  Progressive GrocerAhold Delhaize takes precautionary measures following cybersecurity incident  Ahold DelhaizeHannaford app goes dark: Parent company shuts down systems after hack  WGMEStop & Shop, Hannaford, Giant Food grocery sites offline after parent company experiences cyber incident  The Boston GlobeStop & Shop website, app go offline after network security issue, stores stay open  WCVB",
-    "published date": "Mon, 12 Oct 2026 12:15:36 GMT",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9LemEzMHhTbDZRa1RyUkhSekR3WHVwTURadjdHT1dyQi1GR1BtZnkzOU52RlRBLUJ5enBDeVpTRTlaNnplNlZCekpYckRVS05LSmoxVXdQYkhreGFjYnREa3N6QjhsS19VSWZuaEhwSjIwcXFtcGNZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Energy prices rise after Trump’s ‘energy ceasefire’ fails to move Russia or Ukraine - NBC News",
+    "description": "Energy prices rise after Trump’s ‘energy ceasefire’ fails to move Russia or Ukraine  NBC NewsOil prices settle mixed, focus on US-Russia diesel deal, Saudi Yemen attacks  ReutersOil prices little changed as traders assess Russian diesel supply prospects and Saudi-Houthi conflict  CNBCIf the Strait of Hormuz is open, why are gas and diesel so expensive?  CNNOil rises as Saudi Arabia vows resonse to attacks  Yahoo Finance",
+    "published date": "Mon, 12 Oct 2026 21:42:27 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTGFrRDRZWWhPUnEtNVNhbnBFZFc4cS00MmhuZC1hZDJzc0dROWpwU18waGpMY1hRNWFGS19LZXNUc0ZhSUgwRDUyR0hnaHhHRkRZbXRXVlN0YUU2MzVTbVo1cVBESFgyQUdfQUs5d201TUJ6YW56NVB3aDVLazNnZUlLdHowVHpPLUI5MFk4Tk9yMkFR?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://progressivegrocer.com",
-      "title": "Progressive Grocer"
+      "href": "https://www.nbcnews.com",
+      "title": "NBC News"
     }
   },
   {
-    "title": "Exxon, Oil Giants Top Buy Points After Deadly Saudi Airport Attacks - Investor's Business Daily",
-    "description": "Exxon, Oil Giants Top Buy Points After Deadly Saudi Airport Attacks  Investor's Business DailyTrump's energy efforts, European bonds, retailers' inventory balancing act and more in Morning Squawk  CNBCOil Climbs as Fighting Flares in Middle East, Ukraine  WSJUpdate: US Equity Indexes Mixed as Mega-Cap Tech Names Weighed, Strikes on Ukraine Energy Assets Weaken Energy-Ceasefire Claims  Yahoo FinanceOil rallies, sending dollar higher on expectations of higher US rates  Reuters",
-    "published date": "Mon, 12 Oct 2026 20:17:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTjVXOUlnTmxXb05Wc0Z4aWJmdU9FckRBMTNRTlByNFhkV20wZXlzaVJMNkpkc2s1QVI2STlScGZfZnVrX2UyWXVFNkZQMG5NbXp2dnZqRHprOE1uTzgtREZxdUVtZ3huamt2d2hkSUFaR0dDTm53ek4xRFlVM2U1eU5XLXd1dVQxRHE1bjBGTXpOOEdYSFIzaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "What SpaceX Still Needs to Build a Cell Network and Challenge AT&T - Barron's",
+    "description": "What SpaceX Still Needs to Build a Cell Network and Challenge AT&T  Barron'sSPCX Stock Slips Overnight: Analysts See T-Mobile and Verizon Holding The Edge In Starlink’s Wireless Push  Yahoo FinanceSpaceX says Starlink is set to become a \"major mobile carrier\" after spectrum deal  CBS NewsSpaceX move into mobile not replicable in Europe – Vodafone  Light ReadingSpaceX Unlikely To Make Even A Dent In Verizon's Armour (NASDAQ:SPCX)  Seeking Alpha",
+    "published date": "Tue, 13 Oct 2026 20:17:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTEs1RWhiS0pFekdXbkFKV0dYYUJkb3hiajAxR08wZVhGYndmOVNKejdOTnhDdmI1UUNVZkRiMGFLbjdLUFN2QVVZN1lUVnVjSk5wNGFIOW9SZFl2OFBuV1VvWnpTa2hoUHRneW5xa3NhalBPTFRaLUhZcko4RUpodlZvTHN1eXhYN2VuS202VUpIeFhCbFVoZA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.investors.com",
-      "title": "Investor's Business Daily"
+      "href": "https://www.barrons.com",
+      "title": "Barron's"
+    }
+  },
+  {
+    "title": "Anthropic says its A.I. model submitted a false cold case tip to Philadelphia police - NBC News",
+    "description": "Anthropic says its A.I. model submitted a false cold case tip to Philadelphia police  NBC NewsInvestigating unintended model actions in our evaluations and internal use  AnthropicAnthropic’s Claude AI submitted false murder tip to Philadelphia police  Ars TechnicaClaude submitted fake murder tip to Philly police during summertime testing  The RegisterAnthropic Agents Tried to Fill Out Visa Forms on State Dept. Website  The New York Times",
+    "published date": "Tue, 13 Oct 2026 18:24:34 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOODVnaE1VYlN3bTFyQnA2bnduR0FHTWh4MFB1M29VU3NTeTFJWlYzejlickh4SUlJbXI5N0xOY3lBRWpmdWtZeHBGOG9BZTRwOFpaSnlITTBhSUp2RnZVc1YzNWlHLXpnbDg0X2trak9OSFNFWVN2YUFKR1RFWlBGbnNycUd6NEh1eHgxTTkxNUtIRUtEeXV1cE5VaUVOVjJvNTJIaXp0S0I5Y1Zqd2pWbHRwWUZfY1Z4UHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nbcnews.com",
+      "title": "NBC News"
+    }
+  },
+  {
+    "title": "Could GLP-1 drugs be anti-aging medications? - CNN",
+    "description": "Could GLP-1 drugs be anti-aging medications?  CNNGLP-1 weight-loss drugs slow biological aging, recent studies show  NewsNationYour Ozempic Prescription May Come With a Surprising Bonus: Slower Aging  GizmodoCan GLP-1s Slow Aging?  Nautilus | Science ConnectedGLP-1 Drugs May Slow Aging By Upto Four Years, Early Research Suggest  RTTNews",
+    "published date": "Tue, 13 Oct 2026 10:00:45 GMT",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OS3A3NVkyRm5Qa0lheG1VTy16UHZleTFObTZxd1NqTFBFRUltdnljSEtkeXNFZTIyOVZxOWc5SW1TUkI0aUZtWlozRS1JOGNSZjNianZ5cUFtaWFGcGk0QWVNNWlyTS1qMzhRMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cnn.com",
+      "title": "CNN"
+    }
+  },
+  {
+    "title": "Starbucks says it is not buying Chipotle following deal speculation - Fox Business",
+    "description": "Starbucks says it is not buying Chipotle following deal speculation  Fox BusinessStarbucks says it is not buying Chipotle after takeover speculation  CNBCStarbucks has explored takeover of Chipotle in restaurant megadeal  Financial TimesStarbucks puts an end to acquisition reports  The Seattle TimesTop Midday Stories: Starbucks Says It's Not Buying Chipotle; IonQ Buying Elisity for Up to $1.3 Billion  Yahoo Finance",
+    "published date": "Mon, 12 Oct 2026 20:12:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR005RlYyc2ZRR0NITUlRbDJ2aEVSWWlqSDVKM0RqM054dTBiaEo4Y0ZMeXVRd0pJTWZFNjNSVXJQbmJCRHJCdFBHd3RQbEJDaEgxbEVVM25uX3IyNlU3VktLeHI2RUh1QUVaTGdzc0E2UmpIdmZUNzRwWlVPUDJEa2pRNmpiWUl5T1NfeWpJcFVORnBpVFVaV3oxZGzSAaIBQVVfeXFMTjQ2UU5zeGtJU2RkME5WRGNzTWEwTEJxem93SW9Hbk85T3F4alR3Ympud2l3emxYdElMbndwZDJHbG82b0tJb1ltSjZMMk43b3lZbVphNzYyMmU2NVc5RXlzazl1YzBtUWYxQUpia0dnNnNJVUE5Mlpid1cxLTdTbW8tMXpKUTB2emRvOUJjci1WTktJLVpxX1FTeTN0eEJkWXp3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.foxbusiness.com",
+      "title": "Fox Business"
+    }
+  },
+  {
+    "title": "Bill Gates says some jobs should be reserved for humans - TheStreet",
+    "description": "Bill Gates says some jobs should be reserved for humans  TheStreetBill Gates: Technology is a world in need of governance  Vatican NewsBill Gates warns cyberattacks most imminent AI threat  France 24Bill Gates to OpenAI CEO Sam Altman, who says AI fears sound like \"bad science fiction\": All responsible AI leaders, including you, are telling the world...  The Times of IndiaAI doomsday fears overshadow current threats, expert says  KXII",
+    "published date": "Mon, 12 Oct 2026 22:03:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMHJZWjdCaHE0N1pPdWNuVzVGYVNCN2NOTXA5R0R6YmJHSndUbE56RkxYZDNWMHFsSF84b2ZPN1FENTBJU0RsaGk1V3dMUEloV0Z1bnBhbVB0bm9Wekxfd1VwRFB0UlRRa1VPbHNzblZqTDFUa01kYVZuX3ZMWFFnYnZQR3lVT21XbFpTaHFuN0kwQmFpSmhV?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.thestreet.com",
+      "title": "TheStreet"
+    }
+  },
+  {
+    "title": "Arizona breweries win big at the 2026 Great American Beer Festival - Phoenix New Times",
+    "description": "Arizona breweries win big at the 2026 Great American Beer Festival  Phoenix New TimesHere Are the Nation’s Best Beers and Ciders of 2026  Brewers AssociationOceanside brewery named among champions at Great American Beer Festival  YahooThese are the top breweries of 2026, per Great American Beer Festival awards  WGN-TV3 Houston breweries earn medals at prestigious Great American Beer Festival  CultureMap Houston",
+    "published date": "Mon, 12 Oct 2026 15:49:09 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX0lLU21xcVlTRjF5UDNoQlJvRUtoWHNRZlR1ZDBxYjhIejhxdE13NnpLR1c3M19UNVptbDFaVFd6N3lfWmdaZUdxR29IMVZ2VjRWVXhxR1kyRGZoOWhvMEd1UVpsQ0M4YU5GQXdHSHhCNEVxeWtaX0JYZXE1cE0wZVNsRDE2eEdvR0EtSUM1ekZSbW9QZXM3bEt5Qk9GNDRkNGlvY2puMUVRZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.phoenixnewtimes.com",
+      "title": "Phoenix New Times"
     }
   },
   {
@@ -400,88 +550,8 @@
     }
   },
   {
-    "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs - The Verge",
-    "description": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs  The VergeEvery major Nvidia customer is now a competitor as Microsoft reveals new Maia chip  AxiosMicrosoft Just Took Its Biggest Step Toward Independence From Nvidia  Yahoo FinanceDeep dive into Azure Maia 300 architecture  Microsoft AzureMicrosoft plans huge deployment of its own AI chips, with an eye on saving costs  Reuters",
-    "published date": "Mon, 12 Oct 2026 13:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMFNMVlVUZmNza0NDelpIV21DellOcjRTcXFTUjQ5ZElIVUYxQ0I3SmJDa29wdldwUk1vYzZFUHE5aldoaXV6Y0dwb05WZ3RoV3VKUWxzaU1NY3dCSkMwRl92T1dBeTlUcklTUEJIYlpaQzJ4OW1kbU00VG5yc1pCaUQ2Q3RxekVsd0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theverge.com",
-      "title": "The Verge"
-    }
-  },
-  {
-    "title": "AMD launches Helion rack server for agentic AI - Yahoo Finance",
-    "description": "AMD launches Helion rack server for agentic AI  Yahoo FinanceOCP 2026: AMD CEO Lisa Su Highlights Open Infrastructure for the Future of AI  AMDNvidia and AMD shares fall as new AI announcements fail to re-energize investors  MarketWatchAMD Unveils Helion Rack Designed for Agentic AI  TechPowerUpAMD debuts Helion reference design for agentic AI servers with up to 32,768 Zen 6 ‘Venice’ cores — rack design ships later this year in CPU-only and all-in-one configurations [Updated]  Tom's Hardware",
-    "published date": "Mon, 12 Oct 2026 13:24:23 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMXlUMFlyWGRlS3dVQnBZZ0ZTYW14VGFPM2ZJZzZqUmwyOE1JWVdOMTFiYmtxQWpxc0VrWWlQVHhsbnZsSVN5YmZXRDFhTi1EQmFPX2E1Ymt2MVEtZVUtLVhzUFROZnJWSHM0QTJIemJQa0lObGpHRTRnN1BpR0V1LWJCQV9PSlVoQlE2R0JuNXoyVkdFTjBBTVBPbm0xdHFQWkNRejJtYnpmUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://finance.yahoo.com",
-      "title": "Yahoo Finance"
-    }
-  },
-  {
-    "title": "Getty Images is filing for bankruptcy and going private in a $533 million Koch deal - Quartz",
-    "description": "Getty Images is filing for bankruptcy and going private in a $533 million Koch deal  QuartzGetty Images plans bankruptcy filing, to go private  ReutersGetty Images preps a prepackaged bankruptcy  AxiosGetty Images to File for Bankruptcy, Go Private Via Koch Deal  WSJGetty Images to File for Bankruptcy, Go Private In Restructuring Deal  The Hollywood Reporter",
-    "published date": "Mon, 12 Oct 2026 19:37:41 GMT",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BSGJNZkgwWDhxbC1WdzFvT2ZHS1JXY1dubUtXZnJVUTJxSjZ3VVM0b3JWeXYyVWM2WURqODh1NFFFLUlMcURaSUtaWDFPQzlyNFFzWTJHOTJoVXhkVlRONW9MbWI0MWFhZ2kyY191VDVmTlU?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://qz.com",
-      "title": "Quartz"
-    }
-  },
-  {
-    "title": "Exclusive | Retirement Savers Sue Dodgers Owner Mark Walter Saying His Insurers Misled Them - WSJ",
-    "description": "Exclusive | Retirement Savers Sue Dodgers Owner Mark Walter Saying His Insurers Misled Them  WSJAnnuity buyers sue insurers tied to Guggenheim CEO Mark Walter  Crain's Chicago BusinessDodgers owner Mark Walter’s legal troubles deepen with wave of new lawsuits  New York PostWalter’s Insurance CEO Told DOJ He Was Unaware of Boss’s Loans  Bloomberg.comLife insurers concealed $21B in private-credit risk: Lawsuit  American Banker",
-    "published date": "Mon, 12 Oct 2026 20:39:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQllhTE9kOTVXUm4yaFBBaDFUOV83a21vay02SGtSSDFQcHl4VUdpQUUtMEhZVWs2Qlc1Ni1aa29ScWNQTTBmMlFZN3hKSjEtSzJhRXdxbW9uOFM2OXhvRXBjMjdseWFUOU8yMGpFOV9Mc0hCblRZNFRQWE9HeUdLbURYU2tGZzRHRUtSVWpuVzlBM2diNGc2WXd5MW5kTXFVN3F6ZFo1OXhTTnA0b3V3UUc1T0gtN0U?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.wsj.com",
-      "title": "WSJ"
-    }
-  },
-  {
-    "title": "IonQ To Buy Elisity In $1.3 Billion Deal Amid Quantum Acquisition Spree - Investor's Business Daily",
-    "description": "IonQ To Buy Elisity In $1.3 Billion Deal Amid Quantum Acquisition Spree  Investor's Business DailyExclusive | Quantum-Computing Company IonQ to Buy Cybersecurity Firm for Up to $1.3 Billion  WSJWhy IonQ (IONQ) Stock Is Down Today  Yahoo FinanceIonQ to buy cybersecurity firm Elisity in up to $1.3 billion deal  ReutersIonQ to Buy Elisity for Up to $1.3 Billion to Bolster Cyber Unit  Bloomberg.com",
-    "published date": "Mon, 12 Oct 2026 16:32:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSnJFOFU5X2ZFc2hMTVVVRlMwbFlKcXIzLS1qVlhjSWhpQXBLR0FGc1ZUSHlnWkRNakFKTmJRUG5UeGNLMnRTbmhPMlI4WThaWlBHMGpzcTRlSUhHNnUzYzc5amlzaTZZMnJRYmlKNlJEdjVVTkNXTW9kN0xHSFh2Tm1sdzE4ZHUwSXNkS241V2JXYk1xanF5RlVULTdmcVJRVjBwWGF3?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.investors.com",
-      "title": "Investor's Business Daily"
-    }
-  },
-  {
-    "title": "Pickleball company files for bankruptcy as founder acknowledges business mistake: ‘I own it’ - New York Post",
-    "description": "Pickleball company files for bankruptcy as founder acknowledges business mistake: ‘I own it’  New York PostWestbrook pickleball club to remain open amid bankruptcy  WGMEThe Picklr files for bankruptcy, plans reorganization  Sports Business JournalThe Picklr CEO Says 'That's on Us' After Fast-Growing $59 Million Pickleball Chain Files for Bankruptcy  Inc.comPickleball franchisor with St. Louis-area investor files for bankruptcy reorganization  The Business Journals",
-    "published date": "Tue, 13 Oct 2026 07:35:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa1k0c3FObGxQQ0lQdk93ZE0tblhBc0I2NDdnQUFMSU5pV3RxWG4zcWlHSnkwVWJXT19tWEt2UDZrRWVUcURnR0g1TGRtUnNNTy1qZUVRbnJhOHY4cGNFYWtVY3ctaTFuRzVtWDVPeEhQWlkyZnlBZ3BtUW1wUVFUdG9Nak1OaGFwalVlbzBDWVFJanNBQ0R6c2d2SVlNT1BHRGdGbGRULWtSSU9sYUFDWmFlbjhTS1BBMm1Ha29tMGVMdlg5MXFqdA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://nypost.com",
-      "title": "New York Post"
-    }
-  },
-  {
-    "title": "Eric Trump Calls Out People Criticizing Susan Dell’s Appearance - Newsweek",
-    "description": "Eric Trump Calls Out People Criticizing Susan Dell’s Appearance  NewsweekWho Is Michael Dell’s Wife? What to Know About Susan Dell  People.comTrump praises Susan Dell as she backs Trump Accounts  USA TodaySusan Dell Then & Now Photos: Dell CEO’s Wife Goes Viral After Oval Office Appearance  Just JaredSusan Dell’s $6.25 Billion Pledge Drew Days of Comments About Her Appearance. Miranda Kerr and Evan Spiegel’s Medical-Debt Relief Drew Attention to the People It Helped  Thought Catalog",
-    "published date": "Tue, 13 Oct 2026 06:48:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaFBhTGVsZW9nd2p3RUxyTDlzeng0RU05eTg4dTU2YURURUtON3U0Y2RaZWZ3SWpGNG1mSGR0Q3pZX0V6VS1USmliZHljMURrZzNtUFJJMzV5T2ZpRzVhV3dCZzk1Wi1qNEdIb2VXdnItTUZnTFIxRloyVTQtZnZRcTVnQVhSRFVqZ1E?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.newsweek.com",
-      "title": "Newsweek"
-    }
-  },
-  {
-    "title": "This Town Was Named the Best Suburb to Live in the U.S.—With 12 Parks, Scenic Trails, and a Charming Downtown - Travel + Leisure",
-    "description": "This Town Was Named the Best Suburb to Live in the U.S.—With 12 Parks, Scenic Trails, and a Charming Downtown  Travel + Leisure",
-    "published date": "Tue, 13 Oct 2026 11:04:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tVUZXeEw3VkVNOFRhMnJqZV9sVDQxaEt0d3hfV280MFp6MEozY2RsSnNJY1ExVmhRZTNsSzJ5UEc5REtOaFlVRW5oRnJ4dkNQdlYtVlB0NFVHSDBuQkVta0tjSE9EZ2kxRmNMdHZCeVlwQkZ6cEIxWg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.travelandleisure.com",
-      "title": "Travel + Leisure"
-    }
-  },
-  {
     "title": "Albertsons Seeks More Than $9 Billion Over Busted Kroger Deal - Yahoo Finance",
-    "description": "Albertsons Seeks More Than $9 Billion Over Busted Kroger Deal  Yahoo FinanceSee more headlines & perspectives on Google News",
+    "description": "Albertsons Seeks More Than $9 Billion Over Busted Kroger Deal  Yahoo FinanceAlbertsons Wants $8 Billion From Kroger After Failed Merger  WSJAlbertsons seeks more than $8B from Kroger over failed merger  Cincinnati EnquirerGrocer demands more than $9B from Kroger after $25B deal collapsed  AL.comAlbertsons seeks more than $9B over busted Kroger deal  The Seattle Times",
     "published date": "Mon, 12 Oct 2026 17:00:19 GMT",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZlM1cHlxQjZ0VlFtLVI5WDNpaVdfNnF3eUhWTUxOWnpqOTBCTEQyNjJqbkVQRFpSemtrUlBjRWxCYW1ibEhlNUhxRFJlekVlTnRBSHpDTjgwdGQ5MGFLcjN1UElSRURuQVNkcjFSYTdVRHlCWVdMLUZqLVVmSGJLTUUtakktMnE5ZzNOM0R2aFpyWWFKZjl3VmRXMWc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -490,158 +560,28 @@
     }
   },
   {
-    "title": "Nasdaq Futures Fall as Global AI Selloff Intensifies - WSJ",
-    "description": "Nasdaq Futures Fall as Global AI Selloff Intensifies  WSJWall Street retreats from its record as stocks fall worldwide  AP NewsStock market today: S&P 500, Nasdaq fall for second day in a row as AI trade takes a hit  Yahoo FinanceShares slip as oil jumps and bond yields stay high  ReutersStocks Fall From All-Time Highs on Inflation Worry: Markets Wrap  Bloomberg.com",
-    "published date": "Tue, 13 Oct 2026 11:58:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaV9QVFVsbXRmd3pZTmU1SjAtTnJNT2ZoZ1QyUUpJUWc2eG5YS1lDaTA1bEZoc21DWUxTWTBOd1UtWE5wcDgtNklJMzM5VWhhTkdyV3JCVVJrVU9YY1ExaklxLU9sOHFvX1pkT2o0cVJkZ3dTbnBtT1VfdnZ3Qm43VUF0dWR2OXY3X0RiTGNhWC0wV2JqdF9VazU1UDI?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Why BlackRock is suddenly more bearish on stocks - Yahoo Finance",
+    "description": "Why BlackRock is suddenly more bearish on stocks  Yahoo FinanceBlackRock cools on US stocks, turns bullish on short-dated Treasuries  ReutersBlackRock Turns Bullish on Short-Term Bonds, Downgrades Stocks  Bloomberg.comWhy the world’s No. 1 fund manager has just changed its mind on bonds for the first time in six years  MarketWatchUpgrading U.S. Treasuries To Lock In Income  Seeking Alpha",
+    "published date": "Tue, 13 Oct 2026 17:24:14 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV29NeENzS3VlV3NlekQ2Y29vMDYyWDZocjQ5YS1WZnlWcGRFRHUzeFBvZmNtMHRwQUt5RFZ0UF8wQ09ERjBlV3NmLW9UTm5GcjkySk8zeHFFX1RMb3VFbloyOWhPUmJMVVFrSGRKekFEamdocW9ub1JudGpJc0dpSzBrRWtiSEZSOUxYUW9yVzl5eEN1cVRITFp6UHptTjhKMmJ5MmRlcnY?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.wsj.com",
-      "title": "WSJ"
+      "href": "https://finance.yahoo.com",
+      "title": "Yahoo Finance"
     }
   },
   {
-    "title": "Nvidia and Micron Technology Just Received Some Very Bad News From an Unlikely Place - The Motley Fool",
-    "description": "Nvidia and Micron Technology Just Received Some Very Bad News From an Unlikely Place  The Motley FoolJames Packer says Australia ‘tends to tear down’ entrepreneurs after Firmus fiasco  Financial TimesData Center Darling’s $30 Billion IPO Dream Crushed in 48 Hours  Bloomberg.comAre cracks beginning to emerge in the glittery AI facade?  ABC News & Headlines – Australian Broadcasting CorporationDoes Firmus have an Oliver Curtis problem?  AFR",
-    "published date": "Mon, 12 Oct 2026 11:06:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWlcyNzRVcXpNVzBQclJNNTllUV9na0ZlbkRNNmxOaE1UY2RLWTg1X1dOa1UwUTRxQnV3bmlQazdjLUhYRlMzdk9ULWtZbmdqUVFDUENOaTBKMDJWZWNiSTQ2OXNrdG5ibWR2NEhFSGRQbzRmNFdFTkJhaXVDOTUwTkxhVmxvWVF6VW9JMzVaX29yWDNsNF9tRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "It's Probably for the Best This Qantas Flight Was Grounded - Newser",
+    "description": "It's Probably for the Best This Qantas Flight Was Grounded  NewserPassengers ‘woken by screaming’ on Qantas bed bug flight  Nine.com.auQantas plane grounded after reported bedbug outbreak  CNNBedbug infestation forces Qantas to ground plane in Rome  The GuardianBedbugs Force Airline to Ground Plane in Europe  Fodors Travel Guide",
+    "published date": "Tue, 13 Oct 2026 12:35:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeXBRRmtPeDFPdlJ3dHlncmgxSjFNc1ZRaUVRWXZqT3lnWjdQZS1kUXFKU1dhR1V2NmV5NTNiM2t4c1ZEWm03SzJsa21BVzJod0d5bG02c00zcmF3WDNWMi13V2V5WEx6REhscUtyamhjeXlITXY4RE9adU5fUmNBZXNyRzRRdF84Rk50eWxpNkpUREFNWFVFNg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.fool.com",
-      "title": "The Motley Fool"
-    }
-  },
-  {
-    "title": "Starlink Is Getting A Key Upgrade To Start Competing With T-Mobile And AT&T - BGR",
-    "description": "Starlink Is Getting A Key Upgrade To Start Competing With T-Mobile And AT&T  BGRSPCX Stock Slips Overnight: Analysts See T-Mobile and Verizon Holding The Edge In Starlink’s Wireless Push  Yahoo FinanceSpaceX says Starlink is set to become a \"major mobile carrier\" after spectrum deal  CBS NewsWhat SpaceX Needs Now to Dominate Wireless  Barron'sSpaceX Unlikely To Make Even A Dent In Verizon's Armour (NASDAQ:SPCX)  Seeking Alpha",
-    "published date": "Tue, 13 Oct 2026 01:17:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fTENGUV9nS2lPMGZUWEJ2aXI4MnNGVlZSRklDdHUtWEY0Skd0cnZhOHJXbVB1REZRMjlyS0pEOE5zRU1wRThvTHdtZFg5aWdnTXFOMnFyZkEtZW54eEFZaW16dk9aTDY3dzdEUFJUemtaVjZH?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.bgr.com",
-      "title": "BGR"
-    }
-  },
-  {
-    "title": "Nearly 70 million kids now have a Trump Account—but parents have to claim it first. Here’s who gets the $1,000 - Fortune",
-    "description": "Nearly 70 million kids now have a Trump Account—but parents have to claim it first. Here’s who gets the $1,000  Fortune70 Million Kids Just Got Trump Accounts. The Bigger Winner Could Be State Street  Yahoo FinanceCheck your ZIP code: Your child’s Trump Account may already have $250  AL.comOpinion | Trump’s investment accounts for kids just got a controversial new feature  MS NOWTrump Accounts Put 70 Million Kids on the Path to Financial Freedom  The White House (.gov)",
-    "published date": "Mon, 12 Oct 2026 06:57:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa2o2VG1sQnhuNkY4a1ozWVVaRllBQmphUjAwTkYtdmNQSXVGcEtkdElmRjRDRUlDamFMRElHYldwQkpiT3RTZUN6eFJTYWIwc1UwcVozZU1OZ2I5NUJ4RjZiMms1OHJhSFhlUm1BVTdNYzAtdGZNeXl3S2ZEVlZHTExfaElManR0Zi10NEdUdXlXYUxVWk9Pc2lB?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://fortune.com",
-      "title": "Fortune"
-    }
-  },
-  {
-    "title": "Flight disruptions cause more than 200 delays at RDU: 'It's a mess' - ABC11 News",
-    "description": "Flight disruptions cause more than 200 delays at RDU: 'It's a mess'  ABC11 NewsResidual delays linger at RDU after cut fiber line halted 200+ flights  Raleigh News & ObserverDelays linger at RDU after two equipment outages ground flights  WRALRDU flight delays follow a cut fiber optic line near FAA tower  WXIISevered Fiber Line Disrupts Raleigh-Durham Flights  AVweb",
-    "published date": "Mon, 12 Oct 2026 22:27:11 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONlc0QVI1b0QyVkpHZTlhNDZlWll4YlpldW54bjh0NkVVTkk5SWVyQzVsNGRhVW1PTGUwSUxFWWFkb3l0dGplSGdicUR6aHFkay13ZGxpQ2JkMDl1Y0FkY3F5U0t1ZVF6akp1SWJBTWZqcGlyWmthZ0JoenY0TFBSQUxhTnU3VGJFckHSAY8BQVVfeXFMUE1udXpZeHZZR1NleEg4emxBUERXN2RfVEliMXFrMGJzOXNjaU42MFk5WTZwOU9XbThxNFVycVV6dlNRNkt2T0tRUXc2YTlFU0RMcGNLX3hONVl0NzZ2LVpzVlo4eW1iX2hUbHhiRTZjbFJaU1Q3NVJrMExvNEttMW1Gc3hoZ25MVTEyZ2tBTVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://abc11.com",
-      "title": "ABC11 News"
-    }
-  },
-  {
-    "title": "Anthropic’s Claude AI submitted false murder tip to Philadelphia police - Ars Technica",
-    "description": "Anthropic’s Claude AI submitted false murder tip to Philadelphia police  Ars TechnicaInvestigating unintended model actions in our evaluations and internal use  AnthropicAnthropic Agents Tried to Fill Out Visa Forms on State Dept. Website  The New York TimesExclusive: Anthropic breaches spark White House AI reporting mandate  AxiosCan we trust OpenAI and Anthropic to monitor their own technology?  Fortune",
-    "published date": "Mon, 12 Oct 2026 18:21:36 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSER5ZlJwUTROcmZEaU9pY3l3TVh6ZHpCUFcwTElGR0g2dnBicDItUDdrVTBmZnhKTVdiZGYzUmZrUG1GdEstVi1HNmlQN2Q0RHRtWkNhZFlJb3VuNHVwWUNPQk5QYUsySGdGXzJUQlltTDVhNmF2YU5XUjJuQ0g4QzBSYjdyMnhtSlVFYzM5OGJLbkZuX2Zkd19zVThHMFdMVGtZTk5mV0JsN0VPSFg1OXp3OXczdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://arstechnica.com",
-      "title": "Ars Technica"
-    }
-  },
-  {
-    "title": "Global Smartphone Shipments Hit a New Low with 20% YoY Decline, Lowest in 14 Years as Continued Memory Constraints Tighten Supply - Counterpoint Research",
-    "description": "Global Smartphone Shipments Hit a New Low with 20% YoY Decline, Lowest in 14 Years as Continued Memory Constraints Tighten Supply  Counterpoint ResearchApple Stock Nears Record High As iPhone Market Share Hits 22% Despite 20% Smartphone Market Slump  Yahoo FinanceGlobal smartphone shipments record worst third quarter in 14 years amid memory shortage  ReutersApple's iPhone Market Share Rose Despite A Downturn In Smartphone Shipments  EngadgetApple & Samsung dominate the smartphone market amid decline  AppleInsider",
-    "published date": "Mon, 12 Oct 2026 11:35:01 GMT",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbWZ2N0Z0TVdaeVFxNWpHMFA2NzlNQlRQSkxVWDhSRFVyVVE4MnJ0TTN0NUhsZ2FsSHhERmdDa1NiSm9DNU1rRjczbkxmc3pGR2lYRl9QSWZwT0lkSUV1clNFWEhpLVR5UW9wOGdkT1RwNEhIRmpfbm5sZ1NKTTRrQjNhMnlzMnQzTDRHZ1pjSTh4d2g2QmFlT09tOXZVLUVPTC05cXpoajB4WmNuaUZrZ2I0M2tWdnZsdHd6QmY0YWoxcXNYX0tBQ09iZDVvdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://counterpointresearch.com",
-      "title": "Counterpoint Research"
-    }
-  },
-  {
-    "title": "New Coyote Anti-Drone Interceptor Swaps Jet Engine For Rocket Power - TWZ",
-    "description": "New Coyote Anti-Drone Interceptor Swaps Jet Engine For Rocket Power  TWZCan Rising Counter-Drone Demand Support RTX's Defense Growth Outlook?  The Globe and MailRTX's Raytheon Wins $729 Million in Counter-Drone Contracts for U.S., Qatar, and Jordan  www.marketscreener.com",
-    "published date": "Mon, 12 Oct 2026 16:08:18 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdWtPOXZHZmt0TmU3cmlZYm5mLXpZQlFyY0ZfWm5yUDJLakNpUFUxS19pYkxXNk9nNDExdzlSZmlOQkxTbVNQc0ZpcGotNUM4bkptQ2ZhVkVjeGFNSl9kMEpJSGZSR2tvV1hQVVlxNHZ6dmNQaGp0eVNjNjdMRmo0OV94bXdTdzhwMF9ieUxvOURyMXVERlhn?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.twz.com",
-      "title": "TWZ"
-    }
-  },
-  {
-    "title": "Why SpaceX’s Spectrum Purchase Is Good for AST SpaceMobile Stock - Barron's",
-    "description": "Why SpaceX’s Spectrum Purchase Is Good for AST SpaceMobile Stock  Barron'sDeutsche Bank Upgrades AST SpaceMobile to Buy With Massive Upside Potential  Yahoo FinanceSpaceX Changed My Mind On AST SpaceMobile (NASDAQ:SPCX)  Seeking AlphaWhy AST SpaceMobile Stock Keeps Falling  The Motley FoolAST SpaceMobile Sinks 9% as Piper Sandler Cuts to Neutral on SpaceX Direct-to-Cell Threat; Planet Labs Drops 4%, Rocket Lab Slips  24/7 Wall St.",
-    "published date": "Mon, 12 Oct 2026 20:23:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWDcwdDk3Ri1aSXljQnc2OExqUTJkd0FNQzBFM09vNWM1VTRpM1N5V1VPVzhOdFJHMlJzZ1ZQc1hEUWNQbFpWOXRFa2hfRkJ2M21XZE5XaU5uUDJ5N2QzdHd2bnlvOXI0Rk10TkRiVlRNSGl0SUlJcnctQ1FOZ0cwbE43bml1Q2pXYlhBcDJacjc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.barrons.com",
-      "title": "Barron's"
-    }
-  },
-  {
-    "title": "The new Citroen 2CV is reminding people of a very different (but equally iconic) car design - Creative Bloq",
-    "description": "The new Citroen 2CV is reminding people of a very different (but equally iconic) car design  Creative BloqCitroen revives the 2CV for an electric age  BBCStellantis bets on small affordable EVs for European comeback  ReutersAt Paris show, Stellantis seeks to prove its revival in Europe is real  Automotive NewsStellantis Unveils Six Concept Cars “The Night Before” the Paris Motor Show  Media Stellantis",
-    "published date": "Tue, 13 Oct 2026 06:08:45 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU21SZWFhUFhVWURybXJwY3FjMkxtNXJDM0tuNEY2TnNFZGtzQTQ0NWNOeXRnZFNPVGFZT2ZLbmkxQlJ6VEI3bDhkMXdxSktaSm84MUdJUFRBeFJNY083RkFSc3NWU3h0SzM5Slk2N2JOLWJ4d3NaT2RUcmRZMzJwSEJBZHpOM0lreDAtMGZsUXhoOGlBX2lmMmZENnZlVGdhamRLUHpPV0FLV25WNkZRR01QQk1xbzBQNG1IYUpVLWk?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.creativebloq.com",
-      "title": "Creative Bloq"
-    }
-  },
-  {
-    "title": "AI labs are offering companies big money to hand over their employees' private Slack DMs and emails - Business Insider",
-    "description": "AI labs are offering companies big money to hand over their employees' private Slack DMs and emails  Business InsiderAI labs are buying data from dead startups to train their models  MIT Technology ReviewMode.Inc Launches $5 Billion Enterprise Data Monetization Initiative to Help Businesses & Nonprofits License Data to Leading AI Companies  Yahoo FinanceAI giants are vying for your Slack DMs  LinkedInAI Labs Paying for Employee Slack and Email Data to Train Models  KuCoin",
-    "published date": "Tue, 13 Oct 2026 09:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR2xFNlpsMjdwQWxyX0huUmFqYTZHZmF3eVNaUDN3aTY0RUtJdm1BaDh5WlM1NU9OQ3ZLUHJ0WTIwWWYwRHdlY3NmOEV6SFA5aHVLblVnM2R2VTZIUWlUdHdXdWZpU0NjQ2RaZm5lTzcxUnpycE5JbWRndE9ueW5ENlU4Uml5U3VrV2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.businessinsider.com",
-      "title": "Business Insider"
-    }
-  },
-  {
-    "title": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging - CNBC",
-    "description": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging  CNBCThe AI Trade Led the Bull Market—but Don’t Bail on the Big Winners Just Yet  Barron'sThe S&P 500 Just Hit a Record High -- Here's How Much Higher It Can Climb, According to the Wall Street Consensus  The Motley FoolInvestors worry the bull market is getting old. But history shows it can continue to age gracefully.  MarketWatchThere's a tough truth under the surface of the 4-year-old bull market in stocks  Business Insider",
-    "published date": "Mon, 12 Oct 2026 18:18:39 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUTR3NnlJdzBsTnFQaTY4M1ZINmtfUTdmVmZYalhzQlB2aGI2VFhMekVyMXR4UGUtVXhJNzF5WmtmMHhITGQ1MTAyWXZaUDlNVWFjSGZIQ1Zrd21zbW5pbnlZandyZHJ6Q2hxTTdhM3phcVZBYnVuY1o2SExCdWFXaW5IUmJUT2lwLVB0RVVFVlZjcVZ4SVNkTWJLTjJSUjVaZ2fSAacBQVVfeXFMUDlRbUlqOFZmV3RGOUozQmZ4c0d3Y2xjem9LbHFwUVN1eFdLdmViZ3kwTDd2Tkx1Nm9aQzlpMWpjcVF2dE1DVGRFTEg5dy01dVphUENBQWdLSjRVRHhJNXFwMTcxOFRYRV9pNE4zWHI3bXk2UU5DRWdaQlAxdTByemhzenpxQWlhYTVIVi1ST004Z0VTRDJUSVNheUVrWUNCUGpNUzZEVEk?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cnbc.com",
-      "title": "CNBC"
-    }
-  },
-  {
-    "title": "AI Data Centers Cost Billions to Build. This Is Why - Bloomberg.com",
-    "description": "AI Data Centers Cost Billions to Build. This Is Why  Bloomberg.comAI’s $750B spending spree drives up demand for land, labor and power  Baton Rouge Business ReportThis Graph of Data Center Spending Compared to All Other Construction Will Give You Chills  FuturismMegaprojects grab 1 in 4 nonresidential construction dollars  Construction DiveLa. Park Benefits From Meta’s $27B Data Center Proj.  Woodall's Campground Magazine",
-    "published date": "Mon, 12 Oct 2026 10:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzUTIzTEVwSDZGRmkxV05DbzBzNERNektBTG5BNzB1NzBxVVNRZXIxOGZkRlhrVUx4SjN5aWJWdzdEZ2s4dEQ1SGdtbmx0eXNtM2VWb2gwcmhacDhzQ1JfN1czbGxKWnpZT3h3TVE2Tlk5RzBTSkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.bloomberg.com",
-      "title": "Bloomberg.com"
-    }
-  },
-  {
-    "title": "Microsoft president says AI faces fewer safety rules than milk in call for global regulation - Fox Business",
-    "description": "Microsoft president says AI faces fewer safety rules than milk in call for global regulation  Fox BusinessMicrosoft president urges global AI regulation, warns of safety gaps  Fox NewsMicrosoft's Nadella says AI needs an ‘emergency brake’ that humans control  CNBCMicrosoft president says UK is best placed to drive AI regulation  TechCrunchMicrosoft President Says AI Has Fewer Regulations Than Milk. So Now What?  CNET",
-    "published date": "Mon, 12 Oct 2026 21:55:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR3lRanRBQ3pkbU0tYkZ4SUNGZFNxUkllbDZkcXFEYlRRSFp1UHd6bGw2VjB1U2NSZlVPTHYxX3ZjTzJMOGU1UVg5c05IUEdOWTFwaWYyY1RENDd0YUs4WXcyalVuUEp5OEI3UXM2dGR5SWZ6TmtrQ3VtRFdKOVZFQnFZaDBMMU5ORUx2TFlablFDbENyb2w3Si1rOTdHS3FiTlc1SXZRZ3BnZklweVZRT3dTM3pKY0ozTkxuX1VBWjVBQdIBxwFBVV95cUxNanlJTmtaYXI4dng4NnBwNFJxZHdVUy1yRWtXbVMyU1dtSUV3dVk0b0VfcG1aX2JMNVRZMVRJOTZMdHc5dEZHNmhXQ0paZ3dhZ1IxMEJEelF6bF82MnNYZ0prTjhHWHltcURkWlljSGg0bEJkTTdZVl9tdzNMZ1V6d011bnN6QkpDaGtrNEJDSWo2dGtoTVo1bHlKY0ZPWlNkXzlCRi1TZGNHZ2x2Wk1icFRIS1VJUGdpZHI1UEhBS1AxcjhOci04?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.foxbusiness.com",
-      "title": "Fox Business"
-    }
-  },
-  {
-    "title": "AI’s mathematics blitz pushes science into strange new territory - The Economist",
-    "description": "AI’s mathematics blitz pushes science into strange new territory  The EconomistOpenAI's blockbuster Navier-Stokes proof isn't what we thought it was  Scientific AmericanOpenAI's latest blow to mathematicians: 'They have annihilated my field of research'  Le Monde.frSharing AI progress in mathematics  OpenAIA ‘Mathpocalypse’ is freaking out cyber and finance experts. Should you be worried?  Fortune",
-    "published date": "Mon, 12 Oct 2026 17:43:28 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX2xkTTk5TzZPSFVTcU9vdklZbEdGZFM4LUY5R2U0ZnN1T1ZHZE5ZSUlwaEMxOHBVR2VOR0xUbU5YUUR2T0lMS3N5NFFWRGRnUGhmdUFtbjlWMzhYU1VJNUlSbU9SN3Y4VGNvRDlvNVVjN0Q4WFQ0ckQ3YkJmU1NFUVhsTDdKMHBqZnV1RWJOYm5WcWFFanZKRHhJM1JaLVZ0ZEdUVXRzNmxMQVpneUR6MXNGU0lvV1BzWmp4YTVVVkM?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.economist.com",
-      "title": "The Economist"
+      "href": "https://www.newser.com",
+      "title": "Newser"
     }
   },
   {
     "title": "Medicare coverage options are changing. Here's what beneficiaries should know - CBS News",
-    "description": "Medicare coverage options are changing. Here's what beneficiaries should know  CBS News'It's madness': Up to 390K Minnesota seniors searching for new Medicare plans this week  kare11.comMedicare Advantage changes leave Wisconsin beneficiaries reviewing coverage  WSAWMillions Lose Private Medicare Plans and Face Rising Costs  The New York TimesSeniors in Medicare Advantage could have fewer coverage choices next year  WEAU",
+    "description": "Medicare coverage options are changing. Here's what beneficiaries should know  CBS NewsMillions Lose Private Medicare Plans and Face Rising Costs  The New York Times'It's madness': Up to 390K Minnesota seniors searching for new Medicare plans this week  kare11.comSeniors in Medicare Advantage could have fewer coverage choices next year  WEAUMedicare Advantage changes leave Wisconsin beneficiaries reviewing coverage  WSAW",
     "published date": "Mon, 12 Oct 2026 23:31:20 GMT",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOGgzYURGVVpnUmZoenFCS00wZWZ3U190VjdiWTBjM1V4QjQ2SFpxbUdYWHZiMjRIOWUwMFpYTTBiZkhaNGw1TmRtLTV2WkZmUzJWN3c0bnlMdWdpMnhVUGFVRlZQUVM0RFY2TlBSM1gxXy1ldnBJdk5WSHlzblE3MVRTYld0bHkyQUdFYnZGb2s?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -650,33 +590,63 @@
     }
   },
   {
-    "title": "Micron board raises buyback ceiling to $35.16bn - Yahoo Finance",
-    "description": "Micron board raises buyback ceiling to $35.16bn  Yahoo FinanceMicron Just Said Something That Could Change How Investors See the Stock  The Motley FoolMicron Stock Falls Despite Record $35 Billion Buyback. Here's Why  TradingViewMicron: More For Longer (NASDAQ:MU)  Seeking AlphaMicron to Hit $3,000? That's How High One Analyst Thinks the Stock Could Go  Yahoo Finance",
-    "published date": "Mon, 12 Oct 2026 14:20:57 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMUpoYUlVMHg4bmEtVThZU1ZWV2lUaE1od3FJT1FkWGpuc1piTkRtdkM0NUhHWVZNakNSdVVqU3JjT2RjdFZSYWhPSGVJOWQ1Rng3N18zb0lZa1NwZlBITUpwV3BsTGtkNXAxbTRQMmREMVppMkNxUFhfZzVZbkw3cFZBVkpNUDNycEVrSnZ5YUkycGg4UHpRdkFOZmxRUERVN3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Getty Images is filing for bankruptcy and going private in a $533 million Koch deal - Quartz",
+    "description": "Getty Images is filing for bankruptcy and going private in a $533 million Koch deal  QuartzGetty Images plans bankruptcy filing, to go private  ReutersGetty Images to File for Bankruptcy, Go Private In Restructuring Deal  The Hollywood ReporterThe Getty Family and Koch Equity Development Commit to Equity Investment of up to $533 Million in Getty Images, Reflecting Confidence in Long-Term Growth Potential  Getty Images NewsroomGetty Images preps a prepackaged bankruptcy  Axios",
+    "published date": "Mon, 12 Oct 2026 19:36:47 GMT",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BSGJNZkgwWDhxbC1WdzFvT2ZHS1JXY1dubUtXZnJVUTJxSjZ3VVM0b3JWeXYyVWM2WURqODh1NFFFLUlMcURaSUtaWDFPQzlyNFFzWTJHOTJoVXhkVlRONW9MbWI0MWFhZ2kyY191VDVmTlU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://qz.com",
+      "title": "Quartz"
+    }
+  },
+  {
+    "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs - The Verge",
+    "description": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs  The VergeEvery major Nvidia customer is now a competitor as Microsoft reveals new Maia chip  AxiosMicrosoft plans huge deployment of its own AI chips, with an eye on saving costs  ReutersDoes The Maia Chip Bet Materially Alter Microsoft's Operating Margin Outlook?  Yahoo FinanceMicrosoft Boosts HBM Bandwidth by 2.5x with Maia 300 Accelerator  HPCwire",
+    "published date": "Mon, 12 Oct 2026 13:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMFNMVlVUZmNza0NDelpIV21DellOcjRTcXFTUjQ5ZElIVUYxQ0I3SmJDa29wdldwUk1vYzZFUHE5aldoaXV6Y0dwb05WZ3RoV3VKUWxzaU1NY3dCSkMwRl92T1dBeTlUcklTUEJIYlpaQzJ4OW1kbU00VG5yc1pCaUQ2Q3RxekVsd0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theverge.com",
+      "title": "The Verge"
+    }
+  },
+  {
+    "title": "Ledger confirms spy chip implant behind wallet crypto thefts - BleepingComputer",
+    "description": "Ledger confirms spy chip implant behind wallet crypto thefts  BleepingComputerTrader Loses $6.6 Million in Bitcoin After Buying New Ledger Wallet  Yahoo FinanceWho Is Planting Backdoors in Ledger Crypto Wallets?  ZERO DAYLedger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports  The Hacker NewsCrypto thieves sell hardware wallets with secret eSIM  heise online",
+    "published date": "Mon, 12 Oct 2026 16:27:23 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORTN1UWtEMmtVcjgwVFViemFlaUFCWUJOV3JYUHIwanYzNXlWcjc3RTJEN3ZOTmMxNzd1ODE4SEdQaXpSLVRwdkRKWk1MdU5uek95ZXAxTXZTTVJvWlA5R09ocE45MkpLeUdPb2tkZU5vQ3locnlYOVNfYUdJMms1b0h5VnRXdVBNTnMyaU9nNEhwVlJDdURwc0tyaGNvdE5ha1hFMnFCN01lR2sxOXBWVW5R0gG3AUFVX3lxTE9BMHhZNHNNQVlnS2d2cEw5YUQtTzBYNXFsRi1PR29qT3RaeFFSeExWT3lpSEFUZUZQVkVicFJoSmtVWlVhcE82Y1QzS0pxWXo5MWFOMHd6ckVSWjkzeW9UYkYwTThWd1VFbUs0cHRJTUw3R2dRMVdnU0pOQmlBb1U2Q05jNUl0TmozbE9kdC12VHo3VmRtVW4zVTNQVV8yQjdJV2VuNXZTX2pwejRsODRPVllWcldTNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bleepingcomputer.com",
+      "title": "BleepingComputer"
+    }
+  },
+  {
+    "title": "Why SpaceX’s Spectrum Purchase Is Good for AST SpaceMobile Stock - Barron's",
+    "description": "Why SpaceX’s Spectrum Purchase Is Good for AST SpaceMobile Stock  Barron'sDeutsche Bank Upgrades AST SpaceMobile to Buy With Massive Upside Potential  Yahoo FinanceSpaceX Changed My Mind On AST SpaceMobile (NASDAQ:SPCX)  Seeking AlphaSpaceX D2C aggression triggers Piper Sandler downgrade of AST SpaceMobile  Investing.comAST SpaceMobile Price Target Is Slashed in Half. Confusion Reigns.  Barron's",
+    "published date": "Mon, 12 Oct 2026 20:23:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWDcwdDk3Ri1aSXljQnc2OExqUTJkd0FNQzBFM09vNWM1VTRpM1N5V1VPVzhOdFJHMlJzZ1ZQc1hEUWNQbFpWOXRFa2hfRkJ2M21XZE5XaU5uUDJ5N2QzdHd2bnlvOXI0Rk10TkRiVlRNSGl0SUlJcnctQ1FOZ0cwbE43bml1Q2pXYlhBcDJacjc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.barrons.com",
+      "title": "Barron's"
+    }
+  },
+  {
+    "title": "Earnings live updates: JPMorgan, Goldman Sachs stocks rise as big banks kick off Q3 earnings season - Yahoo Finance",
+    "description": "Earnings live updates: JPMorgan, Goldman Sachs stocks rise as big banks kick off Q3 earnings season  Yahoo FinanceCiti Fixed-Income Traders Post Higher Revenue as Rivals Miss  Bloomberg.comCiti profit tops estimates on higher investment banking, services and wealth revenue  ReutersCiti doubles asset inflows, edging closer to profit goals  Financial PlanningCitigroup Q3 earnings, revenue beat as services, wealth post solid growth (C:NYSE)  Seeking Alpha",
+    "published date": "Tue, 13 Oct 2026 11:51:35 GMT",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcG1fVjZ0Z1RfeGlVX2pKcFJlN1pJamJZZUhPMmxHUlBsTU5LSFJCa0hJRmtaeFZ0REJSMHF0WE03d3R3TkdaeXFzY28xR0ZUbFhtS25nTVpieUZTRG1RN3cwbVRsSzNMU21qcFpQRnB1RDlvWUl4c0ZRQWplNjBBQ0JDSDNIUm5vRmdKbWJjVm1pQlRIdzdJWEpMd3phQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://finance.yahoo.com",
       "title": "Yahoo Finance"
     }
   },
   {
-    "title": "Chip Stocks Fall As Broadcom, Intel CEOs Warn About AI Funding - Investor's Business Daily",
-    "description": "Chip Stocks Fall As Broadcom, Intel CEOs Warn About AI Funding  Investor's Business DailyBroadcom CEO: Investors are ignoring a key lesson from Warren Buffett  Yahoo FinanceElon Musk Says ‘No Crying in the Casino’ After Broadcom CEO Warns AI Frenzy Is Getting Out of Hand  Barron'sChip stocks slide in wake of ‘casino’ comment by Broadcom boss  Financial TimesChip stocks slide after Broadcom boss likens AI investing to ‘casino’  The Guardian",
-    "published date": "Mon, 12 Oct 2026 20:45:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdUpNa0VGMlFkV2I0bXFSQU02UzM3VmowV1JlV2NrQmU1NnZzNVJtYW5od015NVAzci0yM00xbXkxek1BSjJCWGM1N2ttY3M1TTdVUnZKeWtyUUhBdnBCREY4ZFVZdHdnRUNBM1pLTE84YWtVUXBGUk9keko0b1lrNTVLR2N4LWxha04wa3VRcG43ZDJURWJSUVdSMzhjbm05ejJYYUt1UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Some who have taken hyped, unregulated peptides have regrets - The Washington Post",
+    "description": "Some who have taken hyped, unregulated peptides have regrets  The Washington PostSee more headlines & perspectives on Google News",
+    "published date": "Tue, 13 Oct 2026 16:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOENGcG5qeVRkOTdPekdtZVVJNzNoLVJrcTNUZWc5ZENXbjlpd0JhODlWUGVUUDlNUk9sVURmLU9JUWttVXFNbFpSQWh4YUpjbWdRWm9vc3dlWWNDQjVhR3BBS3pCcnA3d3JtY296aEVtb0tsVjljTUExeEowUmNkdVN6SkZfdElXakhjYWVMSHRMbl9JSXF2WlBlVklmMl9pNnZPcjBHOW4xZWRPbHFvNg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.investors.com",
-      "title": "Investor's Business Daily"
-    }
-  },
-  {
-    "title": "Nvidia and AMD Reached a Historic Valuation Split. 1 Stock Is Far Safer. - The Motley Fool",
-    "description": "Nvidia and AMD Reached a Historic Valuation Split. 1 Stock Is Far Safer.  The Motley FoolNvidia (NVDA) vs. Broadcom (AVGO): Which AI Stock Is a Better Buy After the OpenAI Scare?  Yahoo FinanceAMD Vs. Nvidia: If You Can Only Own One to Finish 2026, It’s This One  24/7 Wall St.Nvidia and AMD Lead the AI Market. 1 Chip Stock Has Far Greater Upside.  The Motley FoolBroadcom vs. Nvidia: The AI Revolution Is Big Enough for Both. Here's the Better Buy.  The Motley Fool",
-    "published date": "Mon, 12 Oct 2026 20:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTnBXbzZNNjl2alg4RnNpb0VtS3pRQjdNWmdmeEpLc0RPODdqa0t5aWl0YUhpVUhtcWJaQ0ZsUWZVT056d3YzT1B6aVlsLTlCTlhraWN0eEtuSUpIcHZTbzBhNkNxUGZXMFYwTk1UVVA2OG0wWE1YbVBwZjJLR2U3ZVRkYlViRG5GNDJrQkVTN3lNeV9kVWVJ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.fool.com",
-      "title": "The Motley Fool"
+      "href": "https://www.washingtonpost.com",
+      "title": "The Washington Post"
     }
   }
 ]
