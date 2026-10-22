@@ -1,17 +1,7 @@
 [
   {
-    "title": "Wall Street sinks as Nasdaq falls over 2% on AI cost worries - Reuters",
-    "description": "Wall Street sinks as Nasdaq falls over 2% on AI cost worries  ReutersStock Market Today: Tech Selloff Deepens as Flight Into Treasurys Drives Yields Lower — Live Updates  WSJMeta and chip stocks decline as AI trade comes under pressure: AlphaCheck  Yahoo FinanceSinking AI stocks undercut markets worldwide as oil climbs to its highest price since May  AP NewsNasdaq tumbles 2% on AI spending concerns and jump in oil prices: Live updates  CNBC",
-    "published date": "Thu, 22 Oct 2026 18:36:19 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.reuters.com",
-      "title": "Reuters"
-    }
-  },
-  {
     "title": "Race to update services' computer systems after cyber-security flaw found - BBC",
-    "description": "Race to update services' computer systems after cyber-security flaw found  BBCAI finds cybersecurity issue affecting 70% of the internet, forcing websites to shut down  CNNHow a years-old PHP flaw became a global security crisis  OregonLive.comRush is on to patch a software vulnerability that could impact 70% of websites worldwide  AP NewsAmazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot  Amazon Web Services",
+    "description": "Race to update services' computer systems after cyber-security flaw found  BBCWhat to know about the AI-detected security bug impacting wide swaths of the internet  AP NewsHackers appear to be struggling to exploit PHP flaws after global cybersecurity crisis  NBC NewsRead This Website While You Still Can  The AtlanticAmazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot  Amazon Web Services (AWS)",
     "published date": "Thu, 22 Oct 2026 17:12:51 GMT",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnNGFxeVA1MWZhejZqYk15Slc4QVlTbi14VmF2bzFwejhUaWM1Y2ZKTXVxLWhxM290em9nQy1OVUwzRzRjcGtPWWxXWnR2a2NfcDg5eENlS0lNb0E?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -20,29 +10,9 @@
     }
   },
   {
-    "title": "Mark Zuckerberg threatened to leave California over proposed billionaire tax, Meta says - CBS News",
-    "description": "Mark Zuckerberg threatened to leave California over proposed billionaire tax, Meta says  CBS NewsMark Zuckerberg Threatened to Leave California. Meta’s Board Cut Him a Deal.  WSJMark Zuckerberg Plots Deal to Pay Wealth Tax, Keep Meta Control  Bloomberg.comMeta strikes deal to keep Zuckerberg in California after wealth tax concerns  ReutersMeta offers Mark Zuckerberg incentive to stay in California after he said he would leave state if Prop 40 was passed  ABC7 Bay Area",
-    "published date": "Thu, 22 Oct 2026 14:28:38 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcks3QS1pWFdjMzg1dGV3ZUtFNVZuTENlUDMzcFVqOGpVQ2ZYOXRmOUExNGpqU0drbm1xaU12XzFEY3U4UlYtRU1pSWtlLW1ITnRuZ1h3cm5wU0JlcTJpYy0xcWY2amxxVEtvNDhGRjNLS0lKdUc0UVZuNTJwOU1GOFZvX3Z1UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cbsnews.com",
-      "title": "CBS News"
-    }
-  },
-  {
-    "title": "Average long-term US mortgage rate eases to 7.32% in first pullback since late August - Yahoo Finance",
-    "description": "Average long-term US mortgage rate eases to 7.32% in first pullback since late August  Yahoo FinanceMortgage rates dropped for the first time in months  Yahoo FinanceDon't bank on rate dip; servicing books win, KBW says  National Mortgage NewsMortgage rates drop for the first time in 2 months, but demand still falls further  CNBCMortgage Rates End Flat After Starting Slightly Lower  Mortgage News Daily",
-    "published date": "Thu, 22 Oct 2026 16:00:16 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOajlqLWlGcEJhUXNWYWRXd2xCMERkWlVZVHVzbU9SbGozTm82d1ZQVk5nXzZScFgtNEFnT2pFdWlQa2dwWW9MclIydlh6X3JVVXg0XzJxVDNvWDBJQ2o2QVNCallzVzdEQXZyRXBnZ3EyOTJBT0NxUnhnU193bFRxQjQ2YXJ2N0pYWVF6STZuZTc3ejhIMlE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://finance.yahoo.com",
-      "title": "Yahoo Finance"
-    }
-  },
-  {
-    "title": "Moderna’s Shares Plummet After Cancer-Vaccine Data Shared on Social Media - WSJ",
-    "description": "Moderna’s Shares Plummet After Cancer-Vaccine Data Shared on Social Media  WSJModerna, Merck Shares Fall After Possible Melanoma Data Leak  Yahoo FinanceModerna shares plunge after leak of cancer vaccine data despite positive results  CNBCDetailed data confirm Moderna and Merck cancer vaccine met key endpoints in melanoma trial  STATMerck/Moderna cancer vaccine cuts risk of death or recurrence from melanoma by over 40%  Reuters",
-    "published date": "Thu, 22 Oct 2026 18:09:00 GMT",
+    "title": "Moderna’s Stock Plummets After Cancer-Vaccine Data Shared on Social Media - WSJ",
+    "description": "Moderna’s Stock Plummets After Cancer-Vaccine Data Shared on Social Media  WSJTempus shares take a hit after Moderna-Merck melanoma data leak  Crain's Chicago BusinessModerna stock crashes as leaked melanoma data threatens its record August rally  Yahoo FinanceModerna MRNA Stock Price Plunges 14% to Erase $12 Billion in Hours: Why Wall Street Suddenly Turned on the Biotech Giant After Record Highs  cristinaiglesias.comMerck/Moderna cancer vaccine cuts melanoma death or recurrence risk by 42%, shares fall  Reuters",
+    "published date": "Thu, 22 Oct 2026 20:30:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN3lFT3FtM2N0ZUk0aDFIMWVOZ25wU1RPcGNpZm54c0NrVmJuTHRXZEtPVVdJcUN0ZC1RangwNWFGWUp4bjdPbEY5VnRZcWo1WlQ3a1UzYkdFWFR3MWh3R3hzcGhpX01WakZzX2JmcnR6M3dwNjVjdGdXajdMSWtWNFA2aDAxRGZBUWdRZzJNUzNQNHRXR2pGejdRNnZxQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.wsj.com",
@@ -50,78 +20,128 @@
     }
   },
   {
-    "title": "Meta whines New Mexico is “impossible” to please after historic $25 billion fine - Ars Technica",
-    "description": "Meta whines New Mexico is “impossible” to please after historic $25 billion fine  Ars TechnicaHow a Legal Backlash Against Big Tech Is Forcing Big Changes  The New York TimesMeta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case  CNBCMeta has strong chance of getting $25 billion New Mexico penalty slashed on appeal, experts say  ReutersMeta ordered to pay New Mexico $25 billion for violating consumer protection laws  ABC News - Breaking News, Latest News and Videos",
-    "published date": "Thu, 22 Oct 2026 17:04:31 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPc2FEajdJYkxmdzRpOWgzUTBkSC1nWHlDYzFXQ01yU284eU9tdDc4OVlhOWlJcmdCcXNPcXAzV3VpUnlkODc2S2Z5cENNYWI1aTlIUDc0dE5RLTE1MXppdWU0d3FjX0I4ZnVueGlIS1RnQk83c2JMd3Z2VHJ0SnUzN2d0TUlWc19ZTHZwWERta3dqRG4zcjhwNzRoQkVod1Vyc2ZERHh3Rkctbjl2V054SjVUa1NleFJDYkwxTVp0Yw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://arstechnica.com",
-      "title": "Ars Technica"
-    }
-  },
-  {
-    "title": "Elon Musk made a $1 billion investment in Skydance, report says - TechCrunch",
-    "description": "Elon Musk made a $1 billion investment in Skydance, report says  TechCrunchElon Musk invests about $1 billion in Skydance  CNBCSkydance (SKYD) Soars on Potential Billion-Dollar Investment — The Next Key Event to Watch  Yahoo FinanceElon Musk Steps In With $1 Billion Equity Investment For Debt-Laden Skydance — Report  DeadlineJohn Malone Floats Potential Deal Between Skydance and SpaceX  Bloomberg.com",
-    "published date": "Thu, 22 Oct 2026 17:36:38 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ2xjQkRMYjVTQk5STzYwMzNINHhsZjRZLTk5T2RLQkF5QmY5MEx6Y3daMThjMTFROTY1aG5nVzBtb1Jkd2traHR6QVNMcEd5c2VXOEZRUWRuYm1QVEpVbklKajNwSHV1aFlFQzNYZHhya1ozRGc3TG9UZ2NXU0VOTm9vMVpDUnBhZUh2ZEo3aXBpd0ZXZ0pLaVlMU2k?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://techcrunch.com",
-      "title": "TechCrunch"
-    }
-  },
-  {
-    "title": "Airbnb guests freed from chores involving ‘significant effort’ under new global rules - The Guardian",
-    "description": "Airbnb guests freed from chores involving ‘significant effort’ under new global rules  The GuardianAirbnb Says Guests Shouldn’t Have to Do the Dishes Anymore  The New York TimesAirbnb hosts can no longer ask guests to clean dishes or make beds  NBC NewsAirbnb's new rules limit cleaning chores for guests  ABC News - Breaking News, Latest News and VideosAirbnb hosts can no longer make guests strip beds and wash dishes under new rules  BBC",
-    "published date": "Thu, 22 Oct 2026 14:15:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd0xvQ3NUbWdvZnhCWUZNQ1hzd2ExQ25QNzIwZUFUUENBM1FKelZ6d0FqZ3ZVdWc4WHFDRk1ld2E5OWhKLXNlS01ySFFBQnIyVU5HUTFMSWZWRDFrWFhVQWxTLUkzdUdKdm5VZlUwZy15XzkyMjlheWFwRjZOeTMySU04Zmc2bDhPRmt6V0xSbEFzOVNfSVJ6YV9MbThLOWhSazdmTkxhcEcxTHFqMDNxUXlQOGk3ZFhFY29JVk1qSzR5Rlp0LWY3dmh3UzBCelNWdGJ2Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theguardian.com",
-      "title": "The Guardian"
-    }
-  },
-  {
-    "title": "Jon Gray Rebuts AI Bubble Warnings, Calls Demand ‘Parabolic’ - Bloomberg.com",
-    "description": "Jon Gray Rebuts AI Bubble Warnings, Calls Demand ‘Parabolic’  Bloomberg.comBlackstone sees widening credit spreads as a chance to capture higher returns  ReutersBlackstone’s Jas Khaira says fears over AI-buildout debt are overblown  TechCrunch💬 Money Quote: Stephen Schwarzman  WSJBlackstone sees AI buildout creating new opportunities for private credit  DealStreetAsia",
-    "published date": "Thu, 22 Oct 2026 15:16:59 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb1JINzI1UWlFd0VHX3lBdUM1dTdsQzJhSGc0eWlvMjhmSzhIOVcyWVlTbUp2dWR4Ny02eFdDeXk1ZG9vN0RQbjVES2ZRV0JacVpVUm5vVEw5RUtEb19WakMxendHTDIyTEJjaUdndHg5YUZQTEdjWDVKLWp0NVBSd24yMUZmeURmR2lrZ2dXWDFDekhpZFc0dTZBWnQxNUh3OEVTMTk4Qlg4eEdM?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.bloomberg.com",
-      "title": "Bloomberg.com"
-    }
-  },
-  {
-    "title": "Powerball numbers for Wednesday, Oct. 21, 2026: No jackpot winner - Detroit Free Press",
-    "description": "Powerball numbers for Wednesday, Oct. 21, 2026: No jackpot winner  Detroit Free PressPowerball winner in Ohio hits prize worth $2 million: See where the winning ticket was sold and check the lucky numbers for Oct. 21  WKYCPowerball Jackpot Soars To $674 Million—Here’s What The Winner Could Take Home  ForbesPowerball numbers tonight, Oct. 21? Powerball winning numbers last night  IndyStar$674M Powerball jackpot grows as Georgia players win  Yahoo",
-    "published date": "Thu, 22 Oct 2026 10:02:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSVpfWGMzU09IdzVtV0U4eGJrTlhOQ0ltVVRnQWZNT2YyMGRFQkQ5WUZTVzlVV2ZHTDZOc1pMZ0cwQk5EUExJTVpZMFNwY2hOSnVaRlVwMXVmUFBMeW1VSkxjZnFyLVBja0pLVm5KeFp6VlRIdnduTGNrbDFKSUl0YVc0T084bTB3TDNOZDlVX20tUU9fc241RnJXYnBrOGs4SGFkQTFVR1J5d0s4RkpPNUpfX0w2WTg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.freep.com",
-      "title": "Detroit Free Press"
-    }
-  },
-  {
-    "title": "Why Elon Musk wants to merge Tesla and SpaceX before Trump leaves office - Euronews.com",
-    "description": "Why Elon Musk wants to merge Tesla and SpaceX before Trump leaves office  Euronews.comSpaceX: A Futuristic Berkshire Hathaway, or Just a Mess?  WSJMusk Tries to Lock In His Tesla-SpaceX Dream Before Trump’s Exit  Bloomberg.comElon Musk’s dream merger is a nightmare for SpaceX shareholders  FortuneFor Musk, A SpaceX And Tesla Merger Is Likely About Power Not Personal Profits  Forbes",
-    "published date": "Thu, 22 Oct 2026 11:59:28 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbHZHUGlTZWhsTGJxY0FJOWlpRFVGNkx2Q0ttZW9rY043QTl2S2ppc3VVY0p4bzVTMXhlaUp3SlVERGdUc2QtXzlqMml4NVZHbnBCdTJRTm5pM1hpTWwwU0pkeVRfdFY4bDlGN1N2R0VTbm1qWVd5QWN4d054Vk1ReDlzVlpjejFYWFFKRE03S3NfZEpxNDM5eldRSjZMRkxpNTExYUpxaG11UjF2?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.euronews.com",
-      "title": "Euronews.com"
-    }
-  },
-  {
-    "title": "American Airlines forecasts bigger loss in 2026 on fuel spike, plans to slow growth next year - CNBC",
-    "description": "American Airlines forecasts bigger loss in 2026 on fuel spike, plans to slow growth next year  CNBCAmerican Airlines sees record revenue but fuel costs dampen profit push  Dallas NewsAmerican sets new revenue records amid historic fuel cost pressure  American Airlines NewsroomHow Low Can American Airlines Stock Go?  Yahoo FinanceAmerican Airlines Sees Another Quarterly Loss as Fuel Costs Rise  WSJ",
-    "published date": "Thu, 22 Oct 2026 11:10:03 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNak80bjFjS2pOdmVwM2RueXhEbnJZU1hpMWdZckJMbEgtaEl4b2dTdHV2VkpsVWdvWGFzeW1mVDkzWUVhNUtseWpOSTlaLU44R0JKN196bHQwbEFOT0pWUENEaWF5aGs3TVluYkdGVU5XcENSdE15QldhaTk5Z2ZGddIBhgFBVV95cUxNUXdObGpBeW01bjVUbkhmcHZqU2JXeDJKRUN5U0xvQ2FDRGZHa0J4Vk5KTDk3M2RyaEw3TDFYd0ZrSzh6eUthUENPeE9fQlBUaUtzaUVEckhoMVNNampaVVFaXzBBQ2FiQlh4WjlDeXotZEg5Q1AzNGNfejdITUtveVJCS2tpUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election - CNBC",
+    "description": "Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election  CNBCMark Zuckerberg Threatened to Leave California. Meta’s Board Cut Him a Deal.  WSJHow Mark Zuckerberg Pushed Meta to Shield Him From California’s Proposed Wealth Tax  The New York TimesZuckerberg Wants to Keep His Votes  Bloomberg.comMeta strikes deal to keep Zuckerberg in California after wealth tax concerns  Reuters",
+    "published date": "Thu, 22 Oct 2026 20:35:58 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT2dXYUtjQk1yN3hkVTJlMFNoaC0zZzFaWnlSYmRuVlJnZVFrcUFSNUREQTJtNW9pQmcxU3ZodjhzQjlWeklCR1R4elFKdVpuR1BiVHIzRXQxNlNxSjF3ZDJMUnA3VjNDQlhqQkFlR2xLMk5yTHg4UU5zVkR4UnNFMjNHOEJ6Ny00N3ZQOdIBkgFBVV95cUxOYTh5VTNINDFEWUhndmFiaFFDVFh6LW1qOFBOTEQ3YjlySlYyU0lmeXVwYmhuTktySzNHajAxcEtaWU9TZlhUYno4RUFDOVFBbmRGSmJGRFlTRklXUGxGZkx5Znh0STRjdzE2Nk9VSm1zV3B4WWV3Z0d3dTJ6czRVUUFMamxGQnhrbzczWkRhQk1CUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.cnbc.com",
       "title": "CNBC"
     }
   },
   {
+    "title": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff - Reuters",
+    "description": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff  ReutersStock futures are little changed after tech sector sell-off: Live updates  CNBCStocks Set for Worst Day Since July as Bonds Rally: Markets Wrap  Bloomberg.comSharp drops for AI stocks overwhelm markets worldwide as oil prices jump  The GuardianNasdaq Suffers Worst Session Since June As AI, War Jitters Ramp Up; Meta Plummets  Investor's Business Daily",
+    "published date": "Thu, 22 Oct 2026 20:48:22 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.reuters.com",
+      "title": "Reuters"
+    }
+  },
+  {
+    "title": "Airbnb hosts can no longer ask guests to clean dishes or make beds - NBC News",
+    "description": "Airbnb hosts can no longer ask guests to clean dishes or make beds  NBC NewsNew Airbnb Rules Will Limit Chores Hosts Can Require  The New York TimesAirbnb guests no longer have to wash the dishes or strip the beds at checkout  AP NewsAirbnb's new rules limit cleaning chores for guests  ABC News - Breaking News, Latest News and VideosSoon You Won’t Have to Do Dishes at an Airbnb (Unless You Really Want To)  CNET",
+    "published date": "Thu, 22 Oct 2026 17:18:34 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQalE2QXo1bnJNSk5YR1AzOXUtNmIydzNNb1dJYnRyMkRGeXY0Y0FJeHk4UXZVczRydi12QTNBREZTV0U5dFhYeVI1bm9fVURZRlMwQmlCOUVfRXpQV2Y4V29aX3VuemhQYlctWjVSa3JYRjdtNTM0QlA4OFpmc2tubXdKTFo4RnVUa0dYemxCT0YzRXVKWUs0ZElKX3J3S21nVFlmaXlneV9LdjFy?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nbcnews.com",
+      "title": "NBC News"
+    }
+  },
+  {
+    "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations - The Hacker News",
+    "description": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations  The Hacker NewsMeta shocked by $25B fine after N.M. refused to join multistate settlement  Ars Technica‘Just the beginning’: New Mexico AG warns AI industry after $25B Meta ruling  PoliticoHow a Legal Backlash Against Big Tech Is Forcing Big Changes  The New York TimesMeta ordered to pay New Mexico $25 billion for deceiving users about privacy on Facebook  AP News",
+    "published date": "Thu, 22 Oct 2026 16:12:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNGY2N3R3ZWV5cEtVNzROX1ZPcWJFRGZGLUlfWHp0T1NnZFpmazQwSm43NFBpTXZaOVVBdGhOZDJpSS1BcU9YMTBuczdKbHNlUW51eHY0STFWNmM2U1lPLWt0QS12SVpyWUprRnRobDVSdGE1NHBPZFg1UkY4TnZKSg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://thehackernews.com",
+      "title": "The Hacker News"
+    }
+  },
+  {
+    "title": "Average long-term US mortgage rate eases to 7.32% in first pullback since late August - ABC News - Breaking News, Latest News and Videos",
+    "description": "Average long-term US mortgage rate eases to 7.32% in first pullback since late August  ABC News - Breaking News, Latest News and VideosMortgage rates dropped for the first time in months  Yahoo FinanceRates drop, but damage to housing’s fall season ‘already done’  RealEstateNews.comMortgage Rates See First Decline in Nine Weeks  WSJMortgage Rates End Flat After Starting Slightly Lower  Mortgage News Daily",
+    "published date": "Thu, 22 Oct 2026 16:34:26 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXpBRXI2dnVwZklRZVNhZFhpRGJhVnUxbDNObEQ0NjhkdHBuT1BsbE1pRzB6a0FXN250YkVVSDljaVgzd2FwX2VJRFJlSUZZNDVJOU9LZkFJaGtwU29ObkkzVmhpSVBuZ0J5MnpGMVJmNkdNTEwxMjZJSzBKcWR1S2g4UTl6R01OSG9pUGFxY0Z4T2FKWXB1NNIBngFBVV95cUxQTml1TGJYUjdRVWZhVVRqYkVSMHU1dUJIOUx6OWppOFdWcEp2RW5mTUhVN1JWeUVVLVZiU2NJQ01lUkhPZ1VkUWRNdHltcTNHSVh0TzR4VEZKYzlwM1RWLUNBejNicllPdlFCQmljMGEyaTlwSlhPSU12dllBbllfSFhHdXFWazZrV1VYblZWTjRfZEZWV3pEOWppWWdDUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://abcnews.com",
+      "title": "ABC News - Breaking News, Latest News and Videos"
+    }
+  },
+  {
+    "title": "US Treasury drops Venezuela from countries facing outbound US investment restrictions - Reuters",
+    "description": "US Treasury drops Venezuela from countries facing outbound US investment restrictions  ReutersSee more headlines & perspectives on Google News",
+    "published date": "Thu, 22 Oct 2026 21:05:43 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOHpQWm5nQmJpYnlpNkloZEdBcWdKYmV2dkhOcFhuVEdtVUJBNlo4bVFZSkM0NmNVb3N3WEJ0QjYzekhrOEFvVmgzaEMtTUxtVnBpd0VIZm83RFpPOXpPV3FpVmtmZzNfRWphcjkwNURkMnk4MkhSQVI2NDgzRjFveWg3ang0VFlQY0thTzVybzdkYWRSeFUxdDYzMjBWU2k3UU1HamdFRVoySEJYeFJYd0h5X3hrY1l0dEtXelpCNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.reuters.com",
+      "title": "Reuters"
+    }
+  },
+  {
+    "title": "Elon Musk Steps In With $1 Billion Equity Investment For Debt-Laden Skydance — Report - Deadline",
+    "description": "Elon Musk Steps In With $1 Billion Equity Investment For Debt-Laden Skydance — Report  DeadlineExclusive / Elon Musk makes $1 billion investment in Ellison’s Skydance  SemaforElon Musk invests about $1 billion in Skydance  CNBCElon Musk reportedly invests $1bn in David Ellison’s Skydance  The GuardianSkydance (SKYD) Soars on Potential Billion-Dollar Investment — The Next Key Event to Watch  Yahoo Finance",
+    "published date": "Thu, 22 Oct 2026 18:29:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWkwtR0pVbVRIcjdBWXVoMHFFTGtGR2lydnFibGZVOHB5dUE1VHVta3JMMzVvT0pOWjNlMjhYWTVoc0Z2SWdMeEx6VDN5dVl4OUxqdko3VjR1cXhuZmhJQnRqaWVBX2VvWGc2bjJTM3RoeWtMaVpZNkRydFZhMGZjXzF4U3JRNjNDYzNFcg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://deadline.com",
+      "title": "Deadline"
+    }
+  },
+  {
+    "title": "Treasury yields see extreme plunge. Why investors are ducking for cover. - MarketWatch",
+    "description": "Treasury yields see extreme plunge. Why investors are ducking for cover.  MarketWatch10-year Treasury yield tumbles below 5% to lowest level in nearly a month  CNBCLong-End US Yield Hits One-Month Low as AI Fears Fuel Haven Bid  Bloomberg.comU.S. 10-Year Treasury Yield Falls Under 5% as French Turmoil Fuels Flight for Safety  WSJInvestors Snap Up Treasuries During Tech Rout, Driving the Yield Below 5%  Barron's",
+    "published date": "Thu, 22 Oct 2026 21:32:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdDNHQlIxQkRfeVl2bWtrX2lzYTZsX0JYazZRaGdkclU5aHAwWlppV05YSTdvS0kwQXNVa0p6N0tseXVpcDZPRFBhdV9fbTExaXZZSTJJT1RXQmVXR3ZpTE5aZXp5cXFHRnB0WGxJNjVubU14LUs0eFV0SDVHWnJpYVkwYlNxZEhvZDVPa1U1MXlsYi15a2czRGJiOER5RjQ5M0toakZZbWV5S245WkM3QVNhZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.marketwatch.com",
+      "title": "MarketWatch"
+    }
+  },
+  {
+    "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares - The Verge",
+    "description": "Sure, let’s smoosh SpaceX and Tesla together, who cares  The VergeSpaceX and Tesla Are Already Joined at the Hip. What a Formal Merger Would Mean.  WSJElon Musk’s dream merger is a nightmare for SpaceX shareholders  FortuneSpaceX stock surges after Musk says a merger with Tesla would be ‘a good idea’  CNNSpaceX says potential Tesla merger would need Elon Musk's approval  Reuters",
+    "published date": "Thu, 22 Oct 2026 19:45:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOGxjTkQwNXJxcWhrWHpzWXAxZm92WkVNVklIMG5DZlZLc1NETy1tdE1sb3pBMnZ4RWJEM0tsR2xJXy1lRm93MVdjODBnOTRhSC1MdHVSQkwwOUpQSklPdVpsRGFMZjAtQnJxcDlRbXNtUmhMaFkwZEJpVktYdFZVX2ZUN3RxREUyNHd0M2RkaE5jQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theverge.com",
+      "title": "The Verge"
+    }
+  },
+  {
+    "title": "SpaceX in Talks to Access 80,000 Cell Sites for Wireless Network - Bloomberg.com",
+    "description": "SpaceX in Talks to Access 80,000 Cell Sites for Wireless Network  Bloomberg.comAT&T's CEO throws shade at Musk's Starlink mobile ambitions  Yahoo FinanceSpaceX Just Made Investing in Telecom Stocks Riskier. Here’s Morningstar’s Top Pick  MorningstarElon Musk: Starlink Mobile’s game plan too big for an earnings call  Fierce NetworkStarlink Might Piggyback on Your Equipment to Build Out a Cellular Network  PCMag",
+    "published date": "Thu, 22 Oct 2026 21:31:42 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLTNzQVpJRVpWOVZUb3hEMk5Zc2tXRDRUbVktdHVNekE0LWVRRWpia2xFQlJPeE9pWjhEdnBpX0FDY2lJWFFRekhPd01TTmVsemYtYXZtWEl5d1pEYjdvOGJzUkttejNVU2x2aWlzZktWNWVUUTdOcTRTc0ZGQ05Za1c2N1VyMzRKVk1uM2t6WGVVQ3FDQjVpcTY3eGVtQlhNNktHY1R4cnBWM3FEbzZMVHA0TG9Jdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bloomberg.com",
+      "title": "Bloomberg.com"
+    }
+  },
+  {
+    "title": "Taco Bell sticks with Pepsi as sister chain switches to Coke - KSL",
+    "description": "Taco Bell sticks with Pepsi as sister chain switches to Coke  KSLPepsi renews contract with Taco Bell days after KFC switches to Coke in the U.S.  CNBCTaco Bell makes decision on soft drink provider as sister chain KFC switches to Coca-Cola  KY3Taco Bell extends PepsiCo partnership through 2036  Nation’s Restaurant NewsPepsiCo extends its beverage deal with Taco Bell for another 11 years (YUM:NYSE)  Seeking Alpha",
+    "published date": "Thu, 22 Oct 2026 19:41:15 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZDF3RHhHR0pwWDBiTDU4MXBIZy1HSWczQ094bkV6Vy1lMFJwWU4tRlFoY1VZbVBkTUczNnU4U0JlVUtfcVF2WW8yb01IYTNnZjVmYXdyWmxhQkhOLXVoN3pSQm8zejA3ZkhmQUtEaVpoQzlUZXozM2kzQmRGVEtvT0xZU0xqdDlrY3kyYjl2ejZ5dnMyYjZJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ksl.com",
+      "title": "KSL"
+    }
+  },
+  {
+    "title": "Meta stock falls 7% as AI spending fears return - Yahoo! Finance Canada",
+    "description": "Meta stock falls 7% as AI spending fears return  Yahoo! Finance CanadaMeta stock drops more than 7% despite strong Q3 results as AI spending fears return  Yahoo FinanceFirstFT: Meta rekindles AI spending fears  Financial TimesMeta Earnings: Early Look at Muse Adoption Impresses Investors  MorningstarMeta Credit Risk Gauge Hits Fresh High on AI Spending Plans  Bloomberg.com",
+    "published date": "Thu, 22 Oct 2026 20:03:49 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYnpubkZwTUh0RkQzWS1IQWltQmkzRnVnVTdWX0VaTVU3Q1VsSGJ2Y1pOSUY0UThpdTBDZGl0UUlkZW01Skd3WmNCZ3ZRNC1yVFdpX1FQaWQ4TTdzWGE5eU9kTTVvZ2xocXM0bEo3Z3BzMWo3N2x6Yk5GcmtwdVVrdUg4QlFhQlhYcUpudjJhMmpXTVlLemJiTm9NM0VrVVAwUmtKMFB4d09JZkNqcmdnWWF3NDUwdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://ca.finance.yahoo.com",
+      "title": "Yahoo! Finance Canada"
+    }
+  },
+  {
     "title": "Laboratory operator Quest reports cyber breach affecting patient records - Reuters",
-    "description": "Laboratory operator Quest reports cyber breach affecting patient records  ReutersSee more headlines & perspectives on Google News",
+    "description": "Laboratory operator Quest reports cyber breach affecting patient records  ReutersQuest Diagnostics reports cyber breach affecting 'certain patient records'  ABC News - Breaking News, Latest News and VideosMajor medical lab operator believes cyber breach exposed patient records  The Washington PostQuest Diagnostics Reports Unauthorized Access of Patient Records  GizmodoQuest Diagnostics hit by cyberattack  Yahoo",
     "published date": "Thu, 22 Oct 2026 15:35:43 GMT",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObWV3NGM1S1J4RHVYM2xFZlZOM1FNekxQQ3hDeUd5OGx3eXc0bjNkd1J6alZPYUtnQUpUX1R4X2xEYnNHVXM0Q1d2VzhoYkduRk5YZ1hNalV2dEhYYUFFX3RDUF9HZmRsVkhHbzE3WXJ0WHZ0UXJkaW52ajZQbndhSVNlbi14Nnh6WUR0OHVIb3lVdHhCMTVvejRpYU9iblVwZHlMalQtT2hJRzJpZVVYV1ZDZ1hiVnE1alM2MnhpeFFVTkE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -130,98 +150,18 @@
     }
   },
   {
-    "title": "Watch Elizabeth Holmes Lie To Forbes About Theranos - Forbes",
-    "description": "Watch Elizabeth Holmes Lie To Forbes About Theranos  Forbes",
-    "published date": "Thu, 22 Oct 2026 15:29:26 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFZCUVUyaDBzTlpOMTVuWFhlaC1ldG9HQzBWNlRTbFVubHNudXBvS1BLYUI5WmQ3YUxGYU04dzVGbm9RNXFJckk4QmJ1YTdnSkxBcmV5VHowZG1QNTg2TWwyX05HZTlsOGtidGpKVFhvWlBNaGhFbEp3eDZjaS1pUlRBVzhrTVVCaXctVVdFekhoS25JN0ZJX1hVbVlvV19HYVptXw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Scoop: Unvetted AI agents are accessing U.S. bank accounts - Axios",
+    "description": "Scoop: Unvetted AI agents are accessing U.S. bank accounts  AxiosUS banks are blocking third-party AI agents access to customer accounts, sources say  Reuters‘Nightmare’: AI agents spark security concerns at major US banks, report says  KRON4The Same Banks Writing the Rules for AI Agents Are the Ones Locking Them Out  Yahoo FinanceBlindsided by AI Agents, Big Banks Scramble to Beef Up Security  Gizmodo",
+    "published date": "Thu, 22 Oct 2026 09:03:52 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSDhwTU0wLUJrU2kza3Z2bFJoNmQ2NENWa1JRRHppbTc0OGJ2MHVOU1BfTzBMNzNVRGplNEdqSTZ4NlZfUDRCOVdoNk9PelNoalE0WDNRcVh1bGIzZlVLU0dWLVFGWjJpd1dEcFItX2RFT1k2Tmk1RHBBckd6aV9GVGdSaw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.forbes.com",
-      "title": "Forbes"
-    }
-  },
-  {
-    "title": "Amex Platinum adds Airbnb perks and credits, ends one-night hotel credits - The Points Guy",
-    "description": "Amex Platinum adds Airbnb perks and credits, ends one-night hotel credits  The Points GuySee more headlines & perspectives on Google News",
-    "published date": "Thu, 22 Oct 2026 15:30:31 GMT",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44MVBZY3d2MUhmQUk3eHlkeFRDT0xYd284dnZ1Q3ZyTnFzNWRfRlptb004MjduU1V3eFFTWi0xV1FBWmVYbEFmRFdfTVBGdm91THZUamhxOXFESURfN2lOcDhRcnVhQnJOUjVxaERYUTlXaVFkTi00b2hoNA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://thepointsguy.com",
-      "title": "The Points Guy"
-    }
-  },
-  {
-    "title": "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease - CNBC",
-    "description": "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease  CNBCSee more headlines & perspectives on Google News",
-    "published date": "Thu, 22 Oct 2026 14:55:52 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT2dySUtTcDJmOXEtWlQyVUZYV0p0YjRIekJITVZ0X0xKWi15d19YNjN2OThaUVVTekxnM2xXdjh6MGg0T2pyTHY4VjdSbzFSVHdkWERVTDA1RTNtbDl4TVVBZVpVT09JdHZRNVdEd1UwSTJPTGpXQ1BvRHdBN0xYcDByU2Y3NHFj0gGOAUFVX3lxTE9Uc2lXY1MwdzFvczlIRHB0VW8zS3E3MGgzQnJTYjltZkhXZjdvblI4Q0JXdVV4UkNYRGllcTNqMG9qMWQyU3FhZFFJNnNjOWdZSm9idjRrVW5xZDFqYnU2VjltUGYxZ0JUUl8xVFYwWFEtTm5DaktCNWh0VTg0Zk1VSnJ6RXZLRlFSSTN6aFE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cnbc.com",
-      "title": "CNBC"
-    }
-  },
-  {
-    "title": "Meta stock drops more than 6% despite strong Q3 results, stock split - Yahoo Finance",
-    "description": "Meta stock drops more than 6% despite strong Q3 results, stock split  Yahoo FinanceSteep bill for AI buildout punishes Meta, other tech favorites  ReutersMeta Q3 revenue tops estimates and Zuckerberg says Muse accounts have topped 10 million  AP NewsMeta’s Stock Split Paves Way for Huge AI Financing Deal  Barron'sMeta Is Getting Creative to Fund Its Massive AI Investments  WSJ",
-    "published date": "Thu, 22 Oct 2026 15:12:18 GMT",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM1E3OXFfaWVubXp4T1RLVkhod0R2WjVDMlRZYVY4Szl2MDF1SF9lQmxZMFNPTy1oeVZ0WEgzbVpzd1JmcVJ3TEkwOEhLTkJ0ZlRxSjRKLXFMRXBSZHIyY05GajY4WjVQcXBuSmNITjdVQm9jM3Bfdktmel84WjNHSWJLRUVqVGRDajYwRGVHSXdnaE9IOTY1TWxXUmxnLXhUXzB0eDdaV0tIbHFId1Fkdk10TVpac2I3dGpDQ1gwdm91TkE1?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://finance.yahoo.com",
-      "title": "Yahoo Finance"
-    }
-  },
-  {
-    "title": "Pepsi renews contract with Taco Bell days after KFC switches to Coke in the U.S. - CNBC",
-    "description": "Pepsi renews contract with Taco Bell days after KFC switches to Coke in the U.S.  CNBCPEP Stock Gains After PepsiCo Locks In 11 More Years With Taco Bell Following KFC Loss To Coke  Yahoo FinanceWhy Pepsi’s Taco Bell Deal Is About Much More Than Fountain Drinks  Barron'sPepsiCo Extends Beverage Deal With Taco Bell  WSJTaco Bell extends PepsiCo partnership through 2036  Nation’s Restaurant News",
-    "published date": "Thu, 22 Oct 2026 15:52:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sUFVHVi0zOE9VcWtNc0FYT2ZMSF9wR2lIX2RvNkFRSnlqMmV0dFpqQzdJQU5tM3JoUFBhaVpnOTJQRFRjYTdyVGJtenNzNnczbDdrZUVhdWtNN0d6RTc3emUycVBodklseUFLNkdVS3VGbXhFdnVz0gF8QVVfeXFMTW1IUlJwamxhUFFpaWJnV2VWdjlQb3g0aXNmb2VzakJkcTZXSV84Y2V0aTZ4VnlmeGh4NXlycXRkOGdHNHN5UzV4QTB1cGRsRHR2Z0xneXAxMXFjNjh1U2t6MEZNaGc4X3VYLTVZbTNDWDZ0T2lsSHBrUzlPVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cnbc.com",
-      "title": "CNBC"
-    }
-  },
-  {
-    "title": "This Satellite Startup Working On A GPS Alternative Is Now Valued At Nearly $2.5 Billion - Forbes",
-    "description": "This Satellite Startup Working On A GPS Alternative Is Now Valued At Nearly $2.5 Billion  ForbesNavigation startup Xona raises $250 million as it begins satellite deployment  SpaceNewsXona Raises $250M Series D to Scale Commercial GPS Constellation  Payload SpaceXona Raises $250M in Series D Funding  FinSMEsXona Raises $250M as Next-Generation Global Navigation Network Begins Deployment  Business Wire",
-    "published date": "Thu, 22 Oct 2026 10:30:54 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObVFNZHdXN3g4Ti1SeHF6QThuazhDVTRlclphY0VnWUNwdzI2Q0lUbzNheEN1cVhDdFlBckxsVlN5d01HUk5ObkZneWxUZi1vZVFFUkJwTlBzX0s3RE1WWkY2UUdKOUJWQ3hwSTJKVVNHdnJJRWZMMkhETlMtZk9aS1JSTDhhOGVwaHNHdlRQVVdoWk1FZjFoU2JiQ1hKSl9ZVFVxbGh6ZkVJZGRlRVQ4eEo4eG5HWFJXTmI1dEJvdW01UW5IaklRY2FoZ2Exc2txLURFanhmSlpuS1U?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.forbes.com",
-      "title": "Forbes"
-    }
-  },
-  {
-    "title": "Elon Musk sets lower sales target for Tesla as it explores SpaceX merger - Financial Times",
-    "description": "Elon Musk sets lower sales target for Tesla as it explores SpaceX merger  Financial TimesTesla, Meta, IBM: 3 earnings call shout-outs that left us thinking  Yahoo FinanceElon Musk says Tesla will sell 5 million cars by 2030 — math says otherwise  The VergeTesla beats on earnings and sales even as auto revenue declines  CNBCTesla shares slip after capex cut raises doubts over Musk's AI and robotics push  Reuters",
-    "published date": "Wed, 21 Oct 2026 20:09:34 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObVhkTjVoRmk2NkRTbVExSW1sRHFHdThfWXdmQ1VWZ3ZQeW9NdkM2VmpFUmNFX0ZVb3puUWhpVk44blNNN1BndHVZWGNWUHlkdkZXaWhjaTdaMDQzbW9HX2RlTlc1dk9GWk9vNFdFcnUtc3FHbmtOdzNvOHpFb1hRTTltWHU?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ft.com",
-      "title": "Financial Times"
-    }
-  },
-  {
-    "title": "Cruise lines chase luxury travelers with suites for up to $25,000 a night - CNBC",
-    "description": "Cruise lines chase luxury travelers with suites for up to $25,000 a night  CNBCThe Best New 2027 Cruises Built for Everyone From Kids to Grandparents  Parade MagazineThe Most Luxurious (and Expensive) Cruises to Book in 2027  Elite TravelerThe big hitters sailing into 2027 | Birmingham Mail - newspaper  MagzterCruise lines expand luxury suite offerings as premium travel demand grows  Traders Union",
-    "published date": "Thu, 22 Oct 2026 15:16:48 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMGh1YWVmSWhRZ2VjbTg3SmNlOWxjVmk1bFh2NFlxa0ozbWhMSXFWWF9LSS1SVmhNWXZjb0Fwc2FZa01KNFNyblBSbWJ5RnRVb1QwSDFzbkh2emNMbThFR2VaUDFQVDF4WjdJQWN3OVBBQkVHRmlaZEhFTmFrRElPQtIBhgFBVV95cUxPbzFvU2J3bjdlYWdsYVl0cDE0bVpBMVRaX21BWWdhTkNRRTEtTjZDWkh6NHRXZVh4b0RrZkxidnRpd1VKWUs1T0RFRmxkbEFTOGRaTkppOWJEWmlaVlA3Vzg3MkhMMDNqejA3UENoX3pKYlk4Z2M3V3hwN3FnN21jQmpJRnFYdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cnbc.com",
-      "title": "CNBC"
-    }
-  },
-  {
-    "title": "High health costs squeeze workers, even if you have good insurance through a job - NPR",
-    "description": "High health costs squeeze workers, even if you have good insurance through a job  NPR2026 Employer Health Benefits Survey  KFFSmall businesses are getting clobbered by health insurance costs for their employees  Business InsiderOpinion | Health insurance through work is flailing. Time to go ‘full Shark Tank’?  The Washington PostEmployers Shift Rising Health Care Costs Onto Millions of Workers  The New York Times",
-    "published date": "Thu, 22 Oct 2026 09:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPanBBM1B2OVhUaWZqbDFIZ0dGYXEwdG9nc1Zfa3FxNXhEUGFEYTBYbEZFTXhIcVphb1pSR3c2VzRyeS14UEZ1bjFKejJDRmo0UV83WHRWRUptVURLc3VSbTlUWVBXTWkteGJUU3FCdV80eFFBVHdxM2xzNVFYT3MwYW54ZHFZaFNMSFJKaw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.npr.org",
-      "title": "NPR"
+      "href": "https://www.axios.com",
+      "title": "Axios"
     }
   },
   {
     "title": "Central banks around the world are quietly stockpiling four times as much gold as usual and are moving it out of the U.S. - Fortune",
-    "description": "Central banks around the world are quietly stockpiling four times as much gold as usual and are moving it out of the U.S.  FortuneCentral Bank Buying Supports Gold’s Recovery Case Despite Higher Yields  Crux InvestorWhy Central Banks Are Buying Gold - And What It Means for Investors  The Globe and MailCentral bank buying builds case for gold equity re-rating  Australian Resources & InvestmentAnalysts lift gold 58 places higher amid central bank purchases  Yahoo Finance Singapore",
+    "description": "Central banks around the world are quietly stockpiling four times as much gold as usual and are moving it out of the U.S.  FortuneCentral bank buying builds case for gold equity re-rating  Australian Resources & InvestmentGold prices remain stuck below key resistance levels, as Goldman Sachs highlights the tug-of-war between short-term interest rate pressures and long-term reserve demand.  富途牛牛Analysts lift gold 58 places higher amid central bank purchases  Yahoo Finance SingaporeGold Price Prediction: Central Banks Buy 79 Tonnes in One Month, but Prices Still Fall to $4,084  CryptoRank",
     "published date": "Thu, 22 Oct 2026 10:54:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbHhMaFhQUUsyQ2RIQzhWM2ZZSDRjaVpJZnIxVTdFMzBkLWxRNHh5NU93ZWdYVXVYY3Z3U1BhQWpoRG96akJZaUQ3SW5haVVOUVZIOFp6aXNlWS1CVlBMazFORkNIUlVVdVdVTFdSSmpoSkxXSElJN3A1R0dCR3M4SU1JSTZlbXBUaWRaVnhoTU9jd2NmUS0xOTl0c0o?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -230,8 +170,38 @@
     }
   },
   {
+    "title": "Trump signs housing affordability executive order - Politico",
+    "description": "Trump signs housing affordability executive order  PoliticoTrump signs order aimed at reducing single-family housing costs  ReutersTrump order would target mortgage costs, manufactured housing  HousingWireTrump Launches Task Force on Manufactured Homes and Orders Affordability Reforms  YahooTrump draft order takes aim at mortgage costs ahead of midterms  Scotsman Guide",
+    "published date": "Thu, 22 Oct 2026 20:39:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZUt2XzJYNU82MjBtSFRRdUdBVFJLSVA4bllwXzJQc2lTQy01Rjd3N2hkMnBINFlnSTZzdW0tR1ZlMHp5eTBJRDczRXk1T25GZWtoWFpaMXU0akZWTzAzeFhCYU1ldWVvcG0ydzhDLWQ0NXJNenVxVjVrYV9Fd2ZLUFkwbE9KaXplMGk2cFV3Q2txcDJDekdkUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.politico.com",
+      "title": "Politico"
+    }
+  },
+  {
+    "title": "Airfares will not return to pre-Iran war levels, American Airlines warns - Financial Times",
+    "description": "Airfares will not return to pre-Iran war levels, American Airlines warns  Financial TimesAmerican Airlines forecasts bigger loss in 2026 on fuel spike, plans to slow growth next year  CNBCAmerican sets new revenue records amid historic fuel cost pressure  American Airlines NewsroomHow Low Can American Airlines Stock Go?  Yahoo FinanceAmerican Airlines Sees Another Quarterly Loss as Fuel Costs Rise  WSJ",
+    "published date": "Thu, 22 Oct 2026 20:08:50 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYmpyZDZOWGRYa0NxWFBaMk9yR3NUXzhTbU54cFFSVG52azFtX1JlcFo4LXg0REZiRjVvSnd5STFyZmdUQWJ5WWhSVUJJc21palVMYk9yMkpXU1RfZGcwQTQ3VXNRcm5ibGcwSGZPM0NfRGpnSi1TXzJzNmpKT1B0QzB0QmM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ft.com",
+      "title": "Financial Times"
+    }
+  },
+  {
+    "title": "Elon Musk says Tesla will sell 5 million cars by 2030 — math says otherwise - The Verge",
+    "description": "Elon Musk says Tesla will sell 5 million cars by 2030 — math says otherwise  The VergeTesla, Meta, IBM: 3 earnings call shout-outs that left us thinking  Yahoo FinanceTesla beats on earnings and sales even as auto revenue declines  CNBCTesla Profit Slumps as Elon Musk’s Car Company Considers Merging With SpaceX  The New York TimesTesla’s Lowered Capex Target Fuels Doubt on AI, Robotics Goals  Bloomberg.com",
+    "published date": "Thu, 22 Oct 2026 17:42:52 GMT",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa2ZBdU9PdDlrZkhKNDdGU1RPbExfb2RSVFdwM2VwRXhrcjlMcTJHZ0NTaGJfZ3VaR1pqbHpJOFhvTE54ekNSRFJ5aWlfY2c3NFgxVWYzcmFOdUpGMkgzbXd4SkxHeFp3bmM2dGtyUnFFaDJ6ZmFacEJaNkpTTElNY2dfbjlRa0UxQkhsOWxBM1RxaTd6Q2dpcmdIbTdfdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theverge.com",
+      "title": "The Verge"
+    }
+  },
+  {
     "title": "Why IBM Stock is Down Despite A Bounceback Earnings Report - Investor's Business Daily",
-    "description": "Why IBM Stock is Down Despite A Bounceback Earnings Report  Investor's Business DailyIBM beats on top and bottom lines as CEO Krishna touts 'Super Intelligence' traction  CNBCWhy Isn't IBM's Stock Bouncing Back After Strong Earnings Results?  Yahoo FinanceIBM Reports Higher Profit as Some Delayed Deals Come Through  WSJIBM raises annual software revenue outlook as deal delays ease  Reuters",
+    "description": "Why IBM Stock is Down Despite A Bounceback Earnings Report  Investor's Business DailyIBM beats on top and bottom lines as CEO Krishna touts 'Super Intelligence' traction  CNBCIBM Reports Higher Profit as Some Delayed Deals Come Through  WSJIBM falls as analysts question staying power of software rebound  ReutersBig Blue's Wild Wednesday Ride: IBM Crushes Q3 Earnings, So Why Did the Stock Tank Mid-Call?  Yahoo Finance",
     "published date": "Thu, 22 Oct 2026 15:20:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRTJtVTdmalVCcFByOUdRYzM3WEg4aW9SNmpnRmxLclNkRFNkc0FtTGQ3ZXBoYVNlb1J4RmtnTGJ2NkpOeFJldlk0UzhDLWMwMUtqMnRqdFU4MkttUzhrSmM4TmtuTVdSZEEwTGdqOEFiWFQtb2VNQy1FTjdvX0M0aVZRZks?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -240,13 +210,33 @@
     }
   },
   {
-    "title": "Scoop: Unvetted AI agents are accessing U.S. bank accounts - Axios",
-    "description": "Scoop: Unvetted AI agents are accessing U.S. bank accounts  AxiosAI agents accessing US bank accounts is budding ‘nightmare’ for banking industry: report  New York PostUS banks detect unauthorized AI agents in customer accounts, Axios reports  Reuters‘Nightmare’: AI agents spark security concerns at major US banks, report says  KRON4Five Major Banks Are Blocking AI Agents From Logging Into Customer Accounts  Yahoo Finance",
-    "published date": "Thu, 22 Oct 2026 09:31:32 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSDhwTU0wLUJrU2kza3Z2bFJoNmQ2NENWa1JRRHppbTc0OGJ2MHVOU1BfTzBMNzNVRGplNEdqSTZ4NlZfUDRCOVdoNk9PelNoalE0WDNRcVh1bGIzZlVLU0dWLVFGWjJpd1dEcFItX2RFT1k2Tmk1RHBBckd6aV9GVGdSaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Musk's SpaceX stock gift is 'tip of the iceberg' for Trump Accounts, Altimeter's Gerstner says - CNBC",
+    "description": "Musk's SpaceX stock gift is 'tip of the iceberg' for Trump Accounts, Altimeter's Gerstner says  CNBCIf Elon Musk gifts SpaceX stock through Trump Accounts, it will come with a catch  CNBCBillionaires are gifting stock to children. Is it a trick or treat?  USA TodayMusk pledges 1 SpaceX share for every child in America  AxiosMusk pledges $10bn in SpaceX shares for US children: Who really gains?  Al Jazeera",
+    "published date": "Wed, 21 Oct 2026 15:58:45 GMT",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2dV9MRExtT3Y2bm1GMG82STB5ZHAxa29IUkZZZjJqbkJwU2E0TVhhaTRkWGVNdVhvQ085Rzk1UElJRkNCMENlcWo0cnlKZnZuYUx0T05zazlJUnVKNF9qUF9KQy1reHVqY1dMQTVmdnZiNUxVbFlN0gF8QVVfeXFMTzlLWWFLT1NGTE52ekdjbG5vRnZGTUh3WGcxUU4ybU9IRmRkNEtlSk5PdlVwaVExb0ZnOC1iRDhCb1B2eE1QWXZ0ckdRQVFBU0M0XzhpaTJ1VWlya2ZSa3ZPNkRvT3pxS0hRV3FKSmRiR0o5TGhjZlJIeWx3Sg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.axios.com",
-      "title": "Axios"
+      "href": "https://www.cnbc.com",
+      "title": "CNBC"
+    }
+  },
+  {
+    "title": "Jon Gray Rebuts AI Bubble Warnings, Calls Demand ‘Parabolic’ - Bloomberg.com",
+    "description": "Jon Gray Rebuts AI Bubble Warnings, Calls Demand ‘Parabolic’  Bloomberg.comBlackstone sees widening credit spreads as a chance to capture higher returns  Reuters💬 Money Quote: Stephen Schwarzman  WSJCitadel founder Ken Griffin says AI is coming for white-collar jobs, but not at his firms  Business InsiderKen Griffin Says We’re ‘Almost Certainly’ in an AI Bubble, Recalls How Past Bubbles Created Market Leaders for Decades: ‘I Just Wish I’d Kept My Amazon Stock’  Yahoo Finance",
+    "published date": "Thu, 22 Oct 2026 13:08:38 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb1JINzI1UWlFd0VHX3lBdUM1dTdsQzJhSGc0eWlvMjhmSzhIOVcyWVlTbUp2dWR4Ny02eFdDeXk1ZG9vN0RQbjVES2ZRV0JacVpVUm5vVEw5RUtEb19WakMxendHTDIyTEJjaUdndHg5YUZQTEdjWDVKLWp0NVBSd24yMUZmeURmR2lrZ2dXWDFDekhpZFc0dTZBWnQxNUh3OEVTMTk4Qlg4eEdM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bloomberg.com",
+      "title": "Bloomberg.com"
+    }
+  },
+  {
+    "title": "911 Outages Hit Multiple Cities in California - Gizmodo",
+    "description": "911 Outages Hit Multiple Cities in California  Gizmodo911 outages reported across Riverside County  KESQOakland: Police Dispatch Center Goes Dark Following Tech Problem Wednesday Night  SFGATE911 outage alert reported for some cell users in Riverside County  ABC7 Los AngelesOakland’s 911 system is down  The Oaklandside",
+    "published date": "Thu, 22 Oct 2026 18:14:50 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaEpLWWZrUWd2a3ZiVjY4akRheDRQbGxWN3dSWFVXVVVkeXY2THlUQWpJQ2xIck53ck1VSTBCTnI0Y25ERzZ3Wm9lUXdSUnItc3Z0TWlnNFFVRHZJVEdJWmdCZzg1dlRxYUpmUmxOLVItUldhU0g2S3NnNkJRSWdrN0pR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://gizmodo.com",
+      "title": "Gizmodo"
     }
   },
   {
@@ -260,38 +250,18 @@
     }
   },
   {
-    "title": "10-year Treasury yield tumbles below 5% to lowest level in nearly a month - CNBC",
-    "description": "10-year Treasury yield tumbles below 5% to lowest level in nearly a month  CNBCLong-End US Yield Hits One-Month Low as AI Fears Fuel Haven Bid  Bloomberg.comU.S. 10-Year Treasury Yield Falls Under 5% as French Turmoil Fuels Flight for Safety  WSJAI doubts drive bond rally as Meta, IBM flash warning signs (TLT:NASDAQ)  Seeking Alpha‘AI is on trial’: Bond yields sink below 5% as investors look for safety  MarketWatch",
-    "published date": "Thu, 22 Oct 2026 09:31:06 GMT",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44R0JKdU52c2ZGdTBUaTlIellnNmxmdjZSYklzT3VmZU84azN5T0J0eWRZWGQ4RmZFMEVkYm1zaEVRVXNIWVdUSUlCRU9ob2ZZQzdSWVhEeXVJZWxZejF1VVhhMXFFb04wZjU0UG5VSdIBdEFVX3lxTE5PR2VqMmdvZjZNcXNnNWJ0ajhTSG9qbjVXdDVhZ295N2VhdzRfeGN3WlRJQTJEb21GVDBYdE16SWlnOTg2V1ZkMGI2UG5ENGctUGRZTkRRZ3pmYlVxRE00bjZpWHA3TGw5dHg3TzdBenIzZG1H?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Achy from sitting at a desk all day? Try doing this - NPR",
+    "description": "Achy from sitting at a desk all day? Try doing this  NPRSee more headlines & perspectives on Google News",
+    "published date": "Thu, 22 Oct 2026 09:01:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR25QMm1heEUtZERFVm4zbzdDcEpLanQwcUxOY0JsNnlyelcxUHJqcWtJUFF4YWlCRXRqSGEwMVRMVk0yTHJycnBPdjhYckpxSmRlNzFFUEcwR3BGWk9YVWR5S1lWYlRxNkZMOHZYdTAtcmQ0WGlxelo2bWFReVF3TzdLNWFiT2pwRlNkaHY4YUZkQ3ZUb19BY0V3OGFkQUg1bkFucnAyRHp3R3p2djNTVnI1X3R1MFVxYkE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.cnbc.com",
-      "title": "CNBC"
-    }
-  },
-  {
-    "title": "Brent crude tops $111 after Trump hints at action on Iran, U.S. orders staff to leave Saudi Arabia - CNBC",
-    "description": "Brent crude tops $111 after Trump hints at action on Iran, U.S. orders staff to leave Saudi Arabia  CNBCBrent hits five-month high on escalating Middle East conflict  Yahoo FinanceOil Prices Rise More Than 2% as Attacks on Saudi Arabia, U.S.-Iran Risks Persist  WSJBrent crude edges lower, even after Houthi attacks on Saudi infrastructure  ReutersOil prices jump to five-month high as attacks threaten global supply  The Guardian",
-    "published date": "Thu, 22 Oct 2026 05:12:19 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUjhnTDQ4QTM5cWtlRjN1MXFlOU5yQVlVd3F0M0pDNExkV29mV1duQUpSUjFiaXFuajRkNHRSc1EtaTBzemJOUElXbDhYUTRnSWlrdm1TRUxtQXEwdjM3blp5QnlVOFZJWnAyYjY1dTRwX3UycVZoMHJIWFZaUEZJNnRn0gGHAUFVX3lxTFBBRTI0YmhMaFkybjlPdGczT3I3cVlXX2xLcktrcjJEUVNueUY3QmNldksyRjFaWGtvUm1KUjVua2VibWMxcU5FWHpBakZCSWt2MXhUM0ZYd1FJeE1sLUtwREJ2Y1lldkxOdXZ6UGFqS2pwUksxZS1YLU1XUFNsTzBBMUJwRXAydw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cnbc.com",
-      "title": "CNBC"
-    }
-  },
-  {
-    "title": "France’s Debt Crisis Deepens as Foreign Investors Look for the Exit - WSJ",
-    "description": "France’s Debt Crisis Deepens as Foreign Investors Look for the Exit  WSJFrench Bond Stress Deepens as Crisis-Era Caution Creeps Back  Bloomberg.comFrench debt risk premium reaches euro zone sovereign crisis levels  ReutersA Debt-Fueled “Doom Loop”  The New York TimesFrench 10-year bond yield hits 5% for first time since 2002 amid unrest  CNBC",
-    "published date": "Thu, 22 Oct 2026 09:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbHZpbmlQOU91ajdXQW9SU3JXdlZMN3NBUGVQcTFRUHE3RXNfSHRCODNybnBFR081bi1SVmlwS2FHTkFiWFRMOFUzeUYtbTd2cDQ0LUQyQU5rRTdOVGN6OUZpR09hX1R0d0NpQnV2d0lfazI4ckVoTEtBRWtJNWJtUUplVzRBVDdpV0tEQVN1c0dRZWRmNFZ2LWVsWGlGbFg5Q1dYUUpFNVJYd2NwcXdyUlU5RQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.wsj.com",
-      "title": "WSJ"
+      "href": "https://www.npr.org",
+      "title": "NPR"
     }
   },
   {
     "title": "Chip Stock Rebound Comes Undone After Lam Research Stokes Spending Fears - Barron's",
-    "description": "Chip Stock Rebound Comes Undone After Lam Research Stokes Spending Fears  Barron'sChip stocks fall as equipment maker Lam Research cites 'supply chain constraints'  Yahoo FinanceLam Research Corporation Reports Financial Results for the Quarter Ended September 27, 2026  Lam Research NewsroomLam Research Sinks 9% as Supply Constraints Cap Outlook; Applied Materials Drops 6%, ASML Holding Falls 4%  24/7 Wall St.Lam Research Stock Falls As Chip-Gear Maker's Outlook Fails To Impress  Investor's Business Daily",
+    "description": "Chip Stock Rebound Comes Undone After Lam Research Stokes Spending Fears  Barron'sChip stocks fall as equipment maker Lam Research cites 'supply chain constraints'  Yahoo FinanceLam Research Earnings: Focus on the Fundamentals  MorningstarLam Research retreats 12% amid cautious guidance, China revenue drop (LRCX:NASDAQ)  Seeking AlphaLam Research Stock Falls As Chip-Gear Maker's Outlook Fails To Impress  Investor's Business Daily",
     "published date": "Thu, 22 Oct 2026 17:50:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVGdUaGljZHVHZjlyWWQ4TmpoeVQ3RWJzUDZ6cmV6bmxpbmc0OTV1OUlsSHBCc0VSdjlEMFNBN29uanF1MjE4Yl83US1YWjc0Vlo0LUlpWHpMRGkxLUZqWWdQQVRvUmxLR05yQzY0MURwMkZSX2RERzJUampLaXBlb0RIUURqYmF4LS1kVXFR?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -300,8 +270,18 @@
     }
   },
   {
+    "title": "News | Rising rates derail CBRE's real estate deal momentum - CoStar",
+    "description": "News | Rising rates derail CBRE's real estate deal momentum  CoStarCBRE CEO sees economic nervousness in markets  Facilities DiveThe world's largest commercial property services firm, CBRE, grew revenue 13% to $11.5 billion.  Stock TitanCBRE Says Rising Rates Are Repricing and Delaying CRE Deals  CRE DailyCBRE: Q3 Earnings Snapshot  KVUE",
+    "published date": "Thu, 22 Oct 2026 18:53:38 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdVdFblZRSlZJZGZ3U2FtTHp4bE8tME9GRW1JRWdZdUU3WDRKSkFodFFjZVk5cTMzUW03VTRJTkl1UWUyaFZJZ2s4aU9JdkMyMDFsUVNTV1B5aGhtckIwQVZHckJzMWhuUTA2c1JsbDRYSGlreHVEUFJ2ZC1OdkNlTl9CV3ZNX2lkXzN5T2psRnQ3bGhoRWJN?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.costar.com",
+      "title": "CoStar"
+    }
+  },
+  {
     "title": "Developer platform Railway urges ‘all users’ to revoke secret keys after cyberattack - TechCrunch",
-    "description": "Developer platform Railway urges ‘all users’ to revoke secret keys after cyberattack  TechCrunchRailway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation  The Hacker NewsRailway Urges All Users to Rotate Secrets After Security Incident  The DefiantI'm getting impatient...｜Theo - t3.gg  finance.biggo.comNew Railway Incident: Treat Every Env Variable as Exposed  GitGuardian Blog",
+    "description": "Developer platform Railway urges ‘all users’ to revoke secret keys after cyberattack  TechCrunchRailway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation  The Hacker NewsI'm getting impatient...｜Theo - t3.gg  finance.biggo.comNansen Flags Railway Breach and Urges Users to Rotate Secrets  TOKENPOSTDeveloper Links $370,000 Theft to Railway Secrets Exposure  The Defiant",
     "published date": "Thu, 22 Oct 2026 14:03:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeGNwTHJqaG4wZzBMSkQ4OVI3dzVxaVZacnhIMklDb2VuWTc5U2hfZlhpS1RaZlk1Y0JwTUppZjdtUVh0RzE5NDJ3cHN4TTZZa1M5ZXZ0STlBMlVrT0RmRWJ5WHRENExjMVNnOVBmMUMxY3Jrbkt3bXdyTXJaU2ZOcDIwXzJUU3JrNGV3QXRrcDFKU0pCdVFlTm8xU252LUZ3bHFxSzl3ZTFJeG12Yzg2eGpfOW85Qm9F?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -310,8 +290,38 @@
     }
   },
   {
+    "title": "Jensen Huang Says Demand for Neoclouds Is ‘Off the Charts.’ Here’s What to Know. - WSJ",
+    "description": "Jensen Huang Says Demand for Neoclouds Is ‘Off the Charts.’ Here’s What to Know.  WSJNvidia CEO Jensen Huang says neocloud demand is 'off the charts' but capital is scarce  CNBCJensen Huang says neocloud demand is 'off the charts' as CoreWeave stock continues to slide  Business InsiderCoreWeave (NASDAQ:CRWV) Stock Crashes Nearly 10% as Nvidia CEO Flags AI Funding Crunch  Stocks Down UnderNvidia’s Jensen Huang Says AI Agents Have Sent Token, GPU Demand ‘Through the Roof’: Gene Munster Sees 15  Benzinga",
+    "published date": "Thu, 22 Oct 2026 14:43:27 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQV05fWTUxWnNGakNfc0Y3UHVFNlZqN0oyUm5RT3h0OGtUWFE4N2F2X01tRWZxLXA0WWpKWGRxN3ZzbGhYb0l3bjN6YnBPRWptNWJYaDVXNFdOTExwMC1pbjVYekl3VDJwNWNVeGtxSTFBYVVETjJ1OXJOOWZvdDV0WUNzT013QWxaQnlSNmJLLWJ0d3FVbVJod0Y1b21uVm1Va1Fjc2stcHlFc1VEUnhhSEs3eEx1WG9lVDF0WlE1V0tvWXFmZEMwT3dxMkdmdWpjSEJOVGtPajZKbGVHQTNreHZXYU5WY2hNVTVXaWoyQU9XLWJmQkl0VFBFNGNmY3J6b2tiQW1WV29qV09EamNRSFlB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.wsj.com",
+      "title": "WSJ"
+    }
+  },
+  {
+    "title": "Tesla just laid out its transportation mission: World domination - Business Insider",
+    "description": "Tesla just laid out its transportation mission: World domination  Business InsiderTesla Stock Drops as Weak Profits Outweigh Musk’s Bold Robo-Taxi Claims  Barron'sElon Musk: Tesla Will End Up With “a Majority of All Passenger Miles on Earth”  Yahoo FinanceMusk's Robotaxi Dominance Claim: 5 Details That Matter  BASENORElon Musk's Tesla eyes transportation 'domination' as Cybercab expansion heats up competition with Waymo  New York Post",
+    "published date": "Thu, 22 Oct 2026 17:14:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOUJscnFPNU5JZW1IeUhQU2gwNW9tQlB2TzBSU0JldDBsdGtVa1ozUTZFQ21BcTFjNmJaWTZxaXVvaEZGWTJERzBLMDV6Z1pWU01Sb1RVM2h4WTdvbXlUQmtHVFcwc1JDM3JnMTgtY0drbXpnN052VjU0ZV9BeWdtV2pVNjJBbkIteGJaVXNnMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.businessinsider.com",
+      "title": "Business Insider"
+    }
+  },
+  {
+    "title": "Brent crude tops $113, highest level since May, after Trump hints at action on Iran - CNBC",
+    "description": "Brent crude tops $113, highest level since May, after Trump hints at action on Iran  CNBCOil Holds Biggest Gain in Week as Saudi Attacks Fan Supply Risks  Bloomberg.comBrent hits five-month high on escalating Middle East conflict  Yahoo FinanceOil Futures Rise as Attacks on Saudi Arabia, U.S.-Iran Risks Persist  WSJOil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze  MarketWatch",
+    "published date": "Thu, 22 Oct 2026 05:12:19 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUjhnTDQ4QTM5cWtlRjN1MXFlOU5yQVlVd3F0M0pDNExkV29mV1duQUpSUjFiaXFuajRkNHRSc1EtaTBzemJOUElXbDhYUTRnSWlrdm1TRUxtQXEwdjM3blp5QnlVOFZJWnAyYjY1dTRwX3UycVZoMHJIWFZaUEZJNnRn0gGHAUFVX3lxTFBBRTI0YmhMaFkybjlPdGczT3I3cVlXX2xLcktrcjJEUVNueUY3QmNldksyRjFaWGtvUm1KUjVua2VibWMxcU5FWHpBakZCSWt2MXhUM0ZYd1FJeE1sLUtwREJ2Y1lldkxOdXZ6UGFqS2pwUksxZS1YLU1XUFNsTzBBMUJwRXAydw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cnbc.com",
+      "title": "CNBC"
+    }
+  },
+  {
     "title": "Comcast Q3: Record-Breaking ‘The Odyssey’, Profitable Peacock Fuel NBCU Spinoff Momentum - Deadline",
-    "description": "Comcast Q3: Record-Breaking ‘The Odyssey’, Profitable Peacock Fuel NBCU Spinoff Momentum  DeadlineComcast beats earnings expectations as media revenue offsets weakness in connectivity  CNBCComcast Q3 Sees Continued Broadband Downturn, Despite Boosts From World Cup, Peacock  VarietyPeacock’s Hot Streak: Two Quarters of Profit After Years Of Losses  The Hollywood ReporterComcast third-quarter earnings top estimates  Yahoo Finance",
+    "description": "Comcast Q3: Record-Breaking ‘The Odyssey’, Profitable Peacock Fuel NBCU Spinoff Momentum  DeadlineComcast beats earnings expectations as media revenue offsets weakness in connectivity  CNBCPeacock’s Hot Streak: Two Quarters of Profit After Years Of Losses  The Hollywood ReporterComcast and Spotify Earnings Preview: Who Wins the Fight for Your Monthly Subscription?  Yahoo FinanceComcast Q3 Sees Continued Broadband Downturn, Despite Boosts From World Cup, Peacock  Variety",
     "published date": "Thu, 22 Oct 2026 11:52:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaDZKSkt3MkoyY2NoNGVpdXpKS2VoRUJsTXRTd01FQ2xmeHlJdnAtXzIyQW1DX19YeFhmSUtLaENxbG1zN3I1d3BmdW5BOXVTSnlaU3Y3QU9YeGQ2WV91US1PQVctNlEtUzE2X251Um9oQTh6LWY2NS01anlsUEtMc0FIN09EN0JiNnZIY3JOZVlMUWhxRFFFajNSdDhhUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -320,83 +330,43 @@
     }
   },
   {
-    "title": "Jeff Bezos reportedly bought a $69.5 million Miami beach house near his $237 million compound - Fortune",
-    "description": "Jeff Bezos reportedly bought a $69.5 million Miami beach house near his $237 million compound  FortuneJeff Bezos sold his Seattle mansion for a record $63 million before Washington’s millionaires tax  FortuneMiami luxury property sale reportedly links Bezos to record Golden Beach purchase  Traders UnionAmazon Prime Day seems to have come early for Jeff Bezos, as the billionaire reportedly snapped up a Florida beachfront mansion with seven bedrooms and two pools at a $19 million discount on the original asking price  Luxurylaunches",
-    "published date": "Thu, 22 Oct 2026 07:06:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOUlzanhobGJsU1c3QnVTTUNEemFyRGhuOUs2TlpNcV9tT1Z6X2JKdEFpV19DNXN1d3FUaklUTkFyN2ZOWnZzajVSUXotQ1JTT3BZLUNwQmw3MVpndHNPZTB3SlVQcFlPUUt2QkltaFAyeTRJM3FFVkJKVVdieHdVYWszVzcybGdXM3RVVHF2bWx3WUFBOHkyS0JwQlpyUWlJejhNMm5mc2QtR3NxbTBsVldnYnZTWnEzZDdYQ0JR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "France’s Debt Crisis Deepens as Foreign Investors Look for the Exit - WSJ",
+    "description": "France’s Debt Crisis Deepens as Foreign Investors Look for the Exit  WSJFrench bond pain puts euro zone's weak links on notice  ReutersA Debt-Fueled “Doom Loop”  The New York TimesFrance’s borrowing costs hit 5% for first time since 2002  Financial TimesFrench 10-year bond yield hits 5% for first time since 2002 amid unrest  CNBC",
+    "published date": "Thu, 22 Oct 2026 09:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbHZpbmlQOU91ajdXQW9SU3JXdlZMN3NBUGVQcTFRUHE3RXNfSHRCODNybnBFR081bi1SVmlwS2FHTkFiWFRMOFUzeUYtbTd2cDQ0LUQyQU5rRTdOVGN6OUZpR09hX1R0d0NpQnV2d0lfazI4ckVoTEtBRWtJNWJtUUplVzRBVDdpV0tEQVN1c0dRZWRmNFZ2LWVsWGlGbFg5Q1dYUUpFNVJYd2NwcXdyUlU5RQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://fortune.com",
-      "title": "Fortune"
+      "href": "https://www.wsj.com",
+      "title": "WSJ"
     }
   },
   {
-    "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues - CNBC",
-    "description": "Jobless claims near the lowest since the 1960s as low-fire trend continues  CNBCU.S. Jobless Claims Return to Downward Trend  WSJUS weekly jobless claims near 57-year lows, underscore labor market stability  ReutersGold prices struggling as U.S. weekly jobless claims fall to three-month low  KitcoUS Initial Jobless Claims Fall to Three-Month Low of 194,000  Bloomberg.com",
-    "published date": "Thu, 22 Oct 2026 13:21:27 GMT",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05MlBkSW1YcldNeElDT3JUclpNcDVNMEZXN2x6U3VjaVlseGROdWVBYkMtS2RLbHVkQkwtU0Q4TDE3QUhDNWJIdklBN2pXaEdBdkhLekk5Smxvd0dxMWZuNERLQks3U244N1I1c1NzTUF4N1RNNFFuU9IBfkFVX3lxTE9yeGVGUEdvTFVaSXAzWlQ0VzgtYTRuY3d5YkhEaGpKRnN3NmdGeVJGaTVuWndsZDVTMXBHN2ZaMVlOaGRXMnFWSFpMbV85bDJTdWVVN2dBQlFTWWNoZl9lZjRzR3dpYUJGRjdNNTdEdnEwN2lxV09oQ1ViZEFyZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Investors would be barred from buying up single-family homes under new US Treasury rule - New York Post",
+    "description": "Investors would be barred from buying up single-family homes under new US Treasury rule  New York PostTreasury Unveils Rules for Big Investor Homebuyers After Congress Set Limits  Yahoo FinanceTreasury Unveils Rule to Ban Large Investors From Homebuying  Bloomberg.comTreasury blueprints carve-outs from ROAD’s Wall Street BTR ban  HousingWireTreasury clarifies institutional homebuying exemptions as January penalty deadline nears  Pensions & Investments",
+    "published date": "Thu, 22 Oct 2026 13:52:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQakZDYkxidk9ZQzN6TDVqam5VZThObFhiVWtEMmZLZ19uNGs4LTdYLWZwalNVUUd3YlNiM1FXaEJhZXhSSm5VRDNqRFZwMzlxaHNod3lROU9tX1dqeDdiTmN4SXBlR0hLYkttNDVJZDZ5RE0xQlZLMnB2MmFhbndFV1c0SmtKZS00N1FZQWp4ZnhoQmFRNU1YNENYaWxqM0hXaXNLM2ZpY0VSMFJ3S0JSWg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.cnbc.com",
-      "title": "CNBC"
+      "href": "https://nypost.com",
+      "title": "New York Post"
     }
   },
   {
-    "title": "Oracle Stock Was Caught In the AI Debt Selloff. Wall Street Says That’s a Mistake. - Barron's",
-    "description": "Oracle Stock Was Caught In the AI Debt Selloff. Wall Street Says That’s a Mistake.  Barron'sWhere Will Oracle Stock Be in 2029?  Yahoo FinanceOracle: Bond Yields Near 9%, What The Earnings Bulls Are Missing (NYSE:ORCL)  Seeking AlphaCould Oracle Actually Achieve 120% Upside? Or Is Cantor Fitzgerald Totally Wrong?  TIKR.comWhy Oracle's debt load could be your problem : The Indicator from Planet Money  NPR",
+    "title": "Crypto shareholder sues Trump, family-backed crypto venture - Politico",
+    "description": "Crypto shareholder sues Trump, family-backed crypto venture  PoliticoLawsuit accuses Trump of illegally profiting off foreign crypto deals  CNBCCircle shareholder sues Trump over $2 billion in UAE-linked crypto deals  QuartzLawsuit alleges Trump profited $2B illegally fr...  PluangTrump-Linked Crypto Company Accused of ‘Public Corruption’ in New Lawsuit  NOTUS",
+    "published date": "Thu, 22 Oct 2026 13:36:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTGVhdlJxbkpoeGZVZU00TTFVcS1jV0p5dFhsdExiZVhweXJRVzR5M1ZLUEs5cnJsbVp4NGdKVGk1cnhJakVxNlNwaVdtLVlaWDQ0OHdzN1hNMzNSRllIbnlONHczSlZiVUJQU0JTS0h2V0NvcTVpakRCUGJKbmZjOEhEWGdyc1dQenRpbC1xM0xyYXlVRFdCUzlyMGYtNFRROTJN?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.politico.com",
+      "title": "Politico"
+    }
+  },
+  {
+    "title": "Oracle Stock Was Caught In the AI Debt Selloff. That Could Be a Mistake. - Barron's",
+    "description": "Oracle Stock Was Caught In the AI Debt Selloff. That Could Be a Mistake.  Barron'sOracle Just Dropped 12% in a Month. Is It Time to Sell, or Load Up?  Yahoo FinanceOracle's debt is growing. The tech giant's investors are concerned  NPROracle: Bond Yields Near 9%, What The Earnings Bulls Are Missing (NYSE:ORCL)  Seeking AlphaCould Oracle Actually Achieve 120% Upside? Or Is Cantor Fitzgerald Totally Wrong?  TIKR.com",
     "published date": "Thu, 22 Oct 2026 17:52:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tdTNKY0dyLU02dF9icXAyaXhmM1hFWnFiMmREeDlZSTA1bV8xMG1rSmdmZ0tTNFNSZVkybGlpWlhRcHdoeFZkcm1LcmpPTEtGT2tBVW9mclU0RWZBM3hlX2tTYkQwd28zbTNaM0xXN3ZoVWJVYkFPaXdn?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.barrons.com",
       "title": "Barron's"
-    }
-  },
-  {
-    "title": "Barclays to Cut 5,000 Jobs in A.I.-Driven Push to Lower Costs - The New York Times",
-    "description": "Barclays to Cut 5,000 Jobs in A.I.-Driven Push to Lower Costs  The New York TimesBarclays to Cut 5,000 Jobs in AI Cost-Saving Drive  WSJBarclays cutting 5,000 jobs as it increases reliance on AI  BBCBarclays cuts 5,000 jobs as profits jump ahead of looming bank tax; French bond yields hit fresh 24-year high – as it happened  The GuardianBarclays to slash 5,000 jobs in AI efficiency push  CNBC",
-    "published date": "Thu, 22 Oct 2026 12:45:54 GMT",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qRTdaNEVEY1g0TW1sQ3Y4bVJjME9nY1BmekJFSEZSVW9oQU5iZjRnWWNIU1laX2FDdzRHVF95THhPNXBMU056LV9LVnBaQVJLYkpOeVVrT1UtbXU5bkVjZVF1U2s5UHpyR2EtVXBtLUlFZTNJc0ptRg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.nytimes.com",
-      "title": "The New York Times"
-    }
-  },
-  {
-    "title": "United Airlines flight arrives at LAX after turbulence injures flight attendants - ABC7 Los Angeles",
-    "description": "United Airlines flight arrives at LAX after turbulence injures flight attendants  ABC7 Los Angeles4 flight attendants injured after LAX-bound United flight encounters severe turbulence: report  KTLATurbulence injures 4 flight attendants on LAX-bound jetliner  Los Angeles Daily NewsAt least four injured as massive turbulence rocks United flight from Hawaii to LAX: ‘Just suddenly dropped’  YahooMultiple Flight Attendants Injured After Severe Turbulence That Passengers Reported Felt Like ‘Falling’ Mid-Air  People.com",
-    "published date": "Thu, 22 Oct 2026 06:56:15 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMlFOTzFmME83cnhFOU9URUVRWUd6UDBuNG4wS2tWYjQ3cHBXZ2J4NkhlcjBMYk9CWDNpdWFEWDNhX3pBSWxwRDVPZHplZTk4Rk5GY0RyWUs0eDlBa0JnbG1feFBNblYxUktJTDd1U0lkV1k4bVdJdnAyd1lKc3FFNWZuUlRMaXl0TGVmallmb3Q5ZHRZRkxOUU5sejjSAaIBQVVfeXFMTi1KaUh1c29mNUxodE9teFNNUG1oZ3FzUUpFaXlqN0t0RFFaeXV4SXY2UDlDZ203QnVTTDdLSEdKaXpkYXd1anhYNDU5aExoQVZ5SGRQVDlQS2RYVjNuSmNlNUJEVG5iUjNaOWpwcmZMRFY2N191VjJrQWdrQUdVcmFDR3NTREN4MmoxWERQS2JQNWJiNGllNVV2MGFneTJlZ0hR?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://abc7.com",
-      "title": "ABC7 Los Angeles"
-    }
-  },
-  {
-    "title": "Nvidia CEO Jensen Huang says neocloud demand is 'off the charts' but capital is scarce - CNBC",
-    "description": "Nvidia CEO Jensen Huang says neocloud demand is 'off the charts' but capital is scarce  CNBCJensen Huang Says Demand for Neoclouds Is ‘Off the Charts.’ Here’s What to Know.  WSJJensen Huang says neocloud demand is 'off the charts' as CoreWeave stock continues to slide  Business InsiderNvidia's Huang says scarce capital is holding back neocloud growth (NVDA:NASDAQ)  Seeking AlphaNvidia’s Jensen Huang Says AI Agents Have Sent Token, GPU Demand ‘Through the Roof’: Gene Munster Sees 15  Benzinga",
-    "published date": "Thu, 22 Oct 2026 10:01:29 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeFpCR0VMTzFlRUJkdkNibEY3eFhBT1lxSkVFckRzUkFsRE1lcFRHNjVqWnB6TnYzcFROUDNLUnRCOWFLM01WbEdDRV9sN1B6cDZuSXFqT3FiSEpVLWhWMzlrYTNPTFhHU054bC1oM1FKRmY3QUtEOEFmNGZCTWxlVVR1S0g2NGfSAYwBQVVfeXFMTmlvdTlxcGJUOS1aTDdYbzRvSU8wTHZZTERSTXRaZFA3VDVfSkoxN3JBRFA5aVkwSFFkS1dLZW1pdlJWRzRldy1FN1IyT0xxVW9jRTh5ZVhyaFRSYWZYNzZ5d1hicGhKVC1wWHFwdFItOHlpeGZGLTVJcXZoWHFoRUJOWjNTZXI0dGVwNWk?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cnbc.com",
-      "title": "CNBC"
-    }
-  },
-  {
-    "title": "Anthropic's Financial Situation May Explain Why Dario Amodei Looks So Terrified All the Time - Futurism",
-    "description": "Anthropic's Financial Situation May Explain Why Dario Amodei Looks So Terrified All the Time  FuturismAnthropic logged net loss of over $80 billion in first half of 2026  ReutersCould Anthropic’s IPO be a turning point for AI? You asked, we answered  Financial TimesAnthropic IPO: Here's What a $5,000 Investment Could Be Worth in 5 Years  The Motley FoolAnthropic to publicly file for IPO as early as Friday, sources say  Yahoo Finance",
-    "published date": "Thu, 22 Oct 2026 12:40:14 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWmlBSHFBQ3FGc21mSHVLUTNsWVlkbnlMSnZIM0xFNzhld29udzdHa0dkLTJvakY3T3dnZ081QTItV0RCM0c1YXpfY293Q2tCQU5TMkhvMHA1N215U0hlWWhJWjhOamRPNzNfMk80Vnp2MEtEbENnQWhNa1BpLVJKTlJIMkxQeHdIVnI0REs1RjZwQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://futurism.com",
-      "title": "Futurism"
-    }
-  },
-  {
-    "title": "Nearly 4 Million Tubes of Toothpaste Are Being Recalled - EatingWell",
-    "description": "Nearly 4 Million Tubes of Toothpaste Are Being Recalled  EatingWellMore than 4.3 million toothpaste tubes recalled, including children's brands  WPEC4.3 million tubes of toothpaste — including kids’ — recalled  YahooFDA Announces Nationwide Recall of More Than 4 Million Tubes of Toothpaste  Health.comYour kid could be brushing with one of millions of tubes of recalled toothpaste  NBC 5 Chicago",
-    "published date": "Thu, 22 Oct 2026 14:28:02 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOE5pQnlEalRUdVR1Y0VrRkZmS0hhQTh6dUpEeXFYTm5pTDdJaHVTbWpnZzR6RWhRZGt0YXZkMlNVVmxKNWJTR0x0emg3blJyNzhHTUJlS3dSMThNTVZvRXBIR0RYdG1qX2JqOHpVRHZxME9vNHdRMExhdG4xRlQ4bFpDUXF1TFBrSHhhcWVTWUFpMUlLLUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.eatingwell.com",
-      "title": "EatingWell"
     }
   },
   {
@@ -410,48 +380,108 @@
     }
   },
   {
-    "title": "To Make Way for Data Centers, Google Will Pay Others to Use Less Power - The New York Times",
-    "description": "To Make Way for Data Centers, Google Will Pay Others to Use Less Power  The New York TimesWhat Google’s virtual power plant in PJM says about the race for electricity  Utility DiveGoogle Bets Big on Virtual Power Plants With 1 Gigawatt Voltus Deal  Heatmap NewsGoogle To Pay Homes and Businesses To Curb Energy Usage  The InformationWe are working with Voltus to build a 1-gigawatt virtual power plant.  blog.google",
-    "published date": "Thu, 22 Oct 2026 11:30:06 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTjhvYmgxNGFzOXpJUGY5Z0xBQ1hCUFZxM3V2d3lPVzlfOEwxd1czU3phbU81SlpncTdGd0h2Z0FDUU80RThHSG5XY1lKRGZUSW9DWlRMa1p2d2RmUDdsZlBRMVVQOWppdS1kZ2Z0cnYtd2NnelF1T1ROSl9sV0NNQ1RENko5ZWY3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Consumer Reports calls for Millie Moon to recall its diapers and recommends that parents stop using them - Consumers Union",
+    "description": "Consumer Reports calls for Millie Moon to recall its diapers and recommends that parents stop using them  Consumers UnionCall Rafael: Indiana 2-year-old in burn unit after using Millie Moon diaper  Fox 59Parents Should Stop Using Millie Moon Diapers on Their Babies  Consumer ReportsHundreds of new Millie Moon diaper complaints filed — but the company says its testing found no problem  WCPO 9 NewsIndiana family claims 'luxury' diaper sent their toddler to burn unit  WKRC",
+    "published date": "Thu, 22 Oct 2026 18:20:37 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOLUZsd3RjcDIzMi14RmtkYUt3cEpmZUwxZ3lxNklvU2xacTJHRUpOVkQzY09GejJCTzVldm5JTW9oUkw4eW1Cc0pBdU94YzZVTGZoOWZqQmMtQlE5ZVBjcGNiTmJLWk1LSTZjakhIbWpldDl4M2doZkNZMVNPR1g4dGE5dG9VYWlyY2tmUk1LSElUZ09pcW9Bem50dnp0MTlnTE8xU0FDb2FSbGpJbXBNRGlBNFU0TER1emQ1Rkhjbjl6ZG9Bb0NMb3hqSThCZTlmb0FlRWRFYVF2WXhqMTVCblJKS21DZ1ZDMTBCTw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://advocacy.consumerreports.org",
+      "title": "Consumers Union"
+    }
+  },
+  {
+    "title": "UnitedHealthcare, Humana Medicare Advantage cancellations to affect 1 million - DC News Now",
+    "description": "UnitedHealthcare, Humana Medicare Advantage cancellations to affect 1 million  DC News NowUnitedHealthcare and Humana are ending Medicare Advantage plans for nearly 1 million people  Fortune1 million older Americans could soon lose health insurance - here is who is at risk  The IndependentMore than 49,000 Mainers have Medicare Advantage plans that are being discontinued next year  Maine PublicMedicare Advantage plans in Maine are being canceled, but new ones are being offered  Portland Press Herald - Maine Sunday Telegram",
+    "published date": "Thu, 22 Oct 2026 15:52:33 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNU1FyWkxLUkhmVUFxVVBFM1BVSWh4eUtwekN3WTNoZ1lBWTI3dXc4WmVuMVl3RkZZY0trOWx0elNPM19mNGtRcGxNczNIbUczTW11TE5MRnREQ1lBck9kdXhBNHNhQ3VwdFFZcF93U2dJbkl6X2JuRFR6R2NIbVFIRVlBWGVjYjBPaWVpY0E3OWpfaEpvb09XX0M3Z040dDlTU2U2b0hRMXdLTVZHWlVIdzd2dWNuUdIBuwFBVV95cUxNOG5VcmNwSm80VWdRc0xfcERfRHRZSFpScGF0ZUx5NnliSkk0OS1SWGlvbm12dGZERTBOT2dwb2NhejRjcE1zaC02S3VTdlE5VXlTdUh0SklBdzEyZWgxdXlHYU02LWhwUWx0X0xwMWZ5aHZpNkhhZG1QZHZwQ3lCbTFZLWNyc01peTNnYktseXQ2blctd1BlWFZ3dWxLdUxVSndJWi1mU1BlZWhEZEVhRzRIWFZvcGg0d1k0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.dcnewsnow.com",
+      "title": "DC News Now"
+    }
+  },
+  {
+    "title": "1 Thing in Bloom Energy’s Strong Earnings That May Be Dragging the Stock Down - Barron's",
+    "description": "1 Thing in Bloom Energy’s Strong Earnings That May Be Dragging the Stock Down  Barron'sBloom Energy (NYSE:BE) beats expectations in strong Q3 2026, guides for strong full-year sales  Yahoo FinanceBloom Energy Lifts Outlook, Logs Higher Profit  WSJBloom Energy Gains as Oracle’s 2.8 GW Deal and $25 Billion Brookfield Pact Set a High Bar  TIKR.comDown 12% in 1 Month, Bloom Energy Faces a Big Test on October 22. Here’s My Prediction.  Barchart.com",
+    "published date": "Thu, 22 Oct 2026 21:31:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTzdWdkU2NHRQTlJJYjNmcXNLLW1tblU5MGNjTmNHcExlM043OXF2azFWVG1BajRTV2gxY0htLU5YbGpnak9JZG1EQVluRXhzX3dlZ1hNQXRlY3hyMlRXV3hVUVBUaDF1YXZrYlQ1clZ2aGwtRFJXbDZJREQ1VG5feQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.barrons.com",
+      "title": "Barron's"
+    }
+  },
+  {
+    "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions - The Verge",
+    "description": "Microsoft says its AI tool is better than doctors at diagnosing conditions  The VergeMicrosoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’  TechCrunchMicrosoft Says Its New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors  GizmodoMicrosoft Diagnostic AI Outperforms Generalist Physicians in Science Study  Unite.AICan AI help doctors avoid missed diagnoses? A new study suggests yes  TAPinto",
+    "published date": "Thu, 22 Oct 2026 18:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOamtUNVg3S1hZVlF1RGZ4akg3NThwTERFbWpQaUcyMmQ1LVdXM21CYU1mbUhEd28tS2ZicXp1TTBwUlB5Q0xtZllvdkl3WW5sdFZrUXdYRHV4Sk10X3pMWXpBYWhsT1ljQ3BRLUZ3ZXpXeElFX2VqWXRjcm9NYV9vU3hTb1NZM0tCNTJLNnBNaW5XVTJTd2ZyNkxpYlQ4aFpUZDc3MXBmUzZySkdRa0drQnZVdDBqcmc0aUl4QnpaUkRGYUE0UnQzMHdZMVpGRmRuWmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theverge.com",
+      "title": "The Verge"
+    }
+  },
+  {
+    "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues - CNBC",
+    "description": "Jobless claims near the lowest since the 1960s as low-fire trend continues  CNBCU.S. Jobless Claims Return to Downward Trend  WSJUS weekly jobless claims near 57-year lows, underscore labor market stability  ReutersExchange-Traded Funds, Equity Futures Lower Pre-Bell Thursday Amid Jobless Claims Data Release  Yahoo FinanceUS Initial Jobless Claims Fall to Three-Month Low of 194,000  Bloomberg.com",
+    "published date": "Thu, 22 Oct 2026 13:21:27 GMT",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05MlBkSW1YcldNeElDT3JUclpNcDVNMEZXN2x6U3VjaVlseGROdWVBYkMtS2RLbHVkQkwtU0Q4TDE3QUhDNWJIdklBN2pXaEdBdkhLekk5Smxvd0dxMWZuNERLQks3U244N1I1c1NzTUF4N1RNNFFuU9IBfkFVX3lxTE9yeGVGUEdvTFVaSXAzWlQ0VzgtYTRuY3d5YkhEaGpKRnN3NmdGeVJGaTVuWndsZDVTMXBHN2ZaMVlOaGRXMnFWSFpMbV85bDJTdWVVN2dBQlFTWWNoZl9lZjRzR3dpYUJGRjdNNTdEdnEwN2lxV09oQ1ViZEFyZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cnbc.com",
+      "title": "CNBC"
+    }
+  },
+  {
+    "title": "Barclays to Cut 5,000 Jobs in A.I.-Driven Push to Lower Costs - The New York Times",
+    "description": "Barclays to Cut 5,000 Jobs in A.I.-Driven Push to Lower Costs  The New York TimesBarclays to Cut 5,000 Jobs in AI Cost-Saving Drive  WSJBarclays to slash 5,000 jobs in AI efficiency push  CNBCBarclays cuts 5,000 jobs as profits jump ahead of looming bank tax; French bond yields hit fresh 24-year high – as it happened  The GuardianBarclays to cut 5,000 jobs this year  Reuters",
+    "published date": "Thu, 22 Oct 2026 12:45:54 GMT",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qRTdaNEVEY1g0TW1sQ3Y4bVJjME9nY1BmekJFSEZSVW9oQU5iZjRnWWNIU1laX2FDdzRHVF95THhPNXBMU056LV9LVnBaQVJLYkpOeVVrT1UtbXU5bkVjZVF1U2s5UHpyR2EtVXBtLUlFZTNJc0ptRg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.nytimes.com",
       "title": "The New York Times"
     }
   },
   {
-    "title": "Crypto shareholder sues Trump, family-backed crypto venture - Politico",
-    "description": "Crypto shareholder sues Trump, family-backed crypto venture  PoliticoLawsuit accuses Trump of illegally profiting off foreign crypto deals  CNBCCircle shareholder sues Trump over $2 billion in UAE-linked crypto deals  QuartzTrump and Crypto Firm Sued for Profiting From Foreign Government  Bloomberg.comLawsuit accuses Trump of illegally profiting from UAE in­vest­ments in his family's crypto firm  Spectrum News",
-    "published date": "Thu, 22 Oct 2026 13:36:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTGVhdlJxbkpoeGZVZU00TTFVcS1jV0p5dFhsdExiZVhweXJRVzR5M1ZLUEs5cnJsbVp4NGdKVGk1cnhJakVxNlNwaVdtLVlaWDQ0OHdzN1hNMzNSRllIbnlONHczSlZiVUJQU0JTS0h2V0NvcTVpakRCUGJKbmZjOEhEWGdyc1dQenRpbC1xM0xyYXlVRFdCUzlyMGYtNFRROTJN?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Nearly 4 Million Tubes of Toothpaste Are Being Recalled - EatingWell",
+    "description": "Nearly 4 Million Tubes of Toothpaste Are Being Recalled  EatingWellMore than 4.3 million toothpaste tubes recalled, including children's brands  WPECFDA Announces Nationwide Recall of More Than 4 Million Tubes of Toothpaste  Health.comMore than 4 million tubes of toothpaste, including popular children’s brand, recalled  KSNBYour kid could be brushing with one of millions of tubes of recalled toothpaste  NBC 5 Chicago",
+    "published date": "Thu, 22 Oct 2026 14:28:02 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOE5pQnlEalRUdVR1Y0VrRkZmS0hhQTh6dUpEeXFYTm5pTDdJaHVTbWpnZzR6RWhRZGt0YXZkMlNVVmxKNWJTR0x0emg3blJyNzhHTUJlS3dSMThNTVZvRXBIR0RYdG1qX2JqOHpVRHZxME9vNHdRMExhdG4xRlQ4bFpDUXF1TFBrSHhhcWVTWUFpMUlLLUE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.politico.com",
-      "title": "Politico"
+      "href": "https://www.eatingwell.com",
+      "title": "EatingWell"
     }
   },
   {
-    "title": "Investors would be barred from buying up single-family homes under new US Treasury rule - New York Post",
-    "description": "Investors would be barred from buying up single-family homes under new US Treasury rule  New York PostSee more headlines & perspectives on Google News",
-    "published date": "Thu, 22 Oct 2026 13:52:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQakZDYkxidk9ZQzN6TDVqam5VZThObFhiVWtEMmZLZ19uNGs4LTdYLWZwalNVUUd3YlNiM1FXaEJhZXhSSm5VRDNqRFZwMzlxaHNod3lROU9tX1dqeDdiTmN4SXBlR0hLYkttNDVJZDZ5RE0xQlZLMnB2MmFhbndFV1c0SmtKZS00N1FZQWp4ZnhoQmFRNU1YNENYaWxqM0hXaXNLM2ZpY0VSMFJ3S0JSWg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "United Airlines flight arrives at LAX after turbulence injures flight attendants - ABC7 Los Angeles",
+    "description": "United Airlines flight arrives at LAX after turbulence injures flight attendants  ABC7 Los Angeles4 flight attendants injured after LAX-bound United flight encounters severe turbulence: report  KTLASevere turbulence hits L.A.-bound flight from Hawaii, injuring 4 flight attendants  Los Angeles TimesTurbulence injures 4 flight attendants on LAX-bound jetliner  Los Angeles Daily NewsMultiple Flight Attendants Injured After Severe Turbulence That Passengers Reported Felt Like ‘Falling’ Mid-Air  People.com",
+    "published date": "Thu, 22 Oct 2026 06:56:15 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMlFOTzFmME83cnhFOU9URUVRWUd6UDBuNG4wS2tWYjQ3cHBXZ2J4NkhlcjBMYk9CWDNpdWFEWDNhX3pBSWxwRDVPZHplZTk4Rk5GY0RyWUs0eDlBa0JnbG1feFBNblYxUktJTDd1U0lkV1k4bVdJdnAyd1lKc3FFNWZuUlRMaXl0TGVmallmb3Q5ZHRZRkxOUU5sejjSAaIBQVVfeXFMTi1KaUh1c29mNUxodE9teFNNUG1oZ3FzUUpFaXlqN0t0RFFaeXV4SXY2UDlDZ203QnVTTDdLSEdKaXpkYXd1anhYNDU5aExoQVZ5SGRQVDlQS2RYVjNuSmNlNUJEVG5iUjNaOWpwcmZMRFY2N191VjJrQWdrQUdVcmFDR3NTREN4MmoxWERQS2JQNWJiNGllNVV2MGFneTJlZ0hR?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://nypost.com",
-      "title": "New York Post"
+      "href": "https://abc7.com",
+      "title": "ABC7 Los Angeles"
     }
   },
   {
-    "title": "Meta's credit risk indicator jumps to record high after results - Reuters",
-    "description": "Meta's credit risk indicator jumps to record high after results  ReutersWhy Meta (META) shares are getting obliterated today  Yahoo FinanceMeta stock sinks 7% as AI spend pushes free cash flow negative  CNBCMeta sell-off drags US tech stocks lower as AI spending fears flare up  Financial TimesMeta Reports $825 Billion in Future Spending Commitments  Bloomberg.com",
-    "published date": "Thu, 22 Oct 2026 13:51:43 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMXV0RkI1VFVXRm4xc0tyNDBnc2NENDA3aF9XdjNxZVVGeU9IMkVlN0s0N3dvbTlYdzFFM0JwbUZjQ01tNFJpWE1GVG5wZXZjOWZMbnk1dUFrWWJlTjNrVU5kZjZxblBOUWFRX2hicTlFUEUyaTV0TjEyZUtUeHliMzZBTHFkS3BOb2FOWmF2S0RoTDBMSm1rdE84YmVQUnZ6bU9CazJmNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "The 2027 Ford Mustang Mach-E gains a standard long-range battery and starts at $40,000 - Electrek",
+    "description": "The 2027 Ford Mustang Mach-E gains a standard long-range battery and starts at $40,000  ElectrekView Exterior Photos of the 2027 Ford Mustang Mach-E Trail  Car and DriverMeet Mustang Mach-E Trail: Made for the Road to Adventure  Ford From the RoadFord Mustang Mach-E Gains Soft-Roading ‘Trail’ Trim for 2027, All Mach-Es Now Boast Big Battery  Road & TrackFord introduces new features, trims, prices for 2027 Mustang Mach-E  Detroit Free Press",
+    "published date": "Thu, 22 Oct 2026 13:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMXRMMmlTeXo0Q3hnUWpDLU9XMU1rTVdVakdhUG85VThiUkRMSUszTjRFZEkxdklJQ1NVb25NYTBCXzRXZktzMW9LRTZrRmx3MERydmNHMm50S3Z1NG94UDZoeG0zcUY0UjlBMzQyYmV0V0VSU05YX2JERXAzUmJnV09Zb1ZWcUE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.reuters.com",
-      "title": "Reuters"
+      "href": "https://electrek.co",
+      "title": "Electrek"
+    }
+  },
+  {
+    "title": "Powerball Jackpot Soars To $674 Million—Here’s What The Winner Could Take Home - Forbes",
+    "description": "Powerball Jackpot Soars To $674 Million—Here’s What The Winner Could Take Home  ForbesWinning $2 million Powerball ticket sold in Ohio  WLWTPowerball numbers tonight, Oct. 21? Powerball winning numbers last night  IndyStarPowerball Jackpot Climbs to $674 Million After No Winner, but 3 Tickets Win at Least $1 Million  YahooPowerball numbers for Wednesday, Oct. 21  The Detroit News",
+    "published date": "Thu, 22 Oct 2026 08:56:05 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUHplaFdrYld0d0dOVmxjd1ZwSVJZaWp1SkZWLVE3MVRXVFowRUwtcHN3b1Q5U3l0aDUxb1QxbVBkdFZkVGdaU0VQcG5MOHVDWGdlcnI4ejNvT3Bjd2p1OWpZWGFNWTRFN3pGSG5IdW1EZ0QwdDJEOE1CRlZZUUJyMlc4dkdEY0tHejdYSjVCdlBadUlPZUgwR3VYdnRaRXUxMGdxNDFwUzdCNW1yTGNDdHJDb25yMDFkQVhIZ1VrbFRjT2tRUTl5ajJB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
     }
   },
   {
     "title": "Treasury Secretary Bessent invokes Lincoln's 1863 act to back Trump's law - TheStreet",
-    "description": "Treasury Secretary Bessent invokes Lincoln's 1863 act to back Trump's law  TheStreetStablecoins just got the regulatory clarity industry wanted  Yahoo FinanceCryptocurrency companies can keep paying interest-like rewards, say federal bank regulators  AP NewsGENIUS Act: Waivers and Application Submission Guidance  Office of the Comptroller of the Currency (OCC) (.gov)OCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban  CoinDesk",
+    "description": "Treasury Secretary Bessent invokes Lincoln's 1863 act to back Trump's law  TheStreetStablecoins just got the regulatory clarity industry wanted  Yahoo FinanceCryptocurrency companies can keep paying interest-like rewards, say federal bank regulators  AP NewsOCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban  CoinDeskAmerican Bankers Association accuses OCC of undermining Congress with final stablecoin rewards rule  The Block",
     "published date": "Wed, 21 Oct 2026 18:15:59 GMT",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOHZhcWNoRnQ2RXJpTmE0aUIzQ3hlSUJLOEFreFp0REVINmdtZ2hyTDhrWTJYdkJjNFFMa0FSUndsMUNNRWNuZGVkLVlObk9nNTBnRlpoYl9sSkgycllWbW9DbmpZeHMtcGJUTWxuekJrLVAtb3VPcThsb2tYcGN4d0I5dEpILUtCeUMzdFVTWVp5TkZyWXhFcDk5NG4xYmQyZ21XU2NlVW92WEl3U0dUMw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -460,28 +490,28 @@
     }
   },
   {
-    "title": "Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck - CNBC",
-    "description": "Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck  CNBCNvidia reveals plans for 'an AI factory in a shipping container' to build factories in weeks, not months  Yahoo FinanceSchneider Electric  AVEVANVIDIA Introduces DSX POD AI Factories to Accelerate Europe’s Infrastructure Deployment  NVIDIA NewsroomDassault Systèmes and Vertiv Team to Accelerate AI Factory Design and Deployment  Stockhouse",
-    "published date": "Wed, 21 Oct 2026 11:30:01 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaDRqRlJqYUdGSGUtLXZVWFhCMXpqbVYxdW9KbGhNYlNrSU1iUmJHUWJzME9YRzlqaE8wM0EtT2gzWURaQ3hmeFlYTW1pQ05GTFFNejk3TTE1ZjZkLWEyM2pHVUhKM1ZFaTlOdGNwQXRPZVEwWDNuS2E2bXVGOE50Sl82OWsyOWlSMENkNno2Q0Q5emR3VFNXQmhPYkJPTElzdFNIOdIBqgFBVV95cUxPX0huODduWnJfRDdzYWpUc2tQTGpKdWUwdEJzX2FkYThGTWtLSWJ5cnE1VVhwUXZFanoxWHA5VGhFcEo3eDBVUm5lVUVyZ0UzZnVTNjhZbk04ODFDQXY4U0FxV2RDSzJUWVlzRGJUVWtZYU1hcWVERjVLYkxTaldLc3pwSW5wbGQyYUd2NTE0T0puUTJKaGR4S2dhYlh2YlBhVjBLY2Z3NHFPdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Anthropic's Financial Situation May Explain Why Dario Amodei Looks So Terrified All the Time - Futurism",
+    "description": "Anthropic's Financial Situation May Explain Why Dario Amodei Looks So Terrified All the Time  FuturismExclusive | Anthropic S-1 Shows Red-Hot Growth, Risks and Massive Computing Costs  WSJAnthropic IPO to Drive Blockbuster Gains for Iconiq, Spark, GIC  Bloomberg.comCould Anthropic’s IPO be a turning point for AI? You asked, we answered  Financial TimesAnthropic’s cloud partnerships are getting messy  TechCrunch",
+    "published date": "Thu, 22 Oct 2026 12:40:14 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWmlBSHFBQ3FGc21mSHVLUTNsWVlkbnlMSnZIM0xFNzhld29udzdHa0dkLTJvakY3T3dnZ081QTItV0RCM0c1YXpfY293Q2tCQU5TMkhvMHA1N215U0hlWWhJWjhOamRPNzNfMk80Vnp2MEtEbENnQWhNa1BpLVJKTlJIMkxQeHdIVnI0REs1RjZwQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.cnbc.com",
-      "title": "CNBC"
+      "href": "https://futurism.com",
+      "title": "Futurism"
     }
   },
   {
-    "title": "Exclusive | Optimum Communications Prepares for Bankruptcy to Implement Deal - WSJ",
-    "description": "Exclusive | Optimum Communications Prepares for Bankruptcy to Implement Deal  WSJDebt-Plagued ISP Optimum Close to Handing the Keys to Lenders, Resolving Litigation  Broadband BreakfastOptimum Nears Restructuring Deal to Hand Keys to Creditors  Bloomberg.comThe End of Another Major Cable TV Provider? Struggling With Over $21 Billion in Debt As It Has Lost Over Half of All of Its TV Customers As Creditors Are About to Take Over  | Cord Cutters NewsOptimum Communications Prepares For Bankruptcy To Implement Deal - WSJ  TradingView",
-    "published date": "Thu, 22 Oct 2026 17:06:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV29sTmdjeklwbFByeVVVaU1kSUticE9jVU15R3hKaDZrZ0RBWjRIV0xVMFlyYmQ1MHBhRkl3VU9GV01ERVpfWjhaZ1ZvOE9HeDJ4TGE1SEZCQjZ2M0VzMUlJeEtWRnE2ZGNsZlpreFZjSEQ4MVZVTXJ5WnVENUZiWXhHMTVkUEF0SDdSbmpqZEdfdWU1R21GWDVyX2wyX0M0dEZOZ0xxTjRhaEl5?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Meta says Muse has over 10M users, with shopping a top activity - TechCrunch",
+    "description": "Meta says Muse has over 10M users, with shopping a top activity  TechCrunchMark Zuckerberg said demand for Meta’s Muse was so high, he had to get Stripe to raise credit limits  FortuneMeta has big plans for its Muse AI agent  Yahoo FinanceBreakingviews - COMMENTARY: Meta's costly Muse calls for rethink on profit  ReutersMeta's Muse AI Is Winning Over Older Adults. Privacy Experts Are Worried  Time Magazine",
+    "published date": "Wed, 21 Oct 2026 21:14:19 GMT",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVXo4RnNORUpLaWhFbUZ2NDFNR044VEg3cUNyUUpkaW94QzduLXc2amVmMjkwSXFyWXZuMnN2bjU3T2tKLWZGTHFRTDVkYXZSNVhtX1Nldktnbm1uNVBBVk1kcjJhR2RsLXlmR3M1NW5MZzV3QUk5REc3blJpejJ5TXREeUNtRDdXRlUtUjFJWG5MdDhhSmZLR1lJSkh0QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.wsj.com",
-      "title": "WSJ"
+      "href": "https://techcrunch.com",
+      "title": "TechCrunch"
     }
   },
   {
     "title": "China Stocks Set for Bear Market as AI Trade, Policy Hopes Fade - Bloomberg.com",
-    "description": "China Stocks Set for Bear Market as AI Trade, Policy Hopes Fade  Bloomberg.comChina's stock market sinks into bear territory as CSI 300 extends 10-week rout  CNBCChina's Stock Market Crashes 20%: 3 Reasons Why The Dragon Is Losing Its Fire  NDTVAsian market selloff deepens as oil rises. Bitcoin (BTC) price slips to $82,000  CoinDeskThe Shangai Composite Index Closes 1.45% Lower  TradingView",
+    "description": "China Stocks Set for Bear Market as AI Trade, Policy Hopes Fade  Bloomberg.comSellers are back in tech, while bear market grips Chinese stocks  CNBCChina's Stock Market Crashes 20%: 3 Reasons Why The Dragon Is Losing Its Fire  NDTVAsian market selloff deepens as oil rises. Bitcoin (BTC) price slips to $82,000  CoinDeskThe Shangai Composite Index Closes 1.45% Lower  TradingView",
     "published date": "Thu, 22 Oct 2026 09:37:13 GMT",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMkp5bjg3WHRYdlFYTFc2b1VRRmVpd09Oa0Y1SkxUR2xnUTFyTXAyMG9zcUFnN2pIbU1WQVJBdmVqNG0xZDk1UWM0N1M3djhNaWVwbXVBamhRS3dMMWtPRlhQbGFXWk9BTXVXcnppTVB6ZWl3eTRzM3BqclJ0MlE3MEJVSXhWTUlnYm1aVGVGa01kcmljSXFBX1NTWC1Hd1k5X3hwcGtyRjdtblFhVG9RdmlmVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -490,59 +520,19 @@
     }
   },
   {
-    "title": "Trump Says Musk Is Giving SpaceX Stock To Millions Of Kids Through Trump Accounts, But Fewer Than 1% Of The 60 Million Auto-Enrolled Accounts Were Claimed In Week One - 24/7 Wall St.",
-    "description": "Trump Says Musk Is Giving SpaceX Stock To Millions Of Kids Through Trump Accounts, But Fewer Than 1% Of The 60 Million Auto-Enrolled Accounts Were Claimed In Week One  24/7 Wall St.Musk's SpaceX stock gift is 'tip of the iceberg' for Trump Accounts, Altimeter's Gerstner says  CNBCMusk pledges 1 SpaceX share for every child in America  AxiosBillionaires are gifting stock to children. Is it a trick or treat?  USA TodayMusk pledges $10bn in SpaceX shares for US children: Who really gains?  Al Jazeera",
-    "published date": "Wed, 21 Oct 2026 20:14:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPWFJ1TU4yc205Q3F4N2xvc3ZjOWEzWG9ReVJUbWFhd0hQOU5BUW83aURzRlgxQS1NZUlJcnFRVnlENlhTdkE4VkhSV3VBWi1wYTJtQW1WYnhLeW4xUlFOMGs2VWZTTjVrc1hhVUNvT3dqMnBncnVBUkhEZEhvWTZFQUF6Y3U5cUJoVnlFSWR2V25XcG1ObHh0LW5QRS1UOTQzSk9vMVp4M1A0T2RMSUxGMzJTWTFtUlZCOUlrMHphUExmOFJKUkJCY0Qxb09HT1Q4U2tNRHNCallUOTQ2MlpXRFI5dWRTVTh6WV9YcEtrV05vLURSaTBvTHoyS1dzREg3cHZuakVnNHEwWm5saElTZVVjMHFzVWJ6S0htRVh3cUo5MzdxUUxHQ3VOcmpSWWp3MHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Energy Dept to loan part of home heating oil reserve to ease prices, drawing bipartisan praise - Fox Business",
+    "description": "Energy Dept to loan part of home heating oil reserve to ease prices, drawing bipartisan praise  Fox BusinessU.S. to Tap Heating Oil Reserves Ahead of Midterm Elections  The New York TimesFeds release emergency heating oil to lower Maine prices; Collins, King claim win  Portland Press Herald - Maine Sunday TelegramExperts question impact of federal oil release on soaring home heating costs  WJARTrump releases heating oil to the Northeast to reduce surging prices  Politico",
+    "published date": "Wed, 21 Oct 2026 18:58:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVWtoQ0NvbWVNYzhTYVBTZ1VWUFJJd2swUHJURk9DSVU5dm90Y0ZRa1M5MG9IaEw1NWh5SHNjN01yQllSM0tDWXh4QjR2X2hwYkltbm4zQldETTFmeFBGWWtGUE9OWllKVkJHZnZzX2kxczJ5SVlwenEzaGlVSzNNTG05NkdMaldUSmJ4T2RfM1JZV2I3VnRSTlI3LXhJSkwxeVVQWklMRDBodlVPeVVpTTNoRjd4NnpQdUliT2ZR0gHDAUFVX3lxTE5xdWRJWm5uclBGSTkxYjctQ3BZVDdGYVRRS1M4NmszWXU2WFFkVUFROGdxMGlDN0p3a1NhbUllVGlxTndnSGxCNUxjWl91NmdBU1Rrc1JSc0ltVXlZVl9vdDZ1aFFuc2hXUEhaNjdmNzhnX1g2UFotdkJBbHAyQkpJWmNHeVRya3puc1BWaWFhWU9PSnhSTF9la3lhV3QtSnRoeldxU19yZGpZN0xVZmZaTFh4ZGh6djR3TEhqWlpxWTJUNA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://247wallst.com",
-      "title": "24/7 Wall St."
-    }
-  },
-  {
-    "title": "Amazon Prime customers could get $200 refund following $2.5 billion settlement with Federal Trade Commission: Who qualifies? - ABC7 Los Angeles",
-    "description": "Amazon Prime customers could get $200 refund following $2.5 billion settlement with Federal Trade Commission: Who qualifies?  ABC7 Los Angeles‘Unseemly and unfortunate’: Trump’s name brands millions of Amazon refund checks  PoliticoDonald Trump’s Name Appears on Millions of Amazon Checks Before Midterms  YahooIs Amazon still sending FTC refunds to Prime customers?  USA TodayCould you get a $200 Amazon refund? What to know in $2.5B settlement  The Clarion-Ledger",
-    "published date": "Thu, 22 Oct 2026 16:42:25 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTEl6MGhZZE9nbVBQazliX3ppLUVib2sxZkZNUlFQOVNPRHRQbGRra1h2aENNS1VyLWdiNHpSTU56bS1lVEFkT3BWeE5WOWctMHhkM3o2T2VsUkY2RXpDMHF3Y2JVZWVPX21MMmJKd1FsMFV6V1VLbEFGeVFpMGN5V3V6bEVfcWsyVGd2WVQzMEZiUUEzRVVoSDZ1Q2dvVXlOTHBmTkFtcW45R2tzc0piMThJeDJ6aHZHOGFGRlVkQ0dsbDNFZk1BdncwNVBXU25UczNRQnZacFRPaTTSAeABQVVfeXFMTnl0Z1JseDdJLV9sSFFtUnl6QzhVMl9hX3BvNXJPcXc1c082bFNQNk9LekZKRWdHLVlqcXYzek1fY1ZQOEhRVXltWUFtNmFVQjVaams3dU9WaE94VGVrQ3NHdl9WX05ORmJEZkNHOGtGQUlIRy1NVjdrTVlES1prcWlJN3kwWWpaMm14T1EyTWRoMVJsZy1SUmwtMnQ1RGI2cnhNTFZFMDB4SFJUYkNfRDR2MXN3NFl3bVJPbVRxUTlEMFdGZVE1Q3JwcUFpWUtGLUJuTm5IVERocU1UWlpSNTI?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://abc7.com",
-      "title": "ABC7 Los Angeles"
-    }
-  },
-  {
-    "title": "Nasdaq leads Wall Street gains as SpaceX, Super Micro boost AI sentiment - Yahoo Finance",
-    "description": "Nasdaq leads Wall Street gains as SpaceX, Super Micro boost AI sentiment  Yahoo FinanceSpaceX earnings left one big question unanswered  Yahoo FinanceSpaceX, Tesla, Meta, Nvidia, Intel, Netflix, AT&T, and More Stocks That Explain Today’s Market  Barron'sStock Market Today: Dow Pops; Nasdaq Charges Higher As SpaceX Soars On Earnings, Tesla Talks  Investor's Business DailyUS Futures Climb With SpaceX Results Helping Boost AI Sentiment  Bloomberg.com",
-    "published date": "Wed, 21 Oct 2026 20:37:19 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdnY3ME95NFJPaGhhOVNxUFV3dDZ0anROWUVlWU1yZHBVZVJ0TVp2b1dwQXpGWFBMdHRBanFKZXlhRFJydEJVZmJkSmxjSGNHLTlBbkJnbU5rVTZVNXd4cl9FVEMza3hFOEFNRUtoMVQxdEtIQ1c3VHAtTTRsSzVZNXNYZHBEelh2cHJIV2tmVk9fVjd1aGExWm9ldWw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://finance.yahoo.com",
-      "title": "Yahoo Finance"
-    }
-  },
-  {
-    "title": "Tesla driver using Full Self-Driving struck and killed a man crossing I-80 - The Verge",
-    "description": "Tesla driver using Full Self-Driving struck and killed a man crossing I-80  The Verge71-year-old pedestrian killed by self-driving Tesla crossing I-80 in Vallejo: CHP  ABC7 Bay AreaS.F. Tesla driver who fatally struck man crossing highway said car was in full-self-driving mode  San Francisco ChronicleVallejo man dies on I-80 after struck by self-driving Tesla, CHP says  KRON4Elderly man dies after being hit by multiple cars in Solano County  FOX40 News",
-    "published date": "Thu, 22 Oct 2026 18:07:02 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRkpMMVEzYmpXbnI0RXZKeG5rWW04dzNLbVp4S1ZGV0hJUmdfS24xZ0R1dTdsUHYwdk5DVHF5RzhaVV9QaW9oNW9zckJOLUFVaGFMMHlEV2VXYUlZMkRlRjV2QmRiUHlvZXN1LVVkX1VSTlU2ZHF5X2ZlOUdNQ2NucFlNdWxNRC1WMF9QSlhMWkVvZkd2TlNDOFVR?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theverge.com",
-      "title": "The Verge"
-    }
-  },
-  {
-    "title": "Residents to Nederland leaders: End the deal to buy Eldora ski area immediately - The Colorado Sun",
-    "description": "Residents to Nederland leaders: End the deal to buy Eldora ski area immediately  The Colorado SunOpinion: In Nederland’s doomed quest to buy Eldora, Powdr should pull the plug  SAM MagazineTrustees double down on Eldora  The Mountain-EarNederland hopes to assuage investors with new Eldora deal structure  BizWestNederland altering structure of planned deal for Eldora in bid to sell bonds  BusinessDen",
-    "published date": "Thu, 22 Oct 2026 10:02:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdmsyTXA0OXhhMmZGdkRURzhQWXZQeFB2LUxUNXg2dW5GSHZGc1ZNc25iMzNvY3lWeGd4X0I0QzkxMmp2dmJJUHVQV3BrN0txZ0toWElHc2xxSm9kNlNORjVVbGg4TkdwWkRIRFM0c0t4UzBNNTFSZWNnZy1qd3hFRDdpbEg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://coloradosun.com",
-      "title": "The Colorado Sun"
+      "href": "https://www.foxbusiness.com",
+      "title": "Fox Business"
     }
   },
   {
     "title": "Bosses Want the Secrets of the Family Firm That Has Never Had a Layoff in 75 Years - WSJ",
     "description": "Bosses Want the Secrets of the Family Firm That Has Never Had a Layoff in 75 Years  WSJ",
-    "published date": "Thu, 22 Oct 2026 09:30:00 GMT",
+    "published date": "Thu, 22 Oct 2026 14:08:53 GMT",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNclZqMllRY29kTXAyYS1rcVdrMHdCRGhTQzZvQVhuVTkxc3l1YTBFa3Y0N3F3SmxpbERXV1U5UGNYV2pwTTVVMzhfSHdrUVJmMXVIY09tZy0xLWtONEZFRGZvTklmUjlrTm9DWmZEOE1ZZF9HR3lZOUc2NG1mLUJ6TXY4TjdjZEV4ZDEwNE4yc0JVN3dhOEFyenJoQTlZbkRMNHFqeEVyZkNVYXk5TWFnWFVGREtDaGhsZDhoUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.wsj.com",
@@ -550,93 +540,13 @@
     }
   },
   {
-    "title": "EQT to buy molecular testing firm Qiagen for $10.8 billion - Reuters",
-    "description": "EQT to buy molecular testing firm Qiagen for $10.8 billion  ReutersBuyout firm EQT acquires German diagnostics group in €10.8bn deal  Financial TimesQiagen Going Private as Sweden’s EQT to Buy Firm for $10.8B  GenomeWebEQT Nears €9.6 Billion Deal for Molecular Testing Firm Qiagen  Bloomberg.comQIAGEN and EQT Private Equity announce agreement on a recommended voluntary all-cash public takeover offer  Business Wire",
-    "published date": "Wed, 21 Oct 2026 22:48:21 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVHkyNW5pTXVNT2J0VFpZaGVHcW95Q3lkRWZ0clJYMVdva0M4b3BDUkwzQkNnRk41T2x3M1E1bDlxUUlCYTI5cVFHc093UU5rYndOcGRpa2FjSHBreml6WGJrbHFBSXhmaTB3QUozeDVQRERJMkhpTDFCUy1zZHk0aWIxcEhpdnJjTUd3bERiNmZleEM1enEyQlpuUDNYekE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.reuters.com",
-      "title": "Reuters"
-    }
-  },
-  {
-    "title": "U.S. Crude Oil Stockpiles Fall More Than Expected - WSJ",
-    "description": "U.S. Crude Oil Stockpiles Fall More Than Expected  WSJAPI Crude, Product Inventories Continue to Draw  Crude Oil Prices Today | OilPrice.comPBOC sets USD/ CNY reference rate for today at 6.7195 (vs. estimate at 6.6756)  investingLiveUS Crude and Gasoline Stocks Fall, Distillates Rise, EIA Says  EnergyNow.comOil inventory makes more gain at Cushing Hub  Oklahoma Energy Today",
-    "published date": "Wed, 21 Oct 2026 15:24:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQm5hOGlwVkNzMHk1V2V2Snc3WXZkaXNUMEVyc0NmSmh2Yl9ieENlaUE4YkVKWUpFNExZZ1ZkYWdXQjkySW5HWlBjeDJSUHZEY282M2Z3UXhLeWtKOXdVWnFsZHBVMGVydzdUcHJCSFdkeDE3eU5vZktQZmEzdmZhOFNxczNqajJ1YUkyUGVPS1JRTDZCb210VExyY21SQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Stock Market Today: Tech Selloff Deepens as Flight Into Treasurys Drives Yields Lower — Live Updates - WSJ",
+    "description": "Stock Market Today: Tech Selloff Deepens as Flight Into Treasurys Drives Yields Lower — Live Updates  WSJUS Futures Slip as Risk-Off Sentiment Dominates With Oil Rising  Bloomberg.comMarkets sell off worldwide as further conflict looms in the Middle East and Elon Musk cuts capex guidance  FortuneUpdate: Middle East Tensions, Rising Oil Prices Drag US Equity Futures Lower Pre-Bell  Yahoo FinanceCOMMENTARY: Morning Bid: Rattled by oil, tech and France  Reuters",
+    "published date": "Thu, 22 Oct 2026 21:24:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZHdlcnRQQU9wNmQtZ1c0V3huVjJadkFKS0dwamZRRHltOURMYXRNcHQ3UkdOUVZGR08zRVc0ZHNqWUpWM01CNHdxXzJ1RUQ2ajkycTY0VFNCcUVrN0tKM0pMazJuWkVMclBYcU01MmNQbUw2dVIteWk4SWpVWFI2MWhmSklYREk?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.wsj.com",
       "title": "WSJ"
-    }
-  },
-  {
-    "title": "'Working People Will Pay a High Price': Report Warns AI Bubble Is 'Primed to Pop' - Common Dreams",
-    "description": "'Working People Will Pay a High Price': Report Warns AI Bubble Is 'Primed to Pop'  Common DreamsTop Strategists Share 5 Ways Investors Can Hedge the AI Trade  MorningstarStock Pickers Burned by the AI Boom Think Their Moment Has Finally Arrived  WSJBrace for Impact: Protecting People and the Economy When the AI Bubble Bursts  Americans for Financial ReformMeta Earnings Will Provide a Gut Check for Struggling AI Trade  Bloomberg.com",
-    "published date": "Wed, 21 Oct 2026 20:47:19 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Uc29NTHMySXdCTW81TmlicTRKa3JFWk1fOTF5MnpOeFlObnZER09kRm0ySWJURExNeEVnTFRwcXJfaUdhdkw1V0FicW91eGxXQTN0eldUUnFMbG0tOUNGbjdrbk8?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.commondreams.org",
-      "title": "Common Dreams"
-    }
-  },
-  {
-    "title": "'GTA 6' could cause $1 billion sick day as 1.5 million estimated to skip work: reports - FOX 29 Philadelphia",
-    "description": "'GTA 6' could cause $1 billion sick day as 1.5 million estimated to skip work: reports  FOX 29 PhiladelphiaGTA VI probably won't cost the U.S. economy $1 billion—and economists say it wouldn't matter if it did  FortuneVideo game’s release could cost US economy $1B in lost productivity in just one day  New York PostGaming Can’t Afford More Games the Size of ‘Grand Theft Auto VI’  WIREDGTA 6 launch may cost U.S. economy $1 billion in one day  Audacy",
-    "published date": "Wed, 21 Oct 2026 15:44:59 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQmNfM3Q2eGV0QmtsN0UwamM1ZkNxWE9YeGFTZFNuWDFQX01wUFB3RWtQUWlYcWpUSTRPN014bTRBYkRjZFdoRmtqaVpHTjlPYjJiQnU1Y1pBc2R1MXFsVGNGb19JMXJMbzZGTTBadzY4RXZuLUlEVE5TVm5wT1g2YTJUeS04bXF0eTJMMWl5UE80NFFXeDBGNi05anRHNTV3RU1ZZmZB?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.fox29.com",
-      "title": "FOX 29 Philadelphia"
-    }
-  },
-  {
-    "title": "Trump releases heating oil to the Northeast to reduce surging prices - Politico",
-    "description": "Trump releases heating oil to the Northeast to reduce surging prices  PoliticoU.S. to Tap Heating Oil Reserves Ahead of Midterm Elections  The New York TimesUS to Tap Heating Oil Reserve as Prices Soar Before Election  Bloomberg.comFeds release emergency heating oil to lower Maine prices; Collins, King claim win  Portland Press Herald - Maine Sunday TelegramEnergy Dept to loan part of home heating oil reserve to ease prices, drawing bipartisan praise  Fox Business",
-    "published date": "Wed, 21 Oct 2026 16:56:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNFl5Zmlici13bFVZZ0JfZ09YOGtpMkxwbXdVeEwyYUZSMlctUjJjN0RzNFc5SElmNjhqM3N5bmdpeThDTjRZQkdhMVZ6dWtPVEpKMnhyTnJGd1kwb241QW1lV2VMQmFkOWtlMF9PbXpSQkRpQTZmSy1LeDUtS0FBSWszQzZfaG8?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.politico.com",
-      "title": "Politico"
-    }
-  },
-  {
-    "title": "Chip stocks break a bear trap after a $2.6 trillion rout — here are the levels bulls need to hold - Yahoo Finance",
-    "description": "Chip stocks break a bear trap after a $2.6 trillion rout — here are the levels bulls need to hold  Yahoo FinanceChip stocks break a bear trap after a $3 trillion rout — here are the levels bulls need to hold  Yahoo FinanceTwo big reasons Micron and other chip stocks are falling on Thursday  MarketWatchChip Stocks Tumble Despite Solid Earnings Reports  Investor's Business DailyChip Stocks Fall as Supply Warning Deepens AI Selloff: Marvell and AMD Sink 8%, Intel Drops 7%  24/7 Wall St.",
-    "published date": "Thu, 22 Oct 2026 14:11:22 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdlFqYkc4bm8xNHVMWlhyV2F0TXlpNk83UUF3Tk9UOXhtTE9JQjk3RGZMWW5weUIwckcxVHZSTmFZbmVROVpEQ1p0NXJXYTRZSDB2bGJnZ245eFI3eElvX2NEQjBtcEJnc1FYMVpmNm1tclBMWmN4Xy1PbDRtaGlOUG53TUhwdERXd0VGem02X092S1pwUFluU2hkLUlZZTg5SGtVTGtNWFMtcW43bmZjYWdEcDFFa09JaWJmcHo0S2tNRzVKclh2YUdKSHNUZUgzMzRpb3c3eEZsRnZwUVdtNkpoSy1ZUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://finance.yahoo.com",
-      "title": "Yahoo Finance"
-    }
-  },
-  {
-    "title": "Jensen Huang Says the Next Wave of AI Is Physical. Forget Nvidia and Tesla, I’d Bet on These 2 Mid-Cap Stocks Instead. - Barchart.com",
-    "description": "Jensen Huang Says the Next Wave of AI Is Physical. Forget Nvidia and Tesla, I’d Bet on These 2 Mid-Cap Stocks Instead.  Barchart.comNvidia's Huang hails Europe's AI potential, flanked by robot ducks  ReutersMerz hopes to cash in chips with Nvidia investments  The Irish TimesNvidia CEO Huang was optimistic about the EU's growing AI economy and data center infrastructure  DW.comJensen Huang sends in the robot ducks to sell Nvidia's AI-everywhere vision  The Register",
-    "published date": "Wed, 21 Oct 2026 22:25:32 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdFotaUFUdXRhWk5JLWRwTWd1WE5YT0M5VTItX2I5TGkzM21LQ2M2SHZjM2lQeVlhd2ZKTENkdlczVUlDZGlxbWdISVZkUXpvZWZCZ01LM1AyX1VFc0pqOUl2LUtpNzFvQk90bFR6cHBpUkFrM2xsUGVrdkowTjVoWWpITmdYZFJrYWF5OWxZV0tmVjZLdElxQ01JRkJwcV9UZ2NXYUdfNVhJazhfcW9HSTRxSFJQbVpaa3pEQ3hfQm1xSU1Ba3hPd0ZQNFdIa1ZVOUlvblYyaWdMeXE5aTBjMncybFVITHE5QWhQQ3NUVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.barchart.com",
-      "title": "Barchart.com"
-    }
-  },
-  {
-    "title": "AI's future hinges on public safety concern, cybersecurity, regulatory work in Congress - Fox News",
-    "description": "AI's future hinges on public safety concern, cybersecurity, regulatory work in Congress  Fox NewsAnthropic quietly pitches its own AI safety bill to lawmakers  PoliticoRogue AI Must Threaten 50 Lives Before Being Shut Down, Anthropic Suggests  Novara MediaDario Amodei spent 2,000 words laying out to a critic on X why Anthropic must persist in the AI ‘race to the top’  Business InsiderAnthropic pitches AI safety bill that may block a model if 50+ people could be killed  TechCrunch",
-    "published date": "Thu, 22 Oct 2026 18:51:03 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMThtZENXYS0yYVR3UU40RzN4ZUt4dENfZk1JVS1jMHNkRE1YWkhQdWtXTXJma09acEdNQ25Ral9FOWhEckpTdXJ5TjJUeE84RHZoUGxOdE5saVdKUzZUcUt1RTBLWVlSTXZqRjkzZHQwVlpMVFNDNEY0QmJuMjJEY2t1NzB1Ti1ZQktLZTZzdXdhOUdLX1JMV0puRWV2Tkc3RGxDMzZQcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.foxnews.com",
-      "title": "Fox News"
-    }
-  },
-  {
-    "title": "Tesla, Meta and IBM: 3 earnings call shout outs that left us thinking - Yahoo Finance",
-    "description": "Tesla, Meta and IBM: 3 earnings call shout outs that left us thinking  Yahoo FinanceMeta and Tesla bulls get confidence boost after SpaceX earnings  CNBCTech Earnings Today: Tesla Beats Profit Estimates; Meta Tops Street on Revenue  Investopedia3 things to look out for on Wednesday  Seeking AlphaMeta Platforms, Tesla Could Swing More Than $100 Billion After Earnings  Benzinga",
-    "published date": "Thu, 22 Oct 2026 09:19:24 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZzM1RHpRcDIyZWw0NTd5ODJja2tQdjEwZFUxenI2MGh6RGxRVklxOWpjMnFaQ2dGelBUZ3J5cUEyNl9Zcjd6TjJGWk9vWlk4OFdaMXBqRHYzbU9jd1lLZUlRSUQwUDh0bHAyMDlvTk1ZaS10VDJXcldpNzRiMmpuNTAyOHRiZWxyWFFRNHR0QWpKUHFtYkhlQUFXV0hIdlQwdGlWUDlNeFRmYm8zaTdJdlZoYkx2N2U3a1p1dXM0R3ExMi05RndqSFp3?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://finance.yahoo.com",
-      "title": "Yahoo Finance"
     }
   }
 ]
