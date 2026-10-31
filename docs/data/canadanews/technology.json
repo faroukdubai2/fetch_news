@@ -1,5 +1,55 @@
 [
   {
+    "title": "LocalStack for Azure Enters Public Preview with Security Settings Stored but Not Enforced - infoq.com",
+    "description": "LocalStack for Azure Enters Public Preview with Security Settings Stored but Not Enforced  infoq.com",
+    "published date": "Sat, 31 Oct 2026 07:58:48 GMT",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lYnlZaFJDbllhSTVOajQwRTlLTktpV1VzZXQ1bkoxelUzWTk2Y0dqSllHR3ZRZTg4X3hRdUlhVlloMkxzQVVlUjVuTXBISFduUVVHWmhZcXpCUXdWa3RfUjJHYXozRHdnZ2RucA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.infoq.com",
+      "title": "infoq.com"
+    }
+  },
+  {
+    "title": "This new Canadian-made wheelchair is small enough to fit in a backpack - OrilliaMatters.com",
+    "description": "This new Canadian-made wheelchair is small enough to fit in a backpack  OrilliaMatters.com",
+    "published date": "Sat, 31 Oct 2026 14:05:19 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdndlVXhEQ3hRZkk4eWh4MWdWZ0I1bkRvY3hwWjMwcy1jSlI5X01vVVBKOHl4TlExdW56Wnh6ckdseVpQXzN4WjRKVVRkS194X1BUNEhEdHRsekZka1FTUW1NWTZBQ2gzSUR4bUN0Q1BBM3BMT3FQYzIxelVlYWd0T3pwWlRWUmhGRkp5cUxnMy1jR1l5clRBd2hjYWh1czdvZEZSd3VkZ0R0ZmVkbm5ZUy1zQy1YWHF1Znc1RVZ3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.orilliamatters.com",
+      "title": "OrilliaMatters.com"
+    }
+  },
+  {
+    "title": "Kubernetes Confidential Containers Get Fortanix Attestation and Key Management - infoq.com",
+    "description": "Kubernetes Confidential Containers Get Fortanix Attestation and Key Management  infoq.com",
+    "published date": "Sat, 31 Oct 2026 08:18:50 GMT",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOZDJIblk3NmUydWh2Z1VDYzAtYzZ4Wk9OVjhUbkdscnBOY1hjYUdVblJJQl9qLVRXWGdCUEhWdm1TVTBZWV9YeDM0aWRVMFpaX1g4aGgwaURLNGYxdkF0MG9YQTJjWmN4T0dUeGhhNG4?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.infoq.com",
+      "title": "infoq.com"
+    }
+  },
+  {
+    "title": "Icemen offers chills as Seaway Valley Theatre Company delves into darkness - Cornwall Standard Freeholder",
+    "description": "Icemen offers chills as Seaway Valley Theatre Company delves into darkness  Cornwall Standard Freeholder",
+    "published date": "Fri, 30 Oct 2026 21:17:23 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY3Y0MVoxV1BMeFpsTWhaLXRQMUppTThRcmRvWm10STRTemRhTkRjS0MtUnZLbUt4LWowZncwdHBNOU00TF9hZEQ4Z3lVa1p2b2p0a2NRTHdDSUZkOS00eklHMUR3MGpNZHFMNTFqaldNX0RmOUo0djR6cldoTW9uTDY2THdNMFFBQks2MXItLV9Ka3FObTFz?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.standard-freeholder.com",
+      "title": "Cornwall Standard Freeholder"
+    }
+  },
+  {
+    "title": "The Araxy Erion is a Magnetic Chain Damper That Lives On Your Chainstay - Pinkbike",
+    "description": "The Araxy Erion is a Magnetic Chain Damper That Lives On Your Chainstay  Pinkbike",
+    "published date": "Fri, 30 Oct 2026 21:46:25 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLTRfRjU0Z0lBU2V6bkJkeTduU0JNZzB4RWV3ZEZ4dndyX2pOQjJBWHhPdEktREpUWWkxUUNsRXBJRFFMQU5vS3dqZWNJdjRVS3QyOGtiVUtRT0pfc0ZHSVlQMUtmbXZGYlJLcWs3eEFTVTR1MUR0dTQ0T0Q3R21jOWJ4X1pYNURTYmRHcE43WHpiRHhTTWlEUE9lX3BHWnUyY3B2dUw2SXJnUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.pinkbike.com",
+      "title": "Pinkbike"
+    }
+  },
+  {
     "title": "Condo owners, tenants work through wreckage of SIREG collapse - CBC",
     "description": "Condo owners, tenants work through wreckage of SIREG collapse  CBC",
     "published date": "Fri, 30 Oct 2026 15:36:02 GMT",
@@ -7,56 +57,6 @@
     "publisher": {
       "href": "https://www.cbc.ca",
       "title": "CBC"
-    }
-  },
-  {
-    "title": "Scary Story Contest: The Cat and the Mouse - Freshet News",
-    "description": "Scary Story Contest: The Cat and the Mouse  Freshet NewsScary Story Contest: The Entity  Freshet News",
-    "published date": "Sat, 31 Oct 2026 02:10:16 GMT",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YYktuX0RjN3N6X1RWbi0ydVVGRlg0T3pKVFZCbl9QaEVxVkhvUU4zZzdicHlBU19IVThvTmlLV1J3OElSWkxpOVhmd1JsZXRJNmZmTEFLajh2YURkUmx0dlJjeVpqVzZSWHR6LXNjb0pNMDJsb3ZEMg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.freshetnews.ca",
-      "title": "Freshet News"
-    }
-  },
-  {
-    "title": "Vancouver Island puzzle company showcases Canadian women’s art - CHEK News",
-    "description": "Vancouver Island puzzle company showcases Canadian women’s art  CHEK News",
-    "published date": "Sat, 31 Oct 2026 01:56:57 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYW5TdFpQSDhHUTR3VkZ6Q3doSVVZUl9iajl1WEp3NVNRS19pY1R0Z2hyR0ZJWjRFN29RVzNzd1JTMlYzUGlHSVVwZThycHlFTUd6OUZuVENCTWcxYjVnZ2t0OEhfa1A2RHBKMnFUSnFHdXQ4N1JBZVdCOUxLTk5Dam5QNFMtem5adEVhQlpUMUg3ZnhR?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://cheknews.ca",
-      "title": "CHEK News"
-    }
-  },
-  {
-    "title": "Woodland Jewellers present annual raffle prize supporting Cariboo Memorial Hospital - Williams Lake Tribune",
-    "description": "Woodland Jewellers present annual raffle prize supporting Cariboo Memorial Hospital  Williams Lake Tribune",
-    "published date": "Fri, 30 Oct 2026 23:38:51 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWHJpSzN0NmlIczk4UlYxWnFtdXZIU3doVDZxOC1Kdk9BX3puS2I0ekszemViVXhTX1dCOHF0NUxCV2YxSE1xaFBGSzF2dnRERkxMY0ZWNm4xSjI2cVRwQVZQSnRNS2ZSQjBrQlk4ME53Skg0VldTRXQxQjBzR3dZWl9Mcmw2YlhsaTZuT05SWE4wY2Z0LU8xRnpmTF9SX0VaVTM3Q0Z3ekEwaW9IbkJlNTNlY1dsNTJv?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://wltribune.com",
-      "title": "Williams Lake Tribune"
-    }
-  },
-  {
-    "title": "DoorDash Cuts Grocery Reorder Latency from 16 to 2 Seconds with AI Agents - infoq.com",
-    "description": "DoorDash Cuts Grocery Reorder Latency from 16 to 2 Seconds with AI Agents  infoq.com",
-    "published date": "Fri, 30 Oct 2026 13:32:48 GMT",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XNHFSNUhMV0VJTmhfREV3d2x3QTgzbk9xQVNHdFVDck9TMjd3RWZyNExraWhOWTE4QVVkVUpDYnBIQTdsQ1VJMXJ0cTVZRmMycHREaWk3LXJRdkMyTDcybE1sMUFPUVhvQ3lMSFVBTGY?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.infoq.com",
-      "title": "infoq.com"
-    }
-  },
-  {
-    "title": "Beyond Local: Alberta students getting chance to talk to astronaut aboard space station - St. Albert Gazette",
-    "description": "Beyond Local: Alberta students getting chance to talk to astronaut aboard space station  St. Albert Gazette",
-    "published date": "Fri, 30 Oct 2026 23:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUGNEWUYyV3lOMktDcU9WQnNzU24tcnNVYzJlLW5RajY5eGdpNXhqdUEyMFdvTVZFYUhrOUlzWlFUQUxPZmFSaHVJeEJzalpFTnBNQ0oxb2ZNZTZ5dDVQWVpJMW9Beko4bndfTXB6WV8tVmFwaFlxX2hXWWNDdGNrT21NU2d1RzRyVUhjdUJsQ3BSWGFDbzBKbHRvbW9XMTM3TDFkTHE1Qi1pRkUzUTZGaThQbnItWjB0VmQtZXNWSnR6ZkFpc0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.stalbertgazette.com",
-      "title": "St. Albert Gazette"
     }
   },
   {
@@ -70,6 +70,16 @@
     }
   },
   {
+    "title": "Scary Story Contest: The Cat and the Mouse - Freshet News",
+    "description": "Scary Story Contest: The Cat and the Mouse  Freshet NewsScary Story Contest: The Entity  Freshet News",
+    "published date": "Sat, 31 Oct 2026 02:10:16 GMT",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YYktuX0RjN3N6X1RWbi0ydVVGRlg0T3pKVFZCbl9QaEVxVkhvUU4zZzdicHlBU19IVThvTmlLV1J3OElSWkxpOVhmd1JsZXRJNmZmTEFLajh2YURkUmx0dlJjeVpqVzZSWHR6LXNjb0pNMDJsb3ZEMg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.freshetnews.ca",
+      "title": "Freshet News"
+    }
+  },
+  {
     "title": "Netflix Titus Adds Single-Tenant VM Isolation for Containers - infoq.com",
     "description": "Netflix Titus Adds Single-Tenant VM Isolation for Containers  infoq.com",
     "published date": "Fri, 30 Oct 2026 10:00:54 GMT",
@@ -80,13 +90,63 @@
     }
   },
   {
-    "title": "MacBook Pro Pricing and Configurations for M6, M5 Pro, and M5 Max - Daring Fireball",
-    "description": "MacBook Pro Pricing and Configurations for M6, M5 Pro, and M5 Max  Daring FireballApple Unveils Its First-Ever Touchscreen MacBook Pro. Should Investors Be Concerned About the $2,899 Price Tag?  The Globe and MailApple’s Touch MacBook Pro Eases Users Into a Big Change: Hands-On  BloombergApple shows first touchscreen laptops amid product blitz  CTV NewsTouchscreen MacBook Pro hands-on: OLED looks great on a Mac  Ars Technica",
-    "published date": "Fri, 30 Oct 2026 22:00:23 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS2JKaEFpUmNrQjV1dnNxODlXTE9iRmZkLXNvWXNndTRqeGZQLWhfS1VTcGl6a1BnYm4wajRHejZWUUVicDdDX2xqSXlucWp5UVQxRy0wWFBjbk1SNDMwSWNvUlB2Xzc5UklubUtUWlJEMmhuSzNZaXgyNzl2eldBdFVDRHRlX0pYQ2E5Y25tN3FKNDhnX3VmNHFUdDRmLUk?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Vancouver Island puzzle company showcases Canadian women’s art - CHEK News",
+    "description": "Vancouver Island puzzle company showcases Canadian women’s art  CHEK News",
+    "published date": "Sat, 31 Oct 2026 01:56:57 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYW5TdFpQSDhHUTR3VkZ6Q3doSVVZUl9iajl1WEp3NVNRS19pY1R0Z2hyR0ZJWjRFN29RVzNzd1JTMlYzUGlHSVVwZThycHlFTUd6OUZuVENCTWcxYjVnZ2t0OEhfa1A2RHBKMnFUSnFHdXQ4N1JBZVdCOUxLTk5Dam5QNFMtem5adEVhQlpUMUg3ZnhR?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://daringfireball.net",
-      "title": "Daring Fireball"
+      "href": "https://cheknews.ca",
+      "title": "CHEK News"
+    }
+  },
+  {
+    "title": "After testing device cases for years, these are the best ones for your iPhone Duo - Business Insider",
+    "description": "After testing device cases for years, these are the best ones for your iPhone Duo  Business InsiderBest iPhone Duo Wallet Cases: Which ZEERA Case Fits Your Day?  zeera wirelessiPhone Duo Leather Cases: 3 Styles, 3 Very Different Reasons to Buy  zeera wireless",
+    "published date": "Tue, 27 Oct 2026 20:46:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nWFRsWHRMT2NXRTFzTTRTdHpGS3NKWThJUlJhYnRFVXZWTW5LZ25BZzBVV2lXSFdNLV94LVZhcGVYYUtyTm9NWnY4Zm9hdE1NWkdZWTJJODhfTGg3b3ZaNXBVeU4wN3JqUHU0RjZUazh2YWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.businessinsider.com",
+      "title": "Business Insider"
+    }
+  },
+  {
+    "title": "Woodland Jewellers present annual raffle prize supporting Cariboo Memorial Hospital - Williams Lake Tribune",
+    "description": "Woodland Jewellers present annual raffle prize supporting Cariboo Memorial Hospital  Williams Lake Tribune",
+    "published date": "Fri, 30 Oct 2026 23:38:51 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWHJpSzN0NmlIczk4UlYxWnFtdXZIU3doVDZxOC1Kdk9BX3puS2I0ekszemViVXhTX1dCOHF0NUxCV2YxSE1xaFBGSzF2dnRERkxMY0ZWNm4xSjI2cVRwQVZQSnRNS2ZSQjBrQlk4ME53Skg0VldTRXQxQjBzR3dZWl9Mcmw2YlhsaTZuT05SWE4wY2Z0LU8xRnpmTF9SX0VaVTM3Q0Z3ekEwaW9IbkJlNTNlY1dsNTJv?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://wltribune.com",
+      "title": "Williams Lake Tribune"
+    }
+  },
+  {
+    "title": "Beyond Local: Alberta students getting chance to talk to astronaut aboard space station - St. Albert Gazette",
+    "description": "Beyond Local: Alberta students getting chance to talk to astronaut aboard space station  St. Albert Gazette",
+    "published date": "Fri, 30 Oct 2026 23:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUGNEWUYyV3lOMktDcU9WQnNzU24tcnNVYzJlLW5RajY5eGdpNXhqdUEyMFdvTVZFYUhrOUlzWlFUQUxPZmFSaHVJeEJzalpFTnBNQ0oxb2ZNZTZ5dDVQWVpJMW9Beko4bndfTXB6WV8tVmFwaFlxX2hXWWNDdGNrT21NU2d1RzRyVUhjdUJsQ3BSWGFDbzBKbHRvbW9XMTM3TDFkTHE1Qi1pRkUzUTZGaThQbnItWjB0VmQtZXNWSnR6ZkFpc0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.stalbertgazette.com",
+      "title": "St. Albert Gazette"
+    }
+  },
+  {
+    "title": "Google Adopts DPoP to Strengthen OAuth 2.0 against Token Theft and Replay Attacks - infoq.com",
+    "description": "Google Adopts DPoP to Strengthen OAuth 2.0 against Token Theft and Replay Attacks  infoq.com",
+    "published date": "Thu, 29 Oct 2026 19:00:50 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VRERwdlhBS1VFTE9yMVRPd0hfZU9HUkd5NVR3VjBULUJvU3doZkx2V21qcTRCbkM4SjYwZDNSSlZ6VW5lMUo3M1hnNGpFeTVZUVdpTE1FcDhheWpGZ1RYemUxNkw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.infoq.com",
+      "title": "infoq.com"
+    }
+  },
+  {
+    "title": "Get Bose QC Headphones for Less Than $200 - WIRED",
+    "description": "Get Bose QC Headphones for Less Than $200  WIREDBose QuietComfort Headphones for $199 is a price we didn't see coming  Android Police",
+    "published date": "Sat, 31 Oct 2026 10:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKWUhBUXlGMm1yRk1vLXRqbjVoU2dHU3owaXBIbHpvdUJFNXdVQ05aX1p4a0lqbGNpakpENWJRZzhRN2pTN0VGc09SenRlQjRvVkNPWWJTWWhZRkJmTGE0SzNB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.wired.com",
+      "title": "WIRED"
     }
   },
   {
@@ -100,83 +160,13 @@
     }
   },
   {
-    "title": "Dear Urban Diplomat: My neighbour keeps brutally uprooting trees on public property - Toronto Life",
-    "description": "Dear Urban Diplomat: My neighbour keeps brutally uprooting trees on public property  Toronto Life",
-    "published date": "Fri, 30 Oct 2026 17:35:28 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeklBeG5ISGFnNUNadjJLWWpJeWxjMnpTVVcwakZjSU12cHlsZDY2T0c4b00xX1c2MV9Yck9hT2JrNS1URDAtQ2w3bzZXaEdqb1NMWVJyUjdqRHg4dENObkp5V3BCVmQwdmNWd0g2NmdWMEhYc194ZmVXZ2tGZEZUVzZOVlRhNXNtcEI5a1RkRTRNOEgwU0l4Y2gzYS1aYklRRWppWlNraWdUdFRtZjR0aUtR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "‘Nostalgic feeling’: McNab’s Corn Maze re-opens after 3 year break - CHEK News",
+    "description": "‘Nostalgic feeling’: McNab’s Corn Maze re-opens after 3 year break  CHEK News",
+    "published date": "Fri, 30 Oct 2026 01:48:23 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWkpiNHhxMkRZTmQ4R3dDeThENTZxQzZVeC1tUHJSVFFHOFp3WGJjbmYzbHcydlVsM3FOeG42c2tLdzhPcEFmb0RCM0lPX1QxRDVSenBLTWZkeTN4RFhRY2ZkOGxDamZyTW03T1E0U084T0U0dnB2cHlISHl4elRGWmVwSnhwc0pnbHhzdEVRQ3hYZ3M2RHc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://torontolife.com",
-      "title": "Toronto Life"
-    }
-  },
-  {
-    "title": "Google Adopts DPoP to Strengthen OAuth 2.0 Against Token Theft and Replay Attacks - infoq.com",
-    "description": "Google Adopts DPoP to Strengthen OAuth 2.0 Against Token Theft and Replay Attacks  infoq.com",
-    "published date": "Thu, 29 Oct 2026 19:00:50 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VRERwdlhBS1VFTE9yMVRPd0hfZU9HUkd5NVR3VjBULUJvU3doZkx2V21qcTRCbkM4SjYwZDNSSlZ6VW5lMUo3M1hnNGpFeTVZUVdpTE1FcDhheWpGZ1RYemUxNkw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.infoq.com",
-      "title": "infoq.com"
-    }
-  },
-  {
-    "title": "Analysis: The Chainstay Length Debate Has Been Resolved (According to Pinkbike Readers) - Pinkbike",
-    "description": "Analysis: The Chainstay Length Debate Has Been Resolved (According to Pinkbike Readers)  Pinkbike",
-    "published date": "Fri, 30 Oct 2026 16:53:33 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYkRRbXNVZm91OUR4cktZcUR2MWw5LWgxbXBHR1hBZFlwZ19paDk0MUY1Y1VoNkpWTWdobjFScWhERVc5MGFrUkxoOUNiMUFoMXNqTlBNaWtfZHJqVHVfQ01mR0JFV1A1VC1faGpoNkVpWGVRYXB3eXJXUWViWUoxVFVDbGloY2NCZE4wV2FHZG95MEpySlFIMjEtZktrMlVES2Q1bzRuQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.pinkbike.com",
-      "title": "Pinkbike"
-    }
-  },
-  {
-    "title": "We turned an old city cruiser into an ebike. Was it worth it? - Canadian Cycling Magazine",
-    "description": "We turned an old city cruiser into an ebike. Was it worth it?  Canadian Cycling Magazine",
-    "published date": "Fri, 30 Oct 2026 16:17:41 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcDBUWFgwLXNjclA5LUI4QnprNmFxa1AxWG85cWttM3R2VFdIckhxb3l5M0JETE82NEZCZFd2TGQwSGpsMjdSTExPWjc2YVJDc05qbTBrZVNLUFpoeE0zNjNYX21BUzNnQ241aUdDdldHamtyakhxY3Q0b29KOXo1WXFGOFFJQWZXRmZnTl9ZSjZZU3JLTjJ3UXVYVURRWGNsZGI0?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://cyclingmagazine.ca",
-      "title": "Canadian Cycling Magazine"
-    }
-  },
-  {
-    "title": "GUI Design Protection Goes Global: Evolving Practice Across Jurisdictions - JD Supra",
-    "description": "GUI Design Protection Goes Global: Evolving Practice Across Jurisdictions  JD Supra",
-    "published date": "Tue, 27 Oct 2026 21:17:39 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbVBScWw0WEFsLXhfZDRtTk05X1l4Z0dfSmg4MGZmcE0zSlU2eDhVdjNDVHFIZk9maWhYeEh4VnRJZnIzS25xNGZJTFBxUjNnM2hJbXItd240NDRmOThobnRTMkVsU1cwSVIxdUpuYUFwWGcyTGN0VWFFdkRnem1IOGFR?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.jdsupra.com",
-      "title": "JD Supra"
-    }
-  },
-  {
-    "title": "Little pumpkins brings Halloween spirit to Williams Lake - Williams Lake Tribune",
-    "description": "Little pumpkins brings Halloween spirit to Williams Lake  Williams Lake Tribune",
-    "published date": "Fri, 30 Oct 2026 14:04:17 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRHVlZWE1UHFPSzh2TmxYQVRRa1JabVVZTHZJak9rNUcyazJCajdEV3pxTk5fLVpfalg2S05jbE5lUDY1MERkWG1rd1MxTVJlcTRwc0pKdWxDQ3hwSGdwQ0stODdlMHlOdTUxVDN4bmZEdk81VG9WaW02Si0tNm1nU2g1ZFg0d0RfazFYdm9xRDBwdkRZ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://wltribune.com",
-      "title": "Williams Lake Tribune"
-    }
-  },
-  {
-    "title": "Take the guesswork out of hitting your marathon goal - Canadian Running Magazine",
-    "description": "Take the guesswork out of hitting your marathon goal  Canadian Running Magazine",
-    "published date": "Fri, 30 Oct 2026 19:32:44 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbjRfSGNuNWlOSG9JaDFlcEtGWWg3ZXpjTFRYSmJWR1B1Y1FtSlluOVVaQWFMMmtJbFBFX1NzWnFZdUU2d2hzYUIwRXJ5dVNndkNyS0hWemtvN08ydXlQRTdOTHNyNlEwRm1TemRhZTJNVS1ISC1yVzZUaXBnQTVva2hSM1JRN1J6ZG5sSGVZTzBQc2VHZ1J6dFppNGpMQjQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://runningmagazine.ca",
-      "title": "Canadian Running Magazine"
-    }
-  },
-  {
-    "title": "Nova Scotia couple walks across P.E.I. to raise money for lymphoma - PNI Atlantic News",
-    "description": "Nova Scotia couple walks across P.E.I. to raise money for lymphoma  PNI Atlantic News",
-    "published date": "Fri, 30 Oct 2026 10:20:49 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSWxMZXZNeW9rQTRZY0ZPRlIwcUhjQklwczlTSHB6OXg5U3dfTklDUTMzUzNEVUR6RWtaSGdrdGFHTDg5Y2o0RDdWVFF5bU96ZnpfcGp5WVIwb3I0RmhQVHFEXzN4alJlNGFmb0x0MFo3aG1RLUtWWFJGVjZ4TERxNE5WQUUzVVM2dFpGWjhtMHV5OGdsd05kbmdXYk9mRDRibTJFakE2clNWWl9WSWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.saltwire.com",
-      "title": "PNI Atlantic News"
+      "href": "https://cheknews.ca",
+      "title": "CHEK News"
     }
   },
   {
@@ -190,13 +180,73 @@
     }
   },
   {
-    "title": "Feed Probe: fast, effective silage moisture test - Farmtario",
-    "description": "Feed Probe: fast, effective silage moisture test  Farmtario",
-    "published date": "Fri, 30 Oct 2026 09:50:12 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ0czc1FrTlBkRllnLWx1MWRpei1LSE96dUpYdzAwajBLM0lPX1dzcFpITFpYeHhTY1BLb3FuUVozUWRkdUY5RFhxWjJ1d1FDYVR0ME9rMVdDTkNuMDhOWm1odWdzTXF2dHVOQzhJenBGdm91eElpM0FhNmc3LVNuTkY0Tk5mNkxWMFd0S2JuRGJKYVRyVkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Dear Urban Diplomat: My neighbour keeps brutally uprooting trees on public property - Toronto Life",
+    "description": "Dear Urban Diplomat: My neighbour keeps brutally uprooting trees on public property  Toronto Life",
+    "published date": "Fri, 30 Oct 2026 17:35:28 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeklBeG5ISGFnNUNadjJLWWpJeWxjMnpTVVcwakZjSU12cHlsZDY2T0c4b00xX1c2MV9Yck9hT2JrNS1URDAtQ2w3bzZXaEdqb1NMWVJyUjdqRHg4dENObkp5V3BCVmQwdmNWd0g2NmdWMEhYc194ZmVXZ2tGZEZUVzZOVlRhNXNtcEI5a1RkRTRNOEgwU0l4Y2gzYS1aYklRRWppWlNraWdUdFRtZjR0aUtR?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://farmtario.com",
-      "title": "Farmtario"
+      "href": "https://torontolife.com",
+      "title": "Toronto Life"
+    }
+  },
+  {
+    "title": "Apple Stores reportedly got a memo about iPhone Duo screen cracks. - The Verge",
+    "description": "Apple Stores reportedly got a memo about iPhone Duo screen cracks.  The Verge‘I Felt Blind Panic.’ They Opened Their New $2,000 iPhone Duo—and It Broke.  WSJApple to replace iPhone Duos affected by screen problem  BBCApple Alerts Stores to iPhone Duo's Display Cracking Issue  MacRumorsiPhone Duo Crease Barely Changes After 139,000 Folds  iPhone in Canada",
+    "published date": "Fri, 30 Oct 2026 22:56:46 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa2FMRUk4RG01Z1ZWZ01pdHpMT0gzSHlKTU5TT29wWFFzXzhfSzZBazlRMjRsbFIyYjZTSER5Y2o4VjNWSnR0MmlGSkFCcTN0Q2NuOVBjNXlvQ1ZMMVBhRV9MU2xtQzZIMWN5SVk1akhGUnBVZ3Jfc1ViVkZVaWJ5cGNmRXpUUEdmWEtEV2hUc0RWS2tfc2ZRU1c3eW1GRldIUzlJUEFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theverge.com",
+      "title": "The Verge"
+    }
+  },
+  {
+    "title": "Skipped upgrading this year? 5 upcoming Android phones worth saving for - Android Authority",
+    "description": "Skipped upgrading this year? 5 upcoming Android phones worth saving for  Android AuthorityTech Advisor December 2026 Digital Magazine  Tech Advisor",
+    "published date": "Sat, 31 Oct 2026 10:09:45 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSFhWckRMQ1dsX05RMVF4N0NPaEc4QlllVU9Wa0xLZEhrdUhpNWliemJTeTN0MURtX3hUMUxKMDNGZFBHMTdWa1phQUtSb204NVlQMGhxWWhoTjBDQVpXQjlWS1JBOHFyV2lJbWJVMUdvSU5SdnpPZzlEd3FjY2xKZ0ZPZ3haQUY0OVZ0WWplaVY?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.androidauthority.com",
+      "title": "Android Authority"
+    }
+  },
+  {
+    "title": "Analysis: The Chainstay Length Debate Has Been Resolved (According to Pinkbike Readers) - Pinkbike",
+    "description": "Analysis: The Chainstay Length Debate Has Been Resolved (According to Pinkbike Readers)  Pinkbike",
+    "published date": "Fri, 30 Oct 2026 16:53:33 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYkRRbXNVZm91OUR4cktZcUR2MWw5LWgxbXBHR1hBZFlwZ19paDk0MUY1Y1VoNkpWTWdobjFScWhERVc5MGFrUkxoOUNiMUFoMXNqTlBNaWtfZHJqVHVfQ01mR0JFV1A1VC1faGpoNkVpWGVRYXB3eXJXUWViWUoxVFVDbGloY2NCZE4wV2FHZG95MEpySlFIMjEtZktrMlVES2Q1bzRuQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.pinkbike.com",
+      "title": "Pinkbike"
+    }
+  },
+  {
+    "title": "Little pumpkins brings Halloween spirit to Williams Lake - Williams Lake Tribune",
+    "description": "Little pumpkins brings Halloween spirit to Williams Lake  Williams Lake Tribune",
+    "published date": "Fri, 30 Oct 2026 14:04:17 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRHVlZWE1UHFPSzh2TmxYQVRRa1JabVVZTHZJak9rNUcyazJCajdEV3pxTk5fLVpfalg2S05jbE5lUDY1MERkWG1rd1MxTVJlcTRwc0pKdWxDQ3hwSGdwQ0stODdlMHlOdTUxVDN4bmZEdk81VG9WaW02Si0tNm1nU2g1ZFg0d0RfazFYdm9xRDBwdkRZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://wltribune.com",
+      "title": "Williams Lake Tribune"
+    }
+  },
+  {
+    "title": "We turned an old city cruiser into an ebike. Was it worth it? - Canadian Cycling Magazine",
+    "description": "We turned an old city cruiser into an ebike. Was it worth it?  Canadian Cycling Magazine",
+    "published date": "Fri, 30 Oct 2026 16:17:41 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcDBUWFgwLXNjclA5LUI4QnprNmFxa1AxWG85cWttM3R2VFdIckhxb3l5M0JETE82NEZCZFd2TGQwSGpsMjdSTExPWjc2YVJDc05qbTBrZVNLUFpoeE0zNjNYX21BUzNnQ241aUdDdldHamtyakhxY3Q0b29KOXo1WXFGOFFJQWZXRmZnTl9ZSjZZU3JLTjJ3UXVYVURRWGNsZGI0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://cyclingmagazine.ca",
+      "title": "Canadian Cycling Magazine"
+    }
+  },
+  {
+    "title": "Nova Scotia couple walks across P.E.I. to raise money for lymphoma - PNI Atlantic News",
+    "description": "Nova Scotia couple walks across P.E.I. to raise money for lymphoma  PNI Atlantic News",
+    "published date": "Fri, 30 Oct 2026 10:20:49 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSWxMZXZNeW9rQTRZY0ZPRlIwcUhjQklwczlTSHB6OXg5U3dfTklDUTMzUzNEVUR6RWtaSGdrdGFHTDg5Y2o0RDdWVFF5bU96ZnpfcGp5WVIwb3I0RmhQVHFEXzN4alJlNGFmb0x0MFo3aG1RLUtWWFJGVjZ4TERxNE5WQUUzVVM2dFpGWjhtMHV5OGdsd05kbmdXYk9mRDRibTJFakE2clNWWl9WSWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.saltwire.com",
+      "title": "PNI Atlantic News"
     }
   },
   {
@@ -210,53 +260,43 @@
     }
   },
   {
-    "title": "Samsung's next foldable is here, and it's even more expensive than the iPhone Duo - Android Authority",
-    "description": "Samsung's next foldable is here, and it's even more expensive than the iPhone Duo  Android AuthoritySamsung releases new ultra-premium foldable with special designs  NotebookcheckSamsung's next foldable leaks in official-looking renders - GSMArena.com news  GSMArena.com",
-    "published date": "Fri, 30 Oct 2026 08:22:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9mRUdUcTFOQXU3enRGMkJYYUZyUFNHVXU0UTNxYlB1cFRPS0hkMFNqMjBQdVVCcG5rWlJ1UkdSOE1kOEZEY2Z1d1RZNnhxZ21sQ0Z3TUFyWkk1VVdDZVpSLU1pTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Seasonal fireworks influence international air quality - IQAir",
+    "description": "Seasonal fireworks influence international air quality  IQAir",
+    "published date": "Wed, 28 Oct 2026 15:00:03 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWk9SZ0JRNG5pdzNZelA5ZTNpWmFiQWxpbGZMY1VYcEl1UzJ5ZzJYNjNQdjAwaTNnM2dMTmVJX2lnOWVydkVILS1TaXJvZ1h5eThWR3M4QTdXTEFOaXE5cWRtTU9DTi1IekZxSVN5UVNKdnJjOVgxLVhUTGpYRUZDcWxrcDVHc0dWanZNY2NB?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.androidauthority.com",
-      "title": "Android Authority"
+      "href": "https://www.iqair.com",
+      "title": "IQAir"
     }
   },
   {
-    "title": "Cloudflare Opens Quicksilver to Customers as Workers KV Instant, Inside a 1 MB Envelope - infoq.com",
-    "description": "Cloudflare Opens Quicksilver to Customers as Workers KV Instant, Inside a 1 MB Envelope  infoq.com",
-    "published date": "Wed, 28 Oct 2026 09:02:42 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByQW1tNXZJUHdZdE9wNkJLT3l2dHpJcUJQd2RMV3d4aDBKQmtWNW5vd1U5R3ptZlAxcVNqaUxrQTVwSXdRWmtXU2VqdUZmRDEzV1Uxa2JyaFQtQXRtVjkyamFWNFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Take the guesswork out of hitting your marathon goal - Canadian Running Magazine",
+    "description": "Take the guesswork out of hitting your marathon goal  Canadian Running Magazine",
+    "published date": "Fri, 30 Oct 2026 19:32:44 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbjRfSGNuNWlOSG9JaDFlcEtGWWg3ZXpjTFRYSmJWR1B1Y1FtSlluOVVaQWFMMmtJbFBFX1NzWnFZdUU2d2hzYUIwRXJ5dVNndkNyS0hWemtvN08ydXlQRTdOTHNyNlEwRm1TemRhZTJNVS1ISC1yVzZUaXBnQTVva2hSM1JRN1J6ZG5sSGVZTzBQc2VHZ1J6dFppNGpMQjQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.infoq.com",
-      "title": "infoq.com"
+      "href": "https://runningmagazine.ca",
+      "title": "Canadian Running Magazine"
     }
   },
   {
-    "title": "Joanna Stern Folded the iPhone Duo 32,640 Times. Kuba Klawiter Broke It at 75,001 - Memeburn",
-    "description": "Joanna Stern Folded the iPhone Duo 32,640 Times. Kuba Klawiter Broke It at 75,001  MemeburnApple to replace iPhone Duos affected by screen problem  BBCApple Alerts Stores to iPhone Duo's Display Cracking Issue  MacRumorsThis Is What an iPhone Duo’s Crease Looks Like After 139K Folds  CNETApple’s iPhone Duo Fault Isn’t Terminal to Foldable Foray  Bloomberg.com",
-    "published date": "Fri, 30 Oct 2026 00:25:46 GMT",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9LQ0xXN3haUHRWekgwLTB2YjhQTXBsNWtpcmcwNTJFRFMweGhfTEQxbWpRX2MwanpTVEV5blZWLU9jMTZ5M3NmSW9CY2VUQ0V4dENXOFhZNG1BdFhCYjJsQVE2aTRkejJ0TG1HeDJvTWlWY1N0RzJB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Feed Probe: fast, effective silage moisture test - Farmtario",
+    "description": "Feed Probe: fast, effective silage moisture test  Farmtario",
+    "published date": "Fri, 30 Oct 2026 09:50:12 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ0czc1FrTlBkRllnLWx1MWRpei1LSE96dUpYdzAwajBLM0lPX1dzcFpITFpYeHhTY1BLb3FuUVozUWRkdUY5RFhxWjJ1d1FDYVR0ME9rMVdDTkNuMDhOWm1odWdzTXF2dHVOQzhJenBGdm91eElpM0FhNmc3LVNuTkY0Tk5mNkxWMFd0S2JuRGJKYVRyVkE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://memeburn.com",
-      "title": "Memeburn"
+      "href": "https://farmtario.com",
+      "title": "Farmtario"
     }
   },
   {
-    "title": "Report: BioWare Shutdown Was Because EA Chose to Invest In Star Wars Battlefront 3 Instead - Comics Gaming Magazine",
-    "description": "Report: BioWare Shutdown Was Because EA Chose to Invest In Star Wars Battlefront 3 Instead  Comics Gaming MagazineWhy Electronic Arts Shut Down BioWare And Cancelled ‘Mass Effect’  BloombergBioWare Co-Founder Greg Zeschuk Says Studio Was Killed by Executives Who Have Never \"Made a Game”  80 LevelEA Cancelled Mass Effect To Fund Star Wars: Battlefront 3  TechPowerUpBioWare Co-Founder: EA's Private Equity Buyout Was 'the Final Nail in the Coffin'  IGN",
-    "published date": "Fri, 30 Oct 2026 14:56:42 GMT",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjUm1KVGNtZk8wRHBfeFVhaE1mVXRaU1p0SHFiMkdpS1BtOThxclFnSUtUWFVFVnlnM1ItaTNSbHpHbWpWUGdGUkxheElDNFJXNzZXQUp4MmZCRkt2SG50UGc2Tml3ZWctUHdBaWdicE8yR0lYeXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Electronic Arts Shut Down BioWare Because of Star Wars Battlefront, Jason Schreier Reports - Mezha",
+    "description": "Electronic Arts Shut Down BioWare Because of Star Wars Battlefront, Jason Schreier Reports  MezhaWhy Electronic Arts Shut Down BioWare And Cancelled ‘Mass Effect’  BloombergBioWare Co-Founder Greg Zeschuk Says Studio Was Killed by Executives Who Have Never \"Made a Game”  80 LevelEA Cancelled Mass Effect To Fund Star Wars: Battlefront 3  TechPowerUpBioWare’s Mass Effect Team of Around 50 People Lost Out to Star Wars Battlefront 3 as EA Sidelined Laura Miele, Its Key Advocate  Wccftech",
+    "published date": "Fri, 30 Oct 2026 19:33:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORWtVMERlSHFTR3VPNnZFaEhSdnM5MkF1NDR4X1k1SWo4R0IyajFOc3pxVXRtcVhLMkJRYkhjWTdmakVJUVlZanVYdGlmS0t2b1VSYWJoNUdmcjlPMm80eXJ2dEdPQTJZNzdCOEhacWdlUlhlTTI1N1ZmZmxPS284aFhreGljdWvSAYwBQVVfeXFMTWx0V1pXZ1dRRTBCa1lqM19HQ2xKUFhkZDhhX21sMlVCSkhsM1BiLVAxQU14UXlZLWNwM2dtdzM4aUJqT21RSkVsVmxyZHVNVDdOSzFxeUc2VFM4eFE4anVTcElqN0V4bjZBWS1CRFlqNGJycUMxM2tKaDZCd2tzdl9KZ202bXg1R0plQno?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.cgmagonline.com",
-      "title": "Comics Gaming Magazine"
-    }
-  },
-  {
-    "title": "Edge just got a big Windows 11 speed boost, and Microsoft isn’t keeping the technology to itself - Yahoo Tech",
-    "description": "Edge just got a big Windows 11 speed boost, and Microsoft isn’t keeping the technology to itself  Yahoo TechSee more headlines & perspectives on Google News",
-    "published date": "Thu, 29 Oct 2026 17:39:32 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUzJoUjllMll0Vk1CYURYV2g4b1lkS08zUDFEN2I3S1JIdE9ieFU5OUhuWDdjVXFnYnZjNm5HS3pXWlhLdGpYOTJXM1VTM0p6amNyTlhobGN5UF9ucnMtZElqVVpkN3VpdXRmb3ZnNEc0Y1F2RHBrUkFGZWdlS0R1TVdnRHR4RnA0b0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://tech.yahoo.com",
-      "title": "Yahoo Tech"
+      "href": "https://mezha.ua",
+      "title": "Mezha"
     }
   },
   {
@@ -280,6 +320,46 @@
     }
   },
   {
+    "title": "Samsung launches a premium version of the Z Fold 8 Ultra in China for $2,850 - Gizmochina",
+    "description": "Samsung launches a premium version of the Z Fold 8 Ultra in China for $2,850  GizmochinaThe Samsung W27 goes official in China - GSMArena.com news  GSMArena.comSamsung's next foldable is here, and it's even more expensive than the iPhone Duo  Android AuthoritySamsung's next foldable leaks in official-looking renders - GSMArena.com news  GSMArena.com",
+    "published date": "Fri, 30 Oct 2026 11:02:45 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSVJjRlc4c05OYXdtRWFfYktGcDVJMEZYS0R2dGgzR2gtWXljNDkxeEMzX3UyNjlSTU9rZjhOUWFqVlFCWEs0UlFvZ2cyYWhTTnQyeTducjlrUG9YMWNvRXlnLUR5WWVIRE50NENGYllMeEtSMGRXc3N0dTU4YTN4ZEtsdG9STDJLeEY0cjRoZW4yODJzRldFR0Uta20wNkJKajgweGw4bFl2NUxrOXB5ZW9oaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.gizmochina.com",
+      "title": "Gizmochina"
+    }
+  },
+  {
+    "title": "Deep Google Store discounts on Pixel 11, Pixel Watch 5 start early - 9to5Google",
+    "description": "Deep Google Store discounts on Pixel 11, Pixel Watch 5 start early  9to5GoogleThe Google Pixel 11 Pro is now cheaper than it’s ever been at Amazon  Android Police",
+    "published date": "Fri, 30 Oct 2026 17:57:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NSzZFdmFDckIxQ2o1VmFJOUluNFMwSnhXMWFSU2JjeTI4eXY3RUN2TTNNT2s1Z2xITlZTMnViOXV4QXpiS0hIS0Q5YnQya0hmU2l6MXNZTFYwMHBIUW5JOEJVRnFLa0lVbTRuLVBhWEFSR2lnYUhJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://9to5google.com",
+      "title": "9to5Google"
+    }
+  },
+  {
+    "title": "Edge just got a big Windows 11 speed boost, and Microsoft isn’t keeping the technology to itself - Yahoo Tech",
+    "description": "Edge just got a big Windows 11 speed boost, and Microsoft isn’t keeping the technology to itself  Yahoo TechSee more headlines & perspectives on Google News",
+    "published date": "Thu, 29 Oct 2026 17:39:32 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUzJoUjllMll0Vk1CYURYV2g4b1lkS08zUDFEN2I3S1JIdE9ieFU5OUhuWDdjVXFnYnZjNm5HS3pXWlhLdGpYOTJXM1VTM0p6amNyTlhobGN5UF9ucnMtZElqVVpkN3VpdXRmb3ZnNEc0Y1F2RHBrUkFGZWdlS0R1TVdnRHR4RnA0b0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://tech.yahoo.com",
+      "title": "Yahoo Tech"
+    }
+  },
+  {
+    "title": "Apple Loop: MacBook U-Turn, iPhone Duo Problems, iPhone 18 Pro Sales - Forbes",
+    "description": "Apple Loop: MacBook U-Turn, iPhone Duo Problems, iPhone 18 Pro Sales  ForbesApple unveils first touchscreen laptops, abandoning resistance to the technology  The Globe and MailThe touchscreen MacBook Pro is just a MacBook Pro with a touchscreen  The VergeTouchscreen MacBook Pro hands-on: OLED looks great on a Mac  Ars TechnicaApple’s Touch MacBook Pro Eases Users Into a Big Change: Hands-On  Bloomberg",
+    "published date": "Fri, 30 Oct 2026 23:23:41 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbTYtTXU5NHAyX2JsaDdWZjBtbU5pb1ZWcHFRUGMyRTJET2xrRDBqa0U4bEluTl9ZUkkyeFQyNXlmemxvUWFjaVZRVUItajhrXzl5d1RZbHQ0aU0xQ2h4RFM2VVYwUGVFYVI2eHZfM2VnRC0zdk1jYWpvSUxSYWdQMVVKRGJZVXVaRzFqQ1phNUpYY2tSdmp5dXhJbEMtVlk1SWM3alROQVVXVklXcDB4OHNFWWNTbWZHYXdGSkUwVUVFUS1IZjk0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
+    }
+  },
+  {
     "title": "Where winter begins: Le Westin Tremblant, reimagined - Toronto Life",
     "description": "Where winter begins: Le Westin Tremblant, reimagined  Toronto Life",
     "published date": "Thu, 29 Oct 2026 17:04:45 GMT",
@@ -290,73 +370,43 @@
     }
   },
   {
-    "title": "B.C. realtor nearing 44 million views from Google photography days - Surrey Now-Leader",
-    "description": "B.C. realtor nearing 44 million views from Google photography days  Surrey Now-Leader",
-    "published date": "Thu, 29 Oct 2026 16:50:53 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLWFOYW1lMnl5Y0dERGVOZFprQTU5b29VNkJHd2tXYk5DZUhDUy0ybFg5Qm56WHFmRFpVc0dXd3I1cm9STW5YektHNngtWE1BVnhIV2dkcmQ1WmstOTlZVU9fQjRLbmdJT1h5bnNhU05VR0JVdVVvSWVlM1hYVXVKU3ItQ0o1VUF4dW16TC1LZFhEem51Wklyb3k5SXNoa2YyNFFLYTZ5Z1o?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "B.C. realtor nearing 44 million views from Google photography days - Trail Times",
+    "description": "B.C. realtor nearing 44 million views from Google photography days  Trail Times",
+    "published date": "Thu, 29 Oct 2026 16:52:12 GMT",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLWdDQUl6TzhUb2oxSmsweWpTWVZOa0JJWXBVTFpwbE5iZFpFU21IdDE4bTBZeFZIMDQ1UWdoRHZlZ2tKQ09aeWU3dmJ6LU9sYkNFRUk3bFUwMlpNRjNxdEhscmVzOHI0dW03LTJ3dmtWcEQ1c05tTndtSmtRdnRCcS0wQXdFZzVOMERVUUx2U2IxYVU0X3hpRy15dTNhblFC?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://surreynowleader.com",
-      "title": "Surrey Now-Leader"
+      "href": "https://trailtimes.ca",
+      "title": "Trail Times"
     }
   },
   {
-    "title": "The cars that steered Toyota away from ‘boring’ hit the end of the line - The Globe and Mail",
-    "description": "The cars that steered Toyota away from ‘boring’ hit the end of the line  The Globe and Mail",
-    "published date": "Thu, 29 Oct 2026 09:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNekVlRmJfZTRSSHAtZDgzaXAyQ0RORUVfSWlkNFZjeFZWOFlaNFZoVWNKdE5FbHdFczJySjlaSkk2RUFsZ3psU29UVGxha1JBSjR2aW9uWkI5dXM5dEowVHZsNVppVUVPSEgzNHdiMURQSW80aGlNNjFRbDI4c3Z5ZW9TSVhlM1YwbmNkYlpWMGs4SkZQenJ6bnBJUUthUnIzcHoycDB5MHpOZ0tJUG1lME8tYzdrdzhJejJHUkpDMkIxQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "5 PS5 Games That Are 10/10 Masterpieces - Comic Book Resources",
+    "description": "5 PS5 Games That Are 10/10 Masterpieces  Comic Book Resources",
+    "published date": "Fri, 30 Oct 2026 02:00:12 GMT",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56U2wwUnV0dWNYVFBuRXdybFpHM2lTY1o4NTVtOWo1aWtCeVlrTEJweTU4YjB3RENDVzMzQlc5ak00dG1ZcTNIZDdBeF9IM255NjJ4ck1OT2hjVzcwblZLLUhQbEFvYUl0VDRTbGZRREg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.theglobeandmail.com",
-      "title": "The Globe and Mail"
+      "href": "https://www.cbr.com",
+      "title": "Comic Book Resources"
     }
   },
   {
-    "title": "Amazon’s new Alexa lineup includes the easiest smart frame, ever — and a very well-designed clock - DC News Now",
-    "description": "Amazon’s new Alexa lineup includes the easiest smart frame, ever — and a very well-designed clock  DC News NowDid Apple and Amazon just save the smart display?  The VergeAmazon Debuts 16-Inch Echo Smart Display and Alexa Photo Frame  BloombergAmazon introduces Echo Time, a smarter way to start and end your day  About AmazonAmazon Adds A Glare-Reducing Nanomatte Display To Its New Echo Show 16  Engadget",
-    "published date": "Fri, 30 Oct 2026 18:40:17 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb1lWQUF3ZkUzVkhQNjFmLXJhQjBsZGdaWjFkeTFNWW1jUjMya3JKRGNPWHpsdlJ0RGNzZWxVNVdkT082bVo0Y0pycW9zMER4ck1PY1BKVDhpeVA0ZlZLTXJPNVpuOWszTDhOaFlBb1V1RTE0Si1aZEpmMkQ2VXZ0Sk9WS2hmQzBjeVJSc0RlNlZyeTd4YlM4S0pFRFlvcXdaQm5oNEdGekhrM3paRGNlSkIxWENNQWs3WkZFSDZIMlkxWknSAcgBQVVfeXFMT0dmZzY4NHp3Um5FdWlYdnlvWHlUSnowYl9TLVZ0ZVdnQndNeWxPZGVSM3FlNjdUMlZ3cWdjSWhjUGt1UUd5R3ZHQjdKQUhCN0FXNzlfWEE1Y21td1A5ellpM1hzd2ctN1hOWXVBbWJMWThVaXVwNDMwaEhmcXNtUlQ2NFdGNWR3aURHeXRDUHA2amgzZmFGOHVYbmNZX3VRRlA2V0xoeW41Z2tXdnFHRGc2TDFSUl9FU2M1M0pOSDBfdFE2ZWhrdS0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Google rolling out software updates for these Nest Cam and Doorbell models - 9to5Google",
+    "description": "Google rolling out software updates for these Nest Cam and Doorbell models  9to5GoogleGoogle Home update should make Gemini stop saying ‘Sorry, I didn’t understand’ so much  9to5GoogleGoogle Home and Nest speakers getting seven updates, including for Bluetooth & audio quality  9to5GoogleGoogle details new firmware for Chromecast with Google TV and Nest Wifi Pro  9to5Google",
+    "published date": "Fri, 30 Oct 2026 12:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wWWs5a1gtcFYxWE1jZTc5S3FyNU0xQzhHVktQY2k5LXp2WVBseE9HOV81dHdyOGRtX3U5bnFDbnBwRUZZQUtDRUFNaW5pcGd0WWZfTnhLcWdqTVpuazFuekR4SUlRUS1LRGJubkFvbEs3SWNGVjg0U3FwcE0?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.dcnewsnow.com",
-      "title": "DC News Now"
+      "href": "https://9to5google.com",
+      "title": "9to5Google"
     }
   },
   {
-    "title": "Nintendo Switch Sports Resort review - GamingTrend",
-    "description": "Nintendo Switch Sports Resort review  GamingTrendMy Nintendo October Wrap-Up - News - Nintendo Official Site  NintendoPoll: What Review Score Would You Give Nintendo Switch Sports Resort?  Nintendo Life",
-    "published date": "Thu, 29 Oct 2026 19:16:54 GMT",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tVG1EQ1E3aTRtS2tJX1BJNFZoVWNnM3dxT29BbjJBVWFLSzMyS0lPUXBVNUVzYnpvaDJLNGRiM3REX2RTV1RxYzhvejZCNEFSNUNyMjl3YkVBTk84dEpOb3YtUTN2SUo2RXNiVlIxNENwempwSXNsSg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Amazon’s Alexa Photo Frame can arrive preloaded with family photos - SFGATE",
+    "description": "Amazon’s Alexa Photo Frame can arrive preloaded with family photos  SFGATEAmazon introduces the all-new Echo Show 16—our most advanced, versatile smart display yet  About AmazonDid Apple and Amazon just save the smart display?  The VergeAmazon’s New Echos Land in Canada, Including a Sleep-Tracking Clock  iPhone in CanadaIntroducing the new Echo Dot and all-new Echo Studio with Home Camera  About Amazon",
+    "published date": "Fri, 30 Oct 2026 18:32:46 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ21QcFVrYXlsVll6cUl4TzMxcjVyMk16WTMwLXRObG5VNEl0WU0wSURGdzZKeG1xVUJfemRqWl9kTWhNRmZRZUFMYzByR1RxNWtwX3BjSjdablJaMGpCUjNXaDlnMkdUcXVGUDhyS2hFLWpVYUhJOFRGZU9pNFJGU3dTdWJLbnpyd09FdHA0MWNWVUsyajhvSw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://gamingtrend.com",
-      "title": "GamingTrend"
-    }
-  },
-  {
-    "title": "This 'excellent' Amazon Fire TV Stick is 50% off right now — plus 20 more epic tech deals, up to 79% off - Yahoo Lifestyle Canada",
-    "description": "This 'excellent' Amazon Fire TV Stick is 50% off right now — plus 20 more epic tech deals, up to 79% off  Yahoo Lifestyle CanadaHold on to this Android Fire TV Stick as long as you can  Pocket-lint",
-    "published date": "Fri, 30 Oct 2026 15:30:42 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPU0Z0SEctMXpSX1FQb3Z3dDBmdjl4WFNTR1hnV0lFY1lEVXNGOUZXNTJ4aTFCdWNfU29BVlJHNWZ0QWVmTy1nWElzWDN0Um1LeTQ5NnpqSVFyOFJvUHZPLTJGRThoUUcwQ3Z2OEJjNEp2RUd5QzM4YVNlYldCbFptMDM0dU5FY1ZocWZoOWRZUGRhSVhSQmU1dk9lVkFQSENHRUl6U0hwY3JxbFB2eXBHQTdsam8xOUIwY1ZnZmMzQXZ5cHRCMkdZc2tlVkFhZkZ4VzRPOGdyMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://ca.style.yahoo.com",
-      "title": "Yahoo Lifestyle Canada"
-    }
-  },
-  {
-    "title": "Google Sends Major Updates to All of Its Google Home, Nest , Streamer Devices - Droid Life",
-    "description": "Google Sends Major Updates to All of Its Google Home, Nest , Streamer Devices  Droid LifeGoogle Home update should make Gemini stop saying ‘Sorry, I didn’t understand’ so much  9to5GoogleGoogle Home App Gets One of the Biggest Updates We’ve Seen  Droid LifeGoogle Home and Nest speakers getting seven updates, including for Bluetooth & audio quality  9to5GoogleGoogle details new firmware for Chromecast with Google TV and Nest Wifi Pro  9to5Google",
-    "published date": "Thu, 29 Oct 2026 17:26:20 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMmpPMEl1QkJ2VzdaN3JsT1VRLU52ZDJ1Q2ZnV1FhaDdTbS1WODZvVjZoNGxRR3VMUFBwQWE3ZjIxTXNWNG1vanBWbmd4ODc2YUxPc2ZvOC1QTm5sWWxZaTlPaEVuZ2gxMUtROGhhQ2hCT3JhaHl2Sm5GZV9BSXFXcGFFb1dQdFJyczkxSjU2NTRsV19iTkdXcFMxSU56MEZiTldzd1NDUUVlcnM4dmtoNU9Faw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.droid-life.com",
-      "title": "Droid Life"
-    }
-  },
-  {
-    "title": "Celebrate 90 Years of Mopar with a Special-Edition Charger Debut at SEMA - Hagerty",
-    "description": "Celebrate 90 Years of Mopar with a Special-Edition Charger Debut at SEMA  HagertySee more headlines & perspectives on Google News",
-    "published date": "Tue, 27 Oct 2026 17:06:52 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRV8xUFpFS201ejl6RXF5dDQ5N2xhOWgxQWlKS2FveXlTcWt5UExxUDl6cVlNWjB5UVM2b2VzUjBrNHI2bEpVcmFhMzB3Q00wVVkwV19pQmpkc2J0TnB1ek92bzB5azdnVjl6S05uWWlBQndxTkZWS2hyajZjZFlJaVItcXNGZVd1WTlfZFZiMmZzRlFPUG95b3Vrem5aZ2VmY0RvMEVMLUF2all3?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.hagerty.com",
-      "title": "Hagerty"
+      "href": "https://www.sfgate.com",
+      "title": "SFGATE"
     }
   },
   {
@@ -370,23 +420,43 @@
     }
   },
   {
-    "title": "Why mortgage brokerages should attend the CMAs as a team - Mortgage Professional America",
-    "description": "Why mortgage brokerages should attend the CMAs as a team  Mortgage Professional America",
-    "published date": "Fri, 30 Oct 2026 19:15:44 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUEFRSGxPOFNWRDR4amMzUk02NGFfeVhmQlRkOEdxVWFEaldDMkU1UEQtS0d4TG4yaFNxdVRuWDJkMUNZVENFNjhxd2NnTGFOOTY5R1VWZjJEVjlZQWdwNjBUZTlMeTFSeUxncjRXRFpCYy1vbU1aeXhIUGNQcVI1eFhqLXZRX0ROU3EzMkl0c3NsdXpxRWFUUXFjSV9oUnNhNzBiMGZIYTBQcjEzcTRQR0cwVnRRRHlzcFNHYTNwdWU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Review: The Whyte Sythe RS Delivers High-End Suspension at a Reasonable Price - Pinkbike",
+    "description": "Review: The Whyte Sythe RS Delivers High-End Suspension at a Reasonable Price  Pinkbike",
+    "published date": "Mon, 26 Oct 2026 16:46:30 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc3NZZG5hNUFJMVNaWE5WRVo2Q3dIdkVwcmEwUEUwaE5XdGFDVVRWcmJ3cTZqVXVSVmlDOG82ZzF3anVBaTFRQkN3cTdKMGlYWlppZG8yTEtfS1pYQWMwYTRlalVtOG55S0ZtOXY0bWdjdkFxeXJtbV9aRFVKd3I2Ng?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.mpamag.com",
-      "title": "Mortgage Professional America"
+      "href": "https://www.pinkbike.com",
+      "title": "Pinkbike"
     }
   },
   {
-    "title": "Curse of Resthaven: Tips and Tricks to Unravel the Island’s Secrets - XBOX Wire",
-    "description": "Curse of Resthaven: Tips and Tricks to Unravel the Island’s Secrets  XBOX WireToronto-made Curse of Resthaven is a must-play gothic adventure  MobileSyrup",
-    "published date": "Fri, 30 Oct 2026 17:03:44 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdUg5cnlmTWdxc0pucWRnRkpIYmpWOTFwM3pYZDhnUEpiU0xIS0I5T1pJMTZXcWI4NGZ4NDBNM3Y4RVFRZEh0cFhoWFp3NW5vWkwtZzFMYlBkcXRua0lSRTA4bWdNQ3BwNFNjYzkya0FHbEpQOXFlREhHLXpPOU1JWlVFTm9UQdIBiwFBVV95cUxOWUlqakdBclJ4UEhyWFJFUk9fMC1wUC03eWRNTmI0NmZsbEFOWVgxZ3ZGdG94YjNDTEVPaUp0OTZ1ajk1bTI4QUNEQ0hfRDMtS0hRdVcxa2VmblpJelMzMk1OV3dVb0ZMejlnZzlNejE1OFZudnkta1NESmNmU0JHTEswNXJtcVc0X04w?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "This 'excellent' Amazon Fire TV Stick is 50% off right now — plus 20 more epic tech deals, up to 79% off - Yahoo Lifestyle Canada",
+    "description": "This 'excellent' Amazon Fire TV Stick is 50% off right now — plus 20 more epic tech deals, up to 79% off  Yahoo Lifestyle CanadaHold on to this Android Fire TV Stick as long as you can  Pocket-lint",
+    "published date": "Fri, 30 Oct 2026 15:30:42 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPU0Z0SEctMXpSX1FQb3Z3dDBmdjl4WFNTR1hnV0lFY1lEVXNGOUZXNTJ4aTFCdWNfU29BVlJHNWZ0QWVmTy1nWElzWDN0Um1LeTQ5NnpqSVFyOFJvUHZPLTJGRThoUUcwQ3Z2OEJjNEp2RUd5QzM4YVNlYldCbFptMDM0dU5FY1ZocWZoOWRZUGRhSVhSQmU1dk9lVkFQSENHRUl6U0hwY3JxbFB2eXBHQTdsam8xOUIwY1ZnZmMzQXZ5cHRCMkdZc2tlVkFhZkZ4VzRPOGdyMA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://news.xbox.com",
-      "title": "XBOX Wire"
+      "href": "https://ca.style.yahoo.com",
+      "title": "Yahoo Lifestyle Canada"
+    }
+  },
+  {
+    "title": "Celebrate 90 Years of Mopar with a Special-Edition Charger Debut at SEMA - Hagerty",
+    "description": "Celebrate 90 Years of Mopar with a Special-Edition Charger Debut at SEMA  HagertySee more headlines & perspectives on Google News",
+    "published date": "Tue, 27 Oct 2026 17:06:52 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRV8xUFpFS201ejl6RXF5dDQ5N2xhOWgxQWlKS2FveXlTcWt5UExxUDl6cVlNWjB5UVM2b2VzUjBrNHI2bEpVcmFhMzB3Q00wVVkwV19pQmpkc2J0TnB1ek92bzB5azdnVjl6S05uWWlBQndxTkZWS2hyajZjZFlJaVItcXNGZVd1WTlfZFZiMmZzRlFPUG95b3Vrem5aZ2VmY0RvMEVMLUF2all3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.hagerty.com",
+      "title": "Hagerty"
+    }
+  },
+  {
+    "title": "2027 Mercedes-Benz GLE - MotorWeek",
+    "description": "2027 Mercedes-Benz GLE  MotorWeekTested: The 2027 Mercedes-Benz GLE 450 and 580 Are Aging Like White Wine  MotorTrend2027 Mercedes-Benz GLS: Carrying the Three-Pointed Star  Le Guide de l'auto",
+    "published date": "Fri, 30 Oct 2026 21:39:44 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZUdOV0tJX2RCUDBLR1lyY2dnNC1kNl9JMFZQaElFLWtDa0ZvZ3Znd2t6QXlXbW5CTGpla0RzeFJRTGl0QzI4bWtoci1ZdENnbVpPMXJ2QU04U0h5dWpjYkZlTGZxN1NybktUUXVPTmVqU25SanRrQVlDR1pveENSTg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://motorweek.org",
+      "title": "MotorWeek"
     }
   },
   {
@@ -400,43 +470,73 @@
     }
   },
   {
+    "title": "I tested the 7 most popular Android launchers — here's my ranking - Android Authority",
+    "description": "I tested the 7 most popular Android launchers — here's my ranking  Android Authority",
+    "published date": "Fri, 30 Oct 2026 11:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2WmsxclhsZUtTb0dORDhwTzJOVkdOUWRoYU05MWpQLTAxUHREeHhDNzlDSENPS0ctRjEzczN1Q2x0dXkzMFNSdGdvZ0xudml1UG1sNDExLXhQcHdYR1p2MzZPNHBURXc1eEQwSEl5TXRlWjZ5aXpGQ0F4VkExOXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.androidauthority.com",
+      "title": "Android Authority"
+    }
+  },
+  {
+    "title": "Android Auto can run sideloaded apps for free with this new tool - Android Authority",
+    "description": "Android Auto can run sideloaded apps for free with this new tool  Android AuthorityAndroid Auto for Phone Screens Is Back Thanks to This Free App  autoevolutionSomeone is bringing Android Auto back to your phone's screen, and it actually works [Gallery]  9to5Google",
+    "published date": "Fri, 30 Oct 2026 20:59:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1PbTRjNHd5N2YyNmRCNkNGMUdua2RfNndzTDZHUlM1VkdQeHNQNzBCNXZ4WHExQjlSdG90a2VCTVhQWElROWtoNzNlbjRrMWdzQ21iWGdnRUVESnROTlAxWjhuT0pXSkVqZnVtN2pwQkthTnY2MDhOTm9fVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.androidauthority.com",
+      "title": "Android Authority"
+    }
+  },
+  {
+    "title": "Curse of Resthaven: Tips and Tricks to Unravel the Island’s Secrets - XBOX Wire",
+    "description": "Curse of Resthaven: Tips and Tricks to Unravel the Island’s Secrets  XBOX WireToronto-made Curse of Resthaven is a must-play gothic adventure  MobileSyrup",
+    "published date": "Fri, 30 Oct 2026 17:03:44 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdUg5cnlmTWdxc0pucWRnRkpIYmpWOTFwM3pYZDhnUEpiU0xIS0I5T1pJMTZXcWI4NGZ4NDBNM3Y4RVFRZEh0cFhoWFp3NW5vWkwtZzFMYlBkcXRua0lSRTA4bWdNQ3BwNFNjYzkya0FHbEpQOXFlREhHLXpPOU1JWlVFTm9UQdIBiwFBVV95cUxOWUlqakdBclJ4UEhyWFJFUk9fMC1wUC03eWRNTmI0NmZsbEFOWVgxZ3ZGdG94YjNDTEVPaUp0OTZ1ajk1bTI4QUNEQ0hfRDMtS0hRdVcxa2VmblpJelMzMk1OV3dVb0ZMejlnZzlNejE1OFZudnkta1NESmNmU0JHTEswNXJtcVc0X04w?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://news.xbox.com",
+      "title": "XBOX Wire"
+    }
+  },
+  {
+    "title": "How to Limit Siri App Access in iOS 27.2: Step-by-Step - Gadget Hacks",
+    "description": "How to Limit Siri App Access in iOS 27.2: Step-by-Step  Gadget Hacks14 New Things Your iPhone Can Do in iOS 27.2  MacRumorsiPadOS 27.2: Two new features just upgraded your iPad  9to5MaciOS 27.2 adds two FaceTime features, including a personal favorite  9to5MaciOS 27.2 for iPhone Is Out Now, Minus One Feature You Were Expecting  iPhone in Canada",
+    "published date": "Fri, 30 Oct 2026 08:42:27 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeHllYV9PZzFEbnlBRnpjTENjTC0zckU2UmIwV3Bsd0NrM0hvYVZxblJiYVc3b0EyNEJZbHFOc0VibGdXRkM3Z2Vnc0xFd1BzY2FKYUk2aEQ5LTF5NjFtZ0NQWTR4WHV4dHhqVkUwMnZReDhld1NfOUxoR2plMmVWdjgtUzJoWWY0WnpxdEVWSDNTUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://apple.gadgethacks.com",
+      "title": "Gadget Hacks"
+    }
+  },
+  {
+    "title": "The best early Black Friday self-emptying robot vacuum deals you can shop right now - Mashable",
+    "description": "The best early Black Friday self-emptying robot vacuum deals you can shop right now  MashableBest robot vacuum deal: Save $270 on Shark AV2501S AI Ultra  Mashable",
+    "published date": "Sat, 31 Oct 2026 09:03:57 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPekpUSHk5WmFXRVhMa1lGXzhZM3Y4N3BjLWgtVm9xWWRLcW5PQmVhUGpZLVFHYmxiNjg3N0FKMU9vSkJCcWF2VmlLa0todHhiYldBVXRMMmktbVhhVlBJNDFrcWVzbnlRTGRRY2FrRDJxUFJ4NmtxU0Zjc0w2VHhlM1d0WWxiS1pY?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://mashable.com",
+      "title": "Mashable"
+    }
+  },
+  {
+    "title": "Why mortgage brokerages should attend the CMAs as a team - Mortgage Professional America",
+    "description": "Why mortgage brokerages should attend the CMAs as a team  Mortgage Professional America",
+    "published date": "Fri, 30 Oct 2026 19:15:44 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUEFRSGxPOFNWRDR4amMzUk02NGFfeVhmQlRkOEdxVWFEaldDMkU1UEQtS0d4TG4yaFNxdVRuWDJkMUNZVENFNjhxd2NnTGFOOTY5R1VWZjJEVjlZQWdwNjBUZTlMeTFSeUxncjRXRFpCYy1vbU1aeXhIUGNQcVI1eFhqLXZRX0ROU3EzMkl0c3NsdXpxRWFUUXFjSV9oUnNhNzBiMGZIYTBQcjEzcTRQR0cwVnRRRHlzcFNHYTNwdWU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.mpamag.com",
+      "title": "Mortgage Professional America"
+    }
+  },
+  {
     "title": "Call of Duty: Modern Warfare 2 Rating Potentially Leaks Port for Original 2009 FPS - IGN",
-    "description": "Call of Duty: Modern Warfare 2 Rating Potentially Leaks Port for Original 2009 FPS  IGNNew Call of Duty: Modern Warfare 2 Port Potentially Leaked  ComicBook.com",
+    "description": "Call of Duty: Modern Warfare 2 Rating Potentially Leaks Port for Original 2009 FPS  IGN",
     "published date": "Fri, 30 Oct 2026 16:42:46 GMT",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWGIxOWF3MHdpOW1xTE1ieUFIbnFPSHNUQWJTdHdwZ2lVRXZFQVl2d1Q2bEJBeHdIRGd4YXNEUUdwV0tzSVI3M0ZaMUdLaUZxLUxFUWRRaGhsMGR5Z2FwUkdtWXlVT0s0UXdES2RUUHdOTV9OQVdBMVBkYUpCaE9FQXlsWk8telBTamxxcnhrNXY0a0RTeExfY3ROOHpBUTN3aElyYXNQVkdLbXJoLWYw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.ign.com",
       "title": "IGN"
-    }
-  },
-  {
-    "title": "Latest Gemini design comes to all Android devices, app upgrades file generation - 9to5Google",
-    "description": "Latest Gemini design comes to all Android devices, app upgrades file generation  9to5GoogleYou can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.  blog.googleYou can generate and edit Google Docs files directly in Gemini chats now  The VergeGemini Can Now Edit Your Docs, PDFs and Spreadsheets Right in Chat  iPhone in Canada",
-    "published date": "Fri, 30 Oct 2026 02:01:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nNUo5X0Q0ZGlCT3c0NWEwZ0d5MndSeVlOekg3YndhM2hOS0o4WVE0MFJLRVV4aU9DSzhfVkJjQWdFbWhQYnZvQzY3QzRSbTJsRHc1S3NUdl9XOHIyVXd3QUFUQklGZmJFN185X3lIOXpuUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://9to5google.com",
-      "title": "9to5Google"
-    }
-  },
-  {
-    "title": "iOS 27.2 — Apple Releases New iPhone Features And Over 150 Security Fixes - Forbes",
-    "description": "iOS 27.2 — Apple Releases New iPhone Features And Over 150 Security Fixes  Forbes14 New Things Your iPhone Can Do in iOS 27.2  MacRumorsiPadOS 27.2: Two new features just upgraded your iPad  9to5MaciOS 27.2 adds two FaceTime features, including a personal favorite  9to5MaciOS 27.2 for iPhone Is Out Now, Minus One Feature You Were Expecting  iPhone in Canada",
-    "published date": "Thu, 29 Oct 2026 23:37:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRUVCQlh1bWNMR2M1bHo2emtaWTF5Yl8yUG0tQ1hmd19mT3R5UFU0cHJaZFdicTFfampzeXRKNkpNZWwtdVBxY1ZiUjByWm1Da2ZvRlhGeDN3Yy1rc1JKWlVDa2ZpMWp3eVlqRE9GMm8zcDJ0QVVITXFLWlBBQ0xtdVJGbHBoWkFPMkNWRjhOS1JycGlkUFE1VnBYam9CdEEzMllHY2pQa0RkMzdDdzBnRUMzY18yaWxibUU5WHAzTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.forbes.com",
-      "title": "Forbes"
-    }
-  },
-  {
-    "title": "Resonance of Fate 4K/HD Edition to receive an 'Enhanced Remaster' DLC, adding HDR, 120FPS, 2x speed mode, & more (Update) - RPG Site",
-    "description": "Resonance of Fate 4K/HD Edition to receive an 'Enhanced Remaster' DLC, adding HDR, 120FPS, 2x speed mode, & more (Update)  RPG Sitetri-Ace's Resonance of Fate / End of Eternity Game Gets Enhanced Remaster for PS5, Steam Available Now  Anime News NetworkResonance of Fate’s Leanne suddenly checks in with fans on X after 8 years of silence. Official gimmick account reactivates together with Enhanced Remaster announcement  AUTOMATON",
-    "published date": "Fri, 30 Oct 2026 03:10:46 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUHlmZVJDNzNuVTJjM3J0VXBLQk5BaVBsODRaMl9Lamc2Y1VwT2Z6MkRULTZxUFhwakdpQjVWVHBfVjRmM0UyOTk0WkJWNWtCUGdYcFpHR0xUNnlNLTgyZHlocEF3ZmhTS2gtbnR5TXY3N3pDaWdIbjN0UU5BMEF6TlRvVnpaS3Zid2VxRU42enM0cG95NHRkRUFaTHF4cTFoVkNJTUNUMmlucUFwRUNpRlZ1dmJjSFlScVNJY0gydS1EREY5Q0J1QU9BR0NVdWozTDBkZG9ZZ21OZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.rpgsite.net",
-      "title": "RPG Site"
     }
   },
   {
@@ -450,23 +550,13 @@
     }
   },
   {
-    "title": "Apple's new batch of products is live on Amazon: How to buy the new MacBooks, iMacs, and iPad mini - Mashable",
-    "description": "Apple's new batch of products is live on Amazon: How to buy the new MacBooks, iMacs, and iPad mini  MashableHands-on with the new OLED iPad Mini  The VergeApple is cheaping out on the expensive new iPad mini  Fast CompanyApple gives iPad mini its biggest update ever  AppleApple Executive Comments on New iPad Mini Lacking 120Hz Display  MacRumors",
-    "published date": "Fri, 30 Oct 2026 20:56:27 GMT",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52ejVmV29SRUkwNFR5c2NmTklpX2cwZjRQbTZYZE90NWlYS0ZvZUFpd05ESDROWjRXUFZFNmVoZnctZ242Vm50Vzg1bzNDRmh2dnFsUXdhdkluNUVFdnRkM29sRzI3YVpzM1NrT0VCdEtPWWs?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "I Tried the $699 OLED iPad mini. I’m Still Not Sure Who It’s For - PCMag",
+    "description": "I Tried the $699 OLED iPad mini. I’m Still Not Sure Who It’s For  PCMagHands-on with the new OLED iPad Mini  The VergeApple is cheaping out on the expensive new iPad mini  Fast CompanyApple gives iPad mini its biggest update ever  AppleApple Executive Comments on New iPad Mini Lacking 120Hz Display  MacRumors",
+    "published date": "Thu, 29 Oct 2026 14:43:33 GMT",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Sa21CTm80aHRGS3ZIdFNKbElmTEdNNXl4M1d3NHc5NjFuVE1odDJPSWxwZml2WC05SXRKZDVWQTRENlBFRzQ1R1lCVGREUXlraTZpUThaTUF4WW56a19PWHZoY2xSZXlEaUR3VGpDRWN3S2QzN3c?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://mashable.com",
-      "title": "Mashable"
-    }
-  },
-  {
-    "title": "First Look: The Selwyn Trail Bike - 140mm, Steel, & Built for the Alps - Pinkbike",
-    "description": "First Look: The Selwyn Trail Bike - 140mm, Steel, & Built for the Alps  PinkbikeTo Get Selwyn’s New Steel 29er, You Have to Travel to the French Alps  Bike Magazine",
-    "published date": "Tue, 27 Oct 2026 14:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOel9Pdkcxbi1ZYjdjMWkyNEo1WU9xLWltMnFPVlBBd1p0dEdQZXhkOWZEWmRYNXFVTHgzcnlnRmZodWdRbHVONXNQNGFJUkJJODhkbDNoRzhnaUJWNjgySzhFeGVYdlRlMEhuS09UVlFfM2ZaaUtITXlxNlVUTUpuVTM1OERRQTlTQ2FyZ2g5ai02TG95Uk9DbVI3Y0d0WlE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.pinkbike.com",
-      "title": "Pinkbike"
+      "href": "https://www.pcmag.com",
+      "title": "PCMag"
     }
   },
   {
@@ -480,16 +570,6 @@
     }
   },
   {
-    "title": "CSA opens bids on two RADARSAT+ pathfinder radar missions - SpaceQ",
-    "description": "CSA opens bids on two RADARSAT+ pathfinder radar missions  SpaceQ",
-    "published date": "Thu, 29 Oct 2026 17:42:39 GMT",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGandNQVdrZXFhOHlOZ3Y2ZExVSGJxdnFKVF8yNHdaZ1NUaGt6NFhCTml6bEJkVmRfV3JFOUFrdW1QOGZqNGhnVlJ2M0h0bVRpbmdXZW4wQ21HcTlVa09lNVJMYU9hWWpjWEhwZENsRUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://spaceq.ca",
-      "title": "SpaceQ"
-    }
-  },
-  {
     "title": "Man runs every street in Calgary over six years - Canadian Running Magazine",
     "description": "Man runs every street in Calgary over six years  Canadian Running Magazine",
     "published date": "Thu, 29 Oct 2026 17:25:42 GMT",
@@ -500,23 +580,23 @@
     }
   },
   {
+    "title": "Acceptability of Wearable Digital Devices for Remote Continuous Mobility Monitoring in People With Parkinson Disease and Carers: Qualitative Study - Journal of Medical Internet Research",
+    "description": "Acceptability of Wearable Digital Devices for Remote Continuous Mobility Monitoring in People With Parkinson Disease and Carers: Qualitative Study  Journal of Medical Internet ResearchWearable Parkinson's Monitoring Devices: Empatica Launches WellPD for At-Home Symptom…  Trend HunterEmpatica introduces WellPD Parkinson’s wearable device  Medical Device Network",
+    "published date": "Fri, 30 Oct 2026 17:13:37 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5yaVdhNEpRQUcxM1k4M3lIR0gxNVVqa0VrMmNVRFVKeEhPWWtWRlphT1dYZGJ1M1R5S2hlYV9CU09HU0JhaE9Ea3hB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.jmir.org",
+      "title": "Journal of Medical Internet Research"
+    }
+  },
+  {
     "title": "Discord To Put Public Chats On Pages Search Engines Can Show - Search Engine Journal",
-    "description": "Discord To Put Public Chats On Pages Search Engines Can Show  Search Engine JournalDiscord will let public server messages be discoverable in Google Search  MashableDiscord Messages in Discoverable Servers Will Soon Be Searchable on Google  IGN NordicDiscord messages: How to stop messages from appearing in Google Search  MashableSome Discord Server Messages Are About To Show Up In Web Search Results  Kotaku",
+    "description": "Discord To Put Public Chats On Pages Search Engines Can Show  Search Engine JournalDiscord will let public server messages be discoverable in Google Search  MashableDiscord to let search engines index public server messages  BleepingComputerDiscord Will Soon Make Public Server Messages Searchable on Google  iPhone in CanadaSome Discord Messages Will Be Searchable on Google in December, Here's How to Opt Out  IGN",
     "published date": "Fri, 30 Oct 2026 16:38:30 GMT",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNjRkd1hIZldMNTlEZ2VSUF8wZlRCMUpYZ1pHRmZDbEdPMndoY2FOaGkzdnhPWHM2aExlMEVIVzVTc2I4X1Z3dzdxODYzWmhHRmhmTmVOdXlZTnByN3dYSEdJeTZ4cUQtVFRtV3hGNkhnTm9tbXdzdWVNZVZFWDFxY1FTZ290dUo2TzVzWnFJVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.searchenginejournal.com",
       "title": "Search Engine Journal"
-    }
-  },
-  {
-    "title": "Apple Loop: MacBook U-Turn, iPhone Duo Problems, iPhone 18 Pro Sales - Forbes",
-    "description": "Apple Loop: MacBook U-Turn, iPhone Duo Problems, iPhone 18 Pro Sales  ForbesApple’s iPhone Duo, Musk’s Merger Challenge, AI Spending Questions and More: This Week in Tech  TradingView",
-    "published date": "Fri, 30 Oct 2026 23:23:41 GMT",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbTYtTXU5NHAyX2JsaDdWZjBtbU5pb1ZWcHFRUGMyRTJET2xrRDBqa0U4bEluTl9ZUkkyeFQyNXlmemxvUWFjaVZRVUItajhrXzl5d1RZbHQ0aU0xQ2h4RFM2VVYwUGVFYVI2eHZfM2VnRC0zdk1jYWpvSUxSYWdQMVVKRGJZVXVaRzFqQ1phNUpYY2tSdmp5dXhJbEMtVlk1SWM3alROQVVXVklXcDB4OHNFWWNTbWZHYXdGSkUwVUVFUS1IZjk0?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.forbes.com",
-      "title": "Forbes"
     }
   },
   {
@@ -527,6 +607,36 @@
     "publisher": {
       "href": "https://www.searchenginejournal.com",
       "title": "Search Engine Journal"
+    }
+  },
+  {
+    "title": "Apple to launch iPhone AI features in China in December via Alibaba partnership - South China Morning Post",
+    "description": "Apple to launch iPhone AI features in China in December via Alibaba partnership  South China Morning PostApple Intelligence is finally coming to China with iOS 27.3  The VergeAlibaba, Apple partner to bring Qwen to Apple Intelligence for users in China  Global Times",
+    "published date": "Sat, 31 Oct 2026 10:02:17 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN2tkN3NFenBvWmVSMHFlWEJGWnlfeWpyVzFQQzhoUllDZ3ljS05venFUT1ZnT3pQai13c3hmUHU0RTlESklTekVvU2VuTXJXeDF0Z1k4THFicC1ybU0wcVk5MVBuNmdaMXVCUlZ3dTBPcmtLTVBjTnBKV2lHZEFGRmlKU0loWWttaWlXbDM3QkxLS1RkaHhic04xYm5FWGcyWWxDZDZFT01kVXl5WTFWQUtrcW1uZU020gG4AUFVX3lxTFA4YTg1dUhJeDhZajg5NTFxU29RRWNNeVZzZXRxMmpoUjZ3QTNuWktwS0FQVkxvbUQ3YjQ1NGcwa3hVRDE3TnNOTmVhdXk5QTVuYUhuMGgxR0tmWHZGbDdKV09tdnhWQWhJWTdnaW9mNmhZRWowaV9wQmdvZTRTa3FzdExZakVlTHpXT0RGNGxYS0RpeXd1emlfYXBqVkVCMk1MUjJhbmlQdV90M2RqN3FiakNEM3VYU2w?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.scmp.com",
+      "title": "South China Morning Post"
+    }
+  },
+  {
+    "title": "Innovative Crystallization Process Paves Way for Ultra-Efficient Camera Sensors - AZoM",
+    "description": "Innovative Crystallization Process Paves Way for Ultra-Efficient Camera Sensors  AZoMSalt method boosts solar cell efficiency to 25.9% in certified tests  Interesting Engineering",
+    "published date": "Sat, 31 Oct 2026 11:17:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zU2lHcFVzem42MGdmcWNubEY5RE92SV9PVV9GdTNMVk4xNWFPeVc4Z3ZXSGpSM3V2MFUzWG1lZnVPLWVCdUtNTXgwcGZuY0pMUHRkN1l3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.azom.com",
+      "title": "AZoM"
+    }
+  },
+  {
+    "title": "Save $1,000 on an LG 55-inch OLED TV — get a huge early Black Friday discount this weekend - Mashable",
+    "description": "Save $1,000 on an LG 55-inch OLED TV — get a huge early Black Friday discount this weekend  MashableToday’s Best Deals: 65\" LG G6 OLED TV, Tomodachi Life, AirTags, and a DualSense Controller  IGNThe 2026 55\" LG Evo C6 4K OLED TV Drops to Black Friday Pricing Plus Get a Free Xbox Controller  IGNSave 50% Off the 48\" LG B6 4K OLED TV During the Best Buy DoorBOOster Sale, Doubles as a Gaming Monitor  IGN Pakistan",
+    "published date": "Sat, 31 Oct 2026 09:45:49 GMT",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLQk1tY3VpdGcwX2pzcWRZUmJIcTBhUmw0SXN1c3ZlVWMxSnNZV25WWm5TQXlTVUFfMUd0U1ZVakp0QnJjbGtxbFYxSkRKVHhsbFBxVVBaRzhlMEV1VUR4aXl4cXU2aTYwX09hOEV2NkZDWld0aTMxUXRiRlVaNzA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://mashable.com",
+      "title": "Mashable"
     }
   },
   {
@@ -541,12 +651,22 @@
   },
   {
     "title": "New UEFI Tool Lifts NVIDIA's Tensor Cap on RTX 20 to 40 Series Cards in Windows - TechPowerUp",
-    "description": "New UEFI Tool Lifts NVIDIA's Tensor Cap on RTX 20 to 40 Series Cards in Windows  TechPowerUpNvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-speed AI throttle — firmware exploit doubles RTX 4090's peak tensor rate, lifts RTX 3090 Ti matrix math up to 80%  Tom's HardwareNVIDIA GeForce RTX 3090 Ti Gets Nearly 80% FP16/BF16 Compute Boost With Linux-Based Unlocking Trick  WccftechModders unlock hidden AI performance on NVIDIA RTX 20, 30 and 40 series GPUs, with up to 2× tensor throughput  VideoCardz.comModders unlock hidden AI power on Nvidia RTX 20, 30, and 40 series GPUs, nearly doubling some benchmarks  TechSpot",
+    "description": "New UEFI Tool Lifts NVIDIA's Tensor Cap on RTX 20 to 40 Series Cards in Windows  TechPowerUpNvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-speed AI throttle — firmware exploit doubles RTX 4090's peak tensor rate, lifts RTX 3090 Ti matrix math up to 80%  Tom's HardwareNVIDIA GeForce RTX 3090 Ti Gets Nearly 80% FP16/BF16 Compute Boost With Linux-Based Unlocking Trick  WccftechModders Unlock GeForce RTX 20, 30 And 40 GPUs For Up To 2X Compute Gains  HotHardwareModders unlock hidden AI power on Nvidia RTX 20, 30, and 40 series GPUs, nearly doubling some benchmarks  TechSpot",
     "published date": "Fri, 30 Oct 2026 19:27:08 GMT",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR3kzMGNGNUZfSlRFWS1IM202S0duZ2wtUkpCaTFQeXhYS3BtWnlTS21sSWFFeTBYRUg3OFd4RVdQa1c5ekJJZXJPRjcyU1JOMk8tY3dGQkQ0MTg0YmV6THJMNXhvemN5NDJVaUpLWVR5SnJadlQ0Y09sM2NjWktFUG9PZ3I0QTU5eUVweUpjZWxiV1RvOEFVMkdyVi1LX081TExhWUYyTm1vZDhTT1lyY05ld9IBuAFBVV95cUxPZjVlTTM3dGhiUnBxQk53MV9vR3FiYWFfTnhUc1RUUm5OWGRFSVNja2djTldvQUh1Tzc5RkJNX3lfTHZyUkxDNmVYckdWZFN5WUhzRkUxeFhTZTMybUpzcElpbnAtSFBLbWxpMXpQckhCWGxQdWNvWjBBVHdzYWEyTmxLTEdBam9LeDJDS1ZlWHpTUXJ2SmxTV0hSOHR1algwdUpQczI5dDRXQzZEclNnb1g0UGQyNjJS?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.techpowerup.com",
       "title": "TechPowerUp"
+    }
+  },
+  {
+    "title": "FINAL FANTASY XIV: Evercold Reveals February 23 Launch Date, New Job and More - Crunchyroll",
+    "description": "FINAL FANTASY XIV: Evercold Reveals February 23 Launch Date, New Job and More  CrunchyrollFinal Fantasy XIV Evercold Delayed, New Release Date Announced at FFXIV Fan Fest  IGN",
+    "published date": "Sat, 31 Oct 2026 04:32:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZnpseUZxUi1DY0tFVldiWGlWcm9hUHo4Vk95cHpzV1Vmc0J2Y3ZFNTZESllzejJheTYxR3djeUdqdER6Uld5NE10dEhPdGdWbWZFOFlFNWgxOVZwZ3h4QU9kNXV4akVUenNQSFFRaUo1bkVRTGoydzJBUFFSbHd0bDIwaXI2Wkdra0Npci1kQ281UlNBWG8wbU9SWV9zTzdJNExCbG9Ed1dMeXdVZTZoc0VKVVMydnhLNVU1S1JTeWNJdGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.crunchyroll.com",
+      "title": "Crunchyroll"
     }
   },
   {
@@ -560,143 +680,23 @@
     }
   },
   {
-    "title": "Google’s first data center satellite is online and writing poetry - TechCrunch",
-    "description": "Google’s first data center satellite is online and writing poetry  TechCrunchWe’ve received our first response from the Project Suncatcher prototype satellite.  blog.google",
-    "published date": "Fri, 30 Oct 2026 17:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLWFhS0ZkZnRnV2JEWFJWNXMyb1U4eWxqQ2JUOWM4RXBZOHNNemh0QWVxbWxrYzhXSVpkWEg0U0gzWENkbmJZU1RzZmNhWS1MRWNTVEpuQzlrSGZKR0ZOQW9ReXBjbXc0dzVzNjdCZ0tndU1LT1BrSEE1MWRmeVRVUU01ZDBlQkE1RHY2T0pWOHY2YTNiQy1iZVZnRDU0UWFU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "How to Add AI Content Detection to Your Node.js App - SitePoint",
+    "description": "How to Add AI Content Detection to Your Node.js App  SitePoint",
+    "published date": "Sat, 31 Oct 2026 08:00:09 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNTdYYi1obU5IemNiVmtlMjllVmt4QWZTMWVUa0I3YkJuRmdQbmMwWUllMUNsaFRNS0pWV2dmdDZ6ZUhaQXQ0TTZSSm43cHpYVmJMYlhfYjFEekhlQVhlRzZUdUVpYWJCQmVZMXUzcjdPWHV1R19kNUcwV1RIMmgwS0huZTA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://techcrunch.com",
-      "title": "TechCrunch"
+      "href": "https://www.sitepoint.com",
+      "title": "SitePoint"
     }
   },
   {
-    "title": "Researchers Bound Quantum Battery’s Passive Energy By Twice Transition Rate - Quantum Zeitgeist",
-    "description": "Researchers Bound Quantum Battery’s Passive Energy By Twice Transition Rate  Quantum Zeitgeist",
-    "published date": "Fri, 30 Oct 2026 09:28:43 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRmRJd0g3LUxQaXFSVHZ5a0dlT3BBM0RCUmstdXZmOFlhTnJ0WDhhUW10ZUZQY3NITkVsdzZWLV9XQ3Q3ZUN2SVg4VF9pNmV3bWlBVWw1N1BtYnlxTlZmby15RlRMekt0MW02MmxmNEVEdXNCajVtYnJEX0wtdTMxTjJBaG1Na19KN1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Scientists Have Built a Robot Dog Powered by Human Brain Cells - ScienceAlert",
+    "description": "Scientists Have Built a Robot Dog Powered by Human Brain Cells  ScienceAlert",
+    "published date": "Sat, 31 Oct 2026 02:00:09 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQjRPMXQ2Z29aM2VWMGdpbHp6Q2haX0JoNUswZk95QjZUVmhyaTdzVE9hWmtmcExnOUhQSWFnc1ZQNWdIRWNrWFhrWi1ZVy11UE1XVExtby1yZUM0Q21IMDhqTERVbUcwU2x2c3NIQml2NUNhY2NtU19LeGFkVmpFS2dYWmY0SVlPVXlIR2RZREVWck1jOHc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://quantumzeitgeist.com",
-      "title": "Quantum Zeitgeist"
-    }
-  },
-  {
-    "title": "Researchers Transmit Secure Keys Via Fibre Optics - Quantum Zeitgeist",
-    "description": "Researchers Transmit Secure Keys Via Fibre Optics  Quantum Zeitgeist",
-    "published date": "Fri, 30 Oct 2026 09:28:43 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeVR3SktUcnpUU1B4Wk9iLWU4ZjRVWjJET0Iwdy1pRHAyRWdYSGZxRlVuMFE5YTJ0ZDI1a1d3UXc3QllJNkJUak0ydGttbjlJMFV3b3NMMTBRd0lGbGtaUXpBNzFvZlBUemwxanNvTVEtTGNVUE92N3JqNjFITTkyUkVvLXBmd09nZEJ5ZWV0VHNfZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://quantumzeitgeist.com",
-      "title": "Quantum Zeitgeist"
-    }
-  },
-  {
-    "title": "‘Armored Core VI’ Is Getting A Pile Bunker Ballpoint Pen - Forbes",
-    "description": "‘Armored Core VI’ Is Getting A Pile Bunker Ballpoint Pen  Forbes",
-    "published date": "Fri, 30 Oct 2026 07:00:30 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU1lRcXkwa2ZuTXR3VVFqejZrMGQ4STNVbUJBSjU2WjdLT1U2U1Z5VXpfbmcyNTJDeXBhMlZWWjNhTFZfRExWVnRMQURGV1ZOd09Wel9IQWRGalFlU0FKZTRDUUtZN1JWYkV1aHZwRmc3b0NnendfLV9YTmd2SFUtX3VlcU1GQmx0N3c1cmtxU1VwTklZNXU5TFRvamdwU0FsZktnT1d0cE1Wajg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.forbes.com",
-      "title": "Forbes"
-    }
-  },
-  {
-    "title": "Lenovo Googlebook 15 Review: Your Android Phone's New Best Friend - Engadget",
-    "description": "Lenovo Googlebook 15 Review: Your Android Phone's New Best Friend  EngadgetEverything You Need To Know About Googlebooks  EngadgetFurther Thoughts on the Googlebook, in Comparison to the MacBook Air  John Scalzi's WhateverI spent two weeks using Googlebooks, and I have 5 big concerns  Android Authority",
-    "published date": "Fri, 30 Oct 2026 12:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QS2dqbFBMZl9ldkloN1NmMTJlVHA3ZGhDS3hIMFpfWWNuQXFYcTZjTGwtY05GWWJyZkstMjBFeFZaTFBQTkhDQ2JvVkgtRmhoMDlLaUpJODQ3OEV6X2Zac2YtSnU2Z0dLaFFvdl9n?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.engadget.com",
-      "title": "Engadget"
-    }
-  },
-  {
-    "title": "Local Code Launches as Free, Private AI Assistant Tool for Mac - MacRumors",
-    "description": "Local Code Launches as Free, Private AI Assistant Tool for Mac  MacRumors",
-    "published date": "Fri, 30 Oct 2026 13:38:13 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQanhVNUNDR3c4SGNkX25Rd01CemlkOFRqZ2FkdVFCbXo5ZjJKT1duMVNCTEtJQVIwNXFqNkxzbGZZUzhNU0U2bzlBMmpobU16c0VOUTQ3WGJzcTR5YWpqZE5jUFVXNHV4b2tZUl9wZS05MFBLaVpXSVdQdWdxRUdNUEZMMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.macrumors.com",
-      "title": "MacRumors"
-    }
-  },
-  {
-    "title": "The simplest Plex replacement has no server, no account, and nothing running in the background - MakeUseOf",
-    "description": "The simplest Plex replacement has no server, no account, and nothing running in the background  MakeUseOf",
-    "published date": "Fri, 30 Oct 2026 20:30:16 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNkdXS0hXMmdVcjdNZ2JsMUZPbU02X3VVLVk5UWFVQWFHcnk1eEpQQ0d2SGN5Tk1kNWUtQjZ3ZkotSExIWU1yb1RwdjNQX1Fhbl85UVFaZHhVNFV5T0IzUGVsOFBieVRjNEc1N3BzTE8xcWFXUUREYmZsWndIQ2tEVTJVQ2dDNWFGZWNKRkVWZ2p0LTN2MHI3ZXhjdktPcWVJelcyei1KZTYxT2EydzQwZg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.makeuseof.com",
-      "title": "MakeUseOf"
-    }
-  },
-  {
-    "title": "G-Shock’s New CasiOak Borrows Another Feature from Its Luxury Doppelganger - Gear Patrol",
-    "description": "G-Shock’s New CasiOak Borrows Another Feature from Its Luxury Doppelganger  Gear Patrol",
-    "published date": "Fri, 30 Oct 2026 18:51:59 GMT",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YS2g5bmlqZW9pTW9qa3BYbEFSTl9Na2FHR3YzNjItbElHUG84OEJnMTdJUWZXRWRkdzZXQmQxS1E2Q21ybmNTUDVnRkF0TGhUNHB3RUg2TnRrbGl4c3NCNm5fWER0blBsMzdETW5tR0txZmhFUkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.gearpatrol.com",
-      "title": "Gear Patrol"
-    }
-  },
-  {
-    "title": "Watch the full series of Arkanaut on Warhammer TV now - Warhammer Community",
-    "description": "Watch the full series of Arkanaut on Warhammer TV now  Warhammer Community",
-    "published date": "Fri, 30 Oct 2026 18:58:43 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWEtuX3RvODFfeUFrRWsxRG1KU2p3Zjc2NUt4dHpKYWdISU5WZ0VyOVVPNWlmNk9ua195U1hRVlVXZjdfZDJiUG55NlI0c3ByUV80dHFxNEhzQ1NFOXdzQW1jenp4WUxvQ01kNXdfN1dDbngwV01OLXdrNFM0bjVBOEVVMDl3T3Z0VnZKSEgtaERyUzhzOEJjLXNEeHN3d3JjT1FRLTc0THB4cDhaX1NCUWNmZGo?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.warhammer-community.com",
-      "title": "Warhammer Community"
-    }
-  },
-  {
-    "title": "YouTube for Google TV update gives YouTube Music a distracting red logo I can’t stand - 9to5Google",
-    "description": "YouTube for Google TV update gives YouTube Music a distracting red logo I can’t stand  9to5Google",
-    "published date": "Fri, 30 Oct 2026 12:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5UOVNtREZXUy1VclM1UUF6UFkyMnlNeHRmMG5FRGIxZkZwZEljR28weHdXUTEtMWNoT3otMURMemFoZm52V05rcmRWWW92blRBZnZKSVdkNWpRalNmTHY0LTk4cFRTYzhVc3FSRzhOelp4aThqdVFtN1AzdmQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://9to5google.com",
-      "title": "9to5Google"
-    }
-  },
-  {
-    "title": "Electrical guardrails for charge carriers: A new approach to harness graphene for solar cells - Phys.org",
-    "description": "Electrical guardrails for charge carriers: A new approach to harness graphene for solar cells  Phys.orgScientists turn graphene into a suitable material for solar cells  Interesting Engineering",
-    "published date": "Thu, 29 Oct 2026 23:20:01 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU21BUXlvR0ZhdUF2VE04UkpEaGdvY1d2SVEtWFo4aUVDckcwbTl1bnBleGZHR292dlNTWkhuem1qTldNTnNEeGRkX2YtQnRmTzJaVHJTajlxcnBER0M4Nmh3NlQ3QmwzY3phWnQ5LUR4WlMtMnRNbU56NGx0NzhfUjNjbWUtRzZvQlE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://phys.org",
-      "title": "Phys.org"
-    }
-  },
-  {
-    "title": "Scientists Crack Solar Panels' 33% Efficiency Ceiling - BGR",
-    "description": "Scientists Crack Solar Panels' 33% Efficiency Ceiling  BGR",
-    "published date": "Fri, 30 Oct 2026 10:47:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdXpXdkpYdU9tQzh1RUs4RnZ5S0FqQ3c3dEJOalBSa2ZsaDFUbWlBVlNzc2RSN0ZNR2QzZ2owUDNQTnN6cEhOSno0dVRwYUo1cHE2ZGtUME4tRFBKSWVLSkg0ckFyUUNjSDRZaDFLbVZQTTNzcU8yYVMyX1ItVEU0TldR?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.bgr.com",
-      "title": "BGR"
-    }
-  },
-  {
-    "title": "9 surprisingly useful Google apps you won’t find pre-installed on Android phones - MakeUseOf",
-    "description": "9 surprisingly useful Google apps you won’t find pre-installed on Android phones  MakeUseOf",
-    "published date": "Fri, 30 Oct 2026 13:00:16 GMT",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16VVBVbHpmWlB4ZFc0UkJLR0FGMFdYQVVSTjlXY1pBOWMwSHJOZ2xXdml4cUNUbmtJVXJvNEJUZHg1ZTNyNzBwV2hHMEUzbXp1Y2ZNMTA3c0hjTEV1emV1LUVlWkY3ODJ3b3ZTdGotbFlKSS1XUWQw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.makeuseof.com",
-      "title": "MakeUseOf"
-    }
-  },
-  {
-    "title": "6 Sub-$20K Classics, All Under 20 Years Old - Hagerty",
-    "description": "6 Sub-$20K Classics, All Under 20 Years Old  Hagerty",
-    "published date": "Fri, 30 Oct 2026 13:05:35 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUVg3WjFha2xURWNKZ0ZqTDN5WUJ0WnBCaTFocXlubDBONGZ3UnJxQ1dXN1BXaGZCeXRaV1hrdlFHb2ZmeHF2Ql92QW9rVWpZYk5lUjd2TUNTUFRDd1lTS0t3VjF0QVhkVU8yMEdRUXFfNlUzMkZUVzFTMjVVajBRSDFQTUEzUUpwM0ZuY3N4VQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.hagerty.com",
-      "title": "Hagerty"
+      "href": "https://www.sciencealert.com",
+      "title": "ScienceAlert"
     }
   }
 ]
