@@ -1,5 +1,25 @@
 [
   {
+    "title": "Masking now required at healthcare facilities until the end of March - 100.1 BayFM",
+    "description": "Masking now required at healthcare facilities until the end of March  100.1 BayFMSee more headlines & perspectives on Google News",
+    "published date": "Wed, 04 Nov 2026 15:40:56 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVS1yZ21oLUZtRVNkNnBRSUt3ZWJSOVFkSWFuQnd3aWV1UHpWLXZoUzc2TU9NOXBzc0NJT1BxN1o3eE9wZVVtbXUxZkFBMG9yVmVrSURLcW1FSk9zdE8tR21oZjUwcUUzamtsM3BVMWwzWk1tQkZFWVNFc0dJbnlzUUQweUNZYlhCZ09HcUFEVGJodF93ZDlNa1J2cGZrcFBTSHVJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bayfm.ca",
+      "title": "100.1 BayFM"
+    }
+  },
+  {
+    "title": "Huron Perth public health holding respiratory vaccine clinics - London Free Press",
+    "description": "Huron Perth public health holding respiratory vaccine clinics  London Free PressSoutheast Public Health urges people to take precautions to prevent the spread of respiratory illness  InQuinte.ca",
+    "published date": "Wed, 04 Nov 2026 17:50:31 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTU1hS2ZGdnJqTHpjeTFqMk1mSjMxNUx4TEwzc3RhaG13SnJwTkpFZW1NUWNFV0pHdVFKc3JKM2pjeGptbFluelJnRnZqMVhEUXVtcE5ZSUhqNTE0dXk0aWdaODFWQVpIT2dNOXJKTk9KVlFfNUV6eGxTeHBiMUl3YzN3VW1RY2hySUM5OWtnTnhtd3R6dlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://lfpress.com",
+      "title": "London Free Press"
+    }
+  },
+  {
     "title": "Why these two sisters got mastectomies on the same day - Yahoo News Canada",
     "description": "Why these two sisters got mastectomies on the same day  Yahoo News Canada",
     "published date": "Tue, 03 Nov 2026 11:00:00 GMT",
@@ -7,26 +27,6 @@
     "publisher": {
       "href": "https://ca.news.yahoo.com",
       "title": "Yahoo News Canada"
-    }
-  },
-  {
-    "title": "Why mosquito season is longer this year in some parts of Canada - CTV News",
-    "description": "Why mosquito season is longer this year in some parts of Canada  CTV News",
-    "published date": "Wed, 04 Nov 2026 11:16:39 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOEpCT2g5LVRGZm16aEd1bElsazltVm54SEhmWVN1bUxWUVI1eUdwRHZrbzVvMHRZU01JQWRxS0ZKNGNjRWdWcW1oRUcwV0RBYlpCcTBaWDIyRGJyeTZsaGctV3RJNW5DUFROVlFaODNNc3RLd3o4Q1IzSWJXOFpUblpiNkdQeUdoS3BubnRoTnZLb1piN3BIRjdsMGlpSnlXX1JFaGN6SEFWUDZpdWhWYnlkWGNBVGxtdU00?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ctvnews.ca",
-      "title": "CTV News"
-    }
-  },
-  {
-    "title": "Influenza activity in Ontario gradually ticking up, but data shows current flu shot a ‘really good match’ - CP24",
-    "description": "Influenza activity in Ontario gradually ticking up, but data shows current flu shot a ‘really good match’  CP24See more headlines & perspectives on Google News",
-    "published date": "Tue, 03 Nov 2026 14:54:28 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPc2F3VTBYUUVmdnB4ZTdkVTJUaFZhMlppWXl6d2tSSVEzbWY0bkpNU3lBanN6RkxOX1Q2NmpIaGs1cDkzQUlxN19yVUNtd2hZVE4zeFk1U2tIdUNCM3R2cXE5VWluSERYX1d0VE1OUThQbms2aENtTzlQUFRnMnlZaDZaR200T0pZeVBfS08yeE5PZnVsb2I5UHd5ZTlkZnl4OUw0WURGdnA3eEpXWmcwSU9wRl9MY2k5Zk5kaC04TDFZRnhERXAtcDZZbWZzSlowd3ZNVDY3QlZBQnU5X2xCQVpxbw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cp24.com",
-      "title": "CP24"
     }
   },
   {
@@ -40,23 +40,153 @@
     }
   },
   {
-    "title": "Toxic drug supply circulating in Northumberland County - Quinte News",
-    "description": "Toxic drug supply circulating in Northumberland County  Quinte News",
-    "published date": "Sat, 31 Oct 2026 13:45:49 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWlVCMUR3TEZZV0lzcGFWVHJDLXBldWNtcm1YYTBJMndzTkN6U0ZKY21uSGcwdmVLTWRmc19McXpGZkx3QnBzQTVmbVEtTkNNdUZXS1BiUmVhRlJTbGtybUVYUjdWLUVHYXY3eWwzemQtYWJycTdLc1Q1MVVTYnZrTzZUdFlQelBIU0hBcHluVVUxOVFDSFcyMw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Public health investigating after stomach bug hits school in Glace Bay - CBC",
+    "description": "Public health investigating after stomach bug hits school in Glace Bay  CBC",
+    "published date": "Wed, 04 Nov 2026 16:50:24 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQWtyak1YVXY3RzJMNUQtMGpKVEwxa2hFaVRCaVhYNkw3dnpWMm50VkhuN3U4b01DLVRNcU9WeFAwaG5BbExIMW1DVW45dDVieG05ZlZ6RkFNMUVKS0xUZ2NsNmRKSm1XNjNTTm9iTWZxYTBPeUJqSDdSQksxc0h2TUZHU2pPbm1PZ0twX054ZXVPZzVCMkpCNDFlZmVtMExBNGpkQzFUazM2VlFEZ2g1TW1CWTFMaDV0dDBSYQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.quintenews.com",
-      "title": "Quinte News"
+      "href": "https://www.cbc.ca",
+      "title": "CBC"
     }
   },
   {
-    "title": "One-day COVID-19 and Flu Immunization Clinic: November 14 at the Richmond Arena - Glen Gower",
-    "description": "One-day COVID-19 and Flu Immunization Clinic: November 14 at the Richmond Arena  Glen Gower",
-    "published date": "Tue, 03 Nov 2026 21:54:16 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTTRiSmdlWmRMT0ZTNy02LVlOX0w2cERUWnRtNWZCdHFrRExSRUtWdkxsZmVwLXhhLUlZZXQxb3p4WURGTzY5NURfRWh2c2ZLTXFiQ2s4aUxmNDZtb1FGVmduSlpTc0p2NFFTdlY2dWNRWVU0bmdNUUsxNkhTdkRXTUtiSHhNdk1ENEVGMFMtOVVFekpJaHFPWFE4UlVTQ1g5bGlMQWs3NnJXU05BaHJ3bjhB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Why mosquito season is longer this year in some parts of Canada - CHEK News",
+    "description": "Why mosquito season is longer this year in some parts of Canada  CHEK NewsSee more headlines & perspectives on Google News",
+    "published date": "Wed, 04 Nov 2026 17:50:08 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZkhZenE3M1FOZnh0WXZPblRidXZiTlVseXFMQU9MSkd3MVdSdXlWSERDNVo0cTVSS01BRkxCSXpqRlpmM0JaNzRacUtQSVRITXlpVFB0dUEwcWltaHBlakZ3RGdPQXE5ZWJKdDRWNVcyblVWZUQ1aVVWX3ZkSEtNZC00SmRaNWN2QkFCWFpUMW9lUmYxWVdF?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://glengower.ca",
-      "title": "Glen Gower"
+      "href": "https://cheknews.ca",
+      "title": "CHEK News"
+    }
+  },
+  {
+    "title": "Southeast Public Health reminds people to protect themselves from respiratory illness - Kingston Daily",
+    "description": "Southeast Public Health reminds people to protect themselves from respiratory illness  Kingston DailySee more headlines & perspectives on Google News",
+    "published date": "Tue, 03 Nov 2026 19:09:57 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYlNkVUdrRUlPRDN0bjd4ajI4WWx3MjhoS1hnampqRXBDcEwtaXVRUUNvVnlkMDNfZVl0MEFQbHA3eXBzb2xRbTM0cWVrbmw4RzRzM3VzSlRLcTFzUjlrMkxrdnhYenFYNGVsZkZsNENiNGpuc004NjJUUXNaS1VCN1V0blRDZk9tUlRrUFhKZUpSOWR6M0VVMmFnWjA5QXZWSFl3eGh6eEh0bWtteWN3aktMVUQxVEZuVjY3OVNBRzdtRV9pM1ZrVy1rYWR3X1ZDUE5GenpR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.kingstondaily.ca",
+      "title": "Kingston Daily"
+    }
+  },
+  {
+    "title": "The Ozempic Dilemma: Promises and Pitfalls in Psychiatry - Psychiatric Times",
+    "description": "The Ozempic Dilemma: Promises and Pitfalls in Psychiatry  Psychiatric TimesSee more headlines & perspectives on Google News",
+    "published date": "Wed, 04 Nov 2026 18:00:03 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdldwRDJfZmtoRUQ4cFpxS0tWeWNmaWZ4TUxUc2FtbldSa0ZiZ3RUT2ZPRW8zMGxQVUdmRFhXd0JNVzJFMkVOLWFieUN0SGpaS1B2aWNWamVkX2pjY09kTWxyRDV6T2l3Yy1vQjRFdnE1eXBHbHQ1RURvNjdqb1g4WExnZDlvVE5lWEN2S19zRkZqY2NXSWxZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "http://www.psychiatrictimes.com",
+      "title": "Psychiatric Times"
+    }
+  },
+  {
+    "title": "Primary Care Alberta’s mobile mammography trailer to visit Didsbury - CTV News",
+    "description": "Primary Care Alberta’s mobile mammography trailer to visit Didsbury  CTV News",
+    "published date": "Wed, 04 Nov 2026 17:52:48 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdVJBd2NYZVI5d2hNWERBUE9sWGVmTWZUM1RwZ0dubndfbl9ud3BwREFnSTdLVW5ndjE0eEJ2OEx3UmZURVhfSmNwODkxTkNOcTRTbmdnTWc0NkZ3OXNmdkN4VEFJS3RGdmFOSDk3akJNR3FqTUNsY1JsdkczSHBEWUtEMEdrMFdWMnp6TmtNdS1IQWw3ZmFRMFE2aENuRGUwdm1DcEI4dlAwdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ctvnews.ca",
+      "title": "CTV News"
+    }
+  },
+  {
+    "title": "Flu shot offers protection beyond your own household, Strathmore pharmacist says - Strathmore Times",
+    "description": "Flu shot offers protection beyond your own household, Strathmore pharmacist says  Strathmore Times",
+    "published date": "Wed, 04 Nov 2026 17:50:02 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWlJnT1ZpaGJmSG9BZjZUYnlGOXVsSjVrcjlFT0R4NXE1YjZ4M2RkeXJmS1VTc0NHdXlPYWlGbmJrd3ZpV1ppVnl4eGZJNUw0TzJaaHplQUM4OHQtQlhWTll3Qzc5dkFtbjJpTGk2NzhWTWtzV3ZBX0tQT21MM0I3WXhUQURUYnVUR3FDZk1PVHBpWFRxdTBCdnNTb2hYXzRiUmowdVdubW9fYXoya2diLXdLYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://strathmoretimes.com",
+      "title": "Strathmore Times"
+    }
+  },
+  {
+    "title": "Montreal researchers warn \"alarming\" rate of faulty research antibodies fueling dubious science - CityNews Montreal",
+    "description": "Montreal researchers warn \"alarming\" rate of faulty research antibodies fueling dubious science  CityNews Montreal",
+    "published date": "Wed, 04 Nov 2026 17:05:51 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQURlQWFtQWUzWjlYaVZYcHZDMHdKY3Rpc1llUHV5dTV5STIzdzhxT1VMWXV1dlJCVHJNRjhMd0VZalE3U2RyNE1wTk54aENHaExFemR2d3paLTZlbGwtc29OUjZxSVY2dWk3aDJOQlVQbTdoNW5nZHpBbWlZSXNwRUZOeDI1VU9jTF9uTEpNZDVraUcx?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://montreal.citynews.ca",
+      "title": "CityNews Montreal"
+    }
+  },
+  {
+    "title": "Local pharmacist push for expanded vaccine authority - SteinbachOnline",
+    "description": "Local pharmacist push for expanded vaccine authority  SteinbachOnline",
+    "published date": "Wed, 04 Nov 2026 16:51:50 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONG83V3hKcFpCY2xSeDJFeGdTLURSUHIxUlZMQzB5d3kzLTZXVVYtSjBTLVJoaWdmXzRFUW9qSGdDMWFoLW5Pb3ZzNDI0eGxIQkVYZktUSGxRNzI2Y19GNFpXOGVld0ZUWlhHV2dDX2pvM0pRcTNsMjJnVHlNV0V1Ym1FVDR6aEkycElCQ0hOTWVGUFk?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://steinbachonline.com",
+      "title": "SteinbachOnline"
+    }
+  },
+  {
+    "title": "Why cervical cancer is suddenly rising among Canadian women aged 35 to 54 - CP24",
+    "description": "Why cervical cancer is suddenly rising among Canadian women aged 35 to 54  CP24",
+    "published date": "Sat, 31 Oct 2026 12:06:23 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOVc1M3dfbGJOUm54UmlVTVNneHl4Wldncm1aRkszalozbTZ4emJNZFZpQ0lEcGZfdkQxZFFZWm1zcUlOUHVLLXZXcEpHLWxSejRkd2ZNUllhd2NabGhWYVlPb0MzOVlaTmZCZlpOcHpyX05MaXR1RURiNldOVFh5UFd5eHdhRC13Z0RFVWkwcklvWUJaZHVPNWpRak0ySkFXRUFPQ2xXLWYzTW1vcjdIUktYdjhXNTV6Z3RiM2VCRXZWU3hSd0pSODlLdU9OTUMwWk1oa0MxUC14ZnVhTXBlbQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cp24.com",
+      "title": "CP24"
+    }
+  },
+  {
+    "title": "Wildlife disease expert warns of spreading CWD and meningeal worm amongst Alberta deer population - TownAndCountryToday.com",
+    "description": "Wildlife disease expert warns of spreading CWD and meningeal worm amongst Alberta deer population  TownAndCountryToday.comChronic wasting disease testing opens for Albertan hunters  CJWE",
+    "published date": "Wed, 04 Nov 2026 15:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTmd6a1JoX21zbjJaeUZWMWRtbThjbkk0bkoyajlGa2RPVU1acHFXRlJkZlhnTjI3Tng1U0hSTlBPYkdXOTdVQVp3RHF6Wm05WE9VTEJMRm1tYUY5czVKa3NRNEVLYWtiWGRSLVJFVFNwLUdCYmtYai1wVTBwdjdvRlQ1RFdNeTVsYWw4b1dscGZQeERuYVJmajdHOU5LWTBSTC12bXFtMjNiZ0QwUVdNRm42X3M1Nmxqc1ZmZUl1enhFalJCQ0w0YUpuQmNYMXhHREZPZ0hZU0V2bzdFN2d5d2E1QUlGbndiOU4waA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.townandcountrytoday.com",
+      "title": "TownAndCountryToday.com"
+    }
+  },
+  {
+    "title": "Smiling can make you happier—unless someone forces you to do it - Phys.org",
+    "description": "Smiling can make you happier—unless someone forces you to do it  Phys.orgSmiling may be good for your mood, health  Bonner County Daily Bee",
+    "published date": "Wed, 04 Nov 2026 14:00:21 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvQVlLdHVWUUJjYWVLenJZQUxLcGpKaXlXV0xUNE5LTV9kay1uYnMwWGNRV3RObmNQR21naEFjZWNzQm8wUUdWN1NXdWVvbDRZNE5fQw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://phys.org",
+      "title": "Phys.org"
+    }
+  },
+  {
+    "title": "Having a hard time getting the COVID-19 shot? - Yahoo News Canada",
+    "description": "Having a hard time getting the COVID-19 shot?  Yahoo News CanadaFlu, COVID numbers spike; shortage of some COVID vaccines leaves payers unprotected  Edmonton JournalThe $100 Barrier  Alberta ViewsLethbridge sees supply and delivery issues with COVID-19 vaccine  CTV NewsSome Alberta pharmacists say they’re having trouble getting enough stock of COVID-19 vaccines  CBC",
+    "published date": "Tue, 03 Nov 2026 18:25:31 GMT",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1PeDN2TzBJTWNyTDdCWGo2bUdPU0gtX0ZEM2ZTUnlSMU1FMV9mOHJxMXNLa1o2c0pzblJzblo4TEpUOS1VOWcyMnNkRDBURVMzdTRRSVh5NGxBOHV1VW1sUHdMNV91d1lRd3NwSDFuUGJseENzaUlkSGtvWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://ca.news.yahoo.com",
+      "title": "Yahoo News Canada"
+    }
+  },
+  {
+    "title": "Toxic Drug Supply in Northumberland County - 91X FM",
+    "description": "Toxic Drug Supply in Northumberland County  91X FMSee more headlines & perspectives on Google News",
+    "published date": "Mon, 02 Nov 2026 15:10:51 GMT",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tb1lXY0E3TG85QmpTN3BkTE42SGQ2MWVvZVR4TExLNGd6TVlpZFNrY3U0N28xZ2RNWEN0QjVrREZZc0M0c2gxSlFXa0pqdHhyNjRtaXl2c3RaUVNfQlRHV0FsRnFkUV9jNkZJdzVnbUNwcUFKaWxUdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://91x.fm",
+      "title": "91X FM"
+    }
+  },
+  {
+    "title": "Israeli startup AEYE Health wins US award for AI technology fighting blindness - Ynetnews",
+    "description": "Israeli startup AEYE Health wins US award for AI technology fighting blindness  Ynetnews",
+    "published date": "Wed, 04 Nov 2026 00:56:58 GMT",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4ybWF5NlEtZWduWTdwcXZ5NFJBLTFNOHd1RWx3ZzVQNWc0S2lqMzlyQ2ZXY0VhN1E2NDBDMGpNaF81VHpSdWpORk91VG5KcUtBbko2Rk9qelQ0YkFwTkQzY2RWbUxSb2s0NTRpQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ynetnews.com",
+      "title": "Ynetnews"
+    }
+  },
+  {
+    "title": "From green smoothies to stem-cell supplements — online ‘immune-boosting’ ideas may lead you astray - The Conversation",
+    "description": "From green smoothies to stem-cell supplements — online ‘immune-boosting’ ideas may lead you astray  The Conversation",
+    "published date": "Wed, 04 Nov 2026 17:28:57 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaGh6ZlpyTjNLRlB3Z1FFNmd6Z0tmcmlNeDdDQ3lfOS0xY2l0enNSb2R1MUVHcDdkMkdVQUpOYzZqQ0pXZk84aHBWd2VrcHhHOUZPNjlrR0NOVF8tOFF3RlhQckhUR3kyVlcwYmJyV0ExQjNkckhfQnI3bG40LVFSQnp5a01Zdjg5c2Y0OG5ybWpwb0ZwR25DSnI5LUJ5QlBNdWxPRVJrY0Jad3pkcGZ6N0tQZU1uNTYwQjlGeDloNG83MFVrN1ZwSg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://theconversation.com",
+      "title": "The Conversation"
     }
   },
   {
@@ -70,13 +200,53 @@
     }
   },
   {
-    "title": "Former professional dancer uses movement to help people with Parkinson's disease - CBS News",
-    "description": "Former professional dancer uses movement to help people with Parkinson's disease  CBS News",
-    "published date": "Tue, 03 Nov 2026 15:40:14 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPajI4Zl9vSzFMYVlBUmFGRmpNMjAxcFdOeFplYXFhZGJrcGFXc3VWSU5YOE1CTTNfV21URUVCTTNxY09aeU03X1lRY2tNQlJiekxWY2tnUER6UlJoUGtwN3AzWHpqYXRSaklaRmZOa19YRFpfYkRNSTYtUUFLWnhxZ29CMnl1QkgycXVvVkw0R21ING9NNjQtOGpQVGFsWlEzdFpv?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "One-day COVID-19 and Flu Immunization Clinic: November 14 at the Richmond Arena - Glen Gower",
+    "description": "One-day COVID-19 and Flu Immunization Clinic: November 14 at the Richmond Arena  Glen Gower",
+    "published date": "Tue, 03 Nov 2026 21:54:16 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTTRiSmdlWmRMT0ZTNy02LVlOX0w2cERUWnRtNWZCdHFrRExSRUtWdkxsZmVwLXhhLUlZZXQxb3p4WURGTzY5NURfRWh2c2ZLTXFiQ2s4aUxmNDZtb1FGVmduSlpTc0p2NFFTdlY2dWNRWVU0bmdNUUsxNkhTdkRXTUtiSHhNdk1ENEVGMFMtOVVFekpJaHFPWFE4UlVTQ1g5bGlMQWs3NnJXU05BaHJ3bjhB?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.cbsnews.com",
-      "title": "CBS News"
+      "href": "https://glengower.ca",
+      "title": "Glen Gower"
+    }
+  },
+  {
+    "title": "What you need to know about this year's flu season in Ontario - Yahoo News Canada",
+    "description": "What you need to know about this year's flu season in Ontario  Yahoo News Canada",
+    "published date": "Wed, 04 Nov 2026 00:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBnME9WWUVZcmZVTkNiUDZISEpkOWhnTjB3Z2ducTg0dmhlS21NZ09ycVJ2QTZEQmtMRk56aFBPU0xFOTFCRkFZcURHMnFTTHdOYmJCWHhTbkZocmtzU2tlVi1MdUlJRDdUUmpPaFhJMy1hRUNmM0c0aU53?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://ca.news.yahoo.com",
+      "title": "Yahoo News Canada"
+    }
+  },
+  {
+    "title": "Group gets people with Parkinson’s disease dancing - CBC",
+    "description": "Group gets people with Parkinson’s disease dancing  CBC",
+    "published date": "Sun, 01 Nov 2026 10:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd25UZmJqTWlqcjEtNVUtbXZTZEllMlYwaDktU2Y5REl6UTlfOFlIRXVwLUdzQng1TDhfQnVEeVFrSUIwRG5tRzNPSmtWUFBKUWViUE5QeklOSWg1bjU5Q05OLTlrNlFpandjazljbURzaUJsRUxEdzktUkxGc1Rab2JVaVNUZjky?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cbc.ca",
+      "title": "CBC"
+    }
+  },
+  {
+    "title": "Childhood Measles Vaccination Rates Down Globally - Psychiatry Advisor",
+    "description": "Childhood Measles Vaccination Rates Down Globally  Psychiatry AdvisorSee more headlines & perspectives on Google News",
+    "published date": "Wed, 04 Nov 2026 05:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaXlSQzRlTksxZHl2VGZCSXdzd2dKejhDWXRwa2RIcmlKNnlMckpoRmtUSTc0VTJ1a053SER5bWFuVVhON2psWmMzaE5XdXh5bm9oYnN0UWd1VnZKb0Q0aW9BeTBuQzh2aElEMXBZZFlrVjZRVjI0SURSTE1ISHZzSENLUllXcnp6RjdlU0ctTktkNFU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.psychiatryadvisor.com",
+      "title": "Psychiatry Advisor"
+    }
+  },
+  {
+    "title": "RSV Hospitalization Linked to Higher Short-Term Risk of Invasive Pneumococcal Disease - Pharmacy Times",
+    "description": "RSV Hospitalization Linked to Higher Short-Term Risk of Invasive Pneumococcal Disease  Pharmacy Times",
+    "published date": "Wed, 04 Nov 2026 19:00:46 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcDJKZFdjYjFfcFc1V1phZ3E2dmZvNlA1UkhVLU5ROEhkSXpzVklNa0NvZWs5OXRKUmZVNm1jZTJqZHQwajVRMnR5b1NBZDZxNWlrTmtPWm9OMmFsVEMtUldQVUROVVpFbGx1R3hiOVlTN2pBd19BLVBfT1c4MUtmWHBhWmJ5S0lrOEQ4YkVmMkc1bU5ONFIwUDE5cDNsQWdsWVZlOHBpdWp6WlYtSFU5RDlXQ19OcVlzcFBVYg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.pharmacytimes.com",
+      "title": "Pharmacy Times"
     }
   },
   {
@@ -87,46 +257,6 @@
     "publisher": {
       "href": "https://healthenews.mcgill.ca",
       "title": "McGill University"
-    }
-  },
-  {
-    "title": "Brain Injury Creates Musical Genius; Long COVID Improvement; Dementia and Delirium - MedPage Today",
-    "description": "Brain Injury Creates Musical Genius; Long COVID Improvement; Dementia and Delirium  MedPage Today",
-    "published date": "Tue, 03 Nov 2026 19:46:57 GMT",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MbG4xaXlvM1NGV2FDNzVsQTVILVFSUXNJNU9hRzQzYktXTVkydm9oNHQ3X1k3cWhNMElQUkl5TTlSdXpjMXBIaXpGT2hVekh3d1JpWkNsUmVkUVFuS252QTJrUGVjUXBFN1hiWEJBQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.medpagetoday.com",
-      "title": "MedPage Today"
-    }
-  },
-  {
-    "title": "More Quebecers should get the HPV vaccination, says doctor - CTV News",
-    "description": "More Quebecers should get the HPV vaccination, says doctor  CTV News",
-    "published date": "Tue, 03 Nov 2026 21:08:47 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZlh3bzh3LUdGNl9Kc3FCMVFuLXhSZGo5VTFwU1NrblUyZDZfc2lHMWNQcC1wYV9wVzk0NzRxa2dFbTRxTGpDMk1DVEg3SXk4anlTUWQ2WUZ5NkRReVVzT0FqbUR4cG5iaDhwYkllWFhFN1REYV9CXzJNSjA4V0R5eUJ2bTdvcDNkU1BWMThYOTdNUi1VRElOSk9Mem9udWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ctvnews.ca",
-      "title": "CTV News"
-    }
-  },
-  {
-    "title": "Public menopause care is scarce, and private care is costly. Why Canadians pay either way - The Globe and Mail",
-    "description": "Public menopause care is scarce, and private care is costly. Why Canadians pay either way  The Globe and Mail",
-    "published date": "Wed, 04 Nov 2026 10:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSGMyaUVQZWtQQV9rQk5XN1BEUjRORXFYdF8tNTMzNk5vZlgtT3BWUXdDcVZvdnN6ZTJzUTVRU1hDQkJ5Ym1odmNXU3ZRYTJ1Vjl3UlU5YThYVWVYd0NtOXE2d1lfdEdrd1BETUIycGFINFVnbEtIV09xS0JyaUJRTk9IQzMzSTJuZ1JuTUFRUUpCSUVkdktxeGZ0bzhBN0U?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theglobeandmail.com",
-      "title": "The Globe and Mail"
-    }
-  },
-  {
-    "title": "Diabetes Awareness Month: Diabetes Québec highlights the importance of acting early - Tolerance.ca",
-    "description": "Diabetes Awareness Month: Diabetes Québec highlights the importance of acting early  Tolerance.caSee more headlines & perspectives on Google News",
-    "published date": "Mon, 02 Nov 2026 12:05:29 GMT",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TN3JtSUpIeUwxbU1DT29wOHlkYU43dUtHYU5IZmJvMHo4VG9JMFhxWElJWE84WVVKemczM2QtTVJEV1VfZkpHOUpKZ04xX1ZQcWg0cGRsYmVCNXRKMnZob3E4R0N6ZXNpbThwWUFlTlZONy02aktv?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.tolerance.ca",
-      "title": "Tolerance.ca"
     }
   },
   {
@@ -141,32 +271,12 @@
   },
   {
     "title": "DRC: Ebola BVD Outbreak: LTC Situation Report (Telecoms) #13 (Reporting period: October 2026) - ReliefWeb",
-    "description": "DRC: Ebola BVD Outbreak: LTC Situation Report (Telecoms) #13 (Reporting period: October 2026)  ReliefWebEbola outbreak kills more than 5,300 people in DR Congo  Al JazeeraDeadly disease shows no signs of slowing  News.com.auEurope doesn't 'care enough' about Ebola outbreak in DR Congo, says Mary Robinson  Yahoo News CanadaEbola Fatality Rate Tops 50% After Hundreds of Deaths Added to Congo Toll  Bloomberg",
+    "description": "DRC: Ebola BVD Outbreak: LTC Situation Report (Telecoms) #13 (Reporting period: October 2026)  ReliefWebEbola outbreak kills more than 5,300 people in DR Congo  Al JazeeraEbola Fatality Rate Tops 50% After Hundreds of Deaths Added to Congo Toll  BloombergEurope doesn't 'care enough' about Ebola outbreak in DR Congo, says Mary Robinson  Yahoo News CanadaMore than 5,000 die from Ebola in DR Congo's deadliest outbreak  BBC",
     "published date": "Wed, 04 Nov 2026 06:33:07 GMT",
     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPM2RFTDlab21jU2lpU01JZmctYlFOLWN4a3FsdjBTbkFSZFNYaWZOdFJ3SkNOOC1uM2JSaDBfZ3J1NmhQVDNfNTJ2N3U1NU5yR1Y1MHhKYjIxcVBxa2NwdFlVTDdmRUNZbG55S1RjNlZhVW1NaWtWZUJVQUZJaExMbjMzNktIUFQ2Vy1wTzV3ZGFxSkJ3YUVuczBObVJWbkxzNHRSbllXZGNCLVhKMjZhUVRLSG0tLV9kQlJYZndNU19hb3hkd0V6Mnl6ZU5uSzJVTGRFOGp4OA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://reliefweb.int",
       "title": "ReliefWeb"
-    }
-  },
-  {
-    "title": "Circadian depression: Body clock disruptions take mental health toll - Yahoo",
-    "description": "Circadian depression: Body clock disruptions take mental health toll  YahooScientists May Have Found a 7th Type of Depression  National GeographicHow your body clock affects your mental health and ways to keep it in sync  The Conversation",
-    "published date": "Wed, 04 Nov 2026 05:03:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeXVEZndzc1dTamJWQTEwSnl3NE9vT3EwenJzZzVjNFgtMkdnOGlfSmF5RktnWFRTRDZ6Y1M5N1djUXFpSGFQMGxpNlhTcTh1YXp1OXV5cmQ5WEFicEw0cWRKTmZSZDV3RXJOQ1Y5Smo1anR0eXRySW1mUEdmTFFfcjBZOFdSOTJGdUdhZEoxUkJ2Y09uc1JVT3lBanRZVjBkX3J3eA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.yahoo.com",
-      "title": "Yahoo"
-    }
-  },
-  {
-    "title": "UCalgary prof advances balance impairment research with new devices - LiveWire Calgary",
-    "description": "UCalgary prof advances balance impairment research with new devices  LiveWire CalgarySee more headlines & perspectives on Google News",
-    "published date": "Tue, 03 Nov 2026 20:45:25 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWUNYbWdYU1QxS2x5bWZDcTRVWno0RVd0Q0VvYnhSWjBsVGN3c1lhay1ORGowaFh4d3hzUWU2ek5LdUctVTlGa004Y3R4UUMyZVdfLXFTRnlfRU5URDRZUFg4Rk1fQ0pwc19OSF9Pa1h2dUFabWpLOGt2dm9weFJuVnlERHJXazZOZlZRTjB0UVc1ZDczdlV6dktvb2R2eE10R1kySFgyT3ZXM0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://livewirecalgary.com",
-      "title": "LiveWire Calgary"
     }
   },
   {
@@ -180,23 +290,33 @@
     }
   },
   {
-    "title": "1. Bacteriophages Face Challenges in Orchard Disease Control - Fruit Growers News",
-    "description": "1. Bacteriophages Face Challenges in Orchard Disease Control  Fruit Growers NewsThe solution to antibiotic resistance could be ... killer viruses  Niagara-on-the-Lake Local",
-    "published date": "Mon, 02 Nov 2026 20:39:43 GMT",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1USmtKZjZFV0pqd0VfSVR2SE9Rb29FY0J0cS1nRWVVMGpibTUwLTh3M0FvZE8tbGVxTGNkd2JGc1EtRndTSzhLczFRRXQzUjNxcVZocVlWd1hEX1JnUHl5Y1kxbExDQlZNNEVCUTdPckkwcmxKdmZCSzItUzVlQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Diabetes Awareness Month: Diabetes Québec highlights the importance of acting early - Tolerance.ca",
+    "description": "Diabetes Awareness Month: Diabetes Québec highlights the importance of acting early  Tolerance.caSee more headlines & perspectives on Google News",
+    "published date": "Mon, 02 Nov 2026 12:05:29 GMT",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TN3JtSUpIeUwxbU1DT29wOHlkYU43dUtHYU5IZmJvMHo4VG9JMFhxWElJWE84WVVKemczM2QtTVJEV1VfZkpHOUpKZ04xX1ZQcWg0cGRsYmVCNXRKMnZob3E4R0N6ZXNpbThwWUFlTlZONy02aktv?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://fruitgrowersnews.com",
-      "title": "Fruit Growers News"
+      "href": "https://www.tolerance.ca",
+      "title": "Tolerance.ca"
     }
   },
   {
-    "title": "Over 70 Years of Experience You Can Feel: Cyber Relax Ai by Fujiiryoki - SWAGGER Magazine",
-    "description": "Over 70 Years of Experience You Can Feel: Cyber Relax Ai by Fujiiryoki  SWAGGER Magazine",
-    "published date": "Tue, 03 Nov 2026 13:00:30 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVGFmU0hVN2h2RFlUMlJSTUZGcTVTbVFHUnVBMWFjUGJuY1hzX2kxSm41c1pGdXhneDZkbGxLQXotUjFmbkFZeHZWd3pLRzRyejZreFRQLVczZnZOdnF2RWJYMmM5T3ZlbDdUSUZzVDZiVnJyeXJybV9fOXRINzJIRHAwM05OUTBKRlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Public menopause care is scarce, and private care is costly. Why Canadians pay either way - The Globe and Mail",
+    "description": "Public menopause care is scarce, and private care is costly. Why Canadians pay either way  The Globe and Mail",
+    "published date": "Wed, 04 Nov 2026 10:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSGMyaUVQZWtQQV9rQk5XN1BEUjRORXFYdF8tNTMzNk5vZlgtT3BWUXdDcVZvdnN6ZTJzUTVRU1hDQkJ5Ym1odmNXU3ZRYTJ1Vjl3UlU5YThYVWVYd0NtOXE2d1lfdEdrd1BETUIycGFINFVnbEtIV09xS0JyaUJRTk9IQzMzSTJuZ1JuTUFRUUpCSUVkdktxeGZ0bzhBN0U?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.swaggermagazine.com",
-      "title": "SWAGGER Magazine"
+      "href": "https://www.theglobeandmail.com",
+      "title": "The Globe and Mail"
+    }
+  },
+  {
+    "title": "The solution to antibiotic resistance could be ... killer viruses - BradfordToday.ca",
+    "description": "The solution to antibiotic resistance could be ... killer viruses  BradfordToday.ca",
+    "published date": "Mon, 02 Nov 2026 02:04:02 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUzduUHFaQ0xFTEVRNXJGT0xicGdhT21yVzJ2WWc5QUsxWjVxTEVaR0VFdjNod2JFYzhUNEFWU3hxNnR3eTFTS0RlRXBEZkJLZGpfemRWWjhCOFpIV0hjTUpLUWVMaE50RC1RYWVXcEFyYldVX1FGSEhYb0tDeWJmbUgxUDc2VDFGbkNpMWRQNGZYQ2R3YklRQ0JKSHB5YUgxZ3Q3aXBpMEdwMjlKNF93?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bradfordtoday.ca",
+      "title": "BradfordToday.ca"
     }
   },
   {
@@ -210,43 +330,53 @@
     }
   },
   {
-    "title": "Having a hard time getting the COVID-19 shot? - Yahoo News Canada",
-    "description": "Having a hard time getting the COVID-19 shot?  Yahoo News CanadaSee more headlines & perspectives on Google News",
-    "published date": "Tue, 03 Nov 2026 18:25:31 GMT",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1PeDN2TzBJTWNyTDdCWGo2bUdPU0gtX0ZEM2ZTUnlSMU1FMV9mOHJxMXNLa1o2c0pzblJzblo4TEpUOS1VOWcyMnNkRDBURVMzdTRRSVh5NGxBOHV1VW1sUHdMNV91d1lRd3NwSDFuUGJseENzaUlkSGtvWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Flu shot campaign launches, as influenza season begins in Southern Manitoba - PortageOnline",
+    "description": "Flu shot campaign launches, as influenza season begins in Southern Manitoba  PortageOnline",
+    "published date": "Wed, 04 Nov 2026 09:05:16 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNzF2Mml4SDNuY192bWpHYlp0UkswWEhGSHBOY3ZJZTlCbWtKdGVmOVlrSkpZRVJRTkh5SjBfb1hvVGJIX2JJdV9ZVFdwQXdPeTQ1SzZINFZ4Y3hfUU5YSXYtTDRpLUx0enU4bW9mbW5aOUlJdlB0VXRoRU93MTNVX2p4VnJvODc2dnJMdWVrdEdOdkx4em9ZNmdiZkZtYzlCa3lNOTA4QktqOFpNZVE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://ca.news.yahoo.com",
-      "title": "Yahoo News Canada"
+      "href": "https://portageonline.com",
+      "title": "PortageOnline"
     }
   },
   {
-    "title": "This Exercise Can Help You Build A Sharper Brain In Your 40s & 50s - Yahoo Health",
-    "description": "This Exercise Can Help You Build A Sharper Brain In Your 40s & 50s  Yahoo HealthJust 75 minutes of exercise can work 'like a drug' against severe illness  Daily Express",
-    "published date": "Tue, 03 Nov 2026 10:09:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDBWWDc1M0otTzNFNXNDMV8xRmNBbDdyRVpHM2pIaTdKTEllYlNKQWh4aDhld1BHS1lDTF8wcnplZEZUbWc5VzhFbWJjUDk1UVJ6VjMwZzBoOGdyNG1PUU5FTUMwd25zbDVIcFhvM2JUZkl6SUxKaFF5V0l3NEp4SXNYc1lkMVFsRGdIa0hBWjk0YnlnRjlUX1dwMmlpcGxNYVpsUHFabzJaeTk0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "SIOG 2026 SPARC Roundtable: Alleviating the Burden of Cancer Care for Older Adults - Oncodaily",
+    "description": "SIOG 2026 SPARC Roundtable: Alleviating the Burden of Cancer Care for Older Adults  Oncodaily",
+    "published date": "Wed, 04 Nov 2026 19:42:40 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51Rkl5SlhxZWZQR3BGdXRIX1ppcVBPc1RBWEtEeHE2M0tZQmplVzg3akNIWEhzb05LZzd2cEdFU19nRy1WMmZpdFN2aXlSRFhNTFk3N25hc3V4U2RibFE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://health.yahoo.com",
-      "title": "Yahoo Health"
+      "href": "https://oncodaily.com",
+      "title": "Oncodaily"
     }
   },
   {
-    "title": "GLP-1 Patches, Gummies And Shakes: Do The Weight-Loss Promises Stack Up? - 2oceansvibe News",
-    "description": "GLP-1 Patches, Gummies And Shakes: Do The Weight-Loss Promises Stack Up?  2oceansvibe NewsTwo contrasting stories reveal the highs and lows of GLP-1 weight-loss drugs  CTV News",
-    "published date": "Tue, 03 Nov 2026 08:30:36 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNnFZYUdfeG85VDV4Um9JaU9UODFrWk9SRm1PZnFkcWstd1pNYm1IWkdyT19kTmh5MFpUODdTWFhoYmZXdEtIRzJoZ29ZQjRGVnVlaDM2a3hRcXlVUkktclRxTGV3SXNyMEs5Y2hLcWVSeFRfWmhjdTFWbkVDaEpteGVMOV9GRTlpa3Z2Wm1DWXpxUE0tY3pvem9VVVI3NEs0Qm1sb3o5SjB6cGRCd05jWA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "More Quebecers should get the HPV vaccination, says doctor - CTV News",
+    "description": "More Quebecers should get the HPV vaccination, says doctor  CTV News",
+    "published date": "Tue, 03 Nov 2026 21:08:47 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZlh3bzh3LUdGNl9Kc3FCMVFuLXhSZGo5VTFwU1NrblUyZDZfc2lHMWNQcC1wYV9wVzk0NzRxa2dFbTRxTGpDMk1DVEg3SXk4anlTUWQ2WUZ5NkRReVVzT0FqbUR4cG5iaDhwYkllWFhFN1REYV9CXzJNSjA4V0R5eUJ2bTdvcDNkU1BWMThYOTdNUi1VRElOSk9Mem9udWc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.2oceansvibe.com",
-      "title": "2oceansvibe News"
+      "href": "https://www.ctvnews.ca",
+      "title": "CTV News"
     }
   },
   {
-    "title": "Childhood Measles Vaccination Rates Down Globally - Infectious Disease Advisor",
-    "description": "Childhood Measles Vaccination Rates Down Globally  Infectious Disease AdvisorNearly 16 million children under five contracted measles in 2023 — Nature  UA.NEWSExperts warn of measles resurgence as millions of infants miss essential vaccines  Daily Nation",
-    "published date": "Tue, 03 Nov 2026 05:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcm5JaUtlR2w5WUo2SjF0bEtZTk1zaDNnUFF0TWQ5U3JNb195VzhmRG55Tzc5blViaDZ5a3duT25lelRzMjd4ZUR6ZWFpWWprbjMxMXhRZlNyQUhHaVE4bE1fNGFSS2JPUDRjNmYtekZKMGJMclVYcENDSjBobktCZVVRV3MwWHlaa3lQSWNldTB2MzNWVk1CY05PdUc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Dementia study calls on doctors to prescribe exercise for 'brain health' - The Mirror",
+    "description": "Dementia study calls on doctors to prescribe exercise for 'brain health'  The MirrorThis May Be The Secret Weapon For Your Brain In Midlife, Study Finds  MindBodyGreenA neuropsychologist explains the importance of exercise in fighting dementia  The Conversation",
+    "published date": "Tue, 03 Nov 2026 10:47:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZS1RN3c4SlNxRm9nRUU0MDJITVh0ZzB5ZTUyNkIyYkpmTjJVNkYxNGpjN2xNckdMR1E3OUxQS2hYcm4zalNpM0g2ajloTkVBazdoSnVpLTJEaExGMVpCa0tmQmFZbVBBTldWRGhSdlVTZHZnVGFBMlJsbnVSTXJLMnQxdk5ORUMyU0tNONIBkgFBVV95cUxOelpWYldZZEk0YU96THRoeUxpLW5MdVpPUUhGRXRhUkJXOWVBRHlkeXlqU0RLeFpuNGhhaDJ4bFVTWGJ0cG5pQXFzQ2Foa3owaVVRYWJtRnkta1pQVTExLV9QdWtUR1Jpazg1c2dhYjI1dGUxeTlGYURDQ1RlMmJGVUo4dmdpdXgxc3E4Nzh4c0JRZw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.infectiousdiseaseadvisor.com",
-      "title": "Infectious Disease Advisor"
+      "href": "https://www.mirror.co.uk",
+      "title": "The Mirror"
+    }
+  },
+  {
+    "title": "Over 70 Years of Experience You Can Feel: Cyber Relax Ai by Fujiiryoki - SWAGGER Magazine",
+    "description": "Over 70 Years of Experience You Can Feel: Cyber Relax Ai by Fujiiryoki  SWAGGER Magazine",
+    "published date": "Tue, 03 Nov 2026 13:00:30 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVGFmU0hVN2h2RFlUMlJSTUZGcTVTbVFHUnVBMWFjUGJuY1hzX2kxSm41c1pGdXhneDZkbGxLQXotUjFmbkFZeHZWd3pLRzRyejZreFRQLVczZnZOdnF2RWJYMmM5T3ZlbDdUSUZzVDZiVnJyeXJybV9fOXRINzJIRHAwM05OUTBKRlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.swaggermagazine.com",
+      "title": "SWAGGER Magazine"
     }
   },
   {
@@ -260,6 +390,16 @@
     }
   },
   {
+    "title": "UCalgary prof advances balance impairment research with new devices - Electronic Products & Technology",
+    "description": "UCalgary prof advances balance impairment research with new devices  Electronic Products & TechnologySee more headlines & perspectives on Google News",
+    "published date": "Tue, 03 Nov 2026 21:41:55 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTURxT0JJNktRNTNYS1VKZDdsdmkxZURmbmJqODNRS1JIYUpkRVpmLUFIcE50R2xoZkdKRk8xMFYxdUpSNXVSRDdidjRQaHVCUDRKSk1lV2g0dENIOWhMUVJNY1RuLUs1cGtOOGRmOHFUNHFDSDVRaG5JbHAtSE9fZ1hPa0ViZ2hLbEFlOGo5MFc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ept.ca",
+      "title": "Electronic Products & Technology"
+    }
+  },
+  {
     "title": "Northwestern Ontario NewsHawk headlines: Health warning, Treaty teaching and northern infrastructure - NetNewsLedger",
     "description": "Northwestern Ontario NewsHawk headlines: Health warning, Treaty teaching and northern infrastructure  NetNewsLedgerHealth officials report rise in IPD  Thunder Bay News - TBNewsWatch.com",
     "published date": "Tue, 03 Nov 2026 13:18:02 GMT",
@@ -270,53 +410,63 @@
     }
   },
   {
-    "title": "Brandon University researcher receives $500,000 renewal for breast cancer research - Winnipeg Sun",
-    "description": "Brandon University researcher receives $500,000 renewal for breast cancer research  Winnipeg SunWaves of Hope backs Brandon-based breast cancer research  DiscoverWestmanBrandon U researcher seeks earlier answers in the fight against breast cancer  DiscoverWestman",
-    "published date": "Sat, 31 Oct 2026 14:12:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNdmIyQzZsZHBvWG5KVFJFcEV1RW44MVpQM0R6Wk4yOGNJOVk5U3htdWpWVG1xZGtVN0pyU2tXQTYyWVBtUV91dDhoMmllM3RTaUQ4c0hlM2s4UXhLTnBqNHhCdnBzN2xiOE1ENkFXMnRwR1FYMUhsVlBVYm5jSndNOGJIa3JvdTR1OVFnNWdPSXlpZjlnZmtTak5MWTFVQnRVTE8wRzRmTFdGQkttZTVsYzdnbWMyT1owNWhyTVc2QzJYZE9fdUQ0SWlhZVctWmJYODQ4bDh1czhkQlM2VUVzOWpqNktXRW5uSVJlV0d3RmlNVGRFTVM2SXJHdUI3MzBMSVhj?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Circadian depression: Body clock disruptions take mental health toll - Yahoo",
+    "description": "Circadian depression: Body clock disruptions take mental health toll  YahooScientists May Have Found a 7th Type of Depression  National GeographicHow your body clock affects your mental health and ways to keep it in sync  The Conversation",
+    "published date": "Wed, 04 Nov 2026 05:03:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeXVEZndzc1dTamJWQTEwSnl3NE9vT3EwenJzZzVjNFgtMkdnOGlfSmF5RktnWFRTRDZ6Y1M5N1djUXFpSGFQMGxpNlhTcTh1YXp1OXV5cmQ5WEFicEw0cWRKTmZSZDV3RXJOQ1Y5Smo1anR0eXRySW1mUEdmTFFfcjBZOFdSOTJGdUdhZEoxUkJ2Y09uc1JVT3lBanRZVjBkX3J3eA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.winnipegsun.com",
-      "title": "Winnipeg Sun"
+      "href": "https://www.yahoo.com",
+      "title": "Yahoo"
     }
   },
   {
-    "title": "Why cervical cancer is suddenly rising among Canadian women aged 35 to 54 - CTV News",
-    "description": "Why cervical cancer is suddenly rising among Canadian women aged 35 to 54  CTV News",
-    "published date": "Sat, 31 Oct 2026 12:06:23 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQV1FENGZGTjNqRmlNOWRxS1prUmI4eW9jYW81MEpuT2tLR2ZpRjhZenpvXzRiMW84TU9TOEY3ZG05T1kwUFc3eGNUZWpPZERIakFTZHFncUZzWERPSktlMWctRGNFZXVjZnhIUk8yQlJjX3lPRmNTMFVKS3RfXzdub0QwUjBJY2l5eHE2WTJjZGVIcHBlVDdxTDY5bXYwdThVNzBVdXhRcE9XQzRycy0xREpWZ1d4MnYtT3JZMkxzZlRtWnFsYVRpQ3NQQzdZa2s5UmwwcTlBRDk?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Autoimmune Rheumatic Diseases Linked to Increased Long COVID Risk - Rheumatology Advisor",
+    "description": "Autoimmune Rheumatic Diseases Linked to Increased Long COVID Risk  Rheumatology AdvisorLong COVID Risk Higher with Autoimmune Rheumatic Diseases  EMJ",
+    "published date": "Wed, 04 Nov 2026 05:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeFBMa2lSMGRQakZocjRBN3JBU3l3YUctRmNKbzZaZDFWTzRiMUZCZzI2OEoydDU5eWpTNFd0OFdmOTU2Ym1Zd0hUdEhqV25JWFBqZ1Z2Z3ItWEZzSFpSVmZ0SEU1aHdudF9hSi1TekhuamFTYUFGM2Q2NGpMZTA2dUtoTHpjNU11U2czNWNJelA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.ctvnews.ca",
-      "title": "CTV News"
+      "href": "https://www.rheumatologyadvisor.com",
+      "title": "Rheumatology Advisor"
     }
   },
   {
-    "title": "Chronic wasting disease testing opens for fall hunting season across Alberta - CFWE",
-    "description": "Chronic wasting disease testing opens for fall hunting season across Alberta  CFWEChronic wasting disease testing opens for Albertan hunters  CJWE",
-    "published date": "Mon, 02 Nov 2026 15:14:51 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMFNyREpNOVRxYU9VV2RiYzd0bmROeG1DQmJra2hmdWtlMWNDTW9OaXVwS01xSjhvSjNuTkRZSXg2Q2FJbzhvSXVRd1VGSkp0WjEtQWhFTVI0dk15SHpqb0F3N0VVbUg4aVVQNUV1UF9aTzJRSEFCTExvS243N3VkMXROanY5YksxTVE2OGJtSW1xU3BjaWYwcExn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "First Guidelines for Cancer Caregivers Address Key Information Void in Care - MedPage Today",
+    "description": "First Guidelines for Cancer Caregivers Address Key Information Void in Care  MedPage Today",
+    "published date": "Mon, 02 Nov 2026 19:20:16 GMT",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tNHotalY4clYyNzYwc2E0cENkeWQxcWJ0VzdKNldVLVZ0VWNTSmJka05pLXRfYVdEOC01MGxKeno3bjNtSkZWcFpmcDFtbG1CUU9STDRNYlZfeTFSOG16dTgyb2k3Y2R1MzBWZE02MG45Z3RVSUE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://cfweradio.ca",
-      "title": "CFWE"
+      "href": "https://www.medpagetoday.com",
+      "title": "MedPage Today"
     }
   },
   {
-    "title": "Flu shot campaign launches, as influenza season begins in Southern Manitoba - PortageOnline",
-    "description": "Flu shot campaign launches, as influenza season begins in Southern Manitoba  PortageOnline",
-    "published date": "Wed, 04 Nov 2026 09:05:16 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNzF2Mml4SDNuY192bWpHYlp0UkswWEhGSHBOY3ZJZTlCbWtKdGVmOVlrSkpZRVJRTkh5SjBfb1hvVGJIX2JJdV9ZVFdwQXdPeTQ1SzZINFZ4Y3hfUU5YSXYtTDRpLUx0enU4bW9mbW5aOUlJdlB0VXRoRU93MTNVX2p4VnJvODc2dnJMdWVrdEdOdkx4em9ZNmdiZkZtYzlCa3lNOTA4QktqOFpNZVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "A low-calorie diet and exercise helped 54% of younger adults achieve diabetes remission - News-Medical",
+    "description": "A low-calorie diet and exercise helped 54% of younger adults achieve diabetes remission  News-MedicalType 2 diabetes breakthrough as 54% achieve remission in just 6 months  Science DailyType 2 Diabetes: 54% Young Adults Enter Remission with Diet, Exercise  Healthline",
+    "published date": "Wed, 04 Nov 2026 01:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMExvd0owbVlpazRVX1RuZkFvQXhuSXB3SVY5dENaRTJjN210bEQwLW1yZ3hQREpOc3J1TmhuWHp1TVRCNVV2RkpQd21PbTgxUGw2bXlta1RVcndBZ2dRUVhHcWs1ajlWZTFGdUhxUmxDbmlNWTQwXzByUWZYV1lpVWhqcXVtb1Q4d0I3cS1rdzRKY2NjdWk1UWZJMnVnTUlNOFU1dmRpN3pnRGVtS0hDdHBQNDZQcXBYVzh2ZjRkMGRmTHRzcUNFUVlxeXpJQXUxc0E?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://portageonline.com",
-      "title": "PortageOnline"
+      "href": "https://www.news-medical.net",
+      "title": "News-Medical"
     }
   },
   {
-    "title": "Pain cafes face closure without further funding - Yahoo News Canada",
-    "description": "Pain cafes face closure without further funding  Yahoo News Canada",
-    "published date": "Tue, 03 Nov 2026 13:10:01 GMT",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82YnNuSmJ2MjZmRXN5V29IOFN5RW9remJ1RThRMkVqcWJRN3pJeHN3Z0lPaWNhbWtaUkcwSUhtbEZVTnk4MTN4LTM5S3ZUR2FybE1zY3lSUmNvdGgzaEZYRkl6MVNlSWFhQVUySTRjR1NsUVRPcUlFaU5pX3Q?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Why is a giant pink blob wandering around Toronto? Turns out he has an important message - TorontoToday.ca",
+    "description": "Why is a giant pink blob wandering around Toronto? Turns out he has an important message  TorontoToday.caHere's who's behind that mysterious figure popping up all over Toronto  blogTOHere’s why a giant pink figure has been popping up across Toronto  Toronto.com",
+    "published date": "Tue, 03 Nov 2026 17:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaWpGVlhXOG03YWxxdHpGZVVqTWgxYTVnb09fNXpqZXJaZjd4TnFHR2VjWlZXWk15MUhjUWVza0w0SFVlVzRlZFZwS3p6QUhtTWlHV3lKam5CZTlUaXl5cFktak5GczJKbTd3WHhNZi1IVERlQmZrdVE0cEdxelNrSFNqNXcyUk9RRndkRVV6dmlNWUppdUhzNG1XVTlWVVc3VHRDQVNCZ2tjc0NtNkpv?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://ca.news.yahoo.com",
-      "title": "Yahoo News Canada"
+      "href": "https://www.torontotoday.ca",
+      "title": "TorontoToday.ca"
+    }
+  },
+  {
+    "title": "Cannabis Use Linked to Cardiovascular Disease, Strokes - Gizmodo",
+    "description": "Cannabis Use Linked to Cardiovascular Disease, Strokes  GizmodoNew study links cannabis use to increased cardiovascular risk  News-Medical",
+    "published date": "Mon, 02 Nov 2026 20:55:53 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOThNZGNEdURkNjhFMmt1eS11R05qU2NxSlo5ZEU0V2w2Z2Vyb2VEQTYxei10b1dMUmI5SDgwNzdveDg5ZTF6T0tHV28zSDNJQVlqUi1UN3RrY1NOOUNLYmhxdC0zdHdjRklwRDV5elhoU2lmWk5zb2JiWmotWGNJWVV1SjVfMnZNemxldm9fOU1EUjF2MW9paTl4aFVFaHFTN3Ew?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://gizmodo.com",
+      "title": "Gizmodo"
     }
   },
   {
@@ -330,13 +480,13 @@
     }
   },
   {
-    "title": "A New Experimental Vaccine Targets Rogue Genes Linked To 90 Percent Of Pancreatic Cancers - IFLScience",
-    "description": "A New Experimental Vaccine Targets Rogue Genes Linked To 90 Percent Of Pancreatic Cancers  IFLScienceElicio Therapeutics to Host Virtual KOL Event on November 11, 2026: ELI-002 7P for Metastatic and Neoadjuvant PDAC  GlobeNewswireNew Pancreatic Cancer Vaccine Sparked Immune Responses in 99% of Patients  ScienceAlert",
-    "published date": "Tue, 03 Nov 2026 07:28:48 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNzlMRXFTb3RFTGktUVVRUDJta3hUazBXWGpFMm01MlNyTGFGTmN4VWRrZHVZQWYxdzBYNDkwcFktVHZMQUw2M1JkN2dlYmFuZmd5TTliZlJuTTd5ZGJhVEFJQmxKV2tQZm10SVdja0JIZ3BodVl4VFlwUnZ5Z1ZEU2tJcW5ud3ZjTVZEZjZ5c3hXd2pJeXRleFJfM3ByN2h2QkphSlJaM216bjRiZHVGSThBMFAyaHJqZ3VFWktFcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Pain cafes face closure without further funding - Yahoo News Canada",
+    "description": "Pain cafes face closure without further funding  Yahoo News Canada",
+    "published date": "Tue, 03 Nov 2026 13:10:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82YnNuSmJ2MjZmRXN5V29IOFN5RW9remJ1RThRMkVqcWJRN3pJeHN3Z0lPaWNhbWtaUkcwSUhtbEZVTnk4MTN4LTM5S3ZUR2FybE1zY3lSUmNvdGgzaEZYRkl6MVNlSWFhQVUySTRjR1NsUVRPcUlFaU5pX3Q?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.iflscience.com",
-      "title": "IFLScience"
+      "href": "https://ca.news.yahoo.com",
+      "title": "Yahoo News Canada"
     }
   },
   {
@@ -347,26 +497,6 @@
     "publisher": {
       "href": "https://www.reviewofoptometry.com",
       "title": "Review of Optometry"
-    }
-  },
-  {
-    "title": "Man, 75, living 'under cloud' of prostate cancer to trek 100km - Yahoo Lifestyle Canada",
-    "description": "Man, 75, living 'under cloud' of prostate cancer to trek 100km  Yahoo Lifestyle Canada",
-    "published date": "Mon, 02 Nov 2026 19:10:01 GMT",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IYjNFOV82M2JSRHN3TDV3OUtNVmlDLXgtdGtmRWxiclB2LXRMSzVfSnRDN1N5YjFXOS1XYkdQMWktN2IwQXZ3VmxVR18yRE9tTU83TERLcWtjb3FYcDdlcUxwTm5XX0kxSkVWbVZQamtLeEZUbmc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://ca.style.yahoo.com",
-      "title": "Yahoo Lifestyle Canada"
-    }
-  },
-  {
-    "title": "Why is a giant pink blob wandering around Toronto? Turns out he has an important message - TorontoToday.ca",
-    "description": "Why is a giant pink blob wandering around Toronto? Turns out he has an important message  TorontoToday.caSinai Health Foundation Puts Chronic Inflammation in the Spotlight  Toronto StarHere's who's behind that mysterious figure popping up all over Toronto  blogTOHere’s why a giant pink figure has been popping up across Toronto  Toronto.com",
-    "published date": "Tue, 03 Nov 2026 17:33:52 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaWpGVlhXOG03YWxxdHpGZVVqTWgxYTVnb09fNXpqZXJaZjd4TnFHR2VjWlZXWk15MUhjUWVza0w0SFVlVzRlZFZwS3p6QUhtTWlHV3lKam5CZTlUaXl5cFktak5GczJKbTd3WHhNZi1IVERlQmZrdVE0cEdxelNrSFNqNXcyUk9RRndkRVV6dmlNWUppdUhzNG1XVTlWVVc3VHRDQVNCZ2tjc0NtNkpv?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.torontotoday.ca",
-      "title": "TorontoToday.ca"
     }
   },
   {
@@ -390,16 +520,6 @@
     }
   },
   {
-    "title": "Beehives Have Built-in Immune Systems That Protect The Colony With Layers of Defense - ScienceAlert",
-    "description": "Beehives Have Built-in Immune Systems That Protect The Colony With Layers of Defense  ScienceAlert",
-    "published date": "Sun, 01 Nov 2026 16:02:35 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc3F6SW1BVkpnelk4RS02Nng0a2ZZTGZ4eHAyaVY4bE5QTkdNUV9UMkxQYjIxcFJMUUZ2TWQ0RndqM29VWEF4dk5zd0ZpWElFZGRlOVQ4d3lSTElxRnp6NlZrTDY4WERVUTVMQW1VNG4tdENxOFNxNXRSTG92c2FlNmZ5UUN2UUxTV2wyQWN6cExFMVRPRlNLUzRHQ0FVNDk2MmVfSXlFeF9wOWF0UEFNdnhSbw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.sciencealert.com",
-      "title": "ScienceAlert"
-    }
-  },
-  {
     "title": "Ophthalmic Care Is Uncommon After Patients Start Tamoxifen - Cancer Therapy Advisor",
     "description": "Ophthalmic Care Is Uncommon After Patients Start Tamoxifen  Cancer Therapy AdvisorStudy: Tamoxifen Patients Don’t Get Eye Exams Often Enough  Review of Optometry",
     "published date": "Tue, 03 Nov 2026 05:00:00 GMT",
@@ -407,6 +527,16 @@
     "publisher": {
       "href": "https://www.cancertherapyadvisor.com",
       "title": "Cancer Therapy Advisor"
+    }
+  },
+  {
+    "title": "New study identifies biological mechanism driving therapy resistance in advanced prostate cancer - News-Medical",
+    "description": "New study identifies biological mechanism driving therapy resistance in advanced prostate cancer  News-MedicalTip Sheet: New driver of aggressive prostate cancer, herpes and cancer, the future of survivorship care — plus a medical mystery solved | Newswise  Newswise",
+    "published date": "Tue, 03 Nov 2026 09:40:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPclZMTHdDOVpZaWNod1VOTVJoWFYwejhfRG5RQ3J5clVYTkhXR1had3loV0Jhd0gtZFBsdXNaR3pMRTBhUjVVZU9zMmM2dERJNDVGWm9jaFExbTVQaFJTVzJ0YU5PWGVWeWZ6bmw0V283S3ViYVFVY1h5Z3hacjNpMXloaG40U25HZDh4aFI0ZXU1cnctNXVvSVpSY0ZpbVZENUpTM3RKdWEwLXpHd3ZlYUMwdWpMSEI3NC1LRF83NC11NW1hTmNqdTM5ZGpUVWpHbWhCTEF6aVJ1SHY2?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.news-medical.net",
+      "title": "News-Medical"
     }
   },
   {
@@ -420,13 +550,43 @@
     }
   },
   {
-    "title": "New Menopause Treatment Guidelines ‘Correct’ a Treatment Concern That Left Many Women Underserved - Prevention",
-    "description": "New Menopause Treatment Guidelines ‘Correct’ a Treatment Concern That Left Many Women Underserved  PreventionMenopause treatment is getting a rethink. Here’s what women should know.  The Boston GlobeMurauskas scores 21 points to help Arizona State beat Tennessee State to kick off Bennett era  PinalCentral.comAs ACOG and the FDA Shift on Menopause Hormone Therapy, Aspire Rejuvenation Sees More Women Asking  The National Law ReviewThe Cove highlights new guidelines regarding therapy for menopause symptoms  WAFF",
-    "published date": "Tue, 03 Nov 2026 12:54:46 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc0QzckV4ZGJXM3B1Y2RlRDhQQUk5LWM3akZRd2RZWnYwU0FNNjRhYU11eWR5WW5QNW0wRVBrLXFNVWhUdkpVMEJ2NUFVd1Z3RnFsQ3h5Y1BETzFUcGF3blpoNlFsT3lfWDlud3VxUDVXOGIyVTdYbW1rLWxuSmVINmF6NlF4MUlqVGZkdi1qSW8?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Nonfatal OD Activations, Naloxone Administration Dropped After May 2023 - Ophthalmology Advisor",
+    "description": "Nonfatal OD Activations, Naloxone Administration Dropped After May 2023  Ophthalmology AdvisorCDC estimates U.S. overdose deaths are falling, but some areas still face increases  Mezha.net",
+    "published date": "Wed, 04 Nov 2026 05:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdFpOa083UUUwaWpOMGhsalpBOG54QUN1WF9MVlBoeURlUG9YYVFBcXVteWVEc2htVDdMckktSlV5dnZ5VkV0bkVyYWY5UHlxMWc2emo0bGxOcjVCUG5wQWZJaFI3YTVpOVVReFNoUWRmRThJdDFhSUtxeXFLdTQyaTJ6OFJxcjVEXzd0MW5CZzZlUmNOdGdJQkY5aU1BOE8xOHJnVzhmdFF4X2w4V2R2cHJxWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.prevention.com",
-      "title": "Prevention"
+      "href": "https://www.ophthalmologyadvisor.com",
+      "title": "Ophthalmology Advisor"
+    }
+  },
+  {
+    "title": "Autism, Intellectual Disability Linked to Higher Rates of Parkinsonism - Neurology Advisor",
+    "description": "Autism, Intellectual Disability Linked to Higher Rates of Parkinsonism  Neurology AdvisorCommon developmental condition linked to higher risk of Parkinson's-related disorders  Fox News",
+    "published date": "Wed, 04 Nov 2026 05:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLXlvVXc3a2dvQllpdUtzb1JVSmNwUDdma044Ql9SNUU3SUtkdENnLUpVR18xek9KVlVTNFd1YzN5VTUtVlRDVS1qVUVPVUhmTk9qTkt1MDd2TFJOR0xNMGlrblFVUE9rVVVHdFNMWVBOU2FadVYyU3U1cmNBaThSeEZJR0hTRXg2bkdaMTNvZ1lWZUdBcXBLQVpZbmRYYVZXVlljNDJiVGs2ekZ5?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.neurologyadvisor.com",
+      "title": "Neurology Advisor"
+    }
+  },
+  {
+    "title": "Your Good Health: What's this new obsession with drinking water? - Times Colonist",
+    "description": "Your Good Health: What's this new obsession with drinking water?  Times ColonistBottled water continues to rank the highest among Americans’ most preferred beverages  GlobeNewswire",
+    "published date": "Wed, 04 Nov 2026 09:45:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaG9yc1pxWmV4cUV1NWktbTBrMTZMZklYZDdBU3BHNWs4WmVKWWJUZURoZ09jb0t6RWRFYjlWS3AyVFF3VHNIcUJINV9JMzdvZlZGb3NLTVRVd0NWa0Rodm9IYm5KQTZBdDBLTWEwR3dCRFhKSXBzeVJFaWlRUUV1dm1oQjJuWEdtbU9iTGVub1VMa01ZWXFDcFF5REppa3o5RGlKSXZSZHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.timescolonist.com",
+      "title": "Times Colonist"
+    }
+  },
+  {
+    "title": "There's new guidance on menopause symptoms like hot flashes. What women need to know - Japan Today",
+    "description": "There's new guidance on menopause symptoms like hot flashes. What women need to know  Japan Today",
+    "published date": "Tue, 03 Nov 2026 20:05:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWVFDckdQRnNaTGN4a3QyeHlFaVVtcUFhMTNrSjQzTklXQ1hCaVhUZ25Kcm8wR2N2YzZPYmFLMncyQW9FdkZDM2pVOWJFQnVpa0tKVDZRQVU2ZllzWXI3SDFEaXZFU0ZUXzNKdnFvMGJFWmtHc01KeTRjZ2NEbEtKSXZpenlqR2JzU1ExUFNkMmJRZ1p0WWJLdVE3SEtXZXdFYUlCQm0tbkZLUWdjeXhyU0dWRXVyYnNNUGU5a0lyNHlMOHFDT3hOZm1yYkw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://japantoday.com",
+      "title": "Japan Today"
     }
   },
   {
@@ -440,16 +600,6 @@
     }
   },
   {
-    "title": "London study explores how AI could help close health care gaps for people experiencing homelessness - CTV News",
-    "description": "London study explores how AI could help close health care gaps for people experiencing homelessness  CTV NewsLondon-led study aims to improve health care for homeless  London Free Press",
-    "published date": "Thu, 29 Oct 2026 21:12:51 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTVJkb0JqWmFjT2FDWW1qaHNhSWtBb3BoZ3dwVEQtSnByd3k5VHg4V1A5OUJnc3pGd0wzY0VwclpFYTVFMW5feDdadk1zZmhLUGtnb05DV3hvXzMxZ3NHSGdzOHpBN1B0akVGNGJYSVgtS2tSbVlEMWlxdEFUS0Jtd1gyWjgzbXZyMVZUMmp5b0U5RjQ1NUVlOHVxcmIteWR1ZXdudEdmaWF4MFN2R2Zqal9pNnVGcEN0Y25ha2tNdG52STNteVZoMTEzc0NzSUxMQ3Q4eg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ctvnews.ca",
-      "title": "CTV News"
-    }
-  },
-  {
     "title": "Saanich kid’s book idea balloons to raise funds for groundbreaking cancer research - Castlegar News",
     "description": "Saanich kid’s book idea balloons to raise funds for groundbreaking cancer research  Castlegar News",
     "published date": "Tue, 03 Nov 2026 21:13:23 GMT",
@@ -457,106 +607,6 @@
     "publisher": {
       "href": "https://castlegarnews.com",
       "title": "Castlegar News"
-    }
-  },
-  {
-    "title": "No more rabid skunks found in Vancouver after ‘small number of people’ exposed - CTV News",
-    "description": "No more rabid skunks found in Vancouver after ‘small number of people’ exposed  CTV News",
-    "published date": "Mon, 02 Nov 2026 17:52:18 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa2N3bHZwdG44Wm9Ea3lZR0xzSUkyNS0xRUZPbUJuMGZaWnJrcWFaRDRsSDlyNERYLUcxc2p1RTA1UVl5Qy04WHdtdExWaUYyX0pVMEJNbGNYMlAyZXVDNGFYdlJUREdnSU5GVlV0N05VYzZJN3F2NWxkVEp0TW82QXp5OGNzY01vLVMwWWVHN2dMN3NuU0tSbkMwN2FiT2dSekdGaUFtSG14RHlqRFhlMDJBZ0hncmtERWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ctvnews.ca",
-      "title": "CTV News"
-    }
-  },
-  {
-    "title": "Long COVID Risk Higher with Autoimmune Rheumatic Diseases - EMJ",
-    "description": "Long COVID Risk Higher with Autoimmune Rheumatic Diseases  EMJ",
-    "published date": "Mon, 02 Nov 2026 13:39:22 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR0I5czNNdXQyQ0RtOWxNNDl4SWtFU0NlaHR5eF9hcUJXNjJPY1ZHN2c0UjBGb05SZGRyTjd2N3ZRZlZsSDBvY0ktLWhNLUd3WmtudHJhOWhTY1VyZ0MybXJZckxmY3Vxc0FLUWRNcGlGdmJWWkxCNFQ1RnhOWks1V2stbElWXzVwUURHM0NjTDRLRWRJUDdTbjZnMVJFR3I5NVJ2bkZn?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.emjreviews.com",
-      "title": "EMJ"
-    }
-  },
-  {
-    "title": "Sask. woman seeks solutions after waiting a year for a mammogram - CTV News",
-    "description": "Sask. woman seeks solutions after waiting a year for a mammogram  CTV News",
-    "published date": "Wed, 04 Nov 2026 01:37:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbnJITGtjOWsxQVdqSHdjYlJsTHJLeHNnNnRTMWZjNlY0U0JkcF9nNk1zaFNfY0NuRk1tUVhSRWhEblcyQ19CTlhfcE9pX1hZaDk1eG9JYl81ZjFXNXozWjJNWmVxOFpGTWRhY3NDaDlpZ01VdjFZc2VWVU5rMHhWR0pYOVppQjU5dnEyMTQwSF9US2lTanhMSTNMRlRBWEY4RW5XZQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ctvnews.ca",
-      "title": "CTV News"
-    }
-  },
-  {
-    "title": "Even moderate drinking linked to cancer and early death, major study finds - Science Daily",
-    "description": "Even moderate drinking linked to cancer and early death, major study finds  Science DailyThe link between alcohol and breast cancer risk is strong. Here’s what to know.  The Washington Post",
-    "published date": "Mon, 02 Nov 2026 04:14:08 GMT",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0eTJJcF9qZU5YR1V5c3ctVFZQemV1ZUxxOWJtVG5xd2x0dkxZdFR1WnoyOVFaOWs0SFdTSEl6UUN1U2ZsMWNUaThUd01UYTVYSHpnNzVhUmktWXhfUVJTaGlXbFI3dmtxNko1MlAxSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.sciencedaily.com",
-      "title": "Science Daily"
-    }
-  },
-  {
-    "title": "Smaller Brain Volume, Greater WMH Lead to Cognitive Decline After Intracerebral Hemorrhage - HCPLive",
-    "description": "Smaller Brain Volume, Greater WMH Lead to Cognitive Decline After Intracerebral Hemorrhage  HCPLive",
-    "published date": "Tue, 03 Nov 2026 22:05:36 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTmpFczRJa0ZVN2Y5RVNqRDY0anNPTnl0a1BxT09DNXFMZW5MVXl0Q0JYUzdPV3k5RnJfMmpOQ2xmOHI0U2FrODFGcGNFZUxGaGxvaVRxZmY2NDliQlRqWFhEaS1OTmZKYk1GYVVCaUMzelZ0NHl4OVo1VHR3TDRLYUFHeWIxWnBoQU9TU3FjaEt5UG9aNVBYUzhOMFdVZVlvOXM3RmZOT3FBaGdGekVBSkZ3VGNaRlRCRHc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.hcplive.com",
-      "title": "HCPLive"
-    }
-  },
-  {
-    "title": "Moderate coffee and tea consumption associated with lower dementia risk, JAMA study finds - Comunicaffe International",
-    "description": "Moderate coffee and tea consumption associated with lower dementia risk, JAMA study finds  Comunicaffe InternationalThe Best Drink for Lowering Alzheimer’s Risk, According to Experts  Health.comYour daily coffee habit may affect your brain and mood in unexpected ways, study finds  Fox News",
-    "published date": "Mon, 02 Nov 2026 23:45:50 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZF9HMjY4Vl9JbTdBSl80OXRvczlQakIyMlNGRFUyVnZGWlZOcjlFdHFiN296T3ZCdUx0dWtPNDJfelYxNTRUc3BPeEFOcUJ5TW44V1I5WFZmZmNRMGVHNE5mYXk4SGFvTGtwTjM2aEN4Y3pEazYtQ09pb2F5SjRRbndKMXZraFJLeVVNZ1YzNFJVek9uTGdpNGRTTGJTaHJQbDd4WFp0cWlYS0FHaGZwTWRrVzJkemE1?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.comunicaffe.com",
-      "title": "Comunicaffe International"
-    }
-  },
-  {
-    "title": "Study identifies molecular links between menopause and brain aging - News-Medical",
-    "description": "Study identifies molecular links between menopause and brain aging  News-MedicalUS study identifies 16 molecules linked to brain aging during menopause  UA.NEWS",
-    "published date": "Tue, 03 Nov 2026 02:59:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRFZtNGZqR05WU3FBQWpyYnpNTzEzYjdiX2lTM21vV2Y5TVVYNnpxTlRaQjREUTFUN3pjbXRPdUlwVTdTOUQxVEY2WThGNVlQa2xhSnNoWGRuUnBqaTJLWjlTR1hISE1ZbTJaNW56dlN4ckU1RmpDTVYxUzcxdUVUeWh3VkJpT1dvYkdtY0d4SjVBVTByY2NzVTYzS3RqdmUtWUFPRkNKbC1KN2ROVFRaaWlZdzE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.news-medical.net",
-      "title": "News-Medical"
-    }
-  },
-  {
-    "title": "First Guidelines for Cancer Caregivers Address Key Information Void in Care - MedPage Today",
-    "description": "First Guidelines for Cancer Caregivers Address Key Information Void in Care  MedPage TodayNCCN Releases Its First Free Guide for Cancer Caregivers  Cure TodayNCCN Issues First-Ever Guidelines For Cancer Caregivers  Health and Me",
-    "published date": "Mon, 02 Nov 2026 19:20:16 GMT",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tNHotalY4clYyNzYwc2E0cENkeWQxcWJ0VzdKNldVLVZ0VWNTSmJka05pLXRfYVdEOC01MGxKeno3bjNtSkZWcFpmcDFtbG1CUU9STDRNYlZfeTFSOG16dTgyb2k3Y2R1MzBWZE02MG45Z3RVSUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.medpagetoday.com",
-      "title": "MedPage Today"
-    }
-  },
-  {
-    "title": "Why probiotic strain specificity matters for brain health - Nutraceutical Business Review",
-    "description": "Why probiotic strain specificity matters for brain health  Nutraceutical Business ReviewDecoding the Gut-Brain Axis: Implications for Neurodegenerative Disease Therapies  Frontiers",
-    "published date": "Tue, 03 Nov 2026 09:54:24 GMT",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNThlN3lPSVo5SU40bVZfTnpXZ0VJS0h0MzRWVlczSTQ1Y083T1N1TE1Zc0Fpa1FybFJtLW9weUtmX1hmZXV0LTRKZHpsd1ZrajlTek5pTzYxYi1XTFdRbmJCS2hfT0JlZ1lCd2R0WmNmeVY3WkxOTTNYRm9SQkZSd3BOcnh1TkxfMHJvMlh4aktuNC1IWXUyYlRLeTBsQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://nutraceuticalbusinessreview.com",
-      "title": "Nutraceutical Business Review"
-    }
-  },
-  {
-    "title": "New dementia risk tool designed for the countries that need it most - News-Medical",
-    "description": "New dementia risk tool designed for the countries that need it most  News-Medical",
-    "published date": "Tue, 03 Nov 2026 06:55:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQlk0a2MyS3lHSkdqbUJvaTBXZFp1ald6NE5LVXNNMXptUVA0LVdkNmxZZjZDQ1otazRBR3NoTUs1cW1OVlVTMndtTTBWN2VEanZNbGgtN3lOVWI4NDNELUJZTUVRNEYySm5KaHhnSEV2cEpnT3RLLU9sRDJwUktRZG40RVJid2pJUDdsejZPTW5jeEkwT3ZENUpQNW84c3dLQlNZRmlibWJVQTFwTW84VXZ0M0tWUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.news-medical.net",
-      "title": "News-Medical"
     }
   },
   {
@@ -580,13 +630,33 @@
     }
   },
   {
-    "title": "One in three Canadians will get shingles. Will it be you? - Toronto Star",
-    "description": "One in three Canadians will get shingles. Will it be you?  Toronto Star",
-    "published date": "Mon, 02 Nov 2026 19:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZFktNUJ3aEtHMUZaTDVab3lIZDdYOGp3MFM2dmNMbk1KV3B1RWR5NlB6YnlDS29lMDBYc29xODd6WHVrTDhTVm1vS1VCbnlmNnYtLXAyMlhJZ0VtcnJwbTUyWGV0bDNEOWhXWUhISGFsZ1RxNGFoRDZDWUFHNW1ybDZMMkxBR2tfUjVqVk4yaEhOaE1CUUpfbTVNclh4eDNjR1dZZjktMkxUT0c3TE91VkVqTGtjYlBWX0VUR3JhOTZha0hmV2pPWDZ0Q3EyLXR0UXFOZVg1eGFvdzl6aUNGZld3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Study identifies molecular links between menopause and brain aging - News-Medical",
+    "description": "Study identifies molecular links between menopause and brain aging  News-MedicalMenopause Blood Protein Signature Tied to Dementia Risk  Neuroscience NewsUS study identifies 16 molecules linked to brain aging during menopause  UA.NEWS",
+    "published date": "Tue, 03 Nov 2026 02:59:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRFZtNGZqR05WU3FBQWpyYnpNTzEzYjdiX2lTM21vV2Y5TVVYNnpxTlRaQjREUTFUN3pjbXRPdUlwVTdTOUQxVEY2WThGNVlQa2xhSnNoWGRuUnBqaTJLWjlTR1hISE1ZbTJaNW56dlN4ckU1RmpDTVYxUzcxdUVUeWh3VkJpT1dvYkdtY0d4SjVBVTByY2NzVTYzS3RqdmUtWUFPRkNKbC1KN2ROVFRaaWlZdzE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.thestar.com",
-      "title": "Toronto Star"
+      "href": "https://www.news-medical.net",
+      "title": "News-Medical"
+    }
+  },
+  {
+    "title": "Sask. woman seeks solutions after waiting a year for a mammogram - CTV News",
+    "description": "Sask. woman seeks solutions after waiting a year for a mammogram  CTV News",
+    "published date": "Wed, 04 Nov 2026 01:37:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbnJITGtjOWsxQVdqSHdjYlJsTHJLeHNnNnRTMWZjNlY0U0JkcF9nNk1zaFNfY0NuRk1tUVhSRWhEblcyQ19CTlhfcE9pX1hZaDk1eG9JYl81ZjFXNXozWjJNWmVxOFpGTWRhY3NDaDlpZ01VdjFZc2VWVU5rMHhWR0pYOVppQjU5dnEyMTQwSF9US2lTanhMSTNMRlRBWEY4RW5XZQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ctvnews.ca",
+      "title": "CTV News"
+    }
+  },
+  {
+    "title": "Smaller Brain Volume, Greater WMH Lead to Cognitive Decline After Intracerebral Hemorrhage - HCPLive",
+    "description": "Smaller Brain Volume, Greater WMH Lead to Cognitive Decline After Intracerebral Hemorrhage  HCPLive",
+    "published date": "Tue, 03 Nov 2026 22:05:36 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTmpFczRJa0ZVN2Y5RVNqRDY0anNPTnl0a1BxT09DNXFMZW5MVXl0Q0JYUzdPV3k5RnJfMmpOQ2xmOHI0U2FrODFGcGNFZUxGaGxvaVRxZmY2NDliQlRqWFhEaS1OTmZKYk1GYVVCaUMzelZ0NHl4OVo1VHR3TDRLYUFHeWIxWnBoQU9TU3FjaEt5UG9aNVBYUzhOMFdVZVlvOXM3RmZOT3FBaGdGekVBSkZ3VGNaRlRCRHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.hcplive.com",
+      "title": "HCPLive"
     }
   },
   {
@@ -600,43 +670,13 @@
     }
   },
   {
-    "title": "A low-calorie diet and exercise helped 54% of younger adults achieve diabetes remission - News-Medical",
-    "description": "A low-calorie diet and exercise helped 54% of younger adults achieve diabetes remission  News-MedicalType 2 diabetes breakthrough as 54% achieve remission in just 6 months  Science DailyType 2 diabetes patients 21 times more likely to achieve remission with intensive lifestyle changes  Fox News",
-    "published date": "Wed, 04 Nov 2026 01:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMExvd0owbVlpazRVX1RuZkFvQXhuSXB3SVY5dENaRTJjN210bEQwLW1yZ3hQREpOc3J1TmhuWHp1TVRCNVV2RkpQd21PbTgxUGw2bXlta1RVcndBZ2dRUVhHcWs1ajlWZTFGdUhxUmxDbmlNWTQwXzByUWZYV1lpVWhqcXVtb1Q4d0I3cS1rdzRKY2NjdWk1UWZJMnVnTUlNOFU1dmRpN3pnRGVtS0hDdHBQNDZQcXBYVzh2ZjRkMGRmTHRzcUNFUVlxeXpJQXUxc0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.news-medical.net",
-      "title": "News-Medical"
-    }
-  },
-  {
     "title": "New funding for research aids rapid, reliable id of clubroot in canola - The Western Producer",
     "description": "New funding for research aids rapid, reliable id of clubroot in canola  The Western Producer",
-    "published date": "Tue, 03 Nov 2026 21:09:21 GMT",
+    "published date": "Tue, 03 Nov 2026 21:09:22 GMT",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTEVwRG53TS1icmxGcDJkM2QxdE5oUXpnem8tU0dzbnMtQ1JnSWJWNXpjTndSX2ZmVWVnMHNuQU9Ncm9oeS1KMDJheW5yTkVZRFJMV1ppT3NXZ2ZxaXBOSEhTOVNDTGxFdDdtQk42M1JRMkNRRHZBWndPanBJeXR3MndvUTFoLUwtTTg0?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.producer.com",
       "title": "The Western Producer"
-    }
-  },
-  {
-    "title": "New study identifies biological mechanism driving therapy resistance in advanced prostate cancer - News-Medical",
-    "description": "New study identifies biological mechanism driving therapy resistance in advanced prostate cancer  News-MedicalThese dying patients have few options, but researchers now know their cancer’s secret weakness  Herald Sun",
-    "published date": "Tue, 03 Nov 2026 09:40:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPclZMTHdDOVpZaWNod1VOTVJoWFYwejhfRG5RQ3J5clVYTkhXR1had3loV0Jhd0gtZFBsdXNaR3pMRTBhUjVVZU9zMmM2dERJNDVGWm9jaFExbTVQaFJTVzJ0YU5PWGVWeWZ6bmw0V283S3ViYVFVY1h5Z3hacjNpMXloaG40U25HZDh4aFI0ZXU1cnctNXVvSVpSY0ZpbVZENUpTM3RKdWEwLXpHd3ZlYUMwdWpMSEI3NC1LRF83NC11NW1hTmNqdTM5ZGpUVWpHbWhCTEF6aVJ1SHY2?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.news-medical.net",
-      "title": "News-Medical"
-    }
-  },
-  {
-    "title": "Fitness for longevity: Which type matters most? - Harvard Health",
-    "description": "Fitness for longevity: Which type matters most?  Harvard HealthWant to Age Well? A Longevity Expert Says This One Habit Matters Most  Real SimpleThe Easiest Exercise for Longevity, According to Science  Vogue",
-    "published date": "Tue, 03 Nov 2026 05:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVGFERWRja2tEdG1OZXNYek5hX3VsNngtZVZSRXpfd3RIdUZHZDNzcnBUblNpUHlZazRwQnJpcDJmaHdyODk5dzBvS1dOdndEYUowaVBLdnBpVXRQaE1LS1k1NWFibEg5Uzk0b01nRjF6TXB4b1M0ejdld2cyeURlVVNsU0VIS0p0N3U2RWNvUG4wcHFXdVVLSml1NWpEMGpFN1hDMUJsWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.health.harvard.edu",
-      "title": "Harvard Health"
     }
   },
   {
@@ -650,53 +690,13 @@
     }
   },
   {
-    "title": "I didn't know I was lacking in vitamin D until I collapsed at work - BBC",
-    "description": "I didn't know I was lacking in vitamin D until I collapsed at work  BBCThe best ways to make sure you get enough Vitamin D in the fall  WFMZ.comFrom winter sun to supplements: How to actually boost your vitamin D (according to an expert)  CN TravellerWhy Vitamin D Is So Important for Older Adults, and How to Get Enough  Everyday HealthVitamin D in athletes: deficiency is widespread  www.tour-magazin.de",
-    "published date": "Fri, 30 Oct 2026 00:29:05 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfYUFtU21xdVV3OFpzWFVWbzFiRHgtZU9adlVublEtTWJXaDFPbXlzSllaN3hJOEtqaThNLUdFa0RtQVd4RV9Gc3JoY0lzUGtVUUhpNzFrbGptb2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.bbc.com",
-      "title": "BBC"
-    }
-  },
-  {
-    "title": "Rituximab Linked to 10-fold Higher IBD Risk in MS - Medscape",
-    "description": "Rituximab Linked to 10-fold Higher IBD Risk in MS  Medscape",
-    "published date": "Tue, 03 Nov 2026 11:57:09 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWWVZR2tGcTJ2VWxjcEJTOW5IU1ZtVU5IZFBFNEI4STRRZXBQY1lVeFltanNXbmtXc3lqRE1wbjRkaDhEVF9Gald3blo4akZrejBMUXBCWDBYamxDRkFBanJ1aXZWbDludEpBZjU3YUgxVkZQUFAwTHU3djFLYUUyaEZPbjdUbFVmdy03U1l5N29RNVo1cTVXOUlaS0hCUmt3VGlOQ0VBNDRQamwzNVQ4?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.medscape.com",
-      "title": "Medscape"
-    }
-  },
-  {
-    "title": "Your Good Health: COVID vaccine misinformation continues to spread - Times Colonist",
-    "description": "Your Good Health: COVID vaccine misinformation continues to spread  Times Colonist",
-    "published date": "Tue, 03 Nov 2026 09:45:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdjB6ZE93OWp0Ym94NkpUNzFBZ25WYklURDk1WjRSbnpXbVV1QzNCNl8zWjI4dGVRVktWVG1nQ1dTTnNMYnNqSVZxU1NXTjRqNmItbmFfUDNiei1Oc2NHbWExQlh5ZWZpSTR1YVk0QUlfYTk1Ykg2d2JtZVlHQnk0ZTV5TDR6ZDItQUZvZUhzNEpUMFVrdDc0Z0VfdVd6V2VIUnpUM09OaUttd2FhbkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.timescolonist.com",
-      "title": "Times Colonist"
-    }
-  },
-  {
     "title": "10 Everyday Habits Neurologists Want You to Stop—and What to Do Instead - Yahoo Lifestyle Canada",
-    "description": "10 Everyday Habits Neurologists Want You to Stop—and What to Do Instead  Yahoo Lifestyle CanadaSee more headlines & perspectives on Google News",
+    "description": "10 Everyday Habits Neurologists Want You to Stop—and What to Do Instead  Yahoo Lifestyle CanadaNeurologists Say This Is 1 Of The Best Ways To Protect Your Brain As You Age  HuffPost",
     "published date": "Tue, 03 Nov 2026 13:28:09 GMT",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYWZNRS1CMHdkamZIUGFmT0ZJeTNVYTBSYnJIanFsc2c3a1ktVTJnUzdic0xvME1Wd2dfemhRWVBSa3k3NGJ5Z2h2T1BBM3d6djh6c0JXaDJjQXg3QVZwVkdLQ1kwSXlMZXlqV2hLbE9NQnRNZ2pQbE01WnFoVXFFMmZYcGQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://ca.style.yahoo.com",
       "title": "Yahoo Lifestyle Canada"
-    }
-  },
-  {
-    "title": "ADHD Meds May Help With Perimenopausal Brain Fog, Scientists Say - Prevention",
-    "description": "ADHD Meds May Help With Perimenopausal Brain Fog, Scientists Say  PreventionReview finds no evidence that testosterone improves brain fog during menopause  Medical XpressBrain fog after menopause leaves women feeling low in confidence and like a fragment of their former selves - it's not spoken about enough  Woman & Home",
-    "published date": "Tue, 03 Nov 2026 13:24:53 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMjhDYzYxRUJkRVItS0RDNFNDblFyOUhhOHBGZDBDTXdfc2N4TVNtbVVXOFRDOGx0d2VDSXFIOFpkWURpeUpUUGpmbmxUSW90NXVLRHBQeTF6cGFGX1Q2bXdnWGgxMWV3bTg0a0ZZbWV0dEJQUHdtWURDTElrZ3hsTEVPWjJJcHIxMEZwYkpzX25ZSHF6Qk40MTdMQzVqSkw5Yll3dHc0cFJhcGtY?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.prevention.com",
-      "title": "Prevention"
     }
   }
 ]
