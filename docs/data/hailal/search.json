@@ -50,16 +50,6 @@
     }
   },
   {
-    "title": "ملخص مباراة الهلال ضد الحزم في الدوري السعودي (فيديو) - annahar.com",
-    "description": "ملخص مباراة الهلال ضد الحزم في الدوري السعودي (فيديو)  annahar.com",
-    "published date": "Mon, 19 Oct 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxQQjN3Q3JyRDZ0QjJ1SEdxRXlMRERnZGRBT3ozYmhDU1A1Tm5TZTFELTNoMWRQRFl0UEl6TDNhVHFWT1pBWXpmU01EdGJVNWU2OTlGVU5JUUJtb3o3TE01Tmg3SS15YU9jT1FnbTg2amc5YUx5eHhyVF9lbi1KOVJQdWxBUUFqZGg1TjBaOUwtR1JBMDVCX2tSOFBiNG1kZ2tIWXZhNlF5amRzMUs4ZlVONUFCSGdVWEQwdDB1eGRPTGhXMEp6TUl1Vm9vRVQ3Tnpna2tNa3R0dFpCdU14bUdrU2tKczBBYTdyODV3V2pPTFl3NGNYZ25MZ243NVlpXzExNzdNN2NRUkp5Uk9HOG9XODdSOXVzbllLU0tsMUs3bkVtXzhSa0dfMW5iUFg0ZzF4NFh1N1JQM284bkdKdk41T1RQWmZzSUpXUXNYNE1NWTN0UG5RYVJTZHpPV1NaSXhmWHBZNUZLcVBFNHNKMkJVOHlfWjdzNjZHck5PbFBWU2Zqcmo1akdnY2V5WXF5XzJqeHhUQmNjNjF4NjhFb1dKVTlab0J2REQ3NHc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.annahar.com",
-      "title": "annahar.com"
-    }
-  },
-  {
     "title": "تشكيل الهلال ضد الاتحاد في الجولة 8 من الدوري السعودي للمحترفين - 365Scores",
     "description": "تشكيل الهلال ضد الاتحاد في الجولة 8 من الدوري السعودي للمحترفين  365Scores",
     "published date": "Fri, 09 Oct 2026 07:00:00 GMT",
@@ -87,6 +77,16 @@
     "publisher": {
       "href": "https://sabq.org",
       "title": "صحيفة سبق الإلكترونية"
+    }
+  },
+  {
+    "title": "بعد صدمة نيوم.. 4 قرارات عاجلة لإنقاذ الهلال السعودي - إرم نيوز",
+    "description": "بعد صدمة نيوم.. 4 قرارات عاجلة لإنقاذ الهلال السعودي  إرم نيوز",
+    "published date": "Tue, 08 Sep 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5NVHVyRy1oc0RUd25CNkdyd041TWdvendqRU5UaWpzOEx6U3dnNGh0UzNVNkluc0ZVNmVuWUp4T0lBcHBJQW1oMWpTN0pJbDAy?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.eremnews.com",
+      "title": "إرم نيوز"
     }
   },
   {
@@ -160,16 +160,6 @@
     }
   },
   {
-    "title": "جدول مباريات دوري أبطال آسيا للنخبة 2026-2027.. الترتيب والقنوات الناقلة - Kooora",
-    "description": "جدول مباريات دوري أبطال آسيا للنخبة 2026-2027.. الترتيب والقنوات الناقلة  Kooora",
-    "published date": "Wed, 04 Nov 2026 14:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMizwZBVV95cUxPSWszRHY1UnMwWHBPNUQ1MkZPNTlYMlFSQkk4T3UzQzNKVmpQUWZQT3JPUUQ2RnF6dGVOeE4tZDVzSm4tYzBvOW9meDRBSFU4ZlZlR09IZVJKLWdrQnhOdUNuejduY1g3VHJnTERob0NNVExzY2NVaEtsTHA5VTdsLXFOT0xETmg4czg4SmtWNnhDSGU0OHBSNHZua2U4VEM5VDlQd3lvVThLSDZSbzNHd290QWZnZ19UUTRBdllVRlBuT0JQYnYzUE9NMTROUzR6bTFsSEZJV2RjQ3ZjVFRaWXRRRWs2VTRJQ2tEVDhKRHJWV1BhRFYxZWRyZ2FIT0lOdVNEbEJMR3RwQXN1aTN6NjhSS2IwQVkyTHB5TWlaamxhdDlITGFkYnZELTJtRDkxYmhKOWZXUzJkdS14UFdWZmhRNDZHSzdDTXN3TVBiQ05EWXJNc2E4M0FsU2FhNEVYWVZ2ampWRkVxemZnR0k2WjZET3h2V0dJd3YzSFBvV0I0UEJobm1NdHZqZGV2b0FWWVdxUmtRUHBoNGpIbEx6U0ZoQVlGLUZOSEFzS0dFMWxRZlhiWXhYUkpOa1NoVjg1VGVYQUprVmM1aEVQdVNWN2FfczRKRzlnb3NRUmZ3VmZfNWpJOW4zRmQ3VnBYWXN1ZVVpT2twOTBLVkpKa3VFbk5JR1kxaUFPQmdWZWNpWjFwOUlsendaSjBCWnU1ek1sQlE0QVJsZ1M0bHA0OFBUeEpOMTllekxyREZfUjJRZG0xcXBTVklIanpiTDBaOTl5U0o5eEFiLXROSXhYTXJSazJYc3ZOMUNYbGp0NjhIbDBvVWI5UDlfYldqck1kWUF1dm5jOVk3VC1NSHRlNVkxWmpWS1V5b1g5UVFyZDR0SXpiWEJFOXVNcnU3M3NYWlpuMWJqS0dtNEJYdTFJRmtrbmVMZTdramFVYVdhSHBMcTB6UUxWSlVORDRCM19aUmFhanhEN0NPT1NQdk96OTd6VTVUZ0szd1NWUXNTVHp0bFpMakh2OU9RYVhwOE9Ea3FuZ1VUOERVRjUzX2pjbXpiSUNDaXRLOHpqWXV4bUl0YnZuYTZwMUNHWUh5eGtwWUVyYXJMVGxpMnhGMWIzTjVN?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.kooora.com",
-      "title": "Kooora"
-    }
-  },
-  {
     "title": "جدول مباريات الهلال في دوري أبطال آسيا للنخبة 2026-2027.. والقنوات الناقلة - Kooora",
     "description": "جدول مباريات الهلال في دوري أبطال آسيا للنخبة 2026-2027.. والقنوات الناقلة  Kooora",
     "published date": "Thu, 03 Sep 2026 10:20:08 GMT",
@@ -177,6 +167,16 @@
     "publisher": {
       "href": "https://www.kooora.com",
       "title": "Kooora"
+    }
+  },
+  {
+    "title": "الهلال السعودى فى ضيافة السد القطرى بدوري أبطال آسيا للنخبة - اليوم السابع",
+    "description": "الهلال السعودى فى ضيافة السد القطرى بدوري أبطال آسيا للنخبة  اليوم السابع",
+    "published date": "Tue, 13 Oct 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxPVk5aMnNmb3BIdUl1N1NHOVZCLVJnMERXZkVYQzJ4R2YxTXZxWmpNTUxFMlo1Rm1LaTJ5SGVUU3dVRjY2OTkxQ1JmLVdLczE1RTFlSVo0NVFmNk5mTElhUG5laTMwNXRzYW1taWZOZmZCODlvS1E1WThJWVV3ZGY2ZG53RTZJWGUyT2VRMklKbDBQcWhQTnRqeHlhX1FKLXVlNVZYRHc5OWZiTk9LaXlfeEdBN1dkbmNWci1sUjV0VF9DRVRJLXgyM0JSWGY3YjdFSmhDRFoyZ0hDa3pZZ3Q1LWlscFkzNUthWHJ3ZURpUVBEcnlzcjZGaHhqM2EtOTZHa0NEYnZyUmFmWmVMUUhXay1HUWgwaGpPUkZnMi16OFZVNTRNbWxNZVFoY0ZXekxEeGFhMnBmY3VlRlIzQ0EtUVhmemxCRkx4d2QwMkNfMXQzYnFpXzRITUhZZkZGbWdFRS1RRU10U1NCNDE2WTdfUUdGOEh0a0t6NDNEeWR4STVjODR2UEZybXgxYU5xbW1VZzY4Z3dFSHNLWlJGUGFLclp2Vm9tQS1HcHpzcEhkd0ZkTFgzWEV1Z2E5S0JYNXBzcGs1azFfS0R1dU5UN1ZHRVRUQkNaR1NLT0xUZENaUGNHZ0VYOW5sSE90OE5PeGRueTQ1WmlsY9IB8gNBVV95cUxPVnk1Uk11YXFEUEFkdkR2QnFqaUpEVjBPQnpMYUszaVcwODNwVGpPVndOZVpRTkJUd2dNaDNEWGliME9yOERLbnUtN3M3bWxTOVdocnZyM0RpdWxoZkxQa0c0MDhfa0xram5jLWNmREJDamJvdlo2MkhVNzZhN3ptOS1IQVFobkdwSERiZEFRVFpfaGhaXzQ4ZlRocWl0R1ppMEJHNWE2bzJJU2p0RkU4UDAxN0RWTUJtcVNMaXB0TWhZYWJvVnF4cWYzUkh6a3B2T0FRbDVwSGhYV1VHczZTOTBMV19xb2JGalhiQlNGcWJaYnpKdDN2LTV6Q1ByS0dmX1d0LVRaMW85T3RKZzNTQWtPRWg4WHEtcHZVLU41YmZaWVBlUWpURXVnQVlmSmFNTndyeW0xX1FSREZyU2ppTFRkN0NDLTZxX3lTZzNTbGdBYV9McnBINHE5akkyenQ2Wk5OSVNsS29tTElSSU5veGJpVmpuT1lzVDNBNzlFYW1saDBycDJXekhsOHM5dk5TbnAyaGV4emR2aS0yLXR1c3R5Vk1LVW9JSHJneXZjRE81SFRMNDYxdGw0emVjdUJmNEwwTzFhRTZpYjl0SzFmbzlEeEdHQnBXdUlUYmdHNHRzcEp1SlIxWldQekR5dnpjSFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.youm7.com",
+      "title": "اليوم السابع"
     }
   },
   {
@@ -197,16 +197,6 @@
     "publisher": {
       "href": "https://www.youm7.com",
       "title": "اليوم السابع"
-    }
-  },
-  {
-    "title": "بعد صدمة نيوم.. 4 قرارات عاجلة لإنقاذ الهلال السعودي - إرم نيوز",
-    "description": "بعد صدمة نيوم.. 4 قرارات عاجلة لإنقاذ الهلال السعودي  إرم نيوز",
-    "published date": "Tue, 08 Sep 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5NVHVyRy1oc0RUd25CNkdyd041TWdvendqRU5UaWpzOEx6U3dnNGh0UzNVNkluc0ZVNmVuWUp4T0lBcHBJQW1oMWpTN0pJbDAy?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.eremnews.com",
-      "title": "إرم نيوز"
     }
   },
   {
@@ -240,16 +230,6 @@
     }
   },
   {
-    "title": "جدول مباريات الهلال في دوري روشن السعودي 2025-2026 والقنوات الناقلة - Goal.com",
-    "description": "جدول مباريات الهلال في دوري روشن السعودي 2025-2026 والقنوات الناقلة  Goal.com",
-    "published date": "Fri, 22 May 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitARBVV95cUxQZGZNM1VoQ3NJUVE1b3QzdGRHeVZIMlZCeHVtNHVHbEhLbFBfbndJOHhBVkQ0bWZUWVBJdUhHU21CdHc4UUppdVhwWEZZM2Z6cmVNSUVPWTY3UEZGNkFSOE8xaVUzWFlabUZLeFU3aDhfXzBOTFN6WkNSLU55dENvdFdmUUtwemNmS1BKa0lHM3RQQm5weVlKR1JKU0pzWGxoVTlYcmpNRDlYOS1rSDMzNnBKMmpBMnE2cHJXcG9hWmFzQnhrdlhZb1hSR2p0M09KTkVlTFUwYl9LbGZWVEsxVWN0SEJfSmtuZEtVb0VOS1d5Y094bC1wV3lEbklzZHpTelUtX1ZnUG9Lck5TSy1KVlY2dE5wUmJSUVdiekJqaTBaZWZkSlFvc1FXS1B5Mk5ZbDVrOVJaLUJGRnNidm1xcWViM29fYkkyVWhReFZGWVdXV2VJZ0oyRVo5WmROOG9Fa0VhN3VNQXFKY2VjWW5md2FtT1NIRUI5cm8zdFcySTczSTNuTzVZVlR5NDk0dFdhMURoM3UyaHYtNXlmWFZ3NERDUXVsYVZ3YnZDUlNZWV9pMWVkRkp1TTNkVURnZ2J5dkhyVzZYWG1BY25rbzJaM1lYVFEzV0M4MGFtUElqMzZSd3BvRHNvc0xkOVZNY1Y5bTd4NUd0a2NtR1hrRi15VEFFVEhmdTh4RWhqNjNGTE9CTGg3emxTNXd5Y3l6Q1FZUkxaYW5uSkE0MEFkM2ZrUk1lZ0I?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.goal.com",
-      "title": "Goal.com"
-    }
-  },
-  {
     "title": "الهلال السعودى يشكو جماهير التعاون بسبب الواقعة المشينة ضد نيفيز.. فيديو - اليوم السابع",
     "description": "الهلال السعودى يشكو جماهير التعاون بسبب الواقعة المشينة ضد نيفيز.. فيديو  اليوم السابع",
     "published date": "Sun, 13 Sep 2026 07:00:00 GMT",
@@ -257,6 +237,16 @@
     "publisher": {
       "href": "https://www.youm7.com",
       "title": "اليوم السابع"
+    }
+  },
+  {
+    "title": "جدول مباريات الهلال في دوري روشن السعودي 2025-2026 والقنوات الناقلة - Goal.com",
+    "description": "جدول مباريات الهلال في دوري روشن السعودي 2025-2026 والقنوات الناقلة  Goal.com",
+    "published date": "Fri, 22 May 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitARBVV95cUxQZGZNM1VoQ3NJUVE1b3QzdGRHeVZIMlZCeHVtNHVHbEhLbFBfbndJOHhBVkQ0bWZUWVBJdUhHU21CdHc4UUppdVhwWEZZM2Z6cmVNSUVPWTY3UEZGNkFSOE8xaVUzWFlabUZLeFU3aDhfXzBOTFN6WkNSLU55dENvdFdmUUtwemNmS1BKa0lHM3RQQm5weVlKR1JKU0pzWGxoVTlYcmpNRDlYOS1rSDMzNnBKMmpBMnE2cHJXcG9hWmFzQnhrdlhZb1hSR2p0M09KTkVlTFUwYl9LbGZWVEsxVWN0SEJfSmtuZEtVb0VOS1d5Y094bC1wV3lEbklzZHpTelUtX1ZnUG9Lck5TSy1KVlY2dE5wUmJSUVdiekJqaTBaZWZkSlFvc1FXS1B5Mk5ZbDVrOVJaLUJGRnNidm1xcWViM29fYkkyVWhReFZGWVdXV2VJZ0oyRVo5WmROOG9Fa0VhN3VNQXFKY2VjWW5md2FtT1NIRUI5cm8zdFcySTczSTNuTzVZVlR5NDk0dFdhMURoM3UyaHYtNXlmWFZ3NERDUXVsYVZ3YnZDUlNZWV9pMWVkRkp1TTNkVURnZ2J5dkhyVzZYWG1BY25rbzJaM1lYVFEzV0M4MGFtUElqMzZSd3BvRHNvc0xkOVZNY1Y5bTd4NUd0a2NtR1hrRi15VEFFVEhmdTh4RWhqNjNGTE9CTGg3emxTNXd5Y3l6Q1FZUkxaYW5uSkE0MEFkM2ZrUk1lZ0I?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.goal.com",
+      "title": "Goal.com"
     }
   },
   {
@@ -294,16 +284,6 @@
     "description": "الهلال السعودي يضم رسميا الهولندي سامرفيل من وست هام حتى 2030  اليوم السابع",
     "published date": "Fri, 24 Jul 2026 07:00:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxORmd5bjgzcDNmUnN0ek1SWmxTaUVHekZmeHBpb2RBeFF0U1VUWUNucUEtZzFabTJjcDVrZ2RTQmoxYVdTTURtTTNENTZ1d0V6VzVncnppLUZOaUxoTGpWemtXWE9MX0J0bmk3Q3dDREJuM2dXNk9lRjJjMTNxOWVOU3VSUEhWWndrbVdNZUpUNmp0ZXVZaGlFcDRGS3RTOFRZek8tZFh0b0JkVTRDd3BnSmJOUjdOdkFNUi1Bc3ZLcXNxdTF5T1diTnU1WGxNM2hrTWJ1RzNWenVGRFRrdE1qOE0zc1FCejhpSDUyZEtjS2lhWl93cTJQQmxkQW1wcEhTTEFQSUlGUWI4OGhvZk5XaE8yeUFRT0k5eUk2VG9PNUp0OUxUVDVjYk03aUtwQjhKSEc5WGxfSXFzR0ZwMS1Mc0g0UUtsb1YzLVk0V2VuNDBOdFY3QmxDRnVBdkk2WUFHb01SdkQtblNWckt4NldadVlUeXFMNWtWaEZmNUoyNUhNbnV2Um9PTFNMSmVPNnpfLU1ZM0lNc3B5ZWVLRmxxTXlrTERhWDk3UXpCM3M0MnJmVDBCVmVLMXNmcVhETzcyR2hHNVBIV2pXbEUyWWxaV0ZpUldhWlBwUW9aVWl30gHYA0FVX3lxTFAtRFNSOFFleDk4b2hGZExVRVVkT1E0ZWh5bFdmSFg1SFpDeGM2em1XUGFraGNNOHVVdUVGTWpZaDFoLWY5eUVYblhja1FBM1U0MlJibUtiX3lsa0JpVzNQRjhzWjdDaTVla05VNjZzcTVPcF81b1NEdUhmUWlRakRFSlJDbVhLSXJwa0ZQM3VwRm1hUmtVSy1kT3BJbERSbjZjTFhBVll6LXRXQ1kwODRTXzM2WU5iNlJSaE1menFqZGs3ZThka2RhQ0F6b2ZoaVpLS2VOWlFQNXBSU0pVU1JYVVNOV0RrV3RlWjRlbmRSSGVkNllwZDdtNTY1bW9LV2xiRGhqMFhHMUZiYkU3VzJ1a0ZYMnkxZkp6WDNaMUFKbG53T3U1QmZZUVk3X0JqRUN6TVk0NVhidklwazNFNVE1RFpZSFFRUWtSdFVISjBxZWlMOWJRQVM3UXdCUHo3T01KdE9PQldjd3dLYTNSaEVGQjN0WmpBSkpMVU5mWUEzZzJtMnA0MEIxSGctd3ZncW5vejNCMWxxeTMySXRfbTFMUU9NTURTbHVSZzBiUk9lbTFKdWd2SU53VVhtRGlRWDNoWks4bXRSS2s4UEZXRkhWbXJXZm9SS1I?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.youm7.com",
-      "title": "اليوم السابع"
-    }
-  },
-  {
-    "title": "الهلال السعودى فى ضيافة السد القطرى بدورى أبطال أسيا للنخبة - اليوم السابع",
-    "description": "الهلال السعودى فى ضيافة السد القطرى بدورى أبطال أسيا للنخبة  اليوم السابع",
-    "published date": "Tue, 13 Oct 2026 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxPT1BpLVV3d3U0cGdTblJCNW9pZHdhcGpVTGJIRmZFUUpJdTdsckp6eGp4QUIwemM1akd2aS10cXk3OVVIeV9LVFY3NHpEN0xwNWt5UVlwRVA2c201TGxjVTBrZnVpdkZ0SklXNFpueHhYbXMzWDFKaFNKTEdnYjdiZjRlbVN1dXplSGhHYnpfd2I4V3BCNllGR3JXbWZYQ3R4WXZSMkszMzdFUnBCb1ZWLUFzQzlyeEJ1cGxmeGV6cjJ5RVlPd0xjNkVKN2w5T2NpeFRpRUF3eE4zbXRYUzBPNWM1a0hDdHEwMVZ1dV9rQjFNQU9HcWRFVkhoSnE1MnkzdndCV1RJWDhwWDhoZGpEdkY2WlBjWmM5VEU2ZGhYRWJGMGZwcmt6Ym1GSFZJZGRodVUxQURqbjVDNlR0eUsyWllVakNvOVVoLVItRDNxR25leXFpYUJoWEs3ZnFPOWFLcWFxa0ZqTjMyQnRYR05VdElxUVllZk1MV3pBOU5LazdzLU43Z1dZOS1zVlJlNFVLQmpzdTZFVTJRUHBYM0NDNjYwc0JYUDBHNGtPTno1b3BxZFZPRXZyNE45Q1FCY1U3LTF5Q0EtdGZrUXZrT2xMd2Y4VFV4WDQ0SW5maXlKQUdJNEQxMmwtSnIxVEpwUVFRelZrNHZGNNIB8gNBVV95cUxPQmpsbXFEdzU5VE5kRTFsUk9HdGFhOGMwZWN3NS1EQ1RYeFB5c2s3WlFJdHZkMHd1TnY3UThYTmlFT3Q3MkJjYW4tVEVCQnlVNURzVkh4VGV6YzVCMkxzUmhhWTZQVXVLdXRUMmRlbEtzSGFQU0VMOUJ0OXRpUFpWb1VRSHhEOW8zUVlkNjFpcWZtazIyY3RSWlRnckQzS1RvZ3lTdlhxU3ZZQl9MWnlGbDNGN01ROThyLUlrTjRvNmptNzZBaFM1dHk2MG9KdVcwMmJBZzN1T2ZQOEsyS1ozcEFEajVaejlGR28yZ0c0VmU2ZW5pV3pNWTktMWw3cF9iVUU5WmpYcW5vVFlKNHNTMnZQdFBRVWxzZDRid2NhYWVFRTlVcV9DMkdFamZwZ1pMMkU4UU1HUXotTjNEV0VMOE9MaVIzMlJnUjM5dVRjWFd3VldwVnprbGlWMDBTME4zdVI0czdSZjhpS3RuTG5TUjE1UHhQWHNJb09ZaTVZaVA3MzBCYko2bFhWSDZnQkNQdGdlV0VMOS1wR0g0N1NsWkNSQWlDVmdlSTBOUDExQ2g2RS1BWEdJc204NGVwUW5NR01qb0cycDUwZ0kxUjdTNktFbFhfS0R5NzdSeWE4UC1zSjRKd1RtWUVuZGJuUW1LVXc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.youm7.com",
       "title": "اليوم السابع"
@@ -380,6 +360,16 @@
     }
   },
   {
+    "title": "كريم بنزيما ينتقل من اتحاد جدة إلى الهلال - BBC",
+    "description": "كريم بنزيما ينتقل من اتحاد جدة إلى الهلال  BBC",
+    "published date": "Mon, 02 Feb 2026 08:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKalFGUjdocGprMEM0RHpQc09WMFoxUFEwOGtFbUxWNVpzNkw0Y3hvdnBqcGJYX2ZzeGdudDZsd0VrX004QzA1LTJ2QVF4QnpTVVVsb04tVUM2SlNS0gFiQVVfeXFMT1laMzh6Q3Rzd1NKWUdiaTFPVTQ3eVBkZHY0d092MkcxdTRwZmJRUndCTDBTMld6RTluM2xWNXBjckdxbklNNUkzRmVvVGF5ZmlYeXJHNVFaSXB2Y2ZmREkzZmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bbc.com",
+      "title": "BBC"
+    }
+  },
+  {
     "title": "أعضاء مجلس الإدارة - الموقع الرسمي لنادي الهلال السعودي",
     "description": "أعضاء مجلس الإدارة  الموقع الرسمي لنادي الهلال السعودي",
     "published date": "Wed, 18 Jun 2025 12:22:19 GMT",
@@ -400,16 +390,6 @@
     }
   },
   {
-    "title": "الهلال السعودي يقصي مانشستر سيتي ويبلغ ربع نهائي كأس العالم للأندية - BBC",
-    "description": "الهلال السعودي يقصي مانشستر سيتي ويبلغ ربع نهائي كأس العالم للأندية  BBC",
-    "published date": "Tue, 01 Jul 2025 07:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kWmw0MXBTWVFianZWSnNOMnVPRE93M0U0UDNKbW1SdG8wSVlXd3dxdzN2RlZELWN2VnptajBNc1hueGp5cDVJWUFuNkR2UjBtRkJTQzQxR1BmUkxI0gFiQVVfeXFMTnlkTU9HQ1NZdkZpWTZqRjlNQUdYZnY5bnhWdEs1OHVLcE9aZ2ZpN2h0TF9mVi1TVm1BOFZCR0xRMDJHU282MHJNNGRGLTB1ZGZMUkFlelBJVGNGVjB5d0lKZmc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.bbc.com",
-      "title": "BBC"
-    }
-  },
-  {
     "title": "الهلال النتائج والإحصائيات وأبرز اللقطات. - Kooora",
     "description": "الهلال النتائج والإحصائيات وأبرز اللقطات.  Kooora",
     "published date": "Tue, 20 May 2025 09:23:49 GMT",
@@ -417,6 +397,16 @@
     "publisher": {
       "href": "https://www.kooora.com",
       "title": "Kooora"
+    }
+  },
+  {
+    "title": "الهلال السعودي يقصي مانشستر سيتي ويبلغ ربع نهائي كأس العالم للأندية - BBC",
+    "description": "الهلال السعودي يقصي مانشستر سيتي ويبلغ ربع نهائي كأس العالم للأندية  BBC",
+    "published date": "Tue, 01 Jul 2025 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kWmw0MXBTWVFianZWSnNOMnVPRE93M0U0UDNKbW1SdG8wSVlXd3dxdzN2RlZELWN2VnptajBNc1hueGp5cDVJWUFuNkR2UjBtRkJTQzQxR1BmUkxI0gFiQVVfeXFMTnlkTU9HQ1NZdkZpWTZqRjlNQUdYZnY5bnhWdEs1OHVLcE9aZ2ZpN2h0TF9mVi1TVm1BOFZCR0xRMDJHU282MHJNNGRGLTB1ZGZMUkFlelBJVGNGVjB5d0lKZmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bbc.com",
+      "title": "BBC"
     }
   },
   {
@@ -480,6 +470,16 @@
     }
   },
   {
+    "title": "العين الإماراتي يتفوق على الهلال السعودي 7-6 فى تاريخ مواجهات أبطال آسيا - اليوم السابع",
+    "description": "العين الإماراتي يتفوق على الهلال السعودي 7-6 فى تاريخ مواجهات أبطال آسيا  اليوم السابع",
+    "published date": "Tue, 23 Apr 2024 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxONWNSV0VVUFhGX3dCV3NwMFpOVUNMd3ZYN0k5clNyUlZVQjg5MzZtUVJxOVlyTVVBeWpfR3ZwWGpaR2pyckJfYVlKYXRqanF2LTZMYVNuN204bGt3TFl1cVdtekdhdTcxV0tRdmppNGRMMzA5UnFtNkdPTTVvZUZXQUVPMm9ObFNjMjJvdlU4NC1hODlrNlA2endZYmVQbkJqQ09ub0lRak95OFJiMHhMVy0yTnZ4SkZhQ2d5dUFTNGZNSDdsV00wT0s4RWpOS2VnSEtjU1UtUTZBZnc0Y1MycGpTaFVNYUJBbmE5S0NvejRxa3M2dzY5TDRPSGxndnYyejl1VmdqdldNN3BLWWNCa0RDN2U1SmNvWkxjZ0I0cWhVdUVfYkRvbnhwX2g0WTNPTnRMbDRYVFdiWUhzQ1BPV2N4bDBfNjNXODU3SFVoZGwxU0JqUXlTRmx6YmoyMkVrb2ZrU2hscHQyblY2dVlqT3pLUjE3YnpjdkdwemFfN3d4bEFUUlUxbEpWVjc5VXVjNVpnX3FqdU42N0R3Um9tT1hZNE52bUxucUU5Z2pwUHBlVHZVamxFNdIBswNBVV95cUxQQ0o2TXN3OVM5TWZqNFY2MFZhWXFiRWMyLXRHc3pGMGdPcDY2NjlCZE1iN2FDSXZtdmJhdlI5dTlSQUdCZUhfUFhyaDJBb3BQN1NBbmlRZHlDRUgxWHI4eW5meEIydHd2RnFmb2RfX3JLS3J0WXRsUC1pVU9jbE5mb3pNNFFjWEw4bjF6UWhnN0hiV09qS2ZtTW8zQWdmUHFXQnYzclZ4NHRqZzJEeHlYTlVWTWFjY2duSXlpbzFtemZZUVFGZkVNR1N5dXYtZ1lOZDZiclRuREg0MU9KclA3VTNPNXFveTktaWdKOGY2enV3cUNmdTh0YXVDM2FlbXpTQzdMNjJTeGcyblhVS2RjbGt1NnMwTVpMMzlONnktZ1RjaFF2VzZ1V0tCWFJ2dmM4UjFrVDBaTmUyQjNTRnRSZlVjVHFvTzloTGZyU0N5NXNWbUdJYm1lZ0NZWUN2bTU1VmlfVGVnMHlCN1VVbHBjN3RycUhZaTkxaUYycUI2MWl4SnV3bUZfLWVUZlBvUG1DWmJxb3pjNWtsd0t0bkJqYjJUMUNMVVZEMG1vR25ObkdjRWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.youm7.com",
+      "title": "اليوم السابع"
+    }
+  },
+  {
     "title": "الهلال السعودي يتعاقد مع الحارس المغربي ياسين بونو - الجزيرة نت",
     "description": "الهلال السعودي يتعاقد مع الحارس المغربي ياسين بونو  الجزيرة نت",
     "published date": "Fri, 18 Aug 2023 07:00:00 GMT",
@@ -500,6 +500,16 @@
     }
   },
   {
+    "title": "جدول ترتيب الدوري السعودي 2026/2027 - 365Scores",
+    "description": "جدول ترتيب الدوري السعودي 2026/2027  365Scores",
+    "published date": "Sun, 11 Feb 2024 14:28:17 GMT",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fSnF4NDQwMlJ4bGJsUFRxanFTVFEzWG1uQUtxeXd2a21WRGxTTS15bzgtbU55LWpRUDhUVUJhSVNhMTRFWnF6WFNNaFZYWkNlZE0zR3JXa3JtNHZtLXlHUWRCYUpHVXM3QzR3MFBobHl2SDZ2aUpYZGxSSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.365scores.com",
+      "title": "365Scores"
+    }
+  },
+  {
     "title": "الهلال السعودي يرد رسميا على استبعاده من أبطال آسيا - سكاي نيوز عربية",
     "description": "الهلال السعودي يرد رسميا على استبعاده من أبطال آسيا  سكاي نيوز عربية",
     "published date": "Thu, 24 Sep 2020 07:00:00 GMT",
@@ -507,16 +517,6 @@
     "publisher": {
       "href": "https://www.skynewsarabia.com",
       "title": "سكاي نيوز عربية"
-    }
-  },
-  {
-    "title": "النصر النتائج والإحصائيات وأبرز اللقطات. - Kooora",
-    "description": "النصر النتائج والإحصائيات وأبرز اللقطات.  Kooora",
-    "published date": "Tue, 20 May 2025 09:23:49 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMkZEb09SdXVhaDNzV2xzV3NzVkJpY0dGdmwxQ2RtU2lVajVDMm81THo4U21ONTdmS2VoQ3g0YkNpX01vQ2c1YndJbEVoak80UlJJWkQ0THJCcmhHY1A4QmFtVE1YQU5OclpuOWF4V1NDWXFNUktaUWR0bVd1Q25oblVJeGRiVTJEUU8xRkF6SUVrTjlIdER1SnlXYlR3ZnEzakRNV2FhYk5ydEpuNDFmUEg0V0phLVVHZGZiS25zZU5fMXpfbDhHTGVfREZMQ1JfRGxjZ2todDNQdTdPVFpWbnRJaUttRFg0?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.kooora.com",
-      "title": "Kooora"
     }
   },
   {
@@ -537,16 +537,6 @@
     "publisher": {
       "href": "https://www.kooora.com",
       "title": "Kooora"
-    }
-  },
-  {
-    "title": "الهلال السعودى ينتظر حيثيات رفض احتجاج النقاز لدراسة الاستئناف - اليوم السابع",
-    "description": "الهلال السعودى ينتظر حيثيات رفض احتجاج النقاز لدراسة الاستئناف  اليوم السابع",
-    "published date": "Thu, 18 Nov 2021 08:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxNb2xtbks5THZoU2huQm5mRHh4MW5pMnUxVURLenZQc0VQTEp5U1J6a0hrMnBweDNIb1gtN0p2Sk5neDljUU1SMktMYWs4MlFzRDlPcUI1ZVhyR0JJU2l1WTNiSW9lVjJvd1lQaGpDY3ZhUktaeEc5QjVWN2xxZE5ldWplMkVCRlVXVEZXbUdwZnJNa3g4ZVJNNjQ2bTZjMU1KYXV3TUZkejk2andYeGd5RXpEVVVmYWtKOEdpZ3FhQVBPRzBKak13SEl2bXR3QVdiSXhMOFZFQnJuenh1OUZRb3RpTGJEM3RrOGdKMzBlOVVjSHpYdzV6RVhQODNTelFBVmdXbkVWakJiWmZGRzNOZTlMSi04anpfa2lLT2lFLUlnVWNqR1BlTnVnSS1QMW53RzRUcTJkRjFRWmhtbnFkcjM3ZkxDVEk1WnVyaFhSeW1iNzA1UTZsNnUwY3ozQ2VoN3YxMUJjUjBRTEQxUS1oQ3p5c09FWnRZanhQSC1NZE9vR2ZkSWt1ai1zTnNDTzhTX1lKUk5jNFBkd2MwOGh2NExkQ2c3RG9oMnVpSUJQUnZtUFFhLVF2Q3R6Qy1oR3Y1VVZKeG9TaWtUeU54SnpLSGRjYjJUcmhweGtXanh1YWtHUWRqLU8wMlhWdXZZU3lCOWU1alVCbmVINWgtUHROYThkNmVaX3l6X3E0OG9faTZuNkZDMlHSAZAEQVVfeXFMTjFMUDM3eTZ0X3FBM2hpaVQtaWh1OFdhRWlMeE8yMDFFeGRsNmhYZU5IQWUyV2UtanpxTzRTWGxKRVFQSWU3NU94VU1mYVUzeEc1bGVNcmcxdmdaYTZ2ZEcyUURTOGFMNDVOazhHZ3VNa1VTam5Jc05sUmtQMF83ZUJqX01sbDZ2ZEQzUHdTV2RmelpMWHhaQkhYeUk5RjJwWHRpSlFvb1hmUlRXLUZaMVJ5WXd1N0dDVzlzbTQzTXZIbm85RC1ma015NDBpSnBDZ3pTQzFYaG9Ea3JVbHZLamFYeVN5LVZibDNTZk1TeVlHTVgwTDU0bzNmVzhUMGhONmI0aFlsTWc2N0VVRkN3QWRZWDFtOVZLOTBsM05ocUh6VGVZamN4N3gzWGtfWVQ4VzFCTmJHa0JpaVBjVFlKR3NlOEhRWkhOZy1VclZjcjRGc21pY0hpckRSWUpsT2ZEVzBoS004QUd3WEF2Q3J1VjUyRVZMZ19XSnRrR3pVRTd5LVhGQlFjazkyRHpTR1RNTjVmUmFpenZIVDd3Mm5CaVMxQmFRN3ZrSm1qVXBERl9hUlJvcnpiTkprblB4MXk2UmJGTXhQR3ZMUnlqc3RZMGM0bTl4aGRKMjZ0YWtiVE0tQ3hvcS14TU9UOVJXZ1U4bVhZNWs1QmkxMjA3T1NnR213OG1UME1wRkZ4SThMeFIx?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.youm7.com",
-      "title": "اليوم السابع"
     }
   },
   {
@@ -580,13 +570,23 @@
     }
   },
   {
-    "title": "النصر نظرة عامة - Goal.com",
-    "description": "النصر نظرة عامة  Goal.com",
-    "published date": "Tue, 16 Oct 2018 22:49:51 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbEQwaXlzQVNLNlNmRmJrT0Y5UEkxRkhTbnpLUGVZVjI1RGFfYkFjOFZuMmUtdC1BRmxDRTRpeTg1TW0yLUdDR0Z6bldaR2xQYkR1b2R3Zm9hU0htSUFGdy1rUnRza3RGT0pHM2xwY3BVOUZfVFAwczd2alpIZGE1YXZ2cnFLMXZHaGlldnFEcFJJc0FibDAtTkhTd3BHNjVCRGZwV2xVenE1dWhCV2o2eWJnVlJHOVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "نشرة أخبار الهلال | ميتروفيتش يكشف أسرار الثلاثية ويختار أبرز نجوم الزعيم - سعودى سبورت",
+    "description": "نشرة أخبار الهلال | ميتروفيتش يكشف أسرار الثلاثية ويختار أبرز نجوم الزعيم  سعودى سبورت",
+    "published date": "Fri, 06 Nov 2026 12:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiwVBVV95cUxPWk1ZVzUwTGh2NG5BeXQ2OWo2ZjgyOVFxMVkwZTIyYWhDdjFoczctWGJwaGYwbmJobUhQeklmNS1UWl9zRHNQZ01DMEFraEh1Ry03LUZmSHJzRE1NZld3NjNrMHFocXhCUk9VMG9CU2ZRM1dLYks5OTFaY0I5QXVnLWJsbmVfX3VRY2o3U0ZvS3NWRFViMm5hMHZlSHF1RWVwVVZzYmpXdUJobHFJNGJNemdoeEFBeXd4Zm9GVjEwcVJHS2RFSU5rd1Znd1FvV1ZtcGQxRzBJYmpHaVdmZ0ZNby0wVzllWmh6LUNMekx4cmtIeWgxTk9xTUhNTVBlNGVxc2VES0EzZVh0SDlGMXUtMWtNY0pTOXpfOWtXZlNpOGZNRjAzREZaM190cFlrRDJfLTZERlJ1THhTZm40bGZ5SmtsaDVlRzM1RmdIWDFWMDJfMUxyX2N2Xzd1WXNmQ1ZOcTVpdy1RNnNvZ2o4N2ZJUDkyS1lscDJlc1F1Y1hkdUwzaHFWN0wyY2Q4ODdoUVZfYjQ1Zmptb3pDX3djeE9Fc1dsTHd2SlNoS21SVEZlM2tJMWVzZ09mR3RWSHgtVzZVUzQ4NkQwWjVvRXd0V242VDVwX19mLXd4Rkhwd2V1YXNZdnRuQ3hBTWZSODdkRnZ6bDVJUWJvN3A0QjNZSFo2MkNOUlJfRzdEV2prYmlpTzlKOXVjSXZrOV9zaHRCZHdDSF8xdUU1eEVvNDBCLWtGbzJBWGg3WFItZFBKSktHaXQ2LWhINWJBX0Q2VXRjRmxmSEh0UnNYaFhNd0tUaWpUYm9YUGotdTN2ZlRuUEhmREtjUk5TWTctVldaYXl3SXphSzRGTlVfR3JoWUE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.goal.com",
-      "title": "Goal.com"
+      "href": "https://www.so3ody.com",
+      "title": "سعودى سبورت"
+    }
+  },
+  {
+    "title": "«فاجأني مستواه».. نجم الهلال السابق يكشف أكثر اللاعبين تميزًا داخل صفوف الزعيم - سعودى سبورت",
+    "description": "«فاجأني مستواه».. نجم الهلال السابق يكشف أكثر اللاعبين تميزًا داخل صفوف الزعيم  سعودى سبورت",
+    "published date": "Fri, 06 Nov 2026 10:20:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirAVBVV95cUxNUU5OV1EzcUg0bVIyQnBVZEFPeUxHZnl4ZkNtSTZibGkzYWRWU08ybkVtTzVFaU53U2FHOFhVdFZtVzJrWFRhU2JYRVN4a3A3T3NRbXV0aDVOZWlSRUt2SUNkTzE5aXVuaWRtY0xQbS1QQXh2NVAwNkdaOUZpRjltNG1YTm96Y2dnaTRiNFo2U3Q2aUtSNWN2X2ItazVuNmlmT09BSHk3TWh3ZFRyZXlaTFJLcG5udVFZUnM5N090V1dmdTM3bkRHeFhUQ3hjSzl3ZThBeVpHQUpiTkJCTzlYNk4zTVAzMEhGdjNmdFBxdkx3b0dZWEJydjc5UHFpYldHaVdScndRRzhXSjBJckEyTWhSNWM1WnBkVG1MQlJWV2VRU3JySWJqdnM2a2VZUXFDWWs4N1lVVGtvYmctdkVEc01hMk1QaFVQVkZzbU1JMzgyYUREU04tMmlGcnRuUkU4UUtXQjFSa2NWb2pOSEJva3JZdF9kbmp3MVhKT3lfLWNHeWFiWEpHS1FuRzAxUkc4cndsZ052N2RNRGt4dmVJVE5xUEVKQTVNQWE0TDdTenYyYktNQ1RsdlF1SUVqbV9nNHBwdmhUTEFrbmdBZFZwTW03T2xqWmtjYVhHSnFCSndsNHdRczVDX3Z6eFN1My1NUDc3SjJBSlpXRGhIaWF2X0F5aFpNcEJpX0tiV1VQbWtFa296MzFZaGdHX2NZbmNPeUZWMG5BakxnVW1fNUI4Nm9kNHpSNmRoMmF5T0ZTRFhaNVgzbjZQMUhNMXY4UTlZSFJwMXlXN0ZESkhaZ1Q4MU5pa0JYUjVHMnBGaVJ1aFFLTXYyQlJCaEROWDZuWTFmdUQxUlhMc1JaeXNCVmV0NnNYZUlEUlN6ZmpyVTRLM1QyTGszVnhDVE1IVnI?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.so3ody.com",
+      "title": "سعودى سبورت"
     }
   },
   {
@@ -700,20 +700,10 @@
     }
   },
   {
-    "title": "شاهد| الهلال يعبر الفتح بثنائية ويستعيد صدارة الدوري السعودي - سعودى سبورت",
-    "description": "شاهد| الهلال يعبر الفتح بثنائية ويستعيد صدارة الدوري السعودي  سعودى سبورت",
-    "published date": "Sat, 31 Oct 2026 20:02:38 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxOdXN0eEhxWG1KZnZZSzl1WE55VkkzTUJxNmE1MHVPZWJ6WC1iaE8tVmZMam5WRUc0Rlc1eUR6YkNOYmttNlU4b3p0akJTUkZDVFFqNExRc2xUT1V3XzJiTmRBU2NMSXRiTkdRTExFNlRYR3lXZXczbFM2MDk5dFF4TFlJRk1aQzhpd0RmM1YtM3lBbS1pZUlwTlhaTGtPa3pMWUg0YnM1LUVJOUxfOF9JbDdMUUQ3NUE0YURET0JRWlV6eXZBLWNTUXFTRWE3RFVJLWlGN2xKVXltV1hJSTVlV0NQTnZqWThmZnhleG9tRlJZUzJmc1pSNUNWZ290T202eTBLOG5JS2UtdmctZTM1dUo5TDZWTmZocEw2UFRwdTE1ZTdWTEszVnFLdnBhUGNPem5aQjM4LVdhSG9SYmVuS3Ytc0lOdVM2UjBRcnU5bzFiXzRsQ3NvaHNqVTZ1azczakpBU3dqbWFFN2FQYTZXRFM5a2VVY1libVdPblRYZXRaeHNDcVphWFZuWW54Q2N1MVNLbVVLTXpROFY5RGNJUFRnQ1hSQ2g5M2xkQmtNX1pHcXN0dkhxdXEycmZ6TzFCZW9vZklVNDMwTk56MDZHZjhjNFRldXE5NUxTbzItWXMtMkhaa1BDeUl3allrSnZNcC1xcThrVXJybGxiU0JucUc3SDRmS3ZPaUVmSy1xTV9tdkVsVnk2Q05rUm9TX1NzZ3laTVlSR0hNQkhkY2dFcWhBb2IzbWJz?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.so3ody.com",
-      "title": "سعودى سبورت"
-    }
-  },
-  {
-    "title": "موعد مباراة الهلال وشباب الأهلي في دوري أبطال آسيا للنخبة والقنوات الناقلة - سعودى سبورت",
-    "description": "موعد مباراة الهلال وشباب الأهلي في دوري أبطال آسيا للنخبة والقنوات الناقلة  سعودى سبورت",
-    "published date": "Sat, 31 Oct 2026 20:23:21 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinAVBVV95cUxNejdWMVVXbTVDeWdjNXd5Mjdwcno3MGllZkM1MkhUNUl0c0lpZG9JQUdEcmd4elgtREg4X25hblVpVU1qaU5DM055eFVFcENrVmI5TjAxUlc5TGl2QzNYb19zNGFwRHdvRWtSblY4cHFPOWxERzB0UjEyZmp3QlVLeTVweUlHcEJKV0lCZ3h4YzlvRVFNdEhhVjBmWk82MzVBMXdyUW1LeE5vYTQ0QUk5VVRiVlJocXFSOFRCOFdPRUNjRW5WZ1FtZDVwcm9SZkcxMzFCU3F6ak84TFg3WGMwZXc1OXdfYXppVG5OY3lEeDFfaXFFZ3JUSnN6azB1NlBycUFSQmUwNXZOa0xOeFNVakxCNkF5Vm00eFdIUHVENFRZY25aekdMenQ0WXZzTEVkSUFiYmZRQjh4NDJCLUI1ZGU2cGRVMTR0d1FIajgzTlNWZ0YyN05kMUhBSTQzdzZfa3ZCWkxiZEl5MlBmS1BlMmIweUgzR3Ayd01ZR3laOC02eDR0MkwzMDFNVDhtaXJCZ0oyM1JsWGpyY29uMjJZS21iY2NlcTRvcnZyQ0Y3OGEyM2VfQTBEMjk1UjVXdms4WE5NV3lDZWo2eWJlTWpDSXZRNmlOM3l5eXZ0Q1BsZWxuWEg5N2VpbE0tVnprQlUwZWlkanJweDltMGdybFh0M3FQNVBpdHZDejVDZzJRNmpsdEpMdUlETmw3TnlNRy1mV0ozeTE4b3J1U3IwNTJFVHdDOFVrb2NDTzAxejAwRWM0ZjQzSE9lbk9oLVRva0p4N1NiTFlFWUNTV2VFenN3cU5BandENlJaUnh5aGY5WUdxYTgtRi12aEtpOGhiOE9sUWdnenRGM2V5Nm05RDItYS1SdTdUZ0VjYVdUcA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "قرارات أدهم مخادمة تفجر غضب دكة بدلاء شباب الأهلي أمام الهلال - سعودى سبورت",
+    "description": "قرارات أدهم مخادمة تفجر غضب دكة بدلاء شباب الأهلي أمام الهلال  سعودى سبورت",
+    "published date": "Wed, 04 Nov 2026 09:31:12 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuwRBVV95cUxNbW01TElYaTJHaGpIX3g3WkF2ekJqT3I4VjRtN2dzTkJMNFVFM0h4TFd2UWxPdHd2X1ZvNkJ0eGJ4X241X2Y4UDd6cElyR0hORTZJN1ZHTEdPR0p3SjJVMkc5OGJVZjZGSmF4alJMYU5fZ25GaDUwUlpOcHI2Um16dGFpdFdUWUEzTGlKN2tHZlhiakJRZU16aU56blNfSEc0V2VVQWtHZHdXR1ZodnlDQUkxRzZnbnB6TWx6XzJvMmJZZzhrVnhyaTZrVV81eTB5OEM2TldSdVlsMTR5UkFXN3JJR185VV9pbFY3RG5ZY3lLYnFtUElLWmhhbG5FRFFvUV90Y0tHZ0tMemVSX1VsbGpnc2VfelhUVUctbGFWSGpTY1pMaVBLMkVvUm9GaXU4bmxFQy1iMkFzeDQ3emZMMFR5bHRqdnNqVGZkT21IQWFzUlJwLTRDYWR2WXRURF9JVFg4ZVdYQjNxcG04NG1wSmpvZjJZbWItUE1pbGZ3cEdjZFhxaVlkSmdXTzRETE11Z01FNVRIS3o3S1lEYVl1N3RPRzA4TVBZS0xwcFMzMjh2aS1jUk4zTnp3SnNNa2Y3ZGdsbDB2b05Hb1JjQl9Qc2F3QUR6Q3Zuc1l2a2JWTFpuSk11NmtZbVhFcE5GOWpaVVZJbTdXV01PQ0RLTURtc1c3cHNudy1VdnY3UWUwQkt1Y2VEaE5wLU9NNEJ1NHpkdW9LczVBb0FkM1dybFFKZVBDa1VJdnpyaThV?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.so3ody.com",
       "title": "سعودى سبورت"
@@ -730,10 +720,10 @@
     }
   },
   {
-    "title": "قرارات أدهم مخادمة تفجر غضب دكة بدلاء شباب الأهلي أمام الهلال - سعودى سبورت",
-    "description": "قرارات أدهم مخادمة تفجر غضب دكة بدلاء شباب الأهلي أمام الهلال  سعودى سبورت",
-    "published date": "Wed, 04 Nov 2026 09:31:12 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuwRBVV95cUxNbW01TElYaTJHaGpIX3g3WkF2ekJqT3I4VjRtN2dzTkJMNFVFM0h4TFd2UWxPdHd2X1ZvNkJ0eGJ4X241X2Y4UDd6cElyR0hORTZJN1ZHTEdPR0p3SjJVMkc5OGJVZjZGSmF4alJMYU5fZ25GaDUwUlpOcHI2Um16dGFpdFdUWUEzTGlKN2tHZlhiakJRZU16aU56blNfSEc0V2VVQWtHZHdXR1ZodnlDQUkxRzZnbnB6TWx6XzJvMmJZZzhrVnhyaTZrVV81eTB5OEM2TldSdVlsMTR5UkFXN3JJR185VV9pbFY3RG5ZY3lLYnFtUElLWmhhbG5FRFFvUV90Y0tHZ0tMemVSX1VsbGpnc2VfelhUVUctbGFWSGpTY1pMaVBLMkVvUm9GaXU4bmxFQy1iMkFzeDQ3emZMMFR5bHRqdnNqVGZkT21IQWFzUlJwLTRDYWR2WXRURF9JVFg4ZVdYQjNxcG04NG1wSmpvZjJZbWItUE1pbGZ3cEdjZFhxaVlkSmdXTzRETE11Z01FNVRIS3o3S1lEYVl1N3RPRzA4TVBZS0xwcFMzMjh2aS1jUk4zTnp3SnNNa2Y3ZGdsbDB2b05Hb1JjQl9Qc2F3QUR6Q3Zuc1l2a2JWTFpuSk11NmtZbVhFcE5GOWpaVVZJbTdXV01PQ0RLTURtc1c3cHNudy1VdnY3UWUwQkt1Y2VEaE5wLU9NNEJ1NHpkdW9LczVBb0FkM1dybFFKZVBDa1VJdnpyaThV?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "موعد مباراة الهلال وشباب الأهلي في دوري أبطال آسيا للنخبة والقنوات الناقلة - سعودى سبورت",
+    "description": "موعد مباراة الهلال وشباب الأهلي في دوري أبطال آسيا للنخبة والقنوات الناقلة  سعودى سبورت",
+    "published date": "Sat, 31 Oct 2026 20:23:21 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinAVBVV95cUxNejdWMVVXbTVDeWdjNXd5Mjdwcno3MGllZkM1MkhUNUl0c0lpZG9JQUdEcmd4elgtREg4X25hblVpVU1qaU5DM055eFVFcENrVmI5TjAxUlc5TGl2QzNYb19zNGFwRHdvRWtSblY4cHFPOWxERzB0UjEyZmp3QlVLeTVweUlHcEJKV0lCZ3h4YzlvRVFNdEhhVjBmWk82MzVBMXdyUW1LeE5vYTQ0QUk5VVRiVlJocXFSOFRCOFdPRUNjRW5WZ1FtZDVwcm9SZkcxMzFCU3F6ak84TFg3WGMwZXc1OXdfYXppVG5OY3lEeDFfaXFFZ3JUSnN6azB1NlBycUFSQmUwNXZOa0xOeFNVakxCNkF5Vm00eFdIUHVENFRZY25aekdMenQ0WXZzTEVkSUFiYmZRQjh4NDJCLUI1ZGU2cGRVMTR0d1FIajgzTlNWZ0YyN05kMUhBSTQzdzZfa3ZCWkxiZEl5MlBmS1BlMmIweUgzR3Ayd01ZR3laOC02eDR0MkwzMDFNVDhtaXJCZ0oyM1JsWGpyY29uMjJZS21iY2NlcTRvcnZyQ0Y3OGEyM2VfQTBEMjk1UjVXdms4WE5NV3lDZWo2eWJlTWpDSXZRNmlOM3l5eXZ0Q1BsZWxuWEg5N2VpbE0tVnprQlUwZWlkanJweDltMGdybFh0M3FQNVBpdHZDejVDZzJRNmpsdEpMdUlETmw3TnlNRy1mV0ozeTE4b3J1U3IwNTJFVHdDOFVrb2NDTzAxejAwRWM0ZjQzSE9lbk9oLVRva0p4N1NiTFlFWUNTV2VFenN3cU5BandENlJaUnh5aGY5WUdxYTgtRi12aEtpOGhiOE9sUWdnenRGM2V5Nm05RDItYS1SdTdUZ0VjYVdUcA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.so3ody.com",
       "title": "سعودى سبورت"
@@ -770,20 +760,20 @@
     }
   },
   {
-    "title": "الاتحاد الآسيوي يتوعد شباب الأهلي.. هل ينسحب من مواجهة الهلال؟ - سعودى سبورت",
-    "description": "الاتحاد الآسيوي يتوعد شباب الأهلي.. هل ينسحب من مواجهة الهلال؟  سعودى سبورت",
-    "published date": "Mon, 02 Nov 2026 10:15:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiugRBVV95cUxNbnpqdDl5eDJ1THJ6d3FGNWhXM3dfaU1mSENtYnFQTk82bldXNzNpd29yZWhKcW5PcEF3dkd2QlY1STdZLVRxRmRiWkZYYVcydzBSTDJmV195OUM5Vzk1Qm9fdk5ERW5hUEZOWkhvOXBiZnhLSm43VlZrQkRCaklNWjdyaERtRGtpbVF6SmNNR1dNRWh6SnRpQzFuVzdmTXIzaHpZbHBFcmZSaXdIQk5UVmFFWTBaQmJYeEt3RHlUNmJ6ajVwMFhxNksxM3R3d0hMZEZLTk5Pb1hTNFAtNGVQNVJVekhUQm4teXZiN2FsbGNEYVhGNS0tdFFVWUxUVWFRVFotd29ibWQtZGEweGlkcm5Da1dXTF9ZRXM4TFlqTzNteVFnRTF1Q3ZEX1d3eUVfZE8yZTAyU2FmZUo3SVBra3NIMWFsWTJUZEtGUG9uNTc5a3NTQVV5TTBzWDNQWFJoSjR2LWo4UjlkbEFQSGJtZGtfUUU1MnM0eG9tVlRkRWZWRUZ6YUpzTWk5cDRlNk5QRElpN3BscTlUV0FkWW9YSXBaN0xIRExiV0ZKUmFiQm5fUzJaRUFoczdOSTk1U0wyZHhNTHhJZE5EUXY3ZE8wUTY2ckthcElPaDVtc2dZeGJlci1BbEt3TXM2M0NRUHU2LUlZWTVYZktsajJDQ3RfWGk4dWthRkRoa3Z2TkJWZ2lCeWF4M3V0VzRQR1JBbFpSWjI4M0ZPdjlkV0RCd2NmazZYV3dIMmduTHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "ثنائية واتكينز تقود الهلال لإسقاط شباب الأهلي في قمة النخبة الآسيوية - سعودى سبورت",
+    "description": "ثنائية واتكينز تقود الهلال لإسقاط شباب الأهلي في قمة النخبة الآسيوية  سعودى سبورت",
+    "published date": "Wed, 04 Nov 2026 08:08:16 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi8wRBVV95cUxNbksyTzNJZl9McjNodDBsZE5OZjNodnpKTnhtX090bnBXejh3bE5LQmNNaUdpMWtQUlZ3ZV9OUDctWmJwdUZTRmVTelQxaFZwSXdGaDY1TUVWNGxVX01MOXNKY1pRTzNoSXp1RUJ6VncwcUdBektCWlFPbGZyb240YU16R3otTXVxSFgxUG4ycmFCNkJIcVN4WWlublFSQTIyMGQ3WV8yS2VpdThpb3JJNzh1Z2JCcVk3OS00NmIxWm81WExyTlk2QzNEOGJDT3Z2VENGNTBjTXNCVVRtZmVUZVdfOFNvbFlkUzZIYmlMX1BEek5rMVQxQnl3c21VNGpMOEhwTkRUZWlibVByb0ZiSDRBZ1BKZHpLZVozcjVEZ3FtcFpxLWxuZUZHb0d0M3haWFBEUlB5dzd5TVZiekZRTEtEZm9TekZnWUM0aC12SzhjZ29MTGhIVnRrcndRUHpRdGVhQTFZMGZSMnN1QUV6ZHJwdG1MYUJzX0lYcHJvSEllc3ZYbGpkZUpxM0tyYUR4V0V5djFwUXp5c0R6ZjNGRE1lS3pCaDBVM24tcmlOM2JZZENGUGVsUGdWdE5vQ0YtdU5yYzFjdldGVHh4Z0s0dEJ5ejhoazNyTGNOTklJT3NSVGpWOU9MRFNMRi1ROEY4UEZwUy1KdWp0X2JickVTUU5pODlJbE9kdWZEWFdwbFJYcTFjLXRwaDJnalFmcFNoSXlMTzRtaXV3bDVmT3lvTm41MXB4Rmh5QVFaQ0FydTF0LVRQOEUxVjVBZHAwNUxlZm96OHBISDVGSTAtVnU0dWVycjFiTjIxVFQ2bENPMVBGMEk?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.so3ody.com",
       "title": "سعودى سبورت"
     }
   },
   {
-    "title": "ثنائية واتكينز تقود الهلال لإسقاط شباب الأهلي في قمة النخبة الآسيوية - سعودى سبورت",
-    "description": "ثنائية واتكينز تقود الهلال لإسقاط شباب الأهلي في قمة النخبة الآسيوية  سعودى سبورت",
-    "published date": "Wed, 04 Nov 2026 08:08:16 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi8wRBVV95cUxNbksyTzNJZl9McjNodDBsZE5OZjNodnpKTnhtX090bnBXejh3bE5LQmNNaUdpMWtQUlZ3ZV9OUDctWmJwdUZTRmVTelQxaFZwSXdGaDY1TUVWNGxVX01MOXNKY1pRTzNoSXp1RUJ6VncwcUdBektCWlFPbGZyb240YU16R3otTXVxSFgxUG4ycmFCNkJIcVN4WWlublFSQTIyMGQ3WV8yS2VpdThpb3JJNzh1Z2JCcVk3OS00NmIxWm81WExyTlk2QzNEOGJDT3Z2VENGNTBjTXNCVVRtZmVUZVdfOFNvbFlkUzZIYmlMX1BEek5rMVQxQnl3c21VNGpMOEhwTkRUZWlibVByb0ZiSDRBZ1BKZHpLZVozcjVEZ3FtcFpxLWxuZUZHb0d0M3haWFBEUlB5dzd5TVZiekZRTEtEZm9TekZnWUM0aC12SzhjZ29MTGhIVnRrcndRUHpRdGVhQTFZMGZSMnN1QUV6ZHJwdG1MYUJzX0lYcHJvSEllc3ZYbGpkZUpxM0tyYUR4V0V5djFwUXp5c0R6ZjNGRE1lS3pCaDBVM24tcmlOM2JZZENGUGVsUGdWdE5vQ0YtdU5yYzFjdldGVHh4Z0s0dEJ5ejhoazNyTGNOTklJT3NSVGpWOU9MRFNMRi1ROEY4UEZwUy1KdWp0X2JickVTUU5pODlJbE9kdWZEWFdwbFJYcTFjLXRwaDJnalFmcFNoSXlMTzRtaXV3bDVmT3lvTm41MXB4Rmh5QVFaQ0FydTF0LVRQOEUxVjVBZHAwNUxlZm96OHBISDVGSTAtVnU0dWVycjFiTjIxVFQ2bENPMVBGMEk?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "الاتحاد الآسيوي يتوعد شباب الأهلي.. هل ينسحب من مواجهة الهلال؟ - سعودى سبورت",
+    "description": "الاتحاد الآسيوي يتوعد شباب الأهلي.. هل ينسحب من مواجهة الهلال؟  سعودى سبورت",
+    "published date": "Mon, 02 Nov 2026 10:15:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiugRBVV95cUxNbnpqdDl5eDJ1THJ6d3FGNWhXM3dfaU1mSENtYnFQTk82bldXNzNpd29yZWhKcW5PcEF3dkd2QlY1STdZLVRxRmRiWkZYYVcydzBSTDJmV195OUM5Vzk1Qm9fdk5ERW5hUEZOWkhvOXBiZnhLSm43VlZrQkRCaklNWjdyaERtRGtpbVF6SmNNR1dNRWh6SnRpQzFuVzdmTXIzaHpZbHBFcmZSaXdIQk5UVmFFWTBaQmJYeEt3RHlUNmJ6ajVwMFhxNksxM3R3d0hMZEZLTk5Pb1hTNFAtNGVQNVJVekhUQm4teXZiN2FsbGNEYVhGNS0tdFFVWUxUVWFRVFotd29ibWQtZGEweGlkcm5Da1dXTF9ZRXM4TFlqTzNteVFnRTF1Q3ZEX1d3eUVfZE8yZTAyU2FmZUo3SVBra3NIMWFsWTJUZEtGUG9uNTc5a3NTQVV5TTBzWDNQWFJoSjR2LWo4UjlkbEFQSGJtZGtfUUU1MnM0eG9tVlRkRWZWRUZ6YUpzTWk5cDRlNk5QRElpN3BscTlUV0FkWW9YSXBaN0xIRExiV0ZKUmFiQm5fUzJaRUFoczdOSTk1U0wyZHhNTHhJZE5EUXY3ZE8wUTY2ckthcElPaDVtc2dZeGJlci1BbEt3TXM2M0NRUHU2LUlZWTVYZktsajJDQ3RfWGk4dWthRkRoa3Z2TkJWZ2lCeWF4M3V0VzRQR1JBbFpSWjI4M0ZPdjlkV0RCd2NmazZYV3dIMmduTHc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.so3ody.com",
       "title": "سعودى سبورت"
@@ -804,16 +794,6 @@
     "description": "إنزاجي يمنح نجوم الهلال هدية خاصة بعد الفوز على شباب الأهلي في النخبة  سعودى سبورت",
     "published date": "Wed, 04 Nov 2026 12:30:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMi7gRBVV95cUxQZzlpMVBsMkJLN080aDI3OGROaDFrNTBFbzJmU01WbkszeVhPNkZ4TF9nUEVseEJlS2FzSlRGLTdJaHFyZ3hfVVhJeXNEZjdTWUZwYnBzeDBnUVBtSndDNHZuSENEZzVyX2psNjY0ZENmX2VzZVk5RnhxT2NfeUV3QlRYdFNDVEdqWlExTGRyVENWa2FGYUZUemNKZGx3Rkw0aWI2OGg4Vm5LSWRsYmpFRncweDJxaG1rckczcGdoZ3Z6dkZZcWtpYzRHanBHdS14aFFwN0ZiaWY4Rl9aLVVteWxzUTllajVIRG9fejBWZ1RLem1zRV9RczQ3Y0RfdTFBZ2NCQ2VzQU1YYTdmaTNZRlN4d0lxVHI5ekVydVNLeDdqRk02R1F1LVFaZlBWeldQZXpPTTkyN3JMeFlmSDU1UlJhckRwb0lkeFc5VGswQl9GX1JXUWo0bDBQS2lSRE1GOC1Ed3M0Qm5DSmVDd3hNYm4yOWdUMFozbDNISUZMZXZtdTNKblBUSC1obXRnVmg1OGpKM012anpPU1FFUTdsdFNDTzBrMFpodVh5T3gtTXlNeGdkUW9pcWlaY2dMTlJzNmlESGR1RDhmbDl4V3lOV0JaS0pqM1kwcnhSd2NzdXM4dmRPbHZvX2pveHMtUXB1cDN2UXgyV0EwUWNYYTFMMzNrS1BOeDBwTFhudlA3TUFQRE44RVoyWWlFczFhZ0FZY3dqa2tJV1c4RUgtTmZIXzNGMlc2N2Y4SXptdTRWTXhKaU9ZMllycU5MSUhVVjg2aFJEc2laNld3MGptNEgzdWg0aGNQd2g3SHVNanJR?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.so3ody.com",
-      "title": "سعودى سبورت"
-    }
-  },
-  {
-    "title": "الهلال عقدة الفتح في دوري روشن.. أرقام مرعبة قبل مواجهة الفريقين - سعودى سبورت",
-    "description": "الهلال عقدة الفتح في دوري روشن.. أرقام مرعبة قبل مواجهة الفريقين  سعودى سبورت",
-    "published date": "Sat, 31 Oct 2026 02:39:14 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiwwRBVV95cUxQUmN1eXRxRDJlb2MwdEVpemNzbndieElQaW5fVnJnM3l0RkNvTzlPTjN6a1JNNXVKNlJWOXhqb0pfeGNleVRkNWE4MG50aUI3NllLZDZWM0toSUh1c0Y0b2ZINEFVdUJKUmcwNWZLb1h0b2FmVEJ4Y1drUTFHWi05X0c5SXF4X2hXZ3o1d0lUV0V6MGRfRjh1NElSTHFyMkkxaklJWXFSRTAyMDdxVzBycjk0V2JwbnlqZ1JOaks4R2JZTzZrdV9GYmpEYlM0VHZGUDNWNUlySmlIMEYzdTNoWlZmOVlvcnliMndwZ0l0NFp4V1BNbUZYZjBOcV9VZHBqZGhGOU9CamNuR0NlSFFWVzNCc2ZITWtmd0M5VExnT3Z5dHlXUlNIYzU3bERfbW11WnBOendSMElzWERzT3BaMDIzdlFqZ0NwUG9rc045X3ZyNHQwY0ZSZnFBNG1XeU9CNFFFTXlXeTV0YzNDbzI3Tm1fZ0d5NjF3ZXl2VlN2Unh4YWNjSkxaQTNNaDczdGhLTHBnQ29YUjBhTWxZWS11cVBueEdPSnNCVnh0UGhVQ0g3bWsxWWpBV2hrTnJyWEQyY0piRHBfZHFVa0VUM3NDNWZGc2pjT3RLcjNzSGoteUsydkY0RWwxZVBidExQUWY0Wm9yS2xFbzhMUUlxX0JzV25YS0xTUzNEWnpEZ0xVWEdYV1JDNTE1U1QyeThkZTBmVUZLSlYxRFQ3ZnNoS0UzZnR5blRta29uaGJid3l6QVZkTjg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.so3ody.com",
       "title": "سعودى سبورت"
@@ -850,10 +830,10 @@
     }
   },
   {
-    "title": "أخبار الهلال اليوم| خبر سعيد من سافيتش وخيارات إنزاجي لموقعة الفتح - سعودى سبورت",
-    "description": "أخبار الهلال اليوم| خبر سعيد من سافيتش وخيارات إنزاجي لموقعة الفتح  سعودى سبورت",
-    "published date": "Sat, 31 Oct 2026 11:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi2wRBVV95cUxNUF9tcU1LREFpbTBjbWxGQkpWZWltXzlFeFE1RkdES3dvaUJKRXJUS1VFLUNsLURtSzdlMVpQQjgwNy12b3ItMGFyamNNNHhoRS0tbl9CTi1QSkVMcEZxTHpLSDc0UWhkaThGbF9IOU5UODJ0azlWa3JObjV3dFZXRFJjdHk3ZGZWa05CUWdJUHRlR1YySjlJV2Y4T3htVnFHWGwwQ3d5VmFQSmQzT0M3aUhXZnJqRnhXVmxHN0dXSHpvQzlJa2RxMUlqSXZTVGpnYTRmSVI4ZHFKbXFjVzFnRmpoMFY3dG5JTWFkM1U2eEdFMkFHNFFUQ0M5VVQwbERwTS12cWtkX3c0TDZzYk1URDc0ZDZabXg3VGY3bVlJWjRiTEMzMHhzaDJhbHVyU2ZWclUtcTZFZkk2UHF6TGpEREl3WV9mdDk1YUxjZ2VJMDk0WHlFWmpweHlqQnRHSU8wSktpSmpXNVdtbXdQTDk2NlgzRjhBeEJDNmN4VS0wd0ZzSExNVWN3ZENNQ0FCcDVkNElVellYc1FHMFJyWEtNLWJmdGJoc19pd2xFa2ZLakJNZzZNMzR4R3k4ZnpCdWlMMXlQbmw4LXJHQ1BBRHBLaENrbGVZa3VRekpxMi1HeE5hMk83cFFvMjJyc3h6bVZvenBDRUdyWmRoNE9kTzJ3cGFWN2FYNWFpVHhQTENoaTZqWUZfaXg2ZW4yTW9YSUp6VW5BVEhVOGVrSkdyb2xjZmFZeXR1SVYwU0JrYVpWX1V3YkJZallBU0xCd0RjXzE1b2NGdkVvNTBrM0k?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "إنزاجي في حيرة قبل مواجهة شباب الأهلي.. 4 نجوم يهددون حسابات الهلال - سعودى سبورت",
+    "description": "إنزاجي في حيرة قبل مواجهة شباب الأهلي.. 4 نجوم يهددون حسابات الهلال  سعودى سبورت",
+    "published date": "Tue, 03 Nov 2026 06:23:50 GMT",
+    "url": "https://news.google.com/rss/articles/CBMizgRBVV95cUxPYXBRcDBjLVAyVTI3WkE1akFnWHJnVVhCNUc4bVA0OXU4eFBvQmFieVd4NEJURVNlS3dEV2MxTDlYVC0zWHBYWEs3MkJUTi1KNTZJX0p6R19QcVVPMUlnVXlNbFpzcE5MbVlIZE9xS3pUZlk0RFZfazVKMVRpaXAtc0RPMjdRVmVMM3J6SEhjZEptODAwMjRwTGl3a0VKeTVMdk1HWmRGaHBxRUtGV0Z0cWJYYUxjNW5IVTFvZTlrSVUyWk1tWC1FakN0SXFQR0VyYnFQaTJwV2Zrc3FFU2tqWm00eTRqdzJsTmdjaWpCUDZmYzRDNVd6SVNKN1RtSGR0TzZ6aXF1VWVxbTJGaVl1UnBlWE92cXhCNTh3TEJxRUMycWJVdHpvakpoNVg3SFhCU2s2VHZTejhqbEg5cl9UVTdTblM1a29jYldKVXdoczI1X2JUdkFXSmF0UE00d19XbkQ1OTY1TXBXWnZhTkhJRV8wdWlXRHkySkNKbDRvcEN4T19wa3RGR2lfRzZmQVJfWUVMS2pxSmZQanQ0QTM2ZWZZMmZZVERtN3NNekVObS1HWnlPV0hISnZYX1lHM2plSkZqRVk5RFhoRGJEdmVSeHdISFJ6LXBDWGlFNm5QbFZqOGZNeGZlaXRhOHRlMENtdVAtWW1VN2J2aUhzcnZSTTlEYk92QWh2WjlJWXl6bllTZFlEQ2x0YmJ5NEQxTkpMMm9ocE1wanVNdDB1RHZWVGdlbG5CV0drYnI0M1dNeGFjTXpuZ09lOWZvQjFBUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.so3ody.com",
       "title": "سعودى سبورت"
@@ -870,40 +850,10 @@
     }
   },
   {
-    "title": "إنزاجي في حيرة قبل مواجهة شباب الأهلي.. 4 نجوم يهددون حسابات الهلال - سعودى سبورت",
-    "description": "إنزاجي في حيرة قبل مواجهة شباب الأهلي.. 4 نجوم يهددون حسابات الهلال  سعودى سبورت",
-    "published date": "Tue, 03 Nov 2026 06:23:50 GMT",
-    "url": "https://news.google.com/rss/articles/CBMizgRBVV95cUxPYXBRcDBjLVAyVTI3WkE1akFnWHJnVVhCNUc4bVA0OXU4eFBvQmFieVd4NEJURVNlS3dEV2MxTDlYVC0zWHBYWEs3MkJUTi1KNTZJX0p6R19QcVVPMUlnVXlNbFpzcE5MbVlIZE9xS3pUZlk0RFZfazVKMVRpaXAtc0RPMjdRVmVMM3J6SEhjZEptODAwMjRwTGl3a0VKeTVMdk1HWmRGaHBxRUtGV0Z0cWJYYUxjNW5IVTFvZTlrSVUyWk1tWC1FakN0SXFQR0VyYnFQaTJwV2Zrc3FFU2tqWm00eTRqdzJsTmdjaWpCUDZmYzRDNVd6SVNKN1RtSGR0TzZ6aXF1VWVxbTJGaVl1UnBlWE92cXhCNTh3TEJxRUMycWJVdHpvakpoNVg3SFhCU2s2VHZTejhqbEg5cl9UVTdTblM1a29jYldKVXdoczI1X2JUdkFXSmF0UE00d19XbkQ1OTY1TXBXWnZhTkhJRV8wdWlXRHkySkNKbDRvcEN4T19wa3RGR2lfRzZmQVJfWUVMS2pxSmZQanQ0QTM2ZWZZMmZZVERtN3NNekVObS1HWnlPV0hISnZYX1lHM2plSkZqRVk5RFhoRGJEdmVSeHdISFJ6LXBDWGlFNm5QbFZqOGZNeGZlaXRhOHRlMENtdVAtWW1VN2J2aUhzcnZSTTlEYk92QWh2WjlJWXl6bllTZFlEQ2x0YmJ5NEQxTkpMMm9ocE1wanVNdDB1RHZWVGdlbG5CV0drYnI0M1dNeGFjTXpuZ09lOWZvQjFBUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.so3ody.com",
-      "title": "سعودى سبورت"
-    }
-  },
-  {
-    "title": "التشكيل المتوقع والقنوات الناقلة وموعد مباراة الهلال والفتح في دوري روشن - سعودى سبورت",
-    "description": "التشكيل المتوقع والقنوات الناقلة وموعد مباراة الهلال والفتح في دوري روشن  سعودى سبورت",
-    "published date": "Sat, 31 Oct 2026 08:00:30 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikwVBVV95cUxPU1RTdnpURkM1SVBjWGUtSUc0ZzZwbnptV3YyZFdIbWxQT2tSLThJZWVTYUNGT3lyTV9qbFFqYkQ1RXN3WWZWMzF4ODFRQ0pPOGgwOXJIY2tQSjZrTWh4MDZUX2lrSlpxOVRqaG5ReWpvX0V1ZzJLU2N3N3Y3WHFQRzZ3bXNFTTJpeFdObnlCMHh5RkQ3T3F2ODhFT3FXVmVpUk4tajROTE5BY2VsR0Q4ZzE1a2EzTEVKVW5tQXFmVW9ES3hWRnRNb3dXQUJDS2VuU21ZWjN2OThtT0xtUmQzNHJibWRTZk84cXQtMHRrYy0yUzI3WkctYjFUWHVPRmNVR2MzTTYzOXpxY0JXRV94VGVIeTBQTmVPT1BlaVBXb3pMYnZlbHRqZzJ6ZWh6TzhCRXdoY3o1NC1MZU1CVlNudk9WczVDUy1Db3Btd0JpNHlrUGRSLUtwN2tyQ0hzWXBkcGQ1V1pjcXJJVzNndkFSdDhSTEhCN045ZHAtMmtJWDFBNTlhd0tyVmlJR0lhYlNKOUlrWU9aNGY2QVNJTjR0TF84Z09HdWhKeWdVR0tBcGNSeFJSbFdtUWVKNnV1SllYMTJxZThHTXZKb1NIMWxfLUduYTdQb25LY3B3Nkdza21WR0NkX0dPUGUzVjFjMUtLVUVpZ3RDUDdsQnBNVnM3ZXUweU5qUTRVeF9MVXB5MXJnSlBlRFZyYmdFcF94d1NmR08tR2sydml0U3F0RXQtcC1QWlp6SEhJYXNBUWsxUE9SelBtLVVQUURselA4ZGxKcU96MUNrR2ltWkpwSnFOWDBnNWkwYW0zelRyam04b25OT3h0OF9lVThQRXdJTnpoVlJ0OUxQa19ETzZsZ3E3Zmkzcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.so3ody.com",
-      "title": "سعودى سبورت"
-    }
-  },
-  {
-    "title": "بعد صدارة قمة الترتيب.. الهلال يجمع بين النقاط والأرقام القياسية بالدورى السعودي - بوابة الوفد الإلكترونية",
-    "description": "بعد صدارة قمة الترتيب.. الهلال يجمع بين النقاط والأرقام القياسية بالدورى السعودي  بوابة الوفد الإلكترونية",
-    "published date": "Sun, 01 Nov 2026 11:44:58 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBZMzBiUEt5eFR4T21ldVRTNG8xbW1RNFBDUUticXMxT09CbldGVkVwQVMtVG1zUEpReXZ5WEprRWhYU2cyWGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.alwafd.news",
-      "title": "بوابة الوفد الإلكترونية"
-    }
-  },
-  {
-    "title": "شاهد| الهلال ينهي الشوط الأول متقدمًا على الفتح بهدف واتكينز - سعودى سبورت",
-    "description": "شاهد| الهلال ينهي الشوط الأول متقدمًا على الفتح بهدف واتكينز  سعودى سبورت",
-    "published date": "Sat, 31 Oct 2026 18:51:51 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisgRBVV95cUxNMml2RHY4T2dpeEUyQVJOMFJ3UnZ5MWEtNDJBTFFldk9KLVZHam9sX1hadUstc2VfaVRGV2FFVGNpWHQ3ZUpDTVNPcVdjMHhIb0V5NFgzcGFGV0YwSUZ2dldEa3htbGpqNFMtbnR4WDdsY0Z2bld0Yk5QaWFRMlMxRk1aQ1JKMnROb2pjaW9rTmJYQjVUQUZra0ZWb0Y0bmRfV3ZVVWhFVjFIX1J6ZHN4bnd5NU5mLW8yWTZ6QkRGaW9aUHQxNUd3V0tWdmY3TllHUC1PcUpsRzlmY0hrWEdvUlhvNEhjaXpZRGYtYm83WVVHMEpKc0d3QlRVWDJ6NS1UX0ljQlpHRVFiVXFSMkxWWkVWMS1PSXBTcjZJTGpiMXhOWnRhZm1DcF9qOXFQSXU0aklzV2U4TlY1UXpaVDRiQkhLRWhTUnRYRGJtWWh0UlZLTjVSbTcxd29VclEyNFJGWnZCajRmRDlFcFUxT0NvV1dGQ2h0RmxIeHJvcjF0cjI2RF9BSmsweFRGVk9HY1VocktBOE9YejV3NC1fNl9xQ2pBM3hieG8tc3o0dWs3SWV1ZWpIRWlTYWEzcEx1M21kaGNOMlhkbEV0VF9GbFVGVmtIdEctRUR3V05fd0NCeFh0ZnR1ZlZDQkJIbHhnOG5pcjFnUEhkc3RQbzFaSHo1ZW5Cek53VXpVYzFHZnhVRWFDWWtmRHNRVUZGb3dQWEtMYjc0WmhRbXNDTm9FTUdSRjBB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "أخبار الهلال اليوم| خبر سعيد من سافيتش وخيارات إنزاجي لموقعة الفتح - سعودى سبورت",
+    "description": "أخبار الهلال اليوم| خبر سعيد من سافيتش وخيارات إنزاجي لموقعة الفتح  سعودى سبورت",
+    "published date": "Sat, 31 Oct 2026 11:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi2wRBVV95cUxNUF9tcU1LREFpbTBjbWxGQkpWZWltXzlFeFE1RkdES3dvaUJKRXJUS1VFLUNsLURtSzdlMVpQQjgwNy12b3ItMGFyamNNNHhoRS0tbl9CTi1QSkVMcEZxTHpLSDc0UWhkaThGbF9IOU5UODJ0azlWa3JObjV3dFZXRFJjdHk3ZGZWa05CUWdJUHRlR1YySjlJV2Y4T3htVnFHWGwwQ3d5VmFQSmQzT0M3aUhXZnJqRnhXVmxHN0dXSHpvQzlJa2RxMUlqSXZTVGpnYTRmSVI4ZHFKbXFjVzFnRmpoMFY3dG5JTWFkM1U2eEdFMkFHNFFUQ0M5VVQwbERwTS12cWtkX3c0TDZzYk1URDc0ZDZabXg3VGY3bVlJWjRiTEMzMHhzaDJhbHVyU2ZWclUtcTZFZkk2UHF6TGpEREl3WV9mdDk1YUxjZ2VJMDk0WHlFWmpweHlqQnRHSU8wSktpSmpXNVdtbXdQTDk2NlgzRjhBeEJDNmN4VS0wd0ZzSExNVWN3ZENNQ0FCcDVkNElVellYc1FHMFJyWEtNLWJmdGJoc19pd2xFa2ZLakJNZzZNMzR4R3k4ZnpCdWlMMXlQbmw4LXJHQ1BBRHBLaENrbGVZa3VRekpxMi1HeE5hMk83cFFvMjJyc3h6bVZvenBDRUdyWmRoNE9kTzJ3cGFWN2FYNWFpVHhQTENoaTZqWUZfaXg2ZW4yTW9YSUp6VW5BVEhVOGVrSkdyb2xjZmFZeXR1SVYwU0JrYVpWX1V3YkJZallBU0xCd0RjXzE1b2NGdkVvNTBrM0k?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.so3ody.com",
       "title": "سعودى سبورت"
@@ -920,10 +870,30 @@
     }
   },
   {
-    "title": "تشكيل الهلال الرسمي أمام الفتح في الدوري.. إنزاجي يهاجم بالقوة الضاربة - سعودى سبورت",
-    "description": "تشكيل الهلال الرسمي أمام الفتح في الدوري.. إنزاجي يهاجم بالقوة الضاربة  سعودى سبورت",
-    "published date": "Sat, 31 Oct 2026 16:55:05 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi-wRBVV95cUxNMm9LNFF6RHF4YWpHdEVBVWlaaXc0Q0Rub0ZtS2hVVXRzQUlxZ254MGE4U0p2VTZFWWRvNmJsbFlOWVZ1Nl9EaHRzSzdZUWFBTjk1Y0xGOUpqUUduRFJiZ1YtLUhlZ1JQZmp1bWFZdUVVQjNsTG00VnlnYU1ycUZTQkFuVlV2RkdmWG9FM0FaQUZCZFhNNHZwUm5BVWZISEFPa3pEeVdmU2ZQWVVLT0V0ZmJqdElPREc4NHRROVhLSUxWeVhWcE1OUGxLUXp6blhMcWpVcGtLdUtHQzUxWld5bDB1Nk9LMGpoNDBVV0pDVnF5eENoVG1GWDFxRTVzUTNxSU5ueHNoa3Z0eW5HanVqRDVmbVpVXzBNMEFwa2UyMXRRXzdaQ0t1b3FsWGZ0Vm1pRFFWMTFFelZCaEdfRl9lX2JQblpqTE41dmNETS05dWxUOWVBQTJtQzE1bXNia2UzT0FBX2NYT2p5dzJUaXRfUjFHbEFVcHhYYnQxc095WTFhRElnYVFJcFlmU2EyVzNpcFZfRmVkaW55Z3lHNXB6ZjZYaWZVeEUxSDN1WHgtTFFPOUtBZk1sbV9tYzE4VTQ3NTcyTTg4S0ppQUEyZ01nQUl4WXZJczNyUWtHcGQyWm1WQm05c3JZOFZFZEVqdnJIc3RJTlhrMkhxVmdWbW9mWDlkcjNpNW84c2JMRWlma3hmVWFxTU1hQnZXXy1xSk84VWFWa01SalhiT2x5dTU4S2xnYTluNWowVmllWlplTWs2TzZ1cTNGX3lGZUMzQ3VTR2dYN0YySW4yMDQ3aTF0WFJiS2RZOHJkTERncVRXSFd4aTBBN2QzNXE1QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "بعد صدارة قمة الترتيب.. الهلال يجمع بين النقاط والأرقام القياسية بالدورى السعودي - بوابة الوفد الإلكترونية",
+    "description": "بعد صدارة قمة الترتيب.. الهلال يجمع بين النقاط والأرقام القياسية بالدورى السعودي  بوابة الوفد الإلكترونية",
+    "published date": "Sun, 01 Nov 2026 11:44:58 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBZMzBiUEt5eFR4T21ldVRTNG8xbW1RNFBDUUticXMxT09CbldGVkVwQVMtVG1zUEpReXZ5WEprRWhYU2cyWGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.alwafd.news",
+      "title": "بوابة الوفد الإلكترونية"
+    }
+  },
+  {
+    "title": "التشكيل المتوقع والقنوات الناقلة وموعد مباراة الهلال والفتح في دوري روشن - سعودى سبورت",
+    "description": "التشكيل المتوقع والقنوات الناقلة وموعد مباراة الهلال والفتح في دوري روشن  سعودى سبورت",
+    "published date": "Sat, 31 Oct 2026 08:00:30 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikwVBVV95cUxPU1RTdnpURkM1SVBjWGUtSUc0ZzZwbnptV3YyZFdIbWxQT2tSLThJZWVTYUNGT3lyTV9qbFFqYkQ1RXN3WWZWMzF4ODFRQ0pPOGgwOXJIY2tQSjZrTWh4MDZUX2lrSlpxOVRqaG5ReWpvX0V1ZzJLU2N3N3Y3WHFQRzZ3bXNFTTJpeFdObnlCMHh5RkQ3T3F2ODhFT3FXVmVpUk4tajROTE5BY2VsR0Q4ZzE1a2EzTEVKVW5tQXFmVW9ES3hWRnRNb3dXQUJDS2VuU21ZWjN2OThtT0xtUmQzNHJibWRTZk84cXQtMHRrYy0yUzI3WkctYjFUWHVPRmNVR2MzTTYzOXpxY0JXRV94VGVIeTBQTmVPT1BlaVBXb3pMYnZlbHRqZzJ6ZWh6TzhCRXdoY3o1NC1MZU1CVlNudk9WczVDUy1Db3Btd0JpNHlrUGRSLUtwN2tyQ0hzWXBkcGQ1V1pjcXJJVzNndkFSdDhSTEhCN045ZHAtMmtJWDFBNTlhd0tyVmlJR0lhYlNKOUlrWU9aNGY2QVNJTjR0TF84Z09HdWhKeWdVR0tBcGNSeFJSbFdtUWVKNnV1SllYMTJxZThHTXZKb1NIMWxfLUduYTdQb25LY3B3Nkdza21WR0NkX0dPUGUzVjFjMUtLVUVpZ3RDUDdsQnBNVnM3ZXUweU5qUTRVeF9MVXB5MXJnSlBlRFZyYmdFcF94d1NmR08tR2sydml0U3F0RXQtcC1QWlp6SEhJYXNBUWsxUE9SelBtLVVQUURselA4ZGxKcU96MUNrR2ltWkpwSnFOWDBnNWkwYW0zelRyam04b25OT3h0OF9lVThQRXdJTnpoVlJ0OUxQa19ETzZsZ3E3Zmkzcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.so3ody.com",
+      "title": "سعودى سبورت"
+    }
+  },
+  {
+    "title": "شاهد| الهلال ينهي الشوط الأول متقدمًا على الفتح بهدف واتكينز - سعودى سبورت",
+    "description": "شاهد| الهلال ينهي الشوط الأول متقدمًا على الفتح بهدف واتكينز  سعودى سبورت",
+    "published date": "Sat, 31 Oct 2026 18:51:51 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisgRBVV95cUxNMml2RHY4T2dpeEUyQVJOMFJ3UnZ5MWEtNDJBTFFldk9KLVZHam9sX1hadUstc2VfaVRGV2FFVGNpWHQ3ZUpDTVNPcVdjMHhIb0V5NFgzcGFGV0YwSUZ2dldEa3htbGpqNFMtbnR4WDdsY0Z2bld0Yk5QaWFRMlMxRk1aQ1JKMnROb2pjaW9rTmJYQjVUQUZra0ZWb0Y0bmRfV3ZVVWhFVjFIX1J6ZHN4bnd5NU5mLW8yWTZ6QkRGaW9aUHQxNUd3V0tWdmY3TllHUC1PcUpsRzlmY0hrWEdvUlhvNEhjaXpZRGYtYm83WVVHMEpKc0d3QlRVWDJ6NS1UX0ljQlpHRVFiVXFSMkxWWkVWMS1PSXBTcjZJTGpiMXhOWnRhZm1DcF9qOXFQSXU0aklzV2U4TlY1UXpaVDRiQkhLRWhTUnRYRGJtWWh0UlZLTjVSbTcxd29VclEyNFJGWnZCajRmRDlFcFUxT0NvV1dGQ2h0RmxIeHJvcjF0cjI2RF9BSmsweFRGVk9HY1VocktBOE9YejV3NC1fNl9xQ2pBM3hieG8tc3o0dWs3SWV1ZWpIRWlTYWEzcEx1M21kaGNOMlhkbEV0VF9GbFVGVmtIdEctRUR3V05fd0NCeFh0ZnR1ZlZDQkJIbHhnOG5pcjFnUEhkc3RQbzFaSHo1ZW5Cek53VXpVYzFHZnhVRWFDWWtmRHNRVUZGb3dQWEtMYjc0WmhRbXNDTm9FTUdSRjBB?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.so3ody.com",
       "title": "سعودى سبورت"
@@ -934,6 +904,16 @@
     "description": "غموض يحيط بموعد وصول بعثة شباب الأهلي إلى الرياض قبل مواجهة الهلال الآسيوية  سعودى سبورت",
     "published date": "Mon, 02 Nov 2026 08:10:47 GMT",
     "url": "https://news.google.com/rss/articles/CBMingVBVV95cUxPVjU4bHZVV2lXWFYyMUlqTEdZZkZKRDN3bS04Tjh5UnBxWlN0SXZOWl9rSTlXcDRxLUQ3WnJHTVRSS3B0d1N3cHFvN2hXUEI3ck4yUHhUT0V0cFNuRU9HNUc3UHgydjU3aTRfS2hPOFVHWXJYSVJzMHdIWUl5Z29CUnNuc0hkUERJeHJjTWlJZFNEVlhweVdtQjZDY29yOXU5dmVqUFB3QUpPbERpU3dzbzJWMUN0UENxQ0JKOXB0blJaR3Q2RzhNdmlYb254d2JtclJHRGx4TkZTWG10NHdvUkxLakNOWVFDejFuREJTYVdKU19SRS05MFNhcVI4bTRjYXdXaENQUld1V2FKN1l0VFgxNHpmeDhiSzV0RjVrM0M5dlJCUlZ1c1J0Rjd4b0hMUl9oeC1adlM4OWNPRkM2eE0zRjh3eFhHUXJsUERxZ01nT2p5OGR4UUQzMWtBZDNIUkthbVRKQVNUZkZ5NEJjM1FYOXhzejRqV1ZYdlh5NXFYZ0ItU1dZMjF6WUowZGl0RXc2QVhJTThHYmd4MlUwSjRiTTlJYS00d1kwSksyZFptSG9acHNxUzBIdUhXbnJkUG9BcEg2TkFFS3NCTjRvcy1wQjlDeGV0b242VFQwWFhrYTI2ek1LNEExUUgtYURIV3owV1dBb3doM3NTQmgwMzR0WnNwYVVwYWZXeTJLc1ozakZxcm1SVk1QVlFzZkUwbDF5c0R5LVh0TlBIWm9aYjQ1NFRoY2xEejZxZEEyblVhUHMwQ0wyMjRPeW04LVNhY0h4cWU1NUpkUWNZTldTSTB0dW54dElGUzVGeGRkZm9FV0ZqZHRxeDB3aWNwVVFCdDlhVXB1Q3JFcFVWdFc2Q0dqcFktR3B3blF5SDVn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.so3ody.com",
+      "title": "سعودى سبورت"
+    }
+  },
+  {
+    "title": "تشكيل الهلال الرسمي أمام الفتح في الدوري.. إنزاجي يهاجم بالقوة الضاربة - سعودى سبورت",
+    "description": "تشكيل الهلال الرسمي أمام الفتح في الدوري.. إنزاجي يهاجم بالقوة الضاربة  سعودى سبورت",
+    "published date": "Sat, 31 Oct 2026 16:55:05 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi-wRBVV95cUxNMm9LNFF6RHF4YWpHdEVBVWlaaXc0Q0Rub0ZtS2hVVXRzQUlxZ254MGE4U0p2VTZFWWRvNmJsbFlOWVZ1Nl9EaHRzSzdZUWFBTjk1Y0xGOUpqUUduRFJiZ1YtLUhlZ1JQZmp1bWFZdUVVQjNsTG00VnlnYU1ycUZTQkFuVlV2RkdmWG9FM0FaQUZCZFhNNHZwUm5BVWZISEFPa3pEeVdmU2ZQWVVLT0V0ZmJqdElPREc4NHRROVhLSUxWeVhWcE1OUGxLUXp6blhMcWpVcGtLdUtHQzUxWld5bDB1Nk9LMGpoNDBVV0pDVnF5eENoVG1GWDFxRTVzUTNxSU5ueHNoa3Z0eW5HanVqRDVmbVpVXzBNMEFwa2UyMXRRXzdaQ0t1b3FsWGZ0Vm1pRFFWMTFFelZCaEdfRl9lX2JQblpqTE41dmNETS05dWxUOWVBQTJtQzE1bXNia2UzT0FBX2NYT2p5dzJUaXRfUjFHbEFVcHhYYnQxc095WTFhRElnYVFJcFlmU2EyVzNpcFZfRmVkaW55Z3lHNXB6ZjZYaWZVeEUxSDN1WHgtTFFPOUtBZk1sbV9tYzE4VTQ3NTcyTTg4S0ppQUEyZ01nQUl4WXZJczNyUWtHcGQyWm1WQm05c3JZOFZFZEVqdnJIc3RJTlhrMkhxVmdWbW9mWDlkcjNpNW84c2JMRWlma3hmVWFxTU1hQnZXXy1xSk84VWFWa01SalhiT2x5dTU4S2xnYTluNWowVmllWlplTWs2TzZ1cTNGX3lGZUMzQ3VTR2dYN0YySW4yMDQ3aTF0WFJiS2RZOHJkTERncVRXSFd4aTBBN2QzNXE1QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.so3ody.com",
       "title": "سعودى سبورت"
@@ -960,20 +940,20 @@
     }
   },
   {
-    "title": "إنزاغي يحسم مصير سالم وسامرفيل أمام الفتح.. وموقف ثلاثي الهلال يتحدد اليوم - سعودى سبورت",
-    "description": "إنزاغي يحسم مصير سالم وسامرفيل أمام الفتح.. وموقف ثلاثي الهلال يتحدد اليوم  سعودى سبورت",
-    "published date": "Sat, 31 Oct 2026 09:53:04 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijAVBVV95cUxQdzhVem56OEYyQ21MSG91Q012YnJpUHRRc2pDX0NvTGtoYmJSNUJOWFNZazFzZnBNd2NzaVZoemF1WWpKX1hqczRhckNGU1FxdF9hSmFSX2JJdk1sNkdDbi13SE5VdmJnUDNOZkVWQVpNUEFwdTNPeWxIWHRNY3ZFZzViYzM5a2J6Z2E2WHhMdTJLZzVDd3pfaWNqc29HVTZoRUVuaGd3MWNyY1RwTDJFYjlLR0h5d3FJMVRzOHdRZmtDLVZyMmN4a0V2ZVk2aDdLMTNmNDQ0MGdPb1VFbjI4MWVXMGlMU2lMYjNXNTBxOTU1ekNoeVFzS2M1eG1MbkQ1SVptdW5YbkhHdkV1d19DMkhjQVBRdjhzTXQ2REZZc2RGbElNRmNyaEoxQklfMDZZVGUxaTJUSFdPRWU5RXBsNnBnU0dVbzU3TEFFbEFoUTJLQ3g0djVrZzVxbkRwanRxbGJRTHcxbVJFbWt5R0NDN3l6dzB1M3dXcHhUOXI5V2pQVDFlUFl6dUt2VE55eWRwNDRfNDhCOGloSGNIRmJyZXlXTENkR0hmZjNscFBqOHJtWmlwN1dZSXV4UDdya3JnRE5Ob0JHcmlNVUNfeVRQNDdSV1JXanF5bWQwOVZmTzRIVjVjczFEeXRUYnhFcUlOajdZbnNhMnFBY1BNSUZMVHJTUi1mMzJjWmpkZWxSeFBBVTdmQ003aUwxWnZvdFNNcmRiQkdmZ3dkTUo5WE1JQnpPRWliRVB6Z2ZIZmxDbUZ4eUJWejR1SUpRQ0RTS0oyWHBoOC14ZXNTbTlpdGw5SktDYjJQRDRTc0Z2aV9BVmJtOVlCTVFSQmlQNWNGSVRtVkVubEtERlpmc2JY?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "الطريقي يفتح ملف ديربي النصر والهلال.. ويحذر من نقل المباراة إلى أرامكو - سعودى سبورت",
+    "description": "الطريقي يفتح ملف ديربي النصر والهلال.. ويحذر من نقل المباراة إلى أرامكو  سعودى سبورت",
+    "published date": "Wed, 04 Nov 2026 18:15:27 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi9ARBVV95cUxPa2pXdDQzckpPQkllbmljZHFnLVBLaEdBU0ZSQ1QyWk9fUXRwbDNjX2dweTVDUkN6bGJFajBXSnBRaE5xS0NKczktOWx0VUdTTlZTc2l2UVlHMVpHcVlRaTQ3MDE2QXE5Ykh1UmNyN3dFY3RKQ2gwdGoyajlVMFpmaEVLTTRCZGxGdkJiQU5BS2Q1VWRNdW93V0Y3V0p2SlViVkxqMnF1TFFNOXlEVzNBb0tnTzY1bW5qcHdIQm4xbi1xaW5jRDB3ekptRTkzVHdRVDNIWHlxcHI3WDRiTzN1dkdFMktHSUhhY2k5YVNyVWRVYzhUR1podFdGbEs3VWwtZ25aUktkczM5My1kYlVNZ1FtOUhuVmpRbmtkODJNSWpVSl9adkpwWDZpOVVrbjM4QV9fc19ZWnE1OWpQdXRwRmpEd05fT1Q1eFdCLTIzcjlIbWxjdlJveFNIWHRCVEE2NmQ3a29UQ1VIV2xkTksxT0Jfdmt2YTg3UkNRVmdic21NMFVCeDBoNExIZ3VYMUh0YWdLOGgyTDBEczVMWHUydHltNWtqZklKRmVjQzU5TTBsT0JtMEtrd1EwTWpFTVphMDJ5STJQM0dxQTdaQUI0dVBXQUozaHVyZGh5RElxS1dDT3M5QUMtYXRsZFA3Q050WW1taUMtbmJycVVLQW5wTEFRLXgxdmVDMEdVbkJ1UHllRjJVVDhQbHFMY051amdHUmJnc0t5UktoY2JsX3VyYk9waVQ1ZS1qblZlWlQyNk40eE02TWQwdnQ4MFBtaExmNmhmeFJnTWtrR3FJcExWQUNkckdvbXRPcy0xX1IxdWlNQ1Qy?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.so3ody.com",
       "title": "سعودى سبورت"
     }
   },
   {
-    "title": "الطريقي يفتح ملف ديربي النصر والهلال.. ويحذر من نقل المباراة إلى أرامكو - سعودى سبورت",
-    "description": "الطريقي يفتح ملف ديربي النصر والهلال.. ويحذر من نقل المباراة إلى أرامكو  سعودى سبورت",
-    "published date": "Wed, 04 Nov 2026 18:15:27 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi9ARBVV95cUxPa2pXdDQzckpPQkllbmljZHFnLVBLaEdBU0ZSQ1QyWk9fUXRwbDNjX2dweTVDUkN6bGJFajBXSnBRaE5xS0NKczktOWx0VUdTTlZTc2l2UVlHMVpHcVlRaTQ3MDE2QXE5Ykh1UmNyN3dFY3RKQ2gwdGoyajlVMFpmaEVLTTRCZGxGdkJiQU5BS2Q1VWRNdW93V0Y3V0p2SlViVkxqMnF1TFFNOXlEVzNBb0tnTzY1bW5qcHdIQm4xbi1xaW5jRDB3ekptRTkzVHdRVDNIWHlxcHI3WDRiTzN1dkdFMktHSUhhY2k5YVNyVWRVYzhUR1podFdGbEs3VWwtZ25aUktkczM5My1kYlVNZ1FtOUhuVmpRbmtkODJNSWpVSl9adkpwWDZpOVVrbjM4QV9fc19ZWnE1OWpQdXRwRmpEd05fT1Q1eFdCLTIzcjlIbWxjdlJveFNIWHRCVEE2NmQ3a29UQ1VIV2xkTksxT0Jfdmt2YTg3UkNRVmdic21NMFVCeDBoNExIZ3VYMUh0YWdLOGgyTDBEczVMWHUydHltNWtqZklKRmVjQzU5TTBsT0JtMEtrd1EwTWpFTVphMDJ5STJQM0dxQTdaQUI0dVBXQUozaHVyZGh5RElxS1dDT3M5QUMtYXRsZFA3Q050WW1taUMtbmJycVVLQW5wTEFRLXgxdmVDMEdVbkJ1UHllRjJVVDhQbHFMY051amdHUmJnc0t5UktoY2JsX3VyYk9waVQ1ZS1qblZlWlQyNk40eE02TWQwdnQ4MFBtaExmNmhmeFJnTWtrR3FJcExWQUNkckdvbXRPcy0xX1IxdWlNQ1Qy?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "مانشستر يونايتد يهدد مستقبل الهلال الفني .. تطورات عاجلة في ملف إنزاغي - سعودى سبورت",
+    "description": "مانشستر يونايتد يهدد مستقبل الهلال الفني .. تطورات عاجلة في ملف إنزاغي  سعودى سبورت",
+    "published date": "Sun, 25 Oct 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi6wRBVV95cUxNalNyU2RrVEx3VXhFenhGTGRlZ1hJcWNCQzk1amVIbXFpTHd6LXVqYkZsVGt0QWhwNXNuR2ZPWTdTR1hqb2tjU1JtRy00c2E5OW1zeHVicUZ1ZExQNlc1Y1hPNWpiZ3FwYmVmRjd2bi1iNmlEUzhhcmI3cTI1NTZVZWdhT3pIaTJOVDFKMWM1Y3hHSEpOS3ZqN3R4STM0Ujc5WC1XZlVmYmViYjFUbF9PY2JnNmRwRjFfU1ZTZ21CUTlvRVItcmxFOFZLWTlPNFU0Y1pPekRONzV0S3dwN3R4T0hJWmx1UGJ5d2VOTGtaYXR1cU9leEoxdEZtQUhxRklReUVkS2QzVkJDbmRhQ25XWkNlYXJJQjdIMndkUDFKbzNLOFdZdDdxeC1hQ2V3X0Zka3lIb3RjQlpEcFR5VTBkbnctRWxQRDZ6UTBrWG5pbE1PZmNTaWFaSm9ZUzllYTFiVEJUeHpZcWg1em1wd0V0bW1VZXlpQWcxem1sQzU2OGNqb0VLcXhZVFRwZVp1TDVBRmFSMUw1V1JobzZDWkpfTkE3RW14V2hXYXRGYVdzdkpzcmQwb2VBVjJHRUI5U1kyM1FLSUVQQlpCQXF1TmFBTHk5dkZ6LTBESm9vRlJaakdPY01VSExIUjQ5b3Nxai1QdlZ5WlYwMkxrLXZQZzRyMW80UmNPTWtGNEhEbzd6T2cyTEx5UG94ZzdRSmxvd0ZsZWhRV2xMMXlacGVjU19sampod1pfTm96d1VtcVZMT00zMkZEVjJ6eVdtd0wxbUpXVzZXbmF6TUNXcDJEd1NKSkdCMWt5dWFNWUtn?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.so3ody.com",
       "title": "سعودى سبورت"
@@ -987,6 +967,26 @@
     "publisher": {
       "href": "https://www.so3ody.com",
       "title": "سعودى سبورت"
+    }
+  },
+  {
+    "title": "تأجيل مباراة النصر والوصل يشعل الجدل.. لماذا يستحضر الهلال أزمة 2020؟ - سعودى سبورت",
+    "description": "تأجيل مباراة النصر والوصل يشعل الجدل.. لماذا يستحضر الهلال أزمة 2020؟  سعودى سبورت",
+    "published date": "Mon, 26 Oct 2026 07:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi0ARBVV95cUxQaUpqdFh4TFpZV29iQmNOUXdJVXNybWdnX0VxMjlMVk9WTXBoWXpJWENfNjVEalJaVV83WXkzcHhDVElVV2d2VW9fWmd6Mzh2djNzSEw3dFZscmUxUW1OdVNNWEtWbTNfb1BXMTJXUTdFODdEWDBwU0dBLVZMYXJaTl9CUVBkd2phdGhIVERGXzJfbXByOHBmcXIzUDRpRE5STHo4ektkakxBMzQ3TEhUUXZxY3RtMmQ3LTNORTZDbUdWTFRCYXJRVXVTaldxZF9YaUl6c0pQUFdXbzhBLVN6bXZpQUhmNGVWYkFjRjNZSUFvd0hrX3BrbkZUWUJkcnZHOWYyeFNFU180SE1XVVB2T3hQemh6eHZiSFRhYmF2Si01aWRCdF9xNXJBcm1fWXVxc1ZsQ0dCNmFnTnAxcHhsWmFtWk9EeVpicFlKREhuTEdiX1pkdzBPT0FvQVBLLXE2aE9kdElvejdzdVBrNUR3dnA5czk5emRCR3h5SjZWWDc2RkNmYlY1Vzh0dmw5SWVJSGZlWklacmdnUG1jcnlIUUlqaEd1ZC1ucW1HLTc4WE15aHhRRjk3Sm50dzBmTC1zMzdfQ1VpWHA1UHdkVW1HR0VRM1dtQnRrT2Vqckp3ZnFkb1RQOU5GdVZHdlVXWVJDdjZKUkZzZDNkalNKTEV4cTlCQlI2WVZKTXUyNjFhVWROeG1GVEFlaFhIaG9vUmtoQW1oeTdfQTdjRWRBUWpSZnRKWHY1QnUtRk94bW9GUW9JWTVqbkhjM0dRaUExbVd4?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.so3ody.com",
+      "title": "سعودى سبورت"
+    }
+  },
+  {
+    "title": "الدوري السعودي للمحترفين: المباريات والترتيب والأخبار | يلا شووت - YSscores",
+    "description": "الدوري السعودي للمحترفين: المباريات والترتيب والأخبار | يلا شووت  YSscores",
+    "published date": "Mon, 06 Oct 2025 19:47:18 GMT",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGZ2JVMFNLRFNFQ0sxaFVGWEhIdzZJVllZV0ZGVzJWdVdsbGpVYW5IUEQydlU5VnV4Wmw4ajBBaDVzcUFpR1laclhNZlVhc05maWV1S2FQN2ctaUxjZXYyRlJZX1dwQ04xdmc1Y2ZlNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ysscores.com",
+      "title": "YSscores"
     }
   }
 ]
