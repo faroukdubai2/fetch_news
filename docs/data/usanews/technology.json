@@ -1,172 +1,62 @@
 [
   {
-    "title": "Apple Releases iOS 27.2.1 With Bug Fixes - MacRumors",
-    "description": "Apple Releases iOS 27.2.1 With Bug Fixes  MacRumorsApple releases iOS 27.2.1 for iPhone, here’s what’s new  9to5MacApple Releases macOS Golden Gate 27.2.1  MacRumorsIncremental iOS 27.2.1, iPadOS, macOS updates arrive with bug fixes  AppleInsiderApple releases security updates: iOS 27.2.1, 26.7.3, and 18.7.12  Macworld",
-    "published date": "Mon, 09 Nov 2026 18:09:57 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOczFlY1ZUejZJU0REY2phbkYwWDRxM0RrcU4tc3hKRHhVaXdoZVhuWGJlZzZfdEFyLUZscW5PT1BxR2pxVDZsWXJmM3NlM0lQWlJLcEJNeWVCbFJVU1VGcVZrT3ExUVFON2tBQUVJNWRBUWUzZXl4UWstMmFxUmhYQXFHRng?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.macrumors.com",
-      "title": "MacRumors"
-    }
-  },
-  {
-    "title": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More - The Hacker News",
-    "description": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More  The Hacker NewsVulnerability that lets hackers SSH into Linux devices is under active exploitation  Ars TechnicaOpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux  The Hacker NewsAlpine Linux and OpenSSH patch flaw that’s as bad as it can get  ZDNETOpenSSH flaw lets attackers log into password-disabled Linux accounts  BleepingComputer",
-    "published date": "Mon, 09 Nov 2026 13:28:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRTh2X2FOREpKRmoxTUNweG1SZ2JqQzhMQWlnYklRZThPd1pWZlFScEozcWF2dG5hSWZDZzlaYktVOG82dTNLUS1NekZOVVE3NTlVR0FndDVMSmNWSVFCQXpOc3ZqMVl1MkVlT09PZzVzeENFdFdXZlJNMTdsUWlYVi1VZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://thehackernews.com",
-      "title": "The Hacker News"
-    }
-  },
-  {
-    "title": "Galaxy Watch 8 series gets stable One UI 9 Watch (Wear OS 7) update - SamMobile",
-    "description": "Galaxy Watch 8 series gets stable One UI 9 Watch (Wear OS 7) update  SamMobileSamsung starts rolling out stable One UI 9 with Wear OS 7 to Galaxy Watch 8 series  Android AuthoritySamsung Rolls Out Stable One UI 9 Watch Update for Galaxy Watch 8 Series  SammyGuruSamsung's One UI 9 Watch Update Is Here — But Galaxy Watch8 Owners Face a Regional Wait  TechRepublicGalaxy Watch 8 Finally Gets Its Stable One UI 9 Watch Update  Android Headlines",
-    "published date": "Mon, 09 Nov 2026 07:05:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZWZtSXRyQWNrWVN2MkdRTzBWbm1zWlVmSm8xVlQybFdBOG5EVEVOTlBVbnhaYVVnLWtGa0dTOVJSTXc1cVhabHplRDdSa1NiaGowZUdUX2tzdGZrclBpdmZDam56ODFPMDZXMmhfbC1pY3ZucXZFR1Rubkl1X21ZZEhOTGNRMmMxN2Vvb1JzRGZSbTlrbExQTGJvN2dLUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.sammobile.com",
-      "title": "SamMobile"
-    }
-  },
-  {
-    "title": "Sony’s new PlayStation Portal handheld includes ‘additional’ internal storage - The Verge",
-    "description": "Sony’s new PlayStation Portal handheld includes ‘additional’ internal storage  The VergeSony Officially Announces New Playstation Handheld  Polygon.comSony Launches New PS Portal Model in Japan With Internal Storage for 'Future Functionality,' Changes Official Name  IGNNew PlayStation Portal Player Gets Built-In Storage in Japan and Korea, Purpose Still Unknown  TechPowerUpSony Announces New Japan-Only PlayStation Portal With Internal Storage  Kotaku",
-    "published date": "Mon, 09 Nov 2026 16:23:31 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT0VyLXlUbnJTWnNwUjN0SzRzVklkRDZJZTRGU3drSzNxUTRnNDdSR3h0MjV3OUZVeDYtNU5FaVJrNHVOdnpPT0xNQlZXUmkyWTBHb0xKZmVhbW12eTIzaDJYUVFuaS1pem5PTURNay03RWpTNDZqSWdtZEVrTkQwSVpEZk5HUVBUTkVCd1c1Uk5fa3dZd21Z?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theverge.com",
-      "title": "The Verge"
-    }
-  },
-  {
-    "title": "Samsung could soon start charging for Galaxy AI with a new $4.99 Premium subscription (Updated) - Android Authority",
-    "description": "Samsung could soon start charging for Galaxy AI with a new $4.99 Premium subscription (Updated)  Android AuthorityExclusive: Samsung Is Testing a Galaxy AI Premium Subscription  SammyGuruSamsung could put Galaxy features behind a $4.99 monthly paywall  PhoneArenaOne UI 9.5 could give Samsung Internet a dedicated desktop mode for DeX users  Android AuthoritySamsung’s paid Galaxy AI plan leaks for $5/month, but will you pay?  9to5Google",
-    "published date": "Mon, 09 Nov 2026 12:32:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTkd0ekFvVDB0RDFzd19uMy16aTNQOVdkYVJ4Y1BFN3hOdTJNdkN4cnBZUTJ4QjR2WjE5MEtrQVpBYUZpeksyRHd1N3FiTzVnaGJyeGFLbVFMTE5mYV9veWJIWmxjR1pFcS1Mb2YxMUxSQUpfUWp6MHd6dy1OdlZLdXZualFIOUJPcmhUZXNhZXg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.androidauthority.com",
-      "title": "Android Authority"
-    }
-  },
-  {
-    "title": "Exclusive: Here’s Your First Look at Memory, Samsung’s Take on Pixel Screenshots - SammyGuru",
-    "description": "Exclusive: Here’s Your First Look at Memory, Samsung’s Take on Pixel Screenshots  SammyGuruSamsung is working on a new Galaxy AI app to clean up the screenshot mess you've been pretending doesn't exist  Digital TrendsSamsung’s new Memory app is a better version of one of Google’s exclusive Pixel apps  Android PoliceSamsung Memory leak reveals One UI 9.5 app to save screenshots with AI  Pasquale PillitteriSamsung has a new trick for all those screenshots you take and forget  MakeUseOf",
-    "published date": "Sun, 08 Nov 2026 21:34:07 GMT",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1sYWNGc014RjdPTm1nS2RIYzA3RnlCUHlud2hsbGdhMDR6TS15RUljemRtdDZyc1FXVmhlSGJ3Tm52emRHS0g2czVKdklUSHpuakpxblJaclpOY0ZaeGNralhXSG1wRlV5dTg5eU5ZTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://sammyguru.com",
-      "title": "SammyGuru"
-    }
-  },
-  {
-    "title": "Leak reveals details for more iPhone 18 models launching early 2027 - 9to5Mac",
-    "description": "Leak reveals details for more iPhone 18 models launching early 2027  9to5MaciPhone 18e Could Feature Bigger Display and Battery  MacRumorsForget the iPhone 17. The iPhone 18 could even beat the iPhone 18 Pro in one key area  PhoneArenaiPhone 18 and 18e to feature same sized screens and batteries - GSMArena.com news  GSMArena.comUpcoming iPhone 18 Could Be the Most Disappointing Apple Phone  Geeky Gadgets",
-    "published date": "Mon, 09 Nov 2026 14:50:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdXBRQWZQTUxFVFR0NkdRMHV3LTNPT1lPU2VfUmxZRXNHSFpaeWRobHM0cnU0cTR0N2E3MTB5aWx1YlBheS1welFTZ2NNWV9OX3lmRmdtem1WbGlRMWFPci05M2p5M3Y4Sjc0UUpmYm9DLUNUb3lZQ29MTExlT1QxTURQaDhReXMyS3FJVkE2OGxFcFozVkFPX1l0YzAxOVpo?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "iOS 27.2.1 has fixes for security issues in Messages, AirPlay, and more - 9to5Mac",
+    "description": "iOS 27.2.1 has fixes for security issues in Messages, AirPlay, and more  9to5MacUpdate Your iPhone to Prevent People From Seeing iMessages They Shouldn't  LifehackerHere's What Apple Fixed in iOS 27.2.1 and macOS 27.2.1  MacRumorsIncremental iOS 27.2.1, iPadOS, macOS updates arrive with bug fixes  AppleInsiderApple releases iOS 26.7.3, watchOS 27.2.1 and more  Mezha.net",
+    "published date": "Mon, 09 Nov 2026 20:20:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUy1HZm9fRnBBb1kxaWtKYmY2WGdncnFOLTNwVWpUZ05EcjdLaU96QWJIQlhTeDRObFp2N0lqMENBTEFVVjBEeGhjU0ZwYlBzN3psVDUxNmNtS1NSaEdGaHI2djZ2ZzZKWW0weEpsaEtDam9OT001UXJxSUQtSEVjS1g1ZHh3cG5GXzBRVXRzbXFXLUJlU2UtZ0dMS0hlSXV5c3JN?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://9to5mac.com",
       "title": "9to5Mac"
     }
   },
   {
-    "title": "Apple Reportedly Wants Siri AI to Be More Agentic Next Year - PCMag",
-    "description": "Apple Reportedly Wants Siri AI to Be More Agentic Next Year  PCMagApple CEO Presses Software Chief to Pursue More Ambitious AI Strategy  Bloomberg.comPanic at Apple: new CEO realizes the company is in serious trouble  ynetnewsApple leadership may have differing views on AI strategy  AppleInsiderApple is racing to make Siri more agentic  The Verge",
-    "published date": "Mon, 09 Nov 2026 09:32:03 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ1pxYUVCRG9rZ3JKOElvdXA2d2NkcWdFeUZScmdFSTdrbXJfRk41TmRscDBzTmtiUlNQZ2otS0o3dVItaWVaeWEteWtWOFh5bmRGdGRWRldXcFBzNmRjWEw3enpiU1BBS0hZUXZ6NEJObnVUZUNXX3RwbVRreDZPMlpGQ2p4WS1vUU9zb2xvQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "iPhone 18e Could Feature Bigger Display and Battery - MacRumors",
+    "description": "iPhone 18e Could Feature Bigger Display and Battery  MacRumorsForget the iPhone 17. The iPhone 18 could even beat the iPhone 18 Pro in one key area  PhoneArenaiPhone 18 is getting two major upgrades, but also another price hike - GSMArena.com news  GSMArena.comiPhone 18 will have two upgrades inspired by ‘Pro’ models, per leak  9to5MacApple is preparing to launch the iPhone 18 in spring 2027... with a larger battery and a new processor  صوت الإمارات",
+    "published date": "Mon, 09 Nov 2026 12:45:25 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRDdEb0VTWVI2RGN4NUNYd2xZRjZvb1J2aHQyVjk4OWZlRkVBQlRseEFkNUEzY3lTNGp4ZXR0VGxlTEhCUWtFbXlPUWQwNlk5N0RWTkhPM1FwbnM1TGw2MnVHcGJQNU9seXpMaGZ4dk9EZWpCMHBXNUZScVFleHlSUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.pcmag.com",
-      "title": "PCMag"
+      "href": "https://www.macrumors.com",
+      "title": "MacRumors"
     }
   },
   {
-    "title": "This is the most affordable phone plan I've found — and it still has unlimited talk, text, and data - AOL.com",
-    "description": "This is the most affordable phone plan I've found — and it still has unlimited talk, text, and data  AOL.com",
-    "published date": "Thu, 05 Nov 2026 15:08:47 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUG91Um9KNS1lV29yQ0NNYXJzN09GdnZjRWFaSWpWVlQ0Tl85M0MtbU9iOVRTSThudnlhRUo3dGlhdW5oeXlRcHhyczNxRUg0SUZndUdoM29qcU9lcnFrRXFZRm1DWVc3Qk1SZGI3enRoeldnVjZvbU1hMGVUalJZMU5jaXd6aDd1M1ZQLXJ2dV9KTFpWWmFNRW9tdUdUakgtSGVoS3JTYWM2dDFjdEpTMlZHMUFidlNDcGx5LXRrZ3I5clZqS3NFMGZHdHVjMDZlaERMc0NR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Which Foldable Phone Has the Best Battery Life? We Put Them to the Test - CNET",
+    "description": "Which Foldable Phone Has the Best Battery Life? We Put Them to the Test  CNETThis smartphone lasts longer than any other  NotebookcheckWhich Motorola Phones Have a 7000mAh Battery in 2026?  ReviByteAfter 120 Hours of Testing, This Phone Had the Longest-Lasting Battery Life  CNET",
+    "published date": "Mon, 09 Nov 2026 13:00:12 GMT",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TYUlCR085RFBWczNxcUxSMEg2UElkeU1uX1hmSEhmZ3BaVmJBSGh0N3d2QnF6ay1sLXlGd3U5SDNoTDZyNkNUY29paTdqUklXZm1OZld5VWdHaTBuOHpySklQdWQ2bzhLNTMxT1FrOXIzZkVw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.aol.com",
-      "title": "AOL.com"
+      "href": "https://www.cnet.com",
+      "title": "CNET"
     }
   },
   {
-    "title": "Epic Games Launcher is coming to SteamOS - The Verge",
-    "description": "Epic Games Launcher is coming to SteamOS  The VergeEpic Games comments on planned Linux distribution support  GamingOnLinuxEpic Games Store Launcher Confirmed for SteamOS, but Fortnite Is Still Up in the Air  BigGo Finance“including Fedora, SteamOS”: Epic outlines Linux plans for its new games launcher  MIXED NewsEpic Games Launcher is coming to Linux, but 'Fortnite' is not yet  Digitec",
-    "published date": "Sun, 08 Nov 2026 20:52:05 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcXR3ZmtxLVVLaEd0aElfaXl3LWV3RnE0Y0tKa2ZhY0xFallKN3N4VUptQjJNNFhxaF9OamJjbjdMSGVyeXE2NTJacXBwQndJX3hpYzBuZUl4dHNwSHozWXRYRl9SN01EZU9xemNaS1lhMzUtbjd5NHJiRm55R0dYZ2xlTVdjdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "'The Ocarina of Time' remake is setting Metacritic records left and right - Mashable",
+    "description": "'The Ocarina of Time' remake is setting Metacritic records left and right  MashableA ‘Legend of Zelda’ Game Is Reborn and ’90s Nostalgia Fans Are All In  The New York TimesZelda: Ocarina of Time Remake Gets a Native PC Port Through Static Recompilation  TechPowerUpAward-Winning Composer And Musician Jon Batiste Talks Ocarina Of Time's Music And Why 'Guile's Theme' Goes With Everything  Game InformerThe ‘Legend Of Zelda: Ocarina Of Time’ Remake Sets An All-Time Metacritic Score Record  Forbes",
+    "published date": "Tue, 10 Nov 2026 03:12:14 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU1BrSldWU3lCUUd5VUpXd2N3ejlSQUltVTR0Ql8tMUo5ZC1wdUFoaS1ZRzA2UjRBekhaRmZzd3J3d0w2SWgxZ1ROWjAwWVI2ejFid3hnb3hkUTdOelEzaFVOd0VVd2FfY2lkVEdnM0tmd3hSWXRDaFFCb19neUNRUHYwVjZkNnlGS2d3YQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.theverge.com",
-      "title": "The Verge"
+      "href": "https://mashable.com",
+      "title": "Mashable"
     }
   },
   {
-    "title": "The ‘Legend Of Zelda: Ocarina Of Time’ Remake Sets An All-Time Metacritic Score Record - Forbes",
-    "description": "The ‘Legend Of Zelda: Ocarina Of Time’ Remake Sets An All-Time Metacritic Score Record  ForbesThe Legend of Zelda: Ocarina of Time is now available - News - Nintendo Official Site  Nintendo'The Ocarina of Time' remake is setting Metacritic records left and right  MashableA ‘Legend of Zelda’ Game Is Reborn and ’90s Nostalgia Fans Are All In  The New York TimesZelda: Ocarina of Time Remake Gets a Native PC Port Through Static Recompilation  TechPowerUp",
-    "published date": "Mon, 09 Nov 2026 14:42:04 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZEJKR0dUSkk2c2ExTEtqclYxSm13UFBuRXA0T0VNQUxLYThiZmo2cnZNZmtaNVFPdU5RVG00eGd6MWJROWlJOEFkSEt4NTdoOTR5MVNvR2Fta3ZTRUtPU2ZjeGxUSHVvay1UWjloSEZfN1VqR3V5VXpld1VZN3lyUENzQTJlX2ZPdlJlQjFPUGJteU82TWw1cjUtb0dQSGh0RUlDcFRBYzNaQVk1ZEdwalEtczNzZU9aUkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Nintendo Switch 2 System Update 23.5.0 Is Now Live, Here Are The Full Patch Notes - Nintendo Life",
+    "description": "Nintendo Switch 2 System Update 23.5.0 Is Now Live, Here Are The Full Patch Notes  Nintendo LifeComing soon: Gift digital games to family group members  NintendoNintendo Switch 2 and Switch update 23.5.0 out now, patch notes - new gifting feature and more  Nintendo EverythingNew Switch 2, Switch System Software Update Reveals Return Of Gifting Next Week  Nintendo World ReportNintendo Switch firmware update adds support for upcoming eShop gifting feature  My Nintendo News",
+    "published date": "Tue, 10 Nov 2026 01:50:47 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNalhheUxZbmxjRkxOUUlpaUN6dGxONk9MODlWbmEtMF9sT1gwSzJIRGxKcWdOZlc4NHVKT0FKUEFMQ295elEzeUgtQWFFM3V1ak5ldE82UXo4d3JSZXVQMnE4N09VajhzUmpyN3YwZE1INUxsMkpVM28tY0ZTejFKaGZJT20zMk5oMWFYUy1lOTZZbkNsTmw1SF9UVGlyRGxVbzktY1FabHkySVNVUjRDMlZtdmdQSmZBZE9MTGkwZw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.forbes.com",
-      "title": "Forbes"
+      "href": "https://www.nintendolife.com",
+      "title": "Nintendo Life"
     }
   },
   {
-    "title": "Meet Drops, the new music app bringing back the fun of sharing songs with friends - TechCrunch",
-    "description": "Meet Drops, the new music app bringing back the fun of sharing songs with friends  TechCrunchHARMAN INTRODUCES DROPS, MAKING MUSIC DISCOVERY MORE PERSONAL, ONE CLIP AT A TIME  HARMAN Newsroom",
-    "published date": "Mon, 09 Nov 2026 14:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUXBvU1U1T2t3dzFSTld2Ry1XWEhCMnJZNVdNam55d1FtV0xCN3hhNXA3Qm51MFpNVUI5bHRrc0NZa2h0bFJZVFUxTFlzZlRFUmxCZkxzU0hMaWpUTkRrVEs2aTEzaEE5cEpfYlZDTERXejJvNTJMdHY5NmYzRlFIQ1U3Ym0wcUpKbm5tWUh0R0xQVTVHbm5xNDNyOVdxYjZCb3NSZDE3T2VRcmUxZ3BBc1RWVmFyQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "‘GTA 6’ Presales ‘Far in Excess’ of Expectations Ahead of Next Week’s Launch, Take-Two CEO Says - Variety",
+    "description": "‘GTA 6’ Presales ‘Far in Excess’ of Expectations Ahead of Next Week’s Launch, Take-Two CEO Says  VarietyCrime pays: how Grand Theft Auto became a cultural colossus  The GuardianGTA 6 Estimated Digital Pre-Orders Near 8 Million, with PS5 Claiming 74% of Demand  Yahoo FinanceGTA 6 Pre-Orders Are Coming In ‘Far In Excess’ Of What Take-Two Expected, Says CEO  KotakuGTA VI heads into launch with an estimated $751 million in console pre-orders and Take-Two's $8 billion year riding on it  MLQ.ai",
+    "published date": "Mon, 09 Nov 2026 21:15:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbmNpR1RGcTF6cmhkV1djNHBiWUVvV1F4UTl0OGxaZDd2VGkySE1sZGgzVkVCZ09IdjJTME12b3d1SG1DbTRBZG9JazJiSm80SE51OEhCcTF3SXQzVmRnaGpLR1JXYXpyUm1lbGJrc3B2aVVndFNoV0l3Y19nT0s0aTB4eUN5dlFsV01RUg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://techcrunch.com",
-      "title": "TechCrunch"
-    }
-  },
-  {
-    "title": "Google confirms Android Auto no longer works on these Galaxy phones - SamMobile",
-    "description": "Google confirms Android Auto no longer works on these Galaxy phones  SamMobileAndroid Auto drops Android 9 and 10 as Google confirms new minimum requirements  Android AuthorityOlder Android phones just lost Android Auto access for good  Android CentralAndroid Auto requires Android 11 or higher now – check your compatibility  ZDNETAndroid Auto now requires at least Android 10.  The Verge",
-    "published date": "Mon, 09 Nov 2026 08:59:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMS1SdnR2N1p1YVdma2R1QUt3eHM1aF8wQkZTZEpyN05xcFlYUzdGV1o2NjdSU2VrQ2hVc285M3VtbGJuUW55bEo3S09JSXIzRnVERjNLVnhZT3h0RG9SV2FtcG02MDg3cnB2Y19GT2JtZWEwLXd3R0NLb01LUFp3R3RsRGJ1SEZIcWFKRWVLd2pTMTJjc3cwTWRZNGZHTElF?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.sammobile.com",
-      "title": "SamMobile"
-    }
-  },
-  {
-    "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits - The Hacker News",
-    "description": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits  The Hacker NewsGPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents  OpenAIOpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run  The Hacker NewsOpenAI's new cyber model found ways to attack nearly 1000 Linux flaws  AxiosOpenAI Bolsters Cyber Defenses  WSJ",
-    "published date": "Fri, 06 Nov 2026 14:58:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX2ZfWDZjZ0ZiM2VHMU5CWDFwNFdZR093TTh1RUVYN3h2NkRVWnBCdEUyWkhTOUhBMEd5di13STkxVlBCTXlMcFJTS2tZS20wT1lkOE03UGd2VnpkSG1Sb2F1cWtISFB5UEFJY2RhT19DV3N3djNmaEI0SDVWUVlTbg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://thehackernews.com",
-      "title": "The Hacker News"
-    }
-  },
-  {
-    "title": "iPhone Duo ‘crackgate’ could be at an end, as leaker claims Apple has figured out why some screens have been randomly breaking - Tom's Guide",
-    "description": "iPhone Duo ‘crackgate’ could be at an end, as leaker claims Apple has figured out why some screens have been randomly breaking  Tom's GuideiPhone Duo hinge issue down to bad parts, not bad design  AppleInsiderSamsung Is Loving Apple’s Ongoing iPhone Duo Problems  ForbesEven if Crackgate wasn't Apple's fault, it's still Apple's fault. You said it and I agree 100%  PhoneArenaiPhone Duo Screen Damage and App Gaps: What Is Proven  shattered.io",
-    "published date": "Mon, 09 Nov 2026 11:58:53 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZGc0NG9ISHFOM3JOSWI2Z21GcHp6dEwyUVJZdlVZSmFoS3BLaHJVNXJGWWpYeEFHS3hKeEZaZW14LUFBVWpvQWhmOXlHN2pGSGk0cHRMZEpjZFNhTnhMRUFPSnNDSm9iREk4QW1RVFUyOW1HcU5MTU56bl9qcC03YkU0VG9GTmJQelpPcXQtSGFFMlpja0gzMVZES28wWXg5WDV2UHNST3lnYTFrYk9ackFLcVZMc1VjVFNkLUw5elYwWUx1dkZ1Rk5HaVVLNHY3Zm5aN3NONWZkM3VJWkw5ZWtNMUpIc05qSVdkb24xYVVQZWpldnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.tomsguide.com",
-      "title": "Tom's Guide"
-    }
-  },
-  {
-    "title": "Claude can design electronic prototypes from start to finish - Anthropic",
-    "description": "Claude can design electronic prototypes from start to finish  Anthropic",
-    "published date": "Mon, 09 Nov 2026 18:58:57 GMT",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCTmk0c0tyNmVjUlFGNGlCZUtLSkxDQS13Unc1LUVXanhOVmt2a2xTLUQ2Vm5LZ2RLQnMzVUhUQXFLTVBfd1VQZi01V0ppVkZLU0VIcXNJT3V3Ul9ZSEFUS3l6S2ZLY0tHOVgxNw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.anthropic.com",
-      "title": "Anthropic"
-    }
-  },
-  {
-    "title": "Explore the desert with a new Arcane Journal - Warhammer Community",
-    "description": "Explore the desert with a new Arcane Journal  Warhammer Community",
-    "published date": "Mon, 09 Nov 2026 14:57:59 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRjBXcHpuSmJlSUpUM0FTZUNVaG5fblJnclE4QnNBcWM5UElMSkJCWlAzdEZ5Y3hNN1JFal9GOVZQSUpXWXNkZG9xdlRxclJ4cWdQaXotYjkxNmhZZjdtbjZYZEtCUlZmRVYyQXpBdXFQWkV2ZWxESGhBTjRWZjlXYnJab3FZS0dDYmdXd0doMkMwZ1JsRm1xX1E4ellqOHhEZVFnTjdrQXE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.warhammer-community.com",
-      "title": "Warhammer Community"
+      "href": "https://variety.com",
+      "title": "Variety"
     }
   },
   {
@@ -180,28 +70,108 @@
     }
   },
   {
-    "title": "The Mustang Shelby GT350 Is Coming Back With An NA V8 And A Manual: Report - Motor1.com",
-    "description": "The Mustang Shelby GT350 Is Coming Back With An NA V8 And A Manual: Report  Motor1.comA Ford Mustang Shelby GT350 Successor Is Reportedly Just Around the Corner  Car and DriverNew Ford Mustang launch timeline unofficially confirmed  The Supercar BlogFord Has a Replacement for the Shelby GT350 Mustang in the Works, Could Arrive in 2027: Report  Road & TrackFord Mustang GT350 Successor Reportedly Gets a Naturally Aspirated V8  Autoblog",
-    "published date": "Mon, 09 Nov 2026 06:46:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RWUpPT2ZWa0cxME1uSjF3Q2RxUlZBRUY0Tnlha25XUnNYVkFzZ3ZzLVU2Rks2a2w0MEtvUEgxZVo1dlBjeF9IdjdEUEtIM2JmUnRMOHQ0VFZQYzZTUmc4LTBjR3A0ZlM5U2VrYmlMSXpYMkNMTk92aXNR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "iPhone Duo ‘crackgate’ could be at an end, as leaker claims Apple has figured out why some screens have been randomly breaking - Tom's Guide",
+    "description": "iPhone Duo ‘crackgate’ could be at an end, as leaker claims Apple has figured out why some screens have been randomly breaking  Tom's GuideSamsung Is Loving Apple’s Ongoing iPhone Duo Problems  ForbesiPhone Duo hinge issue down to bad parts, not bad design  AppleInsiderEven if Crackgate wasn't Apple's fault, it's still Apple's fault. You said it and I agree 100%  PhoneArena\"Cracked Screens, Plunging Prices\": Apple's First Foldable Sees Resale Values Tumble in Just Two Weeks  아시아경제",
+    "published date": "Mon, 09 Nov 2026 11:58:53 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZGc0NG9ISHFOM3JOSWI2Z21GcHp6dEwyUVJZdlVZSmFoS3BLaHJVNXJGWWpYeEFHS3hKeEZaZW14LUFBVWpvQWhmOXlHN2pGSGk0cHRMZEpjZFNhTnhMRUFPSnNDSm9iREk4QW1RVFUyOW1HcU5MTU56bl9qcC03YkU0VG9GTmJQelpPcXQtSGFFMlpja0gzMVZES28wWXg5WDV2UHNST3lnYTFrYk9ackFLcVZMc1VjVFNkLUw5elYwWUx1dkZ1Rk5HaVVLNHY3Zm5aN3NONWZkM3VJWkw5ZWtNMUpIc05qSVdkb24xYVVQZWpldnc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.motor1.com",
-      "title": "Motor1.com"
+      "href": "https://www.tomsguide.com",
+      "title": "Tom's Guide"
     }
   },
   {
-    "title": "'Grand Theft Auto VI' is almost here. What to know about the characters, music and billions at stake - AP News",
-    "description": "'Grand Theft Auto VI' is almost here. What to know about the characters, music and billions at stake  AP NewsNew ‘GTA VI’ Screenshots Reveal Kodak Black as an In-Game Character  Hypebeast‘Grand Theft Auto VI’ is almost here. What to know about the characters, music and billions at stake  The Seattle TimesRockstar and West Coast Customs Build Six Real 'GTA VI' Cars, From Lowriders to Donks  ComplexGTA 6: Lots Of New Images Have Been Released  GameSpot",
-    "published date": "Mon, 09 Nov 2026 18:51:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbnJrbHE5SXBnU3h4ZjViR0FJNGdwYW0ybkFhQUtndEFMd0FBUUp0b2x1eWE2QWpVX2NWQWM2Q3c4NVJPcEFMaHpUQ0YtRGtOMnZoSEdPTEg3SmVCajdTam1PRVdMT0UxWXhabkZPRnhqYXBEMlF3UEJPRkVzSVpTVEZOQkdFVVhRTHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features - The Verge",
+    "description": "Apple’s $50 Intelligence Usage Packs extend access to some AI features  The VergeApple Makes Major AI Pricing Move as New Revenue Opportunity Emerges  Yahoo FinanceApple launches $50 ‘intelligence usage packs’ for select AI features  9to5MacLogic Pro 13 gets touch right, but stumbles on \"intelligent assistant\"  CDM Create Digital MusicApple Starts Offering $50 Extended Usage Packs For AI Features In Creator Studio  Engadget",
+    "published date": "Mon, 09 Nov 2026 19:09:58 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeEY1X0ZFY0k5R0ZvNEUzcU5qT2FYeFJhNF9WQjBZRHVrVmFUd0ZMdE45TDV6d0tRMVk0NXIzYmRYLWY5MmtvdmlFclhlTm9BQzRBQTBrUnJ1ZGtNeUtPaUkxLXZUVXVHVzV5MWxCNjAzeVp0SzFlam9lWHpYVFNwUUdBdzVJQ1RQd20teEtNTXIzNkViREVPa0lmbUpwRUVaYThBNTloN18?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://apnews.com",
-      "title": "AP News"
+      "href": "https://www.theverge.com",
+      "title": "The Verge"
+    }
+  },
+  {
+    "title": "The wait is almost over for this blockbuster video game. I see 35% upside in the stock - CNBC",
+    "description": "The wait is almost over for this blockbuster video game. I see 35% upside in the stock  CNBC",
+    "published date": "Mon, 09 Nov 2026 20:07:26 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZzRtNE1zMjNTVERUblBITFJkenAyd2w2Um0zMG9WNHhKa1RQY0hUOE5NUFVnLUg1Tkh3VlUtS3daNk91Zko4WjFOb1lmQkxlWmpXd2ZRTEgxNHE0Vk5OTVhkbjdOS3VqZDFjV0x0dHVOWDFycll5d09tdjI1clZNLVZSVHhRQzd3enZhQy03NE55U2lYVjVLNWRvalBvUWQ2ZC0xSG9DSlVTTndYY0dHX0U4ZXFTNHZTQk9QRmZBeGNMeGdrWXhB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cnbc.com",
+      "title": "CNBC"
+    }
+  },
+  {
+    "title": "Salsa Fargo 32 Review: An Intriguing First Move for 32-Inch Gravel - Outside Magazine",
+    "description": "Salsa Fargo 32 Review: An Intriguing First Move for 32-Inch Gravel  Outside Magazine",
+    "published date": "Mon, 09 Nov 2026 15:48:09 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Zajd1LTMweE4wU3RST2dwNEhTb3o5ZTN3SGNWS2VrOG91ckZsMGVpYXVKdzhBSXFmZWZEeURTc3o0TkpjQzRtNE1KLWtxVDdDZ3ZBbzZjLS1Qd01UWXNLN0R5NkpaeHBfejFzWUxxYlE4bURhQlR6M2JobFk?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://velo.outsideonline.com",
+      "title": "Outside Magazine"
+    }
+  },
+  {
+    "title": "My Hero Ultra Rumble Mobile teaser trailer - Gematsu",
+    "description": "My Hero Ultra Rumble Mobile teaser trailer  GematsuMy Hero Ultra Rumble Mobile Version Teased in New Trailer  CrunchyrollMy Hero Ultra Rumble Game Gets Mobile Version  Anime News NetworkMy Hero Ultra Rumble coming to iOS, Android  GematsuMy Hero Academia Online 24-Player Battle App 'MY HERO ULTRA RUMBLE Mobile' Release Confirmed & Pre-Registration Now Open!  Morningstar",
+    "published date": "Sun, 08 Nov 2026 15:00:59 GMT",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4taGJJUG5rYUdpc1NaX3oxUjFYX0l3a1E4S0RpQ3ZPMjh2d2F2RnV4eUVlLS1uTzdzd3JlWDFGZjdJd3JpM3BraW5MVnlyMlU2OU4wWlBuMFN3N1dXdGJWWThnUS1veHRJdl9aVE9JcUZUN0J6dFJQcnZwMzRjUlU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.gematsu.com",
+      "title": "Gematsu"
+    }
+  },
+  {
+    "title": "Meet Drops, the new music app bringing back the fun of sharing songs with friends - TechCrunch",
+    "description": "Meet Drops, the new music app bringing back the fun of sharing songs with friends  TechCrunchHARMAN INTRODUCES DROPS, MAKING MUSIC DISCOVERY MORE PERSONAL, ONE CLIP AT A TIME  HARMAN NewsroomHarman Enters Music Discovery Space With New Social App Drops  Android Headlines",
+    "published date": "Mon, 09 Nov 2026 14:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUXBvU1U1T2t3dzFSTld2Ry1XWEhCMnJZNVdNam55d1FtV0xCN3hhNXA3Qm51MFpNVUI5bHRrc0NZa2h0bFJZVFUxTFlzZlRFUmxCZkxzU0hMaWpUTkRrVEs2aTEzaEE5cEpfYlZDTERXejJvNTJMdHY5NmYzRlFIQ1U3Ym0wcUpKbm5tWUh0R0xQVTVHbm5xNDNyOVdxYjZCb3NSZDE3T2VRcmUxZ3BBc1RWVmFyQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://techcrunch.com",
+      "title": "TechCrunch"
+    }
+  },
+  {
+    "title": "Explore the desert with a new Arcane Journal - Warhammer Community",
+    "description": "Explore the desert with a new Arcane Journal  Warhammer Community",
+    "published date": "Mon, 09 Nov 2026 14:57:59 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRjBXcHpuSmJlSUpUM0FTZUNVaG5fblJnclE4QnNBcWM5UElMSkJCWlAzdEZ5Y3hNN1JFal9GOVZQSUpXWXNkZG9xdlRxclJ4cWdQaXotYjkxNmhZZjdtbjZYZEtCUlZmRVYyQXpBdXFQWkV2ZWxESGhBTjRWZjlXYnJab3FZS0dDYmdXd0doMkMwZ1JsRm1xX1E4ellqOHhEZVFnTjdrQXE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.warhammer-community.com",
+      "title": "Warhammer Community"
+    }
+  },
+  {
+    "title": "Apple Reportedly Wants Siri AI to Be More Agentic Next Year - PCMag",
+    "description": "Apple Reportedly Wants Siri AI to Be More Agentic Next Year  PCMagApple CEO Presses Software Chief to Pursue More Ambitious AI Strategy  Bloomberg.comPanic at Apple: new CEO realizes the company is in serious trouble  ynetnewsApple leadership may have differing views on AI strategy  AppleInsiderApple Bringing Agent Capabilities To Siri? Report Says Apple’s AI Is Up For A Major Upgrade As CEO Ternus Pushes For Faster Roadmap  Yahoo Finance",
+    "published date": "Mon, 09 Nov 2026 09:32:03 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ1pxYUVCRG9rZ3JKOElvdXA2d2NkcWdFeUZScmdFSTdrbXJfRk41TmRscDBzTmtiUlNQZ2otS0o3dVItaWVaeWEteWtWOFh5bmRGdGRWRldXcFBzNmRjWEw3enpiU1BBS0hZUXZ6NEJObnVUZUNXX3RwbVRreDZPMlpGQ2p4WS1vUU9zb2xvQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.pcmag.com",
+      "title": "PCMag"
+    }
+  },
+  {
+    "title": "Skydance Games Hit By Layoffs - Deadline",
+    "description": "Skydance Games Hit By Layoffs  DeadlineSkydance Games Layoffs Hit Following Warner Bros. Merger  VarietySkydance Says It's Laying Off Game Developers to Position Itself for 'Long-Term Growth and Success'  IGNSkydance Games Cuts Staff Amid Reorg One Month After Warner Bros. Merger  TheWrapSkydance Lays Off Game Developers Post-Warner Bros. Merger  Kotaku",
+    "published date": "Tue, 10 Nov 2026 00:40:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BcTRhaUVvclA2czVxZmV5V2FPSksweDViVWRZeW00RWxqRi1fSVctMDRJYm5FWmRPbUpfb205WG9uODIxWXNNLXFoUEpGMlpKdlhIeUQ2bjVsTmFiUFBnbWVhUWFnZ29FcldyTzg1TGo?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://deadline.com",
+      "title": "Deadline"
+    }
+  },
+  {
+    "title": "Check Out Some of the Top Cards from Mega Evolution—Delta Reign - Pokemon.com",
+    "description": "Check Out Some of the Top Cards from Mega Evolution—Delta Reign  Pokemon.comThe Pokémon TCG 30th Celebration Elite Trainer Box is live at Amazon: Shop now for under market price  MashableThe Pokémon TCG: Mega Evolution—Delta Reign Expansion Is Available Now  Pokemon.comBlack Friday Brings Rare Savings on Pokemon TCG Box Sets and Booster Packs  CNETPokémon fans line up at Best Buy in Taylor for 30th Celebration trading card collection  CBS News",
+    "published date": "Mon, 09 Nov 2026 17:15:11 GMT",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT2RBLWZjZmRIMk5HZ1NlQTVhRG81UGV0LUh3Ty1QZjNpVEhVU2p2SlJTYTl6R19reGlYRkFibEhWYklwdlVWaE83TnRPRzVGSDhOdE83MVZSTEU3d3VkN2NTN1VSZWxvWFJ1U181NEhGQk5vYklhUzR1V0xwcTBkNi10QlBDQ09NRFdfU1dhLWkyVGhCc0pPNnZNVFJwYXcz?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.pokemon.com",
+      "title": "Pokemon.com"
     }
   },
   {
     "title": "The Legend of Zelda: Ocarina of Time Remake Dataminers Uncover Potential Majora's Mask, Master Quest DLC Hints - IGN",
-    "description": "The Legend of Zelda: Ocarina of Time Remake Dataminers Uncover Potential Majora's Mask, Master Quest DLC Hints  IGNOcarina Of Time Remake Dataminers Find Evidence Of Master Quest DLC And Maybe Majora’s Mask Remake  KotakuMissing game mode in Zelda remake could cost fans extra  NotebookcheckMaster Quest references potentially found in Zelda: Ocarina of Time remake files [update: more details]  Nintendo EverythingZelda: Ocarina of Time Switch 2 could be getting Master Quest DLC  Video Games Chronicle",
+    "description": "The Legend of Zelda: Ocarina of Time Remake Dataminers Uncover Potential Majora's Mask, Master Quest DLC Hints  IGNMaster Quest references potentially found in Zelda: Ocarina of Time remake files [update: more details]  Nintendo EverythingZelda: Ocarina of Time Switch 2 could be getting Master Quest DLC  Video Games ChronicleMissing game mode in Zelda remake could cost fans extra  NotebookcheckLegend Of Zelda: Ocarina Of Time Remake Official Dlc Incoming  IMDb",
     "published date": "Mon, 09 Nov 2026 18:15:13 GMT",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdEd3eFhnZW42Qm4xLVpMRU5BUURkZWZVNWhteVhKMWVqMGg2U21Xal8yLVFlZHVLSktKSnIxZzlqU3V5TmJxbWxsd2NpZHRUdXlTWjhZeldNWEZheDVnWlhHazc1OUVEemZQQThWSnlDUFl5Tm41eHFoVmNLYTlEM0I3UnVSWFBzaXVadU9mQUJTOXUtMG0tU3VabE5mVklrNWptaHNiSkllN2MzQ0lIV3ExWUxhNXNXRURHRUhkLXNQUk1LVEI4clZJYXRPQXllM1E?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -210,13 +180,73 @@
     }
   },
   {
-    "title": "Introducing: Ming 51.01 Halo Dress Watch in Crystallised Titanium - Monochrome Watches",
-    "description": "Introducing: Ming 51.01 Halo Dress Watch in Crystallised Titanium  Monochrome WatchesIntroducing: The Crystallized Titanium Ming 51.01 'Halo'  HodinkeeMING 51.01 Halo turns crystallized titanium rose gold in a 150-piece dress watch  The GadgeteerHands On: Ming 51.01 Halo  SJX WatchesMing Introduce 51.01 Halo in Crystallised Titanium  Oracle Time",
-    "published date": "Mon, 09 Nov 2026 13:01:18 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR1dibWFkY3Y2MzFuU2dueUFHQVBaOU00bVBRdk9namU1ZjcwQ2Z4Q2Zjc1ozdXRib1ZMaFU0Z21NRVNwaVVOVGFWbnh1aVhzSVUzbkJjbE5GbXdBU1NqaWYyYWR2ZXBnaGVGSmNwcEYzUDJXRXVnSDJDZVFJeUlISUlkclM0bnJVd29rTTVnNG1QeTdnQ0stdmh6cUNCVnhCY3BFS0dRQ01JTHNadWtOUXlqNXJWZHpsNFpwZno4VlY?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Atelier Karia: The Night Kingdom & the Guide of Memories ‘Story’ trailer, digital pre-orders now available - Gematsu",
+    "description": "Atelier Karia: The Night Kingdom & the Guide of Memories ‘Story’ trailer, digital pre-orders now available  GematsuAtelier Karia: The Night Kingdom & the Guide of Memories Story Trailer Debuts  Crunchyroll\"We've prepared over 100 different types of visual transformations based on what Karia eats\" - Gust's Junzo Hosoi and Taiki Fukui on Atelier Karia, growth in the West, the possibility of localizing Ciel Nosurge DX, and much more  RPG SiteDelve into Aladiss’ Mysterious Underworld in Atelier Karia: The Night Kingdom & the Guide of Memories  Games PressAtelier Karia: The Night Kingdom & the Guide of Memories Interview  RPGamer",
+    "published date": "Mon, 09 Nov 2026 13:00:03 GMT",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPb2MzanA5djYxTF9JYjFHdGtJOTV5SS1aaUFpcnpobkE2UXJJWEp3US1jdXRvMHBNVlUtQWl1LUJYWmxqaHVrOUc3ME9RWTBYQlotUFFtcS1ZVDd6RzByTGZwZWY3Yk9FWmZKckNTTGV4V2l2RjJFb2E4UXNSRjVOUGxxRlByXzlVcU1YTDY3WmRVb2p6MEdSc09Ia1dLekZteExiOC15TlRFb2pQMjc1VWt1bmwwMzJSZFI1MlJiRHVLNTNpSHdFY2Z0QzI?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://monochrome-watches.com",
-      "title": "Monochrome Watches"
+      "href": "https://www.gematsu.com",
+      "title": "Gematsu"
+    }
+  },
+  {
+    "title": "Sony’s new PlayStation Portal handheld includes ‘additional’ internal storage - The Verge",
+    "description": "Sony’s new PlayStation Portal handheld includes ‘additional’ internal storage  The VergeSony Officially Announces New Playstation Handheld  Polygon.comSony Announces New Japan-Only PlayStation Portal With Internal Storage  KotakuNew PlayStation Portal Player Gets Built-In Storage in Japan and Korea, Purpose Still Unknown  TechPowerUpPlayStation Portal Midnight Black Japan-Only Launches December 10  VGChartz",
+    "published date": "Mon, 09 Nov 2026 16:23:31 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT0VyLXlUbnJTWnNwUjN0SzRzVklkRDZJZTRGU3drSzNxUTRnNDdSR3h0MjV3OUZVeDYtNU5FaVJrNHVOdnpPT0xNQlZXUmkyWTBHb0xKZmVhbW12eTIzaDJYUVFuaS1pem5PTURNay03RWpTNDZqSWdtZEVrTkQwSVpEZk5HUVBUTkVCd1c1Uk5fa3dZd21Z?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theverge.com",
+      "title": "The Verge"
+    }
+  },
+  {
+    "title": "I Spent My First 25 Hours In WoW: Forever Happily Wasting Time - Kotaku",
+    "description": "I Spent My First 25 Hours In WoW: Forever Happily Wasting Time  Kotaku",
+    "published date": "Mon, 09 Nov 2026 21:00:22 GMT",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5UX3NDNU5XRElqY2tfaHdNVDBjMHRqN3BoYUh5TkFLVzRDQXgtMjgwYWNhT195NzJlSUtMMFBTN3VZWjlMcEIxd2dwdlNTczJRcnBmbzVDT09BTVRuQnpNc09NZlVXRWdjdVl5VFczcnIzTnVEX0puNw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://kotaku.com",
+      "title": "Kotaku"
+    }
+  },
+  {
+    "title": "Side-By-Side Comparisons Show Breath Of The Wild's Fingerprints All Over The Ocarina Of Time Remake In The Best Way - Kotaku",
+    "description": "Side-By-Side Comparisons Show Breath Of The Wild's Fingerprints All Over The Ocarina Of Time Remake In The Best Way  Kotaku",
+    "published date": "Mon, 09 Nov 2026 23:00:49 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb3VTd1dmN3hQRTM4aXd0NnE2aG81OXVFZ1d6WWF3aUJIdGdsZm5lY1haZFNNX3pXRUtoLXdFWmd1cUREWkRtZTZGclpqNHRaVndsU1hSOVQtck1kUnkxRms0WXFsNk5OdUIwNHh0Q0RYaF9zcmppT2RiWGJLejNheVlzVTZicUxFdUdraFhrZDVYOTRjUTAwenduUS1LbU91NWExdGdhTWZIQnRGTC11bUd6a3FTMWlqMWhZdHd6QWkzcVBRaHduWWtuSWZSenJvd0VPbHZxVzdXV2Zv?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://kotaku.com",
+      "title": "Kotaku"
+    }
+  },
+  {
+    "title": "iPad mini eighth generation review: Still the best e-reader, not an iPad Pro mini - AppleInsider",
+    "description": "iPad mini eighth generation review: Still the best e-reader, not an iPad Pro mini  AppleInsiderMy Week With Apple’s Beach-Friendly iPad Mini and Amazon’s Upscale Alexa Tablet  WSJIs the iPad mini's 60Hz display actually a \"locked\" 120Hz panel? People want to jailbreak it and unleash its full potential  PhoneArenaiPad mini vs iPad Air: the OLED mini costs $50 less than the 11-inch Air  The Mac ObserveriPad Mini 8 vs iPad Pro 11 M4: Portability or a Bigger Creative Workspace?  Nokiamob",
+    "published date": "Mon, 09 Nov 2026 12:23:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNzJnS1ZlNHdDbUdZM3dOQ3dYZnNodHhEVlAtdmw3UUp0elRDZ3RoRDYtSVBrM1k1WHhuOFl3Z25LNHFIbEpYbW5PZnBPQWRUTHFWZTdrUFNpRnFlZEZra0ttb0FxY2tfeno2RXZfVjh3bGVjRVI2OWVnQWo3aWNucEVGQlFhTnJYZWIyVHZkWGNPbk9mUjNJcTRWX2ZTZ2JYQ3N6Qmc1c2VvYUlqaWJoYzNhbFJqSjBXVFg2YUgxTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://appleinsider.com",
+      "title": "AppleInsider"
+    }
+  },
+  {
+    "title": "Samsung Galaxy S27 series camera specs leak, and they’re disappointing - 9to5Google",
+    "description": "Samsung Galaxy S27 series camera specs leak, and they’re disappointing  9to5GoogleSamsung has big plans for the Galaxy S27 Pro and Ultra, but it's bad news for the base models  Android CentralAndroid Circuit: Galaxy S27 Pro Features, RedMagic 12 Pro’s Terminal, Googlebook’s Tablet Future  ForbesIs this the shocking conclusion to the Galaxy S27 Ultra processor mystery?  PhoneArenaSamsung is focusing 70% of its Galaxy S27 production on the Ultra and Pro  Android Authority",
+    "published date": "Mon, 09 Nov 2026 23:20:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQVlCbk5wdHVFbTEyUGk3d212YzFoa1hpM1IyWkFMVU1mSFZsSDY4eGliVFBhbi1abWxmN2pHZXYtcVRYTVV5X1ZDcElQbVJNSGNsZlU1Z0N0M3B2dzJLSkdZN0JOdjFkSm5IOU52MEVOM1dqZzJrdmJjWGlrd2t5NWFhTWIyYl93WnZuMF9HZE16SXpCSEpzUWZxNnZfUHZGRUdOU21R?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://9to5google.com",
+      "title": "9to5Google"
+    }
+  },
+  {
+    "title": "The Mustang Shelby GT350 Is Coming Back With An NA V8 And A Manual: Report - Motor1.com",
+    "description": "The Mustang Shelby GT350 Is Coming Back With An NA V8 And A Manual: Report  Motor1.comFord Mustang Shelby GT350 Successor Reportedly Around the Corner  Car and DriverFord Has a Replacement for the Shelby GT350 Mustang in the Works, Could Arrive in 2027: Report  Road & TrackNew Ford Mustang launch timeline unofficially confirmed  The Supercar BlogFord Mustang GT350 Successor Reportedly Gets a Naturally Aspirated V8  Autoblog",
+    "published date": "Mon, 09 Nov 2026 06:46:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RWUpPT2ZWa0cxME1uSjF3Q2RxUlZBRUY0Tnlha25XUnNYVkFzZ3ZzLVU2Rks2a2w0MEtvUEgxZVo1dlBjeF9IdjdEUEtIM2JmUnRMOHQ0VFZQYzZTUmc4LTBjR3A0ZlM5U2VrYmlMSXpYMkNMTk92aXNR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.motor1.com",
+      "title": "Motor1.com"
     }
   },
   {
@@ -230,208 +260,18 @@
     }
   },
   {
-    "title": "Common supplement could help fight psoriasis, scientists discover - Science Daily",
-    "description": "Common supplement could help fight psoriasis, scientists discover  Science DailyVitamin D Derivative Shows Promise for Psoriasis  LabrootsCommon Nutritional Supplement Shows Surprising Promise Against Psoriasis  SciTechDailyCommon Supplement Help Fight Psoriasis? Pantethine Study  JournalArta",
-    "published date": "Mon, 09 Nov 2026 11:46:01 GMT",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JdHdMZ2FxTjYydTFmQ2hQZXR2YXJIWU5zOGpRelV2U241TkVxdmxscHFfTTZoUG1EWERLbGtPay1ZMUZnX01ESUpPWS1tMTREY0R2QW1HVzBGUGphNU9EbmVrLUNPSllvODd5cl93TQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Introducing: Ming 51.01 Halo Dress Watch in Crystallised Titanium - Monochrome Watches",
+    "description": "Introducing: Ming 51.01 Halo Dress Watch in Crystallised Titanium  Monochrome WatchesIntroducing: The Crystallized Titanium Ming 51.01 'Halo'  HodinkeeMING 51.01 Halo turns crystallized titanium rose gold in a 150-piece dress watch  The GadgeteerHands On: Ming 51.01 Halo  SJX WatchesMing Introduce 51.01 Halo in Crystallised Titanium  Oracle Time",
+    "published date": "Mon, 09 Nov 2026 13:01:18 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR1dibWFkY3Y2MzFuU2dueUFHQVBaOU00bVBRdk9namU1ZjcwQ2Z4Q2Zjc1ozdXRib1ZMaFU0Z21NRVNwaVVOVGFWbnh1aVhzSVUzbkJjbE5GbXdBU1NqaWYyYWR2ZXBnaGVGSmNwcEYzUDJXRXVnSDJDZVFJeUlISUlkclM0bnJVd29rTTVnNG1QeTdnQ0stdmh6cUNCVnhCY3BFS0dRQ01JTHNadWtOUXlqNXJWZHpsNFpwZno4VlY?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.sciencedaily.com",
-      "title": "Science Daily"
-    }
-  },
-  {
-    "title": "‘GTA 6 Online’ Info Found In Pre-Loaded ‘GTA 6’ Files And Backend - Forbes",
-    "description": "‘GTA 6 Online’ Info Found In Pre-Loaded ‘GTA 6’ Files And Backend  ForbesGrand Theft Auto VI Pre-Load Begins on November 10  Rockstar GamesGTA 6 preload release date: When you can download the game  MashableDownload Grand Theft Auto VI Faster and Get to Leonida Sooner With Spectrum Internet Gig  Charter CommunicationsGTA 6 Standard Edition vs. Ultimate Edition: Which Version Should You Buy?  PCMag",
-    "published date": "Mon, 09 Nov 2026 14:10:46 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZnRaYVNYaHNOZlZ1Ty1OS0diOFFvTVF0NmdHQmhwLUtEVVA3c3Q0dzZ1dG9yMnRqX09BWTNKSWE5d3k2TkViM2xYSF9qTFB2RTRxWF80M2RBWk81SmMzWE9IeDBSamNWVEpTUkJTbm50X0hYNTU0d0ViQnJVNUNESl9obWlNOEk5cHFTQTVYMm9NSmJON0FFdFZydm0tbkxxX2ItMUhsSXNpMnp1VlktVk5B?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.forbes.com",
-      "title": "Forbes"
-    }
-  },
-  {
-    "title": "Skydance Starts Layoffs In Games Division After Warner Bros. Games Acquisition - Insider Gaming",
-    "description": "Skydance Starts Layoffs In Games Division After Warner Bros. Games Acquisition  Insider GamingSkydance Games Layoffs Hit Following Warner Bros. Merger  VarietySkydance Lays Off Game Developers Post-Warner Bros. Merger  KotakuSkydance Games Cuts Staff Amid Reorg One Month After Warner Bros. Merger  TheWrapSkydance (SKYD) Announces Major Layoffs in Video Games Division Post Warner Bros. Discovery Acquisition  GuruFocus",
-    "published date": "Mon, 09 Nov 2026 14:37:54 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOX2ZCWnBJdmFVaVRvTE4yRnVTX2VvRzY5T25EU3ZEMjg1NUREVDJCR0Y1V1ZiVUl6YVZnX2R5blhQWGJ6OGhrcGNFb3hqdUEzTG5qYmlwcFN0VG1paFR3MlE4QlVKaXU2QkZidm41M2w2NExTMElVbEpjdUdaMDJ6VXBKWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://insider-gaming.com",
-      "title": "Insider Gaming"
-    }
-  },
-  {
-    "title": "Is this the shocking conclusion to the Galaxy S27 Ultra processor mystery? - PhoneArena",
-    "description": "Is this the shocking conclusion to the Galaxy S27 Ultra processor mystery?  PhoneArenaSamsung bets that you’ll either buy a Galaxy S27 Pro or Ultra next year  9to5GoogleAndroid Circuit: Galaxy S27 Pro Features, RedMagic 12 Pro’s Terminal, Googlebook’s Tablet Future  ForbesSamsung Galaxy S27 Ultra Major News is Revealed  Geeky GadgetsSamsung allocates over 70% of Galaxy S27 production to Pro and Ultra  Mezha.net",
-    "published date": "Mon, 09 Nov 2026 04:46:54 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSV9UYWg3d1lWdGdKaTNkTlRIdmROUmw0Ri05d1Ffa3ZteGtYSjZmQW5hVUVFUUZTWHBaY293QThMaUg0YmM4MGVvMWlWcmgtYjUyTU9GMVR5SG11YzhqQVVrTEluUnRuVFBlVld1NllTaEt2WFduWS1WU3YzRUxpOEwwa3RtYXRUbEFGaE1Mc1FrNnh4Qlc1ZEdMU1VPLTQwNE85bFRaY3JXUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.phonearena.com",
-      "title": "PhoneArena"
-    }
-  },
-  {
-    "title": "My Hero Ultra Rumble Mobile teaser trailer - Gematsu",
-    "description": "My Hero Ultra Rumble Mobile teaser trailer  GematsuMy Hero Ultra Rumble Mobile Version Teased in New Trailer  CrunchyrollMy Hero Ultra Rumble Game Gets Mobile Version  Anime News NetworkMy Hero Academia Online 24-Player Battle App 'MY HERO ULTRA RUMBLE Mobile' Release Confirmed & Pre-Registration Now Open!  Yahoo FinanceMy Hero Ultra Rumble coming to iOS, Android  Gematsu",
-    "published date": "Sun, 08 Nov 2026 15:00:59 GMT",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4taGJJUG5rYUdpc1NaX3oxUjFYX0l3a1E4S0RpQ3ZPMjh2d2F2RnV4eUVlLS1uTzdzd3JlWDFGZjdJd3JpM3BraW5MVnlyMlU2OU4wWlBuMFN3N1dXdGJWWThnUS1veHRJdl9aVE9JcUZUN0J6dFJQcnZwMzRjUlU?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.gematsu.com",
-      "title": "Gematsu"
-    }
-  },
-  {
-    "title": "Hollow Knight Silksong physical editions mention multiple \"free content packs\" incoming, and call Sea of Sorrow a \"giant expansion\" - Eurogamer.net",
-    "description": "Hollow Knight Silksong physical editions mention multiple \"free content packs\" incoming, and call Sea of Sorrow a \"giant expansion\"  Eurogamer.netHollow Knight: Silksong Might Be Getting Even More Free DLC  Polygon.comSilksong Sea of Sorrow: $0 Expansion Due [2026]  shattered.ioMultiple Silksong Expansions Hinted at in Tomorrow's PS5 Physical Edition  Push SquareHollow Knight: Silksong getting multiple free content packs  GoNintendo",
-    "published date": "Mon, 09 Nov 2026 17:51:10 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTmZDemR3bXpZUTNFMkVpd3FsS2dsVUNPSkFPRUM0OHVKdk4xQUYtRjZmSThtSGdXMFN6ekcxU2VhU25Tcm8yMUZyd21rVXBUamhfbVdUTEt0LU5mdjU4Z2FlZmpvSnZxeFZ3RzZhWkZfYUVCVm05OHRuZy0wTDNyVWxtZHZqcDNJN2tlQW1DUmRmVFZU?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.eurogamer.net",
-      "title": "Eurogamer.net"
-    }
-  },
-  {
-    "title": "Anticipated Warhammer 40K tactical RPG Dark Heresy gets a release date - Eurogamer.net",
-    "description": "Anticipated Warhammer 40K tactical RPG Dark Heresy gets a release date  Eurogamer.netWarhammer 40K’s Highly Anticipated RPG Sets 2027 Release Date  Polygon.comOwlcat Games Confirms That Warhammer 40,000: Dark Heresy Arrives January 28, 2027 on PC, PS5 and Xbox Series S|X, Putting Players in the Inquisition  WccftechOne of PS5's Most Promising RPGs Adds to the Chaos of January 2027  Push SquareWarhammer 40,000: Dark Heresy, The Follow-Up To Rogue Trader, Gets Early 2027 Release Date  GameSpot",
-    "published date": "Mon, 09 Nov 2026 16:50:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtaDdNb01uMGQxV2dGRFoyMEM1M3N5ZktGZlkxTTZhQkhCbzJkNS1MRnJFM0s1YVZ1ck5neUZzeHV5cDFUQjkyWExidl9oSm0wYm9ETXRkc2gzdENKOTV3Z1FOSEp6Wm9mX0htcThKRVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.eurogamer.net",
-      "title": "Eurogamer.net"
-    }
-  },
-  {
-    "title": "AMD Confirms Excessive SSD Writes in Radeon Drivers, Fix Coming with Adrenalin 26.11.1 - TechPowerUp",
-    "description": "AMD Confirms Excessive SSD Writes in Radeon Drivers, Fix Coming with Adrenalin 26.11.1  TechPowerUpAMD admits GPU driver bug is writing data continuously, wearing out SSDs — Radeon owner claims External Events Utility used up 1% of SSD health every month for over a year, company promises a fix soon  Tom's HardwareOld AMD Windows chipset driver bug that quietly degrades SSDs now back on GPUs  NeowinYour AMD Graphics Driver Could Be Killing Your SSD While Your PC Sits Idle  Gadget ReviewAn AMD Radeon driver bug is reducing SSD lifespans, but a fix is thankfully on the way  Club386",
-    "published date": "Mon, 09 Nov 2026 13:20:18 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ1BMQmVYdlNsZ3hUUGhRS2xObHJ1NWNiR29CdTJYX2oxRDVqZWg1RXVWTUtvU3B6bmhvbkltVFhmemkwQjVRVlZmMWdObjdiTjJmaGJsX2MyNHRUX2x4ejk1S3NEeno4NWtBbGxNeU1hc1ZUd0FzRjE0Tkh5Nk5udHRUY1gyWlR5bldIamlhZzF5OWV0YTBzZTBhV3pGU2Rlc3hMNlJZemtOSm0xOUxrbnZ4VVNLR1RKZUxsNdIBwgFBVV95cUxNbE8wUmZVRnN5TEtvSjVKQzJaMXJSZG1wMnlGUmRDRDRReUY1RW14LWNxWjhHeFhmdHpCZGFkcFNoMWJ4blF6WlZGbHBPaHVTUnlfOTBsOWJkRzF3dkRiMVNPa185dmpJOW0xN1U3REIzYmJNdzR6MFE0ZTN6eXB0eDM2U0NNTTczSmExSmt4VnA3cXJvMjZVLUZuQ2dxQmYxbTFoa19BbWoyVW10NWlBZEprdXkwNXM0NjdMejVBem9wQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.techpowerup.com",
-      "title": "TechPowerUp"
-    }
-  },
-  {
-    "title": "Review: Unno Horn - 2026 XC Group Test - Pinkbike",
-    "description": "Review: Unno Horn - 2026 XC Group Test  Pinkbike",
-    "published date": "Mon, 09 Nov 2026 16:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sMVVkN1JGV25INTZXQ1N6WHFwUW5fcUNyUDJqeERDSWN5TjREdkNhbUxLcnNVZ3BlN3NVTDNIV2U4VUNkN0tfeE56aDczVVFYU0NTU2ZFUzEzRUFLbTdzSVltNEVEMGIwaFVHbkNtdmtzd2tEa1VrSEpn?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.pinkbike.com",
-      "title": "Pinkbike"
-    }
-  },
-  {
-    "title": "Beloved Mario Content Creator Says His Health Is Failing But 'Only Blindness Or Death' Will Stop Him From Posting Mario Facts - Kotaku",
-    "description": "Beloved Mario Content Creator Says His Health Is Failing But 'Only Blindness Or Death' Will Stop Him From Posting Mario Facts  Kotaku'I Am Scared I Will Soon Not Be Able to See Mario Again' — Popular Nintendo Blogger Supper Mario Broth Says He May Only Have a Year to Live  IGNSupper Mario Broth: 2-in-3 Odds Past 1 Year [2026]  shattered.ioLegendary Mario Historian Suffers Sudden Heart Failure, Vows To Continue Their Work  TheGamerSupper Mario Broth Blogger Reveals Heart Failure Diagnosis to 270,000 Followers  JournalArta",
-    "published date": "Mon, 09 Nov 2026 15:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMFM3bm1LMy10dURFY1VVTHN5ZHhubzl0enpLdks5ZnN0MW15VjdfR0ZQTklMYnlhM2JDTnQ2RkkzTjViQlprRW16bnRNYXZXRFRCU2NhSVFYRDdvRGRuUktRY0ZaZVdhaVljS3JtZmRyN3QwbzZvbFlMdk42NHdlMzRBV0MxY3JBcjlyZXRzcGYwVlhHWmhqTzVTSWtXRzE0Q05SV0FCTXVTX2l4VjJXVGhXWTRkYTJWUHRGcmNhcmR2V1pPdXRKRmN1YVVYY0FYQXJSRl9ZbTZjempQNnpkUEc4bUJGUUF2?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://kotaku.com",
-      "title": "Kotaku"
-    }
-  },
-  {
-    "title": "Making a $300 PS5 Instead of a $1,200 PS6 Would Be 'True Innovation', Says Ex-PlayStation Boss - Push Square",
-    "description": "Making a $300 PS5 Instead of a $1,200 PS6 Would Be 'True Innovation', Says Ex-PlayStation Boss  Push Square'I Think We Have Enough Power in the Machine' — Former PlayStation Boss Shawn Layden Calls on Sony to Prioritize Making a Cheaper Console Amid Rumors of a Pricey PS6  IGNShawn Layden: 'Innovation Needs to Come Not From Making PS6 for $1,200, It's to Make Another PS5 for $300'  VGChartzA PlayStation 6 At $1000+ With Just More “Teraflops” Could Be A Mistake, Yet The PlayStation Portal and Cloud Gaming Present The Solution  WccftechPS6 for $300? Why gamers' dream console would come with a catch  Notebookcheck",
-    "published date": "Mon, 09 Nov 2026 13:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQlhKTFJYaktWUXN6em5GYWpPTHFWcVdFZUp1SmlGeEp3RWY0amI4alFsSHFnbVVXM0ZoaEtnV2dYaTBlOXU5bWdzaG1UNGQwZXRaUEV1OE02NEE1R2Q2M3JJZnRheGFYTHVzM3hOR3BHcGItUDBQNHdzckRLbEpTcXhxUVdGR2FQSVc5Y1FhUzFyamVXblFBdmMwZ05zV3NWblljc3NUdzhFLU9XeWJKTmVnVWhjM2I5V1JXNm5JVlhLOVpHN1k0LUdPZkR6Z28?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.pushsquare.com",
-      "title": "Push Square"
-    }
-  },
-  {
-    "title": "Logitech’s MX Master 4 Gets Dev And Creator Special Editions - Forbes",
-    "description": "Logitech’s MX Master 4 Gets Dev And Creator Special Editions  ForbesSee more headlines & perspectives on Google News",
-    "published date": "Mon, 09 Nov 2026 11:15:02 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeHU1WnVSVEl5WmtHdXgycldTZmdFTFBLS0oxVTVsbVVYaVpsc0pPZDNCX0xwY1M2OUFucE9YUGFBZjdPUWpHWGtoaXA2TGctVWtLNzVhbGJicWh4U0lUdUhpQTgtX2JzNTA0RHE0MGFqN3F5aHJtOFFNYUJISEJwSEpfSFZpVW8wQU45YzJ1WW9nX1FaUDJsazhWZkpMYVBrVDY5Z2NwdmN5Q18xeDRvQ1lB?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.forbes.com",
-      "title": "Forbes"
-    }
-  },
-  {
-    "title": "World of Warcraft civil war erupts as 'retail Andys' beg Blizzard to make WoW: Forever easier - Yahoo Tech",
-    "description": "World of Warcraft civil war erupts as 'retail Andys' beg Blizzard to make WoW: Forever easier  Yahoo TechWorld of Warcraft civil war erupts as 'retail Andys' beg Blizzard to make WoW: Forever easier. They should ignore it.  Windows CentralWoW: Forever Sets a New Franchise Record for Peak Concurrent Players  TechPowerUpWoW: Forever launch used 70,480 CPU cores and 251 terabytes of RAM — 3,924 virtual machines powered one of World of Warcraft's smoothest launches ever  Tom's HardwareWhy Blizzard Made a New ‘World of Warcraft’  Bloomberg.com",
-    "published date": "Mon, 09 Nov 2026 13:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeGt4WWNRMzl3RWpQMHNrbmhjTXZTUk1xRkxBUDZRTGdkZkplQURwMFg5VzlRWHpPWHFGRlV0VFFGNUF3YWVEQi1GSXFrWl95bG9XWEpZY2xnaHdIWE4yc1JPMktuNUF4WGVyU2t2VERwazdnVzJ2SG1wV29meXNtX1RvWklRdGU1SThoeEJ3?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://tech.yahoo.com",
-      "title": "Yahoo Tech"
-    }
-  },
-  {
-    "title": "Medium is launching a new note-taking app called TK - The Verge",
-    "description": "Medium is launching a new note-taking app called TK  The VergeSee more headlines & perspectives on Google News",
-    "published date": "Mon, 09 Nov 2026 15:04:45 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFX25KRnhSai1rM2lYOFZ2NzJnaWdPdmpqVDRldl9kRjFFQWd3TVJEZXUyakZfWmhxODBVWG9xRl81VG9qSmZWUGNzTzQxOFhLVE13WUxnUDBlWUIzQkZSWFBLeU5zUXdI?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theverge.com",
-      "title": "The Verge"
-    }
-  },
-  {
-    "title": "The Pokémon TCG 30th Celebration Elite Trainer Box is live at Amazon: Shop now for under market price - Mashable",
-    "description": "The Pokémon TCG 30th Celebration Elite Trainer Box is live at Amazon: Shop now for under market price  MashableThe Pokémon TCG: Mega Evolution—Delta Reign Expansion Is Available Now  Pokemon.comPokémon fans line up at Best Buy in Taylor for 30th Celebration trading card collection  CBS NewsPokémon fans camp out overnight for special card release at Tampa Best Buy  FOX 13 Tampa BayBlack Friday Brings Rare Savings on Pokemon TCG Box Sets and Booster Packs  CNET",
-    "published date": "Sun, 08 Nov 2026 11:45:58 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb0pfVXQ0dVJQb3BWQkgyTjJBNzc4VDRQMzNQNkNCbDNnczlwN3lxTnpzZlQyVVZRQnBLcGthU2F3bDZvN0tqY3dwTU5DNVBib0dzX2t4OWJXV1hPZGFaX1FqcG0tUkNFWDcxQklqbmltSkpvbi15eGxieUVwZkVNaVE5ZlJJb1BPaldN?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://mashable.com",
-      "title": "Mashable"
-    }
-  },
-  {
-    "title": "PlayStation Plus confirms two AAA free games early ahead of November and December drops - GAMINGbible",
-    "description": "PlayStation Plus confirms two AAA free games early ahead of November and December drops  GAMINGbibleTwo New PS Plus Titles Announced Ahead Of Schedule  Insider GamingDragon Quest III HD-2D Remake and Dynasty Warriors: Origins Are Coming to PlayStation Plus Game Catalog  TwistedVoxelBonus PS Plus Premium Game Is Out Now for PS5  Push SquareSony has revealed the first PlayStation Plus subscription games for November and December.  GameGPU",
-    "published date": "Mon, 09 Nov 2026 10:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdHlMdUkzVzlJRW5TSmRWSHhCalpBU0xIMnIyNHlFcTYwMzh1b1Vmc2cwSWxDb2U0MHNaYlplM2dyOVR5NzBLTmdCbGxoSFJETGdfVTR1RXhPYWkxVkNNOUsyZzdrUFliMkZ5d3JBRndrdlhKRTV6TzNzcEZCQU04U1dEeGhPajY3Q0QxMGo4MWUya3AybEM2Wkp3Y004TnNIYjFuUHdwX1pRemhsWTZfVE55bkE1Y1dKTEFmeEhNcUIyU3BRT2lvUzJBRnItOTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.gamingbible.com",
-      "title": "GAMINGbible"
-    }
-  },
-  {
-    "title": "Mario's Next 'Adults Welcome' LEGO Set Is \"Hatching Soon\" - Nintendo Life",
-    "description": "Mario's Next 'Adults Welcome' LEGO Set Is \"Hatching Soon\"  Nintendo LifeLego Is Teasing A Yoshi Set, But You’ll Have To Wait Until 2027  YahooNintendo Officially Teases New Yoshi Lego Set  Polygon.comLEGO Teases New Yoshi Set for Adult Collectors  IGNYoshi Is Finally Due To Arrive In Lego Form In A New Adult Set For 2027  Kotaku",
-    "published date": "Mon, 09 Nov 2026 10:15:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOXzNEYVhXRDBtcGg1eTd5Zlpwa0N5TlFsbld0RHhUQlAxSVphdFJ4V3Q3aHhEZVRldEFiU255Rm9VNlVOT3dvZmkydGpBX1Y0Z1pTS0pzNVVNQ1UyMkEwMlRyeWJhLVhQZDZlMm1PcDI1YlZVV054azdaWW8yYnZWMEFqNEtiUTNpUWtoMUVWTFI5SGJhVzhaVWNB?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.nintendolife.com",
-      "title": "Nintendo Life"
-    }
-  },
-  {
-    "title": "BioWare Veteran Mark Darrah Has Revealed an Internal Pitch for Dragon Age 4 That Was Never Shared With Fans - IGN",
-    "description": "BioWare Veteran Mark Darrah Has Revealed an Internal Pitch for Dragon Age 4 That Was Never Shared With Fans  IGNDragon Age: The Veilguard devs ignored \"lots\" of recommendations from the series' former boss  Yahoo TechDragon Age: The Veilguard devs ignored lots of former series boss's ideas  Yahoo TechDragon Age: The Veilguard devs ignored \"lots\" of recommendations from the series' former boss, \"so it was definitely a frustrating experience\"  GamesRadar+",
-    "published date": "Mon, 09 Nov 2026 17:00:55 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaENaV2xZMW02WDdGNTNiNzFSdjZCZVRseFpfVW94X2xKQXhOWWo3RzRvYXYtcThFc0lGRmhQV2ktX0h5WmZTTXRVek9QRm40TU0xUGp4NGhmalZhdWdBWDRzMi1QZ1c2MlpsM2xyZ04tNGd3Qmtsc0ZhVjlfUnZaY2pKY0dNdnlXVWhrTWlmclpBaDNfcTdGdjZEaUc3eWNSdmlLQmF3eWs0cTZ1TGg4YzJCYlF2SHF6QUtBbHdOZjhCRWc5OHJGNHpwQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ign.com",
-      "title": "IGN"
-    }
-  },
-  {
-    "title": "More Fun iPhone Duo Apps: 30 New Picks to Try - MacRumors",
-    "description": "More Fun iPhone Duo Apps: 30 New Picks to Try  MacRumorsI’ve reviewed almost every Android foldable this year — here’s how the iPhone Duo compares  The VergeiPhone Duo vs. Galaxy Z Fold 8 Camera Comparison: Frolicking With Apple's and Samsung's Foldables  CNETApple Says More Than 100,000 Apps Optimized for iPhone Duo, Here's What's Still Missing  MacRumorsApple Surveys iPhone Duo Buyers on Crease, Display Size, and More  ExtremeTech",
-    "published date": "Fri, 06 Nov 2026 23:27:45 GMT",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HRFNCcG8wNWhOc2dyVEtBbGxIdjlqLXpDdVFtRWlQanktaC02cGkxN1B5czZoS2NSZS13RV8wOUtYYVgtUTc3eE1MRFlhZ2RXaTg5SWlCcnM1SFFybXJ2VkMxS1dnakdwS3ppd1dBZDgtdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.macrumors.com",
-      "title": "MacRumors"
-    }
-  },
-  {
-    "title": "For Just $249, Micro Center Bundles Ryzen 5 5600X3D, 16 GB DDR4 RAM, And B550 Motherboard For A Limited Time - Wccftech",
-    "description": "For Just $249, Micro Center Bundles Ryzen 5 5600X3D, 16 GB DDR4 RAM, And B550 Motherboard For A Limited Time  WccftechGrab AMD's fastest mainstream gaming CPU for a record-low $399.99 right now — powerhouse Ryzen 7 9800X3D chip is a must-buy upgrade for any AM5 gaming PC build  Tom's HardwareToday’s Best Deals: AMD Ryzen 7 9800X3D CPU, MTG x Star Trek Booster Box, and Sony WH-1000XM6 Headphones  IGNThe Ryzen 7 5800X3D drops to just $279, its lowest price since AMD re-launched the chip  TweakTownG.SKILL and Micro Center Offer Intel Core Ultra 7 270K Plus Combo Deal Featuring Ripjaws S5 DDR5 Memory  TechPowerUp",
-    "published date": "Sun, 08 Nov 2026 18:19:17 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWlJOUpNb2NyWGh3andSRFhKQXVPT09kRm9mdjBWeUdGV1ZwazdQQi1LVWxRZVRQUnEtNnVLaEpsYjBHcHdWeE02cUZlNDFMXzhDRFZuN2hVNktkY245RHpCSzZiOGpaV2trVnU3T05tN1pQRi1rU1I1S05SbjdrUTF2OGIzZTBQU3Z2UElXTkZRUTJNaGpFVGI0ZmxuaF9wVkpWZERYNnfSAa4BQVVfeXFMTnlITUEwbXNZdnd0NUZ0MzVBOTZSLV82cTJ6MERXdmxPWERCek83N0IxVi1wVzBhQXh2OWtBTl9rLVpfMlpxNEVBTGxndEtyMlk0ZzNyR1EwODg2M3dMYlRUTzBuY1V5WWhDZEtxVXNDOHVQd2hUVnNEbzRIUXZ2VUxFaU9Qa1JfYTdGc2EwdlJYNVRTbHlVVFVFMzhuQ2trSTVhckQzVnMwVElmN1Fn?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://wccftech.com",
-      "title": "Wccftech"
+      "href": "https://monochrome-watches.com",
+      "title": "Monochrome Watches"
     }
   },
   {
     "title": "GTA 6's Exclusive Selfridges Merch Is Daylight Robbery - Push Square",
-    "description": "GTA 6's Exclusive Selfridges Merch Is Daylight Robbery  Push SquareIconic British Retail Store Gets GTA 6 Takeover Featuring Exclusive $3,355 Varsity Jacket  IGNWe Visited The GTA 6 Popup Store And Here’s Everything You Need To Know  RockstarINTELOxford Street transformed into GTA’s Vice City with HUGE queues for exclusive merch  Yahoo News UKGrand Theft Auto VI Vice City Pops Up At Selfridges  London On The Inside",
+    "description": "GTA 6's Exclusive Selfridges Merch Is Daylight Robbery  Push SquareRockstar Games and West Coast Customs Created a Real Car from GTA 6 And Are Selling it For $1.3 Million  IGNGTA 6 Jacket That Costs $3,000 Sells Out Immediately  GameSpotGTA 6 Comes to Life as West Coast Customs Builds Six Wild Real-World Cars for Rockstar Games  stupidDOPEOxford Street transformed into GTA’s Vice City with HUGE queues for exclusive merch  Yahoo News UK",
     "published date": "Mon, 09 Nov 2026 14:15:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMjFQT2tuMDBwa29NcnVDVGRVQWNqZW1ldzNtM0ZwVFpNSmlrNXNkMG1VU0I0di1TWjd4SDU2S0RKU0x4VUJyUmRoRERVLUJfRWNaTklMOW5hR3RfSENTelQ5Wmo3NUhJbjhSY05DTi1lcWZSalVTekxsOFlMNlZGOWN4UFA4Z0FHX0UxUE9yWUVxN2lFb0x4Qg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -440,68 +280,128 @@
     }
   },
   {
-    "title": "'GTA 6' Preorder Sales Hit $751 Million 2 Weeks Ahead of Release. Are Investors Ignoring Take-Two Stock Opportunity? - Yahoo Finance",
-    "description": "'GTA 6' Preorder Sales Hit $751 Million 2 Weeks Ahead of Release. Are Investors Ignoring Take-Two Stock Opportunity?  Yahoo FinanceCrime pays: how Grand Theft Auto became a cultural colossus  The GuardianGTA VI heads into launch with an estimated $751 million in console pre-orders and Take-Two's $8 billion year riding on it  MLQ.aiPlayStation 5 Takes 74% of GTA 6 Pre-Orders  GameGPUHavas Play explores the cultural impact of GTA  https://marketingreport.one/",
-    "published date": "Sun, 08 Nov 2026 03:41:09 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd0tEbjNpaWxoT2hOODFtcEdETFJCWjZUazN1d2JXV1dTWGdqbUptR0I0NXBUMUowb181NVZheE9tdjNOdzJhT1FZQTREdE5UTm1fMGNkd1RqSGhfVGdKWUZWeHowYWp1SW9OeGF6RjByNWxZSWpodWozSFVJYVFITmxRZ09OcHNYNU00Wi01Q0Ztak0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Physicists Gave Up on This Fusion Technique in the 1980s. Now It’s Working - Gizmodo",
+    "description": "Physicists Gave Up on This Fusion Technique in the 1980s. Now It’s Working  Gizmodo",
+    "published date": "Mon, 09 Nov 2026 21:10:04 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTDJhNXluQ1FLNlNuNFN1dEh6NkJCWmIwX1lyOE5pNlNjSEQwMXQ0YWJuYm5wQUhxVEF1UUxVVWRyTVZzSXAyZEJ1N3hPaFFPMjcyUUpDbnQyWXJZMmRJN1lucDNkQ1RSejV1WnFGVnhwdC1DRG44eDJJYjFuSzl4cWdTT2NDNmV1SmRQVy1saXpVMDlWUjlJaWptbmFIY3BPZURpcWFR?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://finance.yahoo.com",
-      "title": "Yahoo Finance"
+      "href": "https://gizmodo.com",
+      "title": "Gizmodo"
     }
   },
   {
-    "title": "‘Even if Someone Does Get It Running on PC, That’s Not Going To Be a Good Experience’ – Why AI Cloning Won’t Sink GTA 6’s Launch, but Could Reshape Game Development - IGN",
-    "description": "‘Even if Someone Does Get It Running on PC, That’s Not Going To Be a Good Experience’ – Why AI Cloning Won’t Sink GTA 6’s Launch, but Could Reshape Game Development  IGNFormer Rockstar Developer Says They Should Hurry Up On GTA 6’s PC Version Before AI Gets There First  KotakuAn Update On A Possible ‘GTA 6’ PC Release Date Plans, Due To AI  ForbesGTA 6 Could Cost “Tens of Thousands Of Dollars” in Tokens To Develop Unofficial PC Port, Yet Former Rockstar Tech Director Believes It Will Be Attempted  WccftechCould potential AI clones of GTA VI force a quicker official port?  Ars Technica",
-    "published date": "Mon, 09 Nov 2026 15:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQNnQ4N2Y5QkVVMGtfcFlMQVFoQmltVDRKclVrVU1MNnJtQ243LVdTbUVjYmRWVGtMcHl0M2FydUZMNGVNemdJWUdfV0F6VUt2aUhyRUNEbmhfZnhpbTNNZlFjMUpBSXQtNjdPcElxZm8zb2d4WklXbXprR2tMdlFvMkxKRHkyRTBBT1RKTjh2Q2dwSGZhbG0zUXh1ako3cThoam1JYW5XN0FiVkxqb3NNM2J6X1JkWFZyT0NSN21QZEdNRURTX09vVUNEUkdWeC03SGU5UzBWdUczWXRkUEZKTmVZcUtHZXBRZUxIRXl1VmlsTXh1MXNKajMwU3V6X3BsMDIyZVN5cEp2TXYyUEZiTi1B?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "More Fun iPhone Duo Apps: 30 New Picks to Try - MacRumors",
+    "description": "More Fun iPhone Duo Apps: 30 New Picks to Try  MacRumorsiPhone Duo vs. Galaxy Z Fold 8 Camera Comparison: Frolicking With Apple's and Samsung's Foldables  CNETI’ve reviewed almost every Android foldable this year — here’s how the iPhone Duo compares  The VergeApple Says More Than 100,000 iPhone Duo-Optimized Apps Are Now Live on the App Store  HypebeastThe unexpected uses of a folding iPhone: iPhone Duo's folding positions explained  PhoneArena",
+    "published date": "Fri, 06 Nov 2026 23:27:45 GMT",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HRFNCcG8wNWhOc2dyVEtBbGxIdjlqLXpDdVFtRWlQanktaC02cGkxN1B5czZoS2NSZS13RV8wOUtYYVgtUTc3eE1MRFlhZ2RXaTg5SWlCcnM1SFFybXJ2VkMxS1dnakdwS3ppd1dBZDgtdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.macrumors.com",
+      "title": "MacRumors"
+    }
+  },
+  {
+    "title": "AMD Ryzen 7 9850X3D crashes to lowest ever price, now cheaper than 9800X3D - Club386",
+    "description": "AMD Ryzen 7 9850X3D crashes to lowest ever price, now cheaper than 9800X3D  Club386Grab AMD's fastest mainstream gaming CPU for a record-low $399.99 right now — powerhouse Ryzen 7 9800X3D chip is a must-buy upgrade for any AM5 gaming PC build  Tom's HardwareThe Ryzen 7 5800X3D drops to just $279, its lowest price since AMD re-launched the chip  TweakTownToday’s Best Deals: AMD Ryzen 7 9800X3D CPU, MTG x Star Trek Booster Box, and Sony WH-1000XM6 Headphones  IGNG.SKILL and Micro Center Offer Intel Core Ultra 7 270K Plus Combo Deal Featuring Ripjaws S5 DDR5 Memory  TechPowerUp",
+    "published date": "Mon, 09 Nov 2026 10:50:34 GMT",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rY1QybzhZLUlzZ2xSTXljcENvUDZfbnBQS085MVA5eDU0bmtLLTJCV0g3YlNOekNuRFptZ1NYTXlKeDI5OUtrVy04VmJQbm1rRUdIOWFldGxRM1YyTUllZkhwR05wU3BkNHdLeDdYWjE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.club386.com",
+      "title": "Club386"
+    }
+  },
+  {
+    "title": "‘GTA 6 Online’ Info Found In Pre-Loaded ‘GTA 6’ Files And Backend - Forbes",
+    "description": "‘GTA 6 Online’ Info Found In Pre-Loaded ‘GTA 6’ Files And Backend  ForbesGrand Theft Auto VI Pre-Load Begins on November 10  Rockstar GamesGTA 6's PlayStation Store Data Hints at Multiplayer Support  TechPowerUpDownload Grand Theft Auto VI Faster and Get to Leonida Sooner With Spectrum Internet Gig  Charter CommunicationsGTA 6 Preloading Is Live. Here's How to Install the Game on Xbox and PlayStation  PCMag",
+    "published date": "Mon, 09 Nov 2026 14:10:46 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZnRaYVNYaHNOZlZ1Ty1OS0diOFFvTVF0NmdHQmhwLUtEVVA3c3Q0dzZ1dG9yMnRqX09BWTNKSWE5d3k2TkViM2xYSF9qTFB2RTRxWF80M2RBWk81SmMzWE9IeDBSamNWVEpTUkJTbm50X0hYNTU0d0ViQnJVNUNESl9obWlNOEk5cHFTQTVYMm9NSmJON0FFdFZydm0tbkxxX2ItMUhsSXNpMnp1VlktVk5B?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
+    }
+  },
+  {
+    "title": "AMD Acknowledges Radeon Driver Bug Causing Constant SSD Writes, Fix In The Works - Wccftech",
+    "description": "AMD Acknowledges Radeon Driver Bug Causing Constant SSD Writes, Fix In The Works  WccftechAMD admits GPU driver bug is writing data continuously, wearing out SSDs — Radeon owner claims External Events Utility used up 1% of SSD health every month for over a year, company promises a fix soon  Tom's HardwareSome AMD users say an Adrenaline GPU driver utility is eating 1% of SSD health a month  PC GamerAMD Confirms Excessive SSD Writes in Radeon Drivers, Fix Coming with Adrenalin 26.11.1  TechPowerUpOld AMD Windows chipset driver bug that quietly degrades SSDs now back on GPUs  Neowin",
+    "published date": "Sun, 08 Nov 2026 16:27:47 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWTZweU1uVFZwOHBUZFV6VFJNQ0F3YThZcXZnTGZQdjdNZTRUSXFvSUw1RXNMWW1CWHBkYXBTZ0tiMjRSWkd4OS12UTYxaXM5T05mdmZLOEotSEZNSjhmaE9SenFSQWR6dGpXZzlvazYzTjFLX181cEZieVpPbmowd3RyZUF0X2RqUk1qd1QwN0x4ZFo4WDhvTE5mbnJCUkpDUGU00gGoAUFVX3lxTFBTenZPeC05VXptaTRDWUlvdFExZ05adFVldVBscVJhSFU4ZzIxQ3J1SkYxaG0wTkxrTHA1RUswRUt6cmNRSWFMVC1TS0FsdGhwSXBkQmdLNVl6bkFKT05rUWdxRnhXWEZEWW14YTBPRDNVZ19LT3pzNVVHYmlfWVJta0lnVUhRVnA2ZW9Zcl85WFY1V1UxR3pLajZIUFFjYzIzcDRZSXJDQw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://wccftech.com",
+      "title": "Wccftech"
+    }
+  },
+  {
+    "title": "The Legend of Zelda: Ocarina of Time Remake complete walkthrough hub - Video Games Chronicle",
+    "description": "The Legend of Zelda: Ocarina of Time Remake complete walkthrough hub  Video Games ChronicleDodongo Cavern Dungeon Walkthrough  IGNInside the Deku Tree walkthrough in Zelda Ocarina of Time  Polygon.comZelda: Ocarina Of Time Walkthrough (Switch 2 Remake): Guide To The Main Quest, Side Quests & Collectables  Nintendo LifeShackStream: Legend of Zelda: Ocarina of Time on The Stevetendo Show! Episode 769  Shacknews",
+    "published date": "Mon, 09 Nov 2026 09:47:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVl92YzVEbzctVktiOTkwSi1BVHhwYWUxOVowM1FvRkN5cVVoOUFWSjhuanBZT2ZHRW95cWF5dlA5MUIyS0lDSHFXS3BuVnFXVGxsWnJlWTc4bGItYTdzS2NhQXVvRmVXeS0xTWxUSXlQcEZpczhJRGZWNG95d1ZSLTJobGRiZk02UkFRRA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.videogameschronicle.com",
+      "title": "Video Games Chronicle"
+    }
+  },
+  {
+    "title": "World of Warcraft civil war erupts as 'retail Andys' beg Blizzard to make WoW: Forever easier - Yahoo Tech",
+    "description": "World of Warcraft civil war erupts as 'retail Andys' beg Blizzard to make WoW: Forever easier  Yahoo TechThe Adventure Begins in WoW: Forever, Stay Connected with Discord, and Taldramir Takes Shape in WoW Weekly  Blizzard NewsWorld of Warcraft: Forever is the MMORPG's biggest launch as measured by peak concurrent players  Game DeveloperWorld of Warcraft civil war erupts as 'retail Andys' beg Blizzard to make WoW: Forever easier. They should ignore it.  Windows CentralWoW: Forever launch used 70,480 CPU cores and 251 terabytes of RAM — 3,924 virtual machines powered one of World of Warcraft's smoothest launches ever  Tom's Hardware",
+    "published date": "Mon, 09 Nov 2026 13:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeGt4WWNRMzl3RWpQMHNrbmhjTXZTUk1xRkxBUDZRTGdkZkplQURwMFg5VzlRWHpPWHFGRlV0VFFGNUF3YWVEQi1GSXFrWl95bG9XWEpZY2xnaHdIWE4yc1JPMktuNUF4WGVyU2t2VERwazdnVzJ2SG1wV29meXNtX1RvWklRdGU1SThoeEJ3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://tech.yahoo.com",
+      "title": "Yahoo Tech"
+    }
+  },
+  {
+    "title": "Zelda Switch 2 restock retailers: Where to buy the 40th anniversary console - Mashable",
+    "description": "Zelda Switch 2 restock retailers: Where to buy the 40th anniversary console  MashableTrying to Find the Zelda Switch 2? You and Everyone Else! Here's Where to Keep Checking Obsessively.  VICESwitch 2 Just Had Its Best Sales Week Of 2026, And It’s All Because Of Zelda  GameSpotZelda 40th Anniversary Switch 2 restock: GameStop says new stock is ‘coming soon’  The Shortcut | Matt SwiderZelda Switch 2: 7 Retailers, 5 Sold Out [2026]  shattered.io",
+    "published date": "Tue, 10 Nov 2026 01:28:54 GMT",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HNlhTMVg3UUJqT2M3ZUViQUlpdlFIcFNUWVk1NGk2SnVHYXR6TlYxa0p0azRBWlFsUFFmRTlONnpjWFQ2OE9QYjYtYXluSzctdzZuaE9oRDhZV3lLS1pHLUt4eGF2R2NIc09ITU0wWC1QZkcxNVJhZDNNNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://mashable.com",
+      "title": "Mashable"
+    }
+  },
+  {
+    "title": "Exclusive: Here’s what Samsung's Galaxy AI Premium plan brings and what remains free - SamMobile",
+    "description": "Exclusive: Here’s what Samsung's Galaxy AI Premium plan brings and what remains free  SamMobileExclusive: Samsung Is Testing a Galaxy AI Premium Subscription  SammyGuruWould You Pay for Galaxy AI? Samsung Begins Testing $4.99 Subscription  PCMagSamsung might start charging for Galaxy AI, but there's a silver lining  Android PoliceSamsung’s paid Galaxy AI plan leaks for $5/month, but will you pay?  9to5Google",
+    "published date": "Mon, 09 Nov 2026 11:50:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQTJPNUxzXzcwQmltTGxUOUZWdXhzR0FhZU5FWmVHaEdjc0VCVUNXaEplM2VNVzZFellZeWVILTlBOVUzd2EyajdGOUp2WDJWMngtLVFZMVpidXRPLXlUZ1RUTHYzeldjRFJwbERxOHpjRG9xS2d5NU9OcWxVcmFpbmpiVnJJdkZZTVRGQ2F0TQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.sammobile.com",
+      "title": "SamMobile"
+    }
+  },
+  {
+    "title": "BioWare Veteran Mark Darrah Has Revealed an Internal Pitch for Dragon Age 4 That Was Never Shared With Fans - IGN",
+    "description": "BioWare Veteran Mark Darrah Has Revealed an Internal Pitch for Dragon Age 4 That Was Never Shared With Fans  IGNDragon Age: The Veilguard devs ignored \"lots\" of recommendations from the series' former boss  Yahoo TechDragon Age: The Veilguard devs ignored lots of former series boss's ideas  Yahoo Tech",
+    "published date": "Mon, 09 Nov 2026 17:00:55 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaENaV2xZMW02WDdGNTNiNzFSdjZCZVRseFpfVW94X2xKQXhOWWo3RzRvYXYtcThFc0lGRmhQV2ktX0h5WmZTTXRVek9QRm40TU0xUGp4NGhmalZhdWdBWDRzMi1QZ1c2MlpsM2xyZ04tNGd3Qmtsc0ZhVjlfUnZaY2pKY0dNdnlXVWhrTWlmclpBaDNfcTdGdjZEaUc3eWNSdmlLQmF3eWs0cTZ1TGg4YzJCYlF2SHF6QUtBbHdOZjhCRWc5OHJGNHpwQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.ign.com",
       "title": "IGN"
     }
   },
   {
-    "title": "Gears of War: E-Day celebrates franchise's 20th Anniversary with free Raam skin - TrueAchievements",
-    "description": "Gears of War: E-Day celebrates franchise's 20th Anniversary with free Raam skin  TrueAchievementsGears of War: E-Day is Packed with Hidden Easter Eggs  YahooCan Gears of War Continue After E-Day, or Is It Time to Wind Down?  GameTyrantGeneral RAAM returns in Gears of War: E-Day for the 20th anniversary  DLCompare.comGears of War brings back Guardian for its 20th anniversary, with E-Day Season 2 next  MIXED News",
-    "published date": "Mon, 09 Nov 2026 11:07:09 GMT",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83RW5NVTgyd09uV2FTUW5IdmFzVlI4dWoxV194SW9FaXN2RmROVjFqRXVJWDlXS3l5bV9zZTJsM1lzYW1IcnBDTkdXRUR6VlFUWkd2eFBMWWlJYTdINk5namhuZC13MkpuUF8zNjFMSjRsa0dPRVJqd3ZsQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation - Ars Technica",
+    "description": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation  Ars TechnicaMeet *sshole, the vulnerability that lets hackers SSH into Linux devices  Ars TechnicaOpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux  The Hacker NewsCombined flaws let anyone into Alpine Linux and other distros by typing anything over 256 characters as a password — emergency fixes for OpenSSH and musl-libc issued for millions of systems, patch immediately  Tom's HardwareHackers Exploiting ‘SSHole’ Authentication Bypass in OpenSSH  SecurityWeek",
+    "published date": "Mon, 09 Nov 2026 19:41:34 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSTNQRG9EUC12Ymp2UXY5d2pibmlQZnlZeUVsRm9TMjVWb3A3RktFZ04yYjlDa2g5cHJnLU9uN0JzSzgyZmVqUlBuWm1mLTRYWWFpbUpmM2ZqcEd1RERodFVORTVMaVV5VXA1aDNCRG1qd1VnamVjbE9nUHQzd2RmdEVQR2xCZ2NaWWhaTndETlplY0VFa3FaLTFYMUFNT0N0aEM2NGhDNC1RdXI2UnhuSjU3NHE0N19KNFpmUzJrUmJURWc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.trueachievements.com",
-      "title": "TrueAchievements"
+      "href": "https://arstechnica.com",
+      "title": "Ars Technica"
     }
   },
   {
-    "title": "Bring Khazalite might to armies of Order with Regiments of Renown - Warhammer Community",
-    "description": "Bring Khazalite might to armies of Order with Regiments of Renown  Warhammer CommunitySaturday Pre-orders – Reclaim the Khazalid Empire  Warhammer CommunityAge of Sigmar: The Khazalite Holds Unearthed And Up Close  Bell of Lost SoulsWarhammer Reveals Two Khazalite Regiments of Renown  Demokratis.co.idAge of Sigmar Khazalite Holds Units Review - Lets Smite Some Wrongdoers  TechRaptor",
-    "published date": "Thu, 05 Nov 2026 13:57:16 GMT",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT1JzbGtFNENzd2ZKY3JuSlJCNEdMeS1ES3o1UzZjV0NJYXVCMzd1bVdFSnJVZU1HMVNmV2lKcnJMbGZlQVBNR2E5REhLU1F5VnJ3dldOUElkSEJsbW8xS0psRjFNOVJ3STg4N05BbUQwdEctVUkwMy1FVndndFJ2eU9meHRUU1dBSklSdnVBRmxrQkpHQ2pRaUV4anU2RVkzSDhWYS1mQkw3UGhSR2lSX1o3NVQyVEh3Q2x6aFB6NjhFYVRu?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "'Grand Theft Auto VI' is almost here. What to know about the characters, music and billions at stake - AP News",
+    "description": "'Grand Theft Auto VI' is almost here. What to know about the characters, music and billions at stake  AP NewsGTA 6 is almost here, 13 years after GTA 5: Preload dates, global release plus everything else you need to know  Yahoo TechNew ‘GTA VI’ Screenshots Reveal Kodak Black as an In-Game Character  Hypebeast‘Grand Theft Auto VI’ is almost here. What to know about the characters, music and billions at stake  TribLIVE.comRockstar and West Coast Customs Build Six Real 'GTA VI' Cars, From Lowriders to Donks  Complex",
+    "published date": "Mon, 09 Nov 2026 18:51:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbnJrbHE5SXBnU3h4ZjViR0FJNGdwYW0ybkFhQUtndEFMd0FBUUp0b2x1eWE2QWpVX2NWQWM2Q3c4NVJPcEFMaHpUQ0YtRGtOMnZoSEdPTEg3SmVCajdTam1PRVdMT0UxWXhabkZPRnhqYXBEMlF3UEJPRkVzSVpTVEZOQkdFVVhRTHc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.warhammer-community.com",
-      "title": "Warhammer Community"
-    }
-  },
-  {
-    "title": "A Free GTA 6 Competitor Is Blowing Up on Steam - Polygon.com",
-    "description": "A Free GTA 6 Competitor Is Blowing Up on Steam  Polygon.comNew crime game divides Steam community  vijesti.meMust Know Tips For New Players In ROB RUN  MobalyticsFree GTA VI alternative replaces NPCs with thousands of players  NotebookcheckCrime Sandbox ROB RUN Launches in Steam Early Access  A 90s Kid",
-    "published date": "Mon, 09 Nov 2026 16:15:47 GMT",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9fMjdnRElzUmMxcmhpMGozMmZ2VFh6cTVVUnI2ZVRPc0F3eU54VWtiRm1iRWlrTFhYN3J3SFNmLUtuNjRtQjJBTHgta2FuNDFYbFZCTkxwa2xYSWhpUVRKSjVIaVpZdjNkOTFQaTlkUzl2dUV5?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.polygon.com",
-      "title": "Polygon.com"
-    }
-  },
-  {
-    "title": "Introducing: Awake Sơn Mài Silver Leaf Collection - Hodinkee",
-    "description": "Introducing: Awake Sơn Mài Silver Leaf Collection  HodinkeeIntroducing: The Awake Son Mai Silver Leaf 38mm Collection  Monochrome WatchesAwake Sơn Mài Silver Leaf - New Dials | IN THE SHOP  Time+Tide WatchesAwake brings Vietnamese lacquer artistry to four new Silver Leaf watches  WatchPro USAAwake Introduce Four New Colours to the Sơn Mài Silver Leaf Core Collection  Oracle Time",
-    "published date": "Mon, 09 Nov 2026 13:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lM1VkaXE1VDU3Z041TlJmTVhmTlpWLU5iUzdhUnZYLW5BMF9QcndKNjVYcmNUOHlxa0JqWEwwbENDNmx4bTNEM0wzaUM2clZxMjRPcW9tbndsWTRQSDRKRkRiclNzUzJxZlpJMzNGT01ONldXYUxTc3pB?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.hodinkee.com",
-      "title": "Hodinkee"
+      "href": "https://apnews.com",
+      "title": "AP News"
     }
   },
   {
     "title": "Apple’s M5 MacBook Air is down to its lowest price since July - The Verge",
-    "description": "Apple’s M5 MacBook Air is down to its lowest price since July  The VergeWe found 14 early Black Friday Apple deals: Grab AirPods and MacBooks on sale  MashableEarly Apple Black Friday Deals on Apple Watch, MacBook Air, and More  MacRumors15-inch MacBook Air M5 1TB drops to $1,549 at Amazon  AppleInsiderThe early bird gets the Apple deals, and Black Friday savings are already rolling in  New York Post",
+    "description": "Apple’s M5 MacBook Air is down to its lowest price since July  The VergeWe found 14 early Black Friday Apple deals: Grab AirPods and MacBooks on sale  MashableEarly Apple Black Friday Deals on Apple Watch, MacBook Air, and More  MacRumorsThe early bird gets the Apple deals, and Black Friday savings are already rolling in  New York PostDon’t wait for Black Friday: The M5 MacBook Air just dropped to $1,350  Macworld",
     "published date": "Sun, 08 Nov 2026 16:00:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaVZBOS11TzZJMUZSUmtjVnFfRzh5RDU4TldBU2QyMHFxQkpIMWZWQmctTmxRNFBKcXd0dHNzcXpwZTJBMFhDZy1LM1hKZE1FY3MwRXhuWmpldm5PenBUMXFBX1RGRjNmdG55MVJ1Ql8tVEM0VFZCeExITXdZNDhJV3d4XzYtTWxtVGc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -510,83 +410,73 @@
     }
   },
   {
-    "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web - TechCrunch",
-    "description": "Hundreds of Artex AI hacking tools found publicly exposed to the web  TechCrunchARTEX abuse expands as cybercriminals target financial sector  MicrosoftFinancially motivated threat cluster uses AI-enabled tools against banking sector  YahooHacking on Autopilot: Inside ARTEX Cybercrime Campaigns  Check Point ResearchBeyond ARTEX: 45 Agentic Attack Frameworks, What They Hunt For, and How to Find Them  Security Boulevard",
-    "published date": "Fri, 06 Nov 2026 18:44:38 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcF9OeVJwTUFMSVpxN3MyMHNJSm1TS3FIWTlkdWxBLUxDRVFoRkxIWmtfVEF2SjkzaGZhNUJKOXh4Mnl0Q0NWemxSTDR5dDVnLTV3dHhCVHhYVG9KbTNtQkRjS0lkdWQzdzdfa0pubVRIUXVVTUk0dWp4NEhTc3BncmtyZVFWdWROUTJWTExKNUhQWWVyS2I5OUkxWlJ4dXRWN255ZURR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "\"Something's really possible\" - Mass Effect cast rally around efforts to save the franchise on the first N7 Day after BioWare's closure - Eurogamer.net",
+    "description": "\"Something's really possible\" - Mass Effect cast rally around efforts to save the franchise on the first N7 Day after BioWare's closure  Eurogamer.netBioWare Co-Founder/Beamdog CEO Trent Oster Says He’s Running the Numbers on Saving Mass Effect and Wants the Original Band Back Together, Starting with James Ohlen  WccftechMass Effect Cast Celebrates N7 Day With Video Asking Fans to Help Save the Franchise  IGN NordicMass Effect Creator Is ‘Optimistic’ the Series Will Live On  Polygon.comMass Effect Is Getting A New Art Collection At A Difficult Time For Its Fans  GameSpot",
+    "published date": "Mon, 09 Nov 2026 20:09:50 GMT",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yTHJNbm81c2ZMVXRYTGZVdDR1dHhMLTVTdzRsb1hPTDRoVEJOZERfak5QRTc4UmRRampLdVZETzZjdE5WdWs4WmNUSFNXMy04MmRZUTRGSkJ2M1kxbHE1ZU80SERWOFh4WkFwWGxScw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://techcrunch.com",
-      "title": "TechCrunch"
+      "href": "https://www.eurogamer.net",
+      "title": "Eurogamer.net"
     }
   },
   {
-    "title": "Samsung One UI 9.5 brings notable changes to Health and Calendar - Android Authority",
-    "description": "Samsung One UI 9.5 brings notable changes to Health and Calendar  Android AuthoritySamsung One UI 9.5 Beta May Be Coming Soon: Here's How To Sign Up For The Program  EngadgetExclusive: Samsung Health on One UI 9.5 gets Mindful note feature, updated UI  SamMobileWould You Pay for Galaxy AI? Samsung Begins Testing $4.99 Subscription  PCMag UKOne UI 9.5 Will Be a \"Minor\" Update as Samsung Focuses on \"Historically Biggest Change\" With One UI 10  Android Headlines",
-    "published date": "Thu, 05 Nov 2026 22:09:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNUdmYjZiVmJBWGNOT0x4MHRsYU5QMy1wMXh0RlB4Q1pyT2dDR2ctWmpXUlBsOGY4am5LbGVUcmVOV3RpTHFDMXpIYlhZSjdnM0pETlhHSWg5eldoeHJYVWR5dnFLNk9pYXFwOVNTVjdMaVFDUndQTzlaT2hYVmlWT2dvQUlDS0JtbmtueXdpU2Zsdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Samsung P9 Express microSDXC SD Cards for Nintendo Switch 2 are at three-month low prices - Neowin",
+    "description": "Samsung P9 Express microSDXC SD Cards for Nintendo Switch 2 are at three-month low prices  NeowinSwitch 2 Owners Can Triple Their Storage For Less Than $100  IMDbEarly Black Friday Nintendo deals include saving $30 on the Switch 2 and SanDisk storage upgrades  MashableThe Nintendo Switch 2 Is Actually on Sale Ahead of Black Friday  LifehackerBoost your Nintendo Switch 2's storage for Zelda: Ocarina of Time with these microSD Express deals, starting at $48 — make room for Hyrule with these high-speed cards that double or triple your game storage  Tom's Hardware",
+    "published date": "Sun, 08 Nov 2026 15:46:15 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS216V2EtZWdUTnVoNmFYZG8yaDZDdFJjdGZNSnJlRVFSLWRvamp0bklPRUlmTnNoQ2VLc3Y3d0ZKd0tWR3VrejNOQUsycV9lUnV6bzdqYUxzaEFOZUFmS1djSlk3UUtTbmw2VzZyYXp3Znh0bE5SQnloNVZ5WU9GaTNreFp4Z192SWlJak9nc0NKRE13N2dJcWRwbU1pUUNWVDRVUVpFM2cyWXJMTm03N3UwMDR3ems0QUlR?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.androidauthority.com",
-      "title": "Android Authority"
+      "href": "https://www.neowin.net",
+      "title": "Neowin"
     }
   },
   {
-    "title": "Poll: Which Zelda: Ocarina Of Time HUD Option Is Your Favourite? - Nintendo Life",
-    "description": "Poll: Which Zelda: Ocarina Of Time HUD Option Is Your Favourite?  Nintendo Life",
-    "published date": "Mon, 09 Nov 2026 18:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQckpuS0RYUTRRamZhUk1ERXdTWFNUcE4tdGV3RzFTV29ZRGVmdE5UZnNpMUxrRFFFaUxiSHBwZFB3WXhQNHRWTE1jd2NkRlhyQ19kZXJhUGpERHZvZEU1RkloUXF4YmZRaXFfRTE3WTJNam5KZkRhVGd6REs4UnFJdzFJM2tpNFVWYU1CRDdzZUtielVSeFhwa0tZaXhxaUlC?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "'It's Not Going to Be Delayed Again' — Strauss Zelnick on GTA 6 Expectations, GTA Online, and the Next 10 Years - IGN",
+    "description": "'It's Not Going to Be Delayed Again' — Strauss Zelnick on GTA 6 Expectations, GTA Online, and the Next 10 Years  IGNTake-Two’s CEO: “Rockstar has completed the development of GTA VI.”  The VergeAs investors ask about GTA 6 and AI, Take-Two CEO once again puts faith in dev creativity, states making hit games \"remains the purview of human beings\"  Eurogamer.netGTA 6 Piracy Claim: 0 Proven PS5 Exploits [2026]  shattered.ioGTA VI awareness and participation is very strong indeed | Strauss Zelnick exclusive interview  GamesBeat",
+    "published date": "Mon, 09 Nov 2026 21:17:02 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOVhrRUhQbmlRbGY5OEItTzhpbmNicjJDSmEwTm9CZUJWcEZucTdjZmVRTTZKc0k4VENVRS1veU85enkyZ3JZYTliZ1NSQW5Jb3lZNkpMdHV0dlphNk9IXzdrVnNvY1N5YnBQOVRseGhJQ3otRHJKbmlDRy1hSktIdWJjWUFjVWQyMzA5UkVXZWNtVV9RRnZ3QXVwQWd0ZFhZdmJUUHV5ZnlPVloyT2NxU2xaZm8?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.nintendolife.com",
-      "title": "Nintendo Life"
+      "href": "https://www.ign.com",
+      "title": "IGN"
     }
   },
   {
-    "title": "Zelda Switch 2 restock retailers: Where to buy the 40th anniversary console - Mashable",
-    "description": "Zelda Switch 2 restock retailers: Where to buy the 40th anniversary console  MashableWalmart Zelda Switch 2: $519.99 Gift Card, 48 Hours [2026]  shattered.ioWhere To Buy The Legend Of Zelda: Ocarina Of Time & Zelda Nintendo Switch 2 Console  Nintendo LifeUS: Zelda Switch 2 console helped drive total Switch 2 dollar sales to its highest weekly total of 2026  My Nintendo NewsThe Legend of Zelda – 40th Anniversary Edition Pushes Switch 2 to Record Weekly Sales in US for 2026  GamingBolt",
-    "published date": "Mon, 09 Nov 2026 19:25:11 GMT",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HNlhTMVg3UUJqT2M3ZUViQUlpdlFIcFNUWVk1NGk2SnVHYXR6TlYxa0p0azRBWlFsUFFmRTlONnpjWFQ2OE9QYjYtYXluSzctdzZuaE9oRDhZV3lLS1pHLUt4eGF2R2NIc09ITU0wWC1QZkcxNVJhZDNNNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "‘Even if Someone Does Get It Running on PC, That’s Not Going to Be a Good Experience’ – Why AI Cloning Won’t Sink GTA 6’s Launch, but Could Reshape Game Development - IGN",
+    "description": "‘Even if Someone Does Get It Running on PC, That’s Not Going to Be a Good Experience’ – Why AI Cloning Won’t Sink GTA 6’s Launch, but Could Reshape Game Development  IGNCould potential AI clones of GTA VI force a quicker official port?  Ars TechnicaAn Update On A Possible ‘GTA 6’ PC Release Date Plans, Due To AI  ForbesFormer Rockstar Developer Says They Should Hurry Up On GTA 6’s PC Version Before AI Gets There First  KotakuGTA 6 Could Cost “Tens of Thousands Of Dollars” in Tokens To Develop Unofficial PC Port, Yet Former Rockstar Tech Director Believes It Will Be Attempted  Wccftech",
+    "published date": "Mon, 09 Nov 2026 15:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQNnQ4N2Y5QkVVMGtfcFlMQVFoQmltVDRKclVrVU1MNnJtQ243LVdTbUVjYmRWVGtMcHl0M2FydUZMNGVNemdJWUdfV0F6VUt2aUhyRUNEbmhfZnhpbTNNZlFjMUpBSXQtNjdPcElxZm8zb2d4WklXbXprR2tMdlFvMkxKRHkyRTBBT1RKTjh2Q2dwSGZhbG0zUXh1ako3cThoam1JYW5XN0FiVkxqb3NNM2J6X1JkWFZyT0NSN21QZEdNRURTX09vVUNEUkdWeC03SGU5UzBWdUczWXRkUEZKTmVZcUtHZXBRZUxIRXl1VmlsTXh1MXNKajMwU3V6X3BsMDIyZVN5cEp2TXYyUEZiTi1B?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://mashable.com",
-      "title": "Mashable"
+      "href": "https://www.ign.com",
+      "title": "IGN"
     }
   },
   {
-    "title": "Despite Nintendo Switch 2 sales dropping by 37% it is still 6 million ahead of original Switch - My Nintendo News",
-    "description": "Despite Nintendo Switch 2 sales dropping by 37% it is still 6 million ahead of original Switch  My Nintendo NewsNintendo’s First-Half Profit Rose on Stronger Software Sales, New ‘Mario’ Movie  WSJNintendo Switch 2 sales plunge 41% as price hikes and memory crunch bite  CNBCNintendo quarterly net profit drops; Sony raises forecast  Japan TodayNintendo says it’s not planning another Switch 2 price hike  The Verge",
-    "published date": "Sun, 08 Nov 2026 12:40:18 GMT",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdTFzZFBDSndyZTNua2x2RTNqWG50VTAzMWpjUm9WS3ZTTW5oVlJGczMwNnJfeXZfZzhmS0MweUdmRGhhdmlYcnVkQUxvN29PdF9WNjdEN1FqdE1yb1hSWGJ1TDJ5MzdPd094Zm84azRwcmxxWXhSZlAxQlNKckx1UDJ4VTF4T1Z0WW51Z3U4al9GenpxdUZZd3o2R0wtRVFaNHd6UlA5WTFWVTI4Um95WmhkQWdwYTJ3ZWNlbHhqU0NJUExpQjgyVjBZbGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Call of Duty: Warzone Arrives on Nintendo Switch 2 as PS4 and Xbox One Support Ends - TechPowerUp",
+    "description": "Call of Duty: Warzone Arrives on Nintendo Switch 2 as PS4 and Xbox One Support Ends  TechPowerUpThere’s A New DMZ Map Hidden In MW4, And Here’s How To Find It  GameSpotCOD MW4 Warzone: Best Hajin Landing Spots, Meta Weapons & Perks for Beginners  MMOEXPModern Warfare 4 November 7 Patch Notes and Fixes  TwistedVoxelSeason 1 Arrives in Call of Duty: Modern Warfare 4 and Call of Duty: Warzone  Nintendo",
+    "published date": "Sun, 08 Nov 2026 16:23:33 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVU1WeF9Pb3ZNQnNrWWpoNS1mYnkzc3hLZFZxbnVjMnduM2E4c2x6NmE5X2RTdGVoTUdKUFRPU2ZVZGdVdGYzbnkxZ2RkcldlYTVOMmRnWmJNNVRwcHFDV3NXQWwxTzBsVzU3VjAyX01MNHpuZFNfNmdHcHYtMWJkUmNTRWlCQzBXQ2hjbVY1VnZVaUxDcXcxQ0JTTllZcFJVYzZ4ODA3cE9Odm8xOVE2ZUNrZ2hoVGZB0gG-AUFVX3lxTFBMdU05S0p6RkpCQ0FiVXNuZnhneDRpN2lUbGIxOWlxcEhmNTRwWjVlWlprdnk3bkZkVW0wRVVvYU52SjlTbHpwSXVMeGplSEF4MVVoMlZObmtIVjhNWHZmMGhmLVh5Um1kMTVLQlRfMFNCVGNPdE5FTWJneGNycXVlT1V0ZkV1ekVzam9nRXE5N0ZYVklIYlVmb0Vlcm5YeUhYbi1CUTE4Y0czbnJhVVkwaXFpTXRoY0ZVRURzYVE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://mynintendonews.com",
-      "title": "My Nintendo News"
+      "href": "https://www.techpowerup.com",
+      "title": "TechPowerUp"
     }
   },
   {
-    "title": "Book Review: ‘The Telephone,’ by James Gleick - The New York Times",
-    "description": "Book Review: ‘The Telephone,’ by James Gleick  The New York Times",
-    "published date": "Sun, 08 Nov 2026 10:00:45 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY0lCWTVReVhUdWEyYTJNUW41NU80T2NDRExfcndnSTZhbmwyVTczNDhFaWZJbXEtTjRKN0ljZzdqQlhuQi1kQU9BbFB2STBhYkFRZjFzZzI1Uk5DZjdlbmNqeERJZURqa1lSZFk0VnVfSlVPSXYxWllzdldHT2xtNFpBQVpOUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "A Free GTA 6 Competitor Is Blowing Up on Steam - Polygon.com",
+    "description": "A Free GTA 6 Competitor Is Blowing Up on Steam  Polygon.comMust Know Tips For New Players In ROB RUN  MobalyticsROB RUN Beginner Guide: Survive Your First Hour  Power Up GamingDays before GTA 6, crime game for \"thousands\" blows up despite \"Mixed\" Steam reviews and gen AI  Yahoo TechROB RUN Reaches 139,709 Concurrent Steam Players in First Weekend as Fan Database robrungame.com Launches  mykxlg.com",
+    "published date": "Mon, 09 Nov 2026 16:15:47 GMT",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9fMjdnRElzUmMxcmhpMGozMmZ2VFh6cTVVUnI2ZVRPc0F3eU54VWtiRm1iRWlrTFhYN3J3SFNmLUtuNjRtQjJBTHgta2FuNDFYbFZCTkxwa2xYSWhpUVRKSjVIaVpZdjNkOTFQaTlkUzl2dUV5?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.nytimes.com",
-      "title": "The New York Times"
+      "href": "https://www.polygon.com",
+      "title": "Polygon.com"
     }
   },
   {
-    "title": "'The Best RPG I've Played This Year' - Queen's Domain Is A Low-Key GOTY Contender On Xbox - Pure Xbox",
-    "description": "'The Best RPG I've Played This Year' - Queen's Domain Is A Low-Key GOTY Contender On Xbox  Pure XboxWant a New Elder Scrolls? Play Queen's Domain, the Old-School RPG Inspired by King's Field – Quick Review  IGNReview: Queen's Domain (Switch 2) - An Incredible Tribute To FromSoft, And One Of 2026's Best Surprises  Nintendo LifeBefore Dark Souls there was King's Field, and five hours into brilliant homage Queen's Domain, it's already one of my favourite games this year  Eurogamer.netNew Dark Souls Replacement Is A Genuine 10/10 Masterpiece And GOTY Contender  ScreenRant",
-    "published date": "Mon, 09 Nov 2026 14:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWkJ0LUJSYmNaWFFReHJvVVB4MjRCbHJDdGladHh1UU16cEY3MmdLTmNjY2NXNHNSTDh0aXl0blVmRjRaN3ZZalhQeWh4VUo2RHBXRy1LQURseXlDN2NXVGN2eThkcy14WmNGc3VjZFVOVmYwWlJkX0UzaExfZGpLSVpnRWFKaXJJSWROVm0xSHBWRGFmUnFtZXhjb2tqdERzelczY1Z0NVhDUUVJdW9NWlN5TUlkQ1V1TFZEWkJ3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "The Butcher's Nails and Astartes II release dates - Warhammer Community",
+    "description": "The Butcher's Nails and Astartes II release dates  Warhammer Community",
+    "published date": "Tue, 10 Nov 2026 02:29:03 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdzJMS05pa0ZHVnlWdnFEbUFpMXRMWTd1ZDFVVnBnU2pncHJucHUzajAtdnRsWDBtSTVURjFBN1ItbmJLd3lvMF9xZDdCLTFHWENXb3lUemQtVTlGVVhCdHhjd0lzWUR4NXdXSnU1OWUxa3hQbnlOU3IxY2dUNjhNc0N1MWVlbXYtd211aHpGcDlWMHd4OUNxZzdLZXBjUHhKVEFvT1N5aklDNzNCdGc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.purexbox.com",
-      "title": "Pure Xbox"
-    }
-  },
-  {
-    "title": "Apple Launching Two More New Products This Friday - MacRumors",
-    "description": "Apple Launching Two More New Products This Friday  MacRumorsWall-mounted HomeView drops the woofer and adapter but still costs $299  The Mac ObserverApple HomeView launches Friday: Here’s what’s new  The Apple PostWant to liven up your Samsung with something from Applu? Download these 40 wallpapers designed for HomeView  Samsung MagazineApple HomeView: Everything you need to know about Apple’s smart-home display  Macworld",
-    "published date": "Mon, 09 Nov 2026 12:19:28 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ3VnU1VDT0J6bkM2bE9rVmNBaFRNa1JPSS1BU0hGclBSRGpBSGtJWFBEb0UxQzJlTGpULVF3TmdValZvRTBNclNNUEl4VEN2YUs5dWFkRC1ZRWN2ZkJtZTBFLUo1YVltMl9za0V3U3dmY1k2RlV0aDVSVE5BZjd1OXBFUXk0ckpvR3ZielFR?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.macrumors.com",
-      "title": "MacRumors"
+      "href": "https://www.warhammer-community.com",
+      "title": "Warhammer Community"
     }
   },
   {
@@ -600,38 +490,18 @@
     }
   },
   {
-    "title": "Sony revives classic Walkman headphones as MDR-3R - Dezeen",
-    "description": "Sony revives classic Walkman headphones as MDR-3R  DezeenSony revives the original Walkman headphones, adds USB-C  Ars TechnicaSony’s retro headphones brought me back to my youth  The VergeSony and ‘Stranger Things’ Send The Original Walkman Headphones to the Upside Down  HypebeastSony Debuts $60 Wired Headphones With ’80s-Inspired Design  Bloomberg.com",
-    "published date": "Mon, 09 Nov 2026 10:45:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zY3ZEM2xZblp5blYyRjZ6dDgtWi1hWlFYdm1fcng5dlVPWFh5a2dkTDRNZ1ZHSVJOM3lodkZOSG9xRnNPaG5EaTQ1U3RiOWV6RFdqQlZrLW84NTR0aERuV3FZQnl1cHlRdEhFLXZObktEbXM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Poll: Which Zelda: Ocarina Of Time HUD Option Is Your Favourite? - Nintendo Life",
+    "description": "Poll: Which Zelda: Ocarina Of Time HUD Option Is Your Favourite?  Nintendo Life",
+    "published date": "Mon, 09 Nov 2026 18:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQckpuS0RYUTRRamZhUk1ERXdTWFNUcE4tdGV3RzFTV29ZRGVmdE5UZnNpMUxrRFFFaUxiSHBwZFB3WXhQNHRWTE1jd2NkRlhyQ19kZXJhUGpERHZvZEU1RkloUXF4YmZRaXFfRTE3WTJNam5KZkRhVGd6REs4UnFJdzFJM2tpNFVWYU1CRDdzZUtielVSeFhwa0tZaXhxaUlC?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.dezeen.com",
-      "title": "Dezeen"
-    }
-  },
-  {
-    "title": "ASUS Launches XG Core Radeon RX 9060 XT LP External Graphics Card To “Accelerate” Gaming Performance But Is Capped At 75W - Wccftech",
-    "description": "ASUS Launches XG Core Radeon RX 9060 XT LP External Graphics Card To “Accelerate” Gaming Performance But Is Capped At 75W  WccftechASUS Announces the XG Core Radeon RX 9060 XT LP 16 GB GDDR6  TechPowerUpASUS XG Core gives the ROG Ally X a desktop GPU over one USB4 cable  The GadgeteerROG XG Station 3 外接顯卡盒登場：支援 Thunderbolt 5  ASUS PressroomASUS XG Core: External graphics card with an RX 9060 XT LP, but only 75 watts  Basic Tutorials",
-    "published date": "Sun, 08 Nov 2026 11:16:11 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUUVhNmRGeGlTRDNFa1REVFp4aVAxUGtLaDRYdmJKeno3X25iWlNuUXVBaVlTc0xsRDdhOE5wamVYQUsxTzJtdHprcGJUdzVkZkNLRFdlcGt0dHNuOXZGZjZRZnlOMWV1Y2FmeDIzUnFyVERZbU5xNlRqZU0xTzFxdzI0SmRwVTI0S2l0RXFhY1jSAZYBQVVfeXFMUEdoSzNSS3hUUTdKdzA5eFBIM2pNM2YzSlQ3RU1IZTZNMmxBMzE0eDhMR055cEhSOUxtaDdUaEFMMWQ0YjlkZXNaSi1jQ0RkdWhONE1INjk1UDZBWWdkNS1PVTl2MS0zRlBreTdRb3BEYksybTJWTkpXUjRsVFc5ZGtZX2ZKbEVjNUJLbGxiNWUwSWdWNkdn?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://wccftech.com",
-      "title": "Wccftech"
-    }
-  },
-  {
-    "title": "Best Buy's Early Black Friday Sale is Now Live, Including Deals on Gaming, Tech, and More - IGN",
-    "description": "Best Buy's Early Black Friday Sale is Now Live, Including Deals on Gaming, Tech, and More  IGNBest Buy’s Black Friday Sale Is Live. Its OLED TV Deals Are Stunning  CNETBest Buy early Black Friday deals 2026: Save on Apple, Dyson, and Bose  MashableBest Buy’s massive Black Friday sale starts early with 51%+ off on headphones, appliances and more  New York PostPrice Dropped? 3 Big Stores Will Refund the Difference — If You Ask  Money Talks News",
-    "published date": "Fri, 06 Nov 2026 11:19:38 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSmF4MHFjZjZwempTSkRDdTE2YWJrQUN3M3FmR2JpQTFnZGx5UnZuYlZZck9QVTA0M0tCVVd4YWxCb09IcXlTTEQxVVNNVEZGajRFQ1dZY21nbE5sa0F3YmtWNTNreGVYdHpCdHNSM18xNDNwblNkOTJwQ24wT1FpRjlvVTBncGxfNWhhVERLNFQxdzBCUVdoLUJNSHFaNGpWMms4QllJRlFJeGQ3czMtNEVCTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ign.com",
-      "title": "IGN"
+      "href": "https://www.nintendolife.com",
+      "title": "Nintendo Life"
     }
   },
   {
     "title": "Do AI agents have minds? A philosopher explains - The Conversation",
-    "description": "Do AI agents have minds? A philosopher explains  The ConversationOpinion | Does Claude have a soul? Ask God, not Anthropic.  The Washington PostMicrosoft AI Chief Mustafa Suleyman: Agents Could Deserve Rights if Evidence Emerges  PYMNTS.comThe brain-as-computer metaphor shaped modern AI but may be misleading the consciousness debate  The DecoderBIZ-CPT-AI-CONSCIOUSNESS-WARNING-FILEPIC-GET  Bryan College Station Eagle",
+    "description": "Do AI agents have minds? A philosopher explains  The ConversationOpinion | Does Claude have a soul? Ask God, not Anthropic.  The Washington PostMicrosoft AI CEO Says He’s Open to Agents Deserving Rights If He Sees the Right Evidence  FuturismThe brain-as-computer metaphor shaped modern AI but may be misleading the consciousness debate  The DecoderBIZ-CPT-AI-CONSCIOUSNESS-WARNING-FILEPIC-GET  The Virgin Islands Daily News",
     "published date": "Mon, 09 Nov 2026 07:07:38 GMT",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNXdzQ19MSC14NklUZDVEX2p4Z25nM2l4MmF4WUtjQ3JnclN1SDc3eUNlR2N2ZmFXdzJVT2RNN1JyZkdFTEtaNGJGWUJvR0oyN0dFTjVwY1ZPa3RLN1NzQnpnV3BLZFRDUzJhbmtYV0dxcUZfZFhfeENPWnVVelhWZzAxUC11YVdn?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -640,48 +510,38 @@
     }
   },
   {
-    "title": "The Butcher's Nails and Astartes II release dates - Warhammer Community",
-    "description": "The Butcher's Nails and Astartes II release dates  Warhammer Community",
-    "published date": "Mon, 09 Nov 2026 17:24:37 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdzJMS05pa0ZHVnlWdnFEbUFpMXRMWTd1ZDFVVnBnU2pncHJucHUzajAtdnRsWDBtSTVURjFBN1ItbmJLd3lvMF9xZDdCLTFHWENXb3lUemQtVTlGVVhCdHhjd0lzWUR4NXdXSnU1OWUxa3hQbnlOU3IxY2dUNjhNc0N1MWVlbXYtd211aHpGcDlWMHd4OUNxZzdLZXBjUHhKVEFvT1N5aklDNzNCdGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "The Genius of the MacBook Pro Touchscreen - Inc.com",
+    "description": "The Genius of the MacBook Pro Touchscreen  Inc.comI Tested Apple’s Beautiful New Touchscreen MacBook. You Don’t Need It.  The New York TimesIt’s a weird time to buy a laptop, but the new MacBook Pro doesn’t skimp on quality  Ars TechnicaApple MacBook Pro (14-inch, M6) review: Speedy M6 chip slips into comfortable shoes  Tom's HardwareMacBook Pro With PROLED XDR Display: Details You Might Have Missed  MacRumors",
+    "published date": "Sun, 08 Nov 2026 10:44:23 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVmVKMFFFWUZkclFqRmJJZjVzNzhlbjgxUld6UElGVmNtdXpacGpXeHlNX0VHUjY2S1RaeDZxU0o5UHBPM1NqaTR6TFY2a1ktZ0JhX0p1eGpuTzVGNHB1RkF4dXFDeGw1cnozV09OamtTdHZJSDEyYzg2bk1ENVEyVzhicjAtVmRW?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.warhammer-community.com",
-      "title": "Warhammer Community"
+      "href": "https://www.inc.com",
+      "title": "Inc.com"
     }
   },
   {
-    "title": "BioWare's co-founder reckons a new Mass Effect would cost well over $200m - Eurogamer.net",
-    "description": "BioWare's co-founder reckons a new Mass Effect would cost well over $200m  Eurogamer.net'This Is Only the Beginning' — N7 Day Kicks Off With Video From the Cast Calling on Fans to Help Save Mass Effect  IGNMass Effect Creator Is ‘Optimistic’ the Series Will Live On  Polygon.comMass Effect Is Getting A New Art Collection At A Difficult Time For Its Fans  GameSpotBioWare Co-Founder/Beamdog CEO Trent Oster Says He’s Running the Numbers on Saving Mass Effect and Wants the Original Band Back Together, Starting with James Ohlen  Wccftech",
-    "published date": "Sun, 08 Nov 2026 14:31:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQTZyOHdiMHhTYkdFbV95YzYzSkFhMFhnSXQzUDhjU2lBY19ZbVJDSS1fbEo1eXdHcHZ0TDN2UWlkeXZYcEx6Wi1ZbkNablRwbnM5QUZGajJoY0NGQ2Q4QzRoZk1uM0xlZGdfU2ZDdlFfQkM4Q1NydE82bmVKbVZLOHhZbW1WSWlaT24wbGdB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Retro or ANC? Sony and Bose are courting the younger generation with two very different wired headphone designs, and I'm all for it - What Hi-Fi?",
+    "description": "Retro or ANC? Sony and Bose are courting the younger generation with two very different wired headphone designs, and I'm all for it  What Hi-Fi?Sony revives the original Walkman headphones, adds USB-C  Ars TechnicaSony’s retro headphones brought me back to my youth  The VergeSony and ‘Stranger Things’ Send The Original Walkman Headphones to the Upside Down  HypebeastSony Debuts $60 Wired Headphones With ’80s-Inspired Design  Bloomberg.com",
+    "published date": "Sun, 08 Nov 2026 23:03:22 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUXpYNGpaWFZXR0tuM0FoMTZNWTZXSGhoUWlzcHBMRXpybXJmSHRoOGozTzFOZjNnM1pGRTRjMlpMbW5WczFTMlI4MXRWMGR3NENSMnJZdlp1Si05Y2dsMGx2WDhrNUtiTG1KY3cxQXg0c2N6ZHdFMHpweERtMklkb0x4UzQ2SWF2Mk0weENBSG04ZXVBVVVoMzhLaTNfdV9aRHozQUpuemJBbUJaSzNFdG5yNEwxNnZOb1haeXdYNVo1RTJzXzBEeG4zT1I1M3A3ckpIZ2pLblNsZzRJQS1BbFNXWWZFbkVTQnExZ0JrM1VLQzFpd2NN?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.eurogamer.net",
-      "title": "Eurogamer.net"
+      "href": "https://www.whathifi.com",
+      "title": "What Hi-Fi?"
     }
   },
   {
-    "title": "Call of Duty: Warzone Arrives on Nintendo Switch 2 as PS4 and Xbox One Support Ends - TechPowerUp",
-    "description": "Call of Duty: Warzone Arrives on Nintendo Switch 2 as PS4 and Xbox One Support Ends  TechPowerUpThere’s A New DMZ Map Hidden In MW4, And Here’s How To Find It  GameSpotModern Warfare 4 Season 1 Patch Notes  Call of Duty® | Best-Selling Video Game FranchiseModern Warfare 4 November 7 Patch Notes and Fixes  TwistedVoxelCOD MW4 Warzone: Best Hajin Landing Spots, Meta Weapons & Perks for Beginners  MMOEXP",
-    "published date": "Sun, 08 Nov 2026 16:23:33 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVU1WeF9Pb3ZNQnNrWWpoNS1mYnkzc3hLZFZxbnVjMnduM2E4c2x6NmE5X2RTdGVoTUdKUFRPU2ZVZGdVdGYzbnkxZ2RkcldlYTVOMmRnWmJNNVRwcHFDV3NXQWwxTzBsVzU3VjAyX01MNHpuZFNfNmdHcHYtMWJkUmNTRWlCQzBXQ2hjbVY1VnZVaUxDcXcxQ0JTTllZcFJVYzZ4ODA3cE9Odm8xOVE2ZUNrZ2hoVGZB0gG-AUFVX3lxTFBMdU05S0p6RkpCQ0FiVXNuZnhneDRpN2lUbGIxOWlxcEhmNTRwWjVlWlprdnk3bkZkVW0wRVVvYU52SjlTbHpwSXVMeGplSEF4MVVoMlZObmtIVjhNWHZmMGhmLVh5Um1kMTVLQlRfMFNCVGNPdE5FTWJneGNycXVlT1V0ZkV1ekVzam9nRXE5N0ZYVklIYlVmb0Vlcm5YeUhYbi1CUTE4Y0czbnJhVVkwaXFpTXRoY0ZVRURzYVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Which is the best version of Queen's Domain? PS5, Switch 2, Xbox, AYN Thor, ROG Ally, and Steam Deck tested - RPG Site",
+    "description": "Which is the best version of Queen's Domain? PS5, Switch 2, Xbox, AYN Thor, ROG Ally, and Steam Deck tested  RPG Site'The Best RPG I've Played This Year' - Queen's Domain Is A Low-Key GOTY Contender On Xbox  Pure XboxReview: Queen's Domain (Switch 2) - An Incredible Tribute To FromSoft, And One Of 2026's Best Surprises  Nintendo LifeBefore Dark Souls there was King's Field, and five hours into brilliant homage Queen's Domain, it's already one of my favourite games this year  Eurogamer.netNew Dark Souls Replacement Is A Genuine 10/10 Masterpiece And GOTY Contender  ScreenRant",
+    "published date": "Sun, 08 Nov 2026 15:08:18 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOa0NxcDJhYWVfUGxwbWwtcDJsUm05U1hpQlk2a0p4MTBzMkZFdkNzemo4aG1zdEtGS0xkS2xUbW45cE00X00xUDNsTV9vQlJvTGFVc0gzb3FIaDQ2NTdYc2MzNERLdG40d3dET1JlNWY0b2F1eFp4Q0JLUGhXOUxXY0FSZ2g4LVI1dzhLX2dXSm9sZmk2X1pLaUprMnFfOEo2UWpNdVZXdXBsNzlVVXdyYzhiUU1DTW0zRUJ1QngzSVQ2ZkVOTWsycExlWnRwdS05RTlFWg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.techpowerup.com",
-      "title": "TechPowerUp"
-    }
-  },
-  {
-    "title": "Shark vacuums are secretly on sale on Amazon this weekend, with up to $200 off popular models - NBC News",
-    "description": "Shark vacuums are secretly on sale on Amazon this weekend, with up to $200 off popular models  NBC NewsShark's Lift-Away upright vacuum is $50 off at Walmart — and it's built for whole-house cleaning, pets and allergens  PennLive.comCleaners swap old Dyson for 'effective' Shark alternative 'great for picking up dog and cat hair'  Surrey LiveThe Shark PowerPro Flex Reveal Plus vacuum hits best-ever price ahead of Black Friday — save $180.01  YahooShark PowerDetect Corded Stick Vacuum price drops to $219.99  Technobezz",
-    "published date": "Sun, 08 Nov 2026 12:00:40 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMXoxZHVzbWpEcGRISmNPM0JKemQxUDIyeDZRc2p5eUc4dlFCSV9QZENIWFBocElHQ3U3NEZEUzY2YzF4a3dfSFRBUFFFR0w0cHN4dFI3MFJob3BjdDlGNEFZb3NMRW9aQUt4b0xJQXJhYmx6WkJEMjlDTlJJakNSZGhsdDBzekE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.nbcnews.com",
-      "title": "NBC News"
+      "href": "https://www.rpgsite.net",
+      "title": "RPG Site"
     }
   },
   {
     "title": "Skyrim lead designer hopes Sentinel will finally solve The Elder Scrolls' ladder problem - Eurogamer.net",
-    "description": "Skyrim lead designer hopes Sentinel will finally solve The Elder Scrolls' ladder problem  Eurogamer.netWhat Does Sentinel Mean? Are Giant Robots Involved? The Elder Scrolls 6: Sentinel Lore Explained  IGN'I'm Telling You This Because It's True' - Reporter On Xbox's Release Window For The Elder Scrolls 6  Pure XboxThe Elder Scrolls VI officially has a name: Sentinel  The VergeCelebrating 40 Years of Bethesda Game Studios  XBOX Wire",
+    "description": "Skyrim lead designer hopes Sentinel will finally solve The Elder Scrolls' ladder problem  Eurogamer.netGolden Pursuits—Alik’r Awaits  elderscrollsonline.comThe Elder Scrolls 6: Sentinel Will Show Us Just How Serious Xbox Is About Exclusivity  IGN'I'm Telling You This Because It's True' - Reporter On Xbox's Release Window For The Elder Scrolls 6  Pure XboxThe Elder Scrolls VI Is Officially Called Sentinel, Pointing Straight to Hammerfell  OpenCritic",
     "published date": "Mon, 09 Nov 2026 12:46:20 GMT",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWC04eG1kTjVxVzRGaWZtem1PbXdYUTIxRGJ0aURQby1XZkl2Vzl2UTZKOU5xZXBSeUlPSjRJaTlqM0V4SHZrM0R5cDEtOHN1TXhadXIwV3NQNTNtbWRtc3FXMVJGbEpURS13TVJXM0NIOGJhbzd6ZkRWdUpUQTNXZ215dDlWcHp4V3BPWWQ0c04?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -690,13 +550,53 @@
     }
   },
   {
-    "title": "Samsung P9 Express microSDXC SD Cards for Nintendo Switch 2 are at three-month low prices - Neowin",
-    "description": "Samsung P9 Express microSDXC SD Cards for Nintendo Switch 2 are at three-month low prices  NeowinSwitch 2 Owners Can Triple Their Storage For Less Than $100  IMDbThe Nintendo Switch 2 gets a rare deal way ahead of Black Friday  MashableThe Nintendo Switch 2 is $30 off just in time for the new Zelda game.  The VergeBoost your Nintendo Switch 2's storage for Zelda: Ocarina of Time with these microSD Express deals, starting at $48 — make room for Hyrule with these high-speed cards that double or triple your game storage  Tom's Hardware",
-    "published date": "Sun, 08 Nov 2026 15:46:15 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS216V2EtZWdUTnVoNmFYZG8yaDZDdFJjdGZNSnJlRVFSLWRvamp0bklPRUlmTnNoQ2VLc3Y3d0ZKd0tWR3VrejNOQUsycV9lUnV6bzdqYUxzaEFOZUFmS1djSlk3UUtTbmw2VzZyYXp3Znh0bE5SQnloNVZ5WU9GaTNreFp4Z192SWlJak9nc0NKRE13N2dJcWRwbU1pUUNWVDRVUVpFM2cyWXJMTm03N3UwMDR3ems0QUlR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Rockstar’s Red Dead Revolver Has Been Ported to PC - DSOGaming",
+    "description": "Rockstar’s Red Dead Revolver Has Been Ported to PC  DSOGaming",
+    "published date": "Sun, 08 Nov 2026 18:47:04 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb0dNNlAxOUxQNE4tMmY2cERUeDh4Zk1oV3FISW45LWsyNlZVZ3NQbVBGZ05JMWZNUmh1Nm1jZDdYYkJkd3V4R1V4X1YwRlBRdERYUGpzVlFsUXA3VlpBTG4zQjJ6Wm1SanNwLVdxZVkxcG5WVHNpR1MtTm05LUlRYVZtajhuR2pJ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.neowin.net",
-      "title": "Neowin"
+      "href": "https://www.dsogaming.com",
+      "title": "DSOGaming"
+    }
+  },
+  {
+    "title": "What's your love language - and does it actually mean anything? - BBC",
+    "description": "What's your love language - and does it actually mean anything?  BBC",
+    "published date": "Mon, 09 Nov 2026 00:55:35 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qaGJlaWVaWldxeDZ5QUtCQ2ZtbVJRYm5LQXlRc2J5MDg5Z3huVVV2NGJSUi1sRXU3dlhxdDVWcGplYUl4VGQydzdYTjkxZkR3emFlM1g1Q0l4bmM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bbc.com",
+      "title": "BBC"
+    }
+  },
+  {
+    "title": "10+ Game Pass Titles Are Confirmed For Xbox's 25th Anniversary Week - Pure Xbox",
+    "description": "10+ Game Pass Titles Are Confirmed For Xbox's 25th Anniversary Week  Pure XboxXbox Game Pass Essential: Full List Of Games (November 2026 Update)  Pure XboxNext Week on XBOX: New Games for November 9 to 13  XBOX WireThese 13+ PS5 Games Are Coming Out This Week (9th-15th November)  Push SquareOut this week: TANUKI: Pon’s Summer, Warhammer Survivors, Shrek 2, Sonic Pico Park, Football Manager 27, more  Games Asylum",
+    "published date": "Sun, 08 Nov 2026 12:05:41 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbUV2T0RlYlpZbmJieFp2RERibGhPWlZsUzlaMjJKVFM2QkEwWWhOdDlqYVhaQlVZNzFORk1fLXc2aWpxeEZnVm5fZGFZX3doTUx1NFF6QUFtNDB2LU0xXzQ1elotRjFFMlNWV0R6cXNFVlRJSGM3bnJ2LTJvWThxeGl6SWFTVjVRMHE1SnZ2WWJROFVXeUhtUnBBZFJ3YTQ1a0xpamxoV2cyX0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.purexbox.com",
+      "title": "Pure Xbox"
+    }
+  },
+  {
+    "title": "iOS 27.3: Three new iPhone features coming soon - 9to5Mac",
+    "description": "iOS 27.3: Three new iPhone features coming soon  9to5MaciOS 27.3: New features, release date, more  9to5MaciOS 27.3 Could Bring More Audio Intelligence and the Redesigned Health App Soon  CNETSiri AI won't get more control of Apple apps until Spring 2027  AppleInsiderTop Stories: Apple Product Launches, iOS 27.3 Beta, and More  MacRumors",
+    "published date": "Mon, 09 Nov 2026 20:03:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdWlUOE0xYjM5dmZSck1OOV9zNXlxeEppWmRwcGtYeno4Ykc0YjdpdkJGb3RVcHdLbldpNTZfS3R1U1ZTRlJMbEYtNDFaa05Ic1VJSmpaZEM4QlEyam54SUY2blRSeGp6ZldacjZPQ1N6ckN4SGtvNlpNZm9PdU9ua0VUSFg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://9to5mac.com",
+      "title": "9to5Mac"
+    }
+  },
+  {
+    "title": "Motorola is quietly building apps and features that make Pixel and Samsung phones feel behind the times - Android Police",
+    "description": "Motorola is quietly building apps and features that make Pixel and Samsung phones feel behind the times  Android PoliceMotorola Signature 27 vs Samsung Galaxy S26 Ultra: Which Flagship Is Worth $1,600?  TechRepublicMotorola's New Signature 27 Phone Has a 12,000-Nit Display, 200MP Zoom Camera  PCMagMotorola’s $1,599 Signature 27 Is the ‘World’s Fastest Android Smartphone’  PetaPixelThe Signature 27 is a gloriously wasted opportunity for Motorola, and not (only) due to its price  PhoneArena",
+    "published date": "Sun, 08 Nov 2026 17:00:10 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc2hSVVJmbkhyYjVJbHVzaks0T3hqSDdtNktzNDIyMTVzckFwWmI1bFMyNWRrUjBJME1CYmhCNk9RYk4tN21sMmd3QlR2aGFWYTJPM0NJb0N5b1Z2M181ZEhndDNucDRvNHhnbS1xUV83cmtZSjhDZkZCU2NkTjluQlMxZUwxSExkd3V5UFNrdzVYZGQ0QnQ4TFo3YklVZ0tNcGhFVUc4V2l2cnBfazlhZC0tTjNXdzA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.androidpolice.com",
+      "title": "Android Police"
     }
   }
 ]
