@@ -1,7 +1,17 @@
 [
   {
+    "title": "Java News Roundup: Lazy Constants, Spring for Apache Pulsar, GlassFish, Hibernate, TomEE, Seed4J - infoq.com",
+    "description": "Java News Roundup: Lazy Constants, Spring for Apache Pulsar, GlassFish, Hibernate, TomEE, Seed4J  infoq.com",
+    "published date": "Mon, 16 Nov 2026 15:26:49 GMT",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYdlBoa2Fad2dHZGJkQmxfYVl3MXIzVHFSc19heU5rYy1RMmtVb0Y2WEE4bDUyYlNlU2sxUmF4OUhodm01bEdWak5VNmRxalNCaU1zejlkRFlOM0hKT3djb1JKcmdrUlM5MUxicjJOaFlmdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.infoq.com",
+      "title": "infoq.com"
+    }
+  },
+  {
     "title": "Night sky, space debris protections for orbital data centres need international conversation, says senator - CTV News",
-    "description": "Night sky, space debris protections for orbital data centres need international conversation, says senator  CTV NewsSpace data centers could end stargazing as we know it  AxiosHow space-based data centres could permanently change the night sky  CTV News",
+    "description": "Night sky, space debris protections for orbital data centres need international conversation, says senator  CTV NewsHow space-based data centres could permanently change the night sky  CTV NewsSpace data centers could end stargazing as we know it  Axios",
     "published date": "Mon, 16 Nov 2026 10:00:00 GMT",
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbVc0NklEMUFSWWNLZjRHR2tFWDdjSkVMNTRxS2NRVEotZkpoblBxMVhWNlQtOGxRc3ZISDJKYXE4SGtsSmdsNXJhUDRuZlVIdkRZUk5ZS3lYM2t0MlNicHBXRTB0NFBtS3I1ZVpGeG1fMUNrR05FT3FaWW1zSDVBcy1TWExuNXhvZmwwNGVFVHh3UTRaRWpsRDJPZEFrWDYyWlgwRW5JTjRnNEtsdnU3c1UxbDFQel9OTFdTWm15cEQ0NFlYOHprdmdaMGltSFB1OHU3ZnNuQUdOUG8?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -11,7 +21,7 @@
   },
   {
     "title": "Microsoft confirms Outlook outage affecting users worldwide - SFGATE",
-    "description": "Microsoft confirms Outlook outage affecting users worldwide  SFGATEThe Chaos and Unexpected Joys of a 19-Hour Global Email Outage  WSJOutlook Went Down? Microsoft May Owe You Money  WIREDMicrosoft blames monster email outage on software defect introduced in July fix  The RegisterThe Microsoft outage didn’t lose your email — here’s what it does mean for you  Yahoo Finance",
+    "description": "Microsoft confirms Outlook outage affecting users worldwide  SFGATEMicrosoft identifies months-old bug as a root cause of global outage  The GuardianMicrosoft reveals hidden bug behind global Outlook and Microsoft 365 outage  Fox BusinessMicrosoft Outage Triggers Canada-Wide Class Action Lawsuit  Yahoo! Finance CanadaMicrosoft blames monster email outage on software defect introduced in July fix  The Register",
     "published date": "Thu, 12 Nov 2026 18:55:52 GMT",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa00wNEdJMHdlejNBR3c2Q3FLckxZeFhtaW9nRXBMVkN1NEdxRkpuSE4tQnlVSG5yTS1Cdm5ZTkg4Tjh3NGJ6bDhfaXVZXzhJMHhINkFBZ0ZCUld3VlNNQXRKMmlOdUdseWk2d1AtUUk0VUJGUDZGT1JRUEsyZk5FMHdNYlVmQTVqN1RuYmF0ODhZUklWUWhiSnBOcFk0R3M?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -20,13 +30,13 @@
     }
   },
   {
-    "title": "GTA 6 hacker pleads guilty after release from secure hospital - BBC",
-    "description": "GTA 6 hacker pleads guilty after release from secure hospital  BBC",
-    "published date": "Mon, 16 Nov 2026 13:34:22 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXQ3FTYmFzaG5vbnJJM1c2eF8yb1Z3ME9iNTlFMHBqYXpCd1dldll3ZE4tbEpBdjZJRHdxQkZRcXNIMzJDQmtQUHlZbi1SZ1dzajM5N1dPNXlpWEk?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "The biggest entertainment event of the year isn’t a movie — it’s ‘Grand Theft Auto VI’ - CNN",
+    "description": "The biggest entertainment event of the year isn’t a movie — it’s ‘Grand Theft Auto VI’  CNNTen years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI  The GuardianGTA 6 needs $1.9bn opening weekend to satisfy investors, says Bank of America  Yahoo! Finance CanadaZacks Investment Ideas feature highlights: Take-Two Interactive  The Globe and Mail‘GTA VI’ Has Already Sold $1 Billion+ In Preorders—But May Not Revive Console Sales Amid AI-Driven Price Hikes  Forbes",
+    "published date": "Mon, 16 Nov 2026 20:54:02 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZEw1T2VYX205VmdHTVM0QVNvcE81NDFXQldPVHluMTg5NkdLRHhtWUNPeU5oX3ptTDhhR3hyU0FWN3FEa1VuUUhUdkl2amtoa3k1OVhCR1o5WGtXRGJzWWpCLTEzYzBnbzFqaGJDcG95ZzhNREI2bDd4OHBaY3JXUmlNel9YcU0?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.bbc.com",
-      "title": "BBC"
+      "href": "https://www.cnn.com",
+      "title": "CNN"
     }
   },
   {
@@ -40,6 +50,56 @@
     }
   },
   {
+    "title": "One Microsoft outage, thousands of problems: How dependent is Canada on Big Tech? - Yahoo News Canada",
+    "description": "One Microsoft outage, thousands of problems: How dependent is Canada on Big Tech?  Yahoo News CanadaAre we too reliant on big tech companies?  BBC",
+    "published date": "Mon, 16 Nov 2026 21:16:52 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdWhXd0IyMUNoQktGUnR0RElGaTRRWlNlZm1YLWJkS1Y2OVFrMUxOUWlYQmp1bVI1MkswNy1fQ0JyMk5zWFZmMndqbXFvOHNDOW90cjM2NElkbGFBX1R0cFBUZGEtVFNpdHBtTklYNFlzYUFudnFWMHJqTE9nUGI1M1MzdlJyY1dNM3kxcHB2cTlzSllWbWVNYzdoRTdjNGtONWM1eFBuUUM1NmhyQVZfUE1SR1lzeWtPZWZz?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://ca.news.yahoo.com",
+      "title": "Yahoo News Canada"
+    }
+  },
+  {
+    "title": "Mass Effect Fans Send Protest Cupcakes To EA In Tribute To Movement That Successfully Altered Mass Effect 3 Ending - Kotaku",
+    "description": "Mass Effect Fans Send Protest Cupcakes To EA In Tribute To Movement That Successfully Altered Mass Effect 3 Ending  Kotaku",
+    "published date": "Sun, 15 Nov 2026 18:33:40 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeG1veEJBdmhCUG5fN0I4UWFlWGdndmdfWWJmcllSd2RGeHVhazZpN3JITnpiS0VBeXF1UDhzV3NtamZSQkJIWjQyUHVKVGNoNEZ4cDVWX3Q4Y3hPczFiQndpcDNpakdjSTdXMmNyNldMcXBFOHNFRE9pTFpYcW5BN0JnWi1KUXZmSWF0RVZUdEVXRUhCaHFTcHN3RnlyQmJvcXZ4TjJ1T3ZyYksxR1dEX1kxMWhLRzh1d0NENlUyY0cyYWdwTkdfaFFabzVmU09ZeHdRem5XYi1ORlVw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://kotaku.com",
+      "title": "Kotaku"
+    }
+  },
+  {
+    "title": "Apple is testing daily usage limits for more complex Siri AI interactions - The Verge",
+    "description": "Apple is testing daily usage limits for more complex Siri AI interactions  The VergeEverything new in iOS 27.3 beta 2  9to5MaciOS 27.3 Beta Adds Daily Siri AI Limits and iCloud+ Upgrades  MacRumorsApple Adds Siri AI Limits, With More Access Tied to iCloud+  iPhone in CanadaiOS 27.3 gives Apple’s Calendar app new design updates  9to5Mac",
+    "published date": "Mon, 16 Nov 2026 19:24:40 GMT",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQkNnb0JyWWVtVWhWbGRSd1QxRDRSZld4aGtaTU82Vzk1Z1hBUzRNd0I2TkFCSmlGaWE2WGRaN09jX1hIZ3p0VXRKZTBoYWg0RVZpVTFOQXBSd0dTc1NGU1ZFMTYzRVNyLUxtRXpEbTk4TTZvZ2RMUkJ5ckI0dTdOY1lXaEtCYnNIVXlwTjE2U2E3RW9EOW9sNzFTeXpDdktmM05iU0N3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theverge.com",
+      "title": "The Verge"
+    }
+  },
+  {
+    "title": "GTA fever: Sick leaves, absences expected on ‘Grand Theft Auto VI’ release day - CityNews Vancouver",
+    "description": "GTA fever: Sick leaves, absences expected on ‘Grand Theft Auto VI’ release day  CityNews VancouverSee more headlines & perspectives on Google News",
+    "published date": "Mon, 16 Nov 2026 14:49:49 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVXVhVENub3ZVZ2RWSmJYUkNNY2lmUzdXZ3l2NFdjdE1Ddjdjd2dVVUpOQ2ZzZV9SU0hkSEtKUmNUdDYyYkozbWc5dGVTSXQxN0VEQU1yZDRlTHp4V0RGZW9uWWNoYmFhUFhIbFlYUjgxOXk1R01kZWF5R296aGlPMDkxVnpWSE5FcF92R3Q5U2JVTEVETms5VTl4eE1PZE5vT0YyNHRPbFBwMk93TDJSY3M2UFh2NFU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://vancouver.citynews.ca",
+      "title": "CityNews Vancouver"
+    }
+  },
+  {
+    "title": "Blue plaque honour for Radio Sheffield's Praise or Grumble show - BBC",
+    "description": "Blue plaque honour for Radio Sheffield's Praise or Grumble show  BBC",
+    "published date": "Mon, 16 Nov 2026 13:50:24 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wa05GZkY2bEpINEUzbnhiaXpXeVJmem1FZXBxSU9rNl9kaGV1T3JGZ0ZONjdhWGU4cnV5aWZXRC1nNTRjbklpTUhOUlFMaTV4S1pSNkVFTDEwYUJGZlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bbc.co.uk",
+      "title": "BBC"
+    }
+  },
+  {
     "title": "Vancouver duo's song goes viral after featuring in Grand Theft Auto VI - CBC",
     "description": "Vancouver duo's song goes viral after featuring in Grand Theft Auto VI  CBC",
     "published date": "Sat, 14 Nov 2026 18:00:15 GMT",
@@ -50,93 +110,133 @@
     }
   },
   {
-    "title": "GTA fever: Sick leaves, absences expected on 'Grand Theft Auto VI' release day - thecanadianpressnews.ca",
-    "description": "GTA fever: Sick leaves, absences expected on 'Grand Theft Auto VI' release day  thecanadianpressnews.caSee more headlines & perspectives on Google News",
-    "published date": "Mon, 16 Nov 2026 10:01:47 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQN1hNWTNLNjJkYW50aUZyRDZIb3IzcHQ4alBKSk8wakdsTm1RUHk4cXpsS29EdXpYYTR4N3NyZzB4dlcyYVFxNEpTNmNIS2NHSkYzdnd5ZFlaeGsyaFRQV0QybWxHaXdwZTZkMVhUS21jQmVXUktDREs5WXZFLXNhNzZhcXlqeDhxVTBXVFY2cU1kd19MczQtTnF2eFRTVlUxT2hpbk5CbUkzR0h0VlZUYjQ4X0ppb1p1VEtHYS1YWW1RODJqdnY2N2xQVE5pSnpJcTRkam1EWjZMNk5wTjZwcUtYSWp0SUQ5ekZVWTBaRVZmeU9JbUF5LUd1UThfQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Apple Podcasts video episodes coming to Apple TV app - Broadcast Dialogue",
+    "description": "Apple Podcasts video episodes coming to Apple TV app  Broadcast DialogueApple Was Late to the Video Podcast Boom. Now It’s Trying to Catch Up.  The New York TimesApple TV Bulks Up With Video Podcasts  The Hollywood ReporterApple TV App is Adding a Free Video Podcasts Section  iPhone in Canada",
+    "published date": "Mon, 16 Nov 2026 18:06:22 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNTcweXd2QVBjNDZybmhGYTVWdUM5MXZtSWFBdjRac09zN3E3NDlwUk5XYUZMM3BpUUlOTllwLVo4eUVPdEtDVnNmSElWM2xENGxYeWgyenAwV0lWS1FUVHVFTEQ2bHF2TWJjRUt0Rm9YaUxJN2JYdVF3TXJYZS1oUjgza1ZvaG9UWEU0?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.thecanadianpressnews.ca",
-      "title": "thecanadianpressnews.ca"
+      "href": "https://broadcastdialogue.com",
+      "title": "Broadcast Dialogue"
+    }
+  },
+  {
+    "title": "The 20 best new Android apps I discovered in 2026 - Android Authority",
+    "description": "The 20 best new Android apps I discovered in 2026  Android Authority",
+    "published date": "Mon, 16 Nov 2026 11:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9OZG1ySkgxOHBKOTh5VzBzVnkyMU5jVE42WE1LZjZtTDBEUWM3VVh4NDdPWExjblBwYXpfYWFadl9hMjQtc1RMMWNXS2pYcDFDZ1ZRNXd0VVh4Y1ZoV184NTJGUDdFNzlRLUNfNmpTYUliLVNoVUlR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.androidauthority.com",
+      "title": "Android Authority"
+    }
+  },
+  {
+    "title": "Buyer’s Guide: 2026 Amazon Kindle - GadgetMatch",
+    "description": "Buyer’s Guide: 2026 Amazon Kindle  GadgetMatchFirst Look at the Kindle Colorsoft 2026 e-reader  Good e-Reader",
+    "published date": "Mon, 16 Nov 2026 20:01:02 GMT",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZUnFvQ1dYaUpVS0VLMU1EeU1hZnViT004dURqU2pTd0ZaSDNnbG1SbVhNd2V0NDlCelMzZ0pQS2JZU3RZdmFhTEhINXZXN2hHMU5VcGRwYkctcTZ3Yy03ODhyREpFa0ViZXhreg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.gadgetmatch.com",
+      "title": "GadgetMatch"
     }
   },
   {
     "title": "Microsoft's $2,599 Surface Laptop Ultra Packs Nvidia's RTX Spark but Still Trails Apple's M5 - BigGo Finance",
     "description": "Microsoft's $2,599 Surface Laptop Ultra Packs Nvidia's RTX Spark but Still Trails Apple's M5  BigGo FinanceSurface Laptop Ultra Review: The Most Powerful Surface Yet, But It Still Lags Behind Apple  EngadgetMicrosoft's $5,899 AI Laptop Is Here, and You Should Absolutely Not Buy It  PCMag",
     "published date": "Fri, 13 Nov 2026 13:25:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1aZVVRdjNja2drRFBoS1VyQV8za0pEY2hRRU9pVnRFQlJSVlFtUVY1a2U2ZkMzMWVLTmVLQ3c5aTlNVnNMV29hSElTRU9UNWY2YzdhRzIybE5xaXVTbmFETi1HYk9HS3Nqd2R5UWZfWjhvUnBmU0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1aZVVRdjNja2drRFBoS1VyQV8za0pEY2hRRU9pVnRFQlJSVlFtUVY1a2U2ZkMzMWVLTmVLQ3c5aTlNVnNMV29hSElTRU9UNWY2YzdhRzIybE5xaXVTbmFETi1HYk9HS3Nqd2R5UWZfWjhvUnBmU0E?oc=5",
     "publisher": {
       "href": "https://finance.biggo.com",
       "title": "BigGo Finance"
     }
   },
   {
-    "title": "Video game community rallying to save Mass Effect - Yahoo News Canada",
-    "description": "Video game community rallying to save Mass Effect  Yahoo News Canada",
-    "published date": "Sun, 15 Nov 2026 00:33:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVEhmaHlURUlqbXJvZ3YwQ0hWR3RtaUwtWThEa1AzRkZNUHg4MWY0d1FHdTRydXVXNTdrUkpUQmFieHRSMU0tb0NkZl80eXIyZkE2SzdOaWRPTWJhTjZ0YTB4MUJMZENuS3M1UVZienlBZTBUeUN4SjNPUnBUcHhmdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "OPERATION VITAL SIGNAL SETS THE PULSE FOR RAINBOW SIX SIEGE® YEAR 11 SEASON 4 - Games Press",
+    "description": "OPERATION VITAL SIGNAL SETS THE PULSE FOR RAINBOW SIX SIEGE® YEAR 11 SEASON 4  Games PressOperation Vital Signal: Doc Remaster, New MBZ-19 Weapon, Ranked Overhaul, and More  Ubisoft",
+    "published date": "Mon, 16 Nov 2026 11:48:41 GMT",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSVRqb1c4VGdlQW9JWUJoNjVWSmYweFc4ZTFIMkp2ZmdJUWszM1FKNXdpVlBBcUxNQkFkNXlyc3FQYllpTktsNWxuTkl5c25TSENHTmRDQ2hVMzRxMHVTSllYOHMwd3pDUk1kTW9EUUFUS3dGUktRR0l3aXVOM0V3RGJuLWlsc2hHblBXX2lYbjRNV2dIXzR1aVVWa0gyZw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://ca.news.yahoo.com",
-      "title": "Yahoo News Canada"
+      "href": "https://www.gamespress.com",
+      "title": "Games Press"
     }
   },
   {
-    "title": "A Close Look At New Kindle Paperwhite Reveals A Surprise Downgrade - Forbes",
-    "description": "A Close Look At New Kindle Paperwhite Reveals A Surprise Downgrade  ForbesSee more headlines & perspectives on Google News",
-    "published date": "Thu, 12 Nov 2026 18:47:26 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcmk0R2FFcmJ1TU11VElGdTQ4em1hZW9RRm5JbkZqa3l2T2Nhd2wyOUFaOW8yaEpJVzhQTHVPVHFrRDJacWktSHdsNklTZHM3VDFZQzVHWWRzNjVLVS1fZXVfR09fdW05UUhZLXppVHVXaVRmUGpRaEZ6Tk1sdV9OYkV1ZS1GOWtfN3dkMGVRVUdwZFlfT08tZHU1SEhaaHc2aXVHWXVaZU9TN3NaWVRBXzl4aEdSeEVyNW9pVF9nbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Large-screen tablet arrives with 14,700mAh battery, six-speaker system and 1TB microSD support - Notebookcheck",
+    "description": "Large-screen tablet arrives with 14,700mAh battery, six-speaker system and 1TB microSD support  NotebookcheckCubot introduces MegaPad tablet with 14,700mAh battery and six speakers  Mezha.net",
+    "published date": "Sun, 15 Nov 2026 20:08:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaThWaEc1TXljM0Jhemt2UmJodDJRVWN5NExMUjNIT1ZhNGZHc19SMXpUT0EwMjVHMlRZV0JpMzIwdmRUekp5R1c5TUVPZkU4TEFzWVdMVHBrNlhjaEhkdm1yaXlST1plV0lxS090OXQtdERnVGlvLWlzUzNTSjZ5Mk1qRFQtdlRySFIxWEdWMFgtSTNMUDdTbjdWOC04RmtPeFlDSHlFTkhxMVN2YU1MaFg3bDVCMF9IellvSVVNSXktTWhaa1Nxb21wOER6eUNqWTFzcA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.forbes.com",
-      "title": "Forbes"
+      "href": "https://www.notebookcheck.net",
+      "title": "Notebookcheck"
     }
   },
   {
-    "title": "AMD Unveils MI400 Series, Targets NVIDIA with 30% Inference Performance Edge - BigGo Finance",
-    "description": "AMD Unveils MI400 Series, Targets NVIDIA with 30% Inference Performance Edge  BigGo FinanceAMD Stock Soars over 5% After Introducing a New AI Data Center GPU  TipRanks",
-    "published date": "Mon, 16 Nov 2026 09:05:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CSVo2TUd5Z1ZMSUNpZWZpUmdodHNPaDhkb0hQdWthM3V2VzAya1lKaWl4TEFfUEYwREhoZmY0V3Zwd1R6dS12Wm56cWNvTmJ2NXU0dGc3d0IyN255ZXFRYjhVX0JOM3Z4MVJ4cUNlSGdNbmwyYUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Siri AI and iPhone apps are the cornerstones of Apple’s hardware strategy - Six Colors",
+    "description": "Siri AI and iPhone apps are the cornerstones of Apple’s hardware strategy  Six ColorsOur HomeView and Apple TV 4K reviews show Siri is becoming Apple’s biggest liability  Tom's Guide",
+    "published date": "Mon, 16 Nov 2026 13:23:38 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWGYxNzBQQmNETk9SRUdTTE5hVm5jQlI5YW1pM0Y1V2RVSElWVUhyaUt3clUtSWtDdGlqYThvTDQ3S3lMYVM3U0sweGp5b0hoWkd1RzM1U1RMWGd5c3dzZElHbUF6Y3NnRThtQlFzVmtNa0tLOHpDdkdta3JYV3RZNnRqbFh4ZHl4Tm5NLWwzbmRyUTBnS3RrQVRTdTFQbmhoanN5eF92ZFI3VXp5?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://finance.biggo.com",
-      "title": "BigGo Finance"
-    }
-  },
-  {
-    "title": "Samsung-Google AI Glasses Launch December 10, Challenging Meta's 90% Dominance - BigGo Finance",
-    "description": "Samsung-Google AI Glasses Launch December 10, Challenging Meta's 90% Dominance  BigGo FinanceGoogle Is Trying Smart Glasses Again. I Tried Them On.  The New York TimesSee our intelligent eyewear lineup and pre-order your pair  blog.googleGoogle pushes privacy angle as Gemini-powered smartglasses debut starting at $395  Ars TechnicaHands-on: Google and Samsung’s vision for Android XR glasses is 20/20  9to5Google",
-    "published date": "Mon, 16 Nov 2026 08:35:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1KN2w1Mmw2Nmh1dkhQMG8zNEtBOFBOY1ZpajAwWWYyOUVjZHNiS0taT21aWDNmdENuMUhnODFtTjBrcGR4ckE3SnFqMWlINUdJYkpBUlU3UWU2aHg2NFF6VXhpQ0pYN2dNU250aGY0dDNFLUFBQUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://finance.biggo.com",
-      "title": "BigGo Finance"
-    }
-  },
-  {
-    "title": "How the Nvidia scandal, Outlook outage show our overreliance on a few tech companies - Yahoo News Canada",
-    "description": "How the Nvidia scandal, Outlook outage show our overreliance on a few tech companies  Yahoo News CanadaAre we too reliant on big tech companies?  BBC",
-    "published date": "Fri, 13 Nov 2026 13:03:40 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMS1KM2czQlBvSng4c3dIRzlBZU5WWks5SUJheWZRb1MtSzNYSnQwdG56MTZzTjhHbWhCb3B0TzNtY3JPZ1VBLVlEMThJaVB3UUpQcGRsLUFRSVhqcWNVUGpmcU1zY01oWFdoaVJmb3g1LTBKY0NKM21uYkd4M3dpaA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://ca.news.yahoo.com",
-      "title": "Yahoo News Canada"
-    }
-  },
-  {
-    "title": "Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI - The Guardian",
-    "description": "Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI  The GuardianHow Rockstar's 'GTA VI' release could reshape gaming, streaming and even paid time off  CNBCZacks Investment Ideas feature highlights: Take-Two Interactive  The Globe and MailGTA 6 needs $1.9bn opening weekend to satisfy investors, says Bank of America  Yahoo! Finance Canada‘GTA VI’ Has Already Sold $1 Billion+ In Preorders—But May Not Revive Console Sales Amid AI-Driven Price Hikes  Forbes",
-    "published date": "Sun, 15 Nov 2026 15:40:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd1o3QjBQeUxxMXBSWFBUZ3pGaTJxMFZiN1JBdmh4bEV5NjVGeFpsTGFHaDZMTXlrNkZqUGdSSUVWTXh6NEhjb1lNV2xDWkU4Um53RkI2QjBVQVJvRW80ZjVCVHhzbXloaE00RDJJYzN5SmRJN2FfRTFiNm96V3hsSlFXdzJmUVpDYTVhZVRjMU1wTVNaM0ViNjhLMk51U0I1NzVMZQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theguardian.com",
-      "title": "The Guardian"
+      "href": "https://sixcolors.com",
+      "title": "Six Colors"
     }
   },
   {
     "title": "Acer Googlebook 14 Review: Promising, but Unfinished - Gizmodo",
-    "description": "Acer Googlebook 14 Review: Promising, but Unfinished  GizmodoI put Googlebook OS up against Phone Link in Windows 11, and this one's better for Android  MakeUseOfAcer Googlebook 14 unboxing: the most affordable is also a convertible [VIDEO]  Chrome Unboxed",
+    "description": "Acer Googlebook 14 Review: Promising, but Unfinished  GizmodoI put Googlebook OS up against Phone Link in Windows 11, and this one's better for Android  MakeUseOf",
     "published date": "Mon, 16 Nov 2026 12:00:36 GMT",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR2tYNnV6TDR0emNDQlUzOW5vSTMwVUtUMzVDMDNfNU02QlBpUERVaEVWQkR6SVBjRTRmZmlWQWpzN0Vad2w4TXVrSlNCTzRNZDJ3eFhITnNMUnJKS2N2MmVTUjEyUzlZZ2tPVExGaVZoLU5BYnlZWTFDU2JUVzJ2bFE5Q2lNV0d5?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://gizmodo.com",
       "title": "Gizmodo"
+    }
+  },
+  {
+    "title": "'iPhone 20 Pro' Rumored to Be Based on iPhone Air - MacRumors",
+    "description": "'iPhone 20 Pro' Rumored to Be Based on iPhone Air  MacRumorsNext year’s iPhone Pro redesign gets new update via leaker  9to5Mac",
+    "published date": "Mon, 16 Nov 2026 13:40:33 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQ1hWbFBFWVhJWjdUMlRhU2p1S2k5N18zb25HTzI0Sng0ODJTd01OZkZLYTBQMFl0ZFRYbFg1WDNfTUtMd2dJZnJ6QTJQMU5qT1NQX25sVW1lWGtQOTloN2lzSHVCNkdWNXJadjJPbklZUlY0eXk0aDFoWTdfUVllN3U4MA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.macrumors.com",
+      "title": "MacRumors"
+    }
+  },
+  {
+    "title": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID - TechCrunch",
+    "description": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID  TechCrunchApple to Let Users Face-Unlock iPhone Duo, Addressing Key Drawback  Bloomberg.comThe iPhone Duo Gets Face Unlock With The Latest iOS 27 Beta.  EngadgetHow iPhone Duo’s Unlock With Front Camera Works (and How It’s Different Than Face ID)  PetaPixelApple adds face unlock to its foldable iPhone Duo in iOS 27.3 beta  Quartz",
+    "published date": "Mon, 16 Nov 2026 19:26:55 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPekpGRmtJNDhnTF9LWWVOdTE3dS1Wd2xHdmFma3dzVGZoQkg3bWJqN2dlYVQySTRoU1V0R3c1OWE4MzA4RVV3cjNfWTh4VTZUS19BS2h5RHQtbHBFd0FhYUtqd2dHTU9JZ0JPVFJQc2RKQlpVVjBtZE5id01qSUY1NEJfQnNvOENOQmpOSVRsbEs4VERmZm9uOUFWQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://techcrunch.com",
+      "title": "TechCrunch"
+    }
+  },
+  {
+    "title": "Samsung-Google AI Glasses Launch December 10, Challenging Meta's 90% Dominance - BigGo Finance",
+    "description": "Samsung-Google AI Glasses Launch December 10, Challenging Meta's 90% Dominance  BigGo FinanceGoogle Is Trying Smart Glasses Again. I Tried Them On.  The New York TimesWarby Parker Toasted Its New Intelligent Eyewear Pop-Up with a Book-Filled Celebration  VogueGoogle pushes privacy angle as Gemini-powered smartglasses debut starting at $395  Ars TechnicaDesigning for privacy on intelligent eyewear  blog.google",
+    "published date": "Mon, 16 Nov 2026 08:35:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1KN2w1Mmw2Nmh1dkhQMG8zNEtBOFBOY1ZpajAwWWYyOUVjZHNiS0taT21aWDNmdENuMUhnODFtTjBrcGR4ckE3SnFqMWlINUdJYkpBUlU3UWU2aHg2NFF6VXhpQ0pYN2dNU250aGY0dDNFLUFBQUE?oc=5",
+    "publisher": {
+      "href": "https://finance.biggo.com",
+      "title": "BigGo Finance"
+    }
+  },
+  {
+    "title": "XBOX 25th Anniversary Magazine: Explore 25 Years of Games, Stories, and Memories - XBOX Wire",
+    "description": "XBOX 25th Anniversary Magazine: Explore 25 Years of Games, Stories, and Memories  XBOX Wire25 Years of XBOX  XBOX WireEvery Xbox Console Generation Sorted By Release Date  EngadgetXBOX Playback is Here: Look Back at Your XBOX Story  XBOX WireThanks for 25 Years, XBOX Players — From Wolfenstein 3 and Halo Firefight to Classic XBOX Games on PC: Everything Announced Today  XBOX Wire",
+    "published date": "Sun, 15 Nov 2026 17:02:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4cV9NOHZ2UndNRXZqcmNoNlBfNk5LNUJRREVkVk1hUC13d2hGZzRKaVRaRnluNlM1TGZFZmRZX2FFWkFWNHJJY3ZySzRXMG8xbEdXeWJfOEt0NlhZd0JLZS1TUE0xdUkzc1J6WlhNX3UtdEotTTRUcEIxUUFFX0nSAYQBQVVfeXFMTWNwV2oyeUdsZjlsZC1UMDVpbHhPVXQ2TzVkUVRoUFAxdy1UVDhKZ0FoRkxvMU9vSjg0Ty1sejZocFlTX2J6NWh6WHR2d0JRX1dWY2I0Y0ZFVGg2X2dwcDFiV0FfSjlMd2FXNl9CYzlITDUwQnJOZEY3R1Vkajc3TWhaUHhp?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://news.xbox.com",
+      "title": "XBOX Wire"
+    }
+  },
+  {
+    "title": "Apple Puts Siri AI at the Center of the Home With HomeView - PYMNTS.com",
+    "description": "Apple Puts Siri AI at the Center of the Home With HomeView  PYMNTS.comApple’s HomeView is my new favorite smart display — but not my daughter’s  The VergeHomeView Launches in Canada Without Canadian French Support  iPhone in CanadaApple HomeView Review: Why I Regret Spending $429  iPhone in CanadaHomeView has one big problem: The iPad  Macworld",
+    "published date": "Sun, 15 Nov 2026 22:04:25 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeU9Pa2RuOWozMERYODNoaEoycV85dWZ1QmNWYmdtbk1aWXJ3Yng1QmtoZThQSnZ6d3dKYUtseHRDRmdSZ25PVE1XdndBRHhjR1N5R3lBZEhkZTZvNUYyQmRxOXdvYmZNMWxnd1ZOaV9DNTlET01pYVhKb0I3cm42c1hnZmlXOGl4WHpBMVZMbUhwaWlMSC1EWnJaZFN3UUs2cnQtb0pGZEZHTFdFaW9kTThhYS1mLTA?oc=5",
+    "publisher": {
+      "href": "https://www.pymnts.com",
+      "title": "PYMNTS.com"
     }
   },
   {
@@ -150,63 +250,13 @@
     }
   },
   {
-    "title": "8 Holiday Gifts to Shop at Best Buy for Everyone on Your List From Ray-Ban, Nespresso & More - Yahoo",
-    "description": "8 Holiday Gifts to Shop at Best Buy for Everyone on Your List From Ray-Ban, Nespresso & More  YahooTech Gifts Starting at $25, From Health Gadgets to Home-Theater Gear  Rolling StoneStruggling to Find the Right Gift? Try These Everyday Tech Ideas  Retail Insider",
-    "published date": "Sun, 15 Nov 2026 12:37:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYks2WjFGR1hsWGVucFh1UGRJQzNwazJ2OFhBTDR5ZkFabHNHZmxvQzdieUpCUEZ3UzUzQm03WUcyekdkRDN3TEpzTWdycFUtLUNod3ozWDVIQzZUUTFGZ3JZSmlIZGp1VWJVdjhJVGVRMWR0LUhqUm9sR1d4UTdvdl9sdGJ3ZkNCd1Ftc0lfQm0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Ford Teases a Mustang Cobra Variant - Hagerty",
+    "description": "Ford Teases a Mustang Cobra Variant  Hagerty2028 Ford Mustang Cobra with a Race Car-Derived V-8 Is Worth Waiting For  Car and DriverFord's bringing back the Mustang Cobra, per new teaser  DrivingThe Ford Mustang Cobra Will Return in 2027, and You Can Listen to It Before You See It  Car and Driver",
+    "published date": "Wed, 11 Nov 2026 16:33:49 GMT",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hRkk3Qi1KLTRyeGhiN09vNzZydEpRN0pSZm1NZWJtdk04R0lUMHFkY2xWcDgtX0VNblRGeUxLdG5TTzBZNGxyQjdsZzNZVEw2UnJTbV85MlFBeTdhclAxSHM4VzVvVjJYSHJqNWZDbF9qa1lIalgyMUNTcw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://shopping.yahoo.com",
-      "title": "Yahoo"
-    }
-  },
-  {
-    "title": "Apple HomeView hands-on: Born to live on marble countertops - Mashable",
-    "description": "Apple HomeView hands-on: Born to live on marble countertops  MashableApple’s HomeView is my new favorite smart display — but not my daughter’s  The VergeI Spent a Week Testing Apple’s New HomeView. It’s ... Fine.  The New York TimesWhy Apple's HomeView Relies So Heavily On Your iPhone  EngadgetHomeView Launches in Canada Without Canadian French Support  iPhone in Canada",
-    "published date": "Sat, 14 Nov 2026 14:10:08 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMWFNNjZHRWd3Y0JPQnV2OXhjMXBEY2lJazRlYXIwU3ZmUWlyS2VoR3pMNDN0NWhxNk9qZGRQSUxLVTVWSG5FWmN0cXJNSEhXQmNlY1p0R3NTN2NaVkU2TW5fT0V6allWcEJaOFRpYS1YeGxvU0JRdGllUUFLa2N3X2hRbG53eC1J?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://mashable.com",
-      "title": "Mashable"
-    }
-  },
-  {
-    "title": "‘Lenovo Googlebook Duet 13’ leak points to January launch [Gallery] - 9to5Google",
-    "description": "‘Lenovo Googlebook Duet 13’ leak points to January launch [Gallery]  9to5GoogleLenovo's first detachable Googlebook tipped to debut in January 2027  Android AuthorityFresh Lenovo Googlebook Duet 13 leak points to January launch with a new name  Chrome Unboxed",
-    "published date": "Sun, 15 Nov 2026 21:36:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GeUQ2VVZxZDBqaDJlYUMtVGdrcGxJYWQtUHlURWd0ZVdBNU54a1F5ZmVPdzBZRWxnUDFqMklfcWg0UGI3YThYTXR3RWtZY2NNVklLbHRiWW0tRkEwSjJZclFMbHNyNExweFJlLW4wNi0yLUk?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://9to5google.com",
-      "title": "9to5Google"
-    }
-  },
-  {
-    "title": "XBOX 25th Anniversary Magazine: Explore 25 Years of Games, Stories, and Memories - XBOX Wire",
-    "description": "XBOX 25th Anniversary Magazine: Explore 25 Years of Games, Stories, and Memories  XBOX WireXbox’s 25th Birthday Was All Over the Place  Polygon.comXBOX Playback is Here: Look Back at Your XBOX Story  XBOX WireAsha Sharma Issues Statement On Xbox's 25th Anniversary And The Future Of Gaming  Pure XboxXbox CEO Hints That The Solution To An Imploding Video Game Industry Is AI  Kotaku",
-    "published date": "Sun, 15 Nov 2026 17:02:01 GMT",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4cV9NOHZ2UndNRXZqcmNoNlBfNk5LNUJRREVkVk1hUC13d2hGZzRKaVRaRnluNlM1TGZFZmRZX2FFWkFWNHJJY3ZySzRXMG8xbEdXeWJfOEt0NlhZd0JLZS1TUE0xdUkzc1J6WlhNX3UtdEotTTRUcEIxUUFFX0nSAYQBQVVfeXFMTWNwV2oyeUdsZjlsZC1UMDVpbHhPVXQ2TzVkUVRoUFAxdy1UVDhKZ0FoRkxvMU9vSjg0Ty1sejZocFlTX2J6NWh6WHR2d0JRX1dWY2I0Y0ZFVGg2X2dwcDFiV0FfSjlMd2FXNl9CYzlITDUwQnJOZEY3R1Vkajc3TWhaUHhp?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://news.xbox.com",
-      "title": "XBOX Wire"
-    }
-  },
-  {
-    "title": "Mega Man: Dual Override Boss Design Contest winner Cleanser Man revealed - Gematsu",
-    "description": "Mega Man: Dual Override Boss Design Contest winner Cleanser Man revealed  GematsuMega Man: Dual Override Reveals Robot Master Design Contest Winner  Nintendo LifeMega Man: Dual Override reveals Cleanser Man, winner of the Robot Master Design Contest  Nintendo Everything",
-    "published date": "Sun, 15 Nov 2026 21:30:39 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeVZienZNc3Y4SHpIaTU1SVhSTWxiLUd3czlOdG0tWVNUQkVJb3VGcUNkeDBycEp1NmhZTmZTRENBSVcxbVRWQ0FXSVUtUHBuWHpIbWJpNk5pcnU4RUE2RENubTJPQkowcndrTGtCUTRMM2gxS2Y5SnZWc1BrMm1QZjk1TTEzMzI5cTg1TUVzeUZGT1puejhlc0w1X1pFdjRkWmUyT1Zn?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.gematsu.com",
-      "title": "Gematsu"
-    }
-  },
-  {
-    "title": "These overlooked storage hogs could be taking up gigabytes on your phone - Android Police",
-    "description": "These overlooked storage hogs could be taking up gigabytes on your phone  Android PoliceHow I freed up 36GB on my Android phone without deleting a single photo  Android Authority",
-    "published date": "Sun, 15 Nov 2026 11:00:10 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRmo2V21qQUltdVJydnVYa2d3QU5rR0dzVll6UkNuczdPdkVpQUFqR2QxdzV4MFpNZFRnRVdrSHByMHQ1TmQ0TmNUazlTc09qaU5wYUxIaXAzZTgwU3JnMEs2cTQwNUloZ2RITWhoUGd1X0kwLVhFbXQ2MC15b2p1ZS1iYVRvbDQzNTcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.androidpolice.com",
-      "title": "Android Police"
+      "href": "https://www.hagerty.com",
+      "title": "Hagerty"
     }
   },
   {
@@ -240,33 +290,13 @@
     }
   },
   {
-    "title": "Report: Ford Mustang Shelby GT350 Replacement Will Be Based on the Dark Horse SC - Hagerty",
-    "description": "Report: Ford Mustang Shelby GT350 Replacement Will Be Based on the Dark Horse SC  Hagerty2028 Ford Mustang Cobra with a Race Car-Derived V-8 Is Worth Waiting For  Car and DriverFord's bringing back the Mustang Cobra, per new teaser  DrivingThe Ford Mustang Cobra Will Return in 2027, and You Can Listen to It Before You See It  Car and DriverFord Mustang Shelby GT350 Successor Reportedly Around the Corner  Car and Driver",
-    "published date": "Tue, 10 Nov 2026 15:08:49 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ3N6Z1c1M0R4WElaTFZRcHpreXAtNHduVTcyV3dPMTJYckYtS2F3NmstSEFYcU1qT3JkajhyYnhIY1NzSUNOUUpnaEc3WkRHcEpBUWlNcVBkN0EwejZuNjJLT1U5S2pDUmdvbzFpTjY4emdKZHVKdkZFNEF1NExyMWNDUlc3ZVI0TFBETVBFZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "November Pixel Drop status: Here's where the rollout stands right now - Android Authority",
+    "description": "November Pixel Drop status: Here's where the rollout stands right now  Android AuthorityMillions Of Google Pixel Users Get Good And Bad News In New Update  Yahoo News CanadaPixel 10 with Gemini Intelligence, custom widgets, and more in our November Pixel Drop  blog.googleGoogle’s November Pixel Drop Brings Pixel Tag to Canada, Leaves Some Features Behind  iPhone in CanadaGemini Intelligence: New features, on more devices  blog.google",
+    "published date": "Mon, 16 Nov 2026 05:06:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSE5rV1pkU21ZbDRRc2VHMFlrVVVCNUgxTGE5VG5uZGpHMHo5cmhFNEUxb1V6V2hJUE05ZUp1aEhMcE9XMl9NUDMySmJQV3lOMWNXUFhUQUVsaUVtRnpnczFqVjZ1S3Fwbzh2ckN3RTdxamVNTlZpdllVUlJubEl6QmxmYVM3VzRCZ0xodVRWM2U4NDhTUE9EVg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.hagerty.com",
-      "title": "Hagerty"
-    }
-  },
-  {
-    "title": "I've been using the new Google Messages UI; one change is driving me crazy - Android Police",
-    "description": "I've been using the new Google Messages UI; one change is driving me crazy  Android PoliceGoogle Messages could soon make pinned chats better with a clever layout switching trick  Android Authority",
-    "published date": "Sun, 15 Nov 2026 13:00:10 GMT",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5WSFZsT21sRnhLQkltNzNycXJmdGY3U3pUSnEzYlkxX295WVRSaVJqd1h3YnJhc3h3OGZrck9QMk9QT3VZZkR4emYwUWNKS09TUmdNaC1IODFvQlFsWkxZSkFIcmNvS2Y4ZWRhb295T2dMSFdCV0NpOHRIOA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.androidpolice.com",
-      "title": "Android Police"
-    }
-  },
-  {
-    "title": "Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop - Ars Technica",
-    "description": "Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop  Ars TechnicaMillions Of Google Pixel Users Get Good And Bad News In New Update  Yahoo News CanadaPixel 10 with Gemini Intelligence, custom widgets, and more in our November Pixel Drop  blog.googleGoogle’s November Pixel Drop Brings Pixel Tag to Canada, Leaves Some Features Behind  iPhone in CanadaGemini Intelligence: New features, on more devices  blog.google",
-    "published date": "Tue, 10 Nov 2026 19:00:26 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOGFkNEl3T1V5MkVOSTI4ejVmQ3BpeUNGTnZwcU5PSllQTmpxQ3gyNHMtUDJWcWt2dnUxV1A4Q0hLRVY5WmN5bXdoNk94MV96WXhTX2ltMnY3Qkt2ME5RTTdHVWhQcEROWkJ6Qnl1dEcyb3JWdVFCcU5zRUxvdG5BdWpITEt6T2R6cU5PX1I1S2trQ0R0MWE5SUZ2dk0tUnBkQzc5THJXYzlzUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://arstechnica.com",
-      "title": "Ars Technica"
+      "href": "https://www.androidauthority.com",
+      "title": "Android Authority"
     }
   },
   {
@@ -280,6 +310,146 @@
     }
   },
   {
+    "title": "Development of treatments for sarcopenia: new challenges, opportunities and perspectives - Nature",
+    "description": "Development of treatments for sarcopenia: new challenges, opportunities and perspectives  Nature",
+    "published date": "Mon, 16 Nov 2026 17:05:39 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JMVQ3dnRvSnVoZUxqOUhoeDNhSmFLakpWVWRoOXJYRTN6VXpaUVhiWDIzdVZKekxycmZDTFFUWTdzeVl5UnN0WUVfdGEzUERkeUxmZ29Ia1N5cUdNd3Bv?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nature.com",
+      "title": "Nature"
+    }
+  },
+  {
+    "title": "Gut microbiome changes could potentially be harnessed to support healthier aging - News-Medical",
+    "description": "Gut microbiome changes could potentially be harnessed to support healthier aging  News-Medical",
+    "published date": "Mon, 16 Nov 2026 19:13:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSkJKc1JYZWNJV0lZeWtnVWx0dVhVaC0xWkdlTk00b0tYRDRHOHRQMjdrRUw0UzFEX0xKZGZzZXR4N3ZCb0VBR0t6UVdGMVpIQ0xxUDlpZldHbUVNN1dLNnVvSktYOEVCMUoyY0I4dEM0YS1jNzE1RGZ0TEtEaDAyV05KdjA5ZlNsRUR6QWdJWXJmMHlPN0U0OFRSODlLSWtKZXM3cl9ZTTdnMGNqTG5TSWVtZDE2aTNKYzIteGhuRWVpaUxkeXpJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.news-medical.net",
+      "title": "News-Medical"
+    }
+  },
+  {
+    "title": "Ultracold diamond microwave laser amplifies quantum signals 1,000-fold - Phys.org",
+    "description": "Ultracold diamond microwave laser amplifies quantum signals 1,000-fold  Phys.org",
+    "published date": "Mon, 16 Nov 2026 22:40:10 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcTQ3enNCWUNpWndzWlRkWkNBWm5TMU1DX3JzSndLdE9DcGFKa0lNenNBcXVnbUZ3SEFVajN5TnZsY0NzM05qZEVIUzBsVG1DV21rV3RIUHh6a0RfSnVLQlcxUVY5c3pUZ0dlRFUwWDdoMF9vaV85enJDWTJ2MUlib0VKS3I?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://phys.org",
+      "title": "Phys.org"
+    }
+  },
+  {
+    "title": "Security patches are supposed to protect you. Google found AI agents turning them into exploits. - The New Stack",
+    "description": "Security patches are supposed to protect you. Google found AI agents turning them into exploits.  The New StackGoogle says Russian speakers pulled off first-ever fully automated AI cyberattack  POLITICO.euGoogle Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches  The Hacker NewsThe era of autonomous attacks has arrived.  blog.googleGoogle warns that fully-automated AI attacks are coming soon  BleepingComputer",
+    "published date": "Mon, 16 Nov 2026 21:28:53 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMdk1obTMzVF90V2tXd0RZMy1mcm94clpuVWFFS2M4X1B1WHB2UkplZ3RFazhpQXFnZGhEeGFETGpIRjN0enp5ZHFmc0JubUZuUGkyeUVYVVZtRjV5NXhrbnhB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://thenewstack.io",
+      "title": "The New Stack"
+    }
+  },
+  {
+    "title": "DNA damage in T cells limits effectiveness of immunotherapies - News-Medical",
+    "description": "DNA damage in T cells limits effectiveness of immunotherapies  News-Medical",
+    "published date": "Mon, 16 Nov 2026 19:16:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdjhfQUdNSGNyaTRVRUpCbzRnaVhaaW5ENThJTENXTUdLWjlWY3d3aHZ1NzUyRlFEQk95YnE4QXIyMmJjQ0ZnSHFteTlvbU91UncxbWFpMm5jNlFaYlBpT191TTF4TG1zd3VyWW15aUNFSUpfRHdIWnhDeEhGdjBaMG9vYWZMWUEzSEJsYUZQS1M5QU9NZ1pPVk00QlQ1ZzVaTmlfTXRVdWpwRVJVaGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.news-medical.net",
+      "title": "News-Medical"
+    }
+  },
+  {
+    "title": "Dream Chaser space plane gets landing approval for debut mission in 2027 - Space",
+    "description": "Dream Chaser space plane gets landing approval for debut mission in 2027  SpaceDream Chaser spaceplane hauling 12,000 pounds wins FAA clearance for runway landings  Interesting Engineering",
+    "published date": "Mon, 16 Nov 2026 14:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSjdOMEpUWnlNaGJVaE8wNEtHOVYtclMxX2FnbjJhM0t4Q3NvdnZ1eDA0aFBhWDVHZ3FicEUwT2kwZzVFOEY5elVOaHIzRUJZX0l4b3dib3FmNGVoRnk0ZmRxVG8zWGF2ZGtMaUlBRXVLRkYwdUdaZnp0cWxsMUZ0aGFtRWxVNGZabkFpQ0tNMl9aS29kSjFBeE5WTHZUWWdfV0NYOG80TWgzV3BrajJGWkhnVjlIaXRTUllPQ0ExSUY1NlYxbnRCd1h5eFo?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.space.com",
+      "title": "Space"
+    }
+  },
+  {
+    "title": "Caught ‘GTA 6’ Leaker Pleads Guilty To Extorting Rockstar Games - Forbes",
+    "description": "Caught ‘GTA 6’ Leaker Pleads Guilty To Extorting Rockstar Games  ForbesGTA VI hacker pleads guilty to targeting tech firms  BBCGTA 6 Hacker Pleads Guilty To Stealing And Leaking Gameplay Footage  Engadget'GTA 6' Hacker Pleads Guilty To Extorting Rockstar, Trolling In Prison  Polygon.comGrand Theft Auto 6 hacker pleads guilty to all charges  PC Gamer",
+    "published date": "Mon, 16 Nov 2026 14:40:51 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT09GTEIteG9DY1EyaDJ3RHpnSnhZaHczM0o0RUFEbk0tYWF0N2c5MlNWX09jakRQT1JvSTk2UDJNTHN1WkFhV05YVEEzMmw0U1hHbWlpeUFzWXhQb3lpZXVCeGN3SE56dHhITjUweWdVeHZGOTVmZnJ1NG9GS2UxZ01VY29pbGlDdlFvb1kzZzZkTlNkeXY5UG5sdk43YTVjNFFYMFg0YkxQMlpvUno2aXV3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.forbes.com",
+      "title": "Forbes"
+    }
+  },
+  {
+    "title": "Naming your feelings can be harder than you think. This simple tool can help - The Guardian",
+    "description": "Naming your feelings can be harder than you think. This simple tool can help  The Guardian",
+    "published date": "Mon, 16 Nov 2026 17:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMmRYekUtRnd0LUtyQW5YWjFuMlp0MHQtazkwaHBxMHJqYU1nZ3YxbHZ5bDg1c0psUFlCVEE0Z2ptelgtWkpHV0ltMnh5V0xhUW9FTEtXQ3VqZ0lNbWJ5N2FaMjlpaHZoUWx3WW5UaVZpU0RlSGlrWmFJRzFPVjg2ZmgxeVJTaFZlMlow?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theguardian.com",
+      "title": "The Guardian"
+    }
+  },
+  {
+    "title": "‘Too good to be true’: Biotech company’s paper on Parkinson’s retracted for data manipulation - Retraction Watch",
+    "description": "‘Too good to be true’: Biotech company’s paper on Parkinson’s retracted for data manipulation  Retraction Watch",
+    "published date": "Mon, 16 Nov 2026 20:12:55 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNmRxc0t5clFZRklTNE1Hd25wZ3czem4xM1FuRVlQVDNkR2czRk9SNDJvcE9zY1hVUy10R1gwbXN2UzMxdjdobnJSSlREVzVZbFBndHRtaTZmZjVIc1JrTDVVS0N3YlYzaWhBa2lDNURRR1dXaEk5TG1tV3NCbzE5TXJRN0ZDb0Z4RU9mQWFudmNOT21X?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://retractionwatch.com",
+      "title": "Retraction Watch"
+    }
+  },
+  {
+    "title": "Google Maps can now build trip itineraries with real-time details about each stop - TechCrunch",
+    "description": "Google Maps can now build trip itineraries with real-time details about each stop  TechCrunchNew Ask Maps features to help with holiday travel and prep  blog.googleGoogle Maps can now create trip itineraries for you  The VergeAsk Maps is coming to Europe.  blog.google",
+    "published date": "Mon, 16 Nov 2026 14:48:13 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMW5oQ1JrRUlFMGUtZUg1NmVEbVJfOVUydlBaR1NMeExxSktVcTRBZlJyZHBKTUlHOTZuUTc1bHJkbEVhQUo5OHNibGNqQS04M0VsM1hEZUpmYi1qY0t0NmJpTGp6MTg4WkQ2UlliWnE3V1BvUDY4WWlCc1BsNEhDYUNwUWt4ejhXdzdPUnQxX21XckJaVllkaFZZd1A2QnUzRi1wWE1fUHQtMDRKY2d2d0Vvd1hlQUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://techcrunch.com",
+      "title": "TechCrunch"
+    }
+  },
+  {
+    "title": "AQSolotl Reports 6.94-Microsecond Latency in NVIDIA NVQLink Integration Test - The Quantum Insider",
+    "description": "AQSolotl Reports 6.94-Microsecond Latency in NVIDIA NVQLink Integration Test  The Quantum Insider",
+    "published date": "Mon, 16 Nov 2026 18:06:15 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSmIzY3ZqTFBmd0NvdzNlcFRqUHlETFdaNjJwTy1KbndzbTc3WmxEajBCTldIZVhFd2VTcWhhbzc4ZlJveU9yaEV3VTRFRktBeDNPTUZScTFjR2Y4Y3hYempJVC1vNVBJT2NjaVBTNzdKOGp5MkFrd0ptUVg1OUhHeEs4S3YtdVM2Q0VhQXl1LVVLNmladEh0eXZabw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://thequantuminsider.com",
+      "title": "The Quantum Insider"
+    }
+  },
+  {
+    "title": "ESP32 WIFI Jam Detector Finds The Raspberry - Hackaday",
+    "description": "ESP32 WIFI Jam Detector Finds The Raspberry  Hackaday",
+    "published date": "Mon, 16 Nov 2026 12:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRXVJSWs4bllQZV9HaVBLeEVRX2pJLXI3ZnRJckFzZWhRRDZPT2lTZzU2MGVNbHJKRWVKTVRuRm5SaWVFVG9KSTgtNXg2OFVNand3WXRjU1ZhdTFyemFxdjRBOFctRW1ZOFJObzF6WmktR0IwMi1TNkZvWXRqVkRWZUpR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://hackaday.com",
+      "title": "Hackaday"
+    }
+  },
+  {
+    "title": "New Prizes Are Coming to Play! Pokémon Stores in December 2026 - Pokemon.com",
+    "description": "New Prizes Are Coming to Play! Pokémon Stores in December 2026  Pokemon.com",
+    "published date": "Mon, 16 Nov 2026 16:04:53 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUXNvVXpIV1piZWotdkxOT2VUd3VxeDNWckZnSndKWFRzZTJQY3B0RXBJVDEwb3dNbGNoc0FGTWt6RENLRFZUcGR1b3M2cVNmNEpkM2h2LVNjanRacjFpdFpfOWR5WXVablo0R3RsOFltU05sTmc1T3pvV3J3SXBuTUZ3aW9URFdDbU5HcEcyc1UwQ3g0YjRpUg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.pokemon.com",
+      "title": "Pokemon.com"
+    }
+  },
+  {
+    "title": "Less data, faster discovery: Researchers rethink AI's role in developing new materials - Tech Xplore",
+    "description": "Less data, faster discovery: Researchers rethink AI's role in developing new materials  Tech XploreIntegrating AI and Robotics for Persistent Materials Science Research Systems  AZoM",
+    "published date": "Mon, 16 Nov 2026 14:30:01 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5X0E0UHV4Y1o1UTZwVnBYU0otUkpTQmVtWFZmVzJ2RXNCbVJoOWlfcFMzNXM1Z2dOcFJiTVJWa1lNeE9tTlRLT3ROTnR3SDJ2RzJjV1BWM0JXeVlGZzU4TjhGc2hKcmZfQm15VGtCZGxSaGtvWUZwQXhtb2hlUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://techxplore.com",
+      "title": "Tech Xplore"
+    }
+  },
+  {
     "title": "The small African lab sounding the alarm on AI bioweapons - Rest of World",
     "description": "The small African lab sounding the alarm on AI bioweapons  Rest of World",
     "published date": "Mon, 16 Nov 2026 11:03:00 GMT",
@@ -290,9 +460,39 @@
     }
   },
   {
+    "title": "Cognitive grounding improves LLM simulation of collective human behavior - Nature",
+    "description": "Cognitive grounding improves LLM simulation of collective human behavior  Nature",
+    "published date": "Mon, 16 Nov 2026 17:33:31 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05NTBUaWNBNXhhOWJEUHI0MmhYU1g0MDhJX2hPRFlCcTktQ2RTR2tjZnM2bDFjQXVUUFhva3hPMC0yNnZsd1BPYUZWWW5ydGVrUFJJOEp3UElwOGRoekI0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nature.com",
+      "title": "Nature"
+    }
+  },
+  {
+    "title": "Some OLED MacBook Pro Owners Report Eye Strain and Dizziness - MacRumors",
+    "description": "Some OLED MacBook Pro Owners Report Eye Strain and Dizziness  MacRumorsApple MacBook Pro M6 review: probably the last of its generation  The GuardianApple MacBook Pro OLED: PWM flickering causes headaches for many users  NotebookcheckThe new MacBook Pro has a brilliant cooling system  MacworldApple should have made the MacBook logo RGB  The Verge",
+    "published date": "Mon, 16 Nov 2026 17:51:27 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQktaR2ZBSnVwcHZ0SFB3TVNGV1NHQmx0ZVd0WV9meWRuSS1jNTVaRThZNEVGWVRId0QzUnltb0hFWnNhbFZ3Z2p1OENydzlRRFB6cE1RMnpTblNHM3NtMnJQS3AzZ3ZSRFRVb3U1Uzh0dG94M1N6Rm10SWVBM1VKclRWT29FUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.macrumors.com",
+      "title": "MacRumors"
+    }
+  },
+  {
+    "title": "DOOM: The Dark Ages | Revelations Slaughter Mode Update 5 Release Notes - Slayers Club",
+    "description": "DOOM: The Dark Ages | Revelations Slaughter Mode Update 5 Release Notes  Slayers ClubSlaughter Mode arrives to DOOM: The Dark Ages | Revelations November 16  Slayers ClubDoom Developer id Software Confirms New Project, Says \"We Can't Wait for You to See What We're Working On\"  IGNId Software confirms it’s working on a new game after layoffs  Video Games ChronicleDoom studio id Software confirms it's working on a new game  PC Gamer",
+    "published date": "Mon, 16 Nov 2026 16:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTHdmQS1xeXczdU1lWE0zcFBHMmZBc1l3Ym03SHdsYzBGNG5CcldVOGxZanZaT2lfMmNmTjJvUkVhRW9PWFRoVTRoV3dHTGJXUXF5VnpkV0E3YndKS3VORTZXbnhiYzlLUUhMOVFxa2lMTFdYOEk3T2dhbHpCV2otbXhqcFdCOUo4RmtJNmQtSkxCNU1MUVV4RGs5UEdYa2puSmh2VjZLeTFuQnpzZ0Y1STBB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://slayersclub.bethesda.net",
+      "title": "Slayers Club"
+    }
+  },
+  {
     "title": "Uno Platform 7.0 Adds WebGPU Backend, Apple TV and Reactor Support, and Retires Native Rendering - infoq.com",
     "description": "Uno Platform 7.0 Adds WebGPU Backend, Apple TV and Reactor Support, and Retires Native Rendering  infoq.com",
-    "published date": "Mon, 16 Nov 2026 09:00:29 GMT",
+    "published date": "Mon, 16 Nov 2026 10:10:57 GMT",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BRWd6aHA4eEYzMWZ0TmxvVzZmYWdaaTVnTTNCZ0p5RjF0ZnlSX3gxVmNYMVMtbDRTb2ZJcUx4R1BremFGNERGZjdoWjFKS1g5b3dYUzFUc21nYU5ZZUpBYUhTUFRrYi1PR01ZQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.infoq.com",
@@ -300,9 +500,19 @@
     }
   },
   {
+    "title": "What is vibe manufacturing? AI projects are leaving the chat - Mashable",
+    "description": "What is vibe manufacturing? AI projects are leaving the chat  Mashable",
+    "published date": "Mon, 16 Nov 2026 21:14:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jWnFNUWZVVUthYjctaWVGWjN6OGtaTWwwYVFESDc4aWlsdHBoOGRkU19tc1RyTndjTnlTOFFRbHRlZGVkVDNmcHZ2X0ltLUoxOVgxakVrNXk3LUdSWHhwQTF3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://mashable.com",
+      "title": "Mashable"
+    }
+  },
+  {
     "title": "Understanding Hydrocarbon Contamination in Electron Microscopy - AZoM",
     "description": "Understanding Hydrocarbon Contamination in Electron Microscopy  AZoM",
-    "published date": "Mon, 16 Nov 2026 10:27:00 GMT",
+    "published date": "Mon, 16 Nov 2026 10:28:15 GMT",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pTy1wNXNDRlQ0LU9ld05uYTNYTklPVGwzOGdwTHU5RnJ5QkZMZ3hTVE5NWC1yRFdMWXpHZmxKeFRlbk9VaUtJMGVHUEhGWFFXcDNjcVZvNk1hemF2WVE?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.azom.com",
@@ -310,8 +520,18 @@
     }
   },
   {
+    "title": "Apple launches research study with OpenEvidence - MobiHealthNews",
+    "description": "Apple launches research study with OpenEvidence  MobiHealthNewsApple launches an AI health tool as part of a research study  ABC News - Breaking News, Latest News and VideosApple’s new study looks to improve the effectiveness of AI health tools  The VergeApple launches research study to explore the use of AI for health  AppleApple launches new app to study how people use AI for health  TechCrunch",
+    "published date": "Mon, 16 Nov 2026 17:42:34 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRTBEOGhPWnowYXBJd0Y2RnBZR0hPLWxGX0JoQWFPWjZCWEFsSnZjd0kwR01WQ3ZQLWJISDA5aXRJZUgtdXdkcU9hNTdibm5GRnl3WmdQTmF3aVJOM3dXelA2NEVMMWxVeDBtc1hoaU5fTVFRaUY3NWFXY2FyS1M2am9YQ2U?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.mobihealthnews.com",
+      "title": "MobiHealthNews"
+    }
+  },
+  {
     "title": "You can now self-host Kitesurf, Cloudflare’s open-source browser for AI agents - Help Net Security",
-    "description": "You can now self-host Kitesurf, Cloudflare’s open-source browser for AI agents  Help Net SecurityKitesurf is now open source  Cloudflare Blog",
+    "description": "You can now self-host Kitesurf, Cloudflare’s open-source browser for AI agents  Help Net SecurityKitesurf is now open source  Cloudflare BlogCloudflare Open Sources Kitesurf: Their Web Browser For AI Agents  Phoronix",
     "published date": "Mon, 16 Nov 2026 07:00:02 GMT",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS1Ywel9venlGQkd1eHhhZU9VWUdXNUxISGdvakhtRXJCRjFIek1vN3JPd0JEV3JYMWtpNjhjQzJQM2NwaGx3S0N1cDhxVXV3ZjlleTVzNWFQNjZpdnBBam90MGxfdnVyNG5SckFveTQ3MW05WWlkcFItVnUyXzJLaA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -320,33 +540,13 @@
     }
   },
   {
-    "title": "The Last Ice on Puncak Jaya - NASA Science (.gov)",
-    "description": "The Last Ice on Puncak Jaya  NASA Science (.gov)",
-    "published date": "Mon, 16 Nov 2026 05:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVnBYbXNaeFppWUZtSFd5c0dyVzl0Um91eW9YRDVjUEp0eUFjLURZbHphRW1vUlA2cDlLTThNSzU0NHJCSW9oaU5zbVpEUWNkTFNLUFl6ZW9SUGFOdnlfU1Y2WXBJb05obzgzaUpTWHJDSGhRcldzVENya0I5RDZ5RGN1UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "How long it takes to play GTA 6: Playthrough and achievements - Mashable",
+    "description": "How long it takes to play GTA 6: Playthrough and achievements  MashableHow Long Will It Take to Complete GTA 6? Platinum Trophy & Mythic Achievement Time Explained  Insider GamingLeak says GTA 6 story takes 50 hours to complete and PS5 platinum trophy 200 hours  Notebookcheck",
+    "published date": "Mon, 16 Nov 2026 22:04:23 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1tRDFvWlltR3JGUnFpeWpZSHNCZHp3TXJlTURwbGJheVRobE50Q2JrRy05Z2h6TUR1RUFXMU1XR2hDbmFjUEJwZFFBTVhNTkFqX2dzY0w3Y1duLUxZUWtBc1daemo5Z0NHR3FPMUZJd0s1ZEQ1bHBPX05B?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://science.nasa.gov",
-      "title": "NASA Science (.gov)"
-    }
-  },
-  {
-    "title": "Apple launches an AI health tool as part of a research study - ABC News - Breaking News, Latest News and Videos",
-    "description": "Apple launches an AI health tool as part of a research study  ABC News - Breaking News, Latest News and VideosApple launches new app to study how people use AI for health  TechCrunchApple’s new study looks to improve the effectiveness of AI health tools  The VergeApple Launches AI Health Study With 200,000 iPhone Users  iPhone in Canada",
-    "published date": "Mon, 16 Nov 2026 01:44:47 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRENhOV9sbFBJdS1ZM1ZCRU1HOXAwcVhZdEkwOXphREo4dU1IdnBmeHVnaTIzQW1KYjMwN1VRV3RfUXh5SzBoT19xVV9RdnFVWk9fTnd1WFhyVjVWMkNzN1ZBa2xNVFYzbm9Kc0VzallGVFYybnNodjAzRTRWSmQ5RjVnc3ppRzJEaWpZdmQtTkVnY3RMUWswUDVR0gGfAUFVX3lxTE1ySlpWclhiWV9zQnc2dUxfcG9xeHZQMGZWRnhsSTc2dG1qMXJnSjNPeDg4TE9WaVk2aGoxVEFWX2ttamhyRnYxMlZrS0xyRkthSjRDdzRVRG1RZTRVOXp1Y1FVbEJEQ0xHQzV3SkhXX0d3SF9VQUxKNGxFNzNCLXNmUng2TkUzRjhVLUVJYXpNTWNPbVlVeVRQOThnQ2dWVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://abcnews.com",
-      "title": "ABC News - Breaking News, Latest News and Videos"
-    }
-  },
-  {
-    "title": "A Bull Market, Fueled by Pikachu, Charizard and Nostalgia - The New York Times",
-    "description": "A Bull Market, Fueled by Pikachu, Charizard and Nostalgia  The New York TimesCostco’s new offering is flying off shelves  TheStreetThe Pokémon TCG 30th Celebration Elite Trainer Box is live at Amazon: Shop for under market price  MashableCostco's new Pokémon 30th Anniversary bundle is unbelievable  Polygon.com",
-    "published date": "Mon, 16 Nov 2026 10:00:56 GMT",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9rRVR0bnJUbGtadVhfQWVtT3JCazVMYXd6ZmM2djRpai0ta0pncmhUUmRpYU5oNTBYSHl6Mk5iUXJLVmNMam9Bcnc0RDZkUl9aYS1zZWtKY3JmUjlzMWhneTg5RDJuNWdvZ3BGWm9lZmk3V1ZxSzBSZmtjWjc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.nytimes.com",
-      "title": "The New York Times"
+      "href": "https://mashable.com",
+      "title": "Mashable"
     }
   },
   {
@@ -360,6 +560,16 @@
     }
   },
   {
+    "title": "Ones to Watch Germany 2026: Tobias Baus - JUVE Patent",
+    "description": "Ones to Watch Germany 2026: Tobias Baus  JUVE Patent",
+    "published date": "Mon, 16 Nov 2026 11:15:15 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV2V4R0NsenBIaFg2TmxqVnJCR2xmT2xvbU0yQ2o4Tk13eHBNZ19IN0xNeWZUc0RhMGR5N2tnbnhaOG1USTlPbzdkV2plTkItN3dza2M5Ylh0WFBjYWt4SjBBanhzMGNzVXFjUFZ4TnpvSEF4dlNQZExEY1MyLU9qc2tiX05aZzBCVS0zX0ZSYUU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.juve-patent.com",
+      "title": "JUVE Patent"
+    }
+  },
+  {
     "title": "Chiral Electronics: Researchers Discover a Disruptive Interlayer in a Promising Material System | Newswise - Newswise",
     "description": "Chiral Electronics: Researchers Discover a Disruptive Interlayer in a Promising Material System | Newswise  Newswise",
     "published date": "Mon, 16 Nov 2026 10:45:00 GMT",
@@ -367,6 +577,16 @@
     "publisher": {
       "href": "https://www.newswise.com",
       "title": "Newswise"
+    }
+  },
+  {
+    "title": "Who's who in GTA 6? Meet the characters of Vice City - Red Bull",
+    "description": "Who's who in GTA 6? Meet the characters of Vice City  Red Bull",
+    "published date": "Mon, 16 Nov 2026 16:04:30 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4N3Vyb1pLNWgyQ3BFMkZ6WEoxWXlOWjBJOWRIYnVOa2JyUVhqd3ZRVlRmNS01VXpPUkh4S1VIOVFTM3Q2MGtBbzhWVWp0SGhYVFY2dmE4akd3bFpkbGpuWg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.redbull.com",
+      "title": "Red Bull"
     }
   },
   {
@@ -380,43 +600,23 @@
     }
   },
   {
-    "title": "We found 14 early Black Friday Apple deals: Score AirPods and MacBooks on sale - Mashable",
-    "description": "We found 14 early Black Friday Apple deals: Score AirPods and MacBooks on sale  MashableI pitted the MacBook Air M5 against the old M2 model. Should you splurge or save?  CNNApple’s AirPods Pro 3 just got a huge early Black Friday price cut  USA TodayWill Apple’s Black Friday offer be worth the wait this year?  MacworldThe MacBook Most People Should Buy Is $200 Off Ahead of Black Friday  WIRED",
-    "published date": "Mon, 16 Nov 2026 13:40:39 GMT",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5waGV2ZmxadHRfcDVpcFZNeVViUWpFV0R3UkRPNEkzTlllaXdiNDV0emEtdjdlOGhmQlZiLWg2Nlp6OVZGWHhuQ0ZPUU93amVrNXEtT2p4TlJ0Q3d0V1RUZnVmTHZHbnZhUnlsWlA1Y3BXZ18xOWZQbjJxbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "PS5 jailbreak progress made on latest firmware 14.22, days before GTA 6 release date - Notebookcheck",
+    "description": "PS5 jailbreak progress made on latest firmware 14.22, days before GTA 6 release date  NotebookcheckPS5 hacker Gezine claims to have dumped game executable on GTA VI-compatible firmware 14.22  VideoCardz.com",
+    "published date": "Mon, 16 Nov 2026 05:05:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxON2FmQW1SdFJRbF9YQjZmMk9WMmpLM3lhSnh0MEVWUjQ2dE83NjhMd295RS1kV29BcDJCdXhnbUFzUDRRSmY0MFFLZG1yLWhMVnU5VzVhNHQ1cDNsUjR5VVRLM3pVZFkybU54blJvUWNrUkFQVVM4ZmFsU0gxUG1GcFRraWZqeWVXNGJKaVZsRDhiQy1fY05JNmZ1WDN0ZmZUb1ZOU3kzT2RnZW9HbkxpTGxLbzBhWnI0bFJaVl9aOXQxem1PZXpB?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://mashable.com",
-      "title": "Mashable"
+      "href": "https://www.notebookcheck.net",
+      "title": "Notebookcheck"
     }
   },
   {
-    "title": "Estimation of individual-tree DBH and allometry-derived biomass of Korean red pine using mask-based multimodal deep learning from UAV imagery - Nature",
-    "description": "Estimation of individual-tree DBH and allometry-derived biomass of Korean red pine using mask-based multimodal deep learning from UAV imagery  Nature",
-    "published date": "Mon, 16 Nov 2026 03:23:45 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzeTNaV1JzcmxlVUJHcDVNZ0lYaFpFbnkyUHdoZU9NMzZMZnk5RmhVSTVEeWk3alpDcElmalFBa1JJSnE5Mi1kd0R2eW5ReXhWRVgxeEItM1R4VENrUnVR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "How To Get Warnings About Speed Cameras In Apple CarPlay - Engadget",
+    "description": "How To Get Warnings About Speed Cameras In Apple CarPlay  Engadget",
+    "published date": "Sun, 15 Nov 2026 22:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5KdHJHWU5aWDA1Rm0wakQxT0VzRmlsXzYwc3hUcndQYklMNGNVZTVVem1jTnR0bzQycDZ1azl2LU1jb3hPMjhhcTZ2WnRwTVlUMzJ2M0ptWGlsR1hZSWNUQnpOaEtMQm9pdDRZWmE4LWZCeXgtYUhjQXhjUzA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.nature.com",
-      "title": "Nature"
-    }
-  },
-  {
-    "title": "Rainbow Six Siege Operation Vital Signal: Doc Remaster, New MBZ-19 Weapon, Ranked Overhaul, and More - Ubisoft",
-    "description": "Rainbow Six Siege Operation Vital Signal: Doc Remaster, New MBZ-19 Weapon, Ranked Overhaul, and More  UbisoftOperation Vital Signal: Doc Remaster, New MBZ-19 Weapon, Ranked Overhaul, and More  Ubisoft",
-    "published date": "Sun, 15 Nov 2026 18:16:12 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUk9MbWFSNEw5MnVhQ2V4UEJjTUZKVjUyYVBqbFA0Rl9LMzhlTE53X0lqSWRnSlUwTVp2b2JJZGF3ZThEdF9VMjRIWnk0MGdRbGFyRWtDbExQeUMzTF9KVkt0bTBMZ3d2ZGNEU3hVQlRPZXNzcnJGcFpwT0JnUWwtd042T3I5XzJnNjhrZmF0QndXalU3Y3hyemhXM1FuTVNYTDhIbTAtVDBma01jZXM4REhlQURRYWxZVWFBUEZkWnNMcEktdFMzaF9HYWJJS0VNUVptdkp2LVpPS0dlbnRwTVZQWUNtcFlOY3dNRV9n?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://news.ubisoft.com",
-      "title": "Ubisoft"
-    }
-  },
-  {
-    "title": "A Message From Dr. XBOX: It’s Time to Take the Day Off and Play XBOX - XBOX Wire",
-    "description": "A Message From Dr. XBOX: It’s Time to Take the Day Off and Play XBOX  XBOX Wire",
-    "published date": "Mon, 16 Nov 2026 14:02:02 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZGlTLVV4SHRUVkpONXkxdU9OZF9RWHgxNmVycnBqT1QyN1YtcGstRl9VUnhKUW9ZUGFNeUx1ZGRpOG9uRENQRXZpZUlETkk5dE1IQlUtRzBIZFBhS0ZRd2M3ZjJWMHEzelI0WWVORmRCa2xmUXk2ck1hUzhLT0lUSk5SVVRWX3l3bUxwRDRRUUVoMUpF0gGaAUFVX3lxTE1QalRSTHVybHN3Mlg0Q09pRURKZktUTG5ac1UzeGhlWVhVQ0M0TlJaVG4zc1FkN0xkQ0Z3ZkttWFplVEprY2RSYVgwenJuVUh6NGlYUHYwZjMzLV9mellNc1FfcEFMdUhYc2N6a2k5VkdrcEtQUGQ0MWttZlhoT1U2WVgzMVh3NkFxLTBmLXloenhPdTJpN29fcGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://news.xbox.com",
-      "title": "XBOX Wire"
+      "href": "https://www.engadget.com",
+      "title": "Engadget"
     }
   },
   {
@@ -430,6 +630,16 @@
     }
   },
   {
+    "title": "Microsoft pushes Windows emergency updates to fix activation failures - BleepingComputer",
+    "description": "Microsoft pushes Windows emergency updates to fix activation failures  BleepingComputerMicrosoft says November security updates cause printing issues  BleepingComputerMicrosoft has an image problem with November's Windows security update  The Register",
+    "published date": "Mon, 16 Nov 2026 08:26:52 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQV0NSYVlzY1BhYWFOem1kOWVja29jYUhjVzRRMHJ0ZUdHY1lBR3lmR01oTk1pMU5iSnNraGxkV3ZTXzhNV1l4U1JQR2thWjNCZmhFV09nbENjZ0lvaFBiVVlIMUNHMGdvV0JKRnMwWkFoVWVLeFlQQnBtRF8yVDhrOHZUbWNWczN4VktwQTg3NjZMbGd5MkFiejJqdWd4Qm50dkpWYTBWYTZ2N1p1T1I0Y09zcmQ5WmdTUk03MkUzQdIBxAFBVV95cUxQWHR5WmV3YjZOVEV6RDhBeGJKbjBIQzlkdXF5bFRncTZZWTlqZzY0cnZrUnhueHNRSlZKVmR5dTBtZmV6eHllUXdhTWZyUDFval84MTFDTC1JdWZOQ0VLZXk3N2FtTlZRN2tiaE1KblNsVlNaTng2NHBoTHVKYnBpb0FlZXE3Si0yOXIyMW1MSGd0MWNHelRNRHBXdHBROUgxOFVYU1VTM1RucE5Yc3R6cFNXZWRYN2M3UjZPTmk3SFpEb0l0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bleepingcomputer.com",
+      "title": "BleepingComputer"
+    }
+  },
+  {
     "title": "Your Android phone can reveal more wireless activity than its Wi-Fi list shows - MakeUseOf",
     "description": "Your Android phone can reveal more wireless activity than its Wi-Fi list shows  MakeUseOf",
     "published date": "Sun, 15 Nov 2026 23:00:16 GMT",
@@ -440,263 +650,53 @@
     }
   },
   {
-    "title": "Apple's Smart Glasses Strategy Hinges on Siri and iPhone Apps - MacRumors",
-    "description": "Apple's Smart Glasses Strategy Hinges on Siri and iPhone Apps  MacRumorsApple Bets on Siri AI Apps as the Main Draw for Its Smart Glasses  BloombergApple’s first smart glasses are coming together  The VergeApple’s Smart Glasses Could Arrive by the End of 2027 With Multiple Cameras  PetaPixelApple’s Smart Glasses Will Run Your Apps Through Siri, Says Report  iPhone in Canada",
-    "published date": "Sun, 15 Nov 2026 17:55:25 GMT",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBId0hydTJBNjFITTRtQmlhcUMtNkNkZWNyNEdmSnFIdTdRbWJacnhLUU1ub2lVMElLX0pRVUowY00za2xtcWVKYkZNLTZ0WXI1eWNKTHVSNjJJQzNwdHZ0MlNNajF1aTJFdW12bFlsNnpMMWZNVXR2aGU3aw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Man Uses Claude AI to “Hack” His Dad's Car in Five Minutes — Without Writing Any Code Himself - Yahoo Autos",
+    "description": "Man Uses Claude AI to “Hack” His Dad's Car in Five Minutes — Without Writing Any Code Himself  Yahoo AutosCan’t Pass Emissions With Your Pre-OBD-II Car? Have Claude Tune It for You  The DriveI Guess AI Can Fix A Jeep Cherokee XJ Now?  The Autopian",
+    "published date": "Sun, 15 Nov 2026 22:00:41 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0ZqSHNRc0c5Rlp6a0VOUTViQ0xzQU1ISlpYcWUxZ3FZeWYtNDNEd19wX3Nvckk2dkVya3R5Y1lCaXpZZERzSU5yRlJSVDNoUmhpekprODRuTnJFejBtaC1iRTdGX2RpR1FpUnN2bmRRM0hkcUV4dlM1aldnMVZiQnF5RW1laHFNV3VRNnptc0JVd284?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.macrumors.com",
-      "title": "MacRumors"
+      "href": "https://autos.yahoo.com",
+      "title": "Yahoo Autos"
     }
   },
   {
-    "title": "AI DJs Completely Kill My Groove - WIRED",
-    "description": "AI DJs Completely Kill My Groove  WIRED",
-    "published date": "Sun, 15 Nov 2026 12:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DaHpiYU5JaEZqR1hkR3BraHNzMWhHVFJCMkw3bHRXQi13cVN2dGc1eGUyVm1Dd1UweWxyQnRZc1JIT1lGV19pMzNfcFllbUw0ZllydExhOHF6a1BQZnZReU9RZ2Fvelc0anZkUkFB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "A Message From Dr. XBOX: It’s Time to Take the Day Off and Play XBOX - XBOX Wire",
+    "description": "A Message From Dr. XBOX: It’s Time to Take the Day Off and Play XBOX  XBOX WireMicrosoft prescribes a day off work for gaming, with DJ Khaled as Dr. Xbox  VideoCardz.com",
+    "published date": "Mon, 16 Nov 2026 14:02:02 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZGlTLVV4SHRUVkpONXkxdU9OZF9RWHgxNmVycnBqT1QyN1YtcGstRl9VUnhKUW9ZUGFNeUx1ZGRpOG9uRENQRXZpZUlETkk5dE1IQlUtRzBIZFBhS0ZRd2M3ZjJWMHEzelI0WWVORmRCa2xmUXk2ck1hUzhLT0lUSk5SVVRWX3l3bUxwRDRRUUVoMUpF0gGaAUFVX3lxTE1QalRSTHVybHN3Mlg0Q09pRURKZktUTG5ac1UzeGhlWVhVQ0M0TlJaVG4zc1FkN0xkQ0Z3ZkttWFplVEprY2RSYVgwenJuVUh6NGlYUHYwZjMzLV9mellNc1FfcEFMdUhYc2N6a2k5VkdrcEtQUGQ0MWttZlhoT1U2WVgzMVh3NkFxLTBmLXloenhPdTJpN29fcGc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.wired.com",
-      "title": "WIRED"
+      "href": "https://news.xbox.com",
+      "title": "XBOX Wire"
     }
   },
   {
-    "title": "‘You unpack once’: despite reports of ‘poop cruises’ and murder, cruise ships are more popular than ever - The Guardian",
-    "description": "‘You unpack once’: despite reports of ‘poop cruises’ and murder, cruise ships are more popular than ever  The Guardian",
-    "published date": "Sun, 15 Nov 2026 12:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YTlFZNk8zWVp0NWRoV3M3QnRLYWJGekt4aHZmYnRHX09DcTRNVzhCMzRyaWlHMmRCNTAwZEdGTkdKSngwWW9SZEhvRzRpVFpxZEN5alJxamFTMmpFdWlVMVRURWJMT0owNF9zTndBSmFBTHRoc0RjYg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Amazon Officially Reveals Early Black Friday Gaming Deals - Polygon.com",
+    "description": "Amazon Officially Reveals Early Black Friday Gaming Deals  Polygon.comSome of our favorite PlayStation games are steeply discounted for Black Friday  The VergeWolverine And 16 Other Big Games On Sale For Black Friday 2026  KotakuPlayStation Black Friday 2026 Deals Are Live With Discounts on Marvel’s Wolverine and Mo  iPhone in Canada",
+    "published date": "Mon, 16 Nov 2026 16:20:16 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSWMyaVRYQzZkQTVhUl9WQXY2XzdtN09EWER1YjFCLTdYcVFPbUVXMWhiN0F4U3hOMnVodnB3TjU0NWF1UUgtQlNTQUZINkpSTmRKVUF0Z2tteURCWlBNMWo2S2l3ZEdkZG5TTVAxbXFXTFNFeC1qVWFYd2o4RnNVeGdKckNZZF9QLUFJOUxZZkMySkxBR0pNc1VLbzY?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.theguardian.com",
-      "title": "The Guardian"
+      "href": "https://www.polygon.com",
+      "title": "Polygon.com"
     }
   },
   {
-    "title": "Five Games Are Confirmed For Xbox Game Pass In December 2026 So Far - Pure Xbox",
-    "description": "Five Games Are Confirmed For Xbox Game Pass In December 2026 So Far  Pure Xbox",
-    "published date": "Mon, 16 Nov 2026 02:41:06 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQODg5ajZ0bFR2cmZub0FKNFZfazRPYlUwVl9tVDBhQ0lBdml5QTloUDhNS2FaNWhjb21DSU50algwNmJLYmk5b0ZPQkxIeDF4OFVGWk9fb2lXd0xsZTF6TmdWSS1kX2lhYTc0b2VkeU9QTkRxLUMydDRiYURObTNaTzdtMkJ0TzlCSHRjaExVbzBfLU9GTldUMWZoUzlnY3I2alFRaUdsbVI?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.purexbox.com",
-      "title": "Pure Xbox"
-    }
-  },
-  {
-    "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets - WIRED",
-    "description": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets  WIRED",
-    "published date": "Sun, 15 Nov 2026 11:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaUlkOG5XSGR6Tk4tN2RfM1c3dmhSU04xYXJLRHNsamZ6TmRiOHNyd2pCaXZNQVFtTlc1RTV0RnNNV2ZBWmV4RmpONDIxaV9rUll0TmpxUVZKb0VUcUEySjFtbHd6c3RyenBtTHdFQlF3ZHZHTFlDdVBTekY0SzVXTFNXQ24xZ1ozWGZKek1veHAxRGI4STFKcHhQSFpjSnFo?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.wired.com",
-      "title": "WIRED"
-    }
-  },
-  {
-    "title": "Apple Aiming to Upgrade the iPhone Duo in Four Ways - MacRumors",
-    "description": "Apple Aiming to Upgrade the iPhone Duo in Four Ways  MacRumorsFace ID on the iPhone Duo 2 Is Now a Toss-Up, Says Report  iPhone in Canada",
-    "published date": "Sun, 15 Nov 2026 16:42:23 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd0FIZFVCem5aUzZNNjlYUFV1MVJlZUJPaUhScmFFWGR0QU1Ca2g3WUhLUzdScHItTXYwZEFZbHNmT2lTQ24taVhaeER2Zlg5Y1BsZW9lMmp3UVdZV19MT3hPZjlmX0lZYzFLbTlwQ0ppS3FQVWk5REhvRmN1MDh3OUJUVHl1UVBfTm1B?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.macrumors.com",
-      "title": "MacRumors"
-    }
-  },
-  {
-    "title": "I've been using Google Photos for years, but Samsung Gallery's new sync finally won me back - Android Police",
-    "description": "I've been using Google Photos for years, but Samsung Gallery's new sync finally won me back  Android PoliceSamsung Gallery has a new home for your photo backups, and it could help you free up storage  MakeUseOfIt’s official: Samsung Gallery now uses your Google storage to sync your photos and videos  Android AuthoritySamsung Gallery Now Syncs With Google To Back Up Your Photos  EngadgetSamsung officially details Gallery sync with Google storage - GSMArena.com news  GSMArena.com",
-    "published date": "Mon, 16 Nov 2026 00:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUVRSejBJdXBOT01CNHkxU2hjMWxLQzJBSzU2YTBLSFY3N2VXZjhtU19rVk52ZGpDbG9jX3V4cTktYkFYbkt1VVhiVTNIdnFMOWpIZGl2TjM0TnVkQ1YwR0l3eU4yYnlPS21RZHE0OEtUVzI0S0dvMUpLTTZJS2phc3hOYWkyNmpLaGcxZl9FUzRnUEdPQXJJQWktRmFpd0JiS1dj?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.androidpolice.com",
-      "title": "Android Police"
-    }
-  },
-  {
-    "title": "Pixel Tag is a brilliant Band-Aid on a Find Hub network Google can’t easily fix - 9to5Google",
-    "description": "Pixel Tag is a brilliant Band-Aid on a Find Hub network Google can’t easily fix  9to5GooglePixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available  TechCrunchGoogle is launching the Pixel Tag in only 8 countries... Europe is excluded from the launch list except for the UK  صوت الإماراتThe Pixel Tag is the best Android tracker you can buy, with one annoying mistake  How-To GeekGoogle’s Pixel Tag tracker is now available  The Verge",
-    "published date": "Sun, 15 Nov 2026 14:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5rWUJoWkd3WjN4em5Nb1RNUEtfQ1Bmc3NFYXRkWFJhWkpNTTktcWVWT0dzSUlRbUNIYk9ZWnRCckJfVmpnQ21LT0JhWk5lbjU5em52MXlBc3dLMk56Q0F5TXNwRHNDMUNvMDVrY0NHaV9XYmVPTHFacQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://9to5google.com",
-      "title": "9to5Google"
-    }
-  },
-  {
-    "title": "Can AI make a better burger than a Big Mac? Scientists put it to the test - News-Medical",
-    "description": "Can AI make a better burger than a Big Mac? Scientists put it to the test  News-Medical",
-    "published date": "Mon, 16 Nov 2026 00:02:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTUdrdEY5VmRKWG9vOV9nMTJMeEMyOE5FcnBXeUZCWnNjdm1PRDUxNTlidHpvaGJBdXpvUDI3NmFBWWlRTTdxUWt1NDNHRlY1OWhXT0RhdnlKZ3RvYk1idGV5NlJQZGRyeE1WUWh3NFl0cXc1cHowb1UzcVZ5bTBXYkJwRTFjdXh1Wi1SdGlpdkp4Z2p5UzJhYzB1MTFkUjJxYml2eTNFS0l2dVJKWWJtelk3dVVzWmw4a2FCcQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.news-medical.net",
-      "title": "News-Medical"
-    }
-  },
-  {
-    "title": "Sarah Elena Müller wins Swiss Book Prize - SWI swissinfo.ch",
-    "description": "Sarah Elena Müller wins Swiss Book Prize  SWI swissinfo.ch",
-    "published date": "Sun, 15 Nov 2026 12:44:16 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMFdqd19QbmZqWk9CeWFxdE1zSGZTVnBlVTdySWtOcmdNV2xoQzUxdm9naXdOWXd0czIyc19IT1NsTHNESThqUnpTOTJ0ZFdYZVpZTXZjSUo5dERZN0UzTkxWVmQ1U051RklTaU00cFhWdXFJWXF3T2ZkU3dwNjBETUh0bktMSHNsa0N4WnhQRE9iOTBhb0JrbHR0bWR5ZXlFSzk2cEdRMmRwdTNkRE42UnJMMWxxNVNMZTh4X0xvNFZUQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.swissinfo.ch",
-      "title": "SWI swissinfo.ch"
-    }
-  },
-  {
-    "title": "Man, 46, Drops 24kg in Six Months With Diet and Strength Training - Dr. Axe",
-    "description": "Man, 46, Drops 24kg in Six Months With Diet and Strength Training  Dr. Axe",
-    "published date": "Sun, 15 Nov 2026 20:02:35 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHh6dFh1UG1jV1VMQlNFMURuOGpUZ3VoMFEtNDBabGtBSk5aQ1hVNGJrU0xuZDFUVHUwNnNYT3NnTE0zelltYkhBVnpoSTBsYVVUanBBYkVCZXpjQklYdThDU25lS3RqMWozUUVDbF80UGp2NUNZeGVBZWR3b3FURHRpeGVHVlk?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://draxe.com",
-      "title": "Dr. Axe"
-    }
-  },
-  {
-    "title": "Connecting Constellations: The Shift to Real-Time Space Operations - Payload Space",
-    "description": "Connecting Constellations: The Shift to Real-Time Space Operations  Payload Space",
-    "published date": "Mon, 16 Nov 2026 05:08:54 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa2pCZUFPU2ZvQXZTOENsTEtiSGN5VUVXUkV3VFMtbFA5MndRUDBDdkxOQ0psNFZSZDNCc2N6cnJrUmVhYW4xZTNNOWdfS1NRNXM2NUZXUjQzN2psUHpIaGN1WnBzbGJUQ3RIMXVURS1IckJNa0pOekxYZEh0OTJkZ0gzYm5QdlpuNUNNTzlTVDdtYXhUQ2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://payloadspace.com",
-      "title": "Payload Space"
-    }
-  },
-  {
-    "title": "Samsung Is Discontinuing These Useful Mobile Apps In December - Engadget",
-    "description": "Samsung Is Discontinuing These Useful Mobile Apps In December  EngadgetQuick Measure and AR Doodle apps will not be available after December 31  SamMobile",
-    "published date": "Sun, 15 Nov 2026 22:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVmRhSHZSeDA2eFQ0cllpdVp6UEduNXlFcmRRdVFBaHlsREpMNnhESFVCS1V6ckNzTkFDdmU0blJmdmhEX2w0MXNKd0xmcWx3TWFLWF9MR256bVE5cXBEdlVmc2V6ZC1WYjAzVzJEX19TQUYzQXllUExpTnZNNUlzTFhweWFPYXhhZGIzSGtsTFE3b1pyN1hXQjVDOA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.engadget.com",
-      "title": "Engadget"
-    }
-  },
-  {
-    "title": "Amazon Prime members get 50% off Alexa devices: Echo Time, Echo Dot, Echo Studio, and more - Mashable",
-    "description": "Amazon Prime members get 50% off Alexa devices: Echo Time, Echo Dot, Echo Studio, and more  MashableThe Amazon Alexa Photo Frame made me cry — in a good way  Tom's Guide",
-    "published date": "Mon, 16 Nov 2026 13:34:43 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSm16SG1ldVlEYWF1Y3NZUUFmdUxzTndMeVBuRUtGdDJRQ2lreng3Y0dRdFBVWFNKd3RCUmtRblF0bHkxX1lJRjRaRTBpaFlnSGZtVF80cVlWczR0T3dwMHVzWW1LUmhSMXBSdm9iRHZBbGprTXI0SHA5VEVPZmlQX0JEcWNhWnpzSWRkcQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://mashable.com",
-      "title": "Mashable"
-    }
-  },
-  {
-    "title": "Windows can’t open files buried in deep folders because of a limit from the 1990s, and one tweak lifts it - MakeUseOf",
-    "description": "Windows can’t open files buried in deep folders because of a limit from the 1990s, and one tweak lifts it  MakeUseOf",
-    "published date": "Sun, 15 Nov 2026 17:00:17 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeXdiclFEdnFQWV83Vnp3Z1ExU3R6Z3RUVXRsRWJQZnZabng5cGM0cnhOVmlvcVIza2g2V1lBcGdQQTc2cThpY3BxZzJNLV9COU1IT3Rhc1licE42RENvR0xYaFpFaU04ZXlwQlNCdXAwOUdOd3lOWDRTMXVpSU04WmkwcERISW4xNFE2LUw5N1dsalpJdHZ5VDR3Qkk4bXJaRkpaMEJOZ0hlSmo2dTM3U1VzTm9Sa0xweTY1d3hiaWhrUnctQjJRdEh3?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.makeuseof.com",
-      "title": "MakeUseOf"
-    }
-  },
-  {
-    "title": "'The Ultimate Gaming Machine' - Xbox Reveals Tons Of New Project Helix Information - Pure Xbox",
-    "description": "'The Ultimate Gaming Machine' - Xbox Reveals Tons Of New Project Helix Information  Pure XboxXbox Reveals New Project Helix Details, Calls It 'a Console Capable of Playing Games From Your PC'  IGNMicrosoft says Xbox Helix is a console, not a PC — but it will be able to play your PC games: \"It is not a PC that can also play console games\"  Windows CentralNeural Rendering Could Keep Xbox Project Helix Affordable  TechPowerUpMicrosoft Says Of The Next Xbox: 'Helix Is A Console Capable Of Playing PC Games—Not A PC That Can Also Play Console Games'  Kotaku",
-    "published date": "Sun, 15 Nov 2026 18:47:29 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORHp6UF92aVo2S0VnaEJyNUhoZTlEaXJEVVhFRTRWUHRtZUVJWG9RcUt6WG9fMjl6NVE0dDJiVVVTZlFQS1VuN0liUHpObnNqdVA0NV84MXJCU2d5X2h6b2Z3MGVzYy1Ia0FfUVo0LUpFZFJlVFNlVVlERTNHQVZDT2hUczJTTUl6alNoSHVCWlQ1RWZrVVlXaXp0SHdjSE1RT1BYNlBKODZVZmNId2p4ZHFGV1Q1dWs?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.purexbox.com",
-      "title": "Pure Xbox"
-    }
-  },
-  {
-    "title": "10 Things Your iPhone's Notes App Can Do Other Than Taking Notes - Engadget",
-    "description": "10 Things Your iPhone's Notes App Can Do Other Than Taking Notes  Engadget",
-    "published date": "Mon, 16 Nov 2026 00:15:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzSDBGemlMYkVsaGtzSE5jYkRZa2RfT2ZhSDJ0UDJvY2tlRjAwSFVlZnN1RWJldG1JUUlLaDN1d1N1a2VEWkpkdzJmd1dNU29yX1d5amhvUFd3ckl6UzhPQWlhRGU2Vmkyb19xdDFidDBaLWlmdTU4MGZB?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.engadget.com",
-      "title": "Engadget"
-    }
-  },
-  {
-    "title": "How To Clear The Application Cache On Your Mac - Engadget",
-    "description": "How To Clear The Application Cache On Your Mac  Engadget",
-    "published date": "Mon, 16 Nov 2026 01:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtdl9zZ3BOenJGUTlEVHhlZXFDUmRCQWlWMWJtRnBQSFBCOHFwRWs0dXk0OWNmdkduLWVDU1NrVlhXNzI2bmdiRXhrRjFfWUMzdVFYbnZqa2pKS1hJWmpiOEFtOXVFamVSSVZKODZNVGN0S0w3c2ZR?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.engadget.com",
-      "title": "Engadget"
-    }
-  },
-  {
-    "title": "Grandparents as addicted to phones as their grandchildren: When boomers get hooked on social media - EL PAÍS English",
-    "description": "Grandparents as addicted to phones as their grandchildren: When boomers get hooked on social media  EL PAÍS EnglishBoomers are now the screen-addicted generation they love to complain about  Yahoo",
-    "published date": "Sun, 15 Nov 2026 04:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbHJGRVF2QkNXa1FBeXNDOG1XU2E1QmJ1cU41X0IyTmNCNmNmY0JsMFJrOFFndldRRTh3MlI3bUdJamNuUXZWM2VuS3hlelF5YmVkYWNtX1hWcFhDLW01MGg1T24xckF1T0VZbXkzU1ZLSmd1dE00bEZzN2xBQ3RNeUlPQldpS3A3RkV5MGh1TmNLaVplMGt1Q1JDOHAyd3JYLXhpYjAzdXF4a2RHUWxQeWVHYjBEMEZ5WU9DRGFNWFhXNFhta043cjlhRE1TamxwSUpZWnJzd3ZYSXIxZnJ0RtIB9AFBVV95cUxPMFJMWXJORVI2VVh2a1p1RjA3YV9xSVduSTJLXzV6U0JNWWo2VW9zTHc5azBBM19NdzhXc0VMeFFKWVNmanFFRERFajIwb24wWG5PZmhvNEJTb3VwcV9Eb2tfMlo0Zk5RVnhOSGFwck44cHV0Ym02eW4xR2RjaHVJLVZHcmRoWkZaUzBhQ0RTTUhlUFhzb0FsbHdDMUlPMmlLb3pRRk1Yekd3Wk1iYjdySEVFQXJyTFVSNGpKVkp3SXZ1X1NkeVpxWk1UQTkzNXBIWW8tc3ZVVXhFMHp0N2xWYXhpX3ZVeF8xUXJfQTl1aTc1bzRP?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://english.elpais.com",
-      "title": "EL PAÍS English"
-    }
-  },
-  {
-    "title": "Lenovo ThinkPad T14 Gen 7 Review: The Business Laptop Built for the Long Haul - CNET",
-    "description": "Lenovo ThinkPad T14 Gen 7 Review: The Business Laptop Built for the Long Haul  CNET",
-    "published date": "Sun, 15 Nov 2026 12:00:10 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSU5aNVdLWDlfcFd5RWhMM1dMQ05fMXVUdUdMRzlqdnpyMlBWWGw0Skt0N1FULVFyYjAyaFlrTEJ4VUJjS3FaWEo4cVVyRHpNNGZZOFdGU21JWVBBZFR1Y0p1b1RjMjR6N3poYTdTYTJyQm1QZHlYeGg5bldhaHpmRUJjME0xTFU2SEN3Qi1n?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cnet.com",
-      "title": "CNET"
-    }
-  },
-  {
-    "title": "How You Can Give Your Old Apple TV New Purpose - Engadget",
-    "description": "How You Can Give Your Old Apple TV New Purpose  Engadget",
-    "published date": "Sun, 15 Nov 2026 20:15:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5iNkxDanBaR21qX054YkhxNVMzZDVYOGhpcWo1Z1JqcjFrV3Z6UGptZGxhblZvZ1hWdzNlRi1WQk5mc2NRbkY5TDFGRnRWTmJ3aUFZT3lwTGJYSC1pcE5mQnBuSi1KcDI3aXA4VDZwVDRjWnpqeERqcFZB?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.engadget.com",
-      "title": "Engadget"
-    }
-  },
-  {
-    "title": "5 Workout Headphones To Buy Instead Of Galaxy Buds - BGR",
-    "description": "5 Workout Headphones To Buy Instead Of Galaxy Buds  BGR",
-    "published date": "Sun, 15 Nov 2026 16:47:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZE52VEpGV0VybXZCOWs0eExDY3k3T3VQVXVHb2tLYUxHUTlQX1JaOUdfOWFoMElZbGVlQUFHVTJHT1FHWXNsbTdNNi1RbmFlOTFYMklpdkROcUJVa19lNFZ2eTlTMUsyT2ZXMlA1dllXazY3TDlReE1vbi12ZnExRGpyUm8?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.bgr.com",
-      "title": "BGR"
-    }
-  },
-  {
-    "title": "PlayStation's Black Friday Sale Expands to Include Physical PS5 Games and DualSense Controllers - IGN",
-    "description": "PlayStation's Black Friday Sale Expands to Include Physical PS5 Games and DualSense Controllers  IGNPlayStation Announces New Black Friday Deals On Hardware  Polygon.comPlayStation Black Friday 2026 Deals Are Live With Discounts on Marvel’s Wolverine and Mo  iPhone in Canada",
-    "published date": "Mon, 16 Nov 2026 08:17:24 GMT",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTEhBMUN2a29uNl9jREdOM1Rna2tGY05PWWhLR3lKU0lKYnFGUFppQUZMWGdyd202T3VjRVlyR0pLcGlLRVQyWTlJX0Vpc0Y5R1pPbERYbmVBQWZsZk5lYUN5MTUzLUdtNjhCemVEWUR2elRmdkQ0cl94SG1Zb3dhVw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ign.com",
-      "title": "IGN"
-    }
-  },
-  {
-    "title": "GTA 6 codes reportedly being stolen from boxed copies without being opened - GAMINGbible",
-    "description": "GTA 6 codes reportedly being stolen from boxed copies without being opened  GAMINGbibleGrand Theft Auto VI and the death of the disc  The Globe and MailGTA VI Map Leaks As Collector’s Box Sold Early  RockstarINTELPhysical GTA 6 Xbox case leak reveals possible advantages over PS5 version  NotebookcheckNew Details Revealed About The Physical Edition Of GTA 6 For Xbox Series X|S  Pure Xbox",
-    "published date": "Sun, 15 Nov 2026 18:00:03 GMT",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPakJwWThIVjN3d2pPU0ZSRS1MZXpCdURDMy03VmJ6eVRIZWFYbEpEWjVSSldlRjlHOTVycmV3blYweE9jZXhzYUZ4S1dOLWZiRWdVeUtlVjZFU2RNRUNDUHFCMjZ2dDg4SDMxZEdCcW1WUHZMbWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.gamingbible.com",
-      "title": "GAMINGbible"
-    }
-  },
-  {
-    "title": "Zelda Notes Reveals Top 'Game Over Causes' And More Global Play Data In Ocarina Of Time Remake - Nintendo Life",
-    "description": "Zelda Notes Reveals Top 'Game Over Causes' And More Global Play Data In Ocarina Of Time Remake  Nintendo LifeMany players are just discovering Nintendo’s app adds a second screen to Zelda remake  Notebookcheck",
-    "published date": "Sun, 15 Nov 2026 07:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUlNFdVhCN2FQT25QUjZjbllxR25HZmx6VkYwNURJdG51bndTSXgzOWFpSkFWZnlaQTI0VGVpbGY0dUVtUU1xRlNZTTh0dmtzVVpXdWdwQ2Y4SGhRLXZIaU5zN29GVFlyTFVTay1YemE3eFhFOS10T0x2YzczOUhJNjY2M0xwYWE4MnY4dGtfcWxGLVZwUFFqeEwyc3lnaG9yOTZ0Q0xTZ0lrR0U4eUw2X09HaWs3NFB0SVBOSWt4N090VnFVek04WEZtWDg5M00?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "UK Charts: After A Stellar Start, Zelda: Ocarina Of Time Slips From The Top Spot - Nintendo Life",
+    "description": "UK Charts: After A Stellar Start, Zelda: Ocarina Of Time Slips From The Top Spot  Nintendo Life",
+    "published date": "Mon, 16 Nov 2026 17:15:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSmx0MmZfZWxQMkZNakFFYVJKM2hDUzc4dEU1bGV4bjFKQjkwajhNWTB1SlQzcGVFUmVXSi1qWGxGN3RMZHppZGRvZ19uckFqMFRKdUJIZVNDS0JFVEg3T3F1RklCLVNGc2pLWUMySkFzUFI4ZjZ0Q3hnY0s0Y2FjeVZiSUxLMG82UDQ2a1lfdk1jT2IxOWRJQkJFcFc1MHlOQ3Z6b0QwU0h4WGJYOHdtU0YyNFp5em9zcGRr?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.nintendolife.com",
       "title": "Nintendo Life"
     }
   },
   {
-    "title": "Eight Classic Games Are Available Today With Xbox Game Pass Essential (November 15) - Pure Xbox",
-    "description": "Eight Classic Games Are Available Today With Xbox Game Pass Essential (November 15)  Pure XboxSomething Weird Is Going On With GoldenEye 007 And Xbox Game Pass  Pure Xbox",
-    "published date": "Sun, 15 Nov 2026 12:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQjZLTkJ3THVjV3VFZDRUeUhuQWx4VVRxVTJfRmxraV8wZUJSenR5UDJoRTBpWTc1Tk10WndDZGVMTDNlSElpTUp4VDlHbzF4aV9Yd0RCcGVDdENtdVgzck96RjBPRk5BY0xIV21hYVZqRTNRd1E5bnJTMW9WTWpxMXNYcnZsQmxOOVVXZllMYnlUTkRmd3ZCc3dLY2ZwcGViUVAzMjhVaURoNDRJWGF4UUVURTVPVEFTdVVv?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "NBA 2K27 x Grand Theft Auto VI collaboration announced - Gematsu",
+    "description": "NBA 2K27 x Grand Theft Auto VI collaboration announced  GematsuSEASON 3 COURTSIDE REPORT  NBA 2KBam Adebayo Talks GTA 6-Inspired NBA 2K27 Cover, Rating, Giannis, Heat and More in B/R Interview  Bleacher ReportVice City Comes to NBA® 2K27 in Season 3  2K Newsroom",
+    "published date": "Mon, 16 Nov 2026 16:20:51 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOGtMZERmbU41V29nU3RCYUpWeG9UcjFtRWszMnd1R2dwMVVWSHhwQmJ5WHVhVkJ2LV9mZ3JwbmdaTC0yVVVNMzRnSk54NnczOVJwelR2cUk1MW5Ic01fc1dzNDZpWTd1ZEZpV1lyQWg4ajZWelU0d0VzV2FwcHN6cmRUZjhaQTBsaXk4Wm10dw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.purexbox.com",
-      "title": "Pure Xbox"
+      "href": "https://www.gematsu.com",
+      "title": "Gematsu"
     }
   }
 ]
