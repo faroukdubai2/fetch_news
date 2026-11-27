@@ -1,87 +1,17 @@
 [
   {
-    "title": "Canadian companies keep getting hit with data breaches. What are hackers doing with it? - CBC",
-    "description": "Canadian companies keep getting hit with data breaches. What are hackers doing with it?  CBC",
-    "published date": "Thu, 26 Nov 2026 16:04:20 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQTNWOF80NjZvdTA4aHkwZUR6OVlhRnQtM3dxLW9Mc2k3V1RyMi1mSFVsdmQ5eG5WZ3hja3AtTUhwZGdpRGJJckdlNGxmQzdhdXFzOTNRZVFwV083MnExUVh1dHRzem92UktHbE5JeFAwVEdNT18tOXVfMzNKWk1fOFAtNXZnRXlyMndN?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cbc.ca",
-      "title": "CBC"
-    }
-  },
-  {
-    "title": "The threat of Starlink looms over Quebecor's Telus bid. But are Canadian telecoms actually vulnerable? - CBC",
-    "description": "The threat of Starlink looms over Quebecor's Telus bid. But are Canadian telecoms actually vulnerable?  CBCWhat to know about the proposed Telus takeover and possible telecom consolidation  The Globe and MailWhat Quebecor’s Acquisition Bid Means for Telus Shareholders  Yahoo! Finance CanadaKelly McParland: Canadians will pay the price if Quebecor is allowed to buy Telus  National PostQuebecor CEO Péladeau Voices Optimism After Talks With Telus  Bloomberg",
-    "published date": "Thu, 26 Nov 2026 16:16:31 GMT",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fd3hVSnZfeWYxSy1fODl4SG5PcGY0YnlFR05lYXJjUUowYzZadmt2RlVIbVc3aENmNk9SODlQaTM5Vmh6NFJ6OWVEY2lmdEoybVJ1X2RfTXlVUTQ3UUFfeHhDazZlZ1ktWE9rX18xbV9fN09hRkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cbc.ca",
-      "title": "CBC"
-    }
-  },
-  {
-    "title": "All of Canada’s Big Six Banks Now See December Rate Hike - Yahoo Finance",
-    "description": "All of Canada’s Big Six Banks Now See December Rate Hike  Yahoo FinanceBank of Canada expected to hike interest rate next month, economists say  Global NewsBank of Canada expects 2nd round of oil-linked inflation in 2027, Macklem says  Radio-CanadaTiff Macklem clears the way for Bank of Canada rate hike next month  Yahoo! Finance CanadaBank of Canada says it may need to respond forcefully to tackle supply shocks  Reuters",
-    "published date": "Thu, 26 Nov 2026 11:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY1AxclZLTTFMQWg1UWtTRzROSFZLUm45R0c3bWJTdG1ZalJnTjZVcFBYNDdJcHV5M1VsT3JQOWpXdV9sRHI3NEhNcGlHY010MkJxbnNwMXEtWnM1d0hqcUdXSXVJX3M0dWZhMkUtNUxfM1dEVlByTzJFeExkajNxcHZzQXBFelZ3Z251WXVRcUh6RDg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://finance.yahoo.com",
-      "title": "Yahoo Finance"
-    }
-  },
-  {
-    "title": "Ontario announces new restrictions on e-bikes - CityNews Toronto",
-    "description": "Ontario announces new restrictions on e-bikes  CityNews TorontoOntario will soon require licence, registration, insurance for some e-bikes  CBCOntario Strengthening E-Bike Regulations to Protect Road Users  ontario.caMotorcycle and scooter-style e-bikes in Ontario will soon face stiffer rules  SooToday.comOntario to force some e-bike riders to get licences, insurance  Toronto Star",
-    "published date": "Thu, 26 Nov 2026 15:39:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CLUZuWmt5Z3Jfblgyc0twWUpNQ0RNbnpDWGQwM0VpSm5MRzd5SXVLUm5pZzNuRkNPbnZnTVNxQ1ZSV1hnRFZzLXlGZ3JCOWtHcENIeUJYYnNMZ0lIVGdqeXl4Nk1HMU9MZC1zcm1oWThaVTA2ajJDdlBYb29jQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://toronto.citynews.ca",
-      "title": "CityNews Toronto"
-    }
-  },
-  {
-    "title": "Premier Ford, Unifor leader call on Ottawa to scrap greenhouse gas rules for Canadian automakers - The Globe and Mail",
-    "description": "Premier Ford, Unifor leader call on Ottawa to scrap greenhouse gas rules for Canadian automakers  The Globe and MailDoug Ford claims an automaker paid more in carbon taxes than the total tax collected in a year  Canada's National ObserverFord, Unifor call on Ottawa to exempt Canadian automakers from exhaust pollution penalties  CBCFord, Unifor call for Canadian automakers to be exempt from GHG penalties  Global NewsFord, Unifor president ask feds to exempt auto sector from emissions rules  National Post",
-    "published date": "Thu, 26 Nov 2026 14:11:08 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQl9KZHJlXzQ2ZUhtMW1wdDFHeDhvem4zUUZNMTlQWmVoQ3VhZXp0YjMtOWFTalRhNXd3aDRoWmcyZUpvaHFVd2lzOFpFU2tPRHlIalFwR0FqYm12ejRyYTVYSEozU2gwY2tRTTBncGppbHktUFAxdmtyeHRBUDBuMG9mRExzLXEwRlkxM0NLeV9heEU1YUdudXlYX1kydURtZVVEVEFaNDg4NkYtZG93?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theglobeandmail.com",
-      "title": "The Globe and Mail"
-    }
-  },
-  {
-    "title": "Tech leaders urge Canada to build data centres here or risk renting abroad - Castanet",
-    "description": "Tech leaders urge Canada to build data centres here or risk renting abroad  CastanetSee more headlines & perspectives on Google News",
-    "published date": "Thu, 26 Nov 2026 16:21:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzIycG4zQUU0QVh2Q3hvamwzMmZrOF9BbUtSejVMRmVtVnJWdVkwVENDcWJHZDZIT1lTV3FlODd2NjZoRC1YZTBFcDkxd3Z3cF9QdlpCTktMVkpnSGlNSDBLVXQtUXhXUEpwQk4tRHp2eVBsVVBOV0dmTVA5VWdVYXEya2xOTVBwRkVsTnIxUTRMckxhWGZLbko4bFM4cDRnZmlfdmFYRGNlaUQ5TWJkSlUwak9UdGRPZTFxeg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.castanet.net",
-      "title": "Castanet"
-    }
-  },
-  {
-    "title": "Stellantis talks in ‘solution mode’, Joly says after meeting automaker’s envoy - Global News",
-    "description": "Stellantis talks in ‘solution mode’, Joly says after meeting automaker’s envoy  Global News‘A lot of noise’: Joly meets with Stellantis leadership again, says talks continuing  CityNews VancouverBring Rubio up  iPoliticsOpinion: On Stellantis, does the government even know what it’s doing?  The Globe and MailStellantis sues Unifor over blockade of idled Brampton plant  Toronto Star",
-    "published date": "Wed, 25 Nov 2026 15:59:24 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85SWxGMmJ2VXdnMFp3bC1GclBYeW9NUGt3RUF6c25VVkpiMHc3TzNQS0Z6YU1RNG8tVDhrbTUzNEN4cmwzUzBmTVdBR3hKMjJuQzBYa0s5WTNISDE3WTNZR3ZvQ01idlEyUTkwWC11QnJzaUZ2bTdTdkpn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Ford, Unifor call for Canadian automakers to be exempt from GHG penalties - Global News",
+    "description": "Ford, Unifor call for Canadian automakers to be exempt from GHG penalties  Global NewsDoug Ford claims an automaker paid more in carbon taxes than the total tax collected in a year  Canada's National ObserverFord, Unifor call on Ottawa to exempt Canadian automakers from exhaust pollution penalties  CBCPremier Ford, Unifor leader call on Ottawa to scrap greenhouse gas rules for Canadian automakers  The Globe and MailJoint statement by Unifor National President Lana Payne and Premier Doug Ford  Unifor National",
+    "published date": "Thu, 26 Nov 2026 16:35:40 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOTMyX0REX0ljdVFPR2R5YmMzdDRxU1p3VzhYb2RxeGh4WGt4clhpUVJycEFxaGxFMzJXT3BfTF9jZC00YTR2SEtLS0tjcXFBX2tuSEx3QU5MVnBQdFNzYmVxQ2Rmd2xyQ1BXX2VGTmNyT18zdTg4c25YeDc1QTNyVjZHMzRBZTg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://globalnews.ca",
       "title": "Global News"
     }
   },
   {
-    "title": "Health Canada Issues Warning About Rare, But Serious Risk of Vision Loss Linked to GLP-1 Medications - VOCM",
-    "description": "Health Canada Issues Warning About Rare, But Serious Risk of Vision Loss Linked to GLP-1 Medications  VOCMRare vision loss risk from semaglutide medication, Health Canada warns  The Globe and MailHow rare is the ‘very rare’ risk of vision loss from GLP-1 drugs?  Global NewsHealth Canada warns of rare vision loss risk with Ozempic and other semaglutide drugs  CityNews VancouverHealth Canada issues warning on rare risk of vision loss with semaglutide GLP-1 drugs  Radio-Canada",
-    "published date": "Thu, 26 Nov 2026 09:51:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9EZEdyZFVZMjdDZ0xUWllxS1ZpU3NiYl96eXVwc1BBOWZDcndNMksxLV81bjcxUDRKbHZnQkZzWXhTbXppMm9EX0hmUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://vocm.com",
-      "title": "VOCM"
-    }
-  },
-  {
     "title": "Data breaches are coming fast and furious. Are businesses doing enough to protect your data? - CBC",
-    "description": "Data breaches are coming fast and furious. Are businesses doing enough to protect your data?  CBCSome Bell customers’ information accessed in cybersecurity incident  Global NewsBell calls in the RCMP after cyberattack exposes customers' names, addresses and account numbers  Yahoo! Finance CanadaRCMP investigating Bell cybersecurity breach  Thunder Bay News - TBNewsWatch.comBell says enterprise customer data was stolen in ‘agentic’ cybersecurity incident  The Globe and Mail",
+    "description": "Data breaches are coming fast and furious. Are businesses doing enough to protect your data?  CBCBell says cybersecurity incident affected customers at Virgin Plus, Lucky Mobile  CBC‘Small subset’ of email users had data stolen during Bell MTS cyberattack  CTV NewsBell calls in the RCMP after cyberattack exposes customers' names, addresses and account numbers  Yahoo! Finance CanadaRCMP investigating Bell cybersecurity breach  Thunder Bay News - TBNewsWatch.com",
     "published date": "Thu, 26 Nov 2026 12:35:15 GMT",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSDBBZUhSUDVoWFBnMEYtZVFhV3hZN2p0NFc5cmlleW9hQkI1Z1BLQVREeXpQdkRXcENQZTN0TWFlN0hxSEJUYkl1ZUo2eW1ieUZ0YVAxUnAwM2J4aXdMdmNoamhCX1dncEJYbDJraTJZQzk0MS1xRzFMVlJiamFFTw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
@@ -90,13 +20,83 @@
     }
   },
   {
-    "title": "Canada remains top destination for infrastructure investors, survey finds - The Globe and Mail",
-    "description": "Canada remains top destination for infrastructure investors, survey finds  The Globe and MailBuilding capacity, attracting capital, seizing opportunity: ‘Canada, let’s keep going’  Enbridge Inc.",
-    "published date": "Thu, 26 Nov 2026 10:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRHJIZ29rT0d1a0FPdDlOVHhkLXVIUzV1OTlYazAybTJBVi1tWnVDMG9qSFYxLWJaMzhtZHk4WE9XRGE5YUpKdUpMS2U5WElHYlc5WTA4Nm1UVnljZnptNWlnT0RPazByY2NtSFhYcjJhOFlpWXU5RU45bjdHYWNydDNRSzlQRzJNOUV5a1VEYTJZbWRJTnZodUhkVVRwSlhqaWhCaDFObXI0d0ZZU2Q5MEVGd0pDSmM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "How rare is the ‘very rare’ risk of vision loss from GLP-1 drugs? - Global News",
+    "description": "How rare is the ‘very rare’ risk of vision loss from GLP-1 drugs?  Global NewsSee more headlines & perspectives on Google News",
+    "published date": "Thu, 26 Nov 2026 20:06:08 GMT",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Odldvc1E5VFBNV0N5azRaOVJzR2JZZEVEMVBnRGdILUhRbERraWU2V0lpUzRadmdWdWxWM3UzWmhKdTB5YWItUlhpSkNDNkFFQnB6eFVpUV9GSndwWUVfVS1sZGpKb1VIQnRFQg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://globalnews.ca",
+      "title": "Global News"
+    }
+  },
+  {
+    "title": "Ontario announces new restrictions on e-bikes - CityNews Toronto",
+    "description": "Ontario announces new restrictions on e-bikes  CityNews TorontoOntario will soon require licence, registration, insurance for some e-bikes  CBCProvince tightens e-bike rules, sets $2,500 fine for violators  BayToday.caOntario Strengthening E-Bike Regulations to Protect Road Users  ontario.caMotorcycle and scooter-style e-bikes in Ontario will soon face stiffer rules  SooToday.com",
+    "published date": "Thu, 26 Nov 2026 15:39:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CLUZuWmt5Z3Jfblgyc0twWUpNQ0RNbnpDWGQwM0VpSm5MRzd5SXVLUm5pZzNuRkNPbnZnTVNxQ1ZSV1hnRFZzLXlGZ3JCOWtHcENIeUJYYnNMZ0lIVGdqeXl4Nk1HMU9MZC1zcm1oWThaVTA2ajJDdlBYb29jQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://toronto.citynews.ca",
+      "title": "CityNews Toronto"
+    }
+  },
+  {
+    "title": "12 First Nations in B.C. buy stake in Coastal GasLink pipeline - CBC",
+    "description": "12 First Nations in B.C. buy stake in Coastal GasLink pipeline  CBC$168M loan guarantee provided for First Nations' investment in LNG pipeline  Yahoo! Finance CanadaTC Energy announces second Indigenous investment in Coastal GasLink  Toronto StarCILGC provides $168 million loan guarantee for B.C. First Nations' investment in Coastal GasLink  PR Newswire CanadaFederal loan program backs $168-million First Nations pipeline deal  Financial Post",
+    "published date": "Thu, 26 Nov 2026 22:45:49 GMT",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQU05EQU1TT09wOXR1cUgzTXpTLU9LdFJJT0VFREdTX3NsQnVlemc2N3hsNHFqUjZOVjhveHh4WHVTcHFWNVF6UzlzSVRvR085OU1femVBb2hXcGI3UVFFZk9IbVV3RDZNdklfcmNWTmpfT1RIR0dxd1BVb1RsNFluaWh5NA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cbc.ca",
+      "title": "CBC"
+    }
+  },
+  {
+    "title": "Ottawa begins rolling out $700-million in AI compute funding under new sector-based approach - The Globe and Mail",
+    "description": "Ottawa begins rolling out $700-million in AI compute funding under new sector-based approach  The Globe and MailFeds will now pay 80 percent of costs under AI Compute Access Fund if purchased from a sovereign provider  BetaKitLarge AI companies 'desperate for compute' are crowding out Canadian startups at home  Yahoo News Canada",
+    "published date": "Thu, 26 Nov 2026 15:45:45 GMT",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUGRySE9qc0xqTUhDcEVmM2NkbUM5azFCbEdRaXpWaVJwNW5jc3FEODBfZ205SDN4R1ZTX1FkaEloWGQzcUIyZEJLWnJSeEpoYjdMVHRQSzdHT3lsSTJJclFvYnM3clBuNGRod3g1RnVSRTJtSklxOW90RWhhNlpTMW9vLWFtNXhQTU9NU0UzRVBvN0hvT2d1Q3l2VkJBT2NpSTVweWZwNmVZUTYzOTNiODI0Q1ZIaWVHdEFnUWdPYnlZRUZU?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.theglobeandmail.com",
       "title": "The Globe and Mail"
+    }
+  },
+  {
+    "title": "Tech leaders urge to build more data centres in Canada - BNN Bloomberg",
+    "description": "Tech leaders urge to build more data centres in Canada  BNN BloombergTech leaders urge Canada to build data centres here or risk renting abroad  CityNews VancouverCan data centres spike your energy bill? AI minister says regulation up to provinces  OrilliaMatters.comAn ‘urgent’ power crisis emerged after Cohere joined this Ontario data centre. Now electricity bills are rising  Toronto StarInternal federal memo warns AI data centres could bring higher power bills, contaminants and rising emissions  Canada's National Observer",
+    "published date": "Thu, 26 Nov 2026 16:22:26 GMT",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUkNNaWJ6MGc2enVLY21wNGVTeXJob3NIc2RaWXdyYmVpMUxPS2dudkNoMTVveVVNTE5OMUt5M0pBc1RtakVYd3ZUZFl3elhYLXBwdzdPeTNfa3UyeEQ4RmRJbHE2SC1BX0FvRDFMR2hNLXNtMlVkYkcxOWlVRXZwcmNaaVVqanNJc2lfb1NaU3dGdjB3RFZXNnlja2Z3NF9wb2o0NnNHWDN3aDJGT3F5eU44OFBrc3A3a29hWVRyekZ2Wlc3SzNNZ0xRZk4tVkU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bnnbloomberg.ca",
+      "title": "BNN Bloomberg"
+    }
+  },
+  {
+    "title": "Stellantis talks in ‘solution mode’, Joly says after meeting automaker’s envoy - Global News",
+    "description": "Stellantis talks in ‘solution mode’, Joly says after meeting automaker’s envoy  Global NewsOpinion: On Stellantis, does the government even know what it’s doing?  The Globe and MailBring Rubio up  iPoliticsStellantis sues Unifor, alleges 'obstruction' of environmental work at Brampton plant  Yahoo! Finance CanadaHope remains for Brampton auto workers as Stellantis negotiations continue  Toronto Star",
+    "published date": "Wed, 25 Nov 2026 15:59:24 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85SWxGMmJ2VXdnMFp3bC1GclBYeW9NUGt3RUF6c25VVkpiMHc3TzNQS0Z6YU1RNG8tVDhrbTUzNEN4cmwzUzBmTVdBR3hKMjJuQzBYa0s5WTNISDE3WTNZR3ZvQ01idlEyUTkwWC11QnJzaUZ2bTdTdkpn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://globalnews.ca",
+      "title": "Global News"
+    }
+  },
+  {
+    "title": "Oil price surge expected to flip Alberta's projected $9.4B deficit into $8.5B surplus - CBC",
+    "description": "Oil price surge expected to flip Alberta's projected $9.4B deficit into $8.5B surplus  CBCBell: Alberta government swims in loot — regular Albertans wait for their break  Calgary HeraldAlberta projects $8.5 billion surplus due to high oil prices  Edmonton JournalSome Albertans urge more affordability measures with some of the $8.5B surplus  CTV NewsAlberta Raises Projected Surplus to $6 Billion as Oil Surges  Bloomberg.com",
+    "published date": "Thu, 26 Nov 2026 22:17:39 GMT",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsTTdJZ1FjSWxTTl9UNE1sbkVTMERhek8yTWFoX2toNkt6QjBia0JMN3ZCODI0bEQ5dEhXaFUwQmlBc2hMbkl2bEN4RTV4UXc3Q0g4QXFyZXRvdlRIMlFkSUc2WnJQVmZoLXpPSkV0X0tpT09UbXNsUElOVUN1Mms?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cbc.ca",
+      "title": "CBC"
+    }
+  },
+  {
+    "title": "Greater Victoria students and other bus riders brace for one-day transit strike on Friday - Times Colonist",
+    "description": "Greater Victoria students and other bus riders brace for one-day transit strike on Friday  Times ColonistBC Transit service disruption: University will remain open Nov. 27  UVic NewsB.C. Transit, union meet ahead of looming Greater Victoria transit strike  CBCVictoria transit walkout called off as Unifor reaches tentative agreement with BC Transit  PR Newswire CanadaBC Transit and Unifor reach tentative deal, one-day Victoria strike called off  Yahoo! Finance Canada",
+    "published date": "Thu, 26 Nov 2026 12:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWnR0UmVITTF2V2Q5eHFTdlhNUEdJRVZGSTZiUnFGOW82TFdPNFVqOWlkSDVxS2h6clJWc0xGRXdtaXVNUGhrT3FNOHpzTV9Pbm1ac3lNaFVYaG9HRWJGQUJuTkFqWXk1RWtFa0diQktqYW9NRWZXa2FXSjBrQnpRbF96Y1NRZGxabzN2OG90UWNfMHY0VzFFSHBYLTVSY0ZwQU9KUXA4SU0wQnJmX21lclFuRTdMb2ZvSjdmRkxNc2tLSHJmODBzZ0UtSDhLeWtiMmZ2Qm1n?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.timescolonist.com",
+      "title": "Times Colonist"
     }
   },
   {
@@ -104,6 +104,166 @@
     "description": "Too many newcomers to Canada are getting stuck in jobs they are overqualified to do, a new report finds  CTV NewsSee more headlines & perspectives on Google News",
     "published date": "Thu, 26 Nov 2026 10:47:48 GMT",
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUHozWHhvUHBVRUlOcTR1Qll0MUdfQ1lsLTFrNnVJZmdNSEthMk8wT0JDdlBBVWZ4bGdvd3dhV3NOYzlhekluRXJoZ3QwN19JTDF2NEw3a1ByZG9zTDhlc2sxYWVvS3lqWWFsaHBhakN1bWlaSkJuSzFVN1lZV1dLQUFVajZfZFYybEpzaHFDdVJidkN0Mks4RlN2T1dPeUloWk1teTctajFLM2JwWmNNSG1oYUZIc0haLVkxWHdUZEo5QVFMY25FZngyUDNxQVZ0eGF5YzRkMlB5Zmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ctvnews.ca",
+      "title": "CTV News"
+    }
+  },
+  {
+    "title": "Full safety shields coming to Winnipeg buses - CTV News",
+    "description": "Full safety shields coming to Winnipeg buses  CTV NewsFully enclosed safety shields coming to some new Winnipeg Transit buses  CityNews WinnipegTransit union wants timeline from city on full safety shields for bus fleet  Winnipeg Free PressFull safety shields coming to city buses: Winnipeg Transit  Yahoo News CanadaOperators to have fully enclosed safety shields by 2027  Winnipeg Sun",
+    "published date": "Thu, 26 Nov 2026 17:08:58 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPemxQRTVGeUdEMzFyZDFiNVBGSjJyT3J5OHVxaS1DcjZQQUIxb1BwM0lMSGFFdGdSUUpWZnRSRkpBSHNzb2NiZC1OWERpRy1iaG5UTF9tcmdwcGZRRFYtZTJnZmdVb1g0clF2b1lfX3hVbUJfT2lzTXh2d2hMMExhM1hsanJoSXFGbHNRdi13?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ctvnews.ca",
+      "title": "CTV News"
+    }
+  },
+  {
+    "title": "‘King is back’: Nvidia boss’s return sparks fresh AI deepfake deluge - CTV News",
+    "description": "‘King is back’: Nvidia boss’s return sparks fresh AI deepfake deluge  CTV NewsJensen Huang: How the Nvidia scandal exposed the risks of Asia's big AI bet  BBCThe Nvidia scandal gets worse for the Trump administration by the day  MS NOWCartoon: Donald Trump helps Jensen Huang retake the wheel at Nvidia  The EconomistA vocal cohort of tech leaders celebrates Huang’s Nvidia return, but others are keeping quiet  The Guardian",
+    "published date": "Thu, 26 Nov 2026 21:23:46 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQzhBeFEzVVZqQlMtNEV6U0RJRXZTeHlYVmhWaG9IY2lDdGdMUTB3eXhtSFFJbHQyUzk5WU4ySFptSEdob3RJQ3dFWThvRzhyTkU4NmJmR1hNbmE0MEl4WFN6dkdrT0ZFT2p2Sjg1OUtKOGlkclVuVC1ETnRJSkdOWHpnVHN1UnlPYWdDUWZMX1RySVlPUVRHakRxV0NZcWdHZ3E1bWU3SEk?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.ctvnews.ca",
+      "title": "CTV News"
+    }
+  },
+  {
+    "title": "Doug Ford says Ontario will look to ‘curtail’ online gambling advertisements - CP24",
+    "description": "Doug Ford says Ontario will look to ‘curtail’ online gambling advertisements  CP24Ford calls online gambling ads 'out of control,' says cabinet will look into problem  CBCPublic Health Ontario warned province about online gambling risks in April, document shows  The Globe and MailFord says gambling ads are ‘out of control,’ but his government is resisting calls for a quick ban  Toronto StarOntario online gambling ads spark heated debate at Queen’s Park  CHCH",
+    "published date": "Wed, 25 Nov 2026 21:59:04 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeU9kVXZ0bmZ3b24tM1U2S0tpSHFmcFpMU3EwN1lLczNQRTJPbVFYR1M5cUpJZTNvLXozckIzc29zX1hFeWxOWXBrMzgySVU0dWs2MHFFcDZaX214cFlUNTRuT1BEY2ZpZ0hEcDVuYlBMQTNlZjQ3aHFYUjgya1Vkam5QczljSzR3MmNnOTFOa21ZbE5YR1VXLTNva2I4M0VuWUYwWkN5WUFNMGVqQ19zRzdXTW1abjBJcXBoT1BB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cp24.com",
+      "title": "CP24"
+    }
+  },
+  {
+    "title": "Canadians’ debt rising ahead of 2027 mortgage renewal wave, says TransUnion - Global News",
+    "description": "Canadians’ debt rising ahead of 2027 mortgage renewal wave, says TransUnion  Global NewsSee more headlines & perspectives on Google News",
+    "published date": "Thu, 26 Nov 2026 20:57:36 GMT",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBraDlzcktZaEhTbUVEbFRYUVMxckdNejJ6blZ5U0RuV094elJlS3dXWjNLM3h3UXZZR2h0b2NYR0lRTjdreTlOWXhlcFNxVGZycnEzNUhReEFqbkNhcF91U2wwQ0xtRUN6ODhUTFVrZUExUGVsb0hQYVhHNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://globalnews.ca",
+      "title": "Global News"
+    }
+  },
+  {
+    "title": "Northlander train tickets on sale today. Here's what you need to know - OrilliaMatters.com",
+    "description": "Northlander train tickets on sale today. Here's what you need to know  OrilliaMatters.comNorthlander tickets now on sale ahead of December return  BayToday.caPossible work stoppage looms over return of Ontario Northlander  CTV NewsOntario Northland, Unifor at bargaining impasse; Northlander launch remains on schedule  Sudbury NewsAll aboard! Northlander train tickets go on sale today, here's what you need to know  TimminsToday.com",
+    "published date": "Thu, 26 Nov 2026 16:48:10 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWlI0ZlhKX3dqa2V3UTB4U1ppZGRxcnhWdkJoOXFud3BpVEZQcDJGdDc1RjNKdm5pYTZIRVN0UDVPOHpFTjV5eWljMktxVExrb0hDdmhtMDlqcEJ4ei1fZWtHQWFNTm5lTEluNHFTVFFLWFVwbFp1WFlhN1JDaFVvM3p3aVFnM0VZU3d3SkRXcURFNGptTVAydUF2WmlzWWhPNnE1LUJ3SjBkTFlOS0ZFNEtleDNqOEY1M0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.orilliamatters.com",
+      "title": "OrilliaMatters.com"
+    }
+  },
+  {
+    "title": "What to know about the proposed Telus takeover and possible telecom consolidation - The Globe and Mail",
+    "description": "What to know about the proposed Telus takeover and possible telecom consolidation  The Globe and MailThe threat of Starlink looms over Quebecor's Telus bid. But are Canadian telecoms actually vulnerable?  CBCLet the market work: The biggest lesson from the proposed Quebecor-Telus takeover  The Hub | More Signal. Less Noise.Mark McQueen: Mark Carney said less competition might be good for Canadians. Here’s why he may live to regret that  Toronto StarWhat Quebecor’s Acquisition Bid Means for Telus Shareholders  Yahoo! Finance Canada",
+    "published date": "Thu, 26 Nov 2026 17:31:59 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYVhnUlg1Y1JxWlpOUHJxVHlFZmhyVVR5YW1xcXpYb3psb29Kc3g0SXRjMWt5Z1NrUFNyWkJmaVY4ZDlxQVpRbkZ1ekptV1RiMFp3dTNZT1lyRUhIcHNJcFRqeU5QODBsRnl6VGdCYzhpZ1B5WE5aNExURFRSTkhKclBqZlRyaHZJX3BDZXI4Q3ZJZENORmFQbUI5ZmlYZEVtbkJNVXVaN2lCM1NsaFpKSTZwemM3cjBi?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theglobeandmail.com",
+      "title": "The Globe and Mail"
+    }
+  },
+  {
+    "title": "Tim Hortons announces charity partner for Holiday Smile Cookie campaign - SooToday.com",
+    "description": "Tim Hortons announces charity partner for Holiday Smile Cookie campaign  SooToday.comMoose Jaw Humane Society has another reason to smile this holiday season  DiscoverMooseJawTim Hortons® Holiday Smile Cookie® campaign returns Nov. 30-Dec. 6, with 100% of proceeds supporting local charities, community groups and the Tim Hortons Youth Foundation  PR Newswire CanadaHospice named local recipient of Holiday Smile Cookie campaign  Kingston Whig-StandardTim Hortons Holiday Smile Cookies Return November 30 Across Canada  To Do Canada",
+    "published date": "Thu, 26 Nov 2026 19:10:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbEVnMUEwb1hfbFVMWjFFcDRIdVlIUm9yRUlVcjFodUZzMjduRUZZTEM0QlcyZ3dYbWstWE1ZN0tzeUkxMXBCU3N4V1ZXanJfMUxzUzF5MlJlc21fb3BiTlFTV2oyVFo3SjhYbUNzb29GaGZRS3FiWHpxS25hdFJyS2hWdmRJVE56Z3FtWDlBVUFPd0t4NUV4ZGVNTFlIVzJXVGFMeDFIREZXOGpmcEktUTA1MDl5M2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.sootoday.com",
+      "title": "SooToday.com"
+    }
+  },
+  {
+    "title": "76 best Amazon Black Friday deals you can already shop: Save up to 60% on Dyson vacuums, Amazon Fire Sticks, Apple laptops and more - Yahoo Lifestyle Canada",
+    "description": "76 best Amazon Black Friday deals you can already shop: Save up to 60% on Dyson vacuums, Amazon Fire Sticks, Apple laptops and more  Yahoo Lifestyle CanadaThe absolute best Black Friday 2026 deals in Canada you can already shop: Biggest sales from Best Buy, Amazon, Columbia, Walmart & more  Yahoo Lifestyle CanadaThe Curator: Best Black Friday home and kitchen deals in Canada 2026 - National  Global NewsAre this year’s Black Friday deals the best discounts on offer this year?  CityNews VancouverCanadians prioritizing everyday essentials over big-ticket splurges this Black Friday: report  CTV News",
+    "published date": "Thu, 26 Nov 2026 18:09:57 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNQllDcWk3aFZvYmUtekpYSFN5MUsxSEZDcGVhU2lWR05ZZENhbnZnVkRYU2xJSlNZZTh5WTVHVmdtUXpYU0U0c0lHUWtuWFpDWGpuczRSSkZaZlJkRDluanlGWlQxQVN3UGNMakNwNW1DaURSbXl2T2VOZnlDN2dFLW1TSUpzX2V4c0VKODdTTlIxSTZVWTdtd0pBcnFRQmFIZHlLR1o0WXBMSk50SHFWb0ZmZHk5ZTNZdUxQRUdpVlFzUWt2d0xFX0xjeXM4dHVLZ0wxcHRLTl9aNmE5bk9GSEJsWEVNU21xdXAxbGw3Ukk2UUN5T2hkU3dlbE40UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://ca.style.yahoo.com",
+      "title": "Yahoo Lifestyle Canada"
+    }
+  },
+  {
+    "title": "Auto sector in Canada is moving away from U.S. imports: DesRosiers - BNN Bloomberg",
+    "description": "Auto sector in Canada is moving away from U.S. imports: DesRosiers  BNN BloombergSee more headlines & perspectives on Google News",
+    "published date": "Wed, 25 Nov 2026 20:50:49 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeW95RDF2TWJhSlZuaHVpcHJab21MR2xFazRybEtpbTFOVFRJdnBEWVN0NEc2NGZqNDJOVjJYd3YzUXZNYllEcmNxVVZ0c0RyVkhqb2I1VGx1VzNaZjZjTVg5cXFzTmdmckc5Nm41TmFQbDIzOS1EVF9xZWE1bmJxX1ZKaUtmYUVtakdiWWFya1VhM1gzUzZfUEhrTXpZMnBzbm9xVVdoeGgycXBGTHpuajhhLVk1dy03Qnc1emt2U3Y?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.bnnbloomberg.ca",
+      "title": "BNN Bloomberg"
+    }
+  },
+  {
+    "title": "All of Canada’s Big Six Banks Now See December Rate Hike - Yahoo Finance",
+    "description": "All of Canada’s Big Six Banks Now See December Rate Hike  Yahoo FinanceSee more headlines & perspectives on Google News",
+    "published date": "Thu, 26 Nov 2026 11:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY1AxclZLTTFMQWg1UWtTRzROSFZLUm45R0c3bWJTdG1ZalJnTjZVcFBYNDdJcHV5M1VsT3JQOWpXdV9sRHI3NEhNcGlHY010MkJxbnNwMXEtWnM1d0hqcUdXSXVJX3M0dWZhMkUtNUxfM1dEVlByTzJFeExkajNxcHZzQXBFelZ3Z251WXVRcUh6RDg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://finance.yahoo.com",
+      "title": "Yahoo Finance"
+    }
+  },
+  {
+    "title": "WestJet announces executive leadership changes - Pax News",
+    "description": "WestJet announces executive leadership changes  Pax NewsSee more headlines & perspectives on Google News",
+    "published date": "Thu, 26 Nov 2026 21:14:53 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY1RyMlZJaDJDcnVEdENzZWZJa1JxQ3QzbXRJRXVRdnRkWHlNTVRMY1hNV1BpbzJvVUFIMHZEamQ4N1plZDFkM1otNnVKeG9oUHEwck1KQWNtcW5DdDNYRjZnTElKZkRLRjd6Tm8za0wtS1BLYlMzVTZha3JyN1o1eF9sc0wyWGZwNTNB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.paxnews.com",
+      "title": "Pax News"
+    }
+  },
+  {
+    "title": "Pension gap between government and private workers keeps widening: report - Toronto Sun",
+    "description": "Pension gap between government and private workers keeps widening: report  Toronto SunSee more headlines & perspectives on Google News",
+    "published date": "Thu, 26 Nov 2026 20:38:53 GMT",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTzZqQm4zUzNzay1YanpLNlRIZjFCUjI0WGpoWHlPTk9HZGNTdWEyTVlBUXpVR1A5M1BUbTNoV0Z1V0RTVU9FMmpIQnh2QmxRMUtaYl9QNUVZTi1Yek9ReGp1Nk5rMk9fOE1ZTzRDWWZqbWV1UE1DSFBDYW9YRDl5MlBMLXZiR0J3VEROdEt0eThzekVhU2dPZmU5djlZbWxKSDZJdmJuRFZSblRvbnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://torontosun.com",
+      "title": "Toronto Sun"
+    }
+  },
+  {
+    "title": "Locked in: How many Canadians who bought at peak housing prices can’t afford to move? - The Globe and Mail",
+    "description": "Locked in: How many Canadians who bought at peak housing prices can’t afford to move?  The Globe and MailPosthaste: Housing costs are taking a toll on Canadians’ well-being, says survey  Financial PostTwo-thirds of Canadians say housing costs are taking a toll on their wellbeing, Peoples Group and Partners for Affordable Housing Survey Finds  PR Newswire CanadaHousing costs push one in five Canadians to delay paying down debt: survey  Wealth ProfessionalHousing costs causing 'great stress' to one in four Ontarians, survey shows  Toronto Sun",
+    "published date": "Thu, 26 Nov 2026 11:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT3IxM1V5Q01Ga2FwVHVjeEZGbHNqX0UzMjltaDAxWXh0NkFTYmhuRGdqUnBRUzUzU0Z1eDlPZGJyalBTbGRxeVZjZEtDSG9UX1dWTVBURGd6ZjdmUG5tcXdPOFQxaEoxSnNPZkpkMU10dUdVSmdlTkc1aklhcVFkUEoyU1FuX1BHVFpBVU93UHRCbGJwWUg1NzZpekdIV1psbXpkalFKbVZMaFd6bnJ6amwzZThURTREWXRvZjVnSHdadnZDdVpxMEFEejZTWHpC?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theglobeandmail.com",
+      "title": "The Globe and Mail"
+    }
+  },
+  {
+    "title": "Trump alleges ‘fake’ economic figures released before US midterms but doesn’t provide evidence - The Guardian",
+    "description": "Trump alleges ‘fake’ economic figures released before US midterms but doesn’t provide evidence  The GuardianTrump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher  CNBCThe Economy Grew Way Faster Than First Reported: Q3 GDP Revised Up to 4.3%  Yahoo FinanceTrump demands investigation into GDP data revisions  AxiosTrump demands probe of GDP data released before midterms  Reuters",
+    "published date": "Thu, 26 Nov 2026 19:41:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZVdXdlZuQVpCZWc1LV9iWkZaSm9RWlVsZFFBNVIwdmV6UksxZmlQTEpXUVlVXy14TUNGWURxdmZHZVR2V1BfZG1GRXVjT3hDek0zazlad0VXWGtBc0dDRE5LS2pkeFlpaThKaG5qU0ZkZ2dkaldsMmN1SWRDZnJLSTdyYWdjWHJrZXFuWg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.theguardian.com",
+      "title": "The Guardian"
+    }
+  },
+  {
+    "title": "New Brunswick community plans to expropriate land from owner that closed mill - Global News",
+    "description": "New Brunswick community plans to expropriate land from owner that closed mill  Global NewsSee more headlines & perspectives on Google News",
+    "published date": "Thu, 26 Nov 2026 16:52:39 GMT",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MNFJnM3MyTXU5eGhKVEU2Vk5jb0E2LXBGUndTWU9lX1h6ZkdhRDVOaEVpNWxXdzd5bHNpMktfRE9WUjdPM0FIdnVfa05IQWhVbm8xend5dWVPXzlXWlNQc19Qb2Zfamo0X1pqbWJYSG5TUjBHMlg3V3BRbEJFQ2M?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://globalnews.ca",
+      "title": "Global News"
+    }
+  },
+  {
+    "title": "OC Transpo identifies 6 items that need work on O-Train Line 1 East Extension - CTV News",
+    "description": "OC Transpo identifies 6 items that need work on O-Train Line 1 East Extension  CTV NewsLRT full-line testing extended due to technical issues  Yahoo News CanadaO-Train Line 1 begins East Extension full-line testing  CityNews Ottawa",
+    "published date": "Thu, 26 Nov 2026 22:48:06 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM3BmTzQyMHFOekg5aDkwajJOWDF2cEdycmZZZjlhal91X3k2Z18yUUxpMnJzaU53YkZKSHRFWkpuYlQwUDctVDdhWmFhMXJWbG1kUWthaWg4TUs4WXNwWkg4U3JObnkwM1JqMWpKTEltODdmSnVuSjZIM282dmowSDFaWUQzczRHVGd5WGFkM1pGZVlsYlVvcnJ2THJ0bmtLdXhyWFVtYUprNXFsYlZyVzFURnFIaWc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.ctvnews.ca",
       "title": "CTV News"
@@ -120,73 +280,133 @@
     }
   },
   {
-    "title": "Doug Ford says Ontario will look to ‘curtail’ online gambling advertisements - CP24",
-    "description": "Doug Ford says Ontario will look to ‘curtail’ online gambling advertisements  CP24See more headlines & perspectives on Google News",
-    "published date": "Wed, 25 Nov 2026 21:59:04 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeU9kVXZ0bmZ3b24tM1U2S0tpSHFmcFpMU3EwN1lLczNQRTJPbVFYR1M5cUpJZTNvLXozckIzc29zX1hFeWxOWXBrMzgySVU0dWs2MHFFcDZaX214cFlUNTRuT1BEY2ZpZ0hEcDVuYlBMQTNlZjQ3aHFYUjgya1Vkam5QczljSzR3MmNnOTFOa21ZbE5YR1VXLTNva2I4M0VuWUYwWkN5WUFNMGVqQ19zRzdXTW1abjBJcXBoT1BB?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cp24.com",
-      "title": "CP24"
-    }
-  },
-  {
-    "title": "Locked in: How many Canadians who bought at peak housing prices can’t afford to move? - The Globe and Mail",
-    "description": "Locked in: How many Canadians who bought at peak housing prices can’t afford to move?  The Globe and MailPosthaste: Housing costs are taking a toll on Canadians’ well-being, says survey  Financial PostTwo-thirds of Canadians say housing costs are taking a toll on their wellbeing, Peoples Group and Partners for Affordable Housing Survey Finds  PR Newswire CanadaHousing costs push one in five Canadians to delay paying down debt: survey  Wealth ProfessionalHousing costs causing 'great stress' to one in four Ontarians, survey shows  Toronto Sun",
-    "published date": "Thu, 26 Nov 2026 11:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT3IxM1V5Q01Ga2FwVHVjeEZGbHNqX0UzMjltaDAxWXh0NkFTYmhuRGdqUnBRUzUzU0Z1eDlPZGJyalBTbGRxeVZjZEtDSG9UX1dWTVBURGd6ZjdmUG5tcXdPOFQxaEoxSnNPZkpkMU10dUdVSmdlTkc1aklhcVFkUEoyU1FuX1BHVFpBVU93UHRCbGJwWUg1NzZpekdIV1psbXpkalFKbVZMaFd6bnJ6amwzZThURTREWXRvZjVnSHdadnZDdVpxMEFEejZTWHpC?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theglobeandmail.com",
-      "title": "The Globe and Mail"
-    }
-  },
-  {
-    "title": "Wildfire victim trying to buy new Flin Flon home loses $170K in lawyer impersonation scam - CBC",
-    "description": "Wildfire victim trying to buy new Flin Flon home loses $170K in lawyer impersonation scam  CBCNearly $1M lost in online scams targeting Manitoba lawyers and clients  Winnipeg Free PressFlin Flon woman who lost house in wildfire out $170K in scam  Yahoo News Canada",
-    "published date": "Tue, 24 Nov 2026 09:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVGdya3hBSVo5V1V4ZkkyMGNlQ3dVWGhtRDJ5bzlmamlvblRVNjBpclVBVVpxUmx4QlNrM0ZzMXdiS08xTC00Z1R1c0FlUnJWc0JZWDJiM2x0aGpLTlJjWk51cVl6UkpkU1ZxNEJ3Tkp6QTU0MUtOclNsYXV6ZVJPRnNaSDhBX19GYzZPZHJhZ2xyRXBOc0hiNjdNWUhqRlRta0R0SlJKaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "LCBO adding police officers to more than 40 stores in security push - CBC",
+    "description": "LCBO adding police officers to more than 40 stores in security push  CBCLCBO deploying police to more than 40 stores in anti-theft blitz  Global NewsLCBO to deploy paid duty cops in over 40 stores to bolster anti-theft efforts  The Globe and MailPolice in Waterloo Region and Guelph unsure of involvement in LCBO enforcement  CTV NewsLCBO to use paid duty police officers to help deter thefts  Toronto Star",
+    "published date": "Wed, 25 Nov 2026 22:07:33 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU0dWVWVsYzJPZ3ZmdVJ5TUI1RU5PNDREQTFFOHN0Y0lHQVBEekdnMWFHOTNkaHZnVlpzSzM1aC1XSEttZ0hHSWxXWEsydFJSeHFCZFlzcUVUU2RYWXMxV3NBeXRlRFhPLU9JYWtqMHVpaVlUZF9NbkRpQVJGWmF1QWVRU0d3TXduTVRjSUFydXB0Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.cbc.ca",
       "title": "CBC"
     }
   },
   {
-    "title": "Tim Hortons announces charity partner for Holiday Smile Cookie campaign - SooToday.com",
-    "description": "Tim Hortons announces charity partner for Holiday Smile Cookie campaign  SooToday.comMoose Jaw Humane Society has another reason to smile this holiday season  DiscoverMooseJawTim Hortons® Holiday Smile Cookie® campaign returns Nov. 30-Dec. 6, with 100% of proceeds supporting local charities, community groups and the Tim Hortons Youth Foundation  PR Newswire CanadaHospice named local recipient of Holiday Smile Cookie campaign  Kingston Whig-StandardTim Hortons Holiday Smile Cookies Return November 30 Across Canada  To Do Canada",
-    "published date": "Thu, 26 Nov 2026 17:50:11 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbEVnMUEwb1hfbFVMWjFFcDRIdVlIUm9yRUlVcjFodUZzMjduRUZZTEM0QlcyZ3dYbWstWE1ZN0tzeUkxMXBCU3N4V1ZXanJfMUxzUzF5MlJlc21fb3BiTlFTV2oyVFo3SjhYbUNzb29GaGZRS3FiWHpxS25hdFJyS2hWdmRJVE56Z3FtWDlBVUFPd0t4NUV4ZGVNTFlIVzJXVGFMeDFIREZXOGpmcEktUTA1MDl5M2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Canada remains top destination for infrastructure investors, survey finds - The Globe and Mail",
+    "description": "Canada remains top destination for infrastructure investors, survey finds  The Globe and MailBuilding capacity, attracting capital, seizing opportunity: ‘Canada, let’s keep going’  Enbridge Inc.",
+    "published date": "Thu, 26 Nov 2026 10:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRHJIZ29rT0d1a0FPdDlOVHhkLXVIUzV1OTlYazAybTJBVi1tWnVDMG9qSFYxLWJaMzhtZHk4WE9XRGE5YUpKdUpMS2U5WElHYlc5WTA4Nm1UVnljZnptNWlnT0RPazByY2NtSFhYcjJhOFlpWXU5RU45bjdHYWNydDNRSzlQRzJNOUV5a1VEYTJZbWRJTnZodUhkVVRwSlhqaWhCaDFObXI0d0ZZU2Q5MEVGd0pDSmM?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.sootoday.com",
-      "title": "SooToday.com"
+      "href": "https://www.theglobeandmail.com",
+      "title": "The Globe and Mail"
     }
   },
   {
-    "title": "Explainer: Nvidia CEO and ‘AI Godfather’ Jensen Huang and his ties to Trump - Global News",
-    "description": "Explainer: Nvidia CEO and ‘AI Godfather’ Jensen Huang and his ties to Trump  Global NewsThe Nvidia scandal gets worse for the Trump administration by the day  MS NOWCartoon: Donald Trump helps Jensen Huang retake the wheel at Nvidia  The EconomistNvidia CEO Jensen Huang reportedly had fourth affair, at minimum  Mashable‘Second home’: Why Israel is celebrating Jensen Huang’s return to Nvidia  Al Jazeera",
-    "published date": "Wed, 25 Nov 2026 17:42:55 GMT",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzb1BmTUI1OXdidTlIQkU4X2d6bE5yOXBZdXEyVUdWaFhXczNyek9LV3Q3aDlrQXhxa3FJcGtqZzg2UGNTdnBiTG96dW5lTGZGYUZaVE50SVMybFVtVGN6UWQ3Smg3eDhrQkZ2a2h1d0FneWRfZUZXcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Federal case over Ontario nuclear plant's worst fish kill hits procedural snag - CBC",
+    "description": "Federal case over Ontario nuclear plant's worst fish kill hits procedural snag  CBC",
+    "published date": "Wed, 25 Nov 2026 21:52:10 GMT",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MZ1dqOTBwZ0lsdUdfX2NpY2JSUmU5S205WEp5S1F3eEJ2WGlJTDRZR2d5UDdMcGswUkRDNDBiX09oYWNMMFF2TWxVeGNEU3hmelFYV2FjMDRPMWktRUNBTkZiTG0yU1J6RUNtNWhiOFd0TkVuN2lDU3dBR0lRVlk?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cbc.ca",
+      "title": "CBC"
+    }
+  },
+  {
+    "title": "Canadian companies keep getting hit with data breaches. What are hackers doing with it? - CBC",
+    "description": "Canadian companies keep getting hit with data breaches. What are hackers doing with it?  CBC",
+    "published date": "Thu, 26 Nov 2026 16:04:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQTNWOF80NjZvdTA4aHkwZUR6OVlhRnQtM3dxLW9Mc2k3V1RyMi1mSFVsdmQ5eG5WZ3hja3AtTUhwZGdpRGJJckdlNGxmQzdhdXFzOTNRZVFwV083MnExUVh1dHRzem92UktHbE5JeFAwVEdNT18tOXVfMzNKWk1fOFAtNXZnRXlyMndN?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cbc.ca",
+      "title": "CBC"
+    }
+  },
+  {
+    "title": "More Canadians are using cannabis daily than are drinking alcohol daily: study - CBC",
+    "description": "More Canadians are using cannabis daily than are drinking alcohol daily: study  CBCChris Selley: Even with less drinking, governments find new ways to profit from our ruin  National PostCannabis daily use outstrips alcohol in ‘generational’ shift, study says  Global NewsDaily cannabis use in Canada has topped daily alcohol use for adults under 50. Should we be worried?  Toronto StarIn the news today: cannabis over alcohol, wrongful conviction body, strike vote  The Spec",
+    "published date": "Mon, 23 Nov 2026 09:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ2pYYkRYeWJFYUlOeDhjUUNldGxfUkh0dV9yMVExZXRoUmJSS2ROUkVxTjhlUG1lV1c1NjNpRzJqT0s4UmhmWk5OaGc4WXdQMHJGOFFfUGt4VEQ0Mi1GVFA1b0hPT2ZzYmVrWEpMQk04NWliLWlXeTRZVDQzeDNyVEpXVTRNczFQdjlxNXBB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cbc.ca",
+      "title": "CBC"
+    }
+  },
+  {
+    "title": "Ottawa imposing import limits, tariffs on some canned vegetables - Yahoo! Finance Canada",
+    "description": "Ottawa imposing import limits, tariffs on some canned vegetables  Yahoo! Finance CanadaSee more headlines & perspectives on Google News",
+    "published date": "Wed, 25 Nov 2026 20:08:58 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWmtUMXdJWXE0STg1N0JkazdkeWVZYmxsTS1wZWV2dkp1emM4eWdoZFpEWnlmdVpYVWt3NEFrNE1ENGN3dU9XS3lsdU5BREs3Q2NhX1g0d042amM1UmNGZjl6MjRsRXRnd2I2dHRVcS1iZnBkcGp4WXJPWUZFNEFhRy1ySFo2dUxJa3pEWDJBVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://ca.finance.yahoo.com",
+      "title": "Yahoo! Finance Canada"
+    }
+  },
+  {
+    "title": "Logan Energy Corp. announces filing of information circular and additions to the Board of Directors and management team of Logan Oil Corp. - BOE Report",
+    "description": "Logan Energy Corp. announces filing of information circular and additions to the Board of Directors and management team of Logan Oil Corp.  BOE Report",
+    "published date": "Thu, 26 Nov 2026 00:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOWkYySGltOEZiTHJuaWlhSXVjQ0l6Q1M2TzJxd3VvUk9pNFU2Y2pJWDVXeUZUbTNKYTE3NmFfc1kxUEE4aUM3blB0MExWX3dpMGhBMFBHZjRTaEgwVV9HWmotR1ZrTFZDd2pCc2d5eE0zR0pjSFl0c1BIbkU0Znlzci1PZTVHb09RUzU4MXlHRU41WDJPN2NMSndBZTZXcy1RbVJnalFseXFoZHZhdnJuOXF5aEY2V1l1WXJOZkludnZ4VTVUZTk5Q1Y1alVJZ0xXYUNJZWdRYkZ3bnJzZXFTSlRXaVByd01yb253NkZISVRpaTUxckdWUDhoNDdFWXfSAYQCQVVfeXFMUHZVRHRuOG0zNjF3aENCQlVObTJ3N1gwVTVLWmwxTkJVZjA2Sm1VUVZEYUZkdWJsS1dIcGozR1JJbDJRRzdxN3hobk9DU1hYZE5BeVFWaDlFcG53YU1DaVNzbWZ0QWVCR25CRlUyQzRiS3JyM1dXWWlTNWY5ZG1XMnJxNHhPdWh3ZUduSjZpRnVDVHVNdThGSDhOOXhObjRjT18zVFUtdVMwSXI3YmZIb3ZHUmREeVNoNFVGM1pURThGY1VKLWxBM0wtR19iVWU4MjE2bEoyNW0tUFlWeVdfWGlYMXh1bVRzcVFLQnFLTHkyNUdfRmMwNEl4Y2VrVGt3SHhnQUM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://boereport.com",
+      "title": "BOE Report"
+    }
+  },
+  {
+    "title": "U.S. approves SpaceX plan to deploy 1 million satellites for data centres in space - CBC",
+    "description": "U.S. approves SpaceX plan to deploy 1 million satellites for data centres in space  CBCUS authorizes SpaceX to deploy 1 million satellites for AI data centers in space  CNNUS approves SpaceX plan to send a million data satellites to space  BBCFCC approves 1 million SpaceX data centers in space. Astronomers are dismayed.  The Washington PostFCC green lights SpaceX’s plan to launch 1 million ‘Starmind’ data center satellites  Spaceflight Now",
+    "published date": "Thu, 26 Nov 2026 15:31:59 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbTYzTVR6aHp2d2VZN3FIYmUzQmdNelFuN1NhemhSRVp4dXBnQlpNbUhtb3d5NzB2TVRlTmM3bEhpaWlBNW53T3BTU0JOM2RFT05IdUEwNjFZUXZhT1RoWjdhbnlVV1RlSC1zMTZpRFlSSFdTMlZUS0M1MXlsOVQ2eEpxU2wwQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cbc.ca",
+      "title": "CBC"
+    }
+  },
+  {
+    "title": "Elon Musk pledges 2 SpaceX shares to every U.S. child - Global News",
+    "description": "Elon Musk pledges 2 SpaceX shares to every U.S. child  Global NewsSpaceX, Musk pledge to donate a share each to active Trump Accounts  CNBCMusk makes $18 billion SpaceX stock pledge for every kid in America  AxiosMusk Says Every US Kid to Get Two SpaceX Shares, Doubling Pledge  Bloomberg.comMusk pledges two SpaceX shares for every US child in $18 billion AI charm offensive  Reuters",
+    "published date": "Thu, 26 Nov 2026 21:17:42 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2TnVCTUhwX1h1SnhIMmlQMmVWcVdZb1d0UGhIRlRaLWlQdUdfdGQ4NlZSSGcwcm5COWhvMkN3UXZBU1ZwX0E5d04zb3VEOWtBQ0ZEN2VyMlpNUEcxNTFKc3pLX0ZWTzVJUWdXYkpzX2hDYWd2Q2NqOWhYbHo?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://globalnews.ca",
       "title": "Global News"
     }
   },
   {
-    "title": "Auto sector in Canada is moving away from U.S. imports: DesRosiers - BNN Bloomberg",
-    "description": "Auto sector in Canada is moving away from U.S. imports: DesRosiers  BNN BloombergCanadian auto sector moving away from U.S. imports, new report shows  Global NewsU.S.-made vehicles’ share of sales in Canada shrinks, new analysis shows  London Free PressMexico and Asia Gain Auto Share in Canada as US Trade War Takes a Toll  Bloomberg.comU.S. auto imports into Canada take major hit from ‘poorly conceived, self-destructive’ tariffs  insauga.com",
-    "published date": "Wed, 25 Nov 2026 20:50:49 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeW95RDF2TWJhSlZuaHVpcHJab21MR2xFazRybEtpbTFOVFRJdnBEWVN0NEc2NGZqNDJOVjJYd3YzUXZNYllEcmNxVVZ0c0RyVkhqb2I1VGx1VzNaZjZjTVg5cXFzTmdmckc5Nm41TmFQbDIzOS1EVF9xZWE1bmJxX1ZKaUtmYUVtakdiWWFya1VhM1gzUzZfUEhrTXpZMnBzbm9xVVdoeGgycXBGTHpuajhhLVk1dy03Qnc1emt2U3Y?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Standard Chartered Oil Needs a New Shock to Fall Further - Crude Oil Prices Today | OilPrice.com",
+    "description": "Standard Chartered Oil Needs a New Shock to Fall Further  Crude Oil Prices Today | OilPrice.comOil rises on supply concerns as Iran claims mine strikes on ships  Yahoo FinanceBrent settles higher as mine strikes, refinery attack stoke Middle East supply concerns  The Globe and MailHouthis strike Saudi oil infrastructure as Riyadh intensifies attacks on Yemen  CNNOil Set for Weekly Gain as Mideast Attacks Keep Market on Edge  Bloomberg.com",
+    "published date": "Fri, 27 Nov 2026 01:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV01La2hvS3NsNUpmRE5rMVJvT3hvYWlEVGhKZnN0a0Rta1FFNEVsby1LS2ExWjgzel9OaV9CeFBKazhmQWVvZE9aVGN6ZkJIbjh6R3ZEVWdaOWRMUV9FTFA1ak0tZU4zdmFlSHVIeXQ5dEQ5XzkzMTBuU3FfT1YyNzBzdG5xanVhM1NTQ2UyYmxoamZLVklZdU9YTlB3UDMwYmfSAacBQVVfeXFMTUNQSXVfOU55dEhmMlFCdV9tNklHRWpxOERxdXNQQ3pIWU80NDNDNmphckZ4REVHWTJBNVN5VjZHTExEaFFld0NxSnRuOXVyaDNvNDliVi1qY1ZCYU5qZFdxS2w4dEExRFludzR6RXV3bXY0d0p2NUFaajJDV3hISk1RRExHWExUODV6YTJTUGtSb2loVExNenhQc1FHSEJOWHdQUnNjS2M?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://oilprice.com",
+      "title": "Crude Oil Prices Today | OilPrice.com"
+    }
+  },
+  {
+    "title": "Why an Ontario couple wants to return their EV and switch back to a gas-powered car - BNN Bloomberg",
+    "description": "Why an Ontario couple wants to return their EV and switch back to a gas-powered car  BNN Bloomberg",
+    "published date": "Thu, 26 Nov 2026 11:12:13 GMT",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPLTNZWWdmck5rekVZUjRGSDZQNjdMNE1YSEFuQXRuTEtkNV9QYWpyQWV2bUhnanF5dzQxeGxCZkI2Zmk0WUZydXNuY3RjeGVTQUpvNjlJLU9GS2Z5eVN3ZTg5M1kzcXUyUFBBZkZHS1VRVXBkQmktZ0EzNGZqS1IxUnFIdTJwT2tlb0xiQ1NNNlRDWFU4TllJMFJ6dDhSVE5ManZfRERvZV9QVW92d0gxNkVuTF9NZmxucXlLeXM5NkdUV29qaXJGYWFKdUI?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.bnnbloomberg.ca",
       "title": "BNN Bloomberg"
     }
   },
   {
-    "title": "'Robbing Peter to pay Paul': Vancouver mortgage holders facing growing strains making payments - Vancouver Sun",
-    "description": "'Robbing Peter to pay Paul': Vancouver mortgage holders facing growing strains making payments  Vancouver SunSee more headlines & perspectives on Google News",
-    "published date": "Wed, 25 Nov 2026 13:09:45 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcVF0OHc4ZDNCNjB1OXJpWjJ4c3VHLTRBWWVUeUlXZ1YzOWlYckN5U3dSbElJTnFDa0pwejVQcDRwQ3ZHMFpKY1lidTVvSUNpdkxtdXRlT1lCSGRFamgtWTkxV2NpV2dOOVR0SG5KRmdLUXl2Yno4YU9PNENFUmJtNWFpWEVUWUxJdDFnbXdaWTNqTVhoeFBTT0ctdTFCTnJwejc5WWVEbTUyVHduSXI4Tk1KbE11LU5OeG5Obk5B?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Are you ready to resume travelling to the U.S.? - Castanet",
+    "description": "Are you ready to resume travelling to the U.S.?  CastanetSee more headlines & perspectives on Google News",
+    "published date": "Thu, 26 Nov 2026 03:30:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN2hjZ1FoazlSdFBmRW5vUVJNMmJXdXFlVjZqUHRSNnZzQ1pZWjFkTjNaaDE5UEk2Yl9IanpkMUppbV9HX2VVN09TLWV3dFlLOUJGNzRTZmxuOGZpbFU5MkN6X2hJNGhZaHpHZlBhUzhXaWdvSGNpSUpTY0VCU0FKMlJieXl6VkFlZ0pjYlBzNXAxUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://vancouversun.com",
-      "title": "Vancouver Sun"
+      "href": "https://www.castanet.net",
+      "title": "Castanet"
+    }
+  },
+  {
+    "title": "Norse Atlantic suspends all operations as it runs out of cash - AeroTime",
+    "description": "Norse Atlantic suspends all operations as it runs out of cash  AeroTimeNorse Atlantic suspends all flights as it faces potential collapse  BBCAirline Norse Atlantic flags bankruptcy risk as flights suspended  Yahoo! Finance CanadaNorse Woes Force Pakistan Airlines to Cancel UK Services  Bloomberg.comPakistan's PIA to shift UK flights to own fleet after Norse Atlantic suspension  Reuters",
+    "published date": "Thu, 26 Nov 2026 08:26:15 GMT",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaUJ3QUw2ei1TRDVIRFJBX1NmUU81VjhxdV9GaVZZVElncm5tTUljOHdnQ2FRbTkzMjV1eFg3dFdHa1Vma2JoV25KZFRPLWg2YUNJUjRCNmF0cWF2c3JUZm1yTlNBU0kwOExhN2pWUVc2MU4zd3hpRzBSX0p4UDh0bUE5T3ZDUlNFTU9KVWlfak14ZVdnR0NGekFnMHHSAaIBQVVfeXFMTTNxQWFZUlNIMDJTMnJ6RGRjMVJCS3hvbi1oMVFLbXE2bTNvV05oeWpyem1WeGZZX2txRmFRR2EtZV92ZHQ4MnF6NDh0UWREZVV5dFkwbDF5bnJwSVNLcG9kZDhBZWdERF9neWFSTzlOeVU1NTdJTE42aDR0aXZDajhxQ2EzUDZmWVpWNzVLbDRuZWlTbjNGTHR2elpYQVJYcDdR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.aerotime.aero",
+      "title": "AeroTime"
     }
   },
   {
@@ -210,133 +430,23 @@
     }
   },
   {
-    "title": "Trump alleges ‘fake’ economic figures released before US midterms but doesn’t provide evidence - The Guardian",
-    "description": "Trump alleges ‘fake’ economic figures released before US midterms but doesn’t provide evidence  The GuardianTrump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher  CNBCTrump calls GDP data released before midterms ‘fake’, demands investigation  Al JazeeraThe Economy Grew Way Faster Than First Reported: Q3 GDP Revised Up to 4.3%  Yahoo FinanceTrump calls the pre-election GDP figures ‘fake’ and demands an investigation of U.S. Commerce Department  CTV News",
-    "published date": "Thu, 26 Nov 2026 19:41:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZVdXdlZuQVpCZWc1LV9iWkZaSm9RWlVsZFFBNVIwdmV6UksxZmlQTEpXUVlVXy14TUNGWURxdmZHZVR2V1BfZG1GRXVjT3hDek0zazlad0VXWGtBc0dDRE5LS2pkeFlpaThKaG5qU0ZkZ2dkaldsMmN1SWRDZnJLSTdyYWdjWHJrZXFuWg?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theguardian.com",
-      "title": "The Guardian"
-    }
-  },
-  {
-    "title": "Peterborough’s Parkhill Place listed for sale as SIREG bankruptcy fallout continues across Ontario - The Peterborough Examiner",
-    "description": "Peterborough’s Parkhill Place listed for sale as SIREG bankruptcy fallout continues across Ontario  The Peterborough ExaminerKitchener tenant union protests 'awful mess' left by collapse of SIREG Management  CBCFinancial Recovery Underway at SIREG Condos  REMI Network - Real Estate Management Industry NetworkTenant advocacy group demands mandatory landlord disclosure  CTV News",
-    "published date": "Wed, 25 Nov 2026 13:24:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPLThSZ3Y3LWJMb01EQ1dRLURTcE1UVE5RSmkzb2liamNqT0hRV2hRNmlVdVNfV3gxWF9sWHRHcEdoTUNaOUlPUmROVWtMT1hCOEgzNGpXS1NDclVUV1phdGZkcU9JdkFoYWFTTlM2RW8zcktmdld6UWx5am9hWmJUOENBdXVUV3NFTDl4WGhnZXVwYzVFa0huTm5DRXZYc1dlbDV0NDIyMXZzWkpkaVZtZHltSUtMYkVnVzhsdk4zOXhtQmx0RFd6VHFTTWdpVXQ3RGZQbU5QVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.thepeterboroughexaminer.com",
-      "title": "The Peterborough Examiner"
-    }
-  },
-  {
-    "title": "Two-day Canada Investment Summit to cost taxpayers $8 million - SooToday.com",
-    "description": "Two-day Canada Investment Summit to cost taxpayers $8 million  SooToday.comSee more headlines & perspectives on Google News",
-    "published date": "Tue, 24 Nov 2026 23:07:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeXB1NEZva3Vnb240VXBiVGU1NzNrcV9TNXNPS2tGSE5oSW92alZIOUZXbXVsRjNmWEJNT2lDS01hVWFzRUpFSUk5ZUpMRm5iMjk3NFdqUThpanZZWDZDSmdCdFFSMXRVbVctUTljRnFmNHQ4cGxnTTVQZU1fWmV5ZzNGUjhqSFNRUVdrbmltaVBRYmFJNzB3eGstcGdob0toUlFGdk5TMFNqcU0?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.sootoday.com",
-      "title": "SooToday.com"
-    }
-  },
-  {
-    "title": "Best Black Friday deals in Canada: 120+ best sales, from Amazon to Walmart - Yahoo Lifestyle Canada",
-    "description": "Best Black Friday deals in Canada: 120+ best sales, from Amazon to Walmart  Yahoo Lifestyle CanadaAre this year’s Black Friday deals the best discounts on offer this year?  CityNews MontrealThe absolute best Black Friday 2026 deals in Canada: Biggest sales from Best Buy, Amazon, Columbia, Walmart & more  Yahoo Lifestyle CanadaBuy now or wait? Shopping editors on what’s worth it this Black Friday in Canada  National PostCanadians prioritizing everyday essentials over big-ticket splurges this Black Friday: report  CTV News",
-    "published date": "Wed, 25 Nov 2026 19:30:44 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc1JWX1c2VzAyUTZtSjJrOGxFOXBDcWpEZlJMRDdlMzdWa2wwbkVqSWJQMEszSmVqY0dUQ0pOSXNWeWU4WS1rMV8yZDU2ZUhHY3lObkVtNXY0SkhfczNSWWdHQmdsVWhMQ3VDdF9Pd0xWTW9RZTV5Z1hSSXptbEo0TjltZG95c24tWDBMYnVSRk9vQlN5OV9iUzJKZlBBblAzRkU1dXd0cmhrQ0lDWWd1b1dzOA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://ca.style.yahoo.com",
-      "title": "Yahoo Lifestyle Canada"
-    }
-  },
-  {
-    "title": "Why you might start seeing police officers at some LCBO outlets - CTV News",
-    "description": "Why you might start seeing police officers at some LCBO outlets  CTV NewsLCBO deploying police to more than 40 stores in anti-theft blitz  Global NewsLCBO to deploy paid duty cops in over 40 stores to bolster anti-theft efforts  The Globe and MailPolice in Waterloo Region and Guelph unsure of involvement in LCBO enforcement  CTV News2,000 arrests made, LCBO deploys more security measures in Ontario  insauga.com",
-    "published date": "Thu, 26 Nov 2026 10:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaTBfd2cyblNyVFotakx1bzZ4U0NfTGVHcVZUcTJ0a1h2Ni1aNVM1TWhBQU9iMDV5YTZWcklLVDNnRWlFQUJfdC1OdGdjWkFKeHRVX2JmZHRBMjlNeWttcmJUTHZ0QU9UWGhjMU1fa0lSRkhWNFN6Vko1UThHc0hSMlNUakR3TFR2UUs3QU1pb3dKTVFINXp2bFRoSzQ4aW1xY2p3UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ctvnews.ca",
-      "title": "CTV News"
-    }
-  },
-  {
-    "title": "Ryan Bushell’s Top Picks for Nov. 26, 2026 - BNN Bloomberg",
-    "description": "Ryan Bushell’s Top Picks for Nov. 26, 2026  BNN Bloomberg",
-    "published date": "Thu, 26 Nov 2026 18:30:33 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMTNTa196VUtRckQyRkQyR1ZybURGbXhQS1FLbFlPdC1Sa1FoTnRUZ2NWVERjQ0Z0cWRyUHlRUlZ6OVl6Mmhub3djLWNhZVlVbmJ3dU1XUnU0bUg2WENvWTZ6ZzBFSVNBWjVZdGZMcVZOWlVScEoyVGV3TGpNZlBwUHNPSjVqaTdoY0ZyMUdMcG4?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Global stocks rise and tech shares rebound as U.S. closes for Thanksgiving - BNN Bloomberg",
+    "description": "Global stocks rise and tech shares rebound as U.S. closes for Thanksgiving  BNN BloombergSee more headlines & perspectives on Google News",
+    "published date": "Thu, 26 Nov 2026 13:47:54 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbU9BRlBSOWpYakItQW9OOExUSE1PN2xZQkFlNmpuNTF6bTczV094NTIzTm95QjlUbmZBdEx6Q0FOMkJvdzY3MmxDMkRubkhyMzNCcTFaa2NtVmdYQUlJWUVYbk9sY3FZRzk0Smlpa1RLRHI0YjAxQmlqZzRyRC1UbFoxWWx2NzIyVWQwOGZSTVJfaUNvNUphbWRvb0J1dVpCbGkxLWJPRTlLeXhxMjhpY2ZPeFh5ZVhnVDFVeQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.bnnbloomberg.ca",
       "title": "BNN Bloomberg"
     }
   },
   {
-    "title": "New northern B.C. berth opens, but 11-year-old exclusivity deal stops it from progressing - The Globe and Mail",
-    "description": "New northern B.C. berth opens, but 11-year-old exclusivity deal stops it from progressing  The Globe and MailTrigon's Keystone Second Berth Can Unlock Billions in Exports  PR Newswire CanadaCoal exporter completes construction of second berth at Prince Rupert port  Nanaimo News Bulletin",
-    "published date": "Wed, 25 Nov 2026 11:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOXy04OUFfa3M3TW1vbDdOTlJYUHNIX192YmF3TjZVclVRUlVvUUFJckkzWUVKYUJBcUl3ZXNJMFNZUTJtZm5BRHhGbTB5elJvNDVyVkRrM3cwbEtsLS1yLUo2dFM0VUdUUXp1TVVoRkoxVEU1RlplNEJzS3hKOVdWRXBCdjRfOWlrczJuZGJVcEVGQ253Y3BnRjRoUVlBOVdKRDUtWjVtOFYxeFdXZmVVU2FhdkdXV193cDJpcg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "FX news: Loonie jumps as Macklem stays hawkish - BNN Bloomberg",
+    "description": "FX news: Loonie jumps as Macklem stays hawkish  BNN BloombergCanadian dollar edges lower as investors await key GDP data  ReutersLoonie jumps as Macklem stays hawkish  CTV NewsCanadian dollar hits 11-day high as investors raise BoC rate hike bets  The Globe and MailPosthaste: Canadian dollar gets a boost back above 70 cents U.S. from Bank of Canada, but can the momentum last?  Financial Post",
+    "published date": "Wed, 25 Nov 2026 18:47:09 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWmxfdEdoX1kwcXdlQklJeXhCRTVFTFVkd0lJcUdZcGFNLWU4b1lTRld3Q3h2a1gwTU1TNXhNU2E4TC1ibm5ZdG5IdmpRRmZQenpGVEFnUnY0SFdwaXI3QmdBNkQ3a2FpTkdTVE1QTlBRcHdXeDZuQVJUaEZEM3FfUXpYWnBTSVRtMndvazNaVjhULWlDcDJFc2poUm5yRnJjbU1BR3NnSFhlTkpiUC1xbHVvaUZlVS1pRDZkR0RQNy1wNjB4VTNiaFhWc2VJNEM4QVM3Rw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.theglobeandmail.com",
-      "title": "The Globe and Mail"
-    }
-  },
-  {
-    "title": "More Canadians are using cannabis daily than are drinking alcohol daily: study - CBC",
-    "description": "More Canadians are using cannabis daily than are drinking alcohol daily: study  CBCIncrease in daily cannabis use drives growth for Manitoba distributor  CTV NewsChris Selley: Even with less drinking, governments find new ways to profit from our ruin  National PostIn the news today: cannabis over alcohol, wrongful conviction body, strike vote  The Spec'Generational shift': Study says daily drinking has flipped to daily cannabis use  Sudbury News",
-    "published date": "Mon, 23 Nov 2026 09:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ2pYYkRYeWJFYUlOeDhjUUNldGxfUkh0dV9yMVExZXRoUmJSS2ROUkVxTjhlUG1lV1c1NjNpRzJqT0s4UmhmWk5OaGc4WXdQMHJGOFFfUGt4VEQ0Mi1GVFA1b0hPT2ZzYmVrWEpMQk04NWliLWlXeTRZVDQzeDNyVEpXVTRNczFQdjlxNXBB?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cbc.ca",
-      "title": "CBC"
-    }
-  },
-  {
-    "title": "London homeless population, death toll rises, new report finds - London Free Press",
-    "description": "London homeless population, death toll rises, new report finds  London Free PressHomelessness continues to rise in London despite progress in supportive housing, report finds  CBCCouncil endorsed homelessness strategy restructures to focus on implementation as crisis worsens in London  CTV News",
-    "published date": "Thu, 26 Nov 2026 13:45:39 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdklQU2V3TThaUGFmMHdZTnRMT0xuWXpJQVVzSFV1NlVLMFN0TE9qQW5iaXN4Z3hKVjU4d2JDd0FiTHpnc1liSnBwdWlxSWlCcGhaakJ6N0pGRUdpOTcwTlpoUld0S1U2Q19NODJzUjM5NWZVRFlsRXVxTHFSOTE3YXpCTTkzc0VSRHU0a3hZSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://lfpress.com",
-      "title": "London Free Press"
-    }
-  },
-  {
-    "title": "TSX climbs on energy, miners boost; tech rebounds after selloff - The Globe and Mail",
-    "description": "TSX climbs on energy, miners boost; tech rebounds after selloff  The Globe and MailS&P/TSX composite up more than 200 points as price of oil moves higher  CityNews VancouverTSX gains over 200 points despite early losses, U.S. markets post mixed results  Yahoo! Finance CanadaCommodities Lift TSX  The Globe and MailTSX futures flat as copper, silver rebound offset oil slip  Kitco",
-    "published date": "Thu, 26 Nov 2026 10:04:46 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQd0xRX3l3U3psdGJsVUdZNGpjMFBrZldHTE5hblkxd3JVTXliUkpJVGJaYW9KZkhXOUNtVmdwNFJ5MzlCR1J6MUZnYTJKMFJhWnVQZ0tjWXFNaXZsWk9ETjZuMnlFeVdfRFNoU005T00xWXU3UXBEc0hzNkltZ19kMkhIVnlOT3p6Wm9hV19HUVltdEFla2ZqNTdtWmZ1T053OU5sOTVYVm01REpmYnBmSWVJWHNESWh3SjdDdzh0dllMX1BScmRNWGZYN0FSNDBpN1RsaGhHbE0tSUF1R3Q1bEZIWE1PRy1SVEFlWA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theglobeandmail.com",
-      "title": "The Globe and Mail"
-    }
-  },
-  {
-    "title": "Oil Prices Rebound as Middle East Supply Fears Return - Crude Oil Prices Today | OilPrice.com",
-    "description": "Oil Prices Rebound as Middle East Supply Fears Return  Crude Oil Prices Today | OilPrice.comHuge plume of black smoke seen from space after Houthis claim strike on Saudi’s biggest oil refinery  CNNDiesel’s Slump Offers Brief Respite From Global Energy Turmoil  Yahoo! Finance CanadaOil Extends Gains as Middle East Tensions Fuel Market Jitters  Bloomberg.comCrude Oil, DJIA Outlook: Oil Risks Rebound, Dow Holds Gains  FOREX.com",
-    "published date": "Thu, 26 Nov 2026 12:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdXhQWm1iclNBSEpwX1lUZW0xUEd3bkxwdXROQlFhNElIeUVmU2FtWUZ2T0QwRVVxV3dhR0NxQjFneTZ0WnJzQkxwWDR0NzkzUi1Ccl9FYTMzY3liWDJZUGFSRlJYcEdVUzZaWVhNMmt5N0JqRlFqbk5TZjlGcnFJcE4zTWo4N01kMVlGcU9Ia2hZZm1zaDZyT2NIOGY1MlgyM2ZF0gGoAUFVX3lxTE9VejBUQXZxWFN6LWcxQng1bHhkeVM2cy04QnV0Z1dBR29LWEF4Z0FQbURFbUtrcm5IWHdRTnd4QTNYT3ZUZTV1b1dsSmw4dXVzZ1FfWU0tdTMyY041THAzOTB4NVIzUVUyOVAtVUZ4ZUZaemFnT3UzRVNja3MwYVpkeHZJanMtdFNjMkRHQ2MtU0pRdFc1eDFONjdrMXZLMm1uWFg1MFhoaA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://oilprice.com",
-      "title": "Crude Oil Prices Today | OilPrice.com"
-    }
-  },
-  {
-    "title": "U.S. approves SpaceX plan to deploy 1 million satellites for data centres in space - CBC",
-    "description": "U.S. approves SpaceX plan to deploy 1 million satellites for data centres in space  CBCUS authorizes SpaceX to deploy 1 million satellites for AI data centers in space  CNNSpaceX wins FCC approval to deploy 1 million orbital data center satellites  CNBCSpaceX wins approval to launch one million AI data centre satellites  Yahoo! Finance CanadaUS approves SpaceX plan to send a million data satellites to space  BBC",
-    "published date": "Thu, 26 Nov 2026 15:31:59 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbTYzTVR6aHp2d2VZN3FIYmUzQmdNelFuN1NhemhSRVp4dXBnQlpNbUhtb3d5NzB2TVRlTmM3bEhpaWlBNW53T3BTU0JOM2RFT05IdUEwNjFZUXZhT1RoWjdhbnlVV1RlSC1zMTZpRFlSSFdTMlZUS0M1MXlsOVQ2eEpxU2wwQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cbc.ca",
-      "title": "CBC"
-    }
-  },
-  {
-    "title": "Health Canada seizes peptides from Toronto shop, warns of health risks of unregulated market - CBC",
-    "description": "Health Canada seizes peptides from Toronto shop, warns of health risks of unregulated market  CBCN.B. company sold 'unauthorized human and veterinary drugs': Feds  Telegraph-JournalHealth Canada seizes unauthorized injectables from Toronto store called Not Peptides  TorontoToday.caPublic Advisory - Unauthorized drugs, including prescription drugs and injectable peptides, seized from Canada Biogenix as they may pose serious health risks  PR Newswire CanadaHealth Canada seizes unauthorized peptides from New Brunswick company  CP24",
-    "published date": "Tue, 24 Nov 2026 20:32:30 GMT",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVjhMUXpjaUp4OWRSMGZVM0RKLXpYLUFyM0tseFZEZnFrU3o2THJ2SDZJVGRFcWxSUU1QYWJoeGdTWVVVYko2R0RXQTh3UGtGOU1QYjRIMmlmYXdXQUhrbTU2c2FlbmdteWNVNEFBczVfNU9NTE9lX3EyNGd1bWZ4UGFLaXQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cbc.ca",
-      "title": "CBC"
+      "href": "https://www.bnnbloomberg.ca",
+      "title": "BNN Bloomberg"
     }
   },
   {
@@ -350,53 +460,73 @@
     }
   },
   {
-    "title": "Buhler Industries acquires two firms - Winnipeg Free Press",
-    "description": "Buhler Industries acquires two firms  Winnipeg Free PressBuhler parent company acquires Goldoni, ATLAS Group  The Western Producer",
-    "published date": "Thu, 26 Nov 2026 07:01:15 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdnpfN0FnTHBaSmtyUUFsbFI1ZHp1ZDRWeGdXUGFtZDd0RjI3dEtlZDh1NXA4S0pCTmpmb0xHaEdadnhDdUN5NkVMaE9HYVlieVl5M2pIUkNtYlpJeTZBVHdQdkVTNEI2czU3MGt3M0ppam9uSzFIRmdyMmxzMkpIUjQ4T0hlczdiYUVtWm1USll3NU5Y?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Let me tell you about my immense grief. Why private pain is going public - National Post",
+    "description": "Let me tell you about my immense grief. Why private pain is going public  National PostWindsor taxi driver charged with sexual assault  Windsor StarStock market flaws and why they matter to long-term investors  Financial PostA Defensive Investing Playbook for Today’s Volatile Market  Barron's15 Things to Know About This Sell-Off  Carson Group",
+    "published date": "Thu, 26 Nov 2026 17:58:50 GMT",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3X1hmYXotUG15dEZ3cUZucTNva09zWjBIMUlzeFdnVjlRS3M1TWJncVJaZ0hlT3ZDSnVxZjhWdHVENmhSejR2LWZZX0N3b1ZvUGlZVFE4TDFiMXl2aFBiWlBicEgtTDlnUElVTFJIOGo?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.winnipegfreepress.com",
-      "title": "Winnipeg Free Press"
+      "href": "https://nationalpost.com",
+      "title": "National Post"
     }
   },
   {
-    "title": "Are you ready to resume travelling to the U.S.? - Castanet",
-    "description": "Are you ready to resume travelling to the U.S.?  CastanetSee more headlines & perspectives on Google News",
-    "published date": "Thu, 26 Nov 2026 03:30:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN2hjZ1FoazlSdFBmRW5vUVJNMmJXdXFlVjZqUHRSNnZzQ1pZWjFkTjNaaDE5UEk2Yl9IanpkMUppbV9HX2VVN09TLWV3dFlLOUJGNzRTZmxuOGZpbFU5MkN6X2hJNGhZaHpHZlBhUzhXaWdvSGNpSUpTY0VCU0FKMlJieXl6VkFlZ0pjYlBzNXAxUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "New northern B.C. berth opens, but 11-year-old exclusivity deal stops it from progressing - The Globe and Mail",
+    "description": "New northern B.C. berth opens, but 11-year-old exclusivity deal stops it from progressing  The Globe and MailTrigon's Keystone Second Berth Can Unlock Billions in Exports  PR Newswire CanadaCoal exporter completes construction of second berth at Prince Rupert port  Nanaimo News Bulletin",
+    "published date": "Wed, 25 Nov 2026 11:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOXy04OUFfa3M3TW1vbDdOTlJYUHNIX192YmF3TjZVclVRUlVvUUFJckkzWUVKYUJBcUl3ZXNJMFNZUTJtZm5BRHhGbTB5elJvNDVyVkRrM3cwbEtsLS1yLUo2dFM0VUdUUXp1TVVoRkoxVEU1RlplNEJzS3hKOVdWRXBCdjRfOWlrczJuZGJVcEVGQ253Y3BnRjRoUVlBOVdKRDUtWjVtOFYxeFdXZmVVU2FhdkdXV193cDJpcg?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.castanet.net",
-      "title": "Castanet"
+      "href": "https://www.theglobeandmail.com",
+      "title": "The Globe and Mail"
     }
   },
   {
-    "title": "Ottawa imposing import limits, tariffs on some canned vegetables - Yahoo! Finance Canada",
-    "description": "Ottawa imposing import limits, tariffs on some canned vegetables  Yahoo! Finance CanadaSee more headlines & perspectives on Google News",
-    "published date": "Wed, 25 Nov 2026 20:08:58 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWmtUMXdJWXE0STg1N0JkazdkeWVZYmxsTS1wZWV2dkp1emM4eWdoZFpEWnlmdVpYVWt3NEFrNE1ENGN3dU9XS3lsdU5BREs3Q2NhX1g0d042amM1UmNGZjl6MjRsRXRnd2I2dHRVcS1iZnBkcGp4WXJPWUZFNEFhRy1ySFo2dUxJa3pEWDJBVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Resource shares help lift TSX to eight-day high - The Globe and Mail",
+    "description": "Resource shares help lift TSX to eight-day high  The Globe and MailS&P/TSX composite up more than 200 points as price of oil moves higher  CityNews VancouverTSX gains over 200 points despite early losses, U.S. markets post mixed results  Yahoo! Finance CanadaS&P/TSX composite rises more than 200 points, U.S. markets closed for Thanksgiving  CTV NewsTSX futures flat as copper, silver rebound offset oil slip  Kitco",
+    "published date": "Thu, 26 Nov 2026 10:04:46 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQd0xRX3l3U3psdGJsVUdZNGpjMFBrZldHTE5hblkxd3JVTXliUkpJVGJaYW9KZkhXOUNtVmdwNFJ5MzlCR1J6MUZnYTJKMFJhWnVQZ0tjWXFNaXZsWk9ETjZuMnlFeVdfRFNoU005T00xWXU3UXBEc0hzNkltZ19kMkhIVnlOT3p6Wm9hV19HUVltdEFla2ZqNTdtWmZ1T053OU5sOTVYVm01REpmYnBmSWVJWHNESWh3SjdDdzh0dllMX1BScmRNWGZYN0FSNDBpN1RsaGhHbE0tSUF1R3Q1bEZIWE1PRy1SVEFlWA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://ca.finance.yahoo.com",
-      "title": "Yahoo! Finance Canada"
+      "href": "https://www.theglobeandmail.com",
+      "title": "The Globe and Mail"
     }
   },
   {
-    "title": "Plane overruns runway prompting hours-long flight delays at major U.S. airport - CTV News",
-    "description": "Plane overruns runway prompting hours-long flight delays at major U.S. airport  CTV NewsFedEx airplane overruns runway at Miami airport, temporarily closing all but 1 runway  CBCFlights at Miami Airport Are Disrupted After FedEx Jet Overshoots Runway  The New York TimesFedEx cargo plane runs off Miami International Airport runway, causing ground stop during Thanksgiving travel  CBS NewsFedEx plane overruns Miami runway, snarling Thanksgiving travel  The Hill",
-    "published date": "Thu, 26 Nov 2026 10:53:46 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVWdyRnplZ3psMjBFUVNhaEI0V2ZlYUVpTHh6djh3OXhLN0kwRDl0RzdyaE9nREdNNFVUbEpJQkRBU2hzallDWENJLXVIUkZTOHBvZlIwcWtWWUJSOXVUSHRaQlZGdkt1MkRXeFh0SjN3RXJldElNMk9wa2tHQzJ6VGNHTGFQbzU3d2xiSTFiekZSbk9zMFFQNnp3cE1XQ2RMMnpPYV94OFhKZ0RILVYxU2JndEU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "The 52 Best Black Friday Deals: From 5,112 Products Bought And Tested - RTINGS.com",
+    "description": "The 52 Best Black Friday Deals: From 5,112 Products Bought And Tested  RTINGS.comTreat yourself this Thanksgiving to the 146 best Black Friday deals, per our experts  CNNI’m a Picky Shopping Editor on My 15th Black Friday — This Is What I Recommend Buying Today  People.comBlack Friday deals are live: Apple, Dyson, Ugg, Ring, Hoka and more of the biggest sales of 2026  YahooThe Top Black Friday and Cyber Monday 2026 Style Deals On Now  FASHION Magazine",
+    "published date": "Fri, 27 Nov 2026 00:57:14 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WUmh0bDJ3ZlJJNW9xRzJLS2tNb3gyX1pEX0RWcXhvWDJQTGtvR0pTSWRFRmViM1VxOWdvLXNGMXVHdVliYTUwdEpYOTFEeDlQX3VzWkE1RTh5bjlKWndr?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.ctvnews.ca",
-      "title": "CTV News"
+      "href": "https://www.rtings.com",
+      "title": "RTINGS.com"
     }
   },
   {
-    "title": "Norse Atlantic suspends all operations as it runs out of cash - AeroTime",
-    "description": "Norse Atlantic suspends all operations as it runs out of cash  AeroTimeNorse Atlantic suspends all flights as it faces potential collapse  BBCAirline Norse Atlantic flags bankruptcy risk as flights suspended  Yahoo! Finance CanadaNorse Woes Force Pakistan Airlines to Cancel UK Services  Bloomberg.comPakistan's PIA to shift UK flights to own fleet after Norse Atlantic suspension  Reuters",
-    "published date": "Thu, 26 Nov 2026 08:26:15 GMT",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaUJ3QUw2ei1TRDVIRFJBX1NmUU81VjhxdV9GaVZZVElncm5tTUljOHdnQ2FRbTkzMjV1eFg3dFdHa1Vma2JoV25KZFRPLWg2YUNJUjRCNmF0cWF2c3JUZm1yTlNBU0kwOExhN2pWUVc2MU4zd3hpRzBSX0p4UDh0bUE5T3ZDUlNFTU9KVWlfak14ZVdnR0NGekFnMHHSAaIBQVVfeXFMTTNxQWFZUlNIMDJTMnJ6RGRjMVJCS3hvbi1oMVFLbXE2bTNvV05oeWpyem1WeGZZX2txRmFRR2EtZV92ZHQ4MnF6NDh0UWREZVV5dFkwbDF5bnJwSVNLcG9kZDhBZWdERF9neWFSTzlOeVU1NTdJTE42aDR0aXZDajhxQ2EzUDZmWVpWNzVLbDRuZWlTbjNGTHR2elpYQVJYcDdR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Almost a third of Mark Carney’s ‘Buy Canadian’ spending went to foreign-controlled companies, Star analysis finds - Toronto Star",
+    "description": "Almost a third of Mark Carney’s ‘Buy Canadian’ spending went to foreign-controlled companies, Star analysis finds  Toronto StarSee more headlines & perspectives on Google News",
+    "published date": "Thu, 26 Nov 2026 10:29:47 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQcVA5Rm1lUGRULWJJT2VncUNJOXZhNGpMMVZlcVpveVhqN3JvendvdjZmWVB5QVgwVGpVNXpkd01ZNW9wNnhkZ0gtNHJLTW1TYmxzLUdGdzFlWHRMQzVQd2Zab21vODB6N0hrRUZfcUZlSzJrXzNIcVRMVThfV3kyUlBZQ212TU50UHI0b05aanZ2M1J1NlhlWTNyVE1qT2ZqSzRhSWl3d0N6THlXYnNwMl9YcEVsWXFhZGpJRUJqMVNxLU1ESjNBOVI2U1ZGVHl4ck5RNkZFOE1FZ0VzQ0VDdHhleV83MkFYMTZhUVVwX2NYXzNHenU2eTFpTDBId2pPWGtKSGtMNU9hTU5Fdi1Z?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.aerotime.aero",
-      "title": "AeroTime"
+      "href": "https://www.thestar.com",
+      "title": "Toronto Star"
+    }
+  },
+  {
+    "title": "London homeless population, death toll rises, new report finds - London Free Press",
+    "description": "London homeless population, death toll rises, new report finds  London Free PressHomelessness continues to rise in London despite progress in supportive housing, report finds  CBCCouncil endorsed homelessness strategy restructures to focus on implementation as crisis worsens in London  CTV News",
+    "published date": "Thu, 26 Nov 2026 13:45:39 GMT",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdklQU2V3TThaUGFmMHdZTnRMT0xuWXpJQVVzSFV1NlVLMFN0TE9qQW5iaXN4Z3hKVjU4d2JDd0FiTHpnc1liSnBwdWlxSWlCcGhaakJ6N0pGRUdpOTcwTlpoUld0S1U2Q19NODJzUjM5NWZVRFlsRXVxTHFSOTE3YXpCTTkzc0VSRHU0a3hZSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://lfpress.com",
+      "title": "London Free Press"
+    }
+  },
+  {
+    "title": "Irvings, McCains take prominent spots in richest Canadians list - Telegraph-Journal",
+    "description": "Irvings, McCains take prominent spots in richest Canadians list  Telegraph-JournalCanada’s Richest People of 2026  Macleans.caCanada's Richest People 2026  Investigative Journalism Foundation",
+    "published date": "Thu, 26 Nov 2026 11:00:29 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQclptWTFtbTROeEJyRDdhNG02b2c4ZjBoY3p2Zkk2UTIxWl9ieVN4WWJ2ZTl5cUNydEhYTjlMU0ZXckxfVHVKSW5HeU5LOVBoY2dCc3Rfd1NGQ3NoWmR1VnRkWVNMR05qWWE0MzZSejlOSmRWZjFOekpFTlNFcnJvRFhCR0VLaWJYNVVWM3ZISUkwdHdfUG1N?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://tj.news",
+      "title": "Telegraph-Journal"
     }
   },
   {
@@ -410,63 +540,23 @@
     }
   },
   {
-    "title": "Greenfire Resources Announces Management Change - BOE Report",
-    "description": "Greenfire Resources Announces Management Change  BOE ReportGreenfire Resources VP Finance Travis Belak Resigns Ahead of Strathcona Acquisition  kalkine.ca",
-    "published date": "Thu, 26 Nov 2026 02:13:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMkdHVjVaS2VpVWZOTDBWeDVTWGtJbEc4akw3NHhId1RBelZ1b005aXFDWEVhcVFXTHJDdnh2Zl93MDE2MWdNRlI2LWFYVkhUT3QxYV9uQXA1WmcxTm12ZENrM0hLVjBuYjRuY296Y2g2aDcySTF2cXBiOWxocXFnVndNVlNwYWFf0gGOAUFVX3lxTE1zTWE3QmRvR2g5NXpfazR3Z0ZORURaZFFtQVZzR1Z6ME9nQnM4Sm5femp6cWZZZmM4d21SLUJEbXVlbXl0SXI1X2hYc0d1Qy1GQklDdUllS3FWNzdmbXcteFhSeFpiOXZwaG1LTDVvcmNWRmZCbFNobF9uMWp0UFJHdm9yLWYxdDV1dF9uZ0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "‘Why have they not been doing this all along?’ Expert on Microsoft’s Code Red - Global News",
+    "description": "‘Why have they not been doing this all along?’ Expert on Microsoft’s Code Red  Global NewsMicrosoft’s historic cloud outage exposed an engineering “fog of war”  Ars TechnicaMicrosoft declares “Code Red” after huge Outlook outage  The VergeMicrosoft declares a code red in the middle of a 'Patchpocalypse'  Yahoo FinanceMicrosoft declares 'Code Red' after historic service outage  Fox News",
+    "published date": "Thu, 26 Nov 2026 22:12:03 GMT",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9PbjhiaFVOWkZ1Vmw5Mi1Ob0FlcDh4amNaX1dfUDVhTXMtTWpFT2RrcE1LRElSSHc2akJubnZLcWZwdGkyenVZLS1aWWI1RVRyRHFxSEJybkVyWUY0OGhGczdCekdlZjBPODYteDR3cW5CWC1nQkEycFhGSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://boereport.com",
-      "title": "BOE Report"
+      "href": "https://globalnews.ca",
+      "title": "Global News"
     }
   },
   {
-    "title": "Wall Street recovers most early losses as pullback in AI stocks eases - CBC",
-    "description": "Wall Street recovers most early losses as pullback in AI stocks eases  CBCUS stocks fall further as fears over AI intensify  BBCDow closes higher Wednesday, wiping out 1,100-point loss in stunning rebound: Live updates  CNBCDow Reclaims 50,000 as Inflation and GDP Data Land Before Thanksgiving  PR Newswire CanadaNvidia, AMD, and Micron stocks trim steep losses amid jittery AI trade  Yahoo Finance",
-    "published date": "Wed, 25 Nov 2026 21:59:39 GMT",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkWDJHcDdRNnVDbzc3bVRDU0dGbHFiYmY2dXhnMTZkXzhtOEdLOTdkdDhvWDd3OVRBa3VwUVhaU2IwWXpkS1VTS2RPbjZPcEJFa3hiZ05ucDRjMFRXZ1RNS3ZMSkhjVjVhcW5nNklvUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "FedEx airplane overruns runway at Miami airport, temporarily closing all but 1 runway - CBC",
+    "description": "FedEx airplane overruns runway at Miami airport, temporarily closing all but 1 runway  CBCSee more headlines & perspectives on Google News",
+    "published date": "Thu, 26 Nov 2026 09:54:20 GMT",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ObDduXzNiY1REWXA3b2NKWjh1RXpXU1k4TmNNcTZLVmtFNF91bEpEejd0MXlacVVpUWVRRlhFY1lodEZmVnU3ZnpBbTk3VmllVHA0Y0FOSDA2WlJsSnQyX2JCemh3TlZHRFpoWDlZSWRZWThPMkhKWVVOZ1A?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.cbc.ca",
       "title": "CBC"
-    }
-  },
-  {
-    "title": "Enbridge Eyes $1 Billion Pipeline Deal With Indigenous Communities - Crude Oil Prices Today | OilPrice.com",
-    "description": "Enbridge Eyes $1 Billion Pipeline Deal With Indigenous Communities  Crude Oil Prices Today | OilPrice.comEnbridge in talks to sell $1.5-billion pipeline stake to coalition of Indigenous communities  The Globe and MailCanada’s Enbridge weighs $1.5 billion sale of Line 3 stake to Indigenous groups, The Globe and Mail reports  BOE Report",
-    "published date": "Thu, 26 Nov 2026 06:45:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWWw0aHMyT0FKTGg5SUFVNnNUOGg2eDdCbF9Ldkt5ZFNJY2NfS1FiZGt0QVZmeVhpejF4ZkVSNjhHUENtWGxTeXdKeFZPMzUxU2hlRUloaWtNMUh2cWs2X2RxZEZoQzUxRWZWa05QSDhncWZqZlpJMUdYc1RSWjRPbnpfSXUxSHJtNHVNYXpCTXo3RTdlcDRLS210ME5fM0ZwS00xNU83bUxMdkx5N1BSaENnVFMzd2F6R0gxSW5B0gHDAUFVX3lxTE1tRkxibjZ6VWdIUlBKUDVNcEIxSURGQ1gxaTM5NE5NcDBVRG9Hc2RicXlENUQ3N3VjRGRRbzA0MlZobjVqUlVJRWdPaUh0SDZtM2RUeG9zb3BwOWROVDU4TXFvRkFCTU1uYlRLNTZYSF9wWXd3SE93eWZzOXVPRXhUWndValY2UTBZLThuNzBTcnpXaUc2VTRJUzhjRWlmR1pDel9mal9KNmN2ejlVUDd5UlFlbVk4TXZEbTlXbkFvaGxNZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://oilprice.com",
-      "title": "Crude Oil Prices Today | OilPrice.com"
-    }
-  },
-  {
-    "title": "Global stocks rise and tech shares rebound as U.S. closes for Thanksgiving - BNN Bloomberg",
-    "description": "Global stocks rise and tech shares rebound as U.S. closes for Thanksgiving  BNN BloombergGlobal stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'  CNBCStocks, Nasdaq Futures Climb as AI Trade Rebounds: Markets Wrap  Bloomberg.comWorld shares push higher, while markets in U.S. will be closed for Thanksgiving  BNN BloombergStocks rally, Europe sizes up next ECB chief  Reuters",
-    "published date": "Thu, 26 Nov 2026 13:47:54 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbU9BRlBSOWpYakItQW9OOExUSE1PN2xZQkFlNmpuNTF6bTczV094NTIzTm95QjlUbmZBdEx6Q0FOMkJvdzY3MmxDMkRubkhyMzNCcTFaa2NtVmdYQUlJWUVYbk9sY3FZRzk0Smlpa1RLRHI0YjAxQmlqZzRyRC1UbFoxWWx2NzIyVWQwOGZSTVJfaUNvNUphbWRvb0J1dVpCbGkxLWJPRTlLeXhxMjhpY2ZPeFh5ZVhnVDFVeQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.bnnbloomberg.ca",
-      "title": "BNN Bloomberg"
-    }
-  },
-  {
-    "title": "Almost a third of Mark Carney’s ‘Buy Canadian’ spending went to foreign-controlled companies, Star analysis finds - Toronto Star",
-    "description": "Almost a third of Mark Carney’s ‘Buy Canadian’ spending went to foreign-controlled companies, Star analysis finds  Toronto StarSee more headlines & perspectives on Google News",
-    "published date": "Wed, 25 Nov 2026 10:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQcVA5Rm1lUGRULWJJT2VncUNJOXZhNGpMMVZlcVpveVhqN3JvendvdjZmWVB5QVgwVGpVNXpkd01ZNW9wNnhkZ0gtNHJLTW1TYmxzLUdGdzFlWHRMQzVQd2Zab21vODB6N0hrRUZfcUZlSzJrXzNIcVRMVThfV3kyUlBZQ212TU50UHI0b05aanZ2M1J1NlhlWTNyVE1qT2ZqSzRhSWl3d0N6THlXYnNwMl9YcEVsWXFhZGpJRUJqMVNxLU1ESjNBOVI2U1ZGVHl4ck5RNkZFOE1FZ0VzQ0VDdHhleV83MkFYMTZhUVVwX2NYXzNHenU2eTFpTDBId2pPWGtKSGtMNU9hTU5Fdi1Z?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.thestar.com",
-      "title": "Toronto Star"
-    }
-  },
-  {
-    "title": "FX news: Loonie jumps as Macklem stays hawkish - BNN Bloomberg",
-    "description": "FX news: Loonie jumps as Macklem stays hawkish  BNN BloombergCanadian dollar edges lower as investors await key GDP data  The Globe and MailCanadian dollar hits 11-day high as investors raise BoC rate hike bets  ReutersPosthaste: Canadian dollar gets a boost back above 70 cents U.S. from Bank of Canada, but can the momentum last?  Financial PostCanadian dollar hits 2-week high as AI stock selloff deepens  Kitco",
-    "published date": "Wed, 25 Nov 2026 18:47:09 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWmxfdEdoX1kwcXdlQklJeXhCRTVFTFVkd0lJcUdZcGFNLWU4b1lTRld3Q3h2a1gwTU1TNXhNU2E4TC1ibm5ZdG5IdmpRRmZQenpGVEFnUnY0SFdwaXI3QmdBNkQ3a2FpTkdTVE1QTlBRcHdXeDZuQVJUaEZEM3FfUXpYWnBTSVRtMndvazNaVjhULWlDcDJFc2poUm5yRnJjbU1BR3NnSFhlTkpiUC1xbHVvaUZlVS1pRDZkR0RQNy1wNjB4VTNiaFhWc2VJNEM4QVM3Rw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.bnnbloomberg.ca",
-      "title": "BNN Bloomberg"
     }
   },
   {
@@ -480,13 +570,13 @@
     }
   },
   {
-    "title": "Why an Ontario couple wants to return their EV and switch back to a gas-powered car - CP24",
-    "description": "Why an Ontario couple wants to return their EV and switch back to a gas-powered car  CP24",
-    "published date": "Thu, 26 Nov 2026 11:12:13 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTVJIWlJBc1ZZT29TM0RBWHE4eGZoZmRBd29ZZmpNMC1NU2NoYllUN3l2Vm53SDBnakotSUFMX1JUS1lucjI1U3pCQnJfSExfcEpURFBQM0thNkc5Zi1Rd1lZTW9JcDNQVDh1UVVLUHVPZTlnbU9Ua0dVbWJyQkx1X05hRHlxb3RDTjZVY2dPS04weHRzb2pjclllSHZLY1RzNlRUb2dNZkNhcDhMS3JxeTUxRFpzLUI2Z2g4Y1ctUWt3X2lNVDFGYg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Wall Street recovers most early losses as pullback in AI stocks eases - Yahoo! Finance Canada",
+    "description": "Wall Street recovers most early losses as pullback in AI stocks eases  Yahoo! Finance CanadaSee more headlines & perspectives on Google News",
+    "published date": "Wed, 25 Nov 2026 23:06:09 GMT",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNUlGVXh5bjZ0RVc3YVZfejdULUZ3YkE4S0NtQmhTZGQyT0xhRi1xQTBzR1g0NDlkcXFKdURLcjlWalVuUTR4UXdPVElEYXFmR3NfNl9nRVBGcEJIN3l1ck9fcmtoNnlKSnJSZGxPWlB5enJlbWRGZTNNb05qS0ZtRDVNSUVFQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.cp24.com",
-      "title": "CP24"
+      "href": "https://ca.finance.yahoo.com",
+      "title": "Yahoo! Finance Canada"
     }
   },
   {
@@ -500,83 +590,53 @@
     }
   },
   {
-    "title": "Should Kevin, a B.C. retiree with a $2.3-million portfolio, defer CPP and OAS to 70? - Financial Post",
-    "description": "Should Kevin, a B.C. retiree with a $2.3-million portfolio, defer CPP and OAS to 70?  Financial PostWindsor taxi driver charged with sexual assault  Windsor StarStock market flaws and why they matter to long-term investors  Financial PostJohn Ivison: Ottawa must heed the call for mandatory minimums for home invaders  National PostA Defensive Investing Playbook for Today’s Volatile Market  Barron's",
-    "published date": "Thu, 26 Nov 2026 15:09:49 GMT",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWnYtZWRZeEJiVEg0TFljdjREb21YQlhjc29qRjBaazRHT1MtVjFCSmRJNlh5WjczamZ0bEgtSmhyY3pMSEpNbWg0b2tEX3Y1RDlzYldsYW5WbXRPQnBBZkdPaG1aVndWdHY3SzdiWWJkd0l3RmlwM004ZEl3UF84TTY0QTJESk9pb2tPWnJReEstNWkyN002RmRoNC1ValJL?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Buhler Industries acquires two firms - Winnipeg Free Press",
+    "description": "Buhler Industries acquires two firms  Winnipeg Free PressBuhler parent company acquires Goldoni, ATLAS Group  The Western Producer",
+    "published date": "Thu, 26 Nov 2026 07:01:15 GMT",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdnpfN0FnTHBaSmtyUUFsbFI1ZHp1ZDRWeGdXUGFtZDd0RjI3dEtlZDh1NXA4S0pCTmpmb0xHaEdadnhDdUN5NkVMaE9HYVlieVl5M2pIUkNtYlpJeTZBVHdQdkVTNEI2czU3MGt3M0ppam9uSzFIRmdyMmxzMkpIUjQ4T0hlczdiYUVtWm1USll3NU5Y?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.winnipegfreepress.com",
+      "title": "Winnipeg Free Press"
+    }
+  },
+  {
+    "title": "Greenfire Resources Announces Management Change - BOE Report",
+    "description": "Greenfire Resources Announces Management Change  BOE ReportGreenfire Resources VP Finance Travis Belak Resigns Ahead of Strathcona Acquisition  kalkine.ca",
+    "published date": "Thu, 26 Nov 2026 02:13:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMkdHVjVaS2VpVWZOTDBWeDVTWGtJbEc4akw3NHhId1RBelZ1b005aXFDWEVhcVFXTHJDdnh2Zl93MDE2MWdNRlI2LWFYVkhUT3QxYV9uQXA1WmcxTm12ZENrM0hLVjBuYjRuY296Y2g2aDcySTF2cXBiOWxocXFnVndNVlNwYWFf0gGOAUFVX3lxTE1zTWE3QmRvR2g5NXpfazR3Z0ZORURaZFFtQVZzR1Z6ME9nQnM4Sm5femp6cWZZZmM4d21SLUJEbXVlbXl0SXI1X2hYc0d1Qy1GQklDdUllS3FWNzdmbXcteFhSeFpiOXZwaG1LTDVvcmNWRmZCbFNobF9uMWp0UFJHdm9yLWYxdDV1dF9uZ0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://boereport.com",
+      "title": "BOE Report"
+    }
+  },
+  {
+    "title": "Border services found drugs in a bag with her name on it. Instead of arresting her, she says they told her to protect herself - CP24",
+    "description": "Border services found drugs in a bag with her name on it. Instead of arresting her, she says they told her to protect herself  CP24See more headlines & perspectives on Google News",
+    "published date": "Thu, 26 Nov 2026 10:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWnpzdzkyY0tMeTBxRkI5SXl2Vm0ta0lNUk5ISENNZ2VuTXRYX3hzWXVjZTZuNkFKeVVXa3RtaGNxUkxZM18yd09DZVl6RVZSaXR3LVJQTEstc0ltX0xReUx2VW5IdEFaVmJqUDQ5Sk9RZzRHdFZtZzRVWndYYWZqSkJsRFdNWC1ld2Y0bjdzalVpelA1SG5BejdfMUM5RGhvTW5vUk1rVm91VjJYcy1WNXZiMGg4Y2lvR185M01kUXpTQ0ZuanltQXVQVm9ueXNHZEtVYU04TkRCRjJDTXpIYk9mSlVYTFhTS3FIMk5XUnY0QUlLY0dUbkVYNEs?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.cp24.com",
+      "title": "CP24"
+    }
+  },
+  {
+    "title": "The era of your home as a piggy bank is ending - Financial Post",
+    "description": "The era of your home as a piggy bank is ending  Financial PostSee more headlines & perspectives on Google News",
+    "published date": "Thu, 26 Nov 2026 20:34:21 GMT",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQa1hraV96WW1YMmZWWm1ZSlNvUlBmVDA1Ri1KUEpoNng1RHEtZ0lwdzdueU8tZjFZTnVrUVAtVTR2YWFVYkFVekFBRFNaOFc3OVNhRHRQNlU5Z3hSNThDbTQ0T0ZVNDdLOWVmY1MwdXFtUEJLMUJudVB6NVlXU0huZndnMlRDazJOTlJ5b05zdm0?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://financialpost.com",
       "title": "Financial Post"
     }
   },
   {
-    "title": "Lululemon founder stuns Canadian women’s leadership conference with sexist comments - The Guardian",
-    "description": "Lululemon founder stuns Canadian women’s leadership conference with sexist comments  The GuardianLululemon founder’s remarks about women’s reproductive choices spark outrage at Calgary event  The Globe and MailLululemon founder Chip Wilson under fire for importing wives from Thailand remarks  Yahoo News CanadaExpert calls Lululemon founder’s alleged comment racist  NOW Toronto",
-    "published date": "Wed, 25 Nov 2026 20:15:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVENlSmVhY2hkZWJZTV9zV1NYOEFrWEVlSVhDemlySkVmSnVQLXREWDRrcmJxcTBhQVp0ZENHM3Z1Smd3dnpoSjBYQ3I3M3R6blRVRHJucXVJTnpvNFhYLTdaaGYxa3hoVXRWUkcyRFJGUjZIeFRDS1dDQnBxRkJWczJEdjhSQWZ4dVE4MlppSGt6NDR6TmpCcC1jQ2VlLWJRaHdtWGlWaHo3V1RX?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theguardian.com",
-      "title": "The Guardian"
-    }
-  },
-  {
-    "title": "Alimentation Couche-Tard is evaluating its Canadian pricing, CEO says - BNN Bloomberg",
-    "description": "Alimentation Couche-Tard is evaluating its Canadian pricing, CEO says  BNN BloombergSee more headlines & perspectives on Google News",
-    "published date": "Wed, 25 Nov 2026 15:19:50 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRzhTMXI4VHFaTzE2ZDRQa3FMR1BoeHFRZW5yTXZrWkhQS0ttYmZ5THJYVF9qX2I4RHZXVE9qOVFfbXoxbWRzTTNnVlZubzI4cVBqS0swT19WN0VCTmRoczdJQ1ctR3o5bERNa2pyVnJqLTJaZ1FqTkw0aG5BOXp4RlV2LUQ3dGlQLUpnMzR6bEEzNFZzRUdSX1YtbllCX2xDYVozMFlzd2dCQm11bkRRR0ZKSE5odGNzY1NBR0t5Znp4Vl9ISVZBVFh4S1RFcTBZZDZv?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.bnnbloomberg.ca",
-      "title": "BNN Bloomberg"
-    }
-  },
-  {
-    "title": "North Vancouver’s Shipyards skating rink opens Friday - North Shore News",
-    "description": "North Vancouver’s Shipyards skating rink opens Friday  North Shore NewsFree outdoor ice skating returns to Surrey with expanded hours and lineup  Daily Hive",
-    "published date": "Thu, 26 Nov 2026 13:51:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVWdQUldlcXJqa1ZLWnJlaEduekpPM0JTX01Nd2k4RnpVQU0zaWxUNUE4REhlSFZxQmNPTVc0bTU5cWdvU01kejdSYVpwcGpielBfejEzRTdoTTZ6dWxqMGlobWxWRGE4eHhVcVBIRWZMZmdLdlcwREVYWWkxYzZnR1lFM3FETnBVaVY2QnJoM2JFVWhPVU5HMWp4SQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.nsnews.com",
-      "title": "North Shore News"
-    }
-  },
-  {
-    "title": "B.C. court rules against supplement makers in class action over false labelling - Castanet",
-    "description": "B.C. court rules against supplement makers in class action over false labelling  CastanetSee more headlines & perspectives on Google News",
-    "published date": "Thu, 26 Nov 2026 00:04:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUzRCc2p2bzFhRzc1RXZSSE5WSlRpeHQ1ZkdxWmd0bzBGc0ozRldmclFlbGYwZDB6OF9IWEFOd3lYcy13djFRcnptbXFvaHB3Vk03Rmlvbkl5b29BdmI5X19rYTJOYjd1NmNEdHd1VTZIRjJhVUhmcmxTMjBxNmJ4dEFpODZqeGtQYTdwUUQ0MFFKZGxVcS1kbjNfbjN0RkdwVVNyS1I1V19HUk5nM19RaGx3aU1fRXl2YXc5NkhkWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.castanet.net",
-      "title": "Castanet"
-    }
-  },
-  {
-    "title": "Musk pledges two SpaceX shares for every U.S. child in $18-billion AI charm offensive - The Globe and Mail",
-    "description": "Musk pledges two SpaceX shares for every U.S. child in $18-billion AI charm offensive  The Globe and MailElon Musk pledges to give two SpaceX shares to every child in the US  The GuardianMusk pledges two SpaceX shares for every US child  Al JazeeraSpaceX, Musk pledge to donate a share each to active Trump Accounts  CNBCSpaceX Stock Surges on AI Satellite Approval and Trump Accounts Plan  Yahoo Finance",
-    "published date": "Thu, 26 Nov 2026 12:37:09 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZHZMT3VuSXFiYjBaU09JUnF6SFdkOU5vSkgxNXd5eTdSVlRSYUxCMmxpczZhTFIzbmVNVUJ2aEdwTmhaZmYzeTRqSlEwVkxSYUFGZXFNZ2N6ZVFjNTlaNFB4ZWhRUkxRd3gyMEpYZDdMNVIzMXdGNjRqZUstLVp1djRUcHctRmdSaTdCV2stcWV4amllWXNUWmt6dk9McmJ0bjZ3TFNWWlNWTVVlSjBCWnR3OWw4NkdF?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Former MLSE board member sues company over relocation of Leafs, Raptors VIP seats - The Globe and Mail",
+    "description": "Former MLSE board member sues company over relocation of Leafs, Raptors VIP seats  The Globe and Mail",
+    "published date": "Thu, 26 Nov 2026 23:53:09 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWGJtR2swakhUS21fQjBnYTVQbWhTQzNiLURCRTZqSTVyT1g3cXFwdnAwUkswN2FWSTlBZDJYbUhNSURjZXpndnlOSzlRTEJFZ01qenpoVHFKX1hUODU5ZEY1WFc0ZDNzVXZTNGNMUVdzbE9hd0dPZ01zSXdOMElJOURBbmtxQmlYYnl2dUlSU01LRUhNVmR4dm9aYjJsNTZOYU9xODJhNkJvZ3lySGF2X2F0eXdOa3Z1MnB3?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.theglobeandmail.com",
       "title": "The Globe and Mail"
-    }
-  },
-  {
-    "title": "Hundreds of Flights Canceled, Thousands Delayed Amid Thanksgiving Travel Chaos - TMZ",
-    "description": "Hundreds of Flights Canceled, Thousands Delayed Amid Thanksgiving Travel Chaos  TMZMore than 1,000 flights cancelled or delayed in US as weather disrupts Thanksgiving travel  BBCStorms disrupt Thanksgiving with flight delays, cancellations, and power outages across the US  Business InsiderHundreds of flights cancelled as storm disrupts US on Thanksgiving  The Times of India",
-    "published date": "Thu, 26 Nov 2026 16:21:45 GMT",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbTlzYmpidHBfVVE5R2RZT0s3YnkwV0J2WDRtSG5ORVFJYWlMQl9yZUx6MUEwNEtVaERkd05IbFAxV2tCVjRNTnJtQks4Q3N2ZVJ6U2gxazJ0djJnZXljUmgyd0gzcVZoV1BDcHE3dnVqTFIxb1lOS21oNjV2RkFfbHZ4dUFkc3hGRE00VFFHTklGdFd0NFE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.tmz.com",
-      "title": "TMZ"
-    }
-  },
-  {
-    "title": "US billionaire, government agency ink deal to acquire sanctioned Russian oil giant Lukoil's global assets - The Kyiv Independent",
-    "description": "US billionaire, government agency ink deal to acquire sanctioned Russian oil giant Lukoil's global assets  The Kyiv IndependentEXCLUSIVE: Billionaire Boehly signs US-backed share swap deal to buy Lukoil global assets  ReutersLukoil to Sell Foreign Assets, but Not to Kushner and Witkoff Associates  The New York TimesDodgers Owner Todd Boehly Clinches Deal for Overseas Assets of Russia’s Lukoil  WSJRussian oil firm Lukoil’s overseas assets sold to investors led by US billionaire Todd Boehly  CNN",
-    "published date": "Thu, 26 Nov 2026 01:06:49 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU2NGLXhPTVJ3MEVFX0hHdEZzM2JsYkV2bWMydFExSzNFbnZBU0o4RlZtRG1nLWo0cl9fXzl2Vi0waXgxdEd1U2xCUUc0RjhDLWk3aTBtZkRZSHZjdm1PS1AzczFGbHNqcmtPcWNvZTR2Tzd0cUd5RFlLX0d2X3d4YWo0dThDSGdkcXA3VGxyVWozLTB1UHBUcmJyempOVGpHXzdTV0lzTUtNaU5QTHdLU0FEYkVBV1FQc0hGQXJfQWhhSzQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://kyivindependent.com",
-      "title": "The Kyiv Independent"
     }
   },
   {
@@ -590,113 +650,53 @@
     }
   },
   {
-    "title": "Grocery prices haven’t yet seen a big hit from pricey oil – that’s about to change - The Globe and Mail",
-    "description": "Grocery prices haven’t yet seen a big hit from pricey oil – that’s about to change  The Globe and MailOpinion: Rising food prices only half the problem for the grocery sector  Winnipeg Free Press",
-    "published date": "Thu, 26 Nov 2026 11:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYVY2U3lLUG5QMTQyb09USFQxamxlZTR6a3VGLVRUMzM5djFTR3lBcG9GTU5Ec3Y3TXRVVlQ4QnhmV1BwcDI2eEI0TnhoZWZmNC1RbXBLVUQwWW9NVDhZZ0xIWGNEUDBTRFdERnpES3JTNDZxM0xpTG9WUDFPcGl3VkNZTU9vdFV6M1BGNUFHVXdyYXhWYlg3RDZZbngwTlczOTZNbUlpYV9Fc0lnNjlLR1BlSzd5al9XbXREMFNFN0NDZTdwc0hVVi1MaEtVbHVIV1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Alimentation Couche-Tard evaluating Canadian pricing, plans to reduce promotions - Castanet",
+    "description": "Alimentation Couche-Tard evaluating Canadian pricing, plans to reduce promotions  CastanetSee more headlines & perspectives on Google News",
+    "published date": "Wed, 25 Nov 2026 16:36:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOXMzeVUtY2JJUkd3X3lOenFKY2J4VmFNY2ptLVpkeVJrMjhCUGtSRnVySy1kM0dNajFad0YwRXlLbmhRSEJxbnNkWTVlRjhYeE5TOExueGNuVTRKUTJENi0wZlZVaFIwSUxYTTZhc04xRFlTWnQ3dWk4OXFiQmsyYVh1a3h6czc0X3hjdnZReFk4bVo1YU1pZkdTTTExWGlTYWt1UHNMUkJOOUpmbENvTHFaUUFJYXVySkhDRmdHczFlcDQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
-      "href": "https://www.theglobeandmail.com",
-      "title": "The Globe and Mail"
+      "href": "https://www.castanet.net",
+      "title": "Castanet"
     }
   },
   {
-    "title": "Oil Inventories Continue to Rise in the US - Crude Oil Prices Today | OilPrice.com",
-    "description": "Oil Inventories Continue to Rise in the US  Crude Oil Prices Today | OilPrice.comUS Crude Oil Inventories Inches Up as Gasoline Holds Steady  Crude Oil Prices Today | OilPrice.comU.S. Crude Oil Stockpiles Rise for Third Straight Week  WSJUS crude and fuel inventories rise, EIA says  BOE Report",
-    "published date": "Wed, 25 Nov 2026 15:42:56 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbHFNTFZ2N0o5OHlCbVpQWUdpMzhub0lOeFpDZ3hzYzZrWGdZc1RFcEluVC1zaDUxOVJ3WVJOZ0ZLMjJQS3JMY2FoWmFka3FvSXZOOWl0dnFBZ1hRNEEwR2lxWnVEdHlzWVJXY3FUQ0locmlsb2pra3VVVGN4dlFNbktFd0NxRVhhaUxObFBR0gGTAUFVX3lxTE9WY3h5NlVGakNaRkRPbGVqQVlSbHJNZGVyZTZQcHJpOUlrd0ZnUVZVSTRiMlpabUI2ZmRKMUxHN1hRa3VydG9ZQVJIVExaazdQRUsyMXdLRUZoRTB3M0xWMXBMbTRrbnVnWUhzRFBqSG9Sekx1WFNNQjBzRTg0NEhuOHIxaTZyRzFZYW44SHdqV1Mwbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Enbridge Eyes $1 Billion Pipeline Deal With Indigenous Communities - Crude Oil Prices Today | OilPrice.com",
+    "description": "Enbridge Eyes $1 Billion Pipeline Deal With Indigenous Communities  Crude Oil Prices Today | OilPrice.comEnbridge in talks to sell $1.5-billion pipeline stake to coalition of Indigenous communities  The Globe and MailCanada’s Enbridge weighs $1.5 billion sale of Line 3 stake to Indigenous groups, The Globe and Mail reports  BOE Report",
+    "published date": "Thu, 26 Nov 2026 06:45:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWWw0aHMyT0FKTGg5SUFVNnNUOGg2eDdCbF9Ldkt5ZFNJY2NfS1FiZGt0QVZmeVhpejF4ZkVSNjhHUENtWGxTeXdKeFZPMzUxU2hlRUloaWtNMUh2cWs2X2RxZEZoQzUxRWZWa05QSDhncWZqZlpJMUdYc1RSWjRPbnpfSXUxSHJtNHVNYXpCTXo3RTdlcDRLS210ME5fM0ZwS00xNU83bUxMdkx5N1BSaENnVFMzd2F6R0gxSW5B0gHDAUFVX3lxTE1tRkxibjZ6VWdIUlBKUDVNcEIxSURGQ1gxaTM5NE5NcDBVRG9Hc2RicXlENUQ3N3VjRGRRbzA0MlZobjVqUlVJRWdPaUh0SDZtM2RUeG9zb3BwOWROVDU4TXFvRkFCTU1uYlRLNTZYSF9wWXd3SE93eWZzOXVPRXhUWndValY2UTBZLThuNzBTcnpXaUc2VTRJUzhjRWlmR1pDel9mal9KNmN2ejlVUDd5UlFlbVk4TXZEbTlXbkFvaGxNZw?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://oilprice.com",
       "title": "Crude Oil Prices Today | OilPrice.com"
     }
   },
   {
-    "title": "Border services found drugs in a bag with her name on it. Instead of arresting her, she says they told her to protect herself - CTV News",
-    "description": "Border services found drugs in a bag with her name on it. Instead of arresting her, she says they told her to protect herself  CTV News‘Just horrific’: Canadian alleged bag tag switch victims trapped in New Zealand for 14 months  CTV NewsFresh off vacation, border services told her to come to the station. Her luggage tag was attached to a bag of drugs.  CTV News",
-    "published date": "Thu, 26 Nov 2026 10:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU19iUVhWVkd0c0hEdDBMODd6Wkk4VVloZjlOcGF6YmNWWVRpUVM1dlBmQnpHTkFJOU1vQW1QUEQ4emNNMTR1b1Vub2FHbktleDZ2OWxBcWczR1VNb2VTZUZwUzZTaUoxYWJ4SUlybmU0bEVvN010ejZ2UWhnR3IxYXh2cG96amEzbTFqVHJieXFLS1l3MkhiNTRjZGJ4WFdaVnlFeGtSY0VjZC1TcHFIQmF6VzBLbGJuRkJHMnp0S19VNGVzQjJNVzI3MkhGWlVfNE8xSXRTVWRvNHd1aUM2X1FJTVptYzZkYmQzQU9xTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "B.C. court rules against supplement makers in class action over false labelling - CTV News",
+    "description": "B.C. court rules against supplement makers in class action over false labelling  CTV NewsSee more headlines & perspectives on Google News",
+    "published date": "Wed, 25 Nov 2026 23:10:03 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbnpkV3puRlQwanNrRWdkaW53cXh2NlVVRUdfejJFWmhuYi0ySlJldERlSXpUUUMzZUs3aC1aa2hCMk4tcXlpNGlYUUQzS2NyVTgyc3EyY0czWEd5amtJRkItaXFtQXFiOWVwcWwzWVBwczJJQkc4b2FyWktkWUl2VlRZUWlKaHdlOW1BR2dMTllQUThrRzV1QWxIcThZbFQzeE1FcjZKRl9IMklNaklxTmVFVi1TYVJDM1JV?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.ctvnews.ca",
       "title": "CTV News"
     }
   },
   {
-    "title": "Industry doubtful as Manitoba aims to ban AI use in real estate - The Globe and Mail",
-    "description": "Industry doubtful as Manitoba aims to ban AI use in real estate  The Globe and MailAI-modified home listings are everywhere. What buyers need to know.  CTV NewsOpinion: AI realty ads not our most pressing issue  Winnipeg Free Press",
-    "published date": "Wed, 25 Nov 2026 13:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT0J5NE9adEtvZlhWVEVKX2huVFA2bVNiUktQcjM1d2FUSWZQTDlhN2xJWXFXMEVMV2dORzdFQkhwRDEyaGFNUFk0dUNyWHh3SzkwY0lYX1Roekp3NmtlWEw1M1RMeFFtVUFPOHZRUGlxc1JuRGtkRGpvYXREdkgxNjgwS01wU2FKRm1WdENGNDROc3pEWjFHT0tXYmdYbFlyaXF3RUlpUWgyWFYzVXgtNHJuM3BoWTA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "North Vancouver’s Shipyards skating rink opens Friday - North Shore News",
+    "description": "North Vancouver’s Shipyards skating rink opens Friday  North Shore News",
+    "published date": "Thu, 26 Nov 2026 13:51:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVWdQUldlcXJqa1ZLWnJlaEduekpPM0JTX01Nd2k4RnpVQU0zaWxUNUE4REhlSFZxQmNPTVc0bTU5cWdvU01kejdSYVpwcGpielBfejEzRTdoTTZ6dWxqMGlobWxWRGE4eHhVcVBIRWZMZmdLdlcwREVYWWkxYzZnR1lFM3FETnBVaVY2QnJoM2JFVWhPVU5HMWp4SQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "publisher": {
+      "href": "https://www.nsnews.com",
+      "title": "North Shore News"
+    }
+  },
+  {
+    "title": "Jensen Huang survived his scandal, but China’s remote access to Nvidia chips didn’t - The Globe and Mail",
+    "description": "Jensen Huang survived his scandal, but China’s remote access to Nvidia chips didn’t  The Globe and MailExplainer-How China got access to Nvidia's AI chips despite rules to stop them  Yahoo Finance2 California companies are buying Nvidia's most advanced chips. Those companies are actually Chinese-owned, a CBS News investigation reveals.  CBS NewsOpen Questions | Laila Khawaja on how the Jensen Huang saga resets the US-China tech rivalry  South China Morning PostCutting-edge Nvidia chips not hard to find for sale in China, despite U.S. ban  The Washington Post",
+    "published date": "Thu, 26 Nov 2026 16:11:52 GMT",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb1VGSHB5cFRGRlU5ZnVpNHY3a2FEdkl6YzUwUzl3WU1JNG1jREVJamdMWFVrRElwc3B4WkZNZVhLbDByZi1nenNvVnF0MThsYnROaGZ6NDRET0xPM1h1ZTdqV0k4RHZqNDQ2dHNSRlh5R1dqN09OdHJDX1BxS3IzWndjTjk0S21vbU92S2NFS20xdk8wWmpNa0hvUGFjeG5fdE96VC1GVHA4RFhpQVBpRy1lRnFnQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
     "publisher": {
       "href": "https://www.theglobeandmail.com",
       "title": "The Globe and Mail"
-    }
-  },
-  {
-    "title": "Vance says Blanche assured him Huang ‘under no investigation’ - The Hill",
-    "description": "Vance says Blanche assured him Huang ‘under no investigation’  The HillVance says he was told Huang was not under investigation  CNNVance says Jensen Huang doesn’t need pardon after Trump says ‘it’s an option’  The GuardianVance says Nvidia’s CEO Jensen Huang ‘doesn’t need a pardon’  NBC NewsEXCLUSIVE: US officials divided over Chinese spying allegations following Jensen Huang's return  Reuters",
-    "published date": "Wed, 25 Nov 2026 19:47:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeHR1anlHcGRPWGE3REQzMEZJSXV0cVZsWFhGYXVPVkZOUEhxZEJfVHROWWdwODZKd3hRWXNiMFhrRnpFT2lYbU0yR0RrT20xbldlNFZRUlF5QXVnZzhuMk1xSEhzWUIwbUJpc0N2S05MdndnTzlrS25LMkthOEp4SmMwXzI4TGNQOEtkRzRR0gGTAUFVX3lxTE9LZ3g1U3BhUFg3U1J2VVpSZ0Vuc25mSTdYNVRkZXhSSEI4U0lVVmpId3RWcWMyeXBENjBqejZOd3M1YTF6MUR4SzFTbDZDeW9WbnJxOVJDbjdoSUZjU0c0Y1hHQlRRZkVET0VJR2RMbTV0bUk1aWxtNUNISkpUdlRWbERlcmJ5dE9qSGc0MmN3cktLNA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://thehill.com",
-      "title": "The Hill"
-    }
-  },
-  {
-    "title": "AI stock rout deepens, with Anthropic hitting $74 - The Globe and Mail",
-    "description": "AI stock rout deepens, with Anthropic hitting $74  The Globe and MailWorse Than the Dot-Com Crash: What an AI Bust Could Mean for the Economy  WSJNvidia is crucial to the economy. An AI wipeout could unleash unexpected consequences  CNNHow much more air can come out of the AI trade?  The EconomistThe AI Trade Has a ‘Turkey Problem’  Bloomberg.com",
-    "published date": "Wed, 25 Nov 2026 13:07:08 GMT",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaUJGdDhuLWlUSEFRY19iQ1RRQWYxQXctMXk3cHQtRXR6Q0xtc2puTlBXTnluUkFXckVCQk9sYm5zRUZxVTZMUHVnQ1MzWHp2MmtLZ3pRQmhJeEppNlhKLTJYdFFtVS1fQ0dQUkdFNmZVa3BjUlVjNmEwQS1QM1UxM1JHekl1VERldHY0YjBXZkVNdWlCeS1MemIyNUNpMWJ1OGNtN2ktUXlQTEdHSWdB?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.theglobeandmail.com",
-      "title": "The Globe and Mail"
-    }
-  },
-  {
-    "title": "Can AI chatbots really help shoppers find the best deals? - CBC",
-    "description": "Can AI chatbots really help shoppers find the best deals?  CBCHere Comes Santa Claude  The AtlanticShoppers Are Bringing AI Into Stores — and Workers Aren’t Impressed  Bloomberg.comWhat to know before using AI agents for Black Friday shopping  NPRHow U.S. brands are paring Black Friday deals with help from AI tools  The Globe and Mail",
-    "published date": "Wed, 25 Nov 2026 11:17:09 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ1FhQ1hQZlNtRUJtTzY4VXBkY1lQT1ZPa1lya1V4QVNNbjZpVGhBVFhoNnpkb2x4M1FNUWpmOFlfN3JETG9wa3BPSEF0bHhoUU9zMkxpc0xzcU5ZZFNlXzRUUFFRbDNicjBQM0RnTTVkZFRhLURpRHlvN0pRZkZCZU9SX3YtOHI0THUw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cbc.ca",
-      "title": "CBC"
-    }
-  },
-  {
-    "title": "Labor Shortages Could Derail Canada's Oil and Gas Growth Momentum - Crude Oil Prices Today | OilPrice.com",
-    "description": "Labor Shortages Could Derail Canada's Oil and Gas Growth Momentum  Crude Oil Prices Today | OilPrice.comSee more headlines & perspectives on Google News",
-    "published date": "Thu, 26 Nov 2026 01:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUDVyZDAtQzRCYnNGbmJvdHBtbUxuLUhfQ0VKb1BiQjZzU29lUnF2eFU0SWRPR05BcVlqOXZ5SVFfS3hObjNWOW5SQUNYQ1ZadXVBTGh2c01GTlRtTm1SOUQ3V09uM3A3RG5sdWVScEYxRV9xQmUwdzNRczV2ZTVDd01zRjJzM0tzSGc0d2FDS05yaXQ5cUt2YVRqcWZiMVRQaEZ2aThDTlhSazFVTUk3U09R0gG3AUFVX3lxTE55NHZhcTRjdWFtZXBqSnl1bl9hNDhpYWtWZWQ3bk92ZzcwTk5famN1SFpHdHY5R0JPSUpaTzdvQUdFd1QyWUpkWmNRR0xJOUoybXlha09GVUNIMUZxY2ZDQl82SU9QS0hwVWNjOHZZaUpBRnY1TXhvWF9RMjYzMVFmYTFLYUdaUEFfdTBCMzJFWEJjc09IZFp4YnVkdC1wMTQtV2JZeUhpb2FMZnpxQTl2QVFWSUhFNA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://oilprice.com",
-      "title": "Crude Oil Prices Today | OilPrice.com"
-    }
-  },
-  {
-    "title": "New short-haul flight service between Niagara and Toronto sees surge in demand - CP24",
-    "description": "New short-haul flight service between Niagara and Toronto sees surge in demand  CP24New flights connect Kitchener-Waterloo with Niagara, Toronto and Sarnia  The RecordA new Toronto–Niagara flight now departs five days a week  Toronto LifeAspen Air service gets you between Niagara and Toronto in 11 minutes. It's now 5 days a week  CBCExtremely short flights between Toronto and Niagara have been expanded  insauga.com",
-    "published date": "Wed, 25 Nov 2026 12:34:06 GMT",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdVd1THhPRzhSSEtZZUxUdXBLQVROSXpJNVlEU2h2WV90ZF9zQUdCNFZTQW0wUTN2TGJHMy1JazNOUHo0b0dFVXQycDVlSG1JVU13RVlSRU9JczdfeUJkVDRGbTlyaXRQelVTVWFmdGRaOFQtaUVWWTR3ZmJSZWJXR1RZNTJ2cF8tel9nUmhlX3hxR1Q4am4zTWVPRmxUalI1T0x5UGxJaGZBT1p4Z1pkQ003OHdzSHc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.cp24.com",
-      "title": "CP24"
-    }
-  },
-  {
-    "title": "EXCLUSIVE: Nearly 7,000 Canadian airport workers with criminal records have been granted security clearance - CTV News",
-    "description": "EXCLUSIVE: Nearly 7,000 Canadian airport workers with criminal records have been granted security clearance  CTV NewsSee more headlines & perspectives on Google News",
-    "published date": "Wed, 25 Nov 2026 10:00:00 GMT",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRi1SUjhuUVBJalVFQUZOQ05GUFdjTmVqa09DTjA4b2Y0VE5ZeE5OTUg0dzVRa0JxcDk2ekRzYXRsVVRlMkNTdGE2b0hWZVlHVG9lczZOV2tUZVpCcW4zc2p4RkJDazhfZDdLQWVMOUdMWVN2SkFGVF9QbHVDbXFYQ1E5UHVFOVhsNUl0ZV9fMEwyT1BLTXRJWkUtQ1V0OWRJRFZ5RTcxUEY5VVVOZnl4MklWUUtBSWZtSzkwUi1ZT3Y?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.ctvnews.ca",
-      "title": "CTV News"
-    }
-  },
-  {
-    "title": "BREMNER, Joanne Julia - SooToday.com",
-    "description": "BREMNER, Joanne Julia  SooToday.com",
-    "published date": "Wed, 25 Nov 2026 21:26:18 GMT",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HeTR4M3lka2VlY0U1VzN5b3RtV1kwbTFLb21Ya2pTVGZaMGJ2TERTSWUybWdEZFd3ckxvS0J3bkNUNU9JakdDSWl3cmpvcWN2N2dCV2dJQ1phdlQxNG1qZ2JCSk1Nb0pDb0RsOE5nSFQxeVk?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "publisher": {
-      "href": "https://www.sootoday.com",
-      "title": "SooToday.com"
     }
   }
 ]
